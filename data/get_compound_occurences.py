@@ -15,6 +15,7 @@ repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals
 data_path = os.path.join(repo_path, 'data')
 compound_occurence_path = os.path.join(data_path, 'compound_occurrences')
 _temp_path = os.path.join(compound_occurence_path, 'temp')
+model_data_path = os.path.join(compound_occurence_path, 'model_data')
 
 # Might be best to do per family
 family_pkl_file = os.path.join(data_path, 'families.pkl')
@@ -87,6 +88,8 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
 
     wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
 
+    wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name','example_compound_name', 'refDOI'], keep='first')
+
     all_taxa = get_all_taxa(version=WCVP_VERSION)
     ipni_matches = get_accepted_wcvp_info_from_ipni_ids_in_column(wikidata_results,
                                                                   'wikidata_ipniID',
@@ -141,8 +144,33 @@ def tidy_outputs():
 
     tidy_final_output(all_family_compounds, plantae_compounds_csv)
 
+def get_train_val_test_dois():
+    df = pd.read_csv(plantae_compounds_csv, index_col=0)
+    dois = df['refDOI'].unique().tolist()
+    from sklearn.model_selection import train_test_split
+    validation_dois, test_dois = train_test_split(dois, test_size=0.80, random_state=42)
+
+    assert set(validation_dois).isdisjoint(set(test_dois))
+
+    validation_data = df[df['refDOI'].isin(validation_dois)]
+    test_data = df[df['refDOI'].isin(test_dois)]
+
+    print(f'Validation size: {len(validation_data)}')
+    print(f'Test size: {len(test_data)}')
+    assert len(validation_data) + len(test_data) == len(df)
+    assert len(validation_data)/ len(df) > 0.15
+    assert len(validation_data)/ len(df) < 0.25
+
+    validation_data.to_csv(os.path.join(model_data_path, 'validation_data.csv'))
+    validation_data.describe(include='all').to_csv(os.path.join(model_data_path, 'validation_data_stats.csv'))
+    test_data.to_csv(os.path.join(model_data_path, 'test_data.csv'))
+    test_data.describe(include='all').to_csv(os.path.join(model_data_path, 'test_data_stats.csv'))
+    df.describe(include='all').to_csv(os.path.join(model_data_path, 'all_data_stats.csv'))
+
+
 
 if __name__ == '__main__':
-    get_all_families()
-    get_compounds_for_families()
+    # get_all_families()
+    # get_compounds_for_families()
     tidy_outputs()
+    get_train_val_test_dois()
