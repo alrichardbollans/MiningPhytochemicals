@@ -2,8 +2,8 @@ import os
 import pickle
 
 import pandas as pd
-from phytochempy.compound_properties import simplify_inchi_key, fill_match_ids, standardise_SMILES
-from phytochempy.wikidata_searches import get_wikidata, get_wikidata_id_for_taxon, generate_wikidata_search_query, submit_query, tidy_wikidata_output
+from phytochempy.compound_properties import simplify_inchi_key, fill_match_ids
+from phytochempy.wikidata_searches import get_wikidata_id_for_taxon, generate_wikidata_search_query, submit_query
 from wcvpy.wcvp_download import get_all_taxa, wcvp_columns, wcvp_accepted_columns
 from wcvpy.wcvp_name_matching import get_accepted_wcvp_info_from_ipni_ids_in_column, output_record_col_names, get_accepted_info_from_names_in_column
 
@@ -13,7 +13,7 @@ tracheophyte = 'Q27133'
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
 data_path = os.path.join(repo_path, 'data')
-compound_occurence_path = os.path.join(data_path, 'compound_occurences')
+compound_occurence_path = os.path.join(data_path, 'compound_occurrences')
 _temp_path = os.path.join(compound_occurence_path, 'temp')
 
 # Might be best to do per family
@@ -21,8 +21,28 @@ family_pkl_file = os.path.join(data_path, 'families.pkl')
 
 plantae_compounds_csv = os.path.join(compound_occurence_path, 'wikidata_compounds.csv')
 
-WCVP_VERSION= None
+WCVP_VERSION = None
+
+
 def get_all_families(rerun=False):
+    """
+    Fetches and organizes all families and their associated Wikidata identifiers.
+
+    This function retrieves a list of all unique families from the WCVP taxonomy
+    database. For each family, it generates corresponding Wikidata identifiers,
+    either by re-computing the data or loading it from a pre-existing pickle
+    file, depending on the `rerun` flag. The results are saved back to a pickle
+    file for future use. If a family already exists in the dictionary, it is
+    skipped.
+
+    :param rerun: A flag that determines whether to regenerate all family-Wikidata
+        relationships. If True, the function computes all data from scratch.
+        Otherwise, it attempts to load saved data from a pickle file.
+    :type rerun: bool
+    :return: A dictionary containing family names as keys and their corresponding
+        Wikidata identifier information as values.
+    :rtype: dict
+    """
     if rerun:
         out_dict = {}
     else:
@@ -51,21 +71,21 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
     :return:
     '''
 
-    important_cols = ['organism_name', 'ipniID','structureLabel', 'structure_inchikey','structure_smiles', 'structure_cas', 'chembl_id', 'refDOI']
+    important_cols = ['organism_name', 'ipniID', 'structureLabel', 'structure_inchikey', 'structure_smiles', 'structure_cas', 'chembl_id', 'refDOI']
     wikidata_results = wikidata_results[important_cols]
-    wikidata_results = wikidata_results.dropna(subset=['structureLabel','organism_name', 'refDOI'], how='any')
+    wikidata_results = wikidata_results.dropna(subset=['structureLabel', 'organism_name', 'refDOI'], how='any')
 
-
-    wikidata_results['Source'] = 'WikiData'
     # rename to match other data sources
     wikidata_results = wikidata_results.rename(
         columns={'structureLabel': 'example_compound_name', 'structure_cas': 'CAS ID',
                  'structure_inchikey': 'InChIKey',
-                 'structure_smiles': 'SMILES', 'organism_name': 'wikidata_name_snippet',
+                 'structure_smiles': 'SMILES',
                  'ipniID': 'wikidata_ipniID'})
-    for c_id in ['InChIKey', 'CAS ID']:
+    for c_id in ['InChIKey']:
         wikidata_results = fill_match_ids(wikidata_results, c_id)
     wikidata_results['InChIKey_simp'] = wikidata_results['InChIKey'].apply(simplify_inchi_key)
+
+    wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
 
     all_taxa = get_all_taxa(version=WCVP_VERSION)
     ipni_matches = get_accepted_wcvp_info_from_ipni_ids_in_column(wikidata_results,
@@ -76,36 +96,53 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
 
     ipni_matched = ipni_matches[~ipni_matches[wcvp_columns['wcvp_id']].isna()]
     ipni_matched['matched_by'] = 'ipni_id'
-    name_matched = get_accepted_info_from_names_in_column(unmatched, 'wikidata_name_snippet', wcvp_version=WCVP_VERSION)
+    name_matched = get_accepted_info_from_names_in_column(unmatched, 'organism_name', wcvp_version=WCVP_VERSION)
 
     acc_df = pd.concat([ipni_matched, name_matched])
-    acc_df = acc_df.dropna(subset=wcvp_accepted_columns['name_w_author'])
+
+    acc_df = acc_df[
+        ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'organism_name', wcvp_accepted_columns['name'], wcvp_accepted_columns['name_w_author'],
+         wcvp_accepted_columns['species'], 'refDOI']]
+
+    acc_df = acc_df.dropna(subset=['InChIKey', 'organism_name', wcvp_accepted_columns['name'], 'refDOI'], how='any')
     acc_df = acc_df.sort_values(by=wcvp_accepted_columns['name'])
     acc_df.to_csv(output_csv)
 
+
 def get_compounds_for_families():
+    """
+    Processes families and retrieves associated compounds by executing a query for
+    each family ID. Results are saved as CSV files if they do not already exist
+    in the specified temporary path.
+
+    :raises FileNotFoundError: If the 'family_pkl_file' path does not exist or
+        the file cannot be read.
+    :raises KeyError: If the expected keys are not found in the 'fam_dict'.
+    """
     fam_dict = pickle.load(open(family_pkl_file, 'rb'))
     for family in fam_dict:
         for id in fam_dict[family]:
-            temp_output_csv = os.path.join(_temp_path,f'{family}_{id}.csv')
+            temp_output_csv = os.path.join(_temp_path, f'{family}_{id}.csv')
             if not os.path.exists(temp_output_csv):
                 my_query = generate_wikidata_search_query(id, 1000000)
                 submit_query(my_query, temp_output_csv, 1000000)
             else:
                 print(f'{family} already in path')
+
+
 def tidy_outputs():
     all_family_compounds = pd.DataFrame()
     import glob
-    path = _temp_path+"/*.csv"
+    path = _temp_path + "/*.csv"
     for fname in glob.glob(path):
         # print(fname)
         df = pd.read_csv(fname)
         all_family_compounds = pd.concat([all_family_compounds, df])
 
-
     tidy_final_output(all_family_compounds, plantae_compounds_csv)
 
+
 if __name__ == '__main__':
-    # get_all_families()
+    get_all_families()
     get_compounds_for_families()
     tidy_outputs()

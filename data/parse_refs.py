@@ -16,7 +16,22 @@ fulltext_dir = os.path.join(data_path, 'fulltexts')
 pdf_dir = os.path.join(data_path, 'pdfs')
 
 
-def extract_info(hit):
+def extract_info(hit: dict) -> dict:
+    """
+    Extract specific information from a dictionary and organize it into a new dictionary.
+
+    This function iterates over a set of predefined keys to extract their values from the
+    input dictionary. If the key does not exist in the input dictionary, it skips without
+    throwing an error. Additionally, it attempts to extract a nested value for the language
+    key if present.
+
+    :param hit: The input dictionary containing data to be extracted.
+    :type hit: dict
+    :return: A dictionary containing extracted key-value pairs. If a key is not found in
+             the input dictionary, it is omitted. For the 'language' key, the nested
+             'code' value is extracted if available.
+    :rtype: dict
+    """
     out_dict = defaultdict(None)
     for key in ['id', 'downloadUrl', 'doi', 'fullText', 'sourceFulltextUrls']:
         try:
@@ -30,11 +45,22 @@ def extract_info(hit):
     return out_dict
 
 
-def get_results_for_doi(doi):
+def get_results_for_doi(doi: str) -> list[dict]:
+    """
+    Fetches results associated with a given DOI (Digital Object Identifier) by querying an external API.
+    The function handles rate-limiting scenarios and retries requests if necessary. Results are cached locally
+    for future lookups.
+
+    :param doi: The Digital Object Identifier for which results are to be fetched.
+    :type doi: str
+    :return: A list of dictionaries containing extracted information for the given DOI.
+    :rtype: list[dict]
+    """
+
     if doi in request_dict_info:
         return request_dict_info[doi]
 
-    time.sleep(1)
+    time.sleep(2)
     headers = {"Authorization": "Bearer " + apikey}
 
     response = requests.get(f"{api_endpoint}search/works/?q=doi:{doi}", headers=headers)
@@ -60,11 +86,32 @@ def get_results_for_doi(doi):
         raise HTTPError(f'Error getting results for {doi}. response code: {response.status_code}')
 
 
-def sanitise_doi(doi):
+def sanitise_doi(doi: str) -> str:
+    """
+    Sanitises a given DOI (Digital Object Identifier) by replacing forward slashes
+    ('/') with underscores ('_'). This ensures the DOI is formatted in a way
+    suitable for systems or scenarios where forward slashes may be problematic.
+
+    :param doi: A digital object identifier (DOI) string that may contain forward
+        slashes ('/').
+    :type doi: str
+    :return: A modified version of the DOI, where all forward slashes are replaced
+        with underscores.
+    :rtype: str
+    """
     return doi.replace('/', '_')
 
 
-def build_text_data(dois):
+def build_text_data(dois: list[str]) -> None:
+    """
+    Processes a list of Digital Object Identifiers (DOIs) to retrieve full text data
+    and saves them to text files. Skips DOIs for which the corresponding text file
+    already exists. Utilizes the largest retrieved full text when multiple are available.
+
+    :param dois: A list of DOIs to process
+    :type dois: list[str]
+    :return: None
+    """
     for i in tqdm(range(len(dois))):
         doi = dois[i]
         text_out_file = os.path.join(fulltext_dir, sanitise_doi(doi) + '.txt')
@@ -85,7 +132,18 @@ def build_text_data(dois):
                 print(f'Error: {e}')
 
 
-def build_pdf_data(dois):
+def build_pdf_data(dois: list[str]) -> None:
+    """
+    Processes a list of DOIs to fetch and save PDF files associated with each DOI. The function checks if the
+    PDF file for the DOI already exists, skips the download if so, or attempts to retrieve and save the PDF
+    from a specified URL if available. Errors encountered during the fetch attempt are handled and printed.
+
+    :param dois: A list of DOIs for which PDF files need to be fetched.
+    :type dois: list[str]
+    :return: This function does not return any value, but writes PDF files to the specified directory
+        if fetched successfully.
+    :rtype: None
+    """
     for i in tqdm(range(len(dois))):
         doi = dois[i]
         pdf_out_file = os.path.join(pdf_dir, sanitise_doi(doi) + '.pdf')
