@@ -2,6 +2,7 @@ import os
 import pickle
 import time
 from collections import defaultdict
+from urllib.parse import quote
 
 import pandas as pd
 import requests
@@ -62,11 +63,14 @@ def get_results_for_doi(doi: str) -> list[dict]:
     # else:
     #     raise HTTPError(f'Error getting results for {doi}')
 
-
     time.sleep(2)
     headers = {"Authorization": "Bearer " + apikey}
 
-    response = requests.get(f"{api_endpoint}search/works/?q=doi:{doi}", headers=headers)
+    params = {
+        'query': f'doi:"{doi}"',
+    }
+    response = requests.get(f"{api_endpoint}search/works", headers=headers, params=params)
+
     if not response.status_code == 200:
         # retry
         time.sleep(6)  # Rate limiting
@@ -119,8 +123,8 @@ def build_text_data(dois: list[str]) -> None:
         doi = dois[i]
         text_out_file = os.path.join(fulltext_dir, sanitise_doi(doi) + '.txt')
         if not os.path.exists(text_out_file):
-        #     print(f'Skipping {doi} as it already exists')
-        # else:
+            #     print(f'Skipping {doi} as it already exists')
+            # else:
             # print(f'Getting {doi}')
             try:
                 r = get_results_for_doi(doi)
@@ -171,7 +175,6 @@ def main():
     dois = compounds['refDOI'].unique().tolist()
     assert len(dois) == len(set([sanitise_doi(c) for c in dois]))
     build_text_data(dois)
-    # build_pdf_data(dois)
 
 
 if __name__ == '__main__':
