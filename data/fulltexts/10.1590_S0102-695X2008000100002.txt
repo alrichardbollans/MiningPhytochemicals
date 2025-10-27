@@ -1,0 +1,410 @@
+1A
+rti
+go
+ISSN 0102-695X
+Revista Brasileira de Farmacognosia
+Brazilian Journal of Pharmacognosy
+18(1): 1-5, Jan./Mar. 2008
+* E-mail: s.sarker@ulster.ac.uk, Tel. +44 (0)28 7032 4302
+Received 11 December 2007; Accepted 15 February 2008
+Coumarins from the aerial parts of Prangos uloptera (Apiaceae)
+Seyed Mehdi Razavi,1 Hossein Nazemiyeh,2 Rogayeh Hajiboland,1 Yashodharan 
+Kumarasamy,3 Abbas Delazar,4 Lutfun Nahar,5 Satyajit D. Sarker*,5
+1Department of Plant Sciences, Faculty of Natural Science, Tabriz University, Tabriz, Iran,
+2Research Center for Pharmaceutical Nanotechnology, Faculty of Pharmacy, Tabriz University of 
+Medical Sciences, Tabriz, Iran,
+3School of Pharmacy, The Robert Gordon University, Schoolhill, Aberdeen, Scotland, UK,
+4Faculty of Pharmacy and Drug Applied Research Center, Tabriz University of Medical Sciences, Tabriz, Iran,
+5School of Biomedical Sciences, University of Ulster, Cromore Road, Coleraine BT52 1SA, Co. Londonderry, 
+Northern Ireland, UK
+RESUMO: “Cumarinas das partes aéreas de Prangos uloptera (Apiaceae)”. Os estudos 
+fi toquímicos das partes aéreas de Prangos uloptera, uma espécie do gênero Prangos endêmica 
+do Irã, forneceram cinco cumarinas, xantotoxina (1), prangenina (2), escopoletina (3), deltoína 
+(4) e prangolarina (5). As estruturas destas cumarinas foram elucidas através de métodos 
+espectroscópicos e o potencial antioxidante de 1-5 foi avaliado pelo ensaio de DPPH. O 
+signifi cado quimiotaxonômico de 1-5 também é discutido.
+Unitermos: Prangos uloptera, Apiaceae, Umbelliferae, cumarina, furanocumarina, marmesina, 
+antioxidante, quimiotaxonomia.
+ABSTRACT: Phytochemical studies on the aerial parts of Prangos uloptera, an endemic 
+Iranian species of the genus Prangos, yielded fi ve coumarins, xanthotoxin (1), prangenin (2), 
+scopoletin (3), deltoin (4) and prangolarin (5). The structures of these coumarins were elucidated 
+by spectroscopic means, and the antioxidant potential of 1-5 was evaluated by the DPPH assay.  
+The chemotaxonomic signifi cance of 1-5 is also discussed.
+Keywords: Prangos uloptera, Apiaceae, Umbelliferae, coumarin, furanocoumarin, marmesin, 
+antioxidant, chemotaxonomy.
+INTRODUCTION
+Prangos uloptera DC. (family: Apiaceae alt.
+Umbelliferae) is an endemic Iranian species of the 
+genus Prangos that comprises ca. 30 species of 
+perennial herbs, distributed in the Mediterranean region, 
+Caucasia, Central Asia, Turkey, Iraq and Iran (Evans, 
+1989; Mazloomifar et al., 2004; GRIN Databases, 
+2008). Prangos species, commonly known as ‘Djashir’ 
+in Iran, are widely used in folk medicine as tonic, and for 
+the treatment of fl atulence, haemorrhoids, wounds and 
+leukoplakia (Dokonic et al., 2004; Yasuhiro et al., 2001). 
+Previous phytochemical investigations on the fruits and 
+roots of P. uloptera revealed the presence of various 
+coumarins, monoterpenes and sesquiterpenes (Abyshev 
+and Denisenko, 1970, 1973; Sefi dkon and Navaii, 2001; 
+Mazloomifar et al., 2004). The essential oils obtained 
+from the umbels of this species have recently been shown 
+to contain various terpenoidal compounds (Nazemieyh 
+et al., 2007). As part of our on-going phytochemical and 
+bioactivity studies on Iranian medicinal plants, we now 
+report on the isolation, identifi cation and antioxidant 
+properties of fi ve coumarins from the aerial parts of P. 
+uloptera.
+MATERIAL AND METHODS
+General procedures
+UV spectra were obtained in MeOH using a 
+Hewlett-Packard 8453 UV-Vis spectrometer (Agilent, 
+Germany). Optical rotations were measured on a 
+Bellingham Stanley ADP220 polarimeter. CIMS 
+(Chemical Ionisation Mass Spectrometry) analyses 
+were performed in EPSRC Central Mass Spectroscopy 
+Facility in Swansea, UK, on a Micromass Quattro II 
+triple quadrupole instrument (Waters, UK) in chemical 
+desorption mode using ammonia as CI gas. Mass 
+accuracy was within 0.4 Da. CI source temperature was 
+170 oC and electron energy was 59 eV. NMR spectra 
+were recorded in CDCl3 on a Varian Unity INOVA 
+400 MHz NMR Spectrometer 400 (400 MHz for 1H
+2Seyed Mehdi Razavi, Hossein Nazemiyeh, Rogayeh Hajiboland, et al.
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+18(1): Jan./Mar. 2008
+and 100 MHz for 13C) using the residual solvent peaks 
+as internal standard. Chemical shifts ??  were in ppm. 
+The HMBC (Heteronuclear Multiple Bond Coherence) 
+experiment used J = 9 Hz and had a 55 ms long-range 
+coupling delay. A NOESY experiment was carried out 
+with a mixing time of 0.8 s. Spectra were recorded 
+with a probe temperature of 25 °C. 2,2-Diphenyl-1-
+picrylhydrazyl (molecular formula C18H12N5O6, DPPH) 
+and trolox were purchased from Fluka (UK) and were 
+used without further purifi cation. Precoated aluminium 
+sheets silica gel 60 F254 (0.25 mm thickness) TLC plates 
+(Merck, Germany) were used. TLC mobile phases were 
+n-hexane-ethylacetate (EtOAc) mixtures of various 
+proportions, e.g. 5% EtOAc in n-hexane, 10% EtOAc 
+in n-hexane, etc. Silica 60G was used for vacuum liquid 
+chromatography (VLC).
+Plant material
+The aerial parts of Prangos uloptera DC., were 
+collected in May 2005, from Mishov-Dagh mountain 
+(altitude 2056 m) in the northwest of Iran. A Voucher 
+specimen (No. 1384-1) was deposited in the herbarium 
+of the Department of Plant Sciences, Faculty of Natural 
+Sciences, Tabriz University, Iran, and also in the 
+herbarium of the Plant and Soil Science Department, 
+University of Aberdeen, Scotland (ABD).
+Preparation of plant extracts
+The dried and ground aerial parts of P. uloptera
+(270 g) were Soxhlet-extracted, successively, with 
+n-hexane, dichloromethane and methanol (0.7 L each). 
+The extracts were concentrated by rotary evaporator at 
+45 oC. 
+Isolation and identifi cation of compounds
+The n-hexane extract (2 g) was subjected to 
+vacuum liquid chromatography (VLC) on silica gel, 
+eluting with solvent mixtures of increasing polarity: 
+100% n-hexane, n-hexane-EtOAc, 100% EtOAc and 
+100% MeOH, to yield a number of fractions which 
+upon initial thin layer chromatographic (TLC) analyses 
+were grouped into 16 main fractions. Fractions 14-16 
+(80-100% EtOAc in n-hexane and 100% MeOH) 
+were further analysed by preparative TLC (mobile 
+phase acetone:CHCl3 = 5:95) to afford fi ve coumarins, 
+xanthotoxin (1, 10.1 mg, Rf = 0.5), prangenin (heraclenin, 
+2, 9.3 mg, Rf = 0.55), 6-methoxy-7-hydroxycoumarin 
+(scopoletin, 3, 13.0 mg, Rf = 0.43), marmesin angelate 
+(deltoin, 4, Rf = 0.64, 10.2 mg) and marmesin isovalerate 
+(oxypeucedanin or prangolarin, 5, 9.2 mg, Rf = 0.60). 
+The structures of the isolated compounds 1-5 were 
+elucidated by direct comparison of their UV, specifi c 
+rotation (where applicable), ESIMS, 1H and 13C NMR 
+data with published data, and by comprehensive 1D and 
+2D NMR analyses.
+Antioxidant assay
+2,2-Diphenyl-1-picrylhydrazyl (DPPH), 
+molecular formula C18H12N5O6, was obtained from 
+Fluka Chemie AG, Bucks. Trolox® (6-hydroxy-2,5,7,8-
+tetramethylchroman-2-carboxylic acid) was obtained 
+from Sigma-Aldrich, UK (http://www.sigmaaldrich.
+com/Area_of_Interest/Europe_Home/UK.html). The 
+method used by Takao et al. (1994) was adopted with 
+suitable modifi cations (Kumarasamy et al., 2007). DPPH 
+(8 mg) was dissolved in MeOH (100 mL) to obtain a 
+concentration of 80 ?g/mL.
+Qualitative Analysis: Test samples were applied 
+on a Silica gel TLC plate and sprayed with DPPH 
+solution using an atomiser. It was allowed to develop 
+for 30 min. The colour changes (purple on white) were 
+noted.
+Quantitative Analysis: Serial dilutions were 
+carried out with the stock solutions (1 mg/mL) of the 
+compounds (1-5) to obtain concentrations of 5 x 10-1, 5 
+x 10-2, 5 x 10-3, 5 x 10-4, 5 x 10-5, 5 x 10-6 mg/mL. Diluted 
+solutions (2 mL each) were mixed with DPPH (2 mL) 
+and allowed to stand for 30 min for any reaction to 
+occur. The UV absorbance was recorded at 517 nm. The 
+O O O
+OMe
+3'
+2'
+ 
+1 
+O O O
+O
+O H
+1''
+2''3''
+ 
+2 
+O OOH
+MeO
+ 
+3
+O OO
+RO
+2'
+3'
+4'
+ 
+  4   R =   -COC(CH3)=CHCH3 
+5    R =   -COCH2CH(CH3)2 
+ 
+3Coumarins from the aerial parts of Prangos uloptera (Apiaceae)
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+18(1): Jan./Mar. 2008
+Table 1. 1H (coupling constant J in Hz in parentheses) coumarins 1-5.
+Table 2. 13C NMR data of coumarins 1-5.
+experiment was performed in duplicate and the average 
+absorption was noted for each concentration. The 
+same procedure was followed for the positive control 
+Trolox®. The RC50 value, which is the concentration 
+of the test material that reduces 50% of the free radical 
+concentration, was calculated as mg/mL.
+RESULTS AND DISCUSSION
+Chromatographic analyses of the n-hexane 
+extract of the aerial parts of P. uloptera afforded two 
+furanocoumarins, xanthotoxin (1, Masuda et al., 
+1998) and prangenin (2, Miftakhova et al., 2001), 
+two dihydrofuranocoumarins, deltoin (4, Baba et al., 
+1989) and prangolarin (5, Kapoor et al., 1972; Wei 
+and Ito, 2006), and a simple coumarin, scopoletin (3,
+SDBS Database, 2008). The structures of the isolated 
+coumarins (1-5) were elucidated by direct comparison of 
+Position Chemical shift (δ) in ppm
+1 2 3 4 5 
+3 6.40 d (9.5) 6.32 d (9.8) 6.25 d (9.5) 6.24 d (9.5) 6.24 d (9.5) 
+4 7.78 d (9.5) 8.24 d (9.8) 7.65 d (9.5) 7.60 d (9.5) 7.60 d (9.5) 
+5 7.42 s - 7.44 s 7.24 s 7.24 s 
+6-OMe - - 3.94 s - - 
+8 - 7.19 d (0.5) 6.84 s 6.67 s 6.67 s 
+8-OMe 4.30 s - - - - 
+2’ 7.68 d (2.2) 7.63 d (2.3) - 5.00 t (8.6) 4.98 t (8.6) 
+3’ 6.82 d (2.2) 6.98 d (2.3) - 3.18 dd (15.8, 8.6) 
+3.28 dd (15.8, 8.6) 
+3.14 dd (15.8, 8.6) 
+3.20 dd (15.8, 8.6) 
+4’- 2 x Me - - - 1.50 s 
+1.60 s 
+1.49 s 
+1.59 s 
+1’’ - 4.66 dd (6.4, 4.4) 
+4.46 dd (6.4, 4.4) 
+- - - 
+2’’ - 3.25 d (4.4) - - 2.05 d (7.6) 
+2’’-Me - - - 1.60 s - 
+3’’ - - - 6.46 q (6.4, 13.2) 1.90 m 
+3’’-Me - - - 1.56 d (6.4) - 
+3’’-2 x Me - 1.36 s and 1.43 s - - 0.80 d (6.6) and 0.80 d (6.6) 
+Position Chemical shift (δ) in ppm
+1 2 3 4 5 
+2 161.0 162.4 160.9 161.4 161.3 
+3 114.7 113.6 112.5 112.7 112.6 
+4 144.4 144.9 144.3 143.6 143.6 
+5 113.0 149.0 110.5 123.2 123.2 
+6 126.3 114.6 146.5 124.6 124.6 
+6-OMe - - 58.7 - - 
+7 147.9 158.5 148.4 163.5 163.2 
+8 132.7 95.3 102.3 97.9 97.9 
+9 143.8 152.9 148.6 155.8 155.8 
+10 116.5 107.9 110.8 112.7 112.7 
+8-OMe 61.0 - -   
+2’ 146.7 139.4 - 88.9 88.7 
+3’ 107.2 104.9 - 29.6 29.7 
+4’ - - - 81.9 8.9 
+4’- 2 x Me - - - 22.1 
+21.3 
+21.9 
+21.1 
+1’’ - - 60.0 167.3 172.3 
+2’’ - - 61.5 129.4 44.5 
+2’’-Me - - - 11.8 25.8 
+3’’ -  72.8 137.1 - 
+3’’-Me - - - 14.3 - 
+3’’- 2 x Me   25.0 
+19.4 
+- 22.3 
+4Seyed Mehdi Razavi, Hossein Nazemiyeh, Rogayeh Hajiboland, et al.
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+18(1): Jan./Mar. 2008
+their respective UV, specifi c rotation (where applicable), 
+CIMS, 1H and 13C NMR data with published data, and 
+by comprehensive 1D and 2D NMR analyses. The 
+unambiguous assignment of all 1H and 13C NMR signals 
+for these compounds has been presented in  Tables 1 
+and 2.  
+Although coumarins have previously been 
+reported from the roots and fruits of P. uloptera, to our 
+knowledge, this is the fi rst report on the occurrence 
+of coumarins in the aerial parts of this plant. Also, 
+except xanthotoxin (1) and prangenin (2), none of these 
+coumarins (3-5) have ever been reported from this 
+plant. Xanthotoxin (1) and scopoletin (3) occur in many 
+genera of the family Apiaceae as well as other families, 
+e.g. Rutaceae. The genus Prangos is well-known for 
+producing simple and furanocoumarins with various 
+degrees of oxygenation and prenylations (ISI Database, 
+2008). Within the genus Prangos, prangenin (2) occurs 
+in a number of species, including P. equisetoides 
+(Kuznetsova et al., 1979), P. fedtschenkoii, P. ferulaceae,
+P. hissarica (Combined Chemical Dictionary, 2008; ISI 
+Database, 2008), P. lamellate (Donchul et al., 1979), 
+P. pabularia (Sood et al., 1978; Tada et al., 2002), 
+P. sarawschanica (Combined Chemical Dictionary, 
+2008) and P. uloptera (Abyshev and Denisenko, 1973). 
+However, apart from the genus Prangos, prangenin 
+(2) has also been reported from a few other genera, 
+e.g. Atalantia, Chlamydomonas, Citrus, Eriostemon,
+Halocnemum, Heracleum, Phebalium and Stauranthus,
+(ISI Database, 2008; Combined Chemical Dictionary, 
+2008). The occurrence of deltoin (4) within the genus 
+Prangos is rather restricted mainly to P. uloptera and
+P. fedtschenkoi, but it has been isolated from a few 
+other genera, e.g. Peucedanum, Saposhnikovia, Seseli 
+and Zosima. Marmesin isovalerate (prangolarin or 
+oxypeucedanin, 5) occurs widely in the family Apiaceae, 
+and also in the genera Atalantia, Citrus and Poncirus of 
+the family Rutaceae (Combined Chemical Dictionary, 
+2008). 
+The antioxidant potential of 1-5 was evaluated 
+by the DPPH assay (Kumarasamy et al., 2007). In 
+the qualitative DPPH assay, except 3, all compounds 
+showed extremely low levels of antioxidant activity by 
+displaying faint white spots against a purple background 
+on the TLC plates. In the quantitative DPPH assay, 
+scopoletin (3) was the most active among all compounds, 
+and displayed a signifi cant antioxidant activity with a 
+RC50 value of 2.43 x 10
+-2 (Table 3).
+REFERENCES
+Abyshev AZ, Denisenko PP 1970. Coumarins and 
+furocoumarins from fruits of Prangos uloptera. 
+Khim Prir Soedin (6): 758.
+Abyshev AZ, Denisenko PP 1973. Coumarins composition of 
+Prangos uloptera roots. Khim Prir Soedin (1): 767.
+Baba K, Yoneda Y, Kozawa M, Fujita E, Wang NH, Yuan 
+CQ 1989. Studies on Chinese traditional l medicine 
+‘Fang-Feng’ (II). Comparison of several Fang-
+Feng by coumarins, chromones and polyacetylenes. 
+Shoyakugaku Zasshi 43: 216-221.
+Combined Chemical Dictionary 2008. Chapman & Hall/CRC 
+Press LLC, USA. Available on-line at: http://www.
+chemnetbase.com/
+Dokoric D, Bulatoric VM, Bozic BD, Kataronovski MV, Zrakie 
+TM, Kovacenic N 2004. 3,5-Nonadiyne isolated 
+from the rhizome of Cachrys ferulaceae inhibits 
+endogenous nitric oxide release by rat peritoneal 
+macrophages. Chem Pharm Bull 52: 853-854.
+Donchul TYU, Kuznetsova GA, Sokolova EA, Kuzmina 
+LV 1979. Coumarins from the roots of Prangos 
+lamellate. Khim Prir Soedin (6): 849-850.
+Evans WC 1989. Trease and Evan’s Pharmacognosy, 13th edn. 
+Bailliere Tindall, London.
+GRIN Database  2008. USDA, ARS, National Genetic 
+Resources Program, Germplasm Resources 
+Information Network (GRIN) online database, 
+National Germsplasm Resources Laboratory, 
+Beltsville, Maryland. Available on-line at: http://
+www.ars-gr in .gov/cgi-bin/npgs/html/ taxon.
+pl?29559.
+ISI Database 2008. ISI Web of Knowledge Service for UK 
+Education, supported by MIMAS at The University 
+of Manchester and hosted by Thomson Scientifi c. 
+Available on-line at: http://portal.isiknowledge.com/
+portal.cgi?DestApp=WOS&Func=Frame.
+Kapoor SK, Zaman A, Sharma YN 1972. Extractives of 
+Angelica glauca. Phytochemistry 11: 475.
+Kumarasamy Y, Byres M, Cox PJ, Jaspars M, Nahar L, Sarker 
+SD 2007. Screening seeds of some Scottish plants 
+for free-radical scavenging activity. Phytother Res
+21: 615-621. 
+Kuznetsova GA, Danchul TYU, Medvedev VN, Sokolova 
+EA, Kuzmina LV 1979. Coumarins of the roots 
+undergrounds and fruits of Prangos equisetoides.
+Khim Prir Soedin (6): 850.
+Masuda T, Takasugi M, Anetaki 1998. Psoralen and other 
+linear furanocoumarins as phytoalexins in Glehnia 
+littoralis. Phytochemistry 47: 13-16.
+Mazloomifar H, Bigdeli M, Saber M, Rustaiyan A 2004. 
+Essential oil of Prangos uloptera DC. from Iran. J
+Essent Oil Res 16: 415-416.
+Miftakhova AF, Burasheva GS, Abilov ZA, Ahmad VU, 
+Compounds/Extracts The DPPH assay (RC50 in mg/mL) 
+1 >1.00 
+2 >1.00 
+3 2.43 x 10-2 
+4 3.98 x 10-1 
+5 3.87 x 10-1 
+Trolox  2.60 x 10-3 
+Table 3. Antioxidant activity of the coumarins (1-5)  isolated 
+from P. uloptera.
+5Coumarins from the aerial parts of Prangos uloptera (Apiaceae)
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+18(1): Jan./Mar. 2008
+Zahid M 2001. Coumarins from the aerial part 
+of Halocnemum strobilaceum. Fitoterapia 72:
+319-321.
+Nazemiyeh H, Razavi SM, Delazar A, Hajiboland R, 
+Mozaffarian V, Nahar L, Sarker SD 2007. Essential 
+oil composition of the umbels and fruits of Prangos 
+uloptera DC. Nat Prod Commun 2: 91-93.
+SDBS Database 2008. Spectral Database for Organic 
+Compounds, National Institute of Advanced 
+Industrial Science and Technology (AIST), Japan. 
+Available on-line at: http://www.aist.go.jp/RIODB/
+SDBS/cgi-bin/cre_index.cgi.
+Sefi dkon F, Navaii MN 2001. Chemical composition of the 
+oil of Prangos uloptera DC. J Essent Oil Res 13:
+84-85.
+Sood S, Gupta BD, Banerjee SK, Rao PR 1978. Coumarins 
+from umbels of Prangos pabularia Lind,. J Indian 
+Chem Soc 55: 850-851.
+Tada Y, Shikishima Y, Takaishi Y, Shibata H, Higuti H, Honda 
+G, Ito M, Takeda Y, Kodzimatov L, Ashurmatov 
+O, Ohmoto Y 2002. Coumarins and gamma-pyrone 
+derivatives from Prangos pabularia: antibacterial 
+activity and inhibition of cytokine release. 
+Phytochemistry 59: 649-654.
+Takao T, Watanabe N, Yagi I, Sakata K 1994. A simple 
+screening method for antioxidants and isolation of 
+several antioxidants produced by marine bacteria 
+from fi sh and shellfi sh. Biosci Biotech Bioch 58:
+1780-1783.
+Wei Y, Ito Y 2006. Preparative isolation of imperatorin, 
+oxypeucedanin and isoimperatorin from traditional 
+Chinese herb “bai zhi” Angelica dahurica (Fisch ex 
+Hoffm) Benth. et Hook using multidimensional high-
+speed counter-current chromatography. J Chromatogr 
+A 1115: 112-117.
+Yasuhiro S, Yoshishima T, Gisho H, Michiho I, Yoshio T, 
+Olimjon K, Kodzimator O, Ashurmator O 2001. 
+Terpenoids and gamma pyrone derivatives from 
+Prangos teshiganica. Phytochemistry 57: 135-141.

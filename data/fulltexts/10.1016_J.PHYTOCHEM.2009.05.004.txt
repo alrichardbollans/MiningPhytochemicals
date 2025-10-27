@@ -1,0 +1,713 @@
+u n i ve r s i t y  o f  co pe n h ag e n  
+Københavns Universitet
+Accelerated dereplication of crude extracts using HPLC-PDA-MS-SPE-NMR
+Stærk, Dan; Kesting, Julie Regitze; Sairafianpour, Majid; Witt, Matthias; Asili, Javad; Emami,
+Seyed A.; Jaroszewski, Jerzy W.
+Published in:
+Phytochemistry
+DOI:
+10.1016/j.phytochem.2009.05.004
+Publication date:
+2009
+Document version
+Publisher's PDF, also known as Version of record
+Citation for published version (APA):
+Stærk, D., Kesting, J. R., Sairafianpour, M., Witt, M., Asili, J., Emami, S. A., & Jaroszewski, J. W. (2009).
+Accelerated dereplication of crude extracts using HPLC-PDA-MS-SPE-NMR. Phytochemistry, 70(8), 1055-1061.
+https://doi.org/10.1016/j.phytochem.2009.05.004
+Download date: 02. Feb. 2020
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+Author's personal copy
+Accelerated dereplication of crude extracts using HPLC–PDA–MS–SPE–NMR:
+Quinolinone alkaloids of Haplophyllum acutifolium
+Dan Staerk a,b,*, Julie R. Kesting a, Majid Sairaﬁanpour a, Matthias Witt c, Javad Asili d,
+Seyed A. Emami d, Jerzy W. Jaroszewski a
+aDepartment of Medicinal Chemistry, Faculty of Pharmaceutical Sciences, University of Copenhagen, Universitetsparken 2, DK-2100 Copenhagen, Denmark
+bDepartment of Basic Sciences and Environment, Faculty of Life Sciences, University of Copenhagen, Thorvaldsensvej 40, DK-1871 Frederiksberg, Denmark
+cBruker Daltonik GmbH, Fahrenheitstrasse 4, D-28359 Bremen, Germany
+dDepartment of Pharmacognosy, School of Pharmacy, Mashhad University of Medical Sciences, P.O. Box 91775-1365, Mashhad, Iran
+a r t i c l e i n f o
+Article history:
+Received 9 March 2009
+Received in revised form 15 April 2009
+Available online 18 June 2009
+Keywords:
+Haplophyllum acutifolium
+Haplohpyllum perforatum
+Rutaceae
+HPLC–PDA–MS–SPE–NMR
+Haplacutines A–F
+NMR
+Dereplication
+a b s t r a c t
+Direct hyphenation of analytical-scale high-performance liquid chromatography, photo-diode array
+detection, mass spectrometry, solid-phase extraction and nuclear magnetic resonance spectroscopy
+(HPLC–PDA–MS–SPE–NMR) has been used for accelerated dereplication of crude extract of Haplophyllum
+acutifolium (syn. Haplophyllum perforatum). This technique allowed fast on-line identiﬁcation of six quin-
+olinone alkaloids, named haplacutine A–F, as well as of acutine, haplamine, eudesmine, and 2-nonylquin-
+olin-4(1H)-one. Acutine and haplacutine E, isolated by preparative-scale HPLC, showed moderate
+antiplasmodial activity with IC50 values of 2.17 ± 0.22 lM and 3.79 ± 0.24 lM, respectively (chloro-
+quine-sensitive Plasmodium falciparum 3D7 strain).
+ 2009 Elsevier Ltd. All rights reserved.
+1. Introduction
+Selecting the strategy for isolation of constituents from plant
+extracts and other natural sources is of utmost importance with re-
+spect to the outcome as well as time and efforts spent on discovery
+of pharmacologically active natural products. Prior to preparative-
+scale isolation, it is convenient to gain as much knowledge as pos-
+sible about chemical entities present, both in order to make qual-
+iﬁed decisions about worthwhileness of isolation of a particular
+constituent, and to choose optimal isolation methodology.
+Although some information about extract constituents can be ob-
+tained from thin layer chromatography combined with the use of
+compound class-speciﬁc spray reagents, by gas chromatography
+combined with mass spectrometry (MS), and by high-performance
+liquid chromatography (HPLC) combined with photo-diode array
+detection (PDA) or MS, all these techniques suffer from the limited
+structural information they provide as compared to nuclear
+magnetic resonance (NMR) spectroscopic techniques.
+Within recent years, hyphenation of HPLC, PDA, MS, and solid-
+phase extraction (SPE), with NMR spectroscopy (HPLC–PDA–MS–
+SPE–NMR) has emerged as an attractive analytical technique for
+fast and reliable dereplication of crude plant extracts (Jaroszewski,
+2005a,b; Staerk et al., 2006; Sturm and Seger, 2007). This technique
+has been used for identiﬁcation of known compounds as well as for
+rigorous structure elucidation of new natural products directly
+from crude extracts. Examples include sesquiterpene lactones
+(Lambert et al., 2007), quinic acid derivatives (Sprogøe et al.,
+2007), diterpenes and caffeoyl glycosides (Clarkson et al., 2006a,
+2006b), ﬂavonoid glycosides (Clarkson et al., 2005; Exarchou
+et al., 2006; Tatsis et al., 2007), cardenolide glycosides (Clarkson
+et al., 2005), isoﬂavonoids (Lambert et al., 2005a), and alkaloids
+(Bieri et al., 2006; Lee et al., 2007; Sturm et al., 2007). One advan-
+tage of the HPLC–SPE–NMR technique compared to direct HPLC–
+NMR methods (Albert, 2002; Jaroszewski, 2005a) is the possibility
+of linear analyte accumulation by repetitive adsorption on SPE car-
+tridges (Clarkson et al., 2006a; Lambert et al., 2005a, b). Subsequent
+elution of the analytewith a deuterated organic solvent, resulting in
+focusing of the analyte in the detection cell, adds further increase in
+sensitivity of this hyphenated NMR technique (Jaroszewski, 2005b;
+Staerk et al., 2006). Here, we describe application of HPLC–PDA–
+MS–SPE–NMR to fast dereplication of an extract of aerial parts of
+Haplophyllum acutifolium, which showed activity (IC50 < 12 lg/ml)
+in our in vitro Plasmodium falciparum toxicity screening assay.
+Haplophyllum A. Juss. (Rutaceae) is a genus of small ﬂowering
+perennial plants comprising approximately 50 species, distributed
+0031-9422/$ - see front matter  2009 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.phytochem.2009.05.004
+* Corresponding author. Address: Department of Medicinal Chemistry, Faculty of
+Pharmaceutical Sciences, University of Copenhagen, Universitetsparken 2, DK-2100
+Copenhagen, Denmark. Tel.: +45 35332425; fax: +45 35332398.
+E-mail address: dst@life.ku.dk (D. Staerk).
+Phytochemistry 70 (2009) 1055–1061
+Contents lists available at ScienceDirect
+Phytochemistry
+journal homepage: www.elsevier .com/locate /phytochem
+Author's personal copy
+from the Mediterranean parts of Europe and Africa to Eastern parts
+of Siberia. Around 30 of these species are represented in Iran, 14 of
+which are endemic to the country. Haplophyllum is known as a rich
+source of quinoline alkaloids, and several phytochemical investiga-
+tions of different species have been reported in recent years (Mi-
+chael, 2008), including investigations of H. acutifolium collected
+in Turkmenistan (Razzakova et al., 1975, 1986, and references cited
+therein). Extracts of various Haplophyllum species are used in tradi-
+tional medicine as analgesics, antispasmodics, diuretics, and seda-
+tives, as well as topical agents against skin diseases (Nazrullaev
+et al., 2001). Quinolinone alkaloids isolated from Haplophyllum
+and other Rutaceous species have shown estrogenic (Nazrullaev
+et al., 2001), antifungal (Cantrell et al., 2005), antialgal
+(Cheng et al., 2005), antiviral (Cheng et al., 2005), antibacterial
+(Hanawa et al., 2004), and antiparasitic activity (Michael, 2003). In
+spite of the existence of an abundant literature about quinolinone
+alkaloids ofHaplophyllum, dereplication of the extract ofH. acutifoli-
+um using HPLC–PDA–MS–SPE–NMR allowed fast identiﬁcation of
+several previously unknownminor alkaloids present in the plant.
+2. Results and discussion
+HPLC–PDA–MS–SPE–NMR experiments with crude ethyl ace-
+tate extract of aerial parts of H. acutifolium (crude extract A, see
+Section 4) were performed using UV trace at 235 nm for thresh-
+old-based adsorption of constituents on SPE cartridges containing
+poly(divinylbenzene)-based resin (Clarkson et al., 2007). Four or
+six repetitive trappings of material eluted in peaks 1–9 (Fig. 1)
+were performed. The trapped compounds were subsequently
+eluted with CD3CN for acquisition of NMR data. This led to identi-
+ﬁcation of ﬁve new and two already known 4-quinolinone alka-
+loids (1, 2a, 3, 4, 6, 8, and 9) along with a tricyclic hemiterpenoid
+alkaloid haplamine (5) and the lignan 7 as detailed below; the
+identiﬁed structures (Fig. 2) are numbered according to elution
+order of the HPLC peaks (Fig. 1). Parallel HPLC–PDA–MS–SPE–
+NMR experiments with an alkaloid-enriched fraction (fraction III
+from crude extract B, see Section 4) showed the existence of one
+additional, new quinolinone alkaloid (2b) as a minor constituent.
+The constituent eluted as peak 1 (compound 1) was assigned
+the molecular formula C18H21NO2 as determined by off-line HRE-
+SIFTMS. The 1H NMR spectrum acquired in the HPLC–SPE–NMR
+mode showed the presence of a 1,2-disubstituted benzene with a
+characteristic downﬁeld shift of H-5 (d 8.11, J5-6 = 8.0 Hz and
+J5-7 = 1.4 Hz) attributable to a peri-oriented carbonyl group, a
+one-proton singlet of H-3 (d 5.98), and a broad singlet of H-1 (d
+9.55). This information, together with 1H–1H correlations for H-5,
+H-6, H-7, and H-8 found in a COSY spectrum and 13C NMR reso-
+nances identiﬁed in a HSQC spectrum, both acquired in the
+HPLC–SPE–NMR mode, proved the presence of a 2-substituted 4-
+quinolinone moiety. In the COSY spectrum, a spin system corre-
+sponding to a (3Z,5E)-7-hydroxynona-3,5-dien-1-yl moiety was
+observed. The conﬁguration of the two conjugated double bonds
+was determined by analysis of the coupling patterns of H-30 and
+H-40 (H-30: d 5.44, dt, J30-40 = 10.4 Hz, J20-30 = 7.7 Hz; H-40: d 6.03 br
+t, J30-40  J40-50  11.1 Hz) and of H-50 and H-60 (H-50: d 6.45, ddt,
+J50-60 = 15.2 Hz, J40-50 = 11.2 Hz, J50-70 = J30-50 = 1.2 Hz; H-60: d 5.62, dd,
+J50-60 = 15.2 Hz, J60-70 = 6.3 Hz) as Z and E, respectively. The hydroxyl-
+ation of C-70 was established by HSQC correlation of the 13C reso-
+nance at d 73.7 with H-70 (d 3.90), identiﬁed by its COSY
+correlations. Preparative-scale isolation afforded 4 mg of 1, which
+showed no optical rotation. Since chiral allylic alcohols and 2,4-
+diene-1-ols display appreciable speciﬁc rotation at the sodium D-
+line (Airs et al., 1942; Burgess and Jennings, 1991; Takaishi et al.,
+1991; Tsai et al., 2001), it is concluded that 1 isolated from H. acu-
+tifolium is a racemate. Compound 1 is a new alkaloid for which the
+name haplacutine A is suggested.
+The material eluted with peak 2 (compound 2a) was assigned
+the molecular formula C18H21NO2 as determined by off-line HRE-
+SIFTMS. Based on the 1H NMR and COSY spectra acquired in the
+HPLC–SPE–NMR mode, it contained a 4-quinolinone moiety and a
+spin system corresponding to a 3-hydroxynona-4,6-dien-1-yl moi-
+ety. The conﬁguration of the C-40–C-50 double bond was estab-
+lished as E (H-40: d 5.70, br dd, J40-50 = 15.2 Hz, J30-40 = 6.4 Hz; H-50:
+d 6.53, ddt, J40-50 = 15.2 Hz, J50-60 = 11.1 Hz, J50-70 = J30-50 = 1.2 Hz) and
+that of the C-60–C-70 double bond as Z (H-60: d 5.95, m; H-70: d
+5.44, dt, J60-70 = 10.8 Hz, J70-80 = 7.5 Hz). When the HPLC–PDA–MS–
+SPE–NMR analysis was performed with the corresponding peak
+of an alkaloid-enriched fraction of the extract (fraction III obtained
+from crude extract B, see Section 4), 2a was accompanied by a clo-
+sely related analogue 2b (approximately 60% relative to the major
+constituent 2a as determined from the integrals of the 1H NMR
+resonances, see Supplementary Fig. 3). The conﬁguration of both
+double bonds in the minor constituent was E (H-40: d 5.61, dd,
+Fig. 1. HPLC proﬁle of raw extract of aerial parts of Haplophyllum acutifolium
+(Phenomenex Luna 2 C18 column, 150  4.6 mm i.d., 3 lm, ﬂow rate 0.8 ml/min,
+MeCN gradient in H2O + 0.1% HCOOH as shown). The constituents eluted as peaks
+labeled 1–9 were identiﬁed by HPLC–PDA–MS–SPE–NMR experiments.
+Fig. 2. Structures of compounds 1–9.
+1056 D. Staerk et al. / Phytochemistry 70 (2009) 1055–1061
+Author's personal copy
+J40-50 = 15.3 Hz, J30-40 = 6.6 Hz; H-50: d 6.20, dd, J40-50 = 15.3 Hz,
+J50-60 = 10.6 Hz; H-60: d 6.05, dd, J60-70 = 15.3 Hz, J50-60 = 10.6 Hz;
+H-70; d 5.75, dt, J60-70 = 15.3 Hz, J70-80 = 6.6 Hz). Thus, 2a and 2b are
+stereoisomers, and they are both new compounds for which the
+names haplacutine B and haplacutine C, respectively, are sug-
+gested. In the crude extract A, 2b was undetectable, and therefore
+2b co-eluting with 2a in the alkaloid-enriched fraction III may be
+an artefact formed by acid-catalyzed, free-radical or photochemi-
+cal isomerization of 2a or by an allylic-type rearrangement of 1.
+The constituent eluted as peak 3 (compound 3) was assigned
+the molecular formula C18H19NO2 (off-line HRESIFTMS). In addition
+to signals from a 4-quinolinone moiety, 1H NMR and COSY spectra
+showed signals corresponding to an aliphatic A2X2 spin system and
+a hexa-1,3-dien-1-yl moiety. The downﬁeld shift of the signals of
+H-20 and H-50 (d 3.10 and 7.57, respectively) conﬁrmed that the
+two moieties are connected by the C-30 carbonyl group. Analysis
+of the coupling pattern of H-40 to H-70 (see Section 4.9) established
+the E- and Z-conﬁguration of the C-40–C-50 and C-60–C-70 double
+bonds, respectively. Compound 3 is a new alkaloid for which the
+name haplacutine D is suggested.
+The constituent eluted as peak 4 (compound 4) was assigned
+the molecular formula C16H19NO (HRESIFTMS), and the 1H NMR
+spectrum showed signals corresponding to a 4-quinolinone moiety
+and a hept-4-en-1-yl moiety. The 1H NMR data were in agreement
+with those reported for acutine, previously isolated from H. acutifo-
+lium (Razzakova et al., 1975). Acutine was initially formulated as 2-
+(hept-4-enyl)quinolin-4(1H)-one (Gulyamova et al., 1974) without
+any information about the conﬁguration of the double bond, but
+the coupling patterns observed for H-40 and H-50 in the present
+investigation (H-40: d 5.38, dtt, J40-50 = 10.8 Hz, J30-40 = 7.1 Hz, J40-60 =
+1.4 Hz; H-50: d 5.44, dtt, J40-50 = 10.8 Hz, J50-60 = 7.1 Hz, J30-50 =
+1.2 Hz) proved that compound 4, and thus acutine, is 2-[(4Z)-
+hept-4-en-1-yl]quinolin-4(1H)-one.
+Haplamine (5) was identiﬁed as the material eluted with peak 5.
+Although the coupling pattern observed for the three hydrogens of
+the aromatic ring system indicated the presence of a 1,2,4-trisubsti-
+tuted benzene, the site of methoxylation (i.e., C-6 or C-7) could not
+be unambiguously assigned by comparison of the observed chemi-
+cal shift values with those reported for haplamine (syn. 6-meth-
+oxyﬂindersine) (Campbell et al., 1990; Cantrell et al., 2005) and 7-
+methoxyﬂindersine (Brader et al., 1996). However, correlations
+found in a NOESY spectrum acquired in the HPLC–SPE–NMR mode
+(see Supplementary Fig. 1) proved methoxylation at C-6.
+The constituent eluted as peak 6 (compound 6) was assigned
+the molecular formula C18H21NO (HRESIFTMS). This is in agree-
+ment with the presence of a 4-quinolinone moiety and a nona-
+3,6-dien-1-yl moiety, as conﬁrmed by connectivities observed in
+a COSY spectrum. The Z-conﬁguration of the C-60–C-70 double bond
+was identiﬁed based on 1H NMR coupling patterns (H-60: d 5.20,
+dtt, J60-70 = 10.7 Hz, J50-60 = 7.3 Hz, J60-80 = 1.6 Hz; H-70: d 5.31, dtt, J60-70 =
+10.7 Hz, J70-80 = 7.2 Hz, J50-70 = 1.6 Hz), whereas the conﬁguration
+of the C-30–C-40 double bond was not immediately clear because
+H-30 and H-40 appeared as a multiplet (d 5.42). However, the sim-
+ulated coupling pattern of H-30 and H-40 using J30-40 coupling con-
+stant corresponding to the Z-conﬁguration was practically
+identical to the experimentally observed coupling pattern (simula-
+tion parameters: dY-30 5.43, dY-40 5.41, J30-40 = 10.7 Hz, J40-50 = 7.1 Hz,
+J20-30 = 6.8 Hz, J20-40 = J30-50 = 1.1 Hz), whereas simulated spectrum
+using an E coupling constant was distinctly different (data not
+shown; cf. however structure of 8 and Fig. 4). In addition, the ob-
+served chemical shifts of C-20 and C-50 (d 27.2 and d 26.0, respec-
+tively, obtained from a HSQC spectrum), were in agreement with
+the Z-conﬁguration of the C-30–C-40 double bond, whereas chemi-
+cal shift values above d 30 would be expected for the E-conﬁgura-
+tion, as shown by chemical shift predictions and literature data
+(Ivanciuc et al., 1997). Thus, compound 6 is formulated as 2-
+[(3Z,6Z)-nona-3,6-dien-1-yl]quinolin-4(1H)-one. Full assignment
+of all 1H and 13C NMR resonances was possible based on 1H, COSY,
+HSQC, and HMBC experiments obtained in the HPLC–SPE–NMR
+mode. In order to illustrate the use of HPLC–SPE–NMR methodol-
+ogy, the HSQC and HMBC spectra used for assignment of 13C reso-
+nances of 6 are shown in Fig. 3. A compound with a similar
+structure has previously been isolated from Vepris ampody (Kan-
+Fan et al., 1970). However, the authors were only able to identify
+the compound as either 2-(nona-3,6-dien-1-yl)quinolin-4(1H)-
+one or 2-(nona-2,6-dien-1-yl)quinolin-4(1H)-one, and without
+any information about conﬁguration of the double bonds. Later,
+Razzakova et al. (1986) isolated a constituent named 2-nonadie-
+Fig. 3. Gradient-selected HSQC spectrum (left) and HMBC spectrum (right) of compound 6, allowing full assignment of all 13C resonances in HPLC–SPE–NMR mode.
+D. Staerk et al. / Phytochemistry 70 (2009) 1055–1061 1057
+Author's personal copy
+nyl-4-quinoline, but without any information about the position
+and conﬁguration of the two double bonds. Compound 6 is there-
+fore considered a new compound, for which the name haplacutine
+E is proposed.
+The constituent eluted as peak 7 was identiﬁed as (+)-eudesmin
+(7) on the basis of 1H NMR spectroscopic data recorded in HPLC–
+SPE–NMR mode (see Supplementary Fig. 2), as well as the identity
+of 1H and 13C NMR data and optical rotation data (see Supplemen-
+tary material) of isolated material with those previously reported
+(Iida et al., 1982; Miyazawa et al., 1995; Roy et al., 2002). Eudes-
+mine has previously been isolated from Haplophyllum species (Raz-
+zakova et al., 1972).
+The constituent eluted as peak 8 (compound 8) was assigned the
+molecular formula C18H23NO (HRESIFTMS), and the presence of a 4-
+quinolinonemoiety and a non-3-en-1-yl side chain was revealed by
+correlations in a COSY spectrum. The Z-conﬁgurationwas proved by
+comparing the experimental coupling pattern of the double bond
+hydrogens with simulated spectra (Fig. 4). This, and the chemical
+shift values of C-20 and C-50 (d 27.4 and d 27.7, respectively), estab-
+lished the structure of 8 as 2-[(3Z)-non-3-en-1-yl]quinolin-4(1H)-
+one, for which the name haplacutine F is proposed.
+2-Nonylquinolin-4(1H)-one (9) was identiﬁed as the compound
+eluted as peak 9 based on HRESIFTMS data and comparison of 1H
+NMR spectra with those reported in literature (Kostova et al., 1999).
+NMR and HRMS data for new compounds are reported in Sec-
+tion 4, whereas retention times, MS data, and NMR data for known
+compounds are shown in Supplementary Table 1. The spectra of 5,
+7 and 9 obtained in the hyphenation mode are shown in Supple-
+mentary Fig. 2. No useful NMR data could be obtained from the
+remaining peaks. Preparative-scale fractionation of extract B of H.
+acutifolium, comprising a partitioning between chloroform and di-
+lute acid, yielded compounds 1 and 4-7 in small amounts. How-
+ever, since the H. acutifolium alkaloids are tautomeric amides,
+this standard procedure for alkaloid isolation was not effective,
+as highlighted by isolation of 6 from the chloroform fraction as
+well as from the acidic fraction (fractions I and III, respectively,
+see Section 4). It was not possible to isolate compound 2-3, 8,
+and 9 in satisfactory amounts and purity. The antiplasmodial activ-
+ity of compounds 4 and 6was assessed in an in vitro antiplasmodial
+toxicity assay. Compound 4 and 6 showed IC50 values of
+2.17 ± 0.22 lM and 3.79 ± 0.24 lM, respectively, whereas the cor-
+responding value for chloroquine diphosphate was 32.8 ± 0.24
+nM. Since 4-quinolone alkaloids generally exhibit numerous toxi-
+cological activities in the low micromolar range as described in
+the Introduction, the observed antiplasmodial activity presumably
+represents a general toxic effect.
+3. Conclusion
+In conclusion, this study demonstrated the fast and dependable
+dereplication of alkaloid constituents of crude extract of H. acutifo-
+lium by HPLC–PDA–MS–SPE–NMR. On-line analysis of nine peaks
+led to identiﬁcation of six new and two known 4-quinolinone alka-
+loids as well as a hemiterpenoid 2-quinolinone alkaloid and a lig-
+nan. In agreement with earlier investigations of tautomeric
+equilibria between hydroxyquinolines and quinolinones in solu-
+tion (de la Cruz et al., 1992; Mphahlele and El-Nahas, 2004; Tokay
+and Ögretir, 2002), the alkaloids are formulated as quinolinones.
+The ﬁnding of six new 2-alkylquinolinones in extract of aerial parts
+of H. acutifolium shows that reinvestigation of plants with new and
+more sensitive technology can add considerable new phytochemi-
+cal information to already well-investigated species. In continua-
+tion of the HPLC–PDA–MS–SPE–NMR investigation, two of the
+alkaloids were isolated and were shown to inhibit growth of malar-
+ia parasites in the low micromolar range. On the basis of this ﬁnd-
+ing, the observed antiplasmodial activity of crude extract of H.
+acutifolium is concluded to represent combined effect of quinoli-
+none alkaloids present in this plant.
+4. Experimental
+4.1. General
+Optical rotations were measured using a Perkin–Elmer 241
+polarimeter. NMR spectra of isolated compounds were recorded
+on a Bruker Avance 400 spectrometer (proton frequency
+400.13 MHz) at 25 C, using TMS as internal standard. HRMS mea-
+surements were performed using a Bruker APEX Qe Fourier-trans-
+form mass spectrometer equipped with a 9.4 T superconducting
+cryomagnet and an external ESI source (Apollo II source). The spec-
+tra were externally calibrated with arginine cluster in positive and
+negative ion mode. The samples were dissolved in MeOH, further
+diluted in 50% MeOH with 0.2% HCOOH, and introduced into the
+ion source using a syringe pump with a ﬂow of 2 ll/min. Prepara-
+tive-scale HPLC separations were performed with a 250  16 mm
+Lichrosorb RP18 (5 lm) column at a ﬂow rate of 8 ml/min, using
+a chromatograph consisting of a Gynkotek P 580 pump, a Rheo-
+dyne 7725 injector, and a Shimadzu SPD-10AV spectrophotometric
+detector operating at 254 nm, or with a 250  21.2 mm Luna 2 C18
+(5 lm) column at a ﬂow rate of 10 ml/min, using a Waters 590
+pump, a Rheodyne 7125 injector, and a Lambda-Max Model 481
+LC UV detector operating at 235 nm. Spin coupling pattern simula-
+tions were performed with gNMR ver. 4.1.2 software (Adept Scien-
+tiﬁc, Herts, UK). Chemical shift predictions were performed with
+ChemNMR software as implemented in ChemBioDraw Ultra ver.
+11.0 (CambridgeSoft, Cambridge, UK).
+4.2. Plant material
+Aerial parts of H. acutifolium (DC.) G. Don [syn. Haplophyllum
+perforatum (M. Bieb.) Kar. & Kir., H. ﬂexuosum Boiss., H. sieversii
+Fig. 4. Coupling pattern for H-3’ and H-4’ of 8. Bottom: observed coupling pattern.
+Middle: simulated coupling pattern for Z-conﬁguration (simulation parameters: d3’
+5.40, d4’ 5.44, J3’-4’ = 10.8 Hz, J3’-2’ = J4’-5’ = 10.8 Hz, J3’-5’ = J4’-2’ = 0.7 Hz). Top: simu-
+lated coupling pattern for E-conﬁguration (simulation parameters: as above except
+J3’-4’ = 15.5 Hz).
+1058 D. Staerk et al. / Phytochemistry 70 (2009) 1055–1061
+Author's personal copy
+Fisch., Ruta perforataM. Bieb.] (Rutaceae) were collected on August
+20, 2004, at a location 40 km west of Mashhad, Iran (altitude
+1650 m) and identiﬁed by Mr. Ali Ahi. The plant material was dried
+immediately after collection and powdered before extraction. Vou-
+cher specimen (DFHJJ56) was deposited in Herbarium C (Botanical
+Museum, University of Copenhagen, Copenhagen, Denmark).
+4.3. Extraction and sample preparation
+Extract A was prepared by macerating 117 g of the plant mate-
+rial with 3  0.5 l of EtOAc, and the combined extracts were evap-
+orated to dryness under reduced pressure to give 2.27 g of residue.
+A small amount (7.5 mg) of extract A was used for HPLC–PDA–MS–
+SPE–NMR analysis by making solutions of 28 mg/ml in H2O–MeCN
+2:7, and the rest was used for prep. HPLC. Extract B was prepared
+by extraction of 500 g of powdered material with 4  1 l of EtOAc
+and evaporation.
+4.4. HPLC–PDA–MS–SPE–NMR experiments
+The HPLC–PDA–MS–SPE–NMR instrument consisted of an Agi-
+lent 1100 HPLC system (degasser, quaternary solvent delivery
+pump, autosampler, PDA detector), a Knauer K100 Wellchrom
+pump for post-column H2O delivery, a Spark Prospekt 2 solid-
+phase extraction device, a Bruker EsquireLC mass spectrometer
+equipped with electrospray ionization (ESI) interface, and a Bruker
+Avance 600 NMR spectrometer equipped with a 30-ll inverse
+1H{13C} ﬂow-probe operating at 25 C. HPLC separations were per-
+formed at 40 C on a 150  4.6 mm i.d., 3 lm particle size, Phe-
+nomenex Luna 2 C18 column, using mixtures of H2O–MeCN
+95:5 + 0.1% HCOOH (eluent A) and H2O–MeCN 5:95 + 0.1% HCOOH
+(eluent B). The eluate from the column was split with an Acurate
+splitter, directing 5% of the ﬂow to the mass spectrometer and
+95% to the PDA detector. MS spectra were acquired in positive-
+ion mode, using drying temperature of 350 C, nebulizer pressure
+of 15 psi, and drying gas ﬂow of 15 ml/min. The HPLC solvent ﬂow
+(0.8 ml/min) from the PDA detector was diluted with H2O (2 ml/
+min) and directed to the SPE unit. GP phase [general-purpose
+poly(divinylbenzene)-based resin] SPE cartridges, 10  2 mm i.d.
+from Spark Holland, were used for trapping of selected compounds
+based on UV absorption levels at 235 nm. Four cumulative trap-
+pings of analytes from separation of 1.4 mg of the raw extract
+per injection were performed using the following linear gradient
+elution proﬁle: 0 min, 19% B; 20 min, 32.2% B; 30 min, 50% B;
+50 min, 100% B; 60 min, 100% B; 62 min, 19% B, and 8 min condi-
+tioning with 19% B. Two extended separations, allowing separation
+of up to 2.8 mg extract per injection, were performed with four or
+six adsorptions using the following linear gradient elution proﬁle:
+0 min, 19% B; 30 min, 32.2% B; 40 min, 50% B; 60 min, 100% B;
+70 min, 100% B; 72 min, 19% B, and 8 min conditioning with 19%
+B. Prior to use, the SPE cartridges were conditioned with 500 ll
+of MeCN at 6 ml/min and ﬂushed with 500 ll H2O at 1 ml/min.
+After trapping, the cartridges were dried with a stream of dry N2
+gas for 45 min and the analytes eluted to the NMR ﬂow cell with
+CD3CN. The HPLC–PDA–MS–SPE–NMR experiments were con-
+trolled with Bruker HyStar ver. 2.3 software. NMR data acquisition
+and processing were performed using Bruker XWINNMR ver. 3.1
+software. After acquisition of NMR data, the samples were re-
+moved from the probe and subjected to HRESIFTMS analysis.
+4.5. Preparative-scale isolation
+Crude extract B was dissolved in 0.5 l of CHCl3 and the solution
+extracted with H2O acidiﬁed to pH 2 with 1 M H2SO4 (7  0.5 l) to
+give fractions I (21 g) and II, respectively. Fraction II was alkalized
+to pH 11 with concentrated aq. NH3 and extracted with CHCl3,
+which after concentration yielded 250 mg of fraction III. Fraction
+I was separated by isocratic prep. HPLC (Lichrosorb RP18, MeCN–
+H2O 6:4 + 0.1% TFA), resulting in fractions Ia (20.2 mg), Ib
+(32.7 mg), and Ic (108.6 mg). These fractions were re-chromato-
+graphed to yield 9.6 mg of 6 (Ia: MeCN–H2O 1:1 + 0.1% TFA),
+27.6 mg of 5 (Ib: MeCN–H2O 4:6 + 0.1% TFA), and 18 mg of 7 (Ic
+MeCN–H2O 6:4 + 0.1% TFA). Fraction III was separated by isocratic
+prep. HPLC (Lichrosorb RP18, MeCN–H2O 6:4 + 0.1% TFA), resulting
+in fractions IIIa–IIIi. Fractions IIIf and IIIi were re-chromatographed
+using MeCN–H2O 1:1 + 0.1% TFA to yield 5 mg of 4 and 10 mg of 6,
+respectively. Extract A was subjected to targeted isolation of 1 by
+repeated prep. HPLC (Luna 2 C18, MeCN–H2O 22:78) to yield
+4 mg of 1.
+4.6. Compound 1
+Haplacutine A [2-[(3Z,5E)-7-hydroxynona-3,5-dien-1-yl]quino-
+lin-4(1H)-one]: colourless gum; ½a25D 0 (c 0.1, CH3OH); 1H NMR
+spectral data (600 MHz, CD3OD): d 0.81 (3H, t, J80-90 = 7.4, H-90),
+1.37 (1H, dq, J80A-80B = 14.2, J70-80  J80-90  7.4, H-80A), 1.43 (1H, dq,
+J80A-80B = 14.2, J70-80  J80-90  7.4, H-80B), 2.67 (2H, m H-20), 2.81
+(2H, m H-10), 3.90 (1H, m, H-70), 5.45 (1H, dt, J30-40 = 10.6, J20-30 =
+7.7, H-30), 5.60 (1H, dd, J50-60 = 15.2, J60-70 = 6.7, H-60), 6.06 (1H, t,
+br, J30-40  J40-50  11.1, H-40), 6.24 (1H, s, br, H-3), 6.44 (1H, ddt,
+J50-60 = 15.2, J40-50 = 11.2, J50-70 = J30-50 = 1.2, H-50), 7.36 (1H, ddd,
+J5-6 = 8.0, J6-7 = 7.1, J6-8 = 1.1, H-6), 7.57 (1H, d, br, J7-8 = 8.3, H-8),
+7.69 (1H, ddd, J7-8 = 8.3, J6-7 = 7.1, J5-7 = 1.4, H-7), 8.19 (1H, dm, J5-6 =
+8.2, H-5); 1H NMR spectral data (600 MHz, CD3CN, hyphenation
+mode): d 0.81 (3H, t, J80-90 = 7.4, H-90), 1.39 (2H, m, H-80), 2.62
+(2H, q, br, J10-20  J20-30  7.4, H-20), 2.68 (2H, t, br, J10-20  7.4, H-10),
+3.90 (1H, q, br, J60-70 = J70-80 = 6.3, H-70), 5.44 (1H, dt, J30-40 = 10.4,
+J20-30 = 7.7, H-30), 5.62 (1H, dd, J50-60 = 15.2, J60-70 = 6.3, H-60), 5.98
+(1H, s, br, H-3), 6.03 (1H, t, br, H-40), 6.45 (1H, ddt, J50-60 = 15.2,
+J40-50 = 11.2, J50-70 = J30-50 = 1.2, H-50), 7.29 (1H, ddd, J5-6 = 8.0,
+J6-7 = 7.1, J6-8 = 1.0, H-6), 7.46 (1H, d, br, J7-8 = 8.3, H-8), 7.60 (1H,
+ddd, J7-8 = 8.3, J6-7 = 7.1, J5-7 = 1.4, H-7), 8.11 (1H, dd, J5-6 = 8.0,
+J5-7 = 1.4, H-5); 13C NMR spectral data (150 MHz, CD3CN, from
+HSQC spectrum recorded in hyphenation mode): d 10.1 (C-90),
+27.4 (C-20), 30.8 (C-80), 34.1 (C-10), 73.7 (C-70), 109.2 (C-3), 118.3
+(C-8), 123.9 (C-6), 125.0 (C-50), 126.0 (C-5), 129.6 (C-30), 130.4
+(C-40), 132.5 (C-7), 138.7 (C-60); HRESIFTMS m/z 284.16467 [MH]+
+(calc. for [C18H22NO2]+, 284.16451).
+4.7. Compound 2a
+Haplacutine B [2-[(4E,6Z)-3-hydroxynona-4,6-dien-1-yl]quino-
+lin-4(1H)-one]: 1H NMR spectral data (600 MHz, CD3CN, hyphen-
+ation mode): d 0.98 (3H, t, J80-90 = 7.5, H-90), 1.87 (2H, m, H-20),
+2.09 (2H, m, H-80), 2.66 (2H, m, H-10), 3.11 (1H, d, br, J30-30OH  4.1,
+30-OH), 4.18 (1H, s, br, H-30), 5.44 (1H, dt, J
+60 -70
+= 10.8, J70-80 = 7.5, H-
+70), 5.70 (1H, dd, br, J40-50 = 15.2, J30-40 = 6.4, H-40), 5.95 (1H, m, H-
+60), 5.98 (1H, s, br, H-3), 6.53 (1H, ddt, J40-50 = 15.2, J50-60 = 11.1, J50-70 =
+J30-50 = 1.2, H-50), 7.28 (1H, ddd, J5-6 = 8.0, J6-7 = 7.0, J6-8 = 1.0, H-6),
+7.43 (1H, d, br, J7-8 = 8.4, H-8), 7.59 (1H, ddd, J7-8 = 8.4, J6-7 = 7.0,
+J5-7 = 1.5, H-7), 8.12 (1H, d, br, J5-6 = 8.0, H-5); HRESIFTMS m/z
+284.16460 [MH]+ (calc. for [C18H22NO2]+, 284.16451).
+4.8. Compound 2b
+Haplacutine C [2-[(4E,6E)-3-hydroxynona-4,6-dien-1-yl]quino-
+lin-4(1H)-one]: 1H NMR spectral data (600 MHz, CD3CN, hyphen-
+ation mode): d 0.99 (3H, t, J80-90 = 7.5, H-90), 1.87 (2H, m, H-20),
+2.19 (2H, pd, J80-90 = J70-80 = 7.5, J60-80 = 1.5, H-80), 2.70 (2H, m, H-10),
+3.06 (1H, d, br, J30-30-OH  4.1, 30-OH), 4.13 (1H, s, br, H-30), 5.61
+(1H, dd, J40-50 = 15.3, J30-40 = 6.6, H-40), 5.75 (1H, dt, J60-70 = 15.3,
+J70-80 = 6.6, H-70), 5.98 (1H, s, br, H-3), 6.05 (1H, dd, J60-70 = 15.3,
+D. Staerk et al. / Phytochemistry 70 (2009) 1055–1061 1059
+Author's personal copy
+J50-60 = 10.6, H-60), 6.20 (1H, dd, J40-50 = 15.3, J50-60 = 10.6, H-50), 7.28
+(1H, ddd, J5-6 = 8.0, J6-7 = 7.0, J6-8 = 1.0, H-6), 7.43 (1H, d, br,
+J7-8 = 8.4, H-8), 7.59 (1H, ddd, J7-8 = 8.4, J6-7 = 7.0, J5-7 = 1.5, H-7),
+8.12 (1H, d, br, J5-6 = 8.0, H-5); HRESIFTMS m/z 284.16460 [MH]+
+(calc. for [C18H22NO2]+, 284.16451).
+4.9. Compound 3
+Haplacutine D [2-[(4E,6Z)-3-oxonona-4,6-dien-1-yl]quinolin-
+4(1H)-one]: 1H NMR spectral data (600 MHz, CD3CN, hyphenation
+mode): d 1.02 (3H, t, J80-90 = 7.5, H-90), 2.34 (2H, pd, J80-90 = J70-80 =
+7.5, J60-80 = 1.4, H-80), 2.88 (2H, t, J10-20 = 7.3, H-10), 3.10 (2H, t,
+J10-20 = 7.3, H-20), 5.96 (1H, dt, J60-70 = 11.1, J70-80 = 7.5, H-70), 5.97
+(1H, s, br, H-3), 6.15 (1H, t, br, J60-70  J50-60  11.1, H-60), 6.20 (1H,
+d, J40-50 = 15.5, H-40), 7.29 (1H, t, br, J5-6  J6-7 = 7.6, H-6), 7.44 (1H,
+d, br, J7-8 = 8.2, H-8), 7.57 (1H, dd, J40-50 = 15.5, J50-60 = 11.5, H-50),
+7.61 (1H, dd, J7-8 = 8.2, J6-7 = 7.6, H-7), 8.11 (1H, d, br, J5-6 = 8.2, H-
+5); HRESIFTMS m/z 282.14885 [MH]+ (calc. for [C18H20NO2]+,
+282.14886).
+4.10. Compound 6
+Haplacutine E [2-[(3Z,6Z)-nona-3,6-dien-1-yl]quinolin-4(1H)-
+one]: 1H spectral data (600 MHz, CD3CN, hyphenation mode): d
+0.89 (3H, t, J80-90 = 7.5, H-90), 1.99 (2H, d, br, H-80), 2.50 (2H, dt, J20-30 =
+6.8, J10-20 = 7.5, H-20), 2.66 (2H, t, J10-20 = 7.5, H-10), 2.74 (2H, t, br,
+J40-50  J50-60  6.5, H-50), 5.20 (1H, dtt, J60-70 = 10.7, J5’-60 = 7.3,
+J60-80 = 1.6 Hz, H-60), 5.31 (1H, dtt, J60-70 = 10.7, J70-80 = 7.2, J50-70 = 1.6,
+H-70), 5.42 (2H, m, H-30, H-40), 5.97 (1H, s, br, H-3), 7.29 (1H, t, br,
+J5-6  J6-7  7.7, H-6), 7.46 (1H, d, br, J7-8 = 8.3, H-8), 7.60 (1H,
+ddd, J7-8 = 8.3, J6-7 = 7.0, J5-7 = 1.6, H-7), 8.12 (1H, dd, J5-6 = 8.1,
+J5-7 = 1.2, H-5); 13C NMR spectral data (150 MHz, CD3CN): d 14.4
+(C-90), 21.0 (C-80), 25.9 (C-50), 26.9 (C-20), 34.3 (C-10), 109.0 (C-3),
+118.2 (C-8), 123.8 (C-6), 125.9 (C-5), 126.1 (C-10), 127.8 (C-60),
+128.4 (C-30), 130.6 (C-40), 132.3 (C-7), 132.7 (C-70), 141.2 (C-9),
+154.0 (C-2), 178.7 (C-4); HRESIFTMS m/z 268.16965 [MH]+ (calc.
+for [C18H22NO]+, 268.16959).
+4.11. Compound 8
+Haplacutine F [2-[(3Z)-non-3-en-1-yl]quinolin-4(1H)-one]: 1H
+NMR spectral data (600 MHz, CD3CN, hyphenation mode): d 0.80
+(3H, t, J80-9’ = 7.0, H-90), 1.16 (4H, m, H-70, H-80), 1.20 (2H, m, H-
+60), 1.98 (m, H-50), 2.47 (2H, q, br, J10-20  J20-30  7.0, H-20), 2.64
+(2H, t, J10-20 = 7.4, H-10), 5.42 (2H, m, H-30, H-40), 5.95 (1H, s, br, H-
+3), 7.28 (1H, t, br, J5-6  J6-7  7.5, H-6), 7.45 (1H, d, br, J7-8 = 8.3,
+H-8), 7.59 (1H, ddd, J7-8 = 8.3, J6-7 = 7.0, J5-7 = 1.4, H-7), 8.11 (1H,
+d, br, J5-6 = 8.0, H-5), 9.47 (1H, s, br, H-1); 13C NMR (150 MHz,
+CD3CN): d 23.3 (C-80), 27.4 (C-20), 27.7 (C-50), 29.8 (C-60), 31.9 (C-
+70), 34.5 (C-10), 109.1 (C-3), 118.2 (C-8), 124.0 (C-6), 126.1 (C-5),
+132.4 (C-7); HRESIFTMS m/z 270.18521 [MH]+ (calc. for
+[C18H24NO]+, 270.18524).
+4.12. Antiplasmodial assay
+Chloroquine-sensitive P. falciparum 3D7 strain was cultured
+in vitro using a modiﬁed method of Trager and Jensen (1976),
+and quantitative assessment of antiplasmodial activity in vitro
+was performed as described in details elsewhere (Sairaﬁanpour
+et al., 2001; Ziegler et al., 2002).
+Acknowledgments
+We thank Ms. Birgitte Simonsen and Ms. Dorte Brix (Depart-
+ment of Medicinal Chemistry, University of Copenhagen) for tech-
+nical assistance. Postdoctoral fellowship to MS from
+Apotekerfonden af 1991 (Copenhagen) is gratefully acknowledged.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.phytochem.2009.05.004.
+References
+Airs, R.S., Balfe, M.P., Keynon, J., 1942. Reactions of (+)- and (–)-c-methyl-a-
+ethylallyl alcohols and their derivatives. J. Chem. Soc. 1, 8–26.
+Albert, K., 2002. On-line NMR and Related Techniques. Chichester, Wiley.
+Bieri, S., Varesio, E., Veuthey, J.L., Munoz, O., Tseng, L.H., Braumann, U., Spraul, M.,
+Christen, P., 2006. Identiﬁcation of isomeric tropane alkaloids from Schizanthus
+grahamii by HPLC–NMR with loop storage and HPLC–UV–MS/SPE–NMR using a
+cryogenic ﬂow probe. Phytochem. Anal. 17, 78–86.
+Brader, G., Bacher, M., Greger, H., Hofer, O., 1996. Pyranoquinolones and acridones
+from Vepris bilocularis. Phytochemistry 42, 881–884.
+Burgess, K., Jennings, L.D., 1991. Enantioselective esteriﬁcation of unsaturated
+alcohols mediated by a lipase prepared from Pseudomonas sp. J. Am. Chem. Soc.
+113, 6129–6139.
+Campbell, W.E., Davidowitz, B., Jackson, G.E., 1990. Quinolone alkaloids from an
+Agathosma species. Phytochemistry 29, 1303–1306.
+Cantrell, C.L., Schrader, K.K., Mamonov, L.K., Sitpaeva, G.T., Kustova, T.S.,
+Dunbar, C., Wedge, D.E., 2005. Isolation and identiﬁcation of antifungal
+and antialgal alkaloids from Haplophyllum sieversii. J. Agric. Food Chem.
+53, 7741–7748.
+Cheng, M.J., Lee, K.H., Tsai, I.L., Chen, I.S., 2005. Two new sesquiterpenoids and anti-
+HIV principles from the root bark of Zanthoxylum ailanthoides. Bioorg. Med.
+Chem. 13, 5915–5920.
+Clarkson, C., Staerk, D., Hansen, S.H., Jaroszewski, J.W., 2005. Hyphenation of solid-
+phase extraction with liquid chromatography and nuclear magnetic resonance.
+Application of HPLC–DAD–SPE–NMR to identiﬁcation of constituents of Kanahia
+laniﬂora. Anal. Chem. 77, 3547–3553.
+Clarkson, C., Staerk, D., Hansen, S.H., Smith, P.J., Jaroszewski, J.W., 2006a.
+Discovering new natural products directly from crude extracts by HPLC–SPE–
+NMR: chinane diterpenes in Harpagophytum procumbens. J. Nat. Prod. 69, 527–
+530.
+Clarkson, C., Staerk, D., Hansen, S.H., Smith, P.J., Jaroszewski, J.W., 2006b.
+Identiﬁcation of major and minor constituents of Harpagophytum procumbens
+(Devil’s Claw) using HPLC–SPE–NMR and HPLC–ESIMS/APCIMS. J. Nat. Prod. 69,
+1280–1288.
+Clarkson, C., Sibum, M., Mensen, R., Jaroszewski, J.W., 2007. Evaluation of on-line
+solid-phase extraction parameters for hyphenated, high-performance liquid
+chromatography–solid-phase extraction–nuclear magnetic resonance
+applications. J. Chromatogr. A 1165, 1–9.
+de la Cruz, A., Elguero, J., Goya, P., Martinez, A., Pﬂeiderer, W., 1992. Tautomerism
+and acidity in 4-quinolone-3-carboxylic acid derivatives. Tetrahedron 48,
+6135–6150.
+Exarchou, V., Fiamegos, Y.C., van Beek, T.A., Nanos, C., Vervoort, J., 2006. Hyphenated
+chromatographic techniques for the rapid screening and identiﬁcation of
+antioxidants in methanolic extracts of pharmaceutically used plants. J.
+Chromatogr. A 1112, 293–302.
+Gulyamova, D.M., Bessonova, I.A., Yunusov, S.Y., 1974. Alkaloids of Haplophyllum
+acutifolium. Chem. Nat. Compd. 7, 836–837.
+Hanawa, F., Fokialakis, N., Skaltsounis, A.L., 2004. Photo-activated DNA binding and
+antimicrobial activities of furoquinoline and pyranoquinolonealkaloids from
+Rutaceae. Planta Med. 70, 531–535.
+Iida, T., Nakano, M., Ito, K., 1982. Hydroperoxysesquiterpene and lignan constituents
+of Magnolia kobus. Phytochemistry 21, 673–675.
+Ivanciuc, O., Rabine, J.P., Cabrol-Bass, D., Panaye, A., Doucet, J.P., 1997. 13C NMR
+chemical shift prediction of the sp3 carbon atoms in the a position relative to
+the double bond in acyclic alkenes. J. Chem. Inf. Comput. Sci. 37, 587–598.
+Jaroszewski, J.W., 2005a. Hyphenated NMR methods in natural products research,
+part 1: direct hyphenation. Planta Med. 71, 691–700.
+Jaroszewski, J.W., 2005b. Hyphenated NMR methods in natural products research,
+part 2: HPLC–SPE–NMR and other new trends in NMR hyphenation. Planta Med.
+71, 795–802.
+Kan-Fan, C., Das, B.C., Boiteau, P., Potier, P., 1970. Alcaloïdes de Vepris ampody
+(Rutacées). Phytochemistry 9, 1283–1291.
+Kostova, I., Ivanova, A., Mikhova, B., Klaiber, I., 1999. Alkaloids and coumarins from
+Ruta graveolens. Monatsh. Chem. 130, 703–707.
+Lambert, M., Staerk, D., Hansen, S.H., Sairaﬁanpour, M., Jaroszewski, J.W., 2005a.
+Rapid extract dereplication using HPLC–SPE–NMR: analysis of isoﬂavonoids
+from Smirnowia iranica. J. Nat. Prod. 68, 1500–1509.
+Lambert, M., Staerk, D., Hansen, S.H., Jaroszewski, J.W., 2005b. HPLC–SPE–NMR
+hyphenation in natural products research: optimization of analysis of Croton
+membranaceus extract. Magn. Reson. Chem. 43, 771–775.
+Lambert, M., Wolfender, J.-L., Staerk, D., Christensen, S.B., Hostettmann, K.,
+Jaroszewski, J.W., 2007. Identiﬁcation of natural products using HPLC–SPE
+combined with CapNMR. Anal. Chem. 79, 727–735.
+1060 D. Staerk et al. / Phytochemistry 70 (2009) 1055–1061
+Author's personal copy
+Lee, S.S., Lai, Y.-C., Chen, C.-K., Tseng, L.-H., Wang, C.-Y., 2007. Characterization of
+isoquinoline alkaloids from Neolitsea sericea var. aurata by HPLC–SPE–NMR. J.
+Nat. Prod. 70, 637–642.
+Michael, J.P., 2003. Quinoline, quinazoline and acridone alkaloids. Nat. Prod. Rep. 20,
+476–493.
+Michael, J.P., 2008. Quinoline, quinazoline and acridone alkaloids. Nat. Prod. Rep. 25,
+166–187.
+Miyazawa, M., Kasahara, H., Kameoka, H., 1995. Biotransformation of lignans:
+metabolism of (+)-eudesmin and (+)-magnolin in Spodoptera litura.
+Phytochemistry 39, 1027–1030.
+Mphahlele, M.J., El-Nahas, A.M., 2004. Tautomeric 2-arylquinolin-4(1H)-one
+derivatives- spectroscopic, X-ray and quantum chemical structural studies. J.
+Mol. Struct. 688, 129–136.
+Nazrullaev, S.S., Bessanova, I.A., Akhmedkhodzhaeva, Kh.S., 2001. Estrogenic activity
+as a function of chemical structure in Haplophyllum quinoline alkaloids. Chem.
+Nat. Compd. 37, 551–555.
+Razzakova, D.M., Bessonova, I.A., Yunusov, S.Y., 1972. Eudesmine – a lignane from
+Haplophyllum acutifolium and H. perforatum. Chem. Nat. Compd. 8, 646–647.
+Razzakova, D.M., Bessonova, I.A., Yunusov, S.Y., 1975. Alkaloids of Haplophyllum
+acutifolium. Chem. Nat. Compd. 9, 199–202.
+Razzakova, D.M., Bessonova, I.A., Yunusov, S.Y., 1986. Alkaloids of Haplophyllum
+acutifolium. Chem. Nat. Compd. 22, 363–364.
+Roy, S.C., Rana, K.K., Guin, C., 2002. Short and stereoselective total synthesis of
+furano lignans (±)-dihydrosesamin, (±)-lariciresinol dimethyl ether, (±)-
+acuminatin methyl ether, (±)-sanshodiol methyl ether, (±)-lariciresinol, (±)-
+acuminatin, and (±)-lariciresinol monomethyl ether and furofuran lignans (±)-
+sesamin, (±)-eudesmin, (±)-piperitol methyl ether, (±)-pinoresinol, (±)-piperitol,
+and (±)-pinoresinol monomethyl ether by radical cyclization of epoxides using a
+transition-metal radical source. J. Org. Chem. 67, 3242–3248.
+Sairaﬁanpour, M., Christensen, J., Staerk, D., Budnik, B.A., Kharazmi, A., Bagherzadeh,
+K., Jaroszewski, J.W., 2001. Leishmanicidal, antiplasmodial, and cytotoxic
+activity of novel diterpenoid 1, 2-quinones from Perovskia abrotanoides: new
+source of tanshinones. J. Nat. Prod. 64, 1398–1403.
+Sprogøe, K., Staerk, D., Jäger, A.K., Adsersen, A., Hansen, S.H., Witt, M., Landbo, A.-
+K.R., Meyer, A.S., Jaroszewski, J.W., 2007. Targeted natural product isolation
+guided by HPLC–SPE–NMR: constituents of Hubertia species. J. Nat. Prod. 70,
+1472–1477.
+Staerk, D., Lambert, M., Jaroszewski, J.W., 2006. HPLC–NMR techniques for plant
+extract analysis. In: Kayser, O., Quax, W. (Eds.), Medicinal Plant Biotechnology,
+Vol. 1. Viley-VCH, Weinheim, pp. 29–48.
+Sturm, S., Seger, C., 2007. HPLC–SPE–NMR – A novel hyphenation technique. LCGC
+Europe, 587–597.
+Sturm, S., Seger, C., Godejohann, M., Spraul, M., Stuppner, H., 2007. Conventional
+sample enrichment strategies combined with high-performance liquid
+chromatography–solid phase extraction–nuclear magnetic resonance analysis
+allows analyte identiﬁcation from a single minuscule Corydalis solida plant
+tuber. J. Chromatogr. A 1163, 138–144.
+Takaishi, Y., Okuyama, T., Nakano, K., Murakami, K., Tomimatsu, T., Yamahara, J.,
+1991. Polyoleﬁnic compounds from Cirsium nipponicum roots. Phytochemistry
+30, 1539–1542.
+Tatsis, E.C., Boeren, S., Exarchou, V., Troganis, A.N., Vervoort, J., Gerothanassis, I.P.,
+2007. Identiﬁcation of the major constituents of Hypericum perforatum by LC/
+SPE/NMR and/or LC/MS. Phytochemistry 68, 383–393.
+Tokay, N., Ögretir, C., 2002. Quantum chemical studies on tautomerism of 2-, 3- or
+4-hydroxyquinoline derivatives along with their thio and azo analogs. J. Mol.
+Struct. 594, 185–197.
+Trager, W., Jensen, J.B., 1976. Human malaria parasite in continuous culture. Science
+193, 673–675.
+Tsai, I.-L., Lin, W.-Y., Huang, M.-W., Chen, T.-L., Chen, I.-S., 2001. N-Isobutylamides
+and butyrolactone from the fruits of Zanthoxylum integrifolium. Helv. Chim. Acta
+84, 830–883.
+Ziegler, H.L., Staerk, D., Christensen, J., Hviid, L., Hägerstrand, H., Jaroszewski, J.W.,
+2002. In vitro Plasmodium falciparum drug sensitivity assay: inhibition of
+parasite growth by incorporation of stomatocytogenic amphiphiles into the
+erythrocyte membrane. Antimicrob. Agents Chemother. 46, 1441–1446.
+D. Staerk et al. / Phytochemistry 70 (2009) 1055–1061 1061

@@ -1,0 +1,450 @@
+279
+A
+rti
+go
+ISSN 0102-695X
+Revista Brasileira de Farmacognosia
+Brazilian Journal of Pharmacognosy
+15(4): 279-282, Out./Dez. 2005Received 09/27/05. Accepted 11/17/05              
+* E-mail: s.sarker@ulster.ac.uk, Tel. +44 (0)28 7032 4302
+Chenoalbuside: an antioxidant phenolic glycoside from the seeds of 
+Chenopodium album L. (Chenopodiaceae)
+L. Nahar1, S. D. Sarker2*
+1Department of Chemistry, University of Aberdeen, Aberdeen AB24 3UE, Scotland, UK
+2School of Biomedical Sciences, University of Ulster at Coleraine, Cromore Road, 
+Coleraine BT52 1SA, Co. Londonderry, Northern Ireland, UK
+ABSTRACT: In addition to three known phytoecdysteroids, a new phenolic glycoside (named, 
+chenoalbuside) was isolated from the methanol extract of the seeds of Chenopodium album. While 
+the structures of all phytoecdysteroids were elucidated by direct comparison of their spectroscopic 
+data with published data, the structure of chenoalbuside was determined unequivocally by a 
+combination of UV, MS and 1D and 2D NMR spectroscopic analyses.  The antioxidant potential 
+of the new compound was assessed by the DPPH assay, and the RC50 value was found to be 1.4 x 
+10-4 mg/mL.
+Keywords: Chenopodium album, Chenopodiaceae, phytoecdysteroids, phenolic glycoside, 
+chenoalbuside, anti-oxidant, NMR.
+INTRODUCTION
+ Chenopodium album L., commonly known as 
+‘pigweed’, ‘fat hen’ or ‘lambs-quarters’ belongs to the 
+family Chenopodiaceae. It is a woody annual, widely 
+distributed in Europe, North America and Asia (Bailey, 
+1977; GRIN Database, 2005). Previous phytochemical 
+studies on this plant furnished the presence of aldehyde 
+(Tahara et al., 1994; Maruta et al., 1995), alkaloids 
+(Horio et al., 1993; Cutillo et al., 2004), apocarotenoids 
+(DellaGreca et al., 2004), fl avonoids (Gohar; Elmazar, 
+1997), phytoecdysteroids (Dinan, 1992, Dinan et al., 
+1998; DellaGreca et al., 2005a), and an unusual xyloside 
+(DellaGreca et al., 2005b). Various bioactivities, 
+including antifungal (Tahara et al., 1994; Maruta et al., 
+1995), antipruritic, antinociceptive (Dai et al., 2002) and 
+hypotensive (Gohar; Elmazar, 1997) properties, of crude 
+extracts or isolated compounds from this plant were 
+reported. As part of our on-going search for plant-derived 
+antioxidants (Delazar et al., 2005; Delazar et al., 2004; 
+Nahar et al., 2005; Sarker et al., 2005a,b; Sarker et al., 
+2003; Uddin et al., 2004), we now report on the isolation, 
+structure elucidation and antioxidant activity of a new 
+phenolic glycoside, named chenoalbuside (1), from the 
+methanol extract of the seeds of C. album. 
+MATERIAL AND METHODS
+General
+UV spectra were obtained in MeOH using a 
+Hewlett-Packard 8453 UV-Vis spectrometer (Agilent, 
+Waldbron, Germany).  CIMS (Chemical Ionisation 
+Mass Spectrometry) analyses were performed in EPSRC 
+Central Mass Spectroscopy Facility in Swansea, UK, 
+on a Micromass Quattro II triple quadrupole instrument 
+(Waters, Manchester, UK) in chemical desorption mode 
+using ammonia as CI gas; mass accuracy was within 0.4 
+Da; CI source temperature 170 oC and electron energy 
+59eV.  NMR spectra were obtained in CD3OD using a 
+Varian Unity INOVA 400 MHz NMR spectrometer. 
+HMBC (Heteronuclear Multiple Bond Coherence) spectra 
+were optimised for a long-range JH-C of 7Hz.  Preparative 
+reversed-phase HPLC was carried out in a Dionex 580 
+HPLC system coupled with a UVD340S photo-diode-
+array detector and Gina50 autosampler (Gynkotek).  A 
+Luna C18 preparative column (21.2 x 250 mm, 10 μm) 
+from Phenomenex (UK) was used.  Sep-Pak Vac (Waters, 
+USA) 10 g cartridge was used for pre-HPLC fractionation 
+of the MeOH extract.  2,2-Diphenyl-1-picrylhydrazyl 
+(DPPH) was purchased from Fluka (UK).
+Plant material
+The seeds of Chenopodium album L. were 
+purchased from B and T World Seeds, Sarl, Paguignan, 
+France. A voucher specimen (PH005001 SDS) has been 
+deposited in the herbarium of Plant and Soil Science 
+Department, University of Aberdeen, Scotland, UK.
+Extraction and isolation
+ The ground seeds (50 g) of C. album were 
+Soxhlet-extracted, successively, with n-hexane, 
+dichloromethane and methanol (1.1 L each).  All three 
+extracts were concentrated using a rotary evaporator at a 
+temperature not exceeding 50 oC. From the preliminary 
+thin layer chromatographic analysis, it was obvious that 
+280
+L. Nahar, S.D. Sarker
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+15(4):out/dez. 2005
+the n-hexane and DCM extracts contained predominantly 
+long-chain alkanes, and fatty alcohols, acids and esters, 
+and therefore were not subjected to further phytochemical 
+purifi cation. The MeOH extract was subjected to pre-
+HPLC fractionation on a Sep-Pak cartridge eluted with 
+a step gradient using 30, 60, 80 and 100% MeOH in 
+water (250 mL each).  Preparative reversed-phase HPLC 
+(mobile phase: 0-50 min, linear gradient from 30 to 
+100% MeOH in water; 20 mL/min, detection at 220 nm) 
+of the SepPak fraction, which resulted from the elution 
+with 60% MeOH in water, produced previously reported 
+phytoecdysteroids, 20-hydroxyecdysone (37 mg), 20-
+hydroxy-24-methylen-ecdysone (2.3 mg) and 20, 26-
+dihydroxyecdysone (5.1 mg; 25R:25S = 4:1) (Lafont and 
+Wilson, 1996), and the structures of these compounds 
+were determined by spectroscopic means. A similar 
+reversed-phase preparative HPLC purifi cation (mobile 
+phase: 0-40 min, linear gradient from 25 to 55% MeOH 
+in water; 20 mL/min, detection at 220 nm) of another 
+SepPak fraction (30% MeOH in water) yielded the novel 
+compound, chenoalbuside (1, 6.1 mg). The structure of 
+this compound was determined conclusively by a series 
+of spectroscopic data analyses.
+ Chenoalbuside (1): Brown amorphous; UV λmax 
+(MeOH) nm: 234, 296; CIMS m/z: 514 [M+NH4]+; 1H 
+and 13C NMR: Table 1.
+DPPH assay
+2,2-Diphenyl-1-picrylhydrazyl (DPPH), 
+molecular formula C18H12N5O6, was used in this assay to 
+assess the free radical scavenging (antioxidant) property 
+of 1 (Kumarasamy et al., 2002; Takao et al., 1994). 
+Quercetin, a well-known natural antioxidant, was used as 
+a positive control. DPPH (4 mg) was dissolved in MeOH 
+(50 mL) to obtain a concentration of 80 μg/mL.  
+Qualitative Assay: Test compound (1) was 
+applied on a TLC plate and sprayed with DPPH solution 
+using an atomiser. It was allowed to develop for 30 min. 
+The white spots against a pink background indicated the 
+antioxidant activity.
+Quantitative Assay: For the quantitative assay, 
+the stock solution of compound (1) was prepared in 
+MeOH to achieve a concentration of 1 mg/mL.  Dilutions 
+1H-13C HMBC long-range correlations
+2J 3J 
+  
+  
+C-2, C-4 C-1, C-5 
+C-3, C-5 C-2, C-6 
+  
+  
+  
+ C-2 
+ C-6 
+  
+C-1’, C-3’ C-4’, C-6’, C-7’ 
+  
+  
+C-4’, C-6’ C-1’, C-3’ 
+C-1’, C-5’ C-2’, C-4’, C-7’ 
+C-1’ C-1’’, C-2’, C-6’ 
+ C-3’ 
+C-2’’ C-7’, C-3’’, C-5’’ 
+  
+  
+  
+  
+C-5’’ C-7, C-4’’ 
+ 
+116.9 
+154.7 
+108.1 
+111.0 
+145.6 
+150.1 
+164.8 
+55.8 
+62.1 
+129.0 
+113.0 
+147.0 
+148.9 
+115.6 
+121.9 
+70.1 
+56.2 
+101.9 
+73.1 
+77.0 
+71.0 
+75.7 
+64.9
+Chemical shifts δ in ppm Carbons
+1H  13C
+1 - 
+2 - 
+3 6.87 d (8.5) 
+4 6.67 d (8.5) 
+5 - 
+6 - 
+7 - 
+2-OMe 3.88 s 
+6-OMe 3.85 s 
+1’ - 
+2’ 7.18 d (1.8) 
+3’ - 
+4’ - 
+5’ 7.21 d (8.7) 
+6’ 7.07 dd (8.7, 1.8) 
+7’ 6.05 d (10.0) 
+4.80 d (10.0) 
+3’-OMe 3.89 s  
+1’’ 4.92 d (7.8) 
+2’’ 2.95 – 4.30* 
+3’’ 2.95 – 4.30* 
+4’’ 2.95 – 4.30* 
+5’’ 2.95 – 4.30* 
+6’’ 4.58 dd (12.1, 2.3) 
+4.38 dd (12.1, 5.4) 
+Table 1. 1H NMR (400 MHz, coupling constant J in Hz in parentheses), 13C NMR (100 MHz) and 1H-13C HMBC long-range 
+correlations of chenoalbuside (1)
+Spectra obtained in CD3OD
+*Overlapped peaks.
+281
+Chenoalbuside: an antioxidant phenolic glycoside from the seeds of Chenopodium album L. (Chenopodiaceae)
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+15(4):out/dez. 2005
+were made to obtain concentrations of 5x10-2, 5x10-3, 
+5x10-4, 5x10-5, 5x10-6 5x10-7, 5x10-8, 5x10-9, 5x10-10 mg/
+mL. Diluted solutions (1.00 mL each) were mixed with 
+DPPH (1.00 mL) and allowed to stand for 30 min for any 
+reaction to occur. The UV absorbance of these solutions 
+was recorded at 517 nm. The experiment was performed 
+in triplicate and the average absorption was noted for 
+each concentration. The same procedure was followed 
+for the positive control (quercetin). 
+RESULTS AND DISCUSSION
+ Reversed-phase preparative HPLC purifi cation 
+of the SepPak fractions obtained from the methanol 
+extract of the seeds of C. album afforded three known 
+phytoecdysteroids, 20-hydroxyecdysone, 20-hydroxy-
+24-methylen-ecdysone and 20, 26-dihydroxyecdysone 
+(25R:25S = 4:1), and a novel phenolic glycoside, 
+chenoalbuside (1). While the structures of the 
+phytoecdysteroids were determined readily by direct 
+comparison of their spectroscopic data with published data 
+(Lafont; Wilson, 1996), the structure of 1 was elucidated 
+by comprehensive spectroscopic data analyses, including 
+UV, MS, 1D and 2D NMR. 
+ The UV absorption maxima at 234 and 296 nm 
+indicated the presence of a benzenoid structure with a 
+conjugated carbonyl functionality.  The CIMS analysis 
+revealed the pseudomolecular ion, [M+NH4]+ at m/z 
+514, conducive to the molecular formula C23H28O12. The 
+1H and 13C NMR spectra (Table 1) displayed signals, 
+which could be attributed to a tetra- and a tri-substituted 
+benzene rings, an ester carbonyl, an oxymethylene, three 
+methoxyl groups, and a glucosyl unit.  The 1H and 13C 
+NMR data of 1 were similar to those for obtusaside, 
+isolated from Hypoxis obtusa (Msonthi et al., 1990), with 
+some striking differences in the signals associated with the 
+tri-substituted benzene ring and the oxymethylene group. 
+The 1H-13C HSQC experiment helped the identifi cation 
+of all carbons directly linked to the methane, methylene 
+and methyl protons. The 1H-13C HMBC analysis (Table 1) 
+provided information on the 2J and 3J 1H-13C long-range 
+correlations.  In this analysis, a 3J correlation form H2-6’’ 
+(δH 4.58 and 4.38) to the carbonyl (C-7, δC 164.8) of the 
+3-hydroxy-2,6-dimethoxybenzoate moiety.  Similarly, a 
+3J correlation from the oxymethyle H2-7’ (δH 6.05 and 
+4.80) of the 4-hydroxy-3-methoxy benzylalcohol moiety, 
+to the glucose anomeric carbon (C-1’’, δC 101.9), and a 3J 
+correlation from the glucose anomeric proton (δH 4.92) to 
+the oxymethylene carbon (δC 70.1) confi rmed the ether 
+formation between C-1’ and C-1’’.  While the position 
+of all three methoxyl groups on the benzene rings were 
+confi rmed by the detailed 1H-13C HMBC analysis (Table 
+1), further confi rmation on the placement of 2-OMe and 
+3’-OMe was obtained from the nOe interactions observed 
+in the 1H-1H NOESY spectrum (Figure 1), respectively, 
+between 2-OMe (δH 3.88) and H-3 (δH 6.87), and 3’-
+OMe (δH 3.89) and H-2 (δH 7.18).  Thus the structure 
+of this phenolic glycoside was determined conclusively 
+as chenoalbuside (1). It is noteworthy that unlike 
+obtusaside, where the oxygenations are at C-2’ and C-5’, 
+the oxygenation on the benzyl alcohol moiety in 1 were 
+at C-3’ and C-4’.  To our knowledge, chenoalbuside (1) is 
+a novel natural product.
+In the DPPH assay, chenoalbuside (1) showed 
+O
+O
+OH
+OMe
+OMe
+O
+OH OH
+O
+OH
+OMe
+OH
+1
+2
+3
+4
+5 6
+7
+1'
+2'
+3'
+4'
+5'
+6'7'1''2''3''
+4'' 6''
+ 
+1 
+ 
+O
+O
+OH
+OMe
+OMe
+O
+OH OH
+O
+OH
+OMe
+OH
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+H
+Figure 1. Key nOe interactions observed in the 1H-1H NOESY spectrum of 1.
+282
+L. Nahar, S.D. Sarker
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+15(4):out/dez. 2005
+signifi cant levels of free radical scavenging (antioxidant) 
+activity compared to that of the positive control, quercetin. 
+The RC50 values for 1 and quercetin were found to be 1.4 x 
+10-4 and 2.88 x 10-5 mg/mL, respectively. The antioxidant 
+activity of 1, like other natural phenolic antioxidants, e.g. 
+fl avonoids (Kumarasamy et al., 2004), is a consequence 
+of the presence of the phenolic moieties in the structures. 
+The antioxidant activity of phenolic natural products is 
+predominantly owing to their redox properties, i.e. the 
+ability to act as reducing agents, hydrogen donors and 
+singlet oxygen quenchers, and to some extent, could also 
+be due to their metal chelation potential (Kumarasamy et 
+al., 2004).  
+ACKNOWLEDGEMENTS
+We thank the EPSRC National Mass 
+Spectrometry Service Centre (Department of Chemistry, 
+University of Wales Swansea, Swansea, Wales, UK) for 
+CIMS analyses.
+REFERENCES
+Bailey LH 1977. Manual of cultivated plants. MacMillan 
+Publishing Co. Inc., New York.
+Cutillo F, D’Abrosca B, DellaGreca M, Zarrelli A 2004. 
+Chenoalbicin, a novel cinnamic acid amide 
+alkaloid from Chenopodium album. Chemistry and 
+Biodiversity 1: 1579-1583.
+Dai Y, Ye WC, Wang ZT, Matsuda H, Kubo M, But PPH 
+2002. Antipruritic and antinociceptive effects of 
+Chenopodium album L. in mice. J Ethnopharmacol 
+81: 245-250.
+Delazar A, Celik S, Yucel E, Nahar L, Sarker SD 2005. Two 
+acylated fl avonoids from Stachys bombycina and 
+their free radical scavenging activity. Die Pharmazie 
+(in press).
+Delazar A, Shoeb M, Kumarasamy Y, Byres M, Nahar L, 
+Modarresi M, Sarker SD 2004. Two bioactive 
+ferulic acid derivatives from Eremostachys glabra. 
+DARU 12: 49-53.
+DellaGreca M, D’Abrosca B, Fiorentino A, Previtera L, Zarrelli 
+A 2005a. Structure elucidation and phytotoxicity of 
+ecdysteroids from Chenopodium album. Chemistry 
+and Biodiversity 2: 457-462.
+DellaGreca M, Previtera L, Zarrelli A 2005b. A new xyloside 
+from Chenopodium album. Nat Prod Res 19: 87-
+90.
+DellaGreca M, Di Mariono C, Zarrelli A, D’Abrosca B 2004. 
+Isolation and phytotoxicity of apocarotenoids from 
+Chenopodium album. J Nat Prod 67: 1492-1495.
+Dinan L 1992. The analysis of phytoecdysteroids in single 
+(prefl owering stage) specimens of fat hen, 
+Chenipodium album. Phytochem Analysis 3: 132-
+138.
+Dinan L, Whting P, Scott AJ 1998.  Taxonomic distribution 
+of phytoecdysteroids in seeds of members of the 
+Chenopodiaceae. Biochem Syst Ecol 26: 553-576.
+Gohar AA, Elmazar MMA 1997. Isolation of hypotensive 
+fl avonoids from Chenopodium species growing in 
+Egypt. Phytother Res11: 564-567.
+GRIN Database 2005. USDA, ARS, National Genetic Resources 
+Program, Germplasm Resources Information 
+Network (GRIN), National Germplasm Resources 
+Laboratory, Beltsville, Maryland.. Available on-line 
+at, http://www.ars-grin.gov2/cgi-bin/npgs/html/
+genform.pl 
+Horio T, Yoshida K, Kikuchi H, Kawabata J, Mizutani J 1993. A 
+phenolic amide from roots of Chenopodium album. 
+Phytochemistry 33: 807-808.
+Kumarasamy Y, Byres M, Cox PJ, Delazar A, Jaspars M,  Nahar 
+L, Shoeb M, Sarker SD 2004. Isolation, structure 
+elucidation and biological activity of fl avone C-
+glycosides from the seeds of Alliaria petiolata. 
+Chem Nat Comp 40:122-128.
+Kumarasamy Y, Fergusson M, Nahar L, Sarker SD 2002. 
+Biological activity of moschamindole from 
+Centaurea moschata. Pharm Biol 40: 307-310.
+Lafont R, Wilsin I 1996. The ecdysone handbook, 
+Chromatographic Society, Nottigham.
+Maruta Y, Fukushi Y, Ohkawa K, Nakanishi Y, Tahara S, 
+Mizutani J 1995. Antimicrobial stress compounds 
+from Hypochoeris radicata. Phytochemistry 38: 
+1169-1173.
+Msonthi JD, Toyota M, Marston A, Hostettmann K 1990. 
+A phenolic glycoside from Hypoxis obtusa. 
+Phytochemistry 29: 3977-3979.
+Nahar L, Russell WR, Middleton M, Shoeb M, Sarker SD 2005. 
+Antioxidant phenylacetic acid derivatives from the 
+seeds of Ilex aquifolium. Acta Pharmaceutica 55: 
+187-193.
+Sarker SD, Shaheen EM, Eynon E, Nahar L 2005a. Caffeic acid 
+decyl ester: an antioxidant principle from Phleum 
+pratense (Poaceae). Chem Nat Comp 41: 293-296.
+Sarker SD, Kumarasamy Y, Shoeb M, Celik S, Yucel E, 
+Middleton M, Nahar L 2005b. Antibacterial and 
+antioxidant activities of three Turkish species of 
+the genus Centaurea, Oriental Pharmacy and 
+Experimental Medicine 5: 246-250.
+Sarker SD, Eynon E, Fok K, Kumarasamy Y, Murphy EM, 
+Nahar L, Shaheen EM, Shaw NM, Siakalima M 
+2003. Screening the extracts of the seeds of Achillea 
+millefolium, Angelica sylvestris and Phleum pratense 
+for antibacterial, antioxidant activities and general 
+toxicity, Oriental Pharmacy and Experimental 
+Medicine 3: 157-162.
+Tahara S, Kasai S, Inoue M, Kawabata J, Mizutani J 1994. 
+Identifi cation of mucondialdehyde as a novel stress 
+metabolite. Experientia 50: 137-141.
+Takao T, Watanabe N, Yagi I, Sakata K 1994. A simple screening 
+method for antioxidants and isolation of several 
+antioxidants produced by marine bacteria from fi sh 
+and shellfi sh. Biosci Biotech Biochem 58: 1780-
+1783.
+Uddin SJ, Shilpi JA, Delazar A, Nahar L, Sarker SD 2004. Free 
+radical scavenging activity of some Bangladeshi 
+plant extracts, Oriental Pharmacy and Experimental 
+Medicine 4: 185-193.

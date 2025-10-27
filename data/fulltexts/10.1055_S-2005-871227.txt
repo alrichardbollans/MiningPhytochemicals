@@ -1,0 +1,199 @@
+Diterpene Glycosides from Egletes viscose 
+ 
+By: Dongho Lee, Chen Li, Tyler N Graf, Jose Schunke Vigo, James G. Graham, Fernando Cabieses, Norman 
+R. Farnsworth, Geoffrey A. Cordell, A. Douglas Kinghorn, David J. Kroll, Mansukh C. Wanil, Nicholas H. 
+Oberlies 
+ 
+Lee, D.; Li, C.; Graf, T.N.; Vigo, J.S.; Graham, J.G.; Cabieses, F.; Farnsworth, N.R.; Cordell, G.A.; Kinghorn, 
+A.D.; Kroll, D.J.; Wani, M.C. and Oberlies, N.H. (2005) Diterpene glycosides from Egletes Viscosa. Planta 
+Medica. 71, 792-794. 
+ 
+Made available courtesy of George Thieme Verlag: http://www.thieme-connect.com 
+ 
+*** Note: Figures may be missing from this format of the document 
+ 
+Abstract: 
+A phytochemical investigation of the CHCl3-soluble extract of the entire plant of Egletes viscosa (Asteraceae), 
+collected in Peru, afforded two new labdane glycosides, 13-hydroxy-7-oxolabda8,14-diene 13(R)-0-a-L-
+arabinopyranoside and 13–hydroxy-7-oxolabda-8,14-diene 13(R)-O-α-L-arabinopyranoside, along with four 
+known compounds. The structures of the new compounds were elucidated by spectroscopic and chemical 
+methods. 
+ 
+Article: 
+Egletes viscosa (L.) Less, (Asteraceae) is a small herb that is commonly known as "piro-sacha" and "macela-da-
+terra" in Peru and Brazil, respectively. It has been used in traditional medicine for the treatment of various 
+diseases, including gastrointestinal disorders and as an emmenagogue [1], [2], [3]. Several biologically active 
+flavonoids and terpenoids have been reported from this plant by a team of Brazilian researchers [1], [3], [4], 
+although, to the best of our knowledge, it has not been examined for anticancer activity. Thus, as part of our 
+collaborative program to search for new anticancer compounds from plants [5], the CHCl3-soluble extract of the 
+entire plant of E. viscosa, was examined. From this, two new labdane glycosides (1 and 2) and four known 
+compounds, namely 5,7-dihydroxy-2',4'-dimethoxyflavonol [6], 8α,13-epoxylabdan-14,15-diol [7], 13-epi-
+sclareol [8], and tarapacol 14-O-α-L-arabinose [9], were isolated and identified; unfortunately, none of the 
+compounds had significant anticancer activity. 
+ 
+ 
+Compound 1, [α]D: -49.3° (c 0.14, CHC13), was obtained as a colorless gum, The Na adduct of the molecular 
+ion was determined as  C25H40O6Na by HR-ESI-MS (m/z [M Na]
++
+ = 459.2717), indicative of an index of 
+hydrogen deficiency of six. Three of these degrees of unsaturation were accounted for by an α,β-unsaturated 
+ketone moiety, observed in the 
+13
+C NMR spectrum (Table 1) at δc = 200.4 (C-7), 130.4 (C-8), and 168.1 (C-9), 
+and a terminal double bond, which displayed classic cis/trans coupling of three vinylic protons in the 
+1
+H-NMR 
+spectrum (Table 1) at δH - 5.83 (1H, dd, J = 10.9, 17.6 Hz, H-14), 5.27 (1H, d, J = 17.6 Hz, H-15), and 5.31 
+(1H, d, J = 10.9 Hz, H-15). A fourth degree of unsaturation was attributed to the sugar moiety, which exhibited 
+characteristic proton signals at δH= 4.38 (1H, brt, J = 3.3 Hz, H-1') and 3.52 - 3.93 (5H, overlap, H-2'-H2_5’), 
+[9], [10]. Also apparent were five methyl proton signals δH = 1.4] (3H, s, H-16), 1.73 (3H, s, H-17), 0.88 (3H, s, 
+H-18), 0.91 (3H, s, H-19), and 1.06 (3H, s, H-20)]. The labdane diterpenoid skeleton was deduced from the 
+NMR data analysis, including COSY, HSQC, and HMBC experiments [11], [12], and this accounted for the 
+final two degrees of unsaturanon. The presence of an L-arabinose unit was identified by comparison of the 
+NMR data with those reported in the literature [9], [10], by TLC analysis after acid hydrolysis [13], and by 
+measuring the αD of the hydrolyzed sugar, which was positive as expected. The positions of the functional 
+groups were determined unambiguously from an HMBC NMR experiment, and the relative stereochemistry 
+was assigned based on ROESY correlations and literature comparisons [11], [12]; key correlations for these 
+experiments are illustrated in Fig. 1. Moreover, the stereochemistry of C-13 is presumed to be R based on 
+biogenetic similarities to 2, discussed below. Thus, the structure of this new labclane glycoside was elucidated 
+as 13-hydroxy-7-oxolabda-8,14-diene 13(R)-O-α-L-arabinopyranoside (1). 
+ 
+Compound 2, [α]D -19.5° (c 0.13, CHC13), gave the Na adduct of the molecular ion [M + Na]
++
+ at m/z = 
+445.2941 by HR-ESI-MS, consistent with an elemental formula of C25H42O5Na, The 
+1
+H-and 
+13
+C-NIMR spectra 
+of 2 (Table 1) were comparable to those of 1, except for the absence of conjugated ketone resonances and the 
+presence of olefinic signals [δH = 5.37 (1H, brs, H-7), δc = 122.3 (C-7) and 135.1 (C-8)]. The structure of 2, 
+including relative stereochemistry and identity of the sugar moiety, was determined in a manner comparable to 
+that of 1. The aglycone core of 2 was identified as labda-7,14-dien-13(R)-ol by comparison of the NMR data 
+and optical rotation (negative value) with the literature data [14], [15], [16]; this assignment is in agreement 
+with all other known natural glycosides comprising the same aglycone. As a result, the new compound 2 was 
+assigned as 13-hydro-xylabda-7,14-diene 13(R)-O-α-L-arabinopyranoside (2). 
+ 
+All of the compounds isolated in this investigation were evaluated in the KB (human oral epidermoid 
+carcinoma) cell cytotoxicity assay [17], but none of these displayed significant activity (EC50 values > 10 
+μg/mL). The typical average EC50 value for camptothecin in this assay, which was used as a positive control, is 
+0.01 μg/mL [17]. 
+ 
+Materials and Methods 
+Optical rotations, IR spectra, and UV spectra were recorded on a Rudolph Research Autopol III automatic 
+polarimeter, a Nicolet Avatar 360 FT-IR, and a Varian Cary 3 UV-Vis spectrophotometer, respectively. NMR 
+experiments were performed on a Bruker AMX 500 spectrometer with TMS as an internal standard. EI-MS and 
+ESI-MS were recorded on HP5989A and Finnigan LCQ instruments, respectively. HR-ESI-MS were performed 
+with a 3-Tesla Finnigan FTMS-2000 Fourier Transform mass spectrometer. For this, the samples were prepared 
+in 1:1 MeOH:THF + NaCl (to give the sodiated molecular ion), sprayed from a commercial Analytica 
+electrospray ionization source, and focused into the FT-MS cell using a home-built set of ion optics. Preparative 
+HPLC was carried out on a Varian Prostar 210 pump system (10 mL/min) using a YMC (Wilmington, NC) 
+ODS-A (250 x 25 mm, i.d„ 5 μm) column. 
+ 
+Egletes viscosa was collected in July, 1998 in the Province of Coronel Portillo, District of Yarinacocha, Peru. It 
+was taxonomically identified by one of the authors (JGG), and a voucher specimen (A4652) has been deposited 
+at the Field Museum of Natural History, Chicago, IL. We recognize that the above- and below-ground portions 
+may have a slightly different profile of secondary metabolites. However, E, viscosa is a rather small herb, and 
+as such, the entire plant was processed to supply adequate material for our programmatic studies [5]. 
+ 
+The dried plant material (728 g) was extracted in a Soxhlet apparatus with hat MeOH overnight (2 x 3 L), and 
+the MeOH extract concentrated under reduced pressure. This extract was partitioned between 10% aqueous 
+MeOH and hexane, and the aqueous MeOH fraction was partitioned further between CHCl3- MeOH (4 : 1) and 
+water. The organic layer was washed with 1% saline until there was no further evidence of tannins [18]. 
+Fractionation of the organic-soluble extract (4.7 g) was initiated by flash silica gel chromatography (250 g) 
+using a CHC13-MeOH gradient (12 L. total) to afford eleven pooled fractions. Fractions 3 (0.2 g, eluted with 
+2.5% MeOH in CHCl3), 4 (0.3 g, eluted with 3 % MeOH in CHCl3), and 5 (0.4 g, eluted with 4% MeOH 
+CHCl3) were purified using HPLC (gradient of MeCN:H2O, 70:30 to 85:15 over 45 min) to afford 5,7-
+dihydruxy-2',4'-dimethoxyfla-vonol [6], 8α,3-epoxylabdan-14,15-diol [7] {[α]D: -3.6° (c 0.11, CHCl3)}, and 13-
+epi-sclareol [8], [19] {[α]D: +45° (c 0.11, CHCl3)} from fraction 3, compound 2 (tR = 36 min) from fraction 4, 
+as well as compound 1 (tR = 28 min) and tarapacol 14-O-α-L-arabi-nose [9] {[α]D: + 5.7° (c 0.23, CHCl3)} from 
+fraction 5. 
+ 
+13-Hydroxy-7-oxolabda-8,14-diene 13(R)-O-α-L-arobinopyranoside (1): Colorless gum, [α]D: -49,3° (c 0,14, 
+CHCl3); IR (CH2Cl2): vmax = 3058, 1683 on
+-1
+; UV (MeOH): λmax (log ε)= 206 (3.65), 248 (3.67), 293 (3.54) nm; 
+EI-MS: m/z (rel. int.) = 204 (100); HR-ESI-MS: m/z = 459.2717 [M + Na]
++
+ (calcd. for C25H40O6Na: 459.2717); 
+1
+H- and 
+13
+C-NMR data: see Table 1. 
+ 
+13-Hydroxylabda-7,14-diene 13(R)-O-α-L-arabinopyranoside (2): Colorless gum, [α]D: -19.5° (c 013, CHCl3); 
+IR (CH2C12): vmax = 3055 cm
+-1
+; UV (Me0H): λmax (log ε) = 204 (3,55) nm; El-MS: m/z (rel. int.) = 220 (100), 
+436 [M]
++
+; HD-ESI-MS: m/z = 445.2941 [M + Na]
++
+ (calcd. for C25H42O5Na: 445.2924); 
+1
+H- and 
+13
+C-NMR data: 
+see Table 1. 
+ 
+Compounds 1 and 2 and tarapacol 14-O-α-L-arabinose were applied to a silica gel TLC plate and were 
+hydrolyzed with 1 N HCl for 1 h by heating. After removal of residual HCl under nitrogen, the plate was 
+developed using CHC13-MeOH-H2O (2:1:0.1). The air-dried plate was sprayed with 10% H2SO4 in MeOH-H2O 
+(5 :1) and heated at 120° C to identify spots that were attributed to arabinose by comparison to a reference 
+standard of arabinose 0.3) [13]. Moreover, to determine if the sugar was L-arabinose or D-arabinose, aqueous 
+solutions of 1 and 2 (5 mg, each) in 1 N NCl were heated at 110°C for 1 h under an N2 atmosphere. After 
+drying under N2, the sugars and the aglycones were separated by liquid-liquid partitioning between CHCl3 and 
+H2O. The sugar fractions were confirmed as L-arabinose (literature [α]D: + 104°) by comparison of their optical 
+rotation values ([α]D: +95° and [α]D: + 88° for the sugars of 1 and 2, respectively). 
+ 
+All compounds were tested for cytotoxicity against human oral epidermoid carcinoma (KB) cells as described 
+previously [17]. 
+ 
+Acknowledgements 
+This research was supported by grant U19-CA52956 from the National Cancer Institute, National institutes of 
+Health, Bethesda, MD. DL, CL, and NHO acknowledge partial support via a Research Scholar Grant to MHO 
+from the American Cancer Society (RSG-02-024-01-CDD). High-resolution mass spectrometric analyses were 
+performed at the Ohio State University Department of Chemistry's Mass Spectrometry facility. Dr. M. Dillon, 
+Field Museum of Natural History, Chicago, IL, is thanked for the plant identification, and Ms. S.S. Phifer of 
+RTI is thanked for technical assistance. 
+ 
+References 
+1 Lima MAS, Silveira ER, Marques MSL, Santos RHA, Gambardela MTP. Biologically active flavonoids and 
+terpenoids from Egletes viscosa. Phytochemistry 1996; 41: 217 -23 
+2 Rao VSN, Mendezes AMS, Gadelha MGT. Antifertility screening of some indigenous plants of Brazil, 
+Fitoterapia 1988; 59: 17 -20 
+3 Rao VSN, Santos FA, Sobreira Tf, Souza MF, Melo CL, Silveira ER. Investigations on the gastroprotective 
+and antidiarrhoeal properties of ternein, a tetramethoxyflavone from Egletes viscosa, Planta Med 1997; 63: 146-
+9 
+4 Guedes MM, Cunha AN, Silveira ER, Rao VSN. Antinociceptive and gastroprotective effects of diterpenes 
+from the flower buds of Egletes viscosa. Planta Med 2002; 68: 1044- 6 
+5 Kinghorn AD, Farnsworth NR, Soejarto DD, Cordell GA, Swanson SM, Pezzuto JM et al. Novel strategies 
+for the discovery of plant-derived anticancer agents. Pharm Biol 2003; 41 (supplement): 53 -67 
+6 Batterharn TJ, Highet RJ. Nuclear magnetic resonance spectra of flavanoids. Aust J Chem 1964; 17: 428-32 
+7 Rodriguez B, Valverde 5, Fraga BM, Gonzalez AG, Hernandez MG. De-termination of stereochemistry of C-
+14 in 8,13-epi-epoxy-14,15-dihy-droxylabdanes using proton NMR spectroscopy, An Quim 1976; 72: 850-4 
+8 Stierle DB, Stierle AA, Larsen RD. Terpenoid and flavone constituents of Pofemonium viscosum. 
+Phytochemistry 1988; 27; 517-22 
+9 Torrenegra R, Robles J, Waibel R, Lovvel M. Achenbach H. Diterpenes and diterpene xylosides from Conyza 
+trihecatactis. Phytochemistry 1994; 35: 195-9 
+10 Ahmed AA, Mahrnoud AA, Ahmed UM, El-Bassuony AA, Abd El-Razk MH, Pare PW et al. Manoyl oxide 
+a-arabinopyranoside and grindelic acid diterpenoids from Grindelia integrifolia. J Nat Prod 2001; 64: 1365-7 
+11 Jakupovic J, Ellmauerer E, Bohlmann F, King RM, Robinson H, ent-Labdanes from Austrobrickeilia patens. 
+Phytochemistry 1986; 25: 1927-9 
+12 Wu C-L, Lin H-R, Labdanoids and bis(bibenzyls) from Jungerinannin species. Phytochemistry 1997; 44: 
+101 -5 
+13 Kim N-C, Desjardins AE, Wu CD, Kinghorn AD. Activity of triterpenoid glycosides from the root bark of 
+Mussaeacla macrophylla against two oral pathogens. J Nat Prod 1999; 62: 1379- 84 
+14 Uchio Y, Nagasaki M, Eguchi S, Matsuo A, Nakayama M, Hayashi S. Lab-dane diterpene glycosides with 
+6-deoxy-t-idose from Asterspathulifolius Maxim. Tetrahedron Lett 1980; 21: 3775-8 
+15 Khan MR, Gray AI, Waterman PG. Clerodane diterpenes from Zuelaaia guidonfa stem bark. Phytochemistry 
+1990; 29: 2939 -42 
+16 Choi SZ, Kvvon HC, Choi SU, Lee KR. Five new labdane diterpenes front Aster oharai. J Nat Prod 2002; 
+65: 1102 - 6 
+17 Gu J-Q, Graf TN, Lee D, Chai H-B, Mi Q, Kardono LDS et al. Cytotoxic and antimicrobial constituents of 
+the bark of Diospyros maritima collected in two geographical locations in Indonesia, j Nat Prod 2004; 67: 1156 
+- 61 
+18 Wall ME, Wani MC, Brown DM, Fullas F, Oswald JB, Josephson FF et al, Effect of tannins on screening of 
+plant extracts for enzyme inhibitory activity and techniques for their removal. Phytomeclicine 1996; 3: 281-5 
+19 Torrenegra R, Pedrozo J, Robles J, Waibel R, Achenbach H. Diterpenes from Gnaphalium pellitum and 
+Gump/minim graveolens. Phytochemistry 1992; 31: 2415- 8 

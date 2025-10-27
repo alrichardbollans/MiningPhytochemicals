@@ -1,0 +1,310 @@
+Divinatorins A-C, New Neoclerodane Diterpenoids from the Controlled Sage
+Salvia divinorum
+Andrea K. Bigham,† Thomas A. Munro,‡ Mark A. Rizzacasa,*,‡ and Roy M. Robins-Browne†
+School of Chemistry, The University of Melbourne, Victoria, 3010, Australia
+Received July 17, 2003
+Three new neoclerodane diterpenoids, divinatorins A-C (7-9), have been isolated from the leaves of
+Salvia divinorum. The compounds were identified by spectroscopic methods as derivatives of the antibiotic
+(-)-hardwickiic acid (10), which was also isolated, along with four other known terpenoids. Neither the
+crude extract nor 7-9 displayed antimicrobial activity.
+Salvia divinorum Epling & Ja´tiva (Lamiaceae) is a sage
+used medicinally by the Mazatec Indians of Oaxaca,
+Mexico. The leaves contain salvinorin A (1),1 a potent
+hallucinogen acting at the kappa opioid receptor.2 Recently,
+the plant has gained notoriety as a legal hallucinogen, sold
+openly on the Internet. As a result, the plant and compound
+1 have been prohibited in Australia3 (a recent bill to
+prohibit the plant in the United States was not enacted).4
+The enforcement of such controls is likely to be hampered
+by the plant’s nondescript appearance and the very limited
+chemical data available.5 Until recently, only four com-
+pounds had been isolated from this species: salvinorins A
+(1), B (2),6 and C (3)7 and loliolide.8 GC/MS analysis also
+indicated the possible presence of neophytadiene and
+stigmasterol.5
+Recently we reported the isolation of salvinorins D-F
+(4-6) from the acetone extract of commercial S. divi-
+norum,9 employing chromatography on activated carbon to
+separate the terpenoids from complicating pigments. This
+work generated several mixed fractions, which appeared
+initially to be inseparable. Exhaustive chromatography on
+silica gel, employing high silica ratios and diverse solvent
+systems, has now yielded divinatorins A-C (7-9), along
+with the known terpenoids (-)-hardwickiic acid (10)10 and
+oleanolic acid (11).11
+In addition, an extraction of locally grown leaves was
+undertaken. The acetone extract was again chromato-
+graphed on activated carbon; elution with EtOAc/petrol
+gave partial separation of two terpenoid fractions. The first,
+after chromatography on silica gel, yielded the known
+terpenoids presqualene alcohol (12),12 peplusol (13),13 and
+(E)-phytol (14).14 The second mixture was recrystallized
+from MeOH to give 1, albeit in much lower yield than from
+the commercial material (0.56 g/kg).
+The structures of 7-9 were elucidated chiefly by NMR
+(1H,13C, DEPT, HMQC, HMBC, COSY, and NOESY in each
+case). The 1H NMR spectra suggested that they were
+derivatives of 10. The molecular formula of 7, C20H28O4
+(HRESIMS), implied the presence of a single hydroxyl
+substituent, which was confirmed by an IR absorption at
+3392 cm-1. This was located at C-1 on the basis of 2D
+NMR: the oxymethine at ä 4.49 showed couplings to H-2
+and -10 (COSY) and C-3, -9, and -10 (HMBC). The config-
+uration was confirmed by an H-1 to H-11 cross-peak in the
+NOESY spectrum.
+The 1H NMR spectrum of 8 suggested a methyl ester (ä
+3.71) with two hydroxyl groups [ä 1.49 (2H, D2O-exchange-
+able)]. A strong IR absorption band occurred at 3434 cm-1.
+The molecular formula, C21H30O5 (HRESIMS), was con-
+sistent with this proposal. One of the hydroxyl groups was
+again located at C-1, showing the same couplings as in 7.
+The second was located at C-17, on the basis of the
+couplings of the oxymethylene signals (ä 3.38 and 3.84) to
+H-8 (COSY) and to C-7, -8, and -9 (HMBC). The NOESY
+* To whom correspondence should be addressed. Tel: +61-3-8344-6488.
+Fax: +61-3-9347-5180. E-mail: masr@unimelb.edu.au.
+† Department of Microbiology and Immunology.
+‡ School of Chemistry.
+10.1021/np030313i CCC: $25.00 © xxxx American Chemical Society and American Society of Pharmacognosy
+PAGE EST: 2.8Published on Web 00/00/0000
+spectrum showed H-1 to H-11 and H-17 to H-20 cross-
+peaks, confirming the configuration at these centers.
+The 1H NMR spectrum of 9 showed an acetyl methyl
+signal (ä 2.03). The oxymethylene signals, shifted downfield
+to ä 3.79 and 4.26, showed the same couplings as in 8,
+establishing the 17-acetoxy structure shown. This was con-
+sistent with the molecular formula, C22H30O5 (HRESIMS).
+The expected relative stereochemistry of compounds 7-9
+was confirmed in each case by NOESY cross-peaks from
+H-20 to H-17 and -19 (setting C-5, -8, and -9), and H-10 to
+H-12 (setting C-10). The absolute stereochemistry shown
+is common to all clerodanes isolated from the Lamiaceae,15
+including 116 and 10.17
+Since compound 10 has previously been shown to display
+potent, broad-spectrum antimicrobial activity,10 7-9 were
+screened against standard antibiotic-susceptible strains of
+Escherichia coli, Staphylococcus aureus, Bacillus subtilis,
+and Candida albicans, using standard microdilution18,19
+and disk diffusion20 assays. Compounds 7-9 showed no
+activity against any of the test organisms at 100 íg/mL or
+100 íg/disk. These data extend the remarkably stringent
+structure-activity requirements of 10.10 To probe this
+further, we decided to screen (+)-hardwickiic acid (ent-10).
+This was isolated from copaiba balsam as the methyl
+ester.21 Hydrolysis proved challenging: reflux in KOH/
+MeOH gave only slow decomposition, but microwave ir-
+radiation on KF/Al2O322 provided ent-10 in low yield. ent-
+10 proved active against S. aureus (MIC 25 íg/mL) and B.
+subtilis (MIC 12.5 íg/mL, 10 mm zone of inhibition), but
+much less potent than its enantiomer (MIC 0.78 íg/mL
+against B. subtilis).10
+A previous non-peer-reviewed investigation23 reported
+the acetone extract of S. divinorum to be active against a
+wide range of bacteria. We were unable to confirm these
+results. The acetone extract of the commercial material,
+as well as 1, showed no activity at 100 íg/mL or 100 íg/
+disk. Probably insufficient 10 and 11 were present to elicit
+an effect (11, like 10, is active against B. subtilis and S.
+aureus).24
+Experimental Section
+General Experimental Procedures. Instruments and
+materials were as described previously.9 Flash column chro-
+matography was performed on Merck silica gel 60. Silica:solute
+mass ratios up to 400:1 were used for difficult separations (¢Rf
+< 0.05). Vacuum chromatography was performed on Merck
+activated carbon 2183. ‘Petrol’ refers to the petroleum ether
+fraction boiling at 40-60 °C.
+Plant Materials. S. divinorum plants, cultivated in Mel-
+bourne, were harvested in February 2003. A voucher specimen
+was deposited at the National Herbarium of Victoria (accession
+number MEL 2145478). Copaiba balsam was donated by
+Australian Botanical Products (Hallam, Victoria).
+Antimicrobial Tests. The crude extract and pure com-
+pounds were tested against Escherichia coli (ATCC 25922),
+Staphylococcus aureus (ATCC 29213), Bacillus subtilis (ATCC
+6633), and Candida albicans (ATCC 90028) using standard
+broth microdilution18,19 (100-0.19 íg/mL using 2-fold serial
+dilutions) and disc-diffusion20 assays (100 íg/disk). All meas-
+urements were performed in duplicate. Streptomycin sulfate
+and amphotericin B were used as positive controls.
+Extraction and Isolation. Dried commercial S. divinorum
+leaves (860 g) were extracted as described previously.9 The
+mother liquor from recrystallization of 1 was subjected to flash
+column chromatography (FCC) on silica gel in a 5-50%
+acetone/CH2Cl2 gradient. This was divided based on TLC (10%
+acetone/CH2Cl2) into four series: A (656 mg), B (150 mg), C
+(359 mg), and D (77 mg).
+Series A: 90 mg was subjected to FCC, eluting with a
+gradient from 50 to 80% Et2O/petrol, to give 10 (6 mg).
+Series C: trituration in Et2O gave 4 (75 mg). FCC of the
+mother liquor (60-100% Et2O/petrol) gave four fractions based
+on TLC (70% Et2O/petrol): C1 (55 mg), C2 (119 mg), C3 (57
+mg), and C4 (26 mg)
+Fraction C1: repeated FCC (20% acetone/petrol and 40-
+60% Et2O/petrol) gave 9 (23 mg) and 11 (3 mg).
+Fraction C2: repeated FCC (25% acetone/petrol and 60-
+100% Et2O/petrol) gave 8 (32 mg).
+Fraction C3: extensive FCC (Et2O/petrol, acetone/petrol,
+and EtOAc/petrol) gave additional 8 (total yield 41 mg) and a
+mixture of 5 and 6, which were separated as described
+previously.9
+Fraction C4 gave pure 4 (total yield 114 mg).
+Table 1. 1H NMR Data (400 MHz) for Compounds 7-9a
+ä, m, J (Hz)
+H 7 8 9
+1 4.49 br d (4.8) 4.46 br d (4.9) 1.70 m
+1.46 m
+2 2.56 ddd (20.1, 5.1, 2.8) 2.53 ddd (19.9, 5.1, 2.8) 2.35 dt (20.5, 5.1)
+2.40 m 2.34 m 2.19 m
+3 6.90 dd (4.8, 2.7) 6.65 dd (4.8, 2.7) 6.89 dd (4.4, 2.9)
+6 2.40 m 2.36 m 2.53 dt (13.2, 3.2)
+1.20 m 1.16 m 1.15 td (13.2, 3.6)
+7 1.57 m 1.87 m 1.74 m
+1.43 m 1.56 m 1.48 m
+8 1.55 m 1.58 m 1.79 m
+10 1.45 br s 1.45 br s 1.42 br d (12.1)
+11 1.85 ddd (14.7, 12.8, 4.7) 1.91 m 1.75 m
+1.68 m 1.77 m 1.63 m
+12 2.33 m 2.42 td (13.6, 4.6) 2.40 td (13.8, 4.2)
+2.05 ddd (14.3, 12.9, 4.7) 2.08 ddd (14.1, 12.8, 4.7) 2.20 m
+14 6.25 br s 6.25 br s 6.28 br s
+15 7.36 t (1.6) 7.35 t (1.7) 7.35 t (1.6)
+16 7.20 br s 7.20 br s 7.22 br s
+17 0.84 d (6.0) 3.84 dd (10.5, 3.7) 4.26 dd (11.0, 4.1)
+3.38 dd (10.5, 8.0) 3.79 dd (11.0, 8.4)
+19 1.64 s 1.66 s 1.27 s
+20 1.15 s 1.18 s 0.83 s
+CO2CH3 3.71 s
+OCOCH3 2.03 s
+OH 1.49 br s
+a In CDCl3 as solvent and internal standard (7.26 ppm).
+B Journal of Natural Products Notes
+Series D: repeated FCC (60% Et2O/petrol and 4% MeOH/
+CH2Cl2) gave 7 (36 mg).
+Extraction of Australian Material. Dried, powdered
+Australian-grown S. divinorum leaves (224 g) were steeped
+in acetone for 30 min (3  250 mL). Filtration and evaporation
+under reduced pressure gave a dark green tar (7 g). This was
+purified by vacuum column chromatography on a mixture of
+activated carbon (75 g) and diatomite filter aid (1:1), eluting
+with a gradient from 50 to 20% EtOAc/petrol, to give series E
+(97 mg) and F (279 mg) based on TLC (70% Et2O/petrol).
+Series E: repeated FCC (1% acetone/CH2Cl2 and 20% Et2O/
+petrol) gave 13 (6 mg). Further FCC (0.75% MeOH/CH2Cl2 and
+1% EtOH/CHCl3) gave 12 (23 mg) and 14 (12 mg).
+Series F: two recrystallizations from MeOH gave 1 (126
+mg).
+Divinatorin A (7): amber resin; [R]19D -53° (c 1.8, CH2Cl2);
+FTIR (film) îmax 3392, 2927, 2874, 2648, 1684, 1456, 1411,
+1386, 1245 cm-1; 1H and 13C NMR, see Tables 1 and 2;
+HRESIMS [M + Na+] m/z 355.1864 (calcd for C20H28O4Na+,
+355.1880); TLC, see Table S1.
+Divinatorin B (8): amber resin; [R]20D -54° (c 2.1, CHCl3);
+FTIR (film) îmax 3434, 2930, 2881, 1714, 1437, 1236, 1067 cm-1;
+1H and 13C NMR, see Tables 1 and 2; HRESIMS [M + Na+]
+m/z 385.1988 (calcd for C21H30O5Na+, 385.1985); TLC, see
+Table S1.
+Divinatorin C (9): amber resin; [R]25D -110° (c 1.1, CHCl3);
+FTIR (film) îmax 2960, 2873, 1738, 1681, 1236, 1025 cm-1; 1H
+and 13C NMR, see Tables 1 and 2; HRESIMS [M + Na+] m/z
+397.1989 (calcd for C22H30O5Na+, 397.1985); TLC, see Table
+S1.
+Methyl (-)-hardwickiate (10b): amber syrup; [R]25D
+-115° (c 0.03, CHCl3) [lit.10 -104°]; 1H and 13C NMR, FTIR,
+and EIMS (70 eV) matched literature values.10
+Acknowledgment. We thank the Melbourne University
+Research Grants Scheme for financial support; the Common-
+wealth Department of Education, Science and Training for an
+Australian Postgraduate Award (T.M.); Australian Botanical
+Products (Hallam, Victoria) for donation of copaiba balsam,
+and their chief chemist, Dr. Charles Cornwell, for performing
+the GC/MS analysis of 10b; Dr. Parshia Lee-Steecum for
+advice on latin arcana.
+Supporting Information Available: 1H and 13C NMR spectra
+for 7-9; TLC data for 1-14; isolation procedure for ent-10.
+This material is available free of charge via the Internet at http://
+pubs.acs.org.
+References and Notes
+(1) Ortega, A.; Blount, J. F.; Manchand, P. S. J. Chem. Soc., Perkin Trans.
+1 1982, 2505-2508.
+(2) Roth, B. L.; Baner, K.; Westkaemper, R.; Siebert, D.; Rice, K. C.;
+Steinberg, S.; Ernsberger, P.; Rothman, R. B. Proc. Natl. Acad. Sci.
+U.S.A. 2002, 99, 11934-11939.
+(3) Standard for the Uniform Scheduling of Drugs and Poisons No. 18;
+Commonwealth Department of Health and Ageing: Canberra,
+2003; p 234. See under the “corrected” name ‘METHYL (2S, 4aR,
+6aR, 7R, 9S, 10aS, 10bR)-9-ACETOXY-6a,10b-DIMETHYL-4,10-
+DIOXO-DODECAHYDRO-2-(3-FURYL)-2H-NAPHTHO[2,1-c]PYRAN-
+7-CARBOXYLATE’. Note new errors in substituent order, spacing,
+and hyphenation.
+(4) Hallucinogen Control Act of 2002 (HR 5607).
+(5) Giroud, C.; Felber, F.; Augsburger, M.; Horisberger, B.; Rivier, L.;
+Mangin, P. Forensic Sci. Int. 2000, 112, 143-150.
+(6) Valde´s, L. J., III; Butler, W. M.; Hatfield, G. M.; Paul, A. G.; Koreeda,
+M. J. Org. Chem. 1984, 49, 4716-4720.
+(7) Valde´s, L. J., III; Chang, H. M.; Visger, D. C.; Koreeda, M. Org. Lett.
+2001, 3, 3935-3937.
+(8) Valde´s, L. J., III. J. Nat. Prod. 1986, 49, 171.
+(9) Munro, T. A.; Rizzacasa, M. A. J. Nat. Prod. 2003, 66, 703-705.
+(10) McChesney, J. D.; Clark, A. M.; Silveira, E. R. J. Nat. Prod. 1991,
+54, 1625-1633. (10 was characterized as the methyl ester 10b.)
+(11) Huang, K.-F.; Hsu, C.-J. J. Chin. Med. (Taiwan) 2001, 12, 61-67.
+(12) Rogers, D. H.; Yi, E. C.; Poulter, C. D. J. Org. Chem. 1995, 60, 941-
+945.
+(13) Giner, J.-L.; Berkowitz, J. D.; Andersson, T. J. Nat. Prod. 2000, 63,
+267-269.
+(14) SDBS (Integrated Spectral Data Base System for Organic Com-
+pounds) http://www.aist.go.jp/RIODB/SDBS/menu-e.html (accessed
+June 2003). See compound 7578.
+(15) Hahn, L. R.; Esquivel, B.; Cardenas, J. Prog. Chem. Org. Nat. Prod.
+1994, 63, 107-196; p 110.
+(16) Koreeda, M.; Brown, L.; Valde´s, L. J., III. Chem. Lett. 1990, 2015-
+2018.
+(17) Misra, R.; Pandey, R. C.; Dev, S. Tetrahedron Lett. 1968, 2681-2684.
+(18) National Committee for Clinical Laboratory Standards. Methods for
+Dilution Antimicrobial Susceptibility Tests for Bacteria that Grow
+Aerobically; Approved Standard M7-A6, 6th ed.; Wayne, PA,
+2003.
+(19) National Committee for Clinical Laboratory Standards. Reference
+Method for Broth Dilution Antifungal Susceptibility Testing of Yeasts;
+Approved Standard M27-A2, 2nd ed.; Wayne, PA, 2002.
+(20) National Committee for Clinical Laboratory Standards. Performance
+Standards for Antimicrobial Disk Susceptibility Tests; Approved
+Standard M2-A8, 8th ed.; Wayne, PA, 2003.
+(21) Costa, M.; Tanaka, C. M. A.; Imamura, P. M.; Marsaioli, A. J.
+Phytochemistry 1999, 50, 117-122.
+(22) Kabalka, G. W.; Wang, L.; Pagni, R. M. Green Chem. 2001, 3, 261-
+262.
+(23) Rovinsky, S. A.; Cizadlo, G. R. In The McNair Scholarly Review;
+College of St. Scholastica: Duluth, MN, 1998; Vol. 3, pp 142-156.
+(24) Woldemichael, G. M.; Singh, M. P.; Maiese, W. M.; Timmermann, B.
+N. Z. Naturforsch., C: J. Biosci. 2003, 58, 70-75.
+NP030313I
+Table 2. 13C NMR Data (100 MHz) for Compounds 7-9a
+ä
+C 7 8 9
+1 64.7 64.3 17.0
+2 38.1 38.0 27.4
+3 136.2 133.2 140.3
+4 140.8 141.4 141.2
+5 37.4 37.1 37.4
+6 38.6 38.0 35.2
+7 27.4 21.9 22.3
+8 37.1 44.8 40.9
+9 39.7 39.1 38.4
+10 49.0 48.7 46.8
+11 39.1 38.8 38.9
+12 18.2 18.2 18.3
+13 125.2 124.9 125.2
+14 110.9 110.8 110.9
+15 142.8 142.8 142.8
+16 138.4 138.4 138.5
+17 15.7 63.9 66.1
+18 171.8 167.3 171.9
+19 21.4 21.4 20.5
+20 19.8 20.9 19.0
+CO2CH3 51.3
+OCOCH3 21.0
+OCOCH3 171.2
+a In CDCl3 as solvent and internal standard (77 ppm).
+Notes PAGE EST: 2.8 Journal of Natural Products C

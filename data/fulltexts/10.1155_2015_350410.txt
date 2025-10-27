@@ -1,0 +1,947 @@
+Research Article
+Cytotoxic and Antimigratory Activities of Phenolic Compounds
+from Dendrobium brymerianum
+Pornprom Klongkumnuankarn,1 Kesarin Busaranon,2 Pithi Chanvorachote,3,4
+Boonchoo Sritularak,1,4 Vichien Jongbunprasert,1 and Kittisak Likhitwitayawuid1,4
+1Department of Pharmacognosy and Pharmaceutical Botany, Faculty of Pharmaceutical Sciences, Chulalongkorn University,
+Bangkok 10330, Thailand
+2Faculty of Pharmacy, Rangsit University, PathumThani 12000, Thailand
+3Department of Pharmacology and Physiology, Faculty of Pharmaceutical Sciences, Chulalongkorn University,
+Bangkok 10330, Thailand
+4Cell-Based Drug and Health Product Development Research Unit, Faculty of Pharmaceutical Sciences, Chulalongkorn University,
+Bangkok 10330, Thailand
+Correspondence should be addressed to Pithi Chanvorachote; pithi.c@chula.ac.th and
+Boonchoo Sritularak; boonchoo.sr@chula.ac.th
+Received 16 October 2014; Revised 18 December 2014; Accepted 22 December 2014
+Academic Editor: Maryna Van de Venter
+Copyright © 2015 Pornprom Klongkumnuankarn et al. This is an open access article distributed under the Creative Commons
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+Chromatographic separation of a methanol extract prepared from the whole plant ofDendrobium brymerianum led to the isolation
+of eight phenolic compounds. Among the isolated compounds (1–8),moscatilin (1), gigantol (3), lusianthridin (4), and dendroflorin
+(6) showed appreciable cytotoxicity against human lung cancer cell lines with IC
+50
+values of 196.7, 23.4, 65.0, and 125.8 𝜇g/mL,
+respectively, and exhibited antimigratory property at nontoxic concentrations. This study is the first report on the biological
+activities of this plant.
+1. Introduction
+High incidence of cancer metastasis in lung cancer makes
+this type of cancer among the most severe in the world [1].
+Although the patients who receive appropriate treatments
+have approximately 15-16% of 5-year survival, the relapse
+of the disease cannot be ignored [2]. Metastasis of cancer
+cells involves the ability of the cells to migrate away from
+their origin. The cells migrate and invade through the
+basementmembrane and enter the blood circulation. At their
+appropriate secondary sites, the cells adhere on the endothe-
+lial surface, migrate and invade out of the vessel, and establish
+themselves to form metastasis [3]. Currently, research on the
+motility of cancer cells has garnered increased attention, since
+the discovery of novel antimigratory compounds could lead
+to new cancer treatments.
+Several plants in the genus Dendrobium (Orchidaceae)
+have long been used in traditional Chinesemedicine as tonics
+[4]. Previous pharmacological studies showed that some
+Dendrobium species were potential sources of cytotoxic com-
+pounds [5]. A number of cytotoxic constituents have been
+reported from Dendrobium, for example, dengraols A and B
+from D. gratiosissimum Rchb. f. [6], erianin from D. chryso-
+toxum Lindl. [7], and moscatilin from several Dendrobium
+species [8].The compoundmoscatilin is of particular interest,
+as it showed significant antimetastatic activity with relatively
+low cytotoxicity [9, 10]. Dendrobium brymerianum Rchb. f. is
+a plant found in Thailand, Burma, Laos, and China [11, 12].
+Recently, some phenolic compounds have been identified
+from this plant [12], but their cytotoxic and antimigratory
+activities have not been examined. As part of our continuing
+studies on anticancer agents from Dendrobium plants [13,
+14], a MeOH extract obtained from the whole plant of D.
+brymerianum was evaluated and found to possess significant
+cytotoxicity against human lung cancer H460 cells, show-
+ing 80% inhibition at a concentration of 50𝜇g/mL. This
+Hindawi Publishing Corporation
+Evidence-Based Complementary and Alternative Medicine
+Volume 2015, Article ID 350410, 9 pages
+http://dx.doi.org/10.1155/2015/350410
+2 Evidence-Based Complementary and Alternative Medicine
+prompted us to investigate the plant to identify the cytotoxic
+components, as well as determine their antimigratory activity
+against cancer cells.
+2. Material and Methods
+2.1. General. Mass spectra were recorded on a UPLC mass
+spectrophotometer (Waters 2996-2695, ESI-MS). NMR spec-
+tra were recorded on a Bruker Avance DPX-300 FT-NMR
+spectrometer or a Varian Unity INOVA-500 NMR spectrom-
+eter. Optical rotation was measured on a Perkin-Elmer 341
+polarimeter. Vacuum-liquid column chromatography (VLC)
+and column chromatography (CC) were performed on silica
+gel 60 (Merck, Kieselgel 60, 70–320mesh), silica gel 60
+(Merck, Kieselgel 60, 230–400mesh), and Sephadex LH-20
+(25–100 𝜇m, Pharmacia Fine Chemical Co. Ltd.).
+2.2. Plant Material. Sample of D. brymerianum was pur-
+chased from Jatujak market, Bangkok, Thailand, in Septem-
+ber 2012 and identified by ProfessorThatree Phadungcharoen
+(Department of Pharmacognosy and Pharmaceutical Botany,
+Faculty of Pharmaceutical Sciences, Chulalongkorn Uni-
+versity). A voucher specimen (BS-DB-092555) is deposited
+at the Department of Pharmacognosy and Pharmaceutical
+Botany, Faculty of Pharmaceutical Sciences, Chulalongkorn
+University, Bangkok, Thailand.
+2.3. Extraction and Isolation. The dried and powdered whole
+plant (3 kg) was macerated with MeOH (3 × 10 L) to give
+a MeOH extract (100 g) after removal of the solvent. This
+material was fractionated by vacuum-liquid chromatography
+(VLC) on silica gel (n-hexane-EtOAc gradient) to give 6
+fractions (A–F). Fraction F (16.0 g) was separated by column
+chromatography (CC) over silica gel and eluted with n-
+hexane-EtOAc gradient, to give 11 fractions (FI–FXI). Frac-
+tion FV (2.2 g) was separated on Sephadex LH20 (acetone)
+to give 8 fractions (FV1–FV8). Compounds 1 (100mg) and
+2 (47mg) were obtained from fraction FV4 (390mg) after
+purification on Sephadex LH 20 (acetone). Fraction FV5
+(1.0 g) was further purified on Sephadex LH 20 (acetone) to
+furnish compound 3 (50mg). Purification of fraction FV6
+(108mg) on Sephadex LH 20 (acetone) gave compound 4
+(5mg). Fraction FVI (4.8 g) was separated by CC over silica
+gel (CH
+2
+Cl
+2
+-EtOAc gradient) to yield 7 fractions (FVI1–
+FVI7). Fraction FVI4 (1.7 g) was separated on Sephadex LH
+20 (acetone) and further purified by CC (silica gel; CH
+2
+Cl
+2
+-
+EtOAc, 9 : 1) to afford compounds 5 (6mg) and 6 (74mg),
+respectively. Fraction FVI6 (93mg) was separated by CC
+(silica gel; CH
+2
+Cl
+2
+-EtOAc, gradient) to give compounds 7
+(6mg) and 8 (4mg), respectively.
+Moscatilin (1). Brown amorphous solid; C
+17
+H
+20
+O
+5
+; ESI-MS
+m/z 305 [M+H]+; 1H NMR (500MHz, acetone-d
+6
+) 𝛿: 2.78
+(4H, m, H
+2
+-𝛼, H
+2
+-𝛼󸀠), 3.75 (6H, s, MeO-3, MeO-5), 3.76 (3H,
+s, MeO-3󸀠), 6.48 (2H, s, H-2,6), 6.64 (1H, dd, 𝐽 = 8.0, 2.0Hz,
+H-6󸀠), 6.75 (1H, d, 𝐽 = 8.0Hz, H-5󸀠), 6.78 (1H, d, 𝐽 = 2.0Hz,
+H-2󸀠); 13C NMR (125MHz, acetone-d
+6
+) 𝛿: 38.3 (C-𝛼󸀠), 38.8
+(C-𝛼), 56.1 (MeO-3󸀠), 56.5 (MeO-3,MeO-5), 106.7 (C-2, C-6),
+112.9 (C-2󸀠), 115.4 (C-5󸀠), 121.6 (C-6󸀠), 133.1 (C-1), 134.1 (C-1󸀠),
+134.8 (C-4), 145.3 (C-4󸀠), 147.9 (C-3󸀠), 148.3 (C-3,5).
+Flavanthrinin (2). Brown amorphous solid; C
+15
+H
+12
+O
+3
+; ESI-
+MSm/z 241 [M+H]+; 1HNMR (500MHz, acetone-d
+6
+) 𝛿: 4.15
+(3H, s, MeO-4), 6.98 (1H, d, 𝐽 = 2.5Hz, H-3), 7.06 (1H, d,
+𝐽 = 2.5Hz, H-1), 7.08 (1H, dd, 𝐽 = 7.5, 2.5Hz, H-6), 7.40 (1H,
+d, 𝐽 = 2.5Hz, H-8), 7.42 (1H, d, 𝐽 = 7.5Hz, H-5), 7.49 (1H,
+d, 𝐽 = 9.0Hz, H-10), 7.62 (1H, d, 𝐽 = 9.0Hz, H-9); 13C NMR
+(125MHz, acetone-d
+6
+) 𝛿: 58.5 (MeO-4), 102.5 (C-3), 107.7 (C-
+1), 114.0 (C-4a), 116.9 (C-6), 119.9 (C-4b), 121.0 (C-8), 126.9 (C-
+10), 127.4 (C-5), 129.7 (C-9), 134.9 (C-8a), 137.0 (C-10a), 155.2
+(C-7), 156.3 (C-2), 157.3 (C-4).
+Gigantol (3). Brown amorphous solid; C
+16
+H
+18
+O
+4
+; ESI-MS
+m/z 275 [M+H]+; 1H NMR (500MHz, acetone-d
+6
+) 𝛿: 2.78
+(4H,m,H
+2
+-𝛼, H
+2
+-𝛼󸀠), 3.69 (3H, s,MeO-3󸀠), 3.78 (3H, s,MeO-
+3), 6.22 (1H, t, 𝐽 = 2.0Hz, H-2), 6.28 (1H, t, 𝐽 = 2.0Hz, H-4),
+6.30 (1H, t, 𝐽 = 2.0Hz, H-6), 6.64 (1H, dd, 𝐽 = 8.0, 1.5Hz,
+H-6󸀠), 6.69 (1H, d, 𝐽 = 8.0Hz, H-5󸀠), 6.79 (1H, d, 𝐽 = 1.5Hz,
+H-2󸀠); 13C NMR (125MHz, acetone-d
+6
+) 𝛿: 37.9 (C-𝛼󸀠), 39.0
+(C-𝛼), 55.2 (MeO-3), 56.0 (MeO-3󸀠), 99.6 (C-4), 106.2 (C-6),
+108.8 (C-2), 112.8 (C-5󸀠), 115.4 (C-2󸀠), 121.5 (C-6󸀠), 134.0 (C-1󸀠),
+145.1 (C-4󸀠), 145.4 (C-1), 147.9 (C-3󸀠), 159.1 (C-3), 161.7 (C-5).
+Lusianthridin (4). Brown amorphous solid; C
+15
+H
+14
+O
+3
+; ESI-
+MSm/z 243 [M+H]+; 1HNMR (500MHz, acetone-d
+6
+) 𝛿: 3.72
+(3H, s, MeO-2), 6.36 (1H, d, 𝐽 = 1.5Hz, H-1), 6.42 (1H, d,
+𝐽 = 1.5Hz, H-3), 6.67 (1H, dd, 𝐽 = 9.0, 2.5Hz, H-6), 6.70
+(1H, d, 𝐽 = 2.5Hz, H-8), 8.22 (1H, d, 𝐽 = 9.0Hz, H-5); 13C
+NMR (125MHz, acetone-d
+6
+) 𝛿: 30.6 (C-9), 31.4 (C-10), 55.2
+(MeO-2), 101.5 (C-3), 105.8 (C-1), 113.4 (C-6), 114.9 (C-8), 115.7
+(C-4a), 125.8 (C-4b), 129.8 (C-5), 139.7 (C-8a), 141.3 (C-10a),
+155.8 (C-4), 155.9 (C-7), 159.2 (C-2).
+Nobilone (5). Red amorphous solid; C
+14
+H
+10
+O
+4
+; ESI-MS m/z
+243 [M+H]+; 1H NMR (500MHz, acetone-d
+6
+) 𝛿: 4.13 (3H,
+s, MeO-4), 6.78 (1H, d, 𝐽 = 2.0Hz, H-3), 6.80 (1H, d, 𝐽 =
+2.0Hz, H-1), 6.93 (1H, dd, 𝐽 = 7.5, 1.5Hz, H-6), 7.10 (1H, d,
+𝐽 = 1.5Hz, H-8), 7.13 (1H, d, 𝐽 = 7.5Hz, H-5); 13C NMR
+(125MHz, acetone-d
+6
+) 𝛿: 57.5 (MeO-4), 105.9 (C-1), 106.2 (C-
+3), 116.7 (C-8), 122.6 (C-4a), 125.0 (C-6), 128.0 (C-4b), 130.2
+(C-5), 135.8 (C-8a), 137.2 (C-9a), 151.6 (C-7), 153.5 (C-4), 160.9
+(C-2), 193.2 (C-9).
+Dendroflorin (6). Red amorphous solid; C
+14
+H
+10
+O
+5
+; ESI-MS
+m/z 259 [M+H]+; 1H NMR (500MHz, acetone-d
+6
+) 𝛿: 4.10
+(3H, s, MeO-4), 6.58 (1H, d, 𝐽 = 9.0Hz, H-7), 6.76 (1H, d,
+𝐽 = 1.6Hz, H-3), 6.79 (1H, d, 𝐽 = 1.6Hz, H-1), 6.87 (1H, d,
+𝐽 = 9.0Hz, H-6); 13C NMR (125MHz, acetone-d
+6
+) 𝛿: 57.4
+(MeO-4), 105.6 (C-1), 106.1 (C-3), 117.4 (C-8a), 119.7 (C-7),
+122.4 (C-4a), 124.3 (C-4b), 128.9 (C-6), 137.4 (C-9a), 145.1 (C-
+5), 152.8 (C-8), 154.1 (C-4), 160.9 (C-2), 195.3 (C-9).
+Denchrysan B (7). Red amorphous solid; C
+14
+H
+12
+O
+4
+; ESI-MS
+m/z 245 [M+H]+; [𝛼]20
+𝐷
+−7.9 (𝑐 = 0.1, MeOH); 1H NMR
+(300MHz, acetone-d
+6
+) 𝛿: 4.06 (3H, s, MeO-4), 5.37 (1H, br s,
+H-9), 6.59 (1H, br s, H-3), 6.73 (1H, dd, 𝐽 = 8.1, 1.5Hz, H-6),
+Evidence-Based Complementary and Alternative Medicine 3
+1
+3
+8
+5
+6
+7
+4
+2
+OMe
+OMe
+MeO
+MeO
+MeO
+OMe
+OMe
+OH
+OH
+OH
+OH
+OH
+OH
+HO
+HO
+HO
+OH
+OH
+O
+OH
+OH
+OH
+OH
+OH
+H
+H
+H
+H
+H
+R1 R2 R3
+R1
+R1
+R1
+R2
+R2
+R2
+R3
+R3
+R3
+OMe
+𝛼
+𝛼
+󳰀
+1
+󳰀
+2
+󳰀
+3
+󳰀
+4
+󳰀
+5
+󳰀
+6
+󳰀
+1
+2
+3
+4
+5
+6
+1
+2
+3456
+7
+8
+9 10
+10a8a
+4b
+4a
+9a8a
+4b
+4a
+1
+2
+3
+456
+7
+8 9
+Figure 1: Structures of compounds 1–8 from Dendrobium brymerianum.
+6.83 (1H, br s, H-1), 7.03 (1H, m, H-8), 7.07 (1H, m, H-7); 13C
+NMR (75MHz, acetone-d
+6
+) 𝛿: 57.0 (MeO-4), 75.4 (C-9), 100.3
+(C-3), 107.2 (C-1), 116.9 (C-6), 117.0 (C-8), 118.9 (C-4a), 124.7
+(C-4b), 128.4 (C-7), 148.5 (C-8a), 150.8 (C-9a), 151.4 (C-5),
+153.0 (C-4), 159.6 (C-2).
+Tristin (8). Brown amorphous solid; C
+15
+H
+16
+O
+4
+; ESI-MS m/z
+261 [M+H]+; 1HNMR (300MHz, acetone-d
+6
+) 𝛿: 2.74 (4H,m,
+H
+2
+-𝛼, H
+2
+-𝛼󸀠), 3.78 (3H, s, MeO-3󸀠), 6.17 (1H, d, 𝐽 = 1.8Hz,
+H-4), 6.20 (2H, d, 𝐽 = 1.8Hz, H-2, H-6), 6.63 (1H, dd, 𝐽 =
+7.8, 1.5Hz, H-6󸀠), 6.69 (1H, d, 𝐽 = 7.8Hz, H-5󸀠), 6.79 (1H, d,
+𝐽 = 1.5Hz, H-2󸀠); 13CNMR (75MHz, acetone-d
+6
+) 𝛿: 37.9 (C-
+𝛼
+󸀠), 38.9 (C-𝛼), 56.1 (MeO-3󸀠), 101.0 (C-4), 107.8 (C-2, C-6),
+112.8 (C-2󸀠), 115.5 (C-5󸀠), 121.5 (C-6󸀠), 134.1 (C-1󸀠), 145.1 (C-
+4󸀠), 145.5 (C-1), 148.0 (C-3󸀠), 159.2 (C-3, C-5).
+2.4. Cells and Reagents. Lung cancer H460 cells were
+obtained from the American Type Culture Collection
+(Manassas, VA). Cells were cultured inRPMI 1640 containing
+5% fetal bovine serum, 2mM l-glutamine, and 100 units/mL
+penicillin/streptomycin in a 5% CO
+2
+environment at
+37∘C. 3-(4,5-Dimethylthiazol-2-yl)-2,5-diphenyltetrazolium
+bromide (MTT) and other chemicals were obtained from
+Sigma Chemical, Inc. (St. Louis, MO).
+2.5. Cell Viability Assay. To determine cytotoxicity, cell via-
+bility was determined by modified MTT assay [15] which
+measured cellular capacity to reduce MTT (yellow) to purple
+formazan crystal by mitochondrial dehydrogenase. The cells
+were seeded at a density of 1 × 104 cells/well in a 96-well
+plate and allowed to attach for 12 h, treated with different
+concentrations of compounds in DMSO (with the final
+concentration of DMSO less than 0.1% in each well) for 24 h,
+and then incubated with 100 𝜇L of 500𝜇g/mL MTT solution
+for 4 h at 37∘C.Then,MTT solution was removed, and 100 𝜇L
+of 99.9% DMSO was added to dissolve the formazan crystal.
+The intensity of formazan product was measured at 570 nm
+using a microplate reader. All analyses were performed in at
+least three independent replicate cultures. The cell viability
+was calculated as follows:
+Cell viability (%) =
+A
+570
+of treatment
+A
+570
+of untreated control
+× 100. (1)
+2.6. Assay for Antimigratory Activity. Migratory activity of
+the cancer cells was evaluated by wound-healing assay [16].
+Briefly, a monolayer of cells at a density of 1.5 × 104 cells/well
+was cultured in 96-well plates, and a wound space was
+created by a 1mm width tip. After rinsing with PBS, the
+cell monolayers were treated with nontoxic concentration of
+compounds (0.1𝜇g/mL) and allowed to migrate for 0–48 h.
+Micrographs were taken under a phase-contrast microscope
+(×100; Olympus IX51 with DP70), and wound spaces were
+measured from 10 random fields of view using Olympus DP
+Controller software. Quantitative analysis of cell migration
+was performed by using an average wound space from ran-
+dom fields of view, and the relative migration was calculated.
+4 Evidence-Based Complementary and Alternative Medicine
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+0 6 12 24 48
+Re
+lat
+iv
+e w
+ou
+nd
+ sp
+ac
+e
+Time (h)
+Control
+(1) 0.1 𝜇g/mL
+∗
+∗∗
+∗
+(a)
+Control (1) 0.1 𝜇g/mL
+0
+h
+6
+h
+1
+2
+h
+2
+4
+h
+4
+8
+h
+(b)
+Figure 2: Effect of moscatilin (1) on H460 cell migration. (a) Confluent monolayer of H460 cells was wounded using a 1mm width tip and
+treated with moscatilin (1) at 0.1 𝜇g/mL or without it for various times (0–48 h). Wound space was analyzed and represented as migration
+level relative to the change of those in untreated cells. Data represent the mean ± SD (𝑛 = 3). ∗𝑃 < 0.05 versus untreated control cells. (b)
+Wound space was visualized under a phase-contrast microscope at the indicated times.
+2.7. Data/Statistical Analysis. All results from three or more
+independent experiments were expressed as means ± SD.
+Statistical differences between means were determined using
+the analysis of variance (ANOVA) and the post hoc test. A 𝑃
+value of less than 0.05 (𝑃 < 0.05) was considered statistically
+significant. The IC
+50
+value was obtained using the GraphPad
+Prism software.
+2.8. Determination of Total Phenolic Content. The total phe-
+nolic content (TPC) was determined by Folin-Ciocalteu
+method [17]. Assays were conducted in a 96-well microtiter
+plate. Briefly, 20𝜇L of the plant extract solution (0.5mg/mL
+in ethanol) was added to 1 : 10 diluted Folin-Ciocalteu reagent
+(100 𝜇L). After 5 minutes, 100 𝜇L of Na
+2
+CO
+3
+(75 g/100mL
+in deionized water) was added. After incubation at room
+temperature for 1 hr, the absorbance was measured at 765 nm
+using a Perkin-Elmer Victor3 1420 multilabel counter. Gallic
+acid (Sigma) was used as a reference standard, and the total
+phenolic content was expressed asmg of gallic acid equivalent
+(GAE)/g dried plant material.
+3. Results and Discussion
+The total phenolic content of the dried plant material was
+found to be 1.13mgGAE/g, whichwas in the same level as that
+of Dendrobium nobile [18]. Chromatographic separation of
+Evidence-Based Complementary and Alternative Medicine 5
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+0 6 12 24 48
+Re
+lat
+iv
+e w
+ou
+nd
+ sp
+ac
+e
+Time (h)
+Control
+(3) 0.1 𝜇g/mL
+∗
+∗∗
+∗
+(a)
+Control (3) 0.1 𝜇g/mL
+0
+h
+6
+h
+1
+2
+h
+2
+4
+h
+4
+8
+h
+(b)
+Figure 3: Effect of gigantol (3) on H460 cell migration. (a) The cells were wounded and treated with gigantol (3) at 0.1 𝜇g/mL or without it
+for various times (0–48 h). Wound space was analyzed and represented as migration level relative to the change of those in untreated cells.
+Data represent the mean ± SD (𝑛 = 3). ∗𝑃 < 0.05 versus untreated control cells. (b) Wound space was visualized under a phase-contrast
+microscope at the indicated times.
+this MeOH extract resulted in the isolation of eight phenolic
+compounds which included moscatilin (1) [19], flavanthrinin
+(2) [20], gigantol (3) [21], lusianthridin (4) [22], nobilone
+(5) [23], dendroflorin (6) [24], denchrysan B (7) [25], and
+tristin (8) [21].The structures of these isolates (Figure 1) were
+determined through analysis of their 1H NMR, 13C NMR,
+and MS data in comparison with previously reported values.
+Compounds 1, 2, 4, 5, 7, and 8were not found in the previous
+study [12].
+Compounds 1–8 were evaluated for cytotoxicity against
+human lung cancer H460 cells using established protocols
+[15], and the results are summarized in Table 1. It can be
+seen that, apart from moscatilin (1) which has been earlier
+reported for cytotoxic and antimigratory effects [9], only
+gigantol (3), lusianthridin (4), and dendroflorin (6) exhibited
+appreciable cytotoxic properties, whereas the others were
+inactive (IC
+50
+> 200𝜇g/mL). From these preliminary limited
+data it could be speculated that the stronger cytotoxicity of
+the extract, as compared with the individual components,
+was probably due to the additive or synergistic effects
+from the eight phenolic (1–8) and/or other unisolated com-
+pounds. Compounds 3, 4, and 6 were further investigated
+for antimigratory potential in comparison with 1, using a
+modified method of the wound-healing assay [16]. In a
+previous report, moscatilin (1) showed inhibition against
+the migration of breast MDA-MB-231 cells [10] and thus
+6 Evidence-Based Complementary and Alternative Medicine
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+Re
+lat
+iv
+e w
+ou
+nd
+ sp
+ac
+e
+0 6 12 24 48
+Time (h)
+∗∗
+∗
+Control
+(4) 0.1 𝜇g/mL
+(a)
+Control (4) 0.1 𝜇g/mL
+0
+h
+6
+h
+1
+2
+h
+2
+4
+h
+4
+8
+h
+(b)
+Figure 4: Effect of lusianthridin (4) on H460 cell migration. (a) Effect of lusianthridin (4) at 0.1 𝜇g/mL on migration of H460 cells was
+tested by migratory assay. Wound space was analyzed and represented as migration level relative to the change of those in untreated cells.
+Data represent the mean ± SD (𝑛 = 3). ∗𝑃 < 0.05 versus untreated control cells. (b) Wound space was visualized under a phase-contrast
+microscope at the indicated times.
+could serve as a positive control in this study. In the present
+examination, each compound was evaluated for antimigra-
+tory activity at a noncytotoxic concentration (0.1𝜇g/mL) to
+avoid the possible interfering cytotoxic effect. The human
+lung cancer H460 cells were then allowed to migrate in the
+presence or absence of the test compound for 0, 6, 12, 24,
+and 48 h, after which the migratory activity was measured.
+The results, as shown in Figures 2, 3, 4, and 5, indicated
+that each of the tested compounds exhibited significant
+antimigratory activity in comparison with the untreated
+control. As summarized in Figure 6, all of the compounds
+(1, 3, 4, and 6) inhibited the migration of the cells across the
+wound space in a time-dependent manner. During the first
+24 h, dendroflorin (6) appeared to be the strongest anti-
+migratory compound; however, after 48 h, moscatilin (1)
+became the most potent compound, as a result of the sub-
+stantial increase of its activity during the period of 24–
+48 h. It should be mentioned that the antimigratory effects
+of moscatilin (1) and gigantol (3) have been earlier demon-
+strated in other cancer cells, for example, human lung
+H23 and breast MDA-MB-231 cells [9, 10, 26]. Additionally,
+gigantol (3) has been shown to suppress lung cancer cell
+migration through a caveolin-1-dependent pathway [26]. It
+is worth noting that, among the compounds tested in this
+study, gigantol (3) was the weakest antimigratory agent
+despite its strong cytotoxicity, suggesting that no linear
+Evidence-Based Complementary and Alternative Medicine 7
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+0 6 12 24 48
+Re
+lat
+iv
+e w
+ou
+nd
+ sp
+ac
+e
+Time (h)
+Control
+∗
+∗
+∗
+(6) 0.1 𝜇g/mL
+(a)
+Control
+0
+h
+6
+h
+1
+2
+h
+2
+4
+h
+4
+8
+h
+(6) 0.1 𝜇g/mL
+(b)
+Figure 5: Effect of dendroflorin (6) on H460 cell migration. (a) H460 cells were scratched by a 1mmwidth tip and treated with dendroflorin
+(6) at 0.1 𝜇g/mL or without it for various times (0–48 h). Wound space was analyzed and represented as migration level relative to the change
+of those in untreated cells. Data represent the mean ± SD (𝑛 = 3). ∗𝑃 < 0.05 versus untreated control cells. (b) Wound space was visualized
+under a phase-contrast microscope at the indicated times.
+correlation exists between cytotoxicity and antimigratory
+activity.
+It is known that cell migration may be regulated by
+the caveolin-1 and/or the protein kinase B (Akt) signaling
+pathway [27]. In certain cases, particularly in lung cancer
+migration, overexpression of caveolin-1 is believed to play the
+predominant role [16]. The apparent high level of caveolin-
+1 expression in H460 cells in this study (data not shown)
+might suggest the involvement of caveolin-1 in the cancer cell
+migration, although more detailed studies are needed before
+any conclusion can be drawn.
+4. Conclusion
+In summary, in this communication we provide new infor-
+mation on the cytotoxic and antimigratory effects of the phe-
+nolic compounds isolated from Dendrobium brymerianum.
+To the best of our knowledge, this is the first report on the
+biological activities of this plant. Our findings on the antimi-
+gratory activities of moscatilin (1) and gigantol (3) are in
+agreement with earlier reports. In addition, our preliminary
+data revealed for the first time the antimigratory potential
+of lusianthridin (4) and dendroflorin (6). The biological data
+8 Evidence-Based Complementary and Alternative Medicine
+Table 1: IC50 values for cytotoxic effect of compounds (1–8) on
+human lung cancer H460 cells.
+Compounds IC50 (𝜇g/mL)
+Moscatilin (1) 196.7 ± 2.62
+Flavanthrinin (2) >200
+Gigantol (3) 23.4 ± 3.99
+Lusianthridin (4) 65.0 ± 3.51
+Nobilone (5) >200
+Dendroflorin (6) 125.8 ± 3.29
+Denchrysan B (7) >200
+Tristin (8) >200
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+Control (1) (3) (4) (6)
+Re
+lat
+iv
+e w
+ou
+nd
+ sp
+ac
+e
+*
+∗
+∗
+∗
+∗
+∗
+∗
+∗
+∗
+∗
+∗
+∗ ∗
+∗
+∗
+0h
+6h
+12h
+24h
+48h
+0.1 𝜇g/mL
+Figure 6: The relative wound space was analyzed by comparison of
+the relative change in wound space of the treated groups and that
+of the untreated control. Data represent the mean ± SD (𝑛 = 3).
+∗
+𝑃 < 0.05 versus untreated control cells.
+obtained in the present study should be useful for the future
+development of new antimetastatic drugs.
+Conflict of Interests
+The authors declare no conflict of interests.
+Acknowledgments
+This work was supported by a research grant from Rat-
+chadaphiseksomphot Endowment Fund (CU-57-003-HR) of
+Chulalongkorn University. PornpromKlongkumnuankarn is
+grateful to the Graduate School of Chulalongkorn University
+for a research grant. The authors thank Professor Thatree
+Phadungcharoen (Chulalongkorn University) for the plant
+identification. Thanks are also due to The Research Instru-
+ment Center of Faculty of Pharmaceutical Sciences, Chula-
+longkorn University, for providing research facilities.
+References
+[1] WHO, “International Agency for Research on Cancer,” World
+Cancer Report, 2013.
+[2] R. Siegel, D.Naishadham, andA. Jemal, “Cancer statistics, 2013,”
+CA: Cancer Journal for Clinicians, vol. 63, no. 1, pp. 11–30, 2013.
+[3] D.Hanahan andR.A.Weinberg, “Thehallmarks of cancer,”Cell,
+vol. 100, no. 1, pp. 57–70, 2000.
+[4] J. Hu, W. Fan, F. Dong, Z. Miao, and J. Zhou, “Chemical
+components of Dendrobium chrysotoxum,” Chinese Journal of
+Chemistry, vol. 30, no. 6, pp. 1327–1330, 2012.
+[5] T. B. Ng, J. Liu, J. H. Wong et al., “Review of research on
+Dendrobium, a prized folk medicine,” Applied Microbiology and
+Biotechnology, vol. 93, no. 5, pp. 1795–1803, 2012.
+[6] C.-F. Zhang, M. Wang, L. Wang et al., “Chemical constituents
+of Dendrobium gratiosissimum and their cytotoxic activities,”
+Indian Journal of Chemistry, vol. 47, no. 6, pp. 952–956, 2008.
+[7] Y. M. Li, H. Y. Wang, and G. Q. Liu, “Erianin induces apoptosis
+in human leukemia HL-60 cells,” Acta Pharmacologica Sinica,
+vol. 22, pp. 1018–1022, 2001.
+[8] C.-K. Ho and C.-C. Chen, “Moscatilin from the orchid Den-
+drobrium loddigesii is a potential anticancer agent,” Cancer
+Investigation, vol. 21, no. 5, pp. 729–736, 2003.
+[9] A. Kowitdamrong, P. Chanvorachote, B. Sritularak, and V.
+Pongrakhananon, “Moscatilin inhibits lung cancer cell motility
+and invasion via suppression of endogenous reactive oxygen
+species,” BioMed Research International, vol. 2013, Article ID
+765894, 11 pages, 2013.
+[10] H.-C. Pai, L.-H. Chang, C.-Y. Peng et al., “Moscatilin inhibits
+migration and metastasis of human breast cancer MDA-MB-
+231 cells through inhibition of Akt andTwist signaling pathway,”
+Journal of Molecular Medicine, vol. 91, no. 3, pp. 347–356, 2013.
+[11] G. Seidenfaden, “Orchid genera in Thailand XII. Dendrobium
+Sw,” Opera Botanica, vol. 83, pp. 1–295, 1985.
+[12] Y.-G. Chen, H. Yu, and Y. Liu, “Chemical constituents from
+Dendrobium brymerianum Rchb. f,” Biochemical Systematics
+and Ecology, vol. 57, pp. 175–177, 2014.
+[13] T. Phechrmeekha, B. Sritularak, and K. Likhitwitayawuid, “New
+phenolic compounds from Dendrobium capillipes and Dendro-
+bium secundum,” Journal of Asian Natural Products Research,
+vol. 14, no. 8, pp. 748–754, 2012.
+[14] P. Chanvorachote, A. Kowitdamrong, T. Ruanghirun, B. Sritu-
+larak, C. Mungmee, and K. Likhitwitayawuid, “Anti-metastatic
+activities of bibenzyls from Dendrobium pulchellum,” Natural
+Product Communications, vol. 8, no. 1, pp. 115–118, 2013.
+[15] T. Mosmann, “Rapid colorimetric assay for cellular growth and
+survival: application to proliferation and cytotoxicity assays,”
+Journal of Immunological Methods, vol. 65, no. 1-2, pp. 55–63,
+1983.
+[16] S. Luanpitpong, S. J. Talbott, Y. Rojanasakul et al., “Regulation
+of lung cancer cell migration and invasion by reactive oxygen
+species and caveolin-1,”The Journal of Biological Chemistry, vol.
+285, no. 50, pp. 38832–38840, 2010.
+[17] G.Miliauskas, P. R. Venskutonis, and T. A. van Beek, “Screening
+of radical scavenging activity of some medicinal and aromatic
+plant extracts,” Food Chemistry, vol. 85, no. 2, pp. 231–237, 2004.
+[18] H.-B. Li, Y. Jiang, C.-C.Wong, K.-W. Cheng, and F. Chen, “Eval-
+uation of two methods for the extraction of antioxidants from
+medicinal plants,” Analytical and Bioanalytical Chemistry, vol.
+388, no. 2, pp. 483–488, 2007.
+Evidence-Based Complementary and Alternative Medicine 9
+[19] P. L.Majumder and R. C. Sen, “Moscatilin, a bibenzyl derivative
+from the orchid Dendrobium moscatum,” Phytochemistry, vol.
+26, no. 7, pp. 2121–2124, 1987.
+[20] X. Zhang, J. K. Xu,N. L.Wang,H.Kurihara, andX. S. Yao, “Anti-
+oxidant phenanthrenes and lignans from Dendrobium nobile,”
+Journal of Chinese Pharmaceutical Sciences, vol. 17, pp. 314–318,
+2008.
+[21] Y. Chen, J. Xu,H. Yu et al., “Cytotoxic phenolics fromBulbophyl-
+lum odoratissimum,” Food Chemistry, vol. 107, no. 1, pp. 169–173,
+2008.
+[22] X.-Y. Guo, J. Wang, N.-L. Wang, S. Kitanaka, and X.-S. Yao, “9,
+10-Dihydrophenanthrene derivatives from Pholidota yunna-
+nensis and scavenging activity on DPPH free radical,” Journal of
+Asian Natural Products Research, vol. 9, no. 2, pp. 165–174, 2007.
+[23] X. Zhang, J. K. Xu, J.Wang et al., “Bioactive bibenzyl derivatives
+and fluorenones from Dendrobium nobile,” Journal of Natural
+Products, vol. 70, no. 1, pp. 24–28, 2007.
+[24] C. Fan,W.Wang, Y.Wang,G.Qin, andW.Zhao, “Chemical con-
+stituents from Dendrobium densiflorum,” Phytochemistry, vol.
+57, no. 8, pp. 1255–1258, 2001.
+[25] Q.-H. Ye, W.-M. Zhao, and G.-W. Qin, “New fluorenone and
+phenanthrene derivatives fromDendrobium chrysanthum,”Nat-
+ural Product Research, vol. 17, no. 3, pp. 201–205, 2003.
+[26] S. Charoenrungruang, P. Chanvorachote, B. Sritularak, and V.
+Pongrakhananon, “Gigantol, a bibenzyl from Dendrobium dra-
+conis, inhibits the migratory behavior of non-small cell lung
+cancer cells,” Journal of Natural Products, vol. 77, no. 6, pp. 1359–
+1366, 2014.
+[27] D. P. Brazil and B. A. Hemmings, “Ten years of protein kinase B
+signalling: a hard Akt to follow,” Trends in Biochemical Sciences,
+vol. 26, no. 11, pp. 657–664, 2001.
+Submit your manuscripts at
+http://www.hindawi.com
+Stem Cells
+International
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+MEDIATORS
+INFLAMMATION
+of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Behavioural 
+Neurology
+Endocrinology
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Disease Markers
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+BioMed 
+Research International
+Oncology
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Oxidative Medicine and 
+Cellular Longevity
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+PPAR Research
+The Scientific 
+World Journal
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+Immunology Research
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Journal of
+Obesity
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+ Computational and  
+Mathematical Methods 
+in Medicine
+Ophthalmology
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Diabetes Research
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Research and Treatment
+AIDS
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Gastroenterology 
+Research and Practice
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Parkinson’s 
+Disease
+Evidence-Based 
+Complementary and 
+Alternative Medicine
+Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com

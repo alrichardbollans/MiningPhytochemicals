@@ -1,0 +1,313 @@
+J. Braz. Chem. Soc., Vol. 13, No. 5, 606-610, 2002.
+Printed in Brazil - ©2002  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+A
+rt
+ic
+le
+* e-mail:  kuster@nppn.ufrj.br
+Article dedicated to Prof. Benjamin Gilbert for his 70th birthday
+Antimicrobial Ellagitannin of Punica granatum Fruits
+Thelma de B. Machadoa, Ivana C. R. Leal a, Ana Claudia F. Amaral b, Kátia R. N. dos Santosc,
+Marlei G. da Silvac and Ricardo M. Kuster*,a
+aNúcleo de Pesquisas de Produtos Naturais, Bloco H, Centro de Ciências da Saúde, Ilha do Fundão, Universidade
+Federal do Rio de Janeiro, 21921-590 Rio de Janeiro - RJ, Brazil
+bLaboratório de Química de Produtos Naturais e Central Analítica, Far-Manguinhos - FIOCRUZ, Rio de Janeiro - RJ, Brazil
+ cInstituto de Microbiologia Prof. Paulo de Góes, Bloco J, Centro de Ciências da Saúde, Ilha do Fundão, Universidade
+Federal do Rio de Janeiro, 21921-590 Rio de Janeiro - RJ, Brazil
+O fracionamento do extrato acetato de etila de frutos de Punica granatum, guiado por ensaios
+antimicrobianos frente a colônias de Staphylococcus aureus resistentes à meticilina, conduziu ao
+isolamento e à determinação estrutural do tanino elágico punicalagina. A identificação da substância
+foi realizada por CLAE/UV e RMN de 1H. Os ensaios antimicrobianos foram realizados pelo
+método de difusão em discos de papel. A concentração mínima inibitória das substâncias foi determinada
+pelo método de diluição em agar padronizada pelo NCCLS (National Committee for Clinical Laboratory
+Standards).
+The ethyl acetate extract of Punica granatum fruits was fractionated by chromatographic
+techniques to afford the ellagitannin punicalagin. The substance was found to be active against
+methicillin-resistant Staphylococcus aureus strains and was identified by HPLC/UV and 1HNMR.
+The antibacterial assays which guided the isolation of the tannin were conducted using the disc
+diffusion method. Minimum inhibitory concentration (MIC) was determined by the dilution method
+according to NCCLS (National Committee for Clinical Laboratory Standards) procedure.
+Keywords: Punica granatum, punicalagin, antimicrobial activity
+Introduction
+As part of our effort to identify the substances responsible
+for the pharmacological activities attributed to plants utilized
+in Brazil in popular medicine we have studied the epicarp of
+pomegranate fruits to identify the components with
+antimicrobial activity. Punica granatum Linn. (Punicaceae) is
+a shrub or small tree native to Asia1 where its several parts have
+been used as an astringent, haemostatic, as a remedy for
+diabetes, as an anthelmintic specifically against tapeworms
+and for diarrhoea and dysentery.2 In Brazil the fruits are known
+as “romã” and are used for the treatment of throat infections,
+coughs and fever. There are several commercial
+phytopreparations in Brazil containing extracts from
+pomegranate. For the validation of such products it is necessary
+to define chemical markers, substances that when present in
+the preparations attest their quality.3 Although many reports
+on the antimicrobial activity of pomegranate exist in the
+literature, none of them relates such activity with its chemical
+composition. We describe here for the first time the isolation
+and identification of the tannin responsible for the activity
+against a bacterium of medical importance (Staphylococcus
+aureus). Interest in plants with antimicrobial properties have
+been revived due to current problems associated with the use
+of antibiotics. With the increasing prevalence of methicillin-
+resistant Staphylococcus aureus (MRSA) strains as pathogens
+in both hospital and the community, the investigation of plant
+extracts active against this organism provides an example of
+prospecting for new compounds which may be effective against
+infections currently difficult to treat.4
+Experimental
+General experiments procedures
+All reagents were of analytical grade. The NMR
+spectrum of the compound was taken on a Varian-Gemini
+607Antimicrobial Ellagitannin of Punica granatum FruitsVol. 13, No. 5, 2002
+200 (1H: 200 MHZ spectrometer). Column chromatography
+was performed using Sephadex LH-20 (Pharmacia) and
+XAD-16 resin (Sigma). Thin layer chromatography was
+performed on cellulose plates (Merck), HPLC/UV on a
+Shimadzu instrument equipped with a diode array detector
+and RP-18 column (5 µm, 20 X 5 mm, Merck) and
+preparative HPLC on a Shimadzu instrument equipped
+with UV detector and RP-18 column (10 µm, 25 X 2 cm).
+Antibacterial assays were performed on Mueller Hinton
+agar medium (Oxoid).
+Extraction and isolation of the constituents
+Fresh fruit pericarp (240 g) was exhaustively extracted
+with EtOH. The dried ethanolic extract was suspended in
+water and successively partitioned with hexane,
+chloroform, ethyl acetate and butanol. The most active
+fraction on bioassay (ethyl acetate) was chromatographed
+on a XAD-16 column using a water – methanol gradient.
+The active fraction eluted from the column with
+H
+2
+O:MeOH (1:1) was submitted to chromatography on a
+Sephadex LH-20 column using a gradient H
+2
+O:MeOH and
+the active fraction was purified on a preparative HPLC
+column to afford the active compound punicalagin and
+the inactive ones, ellagic acid and punicalin.
+Bacterial strains
+Brazilian prevalent clone methicillin-resistant
+Staphylococcus aureus strains (6 isolates – Table 1) were
+obtained from hospitalized patients in two Brazilian
+hospitals (Hospital Universitário Clementino Fraga Filho
+– RJ and Hospital de Clínicas da Universidade Federal de
+Uberlândia – MG) and identified at the Institute of
+Microbiology, Federal University of Rio de Janeiro.5
+Furthermore, as a comparison parameter, 10 MRSA strains
+from other clones were tested, as well as 8 MSSA
+(methicillin-sensitive S. aureus) and 2 reference strains [S.
+aureus ATCC 29213 (MSSA) and ATCC 33591 (MRSA)].
+Assay for antibacterial testing
+Disc diffusion method6
+Petriplates containing 20 mL of Mueller Hinton agar
+medium were seeded with a 24 h old culture of the
+bacterial strains. The extracts, fractions and pure
+compounds were tested in concentration of 25 or 50 mg
+mL-1, applying 10 µL of each sample to sterile filter paper
+discs (5 mm in diameter) and placed on the surface of the
+medium. The inoculum size was adjusted so as to deliver
+a final inoculum of approximately 108 colony-forming
+units (CFU)/mL.7 Incubation was made at 37 °C for 24 h.
+The assessment of antibacterial activity was based on the
+measurement of diameter of the inhibition zone formed
+around the disc.
+Dilution method
+The minimum inhibitory concentration (MIC) was
+determined by dilution according to NCCLS.8 Mueller
+Hinton agar is prepared and sterilized in the usual fashion
+Table 1. Susceptibility to antimicrobial agents of Brazilian prevalent clone A methicilin-resistant Staphylococcus aureus strains and antimicro-
+bial activity of punicalagin anomers
+PFGEa subtypes of Antibiotic resistance patternb Antimicrobial activity
+Staphylococcus of punicalagin anomersc
+aureus
+A4 OXA; IMI; CF; PN; AP; EI; TT; SFT; GN; CO; CIP; 61.5 µg/mL
+KA; AM; CLI; CRO; CFO; MUP
+A3 OXA; IMI; CF; PN; AP; EI; TT; SFT; GN; RIF CIP; 61.5 µg/mL
+KA; AM; CLI; CRO; CFO
+A2 OXA; IMI; CF; PN; AP; EI; TT; SFT; GN; CO; CIP; 61.5 µg/mL
+KA; AM; CLI; CRO; CFO
+A5 OXA; IMI; CF; PN; AP; EI; TT; SFT; GN; CO; CIP; 61.5 µg/mL
+KA; AM; CLI; CRO; CFO
+A2 OXA; IMI; CF; PN; AP; EI; TT; SFT; GN; CO; CIP; 61.5 µg/mL
+KA; AM; CLI; CRO; CFO; MUP
+A1 OXA; IMI; CF; PN; AP; EI; TT; SFT; GN; RIF; CO; 61.5 µg/mL
+CIP; KA; AM; CLI; CRO; CFO;
+a-PFGE – Pulsed Field Gel Electrophoresis.
+b-OXA- oxacilin; IMI- imipenem; CF- cephalothin; PN- penicillin; AP- ampicillin; EI- erythromycin; TT- tetracycline; SFT- sulfamethoxazole-
+trimethoprim; GN- gentamicin; RIF- rifampicin; CO- chloramphenicol; CIP- ciprofloxacin; KA- kanamicin; AM- amikacin; CLI- clindamycin;
+CRO- ceftriaxone; CFO- cefoxitin; MUP- mupirocin.
+c-Minimum Inhibitory Concentration (MIC).
+608 Machado et al. J. Braz. Chem. Soc.
+Figure 1. Characteristic HPLC chromatograms and UV spectra of the anomers punicalin and punicalagin (silicagel RP-18, KH2PO4 0.01 mol L
+-1 +
+H3PO4 0.01 mol L
+-1 + CH3CN - 4:4:2). 1A - Analytical chromatogram of the mixture. 1B - UV spectra of each compound. 1C - Analytical
+chromatogram after the preparative HPLC separation.
+Punicalagin α and β (RT = 5.66 and 7.08 min) Punicalin α and β (RT = 9.34 and 11.18 min)
+Preparative HPLC
+silicagel RP-18
+CH3CN-H2O (1:9)
+Preparative HPLC
+silicagel RP-18
+CH3CN-H2O (1:9)
+1A
+1B
+1C
+0 10 20 30 min
+0
+100
+200
+300
+mAbs
+400
+0 5 10 15 min 0 10 20 min
+0
+100
+200
+mAbs
+300
+0
+500
+1000
+1500
+mAbs
+2000 Ch3  350nmCh3  350nm
+Ch3  350nm
+200 240 280 320 360 400
+nm
+200 240 280 320 360 400
+nm
+200 240 280 320 360 400
+nm
+200 240 280 320 360 400
+nm
+130
+0
+919
+0
+1025
+0
+993
+0
+218
+259
+379
+218 260
+380
+218
+261
+379
+260
+218
+204
+379
+Spectrum Window Spectrum Window Spectrum Window Spectrum Window
+609Antimicrobial Ellagitannin of Punica granatum FruitsVol. 13, No. 5, 2002
+by autoclaving. Before solidification, 20 mL of agar
+medium is added to each of the Petri dishes containing the
+samples and the Petri dishes are swirled carefully until the
+agar begins to set. Final concentration from 250 to
+0,97 µg mL-1 were used for each plant sample. The bacterial
+inoculum size was adjusted so as to deliver a final inoculum
+of approximately 104 colony-forming units (CFU/mL8 and
+was added to the medium using a Steers replicator.
+Results and Discussion
+The active fraction when analyzed by TLC on cellulose
+plates (H
+2
+O:CH
+3
+COOH, 4:1) showed initially the presence
+of two orange colored spots with NaNO
+2
+ reagent, turning
+purple after some minutes. This is a characteristic reaction
+for ellagitannins.9 However, these two substances show up
+as four when analyzed by analytical HPLC/UV (Figure1A).
+Each one of the four peaks was obtained by preparative
+HPLC (H
+2
+O:CH
+3
+CN, 9:1) and after liophilization was
+reanalyzed by analytical HPLC/UV. Figure 1C shows the
+presence of two substances for each peak. This is in fact a
+characteristic phenomenon of hydrolysable tannins with
+an unsubstituted anomeric hydroxyl group.10 The substances
+were identified as punicalin α 1 and punicalin β 2,
+punicalagin α 3 and punicalagin β 4, the major ellagitannins
+from the pomegranate.11 Figure 1B shows the UV spectra of
+these substances (λ
+max
+ = 218, 260 and 379 nm). These
+values are characteristic of a gallagyl cromophore12
+conferring to the compounds a bright yellow colour. Acid
+hydrolysis of punicalin afforded gallagyldilactone
+(identified by HPLC/UV, RT 3.2 min) and glucose (identified
+by co-chromatography on silica gel plates). Acid hydrolysis
+of punicalagin afforded gallagyldilactone, ellagic acid
+(HPLC/UV, 3.2 min and 4.9 min) and glucose.
+Punicalagin (3 and 4)- yellow amorphous powder
+(320 mg), [α]
+D
+20 – 123.43 (c = 1.28, MeOH); 1H-NMR
+(CD
+3
+OD) δ 2.15 (1H, m, H-5), 3.15 – 3.45 (1H, m, H-4),
+3.98 – 4.17 (1H, m, H-6), 6.42, 6.55, 6.65, 6.82 (each H, s,
+aromatic-H).13
+The antibacterial activity for punicalagin (250 µg -
+disc diffusion method – Figure 4) afforded a clear inhibition
+zone of 20 mm for all bacteria tested. The minimum
+inhibitory concentration was established as 61.5 µg mL-1
+(Table 1). It is noteworthy that Burapadaja and Bunchoo,13
+in a phytochemical study of Terminalia citrina, isolated
+punicalagin and assayed it against several bacterial
+Figure 2. Ellagitannins from the pericarp of Punica granatum.
+610 Machado et al. J. Braz. Chem. Soc.
+colonies. For a methicillin-resistant S. aureus colony, they
+found a MIC value of 768 µg mL-1.
+Conclusion
+Our results show that the ellagitannin punicalagin is
+the substance responsible for the antimicrobial activity of
+the pomegranate. Furthermore, this compound presented
+an activity 10 fold higher than the one found by Burapadaja
+and Bunchoo.13 For the standardization of phytopharma-
+ceuticals it could be the chemical marker of choice.
+Acknowledgements
+The authors thank Prof. W.B. Mors for his assistance
+and CNPq for a scholarship (T.B.M.)
+References
+1. Jafri, M.A.; Aslam, M.; Javed, K.; Singh, S.; J. Ethnopharmacol.
+2000, 70, 309.
+2. Das, A.K.; Mandal, S.C.; Banerjee, S.K.; Sinha, S.; Das, J.;
+Saha, B.P.; Pal, M.; J. Ethnopharmacol. 1999, 68, 205.
+3. Gunther, B.; Wagner, H.; Phytomedicine 1996, 3, 59.
+4. Cowan, M.M.; Clin. Microbiol. Rev. 1999, 12, 564.
+5. Santos, K.R.N.; Teixeira, L.M.; Leal, G.S.; Fonseca, L.S.; Filho,
+P.P.G.; J. Med. Microbiol. 1999, 48, 17.
+6. Rios, J.L.; Recio, M.C.; Villar, A.; J. Ethnopharmacol. 1988,
+23, 127.
+7. National Committee for Clinical Laboratory Standards 1993,
+Performance standards for antimicrobial disk susceptibility
+test – fifth edition – Approved Standards: M2-A5. NCCLS,
+Villa Nova, P.A.
+8. National Committee for Clinical Laboratory Standards 1993,
+Methods for dilution antimicrobial susceptibility tests for bac-
+teria that grow aerobically – third edition – Approved Stan-
+dards: M7-A3. NCCLS, Villa Nova, P.A.
+9. Bate-Smith, E.C.; Phytochemistry 1972, 11, 1153.
+10. Hatano, T.; Yoshida, T.; Shingu, T.; Okuda, T.; Chem. Pharm.
+Bull. 1988, 36, 2925.
+11. Tanaka, T.; Nonaka, G.I.; Nishioka, I.; Chem. Pharm. Bull.
+1986, 34, 650.
+12.  Doig, A.J.; Williams, D.H.; Oelrichs, P.B.; Baczynskyj, L.; J.
+Chem. Soc., Perkin Trans. 1, 1990, 2317.
+13. Burapadaja, S.; Bunchoo, A.; Planta Med., 1995, 61, 365.
+Received: May 6, 2002
+Published on the web: August 21, 2002

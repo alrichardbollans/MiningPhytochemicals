@@ -1,0 +1,767 @@
+61
+Revista Brasileira de Farmacognosia
+Brazilian Journal of Pharmacognosy
+19(1A): 61-67, Jan./Mar. 2009
+*	E-mail:	soarescp@fcfar.unesp.br,	Tel.	+55-16-3301-6554,	Fax	+55-16-3301-6559 ISSN 0102-695X
+Received 17 October 2008; Accepted 14 December 2008
+A
+rti
+go
+Avaliação de mutagenicidade e antimutagenicidade de diferentes 
+frações de Pterogyne nitens (Leguminosae), utilizando ensaio de 
+micronúcleo em Tradescantia pallida
+Fernanda G. Ferreira,1 Luis O. Regasini,2 Aline M. de Oliveira,1 Juliana A. D. B. Campos,3 
+Dulce H. S. Silva,2 Alberto J. Cavalheiro,2 Raquel A. dos Santos,4 Carmen L. Bassi,5 
+Vanderlan da S. Bolzani,2 Christiane P. Soares*,1
+1Departamento	de	Análises	Clínicas,	Faculdade	de	Ciências	Farmacêuticas,	Universidade	Estadual	Paulista,	
+14801-902	Araraquara-SP,	Brasil,
+2NuBBE	-	Núcleo	de	Bioensaios,	Biossíntese	e	Ecofisiologia	de	Produtos	Naturais,	Instituto	de	Química,	
+Universidade	Estadual	Paulista,	14800-900	Araraquara-SP,	Brasil,
+3Departamento	de	Odontologia	Social,	Faculdade	de	Odontologia,	Universidade	Estadual	Paulista,	14801-90	
+Araraquara-SP,	Brasil,
+4Departamento	de	Genética,	Faculdade	de	Medicina	de	Ribeirão	Preto,	Universidade	de	São	Paulo,	14040-900	
+Ribeirão	Preto-SP,	Brasil,
+5Departamento	de	Genética,	Faculdade	de	Ciências	Médicas,	Universidade	Federal	do	Mato	Grosso,	78060-900	
+Cuiabá-MT,	Brasil
+RESUMO: Pterogyne nitens (Fabaceae-Caesalpinioideae) é uma árvore nativa da América do 
+Sul, onde é empregada na medicina popular para o tratamento da ascaridíase. Recentemente, 
+descrevemos o efeito mutagênico do extrato etanólico das folhas de P.	nitens. Dessa forma, o 
+presente estudo teve por objetivo aprofundar a avaliação do potencial mutagênico das frações 
+isoladas das folhas de Pterogyne	 nitens, acetato de etila (AcOEt), n-butanólica (BuOH) 
+e hidroalcóolica (HA). Quando o efeito mutagênico foi observado somente nas maiores 
+concentrações testadas, o potencial antimutagênico também foi avaliado. Os ensaios mutagênicos 
+e antimutagênicos foram realizados utilizando ensaio de micronúcleo em Trandescantia	pallida. 
+Na avaliação de mutagenicidade, observou-se o efeito nas frações AcOEt (0,460 mg/mL), BuOH 
+(0,142, 0,285, 0,570 e 1,14 mg/mL) e HA (0,050, 0,100, 0,200 e 0,400 mg/mL). Considerando 
+que o efeito mutagênico da fração AcOEt foi observado somente na concentração mais elevada 
+(0,460 mg/mL), o potencial antimutagênico da mesma foi avaliado. As concentrações de 0,115 e 
+0,230 mg/mL da fração AcOEt demonstraram atividade antimutagênica. A partir dos resultados 
+do presente estudo, conclui-se que determinadas frações de P.	nitens apresentam mutagenicidade 
+(BuOH e HA), enquanto a fração AcOEt apresentou efeito antimutagênico nas maiores 
+concentrações. Esses resultados tornam o estudo da P.	nitens	bastante promissor, considerando 
+que esta planta possui distribuição geográfica ampla e tem sido pouco estudada.
+Unitermos: Pterogyne	nitens, Leguminosae, mutagenicidade, antimutagenicidade, Tradescantia	
+pallida.	
+ABSTRACT: “Evaluation of mutagenicity and antimutagenicity of different fractions of 
+Pterogyne nitens (Leguminosae), using Tradescantia pallida micronuclei assay”.	Pterogyne 
+nitens (Fabaceae-Caesalpinioideae) is a tree native to South American, where it is used in folk 
+treatment of ascaridiasis. Recently, we have been describing the mutagenic effect of the ethanol 
+extract of leaves of P. nitens. Thus, the present study aimed at evaluating the mutagenic potential 
+of the ethyl acetate (EtOAc), n- butanol (BuOH) and hydroalcoholic (HA) fractions. When the 
+mutagenic effect was observed only in the highest tested concentrations, the antimutagenic 
+activity was also evaluated. Both mutagenic and antimutagenic assays were performed using 
+T.	 pallida micronuclei assay. Mutagenicity was observed between different concentrations of 
+the P	 nitens fractions, EtOAc (0.460 mg/mL), BuOH (0.142, 0.285, 0.570 and 1.14 mg/mL) 
+and HA (0.050, 0.100, 0.200 and 0.400 mg/mL). Whereas the mutagenic effect of the  EtOAc 
+fraction was observed in the highest concentration (0.460 mg/mL), its antimutagenic potential 
+was evaluated. The 0.115 and 0.230 mg/mL concentrations of the EtOAc fraction demonstrated 
+antimutagenic activity. Based on the results of the present study we can conclude that some P.	
+nitens fractions (BuOH and HA) demonstrated mutagenic effects whereas the EtOAc fraction 
+shown low mutagenicity and amtimutagenicity in the two higher concentrations. Those results 
+stimulate the studies with P.	nitens, which possess spread geographic distribution and it is still 
+low studied.
+Keywords:	 Pterogyne	 nitens, Leguminosae, mutagenicity, antimutagenicity,	 Tradescantia	
+pallida.
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+19(1A): Jan./Mar. 2009
+62
+Fernanda G. Ferreira, Luis O. Regasini, Aline M. de Oliveira, et al.
+INTRODUÇÃO
+Pterogyne nitens Tulasne (Leguminosae - 
+Caesalpinioideae) é a única espécie do gênero, sendo 
+popularmente conhecida como “amendoim-do-campo”, 
+“amendoim-bravo”, “bálsamo”, “yvi-raró”, “cocal”, 
+“tipa”, “amendoinzeiro” (Bukart, 1952; Lorenzi, 2000). 
+Essa espécie habita o Cerrado, Caatinga e Mata Atlântica 
+e encontra-se sob risco de extinção, fazendo parte da lista 
+de espécies arbóreas recomendadas para conservação 
+genética no Estado de São Paulo (Do Nascimento et al., 
+2006). A literatura revela poucos dados etnobiológicos 
+desta leguminosa, destacando-se o seu emprego na 
+tinturaria, construção civil (Carvalho, 1994) e sua ação 
+anti-helmíntica contra Ascaris	 lumbricoides	 (Crivos 
+et al., 2007). Estudos fitoquímicos prévios isolaram 
+flavonas e alcalóides guanidino-terpênicos com ação 
+citotóxica sobre linhagens mutantes de Saccharomyces	
+cerevisiae e células de ovário de hamster (Bolzani et al., 
+1995).
+O número de evidencias relatando os efeitos 
+biológicos dos extratos de plantas esta constantemente 
+aumentando. A composição desses extratos naturais 
+que aparentemente exibem apenas propriedades 
+benéficas inclui componentes químicos com atividades 
+mutagênicas, teratogênicas e/ou carcionogênicas. Se os 
+componentes genotóxicos estão presentes, eles podem 
+intercalar-se com a molécula de DNA levando á danos 
+genéticos em regiões de fundamental importância para 
+o controle do ciclo celular e apoptose, acelerando o 
+processo neoplásico. Dessa forma, é muito importante 
+a inclusão da abordagem genotóxica em avaliações 
+toxicológicas dos compostos terapêuticos (Santos et al., 
+2008). No contexto da bioprospecção que visa à busca 
+de metabólitos bioativos a partir de plantas presentes 
+nos remanescentes do Cerrado e Mata Atlântica do 
+Estado de São Paulo, foram iniciadas as avaliações 
+de mutagenicidade de três espécies vegetais presente 
+nesses biomas, Cryptocaria	moschata, C.	mandioccana 
+(Lauraceae) e P.	 nitens.	Dentre as espécies avaliadas, 
+o extrato etanólico das folhas de P.	nitens exibiu ação 
+mutagênica pelo ensaio de micronúcleo em Tradescantia	
+pallida	(Oliveira et al., 2007).
+O teste de micronúcleo em Tradescantia	
+pallida (Trad-MCN) é um dos bioensaios mais usados 
+para o rastreamento de efeitos mutagênicos (Klumpp 
+et al., 2004) e recentemente também vem sendo usado 
+para detecção de efeitos antimutagênicos (Flores et 
+al., 2003). Ele é baseado na formação de micronúcleos 
+resultantes da quebra de cromossomos em células mãe 
+de grão de pólen (Klumpp et al., 2004, Valadares et al., 
+2007).
+Considerando a ausência de informações sobre a 
+planta e o seu potencial uso e ampla distribuição, estudos 
+que ampliem os conhecimentos sobre os efeitos dos seus 
+constituintes podem contribuir significativamente para 
+a detecção de metabólitos bioativos de interesse para o 
+desenvolvimento de novos medicamentos. Sendo assim, 
+o presente estudo teve por objetivo avaliar a atividade 
+mutagênica das frações acetato de etila, n-butanólica e 
+hidroalcóolica obtidas do extrato etanólico das folhas de 
+P. nitens. O potencial antimutagênico da fração AcOEt 
+(que apresentou efeito mutagênico em concentração 
+muito elevada) também foi avaliado.
+MATERIAL E MÉTODOS
+Material vegetal
+As folhas foram coletadas no Instituto 
+de Botânica, São Paulo-SP no mês de abril de 2003, 
+pela Dra. Maria Cláudia Marx Young. O material 
+foi identificado como sendo Pterogyne nitens Tul. 
+(Leguminosae - Caesalpinioideae) pela Dra. Inês 
+Cordeiro do mesmo Instituto. Uma exsicata (SP204319) 
+encontra-se depositada no herbário “Maria Eneida P. 
+Kaufmann” do Instituto de Botânica, São Paulo-SP. 
+Extração e isolamento
+As folhas de P.	nitens (2,8 kg) foram secas 
+à temperatura ambiente e ao abrigo da luz durante 25 
+dias, sendo posteriormente submetidas à trituração em 
+moinho de facas. O pó obtido foi levado à maceração 
+empregando n-hexano (5L x 5 durante cinco semanas) 
+e com posterior remaceração em etanol (7L x 5 durante 
+quatro semanas). Os extratos n-hexânico e etanólico 
+foram concentrados em evaporador rotatório sob 
+pressão reduzida (< 40 oC), rendendo 3,9 g (0,14 %) e 
+12,7 g (0,45 %), respectivamente.
+O extrato etanólico (12,5 g) foi dissolvido 
+em 0,8 L de uma mistura de metanol: água (4:1) e então 
+submetido à partição líquido-líquido com de acetato 
+de etila e n-butanol 1,0 L (3 x). As frações acetato de 
+etila (AcOEt), n-butanólica (BuOH) e hidroalcoólica 
+(HA) foram concentradas em evaporador rotatório sob 
+pressão reduzida (< 40 oC), rendendo 2,8 g (23 %), 7,0 g 
+(57 %) e 2,3 g (20 %), respectivamente.
+Uma alíquota de 1,5 g das frações BuOH e 
+HA foram submetidas separadamente a cromatografia 
+“flash” em coluna de gel de sílica da Merck® (22 x 4 cm), 
+eluídas em modo gradiente (CHCl3:MeOH, 100 à 50 %) 
+fornecendo 25 subfrações de 8 mL. As subfrações foram 
+reunidas por meio da análise em CCDA desenvolvidas 
+em CHCl3: MeOH (4:1) e reveladas através de inspeção 
+no UV (254 e 365 nm), anisaldeído-sulfúrico e Reagente 
+de Sakaguchi (Weber, 1930) e nomeadas de BuOH-1 - 
+BuOH-7 e HA-1 - HA-8.
+As subfrações BuOH-3 e HA-4 forneceram 
+83 mg (5,5 %) e 54 mg (3,6 %) da substância 1, enquanto 
+as subfrações BuOH-5 e HA-6 renderam 102 mg (6,8 
+%) e 39 mg (2,6 %) da substância 2, respectivamente. 
+A análise dos espectros de RMN de 1H e RMN de 13C, 
+bem como a comparação desses com dados da literatura 
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+19(1A): Jan./Mar. 2009
+63
+Avaliação de mutagenicidade e antimutagenicidade de diferentes frações de Pterogyne	nitens	(Leguminosae)
+permitiu identificar as substâncias 1 e 2 como sendo 
+pteroginina e pteroginidina, respectivamente (Corral et 
+al., 1969; Bolzani et al., 1995).
+Ensaio de mutagenicidade
+As frações AcOEt e BuOH foram solubilizadas 
+em DMSO 3% e a fração HA em água destilada. As 
+concentrações das frações foram estabelecidas em 
+relação aos seus rendimentos obtidos por partição 
+líquido-líquido, a partir do extrato etanólico de P.	nitens. 
+Assim, as concentrações das frações foram calculadas 
+pela proporção das concentrações obtidas no ensaio de 
+mutagenicidade do extrato etanólico de P.	nitens (0.130, 
+0.250, 0.500, 1.00 e 2.00 mg/mL) (Oliveira et al., 2007). 
+Dessa forma, para a fração AcOEt (23 % do extrato 
+etanólico) as concentrações testadas foram 0.030, 0.058, 
+0.115, 0.230 e 0.460 mg/mL; para a fração BuOH (57% 
+do extrato etanólico) as concentrações testadas foram 
+0.074, 0.142, 0.285, 0.570 e 1.14 mg/mL, e para a 
+fração HA (20 % do extrato etanólico) as concentrações 
+testadas foram: 0.026, 0.050, 0.100, 0.200 e 0.400 mg/
+mL. 
+As inflorescências de Tradescantia	pallida (T.	
+pallida) foram coletadas no Horto de Plantas Medicinais 
+da Faculdade de Ciências Farmacêuticas (UNESP-
+Araraquara), distante 4,5 Km do centro de poluição 
+automotiva. Foram utilizadas 20 hastes de 6 a 8 cm de 
+comprimento, por grupo tratado, nas quais continham as 
+inflorescências. Após coleta, as hastes de T.	pallida	foram 
+submetidas à fase de adaptação em solução de Hoagland 
+(Roth, 1964) sob aeração constante durante 24 horas. 
+Após o término desse período, as hastes que floresceram 
+foram eliminadas, uma vez que estariam em estágio de 
+divisão avançado, o que impossibilita a observação das 
+tétrades. As hastes remanescentes foram separadas em 
+8 grupos quando as frações foram solubilizadas em 
+DMSO 3% (AcOEt e BuOH) sendo eles: Hoagland - 
+controle negativo, formol 1,000 ppm - controle positivo, 
+DMSO 3% - controle de veículo e 5 grupos teste para 
+cada uma das concentrações avaliadas. A solução de 
+formaldeído 1.000 ppm foi utilizada como controle 
+positivo por ser capaz de induzir grande freqüência de 
+micronúcleos em T.	pallida (Batalha et al., 1999). Para a 
+fração HÁ (solúvel em água) foram separados 7 grupos: 
+controle negativo e positivo (similar aos citados acima) 
+e 5 grupos teste para as concentrações avaliadas. Os 
+grupos foram tratados durante 8 horas e, em seguida, 
+as hastes foram colocadas em solução de Hoagland 
+por 24 horas, para recuperação pós-tratamento. Após 
+esse período, as inflorescências foram removidas e 
+fixadas em etanol:ácido acético (3:1) por 24 a 48 horas 
+à temperatura ambiente, seguida de armazenamento 
+em etanol 70 % sob refrigeração. As anteras onde se 
+encontravam as tétrades foram maceradas em lâminas 
+com Acetoarmim (0.67 %), cobertas com lamínula e 
+aquecidas à temperatura cerca de 80 °C. A contagem 
+do número de micronúcleos (%) foi realizada em 300 
+tétrades por tratamento que continham, em média, 10 ou 
+mais hastes. A elevada freqüência de micronúcleos foi 
+considerada diretamente proporcional a mutagenicidade 
+dos extratos avaliados (Ma, 1983).
+Ensaio de antimutagenicidade
+A fração AcOEt  foi selecionada para a realização 
+do ensaio de antimutagenicidade, uma vez que não foi 
+observado efeito mutagênico nas menores concentrações. 
+A coleta das inflorescências e os procedimentos 
+metodológicos foram realizados conforme descrito no 
+ensaio de mutagenicidade. Entretanto, para esse ensaio 
+protetor, após o período de adaptação (24 horas) em 
+solução de Hoagland, as hastes foram submetidas ao 
+tratamento, com as concentrações da fração AcOEt 
+que não apresentaram efeito mutagênico (0.030, 0.058, 
+0.115 e 0.230 mg/mL) durante 4 horas. Em seguida, 
+as hastes foram submetidas a tratamento com formol 
+10.000 ppm durante 4 horas (Batalha et al., 1999). 
+Como controle positivo, inflorescências foram tratadas 
+com solução de Hoagland (4 horas) e de formol 10.000 
+ppm (4 horas), como controle negativo o tratamento foi 
+realizado com solução de Hoagland (8 horas) e como 
+controle de veículo, as inflorescências foram tratadas 
+com uma solução de DMSO 3% (4 horas), seguido de 
+mais 4 horas de tratamento com formol 10.000 ppm. 
+Para os grupos teste e controle, após o tratamento, as 
+inflorescências foram deixadas em solução de Hoagland 
+por 24 horas (período de recuperação), submetidas à 
+fixação e contagem conforme o procedimento adotado 
+para o ensaio de mutagenicidade. 
+Análise estatística
+A avaliação estatística foi realizada através 
+da análise da freqüência absoluta de micronúcleos 
+em células mãe do grão de pólen. Os experimentos 
+de mutagenicidade com as frações AcOEt, BuOH e 
+HA, foram avaliados segundo o teste de normalidade 
+(Shapiro-Wilk) e de homocedasticidade. Observou-se 
+que estas frações não apresentaram distribuição normal, 
+por isso utilizou-se o teste não paramétrico de Mann-
+Whitney com a finalidade de comparar todos os grupos 
+com o controle negativo. Para a análise estatística dos 
+resultados do ensaio de antimutagenicidade, os resultados 
+da freqüência de micronúcleos foram comparados com 
+o controle positivo (avaliação do efeito protetor frente 
+ao agente indutor de danos de DNA) e apresentaram 
+distribuição normal. Por essa razão foi aplicado Teste 
+T para dados amostrais de amostras independentes 
+unilateral. O nível de significância adotado foi de 5% e 
+a análise estatística dos resultados obtidos foi realizada 
+com o auxílio do programa estatístico  BioEstat 4.0 
+(Belém-PA, Brasil).
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+19(1A): Jan./Mar. 2009
+64
+Fernanda G. Ferreira, Luis O. Regasini, Aline M. de Oliveira, et al.
+RESULTADOS
+Os resultados da avaliação de mutagenicidade 
+das frações AcOEt, BuOH e HA de P.	 nitens	 estão 
+demonstrados na figura 1. Os controles veículos (CV) 
+não apresentaram diferença estatística em relação 
+aos controles negativos (CN) excluindo, portanto, 
+a possibilidade de falsos positivos para o efeito 
+mutagênico das frações que foram solubilizadas com 
+este veículo. 
+Os resultados dos ensaios com a fração AcOEt 
+(figura 1A) mostraram a seguinte relação de média da 
+freqüência de micronúcleos (M) e erro padrão (EP) 
+(M ± EP): CP = 2.49 ± 0.29, CN = 0.71 ± 0.12, CV 
+= 1.06 ± 0.18, 0.030 mg/mL = 0.82 ± 0.31, 0.058 mg/
+mL = 1.17 ± 0.32, 0.115 mg/mL = 1.17 ± 0.24, 0.230 
+mg/mL = 1.06 ± 0.26, e 0.460 mg/mL = 1.51 ± 0.28. 
+Com os resultados apresentados observamos atividade 
+mutagênica na concentração de 0.460 mg/mL (p< 
+0.050), não sendo observado a mesma atividade nas 
+concentrações menores (0.030, 0.058, 0.115, 0.23 mg/
+mL). Na fração BuOH (Figura 1B) obtivemos a seguinte 
+relação de média da freqüência de micronúcleos (M) e 
+erro padrão (EP) (M ± EP): CP = 2.46 ± 0.25, CN = 
+0.90 ± 0.15, CV = 1.10 ± 0.19, 0.074 mg/mL = 1.27 ± 
+0.18, 0.142 mg/mL = 1.77 ± 0.27, 0.285 mg/mL = 1.73 ± 
+0.31, 0.570 mg/mL = 1.80 ± 0.34, e 1.14 mg/mL = 2.03 
+± 0.23. Com os resultados apresentados observamos 
+atividade mutagênica nas concentrações de 0.142 mg/
+mL (p< 0.050), 0.285 mg/mL (p< 0.050), 0.570 mg/mL 
+(p< 0.050) e 1.14 mg/mL (p< 0.001). Na avaliação da 
+fração HA foi observado a seguinte relação de média da 
+freqüência de micronúcleos (M) e erro padrão (EP) (M 
+± EP): CP = 1.90 ± 0.36, CN = 0.75 ± 0.25, 0.026 mg/
+mL = 1.13 ± 0.12, 0.050 mg/mL = 1.53 ± 0.19, 0.100 
+mg/mL = 2.20 ± 0.34, 0.200 mg/mL = 2.30 ± 0.24, e 
+0.400 mg/mL = 3.80 ± 0.27. Essa fração apresentou 
+efeito mutagênico nas concentrações de 0.050 mg/mL 
+(p< 0.050), 0.100 mg/mL (p< 0.010), 0.200 mg/mL (p< 
+0.010) e 0.400 mg/mL (p< 0.001). 
+Após a realização dos ensaios de mutagenicidade 
+das frações de P.	nitens em T.	pallida	e observada ausência 
+de mutagenicidade na fração AcOEt nas concentrações 
+0.030, 0.058, 0.115, 0.230 mg/mL, esta fração foi 
+selecionada para ensaios de antimutagenicidade (Figura 
+2). Os resultados mostraram a seguinte relação de 
+média da freqüência de micronúcleos (M) e erro padrão 
+(EP) (M ± EP): CP = 2.00 ± 0.20, CN = 0.77 ± 0.22, 
+CV = 1.87 ± 0.16, 0.030 mg/mL = 1.63 ± 0.21, 0.058 
+mg/mL = 1.67 ± 0.17, 0.115 mg/mL = 1.40 ± 0.16, e 
+0.230 mg/mL = 1.30 ± 0.18. É possível observar que 
+não houve diferença na freqüência de micronúcleos 
+entre o controle positivo e o controle de veículo (P = 
+0.304, p > 0.050), demonstrando que o veículo não se 
+configura como um agente antimutagênico e, portanto 
+não possui propriedades capazes de interferir no 
+bioensaio. Adicionalmente, uma diferença significativa 
+foi observada entre o controle positivo e o controle 
+negativo (p< 0.001). Na comparação entre o controle 
+positivo e as diferentes concentrações, foi observada 
+diferença significativa entre o controle positivo e os 
+tratamentos com 0.115 (p< 0.050) e 0.230 mg/mL (p< 
+0.010), indicando que nessas concentrações a fração 
+AcOEt de P.	 nitens demonstrou potencial atividade 
+antimutagênico.
+Paralelamente aos ensaios biológicos, o estudo 
+químico das frações BuOH e HA, tendo gel de sílica 
+como suporte cromatográfico, culminou no isolamento 
+dos alcalóides guanidínicos 1 e 2 (Figura 3), previamente 
+descritos como pertencentes ao metaboloma de P.	nitens 
+(Bolzani et al., 1995).
+DISCUSSÃO
+O estudo de frações ricas em classes de 
+compostos, obtidos de plantas, se faz importante no 
+sentido de realizar estudos biodirecionados, ou seja, que 
+correlacionam à atividade biológica investigada com a 
+classe de substância apresentada na fração. No presente 
+estudo, atividade mutagênica de três diferentes frações 
+de P.	nitens	(BuOH, AcOEt, HA) foi avaliada através do 
+ensaio de Trad-MCN. Atualmente, o bioensaio de Trad-
+MCN tem sido utilizado como ferramenta para avaliar 
+a interação de compostos com o DNA, tornando-se 
+um importante bioindicador de riscos à saúde humana 
+(Carvalho-Oliveira et al., 2005).
+O presente estudo concluiu que as frações 
+BuOH e HA de P.	nitens apresentaram ação mutagênica, 
+podendo esta ser atribuída a presença dos alcalóides 
+guanidino-terpênicos, pteroginina (1) e pteroginidina 
+(2) nessas frações (Figura 3), demonstrado através da 
+avaliação fitoquímica (Fernandes et al., 2008). Estudos 
+prévios demonstraram que os alcalóides são capazes 
+de induzir aberrações cromossômicas em linhagem 
+celular CHO (chinese	 hamster	 ovary) (Sasaki et al., 
+1992), mutagenicidade em células pulmonares de 
+hamster chinês (CHL) (Nakayasy et al., 1983); induzem 
+mudanças em cromátides irmãs de linfócitos periféricos 
+humanos (Madle et al., 1981); e aumentam a freqüência 
+de micronúcleo e alterações em cromátides irmãs 
+em células meristemáticas de Allium	 cepa (Hazen & 
+Gutiérrez-Gonzálvez, 1988). Ainda na fração HA foi 
+isolado um ciclitol. O mio-inositol é o mais importante 
+ciclitol descrito, sendo que os seus derivados participam 
+da biossíntese de alguns mensageiros secundários 
+associados com a proliferação celular, crescimento 
+celular, eventos de inflamação celular, secreções e outros 
+(Schedler & Baker, 2004). O inositol hexafosfato (IP6) é 
+um outro ciclitol para o qual tem sido demonstrada uma 
+potente ação anticâncer, tanto em testes in	vivo quanto 
+in	vitro (Vucenik & Shamsuddin, 2003).
+A presença de potencial efeito mutagênico 
+das frações BuOH e HA alerta para o seu potencial 
+ação anticarcinogênica, em concentrações que possam 
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+19(1A): Jan./Mar. 2009
+65
+Avaliação de mutagenicidade e antimutagenicidade de diferentes frações de Pterogyne	nitens	(Leguminosae)
+ 
+A 
+P. nitens - fração 
+AcoET  (mg/mL) 
+CP CN CV 
+***
+*
+P. nitens –fração 
+HA  (mg/mL) 
+CP CN 
+**
+**
+*
+* 
+** 
+C 
+CP CV 
+* 
+* 
+*** 
+P. nitens – fração 
+BuOH (mg/mL) 
+*** 
+CN 
+*** 
+B 
+ 
+A 
+P. nitens - fração 
+AcoET  (mg/mL) 
+CP CN CV 
+***
+*
+P. nitens –fração 
+HA  (mg/mL) 
+CP CN 
+**
+**
+*
+* 
+** 
+C 
+CP CV 
+* 
+* 
+*** 
+P. nitens – fração 
+BuOH (mg/mL) 
+*** 
+CN 
+*** 
+B 
+ 
+A 
+P. nitens - fração 
+AcoET  (mg/mL) 
+CP CN CV 
+***
+*
+P. nitens –fração 
+HA  (mg/mL) 
+CP CN 
+**
+**
+*
+* 
+** 
+C 
+CP CV 
+* 
+* 
+*** 
+P. nitens – fração 
+BuOH (mg/mL) 
+*** 
+CN 
+*** 
+B 
+Figura 1. Porcentagem de micronúcleos apresentada para a avaliação do efeito mutagênico da fração avaliadas. A) acetato de 
+etila (0.058, 0.115, 0.230 e 0.460 mg/mL); Mann-Whitney: * controle negativo versus	controle positivo (p<0.001) e ***controle 
+negativo versus	0.460 mg/mL (p<0.050). B) Fração butanólica (0.074, 0.142, 0.285, 0.570, 1.14 mg/mL);  Mann-Whitney: 
+* controle negativo versus	controle positivo (p<0.001); ***controle negativo versus 0.142 mg/mL (p<0.050), 0.285 mg/mL 
+(p<0.050), 0.570 mg/mL (p<0.050) e 1.14 mg/mL (p<0.001). C) Fração hidroalcóolica (0.026, 0.050, 0.100, 0.200 e 0.400 
+mg/mL); Mann-Whitney: *controle negativo versus	 controle positivo (p<0.050), ***controle negativo versus 0.050 mg/mL 
+(p<0.050), 0.100  mg/mL (p<0.010), 0.200 mg/mL (p<0.010) e 0.400 mg/mL (p<0.001). (■) Controle positivo, (●) controle 
+negativo, (▲) controle de veículo, (▼) tratamentos com as frações de P.nitens. * (p<0.001), ** (p<0.010) e *** (p<0.050).
+assegurar seu uso sem induzir mutagenicidade nas 
+células normais. Mutações que acarretem, por exemplo, 
+modificações na expressão do gene p53 ou deleção do 
+gene que codifica pRb podem aumentar a sensibilidade 
+de células tumorais malignas a agentes quimioterápicos 
+(Hochhauser, 1997). Diversos estudos vêm sendo 
+conduzidos para a utilização de drogas que tenham 
+como mecanismo de ação a ligação ao DNA (aductos) 
+ou que se intercalem seletivamente neste, induzindo 
+sinais intracelulares que levem as células tumorais a 
+apoptose (Havelka et al., 2007; Wheate et al., 2007). 
+A vincristina, e a camptotecina são alcalóides naturais, 
+que vêm sendo utilizados na oncologia por interferir na 
+organização de microtúbulos e inibir a topoisomerase I 
+respectivamente (Costa et al., 2008, Sirikantaramas et 
+al., 2007). 
+Um recente estudo fitoquímico das folhas de P.	
+nitens, revelou um grande acúmulo de 7-metoxiflavonas 
+na fração AcOEt (Fernandes et al., 2008). Os resultados 
+obtidos demonstram que a fração AcOEt exibiu 
+mutagenicidade a 0,460 mg/mL. De fato, a literatura 
+descreve que flavonóides possuem a capacidade de 
+intercalar-se às moléculas de DNA em determinadas 
+concentrações, sendo algumas vezes utilizados como 
+coadjuvantes na terapia antineoplásica (Ferguson 
+& Denny, 2007). Ao avaliar as concentrações não 
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+19(1A): Jan./Mar. 2009
+66
+Fernanda G. Ferreira, Luis O. Regasini, Aline M. de Oliveira, et al.
+mutagênicas desta fração observamos que algumas 
+delas apresentaram atividade antimutagênica (0,115 
+e 0,230 mg/mL). A atividade protetora ao DNA pode 
+estar associada ao fato de que as flavonas apresentam 
+grupos fenóis que lhes conferem uma ação antioxidante 
+(conjugando as enzimas com as glutationas transferases 
+e glucoronosiltransferase), agindo como potenciais 
+agentes antimutagênicos (Fernandes et al., 2008; Van 
+der Merwe et al., 2006; Snijman et al., 2007). 
+Considerando que a fração AcOEt não causa 
+danos no DNA, os resultados descritos no presente 
+estudo sugerem que a ação mutagênica observada no 
+extrato etanólico de P.	nitens descrito anteriormente na 
+literatura (Oliveira et al., 2007) pode ser atribuída em 
+grande parte aos constituintes químicos presentes nas 
+frações BuOH e HA. 
+Nas Figuras 1B e 2 é possível observar as 
+atividades mutagênica e antimutagênica da fração 
+AcOEt. Compostos que apresentam tanto características 
+mutagênicas como antimutagênicas são conhecidos 
+como compostos de Janus (Zeiger, 2003). Prévios estudos 
+descrevem compostos com a mesma característica, 
+como é o caso dos β-carotenos e ácido ascórbico (Kaya 
+et al., 2002; Paolini et al., 2003). Ainda na Figura 2 
+é possível observar a atividade antimutagênica da 
+AcOEt somente nas maiores concentrações. Resultados 
+semelhantes foram encontrados por Kaur et al. (2002) ao 
+demonstrar o efeito antimutagênico das frações acetona 
+e metanólica de Terminalia	arjuna utilizando o teste de 
+Ames para este fim.
+A descrição do potencial mutagênico e 
+antimutagênico das frações AcOEt, BuOH e HA é 
+de grande valia, considerando-se que a madeira de P.	
+nitens vem sendo empregada indiscriminadamente pela 
+construção civil e, por tratar-se de uma leguminosa 
+pertencente a um gênero monoespecífico, informações 
+biológicas e químicas são úteis para o uso sustentável de 
+uma espécie que está seriamente ameaçada de extinção 
+(Carvalho, 1994). Ainda, o potencial anticarcinogênico 
+deve ser futuramente explorado, considerando que as 
+frações HA e BuOH demonstraram-se mutagênicos na 
+maioria das concentrações testadas. 
+AGRADECIMENTOS
+Os autores agradecem à FAPESP (processos 
+nº 06/60891-2 e 03/00886-7), Biota/FAPESP (Instituto	
+Virtual	 da	 Biodiversidade, processo nº 03/02176-
+7), BIOprospecTA/FAPESP (processo nº 04/07932-
+7), CNPq e CAPES pelos auxílios concedidos. 
+Agradecemos ainda ao Prof. Dr. Luis Vitor Silva do 
+Sacramento do Departamento de Princípios Ativos 
+Naturais e Toxicologia da Faculdade de Ciências 
+Farmacêuticas-UNESP, responsável pelo cultivo da 
+Tradescantia	pallida no Horto da mesma faculdade. 
+REFERÊNCIAS
+Batalha JRF, Guimarães ET, Lobo DJA, Lichtenfels AJFC, 
+Deur T, Carvalho HA, Alves ES, Domingos M, 
+Rodrigues GS, Saldiva PHN 1999. Exploring the 
+clastogenic effects of air pollutants in São Paulo 
+(Brazil) using the Tradescantia	 micronuclei assay. 
+Mutat Res 426: 229-232.
+Bolzani VS, Gunatilaka AAL, Kingston DGI 1995. Bioactive 
+guanidine alkaloids from Pterogyne	 nitens. J	 Nat	
+Prod 58: 1683-1688.
+Bukart A 1952. Las	Leguminosas	Argentinas. Aemé Agengy, 
+Buenos Aires.
+Carvalho PER 1994. Espécies	 florestais	 brasileiras:	
+recomendações	silviculturais,	potencialidades	e	uso	
+da	madeira, p. 163.
+Carvalho-Oliveira R, Pozo RMK, Lobo DJA, Lichtenfels 
+AJFC, Martins-Junior HÁ, Bustilho JOWV, Saiki 
+M, Sato IM, Saldiva PHN, 2005. Diesel emissions 
+Figura 2. Porcentagem de micronúcleo apresentado no teste 
+de micronúcleo em Tradescantia	 pallida para a avaliação 
+do efeito antimutagênico da fração acetato de etila de 
+Pterogyne		nitens, nas concentrações de 0.030, 0.058, 0.115 
+e 0.230 mg/mL. Teste T: dados amostrais para amostras 
+independentes (unilateral)-controle positivo versus	controle 
+negativo (p<0.001), controle positivo versus	 0.115 mg/
+mL (p< 0.050) e controle positivo versus	 0.230 mg/mL 
+(p<0.010). (■) Controle positivo, (●) controle negativo, 
+(▲) controle de veículo, (▼) tratamentos com a fração 
+acetato de etila de P.	nitens. * (p< 0.001), ** (p< 0.010) e 
+*** (p<0.050).
+P. nitens -AcoET 
+(mg/mL) 
+*** ** 
+* 
+CP CN CV 
+N N
+N
+H
+H
+H
+N
+H
+N
+N
+H
+H
+Figura 3. Alcalóides guanidínicos 1 e 2 isolados das frações 
+n-butanólica e hidroalcoólica de Pterogyne	nitens.
+Rev. Bras. Farmacogn.
+Braz J. Pharmacogn.
+19(1A): Jan./Mar. 2009
+67
+Avaliação de mutagenicidade e antimutagenicidade de diferentes frações de Pterogyne	nitens	(Leguminosae)
+significantly influence composition and mutagenicity 
+of ambient particles: a case study in São Paulo, 
+Brazil. Environ	Res 98: 1-7.
+Corral RA, Orazi OO, Petruccelli MF 1969. Guanidine 
+alkaloids of Pterogyne	nitens.	Experientia 25: 1020-
+1021. 
+Costa MM, Hilliou F, Duarte P, Pereira LG, Almeida I, Leech 
+M, Memelink J, Barcelo AR, Sottomayor M 2008. 
+Molecular cloning and characterization of a vacuolar 
+class III peroxidase involved in the metabolismo of 
+anticancer alkaloids in	 Catharanthus	 roseus.	 Plant	
+Physiol	146: 403-417.
+Crivos M, Martinez MR, Pochettino ML, Remorini C, 
+Sy A, Teves L 2007. Pathways as “signatures in 
+landscape”: Towards an ethnography of mobility 
+among the Mbya-Guaraní (Northeastern Argentina). 
+J Ethnobiol	Ethnomed	3: 2.
+Do Nascimento WMO, Cruz ED, Moraes MHD, Menten 
+JOM 2006. Qualidade sanitária e germinação de 
+sementes de	 Pterogyne	 nitens	Tull. (Leguminosae- 
+Caesalpinioideae). Rev Bras Sementes 28: 149-153.
+Ferguson LR, Denny WA 2007. Genotoxicity of non-covalent 
+interactions: DNA intercalators. Mutat	Res 623: 14-
+23.
+Fernandes DC, Regasini LO, Vellosa JCR, Pauletti PM, 
+Castro-Gamboa I, Bolzani VS, Oliveira OMM, Silva 
+DHS 2008. Myeloperoxidase inhibitory and radical 
+scavenging activities of flavones from Pterogyne	
+nitens. Chem	Pharm	Bull 56: 723-726.
+Flores LER, Madrigal-Bujaidar E, Salazar M, Chamorr G 
+2003. Anticlastogenic effect of Spirulina	 maxima	
+extract on the micronuclei induced by maleic 
+hydrazide in Tradescantia. Life	Sci 72: 1345-1351.
+Havelka AM, Berndtsson M, Olofsson MH, Shoshan 
+MC, Linder S 2007. Mechanisms of action of 
+DNA-damaging anticancer drugs in treatment of 
+carcinomas: is acute apoptosis an “off-target” effect?. 
+Mini	Rev	Med	Chem 7: 1035-1039.
+Hazen MJ, Gutiérrez-Gonzálvez MG 1988. UV-mediated 
+toxic bioactivity of harmine in the meristematic cells 
+of Allium cepa. Mutagenesis	3: 333-337.
+Hochhauser D 1997. Modulation of chemical chemosensitivity 
+through altered expression of cell cycle regulatory 
+genes in cancer. Anticancer	Drug 8: 903-910.
+Kaya B, Creus A, Velazquez A, Yanikoglu A, Marcos R 2002. 
+Genotoxicity is modulated by ascorbic acid: studies 
+using the wing spot test in Drosophila. Mutat	 Res 
+520: 93-101.
+Kaur K, Arora S, Kumar S, Nagpal A 2002. Antimutagenic 
+activities of acetone and methanol fractions of 
+Terminalia	 arjuna. Food	 Chem	 Toxicol 40: 1475-
+1482.
+Klumpp A, Ansel W, Fomim A, Schnirring S, Pickl C 2004. 
+Influence of climatic condition the mutations in 
+pollen mother cells of Tradescantia clone 4430 and 
+implications for the Trad-MCN bioassay protocol. 
+Hereditas 141: 142-148.
+Lorenzi H 2000. Arvóres	brasileiras:	Manual	de	Identificação	
+e	 Cultivo	 de	 Plantas	 Arbóreas	 Nativas	 do	 Brasil. 
+3ªed., Instituto Plantarum de Estudos da Flora, 
+01:163.
+Ma TH 1983. Tradescantia micronucleus (Trad-MCN) test 
+for environmental clastogens. In: Kolber, Wong, 
+Dewoskin & Hughes (Eds.). In	vitro	toxicity	testing	
+of	 environmental	 agents. Plenium Publishing 
+Cooporation, Macomb, 191-214.
+Madle E, Obe G, Hansen J, Ristow H 1981. Harman 
+and norharmane: induction of sister-chromatid 
+exchanges in human peripheral lymphocytes in vitro 
+and interaction with isolated DNA, Mutat	 Res 90: 
+433-442.
+Nakayasy M, Nakasato F, Sakamoto H, Terada M, Sugimura T 
+1983. Mutagenic activity of norharman and Harman 
+in Chinese lung cells in assay with diphtheria toxin 
+resistance as a marker, Cancer	Lett 17: 249-255.
+Oliveira AM, Caliri CM, Regasini LO, Talascrea M, Peron 
+MCC, Silva DHS, Santos AG, Bolzani VS, Cabalheiro 
+AJ, Soares CP 2007. Evaluation of micronuclei 
+frequency in Tradescantia	 pallida pollen mother 
+cells treated with ethanolic extracts isolated from 
+Cryptocarya	 mandioccana,	 Cryptocarya	 moschata 
+and Pterogyne	nitens, Rev	Bras	Toxicol 20: 73-78.
+Paolini M, Abdel-Rahman SZ, Sapone A, Pedulli GF, Perocco 
+P, Cantelli-Forti G, Legator MS 2003. Beta-carotene: 
+a cancer chemopreventive agent or a co-carcinogen? 
+Mutat	Res 543: 195-200.
+Roth I 1964. Microtecnica	 vegetal. Caracas: Imprenta 
+Universitária, p. 88.
+Santos RA, Cabral TR, Cabral IR, Antunes LMG, Andrade 
+CP, Santos PCC, Bahia MO, Pessoa C, Nascimento 
+JLM, Burbano RR, Takahashi CS 2008. Genotoxic 
+effect of Physalis	 angulata L. (solanaceae) extract 
+on human lymphocytes treated in	 vitro. Biocell 32: 
+195-200.
+Sasaki YF, Yamada H, Shimoi K, Kinae N, Tomita I, 
+Matsumura H, Ohta T, Shirasu Y 1992. Enhancing 
+effects of heterocyclic amines and β-carbolines on 
+the induction of chromosome aberrations in culture 
+mammalian cells.	Mutat	Res 269: 79-95.
+Schedler DJA, Baker DC 2004. Fluorinated cyclitols as 
+useful biological probes of phosphatidyeinositol 
+metabolism. Carbohyd	Res 339: 1585-1595.
+Sirikantaramas S, Asano T, Sudo H, Yamazaki M, Saito K 
+2007. Camptothecin: therapeutic potential and 
+biotechnology. Curr	Pharm	Biotechnol 8: 196-202.
+Snijman PW, Swanevelder S, Joubert E, Green IR, Gelderblom 
+WCA 2007. The antimutagenic activity of the 
+major flavonoids of rooibos (Aspalathus	 linearis): 
+Some dose-response effects on mutagen activation-
+flavonoid interactions, Mutat Res 631: 111-123.
+Valadares MC, Rezende KR, Pereira ERT, Sousa MC, 
+Gonçalves B, Assis JC, Kato MJ 2007. Protective 
+effects of 4-nerolidylcatechol agaist genotoxicity 
+induced by cyclophosphamide. Food Chem Toxicol 
+45: 1975-1978. 
+Van Der Merwe JD, Joubert E, Richards ES, Manley M, 
+Snijman PW, Marnewick JL, Gelderblom WCA 
+2006. A comparative study on the antimutagenic 
+properties of aqueous extracts of Aspalathus	linearis	
+(rooibos), different Cyclopia	 spp (honeybush) and 
+Camellia	sinensis	teas. Mutat Res 611: 42-53.
+Vucenik I, Shamsuddin AM 2003. Cancer Inhition by inositol 
+hexaphosphate (IP6) and inositol: from laboratory to 
+clinic. J	Nutr	133: 3778S-3784S.
+Weber CJ 1930. A modification of Sakaguchi’s reaction for the 
+quantitative determination of arginine. J Biol Chem	
+86: 217-222.
+Wheate NJ, Brodie CR, Collins JG, Kemp S, Aldrich-Wright 
+JR 2007. DNA intercalators in cancer therapy: 
+organic and inorganic drugs and their spectroscopic 
+tools of analysis, Med	Chem 7: 627-648.
+Zeiger E 2003. Illusions of safety: antimutagens can be 
+mutagens, and anticarcinogens can be carcinogens. 
+Mutat	Res 543: 191-194. 

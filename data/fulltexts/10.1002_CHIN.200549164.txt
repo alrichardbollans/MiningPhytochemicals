@@ -1,0 +1,360 @@
+ Chinese Journal of Chemistry, 2005, 23, 933—936 Note 
+ 
+ * E-mail: lsding@cib. ac. cn; Fax: 86-28-85222753 
+  Received September 27, 2004; revised December 31, 2004; accepted March 18, 2005. 
+  
+© 2005 SIOC, CAS, Shanghai, & WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+Chemical Constituents of Acanthochlamys bracteata  
+LI, Bang-Jing(李帮经)    GAO, Bao-Chun(高宝莼)    PENG, Shu-Lin(彭树林) 
+LIAO, Xun(廖循)    DING, Li-Sheng*(丁立生)  
+Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu, Sichuan 610041, China 
+A novel nortriterpene, acanthochlamic acid (6), along with 18 known compounds has been isolated from the 
+whole plants of Acanthochlamys bracteata P. C. Kao, a single species in family Acanthochlamydaceae which is 
+endemic to the southwest of China. The structure of the novel nortriterpene was elucidated as 3,4-seco-3-nor- 
+lup-4(23),20(29)-dien-2,28-dioic acid by spectroscopic techniques including 1D and 2D NMR spectroscopy and 
+confirmed by X-ray crystallography. 
+Keywords  Acanthochlamys bracteata, Acanthochlamydaceae, chemical constituent, acanthochlamic acid 
+ 
+Introduction 
+The family Acanthochlamydaceae, comprising a 
+single genus and a single species of Acanthochlamys 
+bracteata P. C. Kao, is endemic to the southwest of 
+China.1-3 A primary investigation of the chemical con-
+stituents of A. bracteata was conducted in our labora-
+tory and only 6 known compounds have been isolated.4 
+During the search for the chemotaxonomical evidence 
+of establishing the endemic family, the chemical con-
+stituents of the whole plants of A. bracteata have been 
+isolated again. A novel nortriterpene, acanthochlamic 
+acid (6), together with 18 known compounds has been 
+isolated from the alcoholic extract of the whole plants. 
+We report herein the isolation and structure elucidation 
+of these compounds.  
+Results and discussion 
+Compound 6 was obtained as colorless crystals and 
+shown to have a molecular formula of C29H44O4 ac-
+cording to high-resolution electrospray ionization mass 
+spectrometry (HRESIMS, m/z 479.3163 [M＋Na]＋, 
+calcd. 479.3137), indicating eight degrees of unsatura-
+tion. The IR spectrum of 6 exhibited absorptions of 
+carboxylic acid (1700, 1406 and 929 cm－1) and unsatu-
+rated carbon-carbon bonds (3070, 1635, 893 and 875   
+cm
+－1). The NMR spectra suggest a structure with 29 
+carbon atoms comprising two terminal olefinic bonds 
+[δH: 4.58, 4.70 (H-29), 4.84, 4.87 (H-23) and δC: 109.6 
+(C-29), 150.3 (C-20), 114.4 (C-23), 147.0 (C-4)], two 
+carboxylic groups [δH: 12.00, 12.01 and δC: 173.1 (C-2), 
+177.2 (C-28)] and five tertiary methyls [δH: 0.75 (H-25), 
+0.92 (H-27), 0.93 (H-26), 1.65 (H-30), 1.70 (H-24) and 
+δC: 14.3 (C-26), 15.5 (C-27), 19.0 (C-30), 19.4 (C-25), 
+22.6 (C-24)]. In addition to the above carbon signals, 
+the 13C NMR spectrum (including DEPT) exhibited the 
+signals of nine methylenes, four methines and five qua-
+ternary carbons. All the spectral data suggested that 6 
+should be a nortriterpene. One isopropenyl group was 
+attached to a five-membered ring, with δH 4.58, 4.70 
+assigned to the vinylic methylene, δH 1.65 to the at-
+tached methyl, and δH 1.55 to the allylic carbinyl proton. 
+The other isopropenyl group was attached to a 
+six-membered ring, with δH 4.84, 4.87 assigned to the 
+vinylic methylene, δH 1.70 to the attached methyl, and 
+δH 2.59 to the allylic carbinyl proton. Comparing the 
+NMR data of 6 with those published for betulinic acid,5 
+rings C, D and E were so similar that it was supposed to 
+be a lupane-type triterpene. The betulinic acid has only 
+one isopropenyl group and one carboxylic group. But 
+signals of NMR indicated that there are double isopro-
+penyl groups and carboxylic groups in 6. The presence 
+of an extra isopropenyl group and carboxylic group 
+suggested the cleavage of ring A in 6 between C-2 and 
+C-3, followed by the lost of C-3 to form an isopropenyl 
+group and C-2 was oxidized to a carboxylic group. In 
+the HMBC experiment (Figure 1), the correlation sig-
+nals between H-1 (δ 2.20 and 2.07, d, J＝15.0 Hz) at-
+tached to a carboxylic group and C-5 (δ 48.8, d) and 
+C-25 (δ 19.4, q) proved the cleavage of ring A. Fur-
+thermore, those between H-23 (δ 4.87 and 4.84, s) and 
+C-5 (δ 48.8, d) and C-24 (δ 22.6, q) confirmed the 
+cleavage of ring A. The correlation signals between the 
+two protons of H-29 (δ 4.58 and 4.70, s) and C-30 (δ 
+19.0, q) were observed too. The relative stereochemistry 
+of 6 was confirmed by 2D NOESY experiment (Figure 
+2). The moiety of CH2COOH attached to C-10 was as-
+signed to be α-oriented due to the NOESY correlation 
+between H3-25 and H3-26. The NOESY correlation be-
+tween H-5 and H-9 indicated the β-orientation of the 
+isopropenyl group at C-5. H-5, H-9 and H-18 were 
+proved to be α-oriented since they showed NOESY 
+correlations with H3-27. The NOESY correlation signals 
+between H-13 and both H3-26 and H-19 indicated the 
+934  Chin. J. Chem., 2005, Vol. 23, No. 7  LI et al. 
+ 
+© 2005 SIOC, CAS, Shanghai, & WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+ 
+Figure 1  Structure and the key HMBC (H→C) correlations of 
+compound 6. 
+ 
+Figure 2  Key NOESY correlations of compound 6. 
+α-orientation of isopropenyl group at C-19. The NO-
+ESY correlation signals between Ha-22 and both H-18 
+and H-29 showed that 28-COOH was β-oriented. All 
+chiral centers of 6 were proved to be consistent with 
+those of betulinic acid.5  
+In addition, a colorless crystal of 6 was selected for 
+X-ray analysis. The X-ray data confirmed the structure 
+of 6 and further revealed that in the crystal structure the 
+conformation of 6 is in accordance with those of the 
+betulinic acid.  
+The known compounds, heptacosan-1-ol (1),7 tetra-
+cosanoic acid (2),8 palmitic acid (3),4 stigmasterol (4),4 
+a mixture of stigmasta-5,22-dien-3β,7α-diol and stig-
+masta-5,22-dien-3β,7β-diol (5),4 euscaphic acid (7),4 
+28-feruloxyloctacosanoyl 1-glyceride (8),9 ethyl caf-
+feate (9),10 isoliquiritigenin (10),11 liquiritigenin (11),12 
+stigmasterol 3-O-β-D-glucopyranoside (12),4 tiliroside 
+(13),13 isorhamnetin 3-O-(3",6"-di-O-E-p-coumaroyl)-β- 
+D-glucopyranoside (14),14 isorhamnetin 3-O-(6"-di-O- 
+E-p-coumaroyl)-β-D-glucopyranoside (15),15 kaempfer- 
+ol 3-O-(3",6"-di-O-E-p-coumaroyl)-β-D-glcopyranoside 
+(16),16 ayanin (17),4 liquiritin (18)17 and demethyl 
+coniferin (19),18 were identified by comparison of the 
+1H and 13C NMR data with those of literatures. Among 
+them, only 3, 4, 5, 7, 12 and 17 were isolated from this 
+plant before.  
+Experimental 
+General procedures 
+Optical rotations were measured with a Perkin- 
+Elmer model 341 polarimeter. IR spectra were recored 
+on a Perkin-Elmer FTIR spectrometer as a film on a 
+KBr plate. 1D and 2D NMR spectra were recorded on a 
+Bruker AV-600 spectrometer with reference to internal 
+TMS. All NMR experiments were conducted by using 
+standard pulse sequences supplied by the vendor. 
+HR-ESI-MS was recorded on an API GSTAR PUL-
+SARI spectrometer and ESI-MS was on a Finnigan 
+LCQDECA spectrometer. Melting points were measured 
+on an XRC-1 apparatus and uncorrected. Column chro-
+matography (CC) was carried out on silica gel (160—
+200 and 200—300 mesh, Qingdao Haiyang Co.), Lobar 
+Lichroprep Rp-8, Rp-18 and Si-60 columns (40—68 µm, 
+Merck), MCI-Gel CHP-20P (75—150 µm, Mitsubishi 
+Chemical Co.) and Sephdex LH-20 (Pharmacia Co.).  
+Plant material 
+The whole plants of A. bracteata were collected 
+from Mount Yazhuo, Sichuan, China in July, 2002 and 
+identified by Gao B. C. The voucher specimen 
+(CIB200250) was deposited at the Herbarium of 
+Chengdu Institute of Biology, Chinese Academy of 
+Sciences.  
+Extraction and isolation 
+The air-dried and powdered whole plants of A. 
+bracteata (25 kg) were extracted with EtOH at room 
+temperature (7×3 days). The solvent was evaporated 
+under reduced pressure evaporation to yield the dark 
+residue (440 g). The extract was suspended in water 
+(1000 mL) and extracted with petroleum ether (3×1000 
+mL), EtOAc (3×1000 mL) and n-BuOH (3×1000 mL) 
+sequentially. The extract of petroleum ether (160 g) was 
+submitted to silica gel column chromatography (CC) 
+(silica gel 1.5 kg, petroleum ether/acetone, V∶V, 
+100 1∶ →1 1) and fractioned to ∶ five parts: Fr. I (43 g), 
+II (14 g), III (23 g), IV (11 g), and V (15 g). Fr. II (14 g) 
+was submitted to CC (silica gel 500 g, petroleum 
+ether/EtOAc, V∶V, 15 1∶ →5 1)∶ : Fr. II. 1 with petro-
+leum ether/EtOAc, V∶V, 15∶1 and 12∶1, each 1000 
+mL), Fr. II. 2 with petroleum ether/EtOAc V∶V, 10 1∶  
+and 8∶1, each 1000 mL), Fr. II. 3 with petroleum 
+ether/EtOAc, V∶V, 5∶1, 1500 mL). Fr. II. 1 was sub-
+mitted to CC (silica gel 160 g, petroleum ether/EtOAc, 
+V∶V, 12 1)∶  to produce 1 (170 mg) and 2 (140 mg), 
+after purification by crystallization from petroleum ether. 
+Compounds 3 (110 mg) and 4 (11.0 g) were obtained 
+from Fr. II. 3 and Fr. III, respectively, by crystallization 
+from petroleum ether. Compound 5 (120 mg) was ob-
+tained by crystallization from acetone after CC of Fr. IV 
+(first silica gel 450 g, petroleum ether/acetone, V∶V, 
+10∶1, 1500 mL, and then silica gel 100 g, petroleum 
+ether/EtOAc, V∶V, 7 1∶ , 900 mL). Fr. V was submit-
+ted to CC (first silica gel 600 g, petroleum ether/acetone, 
+V∶V, 8∶1, 1500 mL, and then silica gel 100 g, petro-
+leum ether/EtOAc, V∶V, 5 1∶ , 1100 mL) to afford 5 
+(32 mg) and 6 (570 mg). The extract of EtOAc (76 g) 
+was submitted to CC (silica gel 1.4 kg, CHCl3/MeOH, 
+V∶V, 50 1∶ →1 1) and fractioned to ∶ four parts: Fr. I 
+(10 g), II (28 g), III (9 g), and IV (8 g). Fr. I (10 g) was 
+submitted to CC (silica gel 300 g, CHCl3/MeOH, V∶V, 
+30 1∶ →15 1)∶  to yield Fr. I. 1 with CHCl3/MeOH, 
+V∶V, 30 1∶  (1000 mL) and 20 1∶  (1000 mL), and Fr. 
+I. 2 with CHCl3/MeOH, V∶V, 15∶1 (2000 mL). Fr. I. 
+Acanthochlamys bracteata  Chin. J. Chem., 2005 Vol. 23 No. 7  935 
+ 
+© 2005 SIOC, CAS, Shanghai, & WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+1 (7 g) was submitted to repeated CC (silica gel 200 g, 
+petroleum ether/acetone, V∶V, 8 1∶  and CHCl3/MeOH, 
+V∶V, 20 1)∶  to form 5 (5 mg), 6 (25 mg) and 7 (70 
+mg). Compound 8 (20 mg) was obtained from Fr. I. 2 (1 
+g) by CC (silica gel 60 g, CHCl3/MeOH, V∶V, 20 1∶ , 
+600 mL). Fr. II was submitted to MCI gel CC, 
+MeOH/H2O, V∶V, 1∶1 (600 mL), V∶V, 7∶3 (900 
+mL) and MeOH (500 mL) to produce Fr. II. 1 (1 g), Fr. 
+II. 2 (1 g) and Fr. II. 3 (22 g). Compound 9 (12 mg) was 
+obtained from Fr. II. 1 by CC (silica gel, then Lobar 
+LiChroprep Rp-18 column with MeOH/H2O, V∶V, 
+6∶4). Fr. II. 2 was submitted to CC (Lobar LiChroprep 
+Rp-18 column with MeOH/H2O, V∶V, 6∶4 and then 
+Lobar LiChroprep Si-60 column with CHCl3/MeOH, 
+V∶V, 9∶1 (400 mL) to yield 10 (6 mg) and 11 (7 mg). 
+Compound 12 (14 g) was obtained from Fr. II. 3 by 
+crystallization in MeOH. Fr. III contained a large num-
+ber of chlorophyll and could not come into pure com-
+pound. Fr. IV was submitted to CC (silica gel, 300 g, 
+CHCl3/MeOH, V∶V, 10 1∶ →1 1)∶ : Fr. IV. 1 (2.5 g) 
+with CHCl3/MeOH, V∶V, 10 1∶  (1000 mL) and V∶V, 
+7 1∶  (1000 mL), Fr. IV. 2 with CHCl3/MeOH, V∶V, 
+5 1∶  (2000 mL) and Fr. IV. 3 with CHCl3/MeOH, V∶V, 
+3 1∶  (1500 mL) and CHCl3/MeOH, V∶V, 1 1∶  (500 
+mL). Compound 12 (410 mg) was crystallized from Fr. 
+IV. 1 (MeOH). Compound 13 (33 mg) was obtained 
+from Fr. IV. 1 by CC Lobar LiChroprep Rp-18 column 
+with MeOH/H2O (V∶V, 6∶4) and then Lobar LiChro-
+prep Si-60 column with CHCl3/MeOH (V∶V, 7∶1, 
+500 mL). Fr. IV. 2 (1 g) was submitted to CC (silica gel, 
+80 g, CHCl3/MeOH, V∶V, 7 1∶  and Lobar LiChroprep 
+Si-60 column, CHCl3/MeOH, V∶V, 8 1∶ , and then 
+Sephdex LH-20) to afford 14 (350 mg). Fr. IV. 3 was 
+submitted to CC (ODS, Lobar LiChroprep Rp-18, Si-60 
+and Sephdex LH-20 columns) to yield compounds 14 
+(12 mg), 15 (13 mg) and 16 (10 mg). The extract of 
+n-BuOH (62 g) was submitted to CC (silica gel 1000 g, 
+CHCl3/MeOH, V∶V, 10 1∶ →1 1∶ ) and fractioned to 
+two parts: Fr. I (8 g) and II (14 g). Fr. I was fractioned 
+by CC (ODS, 400 g) to Fr. I. 1 (1 g), Fr. I. 2 (2.5 g), Fr. 
+I. 3 (1.5 g). Compounds 17 (6 mg) and 18 (40 mg) were 
+obtained by crystallization from MeOH after CC (Lobar 
+LiChroprep Rp-18 and Si-60 columns) of Fr. I. 1. 
+Compound 12 (1.4 g) was crystallized from MeOH 
+from Fr. I. 2. Fr. I. 3 was submitted to CC (Lobar 
+LiChroprep Rp-18 column) to produce two parts: Fr. I. 
+3a and Fr. I. 3b. Compounds 14 (21 mg) and 19 (70 mg) 
+were isolated by CC (Lobar LiChroprep Si-60 column) 
+from Fr. I. 3a and Fr. I. 3b, respectively.  
+Acanthochlamic acid [3,4-seco-3-nor-lup-4(23), 
+20(29)-dien-2,28-dioic acid 6]: colorless crystal 
+(CHCl3/CH3OH); m.p. 276—279 ℃, 20D [ ]α  ＋29.0 (c 
+0.1, CH3OH); 1H (DMSO-d6, 600 MHz) and 13C NMR 
+(DMSO-d6, 150 MHz) data, see Table 1; IR (KBr) ν: 
+3070, 2942, 2870, 1700, 1635, 1450, 1406, 1376, 1318, 
+1226, 1188, 1165, 929, 893, 877 cm－1. HR-ESI-MS 
+Table 1  1H, 13C NMR and HMBC correlations of compound 6 
+(DMSO-d6, J in Hz ) 
+No. δC δH HMBC (H→C) 
+1 42.8 (t) 2.20 (d, J＝15.0),  2.07 (s) 
+C-2, C-5, C-9, C-10, 
+C-25 
+2 173.1 (s)   
+4 147.0 (s)   
+5 48.8 (d) 2.59 (d, J＝11.5) C-10, C-25 
+6 23.6 (t) 1.27—1.28 (m) C-4, C-5, C-10 
+7 32.1 (t) 1.28—1.30 (m),  1.35—1.37 (m) C-5, C-9, C-26 
+8 40.1 (s)   
+9 41.0 (d) 1.95 (d, J＝11.5) C-10, C-25, C-27 
+10 40.3 (s)   
+11 22.1 (t) 1.51—1.52 (m) C-26 
+12 25.1 (t) 1.59—1.60 (m) C-18 
+13 37.7 (d) 2.26—2.27 (m)  
+14 42.4 (s)   
+15 30.1 (t) 1.83—1.85 (m)  
+16 31.6 (t) 2.11—2.13 (m) C-14, C-17 
+17 55.4 (s)   
+18 46.5 (d) 2.95—2.96 (m)  
+19 48.4 (d) 1.55—1.56 (m) C-13, C-17, C-20, C-28, C-30 
+20 150.3 (s)   
+21 29.2 (t) 1.12—1.14 (m),  1.35—1.37 (m) C-13, C-17 
+22 36.3 (t) 1.78—1.79 (m) C-17, C-19, C-28 
+23 114.4 (t) 4.87 (s), 4.84 (s) C-5, C-24 
+24 22.6 (q) 1. 70 (s) C-4, C-5, C-23 
+25 19.4 (q) 0.75 (s) C-1, C-2, C-5, C-10 
+26 14.3 (q) 0.93 (s) C-9 
+27 15.5 (q) 0.92 (s) C-13 
+28 177.2 (s)   
+29 109.6 (t) 4.70 (s), 4.58 (s) C-18, C-30 
+30 19.0 (q) 1.65 (s) C-20, C-29 
+CO
+OH  12.00 (s), 12.01 (s)  
+calcd for C29H44O4Na ([M＋Na]＋): 479.3137, found 
+479.3163.  
+X-ray crystal structure of acanthochlamic acid (6) 
+A colorless crystal with dimensions 0.56 mm×0.56 
+mm× 0.36 mm was selected for X-ray diffraction 
+analysis. Structure analysis was performed using 
+WinGX,19 and non-hydrogen atoms were found using 
+the SIR-92 package.20 Compound 6 crystallized in the 
+space group P212121 with a ＝ 0.7446(1) nm, b ＝
+1.1124(2) nm, c＝3.2036(5) nm, V＝2.6536(6) nm3,   
+Z＝4, Dc＝1.143 g/cm3, λ＝0.071073 nm, µ(Mo Kα)＝
+0.074 mm－1, and F(000)＝1000. A hemisphere of 3350 
+936  Chin. J. Chem., 2005, Vol. 23, No. 7  LI et al. 
+ 
+© 2005 SIOC, CAS, Shanghai, & WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 
+reflections yielded 3155 unique and averaged observa-
+tions to 2θ＝52.48°. The structure was refined by 
+full-matrix least-squares on F2 with SHELXL21 using all 
+data to R＝0.0397, R(I＞2σ)＝0.0889, GOF＝0.891. 
+ORTEP was used to generate Figure 3.22 
+ 
+Figure 3  Crytal structure of compound 6. 
+Supporting information available: Crystallographic 
+data for 6 have been deposited at the Cambridge Crys-
+tallographic Data Centre as supplementary publication 
+no. 218046. Copies of the data can be obtained, free of 
+charge, on application to the director, CCDC, 12 Union 
+Road, Cambridge CB21EZ, UK (Fax: 0044-(0)1223- 
+336033 and e-mail: deposit@ccdc. cam. ac. uk).  
+Acknowledgements  
+Thanks are given to Kaibei Yu for X-ray diffraction 
+analysis. 
+References 
+1 Kubitzki, K. The Families and Genera of Vascular Plants,  
+Springer Press, New York, 1998, p. 55.  
+2 Kao, P. C.; Tan, Z. M. Flora Sichuanica, Tomus 9, Sichuan 
+Nationality Press, Chengdu, 1989, p. 483.  
+3 Kao, P. C. Acta Bot. Yunnan 1998, 20, 23 (in Chinese).  
+4 Zhou, Y.; Lu, F. Q.; Kao, P. C.; Ding, L. S. Chin. J. Appl. 
+Environ. Biol. 2000, 6, 331 (in Chinese).  
+5 Kitajima, J.; Shindo, M.; Tanaka, Y. Chem. Pharm. Bull. 
+1990, 38, 714.  
+6 Mizuno, M.; Kato, M.; Iinuma, M.; Tanaka, T.; Kimura, A.; 
+Ohashi, H.; Sakai, H. Phytochemistry 1987, 26, 2418.  
+7 Liu, J. P.; Wu, G. X. J. Chin. Mater. Med. 1992, 17, 546 (in 
+Chinese).  
+8 Xie, J. M.; Chen, Y. S.; Zhao, S. N.; Zou, X. D. J. Chin. 
+Mater. Med. 1989, 14, 292 (in Chinese).  
+9 Kazuko, K.; Yohei, H. Phytochemistry 1987, 26, 749.  
+10 Wagner, H.; Heur, Y. H.; Obermeier, A.; Tittel, G.; Bladt, S. 
+Planta Med. 1982, 44, 193.  
+11 Liu, Q.; Liu, Y. Acta Pharm. Sin. 1989, 24, 525 (in Chi-
+nese).  
+12 Youssef, D. T. A.; Ramadan, M. A.; Khalifa, A. A. Phyto-
+chemistry 1998, 49, 2579.  
+13 Kuroyanagi, M.; Fukuoka, M.; Yoshihira, K.; Natori, S.; 
+Yamasaki, K. Chem. Pharm. Bull. 1978, 26, 3594.  
+14 Agrawal, P. K. Carbon-13 NMR of Flavonoids, Elsevier 
+Press, New York, 1989, p. 296.  
+15 Mousallami, A. M. D. E.; Afifi, M. S.; Hussein, S. A. M. 
+Phytochemistry 2002, 60, 807.  
+16 Liu, H.; Orjala, J.; Sticher, O.; Rali, T. J. Nat. Prod. 1999, 
+62, 70.  
+17 Nakanishi, T.; Inada, A.; Kambayashi, K.; Yoneda, K. Phy-
+tochemistry 1985, 24, 339.  
+18 Zhou, Y.; Zhou, Z. M.; Cao, P.; Tan, X. G.; Ding, L. S. Nat. 
+Prod. Res. Dev. 2003, 15, 13 (in Chinese).  
+19 Farrugia, L. J. J. Appl. Crystallogr. 1999, 32, 837.  
+20 Altomare, A.; Cascarano, G.; Giacovazzo, C.; Guagliardi, A. 
+J. Appl. Crystallogr. 1993, 26, 343.  
+21 Herbst-Irmr, R.; Sheldrick, G. M. Acta Crystallogr., Sect. B 
+1998, B54, 443.  
+22 Johnson, C. K. Report ORNL-5138, Oak Ridge National 
+Laboratory, Oak Ridge, Tennessee, 1976, p. 130. 
+(E0409276  LI, W. H.; DONG, H. Z.) 
+ 

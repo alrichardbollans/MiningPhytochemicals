@@ -1,0 +1,1819 @@
+This is an Open Access document downloaded from ORCA, Cardiff University's institutional
+repository: http://orca.cf.ac.uk/99998/
+This is the author’s version of a work that was submitted to / accepted for publication.
+Citation for final published version:
+Keller, Andrew N., Eckle, Sidonia B. G., Xu, Weijun, Liu, Ligong, Hughes, Victoria A., Mak,
+Jeffrey Y. W., Meehan, Bronwyn S., Pediongco, Troi, Birkinshaw, Richard W., Chen, Zhenjun,
+Wang, Huimeng, D'Souza, Criselle, Kjer-Nielsen, Lars, Gherardin, Nicholas A., Godfrey, Dale I.,
+Kostenko, Lyudmila, Corbett, Alexandra J., Purcell, Anthony W., Fairlie, David P., McCluskey,
+James and Rossjohn, Jamie 2017. Drugs and drug-like molecules can modulate the function of
+mucosal-associated invariant T cells. Nature Immunology 18 (4) , pp. 402-411. 10.1038/ni.3679 file 
+Publishers page: http://dx.doi.org/10.1038/ni.3679 <http://dx.doi.org/10.1038/ni.3679>
+Please note: 
+Changes made as a result of publishing processes such as copy-editing, formatting and page
+numbers may not be reflected in this version. For the definitive version of this publication, please
+refer to the published source. You are advised to consult the publisher’s version if you wish to cite
+this paper.
+This version is being made available in accordance with publisher policies. See 
+http://orca.cf.ac.uk/policies.html for usage policies. Copyright and moral rights for publications
+made available in ORCA are retained by the copyright holders.
+ 1 
+Drugs and drug-like molecules can modulate mucosal-associated invariant T cell 
+function 
+ 
+Andrew N. Keller1,2*, Sidonia B.G. Eckle3*, Weijun Xu4,5*, Ligong Liu4,5, Victoria A. Hughes1,2, Jeffrey 
+Y.W. Mak4,5, Bronwyn Meehan3, Troi Pediongco3, Richard W. Birkinshaw1, Zhenjun Chen3, Huimeng 
+Wang3, Criselle D’Souza3, Lars Kjer-Nielsen3, Nicholas A. Gherardin3,6, Dale I. Godfrey3,6, Lyudmila 
+Kostenko3, Alexandra J. Corbett3, Anthony W. Purcell1, David P. Fairlie 4,5#, James McCluskey3# & Jamie 
+Rossjohn1,2,7#   
+ 
+1Infection and Immunity Program and Department of Biochemistry and Molecular Biology, Biomedicine 
+Discovery Institute, Monash University, Clayton, Victoria 3800, Australia 
+2ARC Centre of Excellence in Advanced Molecular Imaging, Monash University, Clayton, Victoria 
+3800, Australia 
+3Department of Microbiology and Immunology, Peter Doherty Institute for Infection and Immunity, 
+University of Melbourne, Parkville, Victoria 3010, Australia 
+4Institute for Molecular Bioscience, The University of Queensland, Brisbane, Queensland 4072, 
+Australia.  
+5ARC Centre of Excellence in Advanced Molecular Imaging, University of Queensland, Brisbane, 
+Queensland 4072, Australia.  
+6Australian Research Council Centre of Excellence for Advanced Molecular Imaging, University of 
+Melbourne, Melbourne, Australia 
+7Institute of Infection and Immunity, Cardiff University School of Medicine, Heath Park, Cardiff CF14 
+4XN, UK 
+ 
+* joint first authors 
+# joint senior and corresponding authors. E-mail: Jamie.rossjohn@monash.edu, 
+jamesm1@unimelb.edu.au, d.fairlie@imb.uq.edu.au 
+ 
+ 
+Running title: MAIT cells, drugs and drug-like molecules   
+ 2 
+ 
+Abstract 
+MR1 can present MAIT cell activating and non-activating vitamin B-based ligands. Whether MR1 
+binds other ligands is unknown. Here we identify a range of small organic molecules, drugs, drug 
+metabolites and drug-like molecules, including salicylates and diclofenac, as MR1-binding ligands.  
+Some of these ligands inhibited MAIT cells ex vivo and in vivo, while others, including diclofenac 
+metabolites, were agonists. Crystal structures of a MAIT TCR complexed with MR1 bound to the 
+non-stimulatory and stimulatory compounds showed distinct ligand orientations and contacts 
+within MR1, highlighting versatility of the MR1 binding pocket. The findings indicate that MR1 
+can capture chemically diverse structures, spanning mono- and bicyclic compounds, which either 
+inhibit or activate MAIT cells. This demonstrates that drugs and drug-like molecules can have the 
+previously unknown property of modulating MAIT cell function in mammals. 
+ 
+Introduction 
+In humans, the human leukocyte antigen (HLA) locus is highly polymorphic, thereby enabling HLA 
+molecules to present a broad array of peptide antigens (Ags), an essential requirement for protective 
+immunity. Conversely, certain HLA allotypes are often associated with aberrant T cell reactivity, 
+including autoimmunity, food and drug-linked hypersensitivities1, 2. For example, the anti-retroviral drug 
+abacavir binds to HLA-B*57:01 and alters the repertoire of bound peptides, leading to abacavir 
+hypersensitivity syndrome3. Humans also possess an array of monomorphic Ag-presenting molecules 
+that play distinct and specialised roles in immunity4. Namely, the CD1 family is well suited to bind lipid-
+based Ags5, while the MHC class I-related molecule, MR1, presents microbial products associated with 
+vitamin B2 synthesis for recognition by mucosal-associated invariant T (MAIT) cells 6. Whether MR1 
+or CD1 can present small molecule drugs or drug-like molecules to induce an immune response remains 
+unclear, with such potential implications being magnified by the monomorphic nature of these Ag-
+presenting molecules. 
+ 
+MAIT cells are an evolutionary conserved innate-like T cell subset that is found in many mammals7, 8.  
+Although the function of MAIT cells is emerging, they are considered to play key roles in immunity9 10, 
+11
+. MAIT cells are abundant in humans, representing up to 10% of the total T cell population in the blood.  
+They are found concentrated at mucosal sites, and can account for up to 45% of the total T cell population 
+in the liver, a major detoxifying organ that is directly linked to the gastrointestinal system 12. Unlike 
+MHC-restricted T cell receptors (TCRs) that typically display a diverse repertoire, MAIT cells mostly 
+ 3 
+express a TCR that possesses an ‘invariant’ TCR -chain (TRAV1-2-TRAJ33/20/12) paired with a 
+limited array of TCR -chains8, 13, 14. MR1 can present stimulatory and non-stimulatory pyrimidines 
+associated with vitamins B2 and B9, respectively, for MAIT cell surveillance. For example, some uracils 
+and lumazines derived from riboflavin biosynthesis activate MAIT cells, whereas derivatives of folic 
+acid, including 6-formylpterin (6-FP), are non-stimulatory ligands15, 16. A key difference between these 
+stimulatory and non-stimulatory antigens is that the former possess a ribityl chain that mediates contacts 
+with the MAIT TCR17. Upon activation via the MAIT TCR, MAIT cells rapidly secrete an array of pro-
+inflammatory cytokines, proliferate and have the capacity to kill bacterially infected cells18, 19. It is 
+therefore important to understand the range of ligands that can modulate MAIT cell function.  
+ 
+Using parallel in silico discovery approaches, we identified potential MR1-binding ligands, including 
+some commonly prescribed drugs and drug-like molecules, and other simple aromatic aldehydes, 
+ketones, carboxylates and analogues, pyrimidines, quinones and flavones. Further, we evaluated these 
+ligands for their ability to modulate MAIT cell function through their interaction with MR1. We found 
+that some caused MR1 cell surface upregulation and inhibited MAIT cell activation, while others 
+activated MAIT cells. Consequently, we demonstrate that MR1 can capture chemically diverse scaffolds. 
+These observations indicate that some drugs and drug-like molecules impact MAIT cell function. 
+ 
+Results 
+In silico prospecting for MR1 ligands   
+Our previous studies identified uracil analogues including 5-(2-oxopropylideneamino)-6-D-
+ribitylaminouracil (5-OP-RU) and pterin/pteridine analogues like 6-formylpterin (6-FP) as agonists and 
+inhibitors, respectively, of MAIT cell activation15. These compounds contain simple pyrimidine 
+heterocycles as scaffolds, suggesting that the ligand-binding site of MR1 (the A´-pocket) has a propensity 
+to bind small molecules, possibly including drugs, drug-like molecules or fragments. Here, the A´-pocket 
+of MR1 features an unusual Schiff base-forming Lys43, sitting at the base of an aromatic cradle within 
+MR1 that is ideal for accommodating aromatic ligands, and a network of polar sidechains (e.g. Arg9, 
+Ser24, Arg94) that can interact with both a uracil and a ribityl chain16.  
+To identify other chemical scaffolds capable of binding to MR1, we conducted multiple in silico screens 
+in parallel using different chemical libraries, including 6,000 in-house organic compounds and 1,216 
+FDA approved drugs from the Distributed Structure-Searchable Toxicity (DSSTox) database to target 
+the A´-pocket (Figure 1). Based on MR1-binding by the most active known MAIT cell antigen (5-OP-
+ 4 
+RU), we performed fragment-based virtual screening of the 6,000 compound library to identify small 
+aromatic aldehydes or carboxylates that might neutralize Lys43, as well as simple pyrimidines, quinones 
+and enones (Fig. 1a), to bind at the same site as 5-OP-RU (Fig. 1b). This led to 147 hits, including those 
+shown (Fig. 1c). Additionally, a database of 1,216 FDA approved drugs was screened in silico (Fig. 1d) 
+for shapes matching to the ligands 6-FP (Fig. 1e) and 5-OP-RU (Supplementary Figure 1a), leading to 
+16 virtual hits including those shown (Fig. 1f). A third in silico approach involved receptor-based virtual 
+docking (Fig. 1g) of a subset of 470 of 1,216 FDA approved drugs (MW 150-300 Da) into the ternary 
+crystal structure of 5-OP-RU bound MR1-MAIT TCR (Fig. 1h and Supplementary Figure 1b & c). 
+This led to identification of 20 virtual hits, including those shown (Fig. 1i). In summary, these parallel 
+approaches (Figure 1) produced 183 distinct hits with chemically diverse structures (Supplementary 
+Tables 1 and 2), suggesting that MR1 has the potential to bind to many structurally different compounds. 
+ 
+Diverse MR1 ligands can inhibit or activate MAIT cells 
+Using in vitro functional assays, we evaluated 81 of these in silico hits for their ability to bind to MR1 
+and to stimulate MAIT cells. We hypothesized that some might be like 5-OP-RU, binding to MR1 and 
+activating MAIT cells; others might be like Ac-6-FP and 6-FP, binding MR1 but not activating MAIT 
+and acting as competitive inhibitors of MAIT cell stimulation by 5-OP-RU. MR1 binding and stimulatory 
+capacity of the compounds were assessed in experiments whereby an antigen presenting cell line 
+overexpressing MR1 (C1R.MR1) and a T cell line overexpressing a MAIT TCR (Jurkat.MAIT-A-F7, 
+TRBV6-1 TCR) were co-incubated with the test compound. MR1 binding was measured by increased 
+MR1 cell surface expression on C1R.MR1 cells. Stimulatory capacity was measured by increased CD69 
+surface expression on Jurkat.MAIT-A-F7 cells. As summarized (Supplementary Table 3, Figure 2a 
+and Supplementary Figure 2a), approximately a quarter of the compounds had a measurable effect on 
+MR1 upregulation and/or MAIT cell stimulation, including 9 drugs, 5 flavones and 8 small molecule 
+compounds (Supplementary Figure 3). Of the 16 compounds that upregulated MR1, 8 were agonists 
+(Supplementary Figure 2a) (Figure 2a). Thus, whilst MR1 can bind to diverse chemical ligands 
+(Supplementary Figure 3), the requirements relating to MAIT cell activation were more stringent. 
+Notably, many of the aromatic aldehydes/ketones/carboxylic acids (Figure 1a and Supplementary 
+Tables 1–3) that fitted into MR1 did not upregulate MR1 cell surface expression appreciably, indicating 
+that simply neutralizing Lys43 through either Schiff-base formation or an ionic interaction was 
+insufficient for MR1 binding and that other binding components were also required. 
+ 
+ 5 
+We then compared 6-FP and Ac-6-FP with a selection of the compounds that strongly upregulated MR1, 
+but were not agonists, for their MR1 binding and inhibitory capacity. These included the drug related 
+compounds 3-formylsalicylic acid (3-F-SA), 5-formylsalicylic acid (5-F-SA) and 2-hydroxy-1-
+naphtaldehyde (2-OH-1-NA) (Figure 2b). Kinetics and levels of MR1 upregulation of these three 
+compounds were similar as compared to 6-FP (Figure 2c, Supplementary Figure 2b). 3-F-SA and 2-
+OH-1-NA also effectively inhibited MAIT cell activation in the presence of 5-OP-RU in a dose-
+dependent manner, as judged by CD69 upregulation assays with three Jurkat.MAIT cell lines 
+(Jurkat.MAIT-A-F7, Jurkat.MAIT-#6 and Jurkat.MAIT-C-F7) (Figure 2d and Supplementary Figure 
+2c). As judged by half maximum inhibitory concentrations (IC50) across the range of 5-OP-RU doses 
+tested (Supplementary Table 4), we established that Ac-6-FP was the most potent inhibitor, followed 
+by 3-F-SA and 6-FP which were comparable in their ability to inhibit MAIT activation, with 2-OH-1-
+NA being the least potent inhibitor. A similar pattern was observed for IL-2 production by a mouse MAIT 
+TCR transduced BW58 cell line (BW58.CD3.MAIT-V8.2) (Figure 2e and Supplementary Figure 2d, 
+Supplementary Table 4 for IC50 values). Notably CD69 upregulation by the T cell lines in response to 
+phorbol 12-myristate 13-acetate (PMA)/Ionomycin stimulation was not impaired in the presence of these 
+inhibitors (Supplementary Figure 2e); similarly simulation of a conventional T cell line by its cognate 
+Ag was not impaired (Supplementary Figure 2e) thus indicating that the inhibitory effects were specific 
+to the MAIT-MR1 axis. 
+ 
+Interestingly, the fine specificity underpinning Jurkat.MAIT cell activation and inhibition towards 
+chemically similar structures was evident when comparing 3-F-SA and 5-F-SA. Namely, while 3-F-SA 
+did not stimulate any of the three Jurkat.MAIT-TCR cell lines, 5-F-SA showed modest activation of 
+Jurkat.MAIT-#6 (TRBV6-4) that was blocked by anti-MR1 26.5, but 5-F-SA did not activate 
+Jurkat.MAIT-A-F7 (TRBV6-1) or Jurkat.MAIT-C-F7 (TRBV20, not shown) (Figure 2f), indicating that 
+MAIT TCR -chain usage can fine tune the responsiveness to certain ligands. 
+ 
+A drug degradation product binds and upregulates MR1    
+The antifolates, aminopterin and its closely related derivative chemotherapeutic methotrexate, are used 
+to treat certain cancers and autoimmune disorders, including rheumatoid arthritis and psoriasis20. 
+Aminopterin readily photodegrades in UV light to form 2,4-diamino-6-formylpteridine (2,4-DA-6-FP). 
+While methotrexate is more stable, it nevertheless forms the same photodegradation product 21. Given 
+the similarity between the naturally occurring photodegradation products, 6-FP and 2,4-DA-6-FP 
+ 6 
+(Supplementary Figure 4a), we reasoned that the latter molecule might also upregulate MR1 cell 
+surface expression. Indeed, photodegradation preparations of aminopterin sponsored MR1 refolding and 
+upregulated MR1 cell surface expression, while untreated aminopterin did not (Supplementary Figure 
+4b-d).   Mass spectrometry analysis comparing the captured antigen with synthetically produced 
+compound, showed that 2,4-DA-6-FP was captured within the refolded MR1 molecule (Supplementary 
+Figure 4e).  Collectively, these studies indicated that the metabolite 2,4-DA-6-FP is a novel MR1 ligand, 
+subsequently confirmed by structural studies (see below). 
+ 
+Diclofenac metabolites can activate MAIT cells 
+We also characterized an agonistic drug identified from the functional screen, diclofenac (DCF), a 
+commonly prescribed non-steroidal anti-inflammatory drug. Whilst not apparently upregulating MR1, 
+DCF activated Jurkat.MAIT-A-F7 cells, with this activation being blocked by the anti-MR1 monoclonal 
+antibody 26.5 and competitively inhibited by Ac-6-FP in a dose dependent manner (Figure 3a). The 
+level of stimulation reached at 100 M ligand concentration was approximately 2-fold greater than that 
+of the ribityllumazine agonists, 6,7-dimethyl-8-D-ribityllumazine (RL-6,7-DiMe) and 7-hydroxy-6-
+methyl-8-D-ribityllumazine (RL-6-Me-7-OH)16 and comparable to maximum stimulation levels reached 
+with 5-OP-RU, albeit at a 1 x 106 fold lower concentration (Figure 3a). Interestingly, while DCF 
+activated Jurkat.MAIT cells expressing the A-F7 MAIT TCR (using TRBV6-1), it did not activate two 
+other Jurkat.MAIT cell lines (#6, and C-F7), expressing TRBV6-4 or TRBV20 TCR -chain segments, 
+indicating that the agonistic properties of DCF are dependent on the TCR -chain (Figure 3b) suggestive 
+of MAIT cell subset specific activation. Moreover, 5-OP-RU activation of Jurkat.MAIT-A-F7 cells was 
+increased in the presence of DCF, and DCF did not inhibit 5-OP-RU activation of Jurkat.MAIT-#6 and 
+Jurkat.MAIT-C-F7 cells (Figure 3c).  
+ 
+To understand if DCF was broadly stimulatory to MAIT cells we tested a panel of 12 cell lines expressing 
+MR1 restricted TCRs 13, 22 that varied in TCR - and -chain usage as well as reactivity to 5-OP-RU, 6-
+FP, Ac-6-FP and absence of ligand to DCF in the presence of C1R.MR1 cells (Figure 3d and 
+Supplementary Figure 5). Given that DCF is known to be metabolised, we tested if the observed 
+stimulation was due to DCF itself or three of its hydroxyl metabolites (4-hydroxy, 5-hydroxy, 4,5-
+dihydroxy diclofenac) and two glucuronide conjugates (diclofenac acyl-β-D-glucuronide and diclofenac 
+acyl-β-D-glucuronide allyl ester) (Figure 3d-e). Importantly DCF and its metabolites did not modulate 
+stimulation of a conventional T cell line by its cognate Ag (Supplementary Figure 5b) assuring 
+ 7 
+specificity of the observed responses. Of the cell lines tested, the A-F7 TCR was specifically stimulated 
+by DCF. Interestingly, for this cell line stimulation by 5-OH-DCF was stronger than DCF itself. 
+Similarly, 10 other of the 12 cell lines tested responded modestly to 4-OH-DCF whilst none of the other 
+DCF metabolites yielded specifically increased responses.  DCF responsive cell lines included two 
+(MAV36 and MAV21) that expressed atypical TRAV1-2- MR1-restricted TCRs, suggesting that 
+recognition of these metabolites extends beyond classical MAIT cells.  Collectively, these results 
+indicated that observed MAIT cell activation by DCF might be more attributable to one of its metabolites.  
+ 
+MR1 cell surface presentation of drugs and drug-like molecules  
+Given that many drugs are metabolized within cells, we next asked whether some of the compounds that 
+inhibited or activated MAIT cells had been metabolized in antigen-presenting cells (APCs) before being 
+presented by MR1 at the cell surface. To establish this, we immunoprecipitated MR1 from the surface of 
+C1R.MR1 cells and conducted mass spectrometry analyses of the ligands captured by MR1. To validate 
+this approach, we incubated the C1R.MR1 cells with Ac-6-FP, and specifically detected this ligand in 
+the MR1 eluate fraction (Figure 3f). Using this approach, we also determined that 3-F-SA was presented 
+by MR1 on the cell surface (Figure 3f). Next, we established that it was DCF metabolites, and not DCF 
+itself, that were presented on the cell surface. Namely, metabolites of DCF bound to MR1 on the cell 
+surface included hydroxylated DCF (either 5-OH-DCF, 4’-OH-DCF, which are indistinguishable via 
+mass spectrometry, or a combination of the two) and 4’,5-diOH-DCF, which was subsequently confirmed 
+by mass spectrometric analyses of the pure, chemically synthesized DCF metabolites (Figure 3f). DCF 
+and the glucuronated species were not detected, which could be due to cell type specific metabolism or 
+the larger size of glucuronated DCF that no longer fits the ligand-binding pocket of MR1. Accordingly, 
+drugs, drug-like molecules as well as their metabolites can be presented by MR1 to MAIT cells. 
+ 
+Ex vivo modulation of MAIT cell activity  
+Next, we established the extent to which three of these newly identified MR1 ligands (3-F-SA, 5-F-SA, 
+2-OH-1-NA, and controls, 6-FP and Ac-6-FP) could modulate MAIT cell activity ex vivo. MAIT cells, 
+identified as MR1-5-OP-RU tetramer+ TRAV1-2+ lymphocytes within the CD3+ population of PBMCs 
+from five donors, were examined for the competitive inhibition of the drugs and drug-like molecules on 
+5-OP-RU dependent MAIT cell activation, assaying for TNF and IFN cytokine production as activation 
+markers (Figure 4a).  The compounds inhibited MAIT cell activation in a dose-dependent manner, with 
+Ac-6-FP representing the most potent competitive inhibitor, followed by 3-F-SA. Less potent inhibitor 
+ 8 
+effects were observed for 2-OH-1-NA, 5-F-SA and 6-FP. We also examined the ability of these 
+compounds to inhibit MAIT cell proliferation when incubated with 5-OP-RU. The pattern of inhibitory 
+effects on cytokine production mirrored the inhibitory effects on cell proliferation (Figure 4b). 
+Importantly, MAIT cells and TRAV1-2+ non-MAIT cells produced cytokine in response to 
+PMA/Ionomycin stimulus (Supplementary Figure 6a) and proliferated in response to plate bound CD3-
+CD28 stimulus (Supplementary Figure 6b) regardless of the presence of inhibitory molecules, 
+indicating that toxicity is unlikely to simulate inhibition. Accordingly, drugs and drug-like molecules can 
+impact on MAIT cell activity ex vivo.   
+ 
+In vivo modulation of MAIT cell activity  
+Further, we next established the efficacy of two of these ligands to inhibit MAIT cell proliferation in vivo 
+using a previously established MAIT cell model in C57BL/6 mice 23. In this model synthetic 5-OP-RU 
+in conjunction with TLR stimulus causes MAIT cells to accumulate in the lungs to make up to about 25-
+50 % of T cells as compared to 0.5-2 % in the naïve mouse. TLR stimulus can either be provided by 
+synthetic TLR agonists such as Pam2Cys (TLR2/6) 24, poly I:C (TLR3), or CpG (TR9) or by bacteria 
+deficient in the riboflavin pathway, as we showed for the live-attenuated vaccine strain of Salmonella 
+enterica serovar Typhimurium, S. Typhimurium BRD509, deficient in riboflavin synthesis 
+(Salm.BRD509ΔribDH). 
+ 
+Mimicking a model of infection whereby 5-OP-RU is extracellularly supplied for Ag presentation in 
+conjunction with TLR stimulus from the intracellular Salm.BRD509ΔribDH bacteria, repeated 
+application of Ac-6-FP or 3-F-SA inhibited MAIT cell accumulation in the lungs in a dose dependent 
+manner (Figure 4c). Importantly Ac-6-FP or 3-F-SA had no impact on bacterial CFU counts, absolute 
+numbers of non-MAIT  T cells and IL-17 production by non-MAIT  T cells in the lungs in response 
+to Salm.BRD509ΔribDH (Supplementary Figure 7), indicating that the inhibitory effects were not due 
+to toxic effects by the inhibitors on bacteria or T cells. Accordingly, these inhibitors can effectively 
+abrogate MAIT cell activation in vivo. 
+ 
+Structures of MAIT TCR-MR1-ligand complexes 
+We sought to determine how these drugs, their derivatives, and drug-related compounds could be 
+accommodated within the MR1 binding pocket and modulate MAIT cell activity.  Accordingly, we 
+ 9 
+stimulatory ligands (2,4-DA-6-FP; 2-hydroxy-5-methoxybenzaldehyde (HMB); 2-OH-1-NA; and 3-F-
+SA) and two activating ligands (DCF and 5-OH-DCF) to high resolution (Supplementary Table 5).  All 
+drugs and drug-related compounds were clearly visible within the MR1-Ag-binding cleft 
+(Supplementary Figure 8), thereby permitting detailed atomic insight into the mechanism underpinning 
+their effect on the MAIT-MR1 axis. The MAIT TCR docked atop the six MR1-drug/drug-like complexes 
+with a very similar topology (Supplementary Figures 8g & 9).  Here, the root mean square deviation, 
+the buried surface area (BSA) values and relative contributions of the CDR loops between the complexes 
+were very similar (Supplementary Table 6 & Supplementary Figure 9). Thus recognition of diverse 
+chemical scaffolds does not translate to diverse MAIT TCR-MR1 docking, thereby underscoring the 
+innate-like recognition properties of the MAIT TCR. Further, all of the drugs and drug-like molecules 
+were located within the A´-pocket of MR1 (Figures 5 and 6), which not only validates the in silico 
+approaches (Figure 1 & Supplementary Figure 10), but formally demonstrates that this pocket is 
+sufficiently versatile to accommodate distinct chemical identities. All of these non-stimulatory ligands 
+formed a Schiff base with Lys43 at the base of the aromatic cradle (Figures 5a-e), and, consistent with 
+their non-stimulatory properties, none of them directly contacted the MAIT TCR. 2,4-DA-6-FP was 
+located in essentially an identical position as 6-FP (Figures 5a & b), where the pteridine ring of 2,4-DA-
+6-FP was sandwiched between Tyr7 and Trp69, and formed additional aromatic pi-interactions with 
+Trp156 and Tyr62, whilst abutting Ile96 (Figure 5b). The difference between 6-FP and 2,4-DA-6-FP is 
+the presence of a carbonyl group in the former versus an amino group in the latter at position-4 of the 
+pteridine ring. This difference impacts at the base of the cleft, with either the carbonyl or amino group 
+nestling against Arg9 in the MR1-6-FP complex (Figures 5a & b). The latter interaction is unfavourable 
+and likely accounts for weaker MR1 upregulation (Supplementary Figure 4b & c). Accordingly, subtle 
+chemical differences between ligands can impact on the associated MR1-binding properties.   
+ 
+The compound 2-OH-1-NA, like 6-FP, possesses a bicyclic ring structure, and while the planes of the 
+aromatic rings are similarly disposed, 2-OH-1-NA is displaced by ≈ 4Å towards the 1-helix of MR1 
+(Figure 5c).  In adopting this binding mode, its 2-hydroxy group, the only polar moiety of 2-OH-1-NA, 
+hydrogen bonds to His58, and packs against Tyr162, while the interactions with Arg9, Arg94, and Trp69 
+are lost (Figure 5c). 3-F-SA and HMB are monocyclic (Figures 5d & e), with the latter compound being 
+directly superposable over 2-OH-1-NA, thereby mediating similar interactions with MR1, including the 
+hydrogen bond with His58 (Figures 5d, e & f). The 5-methoxy group is not involved in polar 
+interactions, but is stabilized by packing against Tyr7 (Figures 5d). In contrast, 3-F-SA is rotated in the 
+same plane by approximately 70° around the Schiff base in comparison to 2-OH-1-NA, and accordingly 
+ 10 
+is accommodated in a different region of the A´-pocket of MR1 (Figure 5e).  Namely, the carboxyl group 
+of 3-F-SA leaned over to salt bridge with Arg9 and hydrogen bond to Ser24, while its aromatic ring is 
+wedged between Tyr7 and Trp69 (Figure 5e). These additional interactions are consistent with 3-F-SA 
+representing a potent inhibitor of MAIT cell function (Figure 2c). Accordingly, there is sufficient 
+plasticity within the A´-pocket of MR1 to accommodate diverse chemical scaffolds. 
+ 
+MAIT TCR-MR1-stimulatory ligand complexes 
+DCF stimulated Jurkat.MAIT cells in an apparent subset specific manner (Figure 3), but its stimulatory 
+activity appeared attributable to its metabolites, including 5-OH-DCF and 4’-OH-DCF (Figure 3f). 
+Comparing the crystal structures of the MAIT TCR bound to MR1 presenting DCF and 5-OH-DCF 
+provided insight into the agonist properties of 5-OH-DCF (Figures 6a-f, Supplementary Tables 7 & 
+8).  Neither species formed a Schiff base with MR1 (Figures 6d & e), consistent with the poor ability of 
+DCF (and metabolites thereof) to upregulate MR1, and reminiscent of the weak agonist RL-6-Me-7-OH 
+that also did not form a Schiff base with MR117.  Despite this, the positioning of Lys43 remained 
+relatively well fixed within the MR1 cleft, forming a hydrogen bond with the adjacent His58 (Figures 
+6d & e). In contrast to the non-stimulatory compounds, DCF directly contacted the MAIT TCR (Figure 
+6d). However, the mode of DCF binding within the cleft, and subsequent contacts of DCF and MR1 with 
+the MAIT TCR, were markedly different to the MAIT TCR-MR1-5-OP-RU interactions (Figures 6c, d 
+& e). The plane of the central phenylacetic acid ring of DCF was essentially perpendicular to that of 5-
+OP-RU and all other MR1-ligand complexes (Figures 6c, d & f). Moreover, due to the flexibility in the 
+primary amine linker of DCF, the dichlorophenyl and phenylacetic acid rings were positioned 
+approximately orthogonal to each other (Figure 6a). Here, the dichlorophenyl group was buried towards 
+the base of the cleft, wedged between Tyr7, Tyr62, Trp156 and Trp164 (Figure 6a). One of the chloro 
+groups pointed towards Arg94, whereas the other was shielded by Tyr62 and Trp164 and formed a 
+halogen bond with Lys43 (Figure 6a). The phenylacetic acid group is sandwiched between Arg9 and 
+Tyr62, with the acetic acid moiety salt-bridging to Arg9 and forming a hydrogen bond with Ser24 
+(Figure 6a). Notably, to accommodate the dichlorophenyl ring of DCF within the cleft, MR1 underwent 
+some conformational changes, including a slight reorientation of Tyr7, and, most notably, Trp69 flipping 
+out of the way to avoid steric clashes with the ligand (Figures 6c & d). The reconfiguration of Trp69 
+had a knock-on effect in that it caused a remodeling of the CDR3 loop of the MAIT TCR, with Glu99 
+swinging down to salt bridge with Arg9 and Arg94, while Trp96 re-orientated to form novel contacts 
+with Met72 and Trp69 of MR1 (Figures 6c & d). The hydroxyl moiety of Tyr95 from the CDR3 loop 
+ 11 
+was shown to play a pivotal role in interacting with the ribityl chain of 5-OP-RU (Figure 6c), but did not 
+mediate contacts with DCF. Instead, the Tyr95 aromatic ring stacked against the phenylacetic acid ring, 
+the latter also forming van der Waals contacts with Glu99 from the CDR3 loop (Figure 6d). The mode 
+of binding of DCF was very similar to that of 5-OH DCF, with one notable difference. Namely, the 5-
+OH group of 5-OH-DCF formed a hydrogen bond with Glu99 from the CDR3 loop, and this additional 
+contact to the TCR correlated with its agonist properties and with its ability to stimulate a specific MAIT 
+TCR (Figure 6e).  
+ 
+Discussion 
+MR1 presents small molecules derived from vitamin B2 and B9 syntheses to MAIT cells 6. To enable 
+this, the architecture of the MR1 antigen-binding cleft is distinct from that of MHC-I and CD1 
+molecules16.  Namely, the groove of MR1 possesses a constricted A´-pocket, rich in aromatic residues 
+that sequesters the vitamin B-related ligands, and also shelters a lysine residue at its base that can 
+covalently bind to an antigen via Schiff base formation.  A central question in the emerging field of 
+metabolite-mediated immunity is whether MR1 could present ligands distinct from the riboflavin 
+precursors and folic acid derived metabolites.  Here we show that MR1 can present a heterogeneous array 
+of organic compounds with diverse chemical scaffolds, including some commonly prescribed 
+therapeutics, which can modulate MAIT cell activity.  
+ 
+Given that pyrimidines are a widely used scaffold in therapeutics, we hypothesized that MR1 could 
+present drugs and drug-like molecules to MAIT cells.  Our targeted in silico analyses of the MR1 A´- 
+pocket indicated this to be the case, and this was subsequently confirmed through a series of in vitro, ex 
+vivo and in vivo assays. These MR1 binding compounds included a wide range of drugs and drug-like 
+molecules, fragments and derivatives.  Naturally, the ensuing functional and structural studies mostly 
+focused on those ligands that most markedly impacted on MAIT cell function in vitro and paves the way 
+for further functional and clinical investigations into how other compounds including drugs identified 
+here can affect the function of the MAIT-MR1 axis. Our findings also have important implications for 
+any future MAIT cell inhibitor-based therapy, as it demonstrates that administration of MR1 inhibitory 
+ligands can impact on MAIT cell function in an in vivo setting, as judged by the infection model tested 
+here.  Indeed, this is the first description of any such in vivo modulation of MAIT cells.  Clearly however, 
+it would be of value to test the ability of drugs and drug like molecules to impact on MAIT cell function 
+ 12 
+using other mouse infection models.  Our work also suggests that if endogenous ligands possess similar 
+chemical scaffolds, they may too impact on MAIT cell function. 
+  
+Although a diverse array of compounds was found to upregulate MR1 cell surface expression, the number 
+of compounds that were able to stimulate MAIT cells was more limited, indicating greater restrictions 
+on the structures of ligands that could both bind to MR1 and subsequently productively engage with the 
+MAIT TCR.  Of the ligands that were found to upregulate MR1 cell surface expression, all formed a 
+Schiff base with MR1, underscoring the importance of forming a covalent adduct. This may be important 
+for capturing MR1 within the cell and enabling its egress to the cell surface25.  Moreover, the various 
+non-stimulatory ligands adopted different conformations and contacts within the A´-pocket of MR1, 
+which also correlated with their differential ability to upregulate MR1 and inhibit MAIT cell activation.  
+For example, 3-F-SA formed additional salt-bridging interactions within the MR1 cleft, thereby 
+accounting for its greater capacity to upregulate MR1 and its greater inhibitory potential. Notably, while 
+3-F-SA was non-stimulatory against the MAIT TCRs tested, 5-F-SA could weakly activate a MAIT TCR 
+expressing cell line, indicating that subtle structural changes in the ligand, coupled with MAIT TCR 
+heterogeneity, may lead to unanticipated MAIT cell activation. This resonates with the recent finding 
+that diversity in the MAIT TCR repertoire can permit some folic acid derivatives to stimulate some MR1-
+restricted T cells and MAIT cells22.   
+ 
+Of the drugs tested that activated MAIT cells, diclofenac showed the greatest potency.  Its stimulatory 
+activity was traced to naturally occurring DCF metabolites presented by MR1 on the cell surface.  The 
+mode of binding of DCF within the MR1 cleft was distinct from that of other MR1 bound ligands, not 
+forming a Schiff base with Lys43, as also observed for some ribityllumazines17.  Crucially, the 5-OH-
+DCF metabolite directly contacted the MAIT TCR  and -chains, which provided insight into both its 
+antigenicity and the ability of various DCF metabolites to activate specific MAIT TCRs22, suggesting 
+MAIT cell subset specific activation by DCF metabolites. 
+ 
+An important consideration, beyond the scope of this conceptual study, is whether the prescribed drugs 
+that modulate MAIT cell activity manifest clinically in significant side effects. While the degree to which 
+methotrexate and aminopterin degrade to 2,4-DA-6-FP in patients is unclear, high dose chemotherapeutic 
+administration of methotrexate can result in much higher plasma concentrations of the drug than what is 
+required to upregulate MR1 26. In addition, we speculate that MR1 tetramers loaded with 2,4-DA-6-FP 
+may bind some MAIT cells, consistent with the presence of some MR1 reactive T-cells recognising 6-
+ 13 
+FP22. Thus, patients administered with continual low-dose methotrexate during their treatment for 
+rheumatoid arthritis,27 other autoimmune diseases and cancers, are also continually exposed to low levels 
+of 2,4-DA-6-FP. In contrast, our observations with DCF potentially reconcile reported immunological 
+complications, such as severe hepatotoxicity. Indeed, DCF could activate a MAIT TCR at a concentration 
+achievable in patients after an oral dose 28. Interestingly, pharmacogenetic studies have reveled that DCF 
+hepatotoxicity is much more prevalent in patients with polymorphisms in the enzymes responsible for 
+DCF catabolism - including CYP2C8, which is responsible for conversion of DCF to 5-OH-DCF 29. This 
+is especially relevant when considering the liver, which contains both an inordinately high number of 
+MAIT cells and high levels of DCF metabolism. 
+ 
+This is the first description in nature of drugs impacting on the function of MR1, a monomorphic Ag-
+presenting molecule. Unlike HLA-linked drug hypersensitivities where a drug can exert its effect by 
+altering the repertoire of peptides bound by the HLA allomorph30, the more constricted nature of the 
+MR1 binding pocket limits binding to either the drug or a ligand associated with vitamin B2 synthesis 
+but not both.  Some of the compounds studied here, including salicylates, diclofenac, methotrexate and 
+aminopterin, have long been known to elicit diverse pharmacological responses and hypersensitivities 
+not completely understood in relation to targets attributed to the mechanisms of action.27 Our findings 
+here suggest a possible link between such drugs or their metabolites and MAIT cell function, and indicate 
+a possible link between common drug (e.g. salicylate) intolerance 31 and modulation of MAIT cell 
+activity. Future work could address clinical relevance of our observations and may call for the 
+development of novel approaches to examine drug-mediated effects on MAIT cell activity in humans. 
+ 
+In summary, we have demonstrated that MR1 can interact with a heterogeneous array of small organic 
+molecules, including some commonly prescribed human therapeutics. These interactions can positively 
+or negatively modulate MAIT cell activity, thereby suggesting previously unknown immunomodulating 
+properties of certain drugs, metabolites and small organic compounds. 
+ 
+ 
+Acknowledgements 
+We thank the staff at the National Synchrotron for assistance with data collection and staff at the Monash 
+Macromolecular crystallization facility. We thank T. Hansen (University of Washington) and W.J. 
+Yankelevich (US Food and Drug Administration) for the gift of the 26.5 hybridoma. S.E was supported 
+by an Early Career Research Award from The University of Melbourne. This work was supported by the 
+ 14 
+Australian National Health and Medical Research Council (NHMRC) and Australian Research Council 
+(ARC, CE140100011). N.A.G is a Victorian Cancer Council postdoctoral fellow, J.R. is an NHMRC 
+Australia Fellow (AF50), D.I.G and D.P.F. are NHMRC Senior Principal Research Fellows (1020770 
+and 1027369), A.W.P. and NHMRC Senior Research Fellow. 
+ 
+ 
+Materials and Methods 
+In silico virtual screening 
+Fragment-, shape- and receptor-based virtual screening was performed. In fragment-based screening, an 
+in-house chemical database (~6,000 compounds) was searched for pyrimidines, enones, quinones, 
+chromones (for example, flavones and isoflavones), as well as aromatic aldehydes, carboxylic acids and 
+their derivatives that could potentially neutralize Lys43 through Schiff base formation or ionic contacts, 
+respectively. This search yielded 147 virtual hits, including three FDA approved drugs (Coumarin, 
+Thioguanine, Benzbromarone). In shape-based screening, ROCS (v 3.1.2, OpenEye Scientific Software 
+Inc., Santa Fe, NM, http://www.eyesopen.com) 32 and Maestro Shape Screen (v 9.4, Schrödinger, NY) 
+were used to search for analogous shapes to 6-FP from 1,216 FDA approved drugs 
+(FDAMDD_v3b_1216_15Feb2008.sdf from http://www.epa.gov/ncct/dsstox/ DataFiles.html). 2D 
+coordinates of 1216 drugs were converted to 3D structures with LigPrep (Schrödinger v 9.4). 16 virtual 
+hits were obtained after visual inspection of the top 100 drugs (Combo score, ROCS; shape similarity 
+score, Maestro), two of which were also identified in fragment-based screening (Coumarin and 
+Thioguanine). In addition, Maestro Shape Screen was used to search for analogous shapes to 5-OP-RU 
+from the same drug database (Supplementary Figure 1a). In receptor-based structure screening, GOLD 
+(v 5.1) and Glide (v 9.4) were used to dock a pre-filtered subset of 470 of 1,216 drugs (150 < MW < 300 
+Da) into the 5-OP-RU binding site of the MR1-MAIT TCR crystal structure (PDB: 4NQC). Docked 
+ligand poses were scored with ChemPLP, Chemscore and ASPscore in GOLD. Before the virtual screen, 
+5-OP-RU was re-docked into MR1 to reproduce its binding pose from the crystal structure and to identify 
+scoring functions best able to predict the crystal pose (Supplementary Figure 1c). The structure PDB: 
+4NQD (MR1 K43A) was chosen for re-docking 5-OP-RU as there was no covalent bond to MR1. For 
+the virtual screen, the active site was defined by a 10 Å radius around Arg9 and a rigid MR1 conformation 
+was used for ligand docking. The top scoring 200 drugs were analyzed by visual inspection for ligand-
+protein interactions simulated from docking. To increase the hit rate, another docking programme, Glide, 
+was also used in Standard Precision docking mode to score ligand binding using GScore. The active site 
+ 15 
+was the same for Glide and GOLD docking. In total 20 drug hits were selected for screening, one of 
+which was also identified via fragment-based screening (Thioguanine). 
+ 
+Aminopterin photodegredation 
+Aminopterin powder (Sigma-Aldrich) was dissolved in phosphate-buffered saline (pH 8.5) at a 
+concentration of 0.5mg/ml and exposed to light produced by a 2 x 38W fluorescent lamps at a distance 
+of 40cm at room temperature. The degree of photodegradation was monitored using the method 
+previously described 33, whereby the absorbance spectrum was analysed over 230-480nm using a 
+PHERAstar plate reader (BMG labtech). The photodegradation reaction was deemed near-complete after 
+48h, which was subsequently confirmed by HPLC analysis against undegraded sample (not shown). The 
+effect of degraded aminopterin on MR1 surface expression of C1R.MR1 cells was performed as 
+described previously 34 using biotinylated 26.5 mAb and streptavidin-PE. Cells were treated for 3h prior 
+to staining, flow cytometry analysis was carried out using a CyAn ADP (Beckman Coulter) and produced 
+data analysed using FlowJo v10.1. 
+ 
+Compounds tested in cellular assays in vitro and ex vivo 
+6-FP and Ac-6-FP (Schircks Laboratories) were dissolved at 5 mM in water, supplemented with 17 mM 
+NaOH. 5-OP-RU (as 1.52 mM stock solution in DMSO), was used by dilution in PBS to the required 
+concentration immediately before testing (DMSO content was less than 0.01 % in final media). All other 
+compounds were obtained commercially (Sigma-Aldrich, Fluka, Sapphire Bioscience) or synthesized in 
+house and dissolved at 50 mM in DMSO. All compounds were diluted in PBS. For inhibitory compounds, 
+vehicle controls (V) were prepared: V1 of ligands prepared at 5 mM in water supplemented with 17 mM 
+NaOH, V2 of ligands prepared at 50 mM in DMSO.   
+   
+Cell lines, PBMCs and monocyte derived dendritic cells 
+All cells were cultured in RPMI medium supplemented with 10 % fetal calf serum and serum complement 
+(RF10 medium). Clonal C1R cells overexpressing MR1 (CIR.MR1)35 or HLA-B*08:01 36 have been 
+described previously and were derived from C1R (ATCC number CRL-1993), a human B 
+lymphoblastoid cell line (LCL). Clonal Jurkat.MAIT cells expressing the TRBV6-1 A-F7 MAIT TCR 
+(Jurkat.MAIT-A-F7), the TRBV6-4 #6 MAIT TCR (Jurkat.MAIT-#6) or the TRBV20 C-F7 MAIT TCR 
+(Jurkat.MAIT-CF7) 15 or the LC13 TCR and CD8 (Jurkat.CD8.LC13) 36 have been described 
+previously and were derived from the human T cell line Jurkat RT3-T3.5 cells (Jurkat; ATCC number 
+T1B-153). Clonal Jurkat76.MAIT-A-F715, bulk sorted Jurkat76.CD3.MAV21, Jurkat76.CD3.MAV36, 
+ 16 
+Jurkat76.CD3.MBV2822 have been described previously and were derived from the human T cell line 
+Jurkat7637. Bulk sorted SKW-3.M12-64 and SKW-3.M20-6422 have been described previously and were 
+derived from the human T cell line SKW-3 (DSMZ accession code ACC 53). For the generation of 
+Bw58.CD3.MAIT-V8.2, sequential retroviral transductions with CD3 genes and TCR genes were 
+performed as described previously38. Briefly full-length CD3 genes (CD3 -, -,  and -chains) were 
+designed, purchased and cloned into a self-cleaving 2A peptide-based (MSCV)-IRES-GFP (pMIG) 
+vector39. After sequence verification, murine CD3 genes were transduced into the TCR-deficient Bw58 
+cells. GFP-high expressing cells (Bw58.CD3) were cloned by single cell FACS. Similarly full length 
+MAIT TCR genes of a V8.2 TCR derived from a TCR transgenic mouse using the canonical V19i 
+(V19i C-/-)40 and the endogenous paring TCR -chain (TRBV13-2*01 (Arden nomenclature V8.2), 
+TRBJ2-3*01, CDR3 CASGDAKLGVGAETLYF)) were cloned into pMIG vector, the sequence 
+verified and then transduced into Bw58.CD3 cells to generate Bw58.CD3.MAIT-V8.2. Similarly bulk 
+sorted Jurkat.76.CD3.AM1, Jurkat.76.CD3.AM2, Jurkat.76.CD3.AM3 and bulk sorted SKW-3.M33-20 
+were generated based on TCR sequences described previously22. For the generation of high-level MR1 
+expressing Ag presenting cells (M12.C3.MR1), the same retroviral system was used. M12.C3 cells (an 
+MHC-II deficient B-lymphoblastoid cell line) were transduced with murine MR1 (pMIG-MR1) and 
+clones were generated by single cell FACS.  PBMCs were isolated from whole blood of healthy donors 
+and stored in liquid nitrogen (authorized by the Australian Red Blood Cross Service Material Supply 
+Agreement with The University of Melbourne) as described previously13. Monocyte derived dendritic 
+cells (mDCs) were generated from PBMCs by incubating plastic adherent PBMCs for 5 days in RF10 
+media supplemented with 300 U/ml hGM-CSF (Peprotech) and 100 U/ml hIL-4 (Peprotech). Plastic non-
+adherent PBMCs were refrozen in liquid nitrogen and thawed out one day prior to addition to mDCs as 
+autologous lymphocytes in activation assays. 
+Activation of human and murine T cell lines 
+Human MR1 reactive T cell lines (105) were tested for activation by co-incubation with vehicle controls, 
+PBS/media alone (background) or doses of compounds in the presence of C1R.MR1 cells (105) for 16 h 
+in 200 l RF10 medium. To test if inhibitors impact on the ability of the T cell lines to be activated, cells 
+were incubated with PMA/Ionomycin (final concentration of 10 ng/ml and 1 g/ml respectively) and the 
+highest concentration of inhibitor. In addition a T cell line (Jurkat.CD8.LC13) restricted by a MHC-I 
+molecule (HLA-B*08:01) was co-incubated with its cognate peptide FLRGRAYGL (FLR, 1 M) and 
+each of the compounds. Cells were subsequently stained with anti-CD3-PE-Cy7 (clone UCHT1, 
+eBioscience), and anti-CD69-APC or anti-CD69-PE (clone FN50, BD Biosciences) mAbs as well as 
+ 17 
+anti-CD19-APC-Cy7 (clone SJ25C1, BD Biosciences) in the case of bulk sorted T cell lines (to 
+distinguish antigen presenting cells) and 7AAD (BD Biosciences) for 30 min on ice, washed twice with 
+FACS wash (2% fetal calf serum in PBS), fixed with FACS fix (2.1% glucose and 1% paraformaldehyde 
+in PBS) and data acquired on a BD Canto II or LSR Fortessa flow cytometer and analysed using FlowJo. 
+Activation of T cell lines was measured by an increase in surface CD69 expression of CD3+/GFPlow cells 
+(clonal T cell lines) or CD3+/CD19- cells (bulk sorted T cell lines) and fold of background MFI CD69 
+was calculated. 
+ 
+Jurkat76.MAIT-A-F7 or Bw58.CD3.MAIT-V8.2 cells (105) were tested for activation by co-incubation 
+with vehicle controls, PBS/media (background), doses of compounds and C1R.MR1 cells or 
+M12.C3.MR1 cells (105) for 24 h in 200 l RF10 medium. To test if inhibitors do not impact on the 
+ability of the T cell lines to produce IL-2, cells were incubated with PMA/Ionomycin (final concentration 
+of 10 ng/ml and 1 g/ml respectively) and the highest concentration of inhibitor. IL-2 production was 
+measured as a mean of T cell activation in ELISA (human: BD Biosciences OptEIA kit, mouse: anti-IL-
+2 mAb (clone JES6-1A12, BD Biosciences)) using 100 µl of supernatant, frozen/thawed to kill cells. In 
+brief, IL-2 was assayed with biotinylated anti–IL-2 mAb and o-Phenylenediamine dihydrochloride 
+(OPD; Sigma-Aldrich) substrate conversion by HRP-Streptavidin detected at 492 nm emission and IL-2 
+concentrations calculated based on IL-2 standards. For inhibition, inhibiting compounds were added to 
+Ag presenting cells for 15 min before addition of 5-OP-RU and T cells. For MR1 blocking, 26.5 mAb or 
+isotype control mAb were added at 20 g/ml for 1 h to APCs prior to addition of T cells. 
+To determine half maximum inhibition by inhibitory compounds (IC50), background activation levels 
+were subtracted, data normalized, inhibitor concentrations transformed to log and non-linear regression 
+of log (inhibitor) versus the normalized response determined using Prism software. 
+ 
+All cell lines tested negative for mycoplasma. Whilst SKW-3 cells are listed on the database of cross-
+contaminated or misidentified cell lines, where they are described as being contaminated with the KE-
+37 line, we have transfected specific TCR genes into these cells, which we then recloned and/or enriched 
+by iterative cell sorting for TCR expression. Following these steps the cells were then validated for Ag 
+recognition of cognate antigens in activation experiments. 
+ 
+Detection of up-regulation of MR1 on the cell surface 
+ 18 
+C1R.MR1 cells (105) were incubated with vehicle controls, PBS/media (background), and 100 M of 
+compounds for times as indicated in 200 l RF10 medium per well. Then cells were stained with 
+biotinylated anti-MR1 mAb 26.5 41 or biotinylated isotype control on ice for 30 min, washed twice with 
+FACS wash, and then stained with Streptavidin-PE (BD Biosciences) and 7AAD (BD Biosciences) on 
+ice for 30 min, washed twice again, FACS fixed and data acquired on a BD LSR Fortessa flow cytometer 
+and analysed using FlowJo. MR1 upregulation was measured by an increase in 26.5 staining of GFPhigh 
+cells (C1R.MR1) and fold of background MFI 26.5 was calculated. 
+ 
+Cellular screening of compounds for MR1 upregulation and Jurkat.MAIT cell activation 
+Sets of drugs and other small molecules were tested in a combined MAIT cell activation/MR1 
+upregulation assay whereby C1R.MR1 cells (105) and Jurkat.MAIT-A-F7 cells (105) were co-incubated 
+with 100 M and 10 M of each compound as described above. Each time, Jurkat.MAIT-A-F7 activation 
+by 10 nM 5-OP-RU and MR1 upregulation by 100 M 6-FP were included as positive controls and PBS 
+as background control. Cells were stained first with biotinylated anti-MR1 mAb 26.5, anti-CD3-PE-Cy7 
+(clone UCHT1, eBioscience), and anti-CD69-APC (clone FN50, BD Biosciences) on ice for 30 min, 
+washed three times with FACS wash, and then stained with Streptavidin-PE (BD Biosciences), 7AAD 
+(BD Biosciences) on ice for 30 min, washed twice again, FACS fixed and data acquired on a BD Canto 
+II flow cytometer and analysed using FlowJo. To allow for comparison between experiments fold of 
+background was normalized as % CD69 upregulation by 10 nM 5-OP-RU or % MR1 upregulation by 
+100 M 6-FP equating 100 % and fold of background of 1 equating 0%. Compounds that caused levels 
+of Jurkat.MAIT activation/MR1 upregulation of larger than 75% at 100 M and/or 25% at 10 M 
+compound were considered as agonistic/stronglyMR1 upregulating and those that caused levels of 
+activation/MR1 upregulation of larger than 7.5% and less than 75% at 100 M and/or larger than 7.5 % 
+and less than 25% at 10 M compound were considered as weakly agonistic/weakly MR1 upregulating. 
+For some of the small molecules tested at 100 M we observed a toxic effect that resulted in cell death 
+identified by life-dead stain. In these cases, MR1 upregulation was more pronounced at a lower 
+concentration of inhibitor (10 M) than at 100 M, e.g. 5-Hydroxy-1,4-naphtoquinone. Considering 
+MR1 upregulation at 10 M as part of the selection criteria in such cases thus allowed to include 
+molecules that appeared toxic at 100 M. 
+ 
+Ex vivo activation of human PBMCs assayed by intracellular cytokine staining 
+ 19 
+Per sample to mDCs (105), PBS (background), vehicle controls and doses of inhibitors were added, 
+followed after 15 min by PBS or titrating amounts of 5-OP-RU. Then autologous lymphocytes (0.5 x 
+106) were added per sample. To test if inhibitors impacted on the ability of cells to produce cytokines, 
+autologous non-plastic adherent PBMCs were incubated with PMA/Ionomycin (final concentration of 
+100 ng/ml and 10 g/ml respectively) and the highest concentration of inhibitor. Upon incubation for 1 
+h, BrefeldinA (final concentration of 10 g/ml) was added and incubation continued for 6 h, then surface 
+stained for 20 min at room temperature (Zombie Yellow Fixable Viability Kit (Biolegend); anti-CD3-
+PE-CF594 (clone UCHT1, BD Biosciences); anti-TRAV1-2-APC (clone 3C10, Biolegend); human 
+MR1-5-OP-RU tetramer, generated as described previously15, followed by adding PFA (final 
+concentration of 1%) and a 20 min incubation at RT, washed twice with PBS and stained intracellularly 
+(anti-IFN-Fitc (clone 25723.11, BD Biosciences); anti-TNF-Pacific Blue (clone Mab11, Biolegend)) 
+in 0.3% Saponin/PBS over night at 4°C. The next day, cells were washed twice in PBS and data was 
+acquired using a BD LSR Fortessa flow cytometer and analysed by FlowJo. Percent inhibition was 
+calculated as 100-(a/b*100), whereby ‘a’ represents background (% cytokine production/% CTV dilution 
+in the presence of inhibitor only) subtracted activation by 5-OP-RU in the presence of an inhibitor and 
+‘b’ represents background (% cytokine production/% CTV dilution in the presence of PBS only) 
+subtracted activation by 5-OP-RU. 
+ 
+Ex vivo activation of human PBMCs assayed by proliferation 
+Autologous lymphocytes and mDCs were stained with CellTrace Violet (Molecular Probes) according 
+to the manufacturer’s protocol. Per sample to mDCs (105), PBS (background), vehicle controls and doses 
+of inhibitors were added, followed after 15 min by PBS or titrating amounts of 5-OP-RU. Then 
+autologous lymphocytes (106 per sample) were added. To test if inhibitors impact on the ability of cells 
+to produce cytokines, autologous non-plastic adherent PBMCs were incubated for 48 h with plate-bound 
+anti-CD3/anti-CD28 (in house and BD Biosciences) at 10 g/ml and at 2 g/ml and the highest 
+concentration of inhibitor in a flat-bottom plate before transfer to a U-shape plate after 48 h. Upon 
+incubation of 5 days, samples were stained for 20 min at room temperature (Zombie Yellow Fixable 
+Viability Kit (Biolegend)), followed by staining for surface markers as above in the case of ICS. Samples 
+were washed twice with FACS wash, fixed and data was acquired using a BD LSR Fortessa flow 
+cytometer and analysed by FlowJo. Percent inhibition was calculated as described above in the case of 
+ICS. 
+ 
+ 20 
+Mouse in vivo activation/inhibition of MAIT cell accumulation in the lungs  
+Salmonella enterica serovar Typhimurium BRD509 (Salm.BRD509) has been previously described42. 
+Salm.BRD509 harbours deletions in aroA and aroD, resulting in limitation of replication and spread of 
+bacteria and has an intact riboflavin synthesis pathway. The BRD509ΔribDH mutant 
+(Salm.BRD509ΔribDH), lacking a gene segment containing ribD and ribH, which encode key enzymes 
+in the riboflavin synthesis pathway, was constructed by lamda red-recombinase mediated allelic 
+replacement followed by transduction using phage P22 as previously described 15. BRD509ΔribDH 
+cultures were supplemented with 20 µg/ml riboflavin. Bacteria were cultured at 37 °C statically, in Luria 
+Bertani broth (LB) for 16-18 h to log-phase (OD600 0.6-0.9) in the presence of antibiotics (30 g/ml 
+Streptomycin, 30 g /ml Kanamycin) and riboflavin (20 g/ml). For the infecting inoculum, bacteria 
+were re-inoculated in pre-warmed medium for a further 2-4 h static culture (OD600 0.4-0.6). With the 
+estimation that 1 OD600=5x108/ml, sufficient bacteria were washed and diluted in PBS for intranasal 
+delivery to C57BL/6 mice. A sample of inoculum was plated onto Luria Agar supplemented with 
+antibiotics and riboflavin for verification of bacterial concentration by counting CFU. Mice were bred 
+and housed in the Biological Research Facility of the Peter Doherty Institute. Male mice aged 7-8 weeks 
+were used in experiments and allocated to different groups at random (block randomization). The 
+investigators were blinded to the group allocation when assessing the outcome. All procedures were 
+approved by The University of Melbourne Animal Ethics Committee. Mice were intranasally inoculated 
+using a total volume of 50 l with Ac-6-FP (5x104 pmol and titrations in PBS/1% DMSO) or 3-F-SA 
+(5x105 pmol and titrations in PBS/1% DMSO) at day -2 and day -1 or alternatively with vehicle control 
+(PBS/1% DMSO). On day 0, mice were intranasally inoculated with BRD509ΔribDH (2 x 107 cfu) and 
+5-OP-RU (3 pmol in PBS of a 14.1 mM stock in DMSO) and/or inhibitory antigens (or vehicle control) 
+in 50 µl per nares.  Then on day 1, day 2 and day 4 5-OP-RU and/or inhibitor were intranasally inoculated 
+using a total volume of 50 l. All inoculations were performed on anesthetized mice by isoflurane with 
+an anaesthetizing machine. At day 7 mice were killed by administration of CO2 and lungs (following 
+heart perfusion with 10 ml cold RPMI) were harvested. To prepare single cell suspensions, lungs were 
+finely chopped with a scalpel blade and treated with 3 mg/ml collagenase III (Worthington), 1 mg/ml 
+DNase and 2% FCS in RPMI for 90 min at 37 °C with gentle shaking. Cells were then filtered (70 µM) 
+and washed with FACS wash. Red blood cells were lysed from lung preparations with hypotonic buffer 
+TAC (Tris-based Amino Chloride) for 5 min at RT and approximately 1.5×106 cells were filtered (40 
+µm) and prepared for staining. To block non-specific staining, cells were incubated with mouse MR1-6-
+FP tetramer and anti-Fc receptor (2.4G2) for 15 min at RT. Cells were then incubated at RT for 30 
+ 21 
+minutes with antibodies from BD specific for CD19 (clone 1D3), CD45.2 (clone 104), TCRβ (clone H57-
+597) and 7AAD as well as mouse MR1-5-OP-RU tetramer13 in FACS wash. Cells were fixed with 1 % 
+PFA/PBS and 25-30 k blank calibration particles (BD) were added to enumerate absolute cell numbers, 
+prior to analysis on a BD LSR Fortessa flow cytometer.  
+ 
+For intracellular cytokine staining, Golgi plug (BD Biosciences) was used during all processing steps. 
+Cells stimulated with PMA/ionomycin (20 ng ml−1, 1 μg ml−1, respectively) for 4 h at 37 °C were 
+included as positive controls alongside non-stimulated samples. Surface staining was performed as 
+above, followed by intracellular cytokine staining for IL-17A (clone TC11-18H10, BD Biosciences) 
+using the BD Fixation/Permeabilization Kit according to the manufacturer’s instructions.  Data analysis 
+was performed with FlowJo software.  
+ 
+Generation of soluble proteins for crystallography 
+Soluble A-F7 MAIT TCR and MR1-2m were folded from inclusion bodies and purified using methods 
+based on those described previously 17. MR1, 2m, TCR -chain and TCR -chain were overproduced 
+separately as insoluble inclusion bodies in E. coli BL21(DE3) that had been transformed with pET 
+plasmid containing gene of interest. Protein overproduction was induced in E. coli cells, cultured in LB 
+media that had reached an optical density of 0.5, by the addition a 0.5 M IPTG, and further culturing 
+for 4 h at 37°C whilst shaking. Cells were harvested by centrifugation and lysed by resuspending in 1% 
+(v/v) Triton-X, 4 mM MgCl2, 10 mM DTT, 1 g/l lysozyme (Sigma-Aldrich) and 0.5 g/l DNase, and 
+incubating for 2 h at room temperature. Inclusion bodies were harvested from the lysate by centrifugation, 
+before being washed 4 times in 50 mM Tris (pH 8), 0.5% (v/v) Triton-X, 100 mM NaCl and 1 mM 
+EDTA, omitting the Triton-X and NaCl from the final wash step. Lastly, the isolated inclusion bodies 
+were resuspended in 20 mM Tris (pH 8) 6 M guanidinium, 0.5 mM EDTA and 1 mM DTT. The 
+approximate concentration and purity of the isolated inclusion bodies was estimated using SDS-PAGE. 
+ 
+MAIT TCR was refolded by rapidly diluting 63 mg of -chain and 42 mg of -chain as inclusion bodies, 
+into 500 ml of 100 mM Tris (pH 8.5), 2 mM EDTA, 0.4 M L-arginine, 5 M urea 0.5 mM oxidised 
+glutathione, 5 mM reduced glutathione and 1 mM PMSF. Additionally, MR1-2m bound to the 
+compounds, HMB or 3-F-SA was refolded by rapidly diluting 56 mg of MR1 and 26 mg of 2m as 
+inclusion bodies, into 400 ml of this same refold buffer described above but with the addition of 5 mg/l 
+of the target compound. For 2,4-DA-6-FP, the refold contained 10 mg/ml of aminopterin that had been 
+ 22 
+photodegraded for 18h. All refold samples were stirred for 14 h at 4°C, prior to dialysing three times 
+against 15 L of 10 mM Tris (pH 8). Dialysate was passed through Macro-Prep DEAE resin (Biorad) and 
+protein was eluted using 10 mM Tris (pH 8) with 400 mM NaCl. Next, the eluate was concentrated down 
+to 3 ml and purified by size exclusion chromatography using AKTA purification system and a 
+Superdex200 15/60 column (GE Healthcare). Finally, the purified sample was passed over a HiTrap-Q 
+HP (GE Healthcare) and eluted in 10mM Tris (pH8) using a gradient of 0 mM to 300mM NaCl over 20 
+CV. Purified protein was assessed for purity using SDS-PAGE and concentrations were calculated from 
+A280 values measured using a NanoDrop-spectrophotometer (Thermo-fisher). 
+ 
+Crystallisation and structure determination 
+Purified MR1-2M-Ag was mixed with purified MAIT TCR in a 1:1 molar ratio and concentrated to a 
+final concentration of 5 mg/ml. Samples were crystallised by hanging-drop vapour diffusion by mixing 
+protein 1:1 with precipitant consisting of 100 mM BTP (pH 6-6.5), 8-20% (w/v) PEG3350 and 200 mM 
+Na-acetate, as established previously 17. Crystals formed over 1-5 days at 21°C. Diffraction data was 
+collected at 100K on the Australian synchrotron MX1 and MX2 beamlines, from crystals that had first 
+been washed in precipitant solution augmented with 10% (v/v) glycerol for cryo-protection. Measured 
+reflections were indexed and integrated using either XDS 43 or imosflm, and scaled and merged using 
+aimless 44. Phases were calculated by molecular replacement using PHASER 45, whereby, the MR1 
+ternary complex, which had the CDR loops and ligand removed, was used as a search model (PDB ID: 
+4L4T 17). Refinement was performed using phenix.refine 46, with the initial refinement rounds including 
+simulated annealing, model building was performed with COOT 47, with MolProbity used in validation 
+48
+. The Grade Web Server was used to generate ligand restraints for all drugs. 
+ 
+For the compounds DCF, 5-OH-DCF and 2-OH-1-NA, which did not refold sufficiently well in vitro 
+(data not shown), a ligand-exchange approach was employed to obtain structures of MR1 presenting 
+these molecules. Namely, when 6-FP (not shown), DCF, 5-OH-DCF, 2-OH-1-NA was added to the 
+MAIT TCR-MR1-Ag protein solution at a concentration of 0.6-2 mM prior to crystallization, the 
+resulting crystal structures determined from these crystals revealed the added compound at a high 
+occupancy (Supplementary Figure 6). The buried surface area was calculated by the CCP4 
+implementation of Areaimol and molecular interactions were determined by the CCP4 implementation 
+of CONTACT 44. All molecular graphics were constructed using PyMOL. 
+ 
+Mass spectrometry analyses 
+ 23 
+C1R.MR1 cells (5 x 109) were treated with Ac-6-FP, 3-F-SA or DCF for 3 and 16 hours, after which the 
+cells were washed extensively and the cell pellet snap frozen in liquid nitrogen. The plasma membrane 
+from treated cells was then isolated using an AbCAM plasma membrane kit (Product number ab65400). 
+MR1 was isolated from the plasma membrane fraction by immunoprecipitation using mAb 26.5 coupled 
+to protein G-Agarose. MR1 and bound ligands were eluted from the resin by acidification and ligand 
+containing fractions were further purified by solid phase extraction using a C18 (Waters) or SAX (Supel 
+Co) stationary phase for DCF and 3-F-SA respectively. Components of interest were eluted from 
+cartridges with 1 ml of methanol. Eluted components were dried on a SpeedVac dryer (Thermo Electron, 
+Waltham, MA). The dried samples were resuspended in 50 μl of water/acetonitrile (95:5) for MS/MS 
+analyses. 
+ 
+LC-MSMS for profiling of synthetic standards   
+Standards were subjected to chromatographic separations with a micropeptide trap (Grace Scientific) 
+connected to an Everest C18 column (50 mm x 1 mm, 5 m, Grace Davison) and a Bruker microQTOF 
+mass spectrometer.   The starting mobile phase consisted of 95% water (0.5% acetic acid, 10 mM 
+ammonium acetate), and the metabolites were eluted using a linear gradient of 95% water to 85% 
+acetonitrile over 25 min at a flow rate of 50µl/min. Mass spectra were collected in positive ionization 
+mode by scanning over the range m/z 50 to 500.  
+ 
+Targeted detection of compounds using multiple reaction monitoring (MRM)-MS 
+A SCIEX QTRAP 5500 mass spectrometer was used for MRM detection of compounds. 20 µl samples 
+were injected and loaded onto a trap column (200 µm×0.5 mm ChromXP C18-CL 3 µm 120 Å) at a flow 
+rate of 10 µl/min in 98% buffer A for 10 minutes. For on-line fractionation of samples onto the mass 
+spectrometer, samples were eluted from the trap column and over a cHiPLC column (75 µm×15 cm 
+ChromXP C18-CL 3 µm 120 Å) at 300 nl/min under the following buffer B (95% acetonitrile, 0.1% 
+formic acid in water) gradient conditions: 0–3 min 2–10% B, 3–33 min 10–40% B, 33–36 min 40–80% 
+B, 36–38 min hold at 80% B, 38–39 min 80–2% B, followed by equilibration at 2% B until the end of 
+the run at 48 min. The QTRAP 5500 was operated in MRM mode in unit resolution for Q1 and Q3, 
+coupled to an information-dependent acquisition (IDA) criterion set to trigger an EPI scan (10,000 
+Da/sec; rolling CE; unit resolution) following any MRM transition exceeding 500 counts (ignoring the 
+triggering MRM transition for 3 seconds thereafter).  
+ 
+ 24 
+For comparison of DCF from cell surface, transitions were simultaneously monitored in detecting DCF 
+Q1 to Q3: m/z 295→250, 4-OH-DCF m/z 312.0→266, 312→230, and 312→194 and 5-OH-
+DCF m/z 312→266, 312→230, 4,5-dihydroxy-DCF 327.9→290, 327.9→282, 327.9→246, 
+325.7→210. Two transitions were simultaneously monitored in detecting Ac-6-FP 
+Q1 to Q3: m/z 234.1→190.1, m/z 234.1→147.1 and 3-F-SA detecting Q1 to Q3: m/z 165.1→120.9 
+m/z 165.1→92.9. Data analysis was performed using Analyst v1.5.2.  
+ 
+ 
+Chemical synthesis 
+2,4-DA-6-FP, 4,5-diOH-DCF, and 5-OH-DCF were synthesized as shown in Supplementary Figure 
+11. 
+  
+ 25 
+Figure Legends 
+ 
+Figure 1. In silico virtual screening for putative MR1 ligands. 
+a) Fragment-based in silico virtual screen of an in-house chemical database (6,000 compounds) led to 
+selection of 147 compounds relating to fragments of 5-OP-RU. b) Docking simulated binding poses 
+(cyan) of selected fragments into MR1 at the binding site of 5-OP-RU. c) Examples of virtual hits from 
+the fragment-based screen. d) Shape-based in silico virtual matching of 1,216 FDA approved drugs to 6-
+FP as a structural template leading to 16 drugs as virtual hits. e) Superimposition of the drugs on the 
+shape of 6-FP. f) Examples of drugs as virtual hits from the shape-based screen. Colours in panel f 
+correspond to superimposed structures in panel e. g) Receptor-based virtual screen for identification of 
+drug hits as putative MR1-binding ligands. h) Docked poses of 20 virtual hits (cyan) from a subset of the 
+pre-filtered FDA 1,216 drug database in the putative MR1-binding site defined by key protein residues 
+labeled in yellow and shown as sticks. i) Examples of virtual hits from the receptor-based virtual screen.   
+ 
+Figure 2. Drugs and drug-related molecules cause MR1 upregulation and MAIT cell inhibition 
+a) Summary of the ability of drugs and drug-related molecules to upregulate MR1 on the surface of 
+C1R.MR1 cells and activate Jurkat.MAIT-A-F7 cells as tested in a functional screen. Ligands of interest 
+as part of this study are highlighted in bold font. Supplementary Table 3 displays normalised 
+Jurkat.MAIT-A-F7 activation/MR1 upregulation for each ligand assayed in a combined Jurkat.MAIT-
+A-F7 activation/C1R.MR1 upregulation assay. b) Chemical structures of MR1 ligands (i) 6-formylpterin 
+(6-FP), (ii) acetyl-6-formylpterin, (iii) 2,4-diamino-6-formylpteridine (2,4-DA-6-FP), (iv) 3-
+formylsalicylic acid (3-F-SA), (v) 5-formylsalicylic acid (5-F-SA) and (vi) 2-hydroxy-1-napthaldehyde 
+(2-OH-1-NA). c) MR1 surface upregulation by C1R.MR1 cells over time in the presence of 100 M 6-
+FP, Ac-6-FP, 3-F-SA, and 2-OH-1-NA. Displayed is mean of triplicate samples and SEM (error bars) 
+gMFI 26.5 fold of background for one representative of three experiments. d) Drug/small molecule dose 
+dependent inhibition of Jurkat.MAIT-A-F7 cells activated by 5-OP-RU in the presence of C1R.MR1 
+cells and assayed by flow cytometric staining for CD69 as a marker of activation. Displayed is gMFI 
+CD69 fold of background control for one representative of three experiments. e) Drug/small molecule 
+dose dependent inhibition of Bw58.CD3.MAIT-V8.2 cells activated by 5-OP-RU in the presence of 
+M12.C3.MR1 cells, assayed for IL-2 production as a marker of activation. Displayed is one 
+representative of 3 experiments. f) Capacity of 3-F-SA versus 5-F-SA to inhibit or activate Jurkat.MAIT-
+A-F7 and Jurkat.MAIT-#6 cells as in (d) Displayed is one representative of 3 experiments. D-f) 5-OP-
+RU activation with nil inhibitor/activator was assayed in triplicate displaying mean and SEM (error bars). 
+ 26 
+ 
+Figure 3. Diclofenac metabolites activate MAIT cell lines in an MR1-dependent manner. 
+a) Dose dependent activation of Jurkat76.MAIT-A-F7 cells by diclofenac in comparison to 5-OP-RU, 
+RL-6-Me-7-OH, RL-6,7-DiMe, 6-FP, Ac-6-FP as well as competitive inhibition by Ac-6-FP and 26.5 
+blockage, assayed for IL-2 production as a marker of activation. Displayed is one representative of 2 
+experiments. b) Dose dependent activation of Jurkat.MAIT-A-F7 (TRBV6-1+), Jurkat.MAIT-#6 
+(TRBV6-4+) and Jurkat.MAIT-CF7 (TRBV20+) cells by diclofenac in comparison to 5-OP-RU, RL-6-
+Me-7-OH, RL-6,7-DiMe, 6-FP, Ac-6-FP assayed for CD69 upregulation as a marker of activation in 
+flow cytometry. Displayed is one representative of two experiments. c) Activation of Jurkat.MAIT-A-
+F7 (TRBV6-1+), Jurkat.MAIT-#6 (TRBV6-4+) and Jurkat.MAIT-C-F7 (TRBV20+) cells by diclofenac 
+(in comparison to Ac-6-FP) in combination with 5-OP-RU assayed for CD69 upregulation as a marker 
+of activation in flow cytometry. Displayed is one experiment. d) Dose dependent activation of MAIT 
+cell lines by diclofenac and diclofenac metabolites (in comparison to 5-OP-RU) as well as in combination 
+with Ac-6-FP and 26.5 blockage assayed for CD69 upregulation as a marker of activation in flow 
+cytometry. Displayed is one representative of two experiments. e) Chemical structures of (i) Diclofenac 
+(DCF), (ii) 4-Hydroxy-diclofenac (4’-OH-DCF), (iii) 5-Hydroxy-diclofenac (5-OH-DCF), (iv) 4’,5-
+Dihydroxy-diclofenac (4’,5-diOH-DCF), (v) Diclofenac Acyl--D-glucuronide, (vi) Diclofenac Acyl--
+D-glucuronide allyl ester. e) Top: Extracted ion chromatograms (Q1-Q3 transition) of surface isolated 
+ligands (red) and chemically synthesised ligand (black) Ac-6-FP, 3-F-SA, 5-OH-DFC and 4’,5-diOH-
+DCF respectively (Note 4’-OH-DCF included in grey for comparison). Bottom: enhanced product ion 
+(EPI) spectra of ligands of immunoprecipitated MR1 from the surface of C1R.MR1 cells for Ac-6-FP, 
+3-F-SA, 5-OH-DFC and 4’,5-diOH-DCF respectively.  
+ 
+Figure 4. Drugs/Drug-related molecules inhibit MAIT cell activation ex vivo and in vivo 
+Dose dependent inhibition of cytokine production (a) or proliferation (b) of human MAIT cells (live, 
+CD3+, TRAV1-2+ 5-OP-RU-MR1-tetramer+) ex vivo whereby monocyte derived DCs were co-incubated 
+with autologous monocyte depleted PBMCs in the presence of 5-OP-RU and inhibitory ligands.  
+Displayed are mean and SEM (error bars) of 5 donors (a and b). For 2-OH-1-NA, proliferative response 
+could only be determined at a concentration of 25 M, higher concentrations impaired with the ability to 
+be activated by CD3/CD28 plate bound stimulation and with tetramer staining (data not shown). c) 
+Inhibitory effect of intranasally administered Ac-6-FP and 3-F-SA (as shown in schematic) on MAIT 
+cell accumulation in the lungs of C57BL/6 mice upon 5-OP-RU and Salm.BRD509ΔribDH stimulus as 
+ 27 
+shown in scheme. Displayed are % MAIT cells of  T cells showing mean values +/- SEM as error bars 
+of four mice (or three mice if excluded due to technical issues) for one experiment. The experiment was 
+performed twice with similar results. 
+ 
+Figure 5. Inhibitors bound within the MR1 cleft.  
+A-E) MR1 residues (white) that contact directly 6-FP (A), 2,4-DA-6-FP (B), 2-OH-1-NA (C), HMB (D) 
+and 3-F-SA (E), coloured green. F) Superposition of 6-FP (green), 2,4-DA-6-FP (purple), 2-OH-1-NA 
+(yellow), HMB (slate) and 3-F-SA (orange) within the MR1 binding cleft. Black and red-dashed lines 
+denote hydrogen bonds and salt bridges, respectively. 
+ 
+Figure 6. MAIT TCR-MR1 complexes with diclofenac and a specific metabolite.  
+A-B) MR1 residues that contact directly DCF (A) 5-OH-DCF (B). C-E) Interactions between the CDR3 
+(yellow) and CDR3 (orange) loops of the A-F7 MAIT TCR, with MR1 presenting 5-OP-RU (C), DCF 
+(D) and 5-OH-DCF (E). F) Superimposition of 5-OP-RU (yellow) and DCF (green) bound within MR1. 
+Colours and labels consistent with Figure 5 unless otherwise stated. Black, red and yellow-dashed lines 
+denote hydrogen bonds, halogen bonds and salt bridges, respectively. 
+ 
+  
+ 28 
+References 
+1. Jones EY, Fugger L, Strominger JL, Siebold C. MHC class II proteins and disease: a 
+structural perspective. Nat Rev Immunol 2006, 6(4): 271-282. 
+ 
+2. Koning F, Thomas R, Rossjohn J, Toes RE. Coeliac disease and rheumatoid arthritis: similar 
+mechanisms, different antigens. Nat Rev Rheumatol 2015, 11(8): 450-461. 
+ 
+3. Illing PT, Vivian JP, Dudek NL, Kostenko L, Chen Z, Bharadwaj M, et al. Immune self-
+reactivity triggered by drug-modified HLA-peptide repertoire. Nature 2012, 486: 554-
+558. 
+ 
+4. Godfrey DI, Uldrich AP, McCluskey J, Rossjohn J, Moody DB. The burgeoning family of 
+unconventional T cells. Nat Immunol 2015, 16(11): 1114-1123. 
+ 
+5. Van Rhijn I, Godfrey DI, Rossjohn J, Moody DB. Lipid and small-molecule display by CD1 
+and MR1. Nat Rev Immunol 2015, 15(10): 643-654. 
+ 
+6. Eckle SB, Corbett AJ, Keller AN, Chen Z, Godfrey DI, Liu L, et al. Recognition of Vitamin B 
+Precursors and Byproducts by Mucosal Associated Invariant T Cells. J Biol Chem 2015, 
+290(51): 30204-30211. 
+ 
+7. Treiner E, Duban L, Bahram S, Radosavljevic M, Wanner V, Tilloy F, et al. Selection of 
+evolutionarily conserved mucosal-associated invariant T cells by MR1. Nature 2003, 
+422(6928): 164-169. 
+ 
+8. Tilloy F, Treiner E, Park S-H, Garcia C, Lemonnier Fß, de la Salle H, et al. An Invariant T Cell 
+Receptor Alpha Chain Defines a Novel TAP-independent Major Histocompatibility 
+Complex Class Ib-restricted alpha/beta T Cell Subpopulation in Mammals. The Journal of 
+Experimental Medicine 1999, 189(12): 1907-1921. 
+ 
+9. Salio M, Silk JD, Jones EY, Cerundolo V. Biology of CD1- and MR1-restricted T cells. Annu 
+Rev Immunol 2014, 32: 323-366. 
+ 
+10. Gold MC, Cerri S, Smyk-Pearson S, Cansler ME, Vogt TM, Delepine J, et al. Human mucosal 
+associated invariant T cells detect bacterially infected cells. PLoS Biol 2010, 8(6): 
+e1000407. 
+ 
+11. Le Bourhis L, Martin E, Péguillet I, Guihot A, Froux N, Coré M, et al. Antimicrobial activity 
+of mucosal-associated invariant T cells. Nature immunology 2010, 11: 701-708. 
+ 
+12. Dusseaux M, Martin E, Serriari N, P√©guillet I, Premel V, Louis D, et al. Human MAIT cells 
+are xenobiotic-resistant, tissue-targeted, CD161hi IL-ͳ7‚Äìsecreting T cells. Blood 2011, 
+117(4): 1250-1259. 
+ 
+13. Reantragoon R, Corbett AJ, Sakala IG, Gherardin NA, Furness JB, Chen Z, et al. Antigen-
+loaded MR1 tetramers define T cell receptor heterogeneity in mucosal-associated 
+invariant T cells. J Exp Med 2013, 210(11): 2305-2320. 
+ 
+ 29 
+14. Lepore M, Kalinichenko A, Colone A, Paleja B, Singhal A, Tschumi A, et al. Parallel T-cell 
+cloning and deep sequencing of human MAIT cells reveal stable oligoclonal TCRβ 
+repertoire. Nat Commun 2014, 5. 
+ 
+15. Corbett AJ, Eckle SB, Birkinshaw RW, Liu L, Patel O, Mahony J, et al. T-cell activation by 
+transitory neo-antigens derived from distinct microbial pathways. Nature 2014, 
+509(7500): 361-365. 
+ 
+16. Kjer-Nielsen L, Patel O, Corbett AJ, Le Nours J, Meehan B, Liu L, et al. MR1 presents 
+microbial vitamin B metabolites to MAIT cells. Nature 2012, 491(7426): 717-723. 
+ 
+17. Patel O, Kjer-Nielsen L, Le Nours J, Eckle SB, Birkinshaw R, Beddoe T, et al. Recognition of 
+vitamin B metabolites by mucosal-associated invariant T cells. Nat Commun 2013, 4: 2142. 
+ 
+18. Ussher JE, Klenerman P, Willberg CB. Mucosal-associated invariant T (MAIT) cells: new 
+players in anti-bacterial immunity. Frontiers in Immunology 2014, 5. 
+ 
+19. Kurioka A, Ussher JE, Cosgrove C, Clough C, Fergusson JR, Smith K, et al. MAIT cells are 
+licensed through granzyme exchange to kill bacterially sensitized targets. Mucosal 
+Immunol 2015, 8(2): 429-440. 
+ 
+20. Hashkes PJ, Becker ML, Cabral DA, Laxer RM, Paller AS, Rabinovich CE, et al. Methotrexate: 
+New Uses for an Old Drug. The Journal of Pediatrics 2014, 164(2): 231-236. 
+ 
+21. Chatterji DC, Gallelli JF. Thermal and photolytic decomposition of methotrexate in aqueous 
+solutions. Journal of Pharmaceutical Sciences 1978, 67(4): 526-531. 
+ 
+22. Gherardin NA, Keller AN, Woolley RE, Le Nours J, Ritchie DS, Neeson PJ, et al. Diversity of T 
+Cells Restricted by the MHC Class I-Related Molecule MR1 Facilitates Differential Antigen 
+Recognition. Immunity 2016, 44(1): 32-45. 
+ 
+23. Chen Z, Wang H, D'Souza C, Sun S, Kostenko L, Eckle SBG, et al. Mucosal-associated 
+invariant T-cell activation and accumulation after in vivo infection depends on microbial 
+riboflavin synthesis and co-stimulatory signals. Mucosal Immunol 2016. 
+ 
+24. Chua BY, Olson MR, Bedoui S, Sekiya T, Wong CY, Turner SJ, et al. The use of a TLR2 
+agonist-based adjuvant for enhancing effector and memory CD8 T-cell responses. 
+Immunology and cell biology 2014, 92(4): 377-383. 
+ 
+25. McWilliam HEG, Eckle SBG, Theodossis A, Liu L, Chen Z, Wubben JM, et al. The intracellular 
+pathway for the presentation of vitamin B-related antigens by the antigen-presenting 
+molecule MR1. Nat Immunol 2016, 17(5): 531-537. 
+ 
+26. Zelcer S, Kellick M, Wexler LH, Shi W, Sankaran M, Lo S, et al. Methotrexate levels and 
+outcome in osteosarcoma. Pediatric Blood & Cancer 2005, 44(7): 638-642. 
+ 
+ 30 
+27. Romão V, Lima A, Bernardes M, Canhão H, Fonseca J. Three decades of low-dose 
+methotrexate in rheumatoid arthritis: Can we predict toxicity? Immunologic Research 
+2014, 60(2-3): 289-310. 
+ 
+28. Davies NM, Anderson KE. Clinical Pharmacokinetics of Diclofenac. Clinical 
+Pharmacokinetics 1997, 33(3): 184-213. 
+ 
+29. Krasniqi V, Dimovski A, Domjanović Iva K, Bilić I, Božina N. How polymorphisms of the 
+cytochrome P450 genes affect ibuprofen and diclofenac metabolism and toxicity / Kako polimorfizmi gena citokroma PͶͷͲ utječu na metabolizam i toksičnost ibuprofena i 
+diklofenaka.  Archives of Industrial Hygiene and Toxicology; 2016. p. 1. 
+ 
+30. Bharadwaj M, Illing P, Theodossis A, Purcell AW, Rossjohn J, McCluskey J. Drug 
+hypersensitivity and human leukocyte antigens of the major histocompatibility complex. 
+Annu Rev Pharmacol Toxicol 2012, 52: 401-431. 
+ 
+31. Skypala IJ, Williams M, Reeves L, Meyer R, Venter C. Sensitivity to food additives, vaso-
+active amines and salicylates: a review of the evidence. Clin Transl Allergy 2015, 5(1): 34. 
+ 
+32. Hawkins PCD, Skillman AG, Nicholls A. Comparison of Shape-Matching and Docking as 
+Virtual Screening Tools. Journal of Medicinal Chemistry 2007, 50(1): 74-82. 
+ 
+33. Fehlner PF, Bencsath A, Lam T, Te Piao K. The photodecomposition of aminopterin. 
+Journal of Immunological Methods 1987, 101(1): 141-145. 
+ 
+34. Eckle SB, Birkinshaw RW, Kostenko L, Corbett AJ, McWilliam HE, Reantragoon R, et al. A 
+molecular basis underpinning the T cell receptor heterogeneity of mucosal-associated 
+invariant T cells. J Exp Med 2014, 211(8): 1585-1600. 
+ 
+35. Reantragoon R, Kjer-Nielsen L, Patel O, Chen Z, Illing PT, Bhati M, et al. Structural insight 
+into MR1-mediated recognition of the mucosal associated invariant T cell receptor. The 
+Journal of Experimental Medicine 2012, 209(4): 761-774. 
+ 
+36. Gras S, Burrows SR, Kjer-Nielsen L, Clements CS, Liu YC, Sullivan LC, et al. The Shaping of T 
+Cell Receptor Recognition by Self-Tolerance. Immunity 2009, 30(2): 193-203. 
+ 
+37. Heemskerk MHM, Hoogeboom M, de Paus RA, Kester MGD, van der Hoorn MAWG, Goulmy 
+E, et al. Redirection of antileukemic reactivity of peripheral T lymphocytes using gene 
+transfer of minor histocompatibility antigen HA-2-specific T-cell receptor complexes 
+expressing a conserved alpha joining region. Blood 2003, 102(10): 3530-3540. 
+ 
+38. Gras S, Chen Z, Miles JJ, Liu YC, Bell MJ, Sullivan LC, et al. Allelic polymorphism in the T cell 
+receptor and its impact on immune responses. The Journal of Experimental Medicine 2010, 
+207(7): 1555-1567. 
+ 
+39. Szymczak AL, Workman CJ, Wang Y, Vignali KM, Dilioglou S, Vanin EF, et al. Correction of 
+multi-gene deficiency in vivo using a single 'self-cleaving' 2A peptide-based retroviral 
+vector. Nat Biotechnol 2004, 22(5): 589-594. 
+ 31 
+ 
+40. Kawachi I, Maldonado J, Strader C, Gilfillan S. MR1-Restricted VŒ±ͳ9i Mucosal-Associated 
+Invariant T Cells Are Innate T Cells in the Gut Lamina Propria That Provide a Rapid and 
+Diverse Cytokine Response. The Journal of Immunology 2006, 176(3): 1618-1627. 
+ 
+41. Huang S, Gilfillan S, Cella M, Miley MJ, Lantz O, Lybarger L, et al. Evidence for MR1 Antigen 
+Presentation to Mucosal-associated Invariant T Cells. Journal of Biological Chemistry 2005, 
+280(22): 21183-21193. 
+ 
+42. Hoiseth SK, Stocker BAD. Aromatic-dependent Salmonella typhimurium are non-virulent 
+and effective as live vaccines. Nature 1981, 291(5812): 238-239. 
+ 
+43. Kabsch W. Xds. Acta Crystallogr D Biol Crystallogr 2010, 66(Pt 2): 125-132. 
+ 
+44. Winn MD, Ballard CC, Cowtan KD, Dodson EJ, Emsley P, Evans PR, et al. Overview of the 
+CCP4 suite and current developments. Acta Crystallogr D Biol Crystallogr 2011, 67(Pt 4): 
+235-242. 
+ 
+45. McCoy AJ, Grosse-Kunstleve RW, Adams PD, Winn MD, Storoni LC, Read RJ. Phaser 
+crystallographic software. J Appl Crystallogr 2007, 40(Pt 4): 658-674. 
+ 
+46. Adams PD, Afonine PV, Bunkoczi G, Chen VB, Davis IW, Echols N, et al. PHENIX: a 
+comprehensive Python-based system for macromolecular structure solution. Acta 
+Crystallogr D Biol Crystallogr 2010, 66(Pt 2): 213-221. 
+ 
+47. Emsley P, Lohkamp B, Scott WG, Cowtan K. Features and development of Coot. Acta 
+Crystallogr D Biol Crystallogr 2010, 66(Pt 4): 486-501. 
+ 
+48. Chen VB, Arendall WB, 3rd, Headd JJ, Keedy DA, Immormino RM, Kapral GJ, et al. 
+MolProbity: all-atom structure validation for macromolecular crystallography. Acta 
+Crystallogr D Biol Crystallogr 2010, 66(Pt 1): 12-21. 
+ 
+  
+ 32 
+Supplementary data 
+ 
+Supplementary Figure 1. In silico screening of MR1 ligands.  
+a) Superimposition of 9 drugs (sticks) on 5-OP-RU. These drugs are consistent with the shape matching 
+to 6-FP. Colored chemical structures of drugs (e.g. Acyclovir, Lamivudine, Methotrexate) correspond to 
+colored sticks, with other drugs shown in grey. b) Side view of all 20 virtual screening drug hits (shown 
+as surfaces) in complementarity with the MR1 binding site. Carbon (white); oxygen (red); nitrogen 
+(blue); chlorine (green); fluorine (cyan). c) RMSD comparison of re-docked 5-OP-RU by different 
+scoring functions with the structure of 5-OP-RU (pdb: 4NQD) in crystal structure. 
+ 
+Supplementary Figure 2.  MR1 upregulation and MAIT activation. 
+a) Graphical display of percentages MR1 upregulating versus agonistic compounds identified as part of 
+the functional screen in Figure 2a. b) gMFI of 26.5 (mean of triplicate samples and SEM) and isotype  
+control (single samples) staining at 7 hours for Nil, vehicle controls (V) and ligands (left panel). Repeat 
+experiment of Figure 2c including 5-F-SA (right panel) showing single samples. c) First 2 rows: 
+Drug/small molecule dose dependent inhibition of Jurkat.MAIT-#6 and Jurkat.MAIT-C-F7 activated by 
+5-OP-RU in the presence of C1R.MR1 cells and assayed by flow cytometric staining for CD69 as a 
+marker of activation. Displayed is gMFI CD69 fold of background control for one representative of three 
+experiments. 5-OP-RU activation with nil inhibitor/activator was assayed in triplicate displaying mean 
+and SEM (error bars). Third row: gMFI of CD69 (mean of triplicate samples and SEM) for Nil (PBS), 
+vehicle controls with maximum concentration of 5-OP-RU, and ligands co-incubated with 
+PMA/Ionomycin are displayed for Jurkat.MAIT-A-F7, Jurkat.MAIT-#6 and Jurkat.MAIT-C-F7. d) IL-
+2 production in the presence of PBS, vehicle controls with maximum concentration of 5-OP-RU, and 
+ligands co-incubated with PMA/Ionomycin. Displayed are mean of triplicate samples except for ligands 
+co-incubated with PMA/Ionomycin where single samples are shown. e) Repeat experiment of Figure 
+2d/f including in addition gMFI of CD69 (mean of triplicate samples and SEM) for vehicle controls with 
+maximum concentration of 5-OP-RU, ligands and ligands co-incubated with PMA/Ionomycin (left 
+panel). In parallel the effect of ligands and vehicles on Jurkat.CD8.LC13 activation by C1R.HLA-
+B*08:01 in the presence of FLR peptide was tested (right panel).   
+  
+Supplementary Figure 3. Scaffold classes and structures of bioassay-identified molecules.  
+Classification of twenty-two representative structures of active compounds (including 9 drugs) according 
+to their chemical substructures: pyrimidines (black), phenols/anilines (green), enones (red), aromatic 
+ 33 
+aldehydes (orange), aromatic carboxylates (olive), quinones (dark blue), flavones (light blue), 
+isoflavones (pink). 
+ 
+Supplementary Figure 4. Degradation of 2,4-DA-6-FP. 
+a) Chemical structures of aminopterin/folic acid (I) as they decompose to form respective formyl pterin 
+(II) and aminobenzoylglutamic acid (III). The aldehyde on (II) then further degrades to carboxylic acid 
+(IV). b) Absorbance spectra of aminopterin after exposure to a fluorescent lamp for 0h (green), 18h 
+(orange) and 48h (red). c&d) MR1 surface upregulation by C1R.MR1 cells treated with 20M or 2M 
+of photodegraded aminopterin from (b), shown as histogram of 26.5 (c) and as MFI 26.5-fold of PBS 
+vehicle control (mean of triplicate samples with SEM). Representative of two separate experiments. e) 
+Mass spectra and elemental analysis of compound extracted from MR1 refolded in the presence of 
+photodegraded aminopterin compared with theoretical spectra for 2,4-DA-6-FP. 
+ 
+Supplementary Figure 5. Activation of MR1 restricted T cell lines by DCF and DCF metabolites  
+Effect of Diclofenac and its metabolites on MR1 restricted T cell lines and Jurkat.CD8.LC13 activation 
+by C1R.HLA-B*08:01 co-incubated with FLR peptide. Displayed are fold of background MFI CD69 (a) 
+or MFI CD69 (b) for one representative of two experiments. 
+ 
+Supplementary Figure 6. Inhibition of MAIT cell activation by drugs and drug-related molecules 
+ex vivo.  
+a) % cytokine production gated on live, CD3+, TRAV1-2+ 5-OP-RU-MR1-tetramer- (representative of 
+non MAIT T cells) or TRAV1-2+ 5-OP-RU-MR1-tetramer+ (MAIT cells) cells. Samples include titrating 
+amounts of 5-OP-RU, vehicle controls in the presence of maximum concentration of 5-OP-RU, Nil 
+(PBS), and maximum concentration of inhibitors in the presence or absence of PMA/Ionomycin stimulus. 
+Displayed is data of one representative donor. b) % CTV dilution gated on live, CD3+, TRAV1-2+ 5-OP-
+RU-MR1-tetramer- (representative of non MAIT T-cells) or TRAV1-2+ 5-OP-RU-MR1-tetramer+ 
+(MAIT cells) cells. Samples include titrating amounts of 5-OP-RU (triplicate samples, SEM) and Nil 
+(triplicate samples, SEM), vehicles (triplicate samples, SEM) and maximum concentrations of inhibitors 
+in the presence (triplicate samples, SEM) or absence (single samples) of plate bound CD3/CD28. 
+Displayed is data of one representative donor. 
+ 
+ 
+Supplementary Figure 7.  Inhibition of MAIT cell activation by small molecules in vivo. 
+ 34 
+(a) Inhibitory effect of intranasally administered Ac-6-FP and 3-F-SA on MAIT cell accumulation in the 
+lungs of C57BL/6 mice upon 5-OP-RU and Salm.BRD509ΔribDH stimulus. Matching data in Figure 4c, 
+absolute numbers of MAIT cells and non-MAIT  T cells (mean values +/- SEM as error bars of four 
+mice as well as CFU counts in the lungs are shown. (b) Repeat experiment at the maximum inhibitor 
+concentration including in addition IL17 production by non-MAIT  T cells in response to 
+Salm.BRD509ΔribDH stimulus in the presence or absence of inhibitors. 
+ 
+Supplementary Figure 8.  MR1 structures with drugs and drug related molecules.  
+A-F) Omit map of 2,4-DA-6-FP (A), 2-OH-1-NA (B), HMB (C), 3-F-SA (D) DCF (E) and 5-OH-DCF 
+(F), after simulated-annealing refinement using Phenix-refine. Fo-Fc map (green mesh) contoured at 3. 
+G) Overlay of all drug/drug related ternary structures. 
+ 
+Supplementary Figure 9. TCR contacts with MR1.  
+Contact regions of the CDR1   
+CDR2  ple for - and -chains, 
+respectively) of A-F7 MAIT TCR on MR1 (white surface), which is presenting 5-OP-RU (A), 6-FP (B), 
+2,4-DA-6-FP (C), 2-OH-1-NA (D), HMB (E), 3-F-SA (F), DCF (G) or 5-OH-DCF (H). 
+ 
+Supplementary Figure  10.   Docking of selected ligands into the MR1 binding site. 
+Predicted ligand binding poses from docking of in silico ligand hits into the 5-OP-RU binding site in 
+MR1. Examples shown are a) 3-F-SA, b) 2-OH-1-NA, c) 1,2-Naphthoquinone-4-sulfonic acid (1,2-NQ-
+4-SA), d) HMB, e) DCF, f) Doxophylline, g) Floxuridine, h) Menadione, i) Aspirin. MR1 residues 
+(yellow sticks), TCR residue Y95 (wheat stick), hydrogen bonds (black dashed lines). 
+ 
+Supplementary Figure 11. Chemical synthesis of metabolites. 
+Synthesis of 2,4-diamino-6-formylpteridine (A), 4,5-dihydroxy diclofenac (B) and 5-hydroxy 
+diclofenac (C). 
+  
+ 35 
+Supplementary Table 1. Summary of in silico hits (147) from fragment based screening.  
+Name CAS No. MW 
+1-Amino-2-naphthol-4-sulfonic acid 116-63-2 239.25 
+1,2-Naphthoquinone-4-sulfonic acid sodium salt 521-24-4 260.20 
+1,2,4-Benzenetricarboxylic acid 528-44-9 210.14 
+1,3,5-Benzenetricarboxylic acid 554-95-0 210.14 
+1,4-Benzodioxan-6-carboxaldehyde 29668-44-8 164.16 
+1,4-Benzoquinone 106-51-4 108.09 
+1,4-Naphthoquinone 130-15-4 158.15 
+2-Acetamidobenzoic acid 89-52-1 179.17 
+2-Acetyl-1-methylpyrrole 932-16-1 123.15 
+2-Acetyl-5-methylfuran 1193-79-9 124.14 
+2-Acetylthiophene 88-15-3 126.18 
+2-Amino-3,5-dibromobenzaldehyde 50910-55-9 278.93 
+2-Amino-6-mercaptopurine (Thioguanine)a 154-42-7 167.19 
+2-Aminonicotinic acid 5345-47-1 138.12 
+2-Aminopyrimidine 109-12-6 95.10 
+2-Anilino-1,4-naphthoquinone 6628-97-3 249.27 
+2-Anisaldehyde 135-02-4 136.15 
+2-Anisic acid 579-75-9 152.15 
+2-Benzoylbenzoic acid 85-52-9 226.23 
+2-Biphenylcarboxaldehyde 1203-68-5 182.22 
+2-Biphenylcarboxylic acid 947-84-2 198.22 
+2-Carbethoxy-5,7-dihydroxy-4'-methoxyisofavone 15485-76-4 356.33 
+2-Carboxybenzaldehyde 119-67-5 150.13 
+2-Chloro-3-nitrobenzoic acid 3970-35-2 201.56 
+2-Chloro-4-nitrobenzoic acid 99-60-5 201.56 
+2-Cis,4-trans-abscisic acid 14375-45-2 264.32 
+2-furyl methyl ketone 1192-62-7 110.11 
+2-Hydroxy-1-naphthaldehyde 708-06-5 172.18 
+2-Hydroxy-1,4-naphthoquinone 83-72-7 174.15 
+2-Hydroxy-4-methoxybenzaldehyde 673-22-3 152.15 
+2-Hydroxy-5-methoxybenzaldehyde 672-13-9 152.15 
+2-Hydroxyphenylacetic acid 614-75-5 152.15 
+2-Methyl-1,4-naphthoquinone (Menadione)a 58-27-5 172.18 
+2-Pyrazinecarboxylic acid 98-97-5 124.10 
+2-Quinoxalinecarboxylic acid 879-65-2 174.16 
+2,3-Pyridinedicarboxylic acid 339155-13-4 167.12 
+2,4-Diamino-6-formylpteridine 4261-17-0 190.16 
+2,5-Dimethyl-p-benzoquinone 137-18-8 136.15 
+2,6-Dichloroquinone-4-chloroimide 101-38-2 210.45 
+2,6-Pyridinedicarboxylic acid 499-83-2 167.12 
+3-Acetylbenzonitrile 6136-68-1 145.16 
+3-Acetylcoumarin 3949-36-8 188.18 
+3-Amino-2-naphthoic acid 5959-52-4 187.19 
+3-Anisaldehyde 591-31-1 136.15 
+3-Benzyloxy-4-methoxybenzaldehyde 6346-05-0 242.27 
+3-Chloro-2-nitrobenzoic acid 4771-47-5 201.56 
+3-Chlorosalicylic acid 1829-32-9 172.57 
+3-Ethoxy-4-hydroxybenzaldehyde 121-32-4 166.17 
+3-Formylsalicylic acid 610-04-8 166.13 
+3-Hydroxy-4-methyl-2-nitrobenzoic acid 6946-15-2 197.14 
+3-Hydroxybenzoic acid 99-06-9 138.12 
+3-Hydroxyflavone 577-85-5 238.24 
+3,4-Dichlorobenzaldehyde 6287-38-3 175.01 
+3,4-Pyridinedicarboxylic acid 490-11-9 167.12 
+3,4,5-Trihydroxybenzaldehyde 13677-79-7 154.12 
+4-Acetamidobenzaldehyde 122-85-0 163.17 
+4-Acetylpyridine 1122-54-9 121.14 
+4-Aminouracil 873-83-6 127.10 
+4-Anisaldehyde 123-11-5 136.15 
+4-Benzyloxy-3-methoxybenzaldehyde 2426-87-1 242.27 
+4-Biphenylacetic acid 5728-52-9 212.24 
+4-Biphenylcarboxaldehyde 3218-36-8 182.22 
+4-Biphenylcarboxylic acid 92-92-2 198.22 
+4-Chloro-3-nitrobenzaldehyde 16588-34-4 185.56 
+4-Formylbenzoic acid 619-66-9 150.13 
+4-Guanidinobenzoic acid 16060-65-4 179.18 
+4-Hydroxy-3-methoxybenzaldehyde (isovanillin) 621-59-0 152.15 
+4-Hydroxy-3-methoxyphenylacetic acid 1131-94-8 182.17 
+4-Hydroxy-3-nitrobenzoic acid 616-82-0 183.12 
+4-Hydroxyphenylacetic acid 156-38-7 152.15 
+4-Phenoxybenzoic acid 2215-77-2 214.22 
+5-Aminonaphthalene-2-sulfonic acid 119-79-9 223.25 
+5-Aminosalicylic acid 89-57-6 153.14 
+5-Bromo-2'-deoxyuridine (Broxuridine) 59-14-3 307.10 
+5-Bromosalicylaldehyde 1761-61-1 201.02 
+5-Bromouracil 51-20-7 190.98 
+ 36 
+5-Chlorosalicylic acid 321-14-2 172.57 
+5-Formylsalicylic acid 616-76-2 166.13 
+5-Hydroxy-1,4-naphthoquinone 481-39-0 174.15 
+5,8-Dihydroxy-1,4-naphthoquinone 475-38-7 190.15 
+6-Aminonicotinic acid 7418-65-7 138.12 
+6-Chloro-4-hydroxycoumarine 19484-57-2 196.59 
+6-Chloropurine 87-42-3 154.56 
+7-Hydroxyflavone 6665-86-7 238.24 
+8-Aminonaphthalene-2-sulfonic acid 119-28-8 223.25 
+8-Hydroxyquinoline-2-carboxylic acid 1571-30-8 189.17 
+8-Hydroxyquinoline-5-sulfonic acid 207386-92-3 225.22 
+9-Anthraldehyde 642-31-9 206.24 
+Acridone 578-95-0 195.22 
+Adenine 73-24-5 135.13  
+Adenosine 58-61-7 267.24 
+Alloxan 50-71-5 142.07 
+Alpha-Ionone 127-41-3 192.30 
+Anthraflavic acid 84-60-6 240.21 
+Anthranilic acid 118-92-3 137.14 
+Anthraquinone-2-sulfonic acid sodium salt 131-08-8 310.26 
+Apigenin (4',5,7-trihydroxyflavone) 520-36-5 270.24 
+Baicalein (5,6,7-trihydroxyflavone) 491-67-8 270.24 
+Benzalacetone (4-phenyl-3-buten-2-one) 122-57-6 146.19 
+Benzbromarone 3562-84-3 424.08 
+Benzofuran-2-carboxylic acid 496-41-3 162.14 
+Biochanin A (5,7-dihydroxy-4'methoxyisoflavone) 491-80-5 284.26 
+Bumetanide 28395-03-1 364.42 
+Calconcarboxylic acid  3737-95-9 438.41 
+Chelidamic acid 138-60-3 183.12 
+Chromone-2-carboxylic acid 4940-39-0 190.15 
+Chrysin (5,7-Dihydroxyflavone) 480-40-0 254.24 
+Coumarina 91-64-5 146.14 
+Dehydroacetic acid 520-45-6 168.15 
+Di-furan-2-yl-methanone  17920-86-4 162.14 
+Dicumarol (3,3'-methylenebis[4-hydroxycoumarin]) 66-76-2 336.29 
+Duroquinone (tetramethyl-p-benzoquinone) 527-17-3 164.20 
+Galangin (3,5,7-trihydroxyflavone) 548-83-4 270.24 
+Gallocyanine (7-dimethylamino-4-hydroxy-3-oxo-phenoxazine-1-carboxylic acid) 1562-85-2 336.73 
+Genistein  (4',5,7-trihydroxyisoflavone) 446-72-0 270.24 
+Homogentisic acid (2,5-dihydroxyphenylacetic acid) 451-13-8 168.15 
+Hypoxanthine (6-hydroxypurine) 68-94-0 136.11 
+Indole-2-carboxylic acid 1477-50-5 161.16 
+Indole-3-carboxaldehyde 487-89-8 145.16 
+Isophorone 78-59-1 138.21 
+Isophthalaldehyde 626-19-7 134.13 
+Isoquinoline-1-carboxylic acid 486-73-7 173.17 
+Isovanillic acid (3-hydroxy-4-methoxybenzoic acid) 645-08-9 168.15 
+Kaempferol (3,4',5,7-tetrahydroxyflavone) 520-18-3 286.24 
+Khellin 82-02-0 260.24 
+Kinetin (6-Furfurylaminopurine) 525-79-1 215.21 
+Kojic acid 501-30-4 142.11 
+Leucopterin (2-amino-4,6,7-trihydroxypteridine) 492-11-5 195.14 
+Luteolin (3',4',5,7-tetrahydroxyflavone) 491-70-3 286.24 
+Menadione sodium bisulfite  130-37-0 276.24 
+Morin hydrate (1',3,3',5,7-pentahydroxyflavone) 654055-01-3 302.24 
+Myricetin (3,3',4',5,5',7-hexahydroxyflavone) 529-44-2 318.24 
+Naringenin (4',5,7-trihydroxyflavanone) 67604-48-2 272.25 
+Phloroglucinol carbaldehyde (2,4,6-trihydroxybenzaldehyde) 487-70-7 154.12 
+Picramic acid (2-amino-4,6-dinitrophenol) 96-91-3 199.12 
+Quercetin (3,3',4',5,7-pentahydroxyflavone) 117-39-5 302.24 
+Rhodizonic acid 118-76-3 170.08 
+Tenofovir 147127-20-6 287.22 
+Tetrachloro-o-benzoquinone 2435-53-2 245.88 
+Tetrahydroxy-1,4-quinone 319-89-1 172.09 
+Theobromine 83-67-0 180.16 
+Theophylline (1,3-dimethylxanthine) 58-55-9 180.16 
+Thiamine hydrochloride (vatamin B1) 67-03-8 337.27 
+Toluquinone 553-97-9 122.12 
+Uridine 58-96-8 244.20 
+Vanillan (4-hydroxy-3-methoxybenzaldehyde) 121-33-5 152.15 
+Xanthopterin 119-44-8 179.14 
+a
+ also identified as FDA drug hits in Supplementary Table 2.  
+ 37 
+Supplementary Table 2. Summary of screened and tested FDA approved drugs. 
+Name CAS No. MW Use 
+Acyclovir 59277-89-3  225.21 antiviral  
+Amrinone 60719-84-8  187.20 pyridine phosphodiesterase 3 inhibitor  
+Aspirin 50-78-2 180.16 anti-inflammation, antipyretic 
+Azacytidine 320-67-2 244.21 antineoplastic 
+Azathiopurine 446-86-6 277.27 immunosuppressive antimetabolite  
+Chlorothiazide 58-94-6 295.72 a thiazide diuretic 
+Chloroxine 773-76-2 214.05 antibacterial  
+Coumarina 91-64-5 146.14 perfumes and fabric conditioners,  
+Diclofenac 15307-86-5 296.15 NSAID 
+Diflunisal 22494-42-4 250.20 NSAID 
+Doxofylline 69975-86-6 266.25 treatment of asthma 
+Dyphylline 479-18-5 254.24 broncho- and vasodilator  
+Fenoprofen 31879-05-7 242.27 anti-inflammatory  
+Floxuridine 50-91-9 246.19 antineoplastic antimetabolite  
+Flucytosine 2022-85-7 129.09 antifungal 
+Flufenamic acida 530-78-9 281.23 analgesic, anti-inflammatory 
+Ketorolac 74103-06-3 255.27 NSAID 
+Lamivudine 134678-17-4 229.26 a reverse transcriptase inhibitor 
+Mefenamic acid 61-68-7 241.29 NSAID 
+Menadionea 58-27-5 172.18 precursor of vitamin K2  
+Mercaptopurine 50-44-2 152.18 antimetabolite  
+Methaqualone 72-44-6 250.30 sedative-hypnotic drug 
+Methotrexate 59-05-2 454.44 antineoplastic  
+Methoxamine 390-28-3 211.26 alpha-adrenergic agonist  
+Methoxsalen 298-81-7 216.19 natural product targeting DNA  
+Nalidixic acid 389-08-2 232.24 antimicrobial 
+Phenazopyridine 94-78-0 213.24 used in urinary tract disorders 
+Phenylephrine 59-42-7 167.21 α-adrenergic receptor agonist  
+Pipemidic acid 51940-44-4 303.32 antibacterial 
+Pyrimethamine 58-14-0 248.71 folic acid antagonist  
+Quinethazone 73-49-4 289.74 diuretic  
+Salsalate 552-94-3 258.23 NSAID 
+Thioguanine 154-42-7 167.19 antineoplastic, antimetabolite 
+Triameterenea 396-01-0 253.26 a pteridine diuretic 
+Trimethoprim 738-70-5 290.32 antibacterial 
+Trichloromethiazide 133-67-5 380.66 A thiazide diuretic  
+   
+ 
+Diclofenac Metabolites and 
+other NSAIDsb 
+   
+4'-hydroxydiclofenac 64118-84-9 312.15 Metabolite of diclofenac 
+5-hydroxydiclofenac 69002-84-2 312.15 Metabolite of diclofenac 
+4',5-dihydroxydiclofenac 69002-86-4 328.15 Metabolite of diclofenac 
+Diclofenac Acyl-β-D-
+glucuronide 
+64118-81-6 472.27 Metabolite of diclofenac 
+Diclofenac Acyl-β-D-
+glucuronide allyl ester 
+698358-10-0 512.34 Metabolite of diclofenac 
+Celecoxib 169590-42-5 381.37 NSAID 
+Etodolac 41340-25-4 287.35 NSAID 
+Flunixin 38677-85-9 296.24 NSAID 
+Flurbiprofen 5104-49-4 244.26 NSAID 
+Indomethacin 53-86-1 357.79 NSAID 
+Meloxicam 71125-38-7 351.4 NSAID  
+Rofecoxib 162011-90-7 314.36 NSAID 
+Piroxicam 36322-90-4 331.35 NSAID  
+Tenoxicam 59804-37-4 337.37 NSAID 
+ 
+a
+ Drugs not approved in US, but approved in other countries. 
+b Metabolites of Diclofenac and COX-2 inhibitors. The latter were included after identification of diclofenac as an MR1 
+ligand. Note: Some drugs are no longer approved in USA but are still prescribed in other countries. E.g. Coumarin is sold in 
+India (Dipodem), Argentina (Esberiven), Brazil (Venalot), Taiwan (Venalot Depot). Flufenamic acid is sold in Japan 
+(Fenazol 5%), Taiwan (Flufemin). Trychloromethiazide is sold in Japan (Flutria), Taiwan (Eazide). Pipemidic acid is sold in 
+Brazil (Balurol), Italy (Diperpen). Menadione (vitamin K3) is approved for veterinary use in countries like Germany (Vita 
+Men), Australia (Solquin), Italy (Izokappa), Chile (Katin). (Information obtained from www.drugs.com) 
+ 
+ 
+ 38 
+ 
+Supplementary Table 3.  Small molecule screening 
+ 39 
+Colour coding as in Figure 2a
+ 
+Compounds Normalized Jurkat.MAIT activation Normalized MR1 upregulation
+Name Use/Origin 100 m M 10 m M 100 m M 10 m M
+1,2-Naphthoquinone-4-sulfonic acid Colourimetric determination. Synthesis of anticancer agents. -0.48 -0.97 10.31 2.98
+1,4-Benzodioxan-6-carboxaldehyde Intermediate. -4.20 -1.95 1.41 0.88
+1,4-Naphthoquinone Derivatives have pharmacological properties. 7.43 0.48 -4.02 35.63
+2-Amino-6-mercaptopurine Incorparates into DNA and inhibits synthesis. Treatment of leukaemia. -4.08 3.29 -0.43 -3.26
+2-Carboxybenzaldehyde Intermediate. Metabolite of ampicillin phthalidyl ester. -1.06 -2.69 3.06 2.12
+2-Furyl methyl ketone Intermediate. Used in the production of the antibiotic Cefuroxime. -0.40 -2.16 -0.46 -1.39
+2-Hydroxy-1-naphthaldehyde Intermediate. Active core of sirtinol. -0.11 4.98 125.12 107.76
+2-Pyrazinecarboxylic acid Analogue is a urate retaining drug. Metabolite of Pyrazinamide. -3.34 -1.77 -1.54 0.32
+3-Acetylcoumarin Intermediate. -3.23 -3.25 0.22 1.41
+3-Formylsalicylic acid Analogue of salicylic acid. -4.07 -3.51 124.44 51.13
+4-Biphenylacetic acid Anti-inflammatory, used in the treatment of rheumatoid arthritis. -0.15 0.76 -0.86 -0.52
+4-Guanidinobenzoic acid hydrochloride Intermediate. Aminobenzoic acid derivatives treat inflammation. -2.25 0.78 -2.06 -7.02
+5-Aminosalicylic acid Treatment of ulcerative colitis etc. -1.06 -2.69 3.06 2.12
+5-Bromouracil Major chemical mutagen. -2.95 -0.27 -6.67 -3.86
+5-Chlorosalicylic acid Intermediate. -3.15 -2.44 0.59 0.66
+5-Formylsalicylic acid Analogue of salicylic acid. 3.68 1.86 149.23 64.85
+5-Hydroxy-1,4-naphthoquinone Colouring matter isolated from walnut shells. Used in herbal remedies. -20.19 1.45 -34.35 38.54
+6-Chloro-4-hydroxy coumarine Coumarin is from plants. -0.06 0.87 -6.34 1.74
+7-Hydroxyflavone Intermediate. Antifungal, analgesic. 3.07 -0.48 -12.11 -0.90
+Acridone Intermediate. Derivatives show potential as antimalarial drugs. -5.69 -2.58 -11.03 -5.47
+Acyclovir Acyclic nucleoside used in the treatment of viral infections. -3.41 -3.58 -2.30 -0.42
+Amrinone Phosphodiesterase inhibitor. Cardiac stimulant and vasodilator. -2.79 -0.52 -0.54 1.02
+Anthranilic acid Dyes, drugs, perfumes and pharmaceuticals. -3.23 -2.35 0.36 0.45
+Apigenin Wool dye. Induces autophagy in leukaemia cells. Inhibits CYP2C9. -2.10 -2.91 75.45 28.78
+Azacitidine Antineoplastic agent. Treats acute myeloid leukaemia. -4.88 3.32 -18.75 -17.79
+Azathioprine Immunosuppressant and antieoplastic agent - treats leukaemia. 5.22 5.30 -10.17 -2.83
+Baicalein Lipoxygenase inhibitor. Anti-inflammatory agent. In the herbal supplement Sho-Saiko-To. 4.36 -1.45 41.93 5.13
+Benzbromarone Anti-gout medication. Inhibitor of CYP2C9. Causes hepatotoxicity. 18.90 0.00 -22.68 -3.46
+Biochanin A A phytoestrogen, has putative benefits in dietary cancer prophylaxis. 0.65 -0.16 -15.50 -2.62
+Bumetanide A loop diuretic. Used in the tratment of heart failure. -4.20 -3.94 -0.77 -1.05
+Celecoxib Analgesic and anti-inflammatory - rheumatoid and osteo-arthrisis. -2.23 -3.16 -2.74 -3.08
+Chlorothiazide Used in the treatment of oedema. -4.76 -5.52 1.06 1.84
+Chloroxine Treatment of amoebiasis, bacterial dysentary and skin infections. 24.14 -2.33 -17.76 -0.66
+Coumarin Perfumes. Used in the treatment of asthma and lymphedema. -5.63 -4.83 -10.76 0.54
+Dehydroacetic acid Fungicide and bactericide. Used in processed fruit and vegetables. -4.20 -2.26 14.24 1.54
+Diclofenac Anti-inflammatory used to treat pain and other afflictions such as gout. 80.39 4.22 -12.20 6.27
+Dicumarol Anticoagulant drug related to warfarin. -5.73 -3.86 -2.02 4.00
+Diflunisal Analgesic, anti-inflammatory and antipyretic. 2.06 -0.67 -13.73 -1.31
+Doxofylline Used in the treatment of asthma, a bronchodilator. -4.44 -3.13 19.88 6.08
+Dyphylline Adenosine antagonist, exhibits strong activity as a bronchodilator. -5.04 -4.85 1.14 -0.45
+Etodolac Analgesic, anti-inflammatory and antipyretic - rheumatoid disorders. -9.30 -3.62 -6.50 -2.40
+Fenoprofen Analgesic and anti-inflammatory - rheumatoid and osteoarthrisis. 3.11 -2.27 -3.58 -2.69
+Floxuridine Antineoplastic agent, inhibits DNA and RNA synthesis. 14.56 10.77 -0.36 -1.63
+Flucytosine Antifungal agent used in the treatment of urinary tract infections. -4.55 -4.29 0.60 0.90
+Flufenamic acid Analgesic and anti-inflammatory. Used in rheumatic disorders. -0.15 -3.49 -5.95 1.75
+Flunixin Anti-inflammatory used by veterinarians. -8.50 -4.50 -14.93 -4.57
+Flurbiprofen Analgesic, anti-inflammatory and antipyretic - rheumatoid disorders. 0.63 -3.66 -5.50 -2.81
+Galangin Flavonol found in galanga root. Growth inhibitor of breast tumor cells. Antiviral, antibacetrial. 15.19 4.20 -15.41 -6.60
+Genistein Phytoestrogen; tyrosine kinase inhibitor. Antioxidant and anthelmintic. -1.68 4.32 38.44 9.32
+Indomethacin Analgesic with anti-inflammatory and antipyretic action. 3.48 5.22 -11.39 -6.85
+Kaempferol Flavone, antioxidant. Possible cancer treatment. 2.04 6.13 -22.02 -10.51
+Ketorolac Analgesic. Inhibits synthesis of prostaglandins. -5.89 -4.21 -8.69 -1.73
+Khellin Vasodilator (asthma treatment). Induces skin pigmentation via UV light. -4.99 -2.83 -5.04 -2.78
+Kojic acid Antibiotic. -3.39 -1.62 -0.80 6.00
+Kabetalol Antihypertensive agent with beta-adrenoreceptor blocking properties. -2.97 0.61 -3.12 -1.79
+Lamivudine Antiviral used in the treamtent of AIDS and hepatitis B. -4.21 -2.65 -2.27 -3.45
+Luteolin Flavone; antioxidant, anti-inflammatory, anti-allergic and anti-cancer. -3.66 3.18 20.31 -4.98
+m-Hydroxybenzoic acid Intermediate for plasticisers, resins, pharmaceuticals etc. -1.43 0.04 -2.12 -1.79
+Mefenamic acid Anti-inflammartory. Relief from pain. Used in rheumatic disorders. -3.19 -3.23 -2.55 25.78
+Meloxicam Analgesic and anti-inflammatory. Inhibits cyclooxygenase. -2.69 -6.02 -6.57 -3.97
+Menadione Nutritional supplement. Treatment of hypoprothrombinemia. -11.55 -4.38 14.33 47.01
+Menadione sodium bisulfite Reduces blood clotting time. Treatment for hyperprothrombinaemia. 21.16 -0.48 20.43 129.16
+Mercaptopurine Antineoplastic agent - treatment of leukaemia. Adenine analog. 17.51 14.14 -3.52 -3.37
+Methaqualone A hypnotic, used to be used for the treatment of insomnia. -2.34 -0.43 -3.60 -2.22
+Methoxamine A pressor agent in hytotensive states. -0.82 -0.87 -2.58 -2.42
+Methoxsalen Increases the formation of melanin following exposure to UV light. -4.63 -3.47 2.58 1.34
+Nalidixic acid Bactericide used in the treatment of urinary-tract infections. -3.77 -4.57 0.42 0.64
+Phenazopyridine Used in pain relief for conditions such as cystitis and urethritis. -2.08 -0.89 -8.57 -0.67
+Phenylephrine Treatment of hypotensive states and the relief of nasal congestion. -5.02 -4.66 -0.84 1.61
+Pipemidic acid Intermediate. A quinolone (synthetic broad-spectrum antibacterial). -4.45 -8.50 -16.15 -14.36
+Piroxicam Analgesic, anti-inflammatory and antipyretic - rheumatoid disorders. -0.93 -3.58 -6.05 -3.79
+Pyrimethamine Antimalarial drug and dihydrofolate reductase inhibitor. -5.40 -5.40 -20.14 -15.35
+Quinethazone Thiazide-like diuretic used to treat hypertension. -3.72 -1.13 -3.02 -2.12
+Rofecoxib Analgesic and anti-inflammatory. Inhibits sysnthesis of prostaglandins. -4.97 -2.23 -4.01 -3.29
+Salsalate Anti-inflammatory, used in the treament of arthritis. -2.42 2.10 1.47 -0.75
+Tenofovir Anti-retroviral, blocks reverse transcriptase. -4.59 -4.34 -2.50 -4.21
+Tenoxicam Anti-inflammatory - treats rheumatoid arthristis, osteoarthristis etc. -1.94 -3.37 -1.85 -1.12
+Tetrahydroxy-1,4-quinone hydrate Systemic keratolytic. 11.20 0.94 33.47 4.02
+Theobromine Vasodilator, diuretic and heart stimulant. 0.41 2.69 -9.49 -10.00
+Triamterene Diuretic used in the treatment of hypertension and edema. 6.14 3.49 -3.82 -3.41
+Trichlormethiazide Antihypertensive. Diuretic used to treat oedema. -1.62 -1.13 -5.31 -2.58
+Trimethoprim Antibacterial. 0.65 -1.29 -4.92 -1.78
+ 40 
+Supplementary Table 4.  IC50 values of the inhibitors tested 
+ 
+ 
+T cell line Inhibitor Conc. 5-OP-RU IC50 ( m M) R2 of IC50 
+Jurkat.MAIT-A-F7 (TRBV6-1) 6-FP 1 nM 71.40 0.97 
+0.1 nM 8.86 1.00 
+0.01 nM ND 
+Ac-6-FP 1 nM 3.91 0.99 
+0.1 nM ND 
+0.01 nM ND 
+3-F-SA 1 nM 90.34 0.98 
+0.1 nM 12.25 1.00 
+0.01 nM ND 
+2-OH-1-NA 1 nM ND 
+0.1 nM 134.00 0.90 
+0.01 nM 26.85 0.87 
+Jurkat.MAIT-#6 (TRBV6-4) 6-FP 1 nM 122.20 0.99 
+0.1 nM 12.86 1.00 
+0.01 nM 0.29 0.98 
+Ac-6-FP 1 nM 0.36 1.00 
+0.1 nM ND 
+0.01 nM ND 
+3-F-SA 1 nM 150.20 1.00 
+0.1 nM 18.01 1.00 
+0.01 nM 8.47 0.98 
+2-OH-1-NA 1 nM ND 
+0.1 nM 106.90 0.98 
+0.01 nM 17.24 0.94 
+Jurkat.MAIT-C-F7 (TRBV20) 6-FP 1 nM 145.80 0.98 
+0.1 nM 13.04 1.00 
+0.01 nM 0.33 0.94 
+Ac-6-FP 1 nM 0.42 0.99 
+0.1 nM ND 
+0.01 nM ND 
+3-F-SA 1 nM ND 
+0.1 nM 12.62 0.98 
+0.01 nM 8.87 1.00 
+2-OH-1-NA 1 nM ND 
+0.1 nM 555.10 1.00 
+0.01 nM 24.01 0.90 
+Bw58.CD3.MAIT-V b 8.2 6-FP 10 m M 101.30 0.98 
+5 m M 166.80 0.99 
+1 m M 93.35 0.89 
+Ac-6-FP 10 m M 31.46 0.98 
+5 m M 17.52 1.00 
+1 m M 13.94 0.94 
+3-F-SA 10 m M 113.50 0.89 
+5 m M 77.66 0.99 
+1 m M 27.02 1.00 
+2-OH-1-NA 10 m M 36.30 1.00 
+5 m M 34.20 1.00 
+1 m M 31.28 1.00 
+ND: Not determined when non-linear regression did not converge or was ambiguous. 
+ 41 
+Supplementary Table 5.  Data collection and refinement statistics 
+ A-F7 TCR: MR1(HMB) A-F7 TCR: MR1(DCF) A-F7 TCR: MR1(2,4-DA-6-
+FP) 
+A-F7 TCR:  
+MR1(2-H-1-NA) 
+A-F7 TCR: MR1(3-F-SA) A-F7 TCR: MR1(5-
+OH-DCF) 
+Data collection        
+Temperature 100K 100K 100K 100K 100K 100K 
+Space group C2 C2 C2 C2 C2 C2 
+Cell dimensions       
+    a, b, c (Å) 216.2, 69.7, 142.4 212.6. 69.5, 142.9 215.3, 69.7, 142.4 216.4, 69.9, 143.1 217.1, 70.5, 143.4 213.1, 69.6, 142.4  )  90, 104.3, 90 90, 103.4, 90 90, 104.0, 90 90 104.4, 90 90.0, 104.8, 90.0 90, 103.7, 90 
+Resolution (Å) 52.37-2.20 (2.24-2.20) 49.0-2.70 (2.78-2.70) 45.35-2.10 (2.14-2.10) 75.15-2.10 (2.14-2.10) 53.97-1.90 (1.93-1.90) 57.87-2.50 (2.56-2.50) 
+Rpim1 4.8 (27.3) 8.1 (50.7) 6.5 (57.8) 5.8 (36.7) 4.5 (38.1) 4.4 (28.8) 
+CC1/2 99.6 (86.0) 98.0 (71.0) 99.5 (59.7) 99.3 (82.1) 99.7 (74.6) 99.6 (87.4) 
+I/1 10.4 (2.3) 6.6 (1.3) 8.0 (1.4) 7.9 (2.1) 11.1 (1.8) 12.3 (2.3) 
+Completeness (%) 99.7 (97.8) 98.6 (99.2) 100.0 (100.0) 99.8 (100) 97.6 (94.2) 98.7 (97.8) 
+Total No.  observations 
+No.  unique observations 
+448364 (19719) 
+104381 (5091) 
+154771 (12941) 
+55489 (4567) 
+524584 (25862) 
+119864 (5891) 
+445269 (22402) 
+120949 (6014) 
+722223 (35045) 
+161424 (7648) 
+273724 (14991) 
+69625 (4403) 
+Multiplicity 4.3 (2.9) 2.8 (2.8) 4.4 (4.4) 3.7 (3.7) 4.5 (4.6) 3.9 (3.4) 
+       
+Refinement statistics       
+Rfactor 2 (%) 18.4 18.8 18.0 17.3 18.1 17.3 
+Rfree 3 (%) 22.8 23.8 22.6 21.9 22.5 23.1 
+No. atoms  Protein  Ligand  Water 
+ 
+12788 
+32 
+1067 
+ 
+12825 
+70 
+172 
+ 
+12816 
+91 
+882 
+ 
+12799 
+60 
+1217 
+ 
+12855 
+37 
+1429 
+ 
+12762 
+42 
+437 
+Ramachandran plot (%)   Most favoured  Allowed region   
+ 
+97.0 
+2.9 
+ 
+97.0 
+2.9 
+ 
+98 
+2 
+ 
+98 
+2 
+ 
+98.0 
+1.9 
+ 
+97.5 
+2.5 
+B-factors (Å2)  Protein   35.1  54.4  40.4  34.4  35.3  45.9 
+rmsd bonds (Å) 0.011 0.004 0.009 0.010 0.008 0.06 
+rmsd angles () 1.27 0.85 1.19 1.22 1.13 0.97 
+ 
+ 
+1 Rp.i.m = hkl [1/(N-1)]1/2  i | Ihkl, i - <Ihkl> | / hkl <Ihkl> 
+2 Rfactor = (  | |Fo| - |Fc| | ) / (  |Fo| )  - for all data except as indicated in footnote 3. 
+3 5% of data was used for the Rfree calculation  
+Values in parentheses refer to the highest resolution bin. 
+ 42 
+Supplementary Table 6: Buried surface area calculations of MR1-Ag:MAIT TCR interaction 
+   Contribution (as % of total BSA)        
+ Total (Å
+2)  -Chain -Chain   CDR1 CDR2 CDR3 -framework CDR1 CDR2 CDR3 -framework 
+A-F7 TCR: MR1(DA-6-FP) 1170.2   52.3 47.7   5.8 10.5 21.9 14.0 1.2 13.1 24.8 8.6 
+A-F7 TCR:MR1(2-OH-1-NA) 1235.6  48.2 51.8  7.3 10.5 19.3 11.1 0.7 12.0 28.8 10.4 
+A-F7 TCR:MR1(HMB) 1143.0  51.2 48.8  7.6 10.9 20.8 11.9 0.9 13.7 23.6 10.7 
+A-F7 TCR:MR1(3-F-SA) 1210.0  48.5 51.5  7.1 10.7 20.1 10.6 0.7 11.8 27.8 11.1 
+A-F7 TCR:MR1(DCF) 1206.5  49.4 50.6  8.3 11.2 18.2 11.8 2.2 12.4 25.9 10.1 
+A-F7 TCR:MR1(5-OH-DCF) 1161.0  48.3 51.7  7.0 11.2 18.5 11.6 4.2 13.5 25.1 8.9 
+  Determined using the CCP4 implementation of AreaiMol               
+ 43 
+Supplementary Table 7. MAIT TCR (A-F7) contacts with MR1(DCF) 
+CDR  TCR  MR1 Bond 
+CDR1 Gly28 Glu160 VDW 
+ Phe29N Glu160O2 H-bond 
+ Phe29 Glu160, Asn155 VDW 
+ Asn30 Trp156, Tyr152, Glu160 VDW 
+    
+CDR2 Val50 Tyr152, Asn155 VDW 
+ Leu51 Leu151, Asn155 VDW 
+    
+CDR2 
+framework 
+Tyr48 His148, Tyr152 VDW 
+ Glu55O1 His148N2 H-bond 
+    
+TCR 
+framework 
+Arg66N1 Asn155O1 H-bond 
+ Arg66 Asn155, Glu159 VDW 
+    
+CDR3 Ser93 Tyr62, Glu160, Trp164 VDW 
+ Asn94O Arg61N H-bond 
+ Asn94O Arg61N2 H-bond 
+ Asn94O Tyr62O H-Bond 
+ Asn94  Arg61, Tyr62, Trp164 VDW 
+ Tyr95O Trp156N1 H-bond 
+ Tyr95 Arg61, Tyr62, Leu65, Tyr152, Trp156 VDW 
+ Asn96 Arg61 VDW 
+ Gln96 Arg61 VDW 
+    
+CDR1 Asn30 Met72 VDW 
+    
+CDR2 Ala50 Gln64 VDW 
+ Ser51 Gly68, Arg67 VDW 
+ Gly53 Arg41 VDW 
+ Thr54O Gln64O1 H-bond 
+ Thr54 Gln64, Arg67 VDW 
+ Thr55 Gln64 VDV 
+    
+CDR2 
+framework 
+Tyr48O Arg61N1 H-bond 
+ Tyr48 Arg61 VDW 
+ Thr55 Gln64 VDW 
+ Asp56 Gln64 VDW 
+    
+CDR3 Trp96 Leu65, Gly68, Trp69, Met72 VDW 
+ Thr97 Arg61, Leu65 VDW 
+ Glu99 Arg9, Trp69, Tyr152 VDW 
+ Glu99 O1 Trp69 N1 H-Bond 
+ Glu99 O2 Arg9N1, Trp69 N1 H-Bond 
+ Gly100 Glu149, Tyr152 VDW 
+ Ser101O2 Glu149 O1, Glu149N H-Bond 
+ Ser101 His148, Glu149 VDW 
+    
+    
+    
+    
+ 44 
+ DCF MR1 Bond 
+ 
+C Tyr7, Ser24, Leu66 VDW 
+ C1 Tyr62, Leu66 VDW 
+ C2 Arg9, Tyr62 VDW 
+ C3 Try62 VDW 
+ C4 Tyr7 VDW 
+ C5 Tyr7 VDW 
+ C6 Tyr7, Trp164 VDW 
+ C7 Leu5, Tyr7, Trp156 VDW 
+ C8 Tyr7, Trp156 VDW 
+ C9 Tyr7 VDW 
+ C10 Tyr62 VDW 
+ C11 Arg9, Tyr62 VDW 
+ C12 Arg9, Trp69 VDW 
+ C13 Arg9, Tyr62 VDW 
+ Cl Tyr7, Tyr62 VDW 
+ Cl1 Tyr7, Arg9 VDW 
+ N Tyr7, Tyr62 VDW 
+ O ArgN, ArgN2 H-bond 
+ O Tyr7, Arg9, Ser24, Leu66 VDW 
+ O1 Ser24O H-Bond 
+ O1 Tyr7, Ser24, Leu66 VDW 
+    
+    
+ DCF TCR Bond 
+ C10 Tyr95 VDW 
+ C11 Glu99, Tyr95 VDW 
+ C12 Glu99 VDW 
+    
+  Atomic contacts determined using the CCP4i implementation of CONTACT and a cutoff of 4Å.   Van der Waals interactions defined as non-hydrogen bond contact distances of 4Å or less.  Hydrogen bond interactions are defined as contact distances of 3.3Å or less.  Salt bridge interactions are defined as contact distances of 4.5Å or less. 
+ 
+ 
+ 
+  
+ 45 
+Supplementary Table 8 
+MAIT TCR (A-F7) contacts with MR1(5-OH-DCF) 
+CDR  TCR  MR1 Bond 
+CDR1 Gly28 Glu160 VDW 
+ Phe29N Glu160O2 H-bond 
+ Phe29O Asn155N2 H-bond 
+ Phe29 Glu160 VDW 
+ Asn30 Tyr152, Trp156, Glu160 VDW 
+    
+CDR2 Val50 Leu151, Tyr152, Asn155 VDW 
+ Leu51 Leu151, Lys154, Asn155 VDW 
+    
+CDR2 
+framework 
+Tyr48 His148, Tyr152 VDW 
+ Glu55O1 His148N2 H-bond 
+ Glu55 His148 VDW 
+    
+TCR 
+framework 
+Arg66N1 Asn155O1 H-bond 
+ Arg66 Asn155, Glu159 VDW 
+    
+CDR3 Ser93O Glu160O1 H-bond 
+ Ser93 Tyr62, Glu160, Trp164 VDW 
+ Asn94O1 Tyr62O H-bond 
+ Asn94O Arg61N H-bond 
+ Asn94  Arg61, Tyr62, Trp164 VDW 
+ Tyr95O Trp156N1 H-bond 
+ Tyr95O Arg61N2 H-bond 
+ Tyr95 Arg61, Tyr62, Tyr152, Trp156 VDW 
+ Gln96 Arg61 VDW 
+    
+CDR2 Ala50 Gln64 VDW 
+ Ser51 Arg67, Gly68 VDW 
+ Gly53 Arg41 VDW 
+ Thr54O1 Gln64O1, Arg67N1 H-bond 
+ Thr54 Gln64, Arg67 VDW 
+    
+CDR2 
+framework 
+Tyr48O Arg61N1 H-bond 
+ Tyr48 Arg61, Gln64 VDW 
+ Thr55 Gln64 VDW 
+ Asp56 Gln64 VDW 
+    
+CDR3 Trp96 Leu65, Gly68, Trp69, Met72 VDW 
+ Thr97 Arg61, Leu65 VDW 
+ Gly98 Leu65 VDW 
+ Glu99O1 Trp69N1 H-bond 
+ Glu99O2 Arg9N2, Trp69N1 H-bond 
+ Glu99 Arg9, Trp69, Tyr152 VDW 
+ Gly100 Glu149, Tyr152 VDW 
+ Ser101N Glu149O2 H-bond 
+ Ser101 His148, Glu149 VDW 
+    
+    
+ 5-OH-DCF MR1 Bond 
+ 46 
+ CL1 Tyr7, Lys43, Tyr62 VDW 
+ C9 Tyr7 VDW 
+ C8 Trp164 VDW 
+ C7 Tyr7, Trp164 VDW 
+ C6 Tyr7, Trp156 VDW 
+ C5 Tyr7, Trp156 VDW 
+ CL Tyr7, Ile96, Trp156 VDW 
+ C4 Tyr7 VDW 
+ N Tyr7 VDW 
+ C3 Tyr62 VDW 
+ C10 Tyr62, Tyr95 VDW 
+ C11 Arg9, Tyr62, Tyr95, Glu99 VDW 
+ C12 Arg9, Tyr62, Glu99 VDW 
+ O2 Trp69N1, Glu99O1, Glu99O2 H-bond 
+ O2 Arg9, Leu65, Trp69, Glu99 VDW 
+ C13 Arg9, Tyr62 VDW 
+ C2 Arg9, Tyr62 VDW 
+ C1 Tyr62, Leu66 VDW 
+ C Tyr7, Ser24, Leu66 VDW 
+ O1 Ser24O H-bond 
+ O1 Tyr7, Ser24, Leu66 VDW 
+ O Arg9N2, Ser24O H-bond 
+ O Tyr7, Arg9, Leu66 VDW 
+    
+    
+ 5-OH-DCF TCR Bond 
+ O2 Glu99O1 O2 H-bonds 
+ O2 Glu99 VDW 
+ C11 Glu99, Tyr95 VDW 
+ C12 Glu99 VDW 
+    
+    
+  Atomic contacts determined using the CCP4i implementation of CONTACT and a cutoff of 4Å.   Van der Waals interactions defined as non-hydrogen bond contact distances of 4Å or less.  Hydrogen bond interactions are defined as contact distances of 3.3Å or less.  Salt bridge interactions are defined as contact distances of 4.5Å or less. 
+ 
+ 
+ 
+ 
+ 

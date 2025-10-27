@@ -1,0 +1,617 @@
+Plant Physiol. (1986) 80, 972-977
+0032-0889/86/80/0972/06/$0 1.00/0
+Purification and Properties of an NADPH-Aldose Reductase
+(Aldehyde Reductase) from Euonymus japonica Leaves
+Received for publication September 30, 1985 and in revised form December 20, 1985
+FAYEK B. NEGM
+Department ofFloriculture and Ornamental Horticulture, Cornell University, 20 Plant Science Building,
+Ithaca, New York 14853-5908
+ABSTRACT
+The enzyme aldose (aldehyde) reductase was partially purified (142-
+fold) and characterized from Euonymus japonica leaves. The reductase,
+a dimer, had an average molecular weight of 67,000 as determined by gel
+filtration on Sephadex G-100. The enzyme was NADPH specific and
+reduced a broad range of substrates including aldoses, aliphatic alde-
+hydes, and aromatic aldehydes. Maximum activity was observed at pH 8
+in phosphate and Tris-HCI buffers and at pH 8.6 to 9.0 in glycine-NaOH
+buffer using DL-glyceraldehyde or 3-pyridinecarboxaldehyde as substrate.
+NADP was a competitive inhibitor with respect to NADPH with a K, of
+60 micromolar. Glycerol was an uncompetitive inhibitor to DL-glyceral-
+dehyde (K', = 460 millimolar). The Euonymus enzyme was inhibited by
+sulfhydryl inhibitor, phenobarbitaL and high concentrations of Li2SO4.
+Pyrzol and metal chelating agents inhibited the enzyme slightly. Enzyme
+activity was detected in the leaves and berries of Celastrus orbiculatus
+and several species of Euonymus. Probable function of this enzyme is to
+reduce D-galactose to galactitol, a characteristic metabolite in phloem
+sap of members of the Celastraceae family.
+The biosynthesis of polyols in higher plants appears to be
+through the reduction of aldose phosphates by NADPH to the
+corresponding polyol phosphates. Three enzymes have been
+characterized: aldose-6-P reductase (EC 1.1.1.200) reduces D-
+glucose-6-P to sorbitol-6-P (16, 20), i-mannose-6-P reductase
+(24) converts D-mannose-6-P to mannitol- 1 -P, and D-ribose-5-P
+reductase (21) which reduces D-ribose-5-P to D-ribitol-5-P.
+In other organisms, there are several possible reactions that
+have been reported for polyol synthesis, e.g. the reduction of
+aldoses or ketoses by either NADH or NADPH, and the reduc-
+tion of aldose phosphates or ketose phosphates by either NADH
+or NADPH (21).
+Several NADPH-linked aldehyde reductases (alcohol: NADP
+oxidoreductase, EC 1.1.1.2) have been isolated from mammalian
+tissues. The broad and overlapping substrate specificities ofthese
+enzymes have resulted in confusing nomenclature (13). These
+enzymes reduce aliphatic aldehydes, aromatic aldehydes, and
+aldo sugars to their alcohol forms. The enzyme aldose reductase
+(EC 1.1.1.21), which is responsible for sorbitol synthesis, falls
+into the general category of aldehyde reductases, but it has a
+higher affinity for aldoses than other aldehyde reductases (8).
+Galactitol (dulcitol) is a characteristic compound of the Celas-
+traceae and a major carbohydrate in the phloem sap of this
+family (3). Despite the fact that several horticultural crops con-
+tain large amounts of galactitol, its metabolism in plants is not
+known. The objective ofthis research is to purify and characterize
+the enzyme responsible for galactitol biosynthesis in Euonymus
+sp. as a first step towards understanding the role of these com-
+pounds in plants.
+MATERIALS AND METHODS
+Chemicals. Most chemicals were purchased from Sigma Chem-
+ical Co. Glyoxal, erythrose, 3-pyridylcarbinol, and butyraldehyde
+were obtained from Aldrich Chemical Co. Protein standards for
+gel filtration (low mol wt) were from Pharmacia, Inc. Bovine y-
+globulin and all electrophoresis reagents were obtained from Bio-
+Rad laboratories. All buffers were adjusted to the desired pH at
+room temperature. NADPH and NADH were dissolved in 1%
+NaHCO3 and made immediately prior to use. NADP was dis-
+solved in glass distilled H20. NADPH and NADP concentrations
+were determined from the molar extinction coefficients of 6.22
+x I03 at 340 nm and 18.0 x 103 cm-' M-1 at 260 nm, respectively.
+Water insoluble chemicals were dissolved in absolute methanol
+and dilutions were made in H20 thereafter. The presence of
+2.5% methanol in the reaction mixture showed no effect on
+enzyme activity.
+Plant Material. Euonymus japonica leaves used for enzyme
+purification were obtained from plants grown in a greenhouse
+under long day conditions. Other Euonymus sp. plants were
+grown outdoors and leaves were collected during the month of
+August and were kept at -65C until they were used.
+Enzyme Purification. All purification steps were conducted in
+a cold room at 2 to 4°C. E. japonica fully expanded mature
+leaves (150 g) were homogenized in 500 ml 0.2 M Tris-HCI buffer
+(pH 8.0), containing 1 mM DTT, 10 mm isoascorbate, and 25 g
+insoluble PVP. PVP was prewetted with buffer for 1 h prior to
+homogenization. Leaves were homogenized first in a Sorval
+Omni-mixer for four 20-s intervals at full speed, followed by
+additional four 20-s intervals at full speed in a Polytron (Brink-
+man) homogenizer. The homogenate was squeezed through six
+layers of cheesecloth and centrifuged at 4,068g for 20 min. The
+supernatant was centrifuged for 30 min at 23,430g and the pellet
+was discarded. To the supernatant, solid (NH4)2SO4 was added
+slowly with continuous stirring to give 40% saturation (24.3
+g/100 ml). Stirring was continued for additional 20 min and the
+precipitate was removed by centrifugation at 23,430g for 30 min.
+The supernatant was made 75% saturation with solid (NH4)2SO4
+(24.5 g/100 ml) as described above and the precipitate (40-75%
+fraction) was collected by centrifugation at 23,430g for 30 min.
+The pellet was dissolved in a minimum volume of 10 mM Tris-
+HCI buffer (pH 7.2) containing 5 mM 2-mercaptoethanol (buffer
+A) and dialyzed overnight against three changes (1 L each) of
+buffer A.
+The dialyzed 40 to 75% fraction was centrifuged at 26,890g
+for 30 min and the pellet was discarded. This fraction was applied
+to a Sephacryl S-200 column (2.5 x 90 cm) and eluted with 50
+mM Tris-HCI buffer (pH 7.2) containing 5 mM 2-mercaptoetha-
+nol and 0.02% NaN3 (buffer B) at a flow rate of 40 ml/h. Active
+972
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1986 American Society of Plant Biologists. All rights reserved.
+ALDOSE (ALDEHYDE) REDUCTASE FROM EUONYMUS LEAVES
+fractions were pooled and concentrated using an Amicon PM-
+10 ultrafiltration membrane (Amicon Corporation).
+The Sephacryl concentrate was applied to a DEAE-Sephacel
+column (2.6 x 50 cm) previously equilibrated with buffer B. The
+column was washed with buffer B until no protein was detected
+in the eluate (by monitoring UV A at 280 nm) and the enzyme
+was eluted with a linear gradient of 0 to 1 M NaCl in buffer B (1
+L each) at a flow rate of 40 ml/h. Active fractions were pooled
+and concentrated as described above.
+The DEAE Sephacel concentrate was applied to a Sephadex
+G-100 column (2.5 x 90 cm) previously equilibrated with 20
+mM Tris-HCI buffer (pH 7.2) containing 5 mM 2-mercaptoetha-
+nol and 0.02% NaN3 (buffer C). The enzyme was eluted with
+buffer C at a flow rate of 17 ml/h and active fractions were
+pooled and concentrated as described above.
+The Sephadex concentrate was applied to a Sigma Reactive
+Red 1 20-Agarose column (1 x 5 cm) which had been equilibrated
+with buffer C. After 1 h at 0 flow, the column was washed with
+buffer C until no protein was detected in the eluate. The enzyme
+was then eluted with 0.35 mM NADPH in buffer C. Active
+fractions were pooled and dialyzed overnight against 1 L of
+buffer A and concentrated as described above. The enzyme was
+stored in small aliquots at -65°C until used for assays. Unless
+otherwise indicated, this fraction was used for all studies reported
+in this paper.
+Protein Determination. Protein concentrations were deter-
+mined according to the method of Bradford (4), using bovine y-
+globulin as a standard.
+Electrophoresis. PAGE was carried out in 7% w/v polyacryl-
+amide gel at pH 8.9 according to Davis (10). Gels were stained
+for protein according to Reisner (23). Gels were stained for the
+reductase activity by incubating the gel first in 0.1 M glycine-
+NaOH buffer (pH 9.5) for 1 h followed by a mixture consisting
+of 0.4 mg/ml NADP, 0.39 mg/ml 3-(4,5-dimethyl-2-thiazolyl)-
+2,5-diphenyl-2H-tetrazolium bromide (MTT), 0.04 mg/ml phen-
+azine methosulfate, and either glycerol, propylene glycol (1,2-
+propanediol), galactitol, or 3-pyridylcarbinol (200 mm final con-
+centration). Gels were kept in the dark at 37°C for 20 to 30 min
+then washed in dH20 and stored in 7% acetic acid.
+Molecular Weight Determination. The reductase mol wt was
+estimated by gel filtration on a Sephadex G-100 column (2.6 x
+45 cm), calibrated with a mixture of known mol wt protein
+standards (Pharmacia Instruction Manual). The column was
+equilibrated and eluted with 50 mm Tris-HCl buffer (pH 7.2)
+containing 0.1 M NaCl at a flow rate of 12 ml/h. The standard
+enzyme assay was used to detect the reductase activity in the
+eluate.
+SDS-PAGE (1 % gel) was performed as described per Sigma
+Technical Bulletin No. MWS-877L.
+Enzyme Assay. Aldose reductase activity was assayed by re-
+cording the decrease of NADPH absorption at 340 nm in a
+Perkin-Elmer model 552 spectrophotometer at 25C. The stand-
+ard assay contained in a total volume of 1 ml: 90 mm sodium
+phosphate buffer (pH 8.0), 110 uM NADPH, enzyme (affinity
+fraction), and 10 mM DL-glyceraldehyde. Unless otherwise spec-
+ified, enzyme was incubated with NADPH for 2.5 min prior to
+addition of substrate to start the reaction. The reference cuvette
+contained all reagents except the substrate.
+One unit of enzyme activity was defined as the amount of
+enzyme catalyzing the oxidation of 1 gmol NADPH/min at
+25°C. Specific activity was expressed as units/mg protein.
+RESULTS AND DISCUSSION
+Enzyme Purification. The results of a typical purification pro-
+cedure are shown in Table I. The reductase was purified 142-
+fold with a 13% yield using DL-glyceraldehyde as the substrate.
+The partially purified enzyme wa stable at -65°C for more than
+1 year. At 1C, the enzyme lost approximately 15% of its activity
+after 2 weeks. The enzyme was retained by affinity material and
+eluted with NADPH suggesting that the protein possesses the
+dinucleotide fold (27).
+When 31 gg of the final preparation was subjected to poly-
+acrylamide disc electrophoresis, a single band of protein was
+visible. This band corresponded to enzyme activity using either
+glycerol, 3-pyridylcarbinol, propylene glycol, or galactitol (Fig.
+1), suggesting that a single enzyme was responsible for the
+reduction of these substrates. To further test the presence of a
+single reductase, DL-glyceraldehyde, D-galactose, and 3-pyridi-
+necarboxaldehyde were used as substrates at each step of the
+purification procedure, and the ratio of these substrate activities
+remained constant (data not shown). In addition, the pH profiles
+for two substrates were identical (Fig. 2). These results indicate
+the presence of a single enzyme with broad substrate specificity
+and is similar to aldose and aldehyde reductases isolated from
+mammalian sources (15, 31). The product ofthe reaction mixture
+using D-galactose as a substrate was identified as galactitol by
+GC and HPLC.
+Effect of pH. The effect of the assay mixture pH on the
+reduction of DL-glyceraldehyde and 3-pyridinecarboxaldehyde
+using three different buffer systems is shown in Figure 2. The
+optimum pH range for both substrates was similar and depended
+on the buffer used in the assay. Maximum activity was observed
+at pH 8 in Na-phosphate and Tris-HCl buffers and at pH 8.6 to
+9.0 in glycine-NaOH buffer. In addition, maximum velocity in
+Tris-HCl buffer was less than that in phosphate or glycine-NaOH
+buffer. Similar responses to the pH of the assay mixture have
+been reported for aldehyde reductase from yeast (Rhodotorula
+sp.) (30) and pig brain (29). The pH optimum for the Euonymus
+enzyme was generally higher than other reductases (5.2 for
+indole-3-acetaldehyde reductase from cucumber (6), 5.6 for fatty
+aldehyde reductase from Brassica oleraceae (18), 7.0 for aldose
+reductase from Vicia faba (19), and 6.5 for several mammalian
+aldose reductases (22)).
+Molecular Weight. The elution volume for the enzyme was
+the same as BSA in Sephadex G-100, mol wt 67,000 (Fig. 3A).
+PAGE (31 gg enzyme protein/gel) in the presence of SDS gave
+one dark band corresponding to a mol wt of 36,000 (Fig. 3B)
+and three lightly stained bands below it (Figure not shown). This
+finding indicates that the aldose (aldehyde) reductase from E.japonica is a dimer. Most of the reported mol wt for aldose or
+aldehyde reductases, a monomer, are in the range of 30,000 to
+40,000 (8, 14, 31). However, aldose reductase isolated from
+Rhodotorula (26) and calf liver (1) had a mol wt of 61,000.
+Substrate Specificity. The Km values for several substrates
+using NADPH as a cofactor are shown in Table II. The enzyme
+was specific for NADPH and no activity was detected with 110
+Mm NADH and 10 mM DL-glyceraldehyde. The enzyme reduced
+a broad range of compounds ranging from aldoses to aliphatic
+and aromatic aldehydes. The Km values for aldoses increased
+with increasing number of carbon atoms. Activities with five-
+carbon aldoses varied, depending on the sugar; D-ribose was
+inactive, whereas L-arabinose had a lower Km value than L-xylose.
+D-Lyxose was slightly active (Table III). D-Glucose was com-
+pletely inactive as a substrate, but D-galactose had a Km value of
+227 mm. Most of the aldose and aldehyde reductases isolated
+from mammalian sources have reacted with D-glucose and D-
+galactose (12, 15, 28). The high Km values for hexoses may be
+caused by the requirement for a free aldehyde group in the
+substrate (15) which would explain the low Km values for DL-
+glyceraldehyde and D-erythrose (Table II).
+The inability of the E. japonica enzyme to reduce D-glucose
+and D-ribose could be explained by the requirement for a free
+aldehyde group in the substrate. Hayman and Kinoshita (15)
+reported that the Km for D-glucose was three times higher than
+973
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1986 American Society of Plant Biologists. All rights reserved.
+Table I. Purification ofAldose (Aldehyde) Reductasefrom E. japonica Leaves
+The enzyme was purified from 150 g leaves. Enzyme was assayed in 90 mM Na-phosphate (pH 8.0), 110 AgM NADPH, and 10mM DL-gyceadehydein a total volume of I ml at 25°C. One unit of activity is defined as the amount ofenzyme that catalyzes the oxidation of I gmol NADPH/min.
+Purification Step Volume Protein Total Specific Total Yield PurificationProtein Activity Activity
+ml mg/ml mg units/mg units % -fold
+Crude extract 558.0 7.18 4006.4 0.037 148.2 100 1.0
+40-75% (NH4)2SO4 48.5 50.59 2453.6 0.041 100.6 67.9 1.1
+Sephacryl S-200 47.2 7.29 344.1 0.067 23.1 15.6 1.8
+DEAE-Sephacel 22.5 3.98 89.6 0.325 29.1 19.6 8.8
+Sephadex G-100 5.8 6.56 38.0 0.540 20.5 13.8 14.6
+Reactive-Red 120-Agarose 3.7 1.02 3.8 5.240 19.8 13.3 141.6
+FIG. 1. Polyacrylamide disc gel electrophoresis of E. japonica aldose
+(aldehyde) reductase. Gels were stained for protein (a), or enzyme activity
+using propylene glycol (b), glycerol (c), galactitol (d), 3-pyridylcarbinol
+(e) for 20 mmn incubation peried, and 3-pyridylcarbinol (f) for less than
+5 min incubation peried.
+the Km, for D-galactose which agreed with the fraction of the sugar
+in the free aldehyde form in solution. Recently, Inagakid et at.
+(17) provided evidence that bovine lens aldose reductase acted
+on the aldehyde formn of D-glucose (Km. = 0.66 gsm) rather than
+the a or the anomers.
+Results obtained with 2-deoxy sugars were notable. While D-
+glucose and D-ribose were inactive as substrates, their deoxy
+derivatives were reactive (Tables II and III). The Km, for 2-deoxy-
+galactose was 20 times less than that of D-galactose. The absence
+of the hydroxyl group at C2 probably removes an unfavorable
+steric interaction with some groups on the enzyme. Conversely,
+the presence of an amino group at C2 caused inactivity (i.e.
+galactosamine). Absence of the OH group at (D-fucose) or
+presence of COO--group (D>galacturonic acid) reduced the re-
+activity of D1-galactose. The Euonymus enzyme was 21% as active
+with L-fucose as with D-fucose, suggesting that the D-form of
+galactose is the preferred substrate.
+Aliphatic aldehydes (C2-C6) were good substrates for the en-
+zyme as compared to aldoses (Table II). The Km. value for these
+aldehydes decreased with increasing chain length. Similar results
+were obtained with rat liver and pig brain aldehyde reductases
+.58
+27
+a.
+E JI
+=5-
+.~~~~~~~~~~~3 ~ ~ ~ ~~~~J
+6 7 8 9 10
+pH
+FIG. 2. Response of E. japonica aldose (aldehyde) reductase to the
+pH of the assay mixture using DL-glyceraldehyde or 3-pyridinecarboxal-
+dehyde as a substrate. Assay mixture (I ml) contained 90 mM buffer, 110
+liM NADPH, affinity fraction, and 10 mM substrate to start the reaction.
+(12, 29). Aromatic aldehydes were the best substrates (highest
+VmaxlKm ratio). Methyl- and phenylglyoxal derivatives showed
+higher activity than glyoxal, but pyridine substitution (i.e. pyri-
+dinecarboxaldehydes) resulted in a lower Km value compared to
+phenylglyoxal.
+Negligible rates were obtained in the reverse reaction with 3-
+pyridylcarbinol, ethanol, ethylene glycol, propylene glycol, L-
+arabitol, and xylitol at pH 9.5 using 90 mM glycine-NaOH and
+NADP (1 mM).
+Phosphorylated sugars (glucose-6-P, galactose-6-P, 2-deoxyglu-
+cose-6-P, ribose-5-P, 2-deoxyribose-5-P) were not active sub-
+strates.
+Product Inhibition. NADP was a competitive inhibitor when
+NADPH was the variable substrate and DL-glyceraldehyde con-
+centration was kept constant at 10 mM. Using the Dixon plot
+(11), the Ki was 60 #M (Fig. 4). Glycerol appeared to be an
+uncompetitive inhibitor of DL-glyceraldehyde (Fig. 5). The Ki'
+value estimated from the Cornish-Bowden plot (7) was 460 mM.
+Studies with aldose and aldehyde reductases from mammalian
+sources showed that NADP was a competitive inhibitor relative
+to NADPH (9, 22, 25). Glycerol was a competitive inhibitor of
+DL-glyceraldehyde in one study (22) and noncompetitive inhibi-
+tor in others (9, 31).
+Effect of Inhibitors. A number of chemicals were incubated
+with Euonymus reductase and NADPH for 5 min prior to
+substrate addition to test their inhibitory effect (Table IV). Pyr-
+azol, a potent inhibitor of NAD-dependent alcohol dehydrogen-
+974 NEGM 1PI-aant PhYsiol. Vol. 80, 1986
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1986 American Society of Plant Biologists. All rights reserved.
+ALDOSE (ALDEHYDE) REDUCTASE FROM EUONYMUS LEAVES
+0.6
+0.5
+co0.4
+0.3
+0.2
+:0
+.0D
+2
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+4.1 4.2 4.3 4.4 4.5 4.6 4.7 4.8
+Log (molecular weight)
+FIG. 3. Mol wt estimation of aldose (aldehyde) reductase from E.
+japonica by gel filtration on Sephadex G-100 (A) and by SDS gel
+electrophoresis (B). The arrow indicates the position of the enzyme in
+reference to standards.
+Table II. Substrate SpecificityforAldose (Aldehyde) Reductasefrom E.
+japonica Leaves
+Km and V,,xwere calculated from Lineweaver-Burk plots using linear
+regression analysis. At least 10 different concentrations per substrate were
+used to generate these values. Reaction mixtures contained in I ml: 90
+mm Na-phosphate (pH 8.0), 110 gM NADPH, affinity fraction, and
+substrate to start the reaction. The Km value for NADPH was determined
+using 10 mM DL-glyceraldehyde as a substrate. Assays were carried out
+at 25°C.
+Substrate Km VmI
+mM units/mg protein
+D-Galactose 227.1 2.28
+2-Deoxygalactose 10.6 5.21
+L-Arabinose 287.2 1.81
+L-Xylose 1174.3 4.78
+2-Deoxyribose 17.5 4.75
+D-Erythrose 28.1 5.41
+DL-Glyceraldehyde 3.4 4.91
+Glycoaldehyde 1.8 12.89
+Glyoxal 18.9 1.81
+Methylglyoxal 3.9 6.57
+Phenylglyoxal 0.68 6.46
+Benzaldehyde 0.295 9.51
+p-Nitrobenzaldehyde 0.003 3.32
+2-Pyridinecarboxaldehyde 0.099 6.71
+3-Pyridinecarboxaldehyde 0.046 5.51
+4-Pyridinecarboxaldehyde 0.004 3.30
+Acetaldehyde 6.3 5.95
+Propionaldehyde 5.6 6.18
+Butyraldehyde 0.444 6.31
+n-Valeraldehyde 0.087 4.21
+Hexanal 0.034 6.42
+NADPH 0.010 3.89
+Table III. Substrate Specificity ofAldose (Aldehyde) Reductasefrom E.
+japonica Leaves
+Reaction mixture contained in I ml: 90 mm Na-phosphate (pH 8.0),
+1 10 Mm NADPH, enzyme (affinity fraction), and substrate to start the
+reaction. Assays were conducted at 25C.
+Substrate Concentration Activity
+mM units/mg
+D-Galactose 50 0.654
+2-Deoxygalactose 50 4.810
+D-Galactosamine 50 0.0
+D-Galacturonic acid 50 0.188
+D-Galactonic acid-'y-lactone 50 0.0
+E-Fucose 50 0.341
+L-Fucose 50 0.073
+D-Glucose 50 0.0
+D-Mannose 50 0.0
+2-Deoxyglucose 50 0.459
+D-Lyxose 50 0.109
+D-Xylose 100 0.38
+D-Xylose 10 0.042
+-Ribose 50 0.0
+Dihydroxyacetone 50 0.073
+Dihydroxyacetone 10 0.022
+DL-Glyceraldehyde 10 5.045
+-0.2 -0.1 0 0.1 0.2 0.3 0.4 0.5
+[NADP} (mM)
+FIG. 4. Product inhibition of E. japonica aldose (aldehyde) reductase
+by NADP (Dixon plot). Assay mixture (I ml) contained 90 mm Na-
+phosphate (pH 8.0), affinity fraction, NADP at the indicated concentra-
+tions, different levels of NADPH, and 10 mM DL-glyceraldehyde to
+initiate the reactions.
+ase, caused slight inhibition. Metal chelating agents such as 2,2'-
+dipyridyl, and 1, l0-phenanthroline at 10 mm caused 35 and 75%
+inhibition, respectively. EDTA at 5 mM caused 8% inhibition.
+On the basis ofthese data, the absence ofa metal ion requirement
+cannot be ruled out.
+Euonymus reductase was inhibited by p-hydroxymercuriben-
+zoate, but iodoacetic acid, iodoacetadamide caused slight inhi-
+bition. These results clearly distinguish the Euonymous enzyme
+from the alcohol dehydrogenase. Alcohol dehydrogenases iso-
+lated from mammalian and plant sources reduce a wide range of
+aldehydes but are completely inhibited by pyrazol and metal
+chelating agents (2, 5). Phenobarbital was a strong inhibitor of
+Euonymus enzyme, similar to mammalian aldehyde reductase
+(12). Lithium sulfate was also inhibitory at 200 mM. However,
+- RibonuleoasA A
+Chymotrypsinogen A
+Ovalbumin
+Albumi
+: I I I I I I I I
+- A-Lactalbumin B
+Trypsin Inhibitor
+Trypsinogen
+Carbonic Anyhdrase
+Glyceraidehyde-3P -
+Dohydrogenase
+-Ov lbumin
+Albumin I
+, _I I I I I I I
+975
+_-
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1986 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 80, 1986
+A 10.0mm
+[DL-Glyceraldehydz3 * 3.3mM
+- O~~~2.5 mM ,
+* 2.0mM
+A
+0 0.2 0.4 0.6 0.8 1.0[Glycerol](M)
+FIG. 5. Product inhibition of E. japonica aldose (aldehyde) reductase
+by glycerol (Cornish-Bowden plot). Assay mixture (I ml) contained 90
+mM Na-phosphate (pH 8.0), 110 Mm NADPH, affinity fraction, glycerol
+at the indicated concentration, and DL-glyceraldehyde at different con-
+centrations were used to initiate the reactions.
+Table IV. Effect ofInhibitors on E. japonica Aldose (Aldehyde)
+Reductase
+Reaction mixture contained in I ml: 90 mm Na-phosphate (pH 8.0),
+110 Mm NADPH, enzyme (affinity fraction), inhibitor, and 10 MM DL-
+glyceraldehyde to start the reaction. Enzyme, NADPH, and inhibitor
+were incubated for 5 min prior to substrate addition. Assays were
+conducted at 25'C.
+Inhibitor Concentration RelativeActivity
+mM %
+None 100
+Pyrazol 1.0 89
+Pyrazol 10.0 79
+Pyrazol 20.0 65
+Hydroxylamine 1.0 88
+Hydroxylamine 5.0 62
+Hydroxylamine 10.0 37
+2,2'-Dipyridyl 1.0 94
+2,2'-Dipyridyl 10.0 65
+1, 1O-Phenanthroline 1.0 76
+1,0O-Phenanthroline 10.0 25
+5,5-Diphenylhydantoin 0.5 97
+5,5-Diphenylhydantoin 1.0 84
+EDTA 5.0 92
+Phenobarbital 1.0 20
+Phenobarbital 10.0 3
+lodoacetamide 5.0 99
+lodoacetamide 10.0 74
+Iodoacetic acid 5.0 95
+lodoacetic acid 10.0 83
+p-Hydroxymercuribenzoate 1.0 0
+N-Ethylmaleimide 5.0 71
+Lithium sulfate 10.0 99
+Lithium sulfate 200.0 56
+activation by 400 mm Li2SO4 has been reported for aldose
+reductase from difference sources (8, 15).
+Distribution of Aldose (Aldehyde) Reductase in the Celastra-
+ceae. Leaves and berries of different species of Euonymus were
+frozen and ground into fine powder in liquid N2. Powders were
+extracted as described under "Materials and Methods" and
+(NH4)2SO4 (40-75%) fractions were used for enzyme assays with
+DL-glyceraldehyde and D-galactose as substrates as described
+previously. Enzyme activity was detected in the following Eu-
+onymus species: E. atropurpurea, E. bungeana, E. europaea
+'Alba,' E. europaea 'Macrocarpa,' E. europaea 'Red Cascade,' E.
+fortunei, E. hamiltoniana var maackii, E. hamiltoniana var
+yedoensis 'Calocarpa,' E. nana var turkestanica, E. obovata, and
+E. verrucosa. The specific activity of the (NH4)2SO4 fraction of
+the above species was between 0.06 to 0.16 units/mg protein
+using DL-glyceraldehyde as a substrate. The (NH4)2SO4 fraction
+ofleaves and berries of several cultivars of E. alata, however, did
+not show activity towards DL-glyceraldehyde or D-galactose even
+though the galactitol content of the leaves reaches 5 to 8% dry
+weight (data not shown). The reductase activity was also detected
+in Celastrus orbiculatus (specific activity of [NH4]2SO4 fraction
+= 0.02 units/mg protein).
+CONCLUSIONS
+The results presented above showed a procedure for isolating
+the enzyme aldose (aldehyde) reductase from Euonymusjaponica
+leaves with a high degree of purity. The enzyme was fairly stable
+at 1°C and can be stored at -65C for more than 1 year.
+Plant aldehyde reductases that were isolated from different
+sources showed a high degree of substrate specificity, e.g. fatty
+aldehyde reductase from Brassica oleracea (18) and indole-3-
+aldehyde reductase from Cucumis sativus (6). Euonymusjapon-
+ica reductase, however, was capable of reducing aldoses and
+aliphatic and aromatic aldehydes. In view of the low reaction
+rate observed with alcohols, it appears that Euonymus enzyme
+functions in aldehyde reduction rather than alcohol oxidation.
+Since the physiological function of this enzyme is probably in
+the synthesis of galactitol from D-galactose, it is appropriate to
+suggest naming this enzyme aldose reductase (Alditol: NADP
+oxidoreductase).
+Acknowledgments-Special thanks are expressed to J. Lardner and Z. Chen for
+their excellent technical assistance.
+LITERATURE CITED
+1. ATTWOOD MA, CC DOUGHTY 1974 Purification and properties of calf liver
+aldose reductase. Biochim Biophys Acta 370: 358-368
+2. BARTLEY IM, SJ HINDLEY 1980 Alcohol dehydrogenase of apple. J Exp Bot
+31: 449-459
+3. BIELESKI RL 1982 Sugar alcohols. In FA Loewus, W Tanner, eds, Plant
+Carbohydrates I. Intracellular Carbohydrates, Encyclopedia of Plant Physi-
+ology New Series, Vol 13A. Springer-Verlag, New York, pp 158-192
+4. BRADFORD MM 1976 A rapid and sensitive method for the quantitation of
+microgram quantities of protein utilizing the principle of protein-dye bind-
+ing. Anal Biochem 72: 248-254
+5. BRANDEN CI, H JORNVALL, H EKLUND, B FURUGREN 1975 Alcohol dehydro-
+genase. In PD Boyer, ed, The Enzymes, Vol XI. Academic Press, New York,
+pp 103-180
+6. BROWN HM, WK PURVES 1976 Isolation and characterization of indole-3-
+acetaldehyde reductases from Cucumis sativus. J Biol Chem 251: 907-913
+7. CORNISH-BOwDEN A 1974 A simple graphical method for determining the
+inhibition constants of mixed, uncompetitive and non-competitive inhibi-
+tors. Biochem J 137: 143-144
+8. CROMLISH JA, TG FLYNN 1983 Purification and characterization oftwo aldose
+reductase isoenzymes from rabbit muscle. J Biol Chem 258: 3416-3424
+9. DAVIDSONWS,TG FLYNN 1979 Kinetics and mechanism ofaction ofaldehyde
+reductasefrom pig kidney. Biochem J 177: 595-601
+10. DAvis BJ 1964 Disc electrophoresis. II. Methods and application to human
+serum proteins. Ann NY Acad Sci 121: 404 427
+1 1. DIXON M 1953 The determination of enzyme inhibitor constants. Biochem J
+55: 171-171
+12. FELSTED R, DR RICHTER, NR BACHUR 1977 Rat liver aldehyde reductase.
+Biochem Pharmacol 26: 1117-1124
+13. FLYNN TG 1982 Aldehyde reductases: monomeric NADPH-dependent oxi-
+doreductases with multifunctional potential. Biochem Pharmacol 31: 2705-
+2712
+14. HALDER AB, MJCRABBE 1984 Bovine lens aldehyde reductase (aldose reduc-
+tase). Purification, kinetics and mechanism. Biochem J219: 33-39
+15. HAYMAN S, JH KINOSHITA 1965 Isolation and properties of lens aldose reduc-
+tase. J Biol Chem 240: 877-882
+16. HIRAI M 1979 Sorbitol-6-phosphate dehydrogenase from loquat fruit. Plant
+976 NEGM
+0 5
+101
+E 4
+0
+-
+-, 3
+/
+CXt~~~:1%Y~~~~
+-0.6 -0.4 -0.2
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1986 American Society of Plant Biologists. All rights reserved.
+ALDOSE (ALDEHYDE) REDUCTASE FROM EUONYMUS LEAVES
+Physiol 63: 715-717
+17. INAGAKI K, I MIWA, J OKUDA 1982 Affinity purification and glucose specificity
+of aldose reductase from bovine lens. Arch Biochem Biophys 216: 337-344
+18. KOLATTUKUDY PE 1971 Enzymatic synthesis of fatty alcohols in Brassica
+oleracea. Arch Biochem Biophys 142: 701-709
+19. KONIGs B, E HEINZ 1974 Investigation of some enzymatic activities contrib-
+uting to the biosynthesis of galactolipids precursors in Vicia faba. Planta
+118: 159-169
+20. NEGM FB, WH LOESCHER 1981 Characterization and partial purification of
+aldose-6-phosphate reductases (alditol-6-phosphate: NADP-l-oxidoreduc-
+tase) from apple leaves. Plant Physiol 67: 139-142
+21. NEGM FB, GC MARLOW 1985 Partial purification and characterization of D-
+ribose-5-phosphate reductase from Adonis vernalis. Plant Physiol 78: 758-
+761
+22. O'BRIEN MM, PJ SCHOFIELD 1980 Polyol-pathway enzymes of human brain.
+Partial purification and properties of aldose reductase and hexonate dehy-
+drogenase. Biochem J 187: 21-30
+23. REISNER AH 1984 Gel protein stains: a rapid procedure. Methods Enzymol
+104: 439-441
+24. RUMPHO ME, GE EDWARDS, WH LOESCHER 1983 A pathway for photosyn-
+thetic carbon flow to mannitol in celery leaves. Plant Physiol 73: 869-873
+25. SHEAFF CM, CC DOUGHTY 1976 Physical and kinetic properties, homogeneous
+bovine lens aldose reductase. J Biol Chem 251: 2696-2702
+26. SHEYsGH, WJ ARNOLD, JA WATSON, JA HAYASHI, CC DOUGHTY 1971 Aldose
+reductase from Rhodotorula. Purification and properties. J Biol Chem 246:
+3824-3827
+27. THOMPSON ST, KH CASS, E STELLWAGEN 1975 Blue dextran-Sepharose: an
+affinity column for dinucleotide fold in protein. Proc Natl Acad Sci USA
+72: 669-672
+28. TULSTANI DR, 0 TOUSTER 1977 Resolution and partial purification of two
+aldehyde reductases of mammalian liver. J Biol Chem 252: 2545-2550
+29. TURNER AJ, KF TIPTON 1972 The purification and properties of an NADPH-
+linked aldehyde reductase from pig brain. Eur J Biochem 30: 361-368
+30. WATSON JA, JA HAYASHI, E SCHUYTEMA, CC DOUGHTY 1969 Identification
+of reduced nicotinamide adenine dinucleotide phosphate-dependent alde-
+hyde reductase in a Rhodotorula strain. J Bacteriol 100: 1 10-1 16
+31. WERMUTH B, H BURGISSER, K BOHREN, JP VON WARTBURG 1982 Purification
+and characterization of human-brain aldose reductase. Eur J Biochem 127:
+279-284
+977
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1986 American Society of Plant Biologists. All rights reserved.

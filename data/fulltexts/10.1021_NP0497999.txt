@@ -1,0 +1,420 @@
+Two Diterpenes and Three Diterpene Glucosides from Phlogacanthus
+curviflorus
+Xiao-Hong Yuan,†,‡ Bo-Gang Li,† Xiu-Yun Zhang,†,‡ Hua-Yi Qi,† Min Zhou,† and Guo-Lin Zhang*,†
+Chengdu Institute of Biology, The Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China, and
+Graduate School of the Chinese Academy of Sciences, Beijing 100039, People’s Republic of China
+Received June 13, 2004
+Two new diterpene lactones, phlogacantholides B (1) and C (2), and three new diterpene lactone glucosides,
+phlogacanthosides A (3), B (4), and C (5), together with lupeol, â-sitosterol, betulin, â-daucosterol, (+)-
+syringaresinol, and (+)-syringaresinol-4-O-â-D-glucopyranoside, were isolated from the roots of Phloga-
+canthus curviflorus. Their structures were elucidated by chemical and spectroscopic evidence. The
+structure, including the relative configuration of phlogacantholide B (1), was confirmed by X-ray
+crystallographic analysis of its diacetate (6).
+Phlogacanthus curviflorus (Wall) Nees (Acanthaceae) is
+a shrub distributed in Yunnan Province of China as well
+as in Vietnam and India.1 Its roots are used for the
+treatment of malaria.2 Several diterpene lactones3,4 and
+their glucosides,5,6 steroids, and triterpenes4 were isolated
+from some species of Phlogacanthus. However, there is no
+report about the chemical investigation on P. curviflorus.
+In this study, five new compounds were isolated from
+the EtOH extract of the roots of P. curviflorus. On the basis
+of chemical and spectroscopic evidence, they were deter-
+mined to be 14â,19-dihydroxyabieta-8,13(15)-dien-16,12-
+olide (phlogacantholide B, 1), 14R,19-dihydroxyabieta-
+8,13(15)-dien-16,12-olide (phlogacantholide C, 2), 14â,19-di-
+hydroxyabieta-8,13(15)-dien-16,12-olide 19-O-â-D-glucopy-
+ranoside (phlogacanthoside A, 3), 19-hydroxy-14-oxoabieta-
+8,13(15)-dien-16,12-olide 19-O-â-D-glucopyranoside (phlo-
+gacanthoside B, 4), and 14â,19-dihydroxyabieta-8,13(15)-
+dien-16,12-olide 19-O-[2-(4-hydroxy-3,5-dimethoxybenzoyl)]-
+â-D-glucopyranoside (phlogacanthoside C, 5) (Figure 1). The
+structure, including the relative configuration of phloga-
+cantholide B (1), was confirmed by X-ray crystallographic
+analysis of its diacetate (6). The known compounds are
+betulin, â-sitosterol, â-daucosterol, lupeol,7 (+)-syringares-
+inol, and (+)-syringaresinol-4-O-â-D-glucopyranoside.8
+Compound 1 was isolated as colorless needles. Its mo-
+lecular formula, C20H28O4, was established from the quasi
+molecular ion peak at m/z 331.1917 [M - H]- in the
+HRESIMS spectrum. The IR absorptions at 1738 and 1678
+cm-1 and the 13C NMR signals at ä175.3, 162.9, and 120.7
+(Table 1) revealed the presence of an R,â-unsaturated ç-lac-
+tone. The 13C NMR spectrum showed 20 signals, of which
+three were for methyls (ä 9.5, 19.4, 27.7) and one for a hy-
+droxymethyl group (ä 64.1), indicating an abietane diterpene
+with an R,â-unsaturated ç-lactone (Table 1). The major
+structure of 1 was elucidated by HMBC and NOESY experi-
+ments (Figure 1). To discriminate the lactonization between
+C-16 and C-12, and between C-16 and C-14, this compound
+was acetylated to give a diacetate (6). The HMBC correla-
+tion observed between H-14 (ä 6.36) and the carbonyl of
+the acetate (C-2′, ä 170.6) in 6, formed from the acetylation
+at the 14-OH in 1, suggested the lactonization in 6 between
+C-16 and C-12. The relative configuration of 1 was deter-
+mined by NOESY experiments (Figure 1), in which H-14
+and H-19 exhibited a NOE with H-20, and H-7R and H-12
+exhibited NOEs with H-14, while H-5 exhibited a NOE
+with H-7â. Thus, the structure of 1 was determined as
+14â,19-dihydroxyabieta-8,13(15)-dien-16,12-olide (phloga-
+cantholide B). X-ray crystallographic analysis of phloga-
+cantholide B diacetate (6) (Figure 2) confirmed the pro-
+posed structure and established the relative configuration.
+Compound 2 was isolated as colorless needles. The same
+molecular formula, C20H28O4, as 1 was observed from the
+quasi molecular ion peak at m/z 331.1912 [M - H]- in the
+HRESIMS spectrum. The IR spectrum and NMR data
+(Table 1) were similar to those of 1 except for differences
+in 1H NMR signals for H-7â, H-12, H-14, and H-17 and
+the 13C NMR signals for C-9 and C-14. The NMR data of
+its acetylated product (7) were also similar to those of 6
+except for differences in 1H NMR signals of H-12, H-14,
+and H-17 and in 13C NMR signals for C-9, C-14, and C-15.
+The 1H NMR signal for H-14 shifted from ä 4.98 in 2 to ä
+6.10 in 7, which indicated that the acetyl group could be
+located at C-14 in 7. Therefore, the lactonization between
+C-16 and C-12 was concluded. This conclusion was sup-
+ported by the HMBC correlation between H-14 and the
+carbonyl of the C-14 acetate (C-2′, ä 170.4) in 7. Thus, 2
+* Corresponding author. Tel/Fax: +86-28-85225401. E-mail: zhanggl@
+cib.ac.cn.
+† Chengdu Institute of Biology, the Chinese Academy of Sciences.
+‡ Graduate School of the Chinese Academy of Sciences.
+86 J. Nat. Prod. 2005, 68, 86-89
+10.1021/np0497999 CCC: $30.25 © 2005 American Chemical Society and American Society of Pharmacognosy
+Published on Web 12/07/2004
+appeared to be a stereoisomer of 1. This assumption was
+further supported by evidence obtained from the NOESY
+cross signal between H-14 and H-7â as well as the
+disappearance of correlations between H-14 and H-12, or
+H-20 (Figure 1). Consequently, the structure of 2 was
+elucidated as 14R,19-dihydroxyabieta-8,13(15)-dien-16,12-
+olide (phlogacantholide C).
+Compound 3 was isolated as colorless needles. Its mo-
+lecular formula was determined to be C26H38O9 on the basis
+of the ion peak at m/z 493.2438 [M - H]- in the HRESIMS
+spectrum. The IR spectrum suggested the presence of hy-
+droxyl groups (3426 cm-1) and an R,â-unsaturated ç-lactone
+(1738, 1683 cm-1). Acid hydrolysis of 3 afforded D-glucose,
+which was detected by TLC and identified by its optical
+rotation. The 1H NMR signal at ä 4.84 (d, 1H, J ) 7.7 Hz)
+suggested a â-D-glucopyranoside. Besides the signals for
+the â-D-glucopyranosyl group, the close similarity of the
+13C NMR data to those of 1 suggested 3 was the glucoside
+of phlogacantholide B. The 13C NMR signal for C-19 shifted
+from ä 64.1 in 1 to ä 74.4 in 3, which indicated that the
+â-D-glucopyranosyl moiety could be located at C-19. Thus,
+3 was elucidated as 14â,19-dihydroxyabieta-8,13(15)-dien-
+16,12-olide 19-O-â-D-glucopyranoside (phlogacanthoside A).
+Compound 4 was isolated as colorless needles. Its mo-
+lecular formula, C26H36O9, was established from the quasi
+molecular ion peak at m/z 491.2272 [M - H]- in the
+HRESIMS spectrum. The IR peaks at 1767, 1756, and 1675
+Figure 1. Important NMR correlations (HMBC: f; NOESY: T;
+1H-1H COSY: <- - ->) of 1, 2, and 5.
+Table 1. 1H NMR (600 MHz) and 13C NMR (150 MHz) Data of 1, 2, 6, and 7 in C5D5Na
+1 2 6 7
+position äH (mult., Hz) äC äH (mult., Hz) äC äH (mult., Hz) äC äH (mult., Hz) äC
+1R 0.74 (m) 36.0 0.95 (m) 37.2 1.11 (m) 35.6 0.86 (m) 35.4
+1â 1.52 (m) 1.62 (m) 1.74 (m) 1.53 (m)
+2R 1.33 (m) 18.7 1.40 (m) 20.0 1.50 (m) 18.4 1.34 (m) 18.5
+2â 1.58 (m) 1.62 (m) 1.61 (m) 1.53 (m)
+3R 0.87 (m) 35.8 0.95 (m) 37.0 1.01 (m) 36.1 0.92 (m) 36.1
+3â 2.10 (m) 2.14 (m) 1.71 (m) 1.67 (m)
+4 39.8 40.3 37.1 37.2
+5 1.14 (d, 12.8) 52.3 1.27 (d, 12.7) 53.3 1.32 (d, 12.9) 52.0 1.10 (d, 12.9) 51.5
+6R 1.58 (m) 19.0 1.62 (m) 20.3 1.52 (m) 18.5 1.44 (m) 18.8
+6â 1.94 (m) 2.00 (m) 1.89 (m) 1.81 (m)
+7R 2.10 (m) 29.5 2.00 (m) 30.1 1.95 (m) 28.4 1.81 (m) 28.5
+7â 2.74 (m) 3.05 (m) 2.05 (m) 2.34 (m)
+8 130.6 130.4 125.7 124.8
+9 137.1 139.6 141.0 142.5
+10 38.3 39.5 38.6 38.4
+11â 1.83 (m) 33.3 1.88 (m) 34.7 1.95 (m) 32.7 1.81 (m) 33.5
+11R 2.85 (m) 2.95 (m) 2.89 (m) 2.95 (m)
+12 4.86 (t, 8.4) 78.2 5.32 (t, 8.0) 77.9 4.73 (t, 8.1) 77.9 5.12 (t, 8.1) 76.4
+13 162.9 163.5 156.2 155.8
+14 5.16 (s) 69.9 4.98 (s) 64.9 6.36 (s) 70.4 6.10 (s) 66.8
+15 120.7 121.6 121.3 124.7
+16 175.3 176.4 174.3 174.5
+17 2.34 (s) 9.5 1.94 (s) 9.8 1.83 (s) 8.7 2.13 (s) 9.3
+18 1.16 (s) 27.7 1.23 (s) 28.9 0.99 (s) 27.4 0.99 (s) 27.2
+19 3.67 (d, 10.8) 64.1 3.67 (d, 10.7) 65.2 3.91 (d, 11.1) 67.1 3.96 (d, 10.8) 66.1
+3.96 (d, 10.7) 3.98 (d, 10.7) 4.19 (d, 11.1) 4.35 (d, 11.0)
+20 1.00 (s) 19.4 0.98 (s) 20.8 1.03 (s) 19.6 0.92 (s) 19.3
+1′b 2.20 (s) 20.8 2.07 (s) 20.7
+2′ b 170.6 170.4
+1′′c 2.05 (s) 21.2 2.05 (s) 20.7
+2′′ c 171.5 170.9
+a The assignments were based on 1H-1H COSY, HSQC, and HMBC experiments. b C atoms in 14-acetate. c C atoms in 19-acetate.
+Figure 2. ORTEP diagram of 6.
+Notes Journal of Natural Products, 2005, Vol. 68, No. 1 87
+cm-1 and the 13C NMR signals at ä 186.5, 174.9, 163.2, and
+131.1 (Table 2) revealed the presence of a carbonyl carbon
+and an R,â-unsaturated ç-lactone. Acid hydrolysis of 4
+afforded D-glucose, which was identified by TLC and by its
+optical rotation. The 1H NMR signal at H-1′ (ä4.84, d, J )
+7.8 Hz) suggested a â-D-glucopyranosyl. The comparison
+of 13C NMR data of 4 and 3 showed that the signal for C-14
+was at ä 186.5 in 4 instead of at ä 71.1 as observed in 3,
+indicating that C-14 in 4 was a carbonyl carbon. Thus, 4
+was elucidated as 19-hydroxy-14-oxoabieta-8,13(15)-dien-
+16,12-olide 19-O-â-D-glucopyranoside (phlogacanthoside B).
+Compound 5 was isolated as a white powder. The quasi
+molecular ion peak at m/z 673.2845 suggested the molec-
+ular formula C35H46O13. The IR spectrum suggested the
+presence of an R,â-unsaturated ç-lactone (1738 cm-1) and
+a phenyl group (1612, 1516, 1464 cm-1). The 1H NMR
+signal at ä 7.75 (2 H, s) and 13C NMR signals at äC 148.4,
+142.5, 120.7, and 108.6 indicated that 5 possessed a
+symmetrical tetrasubstituted phenyl group. From an HMBC
+experiment, this moiety was determined to be the 4-hy-
+droxy-3,5-dimethoxybenzoyl group (Figure 1). Upon com-
+parison of the 1H NMR and 13C NMR data of 5 with those
+of 3 (Table 2) (except the signals for the 4-hydroxy-3,5-
+dimethyoxybenzoyl), the close similarity of the 1H NMR
+and 13C NMR data indicated that 5 was an acylated product
+of 3. From the 1H-1H COSY experiment (Figure 1) the 1H
+NMR signal at ä 5.92 could be assigned to H-2′. The benzoyl
+moiety was located at C-2′ by the HMBC correlation
+between H-2′ (ä 5.92) and C-7′′ (ä 166.0). From the HMBC
+correlations between H-1′and C-19 and between H-19 and
+C-1′, the glucosyl group was assigned to C-19. Compound
+5 was therefore characterized as 14â,19-dihydroxyabieta-
+8,13(15)-dien-16,12-olide 19-O-[2-(4-hydroxy-3,5-dimethox-
+ybenzoyl)]-â-D-glucopyranoside (phlogacanthoside C).
+Experimental Section
+General Experimental Procedures. Melting points were
+determined on an XRC-1 melting point apparatus and are
+uncorrected. Optical rotations were measured on a Perkin-
+Elmer 341 automatic polarimeter. UV and IR spectra were
+measured on a Lambda 35 spectrometer and a Perkin-Elmer
+FT-IR spectrometer (KBr disk), respectively. Mass spectra
+were obtained on a Finnigan-LCQDECA mass spectrometer
+(ESI-MS) and an API Q-STAR Pulsar i mass spectrometer
+(HRESIMS). NMR spectra were recorded on a Bruker Avance
+600 spectrometer with TMS as internal standard. Column
+chromatography (CC) was carried out on silica gel (200-300
+mesh; Qingdao Haiyang Chemical Group Co. of China), and
+column fractions were monitored via thin-layer chromatogra-
+phy (TLC) over silica gel 60H (Qingdao Haiyang Chemical
+Group Co. of China) precoated plates. Resin adsorption chro-
+matography was performed using macroporous resin D101
+(The Chemical Plant of Nankai University, China).
+Plant Material. Roots of P. curviflorus were collected in
+August 1999 at Xishuangbanna, Yunnan Province of China,
+and identified by Prof. Jing-Yun Cui at Xisuanbanna Tropic
+Botanic Garden, the Chinese Academy of Sciences. A voucher
+specimen (No. GF-38) was deposited in the Department for
+Natural Products Research at Chengdu Institute of Biology,
+the Chinese Academy of Sciences.
+Extraction and Isolation. Air-dried and powdered roots
+of P. curviflorus (6.5 kg) were extracted with 95% EtOH (20 L
+ 4, each 7 days) at room temperature. After evaporating the
+Table 2. 1H NMR (600 MHz) and 13C NMR (150 MHz) Data of 3, 4, and 5 in C5D5Na
+3 4 5
+position äH (mult., Hz) äC äH (mult., Hz) äC äH (mult., Hz) äC
+1R 0.83 (m) 37.8 0.91 (m) 37.5 0.65 (m) 35.8
+1â 1.48 (m) 1.65 (m) 1.44 (m)
+2R 1.27 (m) 19.9 1.35 (m) 19.6 1.21 (m) 18.8
+2â 1.58 (m) 1.65 (m) 1.44 (m)
+3R 0.71 (m) 37.0 1.00 (dt, 13.1, 3.4) 36.3 0.81 (m) 37.7
+3â 2.05 (m) 2.44 (d, 12.9) 1.44 (m)
+4 39.4 41.3 37.4
+5 1.08 (d, 12.7) 53.5 1.09 (d, 12.1) 52.5 0.95 (d, 12.3) 52.3
+6R 1.71 (m) 20.3 1.65 (m) 19.7 1.58 (m) 20.2
+6â 1.92 (m) 1.96 (m) 1.87 (m)
+7R 1.92 (m) 30.6 1.91 (m) 29.1 1.55 (m) 29.7
+8 131.9 135.1 131.2
+9 138.0 152.6 136.0
+10 39.2 39.3 38.5
+11â 1.81 (m) 34.4 2.10 (m) 34.3 1.75 (m) 33.2
+11R 2.82 (m) 3.14 (m) 2.79 (m)
+12 4.81 (t, 8.4) 79.9 5.17 (t, 8.4) 80.5 4.80 (t, 8.3) 78.1
+13 164.0 163.2 163.0
+14 5.11 (s) 71.1 186.5 5.01 (s) 69.8
+15 121.8 131.1 120.5
+16 176.4 174.9 175.2
+17 2.32 (s) 10.6 2.24 (s) 11.0 2.21 (s) 9.4
+18 1.16 (s) 29.2 1.18 (s) 26.8 0.99 (s) 28.4
+19 3.64 (d, 9.6) 74.4 3.65 (d, 9.7) 74.5 3.78 (d, 10.1) 75.4
+4.27 (d, 9.7) 4.23 (m) 4.03 (d, 9.8)
+20 1.03 (s) 20.4 1.10 (s) 20.2 1.10 (s) 18.8
+1′ 4.84 (d, 7.7) 106.4 4.84 (d, 7.8) 106.4 5.09 (d, 8.0) 102.6
+2′ 4.04 (m) 76.5 4.04 (m) 76.4 5.92 (t, 8.8) 75.6
+4′ 4.23(m) 72.9 4.23 (m) 73.0 4.34 (t, 9.2) 71.9
+5′ 3.96 (m) 79.5 3.98 (m) 80.0 4.06 (m) 78.9
+6′ 4.56 (d, 11.6) 64.0 4.57 (dd, 11.6, 2.3) 64.0 4.60 (d, 11.8) 62.6
+4.39 (dd, 11.5, 5.2) 4.40 (dd, 11.8, 5.2) 4.41 (dd, 11.8, 5.2)
+1′′ 120.7
+2′′6′′ 7.75 (s) 108.6
+3′′5′′ 148.4
+4′′ 142.5
+7′′ 166.0
+3′′, 5′′OCH3 3.76 (s) 56.3
+a The assignments were based on 1H-1H COSY, HSQC, and HMBC experiments.
+88 Journal of Natural Products, 2005, Vol. 68, No. 1 Notes
+solvents in vacuo at 50 °C, a residue (350 g) was obtained.
+This residue was dissolved in H2O (1 L) and then extracted
+successively with petroleum ether (60-90 °C, 1 L  10), EtOAc
+(1 L  5), and n-BuOH (1 L  4) to afford corresponding
+fractions P (125 g), E (80 g), and B (114 g).
+Fraction E was subjected to silica gel column chromatog-
+raphy (CC) and eluted gradiently with CHCl3-MeOH (60:1
+f 3:1) to give fractions E1-7. Fraction E2 (11.2 g) was
+separated by silica gel CC with petroleum ether (60-90 °C)-
+acetone (10:1) to give three subfractions, from which lupeol
+(1.5 g), â-sitosterol (0.4 g), and betulin (1.8 g) were obtained
+successively by recrystallization from acetone. 1 (0.9 g) was
+obtained from E3 (3.3 g) by recrystallization from MeOH. The
+remnant of E3 (2.3 g) was applied on silica gel CC, eluted with
+CHCl3-acetone (5:1) to afford 2 (27 mg). â-Daucosterol (2.5 g)
+was obtained from E5 (13.1 g) by recrystallization from MeOH.
+E6 (18.7 g) was dissolved in 20 mL of MeOH, and then 20 mL
+of acetone was added to the precipitated white powder (4.9 g),
+which was then further subjected to silica gel CC, via elution
+with CHCl3-MeOH (10:1), to afford 3 (280 mg) and 4 (3.2 g).
+Fraction B was subjected to macroporous resin D101 CC
+eluted with H2O, 70% EtOH, and 95% EtOH to give fractions
+B1-3. Fraction B2 (61 g) was divided into subfractions 1-5
+by silica gel CC, eluted with CHCl3-MeOH (20:1 f 1:1). 1
+(2.5 g) was obtained from subfraction 1 (5.2 g) by recrystalli-
+zation from MeOH, and the remnant (2.6 g) was then subjected
+to silica gel CC eluted with CHCl3-EtOAc-MeOH (20:1:1) to
+afford (+)-syringaresinol (20 mg). 5 (5 mg) was isolated from
+subfraction 2 (11.3 g) by silica gel CC eluted with CHCl3-
+acetone-MeOH (10:1:1). The separation of subfraction 4 (8.7
+g) by silica gel CC eluted with CHCl3-2-propanol-MeOH (10:
+1:1) afforded (+)-syringaresinol-4-O-â-D-glucopyranoside (70
+mg) and 3 (270 mg).
+Diacetylation of 1 and 2. Phlogacantholide B (1, 100 mg),
+C5H5N (1 mL), and Ac2O (2 mL) were stirred at 20 °C for 12
+h, and phlogacantholide B diacetate (6) (120 mg) was obtained
+by evaporation in vacuo. Phlogacantholide C (2, 3 mg), C5H5N
+(0.5 mL), and Ac2O (1 mL) were similarly acetylated to yield
+3 mg of phlogacantholide C diacetate (7).
+X-ray Crystallography of 6. Phlogacantholide B diacetate
+(6, 60 mg) was dissolved in 0.5 mL of acetone. The solution
+was left for a week to give suitable crystals (55 mg). Crystal
+data: C24H32O6; Mr ) 416.50; dimensions 0.58  0.56  0.52
+mm; orthorhombic, space group P212121, a ) 7.806(1) Å, b )
+15.010(3) Å, c ) 18.893(3) Å, R ) â ) ç ) 90°, V ) 2213.7(5)
+Å3, Z ) 4, Dcalc ) 1.250 g/cm3, ì ) 0.71073 Å, í(Mo KR) ) 0.089
+mm-1, F(000) ) 896, T ) 296(2) K. Of the 3371 reflections
+collected, 3035 was unique (Rint ) 0.0064). The structure was
+solved by direct methods with SHELX 9710 and refined by full-
+matrix least-squares on F2. Final refinement: data/restraints/
+parameters ) 3035/0/277; R1 ) 0.0561 (all data), wR2 )
+0.0892 (all data); the Flack absolute structure parameter )
+0(10), and GOF ) 0.879. The H coordinates were determined
+by calculated geometry. The maximum and minimum peaks
+on the final difference Fourier map corresponded to 0.144 and
+-0.129 e-/Å3, respectively. CCDC 235991 contains the supple-
+mentary crystallographic data for this paper. These data can
+be obtained free of charge via www.ccdc.cam.ac.uk, or by
+contacting The Cambridge Crystallographic Data Centre, 12
+Union Road, Cambridge, CB2 1EZ, UK, fax: +44 1223 336033.
+Acid Hydrolysis of 3 and 4. Phlogacanthoside A (3, 20
+mg) was heated with 2 mL of 2.5 mol/L HCl at 70 °C for 3 h.
+After 5 mL of H2O was added and the mixture was extracted
+with EtOAc, the aqueous phase was evaporated in vacuo to
+yield 7 mg of D-glucose, which was detected by TLC and optical
+rotation [R]D
+20 +51.8° (c 0.14, H2O). Phlogacanthoside B (4, 20
+mg) was treated as above to give 7 mg of D-glucose with an
+optical rotation [R]D
+20 +54.1° (c 0.12, H2O).
+Phlogacantholide B (1): colorless needles (MeOH); mp
+211-213 °C; [R]D
+25 -223.6°, [R]578
+25 -237.3°, [R]546
+25 -273.6°,
+[R]436
+25 -493.6°, [R]365
+25 -840.9° (c 0.11, MeOH); Rf ) 0.38
+(CHCl3-acetone, 5:1); UV (MeOH) ìmax (log ) 224 (3.64) nm;
+IR (KBr) îmax 3436, 2930, 1738, 1678, 1086, 1057, 1023, 1013
+cm-1; 1H NMR and 13C NMR data, see Table 1; ESIMS
+(negative mode) m/z 331 [M - H]- (100), 663 [2M - H]- (18);
+HRESIMS (negative ion) m/z 331.1917 (calcd for C20H27O4 [M
+- H]-, 331.1909).
+Phlogacantholide C (2): colorless needles (acetone); mp
+181-183 °C; [R]D
+25 -253.6°, [R]578
+25 -279.1°, [R]546
+25 -321.8°,
+[R]436
+25 -592.7°, [R]365
+25 -1035° (c 0.11, MeOH); Rf ) 0.20
+(CHCl3-acetone, 5:1); UV (MeOH) ìmax (log ) 223 (3.40) nm;
+IR (KBr) îmax 3400, 2926, 1737, 1689, 1637, 1043, 1019 cm-1;
+1H NMR and 13C NMR data, see Table 1; ESIMS (negative
+mode) m/z 331 [M - H]- (100), 663 [2M - H]- (16); HRESIMS
+(negative ion) m/z 331.1912 (calcd for C20H27O4 [M - H]-,
+331.1909).
+Phlogacanthoside A (3): colorless needles (MeOH); mp
+148-149 °C (MeOH); [R]D
+25 -264.7° (c 0.15, MeOH); UV
+(MeOH) ìmax (log ) 222 (4.39) nm; IR (KBr) îmax 3426, 2929,
+1738, 1683, 1647, 1076, 1036, 1017 cm-1; 1H NMR and 13C
+NMR data, see Table 2; ESIMS (negative mode) m/z 493 [M -
+H]- (78), 987 [2M - H] - (100); HRESIMS (negative ion) m/z
+493.2438 (calcd for C26H37O9 [M - H]-, 493.2437).
+Phlogacanthoside B (4): colorless needles (MeOH); mp
+136-137 °C (MeOH); [R]D
+25 -109.4° (c 0.16, MeOH); UV
+(MeOH) ìmax (log ) 288 (4.37), 219 (4.0) nm; IR (KBr) îmax 3401,
+2927, 1767, 1756, 1675, 1640, 1078, 1038, 1016 cm-1; 1H NMR
+and 13C NMR data, see Table 2; ESIMS (negative mode) m/z
+491 [M - H]- (100), 983 [2M - H]- (98); HRESIMS (negative
+ion) m/z 491.2272 (calcd for C26H35O9 [M - H]-, 491.2281).
+Phlogacanthoside C (5): white powder; [R]D
+25 -137.1° (c
+0.14, MeOH); UV (MeOH) ìmax (log ) 218 (4.493) nm; IR (KBr)
+îmax 3436, 2929, 2850, 1738, 1612, 1516, 1464, 1424, 1337,
+1224, 1117, 1076, 1028, 1018, 990, 761 cm-1; 1H NMR and 13C
+NMR data, see Table 2; ESIMS (negative mode) m/z 673 [M -
+H]- (100); HRESIMS (negative ion) m/z 673.2845 (calcd for
+C35H45O13 [M - H]-, 673.2860).
+Phlogacantholide B diacetate (6): colorless needles
+(acetone); mp 181-182 °C; [R]D
+25 -210.7° (c 0.15, MeOH); UV
+(MeOH) ìmax (log ) 220 (4.31) nm; IR (KBr) îmax 2930, 1756,
+1725, 1692, 1252, 1227, 1067, 1028 cm-1; 1H NMR and 13C
+NMR data, see Table 1; ESIMS (positive mode) m/z 417 [M +
+H]+ (90), 439 [M + Na]+ (31), 455 [M + K]+ (11).
+Phlogacantholide C diacetate (7): white powder; [R]D
+25
+-151.3° (c 0.08, MeOH); UV (MeOH) ìmax (log ) 217 (3.88)
+nm; IR (KBr) îmax 3436, 2924, 2869, 2852, 1771, 1746, 1631,
+1371, 1245, 1226, 1029 cm-1; 1H NMR and 13C NMR data, see
+Table 1; ESIMS m/z (negative mode) 415 [M - H]- (32).
+Acknowledgment. This work was financially supported
+by Di-Ao Pharmaceutical Company. The authors are grateful
+to Mr. J. Gu at Chengdu Institute of Biology of the Chinese
+Academy of Sciences for collecting plant material.
+Supporting Information Available: This material is available
+free of charge via the Internet at http://pubs.acs.org.
+References and Notes
+(1) A Dictionary of the families and genera of Chinese seed plant (second
+edition); Foon-chew, H., Ed.; Science Press: Beijing, 1998; p 372.
+(2) Zhong Hua Yao Hai; Ran, X. D., Ed.; Haerbin Press: Heilongjiang,
+1993; p 407.
+(3) Barua, A. K.; Cowdhury, M. K.; Biswas, S.; Gupta, C. D.; Banerjee,
+S. K.; Saha, S. K.; Patra, A.; Mitra, A. K. Phytochemistry 1985, 24,
+2037-2039.
+(4) Yadav, R. D.; Kataky, J. C. S.; Mathur, R. K. Indian J. Chem. 1998,
+37B, 1214-1216.
+(5) Barua, A. K.; Biswas, S.; Patra, A.; Basu K.; Panda, S. K.; Ghosh, A.
+Phytochemistry 1987, 26, 491-492.
+(6) Yadav, R. D.; Kataky, J. C. S.; Mathur, R. K. Indian J. Chem. 1999,
+38B, 248-250.
+(7) Wenkert, E.; Baddeley, G. V.; Burfitt, T. R.; Moreno, L. N. Org. Magn.
+Res. 1978, 11, 337-345.
+(8) Abe, F.; Yamauchi, T. Phytochemistry 1988, 27, 575-577.
+(9) Uemura, D.; Hirata, Y. Tetrahedron Lett. 1972, 15, 1387-1390.
+(10) Sheldrick, G. M. SHELXS-97: Manual of Program for the Refinement
+of Crystal Structures; University of Go¨ttingen: Go¨ttingen, Germany,
+1997.
+NP0497999
+Notes Journal of Natural Products, 2005, Vol. 68, No. 1 89

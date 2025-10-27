@@ -1,0 +1,591 @@
+RESEARCH ARTICLE Open Access
+4b-Hydroxywithanolide E from Physalis peruviana
+(golden berry) inhibits growth of human lung
+cancer cells through DNA damage, apoptosis and
+G2/M arrest
+Ching-Yu Yen
+1,2†, Chien-Chih Chiu
+3,15†, Fang-Rong Chang
+4,15, Jeff Yi-Fu Chen
+3, Chi-Ching Hwang
+5,
+You-Cheng Hseu
+6, Hsin-Ling Yang
+7, Alan Yueh-Luen Lee
+3,15, Ming-Tz Tsai
+14, Zong-Lun Guo
+3, Yu-Shan Cheng
+14,
+Yin-Chang Liu
+8,9, Yu-Hsuan Lan
+10, Yu-Ching Chang
+11, Ying-Chin Ko
+12,13,15, Hsueh-Wei Chang
+4,14,15*,
+Yang-Chang Wu
+4,15*
+Abstract
+Background: The crude extract of the fruit bearing plant, Physalis peruviana (golden berry), demonstrated anti-
+hepatoma and anti-inflammatory activities. However, the cellular mechanism involved in this process is still unknown.
+Methods: Herein, we isolated the main pure compound, 4b-Hydroxywithanolide (4bHWE) derived from golden
+berries, and investigated its antiproliferative effect on a human lung cancer cell line (H1299) using survival, cell
+cycle, and apoptosis analyses. An alkaline comet-nuclear extract (NE) assay was used to evaluate the DNA damage
+due to the drug.
+Results: It was shown that DNA damage was significantly induced by 1, 5, and 10 μg/mL 4bHWE for 2 h in a
+dose-dependent manner (p < 0.005). A trypan blue exclusion assay showed that the proliferation of cells was
+inhibited by 4bHWE in both dose- and time-dependent manners (p < 0.05 and 0.001 for 24 and 48 h, respectively).
+The half maximal inhibitory concentrations (IC50)o f4 bHWE in H1299 cells for 24 and 48 h were 0.6 and 0.71 μg/
+mL, respectively, suggesting it could be a potential therapeutic agent against lung cancer. In a flow cytometric
+analysis, 4bHWE produced cell cycle perturbation in the form of sub-G1 accumulation and slight arrest at the G2/M
+phase with 1 μg/mL for 12 and 24 h, respectively. Using flow cytometric and annexin V/propidium iodide
+immunofluorescence double-staining techniques, these phenomena were proven to be apoptosis and complete
+G2/M arrest for H1299 cells treated with 5 μg/mL for 24 h.
+Conclusions: In this study, we demonstrated that golden berry-derived 4bHWE is a potential DNA-damaging and
+chemotherapeutic agent against lung cancer.
+Background
+Lung cancer is a leading cause of cancer death in the US
+[1] and other countries. Many therapies for lung cancer
+such as radiotherapy [2], docetaxel [3], the combination
+of carboplatin and paclitaxel [4], and others were devel-
+oped; however, drug development for lung cancer is still
+challenging.
+Dietary chemoprevention using fruits and foods [5-7]
+as a practical, economical, and effective approach in
+reducing the risk of many cancers was reviewed [8-11].
+Protection against lung cancer by a higher dietary intake
+of fruits and vegetables was reported in several epide-
+miological studies [12-15].
+Physalis peruviana (golden berry) is a member of the
+Solanaceae, an edible plant family. The fruit tastes like a
+sweet tomato and includes high levels of vitamin C, vita-
+min A, and the vitamin B-complex. The fruit was
+demonstrated to have both anti-inflammatory and
+* Correspondence: changhw@kmu.edu.tw; yachwu@kmu.edu.tw
+† Contributed equally
+4Graduate Institute of Natural Products, College of Pharmacy, Kaohsiung
+Medical University, Kaohsiung, Taiwan
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+© 2010 Yen et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.antioxidant properties [16-18]. Moreover, P. peruviana
+extracts were reported to have anti-hepatoma activity
+due to the induction of apoptosis in a human hepatocel-
+lular carcinoma (Hep G2) cell line [19].
+Recently, various cytotoxic withanolides (tubocapseno-
+lide A, tubocapsanolide A, 20-hydroxytubocapsanolide
+A, 23-hydroxytubocapsanolide A, tubocapsanolide F,
+and anomanolide B) were isolated from Tubocapsicum
+anomalum and reported to be effective against liver,
+lung, and breast cancer cell lines [20]. Similarly, many
+pure compounds such as a series of C28 steroidal lac-
+tones, physalins, and withanolides, were extracted from
+P. peruviana [21-23]; however, the bioactive compounds
+with anticancer activities [19] are still unclear. This
+raised the possibility that some withanolides from P.
+peruviana are capable of anticancer activity.
+On the basis of the description of active extracts from
+P. peruviana, this plant was chosen as the basis for our
+investigations. Using a bioactivity-guided fractionation
+method, we isolated the major active compound,
+4bHWE Although this was first isolated from P. peruvi-
+ana by other researchers a long time ago [21], its possi-
+ble cytotoxic role and mechanisms of action have not
+been addressed. Accordingly, we proposed a hypothesis
+that 4bHWE is one of the main potential anticancer
+candidates in P. peruviana. To test this hypothesis, we
+used golden berry-derived 4bHWE to investigate the
+anticancer potential against human lung carcinoma
+H1299 cells using a new toxicological technique.
+Methods
+Plant material
+The plant material (10.8 kg) was collected at the Tainan
+District Agricultural Research and Extension Station,
+Taiwan, in April 2005. Before the extraction process, we
+deposited the original plant as a voucher specimen
+(standard) in the Graduate Institute of Natural Products
+(Kaohsiung Medical University, Kaohsiung, Taiwan) to
+ensure adequate collection data.
+Extraction and isolation
+The aerial parts (stems and leaves) of P. peruviana (10.8
+kg) were extracted three times with EtOH at room tem-
+perature to obtain a crude extract. The crude extract
+was partitioned with EtOAc and H2O (1:1, v/v) to give
+an EtOAc layer which was then partitioned with n-hex-
+ane, MeOH, and H2O (10:7:3, v/v/v) to give an MeOH/
+H2O layer (65.2 g). The MeOH/H2O layer extract was
+chromatographed over a silica gel column, using polarity
+gradient mixtures of n-hexane-EtOAc-MeOH (1:0:0, 1
+L), (40:1:0, 2 L), (20:1:0, 2 L), (10:1:0, 2 L), (1:1:0, 2 L),
+(0:1:0, 3 L), (0:40:1, 2 L), (0:30:1, 2 L), (0:20:1, 2 L),
+(0:10:1, 1 L), and (0:0:1, 1 L) as eluants, and this yielded
+24 fractions. The volume for each fraction was 500 ml.
+Fraction 15 (9154.4 mg) was subjected to Sephadex LH-
+20 (EtOAc:MeOH 1:4), and the subfraction (fr. 15-3-7)
+contained crystals which were acetone-washed to pro-
+vide the main pure compound.
+Cell cultures
+Cells were routinely cultured in 1× RPMI-1640 medium
+(Gibco, Grand Island, NY) supplemented with 10% fetal
+bovine serum (FBS), 100 U/mL penicillin, 100 μg/mL
+streptomycin, and 0.03% glutamine. All cells were kept
+at 37°C in a humidified atmosphere containing 5% CO2.
+A H1299 (human lung adenocarcinoma) cell line was
+used to test the cytotoxicity against lung cancer; an
+HGF-1 (human normal gingival fibroblast) [24] cell line
+was used as the normal control; and an NB4 (human
+acute promyelocytic leukemia) cell line was the nuclear
+extract (NE) resource for the comet-NE assay described
+below.
+Comet-NE assay
+The protocol for the comet-NE assay was as described
+previously [25,26]. In brief, NEs were prepared using
+NB4 cells as described before [7,25,26]. The 100 μl ali-
+q u o t so fH 1 2 9 9c e l ls u s p e n s i o n s( 1 × 1 0
+6 cells/ml in
+phosphate-buffered saline; PBS) were mixed with equal
+volumes of 1.2% low-melting-point agarose (in PBS, pH
+7.4) and immediately pipetted onto a slide precoated
+with 1.2% regular agarose (in distilled water), and the
+slide was placed on ice to solidify the gel. The third
+layer (100 μl of 1.2% low-melting agarose gel) was
+coated onto the solidified second gel, and then the slide
+was placed on ice to solidify the gel. The slides were
+immersed in freshly made ice-cold cell lysis solution (2.5
+M NaCl, 100 mM EDTA, 10 mM Tris (pH 10), 1% N-
+laurylsarcosine, 1% Triton X-100, and 10% dimethyl
+sulfoxide (DMSO), stored at 4°C for 2 h, and rinsed
+with deionized water three times. A 20 μle x c i s i o nm i x -
+ture containing 0.6 μg NE, 50 mM Hepes-KOH (pH
+7.9), 70 mM KCl, 5 mM MgCl2,0 . 4m ME D T A ,2m M
+ATP, 40 mM phosphocreatine, and 2.5 mM creatine
+phosphokinase was added to each slide for NE digestion.
+A coverslip was applied, and the slides were then incu-
+bated at 37°C for 2 h in a humidified space. The slides
+were denatured in 0.3 N NaOH and 1 mM EDTA for
+20 min followed by electrophoresis at 20 V and 300 mA
+for 25 min. After being washed with deionized water,
+the slides were transferred to 0.4 M Tris-HCl (pH 7.5).
+Then 40 μl propidium iodide (PI, 50 μg/mL) was added.
+For fluorescence microscopy (TE2000-U; Nikon, Tokyo,
+Japan), the migration of DNA from the nucleus of each
+cell was measured with a computer program http://tri-
+tekcorp.com using the parameter of the percent of tail
+DNA [27,28] which was the percentage of DNA in the
+comet tail (sum of the intensities of pixels in the tail).
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 2 of 8Proliferative inhibition test
+The proliferation of cells was determined by a Trypan
+blue dye exclusion assay as described [7,29]. In brief,
+cells were treated with the vehicle control (DMSO) or
+different doses of 4bHWE in media for 24 h. After incu-
+bation, cells exposed to 0.2% Trypan blue were counted
+in a hemocytometer, and cells stained with Trypan blue
+were excluded. The proliferation rate was calculated
+according to the percentage of drug-treated cells over
+vehicle-treated cells. The assay was done in triplicate,
+and the IC50 value was calculated by the slope and
+intercept according to two concentrations of 4bHWE
+between the half-maximal proliferative inhibitory
+concentrations.
+Flow cytometric determination of the cell cycle histogram
+by PI staining
+The cell cycle histogram was determined as described
+before [29]. In brief, 1 × 10
+6 cells per 100-mm Petri-
+dish (at 70%~80% confluency) were treated with the
+vehicle or 1 μg/mL of 4bHWE for 12 and 24 h. After
+treatment, cells were collected, washed twice with PBS,
+and fixed in 70% ethanol overnight. After centrifugation
+at 700 rpm for 5 min at 4°C, the cell pellet was stained
+with 10 μg/mL PI (Sigma, St. Louis, MO) and 10 μg/mL
+RNase A in PBS for 15 min at room temperature in the
+dark. The analyses were performed with a FACScan
+flow cytometer (Becton-Dickinson, Mansfield, MA) and
+Cell-Quest and Modfit software (Becton-Dickinson).
+Assessment of apoptosis
+The accumulation of a sub-G1 population of H1299 cells
+was determined by flow cytometry as described above.
+To further confirm apoptosis in 4bHWE-induced H1299
+cells, annexin V and PI double-staining (Pharmingen,
+San Diego, CA) was performed as described before [30].
+In brief, 1 × 10
+6 cells per 100-mm Petri-dish (at 70%
+~80% confluency) were treated with vehicle or 51 μg/
+mL of 4bHWE for 24 h. Subsequently, cells were labeled
+with annexin V-FITC (10 μg/mL)/PI (10 μg/mL); stained
+slides were mounted, and analyzed using an inverted
+fluorescence microscope (TE2000-U; Nikon). Alterna-
+tively, the apoptotic ability of treated cells was analyzed
+using a flow cytometric analysis as described before [31].
+Statistical analysis
+All data are presented as the mean ± SD; Student’s t-test
+was used to test the mean difference between the two
+groups.
+Results
+The main pure compound from P. peruviana
+The main pure compound isolated from P. peruviana
+was 4bHWE according to the extraction method listed
+in “Materials and Methods”.A c c o r d i n g l y ,t h et o t a lc o l -
+lected plant extract was 10.8 kg, and the yield of
+4bHWE was 866.5 mg. The chemical structure of
+4bHWE is shown in Figure 1.
+DNA damage determined by the comet assay
+In the comet assay for the H1299 cell line, no “tail” was
+found in the untreated control (DMSO alone) while the
+“tail” grew after 4bHWE treatment (1, 5, and 10 μg/mL,
+2 h) (Figure 2A). Figure 2B shows that values of the
+average percent tail DNA for the NE buffer control,
+DMSO control (0.1%), and 4bHWE treatment (1, 5, and
+10 μg/mL, 2 h) were 3.75% ± 2.04%
+a,3 . 6 6 %±2 . 8 3 %
+a,
+47.89% ± 11.31%
+b, 62.10% ± 11.78%
+c, and 67.38% ±
+11.58%
+d, respectively (p < 0.05 between different super-
+script letters). Accordingly, the DNA damage by
+4bHWE had a significant dose-dependent effect. These
+results suggested that DNA damage was involved in the
+antiproliferation of 4bHWE towards lung cancer cells.
+Proliferative inhibition test
+Figure 3 shows that the IC50 values of the 4bHWE-trea-
+ted H1299 cell line for 24 and 48 h were 0.6 and 0.71
+μg/mL, respectively. Growth inhibition of H1299 cells
+by 4bHWE occurred in a dose-responsive and time-
+dependent manner (p < 0.05 and 0.001 for 24 and 48 h,
+respectively).
+Assessment of cell cycle arrest and apoptosis
+Figure 4A shows the cell cycle distribution of cells trea-
+ted with the vehicle or 1 μg/mL of 4bHWE for 12 and
+24 h; Figure 4B shows their sub-G1,G 1,S ,a n dG 2/M
+Figure 1 Chemical structure of 4b-hydroxywithanolide E
+(4bHWE).
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 3 of 8percentages after drug treatment. It was found that the
+sub-G1 percentages were 3.5% ± 0.7%, 3.8% ± 0.5%, and
+8.1% ± 0.8% (n = 3) for the vehicle, and 12 and 24 h of
+treatment with 4bHWE, respectively. G1 percentages
+were dramatically reduced from 69.1% ± 3.3% (vehicle)
+to 48.5% ± 3.6% and 43.7% ± 5.4% (n =3 )w i t h1 2a n d
+24 h of 4bHWE treatment, respectively. G2/M percen-
+tages were 18.6% ± 3.1%, 34.8% ± 1.9%, and 37.8% ±
+0.3% (n = 3) for the vehicle or 12 and 24 h of 4bHWE
+treatment, respectively. Accordingly, moderate sub-G1
+accumulation and G2/M arrest were found in a time-
+dependent manner for the 4bHWE-treated H1299 cell
+line. All significant differences between the vehicle and
+drug treatment are shown in Figure 4.
+As shown in Figure 4, cell cycle arrest was not com-
+plete, and only moderate accumulation at the sub-G1
+phase occurred. To perform a confirmatory study, we
+enhanced the dosage of 4bHWE to validate the cell
+cycle disturbance (Figure 5A) and apoptotic cell death
+(Figure 5B). Figure 5A shows that G2/M arrest was com-
+plete with a higher dose of 5 μg/mL of 4bHWE treat-
+ment for 24 h. Meanwhile, percentages of cells with a
+Figure 2 Comet-NE assay of 4bHWE in H1299 cells. (A) PI staining for cell controls (DMSO) and 4bHWE-treated cells (1, 5, and 10 μg/mL, 2 h).
+The circular spots in pink were nuclei; the tails indicated the DNA damage. (B) Average of % tail DNA for 4bHWE-treated cells.
+Figure 3 Proliferative inhibition of 4bHWE on H1299 cells. Cells were incubated with concentrations of 4bHWE (from 0, 1, 5, and 10 μg/mL)
+for 24 and 48 h. The proliferation inhibition was determined by Trypan blue assay. The data was mean ± SD, n = 3. The asterisks indicated the
+statistical significance between drug treatment for 24 h and 48 h at the same concentration according to the Student t test (P < 0.05* and
+0.001**, respectively).
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 4 of 8sub-G1 DNA content for the vehicle- and 4bHWE-trea-
+ted H1299 cell line were 2.5% and 30.2%, respectively,
+suggesting that sub-G1 accumulation was dose-depen-
+dent compared to that of Figure 4 (8.1% with drug treat-
+ment for 24 h).
+Sub-G1 accumulation was further confirmed as being
+due to apoptosis using annexin V/PI double-staining
+(Figure 5B); i.e., annexin V-positive signals for drug and
+vehicle treatments were 27.0% ± 4.3% and 8.1% ± 2.5%,
+respectively. PI staining showed that apoptotic nuclei
+increased in drug-treated cells (Figure 5D) compared to
+the vehicle (Figure 5C). Annexin V staining showed
+strong FITC fluorescence in drug-treated cells (Figure
+5F) compared to the vehicle (Figure 5E).
+Discussion
+Selective activation of apoptosis is often cited as one of
+the major goals of cancer chemotherapy. It is currently
+t h o u g h tt h a td y s r e g u l a t e dc ell cycle proliferation and
+apoptosis are important factors in the development of
+cancer [32]. Therefore, it appears that exploiting the
+apoptotic potential of cancer cells might lead to new
+therapies that could be less toxic to normal cells due to
+the physiologically controlled survival pathway [33].
+The ethanol extract of P. peruviana was reported to
+possess the lowest IC50 value against Hep G2 cells but
+had no cytotoxic effect on normal BALB/C mouse liver
+cells [19]; however, because these two cell lines are
+derived from different species, they are unable to pro-
+vide strong evidence that the extract is a potential che-
+motherapeutic agent for lung cancer. Using cell lines of
+the same species, we found that the IC50 of 4bHWE at
+24 h was 3.75 μg/mL for the HGF-1 (human normal
+gingival fibroblast) [24] cell line (data not shown) which
+was higher than the IC50 of the H1299 human lung can-
+cer cell line (at 0.71 μg/mL; Figure 3). These results
+showed that H1299 cancer cells, but not a normal cell
+line, were sensitive to 4bHWE. However, we cannot
+exclude the possibility that there are tissue-specific dif-
+ferences between gingival and lung cells. Therefore,
+further in vitro cell cytotoxicity studies using a normal
+lung cell line, additional different lung cancer cell lines,
+and an in vivo nude mice study are necessary to prove
+that 4bHWE can inhibit tumor growth without major
+side effects.
+Genomic lesions due to activation of the DNA damage
+response were detected, which then determined the cell
+fate, i.e., either cycle arrest or apoptosis (Figures 3, 4).
+However, both cell cycle interruption and apoptosis ana-
+lyses are time-consuming and cannot be completed
+within a short time, e.g., at least 12~24 h of drug treat-
+ment is required. In contrast, the comet-NE assay was
+Figure 4 4bHWE accumulated G2/M phase in H129 cells. (A) The cell cycle distribution for 4bHWE (1 μg/mL for 12 and 24 h) treated H1299
+cells and untreated controls. (B) The percentages of the cell cycle phase. The data was mean ± SD, n = 3. Different letter notations indicated
+the statistical significance between drug treatment and vehicle (P < 0.002).
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 5 of 8very sensitive to DNA strand breaks and can rapidly be
+performed [34], making it possible to determine the
+extent of DNA damage within only 2 h [26]. Moreover,
+to confirm the comet assay results, we enhanced the
+dosage of 4bHWE according to the IC50 value; the
+results of treatment with the IC50 and other higher con-
+centrations were similar, and exhibited a dose-respon-
+sive effect.
+At high concentrations, the ethanol extract of P. per-
+uviana induced cell cycle arrest, dose-dependent accu-
+mulation of the sub-G1 peak, and apoptosis through
+mitochondrial dysfunction [19]. In this study, the main
+pure compound, 4bHWE from P. peruviana,w a su s e d
+to treat the H1299 lung cancer cell line. The results
+showed that cell cycle arrest at the G2/M phase (Figures
+4, 5A), dose-dependent accumulation of a sub-G1 peak
+(Figure 4), and apoptosis were found in drug-treated
+cells (Figure 5). Furthermore, we found that cell cycle
+arrest at the G2/M phase was mediated by the ATM-
+NBS1 pathway which was activated by double strand
+breaks (data not shown).
+The conventional alkaline comet assay is sensitive to
+DNA strand breaks, but is not sensitive to DNA lesions
+without strand breaks. In contrast, the NE in the comet-
+NE assay theoretically contains all of the repair enzymes
+and increases the incision of most kinds of DNA
+damage. Therefore, the comet-NE assay [34-36] is gen-
+erally more sensitive than the traditional comet assay.
+However, different NEs from different cell lines may dis-
+play differential excision activities for different types of
+DNA adducts. For example, the NE of NTUB1 cells is
+sensitive to ultraviolet C-induced DNA damage but is
+less sensitive to methyl methanesulfonate (MMS) than
+the NE of BFTC905 cells [34]. Another problem with
+the comet-NE assay is that details of the types of lesions
+caused by the DNA damaging agent are not available.
+To resolve this problem, lesion-specific enzymes [28]
+can be used to replace the NE which may provide a
+more-specific and -sensitive way to detect DNA damage.
+Alternatively, immunodepletion coupled with the
+comet-NE assay might reveal the specific type of DNA
+damage [35].
+Conclusions
+We demonstrated herein that golden berry-derived
+4bHWE had a strong inhibitory effect on the growth of
+H1299 lung carcinoma cells. This study demonstrated
+that the DNA damage caused by 4bHWE is the result of
+Figure 5 4bHWE-induced apoptosis in H1299 cells. Cells were administered with or without 5 μg/mL of 4bHWE for 24 h. (A) The
+determination of sub-G1 DNA content in H1299 cells by flow cytometry. (B) Apoptosis detection by Annexin V flow cytometry. (C-F). The
+apoptotic phenotype detected by Annexin V/PI double staining was found in (D, F) 4bHWE-treated cells rather than in vehicle (C, E), respectively.
+Original magnification: × 200.
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 6 of 8a toxicological mechanism. 4bHWE was also demon-
+strated to have anti-lung cancer activity, along with the
+potential to produce G2/M arrest and apoptosis in time-
+dependent manners. Our ongoing study further validates
+the effective cancer-preventive potential of 4bHWE in
+other cancer cell lines as well as in a xenograft assay. If
+4bHWE is indeed proven to exert an effective cancer
+preventive potential in vivo, golden berry-derived
+4bHWE may be a promising ingredient as a cancer-pre-
+ventive functional food.
+Acknowledgements
+We thank the National Science Council of Taiwan for grants (NSC96-2311-B-
+007-011, NSC97-2311-B-037-003-MY3, and NSC98-2314-B-037-035), for grants
+ChiMei-KMU (94-CM-KMU-9, 95-CM-KMU-06, 96-CM-KMU-12), and for grants
+(KMU-Q-095-009, KMU-EM-97-2.1a, KMU-EM-98-1.4, and KMU-EM-98-6-2).
+Author details
+1Department of Oral and Maxillofacial Surgery, Chi-Mei Medical Center,
+Tainan, Taiwan.
+2School of Dentistry, Taipei Medical University, Taipei, Taiwan.
+3Department of Biotechnology, Kaohsiung Medical University, Kaohsiung,
+Taiwan.
+4Graduate Institute of Natural Products, College of Pharmacy,
+Kaohsiung Medical University, Kaohsiung, Taiwan.
+5Department of
+Biochemistry, Kaohsiung Medical University, Kaohsiung, Taiwan.
+6Department
+of Cosmeceutics, College of Pharmacy, China Medical University, Taichung,
+Taiwan.
+7Institute of Nutrition, China Medical University, Taichung, Taiwan.
+8Institute of Molecular Medicine, National Tsing-Hua University, Hsinchu,
+Taiwan.
+9Department of Life Science, National Tsing-Hua University, Hsinchu,
+Taiwan.
+10School of Pharmacy, China Medical University, Taichung, Taiwan.
+11Agricultural Biotechnology Research Center, Academia Sinica, Taipei,
+Taiwan.
+12Division of Environmental Health and Occupational Medicine,
+National Health Research Institutes, Kaohsiung, Taiwan.
+13Graduate Institute
+of Public Health, College of Health Science, Kaohsiung Medical University,
+Kaohsiung, Taiwan.
+14Department of Biomedical Science and Environmental
+Biology, Kaohsiung Medical University, Kaohsiung, Taiwan.
+15Center of
+Excellence for Environmental Medicine, Kaohsiung Medical University,
+Kaohsiung, Taiwan.
+Authors’ contributions
+C-YY, C-CC, and H-WC participated in the writing and study design. Y-CW
+instructed F-RC and Y-HL on extracting the pure compound from the fruit.
+Y-CH, H-LY, and Y-CL provided instruction for the comet assay and its
+analysis. M-TT, Y-SC, Y-CC, and Y-CK participated in the comet assay
+experiments. JY-FC, C-CH, AY-LL, and Z-LG performed the apoptosis analysis.
+H-WC and Y-CW coordinated and oversaw the study. All authors read and
+approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 27 May 2009
+Accepted: 18 February 2010 Published: 18 February 2010
+References
+1. Jemal A, Siegel R, Ward E, Hao Y, Xu J, Murray T, Thun MJ: Cancer statistics,
+2008. CA Cancer J Clin 2008, 58(2):71-96.
+2. Bayman NA, Sheikh H, Kularatne B, Lorigan P, Blackhall F, Thatcher N, Faivre-
+Finn C: Radiotherapy for small-cell lung cancer-Where are we heading?.
+Lung Cancer 2009, 63(3):307-314.
+3. Saloustros E, Georgoulias V: Docetaxel in the treatment of advanced non-
+small-cell lung cancer. Expert Rev Anticancer Ther 2008, 8(8):1207-1222.
+4. Yamamoto H, Sekine I, Yamada K, Nokihara H, Yamamoto N, Kunitoh H,
+Ohe Y, Tamura T: Gender differences in treatment outcomes among
+patients with non-small cell lung cancer given a combination of
+carboplatin and paclitaxel. Oncology 2008, 75(3-4):169-174.
+5. Vainio H, Weiderpass E: Fruit and vegetables in cancer prevention. Nutr
+Cancer 2006, 54(1):111-142.
+6. Divisi D, Di Tommaso S, Salvemini S, Garramone M, Crisci R: Diet and
+cancer. Acta Biomed 2006, 77(2):118-123.
+7. Chiu CC, Chang HW, Chuang DW, Chang FR, Chang YC, Cheng YS, Tsai MT,
+Chen WY, Lee SS, Wang CK, et al: Fern plant-derived protoapigenone
+leads to DNA damage, apoptosis, and G(2)/m arrest in lung cancer cell
+line H1299. DNA Cell Biol 2009, 28(10):501-506.
+8. Tan XL, Spivack SD: Dietary chemoprevention strategies for induction of
+phase II xenobiotic-metabolizing enzymes in lung carcinogenesis: A
+review. Lung Cancer 2009, 65(2):129-137.
+9. Thomsen A, Kolesar JM: Chemoprevention of breast cancer. Am J Health
+Syst Pharm 2008, 65(23):2221-2228.
+10. Pan MH, Ho CT: Chemopreventive effects of natural dietary compounds
+on cancer development. Chem Soc Rev 2008, 37(11):2558-2574.
+11. Forte A, De Sanctis R, Leonetti G, Manfredelli S, Urbano V, Bezzi M: Dietary
+chemoprevention of colorectal cancer. Ann Ital Chir 2008, 79(4):261-267.
+12. Riboli E, Norat T: Epidemiologic evidence of the protective effect of fruit
+and vegetables on cancer risk. Am J Clin Nutr 2003, 78(3
+Suppl):559S-569S.
+13. Romieu I, Trenga C: Diet and obstructive lung diseases. Epidemiol Rev
+2001, 23(2):268-287.
+14. Goldbohm RA, Voorrips LE: Epidemiology of nutrition and lung cancer.
+Nestle Nutr Workshop Ser Clin Perform Programme 2000, 4:23-35.
+15. Xiao H, Yang CS, Li S, Jin H, Ho CT, Patel T: Monodemethylated
+polymethoxyflavones from sweet orange (Citrus sinensis) peel Inhibit
+growth of human lung cancer cells by apoptosis. Mol Nutr Food Res 2009,
+53(3):398-406.
+16. Wu SJ, Tsai JY, Chang SP, Lin DL, Wang SS, Huang SN, Ng LT: Supercritical
+carbon dioxide extract exhibits enhanced antioxidant and anti-
+inflammatory activities of Physalis peruviana. J Ethnopharmacol 2006,
+108(3):407-413.
+17. Franco LA, Matiz GE, Calle J, Pinzon R, Ospina LF: Antiinflammatory activity
+of extracts and fractions obtained from Physalis peruviana L. calyces.
+Biomedica 2007, 27(1):110-115.
+18. Pardo JM, Fontanilla MR, Ospina LF, Espinosa L: Determining the
+pharmacological activity of Physalis peruviana fruit juice on rabbit eyes
+and fibroblast primary cultures. Invest Ophthalmol Vis Sci 2008,
+49(7):3074-3079.
+19. Wu SJ, Ng LT, Chen CH, Lin DL, Wang SS, Lin CC: Antihepatoma activity of
+Physalis angulata and P. peruviana extracts and their effects on
+apoptosis in human Hep G2 cells. Life Sci 2004, 74(16):2061-2073.
+20. Hsieh PW, Huang ZY, Chen JH, Chang FR, Wu CC, Yang YL, Chiang MY,
+Yen MH, Chen SL, Yen HF, et al: Cytotoxic withanolides from
+Tubocapsicum anomalum. J Nat Prod 2007, 70(5):747-753.
+21. Ahmad S, Malik A, Afza N, Yasmin R: A new withanolide glycoside from
+physalis peruviana. J Nat Prod 1999, 62(3):493-494.
+22. Sakurai K, Ishii H, Kobayashi S, Iwao T: Isolation of 4 beta-
+hydroxywithanolide E, a new withanolide from Physalis peruviana L.
+Chem Pharm Bull (Tokyo) 1976, 24(6):1403-1405.
+23. Dinan LN, Sarker SD, Šik V: 28-Hydroxywithanolide E from Physalis
+peruviana. Phytochemistry 1997, 44:509-512.
+24. Chiang SL, Jiang SS, Wang YJ, Chiang HC, Chen PH, Tu HP, Ho KY, Tsai YS,
+Chang IS, Ko YC: Characterization of arecoline-induced effects on
+cytotoxicity in normal human gingival fibroblasts by global gene
+expression profiling. Toxicol Sci 2007, 100(1):66-74.
+25. Chang YC, Liao CB, Hsieh PY, Liou ML, Liu YC: Expression of tumor
+suppressor p53 facilitates DNA repair but not UV-induced G2/M arrest
+or apoptosis in Chinese hamster ovary CHO-K1 cells. J Cell Biochem 2008,
+103(2):528-537.
+26. Chang YC, Jan KY, Cheng CA, Liao CB, Liu YC: Direct involvement of the
+tumor suppressor p53 in nucleotide excision repair. DNA Repair (Amst)
+2008, 7(5):751-761.
+27. Wong VWC, Szeto YT, Collins AR, Benzie IFF: The comet assay: a
+biomonitoring tool for nutraceutical research. Curr Top Nutraceutical Res
+2005, 3:1-14.
+28. Collins AR: The comet assay for DNA damage and repair: principles,
+applications, and limitations. Mol Biotechnol 2004, 26(3):249-261.
+29. Chiu CC, Li CH, Fuh TS, Chen WL, Huang CS, Chen LJ, Ung WH, Fang K: The
+suppressed proliferation and premature senescence by ganciclovir in
+p53-mutated human non-small-lung cancer cells acquiring herpes
+simplex virus-thymidine kinase cDNA. Cancer Detect Prev 2005,
+29(3):286-293.
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 7 of 830. Chien CM, Yang SH, Yang CC, Chang LS, Lin SR: Cardiotoxin III induces c-
+jun N-terminal kinase-dependent apoptosis in HL-60 human leukaemia
+cells. Cell Biochem Funct 2008, 26(1):111-118.
+31. Chiu CC, Li CH, Ung MW, Fuh TS, Chen WL, Fang K: Etoposide (VP-16)
+elicits apoptosis following prolonged G2-M cell arrest in p53-mutated
+human non-small cell lung cancer cells. Cancer Lett 2005, 223(2):249-258.
+32. Reed JC: Mechanisms of apoptosis avoidance in cancer. Curr Opin Oncol
+1999, 11(1):68-75.
+33. Hsu S, Singh B, Schuster G: Induction of apoptosis in oral cancer cells:
+agents and mechanisms for potential therapy and prevention. Oral Oncol
+2004, 40(5):461-473.
+34. Wang AS, Ramanathan B, Chien YH, Goparaju CM, Jan KY: Comet assay
+with nuclear extract incubation. Anal Biochem 2005, 337(1):70-75.
+35. Li PY, Chang YC, Tzang BS, Chen CC, Liu YC: Antibiotic amoxicillin induces
+DNA lesions in mammalian cells possibly via the reactive oxygen
+species. Mutat Res 2007, 629(2):133-139.
+36. Collins AR, Dusinska M, Horvathova E, Munro E, Savio M, Stetina R: Inter-
+individual differences in repair of DNA base oxidation, measured in vitro
+with the comet assay. Mutagenesis 2001, 16(4):297-301.
+Pre-publication history
+The pre-publication history for this paper can be accessed here:http://www.
+biomedcentral.com/1471-2407/10/46/prepub
+doi:10.1186/1471-2407-10-46
+Cite this article as: Yen et al.: 4b-Hydroxywithanolide E from Physalis
+peruviana (golden berry) inhibits growth of human lung cancer cells
+through DNA damage, apoptosis and G2/M arrest. BMC Cancer 2010
+10:46.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Yen et al. BMC Cancer 2010, 10:46
+http://www.biomedcentral.com/1471-2407/10/46
+Page 8 of 8

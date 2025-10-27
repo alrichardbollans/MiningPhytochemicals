@@ -1,0 +1,663 @@
+ 1 
+ 
+ 
+Cembranolides from the Leaves of Croton gratissimus 
+Moses K. Langat,†,§ Neil R. Crouch,§,‡ Peter J. Smith┴ and Dulcie A. Mulholland*,†,§ 
+†
+ Division of Chemical Sciences, Faculty of Health and Medical Sciences, University of Surrey, 
+Guildford, GU2 7XH, Surrey, UK. 
+§
+ School of Chemistry, University of KwaZulu-Natal, Durban, 4041, South Africa 
+‡ Ethnobotany Unit, South African National Biodiversity Institute, PO Box 52099, Berea Road 
+4007, Durban, South Africa 
+┴ Department of Medicine, Division of Clinical Pharmacology, University of Cape Town, K45 
+Old Main Building, Groote Schuur Hospital, Observatory, 7925, Cape Town, South Africa  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Corresponding author 
+*Tel: +44 1483 686827. Fax: +44 1483 686850. E-mail:  d.mulholland@surrey.ac.uk. 
+ 2 
+ 
+ 
+ABSTRACT: 
+Ten new cembranolides, (-)-(1R*,4R*,10R*)-4-methoxycembra-2E,7E,11Z-trien-20,10-olide (1), 
+(-)-(1S*,4R*,10R*)-1-hydroxy-4-methoxycembra-2E,7E,11Z-trien-20,10-olide (2), (-)-
+(1S*,4S*,10R*)-1,4-dihydroxycembra-2E,7E,11Z-trien-20,10-olide (3), (-)-(1S*,4S*,10R*)-1,4-
+dihydroxycembra-2E,7E,11Z-trien-20,10-olide (4), (+)-(10R*)-cembra-1E,3E,7E,11Z,16-
+pentaen-20,10-olide (5), (+)-(10R*)-cembra-1Z,3Z,7E,11Z,15-pentaen-20,10-olide (6), (+)-
+(5R*,10R*)-5-methoxycembra-1E,3E,7E,11Z,15-pentaen-20,10-olide (7), (+)-
+(1S*,4S*,7R*,10R*)-1,4,7-trihydroxycembra-2E,8(19),11Z-trien-20,10-olide (8), (-)-
+(1S*,4S*,7S*,10R*)-1,4,7-trihydroxycembra-2E,8(19),11Z-trien-20,10-olide (9), and (+)-
+(1S*,4R*,8S*,10R*)-1,4,8-trihydroxycembra-2E,6E,11Z-trien-20,10-olide (10), together with six 
+known compounds, lupeol, 4(15)-eudesmene-1β,6α-diol, α-glutinol, 24-ethylcholesta-4,22-dien-
+3-one, (+)-(1R*,10R*)-cembra-2E,4E,7E,11Z-tetraen-20,10-olide and (+)-(1R*,4S*,10R*)-4-
+hydroxycembra-2E,7E,11Z-trien-20,10-olide (4a), have been isolated from the leaves of Croton 
+gratissimus.  The acetyl derivative of 8 and 4a were evaluated against a chloroquine sensitive 
+(CQS) strain of Plasmodium falciparum (D10). 
+ 
+ 3 
+ 
+ 
+     Croton gratissimus Burch. (C. zambesicus Müll. Arg.; C. microbotryus Pax.) (Euphorbiaceae) 
+grows on stony hillsides as a semi-deciduous tree species throughout much of the warmer and 
+drier regions from South Africa, northeastwards to the horn of Africa.  The leaves of this plant 
+are ground with goat fat and those of two other Croton L. species, and the resulting paste is 
+heated on coals and the fumes inhaled as a cure for insomnia.1 A tea made from the leaves is 
+taken for coughs in Botswana.2 Watt and Breyer-Brandwijk3 documented C. gratissimus as a 
+remedy for fever, for treating bleeding gums and eye disorders, and as an ingredient used to 
+"smoke" rheumatic patients. In South Africa, the leaves are dried and smoked for influenza, 
+colds, and fevers.4  The traditional use of this species for treating fevers, intermittent or 
+otherwise, indicates its likely application as an antimalarial, since it is employed as such within 
+the malaria endemic-region of southern Africa.  In Nigeria, bark infusions of the species (as C. 
+zambesicus) are reported to treat malaria.5  Accordingly, crude dichloromethane extracts of 
+South African leaves of C. gratissimus have previously been investigated for antiplasmodial 
+activity in vitro and shown to have an IC50 value of 3.5 µg/mL;6 the constituent(s) responsible 
+were not identified.  The stem bark of Croton gratissimus has been reported to yield four 
+cembranoids, namely, (+)-(1R*,2S*,7S*,8S*,12R*)-7,8-epoxy-2,12-cyclocembra-3E,10Z-dien-
+20,10-olide, (+)-(1R*,10R*)-cembra-2E,4E,7E,11Z-tetraen-20,10-olide, (+)-(1R*,4S*,10R*)-4-
+hydroxycembra-2E,7E,11Z-trien-20,10-olide (4a), and (-)-(1R*,4R*,10R*)-4-hydroxycembra-
+2E,7E,11Z-trien-20,10-olide, in addition to lupeol, 4(15)-eudesmene-1β,6α-diol, and α-glutinol.7 
+ 
+RESULTS AND DISCUSSION 
+     The combined hexane and methylene chloride extracts (showed to be similar by TLC 
+analysis) and the ethyl acetate extract of the leaves of C. gratissimus were  separated using 
+repeated column chromatography over silica gel to yield ten new cembranolides, 1-10, all of 
+which were colorless oils.  These were obtained together with six known compounds, eudesm-
+4(15)-ene-1β,6α-diol,8 α-glutinol,9 lupeol,10 (+)-(1R*,4S*,10R*)-4-hydroxycembra-2E,7E,11Z-
+trien-20,10-olide (4a), and (+)-(1R*,10R*)-cembra-2E,4E,7E,11Z-tetraen-20,10-olide, which 
+have been isolated previously from the bark of this species,7 and 24-ethylcholesta-4,22-dien-3-
+one.11  NMR analysis showed that purified cembranolides are unstable on standing, but appear to 
+be stable in the unpurified form.   
+ 4 
+ 
+ 
+     Compound 1 was identified as (-)-(1R*,4R*,10R*)-4-methoxycembra-2E,7E,11Z-trien-20,10-
+olide.  The NMR spectra were very similar to those of (-)-(1R*,4R*,10R*)-4-hydroxycembra-
+2E,7E,11Z-trien-20,10-olide (1a), previously isolated from the bark, for which the relative 
+configuration was deduced by comparison with that of the crystalline (+)-(1R*,2S*, 
+7S*,8S*,12R*)-7,8-epoxy-2,12-cyclocembra-3E,10Z-dien-20,10-olide isolated from the same 
+source.7  The HRMS indicated a molecular formula of C21H32O3 and the FTIR spectrum gave an 
+absorption band at 1759 cm-1, consistent with an α,β–unsaturated γ-lactone, a functional group 
+present in all cembranolides isolated.12  The 13C NMR spectrum displayed twenty-one carbon 
+resonances, including those of a carbonyl carbon (δC 174.2, C-20), six olefinic carbons (δC 149.6, 
+135.8, 134.0, 133.5, 131.7 and
+ 
+129.4), an oxymethine (δC 80.3), and five methyl group carbon (δC 
+50.4, δC 20.7, δC 22.3, δC 19.5, and δC 16.3).  The 1H NMR spectrum showed the presence of 
+four olefinic proton resonances, one at δH 6.98 (brd, J=1.8 Hz) and three overlapping resonances 
+at δH 5.40 (m), a methoxy (δH 3.15), four methyl group proton resonances at δH 1.63 (s), δH 1.25 
+(s), δH 0.91 (d, J = 6.6 Hz) and δH 0.86 (d, J = 6.6 Hz), one vinylic methyl group, and the 
+presence of an isopropyl group, as in compounds previously isolated from the bark extract.7  The 
+two methyl group proton doublets (H3-16, H3-17) coupled to a methine proton resonance at δH 
+1.62 (H-15), which was superimposed with the H-1 resonance confirming the presence of 
+isopropyl group.  The H-1 resonance was coupled to a two olefinic proton resonance at δH 5.40 
+(H-2, H-3) that showed no further coupling.  The HMBC spectrum showed correlations of the H-
+2/3 with the C-1 (δC 48.9), C-4 (δC 77.2), C-5 (δC 43.7), and C-18 (δC 22.3) resonances.  The 
+methoxy proton showed a correlation in the HMBC spectrum with the C-4 resonance, indicating 
+its attachment to C-4, and the C-4 resonance showed correlations with H3-18 and one of a pair of 
+methylene group proton resonances at δH 1.85 (H-5).  This proton resonance showed coupling 
+with δH 2.35 (m) and 1.63 (m) at C-6, which, in turn, showed coupling with an olefinic proton 
+(H-7, δH 5.40).  The H-7 showed correlations in the HMBC spectrum with the C-6 (δC 25.5), C-
+19 (δC 16.3), and C-9 resonances (δC 44.8). The magnitude of the 13C NMR chemical shift of a 
+vinylic methyl carbon resonance has been used by Crombie et al.13 and Olsson et al.14 to 
+determine the configuration of a methyl-substituted double bond. Lange and Lee reported that a 
+vinylic methyl group carbon resonance value of < 20 ppm is indicative of an E configuration, 
+whereas a carbon resonance value of > 20 ppm is indicative of a Z configuration.15  As the 
+chemical shift of the C-19 methyl carbon occurred at δC 16.3 an E geometry is indicated for the 
+ 5 
+ 
+ 
+∆7 – double bond and hence the H3-19 methyl group was placed trans to H-7.13-15  The H2-9 
+resonances (δ 2.81, 2.05, m) were seen to be coupled with the H-10 resonance (δH 5.02, brs, W1/2 
+= 19.7 Hz) which showed further coupling with the H-11 resonance (δH 6.98) of the α,β–
+unsaturated γ-lactone.  The lactone carbonyl carbon exhibited correlations in the HMBC 
+spectrum with the H2-13 resonances (δH 2.15, 2.35, m).  The H2-13 resonances were coupled to 
+the two H-14 resonances (δH 1.95 (m), 1.50 (m), which showed coupling with the previously 
+assigned H-1 resonance.  H-1 was arbitrarily assigned as α, as in compound 1a,7 and exhibited a 
+correlation in the NOESY spectrum with the H3-18 methyl group indicating it was also α and 
+then the methoxy group at C-4 was in the β configuration.  A correlation between the methoxy 
+group proton resonance and the isopropyl group resonances (H3-16 and H3-17) was also 
+observed, supporting a β configuration of the isopropyl group.  The broad multiplet (W1/2 = 19.7 
+Hz) common in the series isolated from the bark and leaves of the same species indicated that H-
+10 is β in all the compounds isolated.7  The H-10 resonance showed correlations in the NOESY 
+spectrum with H-11 and the H3-19 proton resonances, showing that both are on the β–face of the 
+molecule, as illustrated in Figure 1.  The conformation adopted by the molecule results in 
+substituents attached to sp2 carbons, pointing above or below the general plane of the molecule.  
+The specific rotation for compound 1 was found to be - 11.5.  Therefore, the structure of 
+compound 1 was determined as (-)-(1R*,4R*,10R*)-4-methoxycembra-2E,7E,11Z-trien-20,10-
+olide. 
+ 
+     The HRMS of compound 2 indicated a molecular formula of C21H32O4, and it was found to be 
+the 1-hydroxy analogue of compound 1.  In addition to a carbonyl stretch at 1754 cm-1, the IR 
+spectrum showed an OH-stretching at 3406 cm-1.  The 1H NMR and 13C NMR resonances were 
+similar to those of compound 1 except for a fully substituted oxygenated carbon resonance at δC 
+76.7, instead of the C-1 methine resonance. This was confirmed by HMBC correlations seen 
+between the C-1 resonance and the H-3, H3-16, H3-17, and H-15 resonances.  Thus a hydroxy 
+group was placed at C-1 in compound 2.  The NOESY spectrum showed a correlation between 
+the H-4β methoxy group proton resonance (δH 3.13, s) and the isopropyl group H3-16 (δH 0.91 d 
+J=7.0 Hz) and H3-17 (δH 0.88 d J=7.0 Hz) resonances.  Thus, these groups were placed on the β 
+face, as in compound 1, and the hydroxy group was placed in the α-orientation.  The specific 
+ 6 
+ 
+ 
+rotation for 2 was found to be - 46.4, and this compound was assigned as (–)-(1S*,4R*,10R*)-1-
+hydroxy-4-methoxycembra-2E,7E,11Z- trien-20,10-olide.  
+ 
+     Compound 3, C20H30O4, was assigned as (–)-(1S*,4S*,10R*)-1,4-dihydroxycembra-
+2E,7E,11Z-trien-20,10-olide.  The IR spectrum gave an absorption band at 3421 cm-1 for a 
+hydroxy group and an α,β–unsaturated γ-lactone absorption band at 1757 cm-1, as was observed 
+for 1 and 2.  Compound 3 was found to be a 4-hydroxy analogue of 2.  Its NMR spectra were 
+very similar to those of 2, but the methoxy group proton resonance present in 1 and 2 was absent 
+and the C-4 and C-18 resonances of 3 were shifted to δC 74.3 (δC 77.2 for 2) and δC 31.1 (δC 23.0 
+for 2) respectively.  The relative configuration for 3 was assumed to be the same as that of 2.  
+ 
+     Compound 4, C20H30O4, was found to be the C-4 epimer of 3.  This was confirmed by the 
+correlation between the H3-18 (1.31, s) resonance and the isopropyl group H3-16 (δH 0.90, d, J = 
+6.9 Hz) and H3-17 (δH 0.86, d, J = 6.9 Hz) resonances in the NOESY spectrum.  The 13C NMR 
+chemical shift for the oxygenated C-4 (δC 72.9) and C-18 (δC 28.8) for 4 differed slightly from 
+those of 3 (δC 74.3 and δC 31.1).  The structure of compound 4 was proposed as (–)-
+(1S*,4S*,10R*)-1,4-dihydroxycembra-2E,7E,11Z-trien-20,10-olide.  Compound 4 is the 1α-
+hydroxy derivative of compound 4a, previously isolated from the bark, and re-isolated from the 
+leaves in the present investigation.    
+ 
+     Compound 5, C20H26O2, was identified as (+)-(10R*)-cembra-1E,3E,7E,11Z,15-pentaen-
+20,10-olide.  The IR spectrum showed no OH band and the NMR spectra differed in having an 
+additional three trisubstituted double bonds and a terminal methylene group.  The observation of 
+coupled terminal methylene group proton resonances at δH 5.02 (s) and δH 5.08 (s) and a vinyl 
+methyl three proton resonance at δH 1.96, instead of the H3-16 and H3-17 doublets present in the 
+1H NMR spectra of compounds 1-4, indicated the presence of an isopropenyl group  at C-1 in 5.  
+The C-1 resonance (δC 142.9) showed correlations in the HMBC spectrum with the two H2-16 
+and H3-17 proton resonances and resonances at δH 6.43 (H-2, J=11.5Hz) and 6.06 (H-3, 
+J=11.5Hz).  The corresponding C-3 resonance (δC 123.6) correlated in the HMBC spectrum with 
+the H3-18 vinyl methyl group proton resonance at δH 1.79, indicating a conjugated ∆1, ∆3 –
+system.  The NOESY spectrum showed a correlation between the terminal methylene proton 
+ 7 
+ 
+ 
+resonances and the H-2 resonance and between the H-2 resonance and the H3-18 methyl group 
+proton resonance.  Thus it was deduced that both double bonds were E.  The chemical shift of δC 
+16.5 for C-18 supported this deduction.15  These coupling constants and chemical shifts were in 
+agreement with those found for crotocembraneic acid and neocrotocembraneic acid that also 
+have a ∆1, ∆3-double bond system.16,17  A specific rotation value of + 24.2 for 5 was determined.   
+ 
+     Compound 6, C20H26O2, was found to be a geometric isomer of 5.  The most significant 
+difference between the 13C NMR spectra of these two compounds were the differences in 
+chemical shifts for the C-5 and C-18 carbon resonances, which occurred at δC 40.3 and δC 16.5,  
+respectively, in 5 but at δC 31.4 and δC 24.0 in 6.  The value of the chemical shift of  δC 24.0 for 
+the C-18 vinylic methyl group carbon resonance was indicative of a Z configuration of the ∆3-
+double bond15 and this was confirmed by correlations in the NOESY spectrum between H-3 and 
+the H3-18 resonance.  Specific rotation value of + 18.6 was measured for 6. This compound was 
+assigned as (+)-(10R*)-cembra-1Z,3Z,7E,11Z,15-pentaen-20,10-olide.  
+ 
+     Compound 7, C21H30O3, as in compound 5 has ∆1, ∆3 conjugated system with isopropyl 
+substituent at C-1 and methoxy group at C-5.  The methoxy group three-proton singlet resonance 
+(δH 3.26) showed a correlation in the HMBC spectrum with an oxymethine resonance (δC 86.0), 
+which showed a further correlation with the H3-18 proton resonance (δC 1.76).  The 
+corresponding C-18 resonance was shifted markedly upfield to δC 12.5.  The NOESY spectrum 
+exhibited correlations between the H-10β resonance and the H3-19 resonance, which, in turn, 
+correlated with one of the H-6 (δH 2.40) and H-5 (δH 3.59 dd J = 3.60, 7.80 Hz) resonances.  
+Thus, these protons were assigned as β. Specific rotation value of + 24.2 was measured for 7. 
+This compound was assigned as (+)-(5R*,10R*)-5-methoxycembra-1E,3E,7E,11Z, 15-pentaen-
+20,10-olide.  
+  
+   
+ 
+     Compounds 8 and 9 were found to be C-7 epimers of each other and HRESIMS analysis 
+indicated both had a molecular formula of C20H30O3.  As with compound 4, they both had an 
+isopropyl group at C-1, and hydroxy groups at C-1α and C-4α, but the ∆7-double bond had 
+moved to the 8,19-position and a hydroxy group was found to be present at C-7.  For compound 
+8 this was confirmed by correlations seen in the HMBC spectrum between the C-8 resonance (δC 
+ 8 
+ 
+ 
+142.0) and one of the two methylene protons at C-19 resonances (δH 5.29), and between the C-19 
+resonance (δC  29.9) and H-7 (δH 4.16, t, J = 7.1 Hz) and one of the H-9 resonances (δH  2.40).  In 
+the COSY spectrum H-7 resonance coupled to the two H-6 proton resonances, which were 
+further coupled to the two H-5 resonances in the COSY spectrum.  Similar correlations were 
+observed in the NMR spectra of 9.  The 13C NMR chemical shift values for C-6, C-7, and C-19 
+differed considerably between compounds 8 and 9 (see Table 2).  As with compound 4, the 
+relative configuration of 8 and 9 could be determined using the NOESY spectrum.  In both cases, 
+correlations could be seen between the isopropyl group methyl and H3-18 proton resonances and 
+so these groups were assigned as β.  For 8, correlations were also observed in the NOESY 
+spectrum between the H3-18 methyl group and the proton resonance and the H-7 proton 
+resonance, which showed, in turn, a correlation with the H2-19 proton resonance.  The latter 
+correlated with the H-11 proton resonance, which, in turn showed a correlation with the H-10 
+resonance, establishing these as occurring on the β face, and therefore the hydroxy groups at C-1, 
+C-4 and C-7 as α.  The specific rotation for compound 8 was + 100.  Compound 8 was therefore 
+assigned as (+)-(1S*,4S*,7R*,10R*)-1,4,7-trihydroxycembra-2E,8(19),11Z-trien-20,10-olide.  
+The change in the 13C NMR chemical shifts for the oxymethine C-7 from δC 89.8 in compound 8 
+and δC 76.8 for compound 9 indicated different configuration at C-7.  This was confirmed by a 
+lack of any correlation between H-7 and H3-18 in the NOESY spectrum of 9.  Thus the C-7 
+hydroxy group was assigned as β in 9.  The specific rotation of 9 was - 24.8 and it was assigned 
+as (–)-(1S*,4S*,7S*,10R*)-1,4,7-trihydroxycembra-2E,8(19),11Z-trien-20,10-olide.  
+ 
+     Compound 10, C20H30O5, displayed in its NMR spectra, in addition to resonances ascribable 
+to a α,β–unsaturated γ-lactone, three oxygenated fully substituted carbon resonances and two 
+alkene double bonds.  The resonance at δC 76.8 showed a correlation with the two isopropyl 
+group methyl doublets in the HMBC spectrum and was assigned to C-1.  This resonance also 
+showed correlation, with two olefinic proton resonances at δH 5.45, d, J = 16.2 Hz and 5.71, d, J 
+= 16.2 Hz which could be assigned as H-2 and H-3 of a trans-disubstituted double bond.  The C-
+3 resonance showed correlations with the C-4 oxygenated carbon (δC 72.4), the C-18 methyl 
+group carbon resonances, and the CH2-5 carbon resonance.  The corresponding H-5 resonances 
+showed coupling with the H-6 olefinic resonance [δH 5.64 (m)], which was further coupled to the 
+H-7 resonance (δH 5.55, d, J = 16.4 Hz) of the second trans-disubstituted double bond.  The H-7 
+ 9 
+ 
+ 
+resonance showed correlations in the HMBC spectrum with the oxygenated C-8 resonance (δ 
+83.6) and the C-19 methyl group proton resonance (δC 25.8)  
+ 
+     The relative configuration of 10 was assigned using the NOESY spectrum. The two methyl 
+proton resonances of the isopropyl group H3-16 (δC 0.84, d, J = 6.8 Hz) and H3-17 (δ 0.87, d, J = 
+6.8 Hz) showed correlation, with the H3-18 (δ 1.37, s) methyl proton resonance as was seen for 
+compounds 4, 8 and 9 and were likewise placed on the β – face, as was H-10. No correlations 
+were seen in the NOESY spectrum with the H3-19 resonance, and so this group was assigned as 
+α with the C-8 hydroxy group β.  Specific rotation of + 32.0 was determined and 10 was assigned 
+as (+)-(1S*,4R*,8S*,10R*)-1,4,8–trihydroxycembra-2E,6E,11Z-trien-20,10-olide. 
+ 
+     The acetate derivative of 8 was prepared in an attempt to produce a crystalline product for 
+single crystal X-ray analysis, or a more stable compound for screening.  Unfortunately, the 
+derivative was not crystalline but was stable enough to undergo in vitro antiplasmodial screening 
+against P. falciparum (CQS) D10 strain.  Compounds 4a and 8a exhibited IC50 values of 20.8 
+and 13.5 µg/mL, respectively, compared to chloroquine (IC50 27.0 ng/mL). 
+  
+EXPERIMENTAL SECTION 
+     General Experimental Procedures. Specific rotations were measured at room temperature 
+in chloroform using a JASCO P-1020 polarimeter and IR spectra were recorded using a Perkin-
+Elmer (2000 FTIR) spectrometer.  Samples were dissolved in chloroform and analyzed using 
+NaCl plates. NMR spectra were recorded on a Bruker AVANCE 500 NMR spectrometer in 
+deuteriochloroform (CDCl3) and the chemical shifts were recorded in ppm (parts per million) 
+relative to the deuteriochloroform central line at δ 7.260 in the 1H NMR spectrum and at δ 77.23 
+in the 13C NMR spectrum.  HRESIMS were determined using a Bruker MicroToF mass 
+spectrometer, with an Agilent 1100 HPLC used to introduce the samples.  
+      
+     Plant Material. Leaves of Croton gratissimus Burch. var. gratissimus were collected in 
+August 2005 from a mature tree cultivated on the campus of the University of KwaZulu-Natal, 
+Durban, South Africa, by N. Crouch.  A voucher (Crouch 1051) retained for verification 
+purposes at the KwaZulu-Natal Herbarium (NH). 
+ 10 
+ 
+ 
+ 
+     Extraction and Isolation. The ground leaves (189 g) of C. gratissimus was extracted using a 
+Soxhlet apparatus for 24 h successively using hexane, methylene chloride, ethyl acetate and 
+methanol.  After evaporation of the solvent in vacuo the following extracts were obtained: 
+hexane (8.46 g), methylene chloride (2.55 g), ethyl acetate (8.84 g), and methanol (25.57 g).  The 
+hexane and methylene chloride extracts were combined due to their similar TLC bands.  The 
+combined hexane and methylene chloride extracts as well as the ethyl acetate extracts were 
+examined in this study.  Column chromatography of combined hexane and methylene chloride 
+extracts and ethyl acetate extract over silica gel (Merck 9385) using a 5 cm diameter by 60 cm 
+length gravity column, collecting fractions (75 mL each) using a hexane/methylene chloride step 
+gradient starting with 100% hexane and gradually increasing the methylene chloride 
+concentration to 100%, followed by 5% methanol in methylene chloride, was used to separate 
+the constituents.  Final purification was undertaken over silica gel using a 1 cm diameter by 60 
+cm length gravity column with different solvents as indicated below for each compound.  The 
+combined hexane and methylene chloride extracts gave the following compounds: fractions 40-
+54 were repurified using CH2Cl2/hexane, 1:1 to give 5 (30 mg) and 6 (19 mg); fractions 60-73 
+gave α – glutinol (47 mg) using 100% CH2Cl2, and  fractions 100-127 gave 4 (30 mg) using 
+100% CH2Cl2. The ethyl acetate extract gave: fractions 10 – 19 (20% CH2Cl2 in hexane) gave 
+(+)-(1R*,10R*)-cembra-2E, 4E, 7E,11Z-tetraen-20, 10-olide (13 mg); fractions 21-26 (100% 
+CH2Cl2) gave 24-ethylcholesta-4,22-dien-3-one (31.5 mg); fractions 27-40 (100% CH2Cl2) gave 
+lupeol (26 mg) and 2 (17.0 mg); fractions 45 – 67 (100% CH2Cl2) gave additional 3 (10 mg) and 
+eudesm-4(15)-ene-1β,6α–diol (15 mg); fractions 78 – 123  (3% MeOH/97% CH2Cl2) gave (+)-
+(1R*,4S*,10R*)-4-hydroxycembra-2E,7E,11Z-trien-20,10-olide (4a), (13 mg), 8 (9.7 mg), 9 (6.5 
+mg), and 10 (30 mg).  The 1H and 13C NMR spectroscopic data for all new compounds are 
+shown in Tables 1 and 2, respectively.         
+ 
+     (–)-(1R*,4R*,10R*)-4-Methoxycembra-2E,7E,11Z- trien-20,10-olide (1): Colorless oil; [α]D24 
+- 11.5 (c 0.0013, CHCl3); IR (neat) νmax 2938, 2853, 1759 cm-1; HRESIMS m/z 355.1882 [M + 
+Na]+ (calcd for C21H32O3Na, 332.1984). 
+ 11 
+ 
+ 
+     (–)-(1S*,4R*,10R*)-1-Hydroxy-4-methoxycembra-2E,7E,11Z- trien-20,10-olide (2): 
+Colorless oil; [α]D24 - 46.4 (c 0.0076, CHCl3); IR (neat) νmax 3406, 2929, 2861, 1754 cm-1; 
+HRESIMS m/z 371.2188 [M + Na]+ (calcd for C21H32O4Na, 348.2300).  
+     (–)-(1S*,4S*,10R*)-1,4-Dihydroxycembra-2E,7E,11Z-trien-20,10-olide (3): Colorless oil; 
+[α]D24 - 12.9 (c 0.004, CHCl3); IR (neat) νmax 3421, 2938, 2851, 1757; HRESIMS m/z 357.2027 
+[M + Na]+ (calcd for C20H30O4Na, 321.2144). 
+     (–)-(1S*,4S*,10R*)-1,4-Dihydroxycembra-2E,7E,11Z-trien-20,10-olide (4): Colorless oil; 
+[α]D24 - 42.0 (c 0.0075, CHCl3); IR (neat) νmax 3429, 1740 cm-1; HRESIMS m/z 357.2037  [M + 
+Na]+ (calcd for C20H30O4Na, 357.2042). 
+    (+)-(10R*)-Cembra-1E,3E,7E,11Z,16-pentaen-20,10-olide (5): Colorless oil; [α]D24 + 24.2 (c 
+0.0004, CHCl3); IR (neat) νmax 2959, 2863, 1753 cm-1; HRESIMS m/z 321.1825 [M + Na]+ 
+(calcd for C20H26ONa, 321.1831). 
+    (+)-(10R*)-Cembra-1Z,3Z,7E,11Z,15-pentaen-20,10-olide (6): Colorless oil; [α]D24 + 18.6 (c 
+0.007, CHCl3); IR (neat) νmax 3063, 2923, 2856, 1749 cm-1; HRESIMS m/z 321.1819 [M + Na]+ 
+(calcd for C20H26ONa, 321.1831).  
+     (+)-(5R*,10R*)-5-Methoxycembra-1E,3E,7E,11Z,15-pentaen-20,10-olide (7): Colorless oil; 
+[α]D24 + 27.6 (c 0.0039, CHCl3); IR (neat) νmax 2934, 2828, 1759 cm-1; HRESIMS m/z 339.1923 
+[M + Na]+ (calcd for  C21H30O3Na, 330.2195) 
+    (+)-(1S*,4S*,7R*,10R*)-1,4,7-Trihydroxycembra-2E,8(19),11Z-trien-20,10-olide (8): 
+Colorless oil; [α]D24 + 100 (c 0.0004, CHCl3); IR (neat) νmax 3411, 1733, 1645, 847 cm-1; 
+HRESIMS m/z 373.1978 [M + Na]+ (calcd for C20H30O5Na, 373.1991).  
+    Acetylation of (+)-(1S*,4S*,7R*,10R*)-1,4,7-Trihydroxycembra-2E,8(19),11Z-trien-20,10-
+olide (8).  Compound 8 (5 mg) was dissolved in pyridine (1mL) and acetic anhydride (1mL) and 
+left to stand for 12 h. MeOH (2 x 5mL) was added and solvent was removed under vacuum to 
+yield (+)-(1S*,4S*,7R*,10R*)-7-acetoxy-1,4-dihydroxycembra-2E,8(19),11Z-trien-20,10-olide 
+(8a).  The 1H and 13C NMR spectroscopic data of 8a are shown in Tables 1 and 2, respectively.   
+    (–)-(1S*,4S*,7S*,10R*)-1,4,7-trihydroxycembra-2E,8(19),11Z-trien-20,10-olide (9): 
+Colorless oil; [α]D24 - 24.8 (c 0.004, CHCl3); IR (neat) νmax 3428, 1739 cm-1; HRESIMS m/z 
+373.1980 [M + Na]+ (calcd for C20H30O3Na, 373.1991).  
+ 12 
+ 
+ 
+     (+)-(1S*,4R*,8S*,10R*)-1,4,8-Trihydroxycembra-2E,6E,11Z-trien-20,10-olide (10): 
+Colorless oil; [α]D24 + 32.0 (c 0.001, CHCl3); IR (neat) νmax 3390, 1730 cm-1; HRESIMS m/z 
+373.1964 [M + Na]+ (calcd for C20H30O5Na, 373.1991). 
+     In Vitro Antiplasmodial Activity of Compounds 4a and 8a against P. falciparum (CQS) 
+D10 Strain. The test samples were tested in duplicate against the chloroquine-sensitive (CQS) 
+strain of Plasmodium falciparum (D10).  Continuous in vitro cultures of asexual erythrocyte 
+stages of P. falciparum were maintained using a modified method of Trager and Jensen.18 
+Quantitative assessment of antiplasmodial activity in vitro was determined via the parasite lactate 
+dehydrogenase assay using a modified method described by Makler.19 The two extracts were 
+dissolved and diluted to give a 2 mg/mL stock solution in 10% DMSO and sonicated to enhance 
+solubility.  Samples were tested as a suspension if not completely dissolved. Stock solutions 
+were stored at – 20 ºC.  Further dilutions were prepared on the day of the experiment in complete 
+medium. Chloroquine was used as the reference drug in all experiments.  A full dose-response 
+was performed for all compounds to determine the concentration inhibiting 50% of parasite 
+growth (IC50 – value).  Test samples were tested at a starting concentration of 100 µg/mL, which 
+was serially diluted 2-fold in complete medium to give 10 concentrations, with the lowest 
+concentration being 0.2 µg/mL. Chloroquine was tested at a starting concentration of 100 ng/mL.  
+The highest concentration of solvent to which the parasites were exposed had no measurable 
+effect on the parasite viability (data not shown).  The IC50 values were obtained using a non-
+linear dose-response curve fitting analysis using Graph Pad Prism v. 4.0 software. 
+ 
+ASSOCIATED CONTENT 
+The 1H and 13C NMR spectra of compounds 1-10 are available via the Internet at 
+http://pubs.acs.org   
+ 
+AUTHOR INFORMATION 
+Corresponding author. *Tel: +44 1483 686827. Fax: +44 1483 686850. E-mail:  
+D.mulholland@surrey.ac.uk.  
+ 
+ 13 
+ 
+ 
+ACKNOWLEDGEMENT  
+This research was funded by the University of Surrey through a Ph.D. studentship for M.L. and 
+the South African National Research Foundation (NRF).  
+ 
+REFERENCES  
+(1) Palmer, E.; Pitman, N. Trees of Southern Africa. Vol 2; A.A. BalKema: Cape Town, 
+1972; p 1135. 
+(2) Hedberg, I.; Staugård, F. Traditional Medicine in Botswana. Traditional Medicinal 
+Plants; Ipeleng Publishers: Gaborone, 1989; p 101. 
+(3) Watt, J. M.; Breyer-Brandwijk, M. G. The Medicinal and Poisonous Plants of Southern 
+and Eastern Africa, E. & S. Livingstone, Ltd: Edinburgh and London, 1962; p 400. 
+(4) Mabogo, D. E. N. The Ethnobotany of the Vhavenda. M.Sc. Thesis, University of 
+Pretoria, Pretoria, 1990. 
+(5) Burkill, H. M. The Useful Plants of West Tropical Africa, Vol. 2, Families E-I; Royal 
+Botanic Gardens, Kew: Richmond, 1994; p 51. 
+(6) Clarkson, C.; Maharaj, V. J.; Crouch, N. R.; Grace, O. M.; Pillay, P.; Matsabisa, M. G.; 
+Bhagwandin, N.; Smith, P. J.; Folb, P. I. Ethnopharmacol. 2004, 92, 177-191. 
+(7) Mulholland, D. A.; Langat, M. K.; Crouch, N. R.; Coley, H. M.; Mutambi, E. M.; 
+Nuzillard, J. M. Phytochemistry 2010, 71, 1381 – 1386.  
+(8) Sun, Z.; Chen, B.; Zhang, S.; Hu, C. J. Nat. Prod. 2004, 67, 1975 – 1979. 
+(9) Olea, R. S. G.; Torres, L. M. B.; Roque, L. C.; Roque, N. F. Magn. Reson. Chem. 1993, 
+32, 378-379. 
+(10) Burns, D.; Reynolds, W. F.; Buchanan, G.; Reese, P. B.; Enriquez, R. G. Mag. Reson. 
+Chem. 2000, 38, 488-493. 
+(11) Georges, P.; Sylvestre, M.; Ruegger, H.; Bourgeois, P. Steroids 2006, 71, 647 – 652. 
+(12) Pavia, D. L.; Lampman, G. M.; Kriz, G. S.; Vyvan, J. R. Introduction to Spectroscopy, 
+Brooks/Cole; Belmont, CA. 2009; p 69. 
+(13) Crombie, L.; King, R. W.; Whiting, D. A. J. Chem. Soc., Perkin Trans. 1, 1975, 913 – 
+915. 
+(14) Olsson, E.; Berg, J.; Wahlberg, I. Tetrahedron 1993, 49, 4975– 4992. 
+(15) Lange, L. G.; Lee, M. Magn. Reson. Chem. 1986, 24, 656 – 658. 
+ 14 
+ 
+ 
+(16) Roengsumran, S.; Achayindee, S.; Petsom, A.; Pudhom, K.; Singtothong, P.; 
+Surachetapan, C.; Vilaivan, T. J. Nat. Prod. 1998, 61, 652-654. 
+(17) Pudhom, K.; Vilaivan, T.; Ngamrojanavanich, N.; Dechangvipart, S.; Sommit, D.; 
+Petsom, A.; Roengsumran, S. J. Nat. Prod. 2007, 70, 659-661. 
+(18) Trager, W.; Jensen, J. B. Science 1976, 193, 673 – 675. 
+(19) Makler, M. T.; Ries J. M.; Williams, J. A.; Bancroft, J. E.; Piper, R. C.; Gibbins, B. L.; 
+Hinrichs, D. J. Am. Soc. Trop. Med. Hyg. 1993, 48, 739-741. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Selected NOE correlations for compound 1  
+O
+O
+OCH3
+7
+1
+234567
+8
+9 10 11
+12
+13
+14
+15
+16
+17
+18
+19
+20O
+O
+R
+R1
+1   R = OCH3, R1 = H
+1a R = OH, R1 = H
+2   R = OCH3, R1 = OH
+3   R = OH, R1 = OH
+O
+O
+HO
+R
+ 
+4 R = OH
+4a R = H   
+ 
+O
+O 6
+O
+O
+HO
+OH
+R1
+R
+8   R = OH  R1 = H
+8a R = OAc   R1 = H
+9   R = H     R1 = OH
+10
+O
+O
+OH
+HO HO
+O
+O 5
+1
+2 3
+4
+5
+67
+8
+19
+9
+10
+11
+12
+20
+13
+14
+15 16
+17
+18
+ 16 
+ 
+ 
+Table 1. 1H NMR Spectroscopic Data of Compounds 1-10 and 8a in CDCl3. 
+Number 1 2 3 4 5 6 7 8 9 10 8a 
+1 1.62a  - - - - - - - - - - 
+2 5.40a 5.51 d (16.0)  5.73 d  (15.5) 5.57 d (16.1) 6.43 d (11.5) 6.45 d (11.0) 6.19a 5.46 d (16.2) 5.47 d (16.1) 5.45 d (16.2) 5.44 d (16.2) 
+3 5.40a 5.74 d (16.0)  5.77 d (15.5) 5.76 d (16.1) 6.06 d (11.5) 6.29 d (11.0) 6.20a  5.83 d (16.2) 5.80 d (16.1) 5.71 d (16.2) 5.80 d (16.2) 
+4 - - - - - - - - - - - 
+5α 2.00 m 2.00 m 1.81 m 1.83 m 2.26 m 2.79a 3.59 dd (3.6, 
+7.8) 
+1.79 m 1.79 m 2.47 dd (3.4, 
+14.5) 
+1.76a 
+5β 1.40 m 1.38 m 1.65 m 1.58 m 2.17a 2.00 dt (4.0, 3.6)  1.35 m 1.30 m 2.37 m 1.31 m 
+6α 2.35 m 2.35 m 2.20 m 2.21 m 2.31 m 2.52 m 2.40a 1.68a 1.70a 5.64 m 1.81 s 
+6β 2.35 m 2.05 m 2.05 m 2.09 m 2.14 m 2.16 d (16.7) 2.30 m 1.36 m 1.50 m - 1.48 m 
+7 5.40a 5.30 t (6.0)  5.32 t (6.0) 5.22 t (6.9) 5.08 brsa 4.96a 5.08 brs 4.16 t ( 7.1) 3.93 t (7.2) 5.55 d (16.4) 4.89 m 
+8 - - - - - - - - - - - 
+9α 2.05 m 2.30 m 2.46 dd (5.1, 
+12.9) 
+2.51a 2.17a 1.69 s 2.10 m 2.40a 2.32 m 1.93 m 2.50 dd (4.8, 
+14.6) 
+9β 2.81 dd (5.6, 
+12.5) 
+2.53 dd (5.2, 
+12.8) 
+2.52 dd (5.1, 
+12.9) 
+2.51a 2.68a 2.79a 2.75 dd (5.2, 
+12.9) 
+2.80 dd (4.8, 
+14.9) 
+2.80 dd (4.9, 
+14.9) 
+2.62 dd (5.7, 
+12.8) 
+2.77 dd (4.8, 
+14.6) 
+10 5.02 brs W1/2 = 
+19.7 
+5.05 brs W1/2 = 
+16.2 
+5.08 brs W1/2 = 
+20.7 
+5.10 m 4.95 brs  W1/2 = 
+18.8 
+4.93a 4.98 brs W1/2 = 
+19.9 
+5.17 brsa  5.14 brs W1/2 = 
+19.8 
+5.13 brs W1/2 = 
+18.0 
+5.10a  
+11 6.98 d (1.8) 6.83 s 6.91 s 6.87 d (1.5) 7.27 s 7.23 d (1.3) 7.24 d (1.5)  6.88 s 6.90 s 7.16 s 6.93 d (1.6) 
+12 - - - - - - - - - - - 
+13α 2.15 m 2.45 m 2.45 m 2.41 m 2.55 m 2.70 m 2.55 m 2.42a 2.40a 2.30a 2.39a 
+13β 2.35 m 2.35 m 2.35 m 2.36 m 2.45 m 2.34 m 2.45 m 2.40a 2.40a 2.30a 2.39a 
+14α 1.95 m 2.15 m 2.00 m 2.11 m  2.86 m 2.92 td (3.8, 9.1) 2.58a 2.05 m 2.01 m 2.05 m 2.05a 
+14β 1.50 m 1.85 m 1.85 m 1.79 m 2.67a  2.64 s 2.58a 1.80 m 1.82 m 1.78 m 1.78a 
+15 1.62a 1.70 sp (7.0) 1.69 m 1.67 sp. (6.9) - - 2.49a  1.70a 1.70a 1.64 sp (6.8) 1.71 sp (6.9) 
+16 0.91 d (6.6) 0.91 d (7.0)  0.91 d (7.0)  0.90 d (6.9) 5.02 brs 4.96a 1.11 d (6.9)  0.90 d (6.8) 0.90 d (6.6) 0.87 d (6.8) 0.92 d (6.8) 
+     5.08a  4.96a      
+17 0.86 d (6.6) 0.88 d (7.0) 0.86 d (7.0) 0.86 d (6.9) 1.96 s 1.88a  1.07 d (6.9)  0.84 d (6.8) 0.87 d (6.6) 0.84 d (6.8) 0.87 d (6.8) 
+18 1.25 s  1.26 s 1.30 s 1.31 s 1.79 s 1.88a  1.67 d (1.2)  1.36 s 1.38 s 1.37 s 1.35 s 
+19 1.63 s 1.64 s 1.58 s 1.60s 1.58 s 1.67 s 1.59 s 5.29 s 5.19 s 1.39 s 5.28 s 
+        5.20 s 5.03 s  5.11 s 
+OCH3 3.15 s 3.13 s     3.26 s -   2.03 s 
+Ac            
+OH          8.60 br s  
+a values overlapping 
+ 17 
+ 
+ 
+Table 2. 13C NMR Spectroscopic Data for Compounds 1-10 and 8a in CDCl3. 
+s 
+ 
+Position 1 2 3 4 5 6 7 8 9 10 8a 
+1 48.9 CH 76.7 C 76.7 C 77.0 C 142.9 C 143.3  C 147.3 C 77.0 C 77.0 C 76.8 C 77.0 C  
+2 134.0 CH 130.0 CH 130.6 CH 131.9 CH 124.3 CH 124.2 CH 125.1 CH 131.5 CH 131.3 CH 131.8 CH 131.7 CH 
+3 135.8 CH 134.2 CH 135.0 CH 135.8 CH 123.6 CH 123.4 CH 118.9 CH 135.9 CH 136.0 CH 135.5 CH 136.2 CH 
+4 77.2 C 77.2 C 74.3 C 72.9 C 139.9 CH 141.5 C 134.4 C 72.6 C 72.6 C 72.4 C 72.9 C 
+5 43.7 C 42.0 C 42.1 C 42.4 CH2 40.3 CH2 31.4 CH2 86.0 C 38.6 CH2 38.8 CH2 45.2 CH2 38.5 CH2 
+6 25.5  CH2 21.8 CH2 23.8 CH2 23.2 CH2 25.8  CH2 26.6 CH2 31.4 CH2 25.1 CH2 29.6 CH2 127.4 CH 27.4 CH2 
+7 131.7 CH 131.7 CH 130.2 CH 131.8 CH 130.0  CH 129.6 CH 123.0 CH 89.8 CH 76.8 CH 134.8 CH 77.9 CH 
+8 129.4 C 129.0 C 129.9 C 128.1 C 129.9 C 129.8 C 131.6 C 142.0 C 145.3 C 83.6 C 141.2 C 
+9 44.8  CH2 43.5 CH2 42.7 CH2 42.4 CH2 44.5  CH2 46.0 CH2 44.7 CH2 34.6 CH2 34.0 CH2 41.3 CH2 36.3 CH2 
+10 80.3 CH 80.7 CH 80.9 CH 80.6 CH 79.8  CH 79.1 CH 80.0 CH 79.6 CH 79.8 CH 79.1 CH 79.4 CH 
+11 149.6 CH 149.4  CH 148.8  CH 148.5  CH 149.3  CH 150.4 CH 149.3  CH 146.5 CH 147.0 CH 150.2 CH 145.8 CH 
+12 133.5 C 134.2 C 135.0 C 135.3 C 133.9 C 131.6 C 133.7 C 135.9 C 135.3 C 133.1 C 136.3 C 
+13 22.0  CH2 22.0 CH2  20.9 CH2  21.3 CH2 23.7 CH2 23.7 CH2 22.5 CH2  20.7 CH2 20.8 CH2 20.2 CH2 20.4 CH2 
+14 28.5  CH2 33.7 CH2 35.3 CH2 33.7 CH2 24.7  CH2 23.3 CH2 27.3 CH2 34.6 CH2 34.8 CH2 35.0 CH2 34.5 CH2 
+15 34.0 CH 39.4 CH 37.5 CH 38.9 CH 137.9 C 137.3 C 32.4 CH 38.8 CH 38.5 CH 38.9 CH 38.4 CH 
+16 20.7  CH3 17.8 CH3 17.7 CH3 17.1 CH3 113.0  CH2 113.4 CH2 23.0 CH3 17.7 CH3 17.7 CH3 17.8 CH3 17.8 CH3 
+17 19.5  CH3 16.9 CH3 16.6 CH3 17.5 CH3 21.7  CH3 21.6  CH3 23.0 CH3 16.8 CH3 16.8 CH3 16.8 CH3 16.8 CH3 
+18 22.3  CH3 23.0 CH3 31.1 CH3 28.8 CH3 16.5  CH3 24.0  CH3 12.5 CH3 29.9 CH3 29.7 CH3 29.5 CH3 30.6 CH3 
+19 16.3  CH3 17.1 CH3  17.5 CH3  17.9 CH3 16.8  CH3 16.1  CH3 16.5 CH3  118.4 CH2 115.7 CH2 25.8 CH2 119.1 CH2 
+20 174.2 C 174.4 C 174.5 C 174.5 C 174.5 C 174.6 C 174.4 C 174.0 C 174.1 C 175.0 C 173.8 C 
+OCH3 50.4  CH3 50.4 CH3 - - - - 56.5 CH3 - - - - 
+OAc           21.4 
+OAc           171.1 

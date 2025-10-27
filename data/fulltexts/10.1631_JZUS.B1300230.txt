@@ -1,0 +1,1537 @@
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 153
+ 
+ 
+ 
+ 
+Cytotoxicity and enhancement activity of essential oil from  
+Zanthoxylum bungeanum Maxim. as a natural  
+transdermal penetration enhancer* 
+ 
+Yi LAN1, Qing WU†‡1, Ying-qiu MAO2, Qiong WANG1, Jing AN1, Yan-yan CHEN1,  
+Wen-ping WANG1, Bo-chen ZHAO1, Na LIU1, Ye-wen ZHANG1 
+(1School of Chinese Materia Medica, Beijing University of Chinese Medicine, Beijing 100102, China) 
+(2Center of Science Experiment, Beijing University of Chinese Medicine, Beijing 100029, China) 
+†E-mail: qwu@vip.sina.com 
+Received Aug. 28, 2013;  Revision accepted Nov. 13, 2013;  Crosschecked Jan. 11, 2014 
+ 
+Abstract:    The aim of this present study is to investigate the effect of Zanthoxylum bungeanum oil (essential oil from 
+Z. bungeanum Maxim.) on cytotoxicity and the transdermal permeation of 5-fluorouracil and indomethacin. The cy-
+totoxicity of Z. bungeanum oil on dermal fibroblasts and epidermal keratinocytes was studied using an MTT 
+(3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide) assay. The rat skin was employed to determine the 
+percutaneous penetration enhancement effect of Z. bungeanum oil on hydrophilic and lipophilic model drugs, i.e., 
+5-fluorouracil and indomethacin. The secondary structure changes of the rat stratum corneum (SC) were determined 
+using attenuated total reflectance-Fourier transform infrared spectroscopy (ATR-FTIR), and saturated solubilities and 
+SC/vehicle partition coefficients of two model drugs with and without Z. bungeanum oil were also measured to un-
+derstand its related mechanisms of action. It was found that the half maximal inhibitory concentration (IC50) values of Z. 
+bungeanum oil were significantly lower in HaCaT and CCC-ESF-1 cell lines compared to the well-established and 
+standard penetration enhancer Azone. The Z. bungeanum oil at various concentrations effectively facilitated the 
+percutaneous penetration of two model drugs across the rat skin. In addition, the mechanisms of permeation en-
+hancement by Z. bungeanum oil could be explained with saturated solubility, SC/vehicle partition coefficient, and 
+secondary structure changes of SC. 
+ 
+Key words:  Zanthoxylum bungeanum Maxim., Essential oil, Transdermal delivery, Penetration enhancer, HaCaT, 
+Attenuated total reflectance-Fourier transform infrared spectroscopy (ATR-FTIR) 
+doi:10.1631/jzus.B1300230                     Document code:  A                    CLC number:  R28 
+ 
+ 
+1  Introduction 
+ 
+The pericarp of Zanthoxylum bungeanum Maxim., 
+belonging to the Rutaceae family, is commonly used 
+as a flavoring and traditional Chinese medicine for its 
+flavors and medicative characteristics in China. Ac-
+cording to the theory of traditional Chinese medicine 
+(TCM), the pericarp of Z. bungeanum Maxim. pos-
+sesses the medical functions of warming the spleen 
+and stomach to relieve pain and killing parasites to 
+relieve itching, and it is also effective for the therapy 
+of pathogenic wind, epigastric pain, eczema, pruritus, 
+fungal infection, diarrhea, and dysentery (Gong et al., 
+2009; Wei et al., 2011; Zhu et al., 2011). In addition, 
+Z. bungeanum oil is also widely used for topical 
+remedies. According to the statement on Li Yue Pian 
+ 
+Journal of Zhejiang University-SCIENCE B (Biomedicine & Biotechnology) 
+ISSN 1673-1581 (Print); ISSN 1862-1783 (Online) 
+www.zju.edu.cn/jzus; www.springerlink.com 
+E-mail: jzus@zju.edu.cn 
+ 
+ 
+‡ Corresponding author 
+* Project supported by the National Natural Science Foundation of 
+China (No. 81073059), the Beijing Natural Science Foundation (No. 
+7132127), and the Innovative Research Team in Beijing University of 
+Chinese Medicine (No. 2011-CXTD-13), China 
+© Zhejiang University and Springer-Verlag Berlin Heidelberg 2014 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 
+ 
+154
+Wen (published in 1870), an ancient classic literature 
+on topical remedies in China, these herbs like Z. 
+bungeanum Maxim., peppermint oil, which are rich in 
+essential oil, can effectively promote the percutaneous 
+absorption of the active components in a prescription 
+for their unique properties. 
+In our previous studies, Zhitong cataplasm, a 
+clinical empirical formula mainly consisting of the 
+extracts of four herbs, Pericarpium Zanthoxyli (Z. 
+bungeanum Maxim.), Rhizoma Chuanxiong, Radix 
+Angelicae Dahuricae, and Herba Asari, was devel-
+oped and topically used for the treatment of rheuma-
+toid arthritis and joint pain. We found that Z. 
+bungeanum oil in this prescription had the function of 
+facilitating the percutaneous absorption of the active 
+components besides its medicative function as de-
+scribed above. However, there is currently no sys-
+tematic information available about the skin permea-
+tion enhancement effect of Z. bungeanum oil. It is 
+well known that it is a prerequisite to enable the drug 
+molecule to pass through the skin for the exertion of 
+drug pharmacological activity. Furthermore, most of 
+the essential oil is mainly composed of terpenes  
+(Gong et al., 2009; Xia et al., 2011), which have been 
+generally reported to enable the drug molecule to 
+penetrate across the skin as a penetration enhancer 
+(Aqil et al., 2007; Sapra et al., 2008). The Z. 
+bungeanum oil is thus supposed to possess the prop-
+erties of facilitating the percutaneous absorption of 
+the components in a prescription besides its medica-
+tive characteristics. In addition, the Z. bungeanum oil 
+appears to offer low toxicity potential for use in 
+transdermal formulations due to its natural origin 
+(Fox et al., 2011). 
+Hence, the aim of this study is to investigate the 
+toxicity and percutaneous penetration enhancement 
+activity of Z. bungeanum oil and its underlying 
+mechanisms. Considering the diverse properties of the 
+components penetrating through the skin, 5-fluorouracil 
+(5-FU, n-octanol/water partition coefficient logKo/w= 
+−0.95) and indomethacin (IM, logKo/w=3.80) were 
+chosen as hydrophilic and lipophilic model drugs, 
+respectively (Zhao et al., 2008). In addition, rat skin 
+was employed to monitor the skin permeation en-
+hancement effect of Z. bungeanum oil on the trans-
+dermal delivery of model drugs. 
+ 
+ 
+2  Materials and methods 
+2.1  Drugs and chemicals 
+5-FU and IM were obtained from Beijing Ouhe 
+Technology Co., Ltd. and Suzhou Yacoo Co.,  
+Ltd., China, respectively. 1,8-Cineole, limonene, and  
+terpinen-4-ol were supplied by the TCI Tokyo 
+Chemical Industry Co., Ltd., Japan. Propylene glycol 
+(PG) was purchased from Beijing Chemical Reagent 
+Co., Ltd., China. Dimethyl sulfoxide (DMSO), 
+3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium 
+bromide (MTT), and C8–C20 n-alkanes were obtained 
+from Sigma-Aldrich (Shanghai, China). Azone was 
+purchased from Beijing Changhua Fine Chemical Co., 
+Ltd., China. Acetonitrile and methanol of high-  
+performance liquid chromatography (HPLC) grade 
+were supplied by Merck KGaA (Germany). All other 
+chemicals used were of analytical grade. 
+2.2  Plant materials and essential oil extraction 
+The dried fruits of Z. bungeanum used in this 
+work were purchased from Anguo Lulutong Co., Ltd. 
+(Hebei, China), and identified by Prof. Shou-ying DU 
+(Department of Chinese Pharmacy, Beijing Univer-
+sity of Chinese Medicine, China). These specimens 
+were harvested in August, 2012. A voucher specimen 
+was deposited in the Department of Chinese Phar-
+macy, Beijing University of Chinese Medicine, China. 
+The dried herbs (2.0 kg) were subjected to hydro- 
+distillation in 5 volumes of water for 3 h by using a 
+Clevenger-type apparatus. The yellowish essential oil 
+was obtained in a yield of 2.9% (w/w) after drying 
+with anhydrous sodium sulphate and stored under  
+N2 at 4 °C in a sealed brown vial until tested and 
+analyzed. 
+2.3  Cell line and culture 
+HaCaT (epidermal keratinocytes) and CCC- 
+ESF-1 (dermal fibroblasts) cell lines were obtained 
+from the Cell Resource Center of Institute of Basic 
+Medical Sciences, Chinese Academy of Medical 
+Sciences (Peking Union Medical College, China). 
+The cells were incubated in Minimum Essential Me-
+dium (MEM Eagles with Earle’s Balanced Salts) and 
+Dulbecco’s Modified Eagle’s Medium (DME H-21 
+4.5 g/L glucose), respectively, supplemented with  
+ 
+ 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 155
+10% fetal bovine serum (FBS), 100 U/ml penicillin/ 
+streptomycin at 37 °C in a 5% CO2 incubator.  
+HaCaT cells were fusiform under a microscope  
+(Fig. 1c), and CCC-ESF-1 cells were fibroblast-like 
+cells (Fig. 1d). 
+2.4  HPLC methodology of model drugs 
+The HPLC system for analyzing drug concen-
+trations was equipped with an SPD-20A variable- 
+wavelength ultraviolet absorbance detector, two 
+LC-20AT pumps, and computer integrating system 
+(Shimadzu, Kyoto, Japan). Alltima AQ ODS column 
+(250 mm×4.6 mm i.d., 5 μm particle size; Grace) and 
+Purospher STAR RP-18 column (250 mm×4.6 mm 
+i.d., 5 μm particle size; Merck) were used to deter-
+mine the contents of 5-FU and IM, respectively. For 
+5-FU, the mobile phase was distilled water at a flow 
+rate of 1 ml/min. 5-FU was detected at 266 nm with 
+the retention time of 7.5 min. For IM, the mobile 
+phase was a mixture of acetonitrile/0.1 mol/L acetic 
+acid (45:55, v/v) at the flow of 1 ml/min. IM was 
+detected at 231 nm with the retention time of 12.5 min. 
+Calibration curves for 5-FU and IM were linear over 
+the ranges of 0.5–500 μg/ml and 0.5–250 μg/ml, re-
+spectively. The coefficients of variation for intra- and 
+inter-day variations were below 1%. 
+2.5  Gas chromatography-mass spectral (GC-MS) 
+analysis 
+The Z. bungeanum oil was subjected to GC-MS 
+analysis on a Shimadzu system (Shimadzu QP-2010, 
+Japan) equipped with a National Institute of Stand-
+ards and Technology (NIST) database and a DB-1MS 
+capillary column (30 m×0.25 mm×0.25 mm, Agilent). 
+Helium (99.99%) was the carrier gas at a flow rate of 
+1.0 ml/min. The oven temperature was held at 50 °C 
+for 20 min and then programmed from 50 to 200 °C at 
+a rate of 2 °C/min. The injector temperature, MS 
+transfer line and ion source temperatures were set at 
+250, 280, and 250 °C, respectively. Mass scanning 
+was in the range of 45–500 amu. The split ratio was 
+1:20. An aliquot (1.0 μl) of the diluted sample (1/100 
+in n-hexane, w/v) was injected automatically.  
+The constituents of the essential oil were identi-
+fied by matching their MS fragmentation patterns 
+with those in NIST 2008 mass spectral library and also 
+by comparing their Kovat retention indices, which 
+were determined by injection of the sample with a 
+solution containing the homologous series of C8–C20 
+n-alkanes as reported before (Sereshti et al., 2011; 
+Wu et al., 2012). Moreover, the major oil contributors 
+were further confirmed by comparing the corre-
+sponding pure standard compounds. The percentage 
+composition was computed by the normalization 
+method from the GC peak areas.  
+2.6  Determination of physicochemical properties 
+of essential oil 
+For recognition of the basic physiochemical 
+properties of Z. bungeanum oil, an ultraviolet-visible 
+spectroscopy (UV-VIS) spectrophotometer (SP-752, 
+Shanghai Spectrum Instruments Co., Ltd., China)  
+was employed to monitor its maximum UV absorp-
+tion wavelength. An automatic surface tensiometer 
+(JK99B, Shanghai Zhongcheng Digital Technology 
+Instruments Co., Ltd., China) was adopted to detect 
+the surface tension of the essential oil. The conduc-
+tivity of the oil was determined using a DDS-307 
+conductivity meter (Shanghai Jingke Electronic Co., 
+Ltd., China). The pH value measurement was made 
+using a pH meter (PHS-3C, Sanxin, China) at 25 °C. 
+The relative density was measured through a weigh-
+ing method using an electronic balance (Sartorius, 
+Germany). 
+2.7  Preparation of full thickness skin and stratum 
+corneum (SC) 
+Male Sprague-Dawley (SD) rats weighing (200± 
+10) g were purchased from Shibeifu Laboratory 
+Animal Technology Co., Ltd. (Beijing, China). After 
+sacrificing the rats with excess ether inhalation, hair 
+from the abdominal surface was removed with an 
+animal hair clipper (Codos, China) with an extreme 
+precaution as to not impair the skin. The shaved skin 
+was then excised from the animals, the subcutaneous 
+tissue was removed surgically and the dermal side 
+was wiped with a cotton swab to remove the adhered 
+fat tissue. The full thickness skin prepared was sub-
+sequently washed with phosphate buffer saline (PBS), 
+wrapped in aluminum foil, and stored at −20 °C (used 
+within two weeks). All the animal experiments were 
+conducted in compliance with the Guiding Principles 
+for the Care and Use of Laboratory Animals, Beijing 
+University of Chinese Medicine, China, and the ex-
+perimental protocol was approved by the Committee 
+on Animal Research of the Beijing University of 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 
+ 
+156
+Chinese Medicine. 
+The excised rat skin was treated with 2 mol/L 
+sodium bromide solution for 8 h as reported previ-
+ously (Jain et al., 2002). The SC samples were sepa-
+rated by using a cotton swab moistened with double 
+distilled water. SC sheets were thoroughly washed 
+with water and dried in a vacuum desiccator. 
+2.8  Cytotoxicity assay 
+To determine the cellular toxicity of Z. bungeanum 
+oil in epidermal keratinocyte and dermal fibroblast 
+cultures, the MTT assay was used to monitor the toxic 
+effects of Z. bungeanum oil on skin cells in vitro as 
+described in detail elsewhere (Song et al., 2005). 
+Fibroblasts or keratinocytes were seeded into 96-well 
+plates at a density of 7000 cells in 100 µl medium per 
+well. After 24 h, the cells were incubated with varying 
+concentrations of enhancer solution in a culture me-
+dium with 1% DMSO (as a vehicle) for 24 h at 37 °C. 
+The cells that were treated with culture medium 
+containing 1% DMSO were used as the control. 
+Subsequently, the medium was removed and sup-
+plemented with fresh medium containing 20 µl MTT 
+solution (5 mg/ml in phosphate buffer) and the cells 
+were incubated for 4 h. Then the medium was re-
+placed with 150 µl DMSO to dissolve the formazan 
+crystals. The plate was incubated for 10 min while 
+shaking. Absorbance was read at 490 nm using a 
+microplate spectrophotometer (Thermo Scientific, 
+Finland). The half maximal inhibitory concentrations 
+(IC50) were calculated using SPSS software v16.0 
+according to the previously described method (Xiang 
+et al., 2010). 
+2.9  Skin permeation studies  
+The vertical Franz-type diffusion cell (Shanghai 
+Kaikai Technology Trade Co., Ltd., China) with a 
+diffusional area of 1.77 cm2 and a receptor chamber 
+volume of 7 ml was employed to investigate percu-
+taneous penetration enhancement activity of the Z. 
+bungeanum oil. The epidermis prepared was sand-
+wiched between the diffusion cells with the SC side 
+up and the dermal side exposed to the receiver com-
+partment containing isotonic PBS (pH 7.2), the re-
+ceptor cells were thermostated at 32 °C, and the so-
+lution in the receptor chambers was stirred continu-
+ously at 300 r/min. The skin was then treated with  
+ 
+2 ml of varying concentrations of Z. bungeanum oil in 
+PG:water (80:20, v/v). Saturated suspensions of model 
+drugs were used to insure maximum thermodynamic 
+activity and maintain sink conditions. The control was 
+treated with a vehicle only. Samples (1 ml) were 
+withdrawn from the receptor chamber at predeter-
+mined time (1, 2, 4, 6, 8, 10, 12, 14, 22, and 24 h), and 
+replaced with an equivalent volume of buffer solution, 
+and the samples were immediately assayed using the 
+HPLC method described in Section 2.4. 
+2.10  Determination of saturated solubility of 
+model drugs 
+In order to investigate the effect of Z. bungeanum 
+oil applied on the saturation solubility of the model 
+drugs, an excess drug was added to the known vol-
+umes of the vehicle with or without varying concen-
+trations of Z. bungeanum oil, vortexed for 3 min fol-
+lowed by sonication for 15 min to dissolve the drug, 
+and then equilibrated at (32±0.5) °C for more than  
+48 h. The saturated solution was then centrifuged at 
+10 000 r/min for 15 min and aliquots of supernatant 
+were filtered through a 0.45-μm nylon filter and di-
+luted by a mobile phase before HPLC analysis.   
+2.11  Measurement of SC/vehicle partition coeffi-
+cient of model drugs 
+The partition coefficient of model drugs into  
+SC with or without various concentrations of Z. 
+bungeanum oil treatment was measured as reported 
+previously (Song et al., 2005). The SC samples were 
+pulverized in a mortar with a pestle. One milliliter  
+of varying concentrations of Z. bungeanum oil in 
+PG:water (80:20, v/v) containing 0.1 g/ml model drug 
+was added to 10 mg ground SC with frequent vor-
+texing. The control was treated with a vehicle only. 
+The mixture was equilibrated for 10 h at 37 °C. The 
+supernatant solution was obtained by centrifuging at 
+10 000 r/min for 10 min and then analyzed for the 
+drug content. The amount of drug bound to the SC 
+was calculated by subtracting the amount of the drug 
+in the supernatant from the initial drug concentration. 
+All partition studies were conducted in triplicate.  
+The partition coefficient (K) of the model drug  
+was obtained using the following equation: K= 
+(drug concentration in SC)/(drug concentration in 
+vehicle). 
+ 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 157
+2.12  Fourier transform infrared spectroscopy 
+(FTIR) studies  
+ 
+The dried SC sheet was cut into approximately  
+1 cm2 pieces and incubated for 12 h in 5 ml of the 
+respective solutions at room temperature, where the 
+solutions were 1%, 3%, 5%, and 10% Z. bungeanum 
+oil, 0.2 mol/L Azone, and solvent (PG:water=80:20 
+(v/v), used as the control), respectively. The SC was 
+then cleaned carefully with distilled water to remove 
+the residual solvent on the SC surface and placed in a 
+vacuum desiccator at 37 °C overnight for complete 
+dehydration. The spectral measurements of all pieces 
+were made with a Nexus FTIR spectrometer (Thermo 
+Nicolet, USA) equipped with an attenuated total re-
+flectance (ATR) attachment with the following pa-
+rameters: resolution of 2 cm−1, scanning times of 100, 
+and scanning range of 650–4000 cm−1. The FTIR 
+spectral curves in each group were recorded using an 
+OMNIC 6.2 program attached to the IR instrument 
+itself. 
+2.13  Data and statistical analysis 
+The parameters for the skin permeation studies 
+were calculated by plotting the cumulative amount of 
+drug permeated across the skin against time (h). 
+Steady state flux (Js) was calculated as the slope of the 
+linear portion of the plot (between 8 and 14 h). The 
+lag time (Tlag) was determined by extrapolating the 
+linear portion of the curve to the X-axis. The cumu-
+lative drug amount in the receptor chamber after 24 h 
+(Q24) and diffusion parameter (D/h2) were calculated 
+from the following equations: 
+ 
+1
+24 r s0
+,tt iiQ V C V C
+
+                   (1) 
+2
+lag/ 1 (6 ) ,D h T                        (2) 
+ 
+where Ci is the drug concentration of the receiver 
+solution at each sampling time, Ct is the drug con-
+centration of the sample, Vs and Vr are the volumes of 
+the sampling solution and the receiver solution, re-
+spectively, D is the diffusion coefficient within the 
+skin, and h is the diffusional path length. 
+In order to compare the permeation enhancement 
+capacity of different concentrations of Z. bungeanum 
+oil, the enhancement ratio (ER) for flux was calculated  
+ 
+using the following equation: ER=(flux for skin 
+treated with essential oil)/(flux for control (exposed to 
+only vehicle)). 
+Data were expressed as the mean±standard de-
+viation (SD) and the number of replicates (n) was 
+given in the pertinent figures. A two-tailed Student’s 
+t-test was used when comparing two different condi-
+tions. In all cases, P<0.05 was considered significant. 
+ 
+ 
+3  Results and discussion 
+3.1  Chemical compositions and physicochemical 
+properties of the Z. bungeanum oil 
+A total of 48 compounds were identified from 
+the essential oil, which represented 96.35% of the 
+total oil. There were 31 constituents accounting for 
+above 0.5% of the total oil as listed in Table 1, and 
+three major oil contributors (i.e., terpinen-4-ol, 1,8- 
+cineole, and limonene, which represented 41.38% of 
+the total oil) were further confirmed using the corre-
+sponding pure compounds. Based on the results of the 
+GC-MS analysis, the Z. bungeanum oil contained 
+high contents of oxygenated monoterpenes and 
+monoterpene hydrocarbons, and the major com-
+pounds were terpinen-4-ol (18.42%), 1,8-cineole 
+(15.49%), limonene (7.47%), α-terpineol (5.79%), 
+and γ-terpinene (5.62%), which was slightly different 
+from the previous report (Wang et al., 2006) on ac-
+count of different producing areas, growth conditions, 
+and extracted methods. The results of the measure-
+ment of the essential oil physicochemical properties 
+exhibited that the oil had the physiochemical parame-
+ters as follows: density 0.86 mg/ml; pH 5.18; electric 
+conductivity 0 μs/cm; surface tension 24.96 mN/m; 
+maximum UV absorption wavelength 227 nm. 
+Generally, the major components determine the 
+biological properties of the essential oil, and it has 
+been reported that some terpenes identified from the 
+essential oil could enhance the transdermal permea-
+tion of the polar and non-polar drugs, such as  
+terpinen-4-ol (Magnusson et al., 1997), 1,8-cineole, 
+terpineol (Narishetty and Panchagnula, 2005), and 
+limonene (Okabe et al., 1989), indicating these major 
+oil contributors play a crucial role in the enhancement 
+activity of Z. bungeanum oil as a transdermal pene-
+tration enhancer. 
+ 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 
+ 
+158
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.2  Cytotoxicity of Z. bungeanum oil on skin cells 
+Most penetration enhancers have been shown to 
+produce skin irritation or toxicity in spite of their 
+fairly satisfactory performance in enhancing the 
+permeation of drug molecules; hence few of them 
+have been approved for clinical use. The cytotoxici-
+ties of Z. bungeanum oil and the well-established and 
+standard penetration enhancer Azone were studied 
+using MTT assay, and the results of keratinocytes and 
+fibroblasts treated with different concentrations of 
+selected penetration enhancers are presented in Fig. 1. 
+All examined permeation enhancers induced dose- 
+dependent reductions in cellular viability after 24 h 
+(Figs. 1a and 1b). As summarized in Table 2, the IC50 
+values (i.e., the concentration of drugs inducing a 
+50% decrease in cell viability) of Z. bungeanum oil 
+were prominently higher in both HaCaT cells and 
+CCC-ESF-1 cells compared to those of Azone, indi-
+cating that Z. bungeanum oil was probably a low toxic 
+penetration enhancer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3  Effects of Z. bungeanum oil on percutaneous 
+permeation of model drugs 
+To determine the permeation enhancement ac-
+tivity of Z. bungeanum oil across the rat skin, the 
+control was prepared only by dissolving the model 
+drugs in the base solvent, i.e., PG:water (80:20, v/v). 
+PG:water was chosen as a base solvent on account of 
+its ability to solubilize most tested components, in-
+cluding Z. bungeanum oil and Azone. Moreover, as 
+the well-established and standard penetration en-
+hancer, Azone had been employed by many re-
+searchers to achieve significant permeation en-
+hancement and the concentration (0.2 mol/L) was 
+typically used in skin penetration enhancement 
+studies (Meidan et al., 2003; Kaushik et al., 2010; 
+Batheja et al., 2011); hence 0.2 mol/L Azone was 
+used to compare and better evaluate the permeation 
+enhancement activity of the oil. 
+The effect of Z. bungeanum oil at various con-
+centrations (1%, 3%, 5%, and 10%) on the permea-
+tion parameters (flux, Tlag, and Q24) for 5-FU is pre-
+sented in Table 3. The oil at higher concentration was 
+not considered in this study on account of its incom-
+plete dissolution in the vehicle. The oil at different 
+Table 1  Major components of the essential oil from
+Zanthoxylum bungeanum detected by GC-MS 
+tRa 
+(min) Compound RI
+b ID  method 
+Relative 
+content 
+(%) 
+9.48  3-Thujene 917 MS, RI 0.59 
+9.81  α-Pinene 923 MS, RI 1.21 
+11.99  β-Phellandrene 957 MS, RI 1.80 
+13.46  Myrcene 979 MS, RI 3.89 
+15.17  α-Terpine 1004 MS, RI 3.29 
+15.39  o-Cymene 1007 MS, RI 1.53 
+16.02  1,8-Cineole  1013 MS, RIc 15.49 
+16.28  Limonene 1016 MS, RIc 7.47 
+17.05  (E)-β-ocimene 1024 MS, RI 1.19 
+17.94  (Z)-β-ocimene 1034 MS, RI 0.53 
+18.72  γ-Terpinene 1042 MS, RI 5.62 
+21.36  Terpinolene 1071 MS, RI 1.69 
+22.42  Linalool 1082 MS, RI 4.55 
+23.93  1 1098 MS, RI 1.10 
+25.67  2 1114 MS, RI 1.03 
+28.69  Cryptone 1141 MS, RI 1.72 
+30.08  Terpinen-4-ol 1153 MS, RIc 18.42 
+31.25  α-Terpineol 1163 MS, RI 5.79 
+31.93  3 1169 MS, RI 0.66 
+33.20  4 1180 MS, RI 0.58 
+34.16  5 1189 MS, RI 0.52 
+35.14  Cumic aldehyde 1198 MS, RI 0.50 
+36.91  Piperitone 1212 MS, RI 2.62 
+39.25  Phellandral 1232 MS, RI 1.08 
+40.02  Linalyl acetate 1238 MS, RI 0.55 
+41.91  Cuminic alcohol 1254 MS, RI 0.52 
+50.42  Terpinyl acetate 1324 MS, RI 4.62 
+51.60  Citronellyl acetate 1334 MS, RI 0.62 
+54.75  Geranyl acetate 1360 MS, RI 0.68 
+75.73  Caryophyllene oxide 1538 MS, RI 0.57 
+107.84 Octadecane 1843 MS, RI 1.32 
+ Total   91.75 
+Compound 1: trans-4-(isopropyl)-1-methylcyclohex-2-en-1-ol; 
+Compound 2: cis-4-(isopropyl)-1-methylcyclohex-2-en-1-ol; 
+Compound 3: trans-6-(isopropyl)-3-methylcyclohex-2-en-1-ol; 
+Compound 4: cis-6-(isopropyl)-3-methylcyclohex-2-en-1-ol; 
+Compound 5: (Z)-2-methyl-5-(1-methylethenyl)-cyclohexen-2-ol. 
+a tR is the retention time of the identified compounds; b RI is Kovat 
+retention indices on DB-1MS column; c It is further confirmed by 
+using the corresponding pure compound. ID: identification 
+ 
+Table 2  IC50 values of Azone and the Zanthoxylum
+bungeanum oil for HaCaT and CCC-ESF-1 cell lines 
+Penetration  
+enhancer 
+IC50 (mg/ml) 
+HaCaT CCC-ESF-1 
+Azone 0.047±0.002 0.048±0.004 
+Z. bungeanum oil 2.435±0.019 3.649±0.055 
+Each value represents the mean±SD (n=6) 
+ 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 159
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+concentrations exhibited statistically higher flux and 
+Q24 values in comparison to those of the control, and 
+showed a concentration-dependent manner as shown 
+in Fig. 2. Meanwhile, apart from the 10% oil group, 
+the Tlag value of the other oil groups was significantly 
+superior to that of the control (P<0.05), and there  
+was no significant difference between the control  
+and the 10% oil group in terms of Tlag value. In addi-
+tion, 0.2 mol/L Azone produced high permeation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+enhancement activity (ER=187.89) with low Tlag 
+value compared with the control, which was con-
+sistent with the previous studies (Singh et al., 1993; 
+He et al., 2008). However, the 5% oil group (ER= 
+237.05) exhibited better penetration enhancement 
+activity than Azone, suggesting that Z. bungeanum oil 
+at a proper concentration could effectively promote 
+the transdermal delivery of the hydrophilic drugs with 
+a long Tlag. 
+Table 3  Percutaneous permeation parameters of 5-FU through excised rat skin 
+Penetration enhancer Flux (μg/(cm2·h)) Tlag (h) Q24 (μg/cm2) ER Solubility (mg/ml)
+Control 1.16±0.21 2.04±0.83 49.77±8.85 1.0 4.93±0.40 
+0.2 mol/L Azone 217.96±20.62* 0.87±0.22* 7717.26±701.71* 187.8 7.60±0.46* 
+1% oil 7.45±1.19* 5.82±0.34* 323.24±51.78* 6.4 7.07±1.88* 
+3% oil 102.83±11.75* 6.48±0.83* 4949.27±377.64* 88.6 6.72±0.71* 
+5% oil 274.98±13.13* 5.61±0.79* 9450.17±443.77* 237.1 3.87±0.33* 
+10% oil 362.06±43.68* 2.85±0.69 11 180.47±889.73* 312.1 3.58±0.54* 
+Each value represents the mean±SD (n=5), except for ER. * P<0.05, statistically significant difference between enhancers and control  
+C
+el
+l v
+ia
+bi
+lit
+y
+0.6
+25
+ m
+mo
+l/L
+0.3
+12
+5 m
+mo
+l/L
+0.1
+56
+25
+ m
+mo
+l/L
+0.0
+78
+12
+15
+ m
+mo
+l/L
+0.0
+39
+06
+07
+5 m
+mo
+l/L
+0.0
+19
+53
+03
+75
+ m
+mo
+l/L
+17
+.2 
+mg
+/m
+l
+8.6
+ m
+g/m
+l
+4.3
+ m
+g/m
+l
+2.1
+5 m
+g/m
+l
+1.0
+75
+ m
+g/m
+l
+0.5
+37
+5 m
+g/m
+l
+C
+el
+l v
+ia
+bi
+lit
+y
+0.6
+25
+ m
+mo
+l/L
+0.3
+12
+5 m
+mo
+l/L
+0.1
+56
+25
+ m
+mo
+l/L
+0.0
+78
+12
+15
+ m
+mo
+l/L
+0.0
+39
+06
+07
+5 m
+mo
+l/L
+1.2
+5 m
+mo
+l/L
+17
+.2 
+mg
+/m
+l
+8.6
+ m
+g/m
+l
+4.3
+ m
+g/m
+l
+2.1
+5 m
+g/m
+l
+1.0
+75
+ m
+g/m
+l
+0.5
+37
+5 m
+g/m
+l
+Fig. 1  Toxicities of Zanthoxylum bungeanum oil and Azone in HaCaT keratinocyte and CCC-ESF-1 fibroblast cell lines 
+(a) Effects of selected permeation enhancers on HaCaT cell viability; (b) Effects of selected permeation enhancers on 
+CCC-ESF-1 cell viability; (c) Cellular morphology of HaCaT; (d) Cellular morphology of CCC-ESF-1. Data in (a) and (b) are 
+expressed as mean±SD (n=6) 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 
+ 
+160
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The permeation profile of the cumulative 
+amounts of IM penetrated across the rat skin is shown 
+in Fig. 3. Similar to 5-FU, Z. bungeanum oil also 
+markedly enhanced the percutaneous absorption of 
+IM, whereas the Tlag value gradually decreased with 
+increasing the oil concentration as presented in Table 4, 
+implying that Z. bungeanum oil remarkably enhanced 
+the penetration of the lipophilic drugs with a relative 
+short Tlag. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Based on the results of the penetration studies 
+using two model drugs, it appears that Z. bungeanum 
+oil could effectively facilitate the percutaneous ab-
+sorptions of both hydrophilic and lipophilic drugs in  
+a concentration-dependent manner, and also had a 
+higher efficiency for the penetration of the hydro-
+philic drugs across the rat skin than for that of the 
+lipophilic drugs according to the ER values. In addi-
+tion, it is worth noting that the rat skin is more per-
+meable than human skin due to the differences in their 
+compositions and structure (Niazy, 1996), and more 
+accurate evaluation should be measured using porcine 
+skin or human skin (Reifenrath et al., 1984).  
+3.4  Possible action mechanisms of Z. bungeanum oil 
+The mechanisms of action of transdermal pene-
+tration enhancers have been investigated by many 
+research groups and possible explanations for the 
+enhancement activity have been suggested as follows: 
+(1) alteration of the thermodynamic activity of the 
+drug causing that drug molecules readily penetrate 
+across the skin (Song et al., 2005; Zhang et al., 2006); 
+(2) increased partition of the drug into the SC (Vaddi 
+et al., 2002); (3) interactions with SC lipids or pro-
+teins resulting in disruption of the chemical structure 
+or composition of the SC and disorganization of the 
+highly ordered structures, thus increasing the delivery 
+of the drug molecules (Williams and Barry, 2012). 
+Certainly, other potential mechanisms for explaining 
+the activity may also exist.  
+The results of the saturated solubilities and 
+SC/vehicle partition coefficients of both 5-FU and IM 
+after treatment with varying concentrations of Z. 
+bungeanum oil are summarized in Tables 3, 4, and 5, 
+respectively. For 5-FU, the saturated solubility 
+slightly decreased with increasing the oil concentra-
+tion, implying that the thermodynamic activity of 
+5-FU was altered to a certain extent in the presence of 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4  Percutaneous permeation parameters of IM through excised rat skin 
+Penetration enhancer Flux (μg/(cm2·h)) Tlag (h) Q24 (μg/cm2) ER Solubility (mg/ml)
+Control 0.40±0.03 5.12±0.57 16.52±1.71 1.0 2.86±0.23 
+0.2 mol/L Azone 16.36±2.49* 0.66±0.22* 708.84±107.34* 40.9 2.85±0.29 
+1% oil 5.84±0.68* 4.70±0.23 215.74±33.58* 14.6 2.99±0.19 
+3% oil 21.80±3.77* 5.18±0.12 837.24±71.72* 54.5 3.69±0.04* 
+5% oil 28.78±3.54* 3.30±0.26* 978.42±87.42* 71.9 3.95±0.13* 
+10% oil 33.06±4.27* 1.89±0.60* 1164.10±216.50* 82.6 4.43±0.22* 
+Each value represents the mean±SD (n=5), except for ER. * P<0.05, statistically significant difference between enhancers and control 
+ 
+Fig. 2  Effects of Zanthoxylum bungeanum oil on per-
+cutaneous permeation of 5-FU through excised rat skin
+Data are expressed as mean±SD (n=5) 
+0 5 10 15 20 25
+0
+2000
+4000
+6000
+8000  
+ 
+ 
+ 
+ 
+C
+um
+ul
+at
+iv
+e 
+am
+ou
+nt
+ (µ
+g/
+cm
+2 )
+ 
+Time (h) 
+Control 
+0.2 mol/L Azone 
+1% oil 
+3% oil 
+5% oil 
+10% oil 
+Fig. 3  Effects of Zanthoxylum bungeanum oil on per-
+cutaneous permeation of IM through excised rat skin 
+Data are expressed as mean±SD (n=5) 
+0 5 10 15 20 25
+0
+100
+200
+300
+400
+500
+600
+700
+800
+ 
+ 
+ 
+ 
+ 
+ 
+C
+um
+ul
+at
+iv
+e 
+am
+ou
+nt
+ (µ
+g/
+cm
+2 )
+ 
+Time (h) 
+Control 
+0.2 mol/L Azone 
+1% oil 
+3% oil 
+5% oil 
+10% oil 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 161
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+the essential oil (Zhang et al., 2006). The saturated 
+solubility of the 5-FU in the low-concentration oil 
+(1% and 3%) was higher than that of the control, 
+which was probably due to its moderate hydrophilic-
+ity. However, there was no significant difference 
+between the control and the Z. bungeanum oil at dif-
+ferent concentrations in terms of the SC/vehicle par-
+tition coefficient, which indicates that Z. bungeanum 
+oil might contribute negligibly to the partitioning of 
+hydrophilic drugs into SC due to its lipophilicity 
+properties. Contrary to 5-FU, the SC/vehicle partition 
+coefficient of IM gradually increased with the oil 
+concentration increasing, and it was up to 5.85 times 
+higher than that of the control when the oil concen-
+tration reached 10%. Furthermore, Z. bungeanum oil 
+at different concentrations gradually improved the 
+saturation solubility of IM, suggesting that the ther-
+modynamic activity of IM was also significantly 
+altered. Therefore, it implied that the Z. bungeanum 
+oil could change the saturated solubility or the 
+SC/vehicle partition coefficient of drugs to improve 
+their delivery through the skin. 
+However, compared with the penetration ER, the 
+alteration in the SC/vehicle partition coefficient or 
+thermodynamic activity of two model drugs was rel-
+atively weak, suggesting that the Z. bungeanum oil 
+probably enhanced the drug transdermal delivery 
+substantially by changing the skin barrier property, 
+but not altering the drug properties. Considering that 
+Tlag is related to diffusivity, and it can reflect changes 
+in both the length of the permeation path (h) and the 
+diffusion coefficient (D) to suggest the interaction of 
+the enhancer with the SC lipid and protein according 
+to Eq. (2) as described above. As shown in Tables 3 
+and 4, for both of 5-FU and IM, the Tlag values were 
+roughly reduced with increasing the oil concentra-
+tions, indicating that the Z. bungeanum oil probably 
+interacted with the SC lipids or protein to disrupt its 
+barrier properties. 
+The FTIR absorption spectra were thus meas-
+ured to investigate the biophysical changes of the rat 
+skin SC properties due to its advantages on obtaining 
+information about the lipids and keratin conformation 
+in the SC. A representative spectrum of normal un-
+treated rat skin SC shows that the major absorption 
+peaks around 2850 and 2918 cm−1 due to symmetric 
+and asymmetric C–H stretching vibration of the lipid 
+alkyl chains (Zhang et al., 2007), the fatty acid car-
+bonyl stretching peaks near 1733 cm−1 (Moore and 
+Rerek, 2000; Jain et al., 2002), and two strong amide 
+absorption peaks in the range of 1500–1700 cm−1, i.e., 
+1652 cm−1 due to C=O stretching vibration of the 
+amide I band and 1538 cm−1 due to the N–H bending 
+vibration of the amide II band (Khurana et al., 2013). 
+The shift to a higher frequency occurs when the CH2 
+groups along the alkyl chain of lipids change from 
+trans to gauche conformation, suggesting that the SC 
+lipid is disturbed, and the peak areas of the two C–H 
+absorption bands are proportional to the amount of the 
+SC lipids (Zhang et al., 2007). The change in the 
+amide I and amide II absorption peaks to a lower 
+wavelength is observed to indicate the alterations of 
+the keratin conformation under the effect of penetra-
+tion enhancers (Zbytovská et al., 2004; He et al., 
+2009). In addition, the frequencies of the fatty acid 
+carbonyl stretching mode, the keratin amide I and 
+amide II modes are sensitive to hydrogen bonding, 
+which can provide information on head-group inter-
+actions in the SC lipids (Moore and Rerek, 2000).  
+The FTIR absorption spectra of rat SC treated 
+with varying concentrations of the Z. bungeanum oil 
+are displayed in Fig. 4. Compared with untreated rat 
+SC, FTIR of rat SC treated with the solvent showed 
+no obvious shift in wavenumber or changes in peak 
+area or peak height, suggesting that PG:water (80:20, 
+v/v) system was inefficient to perturb or extract the 
+SC lipids and proteins. The decrease in peak area of 
+the C–H stretching bands and the shift in wavenumber 
+were observed after treatment with different concen-
+trations of Z. bungeanum oil, and the higher the oil 
+concentration was, the greater the shift in C–H 
+stretching vibration was (as presented in Fig. 5 and 
+Table 6). This indicated that the Z. bungeanum oil  
+Table 5  Partition coefficients of model drugs treated 
+with different enhancers (n=3) 
+Penetration 
+enhancer 
+5-FU IM 
+K PER K PER
+Control 0.109±0.014 − 0.170±0.020 − 
+1% oil 0.101±0.008 0.92 0.202±0.061* 1.19
+3% oil 0.109±0.017 0.99 0.301±0.018* 1.77
+5% oil 0.110±0.007 1.00 0.477±0.147* 2.80
+10% oil 0.105±0.014 0.96 1.001±0.211* 5.86
+K values are expressed as mean±SD (n=3). * P<0.05, statistically
+significant difference between enhancers and control. K: partition 
+coefficient; PER: penetration enhancement ratio, and PER=(partition 
+coefficient with essential oil treatment)/(partition coefficient without 
+essential oil treatment) 
+ 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 
+ 
+162
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+perturbed and extracted the SC lipids to alter the skin 
+permeability. It was notable that the presence of  
+0.2 mol/L Azone only resulted in the shift of C–H 
+stretching vibration to high wavenumber, whereas the 
+peak areas of the two C–H stretching vibration ab-
+sorption bands exhibited negligible change in com-
+parison to those of untreated rat SC, which implied 
+that 0.2 mol/L Azone increased the drug permeation 
+mainly by perturbing the SC lipids. Meanwhile, the 
+absence of –C=O peak of fatty acid indicated that the 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+changes in the hydrogen bonding of the polar regions 
+of the lipid bilayers might occur after treated with 
+either Z. bungeanum oil or Azone. The wavelength 
+movements of the amide I and amide II bands were 
+narrow, perhaps indicating the Z. bungeanum oil 
+contributed negligibly to the alteration of the keratin 
+conformation. 
+Table 6  Peak positions of lipids and amides of SC after 
+treated with varying agents 
+Sample 
+Peak position of  
+lipid (cm−1) 
+Peak position of 
+amide (cm−1) 
+Asymmetric 
+C–H stretching 
+Symmetric 
+C–H stretching I II 
+Blank 2918.87 2850.45 1652.28 1538.98
+Control 2918.92 2850.35 1652.25 1538.93
+1% oil 2924.08 2852.57 1652.06 1538.71
+3% oil 2922.99 2852.39 1651.88 1538.60
+5% oil 2923.59 2852.38 1651.79 1538.60
+10% oil 2924.97 2853.65 1651.79 1538.56
+0.2 mol/L 
+Azone 2924.23 2853.59 1651.70 1538.72
+ 
+Fig. 4  FTIR spectra of the rat SC after treatment with different agents for 12 h 
+Bla
+nk
+Con
+trol
+0.2
+ mo
+l/L 
+Azo
+ne
+1%
+ oil
+3%
+ oil
+5%
+ oil
+10%
+ oil
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+1.1
+P
+ea
+k 
+ar
+ea
+Penetration enhancer
+ 
+ 
+Fig. 5  Peak areas of C–H stretching of SC lipids treated 
+with different penetration enhancers 
+Data are expressed as mean±SD (n=3). * Statistically sig-
+nificant difference between enhancers and control (P<0.05)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+Asymmetric C–H stretching 
+Symmetric C–H stretching 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 163
+4  Conclusions 
+ 
+Based on the results of this study, it was found 
+that Z. bungeanum oil appeared to be a low skin tox-
+icity in comparison to the well-established and standard 
+penetration enhancer Azone, and effectively facilitated 
+the percutaneous permeation of both 5-FU and IM 
+through rat skin in a concentration-dependent manner. 
+The partition studies exhibited that the partition co-
+efficient for 5-FU was not altered, whereas it signifi-
+cantly increased for IM with incorporation of Z. 
+bungeanum oil, indicating possible interaction of the 
+oil with the SC lipids. Contrary to 5-FU, the saturated 
+solubility of IM was gradually decreased with the 
+increasing of the oil concentration, implying that the 
+Z. bungeanum oil had altered the thermodynamic 
+activities of both hydrophilic and lipophilic drugs to 
+some extent. The results of FTIR studies showed that 
+Z. bungeanum oil facilitated the drug permeation 
+mainly by perturbing and extracting the SC lipids. In 
+conclusion, Z. bungeanum oil could effectively facil-
+itate the permeation of both hydrophilic and lipophilic 
+drugs with low cytotoxicity. 
+ 
+Acknowledgements 
+The authors thank Ms. Li-xing YANG (Institute of Chi-
+nese Materia Medica, China Academy of Chinese Medical 
+Sciences, Beijing, China) for her assist in the GC-MS analysis. 
+ 
+Compliance with ethics guidelines 
+Yi LAN, Qing WU, Ying-qiu MAO, Qiong WANG, Jing 
+AN, Yan-yan CHEN, Wen-ping WANG, Bo-chen ZHAO, Na 
+LIU, and Ye-wen ZHANG declare that they have no conflict of 
+interest.  
+All institutional and national guidelines for the care and 
+use of laboratory animals were followed. 
+ 
+References 
+Aqil, M., Ahad, A., Sultana, Y., et al., 2007. Status of terpenes 
+as skin penetration enhancers. Drug Discov. Today, 
+12(23-24):1061-1067. [doi:10.1016/j.drudis.2007.09.001] 
+Batheja, P., Sheihet, L., Kohn, J., et al., 2011. Topical drug 
+delivery by a polymeric nanosphere gel: formulation op-
+timization and in vitro and in vivo skin distribution stud-
+ies. J. Control. Release, 149(2):159-167. [doi:10.1016/j. 
+jconrel.2010.10.005] 
+Fox, L.T., Gerber, M., Plessis, J.D., et al., 2011. Transdermal 
+drug delivery enhancement by compounds of natural 
+origin. Molecules, 16(12):10507-10540. [doi:10.3390/ 
+molecules161210507] 
+Gong, Y.W., Huang, Y.F., Zhou, L.G., et al., 2009. Chemical 
+composition and antifungal activity of the fruit oil of 
+Zanthoxylum bungeanum Maxim. (Rutaceae) from China. 
+J. Essent. Oil Res., 21(2):174-178. [doi:10.1080/1041 
+2905.2009.9700141] 
+He, W., Guo, X., Zhang, M., 2008. Transdermal permeation 
+enhancement of n-trimethyl chitosan for testosterone. Int. 
+J. Pharm., 356(1-2):82-87. [doi:10.1016/j.ijpharm.2007. 
+12.050] 
+He, W., Guo, X., Xiao, L., et al., 2009. Study on the mecha-
+nisms of chitosan and its derivatives used as transdermal 
+penetration enhancers. Int. J. Pharm., 382(1-2):234-243. 
+[doi:10.1016/j.ijpharm.2009.07.038] 
+Jain, A.K., Thomas, N.S., Panchagnula, R., 2002. Transdermal 
+drug delivery of imipramine hydrochloride: I. Effect of 
+terpenes. J. Control. Release, 79(1-3):93-101. [doi:10. 
+1016/S0168-3659(01)00524-7] 
+Kaushik, D., Costache, A., Michniak-Kohn, B., 2010. Percu-
+taneous penetration modifiers and formulation effects. Int. 
+J. Pharm., 386(1-2):42-51. [doi:10.1016/j.ijpharm.2009. 
+10.052] 
+Khurana, S., Jain, N.K., Bedi, P.M.S., 2013. Nanoemulsion 
+based gel for transdermal delivery of meloxicam: physico- 
+chemical, mechanistic investigation. Life Sci., 92(6-7): 
+383-392. [doi:10.1016/j.lfs.2013.01.005] 
+Magnusson, B.M., Runn, P., Koskinen, L.O., 1997. Terpene- 
+enhanced transdermal permeation of water and ethanol in 
+human epidermis. Acta Derm. Venereol., 77(4):264-267. 
+Meidan, V.M., Al-Khalili, M., Michniak, B.B., 2003. En-
+hanced iontophoretic delivery of buspirone hydrochloride 
+across human skin using chemical enhancers. Int. J. 
+Pharm., 264(1-2):73-83. [doi:10.1016/S0378-5173(03) 
+00390-9] 
+Moore, D.J., Rerek, M.E., 2000. Insights into the molecular 
+organization of lipids in the skin barrier from infrared 
+spectroscopy studies of stratum corneum lipid models. 
+Acta Derm. Venereol., Suppl. (Stockh.), 208:16-22. 
+Narishetty, S.T.K., Panchagnula, R., 2005. Effect of L-menthol 
+and 1,8-cineole on phase behavior and molecular organ-
+ization of SC lipids and skin permeation of zidovudine. J. 
+Control. Release, 102(1):59-70. [doi:10.1016/j.jconrel. 
+2004.09.016] 
+Niazy, E.M., 1996. Differences in penetration-enhancing 
+effect of Azone through excised rabbit, rat, hairless 
+mouse, guinea pig and human skins. Int. J. Pharm., 
+130(2):225-230. [doi:10.1016/0378-5173(95)04319-5] 
+Okabe, H., Takayama, K., Ogura, A., et al., 1989. Effect of 
+limonene and related compounds on the percutaneous 
+absorption of indomethacin. Drug Des. Deliv., 4(4):313- 
+321. 
+Reifenrath, W.G., Chellquist, E.M., Shipwash, E.A., et al., 
+1984. Evaluation of animal models for predicting skin 
+penetration in man. Fundam. Appl. Toxicol., 4(2 Pt 2): 
+S224-S230. [doi:10.1016/0272-0590(84)90156-8] 
+Sapra, B., Jain, S., Tiwary, A., 2008. Percutaneous permeation 
+enhancement by terpenes: mechanistic view. AAPS J., 
+10(1):120-132. [doi:10.1208/s12248-008-9012-0] 
+Lan et al. / J Zhejiang Univ-Sci B (Biomed & Biotechnol)   2014 15(2):153-164 
+ 
+164
+Sereshti, H., Izadmanesh, Y., Samadi, S., 2011. Optimized 
+ultrasonic assisted extraction-dispersive liquid-liquid 
+microextraction coupled with gas chromatography for 
+determination of essential oil of Oliveria decumbens Vent. 
+J. Chromatogr. A, 1218(29):4593-4598. [doi:10.1016/j. 
+chroma.2011.05.037] 
+Singh, J., Tripathi, K.P., Sakya, T.R., 1993. Effect of penetra-
+tion enhancers on the in vitro transport of ephedrine 
+through rat skin and human epidermis from matrix based 
+transdermal formulations. Drug Dev. Ind. Pharm., 19(13): 
+1623-1628. [doi:10.3109/03639049309069331] 
+Song, Y., Xiao, C., Mendelsohn, R., et al., 2005. Investigation 
+of iminosulfuranes as novel transdermal penetration en-
+hancers: enhancement activity and cytotoxicity. Pharm. 
+Res., 22(11):1918-1925. [doi:10.1007/s11095-005-7416-4] 
+Vaddi, H.K., Ho, P.C., Chan, Y.W., et al., 2002. Terpenes in 
+ethanol: haloperidol permeation and partition through 
+human skin and stratum corneum changes. J. Control. 
+Release, 81(1-2):121-133. [doi:10.1016/S0168-3659(02) 
+00057-3] 
+Wang, Z., Ding, L., Li, T., et al., 2006. Improved solvent-free 
+microwave extraction of essential oil from dried Cum-
+inum cyminum L. and Zanthoxylum bungeanum Maxim. J. 
+Chromatogr. A, 1102(1-2):11-17. [doi:10.1016/j.chroma. 
+2005.10.032] 
+Wei, S.G., Zhang, H.H., Wang, Y.Q., et al., 2011. Ultrasonic 
+nebulization extraction-heating gas flow transfer-headspace 
+single drop microextraction of essential oil from pericarp 
+of Zanthoxylum bungeanum Maxim. J. Chromatogr. A, 
+1218(29):4599-4605. [doi:10.1016/j.chroma.2011.05.047] 
+Williams, A.C., Barry, B.W., 2012. Penetration enhancers. 
+Adv. Drug Del. Rev., 64(Suppl.):128-137. [doi:10.1016/ 
+j.addr.2012.09.032] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Wu, Q.F., Wang, W., Dai, X.Y., et al., 2012. Chemical com-
+positions and anti-influenza activities of essential oils 
+from Mosla dianthera. J. Ethnopharmacol., 139(2): 
+668-671. [doi:10.1016/j.jep.2011.11.056] 
+Xia, L., You, J., Li, G., et al., 2011. Compositional and anti-
+oxidant activity analysis of Zanthoxylum bungeanum seed 
+oil obtained by supercritical CO2 fluid extraction. J. Am. 
+Oil Chem. Soc., 88(1):23-32. [doi:10.1007/s11746-010- 
+1644-4] 
+Xiang, W., Gao, A., Liang, H., et al., 2010. Reversal of 
+P-glycoprotein-mediated multidrug resistance in vitro by 
+milbemycin compounds in adriamycin-resistant human 
+breast carcinoma (MCF-7/adr) cells. Toxicol. in Vitro, 
+24(6):1474-1481. [doi:10.1016/j.tiv.2010.07.020] 
+Zbytovská, J., Raudenkolb, S., Wartewig, S., et al., 2004. 
+Phase behaviour of transkarbam 12. Chem. Phys. Lipids, 
+129(1):97-109. [doi:10.1016/j.chemphyslip.2003.12.004] 
+Zhang, C.F., Yang, Z.L., Luo, J.B., et al., 2007. Effects of 
+cinnamene enhancers on transdermal delivery of ligus-
+trazine hydrochloride. Eur. J. Pharm. Biopharm., 67(2): 
+413-419. [doi:10.1016/j.ejpb.2007.02.019] 
+Zhang, L.C., Hu, J.H., Li, L., et al., 2006. In vivo and in vitro 
+evaluation of essential oils from Ligusticum chuanxiong 
+HORT on the transdermal delivery of flurbiprofen in 
+rabbits. Biol. Pharm. Bull., 29(6):1217-1222. [doi:10. 
+1248/bpb.29.1217] 
+Zhao, L., Fang, L., Xu, Y., et al., 2008. Effect of 
+o-acylmenthol on transdermal delivery of drugs with 
+different lipophilicity. Int. J. Pharm., 352(1-2):92-103. 
+[doi:10.1016/j.ijpharm.2007.10.017] 
+Zhu, R.X., Zhong, K., Zeng, W.C., et al., 2011. Essential oil 
+composition and antibacterial activity of Zanthoxylum 
+bungeanum. Afr. J. Microbiol. Res., 5(26):4631-4637. 
+[doi:10.5897/AJMR11.772] 
+ 
+ 
+ 
+中文概要： 
+ 
+本文题目：花椒挥发油作为天然经皮促透剂的细胞毒性及促透活性 
+Cytotoxicity and enhancement activity of essential oil from Zanthoxylum bungeanum Maxim. 
+as a natural transdermal penetration enhancer 
+研究目的：研究花椒挥发油作为天然经皮促透剂的促透活性及其促透机制，同时评价其皮肤细胞毒性。
+创新要点：首次评价了花椒挥发油的皮肤细胞毒性、经皮促透活性及其作用机制。 
+研究方法：利用表皮角质形成细胞（HaCaT）和真皮成纤维细胞（CCC-ESF-1）评价花椒挥发油的细胞
+毒性；采用亲水性及亲脂性模型药测定挥发油促透活性的基础上研究其促透作用机制。 
+重要结论：花椒挥发油具有良好促透活性并具有较低皮肤细胞毒性。 
+关键词组：花椒挥发油；天然经皮促透剂；透皮吸收；表皮角质形成细胞（HaCaT）；傅利叶变换红外
+光谱（ATR-FTIR） 

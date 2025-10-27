@@ -1,0 +1,300 @@
+NÐH  N hydrogen bonding in
+4,6-diphenyl-2-pyrimidinylamine
+isolated from the plant Justicia
+secunda (Acanthaceae)
+John F. Gallagher,a* Shyamaprosad Goswami,b*
+Baidyanath Chatterjee,b Subrata Janab and Kalyani Duttac
+aSchool of Chemical Sciences, Dublin City University, Dublin 9, Ireland,
+bDepartment of Chemistry, B.E. College (Deemed University), Botanic Garden,
+Howrah 711 103, West Bengal, India, and cDepartment of Chemistry, IIT,
+Kharagpur, West Bengal, India
+Correspondence e-mail: john.gallagher@dcu.ie
+Received 24 November 2003
+Accepted 5 February 2004
+Online 11 March 2004
+The title compound, C16H13N3, isolated from Justicia secunda
+(Acanthaceae), comprises two molecules (which differ slightly
+in conformation) in the asymmetric unit of space group P1.
+Intermolecular NaminoÐH  Npyrm interactions (Npyrm is a
+pyrimidine ring N atom) involve only one of the two donor
+amino H atoms and pyrimidine N atoms per molecule, forming
+dimeric units via R22(8) rings, with N  N distances of 3.058 (2)
+and 3.106 (3) AÊ , and NÐH  N angles of 172.7 (18) and
+175.8 (17). The dimers are linked by CÐH  (arene)
+contacts, with an H  centroid distance of 2.77 AÊ and a
+CÐH  centroid angle of 141.
+Comment
+The title compound, 4,6-diphenyl-2-pyrimidinylamine, (I), was
+isolated as a natural product from the plant Justicia secunda
+(Acanthaceae) collected in Trinidad, West Indies. The parent
+structure, viz. 4,6-diphenyl-1,2-dihydropyrimidine, has been
+reported (Weis & Vishkautsan, 1985), but the coordinates are
+not in the Cambridge Structural Database (CSD; Allen, 2002)
+for comparison with (I) (CSD refcode DEZMEA for parent
+compound).
+Compound (I) crystallizes in space group P1 (No. 2) with
+two independent molecules, A and B, in the asymmetric unit,
+which differ slightly in conformation (Fig. 1). Bond lengths
+and angles are largely unexceptional and in accord with
+anticipated values (Orpen et al., 1994); selected dimensions
+are given in Table 1. The central CÐN bond lengths range
+from 1.340 (2) to 1.346 (2) AÊ , while the aromatic CÐC
+distances are in the range 1.381 (3)±1.387 (3) AÊ . Torsion-angle
+differences are evident from analysis of the N1ÐC4ÐC21Ð
+C26 angles, which are ÿ29.8 (3) and 36.5 (3) in molecules A
+and B, respectively (Table 1). Even more dramatic is the
+difference in dihedral angles between the C11±C16 and C21±
+C26 planes, which are 52.15 (7) and 31.79 (7) in molecules A
+and B, respectively. The weighted (unit weight) r.m.s. ®t for
+the superposition of the non-H atoms in both molecules is
+0.65 AÊ (0.55 AÊ ) (Spek, 2003).
+Molecules A and B associate in pairs through NaminoÐ
+H  Npyrm intermolecular interactions (Npyrm is a pyrimidine
+ring N atom), which only involve two of the four amino donor
+H atoms and N pyrimidine acceptors per A/B pair. The N  N
+distances are 3.058 (2) and 3.106 (3) AÊ , and the NÐH  N
+angles are 172.7 (18) and 175.8 (17) (Table 2), thus forming a
+hydrogen-bonded ring with an R22(8) graph set similar to that
+observed in centrosymmetric carboxylic acid pairs. A CÐ
+H  (arene) contact from C12AÐH12A to the C21A±C26A
+ring links the dimeric units into a dimer of dimers, which is
+further augmented via a contact from C26AÐH26A group to
+the N1A/N2A/C1A±C4A ring into a one-dimensional stack
+(Fig. 2 and Table 2). These are the only contacts of note in the
+structure of (I), apart from the NÐH  N hydrogen bonding.
+Examination of the structure of (I) for interactions invol-
+ving N2A/N2B reveals that, along the b direction, atom H24A
+(a potential donor) is 2.99 AÊ from N2Ai, with a C24AÐ
+H24A  N2Ai angle of 163 [symmetry code: (i) x, 1 + y, z].
+Likewise, the closest N  H intermolecular distance involving
+atom N2B is N2B  H24Bi of 3.08 AÊ , with an N2B  H24BiÐ
+C24Bi angle of 155. Neither of these interactions constitutes a
+hydrogen bond.
+Inspection of Fig. 2 shows the dimeric units in a two-
+dimensional cross-section through the crystal structure
+parallel to the [101] plane. In the crystal structure, a more
+ef®cient packing could involve dimer formation about inver-
+sion centres, which would necessitate rotation of the phenyl
+rings to align and ful®l symmetry requirements, e.g. the phenyl
+rings have interplanar angles of 52.12 (7) and 31.79 (7) in
+molecules A and B, respectively. The reason why this does not
+arise is due to the initial hydrogen-bonded dimer formation.
+Utilization of only half of the NÐH  N donor/acceptors per
+A/B hydrogen-bonded dimer prevents the N2A/N2B pair from
+forming hydrogen bonds, as potential (C)NÐH  N donor/
+acceptor pairs cannot approach one another and because of
+the concurrent formation of unfavourable H  H contacts.
+Interactions in (I) are therefore limited to the two NÐH  N
+interactions per A/B pair.
+Ab initio calculations on (I) gave results similar to those
+observed in molecules A and B. Calculations were undertaken
+at the 6-31+G(d) level in the search for a local minimum for
+comparison with molecules A and B, using GAUSSIAN03
+(Frisch et al., 2003). The NÐCÐCÐC torsion angles are
+27.55, similar to the value of ÿ29.8 (3) found in molecule A.
+Acta Cryst. (2004). C60, o229±o231 DOI: 10.1107/S0108270104002902 # 2004 International Union of Crystallography o229
+organic compounds
+Acta Crystallographica Section C
+Crystal Structure
+Communications
+ISSN 0108-2701
+organic compounds
+o230 John F. Gallagher et al.  C16H13N3 Acta Cryst. (2004). C60, o229±o231
+The H2NÐC distance is 1.362 AÊ and the NÐCÐN angle is
+116.79 [range 116.15 (17)±117.05 (17) in molecule A].
+Overall, the calculated results resemble those of molecule A.
+However, no attempt was made to ®nd the global minimum in
+the system.
+Crystal structures with more than one molecule present in
+the asymmetric unit are not uncommon (Steiner, 2000;
+Gallagher et al., 1998). Recently, GoÈ rbitz (2002, 2003) has
+reported on dipeptide derivatives, e.g. two forms of
+l-valyl-l-phenylalanine trihydrate (P21, Z = 16, Z
+0 = 8; P212121,
+Z = 4, Z0 = 1) and l-methionyl-l-alanine (P61, Z = 42, Z0 = 7),
+which provide rare examples of systems with Z0 = 8 and 7
+molecules in their respective asymmetric units, in contrast with
+Z0 = 2, which is not uncommon. Analysis of the CSD
+(February 2004, version 5.25; Allen, 2002) reveals a total of
+65 935 crystal structures in space group P1 (No. 2) (and
+equivalents with no restrictions), 7625 with Z0 > 1, some 11.6%
+of the total, and 6775 with Z0 = 2. No attempt was made to
+examine incorrect space groups.
+Experimental
+The plant Justicia secunda (Acanthaceae) was collected in Trinidad,
+West Indies, and dried at 308±313 K. A large quantity (1 kg) of this
+dried powdered plant (except root and ¯ower/fruit) was placed in a
+large separating funnel and soaked in acetone overnight. The acetone
+layer was collected and the process repeated until the acetone layer
+became faintly green in colour. The combined acetone extracts were
+evaporated and the dry mass extracted with benzene. The benzene-
+soluble fraction was dried, dissolved in the minimum amount of dry
+warm CHCl3 and spread over activated silica gel in a sintered glass
+Buchner funnel. It was then eluted with 50 ml portions of benzene
+and then a CHCl3±benzene mixture (1:4) under a slight vacuum. The
+fraction obtained from CHCl3±benzene (1:4) was collected and the
+solvent removed. It was then subjected to column chromatography
+with light petroleum (b.p. 313±333 K) and benzene. After concen-
+tration, the benzene fraction yielded gummy crystals upon refrig-
+eration. These crystals were further puri®ed by preparative
+chromatography to afford the pure title compound, (I), as well
+shaped crystals from CHCl3.
+Crystal data
+C16H13N3
+Mr = 247.29
+Triclinic, P1
+a = 7.8263 (9) AÊ
+b = 10.8009 (9) AÊ
+c = 15.7878 (12) AÊ
+ = 83.457 (5)
+ = 77.039 (7)
+ = 82.326 (7)
+V = 1284.0 (2) AÊ 3
+Z = 4
+Dx = 1.279 Mg m
+ÿ3
+Mo K radiation
+Cell parameters from 74
+re¯ections
+ = 5.4±17.9
+ = 0.08 mmÿ1
+T = 294 (1) K
+Plate, colourless
+0.50  0.30  0.08 mm
+Data collection
+Siemens P4 diffractometer
+!/2 scans
+5607 measured re¯ections
+4529 independent re¯ections
+2987 re¯ections with I > 2(I)
+Rint = 0.019
+max = 25.0
+
+h = ÿ9! 1
+k = ÿ12! 12
+l = ÿ18! 18
+4 standard re¯ections
+every 296 re¯ections
+intensity decay: 1%
+Figure 1
+A view of the two independent molecules in (I) as a hydrogen-bonded
+dimer, with the atomic numbering scheme. Displacement ellipsoids are
+drawn at the 30% probability level and H atoms are shown as small
+spheres of arbitrary radii.
+Figure 2
+A view of the dimeric units in (I) linked by CÐH  (arene) interactions.
+Atoms are depicted as small spheres of arbitrary sizes. The ten phenyl-
+ring H atoms in molecule B have been omitted for clarity. The centroid
+labels are as de®ned in Table 2, and the centroids labelled with an asterisk
+(*) or a prime (0) are at symmetry positions (i) and (ii), respectively, given
+in Table 2.
+Table 1
+Selected geometric parameters (AÊ , ).
+N1AÐC1A 1.345 (2)
+N1AÐC4A 1.346 (2)
+N2AÐC1A 1.343 (2)
+N2AÐC2A 1.340 (2)
+N4AÐC1A 1.357 (2)
+C2AÐC3A 1.385 (2)
+C2AÐC11A 1.488 (2)
+C3AÐC4A 1.384 (2)
+C4AÐC21A 1.481 (2)
+N1BÐC1B 1.346 (2)
+N1BÐC4B 1.343 (2)
+N2BÐC1B 1.343 (2)
+N2BÐC2B 1.340 (2)
+N4BÐC1B 1.347 (2)
+C2BÐC3B 1.381 (3)
+C2BÐC11B 1.488 (3)
+C3BÐC4B 1.387 (3)
+C4BÐC21B 1.484 (3)
+N1AÐC1AÐN2A 126.76 (17)
+N1AÐC1AÐN4A 117.05 (17)
+N2AÐC1AÐN4A 116.15 (17)
+N1BÐC1BÐN2B 126.72 (17)
+N1BÐC1BÐN4B 116.73 (18)
+N2BÐC1BÐN4B 116.55 (18)
+N1AÐC4AÐC21AÐC26A ÿ29.8 (3)
+C3AÐC4AÐC21AÐC26A 151.83 (19)
+C3AÐC2AÐC11AÐC12A 149.4 (2)
+N1BÐC4BÐC21BÐC26B ÿ36.5 (3)
+C3BÐC4BÐC21BÐC26B 142.9 (2)
+C3BÐC2BÐC11BÐC12B ÿ152.6 (2)
+Re®nement
+Re®nement on F 2
+R[F 2 > 2(F 2)] = 0.047
+wR(F 2) = 0.119
+S = 1.01
+4529 re¯ections
+359 parameters
+H atoms treated by a mixture of
+independent and constrained
+re®nement
+w = 1/[2(Fo
+2) + (0.055P)2
++ 0.13P]
+where P = (Fo
+2 + 2Fc
+2)/3
+(/)max = 0.001
+max = 0.18 e AÊ
+ÿ3
+min = ÿ0.17 e AÊ ÿ3
+Compound (I) crystallized in the triclinic system, the systematic
+absences permitting space group P1 or P1; P1 was assumed and
+con®rmed by the analysis. All H atoms bonded to C atoms were
+treated as riding atoms, with CÐH distances of 0.93 AÊ , while the four
+amino H atoms were re®ned with isotropic displacement parameters,
+giving NÐH distances in the range 0.89 (2)±0.91 (2) AÊ .
+Data collection: XSCANS (Siemens, 1996); cell re®nement:
+XSCANS; data reduction: XSCANS; program(s) used to solve
+structure: SHELXS97 (Sheldrick, 1997); program(s) used to re®ne
+structure: SHELXL97 (Sheldrick, 1997); molecular graphics:
+ORTEPIII (Burnett & Johnson, 1996) and PLATON (Spek, 2003);
+software used to prepare material for publication: NRCVAX96
+(Gabe et al., 1989), SHELXL97 and PREP8 (Ferguson, 1998).
+JFG thanks Dublin City University for the purchase of a
+diffractometer and computer system. The authors thank the
+Department of Chemistry, University of West Indies, St
+Augustine, Trinidad, West Indies, for the plant material. SPG
+thanks CSIR, Government of India, for a fellowship to SJ.
+Supplementary data for this paper are available from the IUCr electronic
+archives (Reference: GD1292). Services for accessing these data are
+described at the back of the journal.
+References
+Allen, F. H. (2002). Acta Cryst. B58, 380±388.
+Burnett, M. N. & Johnson, C. K. (1996). ORTEPIII. Report ORNL-6895. Oak
+Ridge National Laboratory, Tennessee, USA.
+Ferguson, G. (1998). PREP8. University of Guelph, Canada.
+Frisch, M. J., Trucks, G. W., Schlegel, H. B., Scuseria, G. E., Robb, M. A.,
+Cheeseman, J. R., Montgomery, J. A., Vrenen, T. et al. (2003).
+GAUSSIAN03 for Windows. March 2003 release. Gaussian Inc., Pittsburgh,
+Pennsylvania, USA.
+Gabe, E. J., Le Page, Y., Charland, J.-P., Lee, F. L. & White, P. S. (1989). J. Appl.
+Cryst. 22, 384±387.
+Gallagher, J. F., Briody, J. M. & Cantwell, B. P. (1998). Acta Cryst. C54, 1331±
+1335.
+GoÈ rbitz, C. H. (2002). Acta Cryst. B58, 512±518.
+GoÈ rbitz, C. H. (2003). Acta Cryst. C59, 589±592.
+Orpen, A. G., Brammer, L., Allen, F. H., Kennard, O., Watson, D. G. & Taylor,
+R. (1994). Structure Correlation, Vol. 2, Appendix A, edited by H.-B. BuÈ rgi
+& J. D. Dunitz. Weinheim: VCH.
+Sheldrick, G. M. (1997). SHELXS97 and SHELXL97. University of
+GoÈ ttingen, Germany.
+Siemens (1996). XSCANS. Version 2.2. Siemens Analytical X-ray Instruments
+Inc., Madison, Wisconsin, USA.
+Spek, A. L. (2003). J. Appl. Cryst. 36, 7±13.
+Steiner, T. (2000). Acta Cryst. B56, 673±676.
+Weis, A. L. & Vishkautsan, R. (1985). Chem. Lett. pp. 1773±1777.
+Acta Cryst. (2004). C60, o229±o231 John F. Gallagher et al.  C16H13N3 o231
+organic compounds
+Table 2
+Hydrogen-bonding and contact geometry (AÊ , ) for compound (I).
+Cg1 and Cg2 represent the centroids of the rings C21A±C26A and N1A/N2A/
+C1A±C4A, respectively.
+DÐH  A DÐH H  A D  A DÐH  A
+N4AÐH1A  N1B 0.89 (2) 2.17 (2) 3.058 (2) 172.7 (18)
+N4BÐH2B  N1A 0.91 (2) 2.20 (2) 3.106 (3) 175.8 (17)
+C12AÐH12A  Cg1i 0.93 2.77 3.538 (2) 141
+C26AÐH26A  Cg2ii 0.93 2.78 3.393 (2) 124
+Symmetry codes: (i) ÿx; 2ÿ y; 1ÿ z; (ii) 1ÿ x; 2ÿ y; 1ÿ z.

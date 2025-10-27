@@ -1,0 +1,712 @@
+Plant Physiol. (1989) 89, 1351-1357
+0032-0889/0000/1351 /07/$01 .00/0
+Received for publication July 1, 1988
+and in revised form December 2, 1988
+Biochemical and Histochemical Localization of
+Monoterpene Biosynthesis in the Glandular Trichomes of
+Spearmint (Mentha spicata)" 2
+Jonathan Gershenzon, Massimo Maffei3, and Rodney Croteau*
+Institute of Biological Chemistry, Washington State University, Pullman, Washington 99164-6340
+ABSTRACT
+The primary monoterpene accumulated in the glandular tri-
+chomes of spearmint (Mentha spicata) is the ketone (-)-carvone
+which is formed by cyclization of the C10 isoprenoid intermediate
+geranyl pyrophosphate to the olefin (-)-limonene, hydroxylation
+to (-)-trans-carveol and subsequent dehydrogenation. Selective
+extraction of the contents of the glandular trichomes indicated
+that essentially all of the cyclase and hydroxylase activities
+resided in these structures, whereas only about 30% of the
+carveol dehydrogenase was located here with the remainder
+located in the rest of the leaf. This distribution of carveol dehy-
+drogenase activity was confirmed by histochemical methods.
+Electrophoretic analysis of the partially purified carveol dehydro-
+genase from extracts of both the glands and the leaves following
+gland removal indicated the presence of a unique carveol dehy-
+drogenase species in the glandular trichomes, suggesting that
+the other dehydrogenase found throughout the leaf probably
+utilizes carveol only as an adventitious substrate. These results
+demonstrate that carvone biosynthesis takes place exclusively
+in the glandular trichomes in which this natural product accumu-
+lates.
+Many kinds of lipophilic natural products accumulate in
+modified epidermal hairs known as glandular trichomes (17).
+Prominent among these substances are various types of ter-
+penes, including the monoterpenes and sesquiterpenes of the
+essential oils. It has been generally assumed that the terpenes
+found in glandular trichomes are synthesized there, since
+gland cells display many ultrastructural features indicative of
+active lipid metabolism and secretion (17, 29). However, the
+difficulties of identifying terpene secretion products micro-
+scopically have precluded definite proof of this assumption
+by ultrastructural methods.
+Direct evidence for the biosynthetic capabilities ofglandular
+trichomes has come from studies showing that these structures
+can incorporate labeled precursors such as sucrose, acetate,
+and mevalonate into terpenes (9). In tobacco, glandular tri-
+chomes appear to be the sole site for the synthesis of duvane-
+'This investigation was supported in part by U.S. Department of
+Energy grant (DE-FG06-88ER1 3869) and by Project 0268 from the
+Agricultural Research Center, Washington State University, Pullman,
+WA 99164.
+2 Dedicated to the memory of W. R. Nes, colleague and friend.
+Present address: Istituto di Botanica Speciale, University ofTurin,
+Italy.
+1351
+type diterpenes found in the glandular exudate. The head cells
+oftobacco trichomes are the only leaf cells able to incorporate
+radiolabeled acetate into duvane diterpenes; removal of these
+cells severely reduces or eliminates duvane production (22).
+Thus, it is tempting to speculate that all terpenes found in
+glandular trichomes are synthesized in situ. However, recent
+reports of monoterpene synthesis by undifferentiated cells in
+culture (5, 28), coupled to evidence for monoterpene transport
+in intact plants (7, 31), suggest that the site of synthesis may
+not necessarily be the same as the site of accumulation.
+Spearmint (Mentha spicata, Lamiaceae) accumulates large
+quantities of monoterpenes in glandular trichomes, the major
+constituent of which is (-)-carvone (20). This monocyclic
+ketone is biosynthesized by a three step pathway (Fig. 1) in
+which the ubiquitous primary intermediate geranyl pyrophos-
+phate is cyclized to the olefin (-)-limonene4 (23), which is
+then hydroxylated by a cytochrome P450-dependent mono-
+oxygenase to (-)-trans-carveol (F Karp, R Croteau, unpub-
+lished data). (-)-trans-Carveol is subsequently dehydrogen-
+ated to (-)-carvone. This last enzymic step has not been
+previously demonstrated in spearmint, but has ample prece-
+dent in monoterpene metabolism in other systems (16, 24).
+The site of monoterpene biosynthesis in spearmint was
+studied by investigating the locations of the enzymes catalyz-
+ing the three steps in carvone biosynthesis. Procedures for the
+selective extraction ofenzymes from glandular trichomes were
+used (12, 18), which allowed comparison of cell-free prepa-
+rations from the trichomes with those of whole leaves from
+which the glandular trichomes had been removed. Also, since
+the final step in carvone biosynthesis is mediated by a dehy-
+drogenase, histochemical techniques for studying this enzyme
+type (26, 32) were employed to probe the cellular and sub-
+cellular location of this activity.
+MATERIALS AND METHODS
+Plant Materials and Reagents
+Spearmint (Mentha spicata L.) plants were grown from
+stolons under controlled conditions as previously described
+(1 1). Newly emerged leaves (3-20 mm long) were used in all
+experiments. Polystyrene resin (Amberlite XAD4; Rohm and
+Haas) was prepared for use by standard procedures (27). All
+4Nomenclature used is based on the p-menthane system: (-)-
+limonene = 4S-p-mentha- 1(2),8(9)-diene; (-)-trans-carveol = 2S,4R-
+p-mentha-l(6),8(9)-dien-2-ol; (-)-carvone = 4R-p-mentha-1(6),8(9)-
+dien-2-one.
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 89, 1989
+Geranyl
+pyrophosphate
+(-)-Limonene
+0/*. 0
+3
+(-)-trans-Carveol (-)-Carvone
+Figure 1. Pathway for the biosynthesis of (-)-carvone from geranyl
+pyrophosphate in spearmint. The enzymes involved are geranyl py-
+rophosphate: (--limonene cyclase (1), (--limonene hydroxylase (2),
+and (--trans-carveol dehydrogenase (3).
+other reagents were purchased from Aldrich or Sigma Chem-
+ical Co. unless otherwise noted.
+Enzyme Extracts
+Extracts ofglandular trichomes were prepared by two meth-
+ods. For the first method, leaves were submerged in prechilled
+extraction buffer and gently brushed with a soft-bristle tooth-
+brush (12). The extraction buffer was 100 mm sodium/potas-
+sium phosphate (pH 6.5), containing 1 M sucrose, 5 mM
+MgCl2, 10 mm Na2S205, 50 mm ascorbic acid, 4 mM DTT
+(Research Organics), 1 mm EDTA, polyvinylpolypyrrolidone
+(1 g/g leaf), and XAD-4 resin (2 g/g leaf). This procedure
+removed approximately 40 to 60% ofthe glandular trichomes
+present on the leaf surface as determined microscopically.
+For the second method, extracts were prepared by a mech-
+anized procedure in which the leaf surfaces were gently
+abraded with small glass beads (18). Briefly, 5 to 15 g batches
+of leaves were extracted using a Bead-Beater cell disrupter
+(Biospec Products) containing 200 g of0.5 mm diameter glass
+beads (Biospec Products) and prechilled extraction buffer
+(formulated as described above) added to nearly full volume
+of the 10 ounce polycarbonate chamber. Extraction was car-
+ried out in twenty 15 s pulses of operation with the rotor
+speed controlled by a rheostat set at 110 V. Between pulses,
+the polycarbonate chamber was dismounted and cooled on
+ice for at least 15 s. This procedure resulted in removal of
+more than 99% of the glandular trichomes as determined
+microscopically.
+Leaves recovered from the second gland extraction proce-
+dure were manually homogenized in a Ten-Broeck homoge-
+nizer to obtain extracts of whole leaves from which the
+glandular trichomes had been removed. Homogenization was
+carried out in the same extraction buffer, without XAD-4,
+but with additional polyvinylpolypyrrolidone (0.5 g/g leaf).
+Following homogenization, the extract was slurried with
+XAD-4 (1 g/g leaf) for 5 min.
+All extracts were filtered by passage through eight layers of
+premoistened cheesecloth and then four layers of80 ,um nylon
+mesh (Small Parts, Inc.). Filtered extracts were centrifuged at
+195,000g for 2 h. The supernatants obtained were divided
+into several portions, dialyzed to specific assay conditions as
+noted below, and then concentrated by ultrafiltration (Ami-
+con YM-30) to a small volume suitable for assay. The
+195,000g pellets were resuspended in extraction buffer, man-
+ually homogenized, stirred with XAD (1 g/g leaf) to ensure
+complete removal of endogenous monoterpenes, filtered
+through cheesecloth and nylon mesh, and centrifuged again
+at 195,000g for 2 h. The resulting pellets were resuspended in
+the appropriate buffers for assay.
+Assay for Geranyl Pyrophosphate: (-)-Limonene Cyclase
+This activity was measured in a 15 mm sodium/potassium
+phosphate buffer, containing 10% (v/v) glycerol, 5 mM ascor-
+bic acid, and 1 mM DTT. One-mL aliquots of the various
+extracts were added to Teflon-sealed, screw-capped tubes and
+the reaction initiated by addition of 20 mM MgCl2 and 18 jM
+[I -3H]geranyl pyrophosphate (90 Ci/mol) which was synthe-
+sized and purified by literature procedures (15). As a trap for
+the volatile olefin products, 1 mL of pentane was carefully
+layered on top of the reaction mixture. Following incubation
+at 30C for 1 h with gentle shaking, the reaction was stopped
+by vigorous mixing. The limonene generated was extracted
+from the reaction mixture, and the 3H content determined by
+chromatographic separation and liquid scintillation counting
+essentially as previously described (23). The cyclase activity
+was almost completely restricted (98%) to the 195,000g
+supernatants.
+Assay for (-)-Limonene Hydroxylase
+This activity was determined by incubating 1 mL aliquots
+of the preparation in 25 mm sodium/potassium phosphate
+buffer (pH 7.4), containing 30% (v/v) glycerol and 0.5 mM
+DTT, with 2 mm NADPH and 200 nmol (-)-limonene (op-
+tical purity > 80%) for 1 h at 30°C. The reaction was stopped
+by addition of 1 mL diethyl ether followed by vigorous
+shaking to extract the (-)-trans-carveol formed. After addition
+of 25 nmol camphor as an internal standard, the ether layer
+was removed and the reaction mixture reextracted twice with
+additional 1 mL portions of ether. The combined ether ex-
+tracts were decolorized with charcoal, washed with 1 mL of
+water, passed through a short column of silica gel (type 60A,
+Mallinckrodt) overlaid with anhydrous MgSO4 in a Pasteur
+pipet, and concentrated to 200 ,L under vacuum (Savant
+Speed Vac).
+Reaction products were analyzed by GLC (Hewlett Packard
+5890A with 3392A integrator) using a bonded-phase fused-
+silica open-tubular capillary column (30 m x 0.25 mm i.d.)
+coated with a 0.2 ,um film of Superox FA (Ailtech Associates)
+and operated with H2 (2 mL/min), on-column injection (in-
+jector temperature ambient), temperature programming (45°
+for 5 min, then 10°/min to 2200 with 15 min hold), and flame
+ionization detector (detector temperature 230C). (-)-trans-
+Carveol was identified by comparison of retention time and
+mass spectrum with an authentic standard and was quanti-
+tated by comparison of detector response to that of the
+internal standard. Control assays extracted immediately after
+substrate addition (i.e. zero time) were used to determine the
+background ofendogenous volatile substances in each extract.
+The small amounts of trans-carveol usually found in these
+control assays were subtracted from those produced in full-
+term assays to determine enzymic production. Limonene
+hydroxylase activity was found only in the 195,000g pellet,
+and was not evident in boiled preparations of this type.
+Assay for (-)-trans-Carveol Dehydrogenase
+One-mL aliquots of the extract in 100 mm sodium/potas-
+sium phosphate buffer (pH 8.0), containing 10% (v/v) glycerol
+1 352 GERSHENZON ET AL.
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+LOCALIZATION OF MONOTERPENE BIOSYNTHESIS IN SPEARMINT TRICHOMES
+and 1 mM DTT, were incubated in the presence of 1 mM
+NADP and 200 nmol (-)-carveol (62% trans, 38% cis, SCM
+Specialty Chemicals) for 1 h at 30°C. Reaction products were
+extracted with ether and analyzed by GLC as described above
+for hydroxylase assays. Only the (-)-trans-carveol isomer was
+enzymically oxidized to (-)-carvone. Carveol dehydrogenase
+activity was principally confined (about 90%) to the 195,000g
+supernatants.
+Partial Purification of (-)-trans-Carveol Dehydrogenase
+Carveol dehydrogenase preparations from glandular tri-
+chome extracts and whole-leaf (minus trichomes) extracts
+were purified separately for electrophoretic comparison. After
+extraction, filtration and centrifugation as detailed above, the
+supernatants were dialyzed against 100 mm sodium/potas-
+sium phosphate buffer (pH 7.0), containing 10% (v/v) glyc-
+erol, 2 mm ascorbic acid, 1 mM DTT, and 1 mm EDTA, and
+then concentrated by ultrafiltration (Amicon YM-30) to vol-
+umes of approximately 10 mL. Powdered (NH4)2SO4 was
+added until 25% saturation was achieved and the precipitated
+protein was removed by centrifugation at 27,000g for 10 min.
+The supernatants were then brought to 60% saturation with
+(NH4)2S04 and centrifuged again. The resulting pellets con-
+tained over 97% of the carveol dehydrogenase activity origi-
+nally present in the extracts. These preparations were sus-
+pended in a minimum volume of 100 mm phosphate buffer
+(pH 8.0), containing 10% (v/v) glycerol, 1 mm ascorbic acid,
+0.5 mM DTT, and 0.5 mM EDTA, and applied to a 2.5 x 110
+cm column of Sephacryl S-200 (Pharmacia) equilibrated with
+the same buffer. The column was pumped at a flow rate of
+25 mL/h, and 5.3 mL fractions were collected and assayed
+for carveol dehydrogenase activity, which eluted at approxi-
+mately 1.55 void volumes. Fractions containing the dehydro-
+genase were combined, concentrated by ultrafiltration and,
+after a buffer change by which 1% (w/v) sorbitol was substi-
+tuted for the 10% (v/v) glycerol, the preparation was lyophi-
+lized and stored under N2 at -25°C. As a result of these steps,
+the total purification of carveol dehydrogenase was 30- to 40-
+fold and recovery was 60 to 80%.
+Separation of Dehydrogenase Activities by PAGE
+A comparison between carveol dehydrogenase activities
+located in the glandular trichomes and those located in the
+rest of the leaf was made by nondenaturing discontinuous
+polyacrylamide gel electrophoresis of the corresponding par-
+tially purified preparations. Vertical slab gels (16 cm x 18 cm
+x 1 mm) employing the discontinuous system of Laemmli
+(25) were cast with a separating gel of 7.5% acrylamide. Prior
+to loading the sample, the slab gel was subjected to electro-
+phoresis at 40 mA constant current to remove the residual
+persulfate used in polymerization (21). Lyophilized prepara-
+tions of carveol dehydrogenase, partially purified as described
+above, were dissolved in a buffer, formulated to preserve
+catalytic activity, that contained 50 mM diazabicyclooctane
+(pH 9.0), 25% (w/v) sucrose, 6 mm 3-mercaptopropionic acid,
+5 mm ascorbic acid, 1 mm DTT, and 20 mM NaCl. Aliquots
+containing from 50 to 200 ,ug protein were loaded into 1 cm-
+wide wells. Two gels at a time were run in a Hofer SE 600
+vertical slab gel apparatus with a 4°C cooling bath at a constant
+current of40 mA for 3 h (approximately 1000 V/h). Standard
+electrode buffers (25 mm Tris, 192 mM glycine) according to
+Laemmli (25) were used, but the cathode buffer also contained
+1 mm sodium thioglycolate, 3 mM 3-mercaptopropionic acid,
+and 1 mM EDTA to aid in persulfate removal (4).
+Gel slices were stained for carveol dehydrogenase activity
+by incubation in 100 mm phosphate buffer (pH 8.0), contain-
+ing 0.4 mm nitroblue tetrazolium, 0.065 mM phenazine meth-
+osulfate, 0.75 mM NAD, and saturating levels of (-)-carveol.
+Incubation was carried out for approximately 2 h in the dark
+in a sealed glass bottle that had been purged with N2. Stained
+slices were scanned at 633 nm with an LKB 2202 Ultroscan
+laser densitometer. Control slices assayed without (-)-carveol,
+or from runs without enzyme, showed no detectable bands.
+Protein concentrations were estimated using the BioRad
+protein assay based upon the dye-binding technique of Brad-
+ford (3) with BSA as the standard.
+Histochemical Localization of (-)-trans-Carveol
+Dehydrogenase
+Immature leaves (5-10 mm) collected before the plants
+flowered were cut in halfand incubated immediately with the
+reaction mixture described below in Teflon-sealed screw-
+capped tubes covered with aluminum foil. Incubation was
+carried out for 45 min at 30°C with gentle agitation. The
+composition of the reaction mixture, based on previous stud-
+ies of dehydrogenase histochemistry (26, 32) and extensive
+preliminary trials, was 20 mm sodium cacodylate (pH 7.5), 3
+mM MgCl2, 1% (w/v) sucrose, 2% (w/v) polyvinylpyrrolidone
+(Mr 360,000), 0.01% (v/v) Tween 20, 0.6 mm nitroblue tet-
+razolium, 1 mm phenazine methosulfate, 0.5 mM NADP, and
+0.5 mM (-)-carveol. Reaction conditions were optimized in a
+series of experiments by varying concentrations of nitroblue
+tetrazolium, phenazine methosulfate, NADP, (-)-carveol,
+and incubation time. Tween 20 was added to enhance tissue
+penetration of the hydrophobic substrate, while sucrose and
+polyvinylpyrrolidone reduced browning of the tissue. A brief
+(10 s) dip of the leaves in pentane prior to incubation signifi-
+cantly enhanced the apparent reaction rate, presumably by
+removing cuticle wax and thereby assisting substrate uptake.
+Direct comparisons were made between leaves incubated with
+the above reaction mixture and controls incubated without
+carveol. To distinguish carveol dehydrogenase from alcohol
+(ethanol) dehydrogenase activity, experiments were also un-
+dertaken with 0.5 mm ethanol as a substrate in place of
+carveol, and by including in the reaction mixture 15 mm
+pyrazole, an inhibitor of alcohol dehydrogenase.
+After incubation, the leaves were rinsed with 20 mm sodium
+cacodylate (pH 7.0) for 20 min and then fixed with 3% (v/v)
+glutaraldehyde in 20 mm sodium cacodylate buffer for 1 h.
+Fixation prior to incubation greatly reduced the rate of the
+dehydrogenase reaction. After washing the fixed tissue with
+sodium cacodylate for 30 min, the leaves were postfixed with
+1% (W/V) OS04 in 10 mm sodium cacodylate (pH 7.0) for 90
+min at room temperature, then washed with distilled water
+for 45 min, dehydrated in a graded ethanol series ending with
+100% propylene oxide, and embedded in Spurr's low viscosity
+resin (30). Silver-gold thin sections were obtained with a
+Reichert OM U2 ultramicrotome. Sections were stained with
+lead citrate, uranyl acetate, and lead citrate again, in sequence
+1 353
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 89, 1989
+-,4 a
+.
+*4 cu"
+SC
+t.".,. i
+I:,
+"f;
+i.,
+-t
+1..:
+./. :., g
+I'AL
+_ek
+5
+1 354 GERSHENZON ET AL.
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+LOCALIZATION OF MONOTERPENE BIOSYNTHESIS IN SPEARMINT TRICHOMES
+(14) and viewed with a Hitachi H-300 transmission electron
+microscope.
+RESULTS
+Localization of Carvone Biosynthetic Capability by Cell-
+Free Assays
+To determine whether (-)-carvone biosynthesis takes place
+specifically in the glandular trichomes of spearmint, the activ-
+ities ofthe enzymes associated with the relevant pathway were
+measured in cell-free extracts ofthe glandular trichomes. Two
+types of procedures were employed to extract selectively the
+glandular contents. In the first method, leaves were submerged
+in extraction buffer and then gently brushed with a toothbrush
+to obtain a glandular trichome extract containing the material
+from only 40 to 60% of the glandular trichomes present on
+the leaf surface, but with essentially no contamination from
+underlying tissue (12). All three enzymes involved in the
+synthesis of carvone from the ubiquitous isoprenoid inter-
+mediate geranyl pyrophosphate (i.e. the cyclase, hydroxylase,
+and dehydrogenase) were readily detected in this extract in-
+dicating that the glandular trichomes were capable of carvone
+biosynthesis.
+To determine the biosynthetic capability of the trichome
+extract relative to that of the rest of the leaf, a second experi-
+ment was performed using a more efficient procedure for
+gland removal. Leaf surfaces were abraded with glass beads
+(18) to remove over 99% of all the glandular trichomes (Figs.
+2 and 3) without extensive damage to the underlying leaf
+tissue. Using this method, an extract of the contents of vir-
+tually all of the glandular trichomes on the leafwas obtained.
+The remaining leaf tissue was extracted by homogenization
+to give a preparation representing the leaf free of gland con-
+tents. Comparison of these two extracts showed that two of
+the three enzymes of the carvone pathway, geranyl pyrophos-
+phate: (-)-limonene cyclase and (-)-limonene hydroxylase,
+were almost completely restricted to the glandular trichomes
+(Table I). The traces of these two activities in the remainder
+of the leaf probably result from incomplete removal of glan-
+dular trichomes from this preparation. The third enzyme, (-)-
+trans-carveol dehydroganase, was found in substantial
+amounts in both the glandular trichomes and the rest of the
+leaf (Table I).
+Histochemical Localization of Carveol Dehydrogenase
+To confirm that carveol dehydrogenase activity is present
+throughout the cells of the leaf, an adaptation of a commonly
+used method for histochemical localization ofdehydrogenases
+was employed. This method is based on the reduction of
+tetrazolium salts to insoluble formazans by NADPH, with
+phenazine methosulfate as an intermediate electron carrier
+(26, 32). Leaf sections were incubated with nitroblue tetrazo-
+lium, phenazine methosulfate, NADP, and the substrate (-)-
+trans-carveol, and then fixed and prepared for transmission
+electron microscopy. The presence of carveol dehydrogenase
+was indicated by small dark granules of formazan precipitate.
+Formazan granules were found in cells of all tissues of the
+leaf, including the epidermis, the palisade layer, the spongy
+parenchyma, the vascular bundles, and both types of glan-
+dular trichomes, peltate and capitate (Fig. 4). Granules in the
+glandular trichomes were associated with the smooth endo-
+plasmic reticulum (Fig. 6), while granules in the cells of the
+rest ofthe leafwere often associated with smooth endoplasmic
+reticulum, and also with other membrane systems (Fig. 7).
+Controls incubated without carveol showed only sporadic
+reaction zones in some mesophyll cells, with no consistent
+subcellular location (Fig. 5). To examine the possibility that
+the putative carveol dehydrogenase activity was due to alcohol
+(ethanol) dehydrogenase, leaf sections were incubated with
+ethanol as a substrate under otherwise identical conditions.
+The reaction attributed to alcohol dehydrogenase activity was
+observed only in mesophyll cells and was localized near the
+plasmalemma (Fig. 8), a pattern clearly distinguishable from
+that produced by carveol dehydrogenase. Pyrazole, an inhib-
+itor of alcohol dehydrogenase, also inhibited the reaction of
+carveol dehydrogenase and was thus not useful as a diagnostic
+tool. Therefore, the summation of both histochemical and in
+vitro results were consistent, and indicated that carveol de-
+hydrogenase activity is present in glandular trichomes and in
+the rest of the leaf.
+Electrophoretic Comparison of Carveol Dehydrogenase
+Activities from Glandular Trichomes and the Remaining
+Leaf
+The oxidation of carveol is the final step in carvone biosyn-
+thesis and it therefore seems unlikely that the alcohol would
+Figures 2 and 3. Scanning electron micrographs (x90) of spearmint leaf surfaces before (Fig. 2) and after (Fig. 3) selective removal of the
+glandular trichomes with glass beads (PT, peltate glandular trichomes). More than 99% of these structures were removed by this method.
+Arrows in Figure 3 show former locations of glandular trichomes. Samples for scanning electron microscopy were air-dried ovemight at room
+temperature and gold-coated. Specimens were viewed with an ETEC Autoscan U-1 at 30 kV.
+Figures 4-8. Histochemical localization of carveol dehydrogenase in sections of young spearmint leaves. Leaves were incubated with the
+reaction mixtures described in "Materials and Methods," then fixed and prepared for transmission electron microscopy. The presence of carveol
+dehydrogenase is indicated by a precipitate of formazan granules.
+Figure 4. Peltate glandular trichome and adjacent mesophyll following incubation with carveol showing a precipitate in all tissues (CU, cuticle;
+SS, subcuticular space; SC, secretory cell; ST, stalk cell; BC, basal cell; E, epidermis; M, mesophyll) (x1370).
+Figure 5. Control section incubated without carveol, showing only sporadic precipitate in the mesophyll (x1370).
+Figure 6. Section of a secretory cell illustrating the subcellular location (arrows) of carveol dehydrogenase in smooth endoplasmic reticulum
+(SER) (x68,400).
+Figure 7. Mesophyll cell showing precipitate associated with smooth endoplasmic reticulum and other membrane systems (CW, cell wall)
+(x 1 3,700).
+Figure 8. Subcellular localization of alcohol (ethanol) dehydrogenase (arrows) near the plasmalemma of a mesophyll cell indicating that carveol
+dehydrogenase and alcohol dehydrogenase are not equivalent (x13,700).
+1355
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 89, 1989
+Table I. Localization of Enzymes of Carvone Biosynthesis in
+Spearmint Extracts
+Glandular trichomes were first removed from the leaves by abra-
+sion with glass beads, and the remaining leaves were then homoge-
+nized. The preparation and assay of each enzyme is described in
+"Materials and Methods."
+Activity
+GlandularEnzyme Glandular Remaining trchomes
+trichomes leaf
+nkat/kg tissue %
+Geranyl pyrophosphate: 5220 25.0 99.5
+(--limonene cyclase
+(-)Limonene hydroxylase 150 5.6 96.4
+(-)-trans-Carveol dehydro- 8080 18,100 30.9
+genase
+cv,
+co
+%us
+C.)
+a)
+CO
+co
+a
+U1)
+0)
+0
+L-
+ID
+-c:
+m
+a)
+0
+U1)
+L..
+0o
+40 50 60
+Mobility (mm)
+70
+Figure 9. PAGE of partially purified carveol dehydrogenase prepa-
+rations from glandular trichomes (A) and from the remainder of the
+leaf following gland removal (B). Gels were run, stained, and scanned
+as described under "Materials and Methods." The glandular trichome
+extract contains two species of carveol dehydrogenase activity,
+whereas the extract of the remainder of the leaf contains only the
+slower migrating species.
+be transported out of the glandular trichomes for conversion
+to the ketone and then transported back into the trichomes
+for storage. Rather, it seems more probable that carveol
+oxidation would occur within the trichomes, perhaps cata-
+lyzed by a unique species of dehydrogenase. To evaluate this
+possibility, the carveol dehydrogenase activities from both the
+glandular trichome extract and the remaining leaf (free of
+trichomes) extract were separately purified by combination of
+(NH4)2S04 precipitation and gel filtration. The activities from
+both extracts coeluted on gel filtration. However nondena-
+turing PAGE, stained to reveal carveol dehydrogenase activ-
+ity, displayed significant differences between the two prepa-
+rations. Only a single staining band was present in the tri-
+chome-free leaf extracts, whereas two bands of activity were
+present in extracts of the glandular trichomes (Fig. 9). The
+slower moving and less intense of these two bands had the
+same mobility as the single band in the trichome-free leaf
+extract. A plausible interpretation is that the dehydrogenase
+unique to the glandular trichome extract is the enzyme re-
+sponsible for carveol oxidation in the intact plant (such highly
+selective monoterpenol dehydrogenases have been previously
+reported in other plants [8, 16]), whereas the enzyme present
+in both extracts represents a dehydrogenase activity found in
+all tissues which, while capable of oxidizing carveol under in
+vitro conditions, is probably not associated with monoterpene
+biosynthesis in vivo. Thus, the enzymes responsible for the
+entire pathway of carvone biosynthesis in spearmint appear
+to be restricted to the glandular trichomes.
+DISCUSSION
+For many years, glandular trichomes have been regarded
+as the primary site of monoterpene synthesis in mints and
+related essential oil plants (1, 9, 17). The present results
+demonstrate that these structures are in fact the sole sites of
+monoterpene biosynthesis in the leaves of spearmint. In con-
+junction with the work of Keene and Wagner on the diter-
+penes oftobacco (22), it can now be suggested that all terpenes
+accumulated in, or exuded from, glandular trichomes are
+probably synthesized in these highly specialized structures.
+Since monoterpene alcohols are known to be transported as
+glycosides (7, 31) (i.e. in mature peppermint (+)-neomethyl-
+f3-D-glucoside is transported from leaves to rhizomes and
+catabolized at this site [10]), it is conceivable that the mono-
+terpenes of spearmint are first synthesized elsewhere in the
+leaf and then transported to the glandular trichomes. How-
+ever, this possibility appears to be eliminated by the present
+results. Additionally, it is extremely unlikely that monoter-
+penes are biosynthesized elsewhere in the plant since stem
+and root extracts are devoid of limonene cyclase activity (J
+Gershenzon, R Croteau, unpublished data).
+Because monoterpene synthesis is restricted to the glandular
+trichomes, it is evident that the timing of gland ontogeny will
+directly influence the concentration ofmonoterpenes in a leaf
+and how this varies throughout leaf development. Typically,
+most glandular trichomes are initiated very early in leaf
+development and begin to accumulate monoterpenes before
+the leaves are 5 mm long (1). Therefore, monoterpene con-
+centrations (per gram tissue) are relatively high in young
+leaves and decline with further development (13).
+Ultrastructural studies have concluded that terpene synthe-
+sis within the glandular trichome occurs principally in the
+secretory cells rather than the stalk cell or the basal cell (see
+Fig. 4) (17, 29); the present results support this generalization.
+Carveol dehydrogenase activity, as indicated by the presence
+of formazan granules, was always much more prominent in
+secretory cells than in other cell types for both peltate and
+capitate trichomes. At the subcellular level, carveol dehydro-
+genase activity in spearmint secretory cells was associated
+with smooth endoplasmic reticulum. This result is somewhat
+surprising in light ofthe observation that the carveol dehydro-
+A
+B
+I I
+1356 GERSHENZON ET AL.
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+LOCALIZATION OF MONOTERPENE BIOSYNTHESIS IN SPEARMINT TRICHOMES
+genase was operationally soluble (>90% ofthe activity resided
+in the 195,000g supernatant) and suggests that the enzyme is
+released from membranes during tissue extraction (2). How-
+ever, the subcellular localization of carveol dehydrogenase
+must be viewed with some caution since, in the histochemical
+procedures used in this study, NADPH and phenazine meth-
+osulfate are freely diffusible and so may produce artefacts
+(26). Smooth endoplasmic reticulum has been frequently
+observed in cells assumed to produce terpene secretions ( 17,
+19, 29). Yet, the lack of suitable methods for identifying
+terpenoids under the electron microscope has prevented any
+ultrastructural demonstration of the direct involvement of
+smooth endoplasmic reticulum in terpene biogenesis. Re-
+cently, however, the synthesis of sesquiterpene olefins in
+Citrofortunella mitis fruits was shown to be associated with a
+membrane fraction containing endoplasmic reticulum (2).
+Another type of organelle often linked with monoterpene
+synthesis is the leucoplast, a plastid ofcomplex shape without
+thylakoids (6). Plastids of this description were present in the
+secretory cells of spearmint glandular trichomes. However,
+no histochemical evidence was found for the association of
+carveol dehydrogenase activity with these organelles. Leuco-
+plasts in spearmint glands might serve as compartments for
+some of the earlier steps of monoterpene synthesis. Detailed
+evaluation of the localization of monoterpene biogenesis at
+the subcellular level must await the development of immu-
+nochemically based techniques.
+ACKNOWLEDGMENTS
+We thank Greg Wichelns for raising the plants, Nancy Madsen for
+typing the manuscript, and the staff of the Electron Microscopy
+Center, Washington State University, for assistance.
+LITERATURE CITED
+1. Amelunxen F (1965) Elektronenmikroskopische Untersuchungen
+an den Druisenschuppen von Mentha piperita L. Planta Med
+13: 457-473
+2. Belingheri L, Pauly G, Gleizes M, Marpeau A (1988) Isolation
+by an aqueous two-polymer phase system and identification of
+endomembranes from Citrofortunella mitis fruits for sesquiter-
+pene hydrocarbon synthesis. J Plant Physiol 132: 80-85
+3. Bradford MM (1976) A rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing the
+principle of protein-dye binding. Anal Biochem 72: 248-254
+4. Brewer JM (1967) Artifact produced in disc electrophoresis by
+ammonium persulfate. Science 156: 256-257
+5. Charlwood BV, Charlwood KA (1983) The biosynthesis ofmono-
+and sesquiterpenes in tissue culture. Biochem Soc Trans 11:
+592-593
+6. Cheniclet C, Carde J-P (1985) Presence ofleucoplasts in secretory
+cells and of monoterpenes in the essential oil: a correlative
+study. Isr J Bot 34: 219-238
+7. Croteau R (1987) Biosynthesis and catabolism of monoterpen-
+oids. Chem Rev 87: 929-954
+8. Croteau R, FeltonM (1980) Substrate specificity ofmonoterpenol
+dehydrogenases from Foeniculum vulgare and Tanacetum vul-
+gare. Phytochemistry 19: 1343-1347
+9. Croteau R, Johnson MA (1984) Biosynthesis of terpenoids in
+glandular trichomes. In E Rodriguez, PL Healy, I Mehta, eds,
+Biology and Chemistry of Plant Trichomes. Plenum, New
+York, pp 133-185
+10. Croteau R, Martinkus C (1979) Metabolism of monoterpenes:
+Demonstration of (+)-neomenthyl-fl-D-glucoside as a major
+metabolite of (-)-menthone in peppermint (Mentha piperita).
+Plant Physiol 64: 169-175
+11. Croteau R, Venkatachalam KV (1986) Metabolism of monoter-
+penes: Demonstration that (+)-cis-isopulegone, not piperiten-
+one, is the key intermediate in the conversion of (-)-isopiper-
+itenone to (+)-pulegone in peppermint (Mentha piperita). Arch
+Biochem Biophys 249: 306-315
+12. Croteau R, Winters JN (1982) Demonstration ofthe intercellular
+compartmentation of l-menthone metabolism in peppermint
+(Mentha piperita). Plant Physiol 69: 975-977
+13. Croteau R, Felton M, Karp F, Kjonaas R (1981) Relationship of
+camphor biosynthesis to leaf development in sage (Salvia
+officinalis). Plant Physiol 67: 820-824
+14. Daddow LYM (1983) A double lead stain method for enhancing
+contrast of ultrathin sections in electron microscopy: a modi-
+fied multiple staining technique. J Microsc 129: 147-153
+15. Davisson VJ, Woodside AB, Poulter CD (1985) Synthesis of
+allylic and homoallylic isoprenoid pyrophosphates. Methods
+Enzymol 110: 130-144
+16. Dehal SS, Croteau R (1987) Metabolism of monoterpenes: spec-
+ificity of the dehydrogenases responsible for the biosynthesis
+of camphor, 3-thujone and 3-isothujone. Arch Biochem Bio-
+phys 258: 287-291
+17. Fahn A (1979) Secretory Tissues in Plants. Academic Press, New
+York
+18. Gershenzon J, Duffy MA, Karp F, Croteau R (1987) Mechanized
+techniques for the selective extraction of enzymes from plant
+epidermal glands. Anal Biochem 163: 159-164
+19. Gleizes M, Carde J-P, Pauly G, Bernard-Dagan C (1980) In vivo
+formation of sesquiterpene hydrocarbons in the endoplasmic
+reticulum of pine. Plant Sci Lett 20: 79-90
+20. Guenther E (1974) The Essential Oils, Vol III (reprinted). Krieger,
+Huntington, NY, p 681
+21. Heeb MJ, Gabriel 0 (1984) Enzyme localization in gels. Meth-
+ods Enzymol 104: 416-439
+22. Keene CK, Wagner GJ (1985) Direct demonstration of duvatri-
+enediol biosynthesis in glandular heads of tobacco trichomes.
+Plant Physiol 79: 1026-1032
+23. Kjonaas R, Croteau R (1983) Demonstration that limonene is
+the first cyclic intermediate in the biosynthesis of oxygenated
+p-menthane monoterpenes in Mentha piperita and other Men-
+tha species. Arch Biochem Biophys 220: 79-89
+24. KJonaas R, Venkatachalam KV, Croteau R (1985) Metabolism
+of monoterpenes: Oxidation of isopiperitenol to isopiperiten-
+one, and subsequent isomerization to piperitenone by soluble
+enzyme preparations from peppermint (Mentha piperita)
+leaves. Arch Biochem Biophys 238: 49-60
+25. Laemmli UK (1970) Cleavage of structural proteins during the
+assembly of the head of bacteriophage T4. Nature 227: 680-
+685
+26. Lewis PR (1977) Other cytochemical methods for enzymes. In
+AM Glauert, ed, Practical Methods in Electron Microscopy,
+Vol 5. North-Holland, Amsterdam, pp 225-287
+27. Loomis WD, Lile JD, Sandstrom RP, Burbott AJ (1979) Adsor-
+bent polystyrene as an aid in plant enzyme isolation. Phyto-
+chemistry 18: 1049-1054
+28. Nabeta K, Ohnishi Y, Hirose T, SugisawaH (1983) Monoterpene
+biosynthesis by callus tissues and suspension cells from Perilla
+species. Phytochemistry 22: 423-425
+29. Schnepf E (1974) Gland cells. In AW Robards, ed, Dynamic
+Aspects of Plant Ultrastructure. McGraw-Hill, London, pp
+331-357
+30. SpurrAR (1969) A low-viscosity epoxy resin embedding medium
+for electron microscopy. J Ultrastruct Res 26: 31-43
+31. Stahl-Biskup E (1987) Monoterpene glycosides, state-of-the-art.
+Flavour Fragr J 2: 75-82
+32. Van Noorden CJF (1984) Histochemistry and Cytochemistry
+of Glucose-6-Phosphate Dehydrogenase. Gustav Fischer,
+Stuttgart
+1357
+ www.plantphysiol.orgon January 27, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.

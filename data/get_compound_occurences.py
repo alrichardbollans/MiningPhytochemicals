@@ -145,6 +145,7 @@ def tidy_outputs():
     tidy_final_output(all_family_compounds, plantae_compounds_csv)
 
 def get_train_val_test_dois():
+    raise NotImplementedError()
     df = pd.read_csv(plantae_compounds_csv, index_col=0)
     dois = df['refDOI'].unique().tolist()
     from sklearn.model_selection import train_test_split
@@ -173,4 +174,3 @@ if __name__ == '__main__':
     # get_all_families()
     # get_compounds_for_families()
     tidy_outputs()
-    get_train_val_test_dois()

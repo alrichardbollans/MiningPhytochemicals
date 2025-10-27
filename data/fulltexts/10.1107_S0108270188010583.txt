@@ -1,0 +1,402 @@
+300 C14H1606 
+and 0(6) to H(2)C(12) on a neighboring molecule at x, 
+-y -0 .5 ,  z -0 .5 are 2.697 (2) and 2.827 (2)A, respec- 
+tively. Investigations of several other analogues of 
+L-652,731 are now in progress in our laboratory to 
+ascertain the possible biological significance of these 
+intermolecular interactions and their relevance in the 
+design of more potent and specific antagonists. 
+This work was supported in part by the American 
+Cancer Society, Illinois Division, Inc. (JRP, grant No. 
+87-53), the Elsa U. Pardee Foundation (JRP), and by 
+the Donors of the Petroleum Research fund (JRP and 
+RDR), administered by the American Chemical 
+Society. JRP acknowledges support by the Northern 
+Illinois University Graduate School and Biomedical 
+Research Support Group. The US National Science 
+Foundation's Chemical Instrumentation Program pro- 
+vided funding to purchase the diffractometer. 
+References 
+Bwro, T., GAMBLE, N. F., DOEBBER, T., HWANG, S.-B., SHEN, 
+T.-Y., SNYDER, J., SPRINGER, J. P. & STEVENSON, R. (1986). J. 
+Med. Chem. 29, 1917-1921. 
+BRAQUET, P. & GODFROID, J. J. (1986). Trends PharmacoL ScL 7, 
+397-403. 
+CODDrNG, P. W. (1988). Symposium on Use of Crystal Structures 
+and Databases in Drug Design. 21st Nat. Med. Chem. Symp., 
+Minneapolis, Minnesota, USA. 
+GEP~IAn~, G., MARS, P. & WOOLFSON, M. M. (1971). Acta Cryst. 
+A27, 368-376. 
+GODFROID, J. J. & BRAQUET, P. (1986). Trends Pharmacol. Sci. 7, 
+368-373. 
+HWANG, S.-B., LAM, M.-H., BLvru, T., BEAa'rm, T. R. & SrmN, 
+T.-Y. (1985). J Biol. Chem. 260, 15639-15645. 
+International Tables for X-ray Crystallography (1974). Vol IV. 
+Birmingham: Kynoeh Press. (Present distributor Kluwer 
+Academic Publishers, Dordrecht.) 
+JOHNSON, C. K. (1976). ORTEPII. Report ORNL-5138. Oak 
+Ridge National Laboratory, Tennessee, USA. 
+MCMANUS, L. M. (1986). Pathol. Immunopathol. Res. 5, 104-117. 
+MAN'DELL, L., SINGH, K. P., GRESHAM, J. T. & FREEMAN, W. J. 
+(1965). J Am. Chem. Soc. 87, 5234-5236. 
+PETERSON, J. R., DO, H. D. & SURJASASMITA, I. B. (1988). Synth. 
+Commun. 18, 1985-1993. 
+PETERSON, J. R., ROGERS, R. D. & DO, H. D. (1988). Acta Cryst. 
+C44, 1784-1786. 
+SHELDRICK, G. M. (1976). SHELX76. Program for crystal 
+structure determination, as locally modified. Univ. of Cambridge, 
+England. 
+VENUTI, M. C. (1985). Annu. Rep. Med. Chem. pp. 193-202. 
+Wu, M. S., BIFTU, T. & DOEnnER, T. W. (1986). J PharmacoL 
+Exp. Ther. 239, 841-845. 
+Acta Cryst. (1989). C45, 300-303 
+Structure of Columbin, a Diterpenoid Furanolactone from Tinospora eordOrolia Miers 
+BY K. SWAMINATHAN AND U. C. SINHA* 
+Physics Department, Indian Institute of Technology, Powai, Bombay 400076, India 
+S. RAMAKUMAR 
+Physics Department, Indian Institute of Science, Bangalore 560012, India 
+AND R. K. BHATT AND B. K. SABATA 
+Chemistry Department, Indian Institute of Technology, Powai, Bombay 400076, India 
+(Received 4 July 1988; accepted 26 August 1988) 
+Abstract. (1S,4R,5R,8S, IOR,12S)-4-Hydroxy-15,16- 
+epoxycleroda-2,13 ( 6), 14-trieno- 17,12:18,1-biscar- 
+bolactone, C20H2206, Mr = 358.2, m.p. = 453-454 K, 
+orthorhombic, P212121, a = 7.3869 (6), b = 11.986 (1), 
+c=19.896(2)  A, V=1761.65A 3, Z=4,  D x= 
+1.351, Din(by flotation)= 1.349gem -3, 2(CuKa)= 
+1.5418 A, /l = 8.36 cm -1, F(000) = 760, T= 295 K, 
+R = 0.0432 for 1662 observed reflections. Two terpene 
+rings, two ~-lactones, two methyl groups, a tertiary 
+hydroxyl group and a fl-substituted furan ring are 
+present in the structure. The H atoms at C(12) and 
+C(8) are a- and fl-oriented. The terpene ring A is locked 
+* To whom correspondence should be addressed. 
+0108-2701/89/020300-04503.00 
+into a boat conformation by the C(1)-C(4) lactone 
+bridge. The furan ring is attached equatoriaUy at atom 
+C(12). The hydroxyl group is involved in intra- 
+molecular hydrogen bonding. 
+Introduction. The medicinal properties of the plant 
+Tinospora cordifolia have been studied extensively and 
+many compounds have been isolated from this plant. 
+The structural investigation of the title compound was 
+undertaken to determine the stereochemistry. 
+Experimental. Dried and finely powdered stems of the 
+plant were used for extraction with chloroform in a 
+Soxhlet apparatus. Repeated column chromatography 
+© 1989 International Union of Crystallography 
+SWAMINATHAN,  S INHA,  RAMAKUMAR,  BHATT AND SABATA 301 
+Table 1. Positional parameters (x  10 4) and equivalent 
+isotropic temperature factors (,/kEx 103) for non-H 
+atoms with e.s.d.'s in parentheses 
+1 • , Ueq = ~t~jUtia f a~ ara j. 
+x y z Ueq 
+c(1) 5147 (5) 2241 (3) 2638 (2) 44 (3) 
+c(2) 5165 (6) 2777 (3) 1957 (2) 58 (4) 
+c(3) 6418 (6) 2346 (3) 1560 (2) 57 (4) 
+c(4) 7508 (5) 1433 (3) 1878 (2) 50 (3) 
+c(5) 8496 (4) 1889 (3) 2528 (2) 42 (3) 
+c(6) 9437 (5) 936 (3) 2890 (2) 55 (3) 
+c(7) 10235 (5) 1269 (3) 3572 (2) 65 (4) 
+c(8) 9061 (4) 2085 (3) 3973 (2) 46 (3) 
+c(9) 7073 (4) 2169 (3) 3735 (1) 37 (3) 
+c(10) 6999 (4) 2435 (2) 2970 (1) 36 (2) 
+C(l 1) 6190 (4) 3124 (3) 4132 (2) 42 (3) 
+0(2) 9073 (3) 4117 (2) 4213 (1) 62 (3) 
+0(3) 11633 (3) 3259 (3) 4131 (2) 82 (4) 
+0(4) 8749 (4) 944 (2) 1422 (1) 79 (3) 
+0(5) 6139 (4) -390 (2) 1979 (1) 71 (3) 
+0(6) 4916 (3) 1021 (2) 2540 (1) 51 (2) 
+c(17) 9991 (5) 3185 (3) 4091 (2) 54 (4) 
+c(18) 6144 (5) 591 (3) 2128 (2) 52 (3) 
+c(19) 9913 (5) 2751 (3) 2301 (2) 60 (4) 
+c(20) 6077 (5) 1089 (3) 3937 (2) 48 (3) 
+C(12) 7145 (4) 4216 (3) 4063 (2) 47(3) 
+c(13) 6433 (6) 5105 (3) 4520 (2) 63 (4) 
+c(14) 7355 (8) 6024 (6) 4766 (4) 149 (10) 
+c(15) 6294 (9) 6615 (5) 5159 (4) 146 (9) 
+c(16) 4696 (7) 5254 (3) 4737 (2) 63 (4) 
+o(1) 4566 (7) 6218 (3) 5106 (2) 121 (5) 
+over silica gel with 3% methanol-chloroform and 
+recrystallization from methanol (Hanuman, Bhatt & 
+Sabata, 1986) yielded transparent crystals. Intensity 
+data (crystal dimensions 0.35 x 0.35 x 0 .07 mm) were 
+collected on an Enraf -Nonius CAD-4  diffractometer, 
+Ni-filtered Cu Ks  radiation, 09--20 scan. Lattice param- 
+eters obtained from photographs were refined by 
+least-squares analysis using 25 reflections, 4 < 0 < 43 o. 
+Intensities of two standard reflections recorded for 
+every 30 min of  data collection showed no significant 
+changes. Data were collected in the range 0 < 0 < 70 ° 
+(resolution d = 0 .82 /~,  hma x = 9, kmax = 14,/max = 24). 
+Of  1983 unique reflections 1769 reflections had 
+I Fol > 3o( I Fol ). Lp corrections, empirical absorption 
+correction based on ~' scans of six strong reflections 
+(North, Phillips & Mathews, 1968). Minimum and 
+maximum transmission factors for F are 0 .8848 and 
+0.9994.  Structure was solved by direct methods, 
+MULTANl l /82  (Main, Fiske, Hull, Lessinger, Ger- 
+main, Declercq & Woolfson, 1982; SDP, Enraf -  
+Nonius,  1982) with molecular scattering factors for the 
+terpene rings (Ramakumar, 1976). H atoms were 
+located from difference Fourier maps. Structure refine- 
+ment by SHELX76 (Sheldrick, 1976) using least- 
+squares method based on F values, with anisotropic 
+thermal parameters for non-H atoms and isotropic 
+thermal parameters for H atoms. In the final cal- 
+culation reflections with I Fol < 5tr( I Fol ) and those for 
+which F o < F~ with AFIo( I Fol ) > 4.0  were omitted. For 
+1662 reflections R =0.0432,  unit weights, (A/O)ma x
+Table 2. Important bond lengths (/~), bond angles (o) 
+and torsion angles (o) with e.s.d.'s in parentheses 
+C(2)--C(1) 1.500 (5) C(10)--C(9) 1.555 (4) 
+C(10)-C(1) 1.537 (4) C(l 1)-C(9) 1.536 (4) 
+O(6)-C(1) 1.485 (4) C(20)-C(9) 1.543 (4) 
+C(3)-C(2) 1.322 (5) C(12)-C(1 I) 1.493 (5) 
+C(4)---C(3) 1.500 (5) C(17)-O(2) 1.329 (5) 
+C(5)---C(4) 1.583 (4) C(12)-O(2) 1.460 (4) 
+O(4)-C(4) 1.416 (4) C(17)-O(3) 1.219 (4) 
+C(18)-C(4) 1.511 (5) C(18)-O(5) 1.213 (4) 
+C(6)-C(5) 1.520 (5) C(18)-O(6) 1.327 (4) 
+C(10)-C(5) 1.558 (4) C(13)-C(12) 1.497 (5) 
+C(19)-C(5) 1.539 (5) C(14)-C(13) 1.385 (8) 
+C(7)-C(6) 1.532 (5) C(16)-C(13) 1.366 (6) 
+C(8)-C(7) 1.532 (5) C(15)-C(14) 1.314 (I0) 
+C(9)-C(8) 1.547 (4) O(1)-C(15) 1.366 (8) 
+C(17)-C(8) 1.506 (5) O(1)-C(16) 1.372 (5) 
+C(10)-C(I)--C(2) 108.4 (3) C(20)-C(9)-C(8) 108.5 
+O(6)-C(1)-C(2) 107.7 (3) C(20)-C(9)--C(10) 114.2 
+O(6)-C(1)-C(10) 107.9 (2) C(20)-C(9)-C(11) 106.8 
+C(3)-C(2)-C(1) 112.3 (3) C(5)-C(10)-C(I) 109.0 
+C(4)-C(3)-C(2) 114.1 (3) C(9)-C(10)-C(1) 114.9 
+C(5)-C(4)-C(3) 109.9 (3) C(9)-C(10)--C(5) 116.2 
+O(4)-C(4)-C(3) 112.3 (3) C(12)-C(11)-C(9) 113.9 
+O(4)-C(4)-C(5) 111.6 (3) C(12)-O(2)-C(I 7) 121.9 
+C(18)-C(4)-C(3) 105.6 (3) C(18)-O(6)-C(1) 112.7 
+C(I 8)-C(4)-C(5) 105.7 (2) O(2)-C(17)-C(8) 122.2 
+C(18)-C(4)-O(4) I I 1.5 (3) O(3)-C(17)-C(8) 121.9 
+C(6)-C(5)-C(4) I09.8 (3) O(3)-C(17)-O(2) 115.8 
+C(I0)-C(5)-C(4) 106.2 (2) O(5)-C(18)-C(4) 124.7 
+C(10)-C(5)-C(6) 111.9 (3) O(6)-C(18)-C(4) 113.6 
+C(19)-C(5)-C(4) 107.8 (3) O(6)-C(18)-O(5) 121.7 
+C(19)--C(5)-C(6) 109.5 (3) O(2)-C(12)-C(1 l) 111.8 
+C(19)--C(5)-C(10) 111.5 (3) C(13)-C(12)-C(11) 113.7 
+C(7)-C(6)-C(5) 113.6 (3) C(13)-C(12)-O(2) 106.1 
+C(8)-C(7)-C(6) 114.2 (3) C(14)-C(13)-C(12) 127.5 
+C(9)-C(8)-C(7) 114.8 (3) C(16)-C(13)-C(12) 128.0 
+C(17)-C(8)-C(7) 112.5 (3) C(16)-C(13)-C(14) 104.3 
+C(17)-C(8)-C(9) 115.1 (3) C(15)-C(14)-C(13) 110.2 
+C(10)-C(9)-C(8) 110.3 (2) O(1)-C(15)-C(14) 108.9 
+C(11)-C(9)-C(8) 107.1 (2) O(1)-C(16)-C(13) 110.2 
+C(I 1)-C(9)-C(10) 109.6 (2) C(16)-O(1)-C(15) 105.6 
+C(10)-C(1)-C(2)--C(3) 60.9 
+C(2)-C(1)-C(10)-C(5) -60.7 
+C(2)-C(3)-C(4)-C(5) -59.2 
+C(3)-C(4)-C(5)-C(6) 174.0 
+C(4)-C(5)-C(6)-C(7) -172.9 
+C(6)-C(5)-C(10)-C(1) -115.4 
+C(4)-C(5)-C(10)-C(9) 136.2 
+(2) 
+(2) 
+(2) 
+(2) 
+(2) 
+(2) 
+(3) 
+(3) 
+(3) 
+(3) 
+(4) 
+(4) 
+(3) 
+(3) 
+(3) 
+(3) 
+(3) 
+(3) 
+(4) 
+(4) 
+(4) 
+(5) 
+(6) 
+(4) 
+(5) 
+(4) C(6)-C(7)-C(8)-C(17) 117.2 (3) 
+(3) C(7)-C(8)-C(17)-O(2) 156.4 (3) 
+(4) C(I I)-C(9)-C(10)-C(5) 153.6 (3) 
+(3) C(10)-C(9)-C(11)-C(12) -63.2 (3) 
+(3) C(9)-C(11)--C(12)-C(13) -172.3 (3) 
+(3) C(i 1)-C(12)-C(13)-C(14) 154.0(5) 
+(3) O(2)-C(! 2)-C(13)-C(14) 30.7 (6) 
+=0.128,  Ap in the final difference Fourier map 
+-0 .20  to 0.23 e A -3, number of parameters refined: 
+315, including all but two H atoms. C - -H  distances in 
+the range 0.91 (3 ) -1 .17  (4 )A  and O-H distance 
+0.79 (4 )A .  Computers PDP 11/44 for structure solu- 
+tion and CYBER-180 for refinement. Atomic scat- 
+tering factors those of  SHEL,V76. 
+Discussion. The positional parameters and equivalent 
+isotropic temperature factors for non-H atoms are given 
+in Table 1.* Important bond lengths, bond angles and 
+* Lists of structure factors, anisotropic thermal parameters, 
+H-atom parameters, least-squares-planes details and hydrogen-bond 
+data have been deposited with the British Library Document Supply 
+Centre as Supplementary Publication No. SUP 51398 (14 pp.). 
+Copies may be obtained through The Executive Secretary, 
+International Union of Crystallography, 5 Abbey Square, Chester 
+CH 1 2HU, England. 
+302 COLUMBIN 
+15 
+6" '° 6H 
+Fig. 1. Structural formula. 
+Fig. 2. General view of the molecule. 
+1-19 
+torsion angles are given in Table 2. Fig. 1 gives the 
+structural formula of the compound. Fig. 2 is the 
+PLUTO78 drawing (Motherwell & Clegg, 1978) of the 
+general view of the molecule and Fig. 3 is the packing 
+diagram. 
+The crystal structure of the 1-(p-iodophenyl)-3- 
+phenylpyrazoline adduct of isoeolumbin has been 
+reported (Cheung, Melvilla, Overton, Robertson & Sim, 
+1966). The present structure resembles those of similar 
+compounds (Swaminathan, Sinha, Bhatt & Sabata, 
+1988; Swaminathan, Sinha, Bhatt, Sabata & Tavale, 
+1989). For comparison some of the corresponding 
+parameters of these two compounds are given in square 
+brackets, where the second value is the average of the 
+values of two molecules. The chirality was assigned on 
+the basis of detailed NMR and irradiation studies. The 
+terpene ring A is locked into a boat conformation by the 
+C(1)--C(4) lactone bridge. The absence of the epoxy 
+oxygen 0(7) which is present in the other two 
+compounds makes the C(2)=C(3) distance 1.322 (5)A 
+[1.440 (4), 1.450 (5) A] and hence the atoms H(9) and 
+H(10) are coplanar with the mean plane of atoms C(1), 
+C(2), C(3) and C(4). Atom 0(4) of the hydroxyl group 
+is coplanar with the mean plane of the lactone function. 
+O(4)-H(22) is 0.79 (4) A [0.86 (4), 0.89 (5) A]. The 
+furan ring is effectively planar with maximum devia- 
+tion of 0.0050 (5)A and attached equatorially to the 
+ring C at atom C(12). Atom H(4) is a-oriented at site 
+C(12) and atom H(15) is t-oriented at atom C(8). The 
+~t and fl orientations of atoms H(7) at C(10) and 0(6) 
+of the lactone function at C(1) indicate the trans-diaxial 
+relationship. Atom 0(4) of the hydroxyl group is 
+involved in intramolecular hydrogen bonding with atom 
+0(5), with bond distance 2.739 (8) A. 
+The authors thank Professor M. A. Viswamitra, 
+Department of Physics, IISc, Bangalore, for his kind 
+permission to use the CAD-4 diffractometer for data 
+collection. 
+l 
+C) 
+Fig. 3. Unit-cell packing diagram. 
+References 
+CHEUNG, K. K., MELVILLA, D., OVERTON, K. H., ROBERTSON, J. 
+M. & SIM, G. A. (1966). J Chem. Soc. B, pp. 853-861. 
+Enraf-Nonius (1982). Structure Determination Package. Enraf- 
+Nonius, Delft, The Netherlands. 
+HANUMAN, J. B., BHATT, R. K. & SAeATA, B. K. (1986). 
+Phytochemistry, 25, 1677-1680. 
+MAIN, P., FISKE, S. J., HULL, S. E., LESSrNGER, L., GERMAIN, G., 
+DECLERCQ, J.-P. ~ WOOLFSON, M. M. (1982). MULTAN11/82. 
+A System of Computer Programs for the Automatic Solution of 
+Crystal Structures from X-ray Dffraction Data. Univs. of York, 
+England, and Louvain, Belgium. 
+MOTHERWELL, W. D. S. & CLEGG, W. (1978). PLUTO78. 
+Program for plotting molecular nd crystal structures. Univ. of 
+Cambridge, England. 
+NORTH, A. C. T., PHILLIPS, D. C. & MATHEWS, F. S. (1968). Acta 
+Cryst. A24, 351-359. 
+SWAMINATHAN, SINHA, RAMAKUMAR, BHATT AND SABATA 303 
+gAMAKUMAK, S. (1976). PhD Thesis, Department of Organic 
+Chemistry, IISc., Bangalore, India. 
+SHELDRICK, G. M. (1976). SHELX76. Program for crystal 
+structure determination. Univ. of Cambridge, England. 
+SWAMINATHAN, K., SlNHA, U. C., BHATr, R. K. & SABATA~ B. K. 
+(1988). Acta Cryst. C44, 1421-1424. 
+SWAMINATHAN, K., SINHA, U. C., BHA'I'r, R. K., SABATA, B. K. d~ 
+TAVALE, S. S. (1989). Acta Cryst. C45, 134-136. 
+Acta Cryst. (1989). C45, 303-306 
+1:1 and 1:2 Complexes Between Diaza- 18-crown-6 and 2,7-Dihydroxynaphthalen¢ 
+BY WmLIAM H. WATSON,* ANTE NAGLt AND ETIM EDUOK 
+Department ofChemistry, Texas Christian University, Fort Worth, Texas 76129, USA 
+(Received 31 March 1988; accepted 21 September 1988) 
+Abstract. 1:1 Complex, C12H26N204.CIoHsO2, M,= 
+422.53, monoclinic, P2Jc, a= 17.813 (3), b= 
+7.563 (2), c= 18.297 (2)A, f l=97.80(1)  °, V= 
+2442.3 (6) A 3, Z = 4, D x = 1.149 gcm -3, 2(Mo Ka) 
+= 0.71073,/k, # = 0.78 cm -1, F(000) = 912, T= 
+295 K, R--0.0687 for 1964 observed reflections. 1:2 
+Complex, C 12H26N204.2C 10HsO2, M, = 582.70, mono- 
+clinic, P2Jn, a=11.957(2) ,  b=7.551(1) ,  c= 
+18.474 (2) A, f l= 105.85 (1) °, V= 1604.4 (3) A 3, Z 
+=2,  Dx=l.206gcm -3, 2(MoKa)=0.71073/~,, #
+= 0.81 cm -1, F(000) - 624, T= 295 K, R = 0.0424 
+for 1745 observed reflections. The conformations of the 
+diaza-18-crown-6 molecules are analogous to the D3a 
+conformation of 18-crown-6. In the l: l  complex the 
+dihydroxynaphthalene bridges two independent diaza- 
+18-crown-6 molecules by hydrogen bonding to the 
+diaza N atoms. In the 1:2 complex one hydroxyl 0(7) 
+hydrogen bonds to the diaza N atom while the other 
+hydroxyl 0(2) hydrogen bonds to 0(7) of an adjacent 
+molecule. 
+Introduetlon. Diaza-18-crown-6 (IUPAC name: 1,4,- 
+10,13-tetraoxa- 7,16-diazacyclooctadecane) forms 
+stable complexes with neutral organic molecules con- 
+taining proton donors (Watson, Galloy, Grossie, Vfgtle 
+& Miiller, 1984; V6gtle, Miiller & Watson, 1984). The 
+hydrogen bonds always involve the diaza N atoms. If the 
+guest donor is sufficiently acidic, proton transfer occurs 
+yielding a diaza-18-crown-6 dication (Watson, Vfgtle 
+& Miiller, 1988a). In a recent investigation (Watson, 
+Vfgtle & Miiller, 1988b), it was found that diaza- 
+18-crown-6 could be used to selectively precipitate 
+some polyhydroxy guests from mixtures ofoligohydroxy 
+phenols. Chemical analysis of a complex formed with 
+2,7-dihydroxynaphthalene indicated a host:guest ratio 
+* Author to whom correspondence should be addressed. 
+On leave from the Faculty of Technology, University of 
+Zagreb, Zagreb, Yugoslavia. 
+0108-2701/89/020303-04503.00 
+of 2:3. Since this is a rather unusual ratio for guests of 
+this type, we believed the structure would be of interest. 
+Upon careful control of the guest: host stoichiometries 
+we isolated 1:1 and 1:2 complexes but no trace of a 2:3 
+complex. An initial 2:3 host:guest ratio leads to an 
+approximate quimolar mixture of 1-2 and 1:1 com- 
+plexes giving a 2:3 chemical analysis. 
+Experimental. Data were collected on a Nicolet R3m/g 
+update of a P21 diffractometer (3 < 20 < 45 °) in the 
+Wyckoff mode (20 fixed, 09 varied) using a variable 
+scan rate (4 to 29.3 o min-l) and graphite-mono- 
+chromated Mo Ka radiation. Lorentz-polarization 
+corrections and a ~'-scan-based empirical absorption 
+correction were applied; structure solved by direct 
+methods and refined by block-cascade least-squares 
+techniques. The function minimized was ~w(IFol- 
+iFcl )2 where w = [o2(Fo) + gFo2] -l. Computer programs 
+for Desktop 30 Microeclipse and Nova 4/C con- 
+figuration (Nicolet Instrument Corporation, 1986); 
+scattering factors and anomalous-dispersion correc- 
+tions from International Tables for X-ray Crystal- 
+lography (1974). 
+1:1 Complex: Obtained by refluxing a 1:1 molar 
+ratio of the two components in a minimum quantity of 
+ethyl acetate, colorless crystals 0.15 x 0.38 x 
+0.52 mm, 25 reflections (32.03 < 20 < 40.93 °) used to 
+determine unit-cell dimensions; systematic absences 
+(hOl, l = 2n + 1; 0k0, k = 2n + 1) and Laue symmetry 
+2/m consistent with space group P21/c; 3189 indepen- 
+dent reflections (-19 < h < 19, 0 < k < 8, 0 < l < 19), 
+1964 _> 38(I); transmission factors 0.920 to 0.966; all 
+H atoms located in a difference map, OH and NH H 
+atoms refined isotropically, all other H atoms allowed 
+to ride on attached atom, one isotropic thermal 
+parameter refined for naphthalene H atoms and another 
+for H atoms of one crown, H atoms of crown with large 
+thermal parameters assigned isotropic value of attached 
+atom; R = 0.0687, wR = 0.0534 for 286 parameters 
+© 1989 International Union of Crystallography 

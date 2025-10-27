@@ -1,0 +1,892 @@
+Biochem. J. (1991) 280, 507-514 (Printed in Great Britain)
+Ricinoleic acid biosynthesis and triacylglycerol assembly in
+microsomal preparations from developing castor-bean
+(Ricinus communis) endosperm
+Maureen BAFOR,* Mark A. SMITH,t Lisbeth JONSSON, Keith STOBARTt and Sten STYMNEt
+Department of Plant Physiology, Swedish University of Agricultural Sciences, P.O. Box 7047, S-750 07 Uppsala, Sweden
+Microsomal membrane preparations from the developing endosperm of castor bean (Ricinus communis) catalysed the
+transfer of oleate from ['4C]oleoyl-CoA to phosphatidylcholine (PtdCho). In the presence of NADH, radioactive
+ricinoleate (12-hydroxyoctadec-9-enoate) was synthesized from [14C]oleate, and this was largely recovered in PtdCho and
+as free fatty acid. The addition of unlabelled ricinoleoyl-CoA to these incubation mixtures did not increase the low
+[14C]ricinoleate concentration found in the acyl-CoA fraction nor decrease the [14C]ricinoleate concentration in PtdCho
+and free fatty acid, and thus no evidence was obtained for a hydroxylation with oleoyl-CoA as a substrate. The addition
+of NADH, necessary for the formation of ricinoleate, caused a decrease of the total radioactivity in PtdCho with a
+corresponding increase in the amount of label in free ricinoleic acid. This increase was due to the action of a phospholipase
+A, which released ricinoleic acid but not oleic acid from PtdCho. Such a phospholipase activity, attacking ricinoleoyl-
+PtdCho but not oleoyl-PtdCho, was also demonstrated in microsomal preparations from developing cotyledons of
+safflower and oil-seed rape. An analysis of the acyl groups at different positions in microsomal PtdCho of castor bean
+showed that ricinoleate was almost entirely associated with position sn-2. Likewise the [14C]ricinoleate in [14C]PtdCho
+formed after incubations with microsomal preparations with NADH and [14C]oleoyl-CoA resided in position sn-2 with
+none in position sn-l. In contrast, the [14C]linoleate formed by desaturation of [14C]oleoyl-PtdCho was present at both
+positions. In the presence of ATP, CoA and Mg2", the ricinoleate acid released from PtdCho was activated to ricinoleoyl-
+CoA. The ricinoleoyl-CoA was an efficient acyl donor in the acylation of glycerol 3-phosphate (Gro3P) to yield
+phosphatidic acid and triacylglycerols. In microsomal preparations incubated with an equimolar mixture of [14C]oleoyl-
+CoA and [14C]ricinoleoyl-CoA in the presence of Gro3P, only a minor amount of [14C]ricinoleate entered PtdCho, and
+this was believed to be via the exchange of phosphocholine groups between a diacylglycerol pool and the PtdCho. On the
+basis of our results, a scheme of ricinoleate formation and its incorporation into triacylglycerols in castor-bean endosperm
+is proposed.
+INTRODUCTION
+Vegetable oils rich in ricinoleic acid (12-hydroxyoctadeca-9-
+enoic acid) are of particular interest to the oleochemical industry
+(Pryde & Rothfus, 1989). Few plants species, however, ac-
+cumulate triacylglycerols (triacylglycerides) with hydroxylated
+fatty acids. The only commercial source is from castor-bean
+(Ricinus communis) endosperm, in which over 80% of the fatty
+acid in the triacylglycerol is ricinoleic acid. Earlier work (Galliard
+& Stumpf, 1966), with cell-free and microsomal membrane
+preparations from developing castor beans, showed that oleate
+(C18.1 AS) was the acyl substrate for the hydroxylation and that
+the reaction required NAD(P)H. Kinetic data (Moreau &
+Stumpf, 1981), on ricinoleate formation from exogenously sup-
+plied ['4C]oleoyl-CoA, were interpreted as indicating that the
+oleate was esterified to microsomal phosphatidylcholine (Ptd-
+Cho) before hydroxylation. In these experiments, however, little
+[14C]ricinoleate wUs found in PtdCho, the major portion being
+present in an undefined 'non-polar' fraction. Questions, there-
+fore, regarding the immediate substrate for the A12-fatty acid
+hydroxylase and the assembly of triacylglycerol with hydroxy
+fatty acids remain largely unresolved (Stymne & Stobart, 1987).
+Here we present evidence on the nature of the lipid substrate for
+the hydroxylase enzyme and investigate ricinoleate utilization in
+triacylglycerol formation in microsomal preparations from the
+developing endosperm of castor bean.
+MATERIALS AND METHODS
+Chemicals
+[1-14C]Oleic acid and sn-[U-14C]glycerol 3-phosphate ([U-
+14C]Gro3P) were obtained from Amersham International,
+Amersham, Bucks., U.K. Catalase, BSA (fraction V, fatty acid-
+free), triacylglycerol lipase (Rhizopus arrhizus), CoA, Gro3P,
+lysophosphatidylcholine (sn-l-acylglycero-3-phosphocholine)
+(lysoPtdCho) (prepared from egg yolk), oleic acid and ricinoleic
+acid were purchased from the Sigma Chemical Co.
+[1_-4C]Ricinoleic acid was synthesized enzymically by hy-
+droxylation of [1-14C]oleate by microsomal preparations from
+developing castor-bean endosperm as follows. Microsomal prep-
+aration (10 mg of microsomal protein) was incubated for 4 h at
+25 °C with 1 jiTnol of [1-14C]oleic acid (sp. radioactivity 52 ,uCi/
+,umol) bound to 80 mg of BSA, 8000 units of catalase, 15 ,umol of
+NADH, 16 ,umol of ATP, 18 ,umol of MgCl2 and 8 ,mol of CoA
+in 0.1 M-potassium phosphate buffer, pH 7.2, in a total volume of
+8 ml. The lipids were saponified by heating the mixture in 0.5 M-
+KOH at 100 °C for 60 min. After acidification with HCI and
+extraction with chloroform, the fatty acids were esterified with
+Abbreviations used: Gro, glycerol; Gro3P, sn-glycerol 3-phosphate; lysoPtdCho, lysophosphatidylcholine (sn-l-acylglycero-3-phosphocholine);
+PtdCho, phosphatidylcholine; PtdOH, phosphatidic acid.
+Permanent address: Biochemistry Division, Nigerian Institute for Oil Palm Research, P.M.B. 1030, Benin City, Nigeria.
+t Permanent address: Department of Botany, University of Bristol, Bristol BS8 IUG, U.K.
+$ To whom correspondence and reprint requests should be sent.
+Vol. 280
+507
+M. Bafor and others
+methanolic HCl (Kates, 1964). The methyl ricinoleate was
+separated from the non-hydroxylated methyl esters by t.l.c. on
+silica gel 60 with hexane/diethyl ether/acetic acid (70:30: 1, by
+vol.). The area corresponding to methyl ricinoleate was removed
+from the plates and the lipid was eluted from the gel with
+chloroform/methanol (2: 1, v/v). The solvent was evaporated,
+and the methyl esters were saponified with 1 ml of 2 M-KOH at
+100 °C for 60 min. After acidification with HC1, the free [14C]-
+ricinoleic acid was extracted in chloroform. The yield of [14C]-
+ricinoleate was about 20% of added radioactivity and the final
+specific radioactivity was 12500 d.p.m./nmol. Radiolabelled and
+non-labelled oleoyl-CoA and ricinoleoyl-CoA were synthesized
+from their mixed anhydrides (Sainchez et al., 1973; Stobart &
+Stymne, 1990).
+Plant material and microsomal preparation
+Microsomal preparations from developing cotyledons of oil-
+seed rape (Brassica napus var. Topas) and safflower (Carthamus
+tinctorius var. Gila) were prepared by the procedure of Stobart &
+Stymne (1990). Castor bean (Ricinus communis var. Rogusus)
+plants were grown from seed in a 16 h photoperiod at 25 °C and
+8 h night at 20 'C. Developing seeds were harvested between 30
+and 40 days after flowering and cut into two parts. Only those
+seeds where the endosperm had expanded to between one-third
+and two-thirds of the seed volume were used for microsomal
+preparation. The endosperm tissues, together with the small
+embryo, were removed from the seed and stored on ice. All
+further manipulations were carried out at 0 'C. The tissue was
+ground in a mortar with 5 parts (v/w) of 0.1 M-potassium
+phosphate buffer, pH 7.2, containing 0.1% BSA, 1000 units of
+catalase/ml and 0.33 M-sucrose. The homogenate was filtered
+through a double layer of Miracloth, diluted 10-fold with fresh
+grinding medium and centrifuged at 20000 g for 10 min. The
+supernatant was filtered through Miracloth and centrifuged at
+105 000 g for 90 min. The resulting microsomal pellet was re-
+suspended in 0.1 M-potassium phosphate buffer, pH 7.2, con-
+taining 0.1 % of BSA and 1000 units of catalase/ml. The
+microsomal pellets were used either fresh or stored up to 2 weeks
+at -80 'C. Longer storage periods greatly decreased the oleate
+hydroxylation activity of the preparation.
+Protein determination
+Protein was measured with the BCA protein reagent (Pierce
+Chemical Co). after treatment of the microsomal preparation
+with 0.1 % SDS and with BSA as standard.
+Assays
+Microsomal incubations with radioactive substrates were car-
+ried out with constant shaking at 25 'C and with acyl-CoAs, acyl
+acceptors, cofactors and microsomal membranes (as given in the
+Table and Figure legends) and 1000 units of catalase in a final
+volume of 1 ml with 0.1 M-sodium phosphate buffer, pH 7.2.
+Reactions were terminated by the addition of 1 ml of 0.15 M-
+acetic acid, and the complex lipids and non-esterified fatty acids
+were extracted by the addition of 3.75 ml of methanol/
+chloroform (2:1, v/v) and 1.25 ml of chloroform as modified
+from the method of Bligh & Dyer (1959).
+Analytical procedures
+When the analysis of the acyl groups in the acyl-CoA fraction
+was required, the upper methanol/water phase (into which the
+acyl-CoA partitions) from the Bligh & Dyer (1959) extraction
+were extracted further with an additional 2.5 ml of chloroform.
+The lower chloroform phases were bulked and used for the
+analysis of complex lipids and non-esterified fatty acids as de-
+scribed below. Acyl-CoA in the aqueous-methanol phase was
+hydrolysed by the addition of 2 ml of 2 M-KOH and refluxed for
+40 min. After acidification with HC1, the resulting non-esterified
+fatty acids were extracted in chloroform. After evaporation of
+the chloroform under N2, the fatty acids were methylated with
+methanolic HCI (Kates, 1964) and, after the addition of methyl-
+heptadecanoic acid as internal standard, analysed by g.l.c.
+and radio-g.l.c. Although all the acyl-CoA was recovered by this
+method, a minor part of the microsomal lipids also partitioned
+into the upper phase (1-2% oftotal acyl groups in the microsomal
+membranes).
+Complex lipids and non-esterified fatty acids in the chloroform
+phase were evaporated to dryness under N2. The residue was
+dissolved in a small volume of chloroform, and the polar lipids
+were purified by t.l.c. on precoated silica-gel plates (Merck; silica
+gel 60) with chloroform/methanol/acetic acid/water (170:
+30:20:7, by vol.). Neutral lipids were purified on high-per-
+formance t.l.c. plates (Merck; silica gel 60) in hexane/diethyl
+ether/acetic acid (70:140:3, by vol.).
+The presence of ricinoleoyl groups in complex lipids affected
+their mobility in the t.l.c. system. The presence of ricinoleate in the
+polar lipids had much less influence on the migration rate than
+the ricinoleate in neutral lipids. PtdCho with one ricinoleoyl
+group co-chromatographed with PtdCho without hydroxylated
+acyl groups, whereas phosphatidic acid (PtdOH) with one
+ricinoleoyl moiety was only partially resolved from PtdOH with
+two ricinoleoyl groups and with no ricinoleate. In the neutral
+lipids (i.e. the non-esterified fatty acid, monoacylglycerols, di-
+acylglycerols and triacylglycerols) the presence of ricinoleate
+dramatically altered their chromatographic behaviour. The use
+Z' !e.. :'.;...
+:... TAG -Solvent front
+1-OT AG
+1- HO-TAG
+HO-NFA
+.: :. .: :. ..:
+2-HO-TAG
+HO-NEFA
+3-HO -TAG
+1 -H O -DAG
+2-HO-DAG
+- MAG
+* HO-MAG
+-Origin
+Fig. 1. T.l.c. chromatogram of ricinoleate neutral lipids
+The lipids were chromatographed on high-performance silica-gel
+t.l.c. plates in hexane/diethyl ether/acetic acid (70:140:3, by vol.)
+and stained with 12 vapour. The lipid mixture was obtained by
+triacylglycerol lipase treatment of diricinoleoyl-containing triacyl-
+glycerol as described in the Materials and methods section and
+supplemented with dioleoylglycerol and oil from mature castor
+beans. Abbreviations: MAG, monoacylglycerol; DAG, diacyl-
+glycerol; TAG, triacylglycerol; NEFA, non-esterified fatty acid. The
+numbering designates mol of ricinoleate/mol of lipid (i.e. 2-HO-
+TAG, triacylglycerols with two ricinoleoyl moieties).
+1991
+508
+Ricinoleate biosynthesis in castor beans
+of high-performance silica-gel t.l.c. plates in the solvent described
+above enabled the resolution of all these lipids according to the
+number of hydroxylated acyl groups present in each lipid class
+(Fig. 1). The different hydroxylated lipids were identified by first
+analysing the acyl composition of the three major lipid areas on
+a t.l.c. chromatogram of castor-bean oil. The proportion of
+ricinoleoyl groups in the three areas were (in order of decreasing
+mass in each area) 100, 66 and 33 % of total acyl groups, and
+thus they consisted of triacylglycerols with three, two and one
+ricinoleoyl group respectively. Triacylglycerols with two ricin-
+oleoyl groups were eluted from the gel and partially hydrolysed
+with RPizopus arrhizus lipase by the procedure of Bafor et al.
+(1990). After chromatography of the hydrolytic products an
+additional five lipid spots were observed. Two were identified as
+free ricinoleic acid and free non-hydroxylated fatty acids, and the
+others, with a migration value less than the triacylglycerols
+substrate, were on the basis of ricinoleate content tentatively
+identified as ricinoleoyl-containing monoacylglycerols, ricino-
+leoyl/ricinoleoyl-containing diacylglycerols and ricinoleoyl/
+non-hydroxylated acyl-containing diacylgly,erol.
+Lipid areas were removed from the plates and either assayed
+for radioactivity or esterified in situ with methanolic HCI (Kates,
+1964) for the analysis of the fatty acids. The unlabelled and
+radioactive fatty acid methyl esters were analysed by g.l.c. and
+radio-g.l.c. respectively.
+Positional analysis of the PtdCho was performed after treat-
+ment of the lipid with phospholipase A2 as described by Griffiths
+et al. (1985).
+Lipid samples were assayed for radioactivity in PCS (Amer-
+sham-Searle)/xylene (2: 1, v/v) scintillant in an LKB 1214 liquid-
+scintillation counter with an efficiency of about 94 % for the 14C.
+All values were corrected for background and quenching.
+RESULTS
+Hydroxylation of 1[4Cloleate
+Microsomal preparations from developing castor-bean endo-
+sperm were incubated with ['4C]oleoyl-CoA and NADH and
+the distribution of radioactivity in complex lipids and non-
+esterified fatty acids was determined (Table 1). In the absence of
+NADH the oleate was transferred largely to PtdCho with little
+radioactivity in the non-esterified fatty acids. The addition of
+NADH, however, resulted in the appearance of the radioactive
+free ricinoleic acid and with a corresponding decrease in the label
+in PtdCho. Time-course studies on the incorporation of radio-
+activity from [14CJoleoyl-CoA into lipid species in the presence of
+NADH showed (Fig. 2) that [14C]oleate from [14C]oleoyl-CoA
+was mainly transferred to PtdCho. Total amount of [14C]-
+ricinoleate increased throughout the time course. Similar quan-
+tities of [14C]ricinoleate accumulated in PtdCho and free fatty
+acid up to 30 min of incubation, after which the amount remained
+constant in PtdCho but continued to increase in the free acid. It
+should be noted that after 60 min incubation 80% of the
+[14C]ricinoleate in the chloroform-soluble lipids resided in free
+fatty acid. In contrast, [14C]linoleate, formed by Al2-fatty acid
+desaturase activity, was almost totally associated with PtdCho
+(Fig. 2a). The accumulation of ['4C]oleate as free fatty acid was
+only 25 % of that found for free ['4C]ricinoleic acid (results not
+shown).
+In order to establish if oleoyl-CoA could serve as a direct
+substrate for the hydroxylase, relatively high concentrations of
+unlabelled ricinoleoyl-CoA were added to microsomal membrane
+preparations incubated with [14C]oleoyl-CoA and NADH and
+the specific radioactivity of the ricinoleate in the lipid fractions
+was determined. The rationale for this experiment was that, if
+Table 1. Effect of NADH on the distribution of I14Clacyl groups in lipids
+in microsomal preparations of developing castor-bean endosperm
+incubated with I'4Cloleoyl-CoA
+Microsomal preparations (equivalent to 0.9 mg of microsomal
+protein) were incubated with ["4Cloleoyl-CoA (50 nmol; sp. radio-
+activity 4500 d.p.m./nmol) and 10 mg of BSA in the presence and in
+the absence of NADH for 45 min. Results are the means + S.E.M. for
+two incubations.
+['4C]Acyl distribution (nmol)
+Free fatty acid
+Chloroform-
+soluble Ricinoleic
+NADH lipids (nmol) PtdCho Total acid
+- 28.38+0.05 17.54+0.02 2.83+0.50 0
++ 27.76+ 1.88 9.14+0.57 10.87+1.12 9.49+ 1.38
+E
+C
+c
+0
+.0
+~0
+0 20 40
+Incubation time (min)
+60
+Fig. 2. Effect ofNADH on the utilization of I'4Cioleoyl-CoA by microsomal
+preparations of developing castor-bean endosperm
+Microsomal preparations (equivalent to 0.5 mg of microsomal
+protein) were incubated with [1-'4CJoleoyl-CoA (100 nmol; sp.
+radioactivity 4500 d.p.m./nmol) in the presence of 7.5 mg of BSA,
+3 ,umol of NADH and 1000 units of catalase in 0.1 M-phosphate
+buffer, pH 7.2, in a total volume of I ml at 25 'C. The radioactive
+incorporation into lipids and their fatty acids was determined after
+defined times. Symbols: O, oleate in chloroform-soluble lipids; El,
+oleoyl-PtdCho; *, linoleoyl-PtdCho; *, linoleate in chloroform-
+soluble lipids other than PtdCho; A, ricinoleoyl-PtdCho: A, free
+ricinoleic acid; x , ricinoleate in chloroform-soluble lipids other than
+PtdCho and non-esterified fatty acids;
+ricinoleoyl-CoA were the product of hydroxylation, the un-
+labelled ricinoleoyl-CoA should dilute substantially the specific
+radioactivity of the [14Clricinoleoyl-CoA formed from [14C]-
+oleoyl-CoA. This would drastically decrease the [14C]ricinoleate
+in the chloroform-soluble lipids (PtdCho and non-esterified fatty
+acids) and correspondingly greater amounts of [14C]ricinoleate
+should reside in the acyl-CoA fraction. The results (Table 2),
+however, showed that the addition of unlabelled ricinoleoyl-CoA
+somewhat increased the [14C]ricinoleate in PtdCho and free fatty
+acid and decreased the small amount of [14C]ricinoleate in the
+acyl-CoA fraction. It should be noted that some two-thirds of the
+Vol. 280
+509
+M. Bafor and others
+added ricinoleoyl-CoA still remained at the end of the incubation
+period.
+Castor-bean microsomal membranes efficiently catalysed the
+acylation of exogenously supplied lysoPtdCho with ricinoleate
+from ['4C]ricinoleoyl-CoA (see below and Fig. 4). The acylation
+of PtdCho in vivo in oil-seeds, however, may occur largely via an
+acyl-exchange between an acyl-CoA pool and position sn-2 of
+sn-PtdCho (Stymne & Stobart, 1984, 1987). This reaction
+was therefore studied in castor-bean microsomal preparations
+incubated with oleoyl-CoA and ricinoleoyl-CoA as single and
+mixed acyl-CoA substrates and in the absence of added lyso-
+PtdCho. The results (Fig. 3) showed that the ricinoleate was
+incorporated into PtdCho but at a much lower rate (20 %) than
+observed for the oleate. Little incorporation of [14C]ricinoleate
+into PtdCho was observed in incubations with mixed acyl-CoA
+substrates, in which [14C]ricinoleoyl-CoA and unlabelled oleoyl-
+CoA were provided in equimolar amounts (Fig. 3).
+The sn-distribution of fatty acids in sn-PtdCho before and
+after a 60 min incubation of microsomal membranes with [14C]-
+oleoyl-CoA and NADH was determined (Table 3). The sn-
+PtdCho in pre-incubation membranes contained some 9%
+ricinoleate in position sn-2, whereas this acid was only present in
+trace amounts at position sn-i. After incubation the mass of
+ricinoleate had increased to 20% and 3 % at positions sn-2 and
+sn-I respectively. Over 84% of the radioactivity incorporated
+into sn-PtdCho during incubation was confined to position sn-2,
+of which 46% was in ricinoleate. No radioactive ricinoleate was
+detected in position sn-i, whereas substantial [14C]linoleate was
+present at both the sn-I and sn-2 positions.
+Metabolism of PtdCho
+The results described strongly indicate that the A12-fatty acid
+hydroxylase uses as substrate the oleate at position sn-2 of
+microsomal sn-PtdCho. The major proportion of synthesized
+ricinoleate at prolonged incubation times, however, was found
+to reside in free ricinoleic acid. These observations imply the
+Table 2. Effect of ricinoleoyl-CoA on the distribution of I'4Clricinoleate in
+lipids in microsomal preparations from developing castor-bean
+endosperm incubated with I14Cloleoyl-CoA and NADH
+Microsomal preparations (equivalent to 0.6 mg of microsomal
+protein) were incubated with ["4C]oleoyl-CoA (100 nmol; sp. radio-
+activity 4500 d.p.m./nmol), 3 /umol of NADH and 20 mg of BSA in
+the presence and in the absence of ricinoleoyl-CoA (300 nmol) for
+30 min. Results are the means + S.E.M. for two incubations.
+Acyl groups
+recovered (nmol)
+Ricinoleoyl-CoA added... - +
+Ricinoleate in acyl-CoA
+['4C]Ricinoleate in acyl-CoA
+['4C]Acyl groups in chloroform-
+soluble lipids
+['4C]Ricinoleate in PtdCho
+Free [14C]Ricinoleic acid
+4.7+0.3
+3.83 + 0.83
+51.0 + 2.4
+207.8 + 11.4
+0.96+0.19
+57.18+ 3.8
+8.79+0.82 13.4+0.45
+7.26+ 1.2 11.1 +0.80
+-u
+E
+0
+u
+0-
+C
+0
+0)
+0 20 40 60
+Incubation time (min)
+Fig. 3. Incorporation of I14Cloleate and j14Cjricinoleate from j'4Clacyl-
+CoA in PtdCho by microsomal preparations from developing castor-
+bean endosperm
+Microsomal preparations (equivalent to 0.15 mg of microsomal
+protein) were incubated with 30 nmol of either ['4CJricinoleoyl-CoA
+(-) or [14C]oleoyl-CoA (El) (sp. radioactivity 1000 d.p.m./nmol) or
+a mixture of 30 nmol each of [14C]ricinoleoyl-CoA and unlabelled
+oleoyl-CoA ( x ) in the presence of 2 mg of BSA.
+Table 3. Positional distribution of acyl groups and I"4Clacyl groups in PtdCho in mnicrosomal preparations of developing castor-bean microsomes incubated
+with j14Cloleoyl-CoA and NADH
+PtdCho from microsomal preparations (equivalent to 2.4 mg of microsomal protein) was isolated before and after incubation with ['4C]oleoyl-
+CoA (400 nmol; sp. radioactivity 4500 d.p.m./nmol), 12 ,umol NADH and 40 mg of BSA in a total volume of 4 ml for 60 min. The PtdCho was
+treated with phospholipase A2, and the acyl composition at positions sn-I and sn-2 was determined as described in the Materials and methods
+section. The total incorporation of [14CJacyl groups into PtdCho after incubation was 120 nmol
+Distribution of acyl groups (mol% in each position)
+Position Palmitate Stearate Oleate Linoleate Linolenate Ricinoleate
+Before incubation sn-I 34.6 9.0 23.7 29.1 1.5 0.5
+sn-2 2.3 1.0 38.7 44.1 4.5 8.9
+After incubation sn-I 32.4 10.3 17.0 33.0 2.0 3.2
+sn-2 3.6 1.6 21.0 49.4 3.9 20.0
+Relative radioactivity
+(% of total radioactivity
+in both positions)
+15.6
+84.4
+Distribution of ["4C]acyl groups
+(% of radioactivity in each position)
+Oleate Linoleate Ricinoleate
+81.1
+43.2
+18.9
+10.8
+0
+46.0
+Position
+sn-l
+sn-2
+1991
+510
+Ricinoleate biosynthesis in castor beans
+(a) Castor-bean microsomes
+_
+0 2040 80 160
+Incubation time (min)
+60
+0
+E
+c
+c
+0
+.0
+0
+.a
+u
+40-
+30-
+20
+10*
+(b) Rape-seed microsomes
+0 20 80 160 320
+4
+- 3l
+E
+O 2
+0
+.;. 1
+.0
+4-
+~0
+440
+30
+20
+(c) Safflower-seed microsomes
+10-
+O
+0 20
+Incubation time (min)
+80 160 320
+Incubation time (min)
+Fig. 4. Metabolism by microsomal preparations of developing castor bean (a), oil-seed rape seed (b) and safflower seed (c) of 114Clricinoleoyl-PtdCho (i)
+and 14Cloleoyl-PtdCho (ii) synthesized in situ
+PtdCho was labelled with either [14C]ricinoleate (i) or ['4C]oleate (ii) by incubating the microsomal preparations (equivalent to 0.6 mg of
+microsomal protein) with [4C]ricinoleoyl-CoA or ["4C]oleoyl-CoA (40 nmol; sp. radioactivity 8000 d.p.m./nmol) respectively in the presence of
+lysoPtdOH (75 nmol). The radioactivity distribution in chloroform-soluble lipids was determined at various incubation times. Symbols: EC, total
+chloroform-soluble lipids; *, PtdCho; *, non-esterified fatty acids; +, diacylglycerol; x, triacylglycerol.
+existence of a phospholipase that rapidly releases the ricinoleic
+acid from PtdCho. The existence of such a phospholipase was
+investigated further. Microsomal membranes incubated with
+[14C]oleoyl-CoA or [14C]ricinoleoyl-CoA in the presence of
+supplied lyso-PtdCho became rapidly enriched with sn-2-[14C]-
+oleoyl-PtdCho and sn-2-[14C]ricinoleoyl-PtdCho respectively
+(Fig. 4a). After 10min incubation 84% and 70% of the
+radioactivity in the chloroform-soluble lipids was found in
+[14C]oleoyl-PtdCho and [14C]ricinoleoyl-PtdCho respectively. No
+further significant increase occurred in radioactivity in the
+chloroform phase up to 160 min of incubation, indicating that
+essentially all the radioactive acyl-CoA substrate was utilized in
+the first 10 min of incubation. The further distribution of
+radioactivity in lipids with longer incubation times was in-
+vestigated. In incubations with [14C]ricinoleate the radioactivity
+in PtdCho decreased with an almost concomitant increase in the
+free [14C]ricinoleic acid and, to a lesser extent, in the triacyl-
+glycerol (Fig. 4a, i). In similar incubations with [14CJoleoyl-
+CoA the radioactivity in PtdCho exhibited only a slight decrease
+with incubation and with little increase in the free [14C]oleic acid
+(Fig. 4a, ii).
+The results therefore indicate that castor-bean endosperm has
+a phospholipase activity that exhibits acyl-specificity and is
+responsible for the release of ricinoleic acid from PtdCho. Is this
+phospholipase activity confined to ricinoleic acid-synthesizing
+species such as castor bean? To assess this possibility, similar
+experiments were carried out with microsomal preparations from
+other oil-seed species that do not synthesize ricinoleic acid, i.e.
+oil-seed rape and safflower. The results (Figs. 4b and 4c) show
+that both species, as in the case ofcastor bean, rapidly synthesized
+[14C]ricinoleoyl-PtdCho and [14C]oleoyl-PtdCho from [14C]-
+ricinoleoyl-CoA and [14C]oleoyl-CoA respectively in the presence
+of lyso-PtdCho. The distribution of radioactivity with further
+incubation showed similar patterns to that found in the castor-
+bean preparations. The only noteworthy difference among these
+three species was in the radioactivity lost from [14C]ricinoleoyl-
+PtdCho and not found in free ricinoleic acid. In castor bean and
+safflower this radioactivity was recovered in triacylglycerol
+whereas in oil-seed rape it largely accumulated in diacylglycerol.
+Table 4. Effect of ATP, CoA and Mg2" on the distribution of
+I14Clricinoleate in lipids in microsomal preparations from
+developing castor-bean endosperm incubated with I'4CIoleoyl-
+CoA and NADH
+Microsomal preparations (equivalent to 0.6 mg of microsomal
+protein) were incubated with [14C]oleoyl-CoA (100 nmol; sp. radio-
+activity 4500 d.p.m./nmol), NADH (3,mol), BSA (20 mg) and
+ricinoleoyl-CoA (300 nmol) in the presence and in the absence of
+ATP, CoA and MgCl2 (2, 1 and 10 ,smol respectively) for 60 min.
+Results are the means+S.E.M. for two incubations.
+Acyl groups
+recovered (nmol)
+ATP, CoA and Mg2+... +
+Ricinoleate in acyl-CoA
+[14C]Ricinoleate in acyl-CoA
+['4C]Acyl groups in chloroform-
+soluble lipids
+['4C]Ricinoleate in PtdCho
+Free ['4C]Ricinoleic acid
+123.6+0.2
+8.17+ 1.45
+67.2 + 0.88
+226.5+ 3.2
+18.42+0.23
+63.3 + 1.6
+11.38+0.65 14.11 +0.28
+24.82 +0.51 9.95 + 1.00
+Triacylglycerol assembly with ricinoleate
+The utilization, in triacylglycerol biosynthesis, of the ricinoleic
+acid liberated from position sn-2 ofsn-PtdCho by the acyl-specific
+phospholipase activity will require its activation to the CoA
+ester. Microsomal membranes were incubated with [14C]oleoyl-
+CoA and NADH together with the necessary cofactors for an
+acyl-CoA synthetase (i.e. ATP, CoA and Mg2+). Unlabelled
+ricinoleoyl-CoA was added also to the incubation mixture in
+order to trap the [14C]ricinoleoyl-CoA synthesized. In the pres-
+ence of cofactors for fatty acid activation the radioactivity
+recovered in ['4C]ricinoleoyl-CoA was over 2-fold that found in
+incubations minus cofactors (Table 4). The radioactivity in the
+free ricinoleic acid, on the other hand, decreased in the presence
+of fatty acid activation by a similar amount (Table 4). The
+Vol. 280
+40
+30-
+E 20-
+C
+C
+.0 10
+-
+'
+O
+.5- 40-
+UO 30
+20 -
+10-
+j'--(o--- (i)
+Irz ° (ii)
+(i)
+30 -
+20-
+0 -
+0- .
+50 j (ii)SO ~~-
+U U
+511
+i
+M. Bafor and others
+CL 10
+0 2(b)
+c~~~~~~~
+10
+13-
+5
+0 0 40 60 80
+Incubation time (min)
+Fig. 5. Incorporation of I14CiGro into lipids by microsomal preparations
+from developing castor-bean endosperm incubated with oleoyl-CoA
+(a) or riciDoleoyl-CoA (b) in the presence of 1`4CIGro3P
+Microsomal preparations (equivalent to 0.3 mg of microsomal
+protein) were incubated with 200 nmol of dither oleoyl-CoA (a) or
+ricinoleoyl-CoA (b) in the presence of sn-[(4CJGro3P (1 ,umol, sp.
+radioactivity 3000 d.p.m./nmol), BSA (10 mg) and MgCl2 (10 #smol)
+for various periods of time. Symbols: 1, PtdCho; *, PtdOH; ,
+diacylglycerol; x, triacylglycerol.
+['4C]ricinoleate recovered in PtdCho was similar for both in-
+cubations (Table 4).
+Microsomal preparations incubated with [14C]Gro3P and
+either ricinoleoyl-CoA or oleoyl-CoA efficiently acylated the
+glycerol backbone to yield radioactive PtdOH, PtdCho and
+triacylglycerol. In time-course studies (Fig. 5) with ricinoleoyl-
+CoA the rate of accumulation of 14C-labelled triacylglycerol was
+over twice that observed with oleoyl-CoA as acyl donor. In the
+presence of oleoyl-CoA, however, considerably more radioactive
+PtdOH and PtdCho accumulated. It should also be noted that
+with oleoyl-CoA a small, but significant, amount of radioactivity
+was associated with the diacylglycerol, whereas virtually no label
+was detected in this lipid with ricinoleoyl-CoA as the acyl donor.
+At 80 min of incubation and with oleoyl-CoA as the acyl donor,
+87% of the radioactivity in triacylglycerol was present in
+molecular species lacking ricinoleate with the other 13 % in
+species with one ricinoleoyl moiety only (results not shown). The
+radioactivity in the triacylglycerols synthesized with ricinoleoyl-
+CoA as acyl donor was, at 80 min incubation, distributed mainly
+in molecular species with three and two ricinoleoyl moieties
+(65 % and 32% respectively) and with the remaining radioactivity
+in species with only one ricinoleoyl group (results not shown).
+To investigate further the acylating properties of the glycerol-
+acylating activity observed in the castor-bean preparations,
+microsomal membranes were incubated with unlabelled Gro3P
+and a mixed [14C]acyl-CoA substrate that consisted of equimolar
+['4C]oleoyl-CoA and [14C]ricinoleoyl-CoA. Under these condi-
+tions, PtdCho and triacylglycerol were rapidly labelled whereas
+relatively little radioactivity entered PtdOH and the di-
+acylglycerol (Fig. 6a). At the most, only 30% of the radioactivity
+found in the PtdOH was, at all incubation times, in molecular
+species with hydroxylated acyl groups (results not shown). Also,
+only a minor part of the radioactivity in diacylglycerol was
+associated with species containing ricinoleate (results not shown).
+The 14C distribution in the different acyl groups of the PtdCho
+o 30-0
+E
+.E 20-
+10-0
+0.
+30
+c
+a (b)30 -A
+cm ~~~~A
+20-
+10-
+0
+0 20 40 60 80
+Incubation titne (min)
+Fig. 6. Incorporation of 14Cioleate and I'4Clricinoleate into lipids by
+microsomal preparations from developing castor-bean endosperm
+incubated with Gro3P and an equimolar mixture of I14CIoleoyl-
+CoA and 114CIricinoleoyl-CoA
+Microsomal preparations (equivalent to 0.3 mg of microsomal
+protein) were incubated with [14C]oleoyl-CoA and [14C]ricinoleoyl-
+CoA (100 nmol of each, sp. radioactivity 3000 d.p.m./nmol) in the
+presence of Gro3P (1 ,umol), BSA (10 mg) and MgCl2 (10 #umol)
+for various periods of time. Symbols: El, PtdCho; *, PtdOH;
+*, diacylglycerol; x, triacylglycerol; O, triacylglycerol with no
+ricinoleoyl groups; +, triacylglycerol with one ricinoleoyl group;
+A, triacylglycerol with two ricinoleoyl groups; A, triacylglycerol
+with three ricinoleoyl groups.
+showed that up to 15 % of the radioactivity was associated with
+[14C]ricinoleate (results not shown). Most of the radioactivity
+found in the triacylglycerol was associated with molecular species
+with two ricinoleoyl groups (75 %), and species with one ricin-
+oleoyl moiety accumulated somewhat more activity than those
+with only ricinoleate or only oleate (Fig. 6b). It should be noted
+that analysis of the radioactive distribution of the acyl groups in
+the different molecular species of the triacylglycerols gave the
+same proportions of [14C]oleate to [14C]ricinoleate as the total
+ricinoleate to total non-hydroxylated fatty acid in the lipid
+species as deduced from their migration values on t.l.c. (see the
+Materials and methods section).
+DISCUSSION
+Microsomal membrane preparations from the developing
+endosperm of castor bean catalysed the transfer of oleate from
+['4C]oleoyl-CoA to PtdCho. In the presence of NADH radio-
+active ricinoleate was synthesized from oleate, and this largely
+accumulated in neutral lipid, thus confirming previous observa-
+tions (Moreau & Stumpf, 1981). Hydroxylase activity did not
+require a-tocopherol as reported previously (Moreau & Stumpf,
+198 1). In the present investigation significant ['4C]ricinoleate was
+recovered in PtdCho, but most of the radioactive ricinoleate
+accumulated as free fatty acid. The addition of unlabelled
+ricinoleoyl-CoA to incubation mixtures of microsomes con-
+taining [14C]oleoyl-CoA and NADH did not increase the low
+[14C]ricinoleate concentration found in the acyl-CoA fraction
+nor decrease the [14C]ricinoleate concentration in PtdCho and
+free fatty acid. Therefore [14C]ricinoleoyl-CoA is not formed as
+a free intermediate by hydroxylase and thus it is not likely that
+the enzyme can utilize oleoyl-CoA as substrate.
+1991
+512
+Ricinoleate biosynthesis in castor beans
+The addition of NADH to microsomal membranes incubated
+with [14C]oleoyl-CoA was not only necessary for the formation
+of [14C]ricinoleate but also decreased the total radioactivity
+recovered in PtdCho with a corresponding amount of label
+appearing in free ricinoleic acid. These observations strongly
+indicate that the [14C]oleate in oleoyl-PtdCho was the precursor
+of ricinoleic acid. Further evidence for this conclusion was that
+the [14C]ricinoleoyl-PtdCho, formed by the acylation of added
+lyso-PtdCho with [14C]ricinoleoyl-CoA, was specifically hydro-
+lysed to yield free [14C]ricinoleic acid. The presence of a ricin-
+oleoyl-specific phospholipase A was not restricted to oil-seeds
+that accumulate ricinoleate and was also demonstrated in micro-
+somal preparations from developing cotyledons of safflower
+and oil-seed rape. The apparent general occurrence of this
+phospholipase might therefore indicate its possible role in
+membrane repair mechanisms by specifically removing oxidized
+acyl groups from membrane lipids in order to preserve bilayer
+structure and function (see van Kuijk et al., 1987). In the present
+study it was not possible to establish whether the phospholipase
+was positionally specific for the ricinoleate at position sn-2 of
+PtdCho. It was also evident that the ricinoleate can be made
+available from PtdCho by other routes than by the action of
+phospholipase A2 and particularly in experiments with safflower
+microsomal preparations. Here a substantial part of the labelled
+ricinoleate was re-distributed, by unknown reactions, from
+PtdCho to the triacylglycerols. It has been shown previously that
+safflower microsomal preparation can form triacylglycerol with
+acyl groups from PtdCho in the apparent absence of acyl-CoA
+and particularly in microsomal membranes with elevated con-
+centrations of diacylglycerol (Stobart & Stymne, 1985a).
+Endogenous ricinoleate in microsomal PtdCho was almost
+entirely associated with position sn-2, where it amounted to 9% of
+the fatty acid in this position. This concentration probably
+reflects the steady state in vivo of ricinoleate synthesis and
+removal. In fact, the ricinoleate in PtdCho almost completely
+disappeared after incubating the microsomal membranes in buffer
+for 90 min at 25 °C (M. Bafor, M. A. Smith, L. Jonsson, K.
+Stobart & S. Stymne, unpublished work). The ricinoleate in
+positions sn-2 of sn-PtdCho increased to 20% in microsomal
+membranes incubated for 60 min with NADH and [14C]oleoyl-
+CoA, whereas the amount in position sn-1 rose from a trace to
+only 3 %, indicating that hydroxylation occurred mainly on
+position sn-2. The selectivity of the hydroxylase for the oleate in
+positions sn-2 of sn-PtdCho was further supported by the
+distribution of radioactive acyl groups in PtdCho, where sub-
+stantial [14C]ricinoleate resided in position sn-2 with none in
+position sn-l. In contrast, the [14C]linoleate formed by de-
+saturation of [14C]oleoyl-PtdCho was present at both positions.
+Cell-free preparations from other developing oil-seeds such as
+safflower (Slack et al., 1979; Stobart & Stymne, 1985b), borage
+(Griffiths et al., 1988) and linseed (Stymne et al., 1989) also
+desaturate the oleate at both sn-positions of sn-PtdCho.
+Although ricinoleoyl-CoA was not the immediate product of
+the hydroxylation, it was formed from the free ricinoleic acid
+released from the PtdCho by an acyl-CoA synthetase enzyme
+present in the castor-bean microsomal preparation. Ricinoleoyl-
+CoA was an efficient acyl donor in the acylation of Gro3P to
+yield PtdOH and triacylglycerols. In incubations with microsomal
+membranes, [14C]Gro3P and ricinoleoyl-CoA, the [14C]glycerol
+also entered PtdCho but less efficiently than with oleoyl-CoA as
+substrate. The incorporation of glycerol backbone into PtdCho
+from the Gro3P pathways is, in oil-seeds, believed to be via the
+exchange of phosphocholine groups between a diacylglycerol
+pool and the PtdCho, rather than the net synthesis of PtdCho
+(Slack et al., 1985; Stobart & Stymne, 1985a). It is therefore
+possible that the lower amount of [14C]glycerol found in PtdCho
+with the ricinoleoyl-CoA substrate compared with the oleoyl-CoA
+could be attributed to a rapid utilization of ricinoleoyl-containing
+diacyglycerols in triacylglycerol synthesis, thus limiting the
+amount of ricinoleoyl-containing diacylglycerols available for
+interconversion with PtdCho. Although the incorporation of
+['4C]glycerol from [14C]Gro3P into triacylglycerol with ricin-
+oleoyl-CoA as acyl donor was over twice that observed with
+oleoyl-CoA, the actual mass of triacylglycerol synthesized could
+be similar with both acyl-CoA substrates. In the incubations with
+the oleoyl-CoA the specific radioactivity ofthe diacylglycerol pool
+was probably diluted to a greater extent with non-radioactive
+glycerol backbone derived from interconversion with PtdCho.
+When an equimolar mixture of [14C]oleoyl-CoA and [14C]-
+ricinoleoyl-CoA was supplied to the microsomal preparation in
+the presence of unlabelled Gro3P, 75 % of the [14C]triacylglycerol
+species synthesized had two [14C]ricinoleoyl moieties and one
+[I4C]oleoyl moeity. Thus, the majority of the [14C]diacylglycerols
+used for triacylglycerol assembly must have been ricinoleoyl-
+containing despite the fact that only a minor part of the
+["4C]diacylglycerols that accumulated contained ['4C]ricinoleate.
+Plastid
+C18:1-CoA
+LysoPtdCho
+C18, -PtdCho
+NADHJ III
+HO-C181 -PtdCho
+ix
+IV
+HO-C18 1-CO2H
+HO-C18,-TAG
+HO-C,8.,-CoA
+XI
+HO-C181 -DAG
+Vill t
+HO-C18:1-PtdOH
+Vil t HO-C18:1-CoA
+HO-C181 -lysoPtdOH
+VI f Gro3P
+ATP+ CoA HO-C18:1-CoA
+-7
+V
+Scheme 1. Proposed pathway for the synthesis of ricinoleic acid and its
+incorporation into triacylglycerols in developing castor-bean
+(Ricinus communis) endosperm
+Step I. Oleic acid, synthesized in the plastid, is exported to the
+cytosol and activated to oleoyl-CoA. Step II. An acyl-CoA:
+lysoPtdCho acyltransferase transfers the oleate from oleoyl-CoA to
+lysoPtdCho to form oleoyl-PtdCho. Step III. The A"2-fatty acid
+hydroxylase catalyses the conversion of oleoyl-PtdCho into ricino-
+leoyl-PtdCho at mainly position sn-2. Step IV. A ricinoleoyl-specific
+phospholipase A hydrolyses the PtdCho into free ricinoleic acid and
+lysoPtdCho. The lysoPtdCho can be re-acylated with oleate from
+oleoyl-CoA. Step V. Ricinoleic acid is activated to its CoA ester by
+an acyl-CoA synthetase. Step VI. Ricinoleate from ricinoleoyl-CoA
+is acylated to Gros3P to yield lysoPtdOH and (step VII) PtdOH.
+Step VIII. A phosphohydrolase converts the ricinoleoyl-PtdOH into
+a diacylglycerol (DAG): Step IX. Ricinoleoyl-containing diacyl-
+glycerols can enter, to some extent, PtdCho by a diacylglycerol-
+PtdCho interconversion. Step X. The diacylglycerol acyltransferase
+enzyme selectively utilizes ricinoleoyl-containing diacylglycerols in
+the formation of triacylglycerol (TAG), thereby limiting the pool
+size of ricinoleoyl-containing diacylglycerol available for inter-
+conversion with PtdCho.
+Vol. 280
+513
+M. Bafor and others
+This may therefore indicate a selective utilization of ricinoleoyl-
+containing diacylglycerols by the diacylglycerol acyltransferase
+enzyme. A similar preference for diacylglycerols that contain
+triacylglycerol dedicated acyl groups was demonstrated also in
+the utilization of medium-chain diacylglycerols by the diacyl-
+glycerol acyltransferase in microsomal preparations from the
+developing seeds of Cuphea lanceolata (Bafor et al., 1990).
+Triricinoleate is the main molecular species in castor-bean oil
+and yet this species accumulated at a very low rate in vitro. This
+may be because the ratio of oleoyl-CoA to ricinoleoyl-CoA
+(1:1) was much higher than occurs in vivo.
+Oleoyl-CoA and ricinoleoyl-CoA were efficient acyl donors in
+the acylation of exogenously supplied lysoPtdCho, catalysed by
+the microsomal castor bean acyl-CoA:lysoPtdCho acyltrans-
+ferase. In the acyl-exchange reaction, however, between acyl-
+CoA and position sn-2 of sn-PtdCho, i.e. incorporation of acyl
+groups from acyl-CoA into PtdCho in the absence of added lyso
+acceptor (Stymne & Stobart, 1984), the incorporation of ricin-
+oleate from ricinoleoyl-CoA into PtdCho was negligible in the
+presence of competing oleoyl-CoA substrate. Therefore the
+[14C]ricinoleate that entered PtdCho (10-15 % of the total label
+in this lipid) in incubations with equimolar mixtures of [14C]-
+oleoyl-CoA and [14C]ricinoleoyl-CoA in the presence of Gro3P
+was most probably derived from the interconversion of [14C]-
+ricinoleoyl-containing diacylglycerols and PtdCho. This would
+indicate that ricinoleoyl-containing diacylglycerol species were
+not totally selected against in the synthesis of PtdCho.
+The biosynthesis of ricinoleic acid and its mode of incorpor-
+ation into storage triacylglycerols in the developing castor-
+bean endosperm is summarized in Scheme 1.
+We are grateful for financial support from Stiftelsen Karlshamns
+Forskning (Karlshamn A.B.) and The Swedish Natural Science Research
+Council and the Natural Environment Research Council (U.K.). M. B.
+thanks N.I.F.O.R. (Nigeria) for study leave. Uppsala Botanical Garden,
+University of Uppsala, is gratefully acknowledged for providing seed
+material.
+REFERENCES
+Bafor, M., Jonsson, L., Stobart, A. K. & Stymne, S. (1990) Biochem. J.
+272, 31-38
+Bligh, E. G. & Dyer, W. J. (1959) Can. J. Biochem. Physiol. 37, 911-917
+Galliard, T. & Stumpf, P. K. (1966) J. Biol. Chem. 241, 5806-5812
+Griffiths, G., Stobart, A. K. & Stymne, S. (1985) Biochem. J. 230,
+379-388
+Griffiths, G., Stobart, A. K. & Stymne, S. (1988) Biochem. J. 252,
+641-647
+Kates, M. (1964) J. Lipid Res. 5, 132-135
+Moreau, R. A. & Stumpf, P. K. (1981) Plant Physiol. 67, 672-676
+Pryde, E. H. & Rothfus, J. A. (1989) in Oil Crops of the World (Robbelen,
+G., Downey, R. K. & Ashri, A., eds.), pp. 87-117, McGraw-Hill, New
+York
+SAnchez, M., Nicholls, D. G. & Brindley, D. N. (1973) Biochem. J. 132,
+697-706
+Slack, C. R., Roughan, P. G. & Browse, J. A. (1979) Biochem. J. 179,
+649-656
+Slack, C. R., Roughan, P. G., Browse, J. A. & Gardiner, S. E. (1985)
+Biochim. Biophys. Acta 833, 438-448
+Stobart, A. K. & Stymne, S. (1985a) Biochem. J. 232, 217-221
+Stobart, A. K. & Stymne, S. (1985b) Biochim. Biophys. Acta 837,
+239-250
+Stobart, A. K. & Stymne, S. (1990) in Methods in Plant Biochemistry
+(Harwood, J. L. & Bowyer, J. R., eds.), vol. 4, pp. 19-46, Academic
+Press, London
+Stymne, S. & Stobart, A. K. (1984) Biochem. J. 223, 305-314
+Stymne, S. & Stobart, A. K. (1987) in The Biochemistry of Plants: A
+Comprehensive Treatise (Stumpf, P. K., ed.), vol. 10, pp. 175-214,
+Academic Press, New York
+Stymne, S., Green, A. G. & Tonnet, M. L. (1989) in Biological Role of
+Plant Lipids 8th (Biacs, P. A., Gruiz, K. & Kremmer, T., eds.), pp.
+147-150, Plenum Press, New York
+van Kuijk, F. J. G. M., Sevanian, A., Handelman, G. J. & Dratz, E. A.
+(1987) Trends Biochem. Sci. 12, 31-34
+Received 17 April 1991/29 May 1991; accepted 5 June 1991
+1991
+514

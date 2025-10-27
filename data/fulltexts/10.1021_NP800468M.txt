@@ -1,0 +1,484 @@
+Genepolide, a Sesterpene γ-Lactone with a Novel Carbon Skeleton from Mountain Wormwood
+(Artemisia umbelliformis)⊥
+Giovanni Appendino,*,† Orazio Taglialatela-Scafati,*,‡ Adriana Romano,‡ Federica Pollastro,† Cristina Avonto,† and
+Patrizia Rubiolo§
+Dipartimento di Scienze Chimiche, Alimentari, Farmaceutiche e Farmacologiche, UniVersita` del Piemonte Orientale, Via BoVio 6,
+28100 NoVara, Italy, Dipartimento di Chimica delle Sostanze Organiche Naturali, UniVersita` di Napoli “Federico II”, Via Montesano 49,
+80131 Napoli, Italy, and Dipartimento di Scienza e Tecnologia del Farmaco, UniVersita` di Torino, Via Giuria 9, 10125 Torino, Italy
+ReceiVed July 27, 2008
+The sesterpene γ-lactone genepolide (5) has been isolated from a Swiss horticultural variety of mountain wormwood
+(Artemisia umbelliformis) developed as a thujones-free alternative to native Western Alps wormwoods for the production
+of liqueurs. Genepolide is the formal Diels-Alder adduct of the exomethylene-γ-lactone costunolide (2) and the diene
+myrcene (6), two poorly reactive partners in cycloaddition reactions, and its structure was elucidated through a combination
+of spectroscopic methods. An investigation on the thermal stability of mixtures of 2 and 6, as well as considerations on
+the sensitivity of 2 to Brønsted and Lewis acids, suggests that 5 is a genuine natural product and that the Swiss chemotype
+of A. umbelliformis contains Diels-Alderase enzymatic activity that is lacking in native mountain wormwoods from
+Western Alps. Remarkable differences in thermal and acid-catalyzed reactions of the cyclodecadiene moiety of 2 and
+5 suggest that quaternarization at C-11 has far-reaching effects on the reactivity of their homoconjugated medium-sized
+diene system. The wide occurrence of this structural motif in sesquiterpenoids makes this issue worth a systematic
+investigation.
+The past two decades have witnessed an explosion of interest
+for secondary metabolites from food plants.1 These studies were
+triggered by epidemiological correlations between semivegetarian
+diets and a reduced incidence of chronic and degenerative diseases,
+and have fostered a growing interest for healthy food by consumers
+and food companies.2 Within this context, the Mediterranean diet
+has emerged as the archetypal healthy food style,3 and enormous
+biomedical work has been done on olive oil and wine, the hallmarks
+of this dietary regime.4 Surprisingly, little attention has been given
+to another important feature of the Mediterranean diet, namely, the
+consumption of wild, often bitter, herbs.5 This trait has long been
+perceived of exclusive relevance for taste and flavor, but the recent
+discovery that taste receptors are expressed in the gastrointestinal
+tract6 and are involved in the secretion of GLP-1 and in glucose
+homeostasis7 suggests that taste-active compounds can have a
+biological profile that goes beyond chemoreception and involves
+glucose regulation, appetite control, and weight management.7 Thus,
+bitter herbs have been traditionally used to stimulate appetite and
+treat cachexia,8 while the beneficial effects of bitter wormwood
+extracts for the management of Crohn’s disease suggests an even
+broader involvement in gastrointestinal health.9
+Bitter vegetables and liqueurs prepared from bitter aromatic herbs
+are the major dietary sources of bitter compounds in the Western
+diet. Our studies in this area have focused on bitter terpenoids,
+characterizing a host of new sesquiterpenoids and diterpenoids from
+dietary plants,10 and eventually identifying a human taste receptor
+(hTAS2R46) capable of binding this class of compounds.11 As part
+of these studies, we have investigated a horticultural Swiss variety
+of mountain wormwood [Artemisia umbelliformis Lam. (Aster-
+aceae)] characterized by the lack of thujones,12 the major constitu-
+ents of the essential oil of mountain wormwoods from Western
+Alps (A. umbelliformis and A. genipy Weber).13 These plants are
+used for the production of genepy, the celebrated alpine bitter
+liqueur recently granted a Geographical Indication status by the
+European Community.14 The wild chemotype of A. umbelliformis
+is characterized by the accumulation of bitter11 sesquiterpene
+γ-lactones of the cis 8-olide type and of the polymethoxylated
+flavonoid eupatilin (1),10c,d a registered antiulcer drug in some Far
+East countries.15 While retaining the presence of 1, the Swiss
+chemotype of A. umbelliformis contained instead sesquiterpene
+γ-lactones of the trans 6-olide type. Thus, large amounts of the
+germacranolide costunolide (2) and minor amounts of its related
+oxygenated derivatives verlotorin (3a), artemorin (3b), reynosin
+(4a), and santamarin (4b) were isolated, a trait otherwise typical
+of A. genipy.10a Along with these compounds, relatively large
+amounts of a new lactone were present. This compound was absent
+in A. genipy and was characterized as the sesterpene γ-lactone 5,
+named genepolide in consideration of the use of mountain worm-
+woods to produce the liqueur genepy.
+Results and Discussion
+Genepolide (5) was obtained as a colorless foam from fractions
+less polar than those containing costunolide (2). Its molecular
+⊥ Dedicated to Dr. David G. I. Kingston of Virginia Polytechnic Institute
+and State University for his pioneering work on bioactive natural products.
+* To whom correspondence should be on addressed. Tel: +39 0321
+373744 (G.A.); +39 081 678509 (O.T.S). Fax: +39 0321 375621 (G.A.);
++39 081 678552 (O.T.S.). E-mail: appendino@pharm.unipmn.it (G.A.);
+scatagli@unina.it (O.T.S.).
+† Universita` del Piemonte Orientale.
+‡ Universita` di Napoli.
+§ Universita` di Torino.
+J. Nat. Prod. 2009, 72, 340–344340
+10.1021/np800468m CCC: $40.75  2009 American Chemical Society and American Society of Pharmacognosy
+Published on Web 11/20/2008
+formula, C25H36O2 (HREIMS), implied eight unsaturation degrees,
+while the IR spectrum retained the γ-lactone absorption band at
+1766 cm-1, typical of other bitter compounds from this plant.10c,d
+The 1H NMR spectrum of 5 (Table 1) showed the presence of four
+relatively downfield shifted and broad methyl singlets (δ 1.38-1.67),
+a series of partially overlapped multiplets between δ 1.45 and 2.40,
+and five methine signals in the mid-field region of the spectrum
+(from δ 4.60 to 5.35). The 13C NMR spectrum of 5 (Table 1)
+disclosed the presence of four carbon-carbon double bonds (eight
+signals between δ 117.3 and 139.5) and of one ester (lactone)
+carbonyl (δ 180.8), accounting for both oxygen atoms required by
+the molecular formula and for five of its eight degrees of
+unsaturation. Both the IR and 13C NMR features of the carbonyl
+suggested a γ-lactone and not an ester moiety,16 and therefore a
+C25 carbon connectivity was present. Taken together, these
+observations suggested that genepolide was a tricyclic sesterpene
+lactone, a very rare class of natural products.
+A 2D NMR gradient-HSQC experiment made it possible to
+associate all the proton signals with those of the relevant carbon
+atoms. As a result, six carbon atoms resulted to be unprotonated
+(five sp2 and a single sp3 carbon, resonating at δ 44.5), while the
+remaining 19 carbons were all protonated. Among them, four mid-
+field methines were vinylic, while the fifth signal in this region
+was an oxymethine (δH 4.60, δC 79.3). The proton multiplets of
+the 1H NMR spectrum of 5 could be arranged in five distinct spin
+systems (A-E, shown in bold in Figure 1) through the use of a 2D
+COSY spectrum. The 2,3JC,H gradient-HMBC experiment was
+instrumental in connecting these moieties and assembling the
+structure of 5. In particular, the three gHMBC cross-peaks between
+both H3-14 and H3-15 methyls (Figure 1) established two links
+between fragments A and B, defining a dimethylcyclodecadiene
+subunit, while a γ-lactone ring was merged to this system on the
+basis of gHMBC cross-peaks between H-6 and H-7. The R-carbon
+of this lactone ring, the quaternary sp3 carbon resonating at δ 44.5,
+should be the spiro carbon atom connecting the lactone ring with
+a cyclohexene ring, as suggested by gHMBC cross-peaks between
+H2-13 and H2-16. Finally, the whole series of cross-peaks between
+H-17, H2-25, H3-23, and H3-24 located the prenyl moiety at C-18,
+thus completing the structure of genepolide (5).
+The E configuration at the endocyclic ∆1(10)- and ∆4-double bonds
+was deduced on the basis of the 2D ROESY cross-peaks H-1/H-9
+and H-5/H-3, respectively, while R-orientation of H-7 was assumed,
+as typical for sesquiterpene lactones from asteraceous plants.10a The
+ROESY experiment was also helpful in defining the relative
+configuration of the three adjacent stereogenic carbons C-6, C-7,
+and C-11: Finally, the cross-peak H-6/H-8a suggested the trans
+junction of the lactone ring, while the cross-peaks H-7/H2-13 and
+H-6/H2-16 defined the relative configuration at C-11.
+Genepolide (5) can be viewed as the result of a Diels-Alder
+cycloaddition between costunolide (2), the most abundant constitu-
+ent of the plant, and the monoterpene myrcene (6). Since the
+existence of Diels-Alderase enzymes is still debated,17 it was not
+clear if 5 could be considered a genuine natural product or rather
+an artifact from the isolation and/or fractionation steps. Myrcene
+was detected only in trace amounts in the essential oil from the
+Swiss variety of A. umbelliformis,18 but this observation was not
+perceived as relevant since the thermal treatment required for
+obtaining the essential oil could have trapped myrcene as a
+Diels-Alder adduct with costunolide, the major constituent of the
+plant. We therefore investigated the thermal stability of a mixture
+of costunolide and myrcene. Myrcene (6) has been reported to be a
+very poor diene,19 while dienophilic behavior for sesquiterpene
+exomethylene-γ-lactones has been postulated to explain the occur-
+rence of some bis-sesquiterpenoids.20 No chromatographic or
+spectroscopic evidence of a reaction occurred when a toluene
+solution of myrcene and costunolide was kept in a sealed tube for
+1 month, while prolonged (36 h) heating at 150 °C in o-
+dichlorobenzene resulted only in the formation of traces of the
+elemanolide derivative 7 (1H NMR evidence), the result of a Cope
+rearrangement of the diallylic system of costunolide.21 Diels-Alder
+reactions can be catalyzed by the addition of Lewis acids,22 but, in
+our case, the addition of zinc chloride, a Lewis acid reported to
+increase the dienophilic behavior of myrcene,19 to a cooled (0 °C)
+mixture of costunolide and myrcene led only to the formation of
+the cyclocostunolides 8a-c,23 without any trace of a Diels-Alder
+adduct, while heating in benzene gave only degradation products.
+Faced with these observations and the lack of reactivity of
+mixtures of costunolide and myrcene, we eventually investigated
+if costunolide, when confronted with reactive dienes, could indeed
+behave as a dienophile.20 Unsurprisingly, costunolide did not react
+with isoprene, but evidence of a reaction was observed with
+cyclopentadiene, and gentle heating of a mixture of costunolide
+and artabsin (9), a reactive cyclopentadienyl derivative,24 cleanly
+afforded the Diels-Alder adduct 10 (Scheme 1) in a rewarding
+31% conversion yield, showing that the exomethylene γ-lactone
+group can engage in cycloaddition reactions only with highly
+reactive partners. The structure of compound 10 was determined
+by inspection of MS and NMR data. In particular, the 2D NMR
+COSY, gHSQC, and gHMBC experiments were used to assign all
+1H and 13C resonances (see Experimental Section) and to define
+the regiochemistry of the addition. In particular, COSY cross-peaks
+Table 1. 1H (500 MHz) and 13C (125 MHz) NMR Data of
+Genepolide (5) in CDCl3
+pos. δH, mult., J in Hz δC, mult. pos. δH, mult., J in Hz δC, mult.
+1 4.80, bd, 10.7 126.8, d 13a 1.95a 30.5, t
+2a 2.24a 26.0, t 13b 1.65a
+2b 2.13a 14 1.38, s 16.2, q
+3a 2.25a 39.4, t 15 1.64, s 17.1, q
+3b 1.99a 16a 2.20a 27.1, t
+4 139.5, s 16b 2.14a
+5 4.61a 128.3, d 17 5.35, bs 117.3, d
+6 4.60a 79.3, d 18 138.1, s
+7 1.78, bt, 7.8 57.4, d 19 1.99a 37.6, t
+8a 1.85, bdd, 15.1, 7.8 25.1, t 20 2.06a 26.2, t
+8b 1.45, bdd, 15.1, 7.5 21 5.06, bt, 6.4 124.2, t
+9a 2.32, dd, 13.1, 7.5 41.6, t 22 131.5, s
+9b 1.97a 23 1.61, s 17.7, q
+10 137.0, s 24 1.67, s 26.0, q
+11 44.5, s 25a 2.40, dd, 15.1, 7.0 24.8, t
+12 180.8, s 25b 1.94a
+a Overlapped with other signals.
+Figure 1. 2D NMR COSY and key 2,3JH,C HMBC cross-peaks of
+genepolide.
+Sesterpene γ-Lactone from Mountain Wormwood Journal of Natural Products, 2009, Vol. 72, No. 3 341
+of H-2′ with H2-13 and the 3JH,C gHMBC cross-peak of H3-15′
+with C-11 excluded the alternative structure 10a (Scheme 1). The
+2D NMR ROESY spectrum of 10 was used to assess the relative
+configuration of the newly created stereogenic carbons, whose
+configuration shows that interactions occur in an endo fashion and
+according to the ortho rule. The triterpene dilactone 10 is structurally
+similar to arteminolides, a class of farnesyl-protein transferase
+inhibitors of relevance for cancer research.25 Since artabsin is easily
+available in synthetically useful amounts from wormwood (A.
+absinthium L.)26 and a vast array of exomethylene-γ-lactones can
+be isolated from commercially available medicinal and dietary
+plants,27 the successful preparation of 10 points to the possibility
+of expanding the limited structure-activity relationships of artemi-
+nolides.25
+During the study on the reactivity of costunolide in cycloaddition
+reactions, we became aware of a marked reactivity difference
+between the germacradienolide systems of costunolide (2) and
+genepolide (5). For example, while treatment of 2 with protic acids
+gave the mixture of eudesmane derivatives 8a-c,23,28 under similar
+conditions 5 cleanly afforded the single cyclization product 11
+(Scheme 2). Interestingly, even more marked differences were
+observed in the thermal treatment of 2 and 5. Thus, while heating
+of 2 at 200 °C in a sealed tube gave mainly a mixture of degradation
+products, under similar conditions 5 quantitatively afforded the
+elemanolide-type compound 12 (Scheme 2). In the realm of
+germacradienolides, this behavior has previously been reported for
+compounds having the C-15 methyl replaced by a formyl group29
+or with a cis-6-olide configuration.30 It is not clear how quaterna-
+rization at C-11 could promote the Cope rearrangement of the
+germacradiene system, since the configuration of the elemanolide-
+type compound 12 (-methyl at C-10 and R-hydrogen at C-5, as
+suggested by ROESY cross-peaks H3-14/H-6 and H-5/H-7) shows
+the involvement of the same [1D14,15D6] reactive conformation31
+of the cyclodecadiene ring as also observed in the transannular
+cyclization of both compounds.
+In conclusion, the isolation of a formal Diels-Alder adduct
+between an unreactive diene such as myrcene (6) and an acid and
+thermally unstable poor dienophile such as costunolide (2) suggests
+that genepolide (5) is not an isolation artifact but a genuine natural
+product and that the biogenetic machinery of A. umbelliformis
+contains Diels-Alderase enzymatic activity. This observation is
+important for the hot debate on the existence of enzymes promoting
+cycloaddition reactions, since all previously reported Diels-Alder
+adducts involving exomethylene sesquiterpene-γ-lactones involve
+reactive dienophiles and not a poor partner such as myrcene.17 In
+addition, remarkable differences were observed in the thermal and
+acid-catalyzed reactivity of the cyclodecadiene moiety of costuno-
+lide and genepolide, suggesting that quaternarization at C-11 has a
+dramatic effect on the reactivity of the medium-sized diene system
+of these compounds. Finally, the absence of genepolide in native
+wormwoods from Western Alps qualifies this compound and its
+degradation products 11 and 12 as critical markers for the detection
+of the alien Swiss chemotype in genepy from Western Alps.
+Experimental Section
+General Experimental Procedures. Low- and high-resolution EIMS
+spectra (70 eV) were performed on a VG Prospec (Fisons) mass
+spectrometer. ESIMS spectra were performed on a LCQ Finnigan MAT
+mass spectrometer. Optical rotations (CHCl3) were measured at 589
+nm on a Perkin-Elmer 192 polarimeter equipped with a sodium lamp
+(λ ) 589 nm) and a 10 cm microcell. 1H (500 MHz) and 13C (125
+MHz) NMR spectra were measured on a Varian INOVA spectrometer.
+Chemical shifts were referenced to the residual solvent signal (CDCl3:
+δH 7.26, δC 77.0). Homonuclear 1H connectivities were determined by
+the COSY experiment. One-bond heteronuclear 1H-13C connectivities
+were determined with the HSQC experiment. Two- and three-bond
+1H-13C connectivities were determined by HMBC experiments opti-
+mized for a 2,3J of 7 Hz. Through-space 1H connectivities were
+evidenced using a ROESY experiment with a mixing time of 500 ms.
+Two- and three-bond 1H-13C connectivities were determined by
+gradient 2D HMBC experiments optimized for a 2,3J of 9 Hz. Silica
+gel 60 (70-230 mesh) and Lichroprep RP-18 (25-40 mesh) were used
+for gravity CC. Reactions were monitored by TLC on Merck 60 F254
+(0.25 mm) plates, which were visualized by UV inspection and/or
+staining with 5% H2SO4 in ethanol and heating. Organic phases were
+dried with Na2SO4 before evaporation.
+Plant Material. The Swiss chemotype of A. umbelliformis was
+purchased from the Alpine farm La Freido (Stroppo, CN, Italy) of the
+Associazione Genepi Occitan. A voucher specimen (GA20082) is kept
+at the Novara Laboratories.
+Extraction and Isolation of Genepolide (5). The powdered plant
+material (nonwoody aerial parts, leaves, and flowers, 631 g) was
+extracted with acetone (3 × 7.5 L) at room temperature, affording 57 g
+(9.0%) of a black syrup, part of which (6.0 g) was purified by filtration
+over RP-18 silica gel (30 g) with MeOH to remove fats and pigments.
+The methanol filtrate was evaporated, affording 3.52 g of a brownish
+paste. The latter was fractionated by gravity column chromatography
+(CC) on silica gel (90 g, petroleum ether-EtOAc gradient). Fractions
+eluted with petroleum ether-EtOAc (9:1) afforded 127 mg of crude
+5, further purifed by gravity CC on neutral alumina to obtain 80 mg of
+5 (0.12%). Fractions eluted with petroleum ether-EtOAc (8:2) afforded,
+after crystallization from ether, 1.20 g of costunolide (2) (1.8%).
+Fractions eluted with petroleum ether-EtOAc (7:3) were crystallized
+from ether to afford 41 mg (0.06%) of eupatilin (1). The mother liquors
+and the fractions eluted with petroleum ether-EtOAc (6:4) were further
+purified by gravity CC on silica gel to afford 10 mg of crude verlotorin
+(3a), a ca. 1:1 mixture of santamarin (4a) and reynosin (4b) (60 mg,
+0.09%), and artemorin (3b, 29 mg, 0.04%).
+Genepolide (5): colorless foam; [R]25D -7 (c 0.2, CHCl3); IR (KBr)
+νmax 1766, 1438, 1278, 1208, 1139, 979 cm-1; 1H NMR (500 MHz,
+CDCl3) and 13C NMR (125 MHz, CDCl3), see Table 1; ESIMS
+(positive-ion) m/z 391 [M + Na]+; HREIMS m/z 368.2723 [M]+ (calcd
+for C25H36O2, 368.2715).
+Cycloaddition of Costunolide (2) and Artabsin (9). An equimo-
+lecular mixture of artabsin (9, 107 mg, 0.43 mmol) and costunolide
+(2, 100 mg, 0.43 mmol) in toluene (1 mL) was heated at 60 °C. The
+course of the reaction was followed by TLC (petroleum ether-EtOAc,
+8:2), monitoring the disappearance of 2. After 48 h, the reaction was
+Scheme 1. Formation of the Dimeric Lactone 10 by Thermal
+Cycloaddition of Costunolide (2) and Artabsin (9)a
+a Regioisomer 10a was not detected.
+Scheme 2. Acid-Catalyzed Cyclization and Thermal
+Rearrangement of Genepolide (5)
+342 Journal of Natural Products, 2009, Vol. 72, No. 3 Appendino et al.
+worked up by evaporation, and the residue was purified by gravity CC
+on silica gel (petroleum ether-EtOAc gradient, from 8:2 to 6:4) to
+afford 29 mg of recovered 2 and 34 mg (31% based on the conversion
+of costunolide) of 10 as a white powder: mp 120-122 °C; IR (KBr)
+νmax 1767, 1455, 1229, 1172, 1000, 943 cm-1; 1H NMR (CDCl3, 500
+MHz) δ 5.50 (1H, bd, J ) 8.0 Hz, H-6′); 4.86 (1H, bd, J ) 10.5 Hz,
+H-1); 4.63 (1H, d, J ) 7.8 Hz, H-5); 4.47 (1H, t, J ) 7.8 Hz, H-6);
+3.03 (1H, bs, H-2′); 2.42 (1H, m, H-9a); 2.35 (1H, m, H-7); 2.32 (1H,
+m, H-3a); 2.26 (1H, m, H-11′); 2.25 (1H, m, H-2a); 2.23 (1H, m, H-3′a);
+2.10 (1H, m, H-2b); 2.00 (1H, m, H-3b); 2.00 (1H, m, H-9b); 1.93
+(1H, m, H-8a); 1.86 (1H, m, H-7′); 1.71 (1H, m, H-8′a); 1.67 (3H, s,
+H-15); 1.65 (1H, m, H-13a); 1.57 (1H, m, H-8′b); 1.51 (1H, m, H-8b);
+1.46 (3H, s, H-15′); 1.45 (1H, m, H-3′b); 1.40 (3H, s, H-14); 1.36 (3H,
+s, H-14′); 1.32 (1H, m, H-13b); 1.20 (1H, d, J ) 7.0 Hz, H-13′); 13C
+NMR (CDCl3, 125 MHz) δ 182.0 (s, C-12); 179.8 (s, C-12′); 150.5 (s,
+C-1′); 146.1 (s, C-5′); 140.1 (s, C-4); 137.5 (s, C-10); 128.3 (d, C-5);
+128.1 (d, C-1); 88.9 (d, C-6′); 79.4 (d, C-6); 73.1 (s, C-10′); 62.3 (s,
+C-11); 57.0 (s, C-4′); 53.7 (t, C-3′); 51.4 (d, C-7); 51.4 (d, C-7′); 42.1
+(d, C-11′); 41.3 (t, C-9); 40.6 (t, C-9′); 39.9 (t, C-3); 35.9 (t, C-13);
+32.5 (2′); 27.2 (14′); 26.8 (t, C-8); 25.8 (t, C-2); 25.6 (t, C-8′); 20.4
+(15′); 17.8 (q, C-15); 16.9 (q, C-14); 13.2 (q, C-13′); ESIMS (positive-
+ion) m/z 503 [C30H40O5 + Na]+.
+Transannular Cyclization of Genepolide (5). A solution of 5 (50
+mg, 0.13 mmol) in CHCl3 (5 mL) was irradiated in a quartz
+photochemical reactor using a low-pressure mercury lamp. The course
+of the reaction was monitored by TLC (petroleum ether-EtOAc, 95:
+5; Rf(5) ) 0.50; Rf(11) ) 0.60). After 20 min, the solvent was evaporated
+and the residue, analyzed by 1H NMR, indicated complete conversion
+to 11. An analytical sample was obtained by gravity CC on silica gel
+(petroleum ether-EtOAc, 98.5:1.5): IR (KBr) νmax 1770, 1505, 1288,
+1270, 1198, 980 cm-1; 1H NMR (CDCl3, 500 MHz) δ 5.38 (1H, bt, J
+) 7.0, Hz, H-17); 5.05 (1H, bt, J ) 7.0 Hz, H-21); 4.91 (1H, bs, H-15a);
+4.75 (1H, bs, H-15b); 4.10 (1H, t, J ) 8.2 Hz, H-6); 2.30 (1H, m,
+H-25a); 2.20 (1H, m, H-16a); 2.12 (1H, m, H-16b); 2.12 (1H, m, H-5);
+2.08 (2H, m, H-20a,b); 2.00 (2H, m, H-19a,b); 1.99 (1H, m, H-25b);
+1.98 (1H, m, H-3a); 1.95 (1H, m, H-13a); 1.82 (1H, m, H-7); 1.67
+(3H, bs, H-23); 1.65 (1H, m, H-13b); 1.64 (1H, m, H-3b); 1.60 (3H,
+bs, H-24); 1.51 (1H, m, H-9a); 1.45 (1H, m, H-8a); 1.40 (1H, m, H-2a);
+1.35 (1H, m, H-1a); 1.30 (1H, m, H-8b); 1.22 (1H, m, H-9b); 1.21
+(1H, m, H-2b); 1.06 (1H, m, H-1b); 0.90 (3H, s, H-14); 13C NMR
+(CDCl3, 125 MHz): δ 179.9 (s, C-12); 137.8 (s, C-18); 136.8 (s, C-4);
+132.0 (s, C-22); 124.5 (d, C-21); 118.0 (d, C-17); 109.3 (t, C-15); 77.9
+(d, C-6); 57.0 (d, C-7); 56.0 (d, C-5); 44.5 (s, C-11); 37.9 (t, C-19);
+37.8 (t, C-1); 37.7 (t, C-9); 36.2 (t, C-3); 30.8 (t, C-13); 30.8 (t, C-25);
+27.1 (t, C-16); 26.4 (q, C-23); 26.2 (s, C-10); 26.2 (t, C-20); 24.5 (t,
+C-8); 24.0 (t, C-2); 22.0 (q, C-14); 18.2 (q, C-24); ESIMS (positive
+ion) m/z 391 [C25H36O2 + Na]+.
+Under similar conditions, the reaction with costunolide (2) required
+a longer time (90 min) and afforded a ca. 3:6:1 mixture (1H NMR
+analysis) of R-, -, and γ-cyclocostunolides (8a-c), which was
+fractionated by gravity CC on silica gel (petroleum ether-EtOAc, 98:
+2, to separate the R- and -isomers, and petroleum ether-EtOAc, 9:1,
+to elute the minor γ-isomer).
+Cope Rearrangement of Genepolide (5). A sample of 5 (30 mg,
+0.08 mmol) was heated under vacuum at 220 °C (oil bath) for 3 min.
+1H NMR analysis indicated quantitative conversion to 12. Evaporation
+of the solvent afforded an off-white, amorphous foam: IR (KBr) νmax
+1770, 1440, 1376, 1213, 1135, 1001 cm-1; 1H NMR (CDCl3, 500 MHz)
+δ 5.76 (1H, dd, J ) 17.3, 10.8 Hz, H-1); 5.36 (1H, bt, J ) 7.0, Hz,
+H-17); 5.05 (1H, bt, J ) 7.0 Hz, H-21); 4.99 (1H, bs, H-3a); 4.95 (1H,
+bd, J ) 10.8 Hz, H-2a); 4.91 (1H, bd, J ) 17.3 Hz, H-2b); 4.66 (1H,
+bs, H-3b); 4.21 (1H, t, J ) 11.2 Hz, H-6); 2.40 (1H, m, H-25a); 2.24
+(1H, d, J ) 11.2 Hz, H-5); 2.20 (1H, m, H-16a); 2.14 (1H, m, H-16b);
+2.06 (2H, m, H-20a,b); 1.99 (2H, m, H-19a,b); 1.95 (1H, m, H-13a);
+1.95 (1H, m, H-25b); 1.79 (1H, m, H-7); 1.76 (3H, s, H-15); 1.67 (1H,
+m, H-13b); 1.66 (3H, bs, H-23); 1.63 (1H, m, H-8a); 1.59 (3H, bs,
+H-24); 1.57 (1H, m, H-9a); 1.45 (1H, m, H-8b); 1.39 (1H, m, H-9b);
+1.04 (3H, s, H-14); 13C NMR (CDCl3, 125 MHz): δ 181.7 (s, C-12);
+148.6 (d, C-1); 141.2 (s, C-4); 137.7 (s, C-18); 131.7 (s, C-22); 124.2
+(d, C-21); 116.8 (t, C-2); 115.1 (t, C-3); 111.5 (d, C-17); 78.8 (d, C-6);
+56.6 (d, C-5); 54.5 (d, C-7); 42.6 (s, C-10); 44.7 (s, C-11); 40.1 (t,
+C-9); 37.6 (t, C-19); 30.5 (t, C-13); 26.5 (t, C-16); 26.2 (q, C-23); 25.9
+(t, C-20); 24.8 (t, C-25); 24.0 (q, C-15); 23.0 (t, C-8); 18.6 (q, C-14);
+18.2 (q, C-24); ESIMS (positive-ion) m/z 391 [C25H36O2 + Na]+.
+Under similar conditions, costunolide (2) yielded a resinous mass,
+partly insoluble in organic solvents, and probably resulting from a
+polymerization process. The soluble fraction, when analyzed by 1H
+NMR, showed a complex mixture.
+Acknowledgment. We are grateful to M. Amerio (Associazione “Zio
+John”, Pietraporzio, CN, Italy) for the picture of A. umbelliformis shown
+in the table of contents graphic.
+References and Notes
+(1) Appendino, G.; Taglialatela-Scafati, O. Drug-like Compounds from
+Food Plants and Spices In Dietary Supplements of Plant Origin;
+Maffei, M., Ed.; Taylor & Francis: London, 2003; pp 43-74.
+(2) Hasler, C. M. J. Nutr. 2008, 138, 1216S–1220S.
+(3) Haber, B. Am. J. Clin. Nutr. 1997, 66, 1053S–1057S.
+(4) Colomer, R.; Lupu, R.; Papadimitropoulou, A.; Vello´n, L.; Va´zquez-
+Martin, A.; Brunet, J.; Ferna´ndez-Gutie´rrez, A.; Segura-Carretero, A.;
+Mene´ndez, J. A. Clin. Transl. Oncol. 2008, 10, 30–34.
+(5) Allbaugh, L. G. Crete: a Case Study of an UnderdeVeloped Area;
+Princeton University Press: Princeton, 1953.
+(6) For a review, see: Sternini, C. Am. J. Physiol. Gastrointest. LiVer
+Physiol. 2007, 292, G457-G461.
+(7) Margolskee, R. F.; Dyer, J.; Kokrashvili, Z.; Salmon, K. S.; Ilegems,
+E.; Daly, K.; Maillet, E. L.; Ninomiya, Y.; Mosinger, B.; Shirazi-
+Beechev, S. P. Proc. Natl. Acad. Sci. U.S.A. 2007, 104, 15075–
+15080.
+(8) Tyler, V. E. In Herbs of Choice; Pharmaceutical Products Press: New
+York, 1994; pp 42-46.
+(9) Omer, B.; Krebs, S.; Omer, H.; Noor, T. O. Phytomedicine 2007, 14,
+87–95.
+(10) (a) Appendino, G.; Gariboldi, P.; Nano, G M. Phytochemistry 1982,
+21, 1099–1102. (b) Appendino, G.; Belliardo, F.; Nano, G. M.;
+Stefenelli, S. J. Agric. Food. Chem. 1982, 30, 518–522. (c) Appen-
+dino, G.; Gariboldi, P.; Nano, G. M. Phytochemistry 1983, 22, 2767–
+2772. (d) Appendino, G.; Gariboldi, P.; Calleri, M.; Chiari, G.;
+Viterbo, D. J. Chem. Soc., Perkin Trans. 1 1983, 2705–2709. (e)
+Appendino, G.; Gariboldi, P.; Valle, M. G. Gazz. Chim. Ital. 1988,
+118, 55–59. (f) Appendino, G.; Tettamanzi, P.; Gariboldi, P.
+Phytochemistry 1991, 30, 1319–1320. (g) Appendino, G.; Tagliapi-
+etra, S.; Nano, G. M.; Cisero, M. Phytochemistry 1992, 31, 2537–
+2538. (h) Appendino, G.; Tagliapietra, S.; Nano, G. M.; Cisero,
+M. Fitoterapia 1993, 64, 286–287. (i) Appendino, G.; O¨ zen, H. C.;
+Jakupovic, J. Phytochemistry 1994, 36, 531–532. (j) Fattorusso, E.;
+Taglialatela-Scafati, O.; Campagnuolo, C.; Santelia, F. U.; Appen-
+dino, G.; Spagliardi, P. J. Agric. Food Chem. 2002, 50, 5131–5138.
+(k) Appendino, G.; Borrelli, F.; Capasso, R.; Campagnuolo, C.;
+Fattorusso, E.; Petrucci, F.; Taglialatela-Scafati, O. J. Agric. Food
+Chem. 2003, 51, 6970–6974.
+(11) Brockhoff, A.; Behrens, A.; Massarotti, A.; Appendino, G.; Meyerhof,
+W. J. Agric. Food Chem. 2007, 55, 6236–6243.
+(12) Rey, C.; Slacanin, I. ReV. Suis. Vitic. Arboric. Hortic. 1997, 29, 1–6.
+(13) Bicchi, C.; Nano, G. M.; Frattinini, C. Eur. Food Res. Technol. 1982,
+175, 182–185.
+(14) http://www.genepy.it.
+(15) Tang, J.; Ning, L.; Bi, C.; Li, W. J. Pharm. Pharmacol. 2007, 59,
+637–643.
+(16) Bud⊃esˇı´nsky´, M.; Sˇaman, D. Annu. Rep. NMR Spectrosc. 1995, 231–
+475.
+(17) Stocking, E. M.; Williams, R. M. Angew. Chem., Int. Ed. 2003, 42,
+3078–3155.
+(18) Bicchi, C.; Rubiolo, P. Unpublished data.
+(19) Myrcene reacts as a dienophile only under harsh thermal and acidic
+conditions (Yin, D.; Yin, D.; Fu, Z.; Li, Q. J. Mol. Catal. A: Chem
+1999, 148, 87–95. ) as testified by the lack of self-dimerization during
+its industrial production from the thermal (>400 °C) cracking of
+-pinene. Dienophilic behavior has also been reported for its conju-
+gated terminal double bond (Matusch, R.; Haberlein, H. Liebigs Ann.
+Chem. 1987, 455-457.
+(20) Actually, the thermal cycloreversion of exomethylene-γ-lactone Diels-
+Alder adducts during GC analysis was observed: J. Spo¨rle, J.; Becker,
+H.; Gupta, M. P.; Veith, M.; Huch, V. Tetrahedron 1989, 45, 5003–
+5014. Spo¨rle, J.; Becker, H.; Allen, N. S.; Gupta, M. P. Phytochemistry
+1991, 30, 3043–3047.
+(21) Barrero, A. F.; Oltra, J. E.; Alvarez, M. Tetrahedron Lett. 1998, 39,
+1401–1404.
+(22) Houk, K. N.; Strozier, R. W. J. Am. Chem. Soc. 1973, 95, 4094–
+4096.
+(23) Kulkarni, G. H.; Kelkar, G. R.; Bhattacharyya, S. C. Tetrahedron 1964,
+20, 2639–2645.
+(24) Geissman, T. A.; Winters, T. E. Tetrahedron Lett. 1968, 3154,
+3147.
+Sesterpene γ-Lactone from Mountain Wormwood Journal of Natural Products, 2009, Vol. 72, No. 3 343
+(25) Lee, S. H.; Lee, M.-Y.; Kang, H.-M.; Han, D. C.; Son, K.-H.; Yang,
+D. C.; Sung, N.-C.; Lee, C. W.; Kim, H. M.; Kwon, B.-M. Bioorg.
+Med. Chem. 2003, 11, 4545–4549.
+(26) Suchy, M.; Herout, V.; Sˇorm, F. Collect. Czech. Chem. Commun. 1964,
+29, 1829–1834.
+(27) Fischer, N. H.; Olivier, E. J.; Fischer, H. D. Prog. Chem. Org. Nat.
+Prod. 1979, 38, 47–390.
+(28) The acid-catalyzed cyclization of medium-sized polyolefins is notori-
+ously capricious in terms of reproducibility: Appendino, G.; Jakupovic,
+J.; Cravotto, G.; Biavatti-Weber, M. Tetrahedron 1997, 53, 4681–
+4692. We found that the photochemical generation of HCl from the
+irradiation of chloroform gave very reproducible reactions (see
+Experimental Section)..
+(29) Appendino, G.; O¨ zen, H. C. Gazz. Chim. Ital. 1993, 123, 93–94.
+(30) Appendino, G.; Gariboldi, P. J. Chem. Soc., Perkin Trans. 1 1983,
+2017–2026.
+(31) Samek, Z.; Harmatha, J. Collect. Czech. Chem. Commun. 1978, 43,
+2779–2799.
+NP800468M
+344 Journal of Natural Products, 2009, Vol. 72, No. 3 Appendino et al.

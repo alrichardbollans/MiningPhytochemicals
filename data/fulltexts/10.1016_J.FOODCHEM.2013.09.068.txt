@@ -1,0 +1,640 @@
+Regulation of cytochrome P450 mRNA expression in primary porcine
+hepatocytes by selected secondary plant metabolites from chicory
+(Cichorium intybus L.)
+Martin Krøyer Rasmussen⇑, Christina Lindgaard Klausen, Bo Ekstrand
+Department of Food Science, Aarhus University, Denmark
+article info
+Article history:
+Received 15 January 2013
+Received in revised form 4 July 2013
+Accepted 11 September 2013
+Available online 19 September 2013
+Keywords:
+Bioactive compounds
+Primary hepatocytes
+Cryopreservation
+Boar taint
+Gene regulation
+Detoxiﬁcation
+Liver metabolism
+abstract
+Chicory (Cichorium intybus) has been shown to induce enzymes of pharmacokinetic relevance (cyto-
+chrome P450; CYP). The aim of this study was to investigate the effects of selected secondary plant
+metabolites with a global extract of chicory root, on the expression of hepatic CYP mRNA (1A2, 2A19,
+2C33, 2D25, 2E1 and 3A29), using primary porcine hepatocytes. Of the tested secondary plant metabo-
+lites, artemisinin, scoparone, lactucin and esculetin all induced increased expression of speciﬁc CYPs,
+while esculin showed no effect. In contrast, a global extract of chicory root decreased the expression of
+CYP1A2, 2C33, 2D25 and 3A29 at high concentrations. The results suggest that puriﬁed secondary metab-
+olites from chicory affect CYP expression and thereby might affect detoxiﬁcation in general, and that glo-
+bal extracts of plants can have effects different from individual components.
+ 2013 Elsevier Ltd. All rights reserved.
+1. Introduction
+Chicory (Cichorium intybus L.) is an important source of the
+polysaccharide inulin and has been shown to possess a wide range
+of pharmacological properties, including hepato-protective, anti-
+inﬂammatory, anti-malarial and anti-diabetic effects (Ahmed, Al-
+Howiriny, & Siddiqui, 2003; Bais & Ravishankar, 2001; Cavin
+et al., 2005; Tousch et al., 2008). Additionally, research has shown
+that chicory feeding increased the expression and activity of hepa-
+tic xenobiotica (drugs, antibiotics) metabolizing enzymes in pigs
+(Rasmussen, Zamaratskaia, & Ekstrand, 2011a). The aerial parts of
+the plant are often consumed as part of salads, while the roots
+are processed and used as coffee substitutes or food ingredients.
+Metabolism of the diverse classes of xenobiotics is usually di-
+vided into two phases: phase I, oxidative modiﬁcation, and phase
+II, derivatisation. Phase I is often catalysed by enzymes belonging
+to the cytochrome P450 (CYP) superfamily. Hence, CYPs are exten-
+sively studied for their involvement in drug metabolism and detox-
+iﬁcation (Guengerich, 2007). Proteomic analysis of the porcine liver
+has determined that the most abundant CYP families are CYP1A,
+2A, 2C, 2D, 2E and 3A (Achour, Barber, & Rostami-Hodjegan,
+2011). Apart from their impact on drug metabolism, porcine CYPs
+are also studied for their ability to metabolize skatole. The com-
+pound skatole is a metabolite of tryptophan produced in the gut;
+after absorption to the blood stream it is metabolized in the liver
+by CYPs. If the hepatic clearance of skatole is insufﬁcient, it will
+accumulate in the adipose tissue of the pig. High concentrations
+of skatole in fat are associated with poor meat quality of sexually
+mature male pigs, a phenomenon known as boar taint. Several
+different CYPs have been shown to catabolise skatole (Matal,
+Matuskova, Tunkova, Anzenbacherova, & Anzenbacher, 2009;
+Terner, Gilmore, Lou, & Squires, 2006; Wiercinska, Lou, & Squires,
+2012).
+Differences in CYP expression and activity between individuals
+have been observed and are often explained by the genetic proﬁle
+of the individual, but other factors are also important, e.g., gender
+and age. Moreover, there is growing evidence that bioactive
+compounds, e.g., secondary plant metabolites, affect liver function
+and CYP activity. It has been shown that St. John’s wort, Ginkgo bi-
+loba, wormwood (Artemisia), common sage (Salvia) and chicory
+(Cichorium) inﬂuence the expression and/or activity of hepatic
+CYPs (Chang, 2009; Chang & Waxman, 2006; Hellum, Hu, & Nilsen,
+2009; Rasmussen, Zamaratskaia, Andersen, & Ekstrand, 2012;
+Rasmussen et al., 2011a). Moreover, the secondary plant metabo-
+lites, artemisinin and scoparone (from wormwood), have been
+shown to possess pharmacological properties (Burk et al., 2005;
+Huang, Zhang, & Moore, 2004). Chicory root has been shown to
+contain numerous secondary metabolites, e.g., the sesquiterpene
+0308-8146/$ - see front matter  2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.foodchem.2013.09.068
+⇑ Corresponding author. Address: Department of Food Science, Aarhus University,
+Blichers allé 20, P.O. box 50, DK-8830 Tjele, Denmark. Tel./fax: +45 89 99 19 00.
+E-mail address: Martink.rasmussen@agrsci.dk (M.K. Rasmussen).
+Food Chemistry 146 (2014) 255–263
+Contents lists available at ScienceDirect
+Food Chemistry
+journal homepage: www.elsevier.com/locate/foodchemlactone lactucin, and the coumarins esculin and esculetin (Bais &
+Ravishankar, 2001). Thus, knowledge about the impact of plants
+(used for consumption) on hepatic CYP expression/activity is very
+important due to potential herb–drug interactions. The aim of this
+study was to investigate the effects of selected secondary plant
+metabolites from chicory on porcine CYP mRNA expression
+in vitro and compare that to the effects of secondary plant metab-
+olites from wormwood (Artemisia).
+The expression of CYPs is generally believed to be regulated by
+xenobiotic receptors (XR), such as the aryl hydrocarbon receptor
+(AhR), constitutive androstane receptor (CAR) and pregnane X
+receptor (PXR), regulating CYP1A, 2A and 3A expression, respec-
+tively. However, extensive cross-talk between receptors does take
+place (reviewed by Pascussi et al. (2008)). By treating hepatocytes
+with standard activators of these receptors and selected plant sec-
+ondary metabolites, the potential for CYP mRNA induction was
+investigated. The effect of a global chicory root extract was com-
+pared to that of the standard CYP inducers and the secondary plant
+metabolites.
+2. Materials and methods
+2.1. Ethical and animal welfare aspects
+The pigs used for hepatocyte isolation were treated in accor-
+dance with the guidelines from the Danish Inspectorate of Animal
+Experimentation.
+2.2. Isolation of porcine hepatocytes
+Five female cross-bred (Landrace   Yorkshire sire and Duroc
+boar) piglets (11.1 ± 0.5 kg) were used in this study. The pigs were
+killed with a bolt pistol, followed by immediate exsanguination,
+before the liver (weight 200–250 g) was removed and transported
+on ice to the laboratory. Time from killing to the arrival of the liver
+at the laboratory was not more than 10 min. Hepatocytes were iso-
+lated by a protocol adopted from Monshouwer, Witkamp, Nijmei-
+jer, Van Amsterdam, and Van Miert (1996) and Seglen (1972). After
+arrival at the laboratory, the liver was transferred to a laminar
+ﬂow-bench and cannulated with a tube in the large central vein.
+The liver was then perfused with 1 l of basis-buffer (Dulbecco’s
+phosphate-buffered saline without Ca
+2+ and Mg
+2+ (DPBS; Invitro-
+gen) supplemented with 10 mM HEPES, 1% glucose; saturated with
+O2; pH 7.4) treated with 1 mM EGTA, followed by perfusion with
+1 l of basis-buffer. Afterwards 0.75 l of basis-buffer containing
+4.75 mM CaCl2 and 0.05% collagenase (Type II; Worthington,
+USA) was perfused under recirculation for 15 min. The liver was
+then cut into small pieces with a scalpel and transferred to a bottle
+containing basis-buffer with 4.75 mM CaCl2 and 0.025%
+collagenase and incubated under gentle stirring for 15 min. To
+the resulting cell suspension. ice-cold basis-buffer with 2% BSA
+(1:1) was added, and it was then ﬁltered through nylon mesh with
+a mesh size of 200 lm
+2, followed by ﬁltering through nylon mesh
+with a mesh size of 50 lm
+2. Cells were then isolated by a 5 min
+centrifugation at 100g (4 C) and washed in William E medium
+(WME; Invitrogen) containing 10% (volume/volume) foetal calf
+serum (FCS; Sigma). After isolation of the cells, they were seeded
+directly or cryopreserved according to the procedure described
+below.
+2.3. Cell number, viability, cryopreservation and thawing of
+hepatocytes
+Cell number was evaluated by counting the cells in a haemocy-
+tometer, combined with light microscopy. Cell viability was
+estimated by their ability to exclude trypan blue, regarding cells
+not able to exclude trypan blue as dead.
+The isolated cells were diluted in WME with 10% FCS, 2 mM L-
+glutamine (Sigma) and 1 lM insulin (Sigma), obtaining a ﬁnal den-
+sity of 10
+7 cells/ml. DMSO was slowly added to the cell suspension
+reaching a ﬁnal concentration of 10% (v/v). Afterwards 1.0 ml of
+cell suspension was put in cryotubes (NUNC) and placed in propa-
+nol-containing boxes and frozen at  80 C freezer overnight. The
+next day, tubes were transferred to a tank containing liquid
+nitrogen.
+Thawing was done by heating the tubes in a 37 C water bath
+and, when the content was thawed, it was transferred to 50 ml
+tubes with WME containing 10% FCS (37 C). The cells were then
+sedimented by centrifugation at 100g for 5 min (37 C).
+2.4. Culturing of hepatocytes and effect of time in culture
+For evaluation of the effect of cryopreservation and time in cul-
+ture, either freshly isolated or cryopreserved hepatocytes were
+suspended in WME with 10% FCS, 2 mM L-glutamine, 100 units/
+ml of penicillin (Sigma), 100 lg/ml of streptomycin (Sigma),
+20lg/ml gentamicin (Sigma), 2.5 lg/ml of ampotericin B (Sigma)
+and 1 lM insulin. 100,000 cells/cm
+2 were seeded into collagen
+(Type I, BD Biosciences)-coated wells (6 well plates; NUNC) and
+subjected to 37 C and 5% CO2 in an incubator. 24 h after seeding,
+dead and unattached cells were removed by washing the wells
+with DPBS (Ca
+2+,M g
+2+;3 7C) and fresh medium was added. This
+time point was regarded as day 1. Medium was renewed every
+24 h and samples collected equivalent to days 2, 3, 6 and 7. Due
+to low attachment of the cryopreserved hepatocytes isolated from
+one pig (Table 1; Pig B), a Percoll puriﬁcation (Kreamer et al., 1986)
+was performed before seeding.
+2.5. Induction
+To test the functionality of the isolated hepatocytes we deter-
+mined their response to standard CYP inducers. We used 100 lM
+b-naphthoﬂavone (Sigma), 100 lM CITCO (6-(4-chlorophenyl)imi-
+dazo[2,1-b][1,3]thiazole-5-carbaldehyde O-(3,4-dichlorobenzyl)
+oxime; Sigma), 50 lM dexamethasone (Sigma) and 5 nM TCPOBOP
+(1,4-bis-[2-(3,5-dichloropyridyloxy)]benzene; Sigma) dissolved in
+DMSO, giving a ﬁnal concentration in the media of 0.1% DMSO.
+Likewise, 1–100 lM artemisinin (Mediplantex, Hanoi, Vietnam),
+lactucin (Extrasynthese, France), esculin (6,7-dehydroxycoumarin;
+Sigma), esculetin (Sigma) and 10–100 lM scoparone (6,7-dimeth-
+oxycoumarin; Sigma) were dissolved in DMSO, giving a ﬁnal con-
+centration of 0.1% DMSO in the media.
+A crude extract of dried chicory root was made by mixing (1:3
+w/v) dried chicory root with 96% methanol. After 24 h of
+extraction, the extract was ﬁltered and the methanol removed un-
+der vacuum, resulting in a 50 times reduction in volume. The ﬁnal
+Table 1
+Viability of freshly isolated and cryopreserved porcine
+hepatocytes.
+Viability (%)
+Fresh Cryopreserved
+Pig A 95 79
+Pig B 92 72
+Pig C 84 69
+Pig D 85 74
+Pig E 86 71
+Average 88.4 73.0
+SD 4.8 3.8
+256 M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263extract was given an arbitrary concentration of 100,000 units. For
+all added concentrations of extract, methanol was added to the
+media, giving a ﬁnal concentration of methanol at 0.1%.
+Cryopreserved hepatocytes were seeded at a density of
+100,000 cells/cm
+2 into 12 well collagen-coated plastic plates. The
+cells were seeded in WME with 5% FCS, 2 mM L-glutamine,
+100 unit/ml of penicillin, 100 lg/ml of streptomycin, 20lg/ml of
+gentamicin, 2.5 lg/ml ampotericin B and 1 lM insulin. After 24 h
+of attachment, the wells were washed with DPBS and fresh med-
+ium, with or without inducers/extract, was added for another
+24 h before the cells were lysed.
+The control samples were treated with either 0.1% DMSO or
+methanol. In preliminary experiments, it was shown that DMSO
+and methanol, at these concentrations, did not affect the CYP
+mRNA expression (data not shown). All treatments were analysed
+in duplicate for each cell isolate.
+2.6. Quantitative PCR
+RNA isolation and reverse transcription were done using com-
+mercially available kits. Brieﬂy, total RNA was isolated by lysing
+the cell in the wells with RLT-buffer (WVR, Herlev, Denmark) and
+running the lysate on a Spin column according to the manufac-
+turer’s instructions (Rnasey Mini Kit, WVR, Herlev, Denmark).
+Equal volumes of RNA were converted to cDNA using SuperScript
+II RNase H Reverse Transcriptase and Oligo(dt)12–18 Primer (Invit-
+rogen, Carlsbad, CA, USA), according to the manufacturer’s instruc-
+tion. Primers and probes for CYP1A2, 2A19, 2E1 and
+glyceraldehyde 3-phosphate dehydrogenase (GAPDH) are given
+in Rasmussen, Zamaratskaia, and Ekstrand (2011b), while CYP3A29
+is given in Nannelli et al. (2010). For determination of CYP2C33, we
+used forward primer, reverse primer and TaqMan probes with the
+following sequences (50–30): TGGGAATCTGATGCAACTTAACC, AA-
+CAGGGCCGTACTGTTTGG and AAGGACATCCCTGCGTCTCTTTC-
+CAAGTT, respectively. For determination of CYP2D25, the
+corresponding sequences were: TTGGAAGGACTGAAGGAGGAAGT,
+CCCGGGATATGCCTGAGAA and CCTCATGCGCCAGGTGCTGGA.
+Primers and probes were designed with Primer Express version 2
+(Applied Biosystems, Carlsbad, CA, USA), using porcine speciﬁc
+genomic DNA sequences (www.ensembl.org/Sus_scrofa/Info/In-
+dex). The samples were analysed in duplicate in 348 well plates,
+using an ABI 7900 HT sequence detection system (Applied Biosys-
+tems, Carlsbad, CA, USA) under the following conditions: 50 C for
+2 min, 95 C for 10 min, followed by 40 cycles of 95 C for 15 s and
+60 C for 1 min.
+Relative mRNA expression was calculated by relating threshold
+cycles to a standard curve obtained by running a serial dilution of a
+cDNA sample. Relative mRNA expression was normalised against
+the mRNA expression of GAPDH. The average of control samples
+was arbitrarily set to 1. The obtained Ct-values for GAPDH were
+not signiﬁcantly affected by any of the treatments.
+2.7. Statistical analysis
+To evaluate the effect of cryopreservation and time in culture on
+CYP mRNA expression, two-way ANOVA was used, followed by Tu-
+key’s post hoc test to identify differences in CYP mRNA expression.
+The effect of inducers and secondary plant metabolites was evalu-
+ated by one-way ANOVA, followed by Tukey’s post hoc test. To eval-
+uate the effect of the chicory root extract compared to the control
+samples, the Student’s t-test with Bonferroni’s correction was used
+(a corrected p-level of p < 0.0083 was regarded as signiﬁcant).
+All statistical tests were done using R (version 2.11.0).
+3. Results
+3.1. Isolation of hepatocytes
+The total yield of hepatocytes was between 2   10
+8 and 5   10
+9
+cells. When comparing the morphology of freshly isolated and
+cryopreserved hepatocytes, no differences were seen, whereas
+the viability before seeding was lowered by cryopreservation (on
+average from 88% to 73%, p < 0.01, see Table 1).
+3.2. CYP mRNA expression in hepatocytes; effect of time on culture
+For CYP1A2, 2A19, 2D25 and 2E1, there was a signiﬁcant de-
+crease in mRNA expression on day 2 in culture compared to day
+1( Fig. 1). This reduction was maintained for the rest of the period.
+For CYP2C33 and 3A29, there was no signiﬁcant difference in
+mRNA expression between the days in culture. However, for these
+CYPs, large variations between the cell isolates were observed. For
+all CYPs investigated, no differences in mRNA expression between
+freshly isolated and cryopreserved hepatocytes, in relation to their
+time in culture, were observed.
+3.3. Induction of CYP mRNA
+To test the potential of the model to modify mRNA expression
+of the investigated CYPs, the hepatocytes were treated with stan-
+dard activators of the receptors regulating gene expression. The
+used inducers were 100 lM b-naphthoﬂavone (Fig. 2A), 100 lM
+CITCO (Fig. 2B), 50 lM dexamethasone (Fig. 2C) or 5 nM TCPOBOP
+(Fig. 2D). Treating hepatocytes with b-naphthoﬂavone signiﬁcantly
+increased the mRNA expression of CYP1A2 5.1-fold compared to
+control. Likewise, the mRNA expression of CYP1A2 was signiﬁ-
+cantly larger than the expression of all other investigated CYP iso-
+forms. Treatment of hepatocytes with CITCO signiﬁcantly
+increased the mRNA expression of CYP1A2 4.0-fold compared with
+the control. Furthermore, the mRNA expression of CYP1A2 was sig-
+niﬁcantly larger than for all other investigated CYP isoforms. In the
+dexamethasone-treated hepatocytes, mRNA expression of CYP1A2
+and 3A was signiﬁcantly increased, 4.9- and 5.3-fold, respectively,
+compared with the control, while the 4.3-fold increase in CYP2C33
+expression almost reached signiﬁcance (p = 0.054). There was no
+effect on CYP mRNA expression of treating hepatocytes with TCPO-
+BOP (ANOVA, p > 0.05).
+3.4. Secondary plant metabolites from chicory and wormwood, and
+chicory root extract
+Treatment of hepatocytes with artemisinin signiﬁcantly in-
+creased the mRNA expression of CYP1A2, 2C33, 2D25 and 3A29,
+up to 3.5-, 2.0-, 1.5-, and 3.4-fold, respectively, compared with
+the control (Fig. 3A). Scoparone signiﬁcantly increased the mRNA
+expression of CYP1A2 and 2D25, up to 4.3- and 1.8-fold, respec-
+tively, compared with the control (Fig. 3B). Apart from that, no
+other effects on CYP mRNA expression were observed.
+For the chicory secondary metabolite, lactucin increased the
+mRNA expression of CYP2A19, 2D25 and 2E1, up to 2.6-, 2.0- and
+3.1-fold, respectively, compared with the control (Fig. 3C). Escule-
+tin increased the CYP1A2 mRNA expression up to 2.2-fold (Fig. 3D)
+while the expression of the other investigated CYP isoforms re-
+mained unchanged. Esculin showed no effect on CYP mRNA
+expression (Fig. 3E).
+The extract of chicory decreased the mRNA expression of
+CYP1A2 when administered at the three highest concentrations
+(Fig. 4A). Moreover, chicory extract also decreased the mRNA
+expression of CYP2C33, 2D25 and 3A29 when administered at
+M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263 257the highest concentration (Fig. 4C, D and F). No effect of the chicory
+root extract was found on CYP2A19 and 2E1 expression.
+4. Discussion
+The aim of the present study was to use primary hepatocytes
+isolated from pigs to investigate regulation of CYP mRNA expres-
+sion by treatment with selected secondary plant metabolites. In or-
+der to validate the hepatocyte model, the effects of time in culture
+and standard CYP inducers on CYP expression were investigated.
+The major ﬁndings were that 1) mRNA expression of the
+investigated CYPs with time in culture was not affected by cryo-
+preservation; 2) treatment with standard CYP inducers and se-
+lected secondary plant metabolites increased CYP expression
+whereas 3) a global chicory root extract lowered the expression
+of some of the investigated CYPs, but not all.
+Several studies have investigated the effect of time in culture on
+overall and speciﬁc CYP protein expression and activity in porcine
+hepatocytes (Gillberg, Skaanild, & Friis, 2006; Keatch, Nelson, Ma-
+son, Hayes, & Plevris, 2002; Koebe, Mueller-Hoecker, Koebe, &
+Schildberg, 1995; Loven, Olsen, Friis, & Andersen, 2005; Monshou-
+wer, van’t Klooster, Nijmeijer, Witkamp, & van Miert, 1998;
+Fig. 1. Cytochrome P450 mRNA expression in freshly isolated (closed circles) and cryopreserved (open circles) primary porcine hepatocytes (n = 4). mRNA expression of (A)
+CYP1A2, (B) 2A19, (C) 2C33, (D) 2D25, (E) 2E1 and (F) 3A29 was determined on days 1 (24 h after seeding), 2, 3, 6 and 7 in culture. Data are means ± SEM.
+258 M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263Skaanild & Friis, 2000; Zhou, Tokiwa, Kano, & Kodama, 1998). How-
+ever, to our knowledge, this is the ﬁrst study to investigate the ef-
+fect of time in culture on porcine CYP mRNA expression, while the
+studies mentioned above have all investigated the protein expres-
+sion or activity. In the present study, we showed that compared to
+day 1 after seeding, the mRNA expression of CYP1A2, 2A19, 2D25,
+2E1 was reduced by approximately 90% after day 2 in culture. Fol-
+lowing the next 5 days in culture, the mRNA expression remained
+stable at a low level compared to day 1. The mRNA expression of
+CYP2C33 and 3A29 was not changed by time in culture. These ﬁnd-
+ings are in accordance with previous results on CYP activity (Gill-
+berg et al., 2006; Loven et al., 2005; Skaanild & Friis, 2008),
+showing that, in porcine hepatocytes, the CYP2A-dependent activ-
+ity is reduced by up to 80% during the ﬁrst day in culture. Addition-
+ally, the study by Skaanild and Friis (2000) showed a concurrent
+reduction in CYP2A-dependent activity and protein expression.
+Moreover, it has been shown that CYP1A-dependent activity de-
+creases with time in culture (Koebe et al., 1995; Zhou et al.,
+1998), while CYP2E1 protein expression is not changed within
+24 h after seeding (Doran, Whittington, Wood, & McGivan, 2002).
+As the present study showed that mRNA expression of CYP1A2
+and 2A19 is reduced, it could be suggested that the reduction in
+CYP-dependent activity is caused by a reduction of the transcrip-
+tional level. The unchanged expression of CYP3A29 mRNA found
+in the present study is in accordance with Gillberg et al. (2006)
+and Skaanild and Friis (2000), that showed constant protein
+expression and CYP3A-dependent activity for up to 75 h of cultur-
+ing. However, other studies have shown that both increased (Loven
+et al., 2005) and decreased (Monshouwer et al., 1998) CYP3A-
+dependent activity. Taken together, the present ﬁndings suggest
+that the reduction of CYP protein expression and activity, found
+with time in culture, is due to reduced mRNA expression. In the
+present study we showed that, for none of the investigated CYPs,
+were there differences between time-dependent CYP mRNA
+expression in freshly isolated and cryopreserved hepatocytes. This
+suggests that cryopreserved hepatocytes can be used to study CYP
+mRNA expression.
+To test the ability and the magnitude by which the hepatocytes
+can regulate CYP mRNA, we treated them with standard inducers.
+b-Naphthoﬂavone and dexamethasone are commonly used to acti-
+vate the AhR and PXR, respectively, while CITCO and TCPOBOP are
+used to activate CAR. However, as supported by the current results,
+the single inducer can activate other XRs, either directly or indi-
+rectly, via cross-talk or via their metabolites. In the present study,
+b-naphthoﬂavone proved to be very speciﬁc in inducing an in-
+crease only in CYP1A2 mRNA expression, probably by activating
+the AhR. Porcine CYP1A induction by b-naphthoﬂavone has been
+shown previously both in vivo (Messina, Nannelli, Fiorio, Longo,
+& Gervasi, 2009; Nannelli et al., 2009) and in vitro (Monshouwer
+et al., 1998). TCPOBOP has previously, as in the current study, been
+Fig. 2. Induction of cytochrome P450 mRNA in primary porcine hepatocytes by standard inducers. Hepatocytes (n = 4) were treated with (A) 100 lM b-naphthoﬂavone, (B)
+100 lM CITCO, (C) 50 lM dexamethasone or (D) 5 nM TCOPBOP for 24 h. Data are means ± SEM.
+⁄p < 0.05 and
+⁄⁄⁄p < 0.001 signiﬁcantly different from control (no inducers).
+Bars not sharing a superscript are different from each other (p < 0.05). Signiﬁcance was evaluated using one-way ANOVA, followed by Tukey’s post hoc test.
+M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263 259shown to have no effect on CYP2A expression (Gillberg et al., 2006)
+in porcine hepatocytes, in contrast to murine hepatocytes. More-
+over, the study by Gillberg et al. (2006) showed that CITCO induced
+CYP2A-dependent activity. Surprisingly, our study showed no
+changes in CYP2A19 mRNA in hepatocytes treated with CITCO,
+while an increase in CYP1A2 mRNA expression was observed. This
+discrepancy between the two studies can be explained by the dif-
+ferent investigated response, i.e., mRNA expression vs. enzyme
+activity. Dexamethasone has previously been shown to increase
+CYP3A in porcine hepatocytes (Monshouwer et al., 1998). In the
+current study, dexamethasone induced CYP3A29 and 1A2 mRNA
+expression, while the observed increase in 2C33 almost reached
+signiﬁcant levels (p = 0.054). This result is supported by studies
+using human hepatocytes, showing that dexamethasone treatment
+increased CYP3A4, CYP2C8 and CYP1A1 (Lai, Wong, & Wong, 2004;
+Pascussi, Gerbal-Chaloin, Fabre, Maurel, & Vilarem, 2000). This sug-
+gests that dexamethasone has a complex mode of action in relation
+to XR activation and gene regulation. Taken together, the results
+Fig. 3. Induction of cytochrome P450 mRNA in primary porcine hepatocytes by 1–100lM artemisinin (A), lactucin (C), esculetin (D) and esculin (E) and 10–100 lM
+scoparone (B). Hepatocytes (n = 4) were treated with the secondary plant metabolites for 24 h at concentrations indicated in the Figure. Data are means ± SEM,
+⁄p < 0.05
+⁄⁄p < 0.01 signiﬁcantly different from control (no secondary plant metabolites). Signiﬁcance was evaluated using one-way ANOVA, followed by Tukey’s post hoc test.
+260 M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263show that, even though CYP expression is suppressed with time in
+culture, the hepatocytes are still able to increase CYP mRNA, by at
+least 5-fold, when treated with XR activators.
+To investigate the potential of inducing CYPs with secondary
+plant metabolites, we treated hepatocytes with a sesquiterpene
+lactone, artemisinin, and a coumarin derivative, scoparone. Arte-
+misinin increased CYP1A2 and 3A29 mRNA expression by up to
+3.5 times, while CYP2C33 and 2D25 mRNA expression was
+increased up to 2 times. This suggests that artemisinin simulta-
+neously activates AhR, CAR and PXR. This is further supported by
+a study using a reporter gene assay, which showed that artemisinin
+activates human CAR and PXR, as well as induces CYP3A4 and 2C19
+mRNA expression in human hepatocytes (Burk et al., 2005).
+Simonsson et al. (2006) also found that artemisinin activated the
+human CAR and induced a weak but reproducible increase in
+CYP1A2 mRNA in mice treated with artemisinin for 4 days. Our
+Fig. 4. Cytochrome P450 mRNA expression in primary porcine hepatocytes treated with a methanolic extract of chicory root. Hepatocytes (n = 4) were treated with different
+dilutions of the original extract for 24 h as indicated in the Figure. Data are means ± SEM.
+⁄Signiﬁcantly different from control samples (no chicory extract). Signiﬁcance was
+evaluated using Student’s t-test with Bonferroni’s correction.
+M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263 261results show that scoparone treatment increased the mRNA
+expression of CYP1A2 and 2D25, suggesting an activation of both
+AhR and CAR. Previous studies, using human and mice hepatocytes,
+have shown that scoparone can induce CYP2B6 and CYP2B10
+mRNA expression by activating CAR (Huang et al., 2004; Yang,
+Yang, Shi, Deng, & Yan, 2011).
+It is still not known if the secondary plant metabolites found in
+chicory (lactucin, esculetin and esculin) are able to modify the
+expression of hepatic CYP mRNA. In the present study we showed
+that the sesquiterpene lactone, lactucin, and the coumarin escule-
+tin both induce CYP expression. Lactucin increased the expression
+of CYP2A19, 2D25 and 2E1. Expression of these CYPs is expected to
+be controlled by CAR. This suggests that lactucin can activate CAR.
+Esculetin might activate AhR, due to the observed increase of
+CYP1A2 mRNA. The esculetin metabolite, esculin, did not affect
+the mRNA expression of any of the investigated CYP isoforms.
+Thus, previously shown effects of feeding chicory root can be ex-
+plained by the presence of chicory secondary metabolites activat-
+ing XRs and inducing CYP expression (Rasmussen et al., 2011a).
+In the group of pigs which had been given 10% dried chicory root
+in their feed for the last 16 days before slaughter, there was up
+to a 9-fold increase in CYP1A2 and 2A19 mRNA and a small in-
+crease in CYP2E1 mRNA. Correspondingly, there was a subsequent
+increase in CYP1A2 and 2A19 protein expression and activity. Sur-
+prisingly, the effects of the global chicory root extract on hepatic
+CYP mRNA expression found in the present study are not consis-
+tent either with our previous in vivo results (Rasmussen et al.,
+2011a) or some of our present results for individual secondary
+metabolites from chicory. However, using global plant extracts,
+in in vitro models introduces some biases. Due to the reported
+presence of high amounts of sesquiterpene lactones in a methano-
+lic extract of chicory root (Cavin et al., 2005), methanol was chosen
+as solvent. This, however, excludes compounds not easily soluble
+in methanol, which might possess CYP-inducing properties. An-
+other explanation is in vivo modiﬁcation (e.g., in the gastrointesti-
+nal tract) of the chicory compounds during absorption, potentially
+making them ligands for the CYP-regulating receptors. Likewise,
+more complex events, e.g., changes in hormone concentration
+caused by chicory, can also affect CYP expression. This is supported
+by previous studies showing decrease in androstenone levels with
+chicory feeding (Byrne, Thamsborg, & Hansen, 2008; Rasmussen,
+Brunius, Zamaratskaia, & Ekstrand, 2012).
+It is noteworthy that the same CYP isoforms that were up-reg-
+ulated in the dexamethasone- and artemisinin-treated hepato-
+cytes, were down-regulated by high concentrations of the global
+chicory extract. This may suggest that these CYPs have a common
+mechanism for regulation and that the chicory extract acts as an
+inverse agonist for the transcription factors for these CYPs.
+In conclusion, the results show that puriﬁed secondary plant
+metabolites, from e.g. chicory, can increase the expression of CYP
+mRNA in porcine hepatocytes. In contrast, a global extract of chic-
+ory root decreased the expression of several CYP isoforms.
+Acknowledgements
+The authors greatly appreciate the excellent technical assis-
+tance by Bente Andersen, Department of Food Science, Aarhus
+University. This study was partially funded by the Future Food
+Initiative, and the GUDP NO-CAST Project, Grant No. 3405-10-OP-
+00134.
+References
+Achour, B., Barber, J., & Rostami-Hodjegan, A. (2011). Cytochrome P450 pig liver pie:
+Determination of individual cytochrome P450 isoform contents in microsomes
+from two pig livers using liquid chromatography in conjunction with mass
+spectrometry. Drug Metabolism and Disposition, 39(11), 2130–2134.
+Ahmed, B., Al-Howiriny, T. A., & Siddiqui, A. B. (2003). Antihepatotoxic activity of
+seeds of Cichorium intybus. Journal of Ethnopharmacology, 87(2–3), 237–240.
+Bais, H. P., & Ravishankar, G. A. (2001). Cichorium intybus L. – Cultivation, processing,
+utility, value addition and biotechnology, with an emphasis on current status
+and future prospects. Journal of the Science of Food and Agriculture, 81(5),
+467–484.
+Burk, O., Arnold, K. A., Nussler, A. K., Schaeffeler, E., Eﬁmova, E., Avery, B. A., et al.
+(2005). Antimalarial artemisinin drugs induce cytochrome P450 and MDR1
+expression by activation of xenosensors pregnane X receptor and constitutive
+androstane receptor. Molecular Pharmacology, 67(6), 1954–1965.
+Byrne, D. V., Thamsborg, S. M., & Hansen, L. L. (2008). A sensory description of boar
+taint and the effects of crude and dried chicory roots (Cichorium intybus L.) and
+inulin feeding in male and female pork. Meat Science, 79(2), 252–269.
+Cavin, C., Delannoy, M., Malnoe, A., Debefve, E., Touché, A., Courtois, D., et al. (2005).
+Inhibition of the expression and activity of cyclooxygenase-2 by chicory extract.
+Biochemical and Biophysical Research Communications, 327(3), 742–749.
+Chang, T. (2009). Activation of pregnane X receptor (PXR) and constitutive
+androstane receptor (CAR) by herbal medicines. The AAPS Journal, 11(3),
+590–601.
+Chang, T. K. H., & Waxman, D. J. (2006). Synthetic drugs and natural products as
+modulators of constitutive androstane receptor (CAR) and pregnane X receptor
+(PXR). Drug Metabolism Reviews, 38(1–2), 51–73.
+Doran, E., Whittington, F. W., Wood, J. D., & McGivan, J. D. (2002). Cytochrome
+P450IIE1 (CYP2E1) is induced by skatole and this induction is blocked by
+androstenone in isolated pig hepatocytes. Chemico-Biological Interactions,
+140(1), 81–92.
+Gillberg, M., Skaanild, M. T., & Friis, C. (2006). Regulation of gender-dependent
+CYP2A expression in pigs: Involvement of androgens and CAR. Basic & Clinical
+Pharmacology & Toxicology, 98(5), 480–487.
+Guengerich, F. P. (2007). Cytochrome P450 and chemical toxicology. Chemical
+Research in Toxicology, 21(1), 70–83.
+Hellum, B. H., Hu, Z., & Nilsen, O. G. (2009). Trade herbal products and induction of
+CYP2C19 and CYP2E1 in cultured human hepatocytes. Basic & Clinical
+Pharmacology & Toxicology, 105(1), 58–63.
+Huang, W., Zhang, J., & Moore, D. D. (2004). A traditional herbal medicine enhances
+bilirubin clearance by activating the nuclear receptor CAR. Journal of Clinical
+Investigation, 113(1), 137–143.
+Keatch, S. A., Nelson, L. J., Mason, J. I., Hayes, P. C., & Plevris, J. N. (2002). Examination
+of cytochrome P450 content of primary porcine hepatocyte cultures with
+various media formulations for use in bioartiﬁcial liver devices. Journal of
+Artiﬁcial Organs, 5(1), 37–43.
+Koebe, H. G., Mueller-Hoecker, J., Koebe, S., & Schildberg, F. W. (1995). Viable
+porcine hepatocytes from slaughterhouse organs. Artiﬁcial Cells Blood Substitutes
+and Immobilization Biotechnology, 23(5), 613–626.
+Kreamer, B., Staecker, J., Sawada, N., Sattler, G., Hsia, M., & Pitot, H. (1986). Use of a
+low-speed, iso-density percoll centrifugation method to increase the viability of
+isolated rat hepatocyte preparations. In Vitro Cellular & Developmental Biology –
+Plant, 22(4), 201–211.
+Lai, K. P., Wong, M. H., & Wong, C. K. C. (2004). Modulation of AhR-mediated CYP1A1
+mRNA and EROD activities by 17b-estradiol and dexamethasone in TCDD-
+induced H411E cells. Toxicological Sciences, 78(1), 41–49.
+Loven, A. D. B., Olsen, A. K., Friis, C., & Andersen, B. (2005). Phase I and II metabolism
+and carbohydrate metabolism in cultured cryopreserved porcine hepatocytes.
+Chemico-Biological Interactions, 155(1–2), 21–30.
+Matal, J., Matuskova, Z., Tunkova, A., Anzenbacherova, E., & Anzenbacher, P. (2009).
+Porcine CYP2A19, CYP2E1 and CYP1A2 forms are responsible for skatole
+biotransformation in the reconstituted system. Neuroendocrinology Letters, 30,
+36–40.
+Messina, A., Nannelli, A., Fiorio, R., Longo, V., & Gervasi, P. G. (2009). Expression and
+inducibility of CYP1A1, 1A2, 1B1 by b-naphthoﬂavone and CYP2B22, 3A22,
+3A29, 3A46 by rifampicin in the respiratory and olfactory mucosa of pig.
+Toxicology, 260(1–3), 47–52.
+Monshouwer, M., van’t Klooster, G. A. E., Nijmeijer, S. M., Witkamp, R. F., & van
+Miert, A. S. J. P. (1998). Characterization of cytochrome P450 isoenzymes in
+primary cultures of pig hepatocytes. Toxicology in Vitro, 12(6), 715–723.
+Monshouwer, M., Witkamp, R. F., Nijmeijer, S. M., Van Amsterdam, J. G., & Van
+Miert, A. S. J. P. (1996). Suppression of cytochrome P450- and UDP glucuronosyl
+transferase-dependent enzyme activities by proinﬂammatory cytokines and
+possible role of nitric oxide in primary cultures of pig hepatocytes. Toxicology
+and Applied Pharmacology, 137(2), 237–244.
+Nannelli, A., Rossignolo, F., Tolando, R., Rossato, P., Longo, V., & Gervasi, P. G. (2009).
+Effect of b-naphthoﬂavone on AhR-regulated genes (CYP1A1, 1A2, 1B1, 2S1,
+Nrf2, and GST) and antioxidant enzymes in various brain regions of pig.
+Toxicology, 265(3), 69–79.
+Nannelli, A., Rossignolo, F., Tolando, R., Rossato, P., Pellegatti, M., Longo, V., et al.
+(2010). Expression and distribution of CYP3A genes, CYP2B22, and MDR1,
+MRP1, MRP2, LRP efﬂux transporters in brain of control and rifampicin-treated
+pigs. Molecular and Cellular Biochemistry, 337(1), 133–143.
+Pascussi, J. M., Gerbal-Chaloin, S., Duret, C., Daujat-Chavanieu, M., Vilarem, M. J., &
+Maurel, P. (2008). The tangle of nuclear receptors that controls xenobiotic
+metabolism and transport: Crosstalk and consequences. Annual Review of
+Pharmacology and Toxicology, 48(1), 1–32.
+Pascussi, J. M., Gerbal-Chaloin, S., Fabre, J. M., Maurel, P., & Vilarem, M. J. (2000).
+Dexamethasone enhances constitutive androstane receptor expression in
+262 M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263human hepatocytes: Consequences on cytochrome P450 gene regulation.
+Molecular Pharmacology, 58(6), 1441–1450.
+Rasmussen, M. K., Brunius, C., Zamaratskaia, G., & Ekstrand, B. (2012). Feeding dried
+chicory root to pigs decrease androstenone accumulation in fat by increasing
+hepatic 3b hydroxysteroid dehydrogenase expression. The Journal of Steroid
+Biochemistry and Molecular Biology, 130, 90–95.
+Rasmussen, M. K., Zamaratskaia, G., Andersen, B., & Ekstrand, B. (2012a). Dried
+chicory root modiﬁes the activity and expression of porcine hepatic CYP3A but
+not 2C – Effect of in vitro and in vivo exposure. Food and Chemical Toxicology,
+50(11), 4175–4179.
+Rasmussen, M. K., Zamaratskaia, G., & Ekstrand, B. (2011a). In vivo effect of dried
+chicory root (Cichorium intybus L.) on xenobiotica metabolising cytochrome
+P450 enzymes in porcine liver. Toxicology Letters, 200(1–2), 88–91.
+Rasmussen, M. K., Zamaratskaia, G., & Ekstrand, B. (2011b). Gender-related
+differences in cytochrome P450 in porcine liver – Implication for activity,
+expression and inhibition by testicular steroids. Reproduction in Domestic
+Animals, 46(4), 616–623.
+Seglen, P. O. (1972). Preparation of rat liver cells: I. Effect of Ca2+ on enzymatic
+dispersion of isolated, perfused liver. Experimental Cell Research, 74(2), 450–454.
+Simonsson, U. S. H., Lindell, M., Raffalli-Mathieu, F., Lannerbro, A., Honkakoski, P., &
+Lang, M. A. (2006). In vivo and mechanistic evidence of nuclear receptor CAR
+induction by artemisinin. European Journal of Clinical Investigation, 36(9),
+647–653.
+Skaanild, M. T., & Friis, C. (2000). Expression changes of CYP2A and CYP3A in
+microsomes from pig liver and cultured hepatocytes. Pharmacology &
+Toxicology, 87(4), 174–178.
+Skaanild, M. T., & Friis, C. (2008). Analyses of CYP2C in porcine microsomes. Basic &
+Clinical Pharmacology & Toxicology, 103(5), 487–492.
+Terner, M. A., Gilmore, W. J., Lou, Y. P., & Squires, E. J. (2006). The role of CYP2A and
+CYP2E1 in the metabolism of 3-methylindole in primary cultured porcine
+hepatocytes. Drug Metabolism and Disposition, 34(5), 848–854.
+Tousch, D., Lajoix, A. D., Hosy, E., Azay-Milhau, J., Ferrare, K., Jahannault, C., et al.
+(2008). Chicoric acid, a new compound able to enhance insulin release and
+glucose uptake. Biochemical and Biophysical Research Communications, 377(1),
+131–135.
+Wiercinska, P., Lou, Y., & Squires, E. J. (2012). The roles of different porcine
+cytochrome P450 enzymes and cytochrome b5A in skatole metabolism. Animal,
+6(Special Issue 05), 834–845.
+Yang, D., Yang, J., Shi, D., Deng, R., & Yan, B. (2011). Scoparone potentiates
+transactivation of the bile salt export pump gene and this effect is enhanced by
+cytochrome P450 metabolism but abolished by a PKC inhibitor. British Journal of
+Pharmacology, 164(5), 1547–1557.
+Zhou, X. D., Tokiwa, T., Kano, J., & Kodama, M. (1998). Isolation and primary culture
+of adult pig hepatocytes. Methods in Cell Science, 19(4), 277–284.
+M.K. Rasmussen et al./Food Chemistry 146 (2014) 255–263 263

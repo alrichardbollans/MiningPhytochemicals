@@ -1,0 +1,363 @@
+J. Braz. Chem. Soc., Vol. 13, No. 3, 318-323, 2002.
+Printed in Brazil - ©2002  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+A
+rt
+ic
+le
+* e-mail: braz@uenf.br
+# Present address: Departamento de Química, Universidade Federal
+de Santa Catarina, 88040 970, Florianópolis-SC, Brazil
+Two 8C-methylated Flavonols from the Leaves of Vellozia candida Mikan (Velloziaceae)
+Alexsandro Branco#,a, Ângelo C. Pintoa, Demian R. Ifab and Raimundo Braz-Filho*c
+a Instituto de Química, Departamento de Química Orgânica, Universidade Federal do Rio de Janeiro, 21949-970,
+Rio de Janeiro - RJ, Brazil
+b Departamento de Farmacologia, Instituto de Ciências Biomédicas, Universidade de São Paulo, 05508-900,
+São Paulo - SP, Brazil
+c Setor de Química de Produtos Naturais - LCQUI – CCT, Universidade Estadual do Norte Fluminense, 28015-620,
+Campos - RJ, Brazil
+Do extrato etéreo das folhas de Vellozia candida Mikan (Velloziaceae) foram isolados os flavonóis
+3',4',5,7-tetraidroxi-3,6-dimetoxi-8-metilflavona e 3’,4’,5-triidroxi-3,6,7-trimetoxi-8-metilflavona.
+Estes compostos foram identificados através de seus dados espectrais, incluindo RMN 2D e EM-
+EM. O derivado 5-hidroxi-3,3’,4’,6,7-pentametoxi-8-metilflavona foi obtido por metilação usando
+diazometano.
+From the leaves of Vellozia candida Mikan (Velloziaceae) the new flavonol 3',4',5,7-tetrahydroxy-
+3,6-dimethoxy-8-methylflavone and its known 7-O-methyl derivative, 3’,4’,5-trihydroxy-3,6,7-
+trimethoxy-8-methylflavone, were isolated and characterized by spectral data, including 2D NMR
+and tandem mass spectrometry experiments. The 5-hydroxy-3,3’,4’,6,7-pentamethoxy-8-
+methylflavone derivative was obtained by methylation with diazomethane.
+Keywords: Velloziaceae, Vellozia candida, flavonoids, ESI-MS/MS
+Introduction
+The flavonol aglycones constitute a very diverse group
+of plant secondary metabolites. A number of these natural
+products are lipophilic and may show close Rf -values in
+TLC, with overlapping spots, making it impossible to
+identify them in mixtures containing several related
+components. A preliminary MS spectrum of a plant fraction
+and/or crude extract, and also data from GC, HPLC, TMS
+(Tandem Mass Spectrometry) can supply important
+structural information on natural compounds and thereby
+allow an optimization of the investigation and avoid
+unnecessary isolation, especially of known compounds.
+The Velloziaceae family contains C-methyl and C-
+prenylated flavonoids which are relatively rare in nature.1,2
+Recently, we applied high temperature high resolution gas
+chromatography (HT-HRGC) coupled to mass spectrometry
+(HT-HRGC-MS) in the prospection and identification of
+the monoisoprenylated flavonol 3,5,4'-trimethoxy-3'-
+hydroxy-6,7-(2"-isopropenyldihydrofuran)-flavone from
+Vellozia graminifolia, and the importance of this technique
+to determine the presence of lipophilic flavonols was
+demonstrated.3
+A previous phytochemical analysis of V. candida,
+collected on the Corcovado mountain, in the city of Rio
+de Janeiro, Brazil, resulted in the identification of several
+rosane diterpenoids,4,5 including a velloziolide with a new
+skeleton6 and a bioactive seco-rosane.7 In this paper we
+describe the characterization of the 8-C-methylated
+flavonols 3',4',5,7-tetrahydroxy-3,6-dimethoxy-8-
+methylflavone (1) and its known 7-O-methyl derivative,
+3’,4’,5-trihydroxy-3,6,7-trimethoxy-8-methylflavone (2),
+isolated from a specimen of V. candida collected in Barra
+da Tijuca, a coastal area of the city of Rio de Janeiro. The
+structural determination of these compounds as
+components of a mixture was based on spectral data,
+including 2D NMR techniques, such as heteronuclear
+correlation 1H-13C-COSY-nJCH (n=1, HMQC = 1H-detected
+Heteronuclear Multiple Quantum Coherence; n=2 and 3,
+HMBC = 1H-detected Heteronuclear Multiple Bond
+Connectivity) and tandem mass spectrometry, together
+with chemical transformation and comparative analysis of
+319Two 8C-methylated Flavonols from the Leaves of Vellozia candida Mikan (Velloziaceae)Vol. 13, No. 3, 2002
+chemical shifts of previously reported analogous flavonols
+isolated from the Velloziaceae family.8
+Results and Discussion
+Chromatography of the Et2O extract of V. candida on a
+silica gel column yielded initially a fraction containing
+aliphatic carboxylic acids and sterols, which were
+characterized by GC/MS analysis (see Experimental). The
+other fractions obtained from the same column were
+combined on the basis of TLC comparison and
+subsequently chromatographed on Sephadex LH-20 to
+give a mixture of two lipophilic flavonoids. This mixture
+was subjected to methylation with diazomethane and
+yielded 5-hydroxy-3,6,7,3',4'-pentamethoxy-8-methyl-
+flavone (3) as the only product of known structure.
+The mixture of flavonols 1 and 2 showed IR absorption
+bands for a conjugated carbonyl group (ν
+max
+ 1651 cm-1 ) and
+for aromatic ring (ν
+max
+ 1602 and 1559 cm-1). The comparative
+analysis of the HBBD- and DEPT-13C NMR spectra was used
+to recognize the number of signals corresponding to
+quaternary, methine and methyl carbon atoms (Table 1).
+The 1H NMR spectrum showed signals for aromatic
+hydrogens H-2’, H-5’ and H-6’ in the B-ring of a 3’,4’-
+disubstituted flavonoid, along with signals for methoxyl,
+methyl and chelated hydroxyl groups (Table 1).
+In accordance with the 1H and 13C NMR spectral data
+of 1, the HMBC spectrum confirmed a completely
+substituted A-ring through the heteronuclear long range
+couplings via two (2JCH) and three (3JCH) bonds between
+carbon atoms C-6 (δC 130.24) and hydrogens of both HO-
+5 [δH 12.76, s; 3JCH] and MeO-6 [δH 3.94, s; 3JCH] groups, C-
+9 (δC 149.50) and Me-8 [δH 2.31, s; 3JCH] and C-7 (δC
+154.05) and Me-8 [δH 2.31, s; 3JCH]. The presence of a cross
+Table 1. 1H (300 MHz) and 13C NMR (75 MHz) data for flavonols 1 and 2 (CDCl3, δ in ppm, J in parentheses in Hz) Including results of
+heteronuclear 2D experiments 1H-13C-COSY-nJCH (HMQC and HMBC)*
+1 2
+1JCH 2JCH 3JCH 1JCH 2JCH 3JCH
+C δC δ H δC δH
+2 155.74 - H-2’, H-6’ 156.40 - H-2’, H-6’
+3 137.68 - MeO-3 137.91 - MeO-3
+4 178.94 - 179.11 -
+5 150.82 - HO-5 152.39 - HO-5
+6 130.24 - HO-5, MeO-6 135.77 - HO-5, MeO-6
+7 154.05 - Me-8 156.74 - Me-8, MeO-7
+8 101.98 - Me-8 108.70 - Me-8
+9 149.50 - Me-8 149.07 - Me-8
+10 104.90 - HO-5 107.76 - HO-5
+1’ 122.00 - H-5’ 121.75 - H-5'
+3’ 144.66 - H-2’ H-5’ 144.66 - H-2’ H-5’
+4’ 147.85 - H-5’ H-2’, H-6’ 147.85 - H-5’ H-2’, H-6’
+CH
+2’ 115.30 7.74, d H-6’ 115.30 7.74, d H-6’
+(2.0) (2.0)
+5’ 115.38 6.98, d H-6’ 115.38 6.98, d H-6’
+(8.5) (8.5)
+6’ 120.89 7.59, dd H-5’ H-2’ 121.05 7.59, dd H-2’
+(8.5; 2.0) (8.5; 2.0)
+CH3
+MeO-3 59.67 3.84, s 59.66 3.85, s
+MeO-6 60.36 3.94, s 60.46 3.92, s
+MeO-7 - - 60.87 3.99, s
+Me-8 7.67 2.31, s 8.07 2.34, s
+HO-5 - 12.76, s - 12.67, s
+* Multiplicity of signals of carbon atoms deduced by comparative analysis of HBBD- and DEPT-13C. 2D 1H-1H-COSY NMR also used for these
+assignments
+320 Branco et al. J. Braz. Chem. Soc.
+peak correlating the signals at δC 137.68 (C-3) and δH 3.84
+(MeO-3) allowed location of the remaining methoxyl group
+at C-3 of 2 (Table 1). The 13C chemical shifts of the methoxyl
+groups at δC 60.36 (MeO-6) and 59.67 (MeO-3) are in
+accordance with the location of these groups at sterically
+hindered positions. Other heteronuclear long range spin-
+spin interactions of hydrogen and carbon atoms are
+summarized in Table 1.
+The 1H NMR spectra (1D and 2D 1H-1H-COSY) showed
+signals compatible with a 1,3,4-trisubstituted aromatic ring
+in flavonoids (1 and 2) based on the chemical shifts and
+coupling constants for H-2’ [δH 7.74 (d, 2.0 Hz)], H-5’ [δH
+6.98 (d, 8.5 Hz)] and H-6’ [δH 7.59 (dd, 2.0 and 8.5 Hz).
+These assignments were confirmed by the chemical shifts
+and multiplicities of the signals corresponding to C-1’ and
+C-6’ and by heteronuclear correlations, observed in the
+1Hx13C-COSY-nJCH NMR spectra, as shown in Table 1.
+The electrospray ionization (ESI) mass spectrum at
+collision energies of 10 eV and 20 eV of the mixture isolated
+from V. candida shows peaks due to protonated molecular
+ions ([M+H]+) for 1 (m/z 361, 1a) and for the related minor
+8-C-methylated flavonol 2 (m/z 375, 2a) (Figure 1). The
+difference of 14 daltons between the protonated molecular
+ions [M+H]+ of 1 (m/z 361 [360+H]+) and 2 (375 [374+H]+)
+was attributed to a biomethylation of one hydroxyl group
+of 1 (dimethoxylated) to produce 2 (trimethoxylated). This
+is in accordance with the selective methylation of the
+mixture which afforded only one product containing a
+chelated hydroxyl group at C-5 [δH 12.58 (s)], a relatively
+strong intramolecular hydrogen bond involving a six-
+membered ring.
+In fact, the remaining signals observed in the 1H and
+13C NMR spectra together with the results obtained from
+heteronuclear 2D shift-correlated 1Hx13C-COSY-nJCH (n=1,
+HMQC; n=2 and 3, HMBC) spectra (Table 1), allowed the
+definition of the structure as 3’,4’,5-trihydroxy-3,6,7-
+trimethoxy-8-methylflavone (2) for the minor component
+present in the mixture. The HMBC spectrum revealed 2D
+1H/13C multiple bond (2JCH and 3JCH) correlation between
+carbon and hydrogen atoms (Table 1): a) C-6 (δC 135.77)
+and both HO-5 [δH 12.67, s; 3JCH] and MeO-6 [δH 3.92, s;
+3JCH]; b) C-9 (δC 149.07) and Me-8 [δH 2.34, s; 3JCH]; c) C-
+7 (δC 156.74) and both Me-8 [2.34, s; 3JCH] and MeO-7 [δH
+3.99, s; 3JCH]; d) C-3 (δC 137.91) and MeO-3 [δH 3.85, s;
+3JCH]. Other heteronuclear long range spin-spin interactions
+of hydrogen and carbon atoms are summarized in Table 1.
+The prominent peak at m/z 137 observed in both mass
+spectra obtained at 30 eV (1h/2h, 16 %/17 %) and 40 eV
+(1h/2h, 60 %/75 %) was also used to confirm the pattern of
+substitution in B ring as 3’,4’-dihydroxylated (0,2B+
+fragments in Claeys’ nomenclature).9
+Thus, the two 8C-methylated flavonols isolated as a
+mixture from Vellozia candida were characterized as the
+new flavonol 3',4',5,7-tetrahydroxy-3,6-dimethoxy-8-
+methylflavone (1) and its known 7-O-methyl derivative,
+3’,4’,5-trihydroxy-3,6,7-trimethoxy-8-methylflavone (2).2
+On the basis of intensity of the signals corresponding to
+HO-5 [2/3: δH 12.76 (s, rel. int.=1.000)/12.67 (s, rel. int.=
+0.376)] in the 1H NMR spectrum the percentages of 1
+(72.7%) and 2 (27.3%) in the mixture were estimated.
+Furthermore, the complete 1H and 13C chemical shift
+assignments of 1 and 2 were also accomplished by
+extensive NMR analysis (Table 1).
+The CID spectra of 1a and 2a show peaks at m/z 345 (1)
+and 359 (2), which were attributed to ionic fragments 1b
+and 2b formed from quasimolecular ions by elimination
+of one molecule of methane ([M+H]+ - 16 daltons),
+consistent with literature data for 3-methoxy flavonoids.9
+Thus, the CID spectra at collision energies of 10 and 20 eV
+allowed the observation of peaks corresponding to
+[M+H]+. At 30 and 40 eV these ionic species are absent
+and the peaks observed can be used to determine the
+fragmentation mechanisms for 1a and 2a in the mass
+spectrum (Scheme 1).
+Tandem mass spectrometry, a technique based in
+tandem mass analyzers (ions formed are separated by mass
+Figure 1. CID mass spectra of flavonols 1 (upper) and 2 (lower)
+isolated from V. candida. Collision energies at 10 (A), 20 (B), 30
+(C) and 40 (D) eV
+321Two 8C-methylated Flavonols from the Leaves of Vellozia candida Mikan (Velloziaceae)Vol. 13, No. 3, 2002
+analysis and secondary mass spectrum of each ion may be
+obtained, MS/MS) used for the separation and identi-
+fication of ions (such as those representing components in
+complex mixture), proved to be a rapid and powerful
+technique for the characterization of flavonoids.10
+Structural information of the components of a sample may
+be obtained by fragmentation of selected [M+H]+ in CID.
+Conclusions
+The flavonoid substitution patterns are useful in the
+determination of the generic limits within the family
+Velloziaceae.11 In the genus Vellozia it is common to find
+flavonols with C-prenylation, 6-hydroxylation and C-
+methylation which are rarely found in the other genera of
+this family. In the case of V. candida Mikan, after the
+characterization of the new 3',4',5,7-tetrahydroxy-3,6-
+dimethoxy-8-methylflavone (1) by NMR spectroscopy
+(Table 1), it was possible to recognize its known O-methyl
+ether derivative (2) in the mixture with the aid of tandem
+mass spectrometry.
+Experimental
+General
+Column chromatography was performed with silica gel
+60 (Merck 70-230 mesh). Merck silica gel F254 was used
+for TLC plates and spots visualized by UV (254 and 360
+nm). NMR spectra in CDCl3 solution were recorded at 300
+MHz for 1H and 75 MHz for 13C on a Bruker AC 300
+spectrometer, TMS as internal standard or referenced to
+the solvent signals CHCl3, at δH 7.25 and CHCl3, at δC
+77.00. Samples were initially diluted in aqueous/
+acetonitrile solution and subsequently with acetic acid to
+provide solutions of 10 mM HOAc (50/50). The ESI/MS/
+Scheme 1. CID mass fragmentation of 1 and 2. Elimination of CH2O and CH4 showed in this scheme may involve heterolytic (as indicated with
+full arrow corresponding to a electron par) or homolytic (fish-hook corresponding to a single electron) bond cleavages
+322 Branco et al. J. Braz. Chem. Soc.
+MS spectra were acquired using a Quattro II (MicroMass,
+UK) triple quadrupole mass spectrometer equipped with
+an electrospray ionization source. The spectra were
+recorded and processed by MassLynx v. 3.2 software
+(MicroMass, UK). The acquisitions were accomplished in
+positive ion mode (ES+) from m/z 50 to 550 at 2 s/scan.
+The cone voltage was 40V and source temperature
+maintained at 100°C. Each sample was delivered to the
+electrospray source through an infusion pump (Pump 22,
+Harvard Apparatus, So. Natick, MA) at a flow rate of
+10 µL min-1. The protonated molecule, [M+H]+, was
+selected at Q1 as precursor ion, and product ion scans were
+made at Q3, after collisionally induced dissociation at q2.
+Argon was used as collision gas (Gas Cell pressure was
+1.7x10-3 mBar) and different collision energies, from 10 to
+40 eV, were applied.
+Plant material
+Vellozia candida Mikan was collected in Barra da
+Tijuca, Rio de Janeiro, Brazil and identified by Prof.
+Nanuza L. de Menezes of the Universidade de São Paulo
+(USP), São Paulo-SP, Brazil. A voucher specimen has been
+deposited at the herbarium of the Instituto de Botânica of
+USP.
+Extraction and isolation
+Dried and powdered leaves were extracted with ethyl
+ether at room temperature. After concentration of the
+solvent, under vacuum, an oily residue (6.9 g) was obtained.
+This extract was re-dissolved in methanol, filtered to
+remove waxes and evaporated at reduced pressure to yield
+an oily material (3.6 g), which was chromatographed on a
+silica gel column (45 g) with a gradient of EtOAc in hexane.
+A total of 12 fractions of ca 100 mL each were collected
+and combined on the basis of TLC comparison. Fraction
+2, eluted with hexane/EtOAc (1:1) contained palmitic acid
+(40 %), stearic acid (20 %), b-sitosterol (3 %) and
+stigmasterol (12 %) which have been characterized through
+fragmentation patterns obtained by HRGC-MS.12 Fractions
+4, 5 and 6, eluted with EtOAc/MeOH (7:3 to 5:5), were
+combined and chromatographed on a Sephadex LH-20
+column using methanol as eluent. Fractions 2-9 (15 mL
+each) were again combined and rechromatographed on a
+Sephadex LH-20 column using methanol as eluent.
+Fractions 2-6 (15 mL each) furnished a mixture of 1 and 2
+as a yellow oil (19.6 mg).
+3',4',5,7-tetrahydroxy-3,6-dimethoxy-8-methylflavone
+(1) and 3’,4’,5-trihydroxy-3,6,7-trimethoxy-8-
+methylflavone (2): IR ν
+max
+/cm-1: 3408, 1651, 1602, 1559
+(KBr); 1H NMR (300 MHz, CDCl3) and 13C NMR (75 MHz,
+CDCl3): Table 1; ESI/MS/MS: Figure 1.
+Methylation of the mixture of 1+2: The mixture (9.1
+mg) was treated with CH2N2 in the usual manner to yield 5-
+hydroxy-3,6,7,3',4'-pentamethoxy-8C-methylflavone (3,
+9.2 mg). 1H NMR (300 MHz, CDCl3): δH 12.58 (s, HO-5),
+7.79 (dd, J 2.0, 8.5 Hz, H-6’), 7.77 (d, J 2.0, H-2’), 7.02 (d,
+J 8.5 Hz, H-5’), 3.88 (s, MeO), 3.93 (s, MeO), 3.97 (s, MeO),
+3.98 (s, MeO), 4.01 (s, MeO). 13C NMR (75 MHz, CDCl3):
+δC 151.49(C-2), 138.72 (C-3), 179.54 (C-4), 155.93 (C-5),
+136.35 (C-6), 157.30 (C-7), 108.28 (C-8), 151.49 (C-9),
+108.88 (C-10), 123.34 (C-1’), 111.14 (C-2’), 148.89 (C-
+3’), 149.49 (C-4’), 110.94 (C-5’), 122.14 (C-6’), 60.21
+(MeO-3), 60.90 and 61.29 (MeO-6 and MeO-7), 56.08 and
+56.03 (MeO-3’ and MeO-4’); ESI/MS/MS: 10 eV m/z (rel.
+int.): 403 (100%, [M + H]+); 30 eV: 387 (64, [M + H]+ -
+CH4), 373 (100, [M + H]+ - CH2O), 345 (88, [M + H]+ -
+CH2O - CO), 40 eV: 165 (79, [C7H5O3] +).
+Acknowledgements
+We would like to thank the Fundação de Amparo à
+Pesquisa do Estado do Rio de Janeiro (FAPERJ, Brazil),
+Conselho Nacional de Desenvolvimento Científico e
+Tecnológico (CNPq, Brazil), Fundação Universitária José
+Bonifácio (FUJB, UFRJ) and PRONEX (Grant 4002) for
+financial support. Thanks are due to CAPES and FAPESP.
+Demian R. Ifa is supported by Fundação de Amparo à
+Pesquisa do Estado de São Paulo (FAPESP, Brazil). The
+authors also wish to acknowledge Prof. Nanuza L. de
+Menezes for plant identification.
+References
+1. Harborne, J. B.; Greenham, J.; Williams, C.; Eagles, J.;
+Markham, K. R.; Phytochemistry 1992, 31, 305.
+2. Greenham, J.; Williams, C.; Harborne, J. B.; Phytochem. Anal.
+1995, 6, 211.
+3. Branco, A.; Pereira, A. P.; Cardoso, J. N.; Aquino Neto, F. R.;
+Pinto, A. C.; Braz Filho, R.; Phytochem. Anal. 2001, 12, 266.
+4. Pinto, A. C.; Garcez, W. S.; Ficara, M. L. G.; Vasconcelo, T. C.;
+Pereira, A. L.; Gomes, L. N. L. F.; Frechiani, M. C.; Patitucci,
+M. L.; An. Acad. Brasil. Ciênc. 1982, 103.
+5. Pinto, A. C.; Scofield, T. C. V.; Braz Filho, R.; Tetrahedron
+Lett. 1983, 24, 5043.
+6. Pinto, A. C.; Gonçalves, M. L. A.; Braz Filho, R.; Neszmelyi,
+A.; Luckacs, G. J.; J. Chem. Soc., Chem. Commun. 1982, 293.
+7. Valente, L. M. M.; Gunatilaka, L.; Kingston, D. G. I.; Patitucci,
+M. L.; Pinto, A. C.; J. Nat. Prod. 1997, 60, 478.
+8. Branco, A.; Braz Filho, R.; Kaiser, C. R.; Pinto, A. C.; Phy-
+tochemistry 1998, 47, 471.
+323Two 8C-methylated Flavonols from the Leaves of Vellozia candida Mikan (Velloziaceae)Vol. 13, No. 3, 2002
+9. Ma, Y. L.; Heuvel, H. V.; Claeys, M.; Rapid Commun. Mass
+Spectrom. 1999, 13, 1932.
+10. Stevens, J. F.; Wollenweber, E.; Ivancic, M.; Hsu, V. L.;
+Sundberg, S.; Deinzer, M. L.; Phytochemistry 1999, 51, 771.
+11. Williams, C. A.; Harborne, J. B.; Greenham, J.; Eagles, J.;
+Phytochemistry 1994, 36, 931.
+12. Pinto, A. C.; Simoni, M. L. P. S. C.; Cunha, M. P. S. C.; Coelho,
+R. B.; Patitucci, M. L.; Lago, R. C. A.; Quím. Nova 1994, 17,
+333.
+Received: August 29, 2001
+Published on the web: May 9, 2002
+FAPESP helped in meeting the publication costs of this article.

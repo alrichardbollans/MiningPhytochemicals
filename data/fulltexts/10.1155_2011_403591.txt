@@ -1,0 +1,902 @@
+Hindawi Publishing Corporation
+Evidence-Based Complementary and Alternative Medicine
+Volume 2011, Article ID 403591, 7 pages
+doi:10.1155/2011/403591
+Research Article
+SelectiveInteractionsof Valerianaofficinalis
+Extracts and ValerenicAcid with [3H]Glutamate Binding to
+RatSynapticMembranes
+LisaM.DelValle-Mojica,1 Yoshira M.Ayala-Mar´ ın,2 Carmen M. Ortiz-Sanchez,3
+Bianca A. Torres-Hern´ andez,1 SafaAbdalla-Mukhaimer,1 and Jos´ eG.O rtiz 1
+1Department of Pharmacology and Toxicology, School of Medicine, University of Puerto Rico-Medical Sciences Campus,
+P.O. Box 365067, San Juan 00936-5067, Puerto Rico
+2Department of Biology, Natural Sciences Faculty, University of Puerto Rico Humacao Campus, Humacao 00791-4300, Puerto Rico
+3Department of Chemistry, Natural Sciences Faculty, University of Puerto Rico Cayey Campus, Cayey 00736-9997, Puerto Rico
+Correspondence should be addressed to Lisa M. Del Valle-Mojica, lisadelvalle@yahoo.com
+Received 29 October 2010; Accepted 12 February 2011
+Copyright © 2011 Lisa M. Del Valle-Mojica et al. This is an open access article distributed under the Creative Commons
+Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+Although GABA neurotransmission has been suggested as a mechanism for Valeriana oﬃcinalis eﬀects, CNS depression can also
+be evoked by inhibition of ionotropic (iGluR) and metabotropic glutamate receptors (mGluR). In this study, we examined if
+aqueous valerian extract interacted with glutamatergic receptors. Freshly prepared aqueous valerian extract was incubated with
+rat cortical synaptic membranes in presence of 20nM [3H]Glutamate. Aqueous valerian extract increased [3H]Glutamate binding
+from 1 × 10
+−7 to 1 × 10
+−3 mg/mL. In the presence of (2S,1 S,2 S)-2-(Carboxycyclopropyl)glycine (LCCG-I) and (2S,2 R,3 R)-
+2-(2 ,3 -Dicarboxycyclopropyl)glycine (DCG-IV), Group II mGluR agents, valerian extract markedly decreased [3H]Glutamate
+binding, while (2S)-2-amino-3-(3,5-dioxo-1,2,4-oxadiazolidin-2-yl) propanoic acid) (quisqualic acid, QA), Group I mGluR
+agonist, increased [3H]Glutamate binding. At 0.05mg/mL aqueous valerian extract speciﬁcally interacted with kainic acid NMDA
+and AMPA receptors. Valerenic acid, a marker compound for Valeriana oﬃcinalis, increased the [3H]Glutamate binding after
+1.6 ×10
+−2 mg/mL, and at 0.008mg/mL it interacted only with QA (Group I mGluR). The selective interactions of valerian extract
+and valerenic acid with Group I and Group II mGluR may represent an alternative explanation for the anxiolytic properties of this
+plant.
+1.Introduction
+Valeriana oﬃcinalis L., s.l. (Valerianaceae family) is a medic-
+inal plant used in complementary and alternative medicine
+for its sedative and anxiolytic properties [1, 2]. Valerian’s
+eﬀects on the central nervous system have been well doc-
+umented and attributed to many of it active compounds:
+valepotriates, baldrinals, valerenic acid, valerenal and valer-
+anone, and other constituents in the essential oils [1, 3–8].
+Albeittheanxiolyticpropertiesofvalerianhavebeendemon-
+s t r a t e di na n i m a l s[ 9, 10], there are no suﬃcient studies
+in humans [6]. Consequently, the therapeutic properties of
+Valeriana oﬃcinalis have yet to be conclusively demonstrated
+[6, 9, 11].
+“Anxiety and stress-related diseases are a group of
+disorders that have in common excessive or inappropriate
+brain excitability within crucial brain circuits” [12]. The
+actions of glutamate, the major excitatory neurotransmitter,
+are mediated by two types of receptors: (1) ionotropic
+receptors (iGluR): NMDA, AMPA, and kainate receptors and
+(2) metabotropic receptors (mGluR) which are comprised
+of three groups (I, II, and III). Decreasing excitatory
+neurotransmission in the CNS by modulating glutamate
+r e c e p t o r si sa na l t e r n a t i v ea p p r o a c ht op r o d u c ea n x i o l y s i s
+and sedation.
+The present study investigated the interaction of Vale-
+riana oﬃcinalis aqueous extract with the glutamatergic
+receptors. We also examined the interaction of valerenic acid2 Evidence-Based Complementary and Alternative Medicine
+and isoborneol, two constituents present in the extracts.
+To accomplish this objective, receptor-binding assays were
+performedusingratcorticalsynapticmembranesinthepres-
+ence of fresh valerian extracts and both types of glutamate
+receptor ligands.
+2.MaterialsandMethods
+2.1. Chemicals. Valerenic acid (99.7% purity-Lot no. 22150-
+1800) and isoborneol (96.6% purity-Lot no. 09195-102)
+were purchased from Chromadex, Irvine, CA. L-[3,4-
+3H]-Glutamic acid (49.9Ci/mmol) was obtained from
+PerkinElmer Life and Analytical Sciences, Inc. (Shelton, CT).
+AMPA (RS)-a-Amino-3-hydroxy-5-methyl-4-isoxazolepro-
+pionic acid), NMDA (N-methyl-D-aspartic acid), kainic
+acid, quisqualic acid (2S)-2-amino-3-(3,5-dioxo-1,2,4-oxa-
+diazo lidin-2-yl) propanoic acid), LCCG-I (2S,1 S,2 S)-2-
+(Carboxycyclopropyl)glycine, EGLU ((2S)-a-Ethylglutamic
+acid), spaglumic acid (N-Acetyl-L-aspartyl-L-glutamic acid)
+and L-AP4 (L-(+)-2-Amino-4-phosphonobutyric acid) were
+obtained from Tocris Bioscience (Ellisville, MO). UniverSol
+ES was obtained from MP Biomedicals (Solon, OH). All
+other reagents were obtained from Sigma-Aldrich Co. (St.
+Louis, MO).
+2.2. Valerian Extracts. Valeriana oﬃcinalis L., s.l. dry pow-
+dered roots (Lot. 1111H-OUP), harvested in 2004 and
+organically grown/certiﬁed, were obtained from Paciﬁc
+Botanicals (LLC Grants Pass, Oregon). Valerian was
+extracted in ultra pure water, typically (1:10w/v) at ∼23◦C
+and stirred for 1 hour. Aliquots were centrifuged at 6,700g to
+remove particulates.
+2.3. Valerenic Acid. A1 0 m Ms t o c ks o l u t i o nw a sp r e p a r e d
+using EtOH 95%. The dilutions used for the assays were
+freshly prepared with 50mmTris-HCl/100mM KCl buﬀer
+before each experiment.
+2.4. Isoborneol. A 65 mM stock solution was prepared using
+EtOH 95%. The dilutions used for the assays were freshly
+prepared with EtOH 70% before each experiment.
+2.5. Cerebral Cortex Synaptic Membranes. Cerebral cortex
+synaptic membranes were purchased from Analytical Bio-
+logical Services, Inc. (Wilmington, DE). They report that
+these were prepared as follows: female rats of approxi-
+mately two months of age were decapitated and the brain
+promptly removed. The cortex was dissected and homog-
+enized (1:10w/v) in ice-cold 10mM TRIS-HCl buﬀer pH
+7.4. The homogenate was centrifuged twice at 2,500g for
+10min.Theresultingsupernatantwascentrifugedat12,500g
+for 20min. The pellet was washed twice with ice-cold 10mM
+TRIS-HCl buﬀer pH 7.4 (1:10w/v) and centrifuged at
+12,500g for 20min. The pellet (synaptical membrane, P2)
+was resuspended in 10mM TRIS-HCl buﬀer pH 7.4 and
+freezethawedatleastthreetimesbeforebeenstoredat −80◦C
+until used. Protein concentration was determined using the
+−9 −8 −7 −6 −5 −4 −3 −2 −10 1 2
+log (mg/mL)
+0
+50
+100
+150
+200
+Valerian
+Valerenic acid
+Isoborneol
+[3H]Glutamate displacement curves
+[
+3
+H
+]
+G
+l
+u
+t
+a
+m
+a
+t
+e
+b
+o
+u
+n
+d
+(
+%
+A
+V
+G
+3
+±
+S
+E
+M
+)
+Figure1:Eﬀectsofdiﬀerentvalerian,valerenicacid,andisoborneol
+concentrations on [3H]Glutamate binding. Synaptic membranes
+were incubated with diﬀerent concentrations of aqueous valerian
+extract, valerenic acid, and isoborneol in presence of 20nM
+[3H]Glutamate. The maximum glutamate binding was 160% for
+valerian extract concentration of 0.001mg/mL. The [3H]Glutamate
+displacement curves in presence of valerenic acid and isoborneol
+were very diﬀerent from the curve in presence of valerian. Each
+point represents at least three independent assays.
+Bradford assay [13] using bovine serum albumin (BSA) as
+reference standard.
+2.6. [3H]Glutamate Binding. Receptor-binding competition
+assays were done using cerebral cortex synaptic membranes
+from Analytical Biological Services, Inc. (Wilmington, DE).
+The reaction was initiated by the addition of tissue (100μg
+protein) to tubes containing 1mM of diﬀerent iGluR and
+m G l u Rl i g a n d sa n d2 0 n M[ 3H]Glutamic acid in a ﬁnal
+volume of 500μLo f5 0m MT ri sH C l / 1 0 0m MK C lb uﬀer, pH
+7.4. The nonspeciﬁc binding was determined in the presence
+of 1mM nonradioactive glutamate. All samples were incu-
+bated on ice (0–4◦C) for 40 minutes. The assay was stopped
+by centrifugation for 30min at 6,700g; the supernatant was
+extracted, and the pellet was washed two times with 1mL
+of ice-cold buﬀer. The pellet was resuspended in 500μlo f
+buﬀer. Radioactivity of the samples was quantiﬁed in a
+Beckman LS 6500 Multipurpose Scintillation Counter with
+1mLofUniverSolESscintillationcocktail.Resultsareshown
+as percentage of total binding (SEM).
+2.7. [3H]Glutamate Displacement Curves. Diﬀerent con-
+centrations of freshly prepared aqueous valerian extracts
+(4pg/mL–12mg/mL), valerenic acid (30ng/mL–2mg/mL),
+and Isoborneol (5ng/mL–2mg/mL) were incubated with rat
+cortical membranes in presence of 20nM [3H]Glutamate.
+2.8. Statistical Analysis. Data were expressed as mean val-
+ues±the standard error of the mean (SEM) of at least
+three experiments. The diﬀerences between the experimentalEvidence-Based Complementary and Alternative Medicine 3
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+Controls
+Isoborneol
+Iso 1mg/mL
+Iso 0.0008mg/mL
+EtOH NS Total NMDA AMPA KA
+B
+o
+u
+n
+d
+(
+A
+V
+G
+±
+S
+E
+M
+)
+(
+%
+)
+Valerenic acid
+EtOH
+VA (0.008mg/mL)
+Controls
+NS Total NMDA AMPA KA
+0
+25
+50
+75
+100
+125
+B
+o
+u
+n
+d
+(
+A
+V
+G
+±
+S
+E
+M
+)
+(
+%
+)
+NS Total NMDA AMPA KA NS Total NMDA AMPA KA
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+Controls
+Valerian
++
++
+B
+o
+u
+n
+d
+(
+A
+V
+G
+±
+S
+E
+M
+)
+(
+%
+)
++ Val (0.05mg/mL)
++ Val (10mg/mL)
+Ionotropic glutamate receptor interactions
++++
++++
++++
++++
++++
+(a) (b)
+(c)
+Figure 2: Eﬀects of valerian extracts, valerenic acid, and isoborneol on ionotropic glutamate receptors (iGluR). (a) Valerian extract at
+0.05mg/ml in presence of 1mM kainic acid (KA) decreased the glutamate binding signiﬁcantly. This eﬀect was not seen with NMDA or
+AMPA. High concentrations of valerian extract (10mg/ml) in presence of NMDA (1mM) signiﬁcantly decreased the glutamate binding.
+Neither AMPA nor KA in presence of higher valerian extract concentrations aﬀected the binding. (b) Valerenic acid at 0.008mg/mL, in
+presence of 1mM NMDA, kainic acid (KA) and AMPA, did not aﬀect the glutamate binding. (c) Isoborneol at 0.0008mg/mL, in presence
+of 1mM NMDA, signiﬁcantly decreased the glutamate binding. At higher concentration (1mg/mL), isoborneol markedly decreased the
+glutamate binding in presence of AMPA and KA. +agonist versus agonist+(valerian, valerenic acid, or isoborneol), P<. 05; ++P<. 01; +++P<
+.001.
+groups were tested for signiﬁcance using one way analysis
+of variance followed by Tukey-Kramer multiple comparisons
+test,withP<. 05.Statisticsfortheexperimentalgroupversus
+total binding were not shown for clarity.
+3. Results
+3.1. [3H]Glutamate Displacement Curves for Valerian and
+Its Constituents. The eﬀect of diﬀerent valerian extract
+concentrations, valerenic acid and isoborneol in presence of
+[3H]Glutamate were dose dependent, as shown in Figure 1.
+Valerianincreased[3H]Glutamatebindingfrom8×10
+−7–1×
+10
+−1mg/mL reaching a maximum binding of 160% at 1 ×
+10
+−3mg/mL. At higher valerian concentrations, greater than
+1×10
+−3mg/mL, there is a sudden decrease in [3H]Glutamate
+binding, reaching 50% at 12mg/mL. In contrast, valerenic
+acid and isoborneol increased [3H]Glutamate binding at
+higher concentrations (1.6 ×10
+−2 to 2mg/mL).
+3.2. In Vitro Receptor Selectivity Studies. Having shown
+that Valeriana oﬃcinalis and it constituents interacted with
+[3H]Glutamate binding, we examined the type of gluta-
+matergic receptor involved. For this purpose, binding assays
+were done in presence of diﬀerent types of ionotropic
+(iGluR) and metabotropic glutamate receptor (mGluR)
+ligands.Figure 2(a)showsthatValerianextractat0.05mg/ml
+increased [3H]Glutamate binding by 81%. A decrease (21%)
+in [3H]Glutamate binding is observed with KA (1mM)
+but not with NMDA or AMPA. In the presence of NMDA
+(1mM), higher valerian extract concentration (10mg/mL)4 Evidence-Based Complementary and Alternative Medicine
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+B
+o
+u
+n
+d
+(
+A
+V
+G
++
+S
+E
+M
+)
+(
+%
+)
+NS Total QA
+I
+LCCG
+II
+L-AP4
+III
+Controls
+Valerian
++++
++++ +
+0
+25
+50
+75
+100
+125
+B
+o
+u
+n
+d
+(
+A
+V
+G
+±
+S
+E
+M
+)
+(
+%
+)
+Controls
+VAl (0.001mg/mL)
+NS Total H2O DCG-IV EGLU
++ Val (0.05mg/mL)
++ Val (10mg/mL)
+0
+25
+50
+75
+100
+125
+B
+o
+u
+n
+d
+(
+A
+V
+G
++
+S
+E
+M
+)
+(
+%
+)
+E
+t
+O
+H
++V A( 0 .008mg/mL)
+Controls
++
+Q
+A
+D
+C
+G
+-
+I
+V
+L
+C
+C
+G
+E
+G
+L
+U
+N
+S
+T
+o
+t
+a
+l
+Valerenic acid
+L
+-
+A
+P
+4
+0
+25
+50
+75
+100
+125
+150
+175
+200
+225
+B
+o
+u
+n
+d
+(
+A
+V
+G
++
+S
+E
+M
+)
+(
+%
+)
+Controls
+Isoborneol
+Iso 1mg/mL
+Iso 0.0008mg/mL
++
+S
+P
+A
+L
+C
+C
+G
+-
+I
+D
+C
+G
+-
+I
+V
+E
+G
+L
+U
+E
+t
+O
+H
+Q
+A
+N
+S
+T
+o
+t
+a
+l
++++
++++
++++
++++ +++
++++
+++
+++
+++
+L
+-
+A
+P
+4
++++
+++
++
+Metabotropic glutamate receptor interactions
+(a) (b)
+(c)
+Figure 3: Interactions of valerian extracts, valerenic acid, and isoborneol on metabotropic glutamate receptors (mGluR). (a) At lower
+concentrations of valerian extract (0.05mg/mL) in presence of LCCG-I, a Group II metabotropic glutamate receptor agonist, there was
+a marked decrease in the binding. This eﬀect was not seen with QA and L-AP4. Valerian extracts at 10mg/mL, in presence of both QA
+and LCCG-I, signiﬁcantly decreased the glutamate binding. ((a)-Insert) A marked decrease in the [3H]Glutamate binding was observed
+when valerian extracts (0.001mg/mL) were in the presence of DCG-IV and EGLU, a Group II metabotropic glutamate receptor agonist
+and antagonist, respectively. (b) Valerenic acid concentration at 0.008mg/mL, in the presence of QA, a Group I metabotropic glutamate
+receptor agonist, produced a signiﬁcant increase in the binding. No eﬀects were observed in presence of DCG-IV, LCCG-I, EGLU, and L-
+AP4. (c) Isoborneol, at 0.0008 and 1mg/mL increased [3H]Glutamate binding by 49% and 64%, respectively. Isoborneol in the presence of
+mGluRligands,indiscriminatelyinteractedwithallofthem.At0.0008mg/mL,isoborneolinteractedwithQAandmarkedlydecreased(14%)
+[3H]Glutamate binding. In addition, isoborneol interacted with all the mGluR agonists (LCCG-I, DCG-IV, and spaglumic) and antagonist
+(EGLU). Isoborneol also strongly interacted with L-AP4 at both concentrations (0.0008mg/mL and 1mg/mL) and resulted in an increased
+[3H]Glutamate binding (37% and 46%, resp.). + agonist versus agonist +(valerian, valerenic acid, or isoborneol), P<. 05; ++P<. 01; +++P<
+.001.
+increased the [3H]Glutamate binding signiﬁcantly (20%).
+Valerian (10mg/mL) did not interact with AMPA or KA.
+The same assay was performed with 0.008mg/mL of
+valerenic acid, and it showed (Figure 2(b)) that valerenic
+acid decreased the [3H]Glutamate binding more than 40%.
+However, valerenic acid did not change the eﬀects of iGluR
+ligands on [3H]Glutamate binding. In contrast, Figure 2(c)
+shows that isoborneol (0.0008mg/mL) only interacted with
+NMDA. At higher concentrations (1mg/mL) isoborneol
+interacted with AMPA and KA.
+As shown in Figure 3(a), valerian extract (0.05mg/mL)
+increased [3H]Glutamate binding by 81%, while at 10
+mg/mL, it decreased the binding by 28%. Valerian extract
+(0.05mg/mL) in presence of LCCG-I, a Group II meta-
+botropic glutamate receptor agonist, decreased (19%)
+[3H]Glutamate binding. This eﬀect was not observed withEvidence-Based Complementary and Alternative Medicine 5
+QA or L-AP4. In contrast, at 10mg/mL, the valerian extract,
+in presence of QA, increased the glutamate binding (28%),
+while in presence of LCCG-I, it decreased [3H]Glutamate
+binding by 16%. A detailed evaluation of Group II mGluR-
+Valerianinteraction(Figure 3(a)-Insert)conﬁrmedamarked
+decrease in the [3H]Glutamate binding when valerian
+extracts (0.001mg/mL) were in presence of DCG-IV (28%)
+and EGLU (38%), a highly selective Group II metabotropic
+glutamate receptor agonist and antagonist, respectively.
+In presence of QA, valerenic acid (0.008mg/mL) sig-
+niﬁcantly increased the [3H]Glutamate binding by 54%
+as shown in Figure 3(b). Similarly, isoborneol at 0.0008
+and 1mg/mL increased [3H]Glutamate binding by 49%
+and 64%, respectively (Figure 3(c)). Interestingly, isoborneol
+indiscriminately interacted with all the mGluR ligands,
+and at 0.0008mg/mL, isoborneol interacted with QA and
+markedly decreased (14%) [3H]Glutamate binding. In addi-
+tion, isoborneol interacted with all the mGluR agonists
+(LCCG-I, DCG-IV and spaglumic) and antagonist (EGLU).
+Isoborneol also strongly interacted with L-AP4 at both
+concentrations(0.0008mg/mLand1mg/mL)andresultedin
+an increased [3H]Glutamate binding (37% and 46%, resp.).
+4. Discussion
+Among 150 potentially active phytochemicals, constituents
+identiﬁed in the Valerian’s roots are (1) iridoid valepotriates
+(0.5%–2.0%): valtrate, isovaltrate, didrovaltrate, acevaltrate
+and others and (2) volatile essential oil (0.2%–2.8%) divided
+in (a) monoterpenes: borneol and bornyl acetate and (b)
+sesquiterpenes: valerenic, valeric, isovaleric and acetoxy-
+valerenic acids: valerenal, valeranone, and kessyl glycol [14,
+15]. Some sesquiterpenes, such valerenic acid, inﬂuence
+serotonin and noradrenaline levels, reduce locomotion, and
+anxiety, and increase pentobarbital sleeping time of mice
+[16, 17]. Similarly, other constituents, such as valepotri-
+ates potentiate hexobarbital anesthesia, suppress aggression,
+have anticonvulsant eﬀects against pentylenetetrazole- and
+strychnine-induced seizures, increase thiopental sleeping
+time, reduce motility, and have dose-dependent sedative
+eﬀects [17–19]. In addition, valepotriates and their decom-
+position products, baldrinals and homobaldrinals, reduced
+the total HAM-A (Hamilton anxiety scale) in a small clinical
+trial [20] and increased the time spent in open arms when
+elevatedplusmazetestwasperformedinrats[19].Therefore,
+itismostlikelythatvalerian’spharmacologicalpropertiesare
+due to the additive eﬀects of multiple active constituents and
+not one alone [21].
+Most of the Valerian eﬀects described above are con-
+sistent with the enhancement of GABAa-mediated trans-
+mission [7, 22–24]. Cavadas and colleagues showed that
+valerian extracts bind to GABAa receptors [4], while other
+researchers found that valerian is a partial agonist of
+the 5-HT(5a) receptor [8] and promotes cell proliferation
+in the hippocampus of “depressive” rats [25]. Moreover,
+recent studies suggest that diﬀerent components within the
+valerianextractmediatetheactivationofadenosinereceptors
+[26, 27]. Indeed, many studies have been done to determine
+the interaction of valerian with diﬀerent receptors, but none
+of them examined valerian-glutamate receptor interaction.
+Our [3H]Glutamate displacement curve in presence
+of Valeriana oﬃcinalis demonstrated that valerian extracts
+increase glutamate binding from 8×10
+−7 to 1×10
+−1 mg/mL
+reaching a maximum 3[H]Glutamate binding at 1 ×
+10
+−3mg/mL (160%). Therefore, at these physiological
+attainableconcentrations(8×10
+−7–1×10
+−1mg/mL)valerian
+potentiates 3[H]Glutamate binding. In contrast, diﬀerent
+ﬁndings were obtained for valerenic acid and isoborneol.
+The [3H]Glutamate displacement curves and the receptor
+selectivity obtained for valerian and its constituents, for
+instance, are very diﬀerent from each other, suggesting that
+these constituents are not the compounds responsible for the
+increase in 3[H]Glutamate binding observed with valerian.
+The glutamatergic system plays an important role in
+anxiety pathogenesis [28]. It is suggested that the physio-
+logical and behavioral responses associated with anxiety are
+regulated by a balance between the inhibition produced by
+GABA and the excitation caused by glutamate. Treatments
+used to decrease excitability in neurons from the amyg-
+dala are achieved by increasing GABA neurotransmission.
+Alternatively, treatments to decrease the excitability can be
+obtained by decreasing the excitatory glutamatergic trans-
+mission. Therefore, decreasing excitatory neurotransmission
+intheCNS,bymodulatingtheresponseproducedbytheglu-
+tamatergic receptors, is an alternative approach to produce
+anxiolysis and sedation. The glutamate receptors found in
+the amygdala produce excitatory and inhibitory actions, and
+the degree of ionotropic and metabotropic activation is an
+important factor to determine the amygdala cell excitability.
+Thus, the modulation of glutamate actions mediated by
+iGluR and mGluR represent a feasible alternative to treat
+anxiety states [12, 29].
+Compounds that decrease glutamatergic transmission
+via blockade of NMDA have been reported to produce
+anxiolytic and antidepressant like actions in animal tests
+and models [30, 31]. Our group demonstrated that vale-
+rian extract had modest inhibitory eﬀects on [3H]MK-801
+binding, an indicator of NMDA-valerian interaction [32].
+In 2004, Malva and colleagues reported that by decreasing
+neuronal network excitability through AMPA permeable
+Ca2+ receptors, valerian preparations could contribute to
+neuroprotection and may be of therapeutic use in preventing
+glutamate-mediated degeneration related to aging or neu-
+rodegenerative disorders [33]. Now, our study conﬁrms that
+in the presence of iGluR agonists, valerian extracts interact
+with KA and NMDA (0.05mg/mL and 10mg/mL, resp.).
+While isoborneol exhibited signiﬁcant interactions with all
+iGluR, valerenic acid did not interact with iGluR agonists.
+Manystudiessuggestthatmetabotropicglutamaterecep-
+tors are involved in anxiety [12, 34–36]. For this reason,
+we performed receptor-binding assays with valerian extracts
+in presence of diﬀerent types of metabotropic glutamate
+receptors. In this study, we demonstrated that valerian
+extracts, in presence of mGluR ligands, exhibited signiﬁcant
+interaction with QA (Group I mGluR) and LCCG-I (Group
+II mGluR). Valerenic acid selectively interacts with QA.
+However, isoborneol interacts with all mGluR receptors. Our6 Evidence-Based Complementary and Alternative Medicine
+results clearly demonstrated that Valeriana oﬃicinalis and
+it constituents (valerenic acid and isoborneol) interact with
+Group I and II mGluR, which supports previous studies
+showingtheroleofGroupIandIImGluRinanxiety[35,37].
+The pharmacological eﬀects of Valeriana oﬃcinalis
+extracts in [3H]Glutamate binding are not conventional and
+easy to understand. They could reﬂect complex interactions
+(agonist/antagonist) or synergism occurring in the com-
+plex mixture of phytochemical constituents. The biphasic
+[3H]Glutamate displacement curve obtained in presence
+of valerian represents an example of the interactions that
+occur in an extract which could not be evident when single
+constituents are studied in isolation. This study exclusively
+used receptor-binding assays to determine ligand-receptor
+interactions, but functionalities studies are being conducted
+to characterize them.
+Ourresultsconﬁrmthehypothesisofvalerianinteraction
+with the glutamatergic receptors, suggesting a possible
+mechanism by which valerian extracts produce their eﬀects.
+Val-mGluR interactions may represent a novel alternative for
+the treatment of anxiety. Further studies with fractions of
+valerian extract should be done to evaluate the interactions
+betweenagroupofcompoundsandtheireﬀectsonreceptor-
+binding selectivity.
+Abbreviations
+AMPA: (α-amino-3-hydroxyl-5-
+methylisoxazole-4-propionic
+acid)
+CAM: Complementary alternative medicine
+CNS: Central nervous system
+DCG-IV: (2S,2 R,3 R)-2-(2 ,3 -
+Dicarboxycyclopropyl)glycine
+EGLU: (2S)-a-Ethylglutamic acid)
+Group II mGluR: Metabotropic glutamate receptors
+(2/3)
+Group I mGluR: Metabotropic glutamate receptor
+(1/5)
+iGluR: Ionotropic glutamate receptor
+KA: Kainic acid
+L-AP4: L-(+)-2-Amino-4-phosphonobutyric
+acid
+LCCG-I: (2S,1 S,2 S)-2-
+(Carboxycyclopropyl)glycine
+mGluR: Metabotropic glutamate receptor
+NCCAM: National Center of Complementary
+Alternative Medicine
+NMDA: N-methyl-D-aspartic acid
+QA: quisqualic acid: (2S)-2-amino-3-
+(3,5-dioxo-1,2,4-oxadiazolidin-2-yl)
+propanoic acid)
+Spaglumic acid: (N-Acetyl-L-aspartyl-L-glutamic
+acid).
+Acknowledgments
+This work was supported in part by the Research Centers for
+Minority Institution (RCMI/NIH Grant no. G12 RR03051),
+InstitutionalMinorityBiomedicalResearchSupport(MBRS-
+RISE) Program at the University of Puerto Rico, Medical
+Sciences Campus (Grant no. 2 R25 GM061838-05) and
+Humacao Campus (Grant no. 1 R25 GM 075348-01A1). The
+authors would like to thank Veronika Butterweck, Ph.D., and
+PhilipC.Specht,Ph.D.,fortheirhelpwiththerevisionofthis
+paper.
+References
+[1] P. J. Houghton, “The scientiﬁc basis for the reputed activity of
+valerian,” Journal of Pharmacy and Pharmacology, vol. 51, no.
+5, pp. 505–512, 1999.
+[2] P. J. Houghton, “The biological activity of valerian and related
+plants,” Journal of Ethnopharmacology, vol. 22, no. 2, pp. 121–
+142, 1988.
+[3] P.D.LeathwoodandF.Chauﬀard,“Aqueousextractofvalerian
+reduces latency to fall asleep in man,” Planta Medica,n o .2 ,p p .
+144–148, 1985.
+[4] C. Cavadas, I. Araujo, M. D. Cotrim et al., “In vitro study
+on the interaction of Valeriana oﬃcinalis L. extracts and their
+amino acids on GABA(A) receptor in rat brain,” Arzneimittel-
+Forschung, vol. 45, no. 7, pp. 753–755, 1995.
+[5] S. Bent, A. Padula, D. Moore, M. Patterson, and W. Mehling,
+“Valerian for sleep: a systematic review and meta-analysis,”
+American Journal of Medicine, vol. 119, no. 12, pp. 1005–1012,
+2006.
+[6] L. S. Miyasaka, A. N. Atallah, and B. G. Soares, “Valerian for
+anxiety disorders,” Cochrane Database of Systematic Reviews,
+no. 4, Article ID CD004515, 2006.
+[7] S. Khom, I. Baburin, E. Timin et al., “Valerenic acid potenti-
+ates and inhibits GABA receptors: molecular mechanism and
+subunit speciﬁcity,” Neuropharmacology, vol. 53, no. 1, pp.
+178–187, 2007.
+[ 8 ]B .M .D i e t z ,G .B .M a h a d y ,G .F .P a u l i ,a n dN .R .F a r n s w o r t h ,
+“Valerian extract and valerenic acid are partial agonists of the
+5-HT5a receptor in vitro,” Molecular Brain Research, vol. 138,
+no. 2, pp. 191–197, 2005.
+[ 9 ]M .H a t t e s o h l ,B .F e i s t e l ,H .S i e v e r s ,R .L e h n f e l d ,M .H e g g e r ,
+and H. Winterhoﬀ,“ E x t r a c t so fV a l e r i a n ao ﬃcinalis L. s.l.
+show anxiolytic and antidepressant eﬀects but neither sedative
+nor myorelaxant properties,” Phytomedicine,v o l .1 5 ,n o .1 - 2 ,
+pp. 2–15, 2008.
+[10] K. Murphy, Z. J. Kubin, J. N. Shepherd, and R. H. Ettinger,
+“Valeriana oﬃcinalis root extracts have potent anxiolytic
+eﬀects in laboratory rats,” Phytomedicine,v o l .1 7 ,n o .8 - 9 ,p p .
+674–678, 2010.
+[11] A. Diaper and I. Hindmarch, “A double-blind, placebo-
+controlledinvestigationoftheeﬀectsoftwodosesofavalerian
+preparation on the sleep, cognitive and psychomotor function
+of sleep-disturbed older adults,” Phytotherapy Research, vol.
+18, no. 10, pp. 831–836, 2004.
+[12] C. J. Swanson, M. Bures, M. P. Johnson, A. M. Linden, J. A.
+Monn, and D. D. Schoepp, “Metabotropic glutamate receptors
+as novel targets for anxiety and stress disorders,” Nature
+Reviews Drug Discovery, vol. 4, no. 2, pp. 131–144, 2005.
+[13] M. M. Bradford, “A rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing the
+principle of protein dye binding,” Analytical Biochemistry, vol.
+72, no. 1-2, pp. 248–254, 1976.
+[14] J. Bruneton, Ed., Pharmacognosy: Phytochemistry, Medicinal
+Plants, Lavoisier, London, UK, 2nd edition, 1999.Evidence-Based Complementary and Alternative Medicine 7
+[15] M.M ar der ,H.V iola,C.W aso wski,S.F ern´ andez,J.H.Medina,
+and A. C. Paladini, “6-Methylapigenin and hesperidin: New
+valeriana ﬂavonoids with activity on the CNS,” Pharmacology
+Biochemistry and Behavior, vol. 75, no. 3, pp. 537–545, 2003.
+[16] D. Benke, A. Barberis, S. Kopp et al., “GABA receptors as in
+vivo substrate for the anxiolytic action of valerenic acid, a
+major constituent of valerian root extracts,” Neuropharmacol-
+ogy, vol. 56, no. 1, pp. 174–181, 2009.
+[17] H. Hendriks, R. Bos, and D. P. Allersma, “Pharmacological
+screening of valerenal andsome othercomponents ofessential
+oil of Valeriana oﬃcinalis,” Planta Medica,v o l .4 2 ,n o .1 ,p p .
+62–68, 1981.
+[18] J. Leuschner, J. Muller, and M. Rudmann, “Characterisation
+of the central nervous depressant activity of a commercially
+available valerian root extract,” Arzneimittel-Forschung, vol.
+43, no. 6, pp. 638–641, 1993.
+[19] R. Andreatini and J. R. Leite, “Eﬀect of valepotriates on the
+behavior of rats in the elevated plus-maze during diazepam
+withdrawal,” European Journal of Pharmacology, vol. 260, no.
+2-3, pp. 233–235, 1994.
+[20] R. Andreatini, V. A. Sartori, M. L. V. Seabra, and J. R. Leite,
+“Eﬀect of valepotriates (valerian extract) in generalized anx-
+iety disorder: a randomized placebo-controlled pilot study,”
+Phytotherapy Research, vol. 16, no. 7, pp. 650–654, 2002.
+[21] M. Spinella, “The importance of pharmacological synergy in
+psychoactive herbal medicines,” Alternative Medicine Review,
+vol. 7, no. 2, pp. 130–137, 2002.
+[22] M. S. Santos, F. Ferreira, A. P. Cunha, A. P. Carvalho, and
+T. Macedo, “An aqueous extract of valerian inﬂuences the
+transport of GABA in synaptosomes,” Planta Medica, vol. 60,
+no. 3, pp. 278–279, 1994.
+[23] M. S. Santos, F. Ferreira, A. P. Cunha, A. P. Carvalho, C.
+F. Ribeiro, and T. Macedo, “Synaptosomal GABA release as
+inﬂuencedbyvalerianrootextract—involvementoftheGABA
+carrier,” Archives Internationales de Pharmacodynamie et de
+Therapie, vol. 327, no. 2, pp. 220–231, 1994.
+[24] J.G.Ortiz,J.Nieves-Natal,andP.Chavez, “EﬀectsofValeriana
+Oﬃcinalis extracts on [3H]ﬂunitrazepam binding, synaptoso-
+mal [3H]GABA uptake, and hippocampal [3H]GABA release,”
+Neurochemical Research, vol. 24, no. 11, pp. 1373–1378, 1999.
+[25] J. Y. Tang, Y. S. Zeng, Q. G. Chen, YA. J. Qin, S. J. Chen,
+and Z. Q. Zhong, “Eﬀects of Valerian on the level of 5-
+hydroxytryptamine, cell proliferation and neurons in cerebral
+hippocampus of rats with depression induced by chronic mild
+stress,”JournalofChineseIntegrativeMedicine,vol.6,no.3,pp.
+283–288, 2008.
+[26] K. Sichardt, Z. Vissiennon, U. Koetter, A. Brattstr¨ om, and K.
+Nieber, “Modulation of postsynaptic potentials in rat cortical
+neuronsbyvalerianextractsmaceratedwithdiﬀerentalcohols:
+involvement of adenosine A1-a n dG A B A A-receptors,” Phy-
+totherapy Research, vol. 21, no. 10, pp. 932–937, 2007.
+[27] S. K. Lacher, R. Mayer, K. Sichardt, K. Nieber, and C. E.
+M¨ uller, “Interaction of valerian extracts of diﬀerent polarity
+with adenosine receptors: identiﬁcation of isovaltrate as an
+inverse agonist at A1 receptors,” Biochemical Pharmacology,
+vol. 73, no. 2, pp. 248–258, 2007.
+[ 2 8 ] V .B e r g i n k ,H .J .G .M .V a nM e g e n ,a n dH .G .M .W e s t e n b e r g ,
+“Glutamateandanxiety,”EuropeanNeuropsychopharmacology,
+vol. 14, no. 3, pp. 175–183, 2004.
+[29] R. E. Nordquist, T. Steckler, J. G. Wettstein, C. Mackie, and
+W. Spooren, “Metabotropic glutamate receptor modulation,
+translational methods, and biomarkers: relationships with
+anxiety,” Psychopharmacology, vol. 199, no. 3, pp. 389–402,
+2008.
+[30] F. S. Guimaraes, A. P. Carobrez, J. C. De Aguiar, and F. G.
+Graeﬀ, “Anxiolytic eﬀect in the elevated plus-maze of the
+NMDA receptor antagonist AP7 microinjected into the dorsal
+periaqueductal grey,” Psychopharmacology, vol. 103, no. 1, pp.
+91–94, 1991.
+[31] J. L. Wiley, “Behavioral pharmacology of N-Methyl-D-
+aspartate antagonists: implications for the study and phar-
+macotherapy of anxiety and schizophrenia,” Experimental and
+Clinical Psychopharmacology, vol. 5, no. 4, pp. 365–374, 1997.
+[32] J. G. Ortiz, N. Rassi, P. M. Maldonado, S. Gonz´ alez-
+Cabrera, and I. Ramos, “Commercial Valerian interactions
+with [3H]ﬂunitrazepam and [3H]MK-801 binding to rat
+synaptic membranes,” Phytotherapy Research, vol. 20, no. 9,
+pp. 794–798, 2006.
+[33] J. O. Malva, S. Santos, and T. Macedo, “Neuroprotective
+properties of Valeriana oﬃcinalis extracts,” Neurotoxicity
+Research, vol. 6, no. 2, pp. 131–140, 2004.
+[34] M. J. Fell, K. A. Svensson, B. G. Johnson, and D. D.
+Schoepp, “Evidence for the role of metabotropic glutamate
+(mGlu)2 not mGlu3 receptors in the preclinical antipsychotic
+pharmacology of the mGlu2/3 receptor agonist (-)-
+(1R,4S,5S,6S)-4-amino-2-sulfonylbicyclo[3.1.0]hexane-
+4,6-dicarboxylic acid (LY404039),” Journal of Pharmacology
+and Experimental Therapeutics, vol. 326, no. 1, pp. 209–217,
+2008.
+[35] A. Palucha and A. Pilc, “Metabotropic glutamate receptor
+ligands as possible anxiolytic and antidepressant drugs,”
+Pharmacology and Therapeutics, vol. 115, no. 1, pp. 116–147,
+2007.
+[36] W. P. J. M. Spooren, A. Vassout, H. C. Neijt et al., “Anxiolytic-
+like eﬀects of the prototypical metabotropic glutamate
+receptor 5 antagonist 2-methyl-6-(phenylethynyl)pyridine in
+rodents,”JournalofPharmacologyandExperimentalTherapeu-
+tics, vol. 295, no. 3, pp. 1267–1275, 2000.
+[37] E. Chojnacka-W´ ojcik, A. Klodzinska, and A. Pilc, “Glutamate
+receptor ligands as anxiolytics,” Current Opinion in Investiga-
+tional Drugs, vol. 2, no. 8, pp. 1112–1119, 2001.

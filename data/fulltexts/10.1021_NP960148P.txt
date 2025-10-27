@@ -1,0 +1,365 @@
+1694 J. Nat. Prod. 1996, 59, 694-697 
+New Prenylated Quinones from Peperomia galioides 
+Valerie Mahiou, François Roblot, Reynald Hocquemiller, and Andre Cave* 
+Laboratoire de Pharmacognosie, URA 1843 CNRS (BIOCIS), Faculté de Pharmacie, Université de Paris XI,  
+92296 Chatenay-Malabry Cedex, France 
+Antonieta Rojas De Arias, Alba Inchausti, Gloria Yaluff, and Alain Fournet 
+IICS, Rio de la Plata y la Gerenza, Casilla de Correo 2511, Asunción, Paraguay 
+Received December 27, 1995@ 
+Two new prenylated quinones, piperogalone (1) and galopiperone (81, and e new prenylated 
+dhydroquinone, hydropiperone (91, were ìsolated from Peperomia galioides H.B.K (Piperaceae). 
+Hydropiperone exhibited potent antiparasitic activity against three species of Leishmania. 
+Previous phytochemical studies of a petroleum ether 
+extract of Peperomia galioides H.B.K. (Piperaceae) 
+afforded three interesting prenylphenols: grifolin, gri- 
+folic acid, and piperoga1in.l In a continuation of our 
+investigations on this extract, we have isolated three 
+new minor constituents, piperogalone, galopiperone, and 
+hydropiperone, to which structures 1,2, and 3 have been 
+assigned. 
+1 
+p' O 
+2 
+3 
+We have previously shown' that the petroleum ether 
+extract has a significant in vitro activity on three species 
+of Leishmania, responsible for leishmaniasis, and on 
+three strains of T?ypanosoma cruzi, the causative factor 
+for Chagas' disease. The activities of the major isolated 
+co9pounds have been reported already.' One of the 
+new compounds, hydropiperone (3), displays a promising 
+ac7ivity against promastigote forms of three species of 
+Leishmania. 
+The petroleum ether extract (7% of dried material) 
+was purified by chromatographic methods on Si gel 
+(column chromatography and TLC) and resulted in the 
+isolation of two new prenylated quinones 1 and 2 
+(piperogalone and galopiperone) and the 2,3-dihydro- 
+quinone 3 (hydropiperone). 
+, @Abstract published in Advance AC'S Abstracts, June 15, 1996. 
+The HREIMS spectrum of 1 shows a molecular ion 
+peak at  ml z 342.2183, corresponding to  the molecular 
+formula C22H3003. The presence of conjugated carbonyl 
+groups is deduced from the IR spectrum (broad absorp- 
+tion at 1641 cm-') and is substantiated by two 13C-NMR 
+signals at 6 187.3 and 184.9 indicative of a quinone 
+moiety? A bathochromic shift, obtained in the Uv 
+spectrum after addition of base, indicates the presence 
+of a phenolic or  enolic function, also deduced from the 
+IR absorption at 3407 cm-l. The 'H-NMR spectrum 
+shows the singlet of an aromatic methyl group at  6 2.01 
+and two methylene groups resonating at 6 3.12 and 3.22 
+as doublets. The quinone nucleus is thus substituted 
+by two alkenyl moieties further identified by a COSY 
+experiment as a geranyl chain and a prenyl group. 
+The homonuclear 'H-'H and heteronuclear 'H-l3C 
+correlations clearly indicated the presence of the prenyl 
+group, corresponding with the methylene at 6 3.22, the 
+ethylenic proton at 6 4.97, and two methyl groups at 6 
+1.65 and 1.74 (Table 1). Other signals in the 'H-NMR 
+spectrum were attributed to the geranyl moiety, in 
+particular the ethylenic protons at 6 5.15 and 5.05 and 
+the isolated methylene doublet at 6 3.12 bonded with 
+the quinone nucleus. The 13C-NMR chemical shift for 
+the (3-10' methyl group indicated the E-geometry about 
+the asymmetrically substituted double bond.3 
+The respective positions of the four substituents of 
+the quinone were then deduced from the long-range 'H- 
+13C experiment (HMBC) and NOE (Table 11, which 
+further confirmed the attributions of 'H and I3C signals 
+of the geranyl and prenyl chains. 
+The two alkenyl methylene groups at  6 3.12 and 3.22 
+were both 3J  correlated with the C-1 carbonyl group at 
+6 187.3, thus indicating the position of the geranyl and 
+prenyl chains at C-2 and C-6, respectively. The proton 
+signal at  6 3.12 was also 3J correlated with the OH- 
+bearing carbon at 6 152.4, indicating a C-3 position for 
+the hydroxy group, and subsequently the position of the 
+methyl group at  C-5. Further confirmation of this 
+position was brought by the observation of 3J correla- 
+tions of the methyl protons with C-6 (6 137.2) and with 
+the second carbonyl group (6 184.9) located at C-4. The 
+structure of the new prenylated quinone, named pip- 
+erogalone, is thus ,established as structure 1. The 
+spatial proximity between the methyl group and the 
+prenyl methylene was further supported by a NOE 
+experiment. 
+Notes 
+Table 1. NMR Data for Quinones 1 and 2 (in CD3COCD3) 
+Journal of Natural Products, 1996, Vol. 59, No. 7 695 
+1 2 
+position d IHa d 13Cb HMBC (H to CP d 'Ho d 13Cb HMBC (H to Cp 
+1 1873 184.6 
+a 120.4 115.6 
+3 152.4 151.3 
+4 184.9 182.7 
+5 145.2 142.9 
+6 137.2 139.7 
+7d 2.01,s 11.4 (2-4, C-5, C-6 1.98 s 11.9 C-4, C-5, C-6 
+1' 3.12 d (7) 22.6 (3-1, (2-2, C-3, C-2', (2-3' 6.45 d (10) 116.4 c-3, c-3' 
+2' 6.16 tq  ( 7 , l )  121.6 C-1', C-4', C-10' 5.71 d (10) 129.7 c-1', c-3' 
+3' 136.5 83.4 
+4' 1.96 t (7) 40.4 1.95-2.05 m 42.2 
+6' ~ 2 . 0 0  m 27.3 2,08-2,13 m 23.4 
+7' 131.4 132.4 
+6' 5.05 m 125.0 C-W, C-9' 5.09 br t (7) 124.9 C-s' 
+8' 1.61 br 8 25.8 1.60 br s 25.9  C-6', C-7', (229' 
+9' 1.55 br s 17.7 1.53 br s 17.8 C-6', C-7', C-8' 
+lo' 1.74 br s 16.2 1.42 s 27.5 c-2', c-3', (3-4' 
+lØ'¿ 
+2" a4.97 m 120.6 C-4", (3-5" 4.96 br t (7) 120.8 
+3" 133.7 133,9 'L 
+3.22 d (6) 26.3 C-1, C-5, (2-6, C-2", C-3" 3.20 d (7) 26.1 C-1, C-5, (2-6, GY', C-3" 
+4" 1.66 d (1.3) 25.8 1.64 br s 25.8' C-2", C-3", C-4" 
+6" 1.74 br s 18.0 1.72 br s 18.1 C-2", C-Y, C-6" 
+Spectra were recorded at 400 MHz (J values are given in Hz). * Spectra were recorded at 50 MHz. The assignments may be 
+interchanged. NOE enhancements were observed between CH3-7 and CH2-1'' for 1. 
+The. second compound isolated from P. galioides, 
+named galopiperone (2), is another new quinone as 
+shown by the IR absorption at 1668 and 1647 cm-l and 
+the two carbonyl signals at B 184.5 and 182.7 in the 13C- 
+NMR spectrum. The lH- and 13C-NMR data of 1 and 2 
+are very similar (Table 1) and prove the existence of a 
+prenyl group at C-6 and a methyl group at C-5, but the 
+substituents at C-2 and C-3 are modified. 
+The molecular formula (C22H2803) of 2, deduced from 
+the HREIMS, suggests an oxidative cyclization between 
+the geranyl chain and the C-3 OH group. This assertion 
+is confirmed by the disappearance of the conjugated OH 
+group in the W and IR spectra, and the presence of an 
+oxygen-bearing quaternary carbon at 6 83.4 in the 13C- 
+NMR spectrum. The dihydropyrane ring is further 
+characterized by the typical coupling constant (J = 10 
+Hz) between C-1' and C-2', and 3J correlations in HMBC 
+between H-1' and both C-3 and (3-3'. The cyclization 
+between the C-3 OH group and the C-3' position of the 
+geranyl chain is also proved by the significant downfield 
+shift (3-9.3 ppm) of the C-10' methyl group in the I3C- 
+NMR spectrum. 
+The absence of specific rotation for 2 indicates that 
+the oxidative cyclization of 1 inta 2 is not stereoselective 
+and suggests that galopiperone (2) could be an artifact. 
+This hypothesis is confirmed by the spontaneous con- 
+version of piperogalone into galopiperone after a few 
+weeks, even at +4 OC. 
+Hydropiperone (3) was obtained as a yellow oil, whose 
+elemental composition was determined as C22H3203 by 
+HREIMS, two mass units more than 1. The IR spec- 
+trum shows characteristic absorption bands for H- 
+bonded OH (vmax 3389 cm-') and quinonoid CO (1669 
+cm-9, confirmed by two 13C-NMR resonances at 6 195.6 
+and 198.7.* In comparison with piperogalone (l), the 
+lH- and 13C-NMR spectra of 3 (Table 2) exhibited similar 
+signals indicative of a E-geranyl chain. The resonances 
+of a prenyl moiety are also observed, but the methylene 
+group appears as part of an AMX system at 6 2.37 and 
+2.24, indicating the absence of free rotation between the 
+quinonoid nucleus and the prenyl chain. On the EIMS, 
+the base peak at m / z  275 is presumably due to  the loss 
+of the prenyl side chain and confirms the presence of 
+this group. 
+The reduction of one double bond in the quinone 
+nucleus, suggested by the IR spectrum, the molecular 
+formula, and the downfield shift of the two carbonyl 
+groups in the 13C-NMR spectrum, is confirmed by the 
+observation of two high-field resonances at  6 47.0 and 
+48.0, corresponding to a quaternary carbon and an 
+inequivalent methylene group (6 IH 2.65 and 2.751, 
+respectively. 
+The structure for hydropiperone, therefore, can be 
+proposed as 3. The respective positions of the substit- 
+uents were determined on the basis of HMBC correla- 
+tions, which indicated the position of the geranyl chain 
+at C-6, of the OH group at C-5, and of both the methyl 
+group and the prenyl chain at (3-3. 
+The geminal position of the two latter groups was 
+substantiated by NOE enhancements between the meth- 
+yl group, the prenyl methylene, and the methylene at 
+C-2 (Table 2). The NOE experiments also provided 
+some information about the molecular conformation. 
+Irradiation of the C-7 methyl group resulted in the 
+enhancement of the methylene groups at C-2 (6 2.75 and 
+2.65) and C-1" (6 2.37 and 2.241, suggesting the equato- 
+rial position of the methyl group. Significant enhance- 
+ments were also observed between the C-5" methyl 
+group (6 1.56) and the methylene at C-1" (6 2.24 and 
+2.371, indicating a cis position of this methyl. 
+Hydropiperone was isolated as a racemic mixture, as 
+shown by the absence of specific rotation. 
+Piperogalone (11, galopiperone (2), and hydropiperone 
+(3) belong to the rare class of prenylated quinones or 
+dihydroq~inones.~-~ They are probably derived bioge- 
+netically from the prenylated diphenols reported earlier 
+in the same plant,' by oxidative procedures accompanied 
+by the introduction of a prenyl chain at C-5 or C-6 of 
+the diphenol precursor. 
+Despite the very small amount of compounds avail- 
+able, we investigated the antiparasitic activity for two 
+of them, according to Mahiou et d1, Hocquemiller et 
+696 Journal of Natural Products, 1996, Vol. 59, No. 7 
+'i" 
+Notes 
+Table 2. NMR Data for 2,3-Dihydroquinone 3 (in CD&OCD3) 
+position a 'HO a '3Cb HMBC (H to CP NOESY" 
+1 195.6 
+2 2.65 d (16) 48.0 c-1, c-3, c-4, c-7, c-1" H-7 
+2.75 d 116) 
+, 3  47.0 
+4 198.7 
+5 OH 2.84 s 153.9 
+6 125.3 
+7 1.22 8 23.2 
+1' 3.09 d (7) 21.9 
+2' 5.14 br t (7) 119.9 
+3' 135.8 
+39.3 
+26.2 
+4' 1.95 t (7) 
+5' -2.00 m 
+6' 5.07 m 123.9 
+7' 129.6 
+8' 1.62 d (4) 24.6c 
+c-2, c-4,  c-1" 
+C-1, C-5, C-6, C-2', (2-3' 
+c-2', c-3', C a ,  c-g, c-10' 
+C-4, C-6', C-7' 
+H-2, H-1" 
+H-2', H-10' 
+H-1', H-4' 
+H-2', H-6' 
+H-6', H-10' 
+H-4'. H-5' 
+(2.2, (2.4, (2.7, C.2"' c-3" 
+9' 1.58 br s 16.5d 
+lo' 1.72 br s 15.1 H-l', H-5' 
+1" 2,37 dd (16,8) 37.9 H-7, H-2" 
+2" 5.03 m 118.5 H-1", H-4" 
+4" 1.65 br s 24.8e H-2" 
+6" 1.66 bra 16.7d H-1" 
+2.24 dd (16,8) 
+3" 135.2 
+Spectra were recorded at 400 MHz (J values are given in Hz). b Spectrum was recorded at 75 MHz. cd The assignments may be 
+interchanged. 
+al .,8 and F ~ u r n e t . ~  Galopiperone (2) and hydropiperone 
+(3) were inactive against the trypomastigote form of 
+lZypunosoma cruzi, responsible for Chagas' disease 
+(gentian violet displayed a total lysis of the parasites 
+at 250 pg/mLL9 Concerning the activity against leish- 
+maniasis, hydropiperone (3) displayed a promising 
+toxicity against Leishmania brazilìensis, Leishmania 
+donovani, and Leishmania amazonensis a t  25 pglmL, 
+with a total lysis of the parasites at 100 &mL. 
+(Pentamidine displayed a total lysis of the parasites at 
+5 PglmL and glucantime 40-5094) lysis at  100 pglmL.) 
+These results, however, are somewhat lower than those 
+obtained with the prenylated diphenols precedently 
+reported.' 
+Experimental Section 
+General Experimental Procedures. W spectra 
+were recorded on a Philips PU 8700 spectrophotometer 
+and IR spectra on a Perkin-Elmer 841 spectrometer. All 
+lH- and 13C-NMR spectra were recorded in CD3COCD3 
+(6 ppm) on a Bruker AC 200 P spectrometer operating 
+at 200 and 50 MHz, respectively, and a Bruker ARX 
+400 spectrometer operating a t  400 and 100 MHz, 
+respectively. EIMS and CIMS spectra were obtained 
+on a Kratos MS-80 spectrometer. 
+Plant Material. P. galioides, described by A. Bon- 
+pland et al. in 1815,'O was collected by A. Fournet in 
+April 1986 along the old road of Chulumani, near the 
+village of Unduavi, Yungas, department of La Paz, 
+Bolivia (altitude, 3000 m). The botanical identification 
+of the species was made by Dr. H. A. Valdebenito, 
+Department of Botany, Ohio State University, Colum- 
+bus, OH. A voucher apecimen (no. AF  615) is deposited 
+in the National Herbarium of Bolivia, La Paz, .and in 
+the Ohio State University Herbarium, Columbus, OH. 
+Extraction and Isolation. The air-dried P. gulio- 
+ìdes (whole plant, 206 g) was extracted in a Sohlet  
+apparatus with petroleum ether, CHzClz, and MeOH 
+successively, which gave. 14 g, 9 g, and 14 g of crude 
+extracts, respectively. Si gel GFw4 was used for TLC. 
+The petroleum extract (7% of dried material) was first 
+purified by a liquidfliquid partition between 1 M NaOH 
+and CHzC12. The aqueous layer was acidified with 1 M 
+HCl and further extracted with EtzO. The CHzClz 
+extract was submitted to several purifications using 
+flash chromatography on Si gel (0.032-0.063 mm) 
+affording piperogalone (24 mg), galopiperone (12 mg), 
+and hydropiperone (30 mg). 
+Piperogalone (1): CZZH3003; yellow oil; UV (EtOH) 
+il max (log c) 204 (4.43), 277 (3.98); (OH-) 232 (3.96), 
+280 (3.85) nm; IR (dry film) Y max 3407 (br), 1641,1620, 
+1450, 1370, 1309 cm-1; EIMS mlz  342.2183 (M+, 8) 
+[342.2194 calcd], 259 (30), 257 (261,217 (181, 203 (291, 
+91 (22), 77 (18), 69 (100); CIMS m l z  343 (MH+, 100); 
+for lH and 13C NMR (CD3COCD3) data, see Table 1. 
+Galopiperone (2): CZZHZRO~; red oil; [aIz0D O (c 0.07, 
+EtOH); W (EtOH) il max (log E )  204 (4.081, 276 (3.52) 
+nm; IR (dry film) Y max 1668,1647,1622,1450,1370, 
+1267 cm-'; EIMS m l z  340.2022 (Wf, 9) L340.2038 
+calcd], 257 (75), 215 (ll), 165 (681,164 (31),83 (40),69 
+(100); CIMS m l z  341 (MH+, 100); for 'H and 13C NMR 
+(CDzCOCD3) data, see Table 1. 
+Hydropiperone (3): CzzH3203; yellow oil, [aIzoD O 
+(c 0.15, EtOH); W (EtOH) rl max (log E) 201 (4.17),242 
+(3.61), 350 (3.50) nm; (OH-) 205 (3.56), 242 (3.71), 352 
+(3.62); IR (dry film) Y max 3389 (br), 1669, 1377, 1055 
+cm-'; EIMS m l z  344.2365 (Mt, 4)1344.2351 calcdl, 276 
+(201,275 (100),207 (761,153 (54), 137 (201,123 @O), 69 
+(99); CIMS m l z  345 (MH+, 100); for 'H and I3C NMR 
+(CD3COCD3) data, see Table 2. 
+Biological Assays. In Vitro Study on the Pro- 
+mastigote Form ofLeishmanìu.a Hydropiperone (3) 
+was dissolved in DMSO and evaluated against the 
+promastigote forms of L. amazonensis (strain LV-79 = 
+IFLA/BR/67/PHS), L. donouani (strain PP-75 = MHOW 
+IN/83/HS70), and L. braziliensis (strain 2903 = MHOW 
+Rm2903) .  Microorganisms are deposited in the In- 
+stituto de Investigaciones en Ciencias de la Salud (IICS), 
+Notes 
+Asunciòn, Paraguay. Each assay was performed three 
+times. The viability of the parasites was estimated by 
+direct observation with an inverted microscope after a 
+24-h incubation at  28 OC. The positive controls were 
+glucantime (Rhône-Poulenc, France) and pentamidine 
+(May and Baker, UK). 
+In Vitro Study on the Trypomatigote Form of T. 
+Galopiperone (2) and hydropiperone (3) were 
+dissolved in DMSO and evaluated against the trypo- 
+matigote forms of T, cruzi (strain Y). The microorgan- 
+ism is deposited in the Instituto de Investigaciones en 
+Ciencias de la Salud (IICS), Asunciòn, Paraguay. Each 
+assay was performed three times. The parasites were 
+counted after 24 h incubation at 4 OC. The positive 
+control was gentian violet. 
+Acknowledgment. The authors are grateful to  J. 
+Mahuteau for NMR measurements and helpful discus- 
+sions. 
+Journal of Natural Products, 1996, Vol. 59, NO. 7 697 
+References and Notes 
+Mahiou, V.; Roblot. F.; Hocquemiller, R.; Cav6, A.; Rojas de Arias, 
+A.; Inchausti, A.; Yaluff, G.; Angelo Barrios, A.; Fournet, A. J. 
+Nat. Prod. 1996,58,324-328. 
+Bonny, M. L.; Capon, R. J. J. Nat. Prod. 1994, 57, 539-540. 
+Ampofo, S. A.; Roussis, V.; Wiemer, D. F. Phytochemistry 1987, 
+26,2367-2370. 
+Tanaka, H.; Koyama, Y.; Nagai, T.; Marumo, H.; Omura, S. J. 
+Antibiotics 1976,28, 868-875. 
+Thomson, R. H. Naturally Occurring Quinones; Academic 
+Press: London, 1971; pp 93-197. 
+Thomson, R. H. Naturally Occurring Quinones III, Recent 
+Advances; Chapman and Hall: London, 1987; pp 31-71. 
+Howard, B. M.; Clarkson, K. Tetrahedron Lett. 1979,46,4449- 
+4452. 
+Hocquemiller, R.; Cortes, D.; Arango, G. J.; Myint, S. H.; Cave, 
+A.; Angelo, A.; Muños, V.; Fournet, A. J. Nat. Prod. 1991, 54, 
+Fournet, A. Plantes medicinales boliviennes antiparasitaires 
+(leishmaniose et maladie de Chagas): Calipea longìflora Krause 
+(Rutaceae), Pera benensis Rusby (Euphorbiaceae) et  Ampelocem 
+edentula Kuhlm (Ulmaceae). Ph.D. Thesis, Universi% Paris- 
+Sud, Chiitenay-Malabry, France, 1991, pp 83-84. 
+Bonpland, A.; Kunth, C.; de Humboldt, A. Nov. Gen. Sp. 1816, 
+71i, t17. 
+445-452. 
+NP960148P 

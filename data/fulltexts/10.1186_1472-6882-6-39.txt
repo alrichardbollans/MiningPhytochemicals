@@ -1,0 +1,881 @@
+BioMed  Central
+Page 1 of 8
+(page number not for citation purposes)
+BMC Complementary and 
+Alternative Medicine
+Open Access Research article
+In vitro antibacterial activity of some plant essential oils
+Seenivasan Prabuseenivasan, Manickkam Jayakumar and 
+Savarimuthu Ignacimuthu*
+Address: Entomology Research Institute, Loyola College, Chennai – 600 034, India.
+Email: Seenivasan Prabuseenivasan - prabsri@gmail.com; Manickkam Jayakumar - jaismohai@gmail.com; 
+Savarimuthu Ignacimuthu* - eri_lc@hotmail.com
+* Corresponding author    
+Abstract
+Background: To evaluate the antibacterial activity of 21 plant essential oils against six bacterial
+species.
+Methods: The selected essential oils were screened against four gram-negative bacteria
+(Escherichia coli, Klebsiella pneumoniae, Pseudomonas aeruginosa,  Proteus vulgaris) and two gram-
+positive bacteria Bacillus subtilis and Staphylococcus aureus at four different concentrations (1:1, 1:5,
+1:10 and 1:20) using disc diffusion method. The MIC of the active essential oils were tested using
+two fold agar dilution method at concentrations ranging from 0.2 to 25.6 mg/ml.
+Results: Out of 21 essential oils tested, 19 oils showed antibacterial activity against one or more
+strains. Cinnamon, clove, geranium, lemon, lime, orange and rosemary oils exhibited significant
+inhibitory effect. Cinnamon oil showed promising inhibitory activity even at low concentration,
+whereas aniseed, eucalyptus and camphor oils were least active against the tested bacteria. In
+general, B. subtilis was the most susceptible. On the other hand, K. pneumoniae exhibited low degree
+of sensitivity.
+Conclusion: Majority of the oils showed antibacterial activity against the tested strains. However
+Cinnamon, clove and lime oils were found to be inhibiting both gram-positive and gram-negative
+bacteria. Cinnamon oil can be a good source of antibacterial agents.
+Background
+The spread of drug resistant pathogens is one of the most
+serious threats to successful treatment of microbial dis-
+eases. Down the ages essential oils and other extracts of
+plants have evoked interest as sources of natural products.
+They have been screened for their potential uses as alter-
+native remedies for the treatment of many infectious dis-
+eases [1]. World Health Organization (WHO) noted that
+majority of the world's population depends on traditional
+medicine for primary healthcare. Medicinal and aromatic
+plants which are widely used as medicine and constitute a
+major source of natural organic compounds.
+Essential oils have been shown to possess antibacterial,
+antifungal, antiviral insecticidal and antioxidant proper-
+ties [2,3]. Some oils have been used in cancer treatment
+[4]. Some other oils have been used in food preservation
+[5], aromatherapy [6] and fragrance industries [7]. Essen-
+tial oils are a rich source of biologically active com-
+pounds. There has been an increased interest in looking at
+Published: 30 November 2006
+BMC Complementary and Alternative Medicine 2006, 6:39 doi:10.1186/1472-6882-6-39
+Received: 29 July 2006
+Accepted: 30 November 2006
+This article is available from: http://www.biomedcentral.com/1472-6882/6/39
+© 2006 Prabuseenivasan et al; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.BMC Complementary and Alternative Medicine 2006, 6:39 http://www.biomedcentral.com/1472-6882/6/39
+Page 2 of 8
+(page number not for citation purposes)
+antimicrobial properties of extracts from aromatic plants
+particularly essential oils [8]. Therefore, it is reasonable to
+expect a variety of plant compounds in these oils with spe-
+cific as well as general antimicrobial activity and antibi-
+otic potential [9].
+Essential oils (also called volatile oils) are aromatic oily
+liquids obtained from plant materials (flowers, buds,
+seeds, leaves, twigs, bark, herbs, wood, fruits and roots).
+They can be obtained by expression, fermentation or
+extraction but the method of steam distillation is most
+commonly used for commercial production. An estimated
+3000 essential oils are known, of which 300 are commer-
+cially important in fragrance market [7]. Essential oils are
+complex mixers comprising many single compounds.
+Chemically they are derived from terpenes and their oxy-
+genated compounds. Each of these constituents contrib-
+utes to the beneficial or adverse effects.
+Essential oils such as aniseed, calamus, camphor, cedar-
+wood, cinnamon, citronella, clove, eucalyptus, geranium,
+lavender, lemon, lemongrass, lime, mint, nutmeg, orange,
+palmarosa, rosemary, basil, vetiver and wintergreen have
+been traditionally used by people for various purposes in
+different parts of the world (Table 1). Cinnamon, clove
+and rosemary oils had shown antibacterial and antifungal
+activity [10]; cinnamon oil also possesses antidiabetic
+property [11]. Anti-inflammatory activity has been found
+in basil [12]. Lemon and rosemary oils possess antioxi-
+dant property [13,14]. Peppermint and orange oils have
+shown anticancer activity [15,16]. Citronella oil has
+shown inhibitory effect on biodegrading and storage-con-
+taminating fungi [17]. Lime oil has shown immunomod-
+ulatory effect in humans [16]. Lavender oil has shown
+antibacterial and antifungal activity; it was also found to
+be effective to treat burns and insect bites [18].
+In spite of all the information available on the 21 oils
+selected for this study, we were not able to find antibacte-
+rial activity for all those oils. Hence this study was under-
+taken with the intention of finding out the efficacy of
+these essential oils as antimicrobial agents for commercial
+purposes.
+Methods
+Essential oils
+Twenty-one essential oils obtained from Tegraj & Co (P)
+Ltd, India (commercial producers of plant essential oils
+and aromatic substances) were used in this study (Table
+1). These oils were selected based on literature survey and
+their use in traditional medicine. Quality of the oils was
+ascertained to be more than 98% pure.
+Test organism
+Microorganisms were obtained from the Department of
+Microbiology, Christian Medical College, Vellore, India
+and Institute of Basic Medical Sciences (IBMS), Chennai,
+India. Four strains of gram-negative bacteria [Escherichia
+coli (ATCC 25922), Klebsiella pneumoniae (ATCC 15380),
+Pseudomonas aeruginosa (ATCC 27853), Proteus vulgaris
+(MTCC 1771)] and two strains of gram-positive bacteria
+[Bacillus subtilis (MTCC 441) and Staphylococcus aureus
+Table 1: List of selected essential oils and their properties.
+Common name Botanical name (Family) Properties [37, 42, 43]
+Aniseed oil Pimpinella anisum (Umbelliferae) Carminative, stimulant, expectorant, condiment and flavouring agent.
+Calamus oil Acorus calamus (Araceae) Carminative, bitter stimulant, vermifuge and insect repellent
+Camphor oil Cinnamomuum camphora (Lauraceae) Rubefacient, tooth powder and cosmetic agent.
+Cedarwood oil Cedrus atlantica (Coniferae) Antiseptic, astringent, diuretic, fungicidal, sedative and stimulant.
+Cinnamon oil Cinnamomum zeylanicum (Lauraceae) Carminative, stomachic, astringent, stimulant and antiseptic.
+Citronella oil Cymbopogon nardus (Gramineae) Perfumery, mosquito repellent and flavouring agent.
+Clove oil Eugenia caryophyllus (Myrtaceae) Dental analgesic, carminative, stimulant and antiseptic.
+Eucalyptus oil Eucalyptus globulus (Myrtaceae) Counter-irritant, antiseptic, expectorant, cough reliever.
+Geranium oil Pelargonium graveolens (Geraniaceae) Flavouring agent and stimulant.
+Lavender oil Lavandula angustifolia (Labiatae) Stimulant and flavouring agent.
+Lemon oil Citrus limon (Rutaceae) Carminative, stimulant, perfuming and flavouring agent.
+Lemongrass oil Cymbopogon citratus (Graminae) Flavouring agent, antiseptic and deodorant.
+Lime oil Citrus aurantium (Rutaceae) Stomachic, carminative and flavouring agent.
+Nutmeg oil Myristica fragrans (Myristicaceae) Stimulant, anti rheumatic and carminative.
+Orange oil Citrus sinensis (Rutaceae) Stomachic, carminative and flavouring agent.
+Palmarosa oil Cymbopogon martini (Graminae) Cosmetic, anti rheumatism and insect repellent.
+Peppermint oil Mentha piperita (Labiatae) Digestent, stimulant and tonic.
+Rosemary oil Rosmarinus officinalis (Labiatae) Carminative, stimulant and flavouring agent.
+Basil oil Ocimum sanctum (Labiatae) Antibacterial, insecticidal, stimulant, stomachic and diaphoretic.
+Vetiver oil Vetiveria zizanioides (Graminae) Stimulant, refrigerant, flavouring agent, stomachic and fixative.
+Wintergreen oil Gaultheria fragrantissima (Ericaceae) Irritant, vermicide agent and flavouring agent.BMC Complementary and Alternative Medicine 2006, 6:39 http://www.biomedcentral.com/1472-6882/6/39
+Page 3 of 8
+(page number not for citation purposes)
+(ATCC 25923)] were used. The cultures of bacteria were
+maintained in their appropriate agar slants at 4°C
+throughout the study and used as stock cultures.
+Antibacterial assay
+Screening of essential oils for antibacterial activity was
+done by the disk diffusion method, which is normally
+used as a preliminary check and to select between efficient
+essential oils [2]. It was performed using an 18 h culture
+at 37°C in 10 ml of Mueller Hinton Broth. The cultures
+were adjusted to approximately 105CFU/ml with sterile
+saline solution. Five hundred microliters of the suspen-
+sions were spread over the plates containing Mueller-Hin-
+ton agar using a sterile cotton swab in order to get a
+uniform microbial growth on both control and test plates.
+The essential oils were dissolved in 10% aqueous dimeth-
+ylsulfoxide (DMSO) with Tween 80 (0.5% v/v for easy dif-
+fusion) and sterilized by filtration through a 0.45 μm
+membrane filter. Under aseptic conditions, empty steri-
+lized discs (Whatman no. 5, 6 mm dia) were impregnated
+with 50 μL of different concentrations (1:1, 1:5, 1:10,
+1:20) of the respective essential oils and placed on the
+agar surface [19]. Paper disc moistened with aqueous
+DMSO was placed on the seeded petriplate as a vehicle
+control. A standard disc containing streptomycin (25 μg/
+disc) was used as reference control. All petridishes were
+sealed with sterile laboratory parafilm to avoid eventual
+evaporation of the test samples. The plates were left for 30
+min at room temperature to allow the diffusion of oil, and
+then they were incubated at 37°C for 18 h (18 h was fixed
+as the optimum since there was no change in the inhibi-
+tion up to 24 h) After the incubation period, the zone of
+inhibition was measured with a calliper. Studies were per-
+formed in triplicate, and mean value was calculated. The
+means were analysed by one way analysis of variance
+(ANOVA) followed by Tukey's post hoc multiple compar-
+ison test using SPSS software package version 13.0 for
+windows. The results were expressed as mean ± SD. P val-
+ues <0.05 were considered as significant.
+MIC assay
+Based on the previous screening seven essential oils (Cin-
+namon, clove, geranium, lemon, lime, orange and rose-
+mary oils) were identified to have potent antibacterial
+activity and their Minimum Inhibitory Concentrations
+(MIC) were determined. The agar dilution method recom-
+mended by the National Committee for Clinical Labora-
+tory Standards [20] was used with the following
+modification; a final concentration of 0.5% (v/v) Tween-
+20 (Sigma) was incorporated into the agar medium to
+enhance oil solubility. A series of two fold dilution of each
+oil, ranging from 0.2 to 25.6 mg/ml, was prepared in
+Muellur Hinton agar at 48°C. Plates were dried at room
+temperature for 30 min prior to spot inoculation with 3 μl
+aliquots of culture containing approximately 105 CFU/ml
+of each organism. Inoculated plates were incubated at
+37°C for 18 h and the MIC was determined. Experiments
+were carried out in triplicate. Inhibition of bacterial
+growth in the plates containing test oil was judged by
+comparison with growth in blank control plates. The
+MICs were determined as the lowest concentration of oil
+inhibiting visible growth of each organism on the agar
+plate [21].
+Gas chromatography mass spectrometry (GC/MS)
+The most potent oil, (cinnamon oil) was analysed using
+GC/MS (Shimadzu capillary GC-quadrupole MS system
+QP 5000) with two fused silica capillary column DB-5 (30
+μm, 0.25 mm i.d, film thickness 0.25 μm) and a flame
+ionization detector (FID) which was operated in EI mode
+at 70 eV. Injector and detector temperatures were set at
+220°C and 250°C, respectively. One microliter essential
+oil solution in hexane was injected and analyzed with the
+column held initially at 60°C for 2 min and then
+increased by 3°C/min up to 300°C. Helium was
+employed as carrier gas (1 ml/min). The relative amount
+of individual components of the total oil is expressed as
+percentage peak area relative to total peak area. Qualita-
+tive identification of the different constituents was per-
+formed by comparison of their relative retention times
+and mass spectra with those of authentic reference com-
+pounds, or by retention indices (RI) and mass spectra.
+Results
+The anti-bacterial activity of twenty-one selected essential
+oils against six bacterial species is summarized in Table 2
+and 3. The results revealed that the selected essential oils
+showed antibacterial activity with varying magnitudes.
+The zone of inhibition above 7 mm in diameter was taken
+as positive result. Generally most of the tested organisms
+were sensitive to many of the essential oils. Out of 21
+essential oils tested, 19 showed antibacterial activity
+against one or more bacteria. Cinnamon oil, lime oil,
+geranium oil, rosemary oil, orange oil, lemon oil and
+clove oil showed maximum activity against all the bacte-
+rial species tested. On the other hand, aniseed oil, euca-
+lyptus oil and camphor oil failed to inhibit any of the
+tested strains. Both gram-positive and gram-negative bac-
+teria were sensitive to the potent essential oils. P. aerugi-
+nosa and P. vulgaris were inhibited by 19 oils, followed by
+B. subtilis (18 oils), S. aureus (14 oils), E. coli (12 oils) and
+K. pneumoniae (9 oils). In general cinnamon oil showed
+significant inhibitory effect against P. aeruginosa (33.3
+mm), B. subtilis (29.9 mm), P. vulgaris (29.4 mm), K. pneu-
+moniae (27.5 mm) and S. aureus (20.8 mm). Moderate
+effects were seen in lime oil, clove oil and lemon oil. No
+obvious difference in susceptibility was found between
+gram-negative and gram-positive bacteria. There was no
+inhibition of growth with the vehicle control (10%
+DMSO).B
+M
+C
+ 
+C
+o
+m
+p
+l
+e
+m
+e
+n
+t
+a
+r
+y
+ 
+a
+n
+d
+ 
+A
+l
+t
+e
+r
+n
+a
+t
+i
+v
+e
+ 
+M
+e
+d
+i
+c
+i
+n
+e
+ 
+2
+0
+0
+6
+,
+ 
+6
+:
+3
+9
+h
+t
+t
+p
+:
+/
+/
+w
+w
+w
+.
+b
+i
+o
+m
+e
+d
+c
+e
+n
+t
+r
+a
+l
+.
+c
+o
+m
+/
+1
+4
+7
+2
+-
+6
+8
+8
+2
+/
+6
+/
+3
+9
+P
+a
+g
+e
+ 
+4
+ 
+o
+f
+ 
+8
+(
+p
+a
+g
+e
+ 
+n
+u
+m
+b
+e
+r
+ 
+n
+o
+t
+ 
+f
+o
+r
+ 
+c
+i
+t
+a
+t
+i
+o
+n
+ 
+p
+u
+r
+p
+o
+s
+e
+s
+)
+Table 2: Antimicrobial activity of 21 essential oils against S. aureus, B. subtilis and K. pneumoniae using disc diffusion method
+Oil Name S. aureus B. subtilis K. pneumoniae
+Concentration 1:1 1:5 1:10 1:20 1:1 1:5 1:10 1:20 1:1 1:5 1:10 1:20
+Aniseed oil - - - - 12.1 ± 1.0klm 10.8 ± 0.2ij - -----
+Calamus oil - - - - 17.9 ± 0.9def 14.7 ± 0.5cd 12.6 ± 0.5 c 11.3 ± 1.2d ----
+Camphor oil - - - - - - - - 8.5 ± 0.5e ---
+Cedar wood - - - - 13.4 ± 0.5jkl 12.2 ± 0.5ghi 99 ± 0fg -----
+Cinnamon oil 20.8 ± 0.5 a 18.7 ± 0.2a 14.8 ± 0.2b 13.7 ± 0.28b 29.9 ± 0.7 a 27.8 ± 1.1 a 24.1 ± 1.1 a 22.8 ± 0.2b 27.5 ± 0.5a 23.5 ± 0.5a 20.9 ± 0.2a 18.6 ± 0.5a
+Citronella oil 15.8 ± 0.3bc 10.3 ± 0.5de - - 14.6 ± 0.5ij 12.5 ± 0.5ghi 10.3 ± 0.5de 9.3 ± 0.5ef ----
+Clove oil 16.3 ± 0.5 b 14.0 ± 0bc 8.1 ± 1.1d 9.8 ± 0.57c 14.5 ± 0.2hij 13.1 ± 0.2ef 10.1 ± 1.0def 8.9 ± 0.2f 16.2 ± 0.5c 14.4 ± 0.5b 8.4 ± 0.5c -
+E u c a l y p t u s  o i l - - - - - - - -----
+Geranium oil 10.4 ± 0.5e 8.9 ± 0.2e - - 17.2 ± 0.2defg 14.7 ± 0.5cde - - 10.8 ± 0.2d 9 ± 0c --
+Lavender - - - - 12.5 ± 0.4jk 11.1 ± 0.2hi - -----
+Lemon oil 17.5 ± 1.1b 14.5 ± 0.2b 8.3 ± 0.2d - 16.9 ± 0.2efgh 14.5 ± 0.5cdef 8.9 ± 0.5 g - 16.5 ± 0.5c 15.3 ± 1.1b 8.7 ± 0.5c -
+Lemongrass oil 11.4 ± 1.0 de 8.9 ± 0.2e - - 16.7 ± 0.5fghi 15.1 ± 0.7 c 8.9 ± 1.0fg - 8.3 ± 0.5e ---
+Lime oil 14.2 ± 0.5cd 12.7 ± .2bcd 10.3 ± 0. 9 ± 0.00c 23.9 ± 1.1 c 20.8 ± 0.7 b 15.8 ± 0.2 b 14.1 ± 1.1c 16.1 ± 1.1c 14.6 ± 0.5b 12.9 ± 0.5b 12.6 ± 0.5b
+Nutmeg 11.7 ± 0.8de 9.1 ± 0.2e - - 11.5 ± 0.5mn 10.9 ± 0.2hij - -----
+Orange oil 12.8 ± 0.2cd 10.6 ± 0.2cde - - 18.6 ± 0.8de 15.7 ± 1.2 c 9.4 ± 0.5efg 10.6 ± .5e 11.9 ± 0.7d 9.31.1c --
+Palmarosa oil 12.5 ± 0.2cd 10.9 ± 0.5de 8 ± 0d - 15.4 ± 0.5ghi 14.2 ± 1cdef 12.5 ± 0.4 c 11.3 ± 0.5d ----
+Peppermint oil 8.1 ± 0.5f - - - 10.6 ± 0.5mn 8.6 ± 0.4k - -----
+Rosemary oil 12.5 ± 1d 10.6 ± 1.0e 8.6 ± 0.2d - 14.7 ± 1hi 12.8 ± 0.5efg 11.2 ± 0.5cd 8.9 ± 0.2f 11.9 ± 0.5d 9.9 ± 0.7c --
+Basil oil 10.3 ± 0.5e 8.3 ± 0.5e - - - - - -----
+Vetiver oil - - - - 18.9 ± 0.9 d 15.6 ± 0.5c 12.8 ± 0.2 c 11.6 ± 0.7d ----
+Wintergreen 8.7 ± 0.51f - - - 9.9 ± 0.5 n 9.1 ± 0.1jk - -----
+Streptomycin** 20.9 ± 0.5 26.9 ± 0.5 20.9 ± 0.9
+Vehicle control - - -
+** Streptomycin disc (25 μg) as a positive reference standard; Values are mean inhibition zone (mm) ± S.D of three replicates
+Means within a column followed by different letters are statistically significant by tukey's test at p = 0.05; - no activity.B
+M
+C
+ 
+C
+o
+m
+p
+l
+e
+m
+e
+n
+t
+a
+r
+y
+ 
+a
+n
+d
+ 
+A
+l
+t
+e
+r
+n
+a
+t
+i
+v
+e
+ 
+M
+e
+d
+i
+c
+i
+n
+e
+ 
+2
+0
+0
+6
+,
+ 
+6
+:
+3
+9
+h
+t
+t
+p
+:
+/
+/
+w
+w
+w
+.
+b
+i
+o
+m
+e
+d
+c
+e
+n
+t
+r
+a
+l
+.
+c
+o
+m
+/
+1
+4
+7
+2
+-
+6
+8
+8
+2
+/
+6
+/
+3
+9
+P
+a
+g
+e
+ 
+5
+ 
+o
+f
+ 
+8
+(
+p
+a
+g
+e
+ 
+n
+u
+m
+b
+e
+r
+ 
+n
+o
+t
+ 
+f
+o
+r
+ 
+c
+i
+t
+a
+t
+i
+o
+n
+ 
+p
+u
+r
+p
+o
+s
+e
+s
+) Table 3: Antimicrobial activity of 21 essential oils against P. vulgaris, P. aeruginosa and E. coli using disc diffusion method
+Oil Name P. vulgaris P. aeruginosa E. coli
+Concentration 1:1 1:5 1:10 1:20 1:1 1:5 1:10 1:20 1:1 1:5 1:10 1:20
+A n i s e e d  o i l - - - - - - ------
+Calamus oil 11.1 ± 0.7gh 9.2 ± 0.5h - - 13.8 ± 0.5ef 12.8 ± 0.4f 9.2 ± 0.7 d 8.3 ± 0.5 d ----
+Camphor oil 8.8 ± 0.7 hi - - - 10 ± 0.5gh -- - 8 . 8  ±  1 d ---
+Cedar wood 14.1 ± 1.1f 12.9 ± 0.5g 8.2 ± 0.5f - 15.6 ± 0.5de 14.1 ± 0.9ef 8.23 ± 0.5d -----
+Cinnamon oil 29.4 ± 0.5a 27 ± 0a 18.6 ± 1.52a 14.1 ± 0.4b 33.3 ± 1.6a 32.2 ± 0.5a 24.4 ± 0.5a 21 ± 0a 29.8 ± 0.7a 26 ± 1a 23.8 ± 1a 21 ± 0.2a
+Citronella oil 19.5 ± 0.5cd 11.3 ± 0.7g - - 12.1 ± 0.5fg 10.4 ± 0.5g ------
+Clove oil 20.1 ± 1c 18.2 ± 0.5d 11.8 ± 0.5d 8 ± 0e 17.4 ± 0.7d 15.5 ± 0.2e 8.5 ± 0.5d - 17.4 ± 2c 15.1 ± 0.5c 10.8 ± 0.5e 8 ± 0c
+Eucalyptus oil - - - - - - - - 8.5 ± 1d ---
+Geranium oil 19 ± 0.2de 14.6 ± 0.2e 11 ± 1.5ef 8.3 ± 0e 21.5 ± 0.2c 19.2 ± 1.2d 9.4 ± 0.5d - 14.1 ± 1c 10.4 ± 1d --
+Lavender 10.8 ± 0.5ghi 9.3 ± 0.5h - - 12.1 ± 0.9fg 9.9 ± 0.7g ------
+Lemon oil 22.5 ± 0.5b 18.9 ± 0.5d 15.5 ± 0.5c 10.7 ± 0.2d 21.4 ± 1.1c 19.9 ± 0.7cd 9.1 ± 0.2d - 21.6 ± 0.5b 18.9 ± 0.5b 10.6 ± 0.2e -
+Lemongrass oil 14.6 ± 0.7f 12.1 ± 0.2g 9.5 ± 0.5ef - 23.4 ± 1c 19.6 ± 0.5d 9.1 ± 0.5d -----
+Lime oil 27.8 ± 0.5a 24 ± 0b 17.9 ± 0.1ab 13 ± 1c 25.5 ± 1b 23.5 ± 0.5b 13.6 ± 0.7c 9.3 ± 0.8c 22.7 ± 0.5b 18.9 ± 1b 15.6 ± 0.5c 17.6 ± 1.5b
+Nutmeg 14.5 ± 0.7f 11.9 ± 0.2g 8 ± 0 f - 15.5 ± 0.5de 12.9 ± 1f ------
+Orange oil 23.7 ± 0.7b 22.2 ± 0.7 c 16.5 ± 0.2bc 10.7 ± 0.5d 21.6 ± 0.2c 18.8 ± 0.2d 9.4 ± 0.5d - 22.9 ± 0.5b 19.4 ± 0.7b 12.4 ± 0.2d -
+Palmarosa oil 19 ± 0cd 15.8 ± 0.2 e 9.9 ± 0.2 def - 14.4 ± 0.5ef 13.2 ± 0.5ef 9.2 ± 0.2d -8 . 2  ±  0 . 5 d ---
+Peppermint oil 8.5 ± 0.2i - - - 13.4 ± .52ef 11.2 ± 0.8g ------
+Rosemary oil 17.4 ± 1cd 15.9 ± 0.5ef 9.7 ± 0de - 23.4 ± 0.2c 21.9 ± 0.5c 14.5 ± 0.5b 8.3 ± 0.5d 17.5 ± 1c 15.1 ± 0.7c 9.1 ± 0.2f -
+Basil oil 8.9 ± 0.7ghi - - - 8.23 ± 0.5h - - - 10.5 ± 0.5d 8.2 ± 0.5e --
+Vetiver oil 11.5 ± 0.5g 10.3 ± 0.2 11.4 ± 0.5de - 13.5 ± 0.5ef 11.7 ± 0.5g 8.2 ± 0.2d -----
+Wintergreen 15.8 ± 0.7ef 14.8 ± 0.5 f 9.5 ± 1 def - 10.2 - - - 8.9 ± 1d ---
+Streptomycin** 18.4 ± 0.7 16.4 ± 0.2 21.2 ± 0.1
+Vehicle control - - -
+** Streptomycin disc (25 μg) as a positive reference standard; Values are mean inhibition zone(mm) ± S.D of three replicates
+Means within a column followed by different letters are statistically significant by tukey's test at p = 0.05; - no activity.BMC Complementary and Alternative Medicine 2006, 6:39 http://www.biomedcentral.com/1472-6882/6/39
+Page 6 of 8
+(page number not for citation purposes)
+Minimum inhibitory concentration (MIC) for selected
+seven oils ranged from 0.8 to 12.8 mg/ml (Table 4). This
+study revealed that cinnamon oil showed maximum activ-
+ity with MIC values ranging from 0.8 to 3.2 mg/ml fol-
+lowed by clove oil with MIC values ranging from 1.6 to
+6.4 mg/ml against all the tested strains where as remain-
+ing oils showed moderate MIC values.
+GC/MS analysis of cinnamon oil identified thirty-eight
+phytochemicals as constituents; of these cinnamaldehyde
+was the major compound (52.4%) followed by Benzalde-
+hyde (12.31%), benzoic acid (8.20%) and benzyl alcohol
+(2.23%). Remaining chemical compounds were in trace
+amounts. The major components and their retention
+times are summarized in Table 5.
+Discussion
+Plant essential oils and extracts have been used for many
+thousands of years [22], in food preservation, pharmaceu-
+ticals, alternative medicine and natural therapies [23,24].
+It is necessary to investigate those plants scientifically
+which have been used in traditional medicine to improve
+the quality of healthcare. Essential oils are potential
+sources of novel antimicrobial compounds [25] especially
+against bacterial pathogens. In vitro studies in this work
+showed that the essential oils inhibited bacterial growth
+but their effectiveness varied. The antimicrobial activity of
+many essential oils has been previously reviewed and clas-
+sified as strong, medium or weak [26].
+In our study, cinnamon, clove, geranium, lemon, lime,
+orange and rosemary oils exhibited strong activity against
+the selected bacterial strains. Several studies [27,28] have
+shown that cinnamon, clove and rosemary oils had strong
+and consistent inhibitory effects against various patho-
+gens. Even though earlier studies have reported better
+antimicrobial activity for eucalyptus oil [29,30] our study
+showed least inhibitory activity of eucalyptus in addition
+to aniseed and camphor oils. Among all oils analyzed in
+this work, the essential oil of cinnamon was the most
+effective as an antibacterial agent. The antibacterial activ-
+ity has been attributed to the presence of some active con-
+stituents in the oils. Our GC-MS study revealed
+cinnamaldehyde to be the major constituent of cinnamon
+oil. Cinnamaldehyde was the predominant active com-
+pound found in cinnamon oil [31,32]. Earlier studies sug-
+gested that the antibacterial activity of cinnamon oil was
+probably due to their major component, cinnamaldehyde
+and their properties could be multiple. Cinnamaldehyde
+is a natural antioxidant and the animal studies suggest
+that an extract of cinnamon bark taken orally may help
+prevent stomach ulcer [33]. Cinnamaldehyde was com-
+pletely inhibiting both sensitive and resistant stain of
+Helicobacter pylori [34]. Cinnamon oil was not harmful
+when consumed in food products and it inhibited the
+growth of molds, yeast and bacteria [27]. Cinnamon
+extract had a regulatory role in blood glucose level and
+lipids and it may also exert a blood glucose-suppressing
+effect [35]. The use of commercial cinnamon preparation
+produced an improvement of oral candidiasis of HIV-
+infected patients [36]. Cinnamon oil is locally applied
+with much benefit in neuralgia and headache. As an anti-
+septic it is used as an injection in gonorrhea; as germicide
+it is used internally in typhoid fever. This oil is also used
+in the treatment of cancer and other microbial diseases
+[37]. It can be incorporated into creams, lotions, drops,
+etc. which are applied externally on the body to treat dis-
+eases caused by Aspergillus niger [38].
+An important characteristic of essential oils and their
+components is their hydrophobicity, which enable them
+to partition the lipids of the bacterial cell membrane and
+mitochondria, disturbing the cell structures and rendering
+them more permeable [39,40]. Extensive leakage from
+bacterial cells or the exit of critical molecules and ions will
+lead to death [41]. Gram-positive bacteria were more
+resistant to the essential oils than gram-negative bacteria
+[26]. In the present study, cinnamon, lime, geranium,
+rosemary, orange, lemon and clove oils were found to be
+equally effective against both gram-positive and gram-
+negative organisms.
+Conclusion
+From this study it can be concluded that many essential
+oils possess antibacterial activity. Cinnamon oil has the
+most potential bactericidal properties. We believe that the
+present investigation together with previous studies pro-
+vide support to the antibacterial properties of cinnamon
+Table 4: Minimum Inhibitory Concentration (MIC) of selected essential oils (mg/ml).
+Oil name S. aureus B. subtilis K. pneumoniae P. vulgaris P. aeruginosa E. coli
+Cinnamon oil 3.2 >1.6 3.2 >1.6 >0.8 >1.6
+C l o v e  o i l > 6 . 4> 3 . 2> 6 . 4> 3 . 2> 1 . 6> 1 . 6
+Geranium oil >12.8 >6.4 12.8 >12.8 >12.8 >6.4
+Lemon oil >12.8 >12.8 >12.8 >6.4 12.8 >6.4
+L i m e  o i l 1 2 . 8> 6 . 4> 6 . 4> 3 . 2> 6 . 4> 6 . 4
+Orange oil >12.8 >12.8 12.8 >6.4 >12.8 >12.8
+Rosemary oil >12.8 >6.4 >12.8 >6.4 >6.4 >6.4BMC Complementary and Alternative Medicine 2006, 6:39 http://www.biomedcentral.com/1472-6882/6/39
+Page 7 of 8
+(page number not for citation purposes)
+oil. It can be used as antibacterial supplement in the
+developing countries towards the development of new
+therapeutic agents. Additional in vivo studies and clinical
+trials would be needed to justify and further evaluate the
+potential of this oil as an antibacterial agent in topical or
+oral applications.
+Competing interests
+The author(s) declare that they have no competing inter-
+ests.
+Authors' contributions
+SP and MJ have carried out the experimental part such as
+selection of essential oils, inoculum preparation and anti-
+microbial evaluation. SI supervised the work, evaluated
+the results and corrected the manuscript for publication.
+All authors read and approved the final manuscript.
+Acknowledgements
+We thank ICMR, New Delhi for providing financial support. We also thank 
+the Department of Microbiology, Institute of Basic Medical Sciences (IBMS), 
+University of Madras, Chennai and Christian Medical College, Vellore, India 
+for providing the bacterial cultures. We are thankful to Mr. Sankar AGM, R 
+& D Section, Nicholas Piramal India Limited, Chennai for helping in GC/MS 
+analysis.
+References
+1. Tepe B, Daferera D, Sokmen M, Polissiou M, Sokmen A: In vitro
+antimicrobial and antioxidant activities of the essential oils
+and various extracts of Thymus eigii M. Zohary et P.H. Davis.
+J Agric Food Chem 2004, 52:1132-1137.
+2. Burt SA: Essential oils: their antibacterial properties and
+potential applications in foods: a review.  Inter J Food Microbiol
+2004, 94:223-253.
+3. Kordali S, Kotan R, Mavi A, Cakir A, Ala A, Yildirim A: Determina-
+tion of the chemical composition and antioxidant activity of
+the essential oil of Artemisia dracunculus and of the antifungal
+and antibacterial activities of Turkish Artemisia absinthium,
+A. dracunculus, Artemisia santonicum, and Artemisia spicigera
+essential oils.  J Agric Food Chem 2005, 53:9452-9458.
+4. Sylvestre M, Pichette A, Longtin A, Nagau F, Legault J: Essential oil
+analysis and anticancer activity of leaf essential oil of Croton
+flavens L. from Guadeloupe.  J Ethnopharmacol 2006, 103:99-102.
+5. Faid M, Bakhy K, Anchad M, Tantaoui-Elaraki A, Alomondpaste :
+Physicochemical and microbiological characterizations and
+preservation with sorbic acid and cinnamon.  J Food Prod 1995,
+58:547-550.
+6. Buttner MP, Willeke K, Grinshpun SA: Sampling and analysis of
+airborne microorganisms.  In Manual of Environmental Microbiology
+Edited by: Hurst CJ, Knudsen GR, McInerney MJ, Stetzenbach LD,
+Walter MV. ASM Press: Washington, DC; 1996:629-640. 
+7. Van de Braak SAAJ, Leijten GCJJ: Essential Oils and Oleoresins:
+A Survey in the Netherlands and other Major Markets in the
+European Union. CBI, Centre for the Promotion of Imports
+from Developing Countries, Rotterdam.  1999:116.
+8. Milhau G, Valentin A, Benoit F, Mallie M, Bastide J, Pelissier Y, Bessiere
+J: In vitro antimicrobial activity of eight essential oils.  J Essent
+Oil Res 1997, 9:329-333.
+9. Darokar MP, Mathur A, Dwivedi S, Bhalla R, Khanuja SPS, Kumar S:
+Detection of antibacterial activity in the floral petals of some
+higher plants.  Curr Sci 1998, 75:187.
+10. Ouattara B, Simard RE, Holley RA, Pitte GJP, Begin A: Antibacterial
+activity of selected fatty acids and essential oils against six
+meat spoilage organisms.  Inter J Food Microbiol 1997, 37:155-162.
+11. Subash Babu P, Prabuseenivasan S, Ignacimuthu S: Cinnamalde-
+hyde-A potential antidiabetic agent.  Phytomed  in press.
+12. Singh S, Majumdar DK: Effect of Ocimum sanctum fixed oil on
+vascular permeability and leucocytes migration.  Indian J Exp
+Biol 1999, 37:1136-1138.
+13. Calabrese V, Randazzo SD, Catalano C, Rizza V: Biochemical stud-
+ies on a novel antioxidant from lemon oil and its biotechno-
+logical application in cosmetic dermatology.  Drugs Exp Clin Res
+1999, 25:219-225.
+14. Aruoma OI, Spencer JP, Rossi R, Aeschbach R, Khan A, Mahmood N,
+Munoz A, Murcia A, Butler J, Halliwell B: An evaluation of the anti-
+oxidant and antiviral action of extracts of rosemary and Pro-
+vencal herbs.  Food Chem Toxicol 1996, 34:449-456.
+15. Kumar A, Samarth RM, Yasmeen S, Sharma A, Sugahara T, Terado T,
+Kimura H: Anticancer and radioprotective potentials of Men-
+tha piperita.  Biofactors 2004, 22:87-91.
+16. Arias BA, Ramon-Laca L: Pharmacological properties of citrus
+and their ancient and medieval uses in the Mediterranean
+region.  J Ethnopharmacol 2005, 97:89-95.
+17. De Billerbeck VG, Roques CG, Bessiere JM, Fonvieille JL, Dargent R:
+Effects of Cymbopogon nardus (L.) W. Watson essential oil on
+the growth and morphogenesis of Aspergillus niger.  Can J
+Microbiol 2001, 47:9-17.
+18. Cavanagh HM, Wilkinson JM: Biological activities of lavender
+essential oil.  Phytother Res 2002, 16:301-308.
+19. NCCLS (National Committee for Clinical Laboratory Standards):
+Methods for dilution antimicrobial susceptibility tests of bac-
+teria that grow aerobically.  In Approved Standard M100-S12
+Wayne. PA, NCCLS; 2002. 
+20. Prudent D, Perineau F, Bessiere JM, Michel GM, Baccou JC: Analysis
+of the essential oil of wild oregano from Martinique (Coleus
+aromaticus Benth.) – evaluation of its bacterioatatic and fun-
+gistatic properties.  J Essen Oil Res 1995, 7:165-173.
+21. Delaquis PJ, Stanich K, Girard B, Mazza G: Antimicrobial activity
+of individual and mixed fractions of dill, cilantro, coriander
+and eucalyptus essential oils.  Inter J Food Microbiol 2002,
+74:10-109.
+22. Jones FA: Herbs – useful plants. Their role in history and
+today.  Euro J Gastroenterol Hepatol 1996, 8:1227-1231.
+23. Reynolds JEF: Martindale – the Extra Pharmacopoeia.  31st edi-
+tion. London. Royal Pharmaceutical Society of Great Britain; 1996. 
+24. Lis-Balchin M, Deans SG: Bioactivity of selected plant essential
+oils against Listeria monocytogenes.  J Appl Bacteriol 1997,
+82:759-762.
+25. Mitscher LA, Drake S, Gollapudi SR, Okwute SK: A modern look at
+folkloric use of anti-infective agents.  J Nat Prod 1987,
+50:1025-1040.
+26. Zaika LL: Spices and herbs: their antibacterial activity and its
+determination.  J Food Saf 1988, 23:97-118.
+27. Matan N, Rimkeeree H, Mawson AJ, Chompreeda P, Haruthaithana-
+san V, Parker M: Antimicrobial activity of cinnamon and clove
+Table 5: Major chemical compounds of cinnamon oil (GC-MS analysis)
+S. No Rt (min) Compound Peak Area [%]
+1 7.51 Benzaldehyde 12.31
+2 7.77 Benzyl alcohol 2.23
+3 8.741 Cinnamaldehyde 52.42
+4 9.88 Benzoic acid 8.20
+5 - Others 24.84Publish with BioMed Central    and   every 
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for 
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and published  immediately upon acceptance
+cited in PubMed and archived on PubMed Central 
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+BMC Complementary and Alternative Medicine 2006, 6:39 http://www.biomedcentral.com/1472-6882/6/39
+Page 8 of 8
+(page number not for citation purposes)
+oils under modified atmosphere conditions.  Int J Food Microbiol
+2006, 107:180-185.
+28. Aureli P, Costantini A, Zolea S: Antibacterial activity of some
+plant essential oils against Listeria monocytogences.  J Food Prot
+1992, 55:344-348.
+29. Cimanga KK, Kambu , Tona L, Apers S, De Bruyne T, Hermans N,
+Totte J, Pieters L, Vlietinck AJ: Correlation between chemical
+composition and antibacterial activity of essential oils of
+some aromatic medicinal plants growing in the Democratic
+Republic of Congo.  J Ethnopharmacol 2002, 79:213-20.
+30. Takarada K, Kimizuka R, Takahashi N, Honma K, Okuda K, Kato T:
+A comparison of the antibacterial efficacies of essential oils
+against oral pathogens.  Oral Microbiol Immunol 2002, 19:61-4.
+31. Simic A, Sokovic MD, Ristic M, Grujic-Jovanovic S, Vukojevic J, Marin
+PD: The chemical composition of some Lauraceae essential
+oils and their antifungal activities.  Phytother Res 2004,
+18:713-717.
+32. Baratta MT, Dorman HJ, Deans SG, Figueiredo AC, Barroso JG,
+Ruberto G: Antimicrobial and antioxidant properties of some
+commercial essential oils.  Flav Fragr J 1998, 13:235-244.
+33. Blumenthal M: The Complete Commission E Monographs,
+Therapeutic Guide Herbal Medicines.  Boston, Mass: Integrative
+Medicine Communications; 1998:110. 
+34. Ali1 SM, Khan AA, Ahmed I, Musaddiq M, Ahmed KS, Polasa H,
+Venkateswar Rao L, Habibullah CM, Sechi LA, Ahmed N: Antimi-
+crobial activities of Eugenol and Cinnamaldehyde against the
+human gastric pathogen Helicobacter pylori.  Annals of Clinical
+Microbiology and Antimicrobials 2005, 4:20.
+35. Kim SH, Hyun SH, Choung SY: Anti-diabetic effect of cinnamon
+extract on blood glucose in db/db mice.  J Ethnopharmacol 2006,
+104:119-123.
+36. Quale JM, Landman D, Zaman MM, Burney S, Sathe SS: In vitro
+activity of Cinnamomum zeylanicum against azole resistant
+and sensitive Candida species and a pilot study of cinnamon
+for oral candidiasis.  Am J Chin Med 1996, 24:103-109.
+37. Nadkarni KM: Indian Meteria Medica.  Popular Prakashan, Bom-
+bay, India; 1976:228-231. 
+38. Pawar VC, Thaker VS: In vitro efficacy of 75 essential oils
+against Aspergillus niger.  Mycoses 2006, 49:316-323.
+39. Knobloch K, Weigand H, Weis N, Schwarm H-M, Vigenschow H:
+Action of terpenoids on energy metabolism.  In Progress in
+Essential Oil Research: 16th International Symposium on Essential Oils
+Edited by: Brunke EJ. De Gruyter, Berlin; 1986:429-445. 
+40. Sikkema J, De Bont JAM, Poolman B: Interactions of cyclic hydro-
+carbons with biological membranes.  J Biol Chem 1994,
+269:8022-8028.
+41. Denyer SP, Hugo WB: Biocide-induced damage to the bacterial
+cytoplasmic membrane.  In Mechanisms of Action of Chemical Bio-
+cides Edited by: Denyer SP, Hugo WB. The Society for Applied Bacte-
+riology, Technical Series No 27. Oxford Blackwell Scientific
+Publication, Oxford; 1991:171-188. 
+42. Rastogi RP, Mehrotra BN: Compendium of Indian medicinal
+plants.  Volume I–IV. Central Drug Research Institute, Lucknow, and
+National Institute of science communication, New Delhi, India; 1994. 
+43. Rastogi RP, Mehrotra BN: Glossary of Indian Medicinal Plants.
+National Institute of science communication, New Delhi, India; 2002. 
+Pre-publication history
+The pre-publication history for this paper can be accessed
+here:
+http://www.biomedcentral.com/1472-6882/6/39/prepub

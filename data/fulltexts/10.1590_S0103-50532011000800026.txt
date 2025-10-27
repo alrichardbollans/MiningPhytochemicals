@@ -1,0 +1,504 @@
+Short ReportS J. Braz. Chem. Soc., Vol. 22, No. 8, 1610-1615, 2011.Printed in Brazil - ©2011  Sociedade Brasileira de Química0103 - 5053  $6.00+0.00
+*e-mail: cchaves@ltf.ufpb.br
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae)
+Harley da S. Alves, Maria de F. V. de Souza and Maria C. de O. Chaves*
+Laboratório de Tecnologia Farmacêutica, Universidade Federal da Paraíba,  
+CP 5009, 58051-970 João Pessoa-PB, Brazil
+Três novos compostos: dois flavonóides [(S)-8-formil-3’,5-diidroxi-7-metoxi-6-metilflavanona 
+(1) e 3’-formil-3,4’,6’-triidroxi-2’-metoxi-5’-metilchalcona (2)] e um fenilpropanóide 
+[3,4-metilenodioxi-5-metoxi-7,8-diidrocinamato de etila (3)] foram isolados dos ramos secos de 
+Piper montealegreanum. As estruturas desses compostos foram estabelecidas através das técnicas 
+espectroscópicas UV, IV, EM e RMN (1H e 13C, 1D e 2D), além da interpretação dos dados de 
+RMN de 1H e 13C dos derivados metilados dos compostos 1 e 2.
+Three new compounds: two flavonoids [(S)-8-formyl-3’,5-dihydroxy-7-methoxy-6-
+methylflavanone (1) and 3’-formyl-3,4’,6’-trihydroxy-2’-methoxy-5’-methylchalcone (2)] and one 
+phenylpropanoid [ethyl 3,4-methylenedioxy-5-methoxy-7,8-dihydrocinnamate (3)] were isolated 
+from dried branches of Piper montealegreanum. Their structures were established by UV, IR, MS, 
+1D and 2D (1H and 13C) NMR spectroscopic techniques, besides interpretation of spectral data 
+(1H and 13C NMR) of methylated derivatives of 1 and 2 compounds.
+Keywords: Piper montealegreanum, flavanone, chalcone, phenylalcanoid
+Introduction
+Piper montealegreanum Yuncker (Piperaceae) is a shrub, 
+native to the north Brazil1 and has no previous chemical 
+studies reported. A continuing search on the chemistry and 
+bioactive agents from Brazilian north-northeast Piperaceae 
+species have resulted in the isolation of amides,2-5 
+aristolactams6,7 and propenylphenols.8-12 In this paper, 
+we report the isolation and structure elucidation of (S)-
+8-formyl-3’,5-dihydroxy-7-methoxy-6-methylflavanone 
+(1), 3’-formyl-3,4’,6’-trihydroxy-2’-methoxy-5’-
+methylchalcone (2), and ethyl 3,4-methylenedioxy-5-
+methoxy-7,8-dihydrocinnamate (3) from the branches 
+of P. montealegreanum (Figure 1). The structures of the 
+compounds were determined by interpretation of the 
+spectral data analysis of UV, IR, MS, 1H and 13C NMR, 
+including 2D NMR HMQC (heteronuclear multiple 
+quantum coherence), HMBC (heteronuclear multiple bond 
+correlation), and by comparison with those reported in the 
+literature.13
+Results and Discussion
+Compound 1 was obtained as orange-yellow crystals. 
+The MS spectrum presented a molecular ion peak at m/z 
+327.0887 (M-1)−, in LC-MS-IT-TOF apparatus (ion trap-
+time of flight liquid chromatography mass spectrometry). 
+The 1H NMR spectrum showed the presence of four 
+singlets at dH 12.63 (1H), 10.15 (1H), 3.99 (3H) and 2.05 
+(3H) consistent with the presence of chelated hydroxyls, 
+aldehyde, methoxyl and methyl groups, respectively. The 
+presence of three signals at dH, 5.43 (dd,1H, J 10.8 and 
+4.6 Hz), 2.97 (dd, 1H, J 17.0 and 10.8 Hz), 2.85 (dd,1H, J 
+4.6 and 17.0 Hz), and also signals for four coupled aromatic 
+protons at dH, 7.26 (t, 1H, J 8.0 Hz), 6.85 (brd, 1H, J 8.0 
+Hz) and 6.93 (m, 2H), suggested a flavanone nucleus14 
+with a 3’-monosubstituted B ring, deduced by analysis 
+of the multiplicity and coupling constants of the aromatic 
+protons.15 The above data and UV spectrum, with lmax at 266 
+nm, reinforced a flavanone nature for compound 1.13 Since 
+no further aromatic protons were evident, ring A should 
+be fully substituted. The presence of the signal to methine 
+carbon at dC 193.8 in the 13C NMR APT (attached proton 
+test) spectrum was taken as a proof for the presence of an 
+aldehyde group, and the low-field hydroxyl hydrogen [dH 
+Alves et al. 1611Vol. 22, No. 8, 2011
+12.63 (s, 1H)] evidenced the chelated hydroxyl at C-5 with 
+the C=O of the a,b-unsaturated carbonyl group.13
+In the HMBC spectrum, the presence of cross peaks at 
+dH 12.63 with dC 166.3 and 109.3, besides the cross peak 
+at dH 2.05 with dC 166.3, 166.1 and 109.3, evidenced the 
+existence of a methyl group at C-6 and also suggested the 
+attachment position of the methoxyl group at C-7. This was 
+confirmed by correlation of the peak at dH 10.15 (aldehyde 
+hydrogen) and dH 3.99 (methoxyl hydrogen) with dC 166.1, 
+and consequently, the placement of the formyl group at 
+C-8 (Figure 2).
+The compound 1a (Figure 1), a methylated derivative 
+of 1, showed correlations in HMQC spectrum between dH 
+3.95 / dC 64.3 and dH 3.82 / δC 55.3. The HMBC spectrum 
+displayed correlations between dH 3.95 and 2.14 / dC 164.6 
+confirming the methoxyl group at C-5. The presence of 
+cross peaks between signals in dH 3.82 / dC 159.9 supported 
+the methoxyl group at the C-3’.
+Compound 2 was obtained as yellow crystals. The MS 
+spectrum gave a molecular ion peak at m/z 327.0870 (M-1)−, 
+in LC-MS-IT-TOF apparatus. The 1H NMR spectrum 
+indicated signals at dH 7.78 and 7.84 suggesting the 
+presence of protons on a a,b-unsaturated ketone moiety.13,16 
+The above data and UV absorption bands (lmax) at 317 and 
+282 nm suggested a chalcone structure for compound 2.13 
+Signals for four coupled aromatic protons: a triplet at dH 
+7.33 (1H, J 7.8 Hz), a multiplet at dH 7.28-7.23 (m, 2H) 
+and a double double doublet at dH 6.97 (1H, J 7.8, 2.0 and 
+1.6 Hz) suggested a 3’-substituted B ring.15 Additionally, 
+the 1H NMR spectrum showed tree singlets at dH, 2.01 (3H), 
+4.01 (3H) and 10.17 (1H), consistent with the presence 
+of methyl, methoxyl and aldehyde groups, respectively, 
+besides two hydroxyl group singlets at dH 12.83 and 
+14.21. The two low-field hydroxyl protons evidenced a 
+formyl group at C-3’. This conclusion is achieved since 
+the down-field shift of OH-4’ (dH 12.83) can be explained 
+by hydrogen-bonding with the oxygen atom of the formyl 
+substituent at a
+ 
+neighboring carbon atom and at the same 
+time that the down-field shift of OH-6’ (dH 14.21) is 
+caused by chelation between the 6’-hydroxyl proton and 
+the carbonyl oxygen of the a,b-unsaturated carbonyl 
+group function.13 This intramolecular hydrogen bonding 
+corroborated the assignments of the signals at d 7.78 (d, 1H) 
+and d 7.84 (d, 1H) to a and b positions, respectively.16 
+Spectral analysis of 2a showed Ha and Hb signals with 
+a marked difference in chemical shifts [d 7.29 (d, 1H, 
+J 16.0 Hz, H-7) and d 6.98 (d, 1H, J 16.0 Hz, H-8)] related 
+with the absence of the intramolecular hydrogen bonding 
+with the C=O of the a,b-unsaturated carbonyl group. The 
+O
+O
+CHO
+MeO
+Me
+R1
+R2
+1
+2
+3
+45
+6
+7
+8
+9
+10
+1'
+2'
+3'
+4'
+5'
+6'
+1   R1 = R2 = OH
+1a R1 = R2 = OMe
+O
+CHO
+R2
+Me
+R1
+R3
+1
+2
+3
+4
+5
+6
+8
+7
+9
+1'
+2'
+3'
+4'
+5'
+6'
+2   R1 = R2 = R3 = OH
+2a R1 = R2 = R3 = OMe
+OMe
+O
+O
+O
+OMe
+O
+1
+2
+3
+4
+5
+6
+7
+8
+9 10 11
+12
+3
+Figure 1. Structures of the isolated compounds 1-3 from Piper montealegreanum.
+O
+O
+CHO
+MeO
+Me
+OH
+OH
+1
+2
+3
+45
+6
+7
+8
+9
+10
+1'
+2'
+3'
+4'
+5'
+6'
+Figure 2. HMBC correlations of 1.
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae) J. Braz. Chem. Soc.1612
+coupling constant (16.0 Hz) observed in 2a indicated the 
+E-isomer for the double bond.16 The placement of the other 
+groups in the A-ring was made on the basis of the HMBC 
+correlations (Figure 3): dH 14.21 (s, 1H, OH-6’) / dC 169.8 
+and 109.0; dH 12.83 (s, 1H, OH-4’) / dC 166.6, 109.2 and 
+109.5; dH 2.01 (s, 3H) / dC 109.2; dH 10.17 (s, 1H) / dC 
+166.6 and dC 109.5; dH 4.01 / dC 168.5 that evidenced the 
+hydroxyl, formyl, methyl and methoxyl groups at C-6’-4’, 
+C-3’, C-5’ and C-2’, respectively.
+The hydroxyl group in the C-3 was confirmed for 
+the methylated derivative of 2 (Figure 1) which showed 
+correlation between dH 3.80 / dC 55.3 in the HMQC 
+spectrum and dH 3.80 / dC 159.9 (C-3) in the HMBC 
+spectrum. Other correlations observed in the HMQC 
+spectrum of 2a were dH 3.86 / dC 62.7 and dH 3.75 / dC 61.9. 
+In the HMBC spectrum, the signals at dH 3.86 and 3.75 
+showed correlations with dC 163.0 and 161.8, respectively, 
+providing support for the presence of the methoxyl groups 
+at the C-6’ and C-4’ position.
+Formyl flavonoids have been reported from a 
+few species in the plant kingdom. Early reports 
+included a description of 2’,4-dihydroxy-4’-methoxy-5’-
+formylchalcone from Psoralea corylifolia (Fabaceae).17 
+Its isomeric compound, with methoxy group at the 
+2’-position, has been reported from the same species.18 
+2’,4’,6’- trihydroxy-3’-formylchalcone has been 
+reported from Psidium acutangulum (Myrtaceae)19 and 
+its retrochalcone derivative was obtained from Anredera 
+scandens (Basellaceae).20 3’-formyl-4’,6’-dihydroxy-
+2’-methoxy-5’-methylchalcone and (2S)-8-formyl-5-
+hydroxy-7-methoxy-6-methylflavanone were isolated 
+from Cleistocalyx operculatus (Myrtaceae).13
+The compound 3 was obtained as yellow powder. The 
+1H spectrum showed two doublets in dH 6.37 (J 1.4 Hz, 
+1H) and dH 6.34 (J 1.4 Hz, 1H) typical of meta aromatics 
+hydrogens in addition to two singlets in dH 5.91 (2H) 
+and 3.86 (3H) typical of methylenedioxy and methoxyl 
+groups, respectively. These data suggested the presence 
+of tetrasubstituted aromatic ring. The signals in dH 4.11 
+(q, 2H, J 7.0 Hz) and 1.23 (t, 3H, J 7.0 Hz) supported the 
+presence of ethyl group attached to heteroatom and also 
+two signals at dH 2.84 (t, 2H, J 7.5 Hz) and 2.55 (t, 2H, 
+J 7.5 Hz) typical of methylene hydrogens.
+The 13C NMR spectrum of 3 showed 13 signals. 
+The signals at dH 2.84, 2.55 and 4.11 are, in the HMBC 
+spectrum, correlated with a signal characteristic of 
+carbonyl ester at dC 172.8, confirming the assignment of 
+the chemical shifts for H-7, H-8 and H-10, respectively, 
+and dC 172.8 for C-9 of a dihydrocinnamoyl group. The 
+HMBC spectrum also showed correlations between dH 
+3.86 / dC 148.8, dH 5.91 / dC 143.5 and 133.5, confirming 
+the methoxyl and methylenedioxy groups at C-5 and 
+C-3-4, respectively.
+Experimental
+General procedures
+Melting points (mp) were determined on a MQAPF-302 
+melting point digital apparatus. UV spectra were recorded 
+on a Vankel-50 UV-Vis spectrophotometer. IR spectra were 
+obtained on an FT-IR-1750 spectrophotometer, Perkin-
+Elmer apparatus. The spectra mass were obtained on a 
+SHIMADZU LCMS-IT-TOF (225-07100-34) equipped 
+with a Z-spray ESI (electrospray) source and operated in 
+negative mode.
+1H and 13C NMR (1D and 2D) spectra were recorded 
+on a Varian Mercury 200 spectrometer in CDCl3 and 
+(CD3)2CO, with TMS as internal standard. Sephadex LH-20 
+and silica gel 60 (PF254 art. 7749 and art. 7731) were 
+purchased from Merck.
+The methylated flavonoids were obtained by treatment 
+of the sample, dissolved in dry propanone, with 1.1 
+equiv. of dimethyl sulphate (Me2SO4) and 1.1 equiv. of 
+potassium carbonate (K2CO3) to each free hydroxyl. The 
+reactions were carried at room temperature during 12 h. 
+After removal of the solvent in vacuum, the residue was 
+suspended in H2O (50 mL), treated with 5 mL of ammonia 
+and extracted with CHCl3 (3 × 15 mL). The CHCl3 solution 
+was dried with Na2SO4, filtrated and concentrated to 
+dryness.13
+Plant material
+Branches of Piper montealegreanum Yuncker was 
+collected in Belém (Pará State, Brazil), in December 2002 
+and identified in the Botanical Garden, Rio de Janeiro (Rio 
+de Janeiro State, Brazil). A voucher specimen (MSP-010) 
+was deposited at Emilio Goeldi Museum, Belém.
+O
+CHO
+HO
+Me
+OH
+OH
+1
+2
+3
+4
+5
+6
+8
+7
+9
+1'
+2'
+3'
+4'
+5'
+6'
+OMe
+Figure 3. HMBC correlations of 2.
+Alves et al. 1613Vol. 22, No. 8, 2011
+Extraction and isolation
+The powered material of P. montealegreanum (1.3 kg) 
+was exhaustively extracted with EtOH (4 × 2.0 L), the 
+solvent removed under reducted pressure furnished a green 
+residue (115.0 g). The crude extract amount of 13.5 g was 
+chromatographed over Sephadex gel LH-20 and eluted 
+with methanol (column 1) yielding 43 fractions. Fraction 
+17 was further fractionated over Sephadex gel LH-20 
+column providing 5 fractions. Fraction 3 after submitted 
+to recristalization with a chloroform and methanol mixture 
+yielding (S)-8-formyl-3’,5-dihydroxy-7-methoxy-6-
+methyl-flavanone (1) (30 mg).
+Fraction 18 (column 1) was chromatographed 
+over Sephadex LH-20 and yielded five fractions. 
+Fraction 4 gave 3’-formyl-3,4’,6’-trihydroxy-2’-methoxy-
+5’-methylchalcone (2) (40 mg), after submitted to 
+recristalization with a chloroform and methanol mixture.
+Fractions 8-11 (column 1) were also fractionated 
+over Sephadex gel yielding 29 fractions. Fraction 8-14, 
+after recrystallization with chloroform, gave ethyl 
+3,4-methylenedioxy-5-methoxy-7,8-dihydrocinnamate 
+(3) (12 mg).
+Compound 1. Orange yellow crystals (CDCl3:MeOH); 
+mp 162 °C; [a]D25 −20 (MeOH, 0.025); UV lmax/nm 
+(MeOH): 266; UV lmax/nm (AlCl3): 286, 323 (sh); IR 
+nmax/cm-1 (KBr): 3425, 1688, 1620, 1570, 1464; MS [M-1]− 
+327.0887; 1H and 13C NMR spectral data, see Table 1.
+Compound 2. Yellow crystals (CHCl3:MeOH); mp 
+164 °C; UV lmax/nm (MeOH): 317, 282; UV lmax/nm 
+(AlCl3): 349, 306; IR (KBr) nmax/cm-1: 3445, 1616, 1581, 
+1422; MS [M-1]− 327.0870; 1H and 13C NMR spectral 
+data, see Table 1.
+Compound 1a and 2a. 1H and 13C NMR spectral data, 
+see Table 2.
+Compound 3. Amorphous green powder; IR (KBr) 
+nmax/cm-1: 2924, 2853, 1734; MS [M+] 252; 1H and 13C NMR 
+spectral data, see Table 3.
+Table 1. 1H and 13C NMR data for compounds 1 and 2
+Position Chemical shift, d (1H) Chemical shift, d (13C)
+1 2 1 2
+1 - - - 137.1
+2 5.43 (dd, 1H, J 10.8 and 4.6 Hz) 7.28-7.23 (m, 1H) 78.3 115.5
+3 2.97 ax, (dd, 1H, J 17.0 and 10.8 Hz) - 45.0 158.9
+2.85 eq, (dd, 1H, J 4.6 and 17.0 Hz)
+4 - 6.97 (ddd, 1H, J 7.8. 2.0 and 1.6 Hz) 188.9 119.1
+5 - 7.33 (t, 1H, J 7.8 Hz) 166.3 131.1
+6 - 7.28-7.23 (m, 1H) 109.3 121.3
+7 - 7.78 (d, 1H, J 15.5 Hz) 166.1 145.8
+8 - 7.84 (d, 1H, J 15.5 Hz) 109.9 126.3
+9 - 165.6 193.8
+10 - - 107.5 -
+1’ - - 139.7 109.0
+2’ 6.93 (m, 2H) - 112.8 168.5
+3’ - - 156.3 109.5
+4’ 6.85 (dl, 1H, J 8.0 Hz) - 115.8 166.6
+5’ 7.26 (t, 1H, J 8.0 Hz) - 130.2 109.2
+6’ 6.93 (m, 2H) - 117.8 169.8
+OMe 3.99 (s, 3H) 4.01 (s, 3H) 64.6 67.0
+Me 2.05 (s, 3H) 2.01 (s, 3H) 7.2 6.7
+CHO 10.15 (s, 1H) 10.17 (s, 1H) 193.8 194.3
+OH-5 12.63 (s, 1H) - - -
+OH-4’ - 12.83 (s, 1H) - -
+OH-6’ - 14.21 (s, 1H) - -
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae) J. Braz. Chem. Soc.1614
+Table 2. 1H and 13C NMR data for methylated compounds 1a and 2a
+Position Chemical shift, d (1H) Chemical shift, d (13C)
+1a 2a 1a 2a
+1 - - - 135.5
+2 5.48 (dd, 1H, J 12.0 and 4.0 Hz) 7.02 (m, 1H) 78.9 113.2
+3 3.02 ax (dd, 1H, J 16.7 and 12.0 Hz); 
+2.87 eq (dd,1H, J 16.7 and 4.0 Hz)
+- 45.3 159.9
+4 - 6.91 (m, 1H) 188.8 116.9
+5 - 7.27 (t, 1H, J 7.8 Hz) 164.6 129.9
+6 - 7.12 (m, 1H) 117.3 121.4
+7 - 7.29 (d, 1H, J 16.0 Hz) 164.8 146.4
+8 - 6.98 (d, 1H, J 16.0 Hz) 117.9 128.3
+9 - - 165.6 193.7
+10 - - 115.6 -
+1’ - - 139.6 122.1
+2’ 7.03-6.99 (m, 2H) - 111.8 158.9
+3’ - - 159.9 119.23
+4’ 6.94-6.88 (m, 1H) - 113.9 161.8
+5’ 7.35 (t, 1H, J 8.2 Hz) - 130.0 125.1
+6’ 7.03-6.99 (m, 2H) - 118.0 163.0
+OMe-3’ 3.82 (s, 3H) - 55.3 -
+OMe-5 3.95 (s, 3H) - 64.3 -
+OMe-7 3.83 (s, 3H) - 62.3 -
+Me 2.14 (s, 3H) 2.19 (s, 3H) 8.4 8.9
+CHO 10.33 (s, 1H) 10.30 (s, 1H) 188.2 188.2
+OMe-2’ - 3.78 (s, 3H) - 64.5
+OMe-4’ - 3.75 (s, 3H) - 61.9
+OMe-6’ - 3.86 (s, 3H) - 62.7
+OMe-3 - 3.80 (s, 3H) - 55.3
+Table 3. 1H (200 MHz) and 13C (50 MHz) NMR data for compound 3 and correlations obtained in HMQC and HMBC experiments, J (Hz) in parenthesis
+Positions HMQC HMBC
+dH dC × dH (1J) dC × dH (2J) dC × dH (3J)
+1 - 135.2
+2 6.37 (d, 1H, J 1.4 Hz) 102.3 148.8 107.5
+3 - 148.8
+4 - 133.5
+5 - 143.5
+6 6.34 (d, 1H, J 1.4 Hz) 107.5 143.5 133.5; 102.3; 31.1
+7 2.84 (t, 2H, J 7.5 Hz) 31.1 135.2; 36.3 172.8; 107.5; 102.3
+8 2.55 (t, 2H, J 7.5 Hz) 36.3 172.8; 31.1 135.2
+9 - 172.8
+10 4.11 (q, J 7.0 Hz) 60.5 14.2 172.2
+11 1.23 (t, 3H, J 7.0 Hz) 14.2
+12 5.91 (s, 2H) 101.2 148.8; 133.5
+OMe-5 3.86 (s, 3H) 56.5 143.5
+Alves et al. 1615Vol. 22, No. 8, 2011
+Acknowledgements
+The authors thank CNPq (Conselho Nacional de 
+Desenvolvimento Científico e Tecnológico) for financial 
+support, Laboratório de Espectrometria de Massas do 
+Nordeste (LEMANOR) for MS spectra and Maria das 
+Graças Bichara Zoghbi for plant material.
+Supplementary Information
+Supplementary information (1H and 13C NMR data for 
+compounds 1, 2, 3, 1a and 2a, Figures S1-S15) is available 
+free of charge at http://jbcs.org.br as a PDF file.
+References
+ 1. Yuncker, T. G.; Hoehnea 1972, 2, 36.
+ 2. Araújo-Jr, J. X.; Chaves, M. C. O.; Da Cunha, E. V. L.; 
+Gray, A. I.; Phytochemistry 1997, 44, 559.
+ 3. Chaves, M. C. O.; Santos, B. V. O.; Biochem. Syst. Ecol. 1998, 
+27, 113.
+ 4. Chaves, M. C. O.; Da Cunha, E. V. L.; Fitoterapia 2001, 72, 
+197.
+ 5. Chaves, M. C. O.; Figueiredo-Jr, A. G.; Santos, B. V. O.; 
+Fitoterapia 2003, 74, 181.
+ 6. Araújo-Jr, J. X.; Chaves, M. C. O.; Da Cunha, E. V. L.; 
+Gray, A. I.; Biochem. Syst. Ecol. 1999, 27, 325.
+ 7. Cardozo-Júnior, E. L.; Chaves, M. C. O.; Pharm. Biol. 2003, 
+41, 216.
+ 8. Oliveira, L. C. P.; Mause, R.; Nunomura, S. M.; J. Braz. 
+Chem. Soc. 2005, 16, 1439.
+ 9. Chaves, M. C. O.; Santos, B. V. O.; Biochem. Syst. Ecol. 1999, 
+27, 539.
+ 10. Chaves, M. C. O.; Santos, B. V. O.; Fitoterapia 2002, 73, 547.
+ 11. Santos, B. V. O.; Chaves, M. C. O.; da Cunha, E. V. L.; 
+Gray, A.I.; Biochem. Syst. Ecol. 1997, 25, 471.
+ 12. Santos, B. V. O.; Chaves, M. C. O.; da Cunha, E. V. L.; 
+Gray, A. I.; Phytochemistry 1998, 49, 1381.
+ 13. Ye, Chun L.; Yan-Hua, L.; Dong-Zhi, W.; Phytochemistry 2004, 
+65, 445.
+ 14. Asai, T.; Hara, N.; Kobayashi, S.; Fujimoto, Y.; Phytochemistry 
+2008, 69, 1234.
+ 15. Alavez-Solano, D.; Reyes-Chilpa, R.; Jiménez-Estrada, M.; 
+Gómez-Garibay, F.; Chavez-Uribe, I.; Sousa-Sánchez, M.; 
+Phytochemistry 2000, 55, 953.
+ 16. Quintin, J.; Desrivot, J.; Thoret, S.; Le Menez, P.; Cresteil, T.; 
+Lewin, G.; Bioorg. Med. Chem. Lett. 2009, 19, 167.
+ 17. Gupta, S. R.; Seshadri, T. R.; Good, G. R.; Indian J. Chem. 
+1975, 13B, 632.
+ 18. Gupta, B. K.; Gupta, G. K.; Dhar, K. L.; Atal, C. K.; 
+Phytochemistry 1980, 19, 2034.
+ 19. Miles, D. H.; de Medeiros, J. M. R.; Chittawong, V.; 
+Hedin, P. A.; Swithenbank, C.; Lidert, Z.; Phytochemistry 1991, 
+30, 1131.
+ 20. Calzada, F.; Mata, R.; Bye, R.; Linares, E.; Phytochemistry 
+1990, 29, 2737.
+ 21. Silva, T. M. S.; Carvalho, M. G.; Braz-Filho, R.; Quim. Nova 
+2009, 32, 1119.
+Submitted: December 8, 2009
+Published online: April 19, 2011
+Supplementary Information SIJ. Braz. Chem. Soc., Vol. 22, No. 8, S1-S8, 2011.Printed in Brazil - ©2011  Sociedade Brasileira de Química0103 - 5053  $6.00+0.00
+*e-mail: cchaves@ltf.ufpb.br
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae)
+Harley da S. Alves, Maria de F. V. de Souza and Maria C. de O. Chaves*
+Laboratório de Tecnologia Farmacêutica, Universidade Federal da Paraíba,  
+CP 5009, 58051-970 João Pessoa-PB, Brazil
+Figure S1. 1H NMR spectrum (d, CDCl3, 200 MHz) of 1.
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae) J. Braz. Chem. Soc.S2
+Figure S2. 1H NMR spectrum (d 8.0-2.8 ppm, CDCl3, 200 MHz) of 1.
+Figure S3. 13C NMR (APT) spectrum (d, CDCl3 50MHz) of 1.
+Alves et al. S3Vol. 22, No. 8, 2011
+Figure S4. 1H NMR spectrum (d, CDCl3, 200 MHz) of 1a.
+Figure S5. 1H NMR spectrum (d 7.8-5.4 ppm, CDCl3, 200 MHz) of 1a.
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae) J. Braz. Chem. Soc.S4
+Figure S6. 13C NMR (APT) spectrum (d, CDCl3 50MHz) of 1a.
+Figure S7. 1H NMR spectrum (d, (CD3)2CO, 200 MHz) of 2.
+Alves et al. S5Vol. 22, No. 8, 2011
+Figure S8. 1H NMR spectrum (d 7.4-6.8 ppm, (CD3)2CO, 200 MHz) of 2.
+Figure S9. 13C NMR (APT) spectrum (d, (CD3)2CO, 50 MHz) of 2.
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae) J. Braz. Chem. Soc.S6
+Figure S10. 1H NMR spectrum (d, CDCl3, 200 MHz) of 2a.
+Figure S11. 1H NMR spectrum (d 7.4-6.8 ppm, CDCl3, 200 MHz) of 2a.
+Alves et al. S7Vol. 22, No. 8, 2011
+Figure S12. 13C NMR (APT) spectrum (d, CDCl3 50MHz) of 2a.
+Figure S13. 1H NMR spectrum (d, CDCl3, 200 MHz) of 3.
+Three New Compounds from Piper montealegreanum Yuncker (Piperaceae) J. Braz. Chem. Soc.S8
+Figure S14. 1H NMR spectrum (d 6.5-1.0 ppm, CDCl3, 200 MHz) of 3.
+Figure S15. 13C NMR (APT) spectrum (d, CDCl3, 50 MHz) of 3.

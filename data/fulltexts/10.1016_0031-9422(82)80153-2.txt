@@ -1,0 +1,254 @@
+Phyfochemistry, Vol. 21, No. 6, pp. 1415-1417, 1982. 
+Printed in Great Britain. 
+0031-9422/82/061415-03$03.00/0 
+Pergamon Press Ltd. 
+GRAMODENDRINE, A BIPIPERIDYL-INDOLE ALKALOID 
+FROM LUHAWS ARBUSTUS SUBSP. CALCARATUS 
+WILLIAM J. KELLER* and GEORGE M. HATFrELDt 
+*School of Pharmacy, Northeast Louisiana University, Monroe, LA 71209, U.S.A.; ICollege of Pharmacy, University of 
+Michigan, Ann Arbor, MI 48109, U.S.A. 
+(Revised received 9 October 1981) 
+Key Word Index--Lupinus arbustus subsp. cnlcarutus; Leguminosae; bipiperidyl-indole alkaloid; gramoden- 
+drine (l-acetyl-1, 2, 3, 4-tetrahydro-5-[l-(l~-indol-3-yl-methyl)-2-piperidinyl]-pyridine). 
+Abstract-A new bipiperidyl-indole alkaloid, gramodendrine, was isolated from Lupinus arbustus subsp. 
+cafcarutus. Its structure was determined from spectral data, degradation to methoxymethylindole and 
+synthesis from ammodendrine. 
+The new alkaloid 1 was isolated from the previously 
+uninvestigated Lupinus arbustus subsp. calcaratus 
+during the course of an investigation dealing with the 
+CNS depressant activity of the alkaloid fraction from 
+this plant. GC-MS analysis of 1 indicated a M’ at m/z 
+208. Of the numerous quinolizidine and piperidine 
+alkaloids isolated from the genus Lupinus, only am- 
+modendrine [l-acetyl-1,2,3,4-tetrahydro-S-(2-piper- 
+idinyl)pyridine] has this MW [l-5]. Analysis of 
+this compound indicated that 1 was identical to am- 
+modendrine in GC-MS R, and fragmentation pattern 
+but other chromatographic (TLC) and spectral (NMR, 
+IR) properties were distinctly different for the two 
+compounds. These data suggested thermal decomposit- 
+ion of the new alkaloid to ammodendrine during the 
+course of GC. This was confirmed by prep. GC of 1 
+followed by TLC of the isolated degradation product, 
+which was found to be identical to ammodendrine. 
+The principal difference between the ‘H NMR 
+spectra of 1 and ammodendrine was the presence of 
+signals due to 8 additional protons in the former. Five 
+were found in the aromatic region (67.b7.7) and 
+these, together with the broad peak due to an 
+exchangeable proton at 68.3, indicated the presence 
+of an indole ring. This was confirmed by the IR 
+spectrum which was remarkably similar to that of 
+ammodendrine except for the presence of a sharp 
+band at 3480 cm-‘, which corresponded to an indole 
+NH absorption. Other notable signals in the ‘H NMR 
+spectrum of 1 were those at 82.1 (3H) and 6.6 (1H) 
+I 
+due to the amide methyl and vinyl protons, respec- 
+tively, of the ammodendrine moiety. However, unlike 
+the proton spectrum of ammodendrine, the isolated 
+alkaloid lacked a peak due to an exchangeable piperi- 
+dine NH proton in the 6 l-3 region. This suggested that 
+the indole containing substituent of 1 was attached to 
+the piperidine nitrogen. 
+The decoupled ‘% NMR spectra of both 1 and 
+ammodendrine exhibited double peaks for numerous 
+carbons due to the presence of both amide con- 
+formations. The resulting complexity precluded a 
+complete analysis of these spectra without additional 
+data. However, the spectrum of 1 was consistent with 
+an indole derivative due to the presence of signals in 
+the Slll-136 region. The rest of the spectrum was 
+similar to that of ammodendrine. 
+Mass spectral analysis of 1, using both EI and CI 
+with probe temperatures below 150”, established a 
+MW of 337. This indicated that the indole containing 
+substituent attached to the ammodendrine moiety 
+consisted of an indol-3-ylmethyl group. The other 
+major peaks in the EI spectrum (m/z 207 and 130) 
+supported this conclusion since both could arise from 
+cleavage of methylene indole from 1. 
+The above data suggested that 1 was N-(indol- 
+3-yl-methyl)-ammodendrine. The proposed structure is 
+an analog of gramine [3-(dimethylaminomethyl) in- 
+dole], an alkaloid known for its tendency to react 
+with nucleophiles after quaternization of the 
+dimethylamino group [6]. Similar reactivity has been 
+reported for other aminomethylindole containing al- 
+kaloids [7,8]. The isolated alkaloid exhibited the same 
+sensitivity to nucleophiles and yielded 3-methoxy- 
+methylindole (TLC, EI-MS, ‘H NMR) when treated 
+with Me1 in methanolic KOH. Under these con- 
+ditions gramine also yields the same product [9]. This 
+reactivity may explain the difficulty encountered in 
+forming a stable salt of 1. Efforts to form the HCI, 
+HC104, oxalate and picrate derivatives were all un- 
+successful due to the apparent decomposition of the 
+alkaloid. 
+1415 
+1416 W. J. KELLER and G. M. HATFIELD 
+The final proof of the proposed structure was 
+obtained by the synthesis of 1 from ammodendrine by 
+way of the Mannich reaction [lo]. A yield of over 
+90% was obtained and the product was identical to 
+the isolated alkaloid (TLC, ‘H and 13C NMR, MS, IR, 
+UV). 
+The close structural and biosynthetic [ll] relation- 
+ship of 1 to both gramine and ammodendrine led to 
+the name gramodendrine for this novel bipiperidyl- 
+indole alkaloid. Experiments designed to characterize 
+the pharmacology of gramodendrine are currently in 
+progress. 
+EXPERIMENTAL 
+Plant material. Lupinus abustus Doug]. ex Lindl. 
+subsp. calcaratus (Kell.) Dunn was collected 10 miles east 
+of the Hailey city limits in the Cold Creek region of Blaine 
+County, Idaho, on July 9, 1979. The plant was identified by 
+Dr. David B. Dunn and a voucher specimen (UMO 130847) 
+is on deposit at the University of Missouri Herbarium, 
+Columbia, MO 65201. 
+Extraction and isolation of gramodendrine (1). The dried, 
+powdered (40 mesh) above ground plant parts (200g) were 
+homogenized with EtOH and processed as previously des- 
+cribed [12] to give a crude alkaloid fraction. TLC analysis of 
+the extract (Si gel, CHCIJ-MeOH- M NH.,OH, 1OO:lO:l) 
+revealed the presence of several alkaloids (iodoplatinate 
+reagent). One of these (R, 0.73) was isolated by prep. TLC 
+(1 mm Si gel PF254) with the above solvent system. The 
+band containing the desired alkaloid was detected under UV 
+light (254nm) and was eluted with MeOH. This eluate was 
+taken to dryness and the residue extracted with CH2C12. The 
+latter extract was then subjected to HPLC. The system 
+consisted of a Waters Associates 6OOOA solvent pump, U6K 
+sample injector, 440UV detector (280nm), and two 
+3.9 mm X 30 cm pPorasilR (IO CL m silica) columns in series. 
+The solvent, CH2CI,-MeOH- M NHIOH (275:10:1), was 
+utilized at a flow rate of 2 ml/min and the desired alkaloid 
+was eluted in 5 min. Following HPLC, 1 was chromato- 
+graphically homogeneous in the above TLC and HPLC 
+systems. The isolated alkaloid also gave a single peak (R, = 
+17 min) using the following X-MS system. The column 
+(2 m x 2 mm glass) contained 3% OV-17 and was eluted with 
+N2 (30ml/min) and temp. programmed from 140” to 265” at 
+@/min. Sample components eluted from the column were 
+detected by EI-MS (70eV). Under these conditions the 
+isolated alkaloid gave a mass spectrum identical to am- 
+modendrine [13]. 
+The alkaloid was obtained as an amorphous solid and 
+attempts to prepare a crystalline salt were unsuccessful. The 
+yield of gramodendrine from the above isolation scheme 
+was 28 mg. However, quantitative analysis (TLC) indicated 
+that the dried plant material contained 0.02% of this al- 
+kaloid. 
+Gramodendtine (1). UV A:$‘” nm (log E): 217 (4.55) and 
+248 (4.24). IR v$,~~‘~ cm-‘: 3480 (NH), 2940, 1630 (C=O), 1415, 
+1350, 1260, 1180, 1085 and 985. EI-MS (direct inlet, probe 
+below 150’) 70 eV, m/r (rel. int.): 337 [Ml’ (30), 207 [M - 
+1301’ (40), 165 [M-130-COCH,]+ (20), and 130 [M-207]+ 
+(100). CI-MS (direct inlet, probe below 150’) methane, m/z 
+(rel. int.): 338 [MH]+ (20), 209 [protonated ammodendrine 
+from thermal decomposition of 11’ (lOO), and 130 [MH- 
+208]+ (38). ‘H NMR (360MHz, CDCl,): 1.11 m, 1.44 m, 
+1.75 m and 2.55 m (lOH, H2-3A, H,AA, HZ-3B, H&B and 
+Hz-5B), 2.07 and 2.08 (3H, s split by amide conformations, 
+COCHS), 2.15 (lH, m, H-6B axial), 2.35 (H, m, H-6B equa- 
+torial), 2.95 (IH, m, H-2B), 3.10 (lH, d, J = 13 Hz, indol-3-yl 
+-CH-N), 3.40 (lH, m, H-2A, axial), 3.55 m and 3.80 m (IH, 
+split by amide conformations, H-2A, equatorial), 3.95 (lH, 
+d, J = 13 Hz, indol-3-yl-CH-N), 6.60 and 7.27 (lH, s split 
+by amide conformations, H-6A). 7.10 (3H, m, H-2C, H-5C 
+and H-6C), 7.25 (lH, d, J=7Hz, H-7C), 7.65 (lH, d, 
+J = 7 Hz, H-IQ, 8.30 (lH, s, NH). Interpretation was aided 
+by decoupling, comparison with the spectrum of am- 
+modendrine [14] and related compounds [7,8], and prepn of 
+the indol-3-yl-CD2-N derivative of 1. The deutzrated 
+derivative was prepared as described below using deuterated 
+paraformaldehyde and lacked the doublets at 63.10 and 3.95 
+observed in the spectrum of 1. ‘%Z NMR (22.63 MHz, CDC13, 
+off resonance multiplicity where possible to interpret): 21.0, 
+21.5, 21.8, 22.2, 24.8 t, 25.9 t, 32.2 t and 32.6 t (C-3A, C-4A, 
+C-3B, C-4B, C-5B and CH3) 40.8 t and 44.8 t (C-2A), 
+50.6 t and 50.9 t (indol-3-yl-C-N), 52.9 t and 53.2 t (CXB), 
+68.3 d and68.9d (C-2B), lll.O(d,C-7C), 119.1, 119.6. 120.9, 
+121.7, 122.5, 123.4, 123.6, 124.1 (C-5A, C-6A, C-2C, C-3C, 
+C-4C, C-5C and C-6C), 127.6 (s, C-3,C), 136.4 (s, C-7,(Z), 
+168.0 (s, C=O) [IS]. The doubling of some signals is due to 
+the presence of two amide conformations. 
+Degradation of 1 to 3-methoxymethylindole. 1 (15.8 mg) 
+was dissolved in 1 ml of MeOH and treated with methyl 
+iodide (50 ~1) and 25% methanolic KOH (50 ~1) as reported 
+previously for the degradation of gramine [9]. The reaction 
+mixture was then evapd to dryness and the residue extracted 
+with ether. The residue from this extraction was subjected 
+to column (1.5 cm x 20 cm) chromatography using Si gel and 
+CH+&-MeOH (20: 1). The methoxymethylindole fraction 
+was further purified by HPLC, as previously described, 
+using a 3.9 mm x 30cm PPorasil” column with ethyl 
+acetate-n-hexane (5 : I) at 5 ml/min. The yield of chromato- 
+graphically pure methoxymethylindole was 2.3 mg. ‘H NMR 
+(360MHz, acetone-d,): 3.3 (3H. s, CH3), 4.6 (2H, s, CH2), 
+7.05 t, J = 8.5 Hz and 7.10 t, J = 8.5 Hz (2H, H-5 and H-6), 
+7.30 (lH, s, H-2), 7.39 (IH, d, J = 8.5 Hz, H-7), and 7.62 (IH, 
+d, .J = 8.5 Hz, H-4). GC-MS 70 eV, m/z (rel. int.): 130 [M - 
+OCHs]+ (loo), 103 [M - OCHj - HCN]’ (12), 77 [M - OCH,- 
+HCN-HC=CH]+ (20) [16]. These spectral properties were 
+identical to those of methoxymethylindole prepared from 
+gramine. 
+Synthesis of gramodendreine. Ammodendrine perchlorate 
+(30 mg) and indole (11.3 mg) were dissolved in 0.5 ml EtOH 
+with the aid of heat. Formalin (30 ~1) was added after 
+cooling to room temp. and the reaction mixture was heated 
+at 50” for 16 hr. The solvent was then removed and the residue 
+subjected to column (1.5 cm x 25 cm) chromatography using 
+Si gel and CH#&-MeOH-18M NH,OH (1OO:lO:l). A 
+chromatographically homogeneous (TLC) fraction contained 
+30 mg of 1 (yield 92%). This material was identical to the plant 
+derived alkaloid (TLC, HPLC, ‘H and “C NMR, IR and 
+EI-MS). 
+Acknowledgements-This research was supported, in part, 
+by a grant from the North-East Louisiana University 
+Faculty Research Fund. The authors wish to acknowledge 
+the efforts of Cheryl B. Keller, who collected the plant 
+material, and Dr. David B. Dunn (University of Missouri) 
+who identified it. We also wish to thank James G. Omichin- 
+ski for his laboratory assistance and Dr. Carl Djerassi for a 
+sample of ammodendrine. 
+REFERENCES 
+1. Willaman, J. J. and Schubert, B. G. (1961) Alkaloid 
+Bearing Plants and Their Contained Alkaloids, pp. 116 
+Gramodendrine, a bipiperidyl-indole from Lupinus arbustus subsp. cnicaratus 1417 
+119. Agricultural Research Service, U.S.D.A., Technical 
+Bulletin, 1234, Washington, DC. 
+2. Willaman, J. J. and Li, H.-L. (1970) Lloydia 33, 110. 
+3. Mears, J. A. and Mabry, T. J. (1971) in Chemotoxonomy 
+of the Leguminosae (Harborne, J. B., Boulter, D. and 
+Turner, B. L. eds.) p. 73. Academic Press, London. 
+4. Raffauf, R. F. (1970) A Handbook of Alkaloids and 
+Alkaloid-containing Plants. Wiley-Interscience, New 
+York. 
+5. Kinghorn, A. D., Selim, M. A. and Smolenski, S. J. 
+(1980) Phytochemistry 19, 1705. 
+6. Marion, L. (1952) in The Alkaloids-chemistry and 
+Physiology, Vol. II (Manske, R. H. F. and Holmes, 
+H. L. eds.) p. 373. Academic Press, New York. 
+7. Walser, A. and Djerassi, C. (1964) Helu. Chim. Acta 47, 
+2072. 
+8. Joule, J. A., Monteiro, H., Durham, L. J., Gilbert, B., 
+and Djerassi, C. (1965) J. Chem. Sot. 4773. 
+9. Madinaveitia, J. (1937) J. Chem. Sot. 1927. 
+10. Kuhn, H. and Stein. 0. (1937) Chem. Ber. 70, 567. 
+11. Saxton, J. E. (1965) in The Alkaloids-Chemistry and 
+Physiology, Vol. VIII. (Manske, R. H. F. ed.) p. 6. 
+Academic Press, New York. 
+12. Keller, W. J. and Zelenski, S. G. (1978) J. Pharm. Sci. 
+67, 430. 
+13. Arndt, R. R. and DuPlessis, L. M. (1968) J. S. Afr. 
+Chem. Inst. 21, 54. 
+14. Fitch, W. L., Dolinger, P. M. and Djerassi, C. (1974) J. 
+Org. Chem. 39,2974. 
+15. Shamma, M. and Hindenlang, D. M. (1979) Carbon-13 
+NMR Shift Assignments of Amines and Alkaloids, 303 
+pp. Plenum, New York. 
+16. Budzikiewicz, H., Djerassi, C., and Williams, D. H. 
+(1967) Mass Spectroscopy of Organic Compounds, p. 610. 
+Holden-Day, San Francisco. 

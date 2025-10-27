@@ -1,0 +1,503 @@
+1Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+www.nature.com/scientificreports
+Novel and Neuroprotective 
+Tetranortriterpenoids from Chinese 
+Mangrove Xylocarpus granatum 
+Koenig
+Zhen-Fang Zhou1, Tibor Kurtán2, Attila Mándi2, Yu-Cheng Gu3, Li-Gong Yao3, Guo-Rong Xin4, 
+Xu-Wen Li1 & Yue-Wei Guo1
+Eight new tetranortriterpenoids (1–8) were isolated from the twigs and leaves of the Chinese 
+mangrove plant Xylocarpus granatum, together with four related known ones (9–12). The structures 
+of new compounds were elucidated by detailed spectroscopic analysis. The absolute configuration 
+of 9-epixylogranatin A (1) was determined by time-dependent density functional theory-electronic 
+circular dichroism (TDDFT-ECD) calculations of the solution conformers. Xylogranatumin A (2) 
+represents the first example of the 9, 10-seco limonoid with an unprecedented oxygen-bridged B ring 
+(2,7-dioxabicyclo[2.2.1]-heptane). All the isolates were evaluated for the in vitro neuroprotective 
+activity, both compounds 11 and 12 displayed moderate effects against H2O2-induced neurotoxicity 
+in PC12 cells at the concentration of 10 μM, with an increase in cell viability of 12.0% and 11.6%, 
+respectively.
+The mangrove plants of the genus Xylocarpus (family Meliaceae) are widely distributed in the coastal areas of 
+Southeast Asia, Australia, East Africa, and Indian Ocean. X. granatum, one of the three Xylocarpus species, has 
+been used as a folk medicine in Southeast Asia and India for the treatment of diarrhea, cholera and fever dis-
+eases1,2. X. granatum was reported as a rich source of limonoids, featuring by their highly diverse and complex 
+polycyclic skeletons3–6. These structurally interesting and challenging molecules have attracted great attention for 
+their total synthesis, bioactivity evaluation, and biosynthetic studies7,8.
+In the course of our ongoing search for bioactive substances from Chinese mangrove plants9–13, the twigs 
+and leaves of X. granatum were recently collected from Hainan Province, China. A preliminary chemical inves-
+tigation of them has led to the isolation and characterization of the rearranged pyridine-containing limonoids, 
+phragmalin orthoesters, and apotirucallane protolimonoids14–16. To further explore the bioactive compounds 
+in X. granatum, we continued the phytochemical analysis on the minor components in its twigs and leaves, 
+resulting in the isolation and structure elucidation of eight new tetranortritepenoids, named 9-epixylogranatin 
+A (1), xylogranatumin A (2), 6-O-acetyl xylocarpin D (3), 14-hydroxy-14,15-dihydrogranatumin C (4), 
+30-O-tigloylhainangranatumin J (5), 9-O-methyl xylogranatin R (6), 30-O-acetylhainangranatumin E (7), and 
+1,2-dihydro-3α-hydroxy-turranolide (8), along with four related known compounds (9–12) (Fig. 1). Among the 
+newly discovered natural products, xylogranatumin A (2) comprises an unprecedented B ring bearing an oxygen 
+bridge between C-1 and C-8. Herein, we report the isolation, structure elucidation, and bioassay results of these 
+compounds, as well as the plausible biosynthetic pathway of compound 2.
+Results and Discussion
+Isolation and structure elucidation. The air-dried powdered twigs and leaves (2.0 kg) of X. granatum 
+were percolated thoroughly with MeOH at room temperature. The concentrated MeOH extract was parti-
+tioned between EtOAc and H2O. The EtOAc-soluble portion was repeatedly chromatographed to afford twelve 
+1State Key Laboratory of Drug Research, Shanghai Institute of Materia Medica, Chinese Academy of Sciences, Shanghai, 
+201203, China. 2Department of Organic Chemistry, University of Debrecen, POB 20, 4010 Debrecen, Hungary. 
+3Syngenta Jealott’s Hill International Research Centre, Berkshire RG42 6EY, United Kingdom. 4Institute of Biological 
+Science, Sun Yat-Sen University, Xin Gang West Road 135, Guangzhou 510275, China. Correspondence and requests for 
+materials should be addressed to X.-W.L. (email: xwli@simm.ac.cn) or Y.-W.G. (email: ywguo@simm.ac.cn)
+Received: 07 July 2016
+Accepted: 02 September 2016
+Published: 23 September 2016
+OPEN
+www.nature.com/scientificreports/
+2Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+compounds. Four known of them were readily identified by comparison of their spectroscopic data with those 
+reported in the literature to be xylogranatin A (9)4, xylocarpin D (10)17, xylocarpin B (11)17, and xylocarpin G 
+(12) (Fig. 1).17 On the basis of careful analysis of NMR data, and by comparison with the known compounds, 
+the eight new natural products were determined to be tetranortriterpenoids. Among them, 1–6 all showed 
+characteristic signals of a α-furyl ring at C-17 position, whereas compound 7 possessed a γ-hydroxybutenolide 
+group instead. At the same position, while differed from 1–7, compound 8 exhibited a γ-butyrol lactone moiety. 
+Accordingly, the detailed structure elucidation of these new molecules is described as follows.
+9-epixylogranatin A (1) was isolated as a colorless gum. The molecular formula of 1 was determined to be 
+C34H42O12 by HRESIMS (m/z 665.2554 [M + Na]+, calcd. 665.2574), corresponding to the molecular formula 
+C34H42O12, which is the same as that of the co-occurring tetranortriterpenoid, xylogranatin A (9), previously iso-
+lated from the seeds of the same species.4 The NMR data of 1 showed diagnostic signals of a furan ring [δC 109.8, 
+119.7, 141.2, and 142.9; δH 6.34 (1H, d, J = 0.9 Hz), 7.41 (1H, s), and 7.41 (1H, t, J = 0.9 Hz)], an α, β-unsaturated 
+lactone group (δC 117.7, 163.7, and 165.5; δH 6.12 s), and a tetrasubstituted double bond (δC 119.7, C-10 and 136.6, 
+C-1). Detailed analysis of 1D (Tables 1 and 2) and 2D NMR (Fig. 2) spectra revealed that the planar structure of 
+1 was identical to that of 9.4 In fact, the 13C NMR data from C-3 to C-7 and C-16 to C-23 of 1 are almost the same 
+as those of 9, and the main differences at C-1, C-2, C-8, C-9, C-10, C-12, C-15 and C-30, indicated the different 
+stereochemistry between 1 and 9 in certain chiral centers. The relative configurations of six stereocenters at C-2, 
+C-3, C-5, C-13, C-17, and C-30 were elucidated to be the same as those of 9 by the comparison of their ROESY 
+spectral results, as well as by analysis of the coupling constants and splitting patterns of H-2 (δH 3.30, dd, J = 11.1, 
+3.8 Hz), H-3 (δH 5.02, d, J = 3.8 Hz), and H-30 (δH 5.10, d, J = 11.1 Hz). NOE correlations observed of H-2/H-3, 
+H-2/CH3-28, H-3/CH3-28, and H-3/Ac-30 (Fig. 2) suggested that both H-2 and H-3 were α-oriented. On the 
+contrary, the β-orientation of H-5 and H-30 was determined by the significant NOE cross-peak of H-5/H-30. The 
+coupling constants of H-2/H-3 (J = 3.8 Hz) and H-2/H-30 (J = 11.1 Hz) indicated that both H-2 and H-30 were 
+axial orientation, whereas H-3 was equatorial orientation, which further supported the relative configurations of 
+H-2, H-3, and H-30. The diagnostic NOE correlations of H-30/H2-11 and H-30/H2-12 revealed that rings B and 
+C were cis-fused, and both 8-OH and 9-OH were α-oriented. Thus, compound 1 was established as 9-epimer of 
+xylogranatin A (9).
+Figure 1. Structures of compounds 1–17. 
+www.nature.com/scientificreports/
+3Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+With the aim to determine the absolute configuration of 1, time-dependent density functional theory elec-
+tronic circular dichroism calculations (TDDFT-ECD) of its solution conformers were carried out. The ECD spec-
+trum of 1 was recorded in acetonitrile (MeCN), which showed positive, negative and positive Cotton effects (CEs) 
+at 270, 243 and 225 nm, respectively. The initial Merck Molecular Force Field (MMFF) conformational analysis 
+of the arbitrarily chosen (2R, 3R, 5S, 8S, 9R, 13R, 17R, 30R) absolute configuration of 1 resulted in 151 conform-
+ers, which were re-optimized at B3LYP/6-31G(d) level of theory in vacuo, as well as at B3LYP/TZVP level with 
+Polarizable Continuum Model (PCM) solvent model for MeCN. The gas-phase re-optimization afforded 9 con-
+formers with Boltzmann population above 2%, while the PCM one yielded 14 geometries above 2% (see S46 in 
+supporting information). These structures were used as input for ECD calculations. The C-3 tigloyl group is more 
+suitable for an axial orientation in the low-energy conformers (conformers A-H), which is in accordance with the 
+No. 1 2 3 4 5 6 7 8
+1 1.37 m
+2 3.30 dd (11.1, 3.8) 2.08 t (3.5) 2.99 dd (11.6, 2.4) 3.64 dd (9.5, 2.7) 1.96 m
+1.57 m
+3 5.02 d (3.8) 5.52 d (3.5) 5.28 d (11.6) 5.06 d (9.5) 6.92 s 6.48 s 6.97 s 3.42 t (2.8)
+5 2.93 d (8.9) 2.24 m 3.15 s 3.38 dd (9.2, 2.3) 2.32 m 2.37 m 2.27 m 1.84 dd (12.9, 2.0)
+6
+2.38 dd (16.7, 3.3) 2.39 dd (16.4, 3.0) 5.30 s 2.36 m 2.32 m 2.49 d (14.3) 2.47 m 1.63 m
+2.30 dd (16.7, 8.9) 2.17 m 1.77 m 2.46 m 2.31 m 2.27 m
+8 2.24 m
+9 2.19 m 2.15 m 2.02 m
+10 1.97 m 2.40 m 2.37 m 2.27 m
+11
+2.19 m 2.10 m 2.05 m 2.01 m 1.79 m 2.37 m 3.10 dd (19.6, 7.2) 1.74 m
+2.03 m 1.90 m 1.86 m 1.77 m 1.67 m 2.54 m 1.47 m
+12
+1.73 m 1.67 m 5.09 s 1.89 m 2.29 m 2.37 m 2.88 m 1.61 m
+1.36 m 1.67 m 1.47 m 1.38 m 1.78 m 1.62 m 1.47 m
+14 2.59 dd (12.7, 5.7) 2.40 d (8.6)
+15 6.12 s 2.75 dd (16.5, 12.7) 3.35 d (19.4) 3.53 d (16.0) 6.28 s 6.68 s 6.17 s 5.23 dd (3.3, 1.5)
+2.48 dd (16.5, 5.6) 2.65 dd (19.4, 8.6) 2.75 d (16.0)
+16 2.11 dd (7.4, 3.4)
+17 5.19 s 5.11 s 5.75 s 5.29 s 5.52 s 5.34 s 5.33 s 1.63 m
+18 1.34 s 1.08 s 0.99 s 0.90 s 1.08 s 1.19 s 1.00 s 1.01 s
+19 1.67 s 1.02 d (6.6) 1.14 s 1.08 s 1.15 d (5.7) 1.07 d (6.1) 1.04 d (5.6) 0.90 s
+20 2.70 ddd (13.8,10.4, 2.8)
+21 7.41 s 7.41 s 7.46 s 7.61 s 7.61 s 7.52 s 4.46 t (8.2)
+3.91 t (8.2)
+22 6.34 d (0.9) 6.38 s 6.37 s 6.50 d (1.4) 6.50 brs 6.44 d (0.9) 7.42 s 2.51 dd (17.1, 7.9)
+2.20 dd (17.1, 11.4)
+23 7.41 t (0.9) 7.43 d (1.5) 7.45 s 7.42 t (1.4) 7.44 s 7.44 t (1.5) 6.24 s
+28 0.91 s 0.94 s 1.00 s 0.83 s 1.09 s 1.09 s 1.20 s 0.83 s
+29 0.88 s 0.92 s 2.46 d (10.5) 1.14 s 1.18 s 1.11 s 0.85 s
+2.26 d (10.5) 0.83 s
+30 5.10 d (11.1) 5.30 d (3.5) 5.42 d (2.6) 3.51 d (2.7) 6.26 s 3.65 d (16.6) 6.49 s 1.09 s
+3.45 d (16.6)
+7-OMe 3.71 s 3.68 s 3.76 s 3.74 s 3.69 s 3.70 s 3.69 s
+9-OMe 3.68 s
+7-OAc 1.97 s
+1-OAc 2.15 s
+3-OAc 2.15 s 2.11 s
+6-OAc 2.19 s
+12-OAc 2.10 s
+30-OAc 2.03 s 2.11 s 2.06  s 2.09 s
+3′ 6.78 dd (7.2, 1.8) 7.02 m 6.78 q (6.8)
+4′ 1.84 d (7.2) 1.86 d (7.0) 1.81 d (7.8)
+5′ 1.84 s 1.92 s 1.77 s
+8-OH 2.95 s 3.69 brs 3.83 s 3.94 s
+9-OH 3.84 s 3.30 s
+Table 1.  1H NMR spectroscopic data for compounds 1–8a. aSpectra measured at 400 MHz in CDCl3.
+www.nature.com/scientificreports/
+4Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+coupling constant between H-2 and H-3 (3J2-Hax,3-Heq = 3.8 Hz). Ring B possesses a twist-boat conformation with 
+equatorial 30-OAc group in most of the conformers, which is in agree with the coupling constants between H-3 
+and H-30 (3J3-Hax,30-Hax = 11.1 Hz). As to prevent the side effects of the solvent, the ECD spectra were also calcu-
+lated for the (2R, 3R, 5S, 8S, 9R, 13R, 17R, 30R) enantiomer with various functions (B3LYP, BH&HLYP, PBE0) and 
+TZVP basis set for both the in vacuo and the solvent model re-optimized structures. The computed ECD curves 
+of the individual conformers were quite similar to each other, and as well as to the experimental ECD spectrum, 
+since their rings D and E share the same orientation. Moreover, all the Boltzmann-weighted ECD spectra repro-
+duced well the experimental ECD curve with BH&HLYP/TZVP PCM/MeCN giving the most agreement (Fig. 3). 
+Thus, the absolute configuration of 1 was unambiguously determined as (2R, 3R, 5S, 8S, 9R, 13R, 17R, 30R). To 
+our best knowledge, this is the first report on the configurational assignment of limonoids with 9, 10-seco skeleton 
+by TDDFT ECD calculations.
+The related xylogranatin A (9) was only reported for its relative configuration by the X-ray diffraction analy-
+sis4, while as it shared the same planar structure as that of 9-epixylogranatin A (1), the absolute configuration of 9 
+could then be determined by comparing their ECD spectra, which rely upon the unsaturated δ-lactone and furan 
+chromophores of ring D governed by the C-13 and C-17 chirality centers. The similar ECD pattern of 9 [225 nm 
+(Δ ε + 23.66), 269 nm (Δ ε + 1.57) in MeCN] and 1 indicated the same (13R, 17R) absolute configuration for both 
+compounds. Thus the absolute configuration of xylogranatin A (9) can be deduced as (2R, 3R, 5S, 8S, 9S, 13R, 
+17R, 30R), which could further allow the absolute configurational assignment of the related xylogranatins B-D4.
+The molecular formula of xylogranatumin A (2), C31H40O12, was deduced by HRESIMS with ion peak at m/z 
+627.2431 [M + Na]+ (calcd 624.2417), suggesting the presence of twelve degrees of unsaturation. In the 1H NMR 
+spectrum, resonances arising from seven methyl groups were observed, including two geminal (δ 0.92 and 0.94, 
+each 3H, s), one terminal (δ 1.08, 3 H, s), one secondary (δ 1.02, 3H, d, J = 6.6 Hz), one methoxyl (δ 3.68, 3H, s) 
+and two acetyl groups (δ 2.11 and 2.15, each 3H, s). Diagnostic proton signals represent a β-furan ring (δ 6.38, 
+7.41, and 7.43) was also obtained. The 13C NMR spectrum of 2 disclosed seven methyl groups, four sp3 meth-
+ylenes, three sp2 methines, seven sp3 methines, and ten quaternary carbons (four carbonyl groups). With regard 
+to the 12 degree of unsaturation, and bearing in mind the presence of a furan ring and four carbonyl groups, 
+xylogranatumin A (2) should possess five other rings.
+The aforementioned data implied that compound 2 bore a similar skeleton as that of compound 1. The 
+comparison of the 1D and 2D NMR data of 2 with those of the co-occurring limonoid 1 indicated that they 
+shared the similar rings C, D, and E (Fig. 4). Correspondingly, the construction of rings A and B was impor-
+tant for the structure determination of 2. Two proton-bearing partial structures of C-19 → C-10 → C-5 → C-6 
+and C-3 → C-2 → C-30 were readily recognized from the 1H-1H COSY spectrum (Fig. 5). These two structural 
+segments were connected to the quaternary carbons, C-1 and C-4, respectively, by the observation of HMBC 
+correlations from Me-19 (δ 1.02, 3H, d, J = 6.6 Hz) to C-1/C-5, H-3 (δH 5.52, 1H, d, J = 3.5) to C-1/C-30, H-2 (δH 
+2.08, 1H, t, J = 3.5) to C-1, Me-28 to C-4/C-5 and Me-29 to C-3/C-4. In addition, the HMBC correlations of OH-9 
+to C-9 and C-8, as well as the typical hemiketal chemical shift of C-9 (99.8), revealed that the hydroxyl group (δH 
+3.30, OH-9) linked to C-9, which was further connected to C-8. The methoxyl group was located at C-7 on the 
+basis of the HMBC cross-peak from MeO- to C-7, and the assignment of the two acetoxyl groups at C-3 and C-30 
+were clearly indicated by HMBC correlations from H-3 (δ 5.52, 1 H, d, J = 3.5 Hz) to δC 169.8 and H-30 (δ 5.30, 1 
+H, d, J = 3.5 Hz) to δC 170.2 (Fig. 4).
+In terms of ring B, the presence of one acetal carbon at δC 109.2 (C-1, sp3), one oxygenated quaternary carbon 
+signal at δC 89.6 (C-8, sp3), a typical hemiacetal carbon at δC 99.8 (C-9), and a tertiary oxygenated carbon at δC 
+71.3 (C-30) suggested that ring B was constructed via the C-8 → C-30 → C-2 → C-1 → O → C-9 → C-8 bond to 
+form a tetrahydropyran ring with an oxygen bridge between C-8 and C-1. The linkage of C-30 to C-8 was also 
+confirmed by the distinct HMBC correlation from H-30 to C-9. A planar structure of 2 was thus proposed as 
+depicted in Fig. 1, which was consistent with its molecular composition and degrees of unsaturation.
+The relative configuration of compound 2 was elucidated by the analysis of ROESY spectrum and proton 
+coupling constants, as well as by analogy with that of 1. The same relative stereochemistry of C-2, C-3, C-5, C-13 
+and C-17 in 2 was deduced from the similar carbon chemical shifts, proton coupling constants, and ROESY 
+correlations with those of 1 and the known compounds 10–16 (for C-13 and C-17), as well as by a biogenetic 
+consideration of such limonoids in Nature2,17. In addition, the NOE correlations between H-5 and CH3-19, H-10 
+and CH3-28, CH3-28 and H-3, H-3 and H-2, H-14 and CH3-18, H-14 and H-30, H-30 and OH-9 (Fig. 4) further 
+confirmed the relative configuration of 2R*, 3R*, 5S*, 9S*, 10R*, 13R*, 14R*, 17R*, 30S*. Although the relative 
+configurations of C-1 and C-8 cannot be determined by distinct ROE correlations, the correlation between H-30 
+and OH-9 implied the β -orientation of the oxygen bridge due to the smaller transannular strain.
+Biogenetically, this interesting molecule might be derived from hainangranatumin D (Fig. 5), a limonoid 
+previously isolated from X. granatum with absolute configuration established18, by a first plausible weak acid pro-
+moted nucleophilic addition of acetoxyl group at C-3 position, which allowed the double bond migration and the 
+epoxidation from C-1 to C-9. The resulting intermediate then underwent a C-1 hydration, followed by a second 
+acid promoted epoxidation from C-1 to C-8 with the elimination of H2O. Finally, a C-30 epimerization, which 
+possibly occurred during the previous epoxidation to lower the energy of the molecule, allowed the production 
+of compound 2. Since the relative stereochemistry has been established, the common biosynthetic origin of 2, 
+compound 1, the known compounds 9–16 and hainangranatumin D2,4,17,18, suggested the corresponding chiral 
+centers, especially C-13 and C-17 adjacent to the furan core should be the same. Therefore, the absolute config-
+uration of compound 2 was deduced as (1S, 2R, 3R, 5S, 8S, 9S, 13R, 17R, 30S). Based on the above information, 
+xylogranatumin A (2) was determined as a novel limonoid characterized by a 9, 10-seco skeleton bearing an 
+oxygen-bridge between C-1 and C-8 (Fig. 1). and the discovery of xylogranatumin A provided a new example to 
+the extremely diverse and complex family of limonoids.
+www.nature.com/scientificreports/
+5Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+6-O-acetyl xylocarpin D (3) gave a HRESIMS pseudomolecular ion peak at m/z 769.2634 [M + Na]+, a plus 
+of 42 mass units on that of the co-occurring xylocarpin D (10), which was previously isolated from the fruits of 
+X. granatum with absolute configuration determined17, indicating the presence of an additional acetyl group in 3, 
+which was further confirmed by the careful comparison of their 1H and 13C NMR data (Tables 1 and 2), with an 
+observation of additional peaks of δH at 2.19 and δC at 169.6 and 21.0 on 3. The location of the acetyl group at C-6 
+was established by the expected downfield shifted 1H NMR resonance of H-6 (from δH 4.29 to 5.30). Therefore, 
+compound 3 was determined as the 6-acetyl derivative of xylocarpin D (10).
+The HRMS data for 14-hydroxy-14,15-dihydrogranatumin C (4) displayed a pseudomolecular ion peak at 
+584.2643 [M]+ (calcd 584.2621), consistent with the molecular formula C32H40O10. Detailed analysis of the 1H 
+and 13C NMR data of 4 were reminiscent of those of 13, which was previously isolated from the seeds of a Krishna 
+mangrove, X. granatum19. Their main differences were an oxygenated quaternary carbon at C-14 (δC 62.7) and a 
+No. 1 2 3 4 5 6 7 8
+1 136.6 qC 109.2 qC 87.8 qC 214.5 qC 198.7 qC 199.3 qC 198.6 qC 32.6 CH2
+2 36.2 CH 55.0 CH 46.3 CH 48.6 CH 130.4 qC 129.2 qC 128.4 qC 25.0 CH2
+3 73.7 CH 76.3 CH 75.8 CH 77.1 CH 160.9 CH 158.3 CH 161.9 CH 75.9 CH
+4 37.1 qC 39.4 qC 45.2 qC 39.4 qC 36.6 qC 36.8 qC 36.8 qC 36.9 qC
+5 40.4 CH 41.7 CH 42.5 CH 42.4 CH 45.2 CH 43.0 CH 45.2 CH 41.8 CH
+6 32.7 CH2 33.6 CH2 71.6 CH 33.3 CH2 34.8 CH2 34.7 CH2 34.6 CH2 23.2 CH2
+7 174.5 qC 174.0 qC 170.0 qC 174.1 qC 173.5 qC 173.6 qC 173.4 qC 75.3 CH
+8 75.5 qC 89.6 qC 73.3 qC 62.7 qC 201.0 qC 197.8 qC 80.1 qC 42.2 qC
+9 98.2 qC 99.8 qC 31.0 CH 54.4 CH 79.8 qC 172.8 qC 208.2/208.0 qC 43.0 CH
+10 119.7 qC 36.5 CH 47.2 qC 48.2 qC 43.2 CH 45.6 CH 42.8 CH 37.4 qC
+11 28.2 CH2 33.0 CH2 28.8 CH2 18.5 CH2 29.5 CH2 29.4 CH2 32.9 CH2 16.2 CH2
+12 25.5 CH2 27.1 CH2 71.0 CH 33.1 CH2 28.6 CH2 29.8 CH2 25.6 CH2 33.8 CH2
+13 38.3 qC 36.1 qC 39.3 qC 40.3 qC 41.5 qC 41.4 qC 38.6/38.5 qC 46.6 qC
+14 163.7 qC 35.6 CH 46.4 CH 71.8 qC 156.6 qC 158.9 qC 162.5 qC 159.6 qC
+15 117.7 CH 29.0 CH2 28.0 CH2 40.8 CH2 121.2 CH 124.4 CH 117.7 CH 118.0 CH
+16 165.5 qC 171.2 qC 169.7 qC 169.5 qC 163.4 qC 163.4 qC 164.5/164.3 qC 34.8 CH2
+17 81.1 CH 79.4 CH 76.8 CH 78.4 CH 81.4 CH 78.5 CH 78.2/77.9 CH 58.1 CH
+18 18.8 CH3 24.4 CH3 18.8 CH3 20.1 CH3 18.6 CH3 20.4 CH3 18.4/18.3 CH3 19.3 CH3
+19 12.8 CH3 10.8 CH3 22.6 CH3 16.4 CH3 12.2 CH3 11.7 CH3 11.6 CH3 15.4 CH3
+20 119.7 qC 120.9 qC 120.7 qC 120.1 qC 119.2 qC 119.6 qC 132.9 qC 37.5 CH
+21 141.2 CH 140.8 CH 140.4 CH 141.2 CH 141.4 CH 141.6 CH 169.1/168.8 qC 72.6 CH2
+22 109.8 CH 109.9 CH 109.1 CH 110.4 CH 109.7 CH 109.8 CH 150.4/149.7 CH 34.1 CH2
+23 142.9 CH 143.3 CH 143.9 CH 142.9 CH 143.3 CH 143.4 CH 97.4/96.7 CH 176.8 qC
+28 24.8 CH3 24.4 CH3 15.6 CH3 23.0 CH3 20.6 CH3 20.1 CH3 27.8 CH3 21.9 CH3
+29 20.1 CH3 20.9 CH3 41.0 CH2 20.7 CH3 28.0 CH3 28.2 CH3 20.6 CH3 28.0 CH3
+30 68.9 CH 71.3 CH 69.7 CH 62.8 CH 66.8 CH 41.3 CH2 67.8 CH 27.5 CH3
+7-OMe 52.0 CH3 51.9 CH3 53.0 CH3 52.4 CH3 52.0 CH3 52.0 CH3 52.0 CH3
+9-OMe 51.8 CH3
+7-OAc 21.3 CH3
+170.4 qC
+1-OAc 21.0 CH3
+168.4 qC
+3-OAc 21.2 CH3 21.1 CH3
+169.8 qC 169.4 qC
+6-OAc 21.0 CH3
+169.6 qC
+12-OAc 22.1 CH3
+169.7 qC
+30-OAc 20.7 CH3 20.9 CH3 21.4 CH3 21.0 CH3
+170.5 qC 170.2 qC 170.7 qC 169.9/169.8 qC
+1′ 167.3 qC 167.0 qC 165.7 qC
+2′ 128.7 qC 127.4 qC 127.8 qC
+3′ 137.2 CH 140.4 CH 138.9 CH
+4′ 14.5 CH3 14.8 CH3 14.6 CH3
+5′ 12.1 CH3 12.3 CH3 12.0 CH3
+Table 2.  13C NMR spectroscopic data for compounds 1–8a. aSpectra measured at 100 MHz in CDCl3.
+www.nature.com/scientificreports/
+6Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+Figure 2. Key 1H-1H COSY, HMBC, and ROESY correlations of 1. 
+Figure 3. Experimental solution ECD spectrum of 9-epixylogranatin A (1) and BH&HLYP/TZVP PCM/
+MeCN calculated ECD spectrum of (2R, 3R, 5S, 8R, 9S, 13R, 17R, 30R)-1 calculated for the low-energy 
+solution conformers. Bars represent the calculated rotational strengths of the lowest-energy conformer.
+Figure 4. Key 1H-1H COSY, HMBC, and ROESY correlations of 2. 
+www.nature.com/scientificreports/
+7Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+methylene carbon at C-15 (δC 40.8; δH 3.53, 1H, d, J = 16.0 Hz; 2.75, 1H, d, J = 16.0 Hz) in 4 in replace of the Δ 14,15 
+double bond (δC 160.9 and 118.8) in 13. These data indicated that the Δ 14,15 double bond was hydrated in 4, which 
+is in full agreement with a plus of eighteen mass units of 4 on that of 13. The HMBC correlations from H-15 to 
+C-14 and C-16, and CH3-18 to C-14 gave further support to the structural assignment of 4.
+The relative configuration of 4, except C-14 position, was determined to be the same as that of 13 due to 
+the similar 13C NMR shifts and coupling constants in 1H NMR and further confirmed by ROESY experiments. 
+Unfortunately, the absence of the proton signal of OH-14 in 4, which were usually presented in the NMR spectra 
+of the limonoids when measuring in CDCl3, such as Granaxylocarpin C20, bearing the similar substructure as 
+compound 4, prevented us from assigning the configuration of C-14 position via the available NMR data.
+30-O-tigloylhainangranatumin J (5) was isolated as an optically active white amorphous powder. The 
+molecular formula, C32H38O10, was established by HRESIMS from the ion peak at 605.2346 [M+ Na]+. Its 1H 
+and 13C NMR data (Tables 1 and 2) were closely related to those of hainangranatumin J (14)18. The only differ-
+ence was the replacement of the 30-O-isobutyryl group in 14 by a tigloyl moiety (δH 6.78, q, J = 6.8 Hz, 1.80, d, 
+J = 6.8 Hz, and 1.77, s; δC 166.6 qC, 127.6 qC, 139.8 CH, 14.6 CH3, and 11.9 CH3) in 5. Therefore, the structure of 
+30-O-tigloylhainangranatumin J (5) was determined as shown in Fig. 1.
+The molecular formula of 9-O-methyl xylogranatin R (6), C28H34O9, was deduced by HRESIMS (m/z 537.2100, 
+calcd for [M+ Na]+ 537.2101). The 1H and 13C NMR spectra of 6 were almost identical to those of xylogranatin 
+R (15), which was isolated as an antifeedant from the seeds of the same species with the absolute configuration 
+established5, except for the presence of an additional methoxy group (δH 3.68; δC 51.8), suggesting that 6 was an 
+O-methyl derivative of 15, in agreement with an addition of 14 mass units in 6 to that of 15. The chemical shift of 
+C-9 (δ 172.8) in 6 was upfield shifted Δ δ 2.7 from that of 15, indicating the carboxylic acid at C-9 was esterified to 
+methyl ester, which was further confirmed by the HMBC correlation from 9-OCH3 (δH 3.67) to the carbonyl car-
+bon at C-9 (δC 172.8). The complete assignments of the 1H and 13C NMR of 6 were achieved by a comprehensive 
+analysis of 2D NMR spectra including HSQC, COSY, HMBC, and ROESY. Compound 6 was thus determined 
+as the methyl ester of xylogranatin R (15). In view of the presence of methyl ester moiety in a great number of 
+limonoids previously isolated from this species, such as xylogranatins A-D4, and hainangranatumins A-J18, the 
+authors believe that compound 6 is an original natural product rather than an artifact.
+The molecular formula of 30-O-acetylhainangranatumin E (7) was established as C29H34O12 by HRMS (m/z 597.1951, 
+calcd for [M+ Na]+ 597.1948). The γ-hydroxybutenolide group was characterized by proton signals at δH 7.42 
+(H-22) and 6.24 (H-23), and by carbon signals at δC 132.9 (C-20), 169.1/168.8 (C-21), 150.4/149.7 (C-22), and 
+97.4/96.7 (C-23) in its 1H and 13C NMR spectra (Tables 1 and 2). The detailed NMR data analysis reminded us 
+those of hainangranatumin E (16), previously isolated from the seeds of Hainan mangrove X. granatum18. The 
+only differences were the presence of the acetyl group (δH 2.09 s; δC 169.9/169.8 qC, 21.0 CH3) at C-30 in 7 instead 
+of the methylbutyryl group in 16. In addition, two sets of carbon resonances at δ 208.2/208.0 (C-9), 38.6/38.5 
+Figure 5. Plausible biosynthetic pathway of xylogranatumin A from hainangranatumin D. 
+www.nature.com/scientificreports/
+8Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+(C-13), 164.5/164.3 (C-16), 78.2/77.9 (C-17), 18.4/18.3 (C-18), 169.1/168.8 (C-21), 150.4/149.7 (C-22), 97.4/96.7 
+(C-23) in 13C NMR spectrum suggested compound 7 was a mixture of unseparated C-23 epimers as depicted in 
+Fig. 1.
+1,2-dihydro-3α -hydroxy-turranolide (8) was isolated as a colorless gum. Its molecular formula, C28H42O5, 
+was deduced by HREIMS at m/z 481.2892, a plus of two mass units to that of turranolide (17), previously iso-
+lated from the root bark of Turraea robusta collected from Awasi, Kisumu District, Kenya21. The NMR spectra 
+of 8 were similar to those of 17, except for the presence of oxymethine signal at C-3 (δH 3.42, t, J = 2.8 Hz) in 
+1H NMR. A reduction of the ketone at C-3 in 17 to the hydroxyl group in 8 was then easily recognized, which 
+further confirmed by the upfield 13C NMR signal at 75.9 in 8 in replace of that at δ 216.2 in 17. In addition, the 
+α-orientation of the hydroxyl at C-3 of 8 was confirmed by the ROESY correlations of H-3/CH3-29 and H-5/CH3-
+28. The structure of 1,2-dihydro-3α -hydroxy-turranolide (8) was thus determined as the C-3 reductive derivative 
+of turranolide (17).
+Similar as that of compound 2, since the relative stereochemistry of the new compounds 3, 5, 6, and 8 has been 
+established, the common biosynthetic origin of such furan limonoids2,4,17,18 suggested the corresponding chiral 
+centers, such as C-13 and C-17 should be the same R configuration. Thus the absolute configuration of the above 
+mentioned new compounds could be arbitrary determined as showed in Fig. 1.
+In summary, eight new tetranortriterpenoids (1–8) together with four related known compounds (9–12) were 
+isolated from the twigs and leaves of Chinese mangrove plant X. granatum. The structures of new compounds 
+were elucidated by extensive spectroscopic analysis. The absolute configuration of 9-epixylogranatin A (1) was 
+determined by TDDFT ECD calculations, which incidentally allowed the elucidation of the absolute configura-
+tions of xylogranatin A (9) by comparison with their ECDs, solving a puzzle of the previously reported natural 
+products. The discovery of the 9, 10-seco limonoid 2 with a characteristic 2,7-dioxabicyclo [2.2.1]-heptane ring 
+system added a novel skeleton to the family of tetranortriterpenoids, revealing the high diversity and complexity 
+of such beautiful molecules.
+Neuroprotective activity evaluation. In the light of a wide range of biological activities and pharmaco-
+logical properties of limonoids2,8, we performed in vitro investigation of neuroprotective activity of compounds 
+1–12 on PC12 cells, since the isolated protolimoloids by us from Toona ciliata var. pubescens displayed signif-
+icant cell protecting activity11. Both compounds 11 and 12 showed moderate neuroprotective effects against 
+H2O2-induced neurotoxicity in PC12 cells at the concentration of 10 μM, with an increase in cell viability of 
+12.0% and 11.6%, respectively. N-Acetyl-L-cysteine (NAC) was used as the positive control with the increase in 
+cell viability of 22.0% at 10 μM. In comparison with the tested structures, it is possible that the variation of rings 
+A and B of these limonoids play an important role for the neuroprotective activity.
+Methods
+General experimental procedures. Optical rotations were measured on a Perkin-Elmer polarimeter 
+341. CD spectra were obtained on a JASCO 810 spectrometer. IR spectra were recorded on a Nicolet-Magna 
+FT-IR750 spectrometer. The NMR spectra were measured on Bruker DRX 400 and Varian Inova 600 spectrome-
+ters. Chemical shifts (δ) are reported with the residual CDCl3 (δH = 7.26 ppm) as the internal standards for the 1H 
+NMR spectroscopy, and CDCl3 (δC = 77.0 ppm) for the 13C NMR spectroscopy. Chemical shifts were expressed in 
+δ (ppm) and coupling constants (J) in Hz. 1H and 13C NMR assignments were supported by 1H–1H COSY, HSQC, 
+HMBC and ROESY experiments. ESIMS and HRESIMS spectra were recorded on a Q-TOF Micro LC-MS-MS 
+mass spectrometer. Reversed-phase HPLC analysis was performed on an Agilent 1100 series liquid chromatogra-
+phy using a VWD G1314A detector at 210 nm and a semi-preparative ZORBAX ODS column (250 mm × 9.4 mm 
+i.d., 5 mm particle size. Commercial silica gel (Qing Dao Hai Yang Chemical Group Co., 200–300 mesh) was used 
+for column chromatography (CC), and precoated silica gel plates (Yan Tai Zi Fu Chemical Group Co., G60 F-254) 
+were used for analytical TLC.
+Plant materials. The twigs and leaves of X. granatum (2.0 kg) were collected in December 2009 from 
+Dongzhai Harbor, Hainan province, China, and identified by Professor Guo-Rong Xin of Institute of Biological 
+Science, Sun Yat-Sen University. A voucher specimen (NO. 09-P-69) is available for inspection at the Herbarium 
+of Shanghai Institute of Materia Medica, Chinese Academy of Sciences.
+Extraction and isolation. The air-dried powdered twigs of X. granatum were percolated with MeOH (three 
+times, each 7 days) at room temperature. The extract was evaporated to dryness under reduced pressure to give 
+154 g of residue. The residue was partitioned with EtOAc to afford 29.7 g EtOAc extract. The EtOAc extract was sep-
+arated by Sephadex LH-20, MCI and silica gel column to obtain five fractions (1–5). Fr.3 was subjected to silica gel 
+liquid chromatography, eluting with CHCl3/MeOH (from 100:1 to 8:2, gradient), to obtain 15 fractions (3A-3O). 
+Fraction 3C (65.3 mg) was chromatographed on silica gel with petroleum ether/acetone (8:2 to 1;1, gradient) to 
+yield 7 (8.6 mg), and the sub-fraction 3C1. Sub-fraction 3C1 was purified by HPLC (75:25) to afford 5 (1.8 mg). 
+Fraction 3D was separated by silica gel column with the eluent of petroleum ether/acetone (8:2 to 7:3, gradient) 
+and subsequently purified by semi-preparative-HPLC eluting with MeOH/H2O (70:30) to afford 4 (2.1 mg) and 
+6 (2.3 mg). Fraction 3E (2.17 g) was subjected to column chromatography on silica gel eluted with a gradient of 
+petroleum ether/acetone (9:1 to 1:1) to give nine major fractions 3E0–3E9. 3E7 was separated by silica gel column 
+eluted with petroleum ether/acetone (8:2 to 7:3) to afford 12 (30.0 mg) and the sub-fraction 3E7a, which was 
+purified by reversed phase HPLC (CH3CN/H2O, 67:33) to yield 8 (5.4 mg), while compounds 3 (1.0 mg) and 11 
+(4.8 mg) was prepared by column chromatography on silica gel eluted with petroleum ether/acetone (7:3) from 
+fraction 3E9. Fractions 3G was first separated by column chromatography on silica gel eluted with petroleum 
+ether/acetone (8:2 to 6:4, gradient) to give six sub-fractions (3G1-3G6). 3G3 was purified by reversed phase 
+www.nature.com/scientificreports/
+9Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+HPLC eluted with MeOH/H2O (80: 20) to yield 1 (1.5 mg). 3G4 was separated by reversed phase HPLC (CH3CN/
+H2O, 50:50), then subjected to column chromatography on silica gen eluted with petroleum ether/acetone (8:2) 
+to give 2 (2.6 mg). Fractions 3G5 and 3G6 were separated by silica gel column chromatography with petroleum 
+ether/acetone (70:30) and (65:25) to yield 9 (4.7 mg) and 10 (21.6 mg), respectively.
+Chemical structure data. All investigated compounds were ≥ 95% pure (HPLC, wavelength = 210 nm).
+The NMR spectra of the compounds are provided in the Supporting Information.
+9-epixylogranatin A (1). Colorless gum, α[ ]D
+20 + 48 (c 0.12, CH3CN); ECD (CH3CN) λmax (Δε): 270 (2.23), 243 
+(− 0.26), 225 (4.45), 206 (−1.53), 200sh (−1.43). IR (KBr) νmax 3432, 2924, 1725, 1381, 1261 cm−1; for 1H NMR 
+and 13C NMR spectroscopic data, see Tables 1 and 2; HREIMS m/z [M+ Na]+ 665.2554 (calcd. for C34H42O12Na, 
+665.2574).
+Xylogranatumin A (2). Colorless gum, α[ ]D
+20 −15.0 (c 0.08, CH3CN); ECD (CH3CN) λmax (Δε): 254 (0.12), 235 
+(− 0.51), 212 (1.12). IR (KBr) νmax 3436, 2925, 1736, 1374, 1262, 1162, 1036 cm−1; for 1H NMR and 13C NMR 
+spectroscopic data, see Tables 1 and 2; HREIMS m/z [M+ Na]+ 627.2431 (calcd. for C34H42O12Na, 627.2417).
+6-O-acetyl xylocarpin D (3). White, amorphous powder, [α ] D20  + 4.3 (c 0.07, CH3CN); UV (MeOH) λmax 
+213 nm. IR (KBr) νmax 3426, 2924, 2853, 1741, 1373, 1234, 1041 cm−1; for 1H NMR and 13C NMR spectroscopic 
+data, see Tables 1 and 2; HREIMS m/z [M+ Na]+ 769.2634 (calcd. for C34H42O12Na, 769.2684).
+14-Hydroxy-14,15-dihydrogranatumin C (4). White, amorphous powder, α[ ]D
+20 + 122.5 (c 0.04, MeOH); UV 
+(MeOH) λmax 212 nm. IR (KBr) νmax 3438, 2962, 1733, 1262, 1098, 1024, 802 cm−1; for 1H NMR and 13C NMR 
+spectroscopic data, see Tables 1 and 2; HREIMS m/z [M+ Na]+ 584.2643 (calcd. for C32H40O10Na, 584.2621).
+30-O-tigloylhainangranatumin J (5). White, amorphous powder, α[ ]D
+20 + 22.2 (c 0.09, MeOH); UV (MeOH) 
+λmax 210 nm. IR (KBr) νmax 3439, 2962, 1735, 1671, 1383, 1260, 1166, 1026 cm−1; for 1H NMR and 13C NMR spec-
+troscopic data, see Tables 1 and 2; HREIMS m/z [M+ Na]+ 605.2346 (calcd. for C32H40O10Na, 605.2343).
+9-O-methyl xylogranatin R (6). White, amorphous powder, α[ ]D
+20 + 49.1 (c 0.05, MeOH); UV (MeOH) λmax 
+211 nm. IR (KBr) νmax 3432, 2919, 1735, 1630, 1091, 1046 cm−1; for 1H NMR and 13C NMR spectroscopic data, 
+see Tables 1 and 2; HREIMS m/z [M+ Na]+ 537.2100 (calcd. for C28H34O9Na, 537.2101).
+30-O-acetylhainangranatumin E (7). Colorless gum, α[ ]D
+20 + 38.9 (c 0.19, MeOH); UV (MeOH) λmax 206 nm. 
+IR (KBr) νmax 3437, 2965, 1735, 1671, 1373, 1262, 1230, 1018 cm−1; for 1H NMR and 13C NMR spectroscopic data, 
+see Tables 1 and 2; HREIMS m/z [M+ Na]+ 597.1951 (calcd. for C29H34O12Na, 597.1948).
+1,2-Dihydro-3α -hydroxy-turranolide (8). Colorless gum, α[ ]D
+20 − 17.6 (c 0.11, MeOH); IR (KBr) νmax 3437, 
+2923, 1782, 1726, 1378, 1259, 1033 cm−1; for 1H NMR and 13C NMR spectroscopic data, see Tables 1 and 2; 
+HREIMS m/z [M+ Na]+ 481.2892 (calcd. for C28H42O5Na, 481.2930).
+Neuroprotective bioassay. The neuroprotective activities of compounds 1–12 against hydrogen peroxide 
+(H2O2)-induced neurotoxicity in PC12 cells were evaluated by using the MTT method22, according to the protocols 
+described in previous literature.
+Computational section. Mixed torsional/low mode conformational searches were carried out by means of 
+the Macromodel 9.7.223 software23 using Merck Molecular Force Field (MMFF) with an implicit solvent model 
+for chloroform. Reoptimizations at B3LYP/6-31G(d) level of theory in vacuo as well as B3LYP/TZVP with PCM 
+solvent model for MeCN were carried out followed by TDDFT-ECD calculations using various functionals 
+(B3LYP, BH&HLYP, PBE0) and TZVP basis set of the Gaussian 09 package24. Boltzmann distributions were esti-
+mated from the ZPVE corrected B3LYP energies in the gas-phase calculations and from the B3LYP energies in 
+the PCM ones. ECD spectra were generated as the sum of Gaussians25 with 2400 and 3000 cm−1 half-height width 
+(corresponding to ca. 16 and 20 nm at 260 nm, respectively), using dipole-velocity computed rotational strengths. 
+The MOLEKEL software package23 was used for visualization of the results.
+References
+1. Shen, L.-R. et al. Chemical constituents of plants from the genus Xylocarpus. Chem. Biodivers. 6, 1293–1308 (2009).
+2. Ye, F. et al. Recent Progress on the Mangrove Plants: Chemistry and Bioactivity. Curr. Org. Chem. 20, 1923–1942 (2016).
+3. Wu, J. et al. Xyloccensins O and P, unique 8,9,30-phragmalin ortho esters from Xylocarpus granatum. Org. Lett. 6, 1841–1844 (2004).
+4. Yin, S. et al. Xylogranatins A-D: Novel tetranortriterpenoids with an unusual 9,10-seco scaffold from marine mangrove Xylocarpus 
+granatum. Org. Lett. 8, 4935–4938 (2006).
+5. Wu, J. et al. Xylogranatins F-R: antifeedants from the Chinese mangrove, Xylocarpus granatum, a new biogenetic pathway to 
+tetranortriterpenoids. Chem. Eur. J. 14, 1129–1144 (2008).
+6. Huo, C.-H. et al. Xylocarpanoids A and B, unique C28 skeleton limonoids from Xylocarpus granatum. Tetrahedron Lett. 51, 754–757 (2010).
+7. Heasley, B. Synthesis of limonoid natural products. Eur. J. Org. Chem. 2011, 19–46 (2011).
+8. Tan, Q.-G. & Luo, X.-D. Meliaceous limonoids: Chemistry and biological activities. Chem. Rev. 111, 7437–7522 (2011).
+9. Zhou, Z.-F. & Guo, Y.-W. Bioactive natural products from Chinese marine flora and fauna. Acta Pharmacol. Sin. 33, 1159–1169 
+(2012).
+10. Wang, J.-R. et al. Structure and absolute stereochemistry of nortriterpenoids from Schisandra chinensis (Turcz.) Baill. Eur. J. Org. 
+Chem. 2012, 5471–5482 (2012).
+11. Wang, J.-R. et al. Protolimonoids and norlimonoids from the stem bark of Toona ciliata var. pubescens. Org. Biomol. Chem. 9, 
+7685–7696 (2011).
+12. Chen, X.-L. et al. Paracaseolide A, first α -alkylbutenolide dimer with an unusual tetraquinane oxa- cage bislactone skeleton from 
+Chinese mangrove Sonneratia paracaseolaris. Org. Lett. 13, 5032–5035 (2011).
+13. Cai, Y.-S. et al. Palmarumycins BG1-BG7 and preussomerin BG1: Establishment of their absolute configurations using theoretical 
+calculations of electronic circular dichroism spectra. J. Org. Chem. 76, 1821–1830 (2011).
+14. Zhou, Z.-F. et al. Four phragmalin orthoesters from the Chinese mangrove Xylocarpus granatum. Planta Med. 80, 949–954 (2014).
+15. Zhou, Z.-F. et al. Bioactive rearranged limonoids from the Chinese mangrove Xylocarpus granatum Koenig. Tetrahedron. 70, 
+6444–6449 (2014).
+16. Zhou, Z.-F. et al. Apotirucallane protolimonoids from the Chinese mangrove Xylocarpus granatum Koenig. Fitoterapia 97, 192–197 (2014).
+www.nature.com/scientificreports/
+1 0Scientific RepoRts | 6:33908 | DOI: 10.1038/srep33908
+17. Cui, J.-X. et al. Xylocarpins A-I, limonoids from the Chinese mangrove plant Xylocarpus granatum. J. Nat. Prod. 70, 772–778 (2007).
+18. Pan, J.-Y. et al. Limonoids from the seeds of a Hainan mangrove. Xylocarpus granatum. J. Nat. Prod. 73, 1672–1679 (2010).
+19. Li, M.-Y. et al. Granatumins A-G, limonoids from the seeds of a krishna mangrove. Xylocarpus granatum. J. Nat. Prod. 72, 2110–2114 (2009).
+20. Yin, S. et al. Limonoids from the seeds of the marine mangrove Xylocarpus granatum. J. Nat. Prod. 70, 682–685 (2007).
+21. Bentley, M. D. et al. Tetranortriterpenes from Turraea robusta. J. Nat. Prod. 55, 84–87 (1992).
+22. Jiang, C.-S. et al. Synthesis and biological evaluation of 21-arylidenepregnenolone derivatives as neuroprotective agents. Bioorg. 
+Med. Chem. Lett. 22, 2226–2229 (2012).
+23. MOLEKEL Schrödinger LLC, http://www.schrodinger.com (2012).
+24. Gaussian 09, Revision B.01, Gaussian, Inc., http://dx.doi.org/10.1021/ol401005j (2010).
+25. Stephens, P. J. & Harada, N. ECD Cotton effect approximated by the Gaussian curve and other methods. Chirality 22, 229–233 
+(2010).
+Acknowledgements
+This research was financially supported by the National Marine 863 Project (Nos 2013AA092902 and 
+2012AA092105), the Natural Science Foundation of China (Nos 81520108028, 81273430, 41306130, 41506187, 
+81302692, 41476063), NSFC-Shandong Joint Fund for Marine Science Research Centers (Grant No. U1406402), 
+SCTSM Project (Nos 14431901100, 15431901000), the SKLDR/SIMM Projects (Nos SIMM1501ZZ-03, 
+CASIMM0120152039), X.-W. Li thanks to the financial support of “Youth Innovation Promotion Association” (Grant 
+No. 2016258) from Chinese Academy of Sciences and “Young Talent Supporting Project” from China Association 
+for Science and Technology. Prof. H.-Y. Zhang from CAS Key Laboratory of Receptor Research, Shanghai Institute 
+of Materia Medica, Chinese Academy of Sciences, is appreciated for the evaluation of neuroprotective activity. 
+Z.-F. Zhou thanks to the financial support of Syngenta-SIMM-PhD Studentship Project. T.K. and A.M. thank the 
+Hungarian National Research Foundation (OTKA K105871) for financial support and the National Information 
+Infrastructure Development Institute (NIIFI 10038) for CPU time. The computational stereochemical studies 
+were realized in the frames of TÁMOP 4.2.4. A/2-11-1-2012-0001 National Excellence Program – Elaborating and 
+operating an inland student and researcher personal support system convergence program.
+Author Contributions
+Z.-F.Z. conducted the main experiments, data analyzes, and wrote the manuscript; T.K. and A.M. performed 
+the ECD calculations; Y.-C.G. assisted the biological test; L.-G.Y. assisted the sample collection and extraction; 
+G.-R.X. assisted the identification of the sample species; X.-W L. and Y.-W.G. designed the experiments, revised 
+and polished the manuscript. All authors reviewed the manuscript.
+Additional Information
+Supplementary information accompanies this paper at http://www.nature.com/srep
+Competing financial interests: The authors declare no competing financial interests.
+How to cite this article: Zhou, Z.-F. et al. Novel and Neuroprotective Tetranortriterpenoids from Chinese 
+Mangrove Xylocarpus granatum Koenig. Sci. Rep. 6, 33908; doi: 10.1038/srep33908 (2016).
+This work is licensed under a Creative Commons Attribution 4.0 International License. The images 
+or other third party material in this article are included in the article’s Creative Commons license, 
+unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, 
+users will need to obtain permission from the license holder to reproduce the material. To view a copy of this 
+license, visit http://creativecommons.org/licenses/by/4.0/
+ 
+© The Author(s) 2016

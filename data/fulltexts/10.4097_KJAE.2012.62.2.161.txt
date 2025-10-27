@@ -1,0 +1,378 @@
+Korean J Anesthesiol 2012 February 62(2): 161-165 
+http://dx.doi.org/10.4097/kjae.2012.62.2.161  Experimental Research Article
+Copyright ⓒ the Korean Society of Anesthesiologists, 2012 www.ekja.org
+Background: Elevated systemic levels of pro-inflammatory cytokines cause hypotension during septic shock and 
+induce capillary leakage in acute lung injury. Manassantin B has anti-inflammatory and anti-plasmoidal properties. 
+This study examined the effects of manassantin B on lipopolysaccharide (LPS)-induced inflammatory response in 
+murine macrophages. 
+Methods: RAW 264.7 macrophage cells were incubated without or with (1, 3 and 10 μM) manassantin B and without 
+or with (100 ng/ml) LPS. Manassantin B dissolved in phosphate buffered saline was added to the medium 1 h prior 
+to the addition of LPS. The degree of activation of mitogen-activated protein kinase (MAPK) including extracellular 
+signal-regulated kinases 1 and 2 (ERK1/2), c-Jun amino terminal kinases (JNK) and p38 MAPK, and the level of 
+interleukin (IL)-1β were determined 30 min and 24 h after the addition of LPS respectively.
+Results: Manassantin B inhibited the production of IL-1β and attenuated the phosphorylations of ERK1/2 and p38 
+MAPK, but not that of JNK, in RAW 264.7 cells treated with LPS. 
+Conclusions: Manassantin B reduces LPS-induced IL-1β expression through effects on ERK1/2- and p38 MAPK-
+mediated pathways. Manassantin B has potential as a potent anti-inflammatory drug for use in pathological 
+processes such as sepsis or acute lung injury. (Korean J Anesthesiol 2012; 62: 161-165)
+Key Words: Interleukin-1β, Lipopolysaccharides, Manassantin B, Mitogen-activated protein kinase.  
+Effect of manassantin B, a lignan isolated from Saururus	
+chinensis, on lipopolysaccharide-induced interleukin-1β in 
+RAW 264.7 cells
+Hwan Chul Park, Hong-Beom Bae, Cheol-Won Jeong, Seong Heon Lee, Hye Jin Jeung, and  
+Sang-Hyun Kwak
+Department of Anesthesiology and Pain Medicine, Chonnam Nationanl University Hospital, Gwangju, Korea
+Received: March 24, 2011.  Revised: 1st, August 9, 2011; 2nd, September 21, 2011; 3rd, October 5, 2011.  Accepted: October 5, 2011.
+Corresponding author: Sang-Hyun Kwak, M.D., Ph.D., Department of Anesthesiology and Pain Medicine, Chonnam National University 
+Medical School, 5, Hak-dong, Dong-gu, Gwangju 501-746, Korea. Tel: 82-62-220-6893, Fax: 82-62-232-6294, E-mail: shkwak@jnu.ac.kr
+    This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://
+creativecommons.org/licenses/by-nc/3.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, 
+provided the original work is properly cited.
+CC162 www.ekja.org
+Vol. 62, No. 2, February 2012 Effects of manassantin B on inflammation
+Introduction
+Despite newly developed resuscitation therapies and the 
+use of modern antibiotics, sepsis is still a leading cause of death 
+in critically ill patients [1]. The mortality rate in sepsis patients 
+remains as high as 40-70% [2]. Severe sepsis is characterized by 
+hypoperfusion of major organs, leading to multiple organ failure, 
+shock, and death. Inflammation, a physiological response to 
+infection or injury, plays a key role in both health and disease. 
+Several pro-inflammatory cytokines, such as tumor necrosis 
+factor-alpha (TNF-α), interleukin (IL)-1β, and IL-8 promote 
+systemic inflammation. Cytokine-mediated host defense 
+mechanisms induce significant cell and organ injury and play 
+crucial roles in the pathophysiology of sepsis [3]. 
+IL-1β is produced from the cleavage of the inactive pro-IL-
+1β by stimulated leukocytes and is a fundamental contributor 
+to local and systemic inflammatory responses [4]. IL-1β is a pro-
+inflammatory cytokine that functions as a critical regulator of 
+the host defense in response to an infection or injury. However, 
+IL-1β is extremely toxic when present in excess [5]. Elevated 
+systemic levels of IL-1β may cause hypotension during septic 
+shock and induce capillary leakage in acute lung injury [6]. IL-
+1β is also involved in chronic inflammation associated with 
+arthritis, lung fibrosis and atherosclerosis [7-9]. Therefore, 
+strategies to modulate IL-1β production in inflammatory 
+diseases are of therapeutic interest. In addition, IL-1β activates 
+the mitogen-activated protein kinase (MAPK) family including 
+the extracellular signal-regulated kinase 1 and 2 (ERK1/2), c-Jun 
+N-terminal kinase (JNK) and p38 MAPK [10].
+Nontoxic molecules that modulate macrophage-mediated 
+inflammatory responses may provide a novel therapeutic stra-
+tegy for the treatment of sepsis. Numerous studies have been 
+performed to identify the new molecules. The manassantin 
+group of structurally related and functionally unique dineolig-
+nans were recently isolated from active root extracts of Saururus 
+cernuus L (Saururaceae), also referred to as “lizard tail” [11]. 
+This fragrant aquatic plant is found in the North America as 
+well as in many parts of Asia (Saururus	chinensis) [12-14]. 
+Although their structures and relative stereochemistries were 
+only determined recently, the medicinal value of the plant has 
+long been recognized by Native Americans, early colonists 
+and practitioners of Korean traditional medicine for a range of 
+diseases [14,15]. Manassantin A and B have biological activities, 
+such as anti-inflammatory and anti-plasmodial effects [12,16].
+The purpose of this study was to investigate the effect of 
+manassantin B on LPS-induced activation of the pro-inflam-
+matory cytokine IL-1β and intracellular signaling pathway 
+such as the MAPKs signaling system, and the possibility that 
+manassantin B might be a promising agent for reducing inflam-
+matory response.
+Materials and Methods
+Materials 
+Manassantin B was donated from the College of Pharmacy, 
+Yeungnam University, Korea. Escherichia	coli 055:B5 endotoxin 
+(lipopolysaccharide, LPS) was purchased from Sigma-Aldrich 
+(St. Louis, MO, USA). Antibodies specific for phosphorylated 
+(P)-ERK, P-JNK and p38 MAPK as well as total (T)-ERK, T-JNK 
+and T-p38 MAPK were supplied by Cell Signaling Technologies 
+(Beverly, MA, USA). Enzyme-linked immunosorbent assay 
+(ELISA) kits for IL-1β were purchased from R&D Systems 
+(Minneapolis, MN, USA). Dulbecco’s modified Eagle’s medium 
+(DMEM) high glucose/L-glutamine, fetal bovine serum 
+(FBS) and penicillin/streptomycin was obtained from GIBCO 
+(Gaithersburg, MD, USA). Bicinchoninic acid (BCA) protein 
+assay reagent was supplied by Pierce (Rockford, IL, USA). 
+Cell culture and treatment
+The RAW 264.7 murine macrophage cell line was purchased 
+from the Korea Cell Line Bank (Seoul, Korea). The cells were 
+grown in DMEM supplemented with heat-inactivated 10% FBS, 
+penicillin (100 U/ml) and streptomycin sulfate (100 μg/ml) in a 
+5% CO2 incubator at 37
+oC. The cells were plated at a density of 
+2 × 10
+6 cells/well in a 6-well plate or 5 × 10
+5 cells/well in 24-well 
+plates. For all experiments, the cells were incubated until they 
+reached 80-90% confluence. The adherent macrophages were 
+washed gently with Ca
+2+ and Mg
+2+-free Dulbecco’s phosphate 
+buffered saline (DPBS) and cultured in serum-free DMEM for 
+2 h. Then, the cells were incubated in the absence or presence 
+(1, 3 and 10 μM) manassantin B without or with LPS (100 ng/
+ml). Manassantin B dissolved in phosphate-buffered saline 
+(PBS) was added to the medium 1 h prior to the addition of 
+LPS. The following groups were then isolated in separate wells: 
+control (manassantin B, 0 μM), manassantin B (1, 3 and 10 μM), 
+LPS (100 ng/ml) and LPS+ manassantin B (1, 3 and 10 μM). 
+The degree of activation of ERK1/2, JNK and p38 MAPK were 
+determined at 30 min and the level of IL-1β at 24 h after the 
+addition of LPS, respectively.
+Cell viability assay
+To evaluate the effect of manassantin B on the viability of 
+RAW 264.7 macrophages, the cells were treated with various 
+extract concentrations for 24 h, and then cell viability was evalu-
+ated using the methylthiazolyldiphenyl-tetrazolium bromide 
+(MTT) assay. Twenty-four h prior to culture termination, 10 
+μl of the MTT solution (5 mg/ml in PBS, pH 7.4) was added 
+to each well, and the cells were continuously cultured for 4 163 www.ekja.org
+Korean J Anesthesiol Park, et al.
+h. Then 100 μl of dimethyl sulfoxide (DMSO) was added for 
+solubilization. Absorbance was measured at 570 nm using an 
+ELISA microplate reader (Molecular Devices, Sunnyvale, CA, 
+USA). Each assay was repeated at least three times.
+ELISA
+Immunoreactive IL-1β were quantified using commercially 
+available ELISA kits (R & D Systems, Minneapolis, MN, 
+USA), according to manufacturer’s instructions as described 
+previously [17]. 
+Western blot analysis
+Western blots to detect levels of phosphorylated and total 
+ERK, JNK and p38 MAPK were performed essentially as 
+previously described [18]. 
+Statistical analysis 
+Data are expressed as mean ± SD. A Kruskal-Wallis H test 
+was used for group comparisons. A P value < 0.05 was con-
+sidered significant.
+Results
+Effect of manassantin B on RAW 264.7 cell viability
+The detrimental effects of any compound or plant extract on 
+the cell metabolism need to be determined before the biological 
+activity can be examined. Cell viability was not significantly 
+changed by the presence of manassantin B up to 10 μM (Fig. 1). 
+Effects of manassantin B on the expression of pro-
+inflammatory cytokine IL-1β in LPS stimulated RAW 
+264.7 cells
+Manassantin B alone did not affect the production of IL-1β 
+in RAW 264.7 cells over the range of concentrations examined. 
+However, it attenuated an increase in IL-1β levels induced by 
+LPS in a dose-dependent manner (Table 1).
+Effects of manassantin B on LPS-induced MAPKs 
+activation
+The effects of manassantin B on the phosphorylation of 
+ERK1/2, JNK and p38 MAPK were examined to determine 
+its effect on MAPKs in LPS-stimulated RAW 264.7 cells. In a 
+preliminary study, the maximum MAPKs phosphorylation 
+occurred 30 min after the LPS (100 ng/ml) treatment in 
+RAW 264.7 cells (data not shown). Therefore, the cells were 
+incubated with manassantin B (1, 3, 10 uM) for 1 h and then 
+with LPS (100 ng/ml) for 30 min. Manassantin B attenuated the 
+phosphorylations of ERK1/2 and p38 MAPK in LPS-stimulated 
+Fig. 1. Effect of manassantin B on the viability of RAW 264.7 macro  -
+phages. The cells were treated with various extract concentrations 
+for 24 h, and the cell viability was measured using a methylthia-
+zolyldiphenyl-tetrazolium bromide assay. The data are reported as 
+mean ± SD (n = 4).
+Table 1. The Effects of Manassantin B on LPS Induced IL-1β Production and MAPKs Phosphorylation in RAW 264.7 Cells
+Variable
+Group
+Control
+LPS 100 ng/ml 
+Manassantin B (uM)
+0 1 3 10
+IL-1b (pg/ml)
+p38 (P/T)
+ERK1/2 (P/T)
+JNK (P/T)
+0
+0.48 ± 0.03
+0.08 ± 0.00
+0.25 ± 0.05
+822.22 ± 99.11*
+ 1.01 ± 0.03*
+ 0.52 ± 0.05*
+ 0.98 ± 0.11*
+466.67 ± 72.22*,†
+ 0.82 ± 0.02*
+ 0.35 ± 0.02*
+,†
+ 0.81 ± 0.08*
+388.89 ± 66.67*,†
+ 0.76 ± 0.02*,†
+ 0.37 ± 0.01*,†
+ 0.94 ± 0.11*
+300.14 ± 55.56*,†,‡
+ 0.55 ± 0.04*,†,‡
+ 0.29 ± 0.03*,†,‡
+ 0.97 ± 0.12*
+Each score represents mean ± SD. Control: The cells were incubated with manassantin B (0, 1, 3 and 10 μM) only for IL-1β and medium only for 
+MAPKs. P/T: relative increase of phosphorylated- to total-MAPKs. *P < 0.05 versus control, 
+†P < 0.05 versus LPS 100 ng/ml + manassantin B 0 uM, 
+‡P < 0.05 versus LPS 100 ng/ml + manassantin B 1 uM.164 www.ekja.org
+Vol. 62, No. 2, February 2012 Effects of manassantin B on inflammation
+RAW 264.7 cells, but had no effect on JNK (Table 1, Fig. 2). 
+Discussion
+In this study, we investigated the effects of manassantin B, an 
+active root extract of Saururus cernuus L, on proinflammatory 
+cytokine production and activation of MAPKs in murine 
+macrophage RAW 264.7 cells stimulated with LPS. Manassantin 
+B attenuated the LPS-induced increase of inflammatory 
+cytokine IL-1β and phosphorylations of signaling molecules ERK 
+1/2 and p38 MAPK. These findings suggest that manassantin B 
+has an anti-inflammatory property.
+RAW 264.7 murine macrophages are a popular macrophage 
+cell model to examine a variety of inflammatory processes 
+[19-21]. Macrophages are key regulators of inflammation and 
+immunity [22]. Besides being involved in microbial clearance, 
+they play an important role in regulating T cell function, 
+proliferation, regulation of antibody production and production 
+of mediators for cellular immunity. Many of these activities 
+are mediated through pro-inflammatory cytokines [23]. When 
+LPS is presented to Toll-like receptor-4 (TLR-4) in the cell 
+membrane, an interaction via CD 14 and LPS binding protein 
+leads to the activation of MAPKs, which are important for the 
+LPS induced production of a range of inflammatory cytokines, 
+including IL-1, IL-6, TNF-α and macrophage inflammatory 
+protein (MIP)-2 [24]. These cytokines are essential for the 
+eradication of pathogens. However, excessive release of 
+inflammatory cytokines provokes life-threatening conditions, 
+including sepsis, acute respiratory distress syndrome and 
+multiple organ failure [25]. 
+The MAPK signaling pathways consist of a series of kinases 
+that are activated sequentially and consequently phosphorylate 
+the downstream kinases and transduce extracellular stimuli 
+into intracellular responses. The MAPK family includes ERK, 
+JNK and p38 MAPK. One of the major functions of MAPK is 
+the activation of transcription factors, several of which bind 
+to the promoters of pro-inflammatory cytokines [26]. ERK1/2 
+regulates TNF-α and MIP-2 expression and ERK1/2 inhibitor 
+(PD98059) reduces the expression of these cytokines [27,28]. 
+Down-regulation of TLR 4 expression, using RNA interference 
+techniques, decreases MAPKs activation, TNF-α and MIP-
+2 expression in RAW 264.7 cells stimulated with LPS [29]. 
+In the present study, manassantin B treatment decreased 
+the phosphorylation of ERK1/2 and p38 MAPK induced by 
+LPS stimulation, but had no affect on JNK phosphorylation, 
+suggesting that its anti-inflammatory activity is related to 
+ERK1/2 and p38 MAPK cascades, but not JNK.
+There are some limitations to this study. First, the study 
+is limited in its in vitro character of the data, therefore much 
+remains to be done in vivo studies in terms of safety and optimal 
+dosage. Second, we measured only IL-1β as a pro-inflammatory 
+cytokine. Potential interactions with other cytokines related 
+with inflammation must be considered. Third, we measured 
+the effects of manassantin B on the phosphorylation of MAPK 
+without inhibitors due to the generalized results of inhibitor 
+study. 
+In summary, manassantin B inhibits the production of the 
+proinflammatory cytokine IL-1β and the phosphorylations of 
+ERK 1/2 and p38 MAPK in LPS-stimulated RAW 264.7 murine 
+macrophages. These findings suggest that manassantin B 
+reduces LPS-induced IL-1β expression through effects on the 
+ERK1/2- and p38 MAPK-mediated pathways in vitro. Thusm 
+manassantin B might be a valuable therapeutic agent in 
+reducing inflammatory response due to systemic inflammatory 
+response syndrome involving sepsis in the clinical setting.
+Acknowledgements
+This study was supported by a grant (CRI09005-1) Chonnam 
+Fig. 2. Effects of manassantin B on LPS-induced ERK1/2, JNK and 
+p38 MAPK phosphorylation in RAW 264.7 cells. The cells were 
+incubated with media only (CON) or the indicated concentrations of 
+manassantin B for 1 h and then incubated with LPS (100 ng/ml) for 
+30 min. P: phosphorylated, T: total.165 www.ekja.org
+Korean J Anesthesiol Park, et al.
+National University Hospital Research Institute of Clinical 
+Medicine.
+References 
+1. Angus DC, Linde-Zwirble WT, Lidicker J, Clermont G, Carcillo J, 
+Pinsky MR. Epidemiology of severe sepsis in the United States: 
+analysis of incidence, outcome, and associated costs of care. Crit 
+Care Med 2001; 29: 1303-10.
+2. Kirkebøen KA, Strand OA. The role of nitric oxide in sepsis--an 
+overview. Acta Anaesthesiol Scand 1999; 43: 275-88.
+3. O'Reilly M, Newcomb DE, Remick D. Endotoxin, sepsis, and the 
+primrose path. Shock 1999; 12: 411-20.
+4. Stylianou E, Saklatvala J. Interleukin-1. Int J Biochem Cell Biol 1998; 
+30: 1075-9.
+5. Dinarello CA, Wolff SM. The role of interleukin-1 in disease. N Engl 
+J Med 1993; 328: 106-13.
+6. Ganter MT, Roux J, Miyazawa B, Howard M, Frank JA, Su G, et al. 
+Interleukin-1beta causes acute lung injury via alphavbeta5 and 
+alphavbeta6 integrin-dependent mechanisms. Circ Res 2008; 102: 
+804-12.
+7. Fan Z, Söder S, Oehler S, Fundel K, Aigner T. Activation of inter-
+leukin-1 signaling cascades in normal and osteoarthritic articular 
+cartilage. Am J Pathol 2007; 171: 938-46.
+8. Kolb M, Margetts PJ, Anthony DC, Pitossi F, Gauldie J. Transient 
+expression of IL-1beta induces acute lung injury and chronic repair 
+leading to pulmonary fibrosis. J Clin Invest 2001; 107: 1529-36.
+9. Waehre T, Yndestad A, Smith C, Haug T, Tunheim SH, Gullestad 
+L, et al. Increased expression of interleukin-1 in coronary artery 
+disease with downregulatory effects of HMG-CoA reductase 
+inhibitors. Circulation 2004; 109: 1966-72.
+10. Schett G, Tohidast-Akrad M, Smolen JS, Schmid BJ, Steiner CW, 
+Bitzan P, et al. Activation, differential localization, and regulation of 
+the stress-activated protein kinases, extracellular signal-regulated 
+kinase, c-JUN N-terminal kinase, and p38 mitogen-activated 
+protein kinase, in synovial tissue and cells in rheumatoid arthritis. 
+Arthritis Rheum 2000; 43: 2501-12.
+11. Hanessian S, Reddy GJ, Chahal N. Total synthesis and stereo-
+chemical confirmation of manassantin A, B, and B1. Org Lett 2006; 8: 
+5477-80.
+12. Hwang BY, Lee JH, Nam JB, Hong YS, Lee JJ. Lignans from Saururus 
+chinensis inhibiting the transcription factor NF-kappaB. Phyto-
+chemistry 2003; 64: 765-71.
+13. Lee WS, Baek YI, Kim JR, Cho KH, Sok DE, Jeong TS. Antioxidant 
+activities of a new lignan and a neolignan from Saururus chinensis. 
+Bioorg Med Chem Lett 2004; 14: 5623-8.
+14. Hartwell JL. Plants used against cancer. A survey. Lloydia 1971; 34: 
+204-55.
+15. Hussain RA, Lin YM, Poveda LJ, Bordas E, Chung BS, Pezzuto JM, 
+et al. Plant-derived sweetening agents: saccharide and polyol 
+constituents of some sweet-tasting plants. J Ethnopharmacol 1990; 
+28: 103-15.
+16. Kraft C, Jenett-Siems K, Köhler I, Tofern-Reblin B, Siems K, Bienzle 
+U, et al. Antiplasmodial activity of sesquilignans and sesquin-
+eolignans from Bonamia spectabilis. Phytochemistry 2002; 60: 167-
+173.
+17. Kwak SH, Mitra S, Bdeir K, Strassheim D, Park JS, Kim JY, et al. 
+The kringle domain of urokinase-type plasminogen activator 
+potentiates LPS-induced neutrophil activation through interaction 
+with {alpha}V{beta}3 integrins. J Leukoc Biol 2005; 78: 937-45.
+18. Bae HB, Li M, Kim JP, Kim SJ, Jeong CW, Lee HG, et al. The effect of 
+epigallocatechin gallate on lipopolysaccharide-induced acute lung 
+injury in a murine model. Inflammation 2010; 33: 82-91.
+19. Wong SS, Zhou HR, Marin-Martinez ML, Brooks K, Pestka JJ. 
+Modulation of IL-1beta, IL-6 and TNF-alpha secretion and mRNA 
+expression by the trichothecene vomitoxin in the RAW 264.7 
+murine macrophage cell line. Food Chem Toxicol 1998; 36: 409-19.
+20. Jung WJ, Sung MK. Effects of major dietary antioxidants on 
+inflammatory markers of RAW 264.7 macrophages. Biofactors 2004; 
+21: 113-7.
+21. Schildknecht S, Heinz K, Daiber A, Hamacher J, Kavakli C, Ullrich V, 
+et al. Autocatalytic tyrosine nitration of prostaglandin endoperoxide 
+synthase-2 in LPS-stimulated RAW 264.7 macrophages. Biochem 
+Biophys Res Commun 2006; 340: 318-25.
+22. Solbach W, Moll H, Röllinghoff M. Lymphocytes play the music but 
+the macrophage calls the tune. Immunol Today 1991; 12: 4-6.
+23. Nathan CF. Secretory products of macrophages. J Clin Invest 1987; 
+79: 319-26.
+24. Zhang YL, Dong C. MAP kinases in immune responses. Cell Mol 
+Immunol 2005; 2: 20-7.
+25. Ware LB, Matthay MA. The acute respiratory distress syndrome. N 
+Engl J Med 2000; 342: 1334-49.
+26. Baldassare JJ, Bi Y, Bellone CJ. The role of p38 mitogen-activated 
+protein kinase in IL-1 beta transcription. J Immunol 1999; 162: 
+5367-73.
+27. Shi L, Kishore R, McMullen MR, Nagy LE. Lipopolysaccharide 
+stimulation of ERK1/2 increases TNF-alpha production via Egr-1. 
+Am J Physiol Cell Physiol 2002; 282: C1205-11.
+28. Geppert TD, Whitehurst CE, Thompson P, Beutler B. Lipopoly-
+saccharide signals activation of tumor necrosis factor biosynthesis 
+through the ras/raf-1/MEK/MAPK pathway. Mol Med 1994; 1: 93-
+103.
+29. Xu Z, Huang CX, Li Y, Wang PZ, Ren GL, Chen CS, et al. Toll-like 
+receptor 4 siRNA attenuates LPS-induced secretion of inflammatory 
+cytokines and chemokines by macrophages. J Infect 2007; 55: e1-9.

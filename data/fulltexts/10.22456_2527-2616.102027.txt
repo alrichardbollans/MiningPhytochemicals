@@ -1,0 +1,945 @@
+Drug Analytical Research 
+ISSN: 2527-2616        Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+ 
+Stability-indicating HPLC method for isoflavones aglycones analysis from Trifolium 
+pratense L. extract 
+ 
+ 
+Simony Martiny*a, Mairique Waszczuka, Samuel Kaisera, Marina Cardoso Nemitzb, Valquiria Linck Bassania 
+ 
+aPrograma de Pós‐Graduação em Ciências Farmacêuticas, Faculdade de Farmácia, Universidade Federal do Rio Grande do Sul 
+(UFRGS), Porto Alegre, RS, Brazil; bFaculdade de Farmácia, Universidade Federal do Rio de Janeiro (UFRJ), Macaé, RJ, 
+Brazil. 
+ 
+*Corresponding author: simony.martiny@gmail.com 
+ 
+The purpose of this study was to develop and validate a fast HPLC stability-indicating method for simultaneously quantifying the 
+four main isoflavones in Trifolium pratense. Validation procedures followed the ICH and FDA requirements for complex matrices. 
+The stability-indicating tests were performed by exposing the isoflavones to conditions of forced degradation and further analysis 
+for verifying the formation of degradation products and their possible interferences in the HPLC analysis. The major isoflavones of 
+Trifolium pratense proved to be stable against acid and oxidative media, thermodegradation, and photodegradation. However, they 
+proved to be unstable in alkaline media, even for short periods of exposure like 2h. In this condition, in addition to the peaks 
+corresponding to isoflavones, the HPLC analysis showed the presence of three additional peaks which were eluted at different 
+retention times to the reference substances, without interfering in the quantification of the four analytes of interest, formononetin, 
+biochanin A, daidzein, and genistein. The method was validated following ICH and FDA guidelines showing to be specific, linear, 
+precise, accurate, and robust. This first report concerning a stability-indicating method revealed that the proposed HPLC method 
+reliably quantify the isoflavones and separate them from the degradation products in a short time of analysis. 
+ 
+ 
+Keywords:  Trifolium pratense, isoflavone aglycones, HPLC, stability-indicating method, validation 
+ 
+ 
+Introduction 
+ 
+Trifolium pratense L. (red clover) is a species that contains 
+isoflavones, and its extracts are widely used as 
+phytoestrogens, mainly due to their beneficial effects on 
+climacteric symptoms. In order to expand the range of 
+therapeutic applications, other effects that arouse interest 
+have been investigated, such as antioxidants, anti-tumor, 
+antibacterial, anti-inflammatory, and antifungal. [1–5].  
+Some methods have been reported to quantify the major 
+isoflavones in Trifolium pratense products formononetin 
+(FORMO), biochanin A (BIO), daidzein (DAID) and 
+genistein (GEN) [4,6–11]. Most of these methods use high-
+performance liquid chromatography (HPLC) to perform the 
+isoflavones quantification taking a long time of analysis 
+(most of them more than 30 min considering the carry-over 
+effect). Moreover, none of these studies consider the 
+possibility of interference of degradation products on the 
+quantification of the analytes.  
+In this context, this study aimed to develop and validate a fast 
+HPLC stability-indicating method for simultaneously 
+quantifying the four main isoflavones in Trifolium pratense, 
+FORMO, BIO, DAID, and GEN. The validation was 
+performed following the ICH and FDA requirements for 
+complex matrices. The stability-indicating tests were carried 
+out by exposing the isoflavones to conditions of forced 
+degradation (stress-induced by alkaline, acid, oxidative, and 
+light exposure conditions) and further HPLC analysis for 
+verifying if the degradation products interfere in the assay of 
+the analytes. The degradation products had their 
+fragmentation patterns determined using mass spectrometry. 
+To the best of our knowledge, these findings are being 
+reported for the first time being original and relevant to their 
+application in both food and pharmaceutical fields. 
+ 
+ 
+Material and Methods 
+ 
+Chemical and materials 
+ 
+The isoflavones used as reference substances (standards), 
+biochanin A, daidzein and genistein (≥98%, ≥95% and ≥98% 
+purity, respectively) were purchased from Cayman Chemical 
+Company (Ann Arbor, MI, EUA); and formononetin (≥98% 
+purity) was purchased from Acros Organics (Belgium). 
+Acetonitrile (HPLC grade, Tedia, Fairfield, USA), 
+trifluoracetic acid (Vetec, Brazil) and water purified by a 
+Milli-Q water system (Millipore, Bedford, MA, USA) were 
+used in the HPLC analysis. 
+ 
+Apparatus and analytical conditions 
+ 
+HPLC Analysis  
+ 
+The development and validation of the HPLC method were 
+performed on a Shimadzu HPLC-20A (Kyoto, Japan), 
+consisting of an HPLC-20AT pump, a SIL-20AT auto-
+sampler, and a variable wavelength (UV/vis) SPD-M20A 
+detector. The data acquisition and treatment was performed 
+using a Shimadzu HPLC Solution GPC software (Kyoto, 
+Japan). A CLC-ODS (4.6 mm X 25 cm i.d; 5μm) shim-pack 
+column (Shimadzu, Kyoto, Japan) coupled to a C18 pre-
+column (20 X 3.9 mm i.d; 10mm) (Waters, Milford, MA, 
+USA) were employed. 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+30 
+The mobile phase of the proposed chromatographic method 
+consisted of a phase A composed of water acidified with 0.1% 
+of trifluoroacetic acid (TFA) and a phase B composed of 
+acetonitrile. The gradient elution was 30% B (0–2 min), 30–
+55% B (2–13 min), and 55–30% B (13–19 min), while the 
+flow rate was a gradient of 1.0 mL/min (0–11.7 min), 1.0–0.4 
+mL/min (11.7–12.2 min), 0.4 mL/min (12.2–13.8 min), 0.4–
+1.0 mL/min (13.8–14.2 min), and 1.0 mL/min (14.2-19 min). 
+The column was re-equilibrated with 30% phase B for two 
+minutes before the next analysis was initiated. The injection 
+volume was 10 μL, the analysis temperature was 40°C, and 
+the UV detector was set at wavelength 260 nm. 
+ 
+Mass Spectrometry (MS) 
+  
+Isoflavone aglycones stability-indicating studies were 
+performed using an I-Class ACQUITY ultra-performance 
+liquid chromatography (UPLC™, Waters, USA) system 
+(Waters, USA) coupled to a quadrupole time-of-flight 
+analyzer (QTOF) (SYNAPT G2 Si, Waters, USA). The 
+UPLC analysis parameters were based on the HPLC 
+analytical conditions, with modifications. An Acquity UPLC 
+HSS T3 column (2.1 × 10 mm i.d., 1.8 μm) (Waters, USA) 
+was used. The mobile phase was a formic acid solution 0.1% 
+(v/v) (A), and acetonitrile with formic acid 0.1% (v/v) (B) 
+following a gradient elution program: 0–1 min, 30% B; 1–8 
+min, from 30% to 60% B; 8–9.5 min, 60% B; 9.5–9.6 min, 
+from 60% B to 30% B; 12 min, stop time. The flow rate was 
+0.4 mL/min, the injection volume was 0.6 µL and the column 
+temperature was 40°C. A leucine-encephalin solution (1 
+µg/mL; acetonitrile:water (50:50, v/v) with formic acid 0.1% 
+(v/v)) was employed as a lock mass solution (554.2615 m/z 
+in ESI- and 556.2771 m/z in ESI+). The data were processed 
+with Mass Lynx 4.1 and Mass fragment 3.0 software (Waters, 
+USA). The analysis was performed in ESI- and ESI+ MSE 
+centroid mode, in TOF mode (Resolving power 20,000). The 
+source conditions were: 2 kV of capillarity; 120°C and 550°C 
+source and desolvation temperatures, respectively; 30 V and 
+80 V for the sampling cone and source offset, respectively; 
+50 L/h and 900 L/h of cone and desolvation gases flow, 
+respectively; and 6.5 bar of spray gas flow. Nitrogen was used 
+as a desolvation gas, cone gas, and nebulizer gas. The argon 
+was employed as collision gas at transfer (40 eV) collision 
+cells. A 50–1000 m/z mass range was monitored with a scan 
+time of 0.2 s and an interscan delay of 0.015 s. 
+ 
+Solutions 
+ 
+Stock and reference solutions 
+ 
+Stock isoflavone solutions (80 µg/mL) FOR, BIO, DAID, and 
+GEN were prepared in acetonitrile by weighing 
+approximately 8 mg of each component into 100 mL 
+calibrated volumetric flasks. Reference solutions were 
+prepared by dilutions of the stock solution with an aqueous 
+solution of 50% (v/v) acetonitrile. 
+ 
+Trifolium pratense extract (matrix) 
+ 
+Trifolium pratense extract was previously obtained by 
+maceration in 40% ethanol at 25°C for 7 days (1:15 w/v). A 
+suitable aliquot (1:5 v/v) was diluted in an aqueous solution 
+of 50% (v/v) acetonitrile, filtered through a 0.45 µm 
+membrane and analyzed. 
+ 
+ 
+Validation of the analytical method 
+ 
+The developed method was validated according to the official 
+validation guidelines [12,13] in a range of 0.5–20 μg/mL for 
+FORMO, BIO, DAID, and GEN. The results were analyzed 
+by Student's t-test and analysis of variance (ANOVA) using 
+a level of significance of α=0.05. The interference of 
+degradation products formed in the stability-indicating tests 
+on the Trifolium pratense major isoflavones assay was also 
+evaluated in the validation. 
+ 
+Assessment of the matrix effect 
+ 
+The matrix effect evaluation was performed as described by 
+Watanabe et al. [14] and Yatsu et al. [15] by comparing the 
+slopes of calibration curves of the isoflavone aglycone 
+standards (FOR, BIO, DAID, and GEN) in the solvent and the 
+matrix. 
+Three analytical curves were obtained on three consecutive 
+days by plotting the peak areas versus the concentration of 
+isoflavone aglycone standards (0.5, 1.0, 4.0, 8.0, 12.0, 16.0, 
+and 20.0 µg/mL) in acetonitrile 50% (v/v) and the matrix 
+solution. Each concentration level was analyzed in five 
+replicates. 
+The matrix effect was calculated according to the following 
+equation: 𝑀𝐸% = 100 𝑥 [1 − (𝑆𝑚/𝑆𝑠)], where 𝑆𝑚 
+corresponds to the slope of the standard curves of the 
+isoflavone standards in the mobile phase and 𝑆𝑠 is the slopes 
+of the standard curves of the isoflavone standards in the 
+matrix. 
+ 
+Specificity and stability-indicating tests 
+ 
+The specificity of the HPLC method was evaluated by 
+injecting samples containing only the matrix (Trifolium 
+pratense extract) and samples containing the matrix added of 
+isoflavone aglycones standard quantities of FORMO, BIO, 
+DAID, and GEN in concentrations of 4 μg/mL each one. The 
+aglycone isoflavones present in the matrix were identified 
+based on their UV spectra, between 200 and 400 nm, and their 
+retention times compared to the reference substances. 
+For testing the specificity against cyclodextrins, an amount of 
+approximately 1 mg of hydroxypropyl-beta-cyclodextrin 
+(HPβCD) and beta-cyclodextrin (βCD) was dissolved with an 
+aqueous solution of acetonitrile (50% v/v) in 25 ml 
+volumetric flasks. These samples were placed in an 
+ultrasound bath for 30 minutes, filtered in 0.45 µm membrane 
+and injected in HPLC equipment. 
+The specificity of the HPLC method against the degradation 
+of products from stability-indicating tests was also evaluated. 
+The stock solutions of standards were also submitted to the 
+forced degradation conditions shown in Table 1. 
+All samples were compared to a control solution of the 
+analytes (FORMO, BIO, DAID, and GEN) at a concentration 
+of 16 µg/mL (diluted in an aqueous solution of acetonitrile 
+50% v/v), protected from light. The analysis was carried out 
+in triplicate, and the purity of the peak was determined using 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+31 
+a PDA detector. Mass spectrometry analysis was performed 
+for the degradation products after forced degradation. 
+ 
+Table 1. Conditions of forced degradation tests for the 
+isoflavones of Trifolium pratense. 
+Degradation medium Reagents 
+Temperature 
+(°C) 
+Time points 
+(hrs) 
+Acid degradation 1M HCl 25 2; 24 
+Alkaline degradation 1M NaOH 25 2; 24 
+Oxidation 
+H2O2 1.5% 25 2; 24 
+H2O2 15% 25 2; 24 
+Thermal - 80 12; 24 
+Photostability UVC
+a 25 24; 48 
+a UVC Light Express LE, 245 nm, 30W 
+ 
+ 
+Linearity, precision and accuracy 
+ 
+The linearity of the method was evaluated by regression 
+analysis using the least square method. Three calibration 
+curves were obtained by performing dilutions from the 
+reference isoflavone stock solution on three consecutive days. 
+The plot of the peak area versus the reference aglycone 
+isoflavone concentration, diluted in 50% (v/v) acetonitrile, 
+was performed. The linearity of the method was given in the 
+following concentrations: 0.5, 1.0, 4.0, 8.0, 12.0, 16.0 and 
+20.0 μg/mL for the reference aglycones and 0.5, 1.0, 2.0, 4.0, 
+6.0, 8.0, and 10.0 μg/mL in matrices. For each level of 
+concentration, samples were taken in six replicates. The limits 
+of detection (LOD) and quantification (LOQ) of the method 
+were calculated based on the standard deviation of the 
+intercept and slope of the reference curves. 
+The intra-day precision, which evaluates the repeatability of 
+the results, was determined in three concentration levels: low, 
+medium, and high (1.0, 4.0, and 8.0 μg/mL, respectively) in 
+the presence of the matrix. Six analyses were performed for 
+each concentration within the same day and under the same 
+experimental conditions. The intermediate precision (inter-
+day precision) was obtained by calculating the same 
+concentration levels on three different days. The standard 
+deviation and the relative standard deviation (RSD) were 
+calculated for each of these levels. To assess the accuracy of 
+the method, isoflavone aglycone standard was added at three 
+different amounts/levels (1.0, 4.0 and 8.0 µg/mL) to the 
+matrix. For each concentration level, six replicates were 
+performed and quantified. Accuracy was determined 
+mathematically through the equation: 
+ 
+𝑅𝐸% =
+𝑚𝑒𝑎𝑛 𝑐𝑎𝑙𝑐𝑢𝑙𝑎𝑡𝑒𝑑 𝑐𝑜𝑛𝑐𝑒𝑛𝑡𝑟𝑎𝑡𝑖𝑜𝑛 − 𝑡ℎ𝑒𝑜𝑟𝑒𝑡𝑖𝑐𝑎𝑙 𝑣𝑎𝑙𝑢𝑒
+(𝑡ℎ𝑒𝑜𝑟𝑒𝑡𝑖𝑐𝑎𝑙 𝑣𝑎𝑙𝑢𝑒)𝑥100
+ 
+ 
+System suitability 
+ 
+The suitability test of the analytical system was performed to 
+determine whether the method was suitable for the proposed 
+analysis. The parameters evaluated were the retention time, 
+peak area, plates, tailing factor, and resolution between the 
+FORMO, BIO, DAID, and GEN peaks. Each parameter was 
+analyzed in six replicates. 
+ 
+Robustness 
+ 
+Robustness was assessed according to the Plackett-Burmann 
+design method, as described by Vander Heyden et al [16]. The 
+factors analyzed for the matrix, which were modified to low 
+(-1) and high (+1) levels, were: furnace temperature of the 
+column (39; 41°C), acetonitrile concentration in the mobile 
+phase (29; 31%), initial flow rate (0.9; 1.1 mL/min) and TFA 
+concentration (0.08; 0.12%). The variation of these four 
+factors were combined in eight experiments and the responses 
+evaluated were the percentages of aglycone isoflavones 
+(FORMO, BIO, DAID, and GEN) in the matrix compared to 
+the standard solutions. The effect of each parameter was 
+calculated by summing the responses of the low and high 
+levels, allowing the statistical interpretation (tcalculated > tcritical) 
+of the similarity or difference of the results. There was no 
+need for further testing since all isoflavone standard 
+aglycones and matrixes were maintained under the same 
+experimental conditions. A plot of semi-normal probability 
+was also plotted to estimate the experimental error and 
+significant effects from the effects in combination with the 
+dummy factors. 
+ 
+Stability of the aglycones in the matrix 
+ 
+The stability of the isoflavones in the matrix added with 
+known amounts of isoflavone standards was determined after 
+48 h of storage at room temperature. The stability of these 
+solutions was assessed by analyzing any change in the 
+chromatographic profile compared to freshly prepared 
+solutions. 
+ 
+Method application 
+ 
+The determination of FORMO, BIO, DAID, and GEN in a 
+Trifolium pratense extract (TPE) was performed as described 
+in the section matrix solution. Brief, an isoflavone-enriched 
+fraction (IEF) was obtained by evaporation of a Trifolium 
+pratense macerate, resulting in a dry fraction. This dry 
+fraction was dissolved in a mixture of acetonitrile:water (1:1) 
+to obtain 0.01 % w/v solution. This solution was filtered 
+through 0.45 µm membrane (PTFE) and analyzed by HPLC. 
+The determination of the aglycone isoflavones was further 
+evaluated in a complex of the Trifolium pratense extract with 
+β-cyclodextrin (TPE:βCD). Spray drying method was 
+employed for complexation, adding βCD (40% w/w) to the 
+extract of Trifolium pratense (matrix). Approximately 1 mg 
+of this spray-dried powder was dissolved in a mixture of 
+acetonitrile:water (1:1) to obtain a 0.01% w/v solution. The 
+solution was filtered through a 0.45 µm membrane (PTFE) 
+and analyzed by HPLC. 
+ 
+Results and discussion 
+ 
+Many efforts for quantifying the isoflavones in Trifolium 
+pratense raw material or derivatives products have been made 
+in the last years generating several reports on HPLC 
+analytical methods [7,8,10,11,17]. Despite that, some 
+limitations remain. One of these is a long time of the analysis 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+32 
+(> 30 min) and the consequent high solvent consuming 
+[7,8,10,11,17]. Another limitation is the occurrence of the 
+matrix effect, which requires prior purification steps of the 
+sample. However, what is especially striking is that no 
+method alludes to the possibility of interference by 
+degradation products in the quantification of the analytes, 
+FORMO, BIO, DAID, and GEN. 
+In this work, a new HPLC chromatographic method is 
+proposed, which is faster than the methods previously 
+reported, to determine the matrix effect and to identify and 
+separate the Trifolium pratense aglycone isoflavones from the 
+degradation products that are formed by degradation in the 
+forced stability tests. 
+ 
+HPLC method development and advantages 
+ 
+The previous HPLC analytical methods are focused on 
+separating the major isoflavones to quantifying them in 
+different Trifolium pratense extracts [6–8,10,11,17]. 
+However, these methods still require better performance such 
+as lower elution time and the selectivity against the presence 
+of products from forced degradation. Thus, in the present 
+work, the method reported by Ramos et al. [7] was applied in 
+order to separate the peak corresponding to the product 
+formed in the alkaline degradation (NaOH 1M, 2h) from that 
+corresponding to BIO. However, the peak corresponding to 
+the degradation product showed similar retention time as 
+FORMO and the HPLC-PDA analysis demonstrated that their 
+UV spectra (PDA) were different (Fig. 1). This results 
+demonstrated that the alkaline degradation of BIO produces a 
+degradation product that interferes with the FORMO 
+quantification, revealing the need to change the conditions of 
+the HPLC analysis for separating them.  
+Thus, the stability-indicating method performed in the present 
+work revealed the need to separate FORMO from the 
+degradation product named DB for the reliable quantitation 
+of FORMO; several chromatographic conditions were then 
+tested. The best separation system for the analytes was 
+achieved with a gradient method using acetonitrile (30% v/v) 
+and acidified water (0.1% v/v TFA), which improved the 
+symmetry of the peaks. To improve the resolution among the 
+peaks, it was necessary to use a flow gradient at the retention 
+time where their separation was critical (11.7–14.2 min). The 
+UV detection was set at 260 nm since all the aglycones 
+isoflavones of interest have good absorption at this 
+wavelength [18]. 
+Figure 2 shows a representative chromatogram of the 
+Trifolium pratense extract added with the alkaline 
+degradation product of BIO. Adequate separation of the peaks 
+of all the analytes of interest (FORMO, BIO, DAID, and 
+GEN) can be observed, as well the presence of the other peaks 
+from the plant material and in relation to the BIO degradation 
+peak (Table 2). 
+The total time of analysis of the proposed method was 
+determined as being the eluate time plus the time necessary 
+for cleaning the column before the next run. The method 
+show 21 min of analysis time, which is shorter than the time 
+analysis of more than 40 min. reported by most of the 
+methods (8, 10, 11 and 17). The carry-over effect was 
+evaluated by analyzing white samples after the injection of 
+samples with high concentrations of the analytes, and any 
+peak in the chromatogram was observed. The method here 
+proposed was characterized by absence of carry-over effect 
+becomes the method here reported advantageous on the 
+method reported by Ramos et al. [7], which present a run time 
+of 18 minutes, but requires additional 18 minutes for cleaning 
+the column and rebalance the system at each analysis end. 
+ 
+Figure 1. HPLC-DAD chromatograms obtained by the HPLC method reported by Ramos et al. [7]: (a) FORMO standard 5.0 μg/mL; 
+(b) BIO standard 5.0 μg/mL; (c) BIO after alkaline degradation (1M NaOH, 24h). (F) the peak of FORMO (UV spectrum 248, 
+300 nm); (B) BIO peak (UV spectrum 260, 328 nm); (DB) peak of the alkaline degradation of BIO (UV spectrum 245, 286 nm). 
+ 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+33 
+ 
+ 
+Figure 2. Representative chromatogram of Trifolium pratense extract, added of the BIO alkaline degradation product, DB (NaOH 
+1M 24h), where: (1) DAID, (2) GEN, (3) FORMO, (4) BIO. 
+ 
+ 
+ 
+Table 2. HPLC data and molecular ion [M+H]+ acquired by MS analysis (UPLC-QTOF/HDMS) of the major Trifolium pratense 
+isoflavone aglycones. 
+ 
+Compound Chemical Structure Retention Time Plates Tailing Factor Resolution [M+1]
++ 
+DAID 
+ 
+7.53 14039.765 1.039 - 255 
+GEN 
+ 
+10.39 39279.582 1.118 12.349 271 
+FORMO 
+ 
+14.10 36476.301 0.903 2.762 269 
+BIO 
+ 
+17.58 77971.943 1.094 12.721 285 
+HPLC analysis: CLC-ODS (4.6 mm X 25 cm i.d; 5μm) shim-pack column (Shimadzu, Kyoto, Japan) coupled to a C18 pre-column (20 X 3.9 mm 
+i.d; 10mm); mobile phase A composed of water acidified with 0.1% of trifluoroacetic acid (TFA) and a phase B composed of acetonitrile; gradient 
+elution was 30% B (0–2 min), 30–55% B (2–13 min), 55–30% B (13–19 min); flow rate was a gradient of 1.0 mL/min (0–11.7 min), 1.0–0.4 
+mL/min (11.7–12.2 min), 0.4 mL/min (12.2–13.8 min), 0.4–1.0 mL/min (13.8–14.2 min), 1.0 mL/min (14.2–19 min); injection volume was 10 
+μL; analysis temperature 40°C and UV detector (260 nm). 
+ 
+ 
+ 
+ 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+34 
+Validation of the HPLC method 
+ 
+Assessment of the matrix effect 
+ 
+When the analyte is incorporated into a complex matrix 
+compared to a standard or reference solution, the matrix effect 
+on the analyte quantification is a critical parameter that 
+should be evaluated during the validation of an analytical 
+method. This effect can result in suppression or enhancement 
+of the response, which may impair the correct quantification 
+of analytes [15]. The results for the matrix effect (ME% 
+<2.24) for each aglycone isoflavone are shown in Table 3. 
+These data indicate that the samples show a low matrix effect 
+(ME%) for the determination of isoflavones when analyzed 
+according to as recommended by Niessen et al. [19] (low 
+matrix effect for a range between -20% < C% < 20%). 
+ 
+Specificity 
+ 
+The chromatographic separation (HPLC) of isoflavone 
+aglycones (standards) at 260 nm showed retention times of 
+7.49, 10.42, 14.13 and 17.49 min for DAID, GEN, FORMO, 
+and BIO, respectively (Fig. 3A). The λmax spectra 
+corresponding to each peak are shown in figure 3B (HPLC-
+DAD); the mass spectrum with the characteristic molecular 
+ions is shown in Figure 3C, which is consistent with those 
+already reported for this type of molecules [8,15,18]. 
+ 
+ 
+ 
+ 
+Table 3. Linearity data of the isoflavone aglycones (standards) and matrix effect in Trifolium pratense extract in the HPLC 
+method. 
+Matrix Compound Equation R2 
+LOD 
+(µg/mL) 
+LOQ 
+(µg/mL) 
+ME (%) 
+Reference substances 
+DAID y = 56170x + 1646,3 0.9999 0.053 0.159 - 
+GEN y = 65422x + 2531,7 0.9996 0.099 0.299 - 
+FORMO y = 75562x - 973,55 0.9990 0.151 0.458 - 
+BIO y = 65256x - 1638,6 0.9998 0.062 0.188 - 
+Trifolium pratense extract 
+DAID y = 55844x + 1666,4 0.9997 0.043 0.131 -0.58 
+GEN y = 66412x - 710,24 0.9994 0.058 0.175 1.49 
+FORMO y = 77297x - 2480,9 0.9999 0.029 0.087 2.24 
+BIO y = 64033x + 354,54 0.9992 0.067 0.204 -1.91 
+R2 =determination coefficient; LOD=limit of detection; LOQ=limit of quantitation; ME=matrix effect. 
+ 
+ 
+Figure 3. Analysis of isoflavone aglycones (1) DAID, (2) GEN, (3) FORMO, and (4) BIO by (a) HPLC tested method; (b) UV 
+spectra; (c) MS/MS spectra measured in positive mode (ESI+). 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+35 
+To evaluate the specificity of the HPLC method, samples of 
+Trifolium pratense extract and cyclodextrins were injected in 
+the equipment and the purity of the peaks was checked. 
+Figure 4a shows that all isoflavone peaks exhibit high purity 
+(Fig. 4a) demonstrating the absence on interferences of the 
+other extract matrix constituents as well as the of the tested 
+cyclodextrins (which did not show any signal in the 
+chromatogram). A sample of the cyclodextrin-extract spray-
+dried powder was also evaluated, and the purity of all the 
+analytes was verified, denoting that there was no interference 
+on the four isoflavones quantification. 
+These data represent critical information for developing of 
+analytical methods as part of a validation protocol and 
+produce valuable information for investigation of degradation 
+products. A well planned and executed forced degradation 
+study provides a representative sample for developing a 
+stability-indicating HPLC method [20]. 
+ 
+ 
+ 
+  
+Figure 4. Representative chromatographic profiles obtained in the specificity assay for the: (a) Trifolium pratense and its reference 
+isoflavones and the absence of interference of cyclodextrins in the chromatographic analysis, where, IAE: isoflavone aglycones 
+extract, HPβCD: hydroxypropyl-beta cyclodextrin, βCD: beta-cyclodextrin; (b) alkaline degradations products from FORMO, BIO, 
+and DAID, were, ADF: peak from alkaline degradation of formononetin, ADB: alkaline degradation of biochanin A, ADD: alkaline 
+degradation of daidzein. Peak 1 = daidzein, Peak 2 = genistein Peak 3 = formononetin and Peak 4 = biochanin A. 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+36 
+However, there is no consensus as to how much stress is 
+required to undertake this type of study. Some pharmaceutical 
+scientists suggest degradations between 5 and 20% as being 
+reasonable for the validation of chromatographic assays [20–
+22]. It is also not necessary for forced degradation to result in 
+a degradation product, but in this study, we performed a 
+screening at different levels of stress (variation of exposure 
+time and variation in the concentration of degrading agent) in 
+an attempt to detect the possible degradation product 
+formation of both at low and slightly higher levels of stress. 
+Even in the most extreme conditions tested, all the aglycone 
+isoflavones (FORMO, BIO, DAID, and GEN) presented a 
+degradation percentage below 20% (RSD <3.7%) for thermal, 
+acid and oxidative degradation. On the other hand, in the 
+condition of photolysis, FORMO presented degradation 
+higher than 30% (RSD 4.5%) for both times of exposure (24h, 
+48h). The forced degradation study revealed that the tested 
+isoflavones gradually degraded in alkaline medium, showing 
+significant variation after 2h of stress. After 24h of exposure 
+to the alkaline medium, degradation of 98.01% of FORMO 
+(RSD 3.6%), 93.19% of BIO (RSD 3.6%), 79.97% of DAID 
+(RSD 3.00%), and 66.33% GEN (RSD 1.9%). 
+However, only three new peaks corresponding to the 
+degradation products of FORMO, BIO, and DAID could be 
+observed in the HPLC method (Fig 4B), D1, D2, and D3 
+which showed retention times of 16.2, 13.5 and 9.4 min, 
+respectively. All degradation products showed good 
+separation from the other peaks of the reference substances 
+and even of the matrix, resulting in a very good resolution 
+(>2.0). The maximum UV spectra of the principal degraded 
+peaks showed λmax: 245/281 nm for D1, λmax: 245/286 nm 
+for D2 and λmax: 281/304 nm for D3.  
+The stability tests associated with the UPLC-QTOF/HDMS 
+analysis is a new and relevant tool for determining the 
+fragmentation pattern and the chemical structures of the main 
+degradation products. Thus, to increase knowledge of the 
+identity of degradation products of FORMO, BIO, DAID and 
+GEN and to confirm the purity of the aglycone isoflavones, 
+they were analyzed by mass spectrometry 
+(UPLC-QTOF/HDMS), after stress. In this system, the 
+retention times of the peaks were 4.54 (FORMO), 6.21 (BIO), 
+2.16 (DAID) and 3.37 min (GEN) for the reference 
+isoflavones and 5.6, 4.5 and 2.9 min for the degradation 
+products D1, D2, and D3, respectively. We obtained for D1 
+the precursor [M-H] - the ion m/z 257 and as products the ions 
+224 and 109 m/z, which have similarities to those described 
+by Yatsu et al. in 2014 [15] for O-desmethylangolensin.  
+The proposed molecular formula and the corresponding 
+fragmentation ions are shown in Table 4 for the three alkaline 
+degradation products (1M NaOH). However, more studies are 
+necessary to enlighten their chemical structure. 
+ 
+Linearity, precision and accuracy 
+ 
+The linearity of the response between the peak areas and 
+isoflavone concentrations is presented in Table 3. It was 
+obtained through reference analytical curves determined in 
+three different days, demonstrating good linearity through the 
+analysis of determination coefficients (>0.999) for all 
+compounds within the tested range. The graphic analysis of 
+the residuals and the confidence interval observed in the t-test 
+in the intercepts reveal the absence of constant systematic 
+error. The ANOVA test for regression residue analysis did not 
+show any deviation in the linearity in the analyzed 
+concentration range, and there was no significant variation 
+between the curves on different days (p>0.05). The results of 
+LOD and LOQ (table 3) show that the method presents good 
+sensitivity for the analyzed standards. 
+The precision of the method was assessed by determining the 
+repeatability and intermediate precision of the isoflavone 
+aglycone reference in the matrix. Even being a complex 
+matrix, the results (RSD <5%) demonstrate that the method 
+is precise. Intra-day precision data showed a relative standard 
+deviation (RSD) value of 0.47–4.58% for the lowest 
+concentration level, between 0.33–2.38% for the average 
+level and between 0.33–2.17% for the highest level. The 
+inter-day precision data had an RSD value between 1.58–
+3.79% for the lowest-level tests, between 0.53–1.95% for the 
+medium level and between 0.68–1.63% for the highest level 
+of concentration. 
+The accuracy of the method was determined using a recovery 
+test. The recovery results were 97.03–104.04% for the low 
+level, 98.84–100.17% for the mean level, and 99.14–
+100.35%, which is considered adequate according to the 
+validation guidelines. 
+ 
+ 
+Table 4. Schematic representation of ion mass spectra (MS) of isoflavone degradation products in alkaline media (1M NaOH) and 
+proposed molecular formula. 
+ 
+Degradation product 
+ 
+Precursor 
+ 
+[M-H]- 
+ 
+[M-H]+ 
+ 
+ 
+Neutral Monoisotopic mass 
+ 
+Δ (ppm)* 
+ 
+Molecular formulaa 
+Determined Theoretical 
+D1 FORMO 257.0819 259.0971 258.0895 258.0892 1.16 C15H14O4 
+D2 BIO 273.0764 275.0923 274.0844 274.0841 0.91 C15H14O5 
+D3 DAID 243.0659 245.0806 244.0733 244.0736 -1.43 C14H12O4 
+*mass error ppm a obtained from isotopic pattern 
+ 
+ 
+ 
+ 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+37 
+ 
+Figure 5. Bar charts representing the t-calculated for quantitative determination (assay) of the investigated factors (1,2,3, and 4) in 
+Plackett-Burman experimental design and their t-critical, represented by the vertical line, for each isoflavone in the matrix (Trifolium 
+pratense extract). 
+ 
+ 
+Robustness 
+ 
+Robustness is critical to assess if the analytical method 
+developed can remain unaffected to small, deliberate 
+variations in the method parameters and consequently ensures 
+that the method is reliable during routine use of analyses 
+[12,23]. The Plackett-Burman screening design was used as 
+statistical tool for robustness assessment since several factors 
+can be analyzed simultaneously with a reduced number of 
+experiments [24]. 
+From the experimental design, the percentage of FORMO, 
+BIO, DAID, and GEN in the samples was calculated in 
+relation to the reference solutions for each experiment. The 
+results show that there was no difference of significance for 
+all the analyses (Fig. 5), where the calculated t values were 
+lower than the critical t (α = 0.05). Therefore, the deliberate 
+variations in the experimental conditions did not interfere 
+with the percentage of aglycone isoflavones, demonstrating 
+the robustness of the proposed analytical method. 
+ 
+System suitability 
+ 
+Routine analysis of the reference substances was performed 
+under the developed experimental conditions and the 
+following values and their variability (RSD %) for each 
+compound were evaluated: (I) DAID analysis: 7.49 (0.08) 
+min for migration time, 6943.63 (1.21) for plates, and 0.998 
+(1.15) for tailing factor; (II) GEN analysis: 10.42 (0.03) min 
+for migration time, plates 12104.80 (1.61), and tailing factor 
+0.962 (0.95); (III) FORMO analysis: 14.13 (0.04) min for 
+migration time, 12516.68 (4.23) for plates, and 0.730 (0.42) 
+for tailing factor; (IV) BIO analysis: 17.49 (0.05) min for 
+migration time, 33186.34 (1.72) for plates, and 0.948 (0.57) 
+for the tailing factor. The resolution between DAID and GEN 
+peaks was 7.92 (0.64), GEN and FORMO peaks was 8.39 
+(1.49) and 7.55 (1.10) between FORMO and BIO. The 
+parameters indicate that the system is suitable for the analysis. 
+ 
+Stability of the aglycones isoflavones in the matrix 
+ 
+In the study evaluating the stability of the isoflavones in the 
+matrix, they demonstrated no need to change their 
+concentration in the matrix after 48h storage at room 
+temperature (RSD <5.0%). 
+The variation in the values of the isoflavones concentration in 
+the matrix, after this period, were found to be between 99.25 
+and 103.91% (RSD 1.94%) for FORMO, 99.68 to 103.16% 
+(RSD 1.63%) for BIO, between 98.31 to 103.46% (RSD 
+2.32%) for DAID and between 98.24 to 104.77% (RSD 
+2.68%) for GEN. 
+ 
+Method applications 
+ 
+For verifying the applicability of the method, samples of 
+products derived from Trifolium pratense were tested. The 
+content of isoflavone aglycones present in Trifolium pratense 
+extract (TPE), an isoflavone-enriched fraction (IEF), and an 
+extract of Trifolium pratense associated to βCD (TPE:βCD) 
+was determined. The results (Table 5) indicate the accuracy 
+of the method in all samples, where the RSD was less than 
+3.26% in the test for TPE, 3.21% for IEF and 4.24 for TPE: 
+βCD. 
+  
+0,0 1,0 2,0 3,0
+Temp.
+Flow
+%TFA
+% ACN
+T calculated
+Robustness Analysis
+GEN
+DAID
+BIO
+FORMO
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+38 
+Table 5. Applicability of the HPLC validated method: 
+determination of the isoflavone aglycones in different 
+matrices. 
+ 
+Concentration in g/mL (RSD %)  
+mean of six replicates 
+ 
+ 
+TPE 
+ 
+IEF 
+ 
+TPE:βCD 
+FORMO 69.19 (3.26) 147.94 (3.21) 59.12 (4.24) 
+BIO 79.63 (0.64) 207.57 (1.52) 44.03 (2.78) 
+DAID 2.75 (2.87) 1.39 (2.77) 0.60 (1.35) 
+GEN 7.04 (2.54) 9.31 (3.88) 1.86 (2.90) 
+Total 
+isoflavones 
+158.61 (1.34) 372.46 (2.54) 105.61 (0.88) 
+TPE: Trifolium pratense extract; IEF: (isoflavone-enriched fraction) 
+and TPE:βCD: Trifolium pratense extract complexed with 
+β-cyclodextrin. 
+ 
+ 
+Conclusions 
+ 
+This is the first report on a validated stability-indicating 
+HPLC method capable of quantifying the four isoflavones 
+from Trifolium pratense, formononetin, biochanin A, 
+genistein, and daidzein. The method is fast and selective 
+against the other extract constituents, and the degradation 
+products generated in alkaline forced conditions. The method 
+showed robustness, low matrix effect, linearity, precision, 
+and accuracy. The UPLC-QTOF/HDMS fragmentation 
+pattern and a molecular formula of three degradation products 
+from forced degradation were determined.  In summary, the 
+proposed stability-indicating HPLC validated method allows 
+the simultaneous quantification of the four isoflavones of 
+Trifolium pratense in a fast and reliable way, which is useful 
+for application in food or pharmaceutical fields.  
+ 
+ 
+Acknowledgments 
+ 
+The authors are gratefully acknowledged to Conselho 
+Nacional de Desenvolvimento científico e Tecnológico 
+(CNPq0, Fundação de Amparo à Pesquisa do Estado do Rio 
+Grande do Sul (FAPERGS), and Coordenação de 
+Aperfeiçoamento de Pessoal de Nível Superior - Brasil 
+(CAPES - Finance Code 001) for the financial grants. S.M. 
+would like to thank CAPES for the doctoral grant. V.L.B. is 
+recipient of CNPq research fellowship. 
+ 
+ 
+Conflict of interest 
+ 
+The authors declare no conflicts of interest. 
+ 
+ 
+ 
+ 
+ 
+ 
+References 
+ 
+1. Silva AG. Plantas contendo isoflavonas no tratamento da 
+síndrome da menopausa e nos distúrbios do climatério. 
+Nat. Line 2007;5:25–9.  
+ 
+2. Barnes J, Anderson L, Phillipson J. Fitoterápicos. Porto 
+Alefre: 2012. 
+ 
+3. Kaurinovic B, Popovic M, Vlaisavljevic S, Schwartsova 
+H, Vojinovic-Miloradov M. Antioxidant profile of 
+Trifolium pratense L. Molecules 2012;17:11156–72.  
+ 
+4. Ramos GP, Apel MA, Morais CB de, Ceolato PC, 
+Schapoval EES, Dall’Agnol M, et al. In vivo and in vitro 
+anti-inflammatory activity of red clover Trifolium 
+pratense dry extract. Rev. Bras. Farmacogn. 
+2012;22:176–80.  
+ 
+5. Kolodziejczyk-Czepas J. Trifolium species-derived 
+substances and extracts—Biological activity and 
+prospects for medicinal applications. J. Ethnopharmacol. 
+2012;143:14–23.  
+ 
+6. Chen Q, Li P, Li B, Xiulou, Zhu J, Chen F. Simultaneous 
+determination of formononetin, biochanin A, daidzein, 
+and genistein in Trifolium pratense (red clover) by HPLC. 
+LC GC Eur. 2010;23.  
+ 
+7. Ramos GP, Dias PMB, Morais CB, Fröehlich PE, 
+Dall’Agnol M, Zuanazzi J a. S. LC determination of four 
+isoflavone aglycones in red clover (Trifolium pratense 
+L.). Chromatographia 2008;67:125–9.  
+ 
+8. Wu Q, Wang M, Simon JE. Determination of isoflavones 
+in red clover and related species by high-performance 
+liquid chromatography combined with ultraviolet and 
+mass spectrometric detection. J. Chromatogr. A 
+2003;1016:195–209. 
+ 
+9. Oleszek W, Stochmal A, Janda B. Concentration of 
+isoflavones and other phenolics in the aerial parts of 
+Trifolium species. J. Agric. Food Chem. 2007;55:8095–
+100.  
+ 
+10. Lin LZ, He XG, Lindenmaier M, Yang J, Cleary M, Qiu 
+SX, et al. LC-ESI-MS study of the flavonoid glycoside 
+malonates of red clover (Trifolium pratense). J. Agric. 
+Food Chem. 2000;48:354–65.  
+ 
+11. Saviranta NM, Anttonen MJ, von Wright A, Karjalainen 
+RO. Red clover (Trifolium pratense L.) isoflavones: 
+determination of concentrations by plant stage, flower 
+colour, plant part and cultivar. J. Sci. Food Agric. 
+2008;88:125–32. 
+ 
+12. ICH. Validation of a analytical Procedures : text and 
+methodology Q2(R1). In: Guidance. 2005. page 17. 
+ 
+ 
+ 
+Drug Anal. Res., v. 4, n. 1, p. 29-39, 2020 
+ 
+39 
+13. FDA F and DA. Guidance for industry: bioanalytical 
+method validation, 2013. 
+ 
+14. Watanabe E, Kobara Y, Baba K, Eun H. Aqueous 
+acetonitrile extraction for pesticide residue analysis in 
+agricultural products with HPLC-DAD. Food Chem. 
+2014;154:7–12. 
+ 
+15. Yatsu FKJ, Pedrazza GPR, Argenta DF, Barreto F, 
+Nemitz MC, Teixeira HF, et al. A new simplified and 
+stability indicating liquid chromatography method for 
+routine analysis of isoflavones aglycones in different 
+complex matrices. Food Anal. Methods 2014;7:1881–90. 
+ 
+16. Vander Heyden Y, Nijhuis A, Smeyers-Verbeke J, 
+Vandeginste BG, Massart DL. Guidance for 
+robustness/ruggedness tests in method validation. J 
+Pharm Biomed Anal. 2001;24(5-6):723‐753. 
+doi:10.1016/s0731-7085(00)00529-x 
+ 
+17. de Rijke E, Zafra-Gómez A, Ariese F, Brinkman UAT, 
+Gooijer C. Determination of isoflavone glucoside 
+malonates in Trifolium pratense L. (red clover) extracts: 
+quantification and stability studies. J. Chromatogr. A 
+2001;932:55–64. 
+ 
+18. Nemitz MC, Yatsu FKJ, Bidone J, Koester LS, Bassani 
+VL, Garcia C V., et al. A versatile, stability-indicating and 
+high-throughput ultra-fast liquid chromatography method 
+for the determination of isoflavone aglycones in soybeans, 
+topical formulations, and permeation assays. Talanta 
+2015; 134:183–93.  
+19. Niessen WMA, Manini P, Andreoli R. Matrix effects in 
+quantitative pesticide analysis using liquid 
+chromatography–mass spectrometry. Mass Spectrom. 
+Rev. 2006;25:881–99. 
+ 
+20. Shah B, Jain S, Prajapati K, Mansuri N. Stability 
+indicating HPLC method development: A review. Int. J. 
+Pharm. Sci. Res. 2012;3:2978–88. 
+ 
+21. Blessy M, Patel RD, Prajapati PN, Agrawal YK. 
+Development of forced degradation and stability 
+indicating studies of drugs—A review. J. Pharm. Anal. 
+2014;4:159–65. 
+ 
+22. Carr GP, Wahlich JC. A practical approach to method 
+validation in pharmaceutical analysis. J. Pharm. Biomed. 
+Anal. 1990;8:613–8. 
+ 
+23. Anvisa. RDC N. 166, de 25 de Julho de 2017, Dispõe 
+sobre a validação de métodos analíticos e dá outras 
+providências. Minist. da Saúde 2017;2017:1–21. 
+ 
+24. Zeaiter M, Roger JM, Bellon-Maurel V, Rutledge DN. 
+Robustness of models developed by multivariate 
+calibration. Part I: The assessment of robustness. TrAC - 
+Trends Anal. Chem.2004;23:157–70. 

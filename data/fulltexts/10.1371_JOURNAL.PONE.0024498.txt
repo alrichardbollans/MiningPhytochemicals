@@ -1,0 +1,800 @@
+Hepatotoxicity or Hepatoprotection? Pattern
+Recognition for the Paradoxical Effect of the Chinese
+Herb Rheum palmatum L. in Treating Rat Liver Injury
+Jia-bo Wang
+1*
+., Hai-ping Zhao
+1,2., Yan-ling Zhao
+1, Cheng Jin
+1, Dao-jian Liu
+1, Wei-jun Kong
+1,3, Fang
+Fang
+1,3, Lin Zhang
+1,3, Hong-juan Wang
+1, Xiao-he Xiao
+1
+1Integrative Medicine Center, 302 Military Hospital, Beijing, People’s Republic of China, 2Key Laboratory of Modern Preparation of Traditional Chinese Medicine, Ministry
+of Education, Jiangxi University of Traditional Chinese Medicine, Nanchang, People’s Republic of China, 3Chengdu University of Traditional Chinese Medicine, Chengdu,
+People’s Republic of China
+Abstract
+The hepatotoxicity of some Chinese herbs has been a cause for concern in recent years. However, some herbs, such as
+rhubarb, have been documented as having both therapeutic and toxic effects on the liver, leading to the complex problem
+of distinguishing the benefits from the risks of using this herb. To comparatively analyze the dose-response relationship
+between rhubarb and hepatic health, we administrated total rhubarb extract(RE) to normal and carbon tetrachloride(CCl4)-
+treated rats for 12 weeks at 4 dosage levels(2.00, 5.40, 14.69 and 40.00 g?kg
+21, measured as the quantity of crude material),
+followed by biochemical and histopathological tests of the rats’ livers. A composite pattern was extracted by factor analysis,
+using all the biochemical indices as variables, into a visual representation of two mathematically obtained factors, which
+could be interpreted as the fibrosis factor and the cellular injury factor, according to the values of the variable loadings. The
+curative effect of administering the two lowest dosages of RE to CCl4-treated rats was mainly expressed as a decrease in the
+extent of cellular injury. The hepatoprotective mechanism of RE might be related to its antioxidant effect, the antagonism of
+the free radical damage to hepatocytes caused by CCl4. By contrast, the RE-induced liver damage was mainly expressed as a
+significant increase in the amount of fibrosis in both normal rats at all dosage levels and CCl4-treated rats at the two highest
+dosage levels. Therefore, the hepatotoxic potential of RE could be attributable to the liver cell fibrosis induced by high
+doses of the herb. This study illustrates the bidirectional potential of rhubarb and demonstrates the feasibility of using
+factor analysis to study the dose-response relationships between herbal medicines and hepatotoxicity or the healing effects
+of these herbs by extracting the underlying interrelationships among a number of functional bio-indices in a holistic
+manner.
+Citation: Wang J-b, Zhao H-p, Zhao Y-l, Jin C, Liu D-j, et al. (2011) Hepatotoxicity or Hepatoprotection? Pattern Recognition for the Paradoxical Effect of the
+Chinese Herb Rheum palmatum L. in Treating Rat Liver Injury. PLoS ONE 6(9): e24498. doi:10.1371/journal.pone.0024498
+Editor: John E. Tavis, Saint Louis University, United States of America
+Received February 4, 2011; Accepted August 11, 2011; Published September 6, 2011
+Copyright:  2011 Wang et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was funded by the National Key Technologies R&D Program of China (No. 2009ZX09502-022) and by the National Natural Science
+Foundation of China (No. 30625042 and 30973947). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of
+the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: pharmacy302@126.com
+. These authors contributed equally to this work.
+Introduction
+Traditional Chinese herbal medicines are used worldwide, but
+there are a number of concerns regarding their use. Some
+researchers believe that herbal medicines are effective and safe,
+while others doubt their effectiveness and safety. The latter group
+has increased in number, especially after consecutive reports of
+adverse hepatotoxic effects of a number of phytomedicines,
+including Polygonum multiflorum [1], Shou-Wu Pian [2], Xiao-
+Chai-Hu-Tang (Syo-saiko-to), [3] and some herbs containing
+anthraquinones, such as Sennae fructus angustifoliae [4] and Rheum
+palmatum L. (rhubarb) [5]. Chitturi et al. believe that herbal
+hepatotoxicity is an expanding but poorly defined problem [6].
+These herbal medicines, especially rhubarb and its constituent
+components, are frequently used as treatments for chronic liver
+diseases and as laxatives in Asian countries, and a number of cases
+have demonstrated their affirmative effectiveness and safety [7,8].
+In addition to the clinical evidence of the effectiveness of rhubarb
+in treating chronic hepatic diseases, [9,10] many experiments at
+the animal, cellular and molecular levels have revealed that
+rhubarb and its anthraquinone constituents exert a protective
+effect against hepatic injury by inhibiting the carbon tetrachloride
+(CCl4)-induced elevation of serum alanine aminotransferase
+(ALT), aspartate aminotransferase (AST), hyaluronic acid (HA)
+and laminin (LN) levels. [11,12]
+In vitro and in vivo studies focusing on the anthraquinone
+constituents of rhubarb, however, have revealed conflicting results.
+A two-year National Toxicology Program (NTP) study, conducted
+by the U.S. Department of Health and Human Services (DHHS)
+on emodin, one of the main anthraquinone derivatives contained
+within rhubarb, demonstrated the hepatotoxic potential of emodin
+on normal rats and mice. The toxic effects included elevations of
+ALT levels, total bile acids (TBIL) levels and organ-weight-to-
+body-weight ratios (relative weights) of the liver, as well as
+PLoS ONE | www.plosone.org 1 September 2011 | Volume 6 | Issue 9 | e24498decreases in alkaline phosphatase (AP) and total protein levels
+(TP). [13] Other investigators have reported that administration of
+rhubarb extracts (REs) led to elevations of serum ALT and TBIL
+levels in patients and experimental animals, leading to hepatitis
+and nephritis. [14–17]
+The conflicting results of these reports might be due to the
+heterogeneity and complexity of herbal medicines with respect to
+their geographic origin, harvest season, and discrepancy of
+constituent components. Herbal medicines, which usually contain
+hundreds of chemical components with broad pharmacological
+targets and effects, present difficulties in describing overall
+biological profiles in a simple manner with a few essential factors
+that can be readily comprehended. Many phytopharmacologists
+have dedicated themselves to solving this provlem for decades. In
+recent years, pattern recognition, [18] a type of multivariate
+analysis approach, has become a promising method for identifying
+and interpreting meaningful regularities in noisy or complex
+systems, by analyzing data from different perspectives and
+summarizing them as useful information or by mining potential
+interrelationships. The factor analysis used in this study is a
+common pattern recognition method that reduces a large number
+of disease parameters to a relatively small number of independent
+factors, by describing the covariance structure of the observed data
+variables in terms of a few underlying and independent but non-
+measurable features called ‘‘factors’’. [19]
+The aim of this study was to determine the paradoxical effects of
+liver protection and hepatotoxicity of rhubarb in the treatment of
+rat experimental hepatitis induced by carbon tetrachloride by
+categorizing a number of functional bio-indices into separate
+complementary domains (protection or toxicity) with no a priori
+assumptions. We believe that our data will provide useful
+information for the safe evaluation and proper application of
+rhubarb and, furthermore, will help increase our understanding of
+the rational use of phytomedicines.
+Materials and Methods
+Ethics Statement
+This study was conducted in strict accordance with the
+recommendations of the Guidelines for the Care and Use of
+Laboratory Animals of the Ministry of Science and Technology of
+China. The animal protocol was approved by the Committee on
+the Ethics of Animal Experiments of the 302 Military Hospital
+(Approval ID: 09-056).
+Animals and reagents
+Male and female Sprague- Dawley rats, aged 6-8 weeks and
+weighing 180 6 30 g, were obtained from the Laboratory Animal
+Center of the Academy of Military Medical Sciences (License No.
+SYXK 2007- 004). The animals were raised separately by gender
+and had unlimited access to food and water in an environmentally
+controlled breeding room (temperature 2262uC, humidity 60–
+80%). The breeding room was illuminated by an artificial light
+cycle with 12 hours of light and 12 hours of darkness every day
+and was disinfected regularly.
+Carbon tetrachloride (CCl4) was purchased from Beijing Beihua
+Fine Chemicals Co. Ltd (Cat. #20060525), and olive oil was
+purchased from Sinopharm Chemical Reagent Beijing Co. Ltd
+(Cat. #F20080219). Both reagents were of AR grade.
+Herb extraction and UPLC-MS/MS analysis
+Rhubarb is the peeled and dried root of Rheum palmatum L., R.
+tanguticum Maxim. ex Balf. or R. officinale Baill. (Polygonaceae
+family), as stipulated in the Chinese Pharmacopoeia[20]. Rhubarb
+is also officially listed in European and Japanese pharmacopoeias.
+[21,22] R. palmatum was used in this study because it is described in
+all three pharmacopoeias and is more commonly used than the
+other species. The dried root and rhizome of R. palmatum L. were
+collected in Lixian County of the Gansu Province of China and
+were identified by Professor Xiao-he Xiao, a taxonomist at the
+Military Institute of Chinese Materia Medica. In total, 100 kg
+rhubarb was added to 600 L of 90% ethanol and then heated and
+extracted 3 times for 1 hour each time. The residual compounds
+after extraction were added to 1000 L of water and then heated
+and extracted for 1 hour. The filtrate was merged and sprayed dry,
+producing a yield of 29.3%. The samples were preserved for
+further experiments.
+Rhubarb extract (RE) was analyzed for quality control by ultra-
+performance liquid chromatography coupled with an ultraviolet-
+visible detector and electrospray ionization tandem mass spec-
+trometry (UPLC-UV-ESI-MS/MS). [23] The experimental con-
+ditions and data are provided in Text S1.
+Animal model and study groups
+In this study, a CCl4-induced liver injury model was used
+because it has been well documented and demonstrated to have
+good repeatability and reliability. One experiment cycle continued
+for 16 weeks, and the following procedure was used immediately
+prior to the experiment, 180 rats were randomized into 10 groups
+of 18 animals each, with equal distributions by gender. The groups
+shown in Tables 1 and 2 were differentiated based on the
+treatment group and extract dosage. The rats in the five model
+groups (groups M and M1-M4) were injected intraperitoneally (i.p.)
+with CCl4 oil (containing 1 portion CCl4 and 9 portions olive oil,
+5 ml/kg) 2 times per week for 12 weeks to induce chronic liver
+injury, and the rats in the other groups received normal saline
+(N.S.). The rats in all medication groups (groups N1-N4 and M1-
+M4) were administered RE intragastrically once per day from the
+4
+th week until the end of the 16
+th week. Rats in the control (group
+N) and model (group M) groups were administered normal saline
+intragastrically. The RE dosages were 2.00, 5.40, 14.69 and
+40.00 g/kg (measured as the quantity of crude material) per kg of
+body weight once per day and were equivalent to between 4 and
+80 times the human upper dosage limit stipulated in the Chinese
+Pharmacopoeia (0.5 g/kg). Food and water were available ad
+libitum for all rats throughout the experiment.
+Histopathologic examination and biochemical analysis
+Necropsies were performed on all the animals at the end of the
+experiment. Tissues for histopathologic examination were fixed
+and preserved in 10% neutral buffered formalin, processed and
+trimmed, embedded in paraffin, sectioned to a thickness of
+approximately 5mm, and stained with hematoxylin and eosin (HE).
+Biochemical analyses were performed on all animals. The
+biochemical parameters of serum ALT, AST, AP, urea nitrogen
+(SUN), creatinine (CREA), TP, albumin (ALB), globulin (GLO),
+calcium, inorganic phosphate, total cholesterol (CHOL) and TBIL
+levels were measured by the Clinical Laboratory of 302 Military
+Hospital of China. The levels of HA, LN and transforming growth
+factor b1 (TGF-b1) in rat serum were quantitated by chemilumi-
+nescence using assay kits from Beijing Deyuan Biomedical
+Engineering Corporation, China.
+Statistical analysis
+The experimental values were expressed as means 6 standard
+deviation (means 6 SD). All data were analyzed using the
+Statistical Package for the Social Sciences for Windows, version
+13.0 (SPSS Inc, Chicago, IL, USA). The groups were compared
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 2 September 2011 | Volume 6 | Issue 9 | e24498using ANOVA and multivariate statistical analysis, and the
+significance probability was set at P=0.05.
+The factor analysis model was as follows:
+yc~lc1F1zlc2F2zlc3F3z:::zlcnFnzec
+where yc is the cth original variable, c=1,...,p, p is the number
+of original variables, lc1, lc2, lc3,...,lcn are the factor loadings, F1,
+F2, F3,...,Fn are the (new) factors, n is the number of factors,
+and ec the error term related to yc. [24] The correlation
+coefficients were analyzed by principal component analysis and
+subsequent rotation according to the standard varimax criterion.
+The correlation between parameters was attributed to their
+common dependence on independent entities called ‘‘factors.’’
+The coefficients that linked the parameters to factors were named
+‘‘factor loadings’’.
+Results
+Study design
+This study included two parts. First, a comparative experiment
+was designed to investigate the dose-responses of RE to normal
+and CCl4-treated rats. Standard blood chemistry analyses were
+used to evaluate liver damage and histological changes were
+assessed. All doses were set at high levels to uncover potential
+toxicities to rigorously investigate the hepatic risks of RE.
+Table 1. Liver toxicity induced by rhubarb extract in normal rats with regard to survival and biochemical indices.
+Groups N ND1 ND2 ND3 ND4
+Dosage (g/kg) 0 2 5.4 14.69 40
+Survival
+a 18 18 17 15 14
+ALT (U/L) 73.00617.70 104.86610.17 119.43631.36
+g 125.43619.86
+g 175.86622.75
+g
+AST (U/L) 149.57627.78 187.00637.46 207.86671.81 268.00657.83
+g 261.00648.55
+g
+AP (U/L) 53.71621.26 73.00628.14 89.29618.31 97.29621.48
+g 116.43619.7
+g
+TBIL (mmol/L) 1.0960.32 1.0160.59 1.2460.30 1.5060.53 1.6660.75
+g
+TP (g/L) 69.71612.31 74.14613.56 76.29611.34 84.43610.72 87.7168.12
+g
+GLO (g/L) 27.5767.50 34.4366.48 35.7165.77 46.2969.72 51.4367.57
+g
+HA (ng/L) 203.30671.98 220.4673.97 277.79623.17
+g 281.46644.08
+g 350.13647.98
+g
+LN (ng/L) 31.5365.05 36.76610.47 38.0168.43 48.47610.22
+g 54.1969.78
+g
+TGF-b1 (pg/L) 18.2361.42 20.8761.95 19.0963.38 29.8266.27 39.1967.76
+g
+N, normal rat group without treatment; ND1-ND4, normal rat groups treated with rhubarb extract at dosages of 2.00, 5.40, 14.69 and 40.00 g kg
+21, respectively.
+ALT, serum alanine aminotransferase; AST, serum aspartate aminotransferase; AP, alkaline phosphatase; TBIL, total bile acids; TP, total protein; GLO, globulin; HA,
+hyaluronic acid; LN, laminin; TGF-b1, transforming growth factor b1.
+a The initial number of animals in each group of the study was 18.
+g P,0.05 compared to the N group.
+doi:10.1371/journal.pone.0024498.t001
+Table 2. Protective effect of rhubarb extract against CCl4-induced liver injury with regard to the survival and biochemical indices
+in the model groups.
+Groups M MD1 MD2 MD3 MD4
+Dosage (g/kg) 0 2 5.4 14.69 40
+Survival
+a 16 18 15 13 11
+ALT (U/L) 519.14664.46
+g 261.14646.52
+* 213.43633.16
+* 183.14633.26
+* 253.43655.24
+*
+AST (U/L) 775.146119.95
+g 421.00635.13
+* 234.71643.18
+* 268.57677.34
+* 367.576104.59
+*
+AP (U/L) 140.57658.8
+g 58.86615.55
+* 63.57620.56
+* 83.00618.35 103.57627.67
+TBIL (mmol/L) 2.3460.24
+g 1.4960.71
+* 1.2460.72
+* 1.6461.07 2.8960.72
+*
+TP (g/L) 92.43614.12
+g 71.00610.85
+* 71.0066.68
+* 75.7169.41 87.1467.99
+GLO (g/L) 58.4369.36
+g 29.86610.93
+* 33.0063.51
+* 38.1468.28 49.7166.70
+HA (ng/L) 362.17636.88
+g 284.23638.73
+* 310.29670.63
+* 436.37661.71
+* 508.10662.38
+*
+LN (ng/L) 53.31623.25
+g 36.59610.25 38.6467.85 52.4966.93 91.96619.21
+*
+TGF-b1 (pg/L) 33.07611.06
+g 30.6966.75 32.4865.73 34.0866.71 53.77610.45
+*
+M, model rat group without treatment; MD1-MD4, model rat groups treated with rhubarb extract at dosages of 2.00, 5.40, 14.69 and 40.00 g kg
+21, respectively.
+ALT, serum alanine aminotransferase; AST, serum aspartate aminotransferase; AP, alkaline phosphatase; TBIL, total bile acids; TP, total protein; GLO, globulin; HA,
+hyaluronic acid; LN, laminin; TGF-b1, transforming growth factor b1.
+a The initial number of animals in each group of the study was 18.
+g P,0.05 compared to the N group.
+*P,0.05, compared to the M group.
+doi:10.1371/journal.pone.0024498.t002
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 3 September 2011 | Volume 6 | Issue 9 | e24498Second, a factor analysis approach was utilized to mathemat-
+ically illustrate the bidirectional effect of liver protection and
+hepatotoxicity of RE on subjects under different physiological
+conditions. The mathematical modeling process used a dimension
+reduction effect to convert the original dataset of numerous disease
+variables into a relatively small number of independent ‘‘factors’’
+that are not measurable but are easy to comprehend, including the
+protection factor and the lesion factor.
+Identification of the chemical constituents in rhubarb
+extract (RE)
+In a previous study, it was demonstrated that the major
+components contained in RE are anthraquinone derivatives and
+tannin-related compounds. [25] Using liquid chromatography
+coupled with tandem mass spectrometry, seventeen compounds
+were identified in this study, and their structures were tentatively
+assigned as twelve anthraquinone derivatives and five tannin-
+related compounds. The identified chemical constituents (Table
+S1) and the contents of the index compounds in the RE (Table S2)
+are summarized in the supplementary materials to illustrate the
+chemical basis of the RE utilized in this study. The chemical
+structures of the identified constituents in RE are depicted in
+Figures S1 and S2. The chromatographic profile is depicted in
+Fig. 1.
+Common changes
+All the RE-treated rats had a dose-related fur color change
+patterns, ranging from yellow to red, that appeared early in the
+study with exposure to increasing concentrations of RE. Red-to-
+brown urine and reddish-brown staining of the anal area were also
+noted for all rats that were treated with RE. Marked and chronic
+diarrhea accompanied by emaciation and inactivity were observed
+in all model and normal rats that were treated with 40 g/kg, but
+not the lower doses, of RE. During RE administration, the rats in
+the CCl4-treated groups had lower increases in weight than those
+in the normal groups at the same dosage. Rats in all the RE-
+administered groups had negative dose-related body weight
+changes, and the rats in the highest dosage group had the lowest
+increase in weight until cessation of RE administration.
+Histopathology
+Dosage-dependent vacuolar degeneration of the hepatic portal
+area and/or hyperplasia of interstitial fibrous tissue were observed
+in over 67% of animals in the ND1-ND4 groups.
+In the control group (group N), all rats exhibited normal
+histology. By contrast, 16 out of 18 animals in the model group
+(group M) exhibited vacuolar degeneration, which was character-
+ized by small or medium vacuole formation in hepatocytes
+accompanied by nuclear loss or dislocation to the margins of the
+vacuoles. Hepatocytes with large nuclei were occasionally
+observed. Small focal lymphocytic infiltration of the stroma and/
+or portal area was also observed in 12 out of 18 animals in group
+M. Moreover, an obviously thickened envelope and fibrosis of the
+portal area and/or stroma were observed in 11 out of 18 animals
+in group M. The animals in groups MD1-MD4 showed decreases
+in vacuolar degeneration and lymphocytic infiltration in hepato-
+cytes with increasing RE dosages. Over 67% of the animals in
+both groups MD1 and MD2 exhibited notably alleviated fibrosis of
+the liver envelope, portal area, and/or stroma, whereas 67% of the
+animals in the MD3 group and 88% of the animals in the MD4
+group exhibited obvious aggravation of fibrosis. Typical histo-
+pathologic changes are depicted in Fig. 2.
+Biochemical indices
+The biochemical indices that changed significantly in the study
+groups are shown in Tables 1 and 2.
+In the control group (N) and RE-treated normal rat groups
+(ND1-ND4), the indices exhibited overall dose-dependent increas-
+ing trends (Table 1). Compared to the group N, serum ALT and
+HA values increased significantly in the ND2,N D 3 and ND4
+groups (P,0.05) and AST, LN and TGF-b1 values increased
+significantly in the ND3 and ND4 groups (P,0.05), whereas TBIL
+values increased significantly in the ND4 group only (P,0.05).
+The serum ALT and AST values of all RE-treated model
+groups (MD1-MD4) were significantly lower than those of group M
+without treatment (P,0.05). However, these two indices stopped
+declining and started to increase when the dosage increased from
+the second dosage (MD2, 5.40 g/kg) to the third (MD3, 14.69 g/
+kg). Regarding the TBIL, HA, LN and TGF-b1 levels, the values
+Figure 1. UPLC/UV chromatogram at 280 nm of the extract of Rheum palmatum L. Seventeen compounds were identified by electrospray
+ionization tandem mass spectrometry: galloyl glucose (1), glucopyranosyl-galloyl-glucose (3), catechin glucopyranoside (4), isomer of catechin
+glucopyranoside (5), aloe emodin O-glucoside (9), rhein O-glucoside (10), cinnamoyl-O-galloyl-glucose (11), laccaic acid D O-glucoside (13),
+dehydroxylaccaic acid D O-glucoside (14), chrysophanol O-glucoside (15), isomer of chrysophanol O-glucoside (16), emodin O-glucoside (17), laccaic
+acid D (19), physcion O-glucoside (20), emodin (21), acetyl- chrysophanol (22) and physcion (23). The other six chromatographic peaks (2, 6-8, 12 and
+18) are unknown compounds.
+doi:10.1371/journal.pone.0024498.g001
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 4 September 2011 | Volume 6 | Issue 9 | e24498of the maximum dosage group (MD4 group) were even higher
+than those of group M without treatment (P,0.05) (Table 2).
+Factor analysis using biochemical indices as variables
+Bartlett’s test of sphericity indicated a correlation between the
+currently used variables because the correlation matrix was
+significantly different from the identity matrix (P,0.01). The
+KMO measure of sampling adequacy was 0.789, which was higher
+than the acceptable criterion of 0.5. [26] The eigenvalues of the 9
+factors are depicted in a scree plot in Fig. 3. Several methods were
+used to determine the number of meaningful factors that should be
+extracted. As a general rule, factors with an eigenvalue greater
+than 1.0 are retained. [27] The rationale for this rule is that the
+amount of variance accounted for by each factor should be at least
+equal to the variance of one variable. [24] This criterion indicated
+that two factors should be extracted in the present study. The first
+Figure 2. Typical histopathologic section photographs of rats in different groups (HE stained, 2006magnification). Dose-dependent
+vacuolar degeneration of the portal area and/or hyperplasia of the interstitial fibrous tissue were observed in the normal groups ND1–ND4. Obviously
+thickened envelopes and fibrosis of the portal area and/or stroma was observed in the animals of group M. This toxic degeneration caused by CCl4
+was improved after treatment with rhubarb extract in groups MD1–MD4. Notably, alleviation of fibrosis of the liver envelope, portal area, and/or
+stroma was observed in the animals in the MD1 and MD2 groups, whereas aggravation of fibrosis was found in over 67% of animals in the MD3 and
+MD4 groups. N, normal rat group without treatment; ND1-ND4, normal rat groups treated with rhubarb extract at dosages of 2.00, 5.40, 14.69 and
+40.00 g kg
+21, respectively. M, model rat group without treatment; MD1-MD4, model rats groups treated with rhubarb extract at dosages of 2.00, 5.40,
+14.69 and 40.00 g kg
+21, respectively.
+doi:10.1371/journal.pone.0024498.g002
+Figure 3. Scree plot depicting the eigenvalues of the factors extracted by factor analysis using biochemical indices as variables. The
+two factors with eigenvalue greater than 1.0 were retained in subsequent analyses.
+doi:10.1371/journal.pone.0024498.g003
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 5 September 2011 | Volume 6 | Issue 9 | e24498and second factors accounted for 53.985% and 16.856% of the
+total variability, respectively. These two primary factors could
+explain 70.840% of the total variability in the dataset. The results
+of the factor analysis and a suggested interpretation are shown in
+Table 3. In interpreting the retained factors, we only selected
+variables with loadings above 0.5 or below -0.5 (i.e., variables with
+high influence).[28] According to this criterion, factor 1 could be
+labeled as ‘‘fibrosis’’ because the selected biochemical variables
+including HA, LN and TGF-b1 (all loadings .0.85) are related to
+the fibrotic course[29-31] and factor 2 could be labeled as ‘‘cellular
+injury’’ because it was mainly affected by ALT and AST (both
+loadings .0.90), which were altered when the hepatocellular
+membrane was damaged.
+The graphical representation of the dose-response relationship
+of RE, using these two statistically obtained factors as the axes to
+show the distribution pattern of different study groups in the plot,
+is depicted in Fig. 4. In the graphical representation, the toxicity-
+and pharmacologically induced variation patterns of the biochem-
+ical indices could be deduced from the ordered distribution of the
+studied groups. The untreated N group and the untreated M
+group are represented at the left lower side and upper right side of
+the diagram, respectively. The distance of group M away from
+group N illustrated certain hepatotoxic effects of both enzyme
+variations and fibrosis in rats with CCl4-induced hepatitis
+compared to normal animals. The values of the fibrosis factor of
+the normal rat groups increased in all dosage groups (ND1-ND4,
+dosages from 2.00 to 40 g/kg), whereas their values of the cellular
+injury factor did not significantly increase. In the model rat groups,
+the values of the cellular injury factor of the first (MD1, 2.00 g/kg)
+and second (MD2, 5.40 g/kg) dosage groups decreased compared
+to the value of the untreated model group (M), whereas the values
+decreased by a smaller degree when the dosage was further
+increased. Although the values of the fibrosis factor of the MD1
+and MD2 groups decreased slightly compared to the value of the
+M group, the values of the MD3 (14.69 g/kg) and MD4 (40.00 g/
+kg) groups shifted to an increasing trend with increasing dosage.
+Discussion
+It has been previously reported that the protective effect of
+rhubarb against CCl4-induced liver lesions was largely attributed to
+the inhibition of the generation of free radicals and antioxidant
+activity. [32,33] The mechanism of CCl4-induced liver injury is
+generally interpreted as follows: the compound is bioactivated by
+cytochrome P450 2E1 to the trichloromethyl free radical (NCCl3)
+and then further converted to a peroxy radical (CCl3O2N), which
+leads to a chain reaction auto-oxidation of the fatty acids in the
+cytoplasmic membrane phospholipids causing functional and
+morphological changes to the cell membrane. [34] As a conse-
+quence, the cell membranes of hepatocytes become more
+permeable, and enzymes such as ALT and AST can leak out into
+the bloodstream, leading to increased levels of these enzymes in the
+blood. These increases reflect the degree of hepatocyte damage and
+necrosis [35] and vice versa. Therefore, it could be inferred that the
+pharmacological activity of rhubarb in treating liver injury is
+strongly related to its antioxidant effects via the protection of
+Table 3. Results of factor analysis after a varimax rotation
+a.
+Variable Factor 1 Factor 2
+AST 0.068 0.910
+ALT 0.090 0.901
+ALP 0.348 0.620
+TP 0.448 0.514
+GLO 0.526 0.675
+TBIL 0.685 0.434
+HA 0.856 0.264
+TGF-b1 0.856 0.121
+LN 0.896 0.103
+Eigenvalue 4.859 1.517
+Cumulative proportion
+b 53.985 70.840
+Suggested interpretation Fibrosis Cellular injury
+ALT, serum alanine aminotransferase; AST, serum aspartate aminotransferase;
+AP, alkaline phosphatase; TBIL, total bile acids; TP, total protein; GLO, globulin;
+HA, hyaluronic acid; LN, laminin; TGF-b1, transforming growth factor b1.
+a The loadings, eigenvalues, cumulative proportion of the total variance and a
+suggested interpretation are provided for the two factors. Only variables with
+loadings above 0.5 or below -0.5 were used in the interpretation (displayed in
+bold).
+b The cumulative proportion is the cumulative proportion of the total variance
+in the data. Because the variables are standardized to a variance of 1, the total
+eigenvalue is equal to 9 (number of variables).
+doi:10.1371/journal.pone.0024498.t003
+Figure 4. Dose-response relationships of rhubarb extract to
+both normal and model rats, as represented by a factor plot.
+The alteration pattern of the dose-response relationship between
+rhubarb extract and hepatic health in normal rats showed an almost
+linear variation: factor 1, considered in relation to fibrosis and called the
+‘‘fibrosis factor’’, showed a notable increasing trend with increasing of
+dosage levels (ND1-ND4, dosages of 2.00, 5.40, 14.69 and 40.00 g kg
+21,
+respectively), whereas factor 2, considered in relation to cell membrane
+integrality and called the ‘‘cellular injury factor’’, revealed a nonsignif-
+icant increase. By contrast, the alteration pattern in the model rat
+groups assumed a parabolic shape with increasing dosages. The factor
+1 values decreased in the MD1 and MD2 groups but decreased to a
+small degree when the dosage was further increased. The factor 2
+values decreased slightly in the MD1 and MD2 groups and then shifted
+to a significant increasing trend with increasing dosages in the MD3 and
+MD4 groups. The center points of the different groups are labeled as
+follows: untreated normal rats group (N, & green square); normal rat
+groups treated with rhubarb extract at different dosages (ND1-ND4, X)
+(symbol size indicates dosage); untreated model rat group (M,N); and
+model rat groups treated with rhubarb extract at different dosages
+(MD1-MD4, m blue triangle) (symbol size indicates dosage). The border
+lines around the center points are presented for the range of original
+data points of the studied groups.
+doi:10.1371/journal.pone.0024498.g004
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 6 September 2011 | Volume 6 | Issue 9 | e24498hepatic cells against free radical damage. This outcome manifested
+as a decrease in the cellular injury factor, (shown in Fig. 4), which
+was closely correlated with biomarkers such as ALT and AST
+(shown in Table 2).
+The anti-oxidative effects [36] of rhubarb anthraquinone
+derivatives, along with their hepatoprotective effects, [11] have
+been reported. In addition, a series of tannin-related compounds
+with strong antioxidant effects have been identified in RE (see
+Supplementary Materials). In a previous report, the antioxidant
+activities of rhubarb tannins were verified. [37] Therefore, we
+believe that rhubarb tannins and anthraquinone derivatives may
+all contribute to the hepatoprotective effects of rhubarb against
+CCl4-induced liver damage.
+The hepatoprotective effect of rhubarb and its components has
+also been documented as antagonizing a-naphthylisothiocyanate
+(ANIT)-[38] and concanavalin A [39]- induced experimental liver
+injury. In a previous study, we found that free anthraquinones
+extracted from rhubarb, such as rhein and emodin, exhibited
+protective activity against ANIT-induced cholestatic liver injury by
+reducing the serum levels of glutamate-pyruvate transaminase,
+glutamic oxaloacetic transaminase and the serum total bilirubin,
+direct bilirubin, alkaline phosphatase, c-glutamyltransferase and
+total bile acids. These effects were markedly different from the
+effects on CCl4-induced liver injury. The morphological alter-
+ations induced by ANIT in rats, including the necrosis of
+hepatocytes and biliary epithelial cells, as well as neutrophil
+infiltration and sinusoid congestion, were also alleviated by
+concurrent intragastric administration of these free anthraqui-
+nones. [8] Some clinical evidence has also revealed a hepatopro-
+tective effect of rhubarb against infantile cholestatic hepatitis[40]
+and acute icteric hepatitis [41]. The protective effect against CCl4-
+induced liver damage reported in this study demonstrated only
+one aspect of the pharmacological potential of rhubarb to protect
+the liver. Although there is some evidence of the protective
+potential of this herb against liver injury due to multiple causes, the
+molecular mechanisms of this protection remain unclear. Rigorous
+clinical studies and in-depth experimental studies are needed to
+demonstrate rhubarb’s hepatoprotective effects and mechanisms of
+action.
+In our study, dose-dependent alterations of liver fibrosis
+associated with increases in the fibrosis factor were clearly
+observed in the rats in the normal groups (Figs 2 and 4).
+Although the occurrence of fibrosis of the liver tissues of normal
+rats that were treated with rhubarb has been reported
+infrequently, this phenomenon warrants further consideration.
+Elevation of TBIL, TP and GLO levels in serum have also been
+found in normal rat groups. These alterations usually occur along
+with hepatic impairment, indicating functional deterioration of
+the liver. Although the hepatoprotective effects of anthraquinone
+derivatives are well documented, it has also been reported that
+the total anthraquinone derivatives isolated from rhubarb show
+some hepatotoxic potential in rats in a six month-long
+experiment. [14] Therefore, the dose-response relationship
+between rhubarb anthraquinones and liver health warrants
+further investigation.
+The alteration pattern of the fibrosis factor in the model rat
+groups assumed a parabolic shape with increasing dosages of RE
+(shown in Fig. 4). At lower dosages (MD1, 2.00 g/kg and MD2,
+5.40 g/kg), rhubarb demonstrated some ameliorative effects on
+liver injury by decreasing the fibrosis caused by CCl4; however, the
+fibrosis was aggravated rather than alleviated when the dosage was
+increased further (MD3, 14.69 g/kg and MD4, 40.00 g/kg).
+Therefore, we believe that the hepatotoxic potential of rhubarb
+is strongly related to liver fibrosis, although this effect is
+undetectable when the normal dosage recommended in the
+Chinese Pharmacopoeia (0.5 g/kg) is administered. [20]
+The results of the factor analysis of biochemical indices
+indicated that the parallel histopathological changes arose
+coincidently. The vacuolar degeneration, and lymphocyte infiltra-
+tion and fibrosis observed in the hepatocytes of CCl4-treated rats
+were alleviated after treatment with RE, demonstrating the herb’s
+effectiveness in protecting hepatocytes from the toxicant. Howev-
+er, the anti-fibrotic effect of RE that was observed in the lower
+dosage groups was reversed with further increases in the RE
+dosage. The dose-dependent hyperplasia of interstitial fibrous
+tissue was also observed in liver tissue sections from normal rats
+that were treated with RE, which was in accordance with the
+variations in the fibrosis factor.
+A classical description of the understanding of such bidirec-
+tional effects of rhubarb and other herbal medicines, You Gu Wu
+Yun, was recorded in the Chinese Medical Treatise Su Wen
+(translated as Plain Questions,p a r to fThe Yellow Emperor’s Classic of
+Internal Medicine), which was written 2,500 years ago.[42] The
+archaic and recondite wording of Y o uG uW uY u ncan be
+explained as follows. A drug will reveal its therapeutic effect when
+it is prescribed to patients with the correct indications; however, it
+may produce deleterious effects in both sick and healthy people as
+a result of incorrect indications. Another translation of the
+wording implies that the dosage of the drug is critical to its
+rational application in the clinic to balance the benefits and risks.
+Ancient Traditional Chinese Medicine (TCM) has effectively
+relied on the theory of Y o uG uW uY u nas an important set of
+guidelines in the treatment of diseases and disorders. The dose-
+related bidirectional effect of TCM illustrated in this study
+supports the aforementioned theory. The pattern recognition
+approach proposed in this report opens an avenue to decode the
+ancient TCM theory and to elucidate its medical implications
+with the use of modern biochemical tools.
+In conclusion, the findings of this study illustrate the
+bidirectional potential, both liver protection and hepatotoxicity,
+of rhubarb on CCl4-treated and normal rats and demonstrate the
+feasibility of using a multivariate analysis approach factor analysis,
+to study the dose-response (therapeutic efficacy versus toxicity)
+relationships of traditional herbal medicines by revealing the
+underlying interrelationships within a number of functional bio-
+indices in a holistic manner. This study provides a paradigm for a
+better understanding and scientific assessment of the benefits and
+risks of herbal medicines to facilitate the rational clinical
+administration of these medicines.
+Supporting Information
+Figure S1 Chemical structures of the free anthraqui-
+nones in the rhubarb extract.
+(TIF)
+Figure S2 Chemical structures of the tannin-related
+compounds in the rhubarb extract.
+(TIF)
+Table S1 Identification of the chemical constituents in
+the rhubarb extract.
+(DOC)
+Table S2 The contents (%) of anthraquinones and
+tannins in the rhubarb extract.
+(DOC)
+Text S1 UPLC- ESI-MS/MS analysis.
+(DOC)
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 7 September 2011 | Volume 6 | Issue 9 | e24498Acknowledgments
+We gratefully acknowledge Yuan-li Mao and her colleagues for performing
+biochemical analysis.
+Author Contributions
+Conceived and designed the experiments: XHX JBW. Performed the
+experiments: JBW HPZ WJK FF HJW. Analyzed the data: CJ JBW HPZ
+WJK YLZ LZ. Contributed reagents/materials/analysis tools: YLZ CJ.
+Wrote the paper: JBW YLZ HPZ DJL.
+References
+1. Medicines And Healthcare Products Regulatory Agency.Polygonum multiflorum and
+liver reactions. Available: http://www.mhra.gov.uk/Howweregulate/Medicines/
+Herbalmedicines/HerbalSafetyNews/Currentsafetyissues/CON2023590.
+2. Mazzanti G, Battinelli L, Daniele C, Mastroianni CM, Lichtner M, et al. (2004)
+New case of acute hepatitis following the consumption of Shou Wu Pian, a
+Chinese Herbal product derived from Polygonum multiflorum. Ann Intern Med
+140: W30.
+3. Itoh S, Marutani K, Nishijima T, Matsuo S, Itabashi M (1995) Liver injuries
+induced by herbal medicine, Syo-saiko-to (xiao-chai-hu-tang). Digest Dis Sci 40:
+1845–1848.
+4. Vanderperren B, Rizzo M, Angenot L, Haufroid V, Jadoul M, et al. (2005)
+Acute liver failure with renal impairment related to the abuse of senna
+anthraquinone glycosides. Ann Pharmacother 39: 1353–1357.
+5. Yuen MF, Tam S, Fung J, Wong DK, Wong BC, et al. (2006) Traditional
+Chinese medicine causing hepatotoxicity in patients with chronic hepatitis B
+infection: a 1-year prospective study. Aliment Pharmacol Ther 24: 1179–1186.
+6. Chitturi S, Farrell GC (2000) Herbal hepatotoxicity: An expanding but poorly
+defined problem. J Gastroen Hepatol 15: 1093–1099.
+7. World Health Organization (1999) WHO Monographs on Selected Medicinal
+Plants. Geneva: World Health Organization. pp 231–240.
+8. Zhao YL, Wang JB, Zhou GD, Shan LM, Xiao XH (2009) Investigations of free
+anthraquinones from rhubarb against a- naphthylisothiocyanate- induced
+cholestatic liver injury in rats. Basic Clin Pharmacol Toxicol 104: 463–469.
+9. Huang ZH, Dong YS, Ye WY (1997) Clinical observation on treatment of
+infantile cholestatic hepatitis syndrome by rhubarb. Chin J Integr Trad West
+Med 17: 459–461.
+10. Wang GS (1985) Clinical and experimental study on the treatment of severe
+subacute hepatitis with traditional Chinese medicinal compounds. Chin J Integr
+Trad West Med 5: 329–331, 322.
+11. Arosio B, Gagliano N, Fusaro LM, Parmeggiani L, Tagliabue J, et al. (2000)
+Aloe-Emodin quinone pretreatment reduces acute liver injury induced by
+carbon tetrachloride. Pharmacol Toxicol 87: 229–233.
+12. Jin H, Sakaida I, Tsuchiya M, Okita K (2005) Herbal medicine Rhei rhizome
+prevents liver fibrosis in rat liver cirrhosis induced by a choline- deficient L-
+amino acid- defined diet. Life Sci 76: 2805–2816.
+13. National Toxicology Program (2001) Technical report on the toxicology and
+carcinogenesis studies of emodin in F344/N rats and B6C3F1 mice. Series No.
+493. NIH Publication No. 01-3952. U.S. Department of Health and Human
+Services, Public Health Service, National Institutes of Health, Research Triangle
+Park, NC.
+14. Zhang LY, Jiang ZZ, Pu CH, Yan M (2004) Six- month oral toxicity study of
+total anthraquinone in radix et rhizoma rhei in SD rats. Chin J Biochem Pharm
+25: 206–209.
+15. Xu Y (2005) Clinical analysis of 30 cases of drug-induced liver injury by Chinese
+medicine. Modern J Integr Trad Chin West Med 14: 600–601.
+16. Tian Y, Yang J, Lu JY (2008) Toxic effect of rhubarb overdose on mouse
+hepatocytes. Chin J Histochem Cytochem 17: 303–307.
+17. Wang JB, Zhao YL, Xiao XH, Li HF, Zhao HP, et al. (2009) Assessment of the
+renal protection and hepatotoxicity of rhubarb extract in rats. J Ethnopharmacol
+124: 18–25.
+18. Wael ED (1997) Pattern recognition approaches in biomedical and clinical
+magnetic resonance spectroscopy: a review. NMR Biomed 10: 99–124.
+19. Tafeit E, Mo ¨ller R, Sudi K, Reibnegger G (2000) Artificial neural networks
+compared to factor analysis for low- dimensional classification of high-
+dimensional body fat topography data of healthy and diabetic subjects. Comput
+Biomed Res 33: 365–374.
+20. (2005) Pharmacopoeia of the People’s Republic of China, First Div. Beijing:
+China Chemical Industry Press. pp 17–18.
+21. (2001) European Pharmacopoeia, 4th ed. Strasbourg: European Directorate for
+the Quality of Medicines, Council of Europe. 1858 p.
+22. Japanese Pharmacopoeia, 15th ed (2006) Tokyo: Pharmaceutical and Food
+Safety Bureau, Ministry of Health, Labour and Welfare. 1344 p.
+23. Ye M, Han J, Chen H, Zheng J, Guo D (2007) Analysis of phenolic compounds
+in rhubarbs using liquid chromatography coupled with electrospray ionization
+mass spectrometry. J Am Soc Mass Spectrom 18: 82–91.
+24. Sharma S (1996) Applied Multivariate Techniques. New York: Wiley Press. pp
+90–143.
+25. Qin Y, Wang JB, Kong WJ, Zhao YL, Yang HY, et al. (2011) The diarrheogenic
+and antidiarrhoeal bidirectional effects of rhubarb and its potential mechanism.
+J Ethnopharmacol 133(3): 1096–1102.
+26. Leung TF, Wong GW, Ko FW, Lam CW, Fok TF (2005) Clinical and atopic
+parameters and airway inflammatory markers in childhood asthma: a factor
+analysis. Thorax 60: 822–826.
+27. Cattell RB (1966) The Scree test for the number of factors. Multivariate Behav
+Res 1: 245–276.
+28. Thoefner MB, Ersbøll AK, Jensen AL, Hesselholt M (2001) Factor analysis of
+the interrelationships between clinical variables in horses with colic. Prev Vet
+Med 48: 201–214.
+29. Tong Z, Chen R, Alt DS, Kemper S, Perbal B, et al. (2009) Susceptibility to liver
+fibrosis in mice expressing a connective tissue growth factor transgene in
+hepatocytes. Hepatology 50: 939–947.
+30. Miele L, Forgione A, La Torre G, Vero V, Cefalo C, et al. (2009) Serum levels of
+hyaluronic acid and tissue metalloproteinase inhibitor-1 combined with age
+predict the presence of nonalcoholic steatohepatitis in a pilot cohort of subjects
+with nonalcoholic fatty liver disease. Transl Res 154: 194–201.
+31. Attallah AM, Toson EA, Shiha GE, Omran MM, Abdel-Aziz MM, et al. (2007)
+Evaluation of serum procollagen aminoterminal propeptide III, laminin, and
+hydroxyproline as predictors of severe fibrosis in patients with chronic hepatitis
+C. J Immunoassay Immunochem 28: 199–211.
+32. Liu L, Mei QB, Li BL, Zhou SY, Cao ZX (2001) Antioxidation of Tanguficum
+Maxim polysaccharide on acute liver injury mice. J Fourth Mil Med Univ 22:
+530–533.
+33. Wan SH, Ding YQ, Pu XH, Guo L, Kang TG (2006) Protective effect of
+hydroxy- anthroquinones from Rheum Palmatum L. on acute liver injure of rats
+induced by CCl4. Chinese Pharmacological Bulletin 22: 1405–1406.
+34. Jeong HG (1999) Inhibition of cytochrome P450 2E1 expression by oleanolic
+acid: hepatoprotective effects against carbon tetrachloride- induced hepatic
+injury. Toxicol Lett 105: 215–222.
+35. Napoli J, Prentice D, Niinami C, Bishop GA, Desmond P, et al. (1997)
+Sequential increases in the intrahepatic expression of epidermal growth factor,
+basic fibroblast growth factor, and transforming growth factor beta in a bile duct
+ligated rat model of cirrhosis. Hepatology 26: 624–633.
+36. Luo ZY, Huang X, Bao GR (2007) ESR study on the scavenging effects of the
+main ingredients in Rheum palmatum L. on superoxide anion radical. Chin Arch
+Tradit Chin Med 25: 612–614.
+37. Iizuka A, Iijima OT, Kondo K, Itakura H, Yoshie F, et al. (2004) Evaluation of
+Rhubarb using antioxidative activity as an index of pharmacological usefulness.
+J Ethnopharmacol 91: 89–94.
+38. Ding Y, Zhao L, Mei H, Zhang SL, Huang ZH, et al. (2008) Exploration of
+Emodin to treat alpha-naphthylisothiocyanate-induced cholestatic hepatitis via
+anti-inflammatory pathway. Eur J Pharmacol 590(1-3): 377–386.
+39. Mase A, Makino B, Tsuchiya N, Yamamoto M, Kase Y, et al. (2010) Active
+ingredients of traditional Japanese (kampo) medicine, inchinkoto, in murine
+concanavalin A-induced hepatitis. J Ethnopharmacol 127(3): 742–749.
+40. Huang ZH, Dong YS, Ye WY (1997) Clinical observation on treatment of
+infantile cholestatic hepatitis syndrome by rhubarb. Zhongguo Zhong Xi Yi Jie
+He Za Zhi 17(8): 459–461.
+41. Wu CX (1984) A preliminary study on the effect of a single Rheum officinale in
+heavy doses in the treatment of acute icteric hepatitis. Zhong Xi Yi Jie He Za
+Zhi 4(2): 88–89.
+42. Ni M (1995) The Yellow Emperor’s Classic of Medicine: A New Translation of
+the Neijing Suwen with Commentary. Boston: Shambhala.
+Pattern Recognition for Herbal Toxicity
+PLoS ONE | www.plosone.org 8 September 2011 | Volume 6 | Issue 9 | e24498

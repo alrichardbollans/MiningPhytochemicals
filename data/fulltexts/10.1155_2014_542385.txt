@@ -1,0 +1,953 @@
+Research Article
+Evaluation of Anticonvulsant, Sedative, Anxiolytic, and
+Phytochemical Profile of the Methanol Extract from the Aerial
+Parts of Swertia corymbosa (Griseb.) Wight ex C.B. Clarke
+G. Mahendran,1 G. Thamotharan,2 S. Sengottuvelu,2 and V. Narmatha Bai1
+1 Department of Botany, School of Life Sciences, Bharathiar University, Coimbatore, Tamilnadu 641046, India
+2Department of Pharmacology, Nandha College of Pharmacy and Research Institute, Erode 638052, India
+Correspondence should be addressed to G. Mahendran; mahendran0007@gmail.com
+Received 12 February 2014; Revised 4 March 2014; Accepted 4 March 2014; Published 27 April 2014
+Academic Editor: Oreste Gualillo
+Copyright © 2014 G. Mahendran et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The objective of the present study was to evaluate the anxiolytic, antidepressant, and anticonvulsant activity of the methanolic
+extract of Swertia corymbosa (SCMeOH). After acute toxicity test, oral treatment with SCMeOH at doses of 125, 250, and
+500mg/kg behavioral models of open field, elevated-plus-maze, actophotometer, rotarod, pentylenetetrazole, isoniazid, and
+maximal electroshock induced seizure models were utilized. In open field test, SCMeOH (125, 250, and 500mg/kg) (𝑃 < 0.01,
+𝑃 < 0.001) increased the number of rearings. However, the number of central motor and ambulation (𝑃 < 0.01, 𝑃 < 0.001) were
+reduced. Likewise, the number of entries and the time spent in open arm were increased while the number of locomotion was
+decreased (𝑃 < 0.001) in elevated-plus-maze and actophotometer test, respectively. SCMeOH (125–500 mg/kg) protected the mice
+against the pentylenetetrazole and isoniazid induced convulsions; it causes significant (𝑃 < 0.01 and 𝑃 < 0.001) dose dependent
+increase in latency of convulsion. Treatment with SCMeOH reduced the duration of the tonic hind limb extension induced by
+electroshock. Two major compounds such as gentiopicroside and swertianin were analyzed by HPLC system.
+1. Introduction
+Mental disorders affect 450 million people worldwide, with
+121million suffering fromdepression, and fiftymillion people
+are suffering from epilepsy worldwide. Eighty percent of
+epilepsy patients are living in the developing countries,
+where three-fourths of the patients are not receiving ade-
+quate treatment [1]. According to National Commission on
+Macroeconomics and Health report, nearly 65–70 million
+people in India have some kind of mental illness [2].
+Anxiety is a highly prevalent psychological and physi-
+ological state characterized by psychomotor tension, sym-
+pathetic hyperactivity, and apprehension and vigilance syn-
+dromes and affecting one-eighth of the total population of the
+world and became a very important area of research interest
+in psychopharmacology [3]. Synthetic anxiolytic drugs such
+as benzodiazepines (BDZ), diazepam (DZP), and buspirone
+(BUSP) are considered as the main category of compounds
+prescribed for treatment of anxiety disorders. Unfortunately,
+they have several side effects such as tolerance, amnesia,
+weakness, loss of sexual drive, gastrointestinal effects and
+changes in body weight, sedation, muscle relaxation, and
+physical dependence, which lead patients to seek alternative
+therapies [4]. In an attempt to resolve these issues, interest
+has increased in alternative plant-related drugs. Several
+studies have shown that several ethnomedicinal/traditional
+medicinal plants have been documented for the treatment of
+central nervous system (CNS); these ethnomedicinal plants
+could serve as sources of effective medication that may be
+more readily accessible and inexpensive and thus would be
+helpful in improving the present status [5, 6].
+The genus Swertia (family: Gentianaceae) is used in the
+Indian and Chinese traditional system of medicine since
+prehistoric times. It comprises about 170 species worldwide,
+Hindawi Publishing Corporation
+BioMed Research International
+Volume 2014, Article ID 542385, 9 pages
+http://dx.doi.org/10.1155/2014/542385
+2 BioMed Research International
+of which 40 species are present in India. Xanthones, sec-
+oiridoids, and triterpenoids are the main constituents of
+the Swertia species. The extracts of a number of species
+have long been used in folk medicine for the treatment
+of hepatitis, cholecystitis, pneumonia, dysentery, scabies,
+spasm, pain, and neurasthenia. Swertia corymbosa (SC) is
+a pharmacologically unexplored, highly bitter species and
+is frequently mixed with S. chirayita as a substitute and/or
+adulterant [7]. It is an ethnomedicinal plant used for nervous
+disorders and sedation [8, 9]. SC has been reported for
+analgesic, anti-inflammatory, antioxidant, antiproliferative,
+and antidiabetic activities [10–13]. SC has been extensively
+studied for its phytochemical constituents, especially for the
+xanthones, iridoid, secoiridoid glycosides, and terpenoids
+such as oleanolic acid, ursolic acid, lupeol, and 𝛽-amyrin
+have been isolated from different parts of SC [13–15]. Early
+researchers found the neuropharmacological activity of some
+xanthones, such as gentiacaulein and gentiakochianin [16, 17]
+which also have been found in Swertia corymbosa. However,
+there is still no direct scientific report for its neuropharma-
+cological effect. So the present investigation was designed to
+evaluate the anxiolytic, sedative, and anticonvulsant activity
+of the Swertia corymbosa using animal models, with a view
+to establish the pharmacological basis for its neurological
+disorder uses in folk medicine.
+2. Materials and Methods
+2.1. Plant Collection and Authentication. The aerial parts of
+Swertia corymbosa (Griseb.) Wight ex C.B. Clarke were col-
+lected from the state of Tamilnadu, India, in October 2010.
+The plant was identified and authenticated by Dr. R. Rama-
+chandran, a plant taxonomist at BharathiarUniversity, Tamil-
+nadu, India, where a voucher specimen with the number BU-
+006144 was deposited.
+2.2. Preparation of Extracts. The plant material was dried in
+the dark at room temperature and powered. Five hundred
+grams of the powdered aerial parts of the Swertia corymbosa
+(SCMeOH) was extracted with 1.5 l of methanol (100%) in a
+soxhlet apparatus for 72 h.Themethanol extract was dried by
+removal of the solvent under vacuum.The yield of SCMeOH
+was found to be 13.65% w/w.
+2.3. Drugs and Chemicals. Isoniazid (S. D. Fine Chemicals);
+diazepam (Calmpose Inj. Ranbaxy, India); pentylenetetrazole
+(Sigma, USA); methanol extra pure (Rankem).
+2.4. Animals. Young male albino Swiss mice (18–25 g) and
+Wistar albino rats (150–200 g) were obtained from the Ani-
+mal Centre, Department of Pharmacology, Nandha College
+of Pharmacy and Research Institute, and were housed in
+plastic cages at room temperature with a 12 : 12 h light-dark
+cycle. They were fed with balanced rodent pellet diet and
+water ad libitum. The animals were acclimatized for at least
+1 week before being used for experiments. All the studies
+conducted were approved by the Institutional Animal Ethics
+Committee of Nandha College of Pharmacy and Research
+Institute, Department of Pharmacology, and the approval
+number was 688/02/C/CPCSEA.
+2.5. Acute Toxicity Test. Acute toxicity of SCMeOHwas eval-
+uated according to the method described by Organization
+of Economic Cooperation and Development Guideline 423
+[18]. The animals were kept fasting for overnight providing
+only water. The SCMeOH was administered orally at a
+dose of 5mg/kg (suspended in 0.5% carboxymethyl cellulose
+(CMC)) initially to separate groups ofmice andmortality was
+observed for 3 days. If mortality was observed in 4/6 or 6/6
+animals, then the dose administered was considered as toxic
+dose. However, if the mortality was observed in only 1 mouse
+out of 6 animals, then the same dose was repeatedwith higher
+doses such as 50, 300, 500, 1000, and 2,000mg/kg b.w. orally.
+The controlmicewere given 10mL/kg of water.Themicewere
+observed for behavioural changes and mortality within 24 h.
+After this, daily observations for toxicity and mortality were
+made up to the 14th day.
+2.6. Anticonvulsant Activity
+2.6.1. Pentylenetetrazole Induced Convulsions. Pentylenete-
+trazole (PTZ) induced convulsions test was performed to
+evaluate anticonvulsant property of drugs [19]. Thirty male
+mice were divided into five groups, each group comprised
+six mice. Different groups were treated with distilled water
+(10mL/kg), diazepam (5mg/kg), and SCMeOH at doses of
+125, 250, and 500mg/kg, BW. Thirty minutes later, convul-
+sions were induced by the intraperitoneal administration of
+60mg/kg BW of PTZ. Following the administration of PTZ,
+mice were placed in separate transparent Plexiglas cages (25×
+15 × 10 cm) and were observed for the occurrence of seizures
+over a 30min time period. Latency of convulsions (the time
+prior to the onset of tonic convulsions), duration of tonic
+convulsions, and mortality protection (percentage of deaths
+in 24 h) were recorded [20].
+2.6.2.Maximal Electroshock (MES) Induced Convulsions. The
+animals were divided into five groups, each group comprised
+six rats. Different groups were treated with distilled water
+(10mL/kg), diazepam (5mg/kg), and ScMeOH at doses of
+125, 250, and 500mg/kg, BW. Thirty minutes later, con-
+vulsions were induced in all the groups of animals using
+electroconvulsometer. A 60Hz alternating current of 150mA
+for 2 s was delivered through the ear electrodes [21]. The
+animal was observed for the occurrence of tonic hind limb
+extension.
+2.6.3. Isoniazid (INH) InducedConvulsions. Thirtymalemice
+were divided into five groups, each group comprised sixmice.
+Different groups were treated with distilled water (10mL/kg),
+diazepam (5mg/kg), and SCMeOH at doses of 125, 250,
+and 500mg/kg, BW. Thirty minutes later, convulsions were
+induced by the intraperitoneal administration of 250mg/kg
+BW of INH. During the next 30min time period, latency of
+BioMed Research International 3
+the first clonic convulsion, duration, andmortality protection
+(percentage of deaths in 24 h) were recorded [22].
+2.7. Assessment of Sedative Activity
+2.7.1. SpontaneousMotor Activity. The locomotor activity was
+performed as per Adnaik et al. [23] through actophotometer.
+The movement (i.e., the number of light-beam crossings) of
+the animal interrupts a beam of light falling on a photocell,
+at which a count was recorded and displayed digitally. Each
+rat was placed individually in the actophotometer for 10min
+and the basal activity score was obtained. Subsequently, the
+animals were divided into five groups, each consisting of six
+animals. Different groups were treated with distilled water
+(10mL/kg), diazepam (2mg/kg), and SCMeOH at doses of
+125, 250, and 500mg/kg, BW. After 60min the rat was placed
+again in the actophotometer for observing the activity for
+10min [23].
+2.8. Rotarod Performance. The equipment of Rotarod was
+used to evaluate motor coordination produced by drugs in
+animals [24].Themice were trained before the experiment to
+acquire the capacity to remain for 300 s on a diameter rod,
+rotating at 20 rpm. Two or three trials were sufficient for the
+animals to learn this task. Thirty mice were divided into five
+groups; each group comprised six rats. Different groups were
+treated with distilled water (10mL/kg), diazepam (5mg/kg),
+and SCMeOH at doses of 125, 250, and 500mg/kg, BW.Then,
+the animals were placed in the four paws on the rotating
+bar, which is 2.5 cm in diameter and 25 cm high from the
+floor.The animals were observed for a period of five minutes.
+The difference between the fall-off time of the mice before
+and after treatment was considered as an index of muscle
+relaxation [24, 25].
+2.9. Anxiolytic Test
+2.9.1. Elevated Plus Maze (EPM) Test. The EPM test is the
+most frequently employed model for the assessment of the
+anxiolytic activity of novel substances [26]. The elevated plus
+maze apparatus consisted of two perpendicular open arms
+(50 × 10 cm) and two perpendicular enclosed arms (50 ×
+10 × 40 cm). The entire maze was constructed of wood and
+elevated 50 cm above floor.Themaze was placed inside a light
+(25 lx) and sound attenuated room.
+The animals were divided into five groups, each group
+comprised six rats. Different groups were treated with dis-
+tilled water (10mL/kg), diazepam (5mg/kg), and SCMeOH
+at doses of 125, 250, and 500mg/kg, BW. Thirty minutes
+later, the rat was placed in the center platform of the maze
+facing the enclosed arm and was observed for 10min. The
+parameters assessedwere the time spent in open and enclosed
+arms and numbers of open and enclosed arms entries. All
+tests were taped by using a video camera and every precaution
+was taken to ensure that no external stimuli could evoke
+anxiety in the mice. After each test, the maze was carefully
+cleaned up with a wet tissue paper (70% ethanol solution) to
+eliminate the interference of the olfactory cues on the next rat
+[27].
+2.10. Open Field Test. The study was conducted according
+to method previously described by Brown et al. [28] with
+some modifications. The apparatus was made up of plywood
+measuring 72 cm × 72 cm × 36 cm. One of the walls was
+made of transparent Perspex glass to ensure that the mouse
+under investigation is visible to the observer. The floor, made
+of cardboard, was divided into 16 equal squares (18 cm ×
+18 cm) with blue marker and a central square drawn with
+black marker. The cardboard was covered with a transparent
+Plexiglas. The animals were divided into five groups; each
+group comprised six rats. Different groups were treated
+with distilled water (10mL/kg), diazepam (5mg/kg), and
+SCMeOH at doses of 125, 250, and 500mg/kg, BW. Thirty
+minutes later, each mouse was placed individually at the
+corner of the arena and its behavior monitored for 5min.The
+number of rearings, ambulation, and central locomotion by
+each mouse was recorded. The apparatus was wiped between
+observations with 70% ethyl alcohol and allowed to dry to
+remove any olfactory cue.
+2.11. HPLC Analysis. We performed an HPLC analysis of
+SCMeOH for detection and quantification of its major
+constituents. A Beckman 125 HPLC instrument (Beckman,
+USA) equipped with a Hamilton auto sampler and a 168
+photodiode array detector (DAD) was used and the detection
+wavelength was set at 254 nm. Separation was carried out
+using an ODS-C18 column (150mm × 4.6mm, 5𝜇m). The
+injection volume was 10 𝜇L and elution was performed at a
+flow rate of 0.8mL/min with the following solvent ratios for
+themobile phasewhere solvent A is 1% acetic acid and solvent
+B is acetonitrile.The gradient elution was as follows: 0–8min,
+2–15% (B), 8–20min, 15% (B), and 20–50min, 15–100% (B).
+We used gentiopicroside internal reference and swertianin
+was prepared from our previous work and identified by
+comparing the 1H-NMR, 13C-NMR, and 2D NMR (H-H
+COSY, C-H COSY, and HMBC) data with the literature [10].
+Quantification of the main compounds was achieved using
+calibration curves that were separately constructed with pure
+standards [29].
+2.12. Data Analysis. Results of the experiments and observa-
+tions were expressed as mean ± standard deviation (SD).The
+significance of differences between groups was determined
+using one-way analysis of variance (ANOVA) followed by at
+least one of the following post hoc tests: Dunnett’s multiple
+comparison tests 𝑃 < 0.05 where level of significance was
+considered for each test.The data is presented as mean ± S.D.
+3. Results
+3.1. Acute Toxicity Test. Themethanol extract of Swertia cory-
+mbosa (SCMeOH) did not produce any mortality orally up
+to 2000mg/kg, but the mice manifested signs of sedation
+like quiescence and reduced locomotion at high doses when
+observed for 5 h after administration. There were no visible
+signs of delayed toxicity and mortality observed when the
+animals were monitored for a further 14 days.
+4 BioMed Research International
+Table 1: Effect of methanol extract of Swertia corymbosa (SCMeOH) on pentylenetetrazole induced seizure.
+Treatment (mg/kg) Latency of tonic convulsion (sec) Duration of tonic convulsion (s) Mortality (% death) % protection
+Control 100.20 ± 3.34 446.10 ± 5.19 6/6 (100) 0.0
+Diazepam (5mg/kg, i.p.) 478.34 ± 6.07∗∗ 126.69 ± 1.93∗∗ 0/6 (0.0) 100
+SCMeOH 125 141.43 ± 1.98 216.29 ± 1.23 4/6 (66.66) 33.33
+SCMeOH 250 298.16 ± 4.45∗ 189.19 ± 1.72∗ 3/6 (50.00) 50.0
+SCMeOH 500 416.42 ± 6.14∗∗ 137.11 ± 2.61∗∗ 0/6 (16.66) 100
+Control (vehicle)—distilled water.
+The data represent the mean ± SD (𝑛 = 6). ∗𝑃 < 0.01, ∗∗𝑃 < 0.001 significantly different compared to PTZ induced seizure control.
+Table 2: Effect of methanol extract of Swertia corymbosa (SCMeOH) on INH induced seizure in mice.
+Treatment (mg/kg) Latency of tonic convulsion (s) Duration of convulsion (s) Mortality (% death) % protection
+Control 89.20 ± 4.24 56.77 ± 0.19 6/6 (100) 0.0
+Diazepam (5mg/kg, i.p.) 527.11 ± 6.11∗∗ 26.65 ± 0.93∗∗ 0/6 (0.0) 100
+SCMeOH 125 301.82 ± 5.43 41.30 ± 0.20 2/6 (33.33) 66.6
+SCMeOH 250 441.67 ± 2.10∗ 34.62 ± 1.55∗ 1/6 (16.66) 83.32
+SCMeOH 500 511.12 ± 2.11∗∗ 20.99 ± 2.24∗∗ 0/6 (0.00) 100
+Control (vehicle)—distilled water.
+The data represent the mean ± SD (𝑛 = 6). ∗𝑃 < 0.01, ∗∗𝑃 < 0.001 significantly different compared to NIH induced seizure control.
+3.2. Anticonvulsant Activity
+3.2.1. PTZ Induced Convulsion. Pentylenetetrazole produced
+tonic seizures in the entire animals used. A dose of 125mg/kg
+of ScMeOH protected 33.33% of the animals against seizures
+and did not affect the onset (latency) of seizures to any
+significant extent. SCMeOH at the dose of 250 and 500mg/kg
+protected 50.0% and 100% of the mice against seizures and
+significantly (𝑃 < 0.01 and 𝑃 < 0.001) increased the latency
+of the seizures (Table 1).
+3.2.2. INH Induced Convulsion. Isoniazid (250mg/kg, i.p.)
+elicited clonic convulsions in all the animals used.Thenormal
+control group produced convulsion and showed latency of
+89.20 ± 4.24 s. The methanol extract of S. corymbosa (125–
+500mg/kg) significantly (𝑃 < 0.01 and 𝑃 < 0.001) delayed
+the duration of ionized induced seizures from 56.77 ± 0.19 s
+in control to 41.30 ± 0.20 s, 34.62 ± 1.55 s, and 20.99 ±
+2.24 s, respectively and shows dose dependent increase in
+the anticonvulsant activity. Similarly, Diazepam 5mg/kg
+pretreatment significantly (𝑃 < 0.001) increased the latency
+of isoniazid induced seizures from 56.77 ± 0.19 s to 527.11 ±
+6.11 s with 100% protection (Table 2).
+3.2.3. MES Model. Maximal electroshock produced hind
+limb tonic extension (HLTE) in all the animals. The vehicle
+treated rats showed tonic hind limb extension for duration of
+12.88 ± 0.35 s. Administration of SCMeOH (125–500mg/kg)
+showed a dose dependent increase in the delay of the onset
+time of seizures induced by maximal electroshock induced
+convulsion and also decreased duration of tonic hind limb
+extension (Table 3).
+3.3. Measurement of Locomotor Activity. In actophotometer
+reading, locomotor activity of the plant extract treated was
+dose dependently reduced (Table 4).
+Table 3: Effect of methanol extract of Swertia corymbosa
+(SCMeOH) on tonic seizures induced by maximal electroshock in
+rats.
+Treatment (mg/kg) Seizure onsettime (s)
+Duration of tonic hind
+limb extension (s)
+Control 8.38 ± 1.88 12.88 ± 0.35
+Diazepam (5mg/kg, i.p.) 19.88 ± 1.35 2.63 ± 1.72∗∗
+SCMeOH 125 28.81 ± 1.10 8.28 ± 1.19
+SCMeOH 250 32.43 ± 1.44∗ 7.44 ± 1.01∗
+SCMeOH 500 48.84 ± 1.25∗∗ 3.21 ± 1.25∗∗
+Control (vehicle)—distilled water.
+The data represent the mean ± SD (𝑛 = 6). ∗𝑃 < 0.05, ∗∗𝑃 < 0.01
+significantly different compared to maximal electroshock induced seizure
+control.
+3.4. Rotarod Performance. Table 5 shows the effects of
+SCMeOH from S. corymbosa in the Rotarod test, a method
+used for evaluating motor coordination and presence of any
+muscle griping effect. It revealed that there was significantly
+increased grip force and fall time after administration of
+SCMeOH (125, 250, and 500mg/kg) when compared to
+control. All the SCMeOH treated animals retained on the
+rotating rod for more than 276.35 ± 7.58 s at 500mg/kg
+as shown in Table 5, indicate SCMeOH to be devoid of
+neurotoxicity.
+3.5. Elevated Plus Maze (EPM). Administration of SCMeOH
+(125–500mg/kg) to the rats causes the significant (𝑃 < 0.01
+and 𝑃 < 0.001) increase in the frequency of the open arm
+entries (Figure 1). Significant and dose dependent increase
+in the duration of time spent in the open arm was observed
+in SCMeOH (125–500mg/kg) treated rats. Extract at doses
+of 125–500mg/kg produce a low number of entries in the
+closed arm, while control (10mL/kg) had the highest closed
+BioMed Research International 5
+Table 4: Effect of methanol extract of Swertia corymbosa (SCMeOH) on locomotor activity (actophotometer) in rats.
+Treatment (mg/kg) Locomotor activity in 10min % change in activity
+Before After 60 minutes
+Control 294.5 ± 16.69 281.23 ± 11.43
+Diazepam (2mg/kg) 289.56 ± 6.23 145.96 ± 3.25 49.59∗∗
+SCMeOH 125 287.51 ± 9.17 180.12 ± 2.34 37.35
+SCMeOH 250 299.50 ± 10.62 162.60 ± 2.49 45.70∗
+SCMeOH 500 298.44 ± 12.20 133.16 ± 3.19 55.38∗∗
+Control (vehicle)—distilled water.
+The data represent the mean ± SD (𝑛 = 6). ∗𝑃 < 0.01, ∗∗𝑃 < 0.001 significantly different compared to normal control.
+Table 5: Effect of methanol extract of Swertia corymbosa (SCMeOH) on motor (rotarod) coordination in mice.
+Experimental mean time (10min) (s) % of muscle griping
+Before After 60 minutes
+Control 69.16 ± 2.18 67.00 ± 2.89
+Diazepam (2mg/kg) 64.73 ± 5.82 13.30 ± 7.42 —
+SCMeOH 125 70.23 ± 3.12 127.19 ± 4.32 40.78
+SCMeOH 250 65.78 ± 2.89 199.56 ± 2.43 67.03∗
+SCMeOH 500 70.12 ± 1.22 276.35 ± 7.58 74.62∗∗
+Control (vehicle)—distilled water.
+The data represent the mean ± SD (𝑛 = 6). ∗𝑃 < 0.01, ∗∗𝑃 < 0.001 significantly different compared to normal control and diazepam.
+0
+50
+100
+150
+200
+250
+300
+Ti
+m
+e (
+s)
+Control
+Diazepam (5mg/kg, i.p.)
+SCMeOH 125
+SCMeOH 250
+SCMeOH 500
+Time spent in
+open arm
+Time spent in
+closed arm
+∗
+∗∗
+∗∗
+∗∗
+∗
+Figure 1: Effect of oral administration of Swertia corymbosa
+methanolic extract (SCMeOH) on the time spent in open arms
+(TOA) and time spent in closed arm (EOA) by rat exposed to EPM.
+∗
+𝑃 < 0.01 and ∗∗𝑃 < 0.001 indicate significant difference from
+control.
+arm entry value of 14.83 ± 0.33 (Figure 2). The effects of
+SCMeOH (125–500mg/kg) and diazepam resulted in signifi-
+cant increases in the total number of entries into the two arms
+(𝑃 < 0.01 and 𝑃 < 0.001) (Figure 3).
+3.6. Open Field Test (OFT). Administration of SCMeOH
+(125–500mg/kg BW) to the mice causes the statistically
+significant reduced number of central motor and ambulation.
+However, diazepam (2mg/kg) and SCMeOH increased the
+number of rearings (Figure 4).
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+N
+um
+be
+r o
+f e
+nt
+rie
+s 
+Open arm entry
+Closed arm entry
+∗
+∗
+∗∗
+∗∗
+∗∗
+∗∗
+Control Diazepam
+(5mg/kg, i.p.)
+SCMeOH
+125
+SCMeOH
+250
+SCMeOH
+500
+Figure 2: Effect of oral administration of Swertia corymbosa
+methaolic extract (SCMeOH) on the number of entries in open and
+closed arms by rats exposed to EPM. ∗𝑃 < 0.01 and ∗∗𝑃 < 0.001
+indicate significant difference from control.
+3.7. Phytochemical Analysis of SCMeOHUsing HPLCAnalysis.
+We analyzed SCMeOH by HPLC for detection and quantifi-
+cation of major constituents of active extract. Figure 5 shows
+the HPLC profile of SCMeOH recorded at 254 nm, in which
+10 peaks were detected. The main compounds of SCMeOH,
+peak 1 (𝑡
+𝑅
+= 20.0min) and peak 2 (𝑡
+𝑅
+= 32.8min), (spectral
+data and characterization of swertianin provided as in the
+supplementary file in the Supplementary Material available
+6 BioMed Research International
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Treatments
+To
+ta
+l e
+nt
+rie
+s
+Control Diazepam 5mg/kg
+SCMeOH 125mg/kg SCMeOH 250mg/kg
+SCMeOH 500mg/kg
+∗
+∗∗ ∗∗
+Figure 3: Effect of oral administration of Swertia corymbosa
+methanolic extract (SCMeOH) on the total of entries in open and
+closed arms by rats exposed to EPM. ∗𝑃 < 0.01 and ∗∗𝑃 < 0.001
+indicate significant difference from control.
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+200
+Locomotion
+central
+Ambulation Rearing
+N
+um
+be
+r
+∗
+∗∗
+∗∗
+∗
+∗ ∗
+Control
+Diazepam (2mg/kg)
+SCMeOH 125
+SCMeOH 250
+SCMeOH 500
+Figure 4: Effect of oral administration of Swertia corymbosa
+methanolic extract (SCMeOH) on the central locomotion ambula-
+tion and rearings of mice exposed in open field test. ∗𝑃 < 0.01 and
+∗∗
+𝑃 < 0.001 indicate significant difference from control.
+online at http://dx.doi.org/10.1155/2014/542385) were iden-
+tified and quantified as gentiopicroside (40.726mg/g) and
+swertianin (29.598mg/g), respectively (Figure 6), since the
+spectroscopic data were found to be in good agreement with
+values reported in the literature [10, 13, 15]. Quantification
+established with calibration curves of both gentiopicro-
+side and swertianin had a good linear relationship. The
+liner ranges of gentiopicroside and swertianin were 0.0653–
+8.0542mg/mL (𝑌 = 511, 072𝑥 + 13,124.0, 𝑛 = 5, 𝑅 = 0.9995)
+and 0.228–1.14mg/mL (𝑌 = 135, 827𝑥 − 1, 719.1, 𝑛 = 5,
+𝑅 = 0.9995), respectively.
+5 10 15 20 25 30 35 40 45
+(min)
+700
+600
+500
+400
+300
+200
+100
+50
+(m
+AU
+)
+1
+2
+(a)
+700
+600
+500
+400
+300
+200
+100
+50
+(m
+AU
+)
+5 10 15 20 25 30 35 40 45
+(min)
+1
+2
+(b)
+Figure 5: (a) HPLC—chromatograms of gentiopicroside and swer-
+tianin. (b) HPLC—chromatograms of methanol extract from Swer-
+tia corymbosa (SCMeOH).
+4. Discussions
+Medicinal plants have served as sources of readily accessi-
+ble, inexpensive, and effective medication since the earliest
+times known to man. Several ethnomedicinal plants have
+been found to possess neurobehavioral profile and serve as
+alternative to modern medicine. Biological evaluation and
+scientific validation of the ethnomedicinal plants are the need
+of the hour [30, 31]. The present study was proposed to
+assess CNS depressant, anxiolytic, and anticonvulsant effects
+of methanolic extract of aerial parts of an ethnomedicinal
+plant, Swertia corymbosa.
+The results of the present laboratory animal study indi-
+cate that S. corymbosa SCMeOH possesses anticonvulsant
+activity.This observation is in agreement with the findings of
+Srivastava et al. [17] who recently reported the neurological
+studies of Swertia chirayita (Roxb. ex. Flem) Karsh, another
+species and member of the Gentianaceae family, in mice
+and rats. The present study demonstrated the anticonvulsant
+effects of the methanol aerial parts extract of S. corymbosa in
+both chemically and electrically induced seizures inmice and
+rats. The extract exhibited dose dependent protection in the
+MES, PTZ, and INH tests. Further, like diazepam, the extract
+provides 100% protection at 500mg/kg in the INH and PTZ
+models. Nevertheless, in unprotected animals, the extract
+significantly increased seizure latency and reduced seizure
+duration compared with the control group in all threemodels
+at all tested doses. The effect of most of antiepileptic agents is
+to enhance the response to GABA by facilitating the opening
+ofGABA-activated chloride channels. GABAA receptorswere
+involved in epilepsy and their direct activation would have
+an antiepileptic effect. It is well documented that PTZ/NIH
+induced convulsions are produced due to alteration of GABA
+level in the brain. Therefore, SCMeOH might possibly be
+producing an antiepileptic action by increasing the level
+BioMed Research International 7
+O
+O
+O
+O
+O
+O
+O
+CH2 HO
+HO
+OH
+OH
+OH OH
+OH OCH3
+H
+Gentiopicroside (1) Swertianin (2)
+Figure 6: Structures of gentiopicroside and swertianin.
+of GABA, an inhibitory transmitter in the central nervous
+systems. This is in accord with the pharmacological effects of
+benzodiazepine and highlights the relevance of the putative
+antiepileptic effects of SCMeOH [23].
+In the present study, sedative effect of S. corymbosa
+(SCMeOH) is evaluated by using a locomotor activity test.
+Locomotor activity is considered as an index of alertness and
+a decrease in it is indicative of sedation. The antiepileptic
+effects of drugs such as benzodiazepines are accompanied
+by decreased locomotor activity and sedation. The extract
+inhibited locomotor activity in this experiment. SCMeOH
+inhibited locomotor activity to a lesser extent than diazepam
+and thus has a better profile for an antiepileptic effect. The
+neuropharmacological activities of SCMeOHsuch as sedative
+and anticonvulsant effect are similar to the central depressant
+properties of extract of plants such as Rubus brasiliensis, Vale-
+riana adscendens, Trema cannabina, Heteropterys brachiate,
+andMoringa oleifera [1, 32–35].
+In the present work, a clear anxiolytic-like activity of
+SCMeOH has been observed. The elevated plus maze has
+been frequently used to detect and evaluate anxiolytic/
+anxiogenic-like properties of drugs. The frequency and time
+spent in open arms are the major indexes of anxiety in plus
+mazemodel, given the fact that rodents are extremely aversive
+to an open area [36]. Diazepam increases the number of
+entries into the open arms and increases the time spent in
+the open arms, demonstrating the characteristic anxiolytic
+effect of BDZ compounds. Results of this study indicated that
+the extract has a selective anxiolytic effect with significantly
+modifying the locomotor activity like other herbal extracts
+where anxiolytic activity is accompanied by sedative and
+locomotor effects and these include Xeromphis niclotica [37],
+Palisota hirsute [38], Balanites aegyptiaca [39], Viscum album
+[40], and Zizyphus nummularia [6].
+The anticonvulsant, anxiolytic, and sedative effects of
+benzodiazepines like diazepam are mostly attributed to
+enhance the action of gamma-aminobutyric acid (GABAA)
+[41]. Actually, benzodiazepines bind to the gamma subunit of
+the GABAA receptor, due to which a structural modification
+of the receptor results in an increase in GABAA receptor
+activity. Benzodiazepines do not substitute for GABA, which
+bind at the alpha subunit, but increase the frequency of
+channel opening events, which leads to an increase in chlo-
+ride ion conductance and inhibition of the action potential
+[42, 43]. According to some researchers, the anxiolytic action
+of benzodiazepines may be due to the direct activation of
+glycine synapses in the brain [42, 44]. This may explain the
+mechanism of action of our tested extract as well, because it is
+clear from the results that the effect of the extract was similar
+to diazepam.
+Previous phytochemicals reported in the literature, var-
+ious xanthones, iridoids, secoiridoid glycosides, and triter-
+penoids, isolated from Swertia species would be the effective
+constituents. In the present study, we identified the presence
+of two major compounds: gentiopicroside and swertianin in
+SC methanol extract by HPLC analysis. Gentiopicroside is
+secoiridoids and swertianin is a xanthone. Previous studies
+have also proved that xanthones like alkanolamides, alka-
+nolamines, and aminoalkanolic have shown anticonvulsant
+activity [45]. The anxiolytic and antidepressant effect of gen-
+tiacaulein and gentiakochianin has been previously reported
+[17] and therefore, we suggest that these anxiolytic effects
+may be due to the above constituents. Our research group is
+undertaking the project of the isolation of active constituents
+from S. corymbosa whole plant.
+In conclusion, SCMeOH possesses anxiolytic, sedative
+and convulsant effects and these findings collaborate with the
+ethnomedicinal uses of this plant.The isolation of active che-
+micals from this plant might serve as lead compounds for the
+synthesis of drugs which could be used in themanagement of
+these nervous disorders.
+Conflict of Interests
+The authors declare that there is no conflict of interests
+regarding the publication of this paper.
+References
+[1] M. Huerta-Reyes, M. Herrera-Ruiz, M. Gonzalez-Cortazar
+et al., “Neuropharmacological in vivo effects and phytochemical
+profile of the extract from the aerial parts ofHeteropterys brachi-
+ata (L.) DC., (Malpighiaceae),” Journal of Ethnopharmacology,
+vol. 146, pp. 311–317, 2013.
+[2] D. Sachan, “Mental health bill set to revolutionise care in India,”
+Journal of the Lancet, vol. 282, p. 296, 2013.
+[3] M. T. Mansouri, M. Soltani, B. Naghizadeh, Y. Farbood, A.
+Mashak, and A. Sarkaki, “A possible mechanism for anxiolytic-
+like effect of gallic acid in the rat elevated plus maze,” Pharma-
+cology Biochemistry and Behavior, vol. 117, pp. 40–46, 2014.
+8 BioMed Research International
+[4] L. C. Gayoso, A. I. Moreno, G. Z. D. S. Oliveira et al., “Devel-
+opment and evaluation of liposomal formulation containing
+nimodipine on anxiolytic activity in mice,” Pharmacology,
+Biochemistry and Behavior, vol. 116, pp. 64–68, 2014.
+[5] S. Kumar, R. Madaan, G. Bansal, A. Jamwal, and A. Sharma,
+“Plants and Plant Products with potential anticonvulsant acti-
+vity—a review,” Pharmacognosy Communications, vol. 2, pp. 3–
+99, 2012.
+[6] M. Goyal and D. Sasmal, “CNS depressant and anticonvulsant
+activities of the alcoholic extract of leaves of Ziziyphus nummu-
+laria,” Journal of Ethnopharmacology, vol. 151, no. 1, pp. 536–542,
+2014.
+[7] G. Brahmachari, S. Mondal, A. Gangopadhyay et al., “Swertia
+(Gentianaceae): chemical and pharmacological aspects,”Chem-
+istry & biodiversity, vol. 1, no. 11, pp. 1627–1651, 2004.
+[8] Z. Abraham, “Ethnobotany of the Todas, the Kotas, the Irulas of
+the Nilgiris,” in Glimpses of Indian Ethnobotany, S. K. Jain, Ed.,
+pp. 26–30, Oxford & IBH, 1981.
+[9] K. R. Kirtikar and B. D. Basu, Indian Medicinal Plants, Latit
+Mohan Basu, Allahabad, India, 1984.
+[10] G. Mahendran, M. Manoj, K. J. Rajendra Prasad, and V.
+Narmatha Bai, “Evaluation of anti-inflammatory and anti-noce-
+ceptive activity of xanthones from Swertia corymbosa (Griseb.)
+Wight ex C. B. Clarke,” International Journal of Pharmacy and
+Pharmaceutical Sciences, vol. 5, no. 3, pp. 523–529, 2013.
+[11] G. Mahendran and V. Narmatha Bai, “Evaluation of Analgesic,
+anti-inflammatory and anti-pyretic potential of methanolic
+extract of Swertia corymbosa (Griseb.)Wight ex C. B. Clarke,”
+International Journal of Pharmacy and Pharmaceutical Sciences,
+vol. 5, no. 2, pp. 459–463, 2013.
+[12] G. Mahendran and V. Narmatha Bai, “Antioxidant and anti-
+proliferative activity of Swertia corymbosa (Griseb.) Wight ex
+C. B. Clarke,” International Journal of Pharmacy and Pharma-
+ceutical Sciences, vol. 5, no. 3, pp. 551–558, 2013.
+[13] G. Mahendran, G. Thamotharan, S. Sengottuvelu, and V.
+Narmatha Bai, “Anti-diabetic activity of Swertia corymbosa
+(Griseb.) Wight ex C.B. Clarke aerial parts extract in strepto-
+zotocin induced diabetic rats,” Journal of Ethanopharmacology,
+vol. 151, pp. 1175–1183, 2014.
+[14] N. Ramesh, M. B. Viswanathan, A. Saraswathy, K. Balakrishna,
+P. Brindha, and P. Lakshmanaperumalsamy, “Antimicrobial and
+phytochemical studies of Swertia corymbosa,” Fitoterapia, vol.
+73, no. 2, pp. 160–164, 2002.
+[15] G. Mahendran and V. Narmatha Bai, “Micropropagation, anti-
+oxidant properties and phytochemical assessment of Swertia
+corymbosa (Griseb.) Wight ex C. B. Clarke. A traditional
+folklore medicinal plant,” Acta Physiologiae Plantarum, vol. 36,
+pp. 589–603, 2014.
+[16] M. Tomic´, G. Tovilovic´, B. Butorovic´ et al., “Neuropharmaco-
+logical evaluation of diethylether extract and xanthones ofGen-
+tiana kochiana,” Pharmacology Biochemistry and Behavior, vol.
+81, no. 3, pp. 535–542, 2005.
+[17] S. Srivastava, N. Mishra, and U. Misra, “Neurological studies of
+novel compounds from Swertia chirayita,” Journal of Chemical
+and Pharmaceutical Research, vol. 2, no. 1, pp. 125–134, 2010.
+[18] OECD,OECDGuideline for the testing of chemicals. Acute oral
+toxicity—acute toxic class method: test no-423. Organization
+for Economic Co-operation and Development, 2001.
+[19] A. Ahmadiani, A. Mandgary, and M. Sayyah, “Anticonvulsant
+effect of flutamide on seizures induced by pentylenetetrazole:
+involvement of benzodiazepine receptors,” Epilepsia, vol. 44, no.
+5, pp. 629–635, 2003.
+[20] R. S. Fisher, “Animal models of the epilepsies,” Brain Research
+Reviews, vol. 14, no. 3, pp. 245–278, 1989.
+[21] G. Balamurugan, P. Muralidharan, and S. Selvarajan, “Anti-
+epileptic activity of polyherbal extract from Indian medicinal
+plants,” Journal of Scientific Research, vol. 1, pp. 153–159, 2009.
+[22] M. T. Buznego and H. Pe´rez-Saad, “Acute effect of an extract of
+Ambrosia paniculata (Willd.) O. E. Schultz (mugwort) in several
+models of experimental epilepsy,” Epilepsy and Behavior, vol. 5,
+no. 6, pp. 847–851, 2004.
+[23] R. Adnaik, P. Pai, V. Sapakal, N. Naikwade, and C. Magdum,
+“Anxiolytic activity of Vitex negundo linn. in experimental
+models of anxiety in mice,” International Journal of Green
+Pharmacy, vol. 3, no. 3, pp. 243–247, 2009.
+[24] S. Farkas, P. Berzsenyi, E. Ka´rpa´ti, P. Kocsis, and I. Tarnawa,
+“Simple pharmacological test battery to assess efficacy and side
+effect profile of centrally acting muscle relaxant drugs,” Journal
+of Pharmacological and Toxicological Methods, vol. 52, no. 2, pp.
+264–273, 2005.
+[25] R. Estrada-Reyes, C. Lo´pez-Rubalcava, L. Rocha, G. Heinze, A.
+R. Gonza´lez Esquinca, and M. Mart´ınez-Va´zquez, “Anxiolytic-
+like and sedative actions of Rollinia mucosa: possible involve-
+ment of theGABA/benzodiazepine receptor complex,”Pharma-
+ceutical Biology, vol. 48, no. 1, pp. 70–75, 2010.
+[26] R. G. Lister, “The use of a plus-maze to measure anxiety in the
+mouse,” Psychopharmacology, vol. 92, no. 2, pp. 180–185, 1987.
+[27] W.-H. Peng, M.-T. Hsieh, Y.-S. Lee, Y.-C. Lin, and J. Liao,
+“Anxiolytic effect of seed of Ziziphus jujuba in mouse models of
+anxiety,” Journal of Ethnopharmacology, vol. 72, no. 3, pp. 435–
+441, 2000.
+[28] R. E. Brown, S. C. Corey, and A. K. Moore, “Differences in mea-
+sures of exploration and fear in MHC-congenic C57BL/6J and
+B6-H-2K mice,” Behavior Genetics, vol. 29, no. 4, pp. 263–271,
+1999.
+[29] D. Kumar, N. Gupta, R. Ghosh, R. H. Gaonkar, and B. C. Pal,
+“𝛼-Glucosidase and a amylase inhibitory constituent of Carex
+baccans: bio-assay guided isolation and quantification by vali-
+dated RP-HPLC-DAD,” Journal of Functional Foods, vol. 5, pp.
+211–218, 2013.
+[30] J. D. Phillipson and L. A. Anderson, “Ethnopharmacology and
+western medicine,” Journal of Ethnopharmacology, vol. 25, no. 1,
+pp. 61–72, 1989.
+[31] M. Raza and M. Iqbal Choudhary, “Medicinal plants with anti-
+convulsant activities,” Studies in Natural Products Chemistry,
+vol. 22, pp. 507–553, 2000.
+[32] E. Nogueira and V. S. Vassilieff, “Hypnotic, anticonvulsant and
+muscle relaxant effects of Rubus brasiliensis. Involvement of
+GABA(A)-system,” Journal of Ethnopharmacology, vol. 70, no.
+3, pp. 275–280, 2000.
+[33] N. Yesmin, M. A. Akond, S. Mubassara, and S. N. Uddin, “Cen-
+tral nervous system (CNS) depressant activity of Trema
+cannabina Linn,” Academic Journal of Plant Sciences, vol. 2, pp.
+1–3, 2009.
+[34] V. de Feo and C. Faro, “Pharmacological effects of extracts from
+Valeriana adscendens Trel. II. Effects on GABA uptake and
+amino acids,” Phytotherapy Research, vol. 17, no. 6, pp. 661–664,
+2003.
+[35] A. G. Bakre, A. O. Aderibigbe, and O. G. Ademowoa, “Studies
+on neuropharmacological profile of ethanol extract of Moringa
+oleifera leaves in mice,” Journal of Ethnopharmacology, vol. 149,
+pp. 783–789, 2013.
+BioMed Research International 9
+[36] A. A. C. de Almeida, J. P. Costa, R. B. F. de Carvalho, D. P. de
+Sousa, and R. M. de Freitas, “Evaluation of acute toxicity of a
+natural compound (+)-limonene epoxide and its anxiolytic-like
+action,” Brain Research, vol. 1448, pp. 56–62, 2012.
+[37] N. M. Danjuma, A. U. Zezi, A. H. Yaro, A. M. Musa, H. A.
+Sanni, and I. M. Maje, “Residual aqueous fraction of stem bark
+extract of Xeromphis nilotica and behavioral effects in mice,”
+International Journal of Applied Research in Natural Products,
+vol. 2, pp. 5–12, 2009.
+[38] E. Woode, E. Boakye-Gyasi, N. Amidu, C. Ansah, and M.
+Duwiejua, “Anxiolytic and antidepressant effects of a leaf extract
+of Palisota hirsuta K. Schum. (Commelinaceae) in mice,” Inter-
+national Journal of Pharmacology, vol. 6, no. 1, pp. 1–17, 2010.
+[39] J. Yau, U. N. Abdulmalik, A. H. Yaro, B. A. Chindo, J. A. Anuka,
+and I. M. Hussaini, “Behavioral properties of Balanites aegyp-
+tiaca in rodents,” Journal of Ethnopharmacology, vol. 135, no. 3,
+pp. 725–729, 2011.
+[40] G. Gupta, I. Kazmi, M. Afzal et al., “Sedative, antiepileptic and
+antipsychotic effects ofViscum album L. (Loranthaceae) inmice
+and rats,” Journal of Ethnopharmacology, vol. 141, pp. 810–816,
+2012.
+[41] O. K. Yemitan andH.M. Salahdeen, “Neurosedative andmuscle
+relaxant activities of aqueous extract of Bryophyllum pinnatum,”
+Fitoterapia, vol. 76, no. 2, pp. 187–193, 2005.
+[42] N. Muhammad, M. Saeed, H. Khan, and I. Haq, “Evaluation of
+n-hexane extract of Viola betonicifolia for its neuropharmaco-
+logical properties,” Journal of Natural Medicines, vol. 67, pp. 1–8,
+2013.
+[43] D. A.Garc´ıa, J. Bujons, C. Vale, andC. Sun˜ol, “Allosteric positive
+interaction of thymol with the GABAA receptor in primary
+cultures of mouse cortical neurons,” Neuropharmacology, vol.
+50, no. 1, pp. 25–35, 2006.
+[44] P. Brambilla, J. Perez, F. Barale, G. Schettini, and J. C. Soares,
+“GABAergic dysfunction in mood disorders,”Molecular Psychi-
+atry, vol. 8, no. 8, pp. 721–737, 2003.
+[45] P. S. Banerjee and P. K. Sharma, “New antiepileptic agents: stru-
+cture-activity relationships,”Medicinal Chemistry Research, vol.
+21, pp. 1491–1508, 2012.
+Submit your manuscripts at
+http://www.hindawi.com
+Pain
+Research and Treatment
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+The Scientific 
+World Journal
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com
+Volume 2014
+Toxins
+Journal of
+Vaccines
+Journal of
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Antibiotics
+International Journal of
+Toxicology
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Stroke
+Research and Treatment
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Drug Delivery
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Advances in 
+Pharmacological 
+Sciences
+Tropical Medicine
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Medicinal Chemistry
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Addiction
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+BioMed 
+Research International
+Emergency Medicine 
+International
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+ Autoimmune 
+Diseases
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+ Anesthesiology 
+Research and Practice
+Scientifica
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Pharmaceutics
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+MEDIATORS
+INFLAMMATION
+of

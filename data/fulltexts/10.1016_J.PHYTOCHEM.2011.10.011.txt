@@ -1,0 +1,606 @@
+  Universidade de São Paulo
+ 
+2012
+ 
+Secondary metabolites from Spirotropis
+longifolia (DC) Baill and their antifungal activity
+against human pathogenic fungi
+ 
+ 
+PHYTOCHEMISTRY, OXFORD, v. 74, n. 1, pp. 166-172, FEB, 2012
+http://www.producao.usp.br/handle/BDPI/41984
+ 
+Downloaded from: Biblioteca Digital da Produção Intelectual - BDPI, Universidade de São Paulo
+Biblioteca Digital da Produção Intelectual - BDPI
+Departamento de Física e Química - FCFRP/DFQ Artigos e Materiais de Revistas Científicas - FCFRP/DFQ
+Secondary metabolites from Spirotropis longifolia (DC) Baill and their antifungal
+activity against human pathogenic fungi
+Charlie Basset a,b, Alice M.S. Rodrigues a,b, Véronique Eparvier c, Maria R.R. Silva d, Norberto P. Lopes e,
+Daniel Sabatier f, Emile Fonty f, Laila S. Espindola b,⇑, Didier Stien a,c,⇑
+aCNRS, UMR ECOFOG, Université des Antilles et de la Guyane, 97300 Cayenne, France
+b Laboratório de Farmacognosia, Universidade de Brasília, Brasília, DF, Brazil
+cCNRS – Institut de Chimie des Substances Naturelles, 1 Avenue de la Terrasse, 91198 Gif-sur-Yvette cedex, France
+d Instituto de Patologia Tropical e Saúde Pública, Universidade Federal de Goiás, Goiânia, GO, Brazil
+eNúcleo de Pesquisa em Produtos Naturais e Sintéticos, Faculdade de Ciências Farmacêuticas de Ribeirão Preto, Universidade de São Paulo, Ribeirão Preto, SP, Brazil
+f IRD, UMR AMAP, F-34000 Montpellier, France
+a r t i c l e i n f o
+Article history:
+Received 29 August 2011
+Received in revised form 20 October 2011
+Available online 1 December 2011
+Keywords:
+Spirotropis longifolia
+Leguminosae
+Prenylated pterocarpans
+Antifungal
+Cytotoxic
+Monodominant species
+a b s t r a c t
+A phytochemical study of the ethyl acetate extract of the roots and adventitious roots of Spirotropis longi-
+folia, amonodominant tree species of theGuianan rainforest, has allowed the isolation of three compounds:
+2-hydroxy-8,9-methylenedioxy-20 ,20-dimethylpyrano-[50 ,60:4,3]-6a-prenyl-[6aS,11aS]-pterocarpan
+(spirotropin A), 2-hydroxy-8,9-methylenedioxy-20,20-dimethyl-30 ,40-dihydropyrano-[50 ,60:4,3]-6a-prenyl-
+[6aS,11aS]-pterocarpan (spirotropin B), and 5,7-dihydroxy-6,8-diprenyl-20 0 0 0 ,20 0 0 0-dimethylpyrano[50 0 0 0 ,60 0 0 0:
+30 ,40]-isoﬂavone (spirotropone). In addition, 10 known compounds, trans-oxyresveratrol, trans-resveratrol,
+piceatannol, daidzein, genistein, isoprunetin, lupeol, latifolol, gnetin D and gnetin E, were also isolated.
+These compounds were evaluated for their antifungal activity and their cytotoxicity, and their structures
+were established by 1D and 2D NMR, HRMS, CD and optical rotation measurements.
+ 2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+Spirotropis longifolia (DC) Baill. is a tree whose range extends
+from the state of Bolívar (Venezuela) to French Guiana. This is
+one of the few species to formmonodominant stands (>50% of indi-
+viduals) in tropical rain forests and is also known for its self-cop-
+picing ability by the constant rejuvenation of its stems (Fonty
+et al., 2011). From a taxonomic point of view, S. longifolia is the
+only representative of its genus, which belongs to the tribe of the
+Sophoreae (Leguminosae – Papilionoideae). The phytochemistry
+of this genus has never been investigated before, and the genus
+is not described in terms of plant use or medicinal properties.
+In continuation of our search for antifungal compounds from
+durable woods (Rodrigues et al., 2010; Royer et al., 2010), ethyl
+acetate extracts of roots and adventitious roots of S. longifolia
+drew our attention during a screen for antifungal activity. We
+therefore embarked upon studying the antifungal constituents
+contained in the roots and adventitious roots of this species. In
+this article, we describe the isolation, structure elucidation from
+NMR spectral data, and antifungal and cytotoxic activities of all
+isolated compounds.
+2. Results and discussion
+Roots and adventitious roots were air-dried and extracted sep-
+arately with ethyl acetate. Both extracts were then subjected to
+silica gel column chromatography, followed by reverse phase
+HPLC to yield three previously unreported (1–3) and 10 known
+(4–13) compounds (Fig. 1). In the roots, known compounds were
+trans-resveratrol (5) (Yamada et al., 2004), piceatannol (6) (Young
+Han et al., 2009), daidzein (7) (Li et al., 2009), genistein (8)
+(Kozerski et al., 2003), isoprunetin (9) (Kulesh et al., 2008), and
+lupeol (10) (Fotie et al., 2006). In the adventitious roots, com-
+pounds isolated were trans-oxyresveratrol (4) (Kanchanapoom
+et al., 2002), gnetin E (11) (Boralle et al., 1993), latifolol (12) (Lins
+et al., 1982), and gnetin D (13) (Iliya et al., 2002). These known
+compounds were identiﬁed by comparison of their analytical data
+with those reported in the literature. Compounds 11, 12 and 13
+were isolated for the ﬁrst time in the Leguminosae – Papilionoi-
+deae family.
+0031-9422/$ - see front matter  2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.phytochem.2011.10.011
+⇑ Corresponding authors. Addressess: Laboratório de Farmacognosia, Universid-
+ade de Brasília, Brasília, DF, Brazil (L.S. Espidola), CNRS – Institut de Chimie des
+Substances Naturelles, 1 avenue de la Terrasse, 91198 Gif-sur-Yvette cedex, France.
+Tel.: +33 169 82 30 09; fax: +33 169 07 72 47 (D. Stien), tel.: +55 61 3107 2016; fax:
++55 61 3107 1943 (L.S. Espindola).
+E-mail addresses: darvenne@unb.br (L.S. Espindola), didier.stien@icsn.cnrs-gif.fr
+(D. Stien).
+Phytochemistry 74 (2012) 166–172
+Contents lists available at SciVerse ScienceDirect
+Phytochemistry
+journal homepage: www.elsevier .com/locate /phytochem
+The structure of molecules 1 and 2 were determined by 1H and
+13C NMR spectroscopy (Table 1). Two distinct groups were ob-
+served by analysing the correlations in the COSY, HMBC and HSQC
+spectra: a prenyl and a dimethyl-pyrano-pterocarpan.
+Compound 1 was isolated as a pale yellow solid. Its molecular
+formula was determined as C26H26O6 from the HR-ESI-MS spec-
+trum (m/z: 435.1794 [M+H]+). 1H NMR signal at dH 6.71 (1H, s,
+H-1) and carbon at dC 117.5 (C-1) as well as correlations of proton
+H-1 with C-2 (dC 141.0), C-3 (dC 142.7), C-4a (dC 144.6), C-11a (dC
+83.5), and C-11b (dC 112.5), indicated the presence of a pentasub-
+stituted aromatic ring. In addition, protons at dH 6.56 (1H, s, H-7)
+and 6.34 (1H, s, H-10), respectively, borne by carbon atoms at dC
+104.8 (C-7) and 94.1 (C-10), and HMBC correlations of H-7 (dH
+6.56) with C-8 (dC 149.1), C-9 (dC 142.9), C-10a (dC 155.2) and C-
+6a (dC 48.2) as well as those of H-10 (dH 6.34) with C-10a (dC
+155.2), C-6b (dC 122.4), C-8 (dC 149.1) and C-9 (dC 142.9) together
+indicated the presence of a 1,2,4,5-tetrasubstituted benzene.
+A methylenedioxy moiety with two non-equivalent protons at
+dH 5.87 (1H, d, J = 1.2 Hz, O–CH2–O) and 5.83 (1H, d, J = 1.2 Hz,
+O–CH2–O) was also observed in the 1H NMR spectrum. HMBC cor-
+relations of this O–CH2–O group (dH 5.87, dH 5.83) with C-8 (dC
+149.1) and C-9 (dC 142.9) indicated that the oxygen atoms were
+linked to carbons C-8 and C-9 in the tetrasubstituted aromatic ring
+cited above. 1H NMR signals at dH 6.56 (1H, d, J = 10.0 Hz, H-40),
+5.61 (1H, d, J = 10.0 Hz, H-30) and 1.41 (6H, s, 20-CH3) combined
+with 13C NMR signals at dC 117.5 (C-40), 140.4 (C-30), 77.3 (C-20),
+and 27.7 (20-CH3), and their HMBC correlations indicated the pres-
+ence of a 2,2-dimethyl-pyran ring. HMBC correlations of H-40 (dH
+6.56) with C-3 (dC 142.7), C-4 (dC 111.5) and C-4a (dC 144.6) as well
+as the chemical shift of carbon atom C-20 at dC 77.3, and the molec-
+ular formula of 1 indicated that the 2,2-dimethyl-pyran ring was
+fused along the C-3–C-4 bond of the pentasubstituted aromatic
+ring. The positions of the 2,2-dimethyl-pyran ring and the methyl-
+enedioxy group were further conﬁrmed by comparison of NMR
+data described for closely related 2,3-dihydroxy-8,9-methylenedi-
+oxy-pterocarpan and 6a-prenyl-pterocarpan (Miyase et al., 1999;
+Xiong et al., 2009). Furthermore, 1H NMR spectrum of 1 (Table 1)
+presented a sequence of characteristic proton signals at dH 2.37
+(2H, m, H-10 0), 5.17 (1H, br t, J = 7.4 Hz, H-20 0), 1.66 (3H, br s, H-
+40 0), and 1.48 (3H, br s, H-50 0) linked to carbon atoms at dC 31.6
+Fig. 1. Compounds isolated from Spirotropis longifolia.
+C. Basset et al. / Phytochemistry 74 (2012) 166–172 167
+(C-10 0), 119.7 (C-20 0), 135.8 (C-30 0), 25.9 (C-40 0) and 24.0 (C-50 0),
+respectively, attributable to a prenyl subunit in 1. Additionally,
+1H NMR signals of H-6 protons at dH 3.57 (1H, d, J = 10.7 Hz, H-
+6ax) and 3.99 (1H, d, J = 10.7 Hz, H-6eq) borne by carbon atom at
+dC 71.3 (C-6) correlated in HMBC spectra with C-6a (dC 48.2), C-
+6b (dC 122.4), C-11a (dC 83.5), C-4a (dC 144.6) and C-10 0
+(dC 31.6), and a proton at dH 5.04 (1H, s, H-11a) linked to carbon
+atom at dC 83.5 (C-11a) and correlated to C-1 (dC 117.5), C-11b
+(dC 112.5), C-4a (dC 144.6), C-6 (dC 71.3) and C-6a (dC 48.2) sug-
+gested that this prenyl subunit was linked in C-6a to a pterocar-
+pan-like compound.
+The cis ring junction was established unambiguously by the
+observation of NOESY correlations between protons H-10 0 and H-
+11a (Fig. 2). Additionally, a positive absorption band at 288.3 nm
+(De = 2.92) and a negative one at 327.0 nm (De = 5.42) in the
+CD spectrum as well as a very high positive value of the optical
+rotation ½a25D + 147.3 (AcOEt, c 0.164) attested of an [6aS, 11aS]
+absolute conﬁguration according to literature precedent (Kiss
+et al., 2003). Hence, 1 has been identiﬁed as 2-hydroxy-8,9-meth-
+ylenedioxy-20,20-dimethylpyrano-[50,60:4,3]-6a-prenyl-[6aS,11aS]-
+pterocarpan and was named spirotropin A after the name of the
+plant.
+Compound 2 was also isolated as a pale yellow solid. Its molec-
+ular formula was determined to be C26H28O6 by the analysis of the
+HR-ESI-MS spectrum (m/z: 437.1961 [M+H]+). 1H and 13C NMR
+spectra of 2 (Table 1) were very similar to those of compound 1.
+It was possible to identify the penta- and tetra-substituted aro-
+matic rings as well as the prenyl moiety in C-6a, of a pterocarpan
+skeleton. The only differences in the NMR signals were protons
+H-40 and H-30 and carbon atoms C-40 and C-30 shifted upﬁeld from
+dH 6.56 to dH 2.69 for H-40, from dH 5.61 to dH 1.66 for H-30, from dC
+117.5 to dC 19.4 for C-40 and from dC 130.4 to dC 43.3 for C-30. Other-
+wise, all other signals were nearly identical. However, we observed
+the presence of a new gem-dimethyl unit at dH 1.23 (20-CH3), from
+which it was clearly established that the 2,2-dimethyl-2H-pyran
+ring had been replaced by a 2,2-dimethyl-3,4-dihydro-2H-pyran
+ring. Again, the absolute conﬁguration in C-6a and C-11a was
+ascertained as 6a(S), 11a(S) from the NOESY correlation between
+H-11a (dH 5.02) and H-10 0 (dH 2.45), the positive sign of the optical
+rotation ½a25D + 107.6 (AcOEt, c 0.054) and the similarity between
+the CD spectra of compounds 1 and 2. Hence, 2 was identiﬁed
+unambiguously as 2-hydroxy-8,9-methylenedioxy-20,20-dimethyl-
+30,40-dihydropyrano-[50,60:4,3]-6a-prenyl-[6aS,11aS]-pterocarpan
+and was named spirotropin B.
+Table 1
+1H and 13C NMR spectroscopic data for pterocarpans 1 and 2 in CD3OD.
+Position 1 2
+d 1H (m, J in Hz) d 13C (d, ppm) COSY HMBC (1H? 13C) d 1H (m, J in Hz) d 13C (d, ppm) COSY HMBC (1H? 13C)
+1 6.71 (1H, s) 117.5 C2, C3, C4a, C11a 6.70 (1H, s) 111.1 C2, C3, C4a, C11a
+2 141.0 140.4
+3 142.7 145.6
+4 111.5 118.2
+4a 144.6 147.6
+6ax 3.57 (1H, d, 10.7) 71.3 6-Heq C4a, C6b, C11a, C10 0 3.61 (1H, d, 11.0) 70.9 6-Heq C4a, C11a, C10 0
+6eq 3.99 (1H, d, 10.7) 6-Hax C4a, C6b, C11a, C10 0 3.98 (1H, d, 11.0) 6-Hax C4a, C11a, C10 0
+6a 48.2 47.8
+6b 122.4 122.8
+7 6.56 (1H, s) 104.8 C8, C9, C10a, C6a 6.72 (1H, s) 104.7 C8, C9, C10a, C6a
+8 149.1 142.2
+9 142.9 148.9
+10 6.34 (1H, s) 94.1 C6b, C10a, C8, C9 6.34 (1H, s) 93.9 C6b, C10a, C8, C9
+10a 155.2 155.2
+11a 5.04 (1H, s) 83.5 C4a, C6, C6a, C10 0 , C11b 5.02 (1H, s) 84.1 C4a, C6, C6a, C10 0 , C11b
+11b 112.5 114.2
+20 77.3 71.4
+20-CH3 1.41 (6H, s) 27.7 C20 , C40 , 20-CH3 1.23 (6H, s) 28.6 C20 , C40 , 20-CH3
+30 5.61 (1H, d, 10.0) 130.4 H40 C20 , 20-CH3, C4 1.66 (2H, m) 43.3 H30 , H40 C20 , C40
+40 6.56 (1H, d, 10.0) 117.5 H40 C20 , C3, C30 , C4, C4a 2.69 (2H, m) 19.4 H30 , H40 C20 , C3, C30 , C4, C4a,
+10 0 2.37 (2H, m) 31.6 H20 0 C20 0 , C30 0 , C6b, C6a, C11a 2.45 (2H, m) 31.3 H10 0 , H20 0 C20 0 , C30 0 , C6b, C6a, C11a
+20 0 5.17 (1H, br t, 7.4) 119.7 H10 0 , H40 0 , H50 0 C40 0 , C50 0 5.20 (1H, br t, 7.3) 119.7 H10 0 , H40 0 , H50 0 C40 0 , C50 0
+30 0 135.8 135.6
+40 0 1.66 (3H, br s) 25.9 H20 0 C20 0 , C30 0 , C50 0 1.68 (3H, br s) 25.7 H20 0 C20 0 , C30 0 , C50 0
+50 0 1.48 (3H, br s) 24.0 H20 0 C20 0 , C30 0 , C40 0 1.49 (3H, br s) 17.7 H20 0 C20 0 , C30 0 , C40 0
+O-CH2-O 5.87 (1H, d, 1.2) 102.3 C8, C9 5.91 (1H, d, 1.1) 102.2 C8, C9
+5.83 (1H, d, 1.2) 5.88 (1H, d, 1.1)
+Fig. 2. NOESY correlations for compounds 1–3.
+168 C. Basset et al. / Phytochemistry 74 (2012) 166–172
+Compound 3 was isolated as a pale yellow solid. Its molecular
+formula was determined to be C30H32O5 from the HR-ESI-MS spec-
+trum (m/z 473.2323 [M+H]+). First, it was established from the
+spectral data (Table 2) that signals at dH 7.18 (1H, d, J = 2.15 Hz,
+H-20), 7.23 (H, dd, J = 8.4 Hz, J = 2.2 Hz, H-60), and 6.83 (1H, d,
+J = 8.4 Hz, H-50) indicated the presence of a 1,2,5-trisubstituted
+benzene, while signals at dH 1.45 (6H, s, 20 0 0 0-CH3), 5.63 (1H, d,
+J = 9.8 Hz, H-30 0 0 0), and 6.35 (1H, d, J = 9.8 Hz, H-40 0 0 0) were attribut-
+able to those of a 2,2-dimethyl-2H-pyran ring. HMBC correlations
+of H-40 0 0 0 (dH 6.35) with C-30 (dC 121.8) and C-40 (dC 152.9) as well
+as the chemical shifts recorded for C-40 (dC 152.9) and C-20 0 0 0 (dC
+76.0) demonstrated that this ring was fused to the 1,2,5-trisubsti-
+tuted benzene in positions C-30 and C-40. This connectivity formed
+a 2,2-dimethylchromene moiety substituted in C-10 (dC 123.2).
+Additionally, an 1H NMR signal at dH 7.90 (1H, s, H-2), correspond-
+ing to a proton linked to carbon at dC 152.2 and correlated to C-8a
+(dC 153.2) and C-3 (dC 122.9), was typical of an a,b-unsaturated
+carbonyl compound linked to an aromatic moiety. These features
+are common in the isoﬂavone family.
+HMBC correlations of H-2 (dH 7.90) with C-10 (dC 123.2) and of H-
+20 (dH 7.18) and H-60 (dH 7.23) with C-2 (dC 152.2) indicated that the
+2,2-dimethylchromene was linked by its C-10 to the C-3 in the a,b-
+unsaturated ketone. In addition, HMBC correlations of OH-5 (dH
+13.20) with C-4a (dC 109.0), C-5 (dC 157.4) and C-6 (dC 105.4) and
+those of OH-7 (dH 6.33) with C-6 (dC 105.4), C-7 (dC 159.5), and C-8
+(dC 110.0) allowed us to ascertain the presence of a hexasubstituted
+benzenic ring, conﬁrming the presence of an isoﬂavone skeleton
+substituted at C-3 with a 2,2-dimethylchromene moiety. The high
+chemical shift of proton OH-5 (dH 13.20) is attributable to the prox-
+imity of the carbonyl group. It should be pointed out as well that 2
+prenyl subunits at dH 3.48 (1H, d, J = 6.2 Hz, H-10 0), 5.27 (1H, br t,
+J = 7.1 Hz, H-20 0), 1.77 (3H, br s, H-40 0), 1.84 (3H, br s, H-50 0), and dH
+3.46 (1H, d, J = 6.2 Hz, H-10 0 0), 5.23 (1H, br t, J = 7.3 Hz, H-20 0 0), 1.74
+(3H, br s, H-40 0 0), and 1.83 (3H, br s, H-50 0 0) can be clearly designated
+in the NMR data. HMBC correlations of H-10 0 (dH 3.48) with C-5 (dC
+157.4), C-6 (dC 105.4), and C-7 (dC 159.5) as well as those of H-10 0 0
+(dH 3.46) with C-7 (dC 159.5), C-8 (dC 110.0), and C-8a (dC 153.2) al-
+lowed us to determine their positions on the hexasubstituted ben-
+zene ring, C-6 and C-8, respectively. Based on this information and
+comparison with literature data described for related isoﬂavones
+(Russell et al., 1990; Xiong et al., 2009), compound 3was designated
+as 5,7-dihydroxy-6,8-diprenyl-20 0 0 0,20 0 0 0-dimethylpyrano[50 0 0 0,60 0 0 0:
+30,40]-isoﬂavone and was named spirotropone.
+All compounds isolated were tested for their antifungal activity
+by microdilution, most of them over 6 strains of dermatophyte
+Table 2
+1H and 13C NMR spectroscopic data for spirotropone (3) in CDCl3.
+Position 3
+d 1H (m, J in Hz) d 13C (d,
+ppm)
+COSY HMBC (1H? 13C)
+2 7.90 (1H, s) 152.2 C10 , C3, C8a
+3 122.9
+4 181.0
+4a 109.0
+5 157.4
+6 105.4
+7 159.5
+8 110.0
+8a 153.2
+10 123.2
+20 7.18 (1H, d, 2.2) 126.6 H60 C3, C30 , C40 , C40 0 0 0 , C60
+30 121.8
+40 152.9
+50 6.83 (1H, d, 8.4) 116.5 H60 C10 , C30 , C40
+60 7.23 (1H, dd,
+8.4, 2.2)
+129.3 H20 , H50 C20 , C3, C40
+10 0 3.48 (1H, d, 6.2) 21.5 H20 0 C20 0 , C30 0 , C40 0 , C5, C50 0 ,
+C6, C7
+20 0 5.27 (1H, br t,
+7.1)
+121.1 H10 0 , H40 0 ,
+H50 0
+C10 0 , 40 0 , C50 0
+30 0 135.4
+40 0 1.77 (3H, br s) 25.7 H20 0 C20 0 , C30 0 , C50 0
+50 0 1.84 (3H, br s) 17.7 H20 0 C20 0 , C30 0 , C40 0
+10 0 0 3.46 (1H, d, 6.2) 21.5 H20 0 0 C20 0 0 , C30 0 0 , C40 0 0 , C7,
+C8, C8a
+20 0 0 5.23 (1H, br t,
+7.3)
+121.3 H10 0 0 , H40 0 0 ,
+H50 0 0
+C10 0 0 0 , C40 0 0 , C50 0 0
+30 0 0 134.4
+40 0 0 1.74 (3H, br s) 25.7 H20 0 0 C20 0 0 , C30 0 0 , C50 0 0
+50 0 0 1.83 (3H, br s) 17.7 H20 0 0 C20 0 0 , C30 0 0 , C50 0 0
+20 0 0 0 76.0
+20 0 0 0-CH3 1.45 (6H, s) 28.0 20 0 0 0-CH3, C20 0 0 0 , C30 0 0 0
+30 0 0 0 5.63 (1H, d, 9.8) 130.0 H40 0 0 0 20 0 0 0-CH3, C20 0 0 0 , C30
+40 0 0 0 6.35 (1H, d, 9.8) 122.1 H30 0 0 0 C20 0 0 0 , C30 , C40
+OH-5 13.20 (1H, s) C4A, C5, C6
+OH-7 6.33 (1H, s) C6, C7, C8
+Table 3
+Biological activity of isolated compounds 1 to 13.
+Strain 1 2 3 4 5 6 7 8 9 10 11 12 13 Flu* Itra Doc
+Antifungal activity (MIC, in lg/mL)
+M. canis LMGO 25 –a 32 (>4b) – 16 (>8) – – 8 (3.1) 16 (>8) 2 0.5
+M. canis LMGO 22 – – – – – – 16 (1.6) 64 (>2) – –
+M. gypseum LMGO 10 – 32 (>4) – 8 (>16) – – – 2 (12.5) 16 (>8) 32 0.25
+T. rubrum LMGO 08 – 16 (>8) – – – – 64 (0.4) – – –
+T. rubrum LMGO 06 – 16 (>8) – 8 (>16) – – – 2 (12.5) 8 (>16) 2 0.25
+T. mentagrophytes LMGO 09 – 8 (>16) – 64 (>2) – – 8 (3.1) 32 (>4) – –
+C. albicans LMGO 102 – – – 2 (>64) 16 – – 16 (1.6) 64 (>2) – –
+C. albicans ATCC 10231 – – – 2 (>64) – – 16 (1.6) 2 (>64) 4 0.5
+C. parapsilosis ATCC 22019 – – – – – 4 (>32) – 64 – – 16 (1.6) 64 (2.0) 64 (>2) 4 0.5
+C. parapsilosis LMGO 05 – – – 1 (>128) – – 16 (1.6) 2 (>64) 4 0.5
+C. glabrata LMGO 44 – – – 4 (>32) 16 – – 4 (6.3) 32 (3.9) 8 0.5
+C. tropicalis LMGO 35 – 64 (>2) – 8 (>16) – – 16 (1.6) 4 (>32) 1 0.25
+C. Krusei LMGO 174 – 16 (>8) – 8 (>16) 64 – – 8 (3.1) 2 (>64) 32 –
+C. gattii LMGO L1 – – – 16 (>8) – – 8 (3.1) 64 (>2) 2 0.25
+Antiproliferative activity (IC50 in lg/mL)
+MRC5 > 128 > 128 25.0 ± 0.1 125.5 ± 0.5 > 128 >128 >128 < 0.25
+MDA-MB-435 37.7 ± 2.4 103.3 ± 3.6 60.9 ± 0.6 64.1 ± 2.9 88.1 ± 21.8 >128 >128 < 0.25
+Antiproliferative activity at 105 M (growth inhibition %)
+KB 56 0 11 0 0 0 0 99
+a inactive (MIC > 64 g/mL, > 16 lg/mL for itraconazole).
+b in parenthesis: selectivity index based on cytotoxicity against MRC5 cells, deﬁned as the ratio IC50/MIC; blank: not tested.
+* Flu: Fluconazole, Itra: Itraconazole, Doc: Docetaxel.
+C. Basset et al. / Phytochemistry 74 (2012) 166–172 169
+fungi and 8 pathogenic yeasts. The antifungal activities were com-
+pared to those of positive standards itraconazole and ﬂuconazole.
+Active compounds (MIC 6 64 lg/mL) were also tested towards
+MRC5 normal lung tissue cells and MDA-MB-435 metastatic mela-
+noma cells to evaluate their antifungal selectivity. Meanwhile,
+inactive compounds were tested against KB human cervical carci-
+noma cells to evaluate their hypothetical cytotoxicity.
+Of all the compounds tested, only 6, 11 and 12 showed strong
+antifungal activity, particularly in yeast growth inhibition. Com-
+pound 6 showed the best activity against Candida parapsilosis LMGO
+05 (MIC = 1.0 lg/mL), and compound 12was able to inhibit Candida
+albicansATCC10231, Candida parapsilosis LMGO05 and Candida kru-
+sei LMGO174 at a concentration of 2.0 lg/mL.Moreover, compound
+12 showed very high anti-yeast selectivities with index values of
+62.8 when measured with MRC5 cells and 32 with MDA-MB-435
+cells. In addition, the general anti-yeast activity of compound 6
+was particularly interesting, with selectivities >16 with MRC5 cells
+and ranging from 32 to 103 with MDA-MB-435 cells.
+On dermatophytes, the best antifungal activities were observed
+with gnetin E (11), which inhibited the growth of Trichophyton ru-
+brum LMGO 06 and Microsporum gypseum LMGO 10 at 2.0 lg/mL,
+with a selectivity index of 13 in MRC5 cells and 31 in MDA-MB-
+435 cells. Fluconazole inhibited the growth of the latter compound
+at 32 lg/mL. Considering the previously unreported compounds,
+spirotropin A (1) presented a weak antiproliferative activity on
+KB cells with 56% inhibition at 105 M.
+3. Concluding remarks
+In conclusion, we have isolated and fully characterised three
+previously unreported prenylated isoﬂavonoids (1–3) and three
+compounds that had never been isolated in the Leguminosae –
+Papilionoideae subfamily (11–13) as well as seven others typical
+from this subfamily. All compounds except 10 derived from the
+phenylpropanoid biosynthesis pathway mixed with subsequent
+addition of several malonyl-CoA (Du et al., 2010) and were gener-
+ally known to be phytoalexins or precursors of phytoalexins (Dixon
+and Ferreira, 2002; Lozovaya et al., 2007; Yamada et al., 2004). We
+demonstrated that several of these compounds were capable of
+inhibiting the growth of human pathogenic fungi and were pre-
+sumably synthesised by the tree for protection against fungi-med-
+iated degradation (Lozovaya et al., 2004; Naoumkina et al., 2007).
+Torti et al. (2001) pointed out that monodominance is only al-
+lowed by an assemblage of plant traits, not any single one. Our
+observations may account for the natural durability and mono-
+dominance of S. longifolia (Fonty et al., 2011) and suggest that
+chemical defenses are among the plant traits allowing it. In addi-
+tion, good antifungal activities and low cytotoxicities of piceatan-
+nol (6) and latifolol (12) indicated that these substances could
+inspire the search of new antifungal agents for the treatment of
+mycoses. Our study represents the ﬁrst chemical description of
+the Spirotropis genus and enriches chemotaxonomic information
+regarding the Leguminosae – Papilionoideae subfamily.
+4. Experimental
+4.1. General
+The optical rotations were measured on an Anton Paar MCP 300
+polarimeter, and the chiroptical properties were determined with a
+Jasco J-810 CD spectrometer. The UV spectra were recorded with a
+Varian CARY 100 apparatus. The infrared spectra were recorded
+with a FT-IR Perkin Elmer Spectrum 100 system, and melting
+points were measured with a Büchi B-540 apparatus. Melting
+points were not corrected. Column chromatography was con-
+ducted with silica gel Merck 60 (0.063–0.2 mm). Eluting solvents
+were hexane and ethyl acetate (VWR extraction grade), both dis-
+tilled before use, as well as methanol (VWR, analytical grade). Nu-
+clear Magnetic Resonance (NMR) spectra were recorded on a
+Varian 400MR spectrometer equipped with a 5 mm Auto X PGF
+1H/15N-31P inverse detection probe. NMR spectra were recorded
+at 400 MHz for 1H and at 100.6 MHz for 13C. Chemical shifts (d)
+are in ppm downﬁeld from tetramethylsilane, and coupling con-
+stants are in Hz. The s stands for singlet, d for doublet, t for triplet,
+and br for broad.
+HR-ESI-MS measurements were carried out on a quadrupole-
+time-of-ﬂight instrument (UltrOTOF-Q, BrukerDaltonics, Billerica,
+MA). Analytical HPLC was performed on a Supelco Discovery C18
+column (150  4.6 mm,5 lm)using aWaters systemequippedwith
+aW600 pump, aW2996 photodiode array absorbance detector, and
+aW2420 evaporative light scattering detector. The ﬂow ratewas set
+to 1 mL/min using a linear gradient of water mixedwith an increas-
+ing proportion of acetonitrile. Separations were performed on a
+Supelco Discovery C18 column (150  21.2 mm, 5 lm) using a
+Waters system equipped with a W600 pump and a W2487 dual
+wavelength UV detector. The samples were injected manually
+through a Rheodyne injector at a ﬂow rate of 15 mL/min, and the
+efﬂuents were monitored at 214 and 254 nm. Analytical TLC plates
+(Si gel 60 F 254) were purchased from Fisher Scientiﬁc (France).
+4.2. Plant material
+Roots and adventitious roots were collected at PK18 Piste de
+Saint-Elie, Sinnamary, French Guiana. Identiﬁcation was performed
+at the Cayenne herbarium, where a voucher has been deposited
+(CAY VE137).
+4.3. Extraction and isolation
+S. longifolia roots were dried, ﬁnely ground (1700 g) and ex-
+tracted with ethyl acetate (3  3 L) at room temperature for 24 h.
+The organic layers were collected by ﬁltration and combined and
+evaporated under reduced pressure to give the crude ethyl acetate
+extract (29.1 g). A portion of this extract (10.0 g) was partitioned in
+10 fractions (F01–F10) by column chromatography with a polarity
+gradient of hexane–CH2Cl2–AcOEt–EtOH. Fractions were tested on
+C. albicans ATCC 10231, and the most active fraction, F-05 (1.2 g),
+was further separated in 15 sub-fractions F05/01 to F05/15 by col-
+umn chromatography using a gradient of hexane–ethyl acetate. At
+this stage, lupeol (10, 85.0 mg, 146 ppm) was isolated in pure form.
+Sub-fractions F05/02 (56.0 mg) and F05/07 (53.0 mg) were puriﬁed
+by reverse-phase semi-preparative HPLC to give spirotropin A (1,
+2.3 mg, 3.9 ppm) and spirotropone (3, 1.0 mg, 1.7 ppm). Fraction
+F06 was also puriﬁed by RP-HPLC to yield spirotropin B (2,
+3.0 mg, 5.1 ppm), trans-resveratrol (5, 3.0 mg, 5.1 ppm), piceatan-
+nol (6, 8.0 mg, 13.7 ppm), daidzein (7, 1.0 mg, 1.7 ppm), genistein
+(8, 1.0 mg, 1.7 ppm), and isoprunetin (9, 5.5 mg, 9.4 ppm).
+Adventitious roots of S. longifolia were dried, ﬁnely ground
+(85.0 g) and extracted with ethyl acetate (3  400 mL) at room
+temperature for 24 h per extraction. After ﬁltration, the combined
+ethyl acetate fractions were evaporated to dryness (2.7 g). A por-
+tion of this crude extract (250 mg) was puriﬁed by RP-HPLC, allow-
+ing for the isolation of trans-oxyresveratrol (4, 1.5 mg, 0.019%),
+gnetin E (11, 1.7 mg, 0.022%), latifolol (12, 8.0 mg, 0.10%) and gne-
+tin D (13, 1.5 mg, 0.019%).
+4.4. Spirotropin A (2-hydroxy-8,9-methylenedioxy-20,20-
+dimethylpyrano-[50,60:4,3]-6a-prenyl-[6aS,11aS]-pterocarpan) (1)
+Pale yellow solid. Mp 193–194 C; ½a25D + 147.3 (AcOEt, c 0.16);
+CD [h]193.8 14.38, [h]207.0 31.17, [h]223.0 28.25, [h]241.0 25.17,
+170 C. Basset et al. / Phytochemistry 74 (2012) 166–172
+[h]288.3 2.92, [h]327.0 5.42 (MeCN, c 0.001); UV (MeCN) kmax nm
+(loge): 298 (0.99), 210 (2.70); IR (cm1): 3484, 2979, 2924, 2888,
+2866, 1740, 1643, 1572, 1473; 1H NMR (400 MHz, CD3OD, d
+ppm): see Table 1; 13C NMR (100.6 MHz, CDCl3, d ppm): see Table 1;
+HR-ESI-MS (positive) m/z: found 435.1794 [M+H]+; calcd for
+[C26H27O6]+: 435.1808.
+4.5. Spirotropin B (2-hydroxy-8,9-methylenedioxy-20,20-dimethyl-
+30,40-dihydropyrano-[50,60:4,3]-6a-prenyl-[6aS,11aS]-pterocarpan) (2)
+Pale yellow solid. ½a25D + 108 (AcOEt, c 0.054); CD [h]197.8 4.34,
+[h]214.5 2.95, [h]245.6 1.56, [h]241.0 25.17, [h]293.1 0.53 (MeCN, c
+0.001); UV (MeCN) kmax nm (loge): 309 (0.05); 1H NMR
+(400 MHz, CD3OD, d ppm): see Table 1; 13C NMR (100.6 MHz,
+CD3OD, d ppm): see Table 1; HR-ESI-MS (positive) m/z: found
+437.1961 [M+H]+; calcd for [C26H29O6]+: 437.1964.
+4.6. Spirotropone (5,7-dihydroxy-6,8-diprenyl-20 0 0 0,20 0 0 0-
+dimethylpyrano[50 0 0 0,60 0 0 0: 30,40]-isoﬂavone) (3)
+Pale yellow solid. UV (AcOEt) kmax nm (loge): 269 (1.27); 1H
+NMR (400 MHz, CDCl3, d ppm): see Table 2; 13C NMR
+(100.6 MHz, CDCl3, d ppm): see Table 2; HR-ESI-MS (positive) m/
+z: found 473.2323 [M+H]+; calcd for [C30H33O5]+: 473.2328.
+4.7. Microorganisms and media
+The species of human pathogenic microorganisms used in this
+study were ﬁlamentous dermatophytes M. gypseum LMGO 10,
+Microsporum canis (LMGO 25 and LMGO 22), T. rubrum (LMGO 06
+and LMGO 08), and Trichophyton mentagrophytes LMGO 09. Yeast
+species were C. albicans (ATCC 10231 and LMGO 102), C. parapsilo-
+sis (ATCC 22019 and LMGO 05), Candida glabrata LMGO 44, C. krusei
+LMGO 174, Candida tropicalis LMGO 35 and Cryptococcus gattii
+LMGO L1. LMGO (Laboratório de Micologia de Goiás) strains were
+clinical isolates from patients at the Federal University of Goiás
+Hospital. Strains were maintained on potato dextrose agar. All
+strains were cultured onto a new agar plate and incubated at
+28 C for 2 days (yeast) or 5 days (ﬁlamentous fungi) prior to any
+antimicrobial test.
+The strains used in cytotoxicity assays were KB cervical carci-
+noma cells, MRC5 normal lung tissue cells and MDA-MB-435 met-
+astatic melanoma cells provided by the Ciblothèque Cellulaire of the
+Institute (ICSN, Gif-sur-Yvette, France).
+4.8. Antifungal susceptibility assay by microdilution
+The standard microdilution test described by the Clinical and
+Laboratory Standards Institute guidelines M27-A3 and M38-A2
+was used to determine minimal inhibitory concentrations (MIC)
+against dermatophyte fungi and yeast (CLSI, 2008a,b; Melo e Silva
+et al., 2009). Pure compounds were tested at concentrations rang-
+ing from 64 to 0.125 lg/mL. Fluconazole and itraconazole (Sigma)
+were used as positive controls and tested at concentrations of 64–
+0.125 lg/mL and 16–0.031 lg/mL, respectively. The microplates
+were incubated at 32 C, and the results were observed after 5 days
+for ﬁlamentous fungi and 2 days for yeast. The MIC values reported
+in Table 3 refer to the lowest concentration preventing visible
+growth in the wells. All assays were conducted in triplicate.
+4.9. Cytotoxicity evaluation on mammalian cells
+The cytotoxic effect on MRC5, KB and MDA-MB-435 cells was
+monitored at the Laboratoire de Cultures Cellulaires, ICSN, Gif-sur-
+Yvette, France (Tempete et al., 1995). On KB cells, the percentage
+of cell growth inhibition was measured at a concentration of
+105 M and read after 72 h incubation. The compounds presenting
+antifungal activity (MIC 6 64 lg/mL) were tested against MRC5
+and MDA-MB-435 cells at concentrations of 128–0.25 lg/mL and
+read after 24 h incubation, allowing us to calculate their IC50 values
+and to evaluate their antifungal selectivity (IC50/MIC). Docetaxel
+(Sigma) was used as a positive control and tested at concentrations
+of 128–0.25 lg/mL against MRC5 and MDA-MB-435 cells as well as
+at 105 M against KB cells.
+Acknowledgments
+The authors gratefully acknowledge the Programme Amazonie of
+the CNRS (France), CAPES, CNPq, FAPESP and FAPDF (Brazil) for
+ﬁnancial support as well as J.L. Smock (IRD) for his kind help with
+plant collection.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at doi:10.1016/j.phytochem.2011.10.011.
+References
+Boralle, N., Gottlieb, H.E., Gottlieb, O.R., Kubitzki, K., Lopes, L.M.X., Yoshida, M.,
+Young, M.C.M., 1993. Oligostilbenoids from Gnetum venosum. Phytochemistry
+34, 1403–1407.
+CLSI, 2008a. Reference method for broth dilution antifungal susceptibility testing of
+ﬁlamentous fungi; Approved Standard, 2nd edn. Document M38-A2.
+CLSI, 2008b. Reference method for broth dilution antifungal susceptibility testing of
+yeasts; Approved Standard, 2nd edn. Document M27-A3.
+Dixon, R.A., Ferreira, D., 2002. Genistein. Phytochemistry 60, 205–211.
+Du, H., Huang, Y., Tang, Y., 2010. Genetic and metabolic engineering of isoﬂavonoid
+biosynthesis. App. Microbiol. Biotechnol. 86, 1293–1312.
+Fonty, E., Molino, J.-F., Prévost, M.F., Sabatier, D., 2011. A new case of neotropical
+monodominant forest: Spirotropis longifolia (Leguminosae – Papilionoideae) in
+French Guiana. J. Trop. Ecol. 27 (6), 641–644.
+Fotie, J., Bohle, D.S., Leimanis, M.L., Georges, E., Rukunga, G., Nkengfack, A.E., 2006.
+Lupeol long-chain fatty acid esters with antimalarial activity from Holarrhena
+ﬂoribunda. J. Nat. Prod. 69, 62–67.
+Iliya, I., Ali, Z., Tanaka, T., Iinuma, M., Furusawa, M., Nakaya, K.I., Murata, J., Darnaedi,
+D., 2002. Stilbenoids from the stem of Gnetum latifolium (Gnetaceae).
+Phytochemistry 61, 959–961.
+Kanchanapoom, T., Suga, K., Kasai, R., Yamasaki, K., Kamel, M.S., Mohamed, M.H.,
+2002. Stilbene and 2-arylbenzofuran glucosides from the rhizomes of
+Schoenocaulon ofﬁcinale. Chem. Pharm. Bull. 50, 863–865.
+Kiss, L., Kurtán, T., Antus, S., Bényei, A., 2003. Chiroptical properties and synthesis of
+enantiopure cis and trans pterocarpan skeleton. Chirality 15, 558–563.
+Kozerski, L., Kamienski, B., Kawecki, R., Urbanczyk-Lipkowska, Z., Bocian, W.,
+Bednarek, E., Sitkowski, J., Zakrzewska, K., Nielsen, K.T., Hansen, P.E., 2003.
+Solution and solid state 13C NMR and X-ray studies of genistein complexes with
+amines. Potential biological function of the C-7, C-5, and C-40-OH groups. Org.
+Biomol. Chem. 1, 3578–3585.
+Kulesh, N.I., Vasilevskaya, N.A., Veselova, M.V., Denisenko, V.A., Fedoreev, S.A., 2008.
+Minor polyphenols from Maackia amurensis wood. Chem. Nat. Compd. 44, 712–
+714.
+Li, S.R., Chen, P.Y., Chen, L.Y., Lo, Y.F., Tsai, I.L., Wang, E.C., 2009. Synthesis of haginin
+E, equol, daidzein, and formononetin from resorcinol via an isoﬂavene
+intermediate. Tetrahedron Lett. 50, 2121–2123.
+Lins, A.P., Ribeiro, M.N.D.S., Gottlieb, O.R., Gottlieb, H.E., 1982. Gnetins: resveratrol
+oligomers from Gnetum species. J. Nat. Prod. 45, 754–761.
+Lozovaya, V.V., Lygin, A.V., Zernova, O.V., Li, S., Hartman, G.L., Widholm, J.M., 2004.
+Isoﬂavonoid accumulation in soybean hairy roots upon treatment with
+Fusarium solani. Plant Physiol. Biochem. 42, 671–679.
+Lozovaya, V.V., Lygin, A.V., Zernova, O.V., Ulanov, A.V., Li, S., Hartman, G.L.,
+Widholm, J.M., 2007. Modiﬁcation of phenolic metabolism in soybean hairy
+roots through down regulation of chalcone synthase or isoﬂavone synthase.
+Planta 225, 665–679.
+Melo e Silva, F., De Paula, J.E., Espindola, L.S., 2009. Evaluation of the antifungal
+potential of Brazilian Cerrado medicinal plants. Mycoses 52, 511–517.
+Miyase, T., Sano, M., Yoshino, K., Nonaka, K., 1999. Antioxidants from Lespedeza
+homoloba (II). Phytochemistry 52, 311–319.
+Naoumkina, M., Farag, M.A., Sumner, L.W., Tang, Y., Liu, C.J., Dixon, R.A., 2007.
+Different mechanisms for phytoalexin induction by pathogen and wound
+signals in Medicago truncatula. Proc. Nat. Acad. Sci. USA 104, 17909–17915.
+Rodrigues, A.M.S., Theodoro, P.N.E.T., Eparvier, V., Basset, C., Silva, M.R.R.,
+Beauchêne, J., Espindola, L.S., Stien, D., 2010. Search for antifungal compounds
+from the wood of durable tropical trees. J. Nat. Prod. 73 (10), 2.
+C. Basset et al. / Phytochemistry 74 (2012) 166–172 171
+Royer, M., Herbette, G., Eparvier, V., Beauchène, J., Thibaut, B., Stien, D., 2010.
+Secondary metabolites of Bagassa guianensis Aubl. wood: a study of the
+chemotaxonomy of the Moraceae family. Phytochemistry 71, 1708–1713.
+Russell, G.B., Sirat, H.M., Sutherland, O.R.W., 1990. Isoﬂavones from root bark of
+gorse. Phytochemistry 29, 1287–1291.
+Tempete, C., Werner, G.H., Favre, F., Rojas, A., Langlois, N., 1995. In vitro cytostatic
+activity of 9-demethoxyporothramycin B. Eur. J. Med. Chem. 30, 647–650.
+Torti, S.D., Coley, P.D., Kursar, T.A., 2001. Causes and consequences of
+monodominance in tropical lowland forests. Am. Nat. 157, 141–153.
+Xiong, L.I., Wang, D., Ming-yu, X.I.A., Wang, Z.H., Wang, W.N., Cui, Z., 2009. Cytotoxic
+prenylated ﬂavonoids from the stem bark of Maackia amurensis. Chem. Pharm.
+Bull. 57, 302–306.
+Yamada, Y.M.A., Takeda, K., Takahashi, H., Ikegami, S., 2004. Assembled catalyst of
+palladium and non-cross-linked amphiphilic polymer ligand for the efﬁcient
+heterogeneous Heck reaction. Tetrahedron 60, 4097–4105.
+Young Han, S., Suck Lee, H., Hye Choi, D., Woon Hwang, J., Mo Yang, D., Jun, J.G.,
+2009. Efﬁcient total synthesis of piceatannol via (E)-selective Wittig-Horner
+reaction. Synth. Commun. 39, 1425–1432.
+172 C. Basset et al. / Phytochemistry 74 (2012) 166–172

@@ -1,0 +1,466 @@
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+53
+ANTICANCER CONSTITUENTS AND CYTOTOXIC ACTIVITY OF METHANOL-WATER 
+EXTRACT OF POLYGONUM BISTORTA L. 
+ 
+Azeem Intisar a, Lingyi Zhang a, Huiyang Luo a, J. Boima Kiazolu a, Runsheng Zhang b,  Weibing 
+Zhang *a, 
+ 
+aShanghai Key Laboratory of Functional Materials Chemistry, East China University of science 
+and Technology, Shanghai 200237, P. R. China bShanghai Key Laboratory of Crime Scene Evidence-
+State Key Laboratory Breeding Base of Crime Scene Evidence, Shanghai Institute of Forensic Science, 
+Shanghai 200083, P. R. China. 
+*E-mail: weibingzhang@ecust.edu.cn, azeemchemist@yahoo.com 
+ 
+ 
+ 
+ 
+Abstract 
+ 
+This study was specifically designed to identify anticancer constituents in methanol-water extract of Polygonum bistorta 
+L. and evaluate its cytotoxicity. For this purpose methanol-water (40:60 v/v) extract was subjected to conventional preparative 
+high pressure liquid chromatography and 13 fractions were obtained. Constituents of obtained fractions were separated and 
+identified with the help of GC-MS and LC-DAD-ESI-MS. Anticancer phenolic compounds such as gallic acid, protocatechuic 
+acid, p-hydroxybenzoic acid, chlorogenic acid, vanillic acid, syringic acid, catechol, 4-methyl catechol, syringol and pyrogallol 
+and fatty acids such as linoleic acid, myristic acid and palmitic acid were separated from different fractions. Fractions were 
+evaluated for their cytotoxic activity on a rarely studied human hepatocellular carcinoma cell line (HCCLM3). 11 fractions 
+showed good to strong cytotoxicity in a range of 200 µg/mL-800 µg/mL, whereas 2 fractions did not show any activity even at 
+800 µg/mL and no anticancer constituent was detected from them. 50 percent growth inhibition (GI50) values for five most active 
+fractions were calculated and results were in a range of 86.5 (±3) µg/mL-126.8 (±3) µg/mL. 3 out of these 5 most active fractions 
+were found to contain phenolic content in them whereas all other fractions containing phenolic content did possess cytotoxic 
+activity that may suggest the importance of phenolic constituents in anticancer activity. Moreover, the results also showed a 
+definite dose dependent relationship between amount of fractions and cytotoxic activity. 
+ 
+Key words: cytotoxicity, Polygonum bistorta, phenolic compounds, fatty acids, anticancer  activity. 
+ 
+ 
+Introduction 
+ 
+Polygonum bistorta L. (PB) belongs to the family Polygonaceae and is a well known traditional Chinese medicine. It is 
+used for various curative purposes in different parts of the world especially Asian (China, India, Pakistan, Singapore, Japan), 
+African, European and American countries. On the other hand, its roots and leaves are cooked and eaten as raw food in different 
+regions of Europe and America (Moerman et al., 1998; Couplan and Duke, 1998). In India and Pakistan, it has traditionally been 
+used in making heat clearing drinks and syrups. “Chinese Pharmacopoeia” (2005), and other online literature have also cited this 
+medicine as a single cure for various diseases such as dysentery with bloody stools, diarrhoea in acute gastroenteritis, 
+hematemesis, epitasis, leucorrhoea, cholera, scrofula, oral ulcer haemorrhoidal bleeding and acute respiratory infection with 
+cough and even snakebites. Previous literature on PB cites that it has anti-inflammatory (Duwiejua et al., 1994, 1999), 
+antibacterial (Liu et al., 2006; Khalid et al., 2011), antiviral, anti-mutative (Miki et al., 1995), antioxidant (Chang et al., 2009) 
+whereas Manoharan et al., (2007) evaluated it for cytotoxic activity by using solvent extraction technique and found strong 
+cytotoxic activity for its chloroform and hexane fractions and few of their sub-fractions. 
+PB has been widely studied for its chemical profiling and found to possess different classes of constituents such as 
+phenolics (Liu et al., 2004; Intisar et al., 2012), flavonoids (Smolarz, 2002), steroids (Sun et al., 2007), triterpenoids (Manoharan 
+et al., 2005; Sun et al., 2007) and tannins (Liu et al., 2006). High pressure preparative liquid chromatography is a technique that 
+has been used for decades for the separation, isolation and purification of bioactive plant constituents leading to their 
+identification by the use of mass spectroscopic techniques (Shang et al., 2010). In our research work, 40 % methanol-water extract 
+of PB was studied for the cytotoxic activity as it contains phenolic constituents (especially anticancer phenolic acids) that are 
+well-known compounds that possess anticancer activity (Cai et al., 2004; Gomes et al., 2003) as well as anticancer fatty acids 
+(Sagar and Das, 1995; Salerno and Smith, 1991). For this purpose, the extract was subjected to conventional preparative high 
+pressure liquid chromatography to obtain different fractions followed by the identification of their phenolic and fatty acid content 
+and evaluation of each fraction for cytotoxic activity against cancer line. The main aims of this study were the separation and 
+identification of anticancer constituents and evaluation of methanol-water extract of this plant for cytotoxic activity.  
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+54
+ 
+ 
+Figure 1: Structures of the phenolic compounds and fatty acids identified from 40 % methanol-water extract of Polygonum 
+bistorta L. 
+ 
+ 
+ 
+ 
+Materials and Methods 
+Chemicals and materials. 
+ 
+Methanol, ethanol and PBS were purchased from Sinopharm (Shanghai, China). DMEM (Dulbecco’s modified eagle 
+medium), FCS (foetal calf serum), penicillin and streptomycin were purchased from Sigma-Aldrich (Shanghai, China). Water 
+used in all experiments was purified by a Sartorius Arium 611 system (Goettingen, Germany). Healthy rhizomes of PB were 
+purchased from the local market of Lahore, Pakistan in January, 2011. Samples were identified by the “School of Pharmacy, East 
+China University of Science and Technology” as “Polygonum bistorta L.” All chemicals used in the experiments were of 
+analytical grade. 
+ 
+Instruments  
+ 
+Preparative HPLC system, consisted of an Elite HPLC system with a P270 constant pressure pump and a UV230+ 
+detector (equipped with a preparative flow cell), was provided by Dalian Elite Analytical Instruments Co., Ltd, (Dalian, China). 
+GC instrumentation from Agilent technologies (Shanghai, China), consisted of an Agilent 7890A GC system, an Agilent 7683B 
+auto-sampler and a split/splitless injector, was used during the chromatographic run coupled to 6975C mass spectrometer, 
+operating in electron ionization (EI) mode. HPLC system was a Waters ACQUITY UPLCTM and attached with a Quattro Micro 
+MS equipped with a DAD detector by Waters Technologies (Shanghai, China) was used. System operations and data acquisition 
+were performed by MassLynx NT software (v 4.1). 
+ 
+Extraction 
+ 
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+55
+PB rhizomes were dried, cleaned and ground to make a fine powder and passed through a 0.45 mm mesh. The sample 
+was extracted according to the previously reported method with minor modification (Intisar et al., 2012 ) as followed: 300 grams 
+of this fine powder was dissolved in 20 litres of 40% methanol-water solvent and heated at 50°С for 4 hours. The sample was 
+filtered through a 0.45 μm filter and concentrated by vacuum distillation. 
+ 
+Preparative chromatography conditions 
+ 
+ The preparative separation was performed on an ODS glass column (26 mm × 460 mm) with a particle size of 30 μm. 
+Pure water (A) and methanol (B) were used as the mobile phase. The optimized gradient elution program was 0~38 min: B 
+5%~18%, 38~76min: B 18%~28%, 76~95min: B 28~50%, 95~118min: B 50~85%, 118~123 min: B isocratic 85%. The flow rate 
+for the experiment was 30 mL/min and injection volume of 25 mL was used in each run. The detection wavelength was 280 nm 
+and the whole experiment was carried out at room temperature (25°C). 13 fractions were obtained. 
+ 
+GC-MS conditions for obtained fractions 
+ 
+All fractions obtained from preparative LC were dissolved in pure methanol and run through GC-MS. The separation 
+was performed by using an HP-5 fused silica capillary column (30 m × 0.25 mm ID × 0.25 μm film thickness) manufactured by 
+Agilent. The operating conditions used were a temperature gradient as followed: 60°C for 3 minutes and then increased at a rate 
+of 20°C/min  to 280°C and then held at 280°C for 15 minutes. An injection volume of 5μl was used in split mode (split ratio 
+1:30). Helium was used as carrier gas at a flowrate of 1 mL/min. The mass detector conditions were: transfer line temperature of 
+250°C and a solvent delay of 3 min were selected, the mass range m/z was 30~500 and a multi-channel plate voltage of 2200V 
+was used. The detector temperature was 280°C. The ion source temperature of 230°C and ionizing voltage of  70eV was used. 
+ 
+HPLC-DAD-ESI-MS conditions 
+ 
+ HPLC separation was  performed by using a Waters XTerra MS column (2.1 mm × 150 mm) with a particle size of 5 
+μm. Solvent A was 0.1% formic acid in water and solvent B was 0.1% formic acid in Acetronitrile (ACN). The gradient elution 
+program of 0~20 min: B 10%~30%, 20~30 min: B 30%~50% was used for the separation of fractions 3-12. The flow rate for the 
+experiment was 0.2 mL/min and injection volume was 2 μl. The detection wavelengths were calculated by DAD detector in a 
+range of 214 nm-360 nm. All experiments were carried out at room temperature (25°C). The ESI-MS was operated in negative ion 
+mode. ESI-MS conditions were as followed: capillary voltage and cone voltage were 3 kV and 15 V respectively, nitrogen was 
+used as a the desolvation gas at 600 L/h, source temperature and desolvation temperature were 120°C and 380°C, respectively. 
+The scan range was selected between 100~600 m/z.  
+ 
+Cell culture 
+ 
+Human hepatocellular carcinoma cell line (HCCLM3) with high metastatic capacity was obtained from cell bank of 
+Zhongshan Hospital (Shanghai, China) for performing cytotoxicity experiments. Cells were grown in Dulbecco’s modified 
+eagle’s medium (DMEM) with high glucose, containing 10% foetal calf serum (FCS) in a 5% CO2 humidified atmosphere at 
+37°C. The medium was supplied with penicillin (50 IU/mL) and streptomycin (50 µg/mL). 
+ 
+Cytotoxicity assay 
+ 
+Exponentially growing cells were seeded in 96-well microplates at a density of 3.5 × 103 cells per well in 100 µl of 
+culture medium and were allowed to adhere for 18 h before treatment. PBS was used as a negative control. Fractions were initially 
+dissolved in pure water and their final volumes were adjusted with PBS. Then increasing concentrations of these fractions were 
+evaluated against the selected cancer cell line. Three replicates were carried out for each dosage. Cells were incubated for 24 h in 
+the presence or absence of different amounts of fractions. Cytotoxicity was calculated using the Cell Counting Kit-8 (CCK-8) and 
+the absorbance was measured at 450 nm using a microplate reader. Percent cell viabilities were calculated against selected 
+concentrations. Cell survival curves were then calculated for the fractions showing strongest cytotoxic activities and 50 percent 
+growth inhibition (GI50) values were calculated from the curve for each fraction. GI50  was defined as the concentration at which 
+each cell line growth was inhibited by 50 percent. 
+ 
+ 
+Results and discussion 
+ 
+A simple water/methanol mobile phase was used to avoid any acidity or buffer content in the obtained fractions. 
+Different gradients and percentage compositions of  mobile phase were tried and other conditions were optimized to finally obtain 
+13 fractions as shown in Figure 2.  
+ 
+ 
+ 
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+56
+GC-MS and LC-DAD-ESI-MS analyses were applied and identified anticancer compounds from these fractions were 
+shown in the Table 1. Compounds were identified by matching their mass spectral data with NIST-08/NBS-75K library and the 
+retention index matching (http://webbook.nist.gov/chemistry/) for GC-MS analysis, while online massbank source 
+(http://www.massbank.jp/) and previous PB literature was used for LC-DAD-ESI-MS analysis. These data showed that PB is rich 
+in phenolic content. Considerable amounts (as assessed by chromatographic peak areas, but not quantified) of chlorogenic acid, 
+gallic acid, and relatively lower amounts of p-hydroxybenzoic acid, hydroquinone, vanillic acid, syringic acid, 4-methyl catechol, 
+syringol, catechol and pyrogallol were detected in fractions 1,2,3,5,6,7,8, whereas, anticancer fatty acids such as myristic acid, 
+palmitic acid and linoleic acid were identified from fractions 10, 11, 12. To the best of our knowledge, syringol and 4-methyl 
+catechol were identified for the first time from this plant.  
+In recent years, plant-derived bioactive substances especially anticancer ones have gained considerable attention 
+(Oueslati et al., 2012). Moreover, many plants containing phenolic compounds have been found to possess good anticancer 
+activity (Cai et al., 2004; Owen et al., 2000) and based on this fact plants rich in phenolic content have been considered as 
+interesting source of anticancer potential (Huang et al., 2009; Vuorela et al., 2005). This unidirectional literature and the 
+difference in the mode of previous cytotoxic evaluation of PB (on hexane and chloroform fractions) by Manoharan et al., (2007), 
+directed us towards the investigation of its methanol-water extract for identification of anticancer compounds especially phenolic 
+ones and anticancer activity.  
+ 
+ 
+                    Figure 2: Preparative high pressure liquid chromatogram showing 13 obtained fractions. 
+ 
+ 
+Table 1: Anticancer constituents identified from fractions (1-13). 
+Fraction No. Phenolic compounds identified by GC-MS/HPLC-DAD-MS 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+gallic acid, protocatechuic acid 
+p-hydroxy benzoic acid 
+chlorogenic acid  
+ND 
+pyrogallol 
+hydroquinone, vanillic acid 
+syringic acid, catechol 
+syringol, 4-methyl catechol 
+ND 
+myristic acid 
+palmitic acid 
+linoleic acid 
+ND 
+ND = No anticancer compound detected 
+ 
+ 
+ 
+The cytotoxicity of obtained fractions evaluated against human hepatocellular carcinoma cell line (HCCLM3) showed 
+strong cytotoxic activities for fractions 1, 7, 8, 9, 10 (50 µg/mL-400 µg/mL), while good activities for fractions 2, 3, 5, 6, 11, 12 
+(200 µg/mL-800 µg/mL), whereas almost no activity was found for fractions 4 and 13 even at a concentration of 800 µg/mL as 
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+57
+shown in Table 2. A curve was plotted between percent cell viability/survival and concentration for the fractions showing strong 
+activities, and 50 percent growth inhibition (GI50) values were calculated from this curve, according to the similar method 
+described in literature (Sylvestre et al., 2006). The curve is shown in Figure 3. The lowest GI50 values were found to be 86.5 (±3), 
+92.3 (±3), 118.9 (±3), 107.2 (±3), 126.5 (±3) for fractions 1, 7, 8, 9, 10, respectively. These values show strong activities of these 
+fractions against cancer cell line that may be due to the presence of phenolic compounds especially well-known anticancer 
+phenolic acids such as gallic acid and protocatechuic acid in fraction 1 (You et al., 2010; Yip et al., 2006), while syringic acid and 
+catechol in fraction 7 (Babich et al., 2003), and syringol and 4-methyl catechol in fraction 8 (Morita et al., 2003). On the other 
+hand, fractions 2,3 possessed p-hydroxybenzoic acid and chlorogenic acid respectively, where chlorogenic acid is a well known 
+anticancer phenolic acid (Kulisic-Bilusic et al., 2012; Marques et al., 2009) but fraction 2 showed sudden strong cytotoxicity at a 
+concentration of 800 µg/mL whereas fraction 3 showed cytoxicity between 400 µg/mL-800 µg/mL. Fraction 5 contained 
+pyrogallol, whereas 6 contained hydroquinone and vanillic acid and all three of them, especially pyrogallol, have been cited in 
+literature as anticancer agents (Yang, et al., 2009; Terasaka et al., 2005; Arisawa et al., 1984; Babich et al., 2003) and these 
+fractions showed good cytotoxicity at 800 µg/mL. Since, all fractions containing phenolic constituents showed good to strong 
+cytotoxic activity especially low GI50 values of fractions 1, 7, 8 may suggest the presence of a relationship of phenolic content and  
+ 
+          Table 2: Cytotoxic activity of obtained fractions (1-13).  
+Samples 
+Cell Viability (%) 
+at  
+50 µg/mL 
+Cell Viability (%) 
+at 
+100 µg/mL 
+ 
+Cell Viability 
+(%) at 
+200 µg/mL 
+ 
+Cell Viability (%) 
+at 
+400 µg/mL 
+ 
+Cell Viability 
+(%) at 
+800 µg/mL 
+ 
+ 
+Control (PBS) 
+Fraction 1 
+Fraction 2 
+Fraction 3 
+Fraction 4 
+Fraction 5 
+Fraction 6 
+Fraction 7 
+Fraction 8 
+Fraction 9 
+Fraction 10 
+Fraction 11 
+Fraction 12 
+Fraction 13 
+ 
+100 
+71.29 
+NT 
+NT 
+NT 
+NT 
+NT 
+83.67 
+90.52 
+74.91 
+74.25 
+NT 
+NT 
+NT 
+ 
+100 
+42.56 
+NT 
+NT 
+117.94 
+NT 
+NT 
+43.68 
+58.57 
+52.75 
+57.54 
+NT 
+NT 
+NT 
+ 
+100 
+4.48 
+NT 
+NT 
+117.10 
+NT 
+NT 
+18.29 
+14.56 
+15.99 
+30.72 
+NT 
+71.14 
+91.12 
+ 
+100 
+0 
+101.22 
+86.70 
+102.16 
+78.03 
+85.52 
+9.69 
+11.88 
+16.97 
+22.10 
+52.69 
+50.07 
+98.66 
+ 
+100 
+NT 
+14.00 
+25.90 
+98.11 
+33.03 
+54.82 
+NT 
+NT 
+NT 
+NT 
+34.99 
+NT 
+93.58 
+NT = not tested 
+ 
+ 
+ 
+Figure 3: Curves showing the dose-dependent relationship between percent cell viability/survival and concentration of most 
+active fractions 1, 7, 8, 9, 10. GI50 values were calculated from the curve for each of these specified fractions. 
+ 
+ 
+cytotoxicity. The cytotoxic activities of fractions 10, 11, 12 indicate the presence of other active compounds in Polygonum 
+bistorta L. such as fatty acids: myristic acid, especially linoleic acid  and palmitic acid (Sagar and Das, 1995; Salerno and Smith 
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+58
+1991) whereas low GI50 value of fraction 9 indicates the presence of other unknown active compounds present in it. Anticancer 
+activity of these 11 out of total 13 fractions and its anticancer constituents strongly showed the remarkable importance of this 
+plant in anticancer activity. 
+ 
+Conclusion 
+ 
+Anticancer phenolic compounds and fatty acids were identified from different fractions of methanol-water extract of 
+Polygonum bistorta L. 11 fractions out of 13 possessed good to strong cytotoxicity against HCCLM3 cancer cell line that 
+demonstrated good bioactivity of this herbal plant. Additionally, all of the fractions containing phenolic content showed good to 
+strong cytotoxic activity and 3 out of the 5 most active fractions also exhibited phenolic content that signifies the idea that 
+phenolic compounds containing plants can be interesting source of anticancer potential. However, further studies can be 
+conducted to identify the unknown active constituents to fully evaluate the anticancer importance and medicinal value of this 
+plant. Moreover, compounds like catechol may be dangerous at high concentration levels, hence it should be quantified to ensure 
+the safe use of this plant. 
+ 
+Acknowledgement 
+ 
+This work was kindly supported by “The 973 Project from the Ministry of Science and Technology of People’s 
+Republic of China (No. 2011CB910404)”, “The Fundamental Research Funds for the Central Universities of China 
+(WK1014042) and “The Science and Technology Commission of Shanghai Municipality (10dz2220500)” 
+ 
+References 
+ 
+1. Arisawa, M., Funayama, S., Pezzuto, J.M., Kinghorn, A.D., Cordell, G.A. and Farnsworth, N.R. (1984). Potential 
+anticancer agents XXXII. Hydroquinone from Ipomopsis aggregata. J. Nat. Prod., 47(2):  393-394. 
+2. Babich, H. and Visioli, F. (2003). In vitro cytotoxicity to human cells in culture of some phenolics from olive oil. 
+Farmaco. 58: 403-407.  
+3. Cai, Y.Z., Luo, Q., Sun, M. and Corke, H. (2004). Antioxidant activity and phenolic compounds of 112 traditional 
+chinese medicinal plants associated with anticancer. Life Sci., 74: 2157-2184. 
+4. Chang, X., Liu, Y.X. and Kang, W.Y. (2009). Antioxidant activity of extracts from Polygonum bistorta L. Fine Chem. 
+Interm. 39: 2.  
+5. Couplan, F. and Duke, J.A. (1998). The encyclopedia of edible plants of North America. Keats Publishing Inc., New 
+Canaan, Connecticut. pp 128 . 
+6. Duwiejua, M., Zeitlin, I.L., Gray, A.I. and Waterman, P.G. (1994). Anti-inflammatory activity of Polygonum bistorta, 
+Quaiacum officinale and Hamamelis virginiana in rats. J. Pharm. Pharmacol., 46: 286-290. 
+7. Duwiejua, M., Zeitlin, I.L., Gray, A.I. and Waterman, P.G. (1999). The anti-inflammatory compounds of Polygonum 
+bistorta: isolation and characterization. Planta Med., 65: 371-374. 
+8. Gomes, C.A., Girão, T., Andrade, J.L., Milhazes, N., Borges, F. and Marques, M.P.M. (2003). anticancer activity of 
+phenolic acids of natural or synthetic origin: A structure-activity study. J. Med. Chem., 46: 5395-5401. 
+9. Huang, W., Cai, Y.Z. and Zhang, Y. (2009). Natural phenolic compounds from medicinal herbs and dietary plants: 
+potential use for cancer prevention. Nutr. Cancer., 62(1): 1-20. http://webbook.nist.gov/chemistry/ 
+10. http://www.massbank.jp/ 
+11. Intisar, A., Kiazolu, J.B., Wang, Y., Zhang, L. and Zhang, W. (2012) Effect of mobile phase composition and pH on 
+the separation of rhizome of Polygonum bistorta. J. Liq. Chromatogr.  Relat. Technol. 35(7): 977-987. 
+12. Khalid A, Waseem A, Saadullah M, Rehman U-U-, Khiljee S, Sethi A, Asad MHHB, Rasool F, Waqas MK and 
+Murtaza G. (2011). Antibacterial activity analysis of extracts of various plants against gram-positive and -negative 
+bacteria. Afr. J. Pharm. Pharmacol. 5(7): 887-893. 
+13. Kulisic-Bilusic, T., Schmöller, I., Schnäbele, K., Siracusa, L. and Ruberto, G. (2012). The anticarcinogenic potential 
+of essential oil and aqueous infusion from caper (Capparis spinosa L.). Food Chem., 132: 261-267. 
+14. Liu, C.Q., Wang, X.L. and Zeng, J. (2006). Preliminary study on antimicrobial activity of Polygonum bistorta L. J. 
+Gannan Med. Univ., 26(4): 489-490. 
+15. Liu, X.Q., Chen, F.K., Wu, L.J., Wang, S.T. and Li, W.W. (2004). Studies on the chemical constituents of Polygonum 
+bistorta L. J. Shenyang Pharm. Univ. 3: 187-189 
+16. Liu, X.Q., Hua, H.M., Liu, J., Chen, F.K. and Wu, L.J. (2006). A new tannin-related compound from the rhizome of 
+Polygonum bistorta L. J. Asian Nat. Prod. Res., 8(4): 299-302. 
+17. Manoharan, K.P., Benny, T.K.H. and Yang, D. (2005). Cycloartane type triterpenoids from the rhizomes of 
+Polygonum bistorta. Phytochem., 66(19): 2304-2308. 
+18. Manoharan, K.P., Yang, D., Hsu, A. and Huat, B.T.K. (2007). Evaluation of Polygonum bistorta for anticancer 
+potential using selected cancer cell lines. J. Med. Chem., 3(2): 121-126. 
+19. Marques, V., Farah, A. (2009). Chlorogenic acids and related compounds in medicinal plants and infusions. Food 
+Chem., 113: 1370-1376.  
+Intisar et al., Afr J Tradit Complement Altern Med. (2013) 10(1):53-59 
+http://dx.doi.org/10.4314/ajtcam.v10i1.9 
+59
+20. Miki, N., A-Fu, W., Takahiko, S., Hisamitsu, N. and Hideaki, K. (1995). Effects of Chinese medicinal plant extracts 
+on mutagenecity of Trp-P-1. J. Nat. Med., 49: 329-331. 
+21. Moerman, D.E. (1998). Native American food plants: an ethnobotanical dictionary. Portland, Oregon: Timber Press 
+Inc., pp. 189. 
+22. Morita, K., Arimochi, H. and Ohnishi, Y. (2003). In vitro cytotoxicity of 4-methylcatechol in murine tumor cells: 
+induction of apoptotic cell death by extracellular pro-oxidant action. J. Pharmacol. Exp. Therap. 306: 317-323. 
+23. Owen, R.W., Giacosa, A., Hull, W.E., Haubner, A.R., Spiegelhalder, B. and Bartsch, H. (2000). The 
+antioxidant/anticancer potential of phenolic compounds isolated from olive oil. Eur.J. Cancer., 36: 1235-1247 
+24. Oueslati, S., Ksouri, R., Falleh, H., Pichette, A., Abdelly, C. and Legault, J. (2012). Phenolic content, antioxidant, 
+anti-inflammatory and anticancer activities of the edible halophyte Suaeda fruticosa Forssk. Food Chem., 132: 943–
+947. 
+25. Sagar, S.P. and Das, U.N. (1995). Cytotoxic action of cis-unsaturated fatty acids on human cervical carcinoma (HeLa) 
+cells in vitro. Prostaglandins, Leukotrienes and Essential Fatty Acids. 53(4): 287-299. 
+26. Salerno, J.W. and Smith, D.E. (1991). The use of sesame oil and other vegetable oils in the inhibition of human colon 
+cancer growth in vitro. Anticancer Res., 11(1): 209-215. 
+27. Shang, Y.F., Kim, S.M., Song, D.G., Pan, C.H., Lee, W.J. and Um, B.H. (2010). Isolation and identification of 
+antioxidant compounds from Ligularia fischeri. J. Food Sci., 75(6): C530-C535. 
+28. Smolarz, H.D. (2002). Comparative study on the free flavonoid aglycones in herbs of different species of Polygonum 
+L. Acta Pol. Pharm. Drug Res., 59(2): 145-148. 
+29. Sun, X.B., Zhao, P.H., Xu, Y.J., Sun, L.M., Cao, M.A. and Yuan, C.S. (2007). Chemical constituents from the roots of 
+Polygonum bistorta. Chem. Nat. Compd., 43(5): 563-566. 
+30. Sylvestre, M., Pichette, A., Longtin, A., Nagau, F. and Legault, J. (2006). Essential oil analysis and anticancer activity 
+of leaf essential oil of Croton flavens L. from Guadeloupe. J. Ethnopharmacol., 103: 99–102. 
+31. Terasaka, H., Morshed, S.R., Hashimoto, K., Sakagami, H. and Fujisawa, S. (2005). Hydroquinone-induced Apoptosis 
+in HL-60 Cells. Anticancer Res., 25: 161-170. 
+32. The State Pharmacopoeia Commission of People’s Republic of China 2005, “Pharmacopoeia of the People’s Republic 
+of China”, Chemical Industry Press, Beijing, China, Vol.(I): pp. 202. 
+33. Vuorela, S., Kreander, K., Karonen, M., Nieminen, R., Hämäläinen, M. and Galkin, A. (2005). Preclinical evaluation 
+of rapeseed, raspberry, and pine bark phenolics for health related effects. J. Agric. Food Chem., 53: 5922–5931. 
+34. Yang, C.J., Wang, C.S., Hung, J.U., Huang, H.W., Chia, Y.C., Wang, P.H., Weng, C.F. and Huang, M.S. (2009). 
+Pyrogallol induces G2-M arrest in human lung cancer cells and inhibits tumor growth in an animal model. Lung 
+Cancer, 66(2): 162-168. 
+35. Yip, E.C.H., Chan, A.S.L., Pang, H., Tam, Y.K. and Wong, Y.H. (2006). Protocatechuic acid induces cell death in 
+HepG2 hepatocellular carcinoma cells through a c-Jun N-terminal kinase-dependent mechanism. Cell Biol. Toxicol., 
+22(4): 293-302. 
+36. You, B.R., Moon, H.J., Han, Y.H. and Park, W.H. (2010). Gallic acid inhibits the growth of HeLa cervical cancer cells 
+via apoptosis and/or necrosis. Food Chem. Toxicol., 48(5): 1334-1340. 
+ 
+ 
+ 
+ 
+ 

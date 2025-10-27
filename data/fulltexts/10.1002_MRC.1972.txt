@@ -1,0 +1,291 @@
+MAGNETIC RESONANCE IN CHEMISTRY
+Magn. Reson. Chem. 2007; 45: 351–354
+Published online in Wiley InterScience
+(www.interscience.wiley.com) DOI: 10.1002/mrc.1972
+Note
+Unambiguous NMR spectral assignments of
+salvinorin A
+Jose´-Luis Giner,1∗ David J. Kiemle,1 Lukasz Kutrzeba2 and Jordan Zjawiony2
+1 Department of Chemistry, State University of New York - ESF, Syracuse, NY 13210, USA
+2 Department of Pharmacognosy, School of Pharmacy, University of Mississippi, University, MS 38677, USA
+Received 24 December 2006; Accepted 10 January 2007
+The complete assignments of the 1H and 13C NMR spectra of the hallucinogenic neoclerodane diterpenoid
+salvinorin A were determined in three different NMR solvents using HSQC, HMBC and COSY. Solvent
+systems are described that allow the resolution of all 1H signals. Virtual coupling was observed for the
+protons at C-2, C-3 and C-4 in the 600 MHz 1H spectrum in CDCl3. The complete assignments of the 1H
+and 13C NMR spectra of salvinorin B are also reported. Copyright  2007 John Wiley & Sons, Ltd.
+KEYWORDS: NMR; 1H; 13C; HMBC; natural products; diterpenoids; neoclerodanes; -opiate agonist
+The Mexican herb Salvia divinorum contains the neoclero-
+dane diterpenoid salvinorin A (1), a highly unusual drug
+that exerts its hallucinogenic effects as a potent agonist of
+the -opioid receptor.1 – 4 In connection with our biosyn-
+thetic studies of this molecule, the complete assignment of
+its 1H and 13C NMR spectra was necessary. In order to
+resolve inconsistencies between the NMR spectral assign-
+ments found in the two original reports of this substance5,6
+and a later publication,7 detailed NMR analysis was carried
+out using a 600-MHz instrument.
+The complete resolution of all NMR signals is desirable
+for the interpretation of isotopic labeling patterns resulting
+from biosynthetic experiments. However, while the signals
+of the 13C NMR spectrum in CDCl3 are well separated,
+considerable overlap is observed in the 1H spectrum even
+at 600 MHz. A general strategy for resolving overlapping
+signals is to change the NMR solvent or the temperature.
+However, the changes in the spectrum are difficult to predict
+and must be determined experimentally. With the goal of
+finding conditions in which the 1H signals were completely
+resolved, the solvents CDCl3, C6D6, C5D5N and CD32CO
+were evaluated at different temperatures. Acetone was not
+an optimal solvent because there was limited solubility and
+the residual solvent signal overlapped with signals of the
+sample. The H2O peak in acetone also appeared close to the
+signals of the sample. Pyridine, with three residual solvent
+peaks in the aromatic region, was difficult to shim. Again,
+the residual solvent signals overlapped with the signals of 1.
+Binary combinations of equal volumes of the four different
+solvents were tested with the exception of C5D5N/CD32CO.
+The combination CD32CO/CDCl3 1:1 at 30 °C was found
+ŁCorrespondence to: Jose´-Luis Giner, Department of Chemistry,
+State University of New York - ESF, Syracuse, NY 13210, USA.
+E-mail: jlginer@syr.edu
+to provide excellent resolution of all of the signals of 1, but
+the residual acetone peak came very close to the signal of the
+acetate methyl group and partly obscured another signal.
+Further combinations of variable compositions of CDCl3
+and C6D6 were explored, but in all cases the two signals
+near 1.15 ppm overlapped. The best resolution was finally
+achieved with a ternary mixture of equal volumes of CDCl3,
+C6D6, and C5D5N at 20 °C.
+To obtain the spectral assignments, two-dimensional
+NMR experiments (heteronuclear single quantum corre-
+lation (HSQC), heteronuclear multiple bond correlation
+(HMBC) and 1H–1H correlation spectrometry (COSY)) were
+carried out in three different solvents: in CDCl3 at 30 °C,
+CD32CO/CDCl3 1:1 at 30 °C and in CDCl3/C6D6/C5D5N
+1 : 1:1 at 20 °C. The HSQC spectrum provided correlations
+of the signals of all H atoms with their directly attached C
+atoms. The assignments of the signals were largely based on
+the HMBC spectrum which gives the 2 and 3 bond connectiv-
+ities (Fig. 1). As a starting point, the correlations of the C-19
+and C-20 methyl groups were determined. These two methyl
+groups, however, were not easy to distinguish since both
+had correlations to one quaternary center, two methines and
+one methylene; and of these one methine group (C-4 or C-8)
+was in both cases flanked by an ester carbonyl and a methy-
+lene group, while the other methine (C-10) was common to
+both methyl groups. The assignment of C-19 and C-20 was
+made on the basis of a strong correlation observed between
+one of the methylene groups (C-11) and the hydrogen at
+C-12. The C-12 hydrogen also showed HMBC correlations
+to C-13, -14, and -15 of the furan ring, as well as the lactone
+carbonyl (C-17). The signal of the C-2 hydrogen, on the other
+hand, showed correlations to the ketone carbonyl (C-1) and
+the acetate carbonyl (C-21), which in turn was correlated
+to the acetate methyl group (C-22). These assignments were
+Copyright  2007 John Wiley & Sons, Ltd.
+352 J.-L. Giner et al.
+O
+O
+O O
+H HO
+O
+CH3O O
+H
+H
+H
+O
+O
+O O
+H HO
+O
+CH3O O
+H
+H
+H
+1
+2
+4
+5
+10
+21
+22
+23
+18
+19
+20
+7
+8
+17
+12
+13
+14
+15
+16
+11
+9
+3
+6
+O
+O
+HO O
+H HO
+CH3O O
+H
+H
+H
+1
+(a) (b) (c)
+2
+Figure 1. (a) Structure of salvinorin A (1) and the numbering scheme; (b) Structure of salvinorin B (2); (c) Selected HMBC correlations
+for salvinorin A (1).
+5.155.20 ppm 2.752.80 ppm 2.302.35 ppm
+5.155.20 ppm 2.752.80 ppm 2.302.35 ppm
+(a) (b) (c)
+(d) (e) (f)
+Figure 2. (a–c) Observed 1H-NMR signals for salvinorin A (1) (600 MHz, CDCl3, 30 C); (d–f) Simulated 1H-NMR signals; (a) and
+(d) 2ˇ-H; (b) and (e) 4ˇ-H; (c) and (f) 3˛-H and 3˛-H.
+confirmed by additional HMBC correlations of the hydro-
+gen signal of the methoxy group (C-23) with the C-18 ester
+carbonyl, and of the hydrogen signal of C-8 with the lactone
+carbonyl (C-17). The 1H signals of C-7 were clearly identi-
+fied through correlations in the COSY spectrum with the C-8
+methine signal. Useful COSY correlations were also observed
+between the C-15 and C-14 methines, and between the C-3
+methylene group and the C-2 and C-4 methines. In this way,
+the assignments of the NMR signals were obtained in the
+three different solvents (Table 1).
+The assignment of the diastereotopic protons of the
+methylene groups (C-3, 6, 7 and 11) was made on the
+basis of J-values that were obtained by direct inspection
+of the 1H NMR spectrum. Thus, the axial H atoms displayed
+higher vicinal coupling constants than the equatorial H
+atoms as described by the Karplus relationship.8 The larger
+coupling constants between H atoms in anti-periplanar
+relationships were also evident in the COSY spectrum as
+stronger correlations between 3˛-H and the axial hydrogens
+at C-2 and C-4; the 11ˇ-H atom and 12˛-H; and between
+7˛-H and 8ˇ-H. In general, the axial H atoms also displayed
+greater upfield chemical shifts than the equatorial H atoms.
+The signals of 2ˇ-H and 4ˇ-H in the CDCl3 spectrum
+displayed different apparent coupling constants (J D 11.0,
+8.8 and J D 10.8, 6.0, respectively) than those observed in the
+other two solvents. This was shown to be a case of virtual
+coupling,8 which is due to the small difference between the
+chemical shifts of the diastereomeric H atoms at position 3
+in this solvent. Simulation of the spin system using Bruker
+NMR-Sim showed that the real J-values are similar to those
+obtained in the other two solvents (Fig. 2).
+Comparison with the spectral data published by Ortega
+et al.5 and by Valdes et al.6 showed a much better agreement
+of the present assignments with those of the latter paper.
+The tentative assignments of the 13C spectrum by Ortega
+et al. had the C-19 and C-20 methyls reversed, the C1- and
+C-18 carbonyls reversed, and C-11 incorrectly assigned, the
+only methylene signal to be assigned in that publication.5
+However, the assignment of the 1H spectrum, though
+incomplete, was correct. The 1H and 13C assignments of
+Valdes et al. are in excellent agreement with our data, and
+differed significantly only at positions 6 and 7, where the
+signal of the 7ˇ-H was assigned to 6ˇ-H.6 More recently
+published 1H NMR data had the assignments of the 7˛ and
+7ˇ H atoms reversed.7
+The NMR spectra of salvinorin B (2-desacetyl salvi-
+norin A) were also assigned (Table 1). Although some 1H
+signals overlapped in CDCl3, a good separation of signals
+was achieved using CD32CO at 40 °C, in which only one
+1H-signal was partially obscured by the residual solvent
+signal.
+Copyright  2007 John Wiley & Sons, Ltd. Magn. Reson. Chem. 2007; 45: 351–354
+DOI: 10.1002/mrc
+NMR Assignments of salvinorin A 353
+Table 1. 600 Mz 1H and 151 Mz 13C NMR assignments. All 1H signals are 1 H unless specified otherwise, the coupling constants are
+given in Hz and all 13C data are in boldface. The assignments were determined by HSQC, HMBC and COSY 2D NMR experiments
+Position
+Salvinorin
+Aa,b CDCl3 30 °C
+Salvinorin Ac
+CDCl3/CD32CO 1 : 1 30 °C
+Salvinorin Ad
+CDCl3/C6D6/C5D5N
+1 : 1 : 1 20 °C
+Salvinorin Bc
+CD32CO 40 °C
+1 201.96 202.77 202.36 210.40
+2 5.145 dd 12.6,7.5Ł 5.180 dd 12.5,7.5 5.116 dd 12.5,7.4 4.216 ddd 11.8,7.7,4.0
+75.04 75.43 75.38 75.16
+3˛ 2.301 ddd 13.4,13.0,12.6Ł 2.186 q 13.0 2.179 q 13.0 1.946 q 12.8
+3ˇ 2.313 ddd 13.4,7.5,3.5Ł 2.279 ddd 13.1,7.5,3.6 2.065 ddd 13.1,7.3,3.3 2.365 ddd 13.2,7.6,3.4
+30.82 31.13 30.98 35.74
+4 2.746 dd 13.0,3.5Ł 2.918 dd 13.4,3.5 2.607 dd 13.3,3.0 2.905 dd 13.5,3.3
+53.65 53.30 53.24 53.76
+5 42.12 42.21 42.04 43.05
+6˛ 1.803 dt 13.2,2.9 1.734 dt 13.5,3.5 1.538 dt 13.3,2.6 1.738 dt 13.0,3.4
+6ˇ 1.573 dt 3.7,13.3 1.647 dt 3.5,13.2 1.347 dt 3.4,13.2 1.678 dt 3.4,13.0
+38.21 38.17 38.11 38.76
+7˛ 1.640 ddt 12.8,2.8,13.1 1.574 dq 3.5,13.2 1.455 dq 2.8,13.3 1.613 dq 3.8,12.8
+7ˇ 2.166 dq 14.0,3.4 2.038 dq 14.2,3.3 2.007 dq 14.1,2.9 2.017 dq 13.9,3.4
+18.17 18.50 18.50 19.23
+8 2.067 dd 11.9,3.0 2.241 dd 11.7,2.8 1.791 dd 12.0,2.6 2.334 dd 11.8,2.8
+51.44 51.04 51.09 51.42
+9 35.50 35.68 35.52 36.26
+10 2.165 s 2.547 s 2.050 s 2.629 s
+64.17 63.30 63.27 63.45
+11˛ 2.514 dd 13.4,5.2 2.372 dd 13.5,5.3 2.300 dd 13.4,5.1 2.448 dd 13.5,5.4
+11ˇ 1.571 t 12.8 1.700 t 12.7 1.331 t 12.4 1.786 t 12.5
+43.48 43.34 43.11 44.08
+12 5.526 dd 11.6,5.1 5.510 dd 11.6,5.2 5.259 dd 11.8,5.1 5.597 dd 11.6,5.4
+73.03 72.00 71.87 72.28
+13 125.30 126.15 125.93 127.45
+14 6.373 s 6.413 s 6.148 s 6.527 s
+108.38 108.90 108.80 109.69
+15 7.390 t 1.7 7.394 t 1.5 7.164 t 1.5 7.518 t 1.6
+143.71 143.90 143.79 144.67
+16 7.408 s 7.460 s 7.174 s 7.596 s
+139.41 140.01 139.72 140.81
+17 171.04 171.36 171.01 171.54
+18 171.52 172.02 171.75 173.08
+19 1.121 s (3H) 1.065 s (3H) 0.899 s (3H) 1.077 s (3H)
+16.40 16.42 16.34 16.76
+20 1.455 s (3H) 1.395 s (3H) 1.247 s (3H) 1.446 s (3H)
+15.22 15.24 15.16 15.63
+21 169.92 169.62 169.66 –
+22 2.168 s (3H) 2.068 s (3H) 1.898 s (3H) –
+20.54 20.44 20.48 –
+23 3.726 s (3H) 3.667 s (3H) 3.444 s (3H) 3.683 s (3H)
+51.93 51.73 51.66 51.81
+a Coupling constants were obtained by direct inspection of the spectra, except those marked with an asterisk, which were obtained by
+simulation (see text).
+b 1H spectrum referenced to residual CHCl3 (7.26 ppm). 13C spectrum referenced to CDCl3 (77.0 ppm).
+c 1H spectrum referenced to residual CD3COCD2H (2.05 ppm). 13C spectrum referenced to CD32CO (29.84 ppm).
+d 1H spectrum referenced to residual C6D5H (7.15 ppm). 13C spectrum referenced to C6D6 (128.0 ppm).
+Copyright  2007 John Wiley & Sons, Ltd. Magn. Reson. Chem. 2007; 45: 351–354
+DOI: 10.1002/mrc
+354 J.-L. Giner et al.
+Acknowledgements
+The authors would like to acknowledge Dr Ruslan Bikbulatov and
+Ms Kelly Thomas for their contribution in isolation and purification
+of salvinorin A and preparation of salvinorin B. Work on salvinorin A
+derivatives and analogs is supported by NIH grants P20 RR 021929-
+01 (Center of Research Excellence in Natural Products Neuroscience)
+and R01 DA017204, and conducted in a facility constructed with
+support from research facilities improvement program grant C06
+RR-14503-01 from National Center for Research Resources, National
+Institutes of Health, Bethesda, MD, USA.
+REFERENCES
+1. Prisinzano TE. Life Sci. 2005; 78: 527.
+2. Yan F, Roth BL. Life Sci. 2004; 75: 2615.
+3. Sheffler DJ, Roth BL. Trends Pharmacol. Sci. 2003; 24: 107.
+4. Roth BL, Baner K, Westkaemper R, Siebert D, Rice KC,
+Steinberg S, Ernsberg P, Rothman RB. Proc. Natl. Acad. Sci. 2002;
+99: 11934.
+5. Ortega A, Blount JF, Manchand PS. J. Chem. Soc., Perkin Trans. I
+1982; 2505.
+6. Valdes LJ, Butler WM, Hatfield GM, Paul AG, Koreeda M. J. Org.
+Chem. 1984; 49: 4716.
+7. Munro TA, Rizzacasa MA, Roth BL, Toth BA, Yan F. J.Med. Chem.
+2005; 48: 345, (in supporting information).
+8. Silverstein RM, Webster FX, Kiemle DJ. Spectrometric Identification
+of Organic Compounds (7th edn). Wiley: Hoboken, 2005.
+Copyright  2007 John Wiley & Sons, Ltd. Magn. Reson. Chem. 2007; 45: 351–354
+DOI: 10.1002/mrc

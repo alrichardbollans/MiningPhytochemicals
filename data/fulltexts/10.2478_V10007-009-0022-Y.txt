@@ -1,0 +1,598 @@
+Illicium is a genus of flowering plants comprising 42 species of evergreen shrubs
+and small trees, and is the sole genus in the family Illiciaceae. The species are native to
+the tropical and subtropical regions of eastern and southeastern Asia, southeastern North
+America and the West Indies. Illicium anisatum (also known as I. religiosum, I. japonicum,
+shikimmi and skimmi) is distributed throughout eastern Asia where it is used as an orna-
+289
+Acta Pharm. 59 (2009) 289–300 Original research paper
+10.2478/v10007-009-0022-y
+Chemical composition, antioxidant, anti-elastase, and
+anti-inflammatory activities of Illicium anisatum essential oil
+JI-YOUNG KIM1
+SANG-SUK KIM2
+TAE-HEON OH2
+JONG SEOK BAIK2
+GWANPIL SONG1
+NAM HO LEE2
+CHANG-GU HYUN1*
+1Research Group for Cosmetic Materials
+Jeju Biodiversity Research Institute (JBRI)
+Jeju Hi-Tech Industry
+Development Institute (HiDI)
+Jeju 699-943, Korea
+2Department of Chemistry
+Cheju National University
+Jeju 690-756, Korea
+Accepted June 24, 2009
+The essential oil of air-dried Illicium anisatum (Illiciaceae),
+obtained by hydrodistillation was analyzed by gas chro-
+matography-mass spectrometry (GC–MS). Fifty-two com-
+ponents were identified in the essential oil and the main
+component was eucalyptol (21.8 %). The antioxidant and
+anti-elastase activities of the essential oil were also inve-
+stigated; the essential oil exhibited moderate DPPH sca-
+venging and anti-elastase activities. To clarify the mech-
+anism of the anti-inflammatory activities of I. anisatum es-
+sential oil (IAE), we evaluated whether it could modu-
+late the production of nitric oxide (NO) and prostaglan-
+din E2 (PGE2) by activated macrophages. The results indi-
+cate that IAE is an effective inhibitor of LPS-induced NO
+and PGE2 production in RAW 264.7 cells. These inhibi-
+tory activities were accompanied by dose-dependent de-
+creases in the expression of iNOS and COX-2 proteins and
+iNOS and COX-2 mRNA. In order to determine whether
+IAE can be safely applied to human skin, the cytotoxic
+effects of IAE were determined by colorimetric MTT as-
+says in human dermal fibroblast and keratinocyte HaCaT
+cells. IAE exhibited low cytotoxicity at 100 mg mL–1. Ba-
+sed on these results, we suggest that IAE may be consid-
+ered an anti-aging and anti-inflammatory candidate for
+cosmetic materials, but additional in vitro and in vivo tests
+have to be performed to prove its safety and efficacy.
+Keywords: Illicium anisatum, Illicium religiosum, Illicium ja-
+ponicum (Illiciaceae), chemical composition, cosmetics,
+DPPH, elastase, inflammation
+* Correspondence; e-mail: cghyun@jejuhidi.or.kr
+mental plant. It is also found in Jeju Island, Wan-do, and the southern parts of Korea. I.
+anisatum has a long history of use in folk medicine and is used as herbal tea to treat coli-
+cky pain in infants. However, it is scientifically recognized as highly poisonous and is
+therefore not fit for human consumption (1). Actually I. anisatum is a neurotoxic plant
+because it contains sesquiterpenic lactones. Recent studies have shown that various parts
+of I. anisatum possess the inhibitory activities of aldose reductase, lipase and glycation as
+well as antioxidant activity (2–4). The phenolic compounds of leaf oil include 1-allyl-2-me-
+thoxy-4,5-methylenedioxybenzene, 4-allyl-2,6-dimethoxyphenol, 1-allyl-3-methoxy-4-(3-
+-methylbut-2-enyloxy) benzene and 1-allyl-3,5-dimethoxy-4-(3-methylbut-2-enyloxy) ben-
+zene (5). Anisatin, a potent GABA antagonist can also be extracted from I. anisatum (6).
+However, the biological activity of L. anisatum essential oil (IAE) has not been described.
+Therefore, the objectives of the present study were to identify the main constituents of
+IAE and to evaluate their biological activities such as their antioxidant, anti-elastase, and
+anti-inflammatory activities and cytotoxicities for application to human skin.
+EXPERIMENTAL
+Plant material
+Voucher specimens were identified by Dr. G. Song and deposited in the herbarium
+of the Jeju Biodiversity Research Institute. The plant was identified immediately after
+collection (Joongmoon area of Jeju Island in November 2007) and air-dried at room tem-
+perature for later analysis.
+Isolation of the essential oil
+The air-dried leaves (1.4 kg) of I. anisatum were powdered and immersed in 4.0 L of
+distilled water in a Clevenger-type apparatus. The percentage yield of the oil from I. ani-
+satum was 0.24 % (V/m). The oil was kept at 4 °C in a sealed brown vial. For the injection
+(splitless), 10 mL of essential oil was diluted in 500 mL of CH2Cl2, and 1 mL of this diluted
+solution was injected.
+Gas chromatography-mass spectrometry
+Gas chromatographic analyses were performed on a Hewlett-Packard 6890N gas
+chromatograph equipped with an apolar DB-1HT column (30 m ´ 0.32 mm ´ 0.1 mm)
+and a split-splitless injection port (splitless mode). The temperature was set at 40 °C for
+5 min, ramped to 210 °C at 10 °C min–1 and kept at 250 °C for 28 min. Compounds were
+identified by their retention indices on columns and by GC-MS using a Hewlett-Packard
+MSD 5975 mass spectrometer at 70 eV.
+Determination of anti-oxidant activity
+The antioxidant reaction was carried out in 99.8 % ethanol containing 0.1 mmol L–1
+DPPH and essential oil (0.625 mg mL–1 to 10 mg mL–1). The scavenging effect against
+290
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+DPPH radical was assessed at room temperature for 10 min. The change in the absor-
+bance at 517 nm was measured in a 96-well reader.
+Elastase inhibition assay
+The activity of porcine pancreatic elastase type IV (Sigma Chem. Co., USA) was ex-
+amined using N-succinyl-Ala-Ala-Ala-p-nitroanilide as the substrate and by measuring
+the release of p-nitroaniline at 410 nm. The reaction was carried out in 200 mmol L–1
+Tris-HCl buffer (pH 8.0) containing 0.2 mmol L–1 N-Suc-(Ala)3-nitroanilide and 0.104 unit
+mL–1 elastase. Essential oil (0.625 mg mL–1 to 10 mg mL–1) was added to the reaction
+mixture, and the elastase inhibition was assessed at 25 °C. The reaction mixture was pre-
+-incubated for 10 min before addition of the substrate. The change in absorbance was
+measured at 410 nm in a 96-well reader.
+Cell culture
+The murine macrophage cell line RAW 264.7 was purchased from the Korean Cell
+Line Bank (KCLB; Korea). RAW 264.7 cells were cultured in Dulbecco’s modified Eagle’s
+medium (DMEM; GIBCO Inc., USA) supplemented with 100 U mL–1 of penicillin, 100 mg
+mL–1 of streptomycin and 10 % of fetal bovine serum (FBS, GIBCO Inc.). The cells were
+incubated in an atmosphere of 5 % CO2 at 37 °C and were subcultured every 3 days.
+Determination of nitric oxide (NO) production
+After pre-incubation of RAW 264.7 cells (1.5 ´ 105 cells mL–1) with lipopolysacha-
+ride (LPS, 1 mg mL–1) for 24 hours, the quantity of nitrite in the culture medium was
+measured as an indicator of NO production. Briefly, 100 mL of cell culture medium was
+mixed with 100 mL of Griess reagent (1 % sulfanilamide and 0.1 % naphthylethylenedi-
+amine dihydrochloride in 2.5 % phosphoric acid), the mixture was incubated at room
+temperature for 10 min, and the absorbance at 540 nm was measured in a microplate
+reader. Fresh culture medium was used as a blank in every experiment. The quantity of
+nitrite was determined from a sodium nitrite standard curve. All experiments were per-
+formed in triplicate.
+Lactate dehydrogenase (LDH) cytotoxicity assay
+RAW 264.7 cells (1.5 ´ 105 cells mL–1) plated in 96-well plates were pre-incubated
+for 18 h and then treated with LPS (1 mg mL–1) plus aliquots of the essential oil (25, 50,
+and 100 mg mL–1) at 37 °C for 24 h. The release of lactate dehydrogenase (LDH) from
+RAW 264.7 cells was used to detect cytotoxicity and was measured at the end of each
+proliferation experiment. LDH leakage is a means of measuring membrane integrity as a
+function of the amount of cytoplasmic LDH released from the cytosol into the medium.
+LDH activity was determined from the production of NADH during the conversion of
+lactate to pyruvate (7, 8) and was measured using an LDH cytotoxicity detection kit
+(Promega, USA). Briefly, the culture medium was centrifuged at 12,000 rpm for 3 min at
+room temperature. The cell-free culture medium (50 mL) was then collected and incu-
+bated with 50 mL of the reaction mixture from the cytotoxicity detection kit for 30 min at
+291
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+room temperature in the dark. 1 mol mL–1 HCl (50 mL) was added to each well to stop
+the enzymatic reaction. The optical density of the solution at a wavelength of 490 nm
+was then measured using an ELISA plate reader. Percent cytotoxicity was determined
+relative to the control group. All experiments were performed in triplicate.
+Determination of PGE2 production
+Cells were treated with LPS (1 mg mL–1) for 24 h to allow cytokine production. The
+PGE2 concentration in the culture medium was quantified using a competitive enzyme
+immunoassay kit (R&D Systems, USA) according to the manufacturer’s instructions.
+The production of PGE2 was measured relative to that following control treatment. All
+experiments were performed in triplicate.
+RNA isolation and RT-PCR analysis
+Total RNA from LPS-treated RAW 264.7 cells was prepared with Tri-Reagent (MRC,
+USA) according to the manufacturer’s protocol. RNAwas stored at –70 °C until use. One
+mg RNA was reverse transcribed with M-MuLV reverse transcriptase (Promega, USA),
+oligo dT-18 primer, dNTP (0.5 mmol mL–1) and 1 U RNase inhibitor. The reaction cocktail
+was sequentially incubated at 70 °C for 5 min, 25 °C for 5 min, and 37 °C for 60 min, and
+M-MuLV reverse transcriptase was then inactivated by heating at 70 °C for 10 min. Poly-
+merase chain reaction (PCR) was performed in reaction buffer [cDNA, 1.25 U Taq DNA
+polymerase (Promega), 3’- and 5’-primer (50 mmol mL–1 each) and 200 mmol mL–1 dNTP in
+200 mmol mL–1 Tris-HCl buffer (pH 8.4) containing 500 mmol mL–1 KCl and 1–4 mmol
+mL–1 MgCl2]. PCR was performed in a DNA gene cycler (BIO-RAD, USA) with amplifi-
+cation for 30 cycles of 94 °C for 45 s (denaturing), 60–65 °C for 45 s (annealing) and 72 °C
+for 1 min (primer extension). The primers used in this study were: b-actin (forward primer
+5’-GTGGGCCGCCCTAGGCACCAG-3’ and reverse primer 5’-GGAGGAAGAGGATGC-
+GGCAGT-3’), iNOS (forward primer 5’-CCCTTCCGAAGTTTCTGGCAGCAGC-3’ and
+reverse primer 5’-GGCTGTCAGAGCCTCGTGGCTTTGG-3’), COX-2 (forward primer
+5’-CACTACATCCTGACCCACTT-3’ and reverse primer 5’-ATGCTCCTGCTTGAGTATGT-
+-3’). PCR products were electrophoresed in 1.5 % agarose gels and stained with ethidium
+bromide. The b-actin, iNOS and COX-2 primers produced the expected amplified prod-
+ucts of 603, 496 and 696 bp, respectively.
+Immunoblotting
+RAW 264.7 cells were pre-incubated for 18 h and then stimulated with LPS (1 mg mL–1)
+in the presence of test materials for 24 h. After incubation, the cells were collected and
+washed twice with cold PBS (phosphate-buffered saline). Cells were lysed in lysis buffer
+[50 mmol mL–1 Tris-HCl (pH 7.5), 150 mmol mL–1 NaCl, 1% Nonidet P-40, 2 mmol mL–1
+EDTA, 1 mmol mL–1 EGTA, 10 mmol mL–1 NaF, 1 mmol mL–1 dithiothreitol, 1 mmol mL–1
+phenylmethylsulfonyl fluoride, 25 mg mL–1 aprotinin, 25 mg mL–1 leupeptin] and kept on
+ice for 30 min. The cell lysates were centrifuged at 12000´g at 4 °C for 15 min and the
+supernatants were stored at –70 °C until use. Protein concentration was measured by the
+Bradford method (9). Aliquots of the lysates (30–50 mg of protein) were separated on
+8–12 % SDS-polyacrylamide gels and transferred onto polyvinylidene fluoride (PVDF)
+292
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+membranes (BIO-RAD) with glycine transfer buffer [192 mmol mL–1 glycine, 25 mmol
+mL–1 Tris-HCl (pH 8.8), 20 % MeOH (V/V)]. After blocking nonspecific sites with 5 %
+nonfat dried milk, the membranes were incubated with specific primary mouse mono-
+clonal anti-iNOS Ab (1:1000, Calbiochem, USA) or rabbit polyclonal anti-COX-2 Ab (1:1000,
+BD Biosciences Pharmingen, USA) at 4 °C overnight. Each membrane was further incu-
+bated for 30 min with a secondary peroxidase-conjugated goat IgG (1:5000, Amersham
+Pharmacia Biotech, UK) to mouse or rabbit, respectively. Immunoactive proteins were
+detected using an enhanced chemiluminescence (ECL) Western blotting detection kit
+(Amersham Biosciences, USA).
+Cytotoxicity assay of I. anisatum essential oil
+Human normal fibroblast and HaCaT cells were cultured in DMEM medium con-
+taining 10 % fetal bovine serum and 1 % penicillin-streptomycin at 37 °C in a humidified
+95 % air/5 % CO2 atmosphere. Cells were seeded on 96-well plates and drug treatment
+began 24 h after seeding. The general viability of cultured cells was determined by the
+3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2H-tetrazolium bromide (MTT) assay, in
+which MTT was reduced to formazan in viable cells. After human normal fibroblast and
+HaCaT cells were incubated with various concentrations of IAE for 48 h at 37 °C in a 5 %
+CO2 atmosphere, MTT (1 mg mL–1 in PBS) was added to each well in a 1/10 volume of
+medium. Cells were incubated at 37 °C for 3 h, and dimethylsulfoxide (DMSO) was added
+to dissolve the formazan crystals. The absorbance was then measured at 570 nm with a
+spectrophotometer (PowerWave X340, Bio-Tek Instruments, Inc., USA).
+Statistical analysis
+Student’s t-test and one-way ANOVA were used to determine the statistical signifi-
+cance of differences between the values for the various experimental and control groups.
+Data are expressed as mean ´ standard errors (SEM) and the results were taken from at
+least three independent experiments performed in triplicate.
+RESULTS AND DISCUSSION
+Chemical composition of the essential oil
+The general chemical profile of the essential oil, the percentage content, and the re-
+tention indices of the constituents are summarized in Table I. A total of 52 volatile con-
+stituents were tentatively identified on the basis of their mass spectra, which were com-
+pared to those in the literature. The retention indices were calculated using a homologous
+series of n-alkanes C6–C25. The peak areas of individual compounds were related to total
+peak areas of compounds detected by GC. Only the components with matches exceed-
+ing 80 %, which represented about 85.6 % of the essential oil from I. anisatum, were char-
+acterized. Eucalyptol (21.8 %), sabinene (5.3 %), a-terpinenyl acetate (4.9 %), kaurene
+(4.5 %), isopimaradiene (3.2 %), safrol (2.7 %), b-linalool (2.6 %), d-cadinene (2.2 %),
+a-cadinol (2.2), and terpene-4-ol (1.9 %) were the main constituents of the essential oil of
+293
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+294
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+Table I. Identified components in the essential oil of I. anisatum
+Constituent
+Retention time
+(min)
+Retention
+index
+Peak area
+(%)
+Toluene 2.142 782.7 1.2
+a-Thujene 5.144 913.2 0.2
+a-Pinene 5.293 916.8 1.8
+Camphene 5.662 925.6 0.5
+Sabinene 6.720 950.7 5.3
+b-Myrcene 7.777 975.9 0.7
+a-Terpinene 8.692 997.7 1.3
+o-Cymene 8.912 1002.1 0.2
+Eucalyptol 9.284 1008.6 21.8
+Limonene 9.369 1010.1 1.1
+trans-b-Ocimene 10.631 1032.0 0.2
+g-Terpinene 10.647 1032.3 2.0
+a-Terpinolene 12.493 1064.3 0.6
+b-Linalool 13.455 1081.0 2.6
+Camphor 14.399 1097.4 0.3
+Terpene-4-ol 17.307 1143.3 1.9
+a-Terpineol 18.134 1156.2 1.0
+Safrol 23.703 1243.7 2.7
+Bornyl acetate 24.171 1251.1 0.3
+b-Phellandrene 26.248 1283.8 0.6
+Eugenol 28.170 1314.5 0.8
+a-Terpinenyl acetate 28.446 1318.9 4.9
+a-Copaene 30.121 1345.9 0.5
+b-Bourbonene 30.385 1350.2 0.3
+Eremophilene 31.145 1362.4 0.2
+b-Caryophyllene 32.247 1380.2 1.7
+a-Humulene 34.140 1409.6 0.4
+Germacrene D 35.800 1433.6 1.7
+Bicyclogermacrene 36.819 1448.3 0.5
+Germacrene A 37.232 1454.3 0.4
+a-Amorphene 38.104 1466.9 0.8
+d-Cadinene 39.199 1482.7 2.2
+Caryophyllene oxide 41.865 1521.3 0.5
+Diethyl phthalate 42.547 1542.7 1.3
+2,3,5,6-Tetramethylanisole 42.868 1549.0 0.4
+Methoxyeugenol 43.336 1558.3 0.5
+Cubenene 43.625 1564.0 0.2
+I. anisatum. In contrast, the main compounds identified by Cook and Howard (10) were
+cineole (18.1 %), linalool (10.1 %), methyleugenol (9.8 %), a-terpinenyl acetate (6.8 %), and
+safrol (6.6 %). This difference in the main components may be due to the provenance of
+the plant, harvest time or development stage, extraction technique, or the use of fresh or
+dried plant material. All of these factors influence the chemical composition and biologi-
+cal activity.
+Anti-elastase and antioxidant activities of the essential oil
+IAE was investigated for elastase inhibition. In this assay, IAE produced more than
+70 % inhibition at 2.5 mg mL–1. In order to determine the IC50 value for IAE, we con-
+ducted experiments to assess the dose-response relationships. The IC50 value for IAE was
+1.79 mg mL–1. IAE was also investigated in a DPPH assay. In this assay, IAE had good
+antioxidant activity (IC50, 3.83 mg mL–1). These activities can be attributed to the pres-
+ence of eucalyptol, sabinene, a-terpinenyl acetate, kaurene, isopimaradiene, safrol and
+b-linalool. Considering the different groups of chemical compounds present in IAE, it is
+most likely that the biological activity is attributable to a synergism between components.
+Eucalyptol and kaurene have been reported to have significant anti-oxidant activity (11–13).
+Effects of IAE on LPS-induced NO and PGE2 production and cell viability
+To investigate the effect of IAE on NO production, we measured the accumulation
+of nitrite, a stable oxidized product of NO, in culture media. NO production was exam-
+ined in RAW 264.7 cells stimulated with LPS for 24 h in the presence or absence of IAE.
+295
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+t-Muurolol 45.198 1595.2 1.8
+Copaene 45.349 1598.2 0.4
+a-Cadinol 45.638 1605.9 2.2
+2-Hydroxy-4-isopropyl-7-methoxytropone 48.387 1687.4 1.1
+Isoeugenol E 48.575 1693.0 0.5
+2-Methylthio-3,4-dihydronaphtho[2,1-c]thiophene 50.222 1757.4 0.6
+6-Allyl-1,3-benzodioxol-5-ol 51.053 1791.2 0.4
+3,6-Dimethoxy-2-ethylbenzalaldehyde 51.560 1813.0 2.7
+Ent-pimara-8(14),15-diene 53.664 1907.8 2.8
+Isopimaradiene 54.226 1936.3 3.2
+Pimara-8(9),15-diene 54.733 1962.0 0.1
+Kaurene 54.948 1972.9 4.5
+Abietatriene 55.338 1992.7 0.2
+2’,3’-Dimethyl-2,3,4,5,6-pentafluorobiphenyl 55.928 1999.2 1.4
+Ferruginol 59.460 2221.4 0.1
+Total 85.6
+The GC/MS retention indices were calculated using a homologous series of n-alkanes C6-C25. Components
+were tentatively identified based on library and literature searches and only those components showing
+matches exceeding 80 % were selected.
+Nitrite levels in LPS-stimulated cells increased significantly compared to control cells.
+As shown in Fig. 1a, IAE (25, 50 and 100 mg mL–1) inhibited markedly and dose-depend-
+ently the LPS-induced NO production by RAW 264.7 cells. There was no basal NO pro-
+duction in cells incubated only with IAE without LPS (data not shown). The numbers of
+viable activated macrophages were not altered by IAE as determined by LDH assays, indi-
+cating that the inhibition of NO synthesis by IAE was not simply due to cytotoxic effects.
+We further examined the effects of IAE on PGE2 production in LPS-stimulated RAW
+264.7 macrophages. When macrophages were stimulated with LPS (1 mg mL–1) for 24 h,
+the levels of PGE2 increased in the culture medium. As shown in Fig. 1b, IAE (25, 50,
+and 100 mg mL–1) suppressed the LPS-induced PGE2 production in a dose-dependent
+manner.
+Effects of IAE on LPS-induced iNOS and COX-2 protein and mRNA expressions
+Western blot and RT-PCR analyses were performed to determine whether the inhibi-
+tory effects of IAE on pro-inflammatory mediators (NO and PGE2) were related to the
+modulation of iNOS and COX-2 expression. In unstimulated RAW 264.7 cells, iNOS and
+COX-2 protein and mRNA were not detected, but LPS remarkably upregulated their pro-
+296
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+No production (%)
+LDH release (%)
+N
+o
+p
+ro
+d
+u
+ct
+io
+n
+(%
+)
+P
+G
+E
+re
+le
+a
+se
+(%
+)
+0
+0
+20
+20
+40
+40
+60
+60
+80
+80
+100
+100
+120
+120
+LPS(–)
+LPS(–)
+LPS(+)
+LPS(+)
+25
+25
+50
+50
+100
+100
+Concentration ( g mL )m
+–1
+Concentration ( g mL )m
+–1
+L
+D
+H
+re
+le
+a
+se
+(%
+)
+0
+20
+40
+60
+80
+100
+120
+a)
+b)
+a
+b
+a
+b
+2
+Fig. 1. Inhibitory effect of IAE on cell viability and nitric oxide and PGE2 production in RAW 264.7
+cells. Values are the mean ± SEM of triplicate experiments. a) p < 0.05; b) p < 0.01.
+tein levels and pre-treatment with IAE inhibited these upregulations. On the other hand,
+IAE did not affect the expression of b-actin, a housekeeping gene. As shown in Fig. 2a,
+IAE reduced the expression of iNOS protein in a dose-dependent manner. Since the
+amounts of iNOS protein correlated with NO accumulation, these results suggest that
+IAE inhibited NO production by reducing the iNOS protein expression. We also found
+that the amount of the 72-kDa COX-2 protein was increased by LPS and this increase
+was dose-dependently antagonized by the IAE (at 20, 50, and 100 mg mL–1).
+To further determine whether the inhibition of LPS-stimulated NO and PGE2 pro-
+duction by IAE was mediated by the regulation of iNOS and COX-2 expression, RT-PCR
+analyses were performed. As shown in Fig. 2b, the expressions of iNOS and COX-2
+mRNA were significantly elevated in macrophages treated with LPS (1 mg mL–1) com-
+pared to unstimulated cells (control). RT-PCR analyses revealed that IAE reduced iNOS
+and COX-2 mRNA without affecting the mRNA of b-actin, a housekeeping protein. The
+IAE also reduced the expression of iNOS and COX-2 protein in a dose-dependent man-
+ner. In general, these results indicate that the inhibitory effects of IAE on LPS-induced
+NO and PGE2 production are caused by iNOS and COX-2 suppression. Furthermore, the
+RT-PCR analyses indicate that mRNA levels of iNOS and COX-2 correlate with their
+protein levels. Therefore, the inhibitory effect of IAE on iNOS and COX-2 gene expres-
+sion appears to be one of the mechanisms of the anti-inflammatory action of IAE. In con-
+clusion, IAE actively suppresses the expression of genes implicated in inflammation.
+Cytotoxicity assay of IAE
+We examined the cytotoxic effects of IAE on human dermal fibroblasts and kera-
+tinocyte HaCaT cells. The essential oil exhibited low cytotoxicity in both fibroblast and
+297
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+LPS (1 g mL )m –1
+Oil ( g mL )m –1
+iNOS 496 bp
+COX-2 696 bp
+b-actin 603 bp
+–
+–
++
+–
++
+25
++
+50
++
+100
+b)
+LPS (1 g mL )m –1
+Oil ( g mL )m –1
+iNOS 130 kDa
+COX-2 72 kDa
+b-actin 42 kDa
+–
+–
++
+–
++
+25
++
+50
++
+100
+a)
+Fig. 2. Inhibitory effect of IAE on: a) protein and b) mRNA expression of iNOS and COX-2 in RAW
+264.7 cells.
+HaCaT cells at concentrations below 100 mg mL–1 (Fig. 3). Based on these results, we have
+concluded that IAE may be introduced as a possible therapeutic agent for skin health.
+CONCLUSION
+In conclusion, we demonstrated that IAE has good antioxidant, anti-elastase and
+anti-inflammatory effects and low cytotoxicity in human cell lines. Therefore, according
+to these results, we suggest that IAE may be employed as an effective therapeutic agent
+to promote skin health. To the best of our knowledge, this is the first report providing a
+scientific basis for the cosmetic use of IAE.
+Acknowledgments. – This research was supported by the Regional Technology Inno-
+vation Program (RTI04-02-07), which is managed by the Ministry of Knowledge and
+Economy, Korea.
+298
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+IAE
+(12.5 g mL )m –1
+IAE
+(12.5 g mL )m –1
+IAE
+(25 g mL )m –1
+IAE
+(25 g mL )m –1
+IAE
+(50 g mL )m –1
+IAE
+(50 g mL )m –1
+IAE
+(100 g mL )m –1
+IAE
+(100 g mL )m –1
+120
+120
+100
+100
+80
+80
+60
+60
+40
+40
+20
+20
+0
+0
+C
+y
+to
+to
+x
+ic
+it
+y
+(%
+)
+C
+y
+to
+to
+x
+ic
+it
+y
+(%
+)
+a)
+b)
+Control
+Control
+Fig. 3. Cell viabilities of: a) human normal fibroblast and b) HaCaT cells treated with IAE.
+REFERENCES
+1. P. Minodier, P. Pommier, E. Moulène, K. Retornaz, N. Prost and L. Deharo, Star anise poisoning
+in infants, Arch. Pediatr. 10 (2003) 619–621; DOI: 10.1016/S0929-693X(03)00274-4.
+2. H. Y. Kim and J. H. Oh, Screening of Korean forest plants for rat lens aldose reductase inhibi-
+tion, Biosci. Biotechnol. Biochem. 63 (1999) 184–188; DOI: 10.1271/bbb.63.184.
+3. H. Y. Kim and K. Kim, Protein glycation inhibitory and antioxidative activities of some plant
+extracts in vitro, J. Agric. Food Chem. 51 (2003) 1586-1591; DOI: 10.1021/jf020850t.
+4. H. Y. Kim and M. H. Kang, Screening of Korean medicinal plants for lipase inhibitory activity,
+Phytother. Res. 19 (2005) 359–361; DOI: 10.1002/ptr.1592.
+5. M. Shibuya, K. Abe, Y. Nakahashi and S. Kubota, Phenolic components from leaf oil of Illicium
+anisatum L., Chem. Pharm. Bull. 26 (1978) 2671–2673; DOI: 10.1248/cpb.26.2671.
+6. Y. Kudo, J. I. Oka and K. Yamada, Anisatin, a potent GABA antagonist, isolated from Illicium
+anisatum, Neurosci. Lett. 25 (1981) 83–88; DOI: 10.1016/0304-3940(81)90105-1.
+7. J. Y. Kor and D. W. Choi, Quantitative determination of glutamate mediated cortical neuronal
+injury in cell culture by lactate dehydrogenase efflux assay, J. Neurosci. Meth. 20 (1987) 83–89;
+DOI: 10.1016/0165-0270(87)90041-0.
+8. M. Fernández, J. C. Ríos, A. Jos and G. Repetto, Comparative cytotoxicity of alachlor on RTG-2
+trout and SH-SY5Y human cells, Arch. Environ. Contam. Toxicol. 51 (2006) 515–520; DOI: 10.1007/
+s00244-005-0086-8.
+9. M. M. Bradford, A rapid and sensitive method for the quantitation of microgram quantities of
+protein utilizing the principle of protein-dye binding, Anal. Biochem. 72 (1976) 248–254; DOI:
+10.1016/0003-2697(76)90527-3.
+10. W. B. Cook and A. S. Howard, The essential oil of Illicium anisatum Linn., Can. J. Chem. 44 (1966)
+2461–2464; DOI: 10.1139/v66-371.
+11. N. Mimica-Duki}, B. Bozin, M. Sokovi}, B. Mihajlovi} and M. Matavulj, Antimicrobial and anti-
+oxidant activities of three Mentha species essential oils, Planta Med. 69 (2003) 413–419; DOI: 10.1055/
+s-2003-39704.
+12. S. Kordali, A. Cakir, A. Mavi, H. Kilic and A. Yildirim, Screening of chemical composition and
+antifungal and antioxidant activities of the essential oils from three Turkish artemisia species,
+J. Agric. Food Chem. 53 (2005) 1408–1416; DOI: 10.1021/jf048429n.
+13. R. Thirugnanasampandan, R. Jayakumar, V. Narmatha Bai, E. Martin and K. J. Rajendra Prasad,
+Antiacetylcholinesterase and antioxidant ent-Kaurene diterpenoid, melissoidesin from Isodon
+wightii (Bentham) H. Hara, Nat. Prod. Res. 22 (2008) 681–688; DOI: 10.1080/14786410801990625.
+S A _0length E T A K
+Kemijski sastav, antioksidativno djelovanje, inhibicija elastaze i protuupalno
+djelovanje eteri~nog ulja biljke Illicium anisatum
+JI-YOUNG KIM, SANG-SUK KIM, TAE-HEON OH, JONG SEOK BAIK, GWANPIL SONG, NAM HO LEE i CHANG-GU HYUN
+Eteri~no ulje biljke Illicium anisatum dobiveno destilacijom vodenom parom analizi-
+rano je plinskom kromatografijom-spektrometrijom masa (GC-MS). Identificirane su pe-
+deset i dvije komponente eteri~nog ulja, a glavna komponenta je eukaliptol (21,8 %). Ispi-
+tivanje antioksidativnog djelovanja te djelovanja na elastazu ukazuju na umjerenu spo-
+299
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.
+sobnost hvatanja DPPH radikala i inhibicije elastaze. Kako bi se objasnio mehanizam
+protuupalnog djelovanja eteri~nog ulja I. anisatum (IAE), ispitan je u~inak na modulira-
+nje produkcije du{ikovog(II) oksida (NO) i prostaglandina E2 (PGE2) iz aktiviranih ma-
+krofaga. Rezultati ukazuju da je IAE u~inkovit inhibitor LPS-inducirane produkcije NO i
+PGE2 u RAW 264.7 stanicama. Inhibitorno djelovanje popra}eno je smanjenjem ekspre-
+sije iNOS i COX-2 proteina i iNOS i COX-2 mRNA. Kako bi se odredilo mo`e li se IAE
+sigurno primijeniti na ljudsku ko`u, citotoksi~ni u~inci IAE odre|eni su kolorimetrijskim
+MTT testom u humanim dermalnim fibroblastima i keratinocitima HaCaT. IAE je poka-
+zao nisku citotoksi~nost pri koncentraciji 100 mg mL–1. Temeljem ovih rezultata IAE se
+mo`e smatrati potencijalnim sredstvom protiv starenja i protuupalnim sredstvom u koz-
+meti~kim pripravcima. Me|utim, dodatni in vitro i in vivo testovi nu`ni su za potvrdu
+njegove sigurnosti i u~inkovitosti.
+Klju~ne rije~i: Illicium anisatum, Illicium religiosum, Illicium japonicum, kemijski sastav, kozmetika,
+DPPH, elastaza, upala
+Research Group for Cosmetic Materials, Jeju Biodiversity Research Institute (JBRI), Jeju Hi-Tech
+Industry Development Institute (HiDI), Jeju 699-943, Korea
+Department of Chemistry, Cheju National University, Jeju 690-756, Korea
+300
+J. Y. Kim et al.: Chemical composition, antioxidant, anti-elastase, and anti-inflammatory activities of Illicium anisatum essential oil,
+Acta Pharm. 59 (2009) 289–300.

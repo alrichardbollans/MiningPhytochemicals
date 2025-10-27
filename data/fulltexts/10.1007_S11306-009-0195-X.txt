@@ -1,0 +1,1029 @@
+ORIGINAL ARTICLE
+1H NMR-based metabolomics combined with HPLC-PDA-MS-
+SPE-NMR for investigation of standardized Ginkgo biloba
+preparations
+Sara Agnolet • Jerzy W. Jaroszewski •
+Robert Verpoorte • Dan Staerk
+Received: 6 August 2009/Accepted: 14 December 2009/Published online: 6 January 2010
+ The Author(s) 2010. This article is published with open access at Springerlink.com
+Abstract Commercial preparations of Ginkgo biloba are
+very complex mixtures prepared from raw leaf extracts by a
+series of extraction and prepuriﬁcation steps. The pharma-
+cological activity is attributed to a number of ﬂavonoid
+glycosides and unique terpene trilactones (TTLs), with
+largely uncharacterized pharmacological proﬁles on targets
+involved in neurological disorders. It is therefore important
+to complement existing targeted analytical methods for
+analysis of Ginkgo biloba preparations with alternative
+technology platforms for their comprehensive and global
+characterization. In this work,
+1H NMR-based metabolo-
+mics and hyphenation of high-performance liquid chroma-
+tography, photo-diode array detection, mass spectrometry,
+solid-phase extraction, and nuclear magnetic resonance
+spectroscopy (HPLC-PDA-MS-SPE-NMR) were used for
+investigation of 16 commercially available preparations of
+Ginkgo biloba. The standardized extracts originated from
+Denmark, Italy, Sweden, and United Kingdom, and the
+results show that
+1H NMR spectra allow simultaneous
+assessment of the content as well as identity of ﬂavonoid
+glycosides and TTLs based on a very simple sample-prep-
+aration procedure consisting of extraction, evaporation and
+reconstitution in acetone-d6. Unexpected or unwanted
+extract constituents were also easily identiﬁed in the
+1H
+NMR spectra, which contrasts traditional methods that
+depend on UV absorption or MS ionizability and usually
+require availability of reference standards. Automated
+integration of
+1H NMR spectral segments (buckets or bins
+of 0.02 ppm width) provides relative distribution plots of
+TTLs based on their H-12 resonances. The present study
+shows that
+1H NMR-based metabolomics is an attractive
+method for non-selective and comprehensive analysis of
+Ginkgo extracts.
+Keywords Ginkgo biloba  
+1H NMR-based
+metabolomics   HPLC-PDA-MS-SPE-NMR   Multivariate
+data analysis   Principal component analysis
+1 Introduction
+Extracts of Ginkgo biloba leaves are among the best-sel-
+ling herbal preparations worldwide (Warrier and Corzine
+2000). Originally, only the seeds were used in traditional
+Chinese medicine (Bensky et al. 2004), but in the 1960s it
+was discovered that leaf extracts improved central and
+peripheral blood circulation (DeFeudis 1991; Drieu and
+Jaggy 2000). This led to the development of standardized
+Ginkgo biloba leaf extracts (named EGb 761) containing
+6% of TTLs (3.1% of ginkgolides and 2.9% of bilobalide)
+and 24% of ﬂavonol glycosides (Drieu and Jaggy 2000).
+Since then, the interest in crude as well as standardized
+Ginkgo biloba extracts has increased dramatically, and a
+series of excellent reviews of the chemistry and biology
+Electronic supplementary material The online version of this
+article (doi:10.1007/s11306-009-0195-x) contains supplementary
+material, which is available to authorized users.
+S. Agnolet   J. W. Jaroszewski
+Department of Medicinal Chemistry, Faculty of Pharmaceutical
+Sciences, University of Copenhagen, Universitetsparken 2,
+2100 Copenhagen, Denmark
+R. Verpoorte
+Division of Pharmacognosy, Section Metabolomics, Institute of
+Biology, Leiden University, 2300 RA Leiden, The Netherlands
+D. Staerk (&)
+Department of Basic Sciences and Environment, Faculty of Life
+Sciences, University of Copenhagen, Thorvaldsensvej 40,
+1871 Frederiksberg, Denmark
+e-mail: dst@life.ku.dk
+123
+Metabolomics (2010) 6:292–302
+DOI 10.1007/s11306-009-0195-x(Strømgaard and Nakanishi 2004; Singh et al. 2008),
+pharmacology (Maclennan et al. 2002; Ahlemeyer and
+Krieglstein 2003; Schulz 2003), analytical methods (van
+Beek 2002; van Beek and Montoro 2009), and chromato-
+graphic and spectroscopic properties (van Beek 2005) have
+been published.
+The primary constituents of standardized leaf extracts
+are ﬂavonol glycosides represented by structures 1–8
+identiﬁed in this work, ginkgolides A (GA, 9), B (GB, 10),
+C (GC, 11), and J (GJ, 12), and bilobalide (BB, 13)
+(Fig. 1). Other major classes of compounds (content[5%)
+found in the standardized extract are proanthocyanidins,
+carboxylic acids, and non-ﬂavonoid glycosides, whereas
+biﬂavones and alkylphenols (ginkgolic acids, ginkgols and
+bilobols) are removed during the manufacturing process
+(van Beek and Montoro 2009). The standardized extracts
+are amongst other used for symptomatic treatment of
+dementia, Alzheimer’s disease, peripheral occlusive arte-
+rial disease, and tinnitus (Mahady 2001), and both the
+TTLs and ﬂavonoid glycosides are thought to contribute to
+the neuroprotective effect. Thus, in 1985 it was discovered
+that ginkgolides are antagonists of the platelet-activating
+factor receptor, which is involved in slowing the progres-
+sion of neurodegenerative diseases (Singh and Saraf 2001).
+Recently it was found that GB is an antagonist of the
+glycine receptors and BB is an antagonist of the c-ami-
+nobutyric acid receptors (Ivic et al. 2003). Flavonoid
+glycosides are antioxidants that can potentially prevent
+neurodegenerative diseases caused by oxidative stress
+(Ramassamy 2006), and quercetin has been shown to
+enhance serotonin uptake in synaptosomes from mouse
+cortex (Ramassamy et al. 1992). Several animal studies
+and clinical trials support the efﬁcacy of the standardized
+extract, but the exact mechanism and the constituents
+responsible for the effect remain largely unknown due to
+contradictory results. One reason for this could be that the
+majority of investigations are based on extracts that are
+standardized using procedures, which do not assure the
+same batch-to-batch or brand-to-brand distribution of
+individual TTLs and ﬂavonoid glycosides. In addition,
+other constituents than TTLs and ﬂavonoid glycosides may
+contribute to pharmacological activity without being
+included in the standardization.
+To ameliorate the above problems, there is a need for
+a non-selective analytical technique that allows assess-
+ment of the global composition of the extract. Such a
+method should be complementary to the existing targeted
+methods based on HPLC coupled with evaporative light-
+scattering detector for analysis of TTLs (Ganzera et al.
+2001), with UV–VIS or PDA for analysis of ﬂavonoid
+glycosides (Hasler et al. 1992b), and with various types
+of MS for separate or simultaneous detection of TTLs
+and ﬂavonoids (Li et al. 2002; Sun et al. 2005; Ding
+et al. 2006).
+High-ﬁeld
+1H NMR spectroscopy can, in a single
+spectrum acquired within a few minutes, provide a non-
+selective metabolic ﬁngerprint of all hydrogen-containing
+organic constituents in an extract present above the
+detection threshold. Due to this,
+1H NMR-based meta-
+bolomics (Nicholson et al. 2007) has proven valuable for
+data-driven analysis of complex mixtures like herbal
+preparations and medicinal plants, including Hypericum
+perforatum (Rasmussen et al. 2006; Lawaetz et al. 2009),
+Tanacetum parthenium (Bailey et al. 2002), Ephedra spe-
+cies (Kim et al. 2005), Strychnos species (Fre ´de ´rich et al.
+2004), Matricaria recutita (Wang et al. 2004), and Can-
+nabis sativa (Choi et al. 2004). In the current work,
+1H
+NMR-based metabolomics was used for investigation of
+the global composition of 16 commercially available
+Ginkgo biloba preparations, and HPLC-PDA-MS-SPE-
+NMR (Staerk et al. 2006) was used for unambiguous
+identiﬁcation of eight major ﬂavonoid glycosides.
+2 Materials and methods
+2.1 General experimental procedures
+1H NMR spectra of extracts of G. biloba preparations were
+recorded at 25C using a Bruker Avance spectrometer
+(
+1H resonance frequency 600.13 MHz) equipped with a
+Fig. 1 Structure of ﬂavonoid glycosides 1–8 and terpene trilactones
+9–13 identiﬁed in commercially available Ginkgo biloba preparations
+1H NMR-based metabolomics of Ginkgo biloba 293
+1235m m
+1H{
+13C} probe. HPLC-PDA-MS-SPE-NMR exper-
+iments were performed on a system consisting of an Agi-
+lent 1100 LC system, a Knauer K100 Wellchrom pump, a
+Prospekt 2 solid-phase extraction device, an EsquireLC
+ion-trap mass spectrometer, and the above-mentioned
+Bruker Avance spectrometer equipped with a 30 ll
+1H{
+13C} ﬂow-probe, as described in details elsewhere
+(Schmidt et al. 2008; Sprogøe et al. 2008). NMR experi-
+ments were controlled with Bruker XWINNMR version 3.1
+software, whereas all other operations were controlled with
+Bruker HyStar version 2.3 or 3.2 software. HPLC-PDA
+experiments were performed using a Shimadzu HPLC
+system (SCL-10A system controller, SIL-10AD autoin-
+jector, LC-10AT pump, CTO-10AC column oven, FRC-
+10A fraction collector, and SPD-M10A PDA detector, all
+controlled with Shimadzu Class-VP version 6.10 software).
+Semipreparative HPLC separations were performed on an
+Agilent 1200 system consisting of an autosampler, a qua-
+ternary pump, a thermostated column compartment, a
+photo-diode array detector, and a fraction collector. Oper-
+ations were controlled by ChemStation revision B.03.02
+software. Reference samples of GA, GB, GC, GJ, and BB
+were in-house material from earlier studies (Jaracz et al.
+2004; Jensen et al. 2007). Reference samples of glycerol
+and 3,4-dihydroxybenzoic acid as well as HPLC-grade
+solvents for all HPLC separations were from commercial
+suppliers. Water was puriﬁed by deionization and 0.22 lm
+membrane ﬁltration (Millipore).
+2.2 Sample preparation
+Sixteen commercial Ginkgo preparations were purchased
+from health food- and pharmacy stores in Denmark (1–7),
+Italy (8–9), United Kingdom (10–14) and Sweden (15–16)
+during January–February 2007. Preparations 2, 8, 9, 11, 13
+were capsules and the remaining were formulated as tab-
+lets. Preparations 5, 6, and 7 belong to the same brand but
+were sold under different names. The same applies to
+preparations 11 and 12 and to 13 and 14. Tablets were
+powdered whereas the content of capsules was used as is.
+The amount of material used for extraction was chosen
+according to information obtained from the package leaﬂet,
+as summarized in Table 1. The material was extracted
+three times by sonication with 100 ml of 70% MeOH for
+30 min, ﬁltered, and the combined extracts were evapo-
+rated to dryness at temperatures below 40C. The extract
+was redissolved in HPLC-grade methanol and evaporated
+to dryness before removal of residual solvent by freeze-
+drying. The extractions were made in triplicates (labeled a,
+b and c) for each preparation.
+Table 1 Information about the commercial preparations, their declared content, and the obtained amounts of extract
+Prep. Origin Formulation Extract
+a
+(mg/item)
+Flavonoids
+a
+(mg/item)
+TTLs
+a
+(mg/item)
+Indications
+a
+(items/day)
+Flavonoids
+b
+(mg/day)
+TTLs
+b
+(mg/day)
+No. items
+used
+c
+Extract obtained
+d
+(mg/item)
+1 Denmark Tablet 100 24 6 1–2 24–48 6-12 6 120.9 ± 15.4
+2 Denmark Capsule 100 24 6 1–2 24–48 6–12 6 170.7 ± 1.9
+3 Denmark Tablet 100 24 6 1 24 6 6 106.5 ± 5.6
+4 Denmark Tablet 40 9.6 2.4 3–4 28.8–38.4 7.2–9.6 15 156.1 ± 7.3
+5 Denmark Tablet 60 14.4 3.6 2 28.8 7.2 10 65.0 ± 5.2
+6 Denmark Tablet 60 14.4 3.6 2 28.8 7.2 10 74.4 ± 5.2
+7 Denmark Tablet 60 14.4 3.6 2 28.8 7.2 10 87.0 ± 22.2
+8 Italy Capsule 277 6 2 4 24 8 20 156.4 ± 5.0
+9 Italy Capsule 300 18 n.a. 2 36 n.a. 8 176.7 ± 35.8
+10 U.K. Tablet 50 12.5 n.a. 3 37.5 n.a. 12 163.3 ± 18.3
+11 U.K. Capsule 120 28.8 7.2 1 28.8 7.2 5 128.4 ± 11.5
+12 U.K. Tablet 120 28.8 7.2 1 28.8 7.2 5 117.1 ± 22.7
+13 U.K. Capsule 120 28.8 7.2 1 28.8 7.2 5 128.3 ± 6.5
+14 U.K. Tablet 30 7.2 1.8 3–4 21.6–28.8 5.4–7.2 20 34.0 ± 7.1
+15 Sweden Tablet 62.5 15 3.8 2 30 7.6 10 63.5 ± 1.5
+16 Sweden Tablet 60 14.4 3.6 2 28.8 7.2 10 62.0 ± 5.2
+a Declared content according to package leaﬂet
+b Daily amount according to indications
+c Chosen to obtain a total of 144 mg of ﬂavonoids and 36 mg of TTLs
+d Mean ± SD, n = 3
+294 S. Agnolet et al.
+1232.3 NMR experiments
+Samples for NMR analysis were prepared by dissolving
+50 mg of the extract in 1 ml of acetone-d6 containing
+0.02% of TMS. After sonication for 20 min, the samples
+were centrifuged at 13000 rpm for 1 min to remove
+insoluble material and 700 ll of liquid was transferred to
+5-mm NMR tubes. All
+1H NMR spectra for multivariate
+data analysis were acquired consecutively within a 48 h
+time-interval with samples prepared immediately before
+data acquisition. Repeated control experiments after 48 h
+showed no additional variation. For each sample, 256
+transients were recorded as 64 k data points with a spectral
+width of 20 ppm using 30 pulses, 2.73 s acquisition time,
+and an inter-pulse delay of 2.84 s. The cumulative FID was
+Fourier transformed to 128 k data points using line
+broadening of 0.1 Hz. All spectra were manually phase
+corrected, baseline corrected, and calibrated to TMS (d 0.0)
+in XWIN-NMR version 3.1.
+2.4 HPLC-PDA-MS-SPE-NMR analysis
+Separations of G. biloba extracts were performed at 40C
+on a 150 9 4.6 mm i.d. Phenomenex C18(2) Luna column
+(3 lm, 100 A ˚) with a ﬂow rate of 0.8 ml/min using a
+mixture of water–acetonitrile 95:5 ? 0.1% formic acid
+(eluent A) and acetonitrile–water 95:5 ? 0.1% formic acid
+(eluent B). Eight repeated separations were performed
+using the following gradient proﬁle: 0 min, 0% B; 10 min,
+10% B; 70 min, 40% B; 75 min, 100% B; 77 min, 100%
+B; 80 min, 0% B; 90 min, 0% B. Injection volumes were
+20 ll of a 10 mg/ml solution (1:1 mixture of eluents A and
+B), and analytes were trapped on GP phase SPE cartridges
+[general-purpose poly(divinylbenzene)-based resin from
+Spark Holland, 10 9 2 mm i.d.; post-column dilution with
+water, 2 ml/min] using threshold-based absorbance at
+254 nm for selection of analytes. The adsorbed material
+was eluted to the NMR ﬂow probe with acetone-d6.
+1H
+NMR spectra were acquired using the NOESYPRESAT
+pulse sequence with dual presaturation of solvent reso-
+nances (H2O and CD2HCOCD3) during mixing time
+(100 ms) and relaxation delay (2.4 s).
+2.5 HPLC-PDA analysis
+HPLC-PDA data were obtained for each of the 16 prepa-
+rations using the above-mentioned gradient elution proﬁle.
+Injection volumes of 20 ll of a 10 mg/ml solution (1:1
+mixture of eluents A and B) were used. UV spectra were
+acquired from 190 to 620 nm with a resolution of 1 nm/
+point at a sampling rate of 1.56 s
+-1 and exported as a 3D
+ASCII ﬁle into MATLAB, version 7.6.0, software (Math-
+Works, Natick, MA). UV-traces at 254 nm from 1 to
+58.6 min were aligned using a correlation optimized
+warping algorithm (Schmidt et al. 2008). Optimum seg-
+ment length and slack size were found for each sample
+(Skov et al. 2006). The dataset was imported into SIMCA-
+P version 12 software (Umetrics, Umea ˚, Sweden) and PCA
+was performed on mean-centered data without any
+normalization.
+2.6 NMR data analysis
+The
+1H NMR spectra were reduced to 425 or 850
+sequentially integrated spectral regions (‘‘buckets’’) of 0.02
+or 0.01 ppm width, respectively, from d 0.5 to 9 using
+AMIX version 3.6.8 software (Bruker BioSpin, Germany).
+The NMR data reduction ﬁle from AMIX was imported
+into a Microsoft Excel spreadsheet for addition of labels.
+Principal component analysis was performed with the
+SIMCA-P version 12 software (Umetrics, Umea ˚, Sweden)
+after mean-centering of data and, in some models, exclu-
+sion of d 1.28–1.40, d 2.04–2.12, and d 3.28–3.36 regions.
+The signiﬁcance of differences between the samples was
+assessed by ANOVA test (95% probability level) of the
+data matrix using Multi-Experiment Viewer version 4.0.
+2.7 Semipreparative HPLC isolation
+Extract (700 mg) of preparation 8 was dissolved in 40 ml
+of water and extracted three times with 10 ml of HPLC-
+grade petroleum ether (60–80C). Evaporation of the
+pooled petroleum ether fractions yielded 19.5 mg, which
+was redissolved in 500 ll of eluent B. Five separations
+(50 ll each) were performed at 40C on a 150 9 10.0 mm
+i.d. Phenomenex C18(2) Luna column (3 lm, 100 A ˚) with a
+ﬂow rate of 4.0 ml/min of eluent B. This yielded 1.7 mg of
+D
+8-15:1-anacardic acid.
+3 Results and discussion
+Samples for
+1H NMR spectral data were prepared in trip-
+licate, by extraction of commercially available preparations
+of Ginkgo biloba with 70% methanol, using sonication for
+30 min as previously described (Choi et al. 2003; Li et al.
+2004). However, contrary to these studies, all samples
+were prepared without hydrolysis of ﬂavonoid glycosides
+(Li et al. 2004) in order to enable simultaneous analysis of
+TTLs and ﬂavonoid glycosides, and without prepuriﬁcation
+based on solvent partitioning (Choi et al. 2003; Li et al.
+2004) in order to assure that the samples reﬂect all the
+extract constituents. Information from the package leaﬂet
+was used to choose the number of tablets or capsules
+used for extraction, in order to obtain similar amounts of
+TTLs and ﬂavonoids in each extract. Table 1 summarizes
+1H NMR-based metabolomics of Ginkgo biloba 295
+123information about the preparations, their declared content
+and the obtained amount of extract. There is clearly a large
+variation in the amount of extract in each tablet or cap-
+sule, and with indications obtained from the package
+leaﬂet, the recommended intake of TTLs ranges from 5.4 to
+12 mg/day whereas the amount of ﬂavonoids ranges from
+21.6 to 48 mg/day.
+Based on earlier
+1H NMR investigations of Ginkgo bi-
+lobaextracts (van Beek etal. 1993;Choi etal.2003; Liet al.
+2004), spectra of all samples were acquired in acetone-d6
+with an inter-pulse delay of 2.84 s, which assured full
+relaxation of magnetization between excitations. The spec-
+tra constitute the dataset for the multivariate data analysis,
+and an overview of the spectra is shown in Fig. 2. Assign-
+ment of individual
+1H NMR resonances of GA, GB, GC, GJ,
+and BB were performed by comparison with spectra of
+authentic samples as well as with literature data (van Beek
+2005).Due tolack ofreferencecompounds,identiﬁcation of
+ﬂavonoid glycosides and assignment of their
+1H NMR res-
+onanceswere performedusingHPLC-PDA-MS-SPE-NMR.
+Thus, a gradient-based reversed-phase HPLC method was
+developed and single HPLC-PDA data of each preparation
+were obtained. Based on UV-traces at 254 nm shown in
+Supplementary Fig. 1, eight major peaks were chosen for the
+HPLC-PDA-MS-SPE-NMR analysis. Thus, preparations 9
+and 15 were chosen for identiﬁcation of peak 1 and 2–8,
+respectively, and data from the HPLC-PDA-MS-SPE-NMR
+analysis are given in Supplementary Table 1. This enabled
+identiﬁcation of 30,40,5,7-tetrahydroxyﬂavonol [quercetin]
+(1)( S c h m i d te ta l .2008), 3-(2-O-[6-O-(p-coumaroyl)-b-
+D-glucopyranosyl]-a-L-rhamnopyranosyloxy)-40,5,7-trihydr-
+oxyﬂavone (2) (Gao et al. 1996), 3-(2-O-[6-O-(p-couma-
+royl)-b-D-glucopyranosyl]-a-L-rhamnopyranosyloxy)-30,40,
+5,7-tetrahydroxyﬂavone (3) (Tang et al. 2001), 3-(2-O-b-D-
+glucopyranosyl-a-L-rhamnopyranosyloxy)-40,5,7-trihydroxy
+ﬂavone (4) (Kazuma et al. 2003), 30-methoxy-3-(6-O-a
+-L-rhamnopyranosyl-b-D-glucopyranosyloxy)-40,5,7-trihydr
+oxyﬂavone [isorhamnetin 3-O-rutinoside] (5) (Sang et al.
+2002), 3-(6-O-a-L-rhamnopyranosyl-b-D-glucopyranosyl-
+oxy)-40,5,7-trihydroxyﬂavone [kaempferol 3-O-rutinoside]
+(6) (Sang etal.2002), 3-(2-O-b-D-glucopyranosyl-a-L-rham-
+nopyranosyloxy)-30,40,5,7-tetrahydroxyﬂavone (7) (Hasler
+et al. 1992a), and 3-(6-O-a-L-rhamnopyranosyl-b-D-gluco-
+pyranosyloxy)-30,40,5,7-tetrahydroxyﬂavone[quercetin 3-O-
+rutinoside, rutin] (8) (Clarkson et al. 2005). HPLC-PDA-
+MS-SPE-NMR analysis was performed as described
+Fig. 2
+1H NMR spectra used
+for principal component
+analysis. Shown are the ﬁrst
+replicates of preparation 1–16
+[600 MHz, acetone-d6, 256
+transients, d 0.5–9.0]
+296 S. Agnolet et al.
+123elsewhere (Staerk et al. 2006; Pedersen et al. 2009), except
+that the content of the dried SPE cartridges was eluted to the
+NMR probe with acetone-d6 instead of acetonitrile-d3. This
+enableddirectidentiﬁcationofresonancesobservedinthe
+1H
+NMR spectra of the preparations by comparison with the
+1H
+NMR data of the pure compounds.
+The
+1H NMR data for principal component analysis
+were subjected to a data reduction step before analysis. A
+common data reduction procedure is integration of discrete
+spectral segments (bucketing) of typically 0.04 ppm (Lin-
+don et al. 2001), in order to minimize effects of chemical
+shift variations. However, important information might be
+lost using this procedure, and a recent study showed that
+for herbal preparations where only very small chemical
+shift variations are observed, the use of full resolution data
+is preferable in terms of analyzing the loading plots (Ras-
+mussen et al. 2006). In this study, PCA analysis was ini-
+tially performed with 0.04, 0.02, and 0.01 ppm bucket
+widths, which showed the same overall PCA score plots.
+However, 0.04 ppm bucket widths resulted in grouping of
+H-12 and tert-butyl resonances of GB ? GC and
+GC ? GJ, respectively, in the same buckets. Bucket widths
+of both 0.02 and 0.01 ppm allowed assessment of the rel-
+ative distribution of TTLs by observing their H-12 and tert-
+butyl resonances in individual buckets. However, the
+0.01 ppm bucket yielded more information-rich loading
+plots, which proved more valuable for identiﬁcation of
+ﬂavonoid glycosides. Furthermore, inspection of the cali-
+brated
+1H NMR spectra showed small variations of the
+resonances of the TTLs (tert-butyl group: Dm\3.0 Hz; H-
+12: Dm\2.0 Hz) and of the ﬂavonoid glycosides
+(Dm\1.5 Hz) (Supplementary Fig. 2), and the data for
+principal component analysis were therefore integrated
+with spectral segments of 0.01 ppm, corresponding to a
+resolution of 6 Hz per data point.
+Initial principal component analysis was performed
+using the entire dataset without any normalization proce-
+dures or exclusions to obtain a global overview of the raw
+extract of all preparations. This resulted in a model with
+seven principal components accounting for 94.1% of total
+variance. The ﬁrst principal component accounted for
+29.0% of the variance and the score plot differentiated
+preparation 11 from all the others (data not shown). This
+differentiation was due to very intense resonances (d 3.51,
+2H, dd, J = 10.9 Hz and J = 5.9 Hz; d 3.57, 2H, dd,
+J = 10.9 Hz and J = 5.0 Hz; d 3.51, 1H, br p, J & 5 Hz),
+which were assigned to glycerol by spiking with an
+authentic sample. Although glycerol is generally consid-
+ered a non-toxic additive used in pharmaceutical prepara-
+tions, its identiﬁcation by the PCA model clearly
+demonstrates that the
+1H NMR-based method identiﬁes
+constituents that would not have been identiﬁed by PCA
+analysis of, e.g., HPLC-UV data due to lack of
+chromophores. A signiﬁcant portion of the remaining var-
+iance in the data was due to the residual solvent signal (d
+2.05, p,C D 3COCD2H), residual acetone (d 2.09, s),
+residual methanol (d 3.31, s), and the methylene envelope
+of fatty acids (d 1.29, br s). All these signals can usually be
+recognized by manual inspection of the
+1H NMR spectra
+and the use of principal component analysis for their
+identiﬁcation might appear trivial in this limited study.
+However, in the unsupervised analysis of larger datasets
+this approach can be used as a preliminary screening for
+automatic removal of outliers or large resonance signals
+from constituents that are of no importance for character-
+ization of the extracts.
+Preparation 11 was subsequently excluded from the
+dataset, and so were regions corresponding to residual
+acetone-d6, acetone, methanol, and the methylene enve-
+lope. A new PCA model with four components
+accounting for 86.3% of the variance was constructed
+using the rest of the preparations without normalization
+but with mean-centering. The resulting score plots of PC1
+vs. PC2 and PC2 vs. PC3 are shown in Fig. 3a and b,
+respectively, and the corresponding loading plots in
+Supplementary Fig. 3. Although a few of the samples
+displays a large variance between the three replicates,
+supposedly caused by matrix effects, the inter-group
+variance is more signiﬁcant than the intra-group variance.
+This was shown using an ANOVA test at 95% proba-
+bility level, and high F-values were conﬁned to spectral
+regions corresponding to constituents that in the remain-
+der of the work display the highest discriminant power.
+Other scaling methods like univariate scaling and Pareto
+scaling were also attempted, but they all resulted in
+increased intra-group variance without any change in
+inter-group variance.
+In Fig. 3a, the samples separate along PC1 in a group
+comprising preparations 1, 3, 5, 6, 12, 13, 15, and 16 (right-
+hand side) and a group comprising preparations 2, 4, 7, 8, 9,
+10, and 14 (left-hand side). According to the loadings, the
+former group separates due to a higher relative concentra-
+tion of TTLs and a constituent displaying the following
+1H
+NMR resonances: d 2.20, 1H, dtt, J = 18.0 Hz,
+J = 5.5 Hz, and J = 1.7 Hz; d 2.67, 1H, dtt, J = 18.0 Hz,
+J = 4.8 Hz, and J = 1.9 Hz; d 3.71, 1H, dd, J = 7.2 Hz
+and J = 4.2 Hz; d 4.03, 1H, dt, J = 7.2 Hz and
+J = 5.2 Hz; d 4.41, 1H, m; d 6.80, 1H, dtd, J = 3.6 Hz,
+J = 1.8 Hz, and J = 0.5 Hz. These data are in accordance
+with those of shikimic acid (Talapatra et al. 1989). Along
+PC2, preparations with positive score values are differen-
+tiated according to loadings corresponding to the tert-butyl
+group of the ginkgolides and bilobalide; i.e., preparations 5,
+6, 12, and 13 in the upper part of the plot contain relatively
+higher amounts of ginkgolides and bilobalide. Preparations
+with negative score values along PC2 (preparations 1 and 3)
+1H NMR-based metabolomics of Ginkgo biloba 297
+123contain higher amounts of shikimic acid. Thus, preparations
+1 and 3 contain high amounts of shikimic acid, whereas
+preparation 15 and 16 contain relatively high amounts of
+both shikimic acid and TTLs.
+In Fig. 3b, positive scores in PC2 are once again due to
+high amounts of TTLs whereas negative scores are due to
+high amounts of shikimic acid. Interesting, however, are
+the groupings along PC3 in the right-hand side of the score
+plot. Positive score values are due to relative higher
+amounts of GC, GJ, and BB, whereas negative score values
+are due to higher amounts of GA and GB. Thus, of the
+preparations 5, 6, 12 and 13 containing relatively high
+amounts of TTLs, as observed by their positive score val-
+ues in PC2, preparations 5 and 6 contain relatively high
+amounts of GC, GJ, and BB, whereas preparations 12 and
+13 contain relatively high amounts of GA and GB. Finally,
+the grouping of preparations 4 and 10 is due to loadings
+corresponding to an AB system (d 2.86, AB doublet,
+J = 15.8 Hz; d 2.95, AB doublet, J = 15.8 Hz). These
+data are in accordance with citric acid (Couto Alves et al.
+2009), which is a frequently used excipient in pharma-
+ceutical preparations, even though its use may give rise to
+interactions with active constituents via cyclic anhydride
+formation (Higuchi et al. 1963; Larsen et al. 2009; Silver
+and Sundholm 1987).
+Because a very large part of variance explained in the
+ﬁrst three principal components in the above PCA model
+was due to shikimic acid and citric acid, variations in the
+level of other constituents were not easily identiﬁable with
+this model. Thus, a second PCA model was constructed,
+using mean-centered data of the spectral region d 6.0–9.0,
+which also enabled re-inclusion of preparation 11. This
+region contains the singlet
+1H resonance signals of H-12 of
+all TTLs, as well as the aromatic ring signals from both the
+ﬂavonoid glycosides and the ﬂavonoid aglycones. The
+discrimination between different ﬂavonoid glycosides will
+thus be based on discrete
+1H resonance signals of the
+aromatic rings of the aglycones instead of the signals of the
+glycosidic moieties. Thus, this model enables simultaneous
+analysis of TTLs, ﬂavonoid glycosides and ﬂavonoid
+aglycones, together with all other constituents that display
+signals in this region. Excluded was only the region d 6.78–
+6.81 to avoid contribution from the signal of H-2 of shi-
+kimic acid.
+Principal component analysis resulted in a model
+(Fig. 4a, b) with six principal components accounting for
+96.2% of the total variance. Principal component 1
+accounts for 80.6% of the variance (Fig. 4a), and as
+observed with the ﬁrst model, positive scores in PC1 dif-
+ferentiate preparations 1, 3, 5, 6, 12, 13, 15, and 16, which
+contain relatively higher amounts of rutin, 2, 3, GA, GB,
+GC, BB, and 3,4-dihydroxybenzoic acid than preparations
+2, 4, 7, 8, 9, 10, 11, and 14 (negative score values). Prin-
+cipal component 2 accounts for 7.4% of the variance, and
+positive score values cluster preparation 5, 6, 9, 11, 12, and
+13 due to relatively high amounts of GA, GB, rutin, and
+quercetin, the two latter being discriminated by their H-20
+resonances at d 7.82 and 7.83, respectively, and their H-60
+resonances at d 7.74 and 7.71, respectively. Negative score
+values cluster preparations 1, 3, 4, 7, 8, 10, 15, and 16 due
+to high levels of 2, 3, GC, BB, and a constituent identiﬁed
+as 3,4-dihydroxybenzoic acid [protocatechuic acid] based
+on comparison of
+1H NMR data (d 7.53, 1H, d, J = 2.0 Hz,
+H-2; d 7.47, 1H, dd, J = 8.3 Hz, J = 2.0 Hz, H-6; d 6.90,
+1H, d, J = 8.3 Hz, H-5) with those reported in literature
+(Chiji et al. 1980). Loading plots are shown in Supple-
+mentary Fig. 4. Especially interesting is the fact that
+preparation 9, having one of the lowest score values in PC1
+because of low intensity of all signals, is grouped together
+with the preparations with high amounts of GA, GB, rutin,
+and quercetin. Close inspection of the
+1H spectrum shows
+that the sample contains very small amounts of TTLs and
+Fig. 3 Score plots of four-component PCA model of the region d
+0.5–9.0 of the
+1H NMR spectral data of preparation 1–10 and 12–16.
+a PC1 vs. PC2. b PC2 vs. PC3 [preparation 11 excluded and d
+1.28–1.40, d 2.04–2.12, and d 3.28–3.36 regions excluded, 0.01 ppm
+buckets, data mean-centered]
+298 S. Agnolet et al.
+123almost no ﬂavonoid glycosides, but a high amount of
+quercetin (d 7.83, 1H, d, J = 2.2 Hz, H-20; d 7.70, 1H, dd,
+J = 8.5 Hz, J = 2.2 Hz, H-60; d 7.00, 1H, d, J = 8.5 Hz,
+H-50; d 6.53, 1H, d, J = 2.1 Hz, H-8; d 6.26, 1H, d,
+J = 2.1 Hz, H-6) This suggests that preparation 9 is pre-
+sumably fortiﬁed with quercetin. Fortiﬁcation of Ginkgo
+biloba extracts with commercially available quercetin is a
+well-known problem that is not disclosed by traditional
+analytical methods, because these involve hydrolysis of
+ﬂavonoid glycosides and measurement of the amounts of
+the aglycones quercetin, isorhamnetin, and kaempferol.
+Looking only at preparations with positive scores in PC1
+in this model, preparations 5, 6, 12, and 13 are grouped
+together along PC2 (positive score values) due to high
+amounts of GA, GB, rutin, and quercetin. However, prep-
+arations 5 and 6 are differentiated from preparations 12 and
+13 along PC3 (Fig. 4b). The loadings show that the nega-
+tive score values for PC3 are due to high levels of GA, GB,
+and rutin, whereas positive score values are due to high
+level of quercetin. Thus, by using PC3, it is possible to
+discriminate samples with relatively higher levels of
+quercetin from samples with relatively higher levels of GA,
+GB, and rutin. Whether preparation 5 and 6, which other-
+wise are rich in TTLs and ﬂavonoid glycosides, are forti-
+ﬁed with quercetin cannot be conclusively decided, but
+several studies indicate that the levels of ﬂavonoid agly-
+cones are very limited in standardized Ginkgo extracts
+(Sticher 1993; Liu et al. 2005). Thus, the above qualitative
+model can be used to select preparations for further tar-
+geted quantitative analyses. PC3 is also able to differentiate
+preparations 1, 3, 15 and 16, which cluster in the lower
+right part of Fig. 4a due to high levels of 2, 3, GC, BB, and
+3,4-dihydroxybenzoic acid. In the left part of Fig. 4b,
+preparations 1 and 3 are separated from 15 to 16. Load-
+ings show that this is primarily due to higher amounts of
+2 and 3 in preparations 1 and 3, and higher amounts of
+3,4-dihydroxybenzoic acid and to a smaller degree GC and
+BB, in preparations 15 and 16.
+A comparison between the relative amounts of TTLs
+based on integrals of 0.02-ppm buckets representing the
+H-12 resonances of GA, GB, GC, GJ, and BB is shown in
+Fig. 5. The total integral area representing all H-12 res-
+onances in each preparation was normalized and expres-
+sed as a fraction of 6, which is the standard composition
+of the extract EGb 761 containing 6% of TTLs (3.1% of
+ginkgolides and 2.9% of bilobalide) (Drieu and Jaggy
+2000), assumed to be the case for the commercial prep-
+arations studied here. The majority of the preparations
+follow this distribution between the ginkgolides and bi-
+lobalide, although preparation 11 and to a smaller degree
+preparations 9, 12, 13, and 14 differ from this by having
+relatively high values of GA, and to some degree of GB.
+It is worth emphasizing that Fig. 5 shows the distribution
+between the individual components, and not absolute
+amounts. However, because the exact pharmacological
+role of the individual constituents remains unknown and
+because the plot is easily prepared from information
+already available from the data reduction, this method is
+suggested to be implemented as a routine procedure for
+characterization of Ginkgo biloba extracts to be used in
+future pharmacological studies as a supplement to deter-
+mination of absolute amount of total TTLs. To show that
+the relative distribution of TTLs obtained by automatic
+integration of buckets is, as expected, in agreement with
+the distributions obtained by manual integration of indi-
+vidual peaks as described elsewhere (Choi et al. 2003;L i
+et al. 2004), a correlation plot was prepared (Fig. 5). It
+demonstrates excellent correlation for GA (R
+2 = 0.9942),
+GB (R
+2 = 0.9955), GC (R
+2 = 0.9918), and BB (R
+2 =
+0.9927). Only GJ showed a signiﬁcantly lower correla-
+tion (R
+2 = 0.9038), which is presumably due to the low
+S/N-ratio for this signal.
+Fig. 4 Score plots of six-component PCA model of the region d 6.0–9.0 of the
+1H NMR spectral data of all preparations. a PC1 vs. PC2. b PC2
+vs. PC3 [d 6.78–6.81 region excluded, 0.01 ppm buckets, data mean-centered]
+1H NMR-based metabolomics of Ginkgo biloba 299
+123Another PCA model with 11 components accounting for
+94.5% of total variance was constructed using the same
+spectral region d 6.0–9.0 but normalizing all spectra to the
+same total intensity in this region and mean-centering. The
+score plot of PC1 vs. PC2 (Fig. 6) shows once again
+grouping into two main clusters due to differences in the
+content of ﬂavonoid glycosides, but importantly, prepara-
+tions 8 and 9 are clearly differentiated from the others.
+Results from the loadings (Supplementary Fig. 5) show
+that preparation 9 is now separated from the others due to
+the presumed fortiﬁcation with quercetin, whereas the
+separation of preparation 8 is due to the presence of
+D
+8-15:1-anacardic acid, i.e., (Z)-2-hydroxy-6-(pentadec-8-
+enyl)benzoic acid, which was subsequently isolated by
+semipreparative HPLC and identiﬁed by comparison of its
+1H NMR data (d 7.32, 1H, t, J = 8.0 Hz; d 6.84, 1H, dd,
+J = 8.0, 1.0 Hz; d 6.76, 1H, dd, J = 8.0, 1.0 Hz; d 5.34,
+2H, m; d 2.95, 2H, t, J = 8.0; d 2.01, 4H, m; d 1.58, 2H, m;
+d 1.32, 16H m; d 0.89, 3H, t, J = 7.0 Hz) with values
+obtained from literature (Itokawa et al. 1987). The identi-
+ﬁcation of D
+8-15:1-anacardic acid, which is one of the
+potential allergenic ginkgolic acids, the content of which
+should be less than 5 ppm in standardized Ginkgo biloba
+extracts, once again demonstrates the value of
+1HN M R -
+based metabolomics as a complementary method to other
+targeted analytical techniques.
+For comparison with the data obtained by
+1H NMR, a
+PCA model based on aligned HPLC-UV traces at 254 nm
+(Supplementary Fig. 1) was made. The score plot of PC1
+vs. PC2 is shown in Supplementary Fig. 6, and displays
+some of the same characteristics as Fig. 4. Thus, prepara-
+tions 2, 5, 6, 9, 11, 12, 13, and 14 have higher levels of
+quercetin than preparations 1, 3, 15, and 16. In addition,
+preparations 12 and 13 are separated from the other due to
+a much higher relative amount of rutin. However, the
+scores are not inﬂuenced by the TTLs and other constitu-
+ents that do not absorb at 254 nm. On the other hand,
+HPLC enables a detailed analysis of ﬂavonoid distributions
+(Hasler et al. 1992b), and chromatographic ﬁngerprint-
+shapes are broadly used for quality assessment of complex
+extract (Liang et al. 2004; Xie et al. 2006). However, both
+HPLC-ﬁngerprint analysis and pattern recognition methods
+based on PCA models of HPLC-DAD data suffer from the
+limited structural information content of UV spectra, which
+makes identiﬁcation of individual constituents difﬁcult
+without access to authentic samples. These problems may
+be circumvented by use of the HPLC-PDA-MS-SPE-NMR
+technique as demonstrated in this work by the identiﬁcation
+of ﬂavonoids, even though the analysis was limited to the
+eight major constituents 1–8 due to sensitivity limitations.
+Fig. 5 Top: Relative distribution plots of GA, GB, GC, GJ, and BB
+obtained from buckets, i.e., automatically integrated spectral seg-
+ments of 0.02 ppm, of the H-12 singlet. The total sum of intensities of
+the H-12 singlets of GA, GB, GC, GJ, and BB are normalized and
+expressed as a fraction of 6 (standard composition of EGb761 is 6%
+TTLs). Bottom: Correlation plots comparing automated integration
+(AMIX) of bucketed data obtained as above with data from manual
+integration of H-12 resonances
+Fig. 6 Score plot of PC1 vs. PC2 of 11-component PCA model of the
+region d 6.0–9.0 of the 600 MHz
+1H NMR spectral data of all
+preparations [0.01 ppm buckets, d 6.78–6.81 region excluded, data
+normalized to total intensity of the region and mean-centered]
+300 S. Agnolet et al.
+1234 Concluding remarks
+In conclusion, this work demonstrates that
+1H NMR-based
+metabolomics combined with HPLC-PDA-MS-SPE-NMR
+is an attractive technology platform for comprehensive
+characterization of the global composition of standardized
+Ginkgo biloba preparations.
+1H NMR spectroscopy is
+intrinsically non-selective and information-rich, and PCA
+analysis of
+1H NMR spectra therefore enabled simulta-
+neous assessment of TTLs and ﬂavonoid glycosides. The
+method also allowed identiﬁcation of fortiﬁcation with
+quercetin, simultaneous generation of relative distribution
+data for TTLs, which disclosed cases of non-conformity to
+standard ratio between ginkgolides and bilobalide, and
+detection of the potentially harmful D
+8-15:1-anacardic
+acid. In addition, the analysis demonstrated the presence of
+constituents that are usually not considered in the stan-
+dardization protocols (shikimic acid and 3,4-dihydroxy
+benzoic acid) as well as excipients (glycerol and citric
+acid). All these features are of likely importance in relation
+to consumer experience with Gingko products as well as
+for pharmacological or clinical studies using Ginkgo
+extracts. A paradigm shift from targeted analyses towards
+more non-selective data-driven analytical approaches is
+needed in future pharmacopoeias encompassing standard-
+ized Ginkgo biloba extracts, and a full or partial incorpo-
+ration of the presented methods is therefore of utmost
+importance.
+Acknowledgements NMR equipment used in this work was pur-
+chased via a grant from ‘‘Apotekerfonden af 1991’’ (Copenhagen) and
+HPLC-equipment for semipreparative HPLC was purchased via a
+grant from The Carlsberg Foundation (Copenhagen). Professor
+Kristian Strømgaard is thanked for reference material of all TTLs.
+Ms. Birgitte Simonsen (Department of Medicinal Chemistry, Uni-
+versity of Copenhagen) is thanked for technical assistance. The Drug
+Research Academy is thanked for a PhD scholarship to Sara Agnolet.
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+References
+Ahlemeyer, B., & Krieglstein, J. (2003). Neuroprotective effects of
+Ginkgo biloba extract. Cellular and Molecular Life Sciences, 60,
+1779–1792.
+Bailey, N. J. C., Sampson, J., Hylands, P. J., Nicholson, J. K., &
+Holmes, E. (2002). Multi-component metabolic classiﬁcation of
+commercial feverfew preparations via high-ﬁeld
+1H-NMR spec-
+troscopy and chemometrics. Planta Medica, 68, 734–738.
+Bensky, D., Clavey, S., & Stoger, E. (2004). Chinese herbal
+medicine: Materia medica (3rd ed.). Seattle: Eastland Press.
+Chiji, H., Tanaka, S., & Izawa, M. (1980). Phenolic germination
+inhibitors in the seed balls of red beet (Beta vulgaris L. var
+rubra). Agricultural and Biological Chemistry, 44, 205–207.
+Choi, Y. H., Choi, H. K., Hazekamp, A., Bermejo, P., Schilder, Y.,
+Erkelens, C., et al. (2003). Quantitative analysis of bilobalide
+and ginkgolides from Ginkgo biloba leaves and Ginkgo products
+using
+1H-NMR. Chemical and Pharmaceutical Bulletin, 51,
+158–161.
+Choi, Y. H., Kim, H. K., Hazekamp, A., Erkelens, C., Lefeber, A. W.
+M., & Verpoorte, R. (2004). Metabolomic differentiation of
+Cannabis sativa cultivars using
+1H NMR spectroscopy and
+principal component analysis. Journal of Natural Products, 67,
+953–957.
+Clarkson, C., Staerk, D., Hansen, S. H., & Jaroszewski, J. W. (2005).
+Hyphenation of solid-phase extraction with liquid chromatogra-
+phy and nuclear magnetic resonance: Application of HPLC-
+DAD-SPE-NMR to identiﬁcation of constituents of Kanahia
+laniﬂora. Analytical Chemistry, 77, 3547–3553.
+Couto Alves, A., Rantalainen, M., Holmes, E., Nicholson, J. K., &
+Ebbels, T. M. D. (2009). Analytic properties of statistical total
+correlation spectroscopy based information recovery in
+1H NMR
+metabolic data sets. Analytical Chemistry, 81, 2075–2084.
+DeFeudis, F. V. (1991). Ginkgo biloba extract (EGb 761): Pharmaco-
+logical activities and clinical applications. Amsterdam: Elsevier.
+Ding, S., Dudley, E., Plummer, S., Tang, J., Newton, R. P., &
+Brenton, A. G. (2006). Quantitative determination of major
+components in Ginkgo biloba dietary supplements by liquid
+chromatography/mass spectrometry. Rapid Communications in
+Mass Spectrometry, 20, 2753–2760.
+Drieu, K., & Jaggy, H. (2000). Ginkgo biloba. In T. A. van Beek
+(Ed.), Medicinal and aromatic plants—industrial proﬁles (Vol.
+12, pp. 267–277). Amsterdam: Hardwood.
+Fre ´de ´rich, M., Choi, Y. H., Angenot, L., Harnischfeger, G., Lefeber,
+A. W. M., & Verpoorte, R. (2004). Metabolomic analysis
+of Strychnos nux-vomica, Strychnos icaja and Strychnos ignatii
+extracts by
+1H nuclear magnetic resonance spectrometry
+and multivariate analysis techniques. Phytochemistry, 65,
+1993–2001.
+Ganzera, M., Zhao, J., & Khan, I. A. (2001). Analysis of terpene-
+lactones in Ginkgo biloba by high performance liquid chroma-
+tography and evaporative light scattering detection. Chemical
+and Pharmaceutical Bulletin, 49, 1170–1173.
+Gao, J., Shi, G., Song, G., Shao, Y., & Zhou, B. (1996). Further NMR
+investigation and conformational analysis of an acylated ﬂavonol
+glucorhamnoside. Magnetic Resonance in Chemistry, 34,
+249–254.
+Hasler, A., Gross, G.-A., Meier, B., & Sticher, O. (1992a). Complex
+ﬂavonol glycosides from the leaves of Ginkgo biloba. Phyto-
+chemistry, 31, 1391–1394.
+Hasler, A., Sticher, O., & Meier, B. (1992b). Identiﬁcation and
+determination of the ﬂavonoids from Ginkgo biloba by high-
+performance liquid chromatography. Journal of Chromatogra-
+phy, 605, 41–48.
+Higuchi, T., Miki, T., Shah, A. C., & Herd, A. K. (1963). Facilitated
+reversible formation of amides from carboxylic acids in aqueous
+solutions. Intermediate production of acid anhydride. Journal of
+the American Chemical Society, 85, 3655–3660.
+Itokawa, H., Totsuka, N., Nakahara, K., Takeya, K., Lepoittevin, J.-P.,
+& Asakawa, Y. (1987). Antitumor principles from Ginkgo biloba
+L. Chemical and Pharmaceutical Bulletin, 35, 3016–3020.
+Ivic, L., Sands, T. T. J., Fishkin, N., Nakaniski, K., Kriegstein, A. R.,
+& Strømgaard, K. (2003). Terpene trilactones from Ginkgo
+biloba are antagonists of cortical glycine and GABAA receptors.
+Journal of Biological Chemistry, 278, 49279–49285.
+Jaracz, S., Nakanishi, K., Jensen, A. A., & Strømgaard, K. (2004).
+Ginkgolides and glycine receptors: A structure-activity relation-
+ship study. Chemistry—A European Journal, 10, 1507–1518.
+Jensen, A. A., Begun, N., Vogensen, S. B., Knapp, K. M.,
+Gundertofte, K., Dzyuba, S. V., et al. (2007). Probing the
+1H NMR-based metabolomics of Ginkgo biloba 301
+123pharmacophore of ginkgolides as glycine receptor antagonists.
+Journal of Medicinal Chemistry, 50, 1610–1617.
+Kazuma, K., Noda, N., & Suzuki, M. (2003). Malonylated ﬂavonol
+glycosides from the petals of Clitoria ternatea. Phytochemistry,
+62, 229–237.
+Kim, H. K., Choi, Y. H., Erkelens, C., LeFeber, A. W. M., &
+Verpoorte, R. (2005). Metabolic ﬁngerprinting of Ephedra
+species using
+1H NMR spectroscopy and principal component
+analysis. Chemical and Pharmaceutical Bulletin, 53, 105–109.
+Larsen, J., Cornett, C., Jaroszewski, J. W., & Hansen, S. H. (2009).
+Reaction between drug substances and pharmaceutical excipi-
+ents: Formation of citric acid esters and amides of carvedilol in
+the solid state. Journal of Pharmaceutical and Biomedical
+Analysis, 49, 11–17.
+Lawaetz, A. J., Schmidt, B., Staerk, D., Jaroszewski, J. W., & Bro, R.
+(2009). Application of rotated PCA models to facilitate
+interpretation of metabolite proﬁles: Commercial preparations
+of St. John’s wort. Planta Medica, 75, 271–279.
+Li, C. Y., Lin, C. H., Wu, C. C., Lee, K. H., & Wu, T. S. (2004).
+Efﬁcient
+1H nuclear magnetic resonance method for improved
+quality control analyses of Ginkgo constituents. Journal of
+Agricultural and Food Chemistry, 52, 3721–3725.
+Li, X.-F., Ma, M., Scherban, K., & Tam, Y. K. (2002). Liquid
+chromatography-electrospray mass spectrometric studies of
+ginkgolides and bilobalide using simultaneous monitoring of
+proton, ammonium and sodium adducts. Analyst, 127, 641–646.
+Liang, Y.-Z., Xie, P., & Chan, K. (2004). Quality control of herbal
+medicines. Journal of Chromatography B, 812, 53–70.
+Lindon, J. C., Holmes, E., & Nicholson, J. K. (2001). Pattern
+recognition methods and applications in biomedical magnetic
+resonance. Progress in Nuclear Magnetic Resonance Spectros-
+copy, 39, 1–40.
+Liu, C., Mandal, R., & Li, X.-F. (2005). Detection of fortiﬁcation of
+ginkgo products using nanoelectrospray ionization mass spec-
+trometry. Analyst, 130, 325–329.
+Maclennan, K. M., Darlington, C. L., & Smith, P. F. (2002). The CNS
+effects of Ginkgo biloba extracts and ginkgolide B. Progress in
+Neurobiology, 67, 235–257.
+Mahady, G. B. (2001). Ginkgo biloba: A review of quality, safety, and
+efﬁcacy. Nutrition in Clinical Care, 4, 140–147.
+Nicholson, J. K., Holmes, E., & Lindon, J. C. (2007). Metabonomics
+and metabolomics techniques and their application in mamma-
+lian systems. In J. C. Lindon, J. K. Nicholson, & E. Holmes
+(Eds.), The handbook of metabonomics and metabolomics (pp.
+1–33). Amsterdam: Elsevier.
+Pedersen, M. M., Chukwujekwu, J. C., Lategan, C. A., van Staden, J.,
+Smith,P.J.,&Staerk,D.(2009).Antimalarialsesquiterpenelactones
+from Distephanus angulifolius. Phytochemistry, 70, 601–607.
+Ramassamy, C. (2006). Emerging role of polyphenolic compounds in
+the treatment of neurodegenerative diseases: A review of their
+intracellular targets. European Journal of Pharmacology, 545,
+51–64.
+Ramassamy, C., Christen, Y., Clostre, F., & Costentin, J. (1992). The
+Ginkgo biloba extract, EGb 761, increases synaptosomal uptake
+of 5-hydroxytryptamine: In vitro and ex-vivo studies. Journal of
+Pharmacy and Pharmacology, 44, 943–945.
+Rasmussen, B., Cloarec, O., Tang, H., Staerk, D., & Jaroszewski, J.
+W. (2006). Multivariate analysis of integrated and full-resolution
+1H-NMR spectral data from complex pharmaceutical prepara-
+tions: St. John’s wort. Planta Medica, 72, 556–562.
+Sang, S., Lapsley, K., Jeong, W.-S., Lachance, P. A., Ho, C.-T., &
+Rosen, R. T. (2002). Antioxidative phenolic compounds isolated
+from almond skins (Prunus amygdalus Batsch). Journal of
+Agricultural and Food Chemistry, 50, 2459–2463.
+Schmidt, B., Jaroszewski, J. W., Bro, R., Witt, M., & Staerk, D.
+(2008). Combining PARAFAC analysis of HPLC-PDA proﬁles
+and structural characterization using HPLC-PDA-SPE-NMR-MS
+experiments: Commercial preparations of St. John’s wort.
+Analytical Chemistry, 80, 1978–1987.
+Schulz, V. (2003). Ginkgo extract or cholinesterase inhibitors in
+patients with dementia: What clinical trials and guidelines fail to
+consider. Phytomedicine, 10(supplement IV), 74–79.
+Silver, B., & Sundholm, E. G. (1987). Solid-state esteriﬁcation of
+codeine phosphate by the acid constituent of effervescent tablets.
+Journal of Pharmaceutical Sciences, 76, 53–55.
+Singh, B., Kaur, P., Singh, G. R. D., & Ahuja, P. S. (2008). Biology
+and chemistry of Ginkgo biloba. Fitoterapia, 79, 401–418.
+Singh, M., & Saraf, M. K. (2001). Platelet-activating factor: A new
+target site for the development of nootropic agents. Drugs of the
+Future, 26, 883–888.
+Skov, T., van den Berg, F., Tomasi, G., & Bro, R. (2006). Automated
+alignment of chromatographic data. Journal of Chemometrics,
+20, 484–497.
+Sprogøe, K., Staerk, D., Ziegler, H. L., Jensen, T. H., Holm-Møller, S.
+B., & Jaroszewski, J. W. (2008). Combining HPLC-PDA-MS-
+SPE-NMR with circular dichroism for complete natural product
+characterization in crude extracts: Levorotatory gossypol in
+Thespesia danis. Journal of Natural Products, 71, 516–519.
+Staerk, D., Lambert, M., & Jaroszewski, J. W. (2006). HPLC-NMR
+techniques for plant extract analysis. In O. Kayser & W. Quax
+(Eds.), Medicinal plant biotechnology (Vol. 1, pp. 29–48).
+Weinheim: Viley-VCH.
+Sticher, O. (1993). Quality of Ginkgo preparations. Planta Medica,
+59, 2–11.
+Strømgaard, K., & Nakanishi, K. (2004). Chemistry and biology of
+terpene trilactones from Ginkgo biloba. Angewandte Chemie
+International Edition, 43, 1640–1658.
+Sun, Y. K., Li, W. K., Fitzloff, J. F., & van Breemen, R. B. (2005).
+Liquid chromatography/electrospray tandem mass spectrometry
+of terpenoid lactones in Ginkgo biloba. Journal of Mass
+Spectrometry, 40, 373–379.
+Talapatra, B., Das, A. K., & Talapatra, S. K. (1989). Defuscin, a new
+phenolic ester from Dendrobium fuscescens: Conformation of
+shikimic acid. Phytochemistry, 28, 290–292.
+Tang, Y., Lou, F., Wang, J., Li, Y., & Zhuang, S. (2001). Coumaroyl
+ﬂavonol glycosides from the leaves of Ginkgo biloba. Phyto-
+chemistry, 58, 1251–1256.
+van Beek, T. A. (2002). Chemical analysis of Ginkgo biloba leaves
+and extracts. Journal of Chromatography A, 967, 21–55.
+van Beek, T. A. (2005). Ginkgolides and bilobalide: Their physical,
+chromatographic and spectroscopic properties. Bioorganic &
+Medicinal Chemistry, 13, 5001–5012.
+van Beek, T. A., & Montoro, P. (2009). Chemical analysis and quality
+control of Ginkgo biloba leaves, extracts, and phytopharmaceu-
+ticals. Journal of Chromatography A, 1216, 2002–2032.
+van Beek, T. A., van Veldhuizen, A., Lelyveld, G. P., & Piron, I.
+(1993). Quantitation of bilobalide and ginkgolides A, B, C and J
+by means of nuclear magnetic resonance spectroscopy. Phyto-
+chemical Analysis, 4, 261–268.
+Wang, Y., Tang, H., Nicholson, J. K., Hylands, P. J., Sampson, J.,
+Whitcombe, I., et al. (2004). Metabolomic strategy for the
+classiﬁcation and quality control of phytomedicine: A case study
+of chamomile ﬂower (Matricaria recutita L.). Planta Medica,
+70, 250–255.
+Warrier, G., & Corzine, A. (2000). Ginkgo biloba. In T. A. van Beek
+(Ed.), Medicinal and aromatic plants—industrial proﬁles (Vol.
+12, pp. 517–521). Amsterdam: Hardwood.
+Xie, P., Chen, S., Liang, Y.-Z., Wang, X., Tian, R., & Upton, R.
+(2006). Chromatographic ﬁngerprint analysis—a rational
+approach for quality assessment of traditional Chinese herbal
+medicine. Journal of Chromatography A, 1112, 171–180.
+302 S. Agnolet et al.
+123

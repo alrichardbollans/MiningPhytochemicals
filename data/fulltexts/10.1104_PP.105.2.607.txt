@@ -1,0 +1,429 @@
+Plant Physiol. (1994) 105: 607-610 
+lncorporation of Label from 13C-, *H-, and 15N-Labeled 
+Methionine Molecules during the Biosynthesis of 
+2’-Deoxymugineic Acid in Roots of Wheat 
+Jian Feng Ma* and Kyosuke Nomoto 
+Suntory lnstitute for Bioorganic Research, Shimamoto-cho, Mishima-gun, Osaka, 618, Japan 
+The biosynthetic pathway of 2’-deoxymugineic acid, a key phy- 
+tosiderophore, was investigated by feeding 13C-, *H-, and 
+‘5N-labeled methionine, the first precursor, to the roots of hydro- 
+ponically cultured wheat (Triticum aestivum 1. cv Minori). The 
+incorporation of label from each methionine species was observed 
+during their conversion to 2‘-deoxymugineic acid, using ’H-, 15N-, 
+and 13C-nuclear magnetic resonance (NMR). i-[l-13C]Methionine 
+(99% 13C) was efficiently incorporated, resulting in 13C enrichment 
+of the three carboxyl groups of 2‘-deoxymugineic acid. Use of D,L- 
+[‘5N]methionine (95% 15N) resulted in ”N enrichment of 2‘-deoxy- 
+mugineic acid at the azetidine ring nitrogen and the secondary 
+amino nitrogen. When ~,~-[2,3,3-’H,-S-methyl-~H~]methionine 
+(98.2% ’H) was fed to the roots, ’H-NMR results indicated that 
+only six deuterium atoms were incorporated, and that the deute- 
+rium atom from the C-2 position of each methionine was almost 
+completely lost. [2,2,3,3-’H411-Aminocyclopropane-1-carboxylic 
+acid (98% *H) was not incorporated into 2‘-deoxymugineic acid. 
+These data and our previous findings demonstrated that only the 
+deuterium atom from the C-2 position of i-methionine was lost, 
+and that other atoms were completely incorporated when three 
+molecules of methionine were converted to 2’-deoxymugineic acid. 
+These observations are consistent with the conversion of i-methi- 
+onine to azetidine-2-carboxylic acid, suggesting that i-methionine 
+i s  first converted to azetidine-2-carboxylic acid during biosynthesis 
+leading to 2‘-deoxymugineic acid. Based on these results, a hypo- 
+thetical pathway from L-methionine to 2‘-deoxymugineic acid was 
+postulated. 
+Gramineous plants respond to iron stress by secreting 
+mugineic acids, a group of ferric-chelating substances (Tak- 
+agi, 1976; Takemoto et al., 1978). Until now, six of these 
+compounds from different gramineous plants have been 
+identified (Nomoto et al., 1987). In our previous report, two 
+related biosynthetic pathways for these mugineic acids were 
+described on the basis of feeding with ’H- and 13C-labeled 
+compounds (Ma and Nomoto, 1993). These pathways differ 
+after 2‘-deoxymugineic acid formation and are dependent on 
+the plant species. In oat, avenic acid A is biosynthesized from 
+2’-deoxymugineic acid by cleavage of the azetidine ring. In 
+barley, hydroxylation at the C-2’ position of 2’-deoxymugi- 
+neic acid yields mugineic acid. Further hydroxylation at the 
+C-3 position produces 3-epihydroxymugineic acid in beer 
+barley and 3-hydroxymugineic acid in rye (Ma and Nomoto, 
+* Corresponding author; fax 81-75-962-2115. 
+607 
+1993, 1994). However, a11 of these pathways share the same 
+steps from t-Met to 2’-deoxymugineic acid. 
+We found no significant differences in solubilization and 
+uptake of iron among different mugineic acids (Ma et al., 
+1993). This suggests that 2’-deoxymugineic acid is the key 
+compound, because it is the first to be biosynthesized and 
+serves as a precursor for other mugineic acids. The biosyn- 
+thesis of 2‘-deoxymugineic acid is also suggested as a key 
+step for plants resistant to iron stress. Therefore, elucidating 
+this pathway is helpful not only for isolation and purification 
+of the related enzymes but also for subsequent cloning of 
+genes encoding synthetic enzymes of 2’ -deoxymugineic acid. 
+Knowledge of the biosynthetic pathway between L-Met 
+and 2’-deoxymugineic acid is limited. From the results of 
+experiments in which t-[l-13C]Met was fed to roots of barley 
+(Hordeum vulgare L. cv Minorimugi), elongation of Met units 
+was considered as a hypothetical pathway (Kawai et al., 
+1988). However, this pathway has not yet been verified. An 
+in vitro study indicated that nicotianamine served as a pre- 
+cursor of 2’-deoxymugineic acid (Shojima et al., 1990); how- 
+ever, details of the pathway from t-Met to nicotianamine 
+remain to be elucidated. 
+In this study, feeding experiments with 13C-, ’H-, ”N- 
+labeled Met, the first precursor, were conducted using roots 
+of hydroponically cultured wheat (Triticum aestivum L. cv 
+Minori). From the observation of incorporation of label from 
+each Met molecule during its conversion to 2’-deoxymugineic 
+acid, a hypothetical biosynthetic pathway is proposed. 
+MATERIALS A N D  METHODS 
+Plant Culture and Feeding 
+Wheat plants (Triticum aestivum L. cv Minori) were cul- 
+tured hydroponically as previously reported (Ma and Nomo- 
+to, 1993). Briefly, 80 selected seedlings (7 d old) were trans- 
+planted into 3-L Wagner pots with continuously aerated 
+nutrient solution in an environmental chamber. Three-tenths- 
+strength Hoagland solution containing 1.5 m~ KN03, 1.5 m~ 
+Ca(N03)*, 0.6 m~ MgS04, and 0.3 m~ NH4H2P03 was used 
+for the culture. Micronutrients were employed at the full 
+strength of the Hoagland solution [a: 3.0 X 10-3 H3BO3, 5 
+Abbreviations: FAB, fast atom bombardment; nicotianamine, 
+2S,3’S,3”S-N-[N-(3-amino-3-carboxypropyl)-3-amino-3-carboxypro- 
+pyl] azetadine-2-carboxylic aad. 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+608 Ma and Nomoto Plant Physiol. Vol. 105, 1994 
+Table 1. lncorporation of ~-[l- '~C]Met into 2'-deoxymugineic acid 
+(DMA) in wheat roots 
+One hundred micromolar ~-[l-'~C]Met was fed to roots that had 
+been kept in a nutrient solution lacking iron for 11 d. The 13C-NMR 
+spectra (D20) were obtained using a 75.5-MHz spectrometer. The 
+calculation of the 13C enrichment was based on the line intensity 
+of the C-3 Dosition. 
+Signal Strength of DMA 
+Carbona Chemical Formed from "C Enrichment 
+Shift of DMA 
+Unlabeled ~- l l - "ClMet  
+c-4" 
+c -  1 
+c-4' 
+c-3" 
+c-2 
+c-3' 
+c-4 
+c-1' 
+c-1" 
+c-2" 
+c-2' 
+c-3 
+PPm 
+182.7 
+175.9 
+174.8 
+73.1 
+69.7 
+62.4 
+54.0 
+53.3 
+47.0 
+33.2 
+27.3 
+23.9 
+198.9 
+166.9 
+184.2 
+429.1 
+334.9 
+382.4 
+268.7 
+282.2 
+348.0 
+287.8 
+290.8 
+342.0 
+15661.7 
+12807.7 
+15561.9 
+1243.2 
+855.5 
+821.2 
+970.8 
+1046.1 
+1090.7 
+915.3 
+1062.1 
+1324.5 
+fold 
+20.3 
+19.8 
+21.8 
+0.7 
+0.7 
+0.6 
+0.9 
+1 .o 
+0.8 
+0.8 
+0.9 
+1 .o 
+a Refer to Figure 2 for numbering 
+X 10-4 MnCl', 2 X 10-4 CuS04, 4 x 10-4 ZnS04, 1.0 x 10-3 
+(NH4)6M07024, 1.1 X 10-' FeCI3]. The nutrient solution was 
+adjusted to pH 5.5 with 0.1 N KOH and replaced every 2 d. 
+The light intensity was about 40 W/m2, and the light/ 
+dark period and temperatures were 14/10 h and 17/1OoC, 
+respec tively . 
+After 2 weeks, the plants were subjected to iron deficiency 
+by transferring them to pots containing the above nutrient 
+solution but free of iron. Feeding experiments were per- 
+formed with 80 plants each with nutrient solution minus iron 
+for 11 to 13 d in 3-L Wagner pots containing the Hoagland 
+solution. After the secretion of 2'-deoxymugineic acid, the 
+roots were fed with the following labeled compounds: (a) 
+100 ~ L M  ~-[l- '~C]Met (99.0% I3C, Isotec, Inc., Miamisburg, 
+OH); (b) 100 p~ D,L-[ '~N]M~~ (95% "N, Berlin-Adlershof, 
+Berlin, Germany); (c) 100 p~ ~,~-[2,3,3-~H~-S-methyl-~H~]Met 
+(98.2% 'H, Merck Sharp & Dohme/Isotopes, Montreal, Can- 
+ada); (d) 50 PM [2,2,3,3-'H4]ACC (98% 'H, Sigma). The 
+compounds were dissolved in the nutrient solution. Because 
+a prior experiment showed that the surface-active agent 
+Decaglyn 1-L (Nikko Chemicals, Tokyo, Japan) stimulated 
+Met uptake, 40 pg mL-' pot-' was added during feeding 
+experiments . 
+lsolation and Purification 
+Isolation of 2'-deoxymugineic acid was performed as pre- 
+viously reported (Ma and Nomoto, 1993). Briefly, root wash- 
+ings were collected the following day by soaking the roots in 
+distilled water (3 L x 3) from 3 to 5 h after the onset of the 
+light period. The root washings were then purified by chro- 
+matography (Ma and Nomoto, 1993). 
+NMR and FAB-MS Study 
+Samplles of 2'-deoxymugineic acid were dissolved in D20 
+or HzO for NMR spectroscopy at 400 ('H), 61.3 ('H), or 75.5 
+MHz ("(3. The conditions for 'H-, 'H-, and l3C-1VMR mea- 
+surement were the same as those previously reported (Ma 
+and Nomoto, 1993). Peaks in both the 'H and I3C: spectra of 
+2'-deoxymugineic acid have previously been assigned (Kawai 
+et al., 19138; Ma and Nomoto, 1993). Because 'H arid 'H shifts 
+correspoind except for a small isotope effect and broadening, 
+'H assignment was accomplished based on that of 'H. The 
+I3C enrichment was calculated from the line interisity of the 
+C-3 posifion. The 15N-NMR spectra of 2'-deoxymugineic acid 
+(D20) wlere measured at 30.5 MHz (GN-300 spectrometer) 
+under the following conditions: pulse width, 10.0 ps; acqui- 
+sition time, 1.36 s; recycle time, 2.35 s; number of acquisitions, 
+22,112; data size, 16,384. NH4N03 was used as ,an extemal 
+reference to calibrate the chemical shift. FAB-MS (JEOL JMS- 
+HX 110/110A) spectra for 'H- and "N-labeled ,md nonla- 
+beled 2'-deoxymugineic acid were recorded at 10 kV using a 
+glycerol matrix. The 'H and 15N enrichment of 2'-deoxymu- 
+gineic acid were calculated from the mass spectra. 
+RESULTS AND DlSCUSSlON 
+The acquisition of iron by gramineous plants is character- 
+ized by secretion of femc-chelating substances, th e mugineic 
+acids. Most species and cultivars secrete two or more com- 
+pounds (Ma and Nomoto, 1993). However, wheat seaetes 
+only one compound, 2'-deoxymugineic acid, which is the 
+~ ' ~ ' ~ l ' " ' I ' ' ' ' l ' ~ '  -
+Chemical shift (ppm) 
+Figure 1. 'H-NMR spectrum of unlabeled 2'-deoxymugineic acid 
+(A) and 2H-NMR spectrum of 2'-deoxymugineic acid (E;) biosynthe- 
+sized froni ~,~-[2,3,3- 'H~-.-methyI-~H~]Met in wheat. CNpectra were 
+measuredi at 400 MHz ('H-NMR, D20) and 61.3 MHz ('H-NMR, 
+H 2 0 ) .  Tht? peak at 4.83 ppm represents a signal from either H 2 0  or 
+D 2 0 .  Refer  to Figure 2 for numbering. 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+Biosynthesis of 2’-Deoxy.mugineic Acid 609 
+L-Met-”N 
+~.[3.3.4.4-~H,]Met 
+Figure 2. lncorporation of Met molecules labeled with ”C,  2H, and 
+15N at different positions during conversion to 2’-deoxymugineic 
+acid. 
+key phytosiderophore. Therefore, wheat is a good experi- 
+mental model to study the biosynthetic pathway from L-Met 
+to 2’-deoxymugineic acid. 
+To obtain information about the biosynthetic pathway 
+between L-Met and 2’-deoxymugineic acid, we studied how 
+the first precursor, L-Met, is incorporated into 2’-deoxymu- 
+gineic acid. When [l-13C]Met was fed to the roots, 11.7 mg 
+of purified 2’-deoxymugineic acid was obtained. The I3C- 
+NMR study showed that the C-1, -4‘, and -4‘’ positions of 
+2‘-deoxymugineic acid were I3C enriched 20.3, 19.8, and 
+21.8 times, respectively, by comparison of their peak heights 
+with those of unlabeled 2’-deoxymugineic acid (Table I). This 
+result suggests that the three carboxyl groups of 2’-deoxy- 
+mugineic acid were formed from the carboxyl groups of three 
+Met molecules. This result is in agreement with previous 
+findings in barley (cv Minorimugi) (Kawai et al., 1988). 
+When D,L-[”N]M~~ was fed to the roots, a ”N-NMR study 
+of isolated 2’-deoxymugineic acid (9.9 mg) showed two peaks 
+at 61.8 and 54.6 ppm, which represented approximately a 
+10-fold ”N enrichment. These peaks were assigned to the 
+azetidine ring nitrogen and the secondary amino nitrogen. 
+This result suggests that two nitrogen atoms in the 2‘-deoxy- 
+mugineic acid resulted from nitrogen of L-Met. 
+When ~,~-[2,3,3-’H~-S-methyl-~H~]Met (98.2% ’H) was fed 
+to the roots, the isolated 2’-deoxymugineic acids (21.6 mg) 
+were 2H enriched by about 10-fold. The ’H-NMR study 
+indicated that the ratio of the peak intensities at 2.72, 2.52, 
+and 2.15 ppm was about 1:1:4 (Fig. 1); in all, six deuterium 
+atoms were present. According to the ‘H-NMR assignment, 
+these peaks correspond to deuterium on the C-3, C-2’, and 
+C-2” positions, respectively. If 2 ’-deoxymugineic acid is 
+formed from three molecules of Met (Kawai et al., 1988; Ma 
+and Nomoto, 1993), nine deuterium atoms from [2,3,3-’H3- 
+S-methyl-*H3]Met should be present in the 2’-deoxymugineic 
+acid. Even if transamination and subsequent reduction at the 
+C-3” position caused the loss of deuterium at the C-3” 
+position, the deuterium at the C-2 and C-3’ positions would 
+be retained. However, the peak intensity of the deuterium at 
+the C-3‘ position was much lower than that of deuterium at 
+the C-2’ position originating from the same L-Met (Fig. 1). 
+The signal for the C-2 deuterium atom overlapped with the 
+D 2 0  signal (Fig. 1). To observe this signal, ‘H-NMR mea- 
+surement of the same sample was performed at a lower 
+temperature (10OC). As a result, the D20 signal was shifted 
+to a lower field (data not shown), but the peak for the C-2 
+deuterium atom was observed to be as small as the one for 
+the C-3’ deuterium. This indicates that the deuterium atoms 
+at the C-2 and C-3‘ positions from the C-2 position of Met 
+are almost completely lost when the Met molecules are con- 
+verted to 2’-deoxymugineic acid. 
+In a previous study, when ~,~-[3,3,4,4-’H,]Met was fed to 
+the roots, 12 deuterium atoms were observed in the 2’- 
+deoxymugineic acid (Ma and Nomoto, 1993). This suggested 
+that a11 deuterium atoms from C-3 and C-4 positions of three 
+’H-labeled Met molecules were incorporated during biosyn- 
+thesis. Based on these results, Figure 2 summarizes the incor- 
+poration of each Met molecule labeled with 13C, ’H, and 15N 
+COOH 
+H3C‘sdNH2 
+L-Met 
+COOH 
+I 
+COOH COOH 
+6N-i.N.. 
+2s. 3’S-N-(3-amino-3-carboxypropyl) 
+azetidine-2-carboxylic acid COOH Ir TN)- H3cxS&NH2 
+COOH COOH COOH 
+c N 4 N d N H 2  H 
+2s. 3’S, 3”S-N-[N-(3-amino-3-carboxypmpyl)- 
+3-amino-3-carboxypropyl]azetidine-2-carbxylic acid 
+2’-Deoxymugineic acid 
+Figure 3. A hypothetical pathway from L-Met to 2’-deoxymugineic 
+acid. 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+610 Ma and Nomoto Plant Physiol. Vol. 105, 1994 
+at different positions during conversion to 2’-deoxymugineic 
+acid in the roots of wheat. It is clear that except for the 
+hydrogen at C-2, C-3‘, and C-3” and the terminal hydroxyl, 
+a11 other atoms in 2’-deoxymugineic acid are formed from 
+three molecules of Met. These results eliminate aspartic p- 
+semialdehyde and 4-amino-2-oxobutanoic acid as interme- 
+diates between Met and 2’-deoxymugineic acid, because if 
+they were intermediates, the deuteriums from the C-4 posi- 
+tion of [3,3,4,4-’H4]Met and nitrogen from [15N]Met would 
+not be observed in the 2‘-deoxymugineic acid biosynthesized 
+from these labeled Met molecules (Ma’ and Nomoto, 1993; 
+Fig. 1). 
+The mechanism for loss of deuterium from the C-2 position 
+of Met during the conversion is still unknown. If each of the 
+Met precursor forms a Schiff‘s base with pyridoxal phos- 
+phate, an enzyme cofactor, before they are converted to 2’- 
+deoxymugineic acid, the deuterium from the C-2 position of 
+Met will be lost. However, an in vitro study indicated that 
+the step from Met to nicotianamine needs no cofactor (Mori, 
+1993), suggesting that this mechanism for deuterium loss is 
+unlikely. 
+The precursor of ethylene is ACC, and it is also formed 
+from L-Met (Yang and Hoffman, 1984). The formation of 
+ACC from L-Met could also similarly result in the loss of the 
+deuterium at the C-2 position in Met as described above. 
+Therefore, ACC could be the precursor of 2‘-deoxymugineic 
+acid. However, feeding [2,2,3,3-*H4]ACC to the wheat roots 
+did not result in the incorporation of ’H atom into the isolated 
+2’-deoxymugineic acid (8.2 mg). 
+Azetidine-2-carboxylic acid is a four-membered cyclic im- 
+ino acid that is distributed among severa1 members of the 
+Liliaceae, a few species of Agavaceae and Amaryllidaceae, 
+and other plant species (Leete et al., 1974). Its biosynthesis 
+has been intensively investigated, especially in Convalaria 
+majalis (lily of the valley). In this plant, L-Met was found to 
+be the precursor for azetidine-2-carboxylic acid (Leete et al., 
+1974, 1986). Met labeled with 14C at C-1 and with 3H at the 
+C-4 position is incorporated into azetidine-2-carboxylic acid 
+with complete retention of the 3H relative to 14C (Leete et al., 
+1974). Feeding [l-14C,15N]Met results in the same specific 
+incorporation of these two isotopes into azetidine-2-carbox- 
+ylic acid (Leete et al., 1986). The azetidine-2-carboxylic acid 
+derived from [1-14C,2-3H]Met almost completely loses the 3H 
+(95%) from the C-2 position (Leete et ai., 1974), and [l-13C- 
+~arboxyl-’~C-’~N]ACC is not incorporated. These results are 
+consistent with the present findings (Table I; Fig. 1) and our 
+previous observation of L-Met conversion to 2‘-deoxymugi- 
+neic acid (Ma and Nomoto, 1993), thus suggesting that L-Met 
+is first converted to azetidine-2-carboxylic acid and then to 
+2’-deoxymugineic acid. 
+2S,3 ’S-N-(3-amino-3-carboxypropyl)azetidine-2-carbox- 
+ylic acid and nicotianamine are easily produced chemically 
+from azetidine-2-carboxylic acid (Kristensen and Larsen, 
+1974). An in vitro study indicated that nicotianamine serves 
+as a precursor of 2’-deoxymugineic acid (Shojilna et al., 
+1990). These findings led us to postulate a hypothetical 
+biosynthetic pathway between L-Met and 2’-deoxymugineic 
+acid (Fig. 3). Studies on this pathway are now in progress. 
+ACKNOWLEDCMENTS 
+We are indebted to Dr. H. Naoki and Ms. T. Matsuda of our 
+institute antd Mr. J. Matsuda of Shimadzu Corp. for their c:onstructive 
+advice andi skillful NMR determinations. We are also very grateful 
+to Mr. T. Fujita for FAB-MS measurements and to Dr. I’. Escoubas 
+of our instiitute for his correction of the English text. 
+Received December 20, 1993; accepted February 28, 1994. 
+Copyright Clearance Center: 0032-0889/94/105/0607/04. 
+LITERATURE CITED 
+Kawai S, Ikoh K, Takagi S, Iwashita T, Nomoto K (1988) Studies 
+on phytosiderophores: biosynthesis of mugineic acid and 2’-deox- 
+ymugineic acid in Hordeum vulgare L. var. Minorimugi. Tetrahe- 
+dron Lelt 2 9  1053-1056 
+Kristensen I, Larsen PO (1974) Azetidine-2-carboxylic ,acid deriva- 
+tives from seeds of Fagus silvafica L. and a revised structure for 
+nicotianamine. Phytochemistry 13: 2791-2798 
+Leete E, Davis GE, Hutchinson CR, Woo KW, Chedekel MR (1974) 
+Biosynthesis of azetidine-2-carboxylic acid in Convallaria majalis. 
+Phytochemistry 13: 427-433 
+Leete E, Louters LL, Prakash Rao HS (1986) Biosynthesis of azeti- 
+dine-2-carboxylic acid in Convallaria majalis: studies with N-15 
+labeled precursors. Phytochemistry 2 5  2753-2758 
+Ma JF, Kusano G, Kimura S, Nomoto K (1993) Specific recognition 
+of mugineic acid-femc complex by barley roots. Phytochemistry 
+Ma JF, Nlomoto K (1993) Two related biosynthetic pathways of 
+muginei’c acids in gramineous plants. Plant Physiol102: 373-378 
+Ma JF, Nomoto K (1994) Biosynthetic pathways of 3-epihydroxy- 
+mugineic acid and 3-hydroxymugineic acid in gramin(2ous plants. 
+Soil Sci Plant Nutr 40: (in press) 
+Mori S (1993) Recent progress in phytosiderophore, froni physiology 
+to molecular biology. In 7th Intemational Symposium on Iron 
+Nutrition and Interactions in Plants (Zaragoza, Spain), p 46 
+Nomoto K, Sugiura Y, Takagi S (1987) Mugineic acids, studies on 
+phytosiclerophores. In G Winkelmann, D van der Hcllm, JB Nei- 
+lands, eds, Iron Transport in Microbes, Plants and Animals. VCH 
+Verlagsgesellschaft, Weinheim, Germany, pp 401-425 
+Shojima S, Nishizawa NK, Fushiya S, Nozoe S, Irifune T, Mori S 
+(1990) Biosynthesis of phytosiderophores. In vitro biosynthesis of 
+2’-deoxymugineic acid from L-methionine and nicotianamine. 
+Plant Physiol93 1497-1503 
+Takagi S (1976) Naturally occurring iron-chelating coinpounds in 
+oat- and. rice-root washings. I. Activity measurement 2nd prelimi- 
+nary characterization. Soil Sci Plant Nutr 2 2  423-433 
+Takemoto T, Nomoto K, Fushiya S, Ouchi R, Kusanci G, Hikino 
+H, Takagi S, Matsuura Y, Kakudo M (1978) Structure of mugineic 
+acid, a riew amino acid possessing an iron-chelating activity from 
+root washings of water-cultured Hordeum vulgare L. Proc Jpn Acad 
+Yang SF, IHoffman NE (1984) Ethylene biosynthesis and its regula- 
+3 4  599-603 
+54B 469-473 
+tion in higher plants. Annu Rev Plant Physiol35 155-189 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.

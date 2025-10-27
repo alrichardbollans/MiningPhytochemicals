@@ -1,0 +1,1355 @@
+FEATURED ARTICLE
+High lipid order of Arabidopsis cell-plate membranes mediated
+by sterol and DYNAMIN-RELATED PROTEIN1A function
+Marcia Frescatada-Rosa1,†, Thomas Stanislas1,†, Steven K. Backues2,‡, Ilka Reichardt3,§, Shuzhen Men1,¶, Yohann Boutte1,**,
+Gerd J€urgens3, Thomas Moritz4, Sebastian Y. Bednarek2 and Markus Grebe1,5,*
+1Department of Plant Physiology, Umea Plant Science Centre, Umea University, SE-90187 Umea, Sweden,
+2Department of Biochemistry, University of Wisconsin-Madison, Madison, WI 53706, USA,
+3Department of Developmental Genetics, Centre for Plant Molecular Biology, University of T€ubingen, Auf der Morgenstelle 3,
+D-72076 T€ubingen, Germany,
+4Department of Forest Genetics and Plant Physiology, Umea Plant Science Centre, Swedish University of Agricultural Sci-
+ences, SE-90183 Umea, Sweden, and
+5Institute for Biochemistry and Biology, Plant Physiology, University of Potsdam, Karl Liebknecht Straße 24-25, Building 20,
+D-14476 Potsdam-Golm, Germany
+Received 3 May 2014; revised 21 August 2014; accepted 4 September 2014; published online 18 September 2014.
+*For correspondence (e-mail markus.grebe@uni-potsdam.de).
+†These authors contributed equally to this work.
+‡Present address: 6036 Life Sciences Institute, University of Michigan, 210 Washtenaw Avenue, Ann Arbor, MI 48109-2216, USA.
+§Present address: Institute of Molecular Biotechnology of the Austrian Academy of Sciences, Dr Bohr Gasse 3, A-1030 Vienna, Austria.
+¶Present address: College of Life Sciences, Nankai University, 94 Weijin Road, Nankai District, Tianjin 300071, China.
+**Present address: Membrane Biogenesis Laboratory, UMR 5200 CNRS, Universite Bordeaux Segalen Ba^timent A3, INRA Bordeaux Aquitaine BP81, 71 Avenue
+Edouard Bourlaux, 33883 F-Villenave d’Ornon, France.
+SUMMARY
+Membranes of eukaryotic cells contain high lipid-order sterol-rich domains that are thought to mediate tem-
+poral and spatial organization of cellular processes. Sterols are crucial for execution of cytokinesis, the last
+stage of cell division, in diverse eukaryotes. The cell plate of higher-plant cells is the membrane structure that
+separates daughter cells during somatic cytokinesis. Cell-plate formation in Arabidopsis relies on sterol- and
+DYNAMIN-RELATED PROTEIN1A (DRP1A)-dependent endocytosis. However, functional relationships
+between lipid membrane order or lipid packing and endocytic machinery components during eukaryotic cyto-
+kinesis have not been elucidated. Using ratiometric live imaging of lipid order-sensitive fluorescent probes,
+we show that the cell plate of Arabidopsis thaliana represents a dynamic, high lipid-order membrane domain.
+The cell-plate lipid order was found to be sensitive to pharmacological and genetic alterations of sterol com-
+position. Sterols co-localize with DRP1A at the cell plate, and DRP1A accumulates in detergent-resistant
+membrane fractions. Modifications of sterol concentration or composition reduce cell-plate membrane order
+and affect DRP1A localization. Strikingly, DRP1A function itself is essential for high lipid order at the cell plate.
+Our findings provide evidence that the cell plate represents a high lipid-order domain, and pave the way to
+explore potential feedback between lipid order and function of dynamin-related proteins during cytokinesis.
+Keywords: membrane order, sterol, cytokinesis, DRP1A, Arabidopsis.
+INTRODUCTION
+Cytokinesis represents the final stage of cell division dur-
+ing which the cytoplasm of a single cell is partitioned to
+form two daughter cells. A number of differences may be
+observed during cytokinesis of various eukaryotes
+(J€urgens, 2005; Barr and Gr€uneberg, 2007; Prekeris and
+Gould, 2008). However, similarities include the
+requirement for membrane fusion to occur at diverse cyto-
+kinetic structures, for example at the animal mid-body or
+the plant cell plate (J€urgens, 2005; Barr and Gr€uneberg,
+2007; Prekeris and Gould, 2008). Precise execution of cyto-
+kinesis relies on the correct composition of membrane lip-
+ids, including, among others, eukaryotic membrane sterols
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial License,
+which permits use, distribution and reproduction in any medium, provided the original work is properly cited and
+is not used for commercial purposes.
+745
+The Plant Journal (2014) 80, 745–757 doi: 10.1111/tpj.12674
+(Wachtler et al., 2003; Fernandez et al., 2004; Men et al.,
+2008; Boutte et al., 2010). The plant cell plate is a transitory
+membrane compartment whose biogenesis requires fusion
+of mostly trans-Golgi network-derived secretory vesicles in
+the plane of cell division (Samuels et al., 1995; J€urgens,
+2005). Vesicle fusion is accomplished by SNARE complex
+machineries, of which the KNOLLE syntaxin is a critical
+component localized to the cell plate (Lauber et al., 1997).
+Expansion of the early cell plate and the final fusion of the
+late cell plate with the parental plasma membrane com-
+plete separation of daughter cells during cytokinesis of
+somatic plant cells (J€urgens, 2005). Cell-plate formation in
+Arabidopsis relies on sterol- and DYNAMIN-RELATED PRO-
+TEIN1A (DRP1A)-dependent endocytosis (Collings et al.,
+2008; Men et al., 2008; Boutte et al., 2010). Dynamin also
+accumulates at mid-body membranes during animal cyto-
+kinesis (Skop et al., 2004). In addition to DRP1A, other
+members of the DRP1 family of Arabidopsis thaliana that
+contribute to clathrin-mediated endocytosis (CME) are
+enriched at the cell plate (Kang et al., 2003a,b; Fujimoto
+et al., 2007, 2008) and co-localize with the clathrin light
+chain (CLC) at the plasma membrane as well as the cell
+plate (Konopka and Bednarek, 2008a; Fujimoto et al.,
+2010). The internalization from the cell plate of cargo mole-
+cules such as KNOLLE (Boutte et al., 2010), which is
+enriched in clathrin-coated vesicles (McMichael et al.,
+2013), as well as removal of the PIN2 auxin efflux carrier
+from the basal epidermal plasma membrane after cytokine-
+sis, requires sterol-dependent endocytosis via a clathrin-
+and DRP1A-mediated mechanism (Collings et al., 2008;
+Men et al., 2008; Boutte et al., 2010; Mravec et al., 2011).
+Sterols are required for correct execution of cytokinesis in
+diverse eukaryotes (Wachtler et al., 2003; Fernandez et al.,
+2004; Men et al., 2008). Sterols accumulate in the septum
+during cytokinesis of the fission yeast Schizosaccharo-
+myces pombe as well as in the cytokinetic furrow of the
+sea urchins Strongylocentrotus drobachiensis and Lytechi-
+nus pictus (Wachtler et al., 2003; Takeda et al., 2004; Ng
+et al., 2005), and the latter has been suggested to be asso-
+ciated with high lipid-order membrane domains (Ng et al.,
+2005). Similarly, the mammalian mid-body is thought to
+represent a sterol-enriched membrane during final stages
+of mammalian cytokinesis (Skop et al., 2004), but this has
+not been demonstrated. The mid-body has recently been
+found to accumulate specific lipids at high levels, including
+ceramides, triacylglycerol, phosphatidic acid and phospha-
+tidylserine (Atilla-Gokcumen et al., 2014). A high degree of
+lipid packing, also referred to as high membrane lipid
+order, is a biophysical feature of membrane rafts (Pike,
+2006; Simons and Sampaio, 2011). Lipid order may be
+probed using fluorescent, lipid order-sensitive probes,
+both in artificial membranes in vitro (Jin et al., 2006; Owen
+et al., 2006) and in live cells in vivo (Owen et al., 2012).
+The fluorescent probe di-4-ANEPPDHQ has been validated
+for determining lipid order in extracted plant membranes
+and in live imaging of plant cells (Roche et al., 2008; Liu
+et al., 2009; Gerbeau-Pissot et al., 2013). Lipid order affects
+the fluorescence emission spectrum of di-4-ANEPPDHQ,
+with the spectral region between 500 and 580 nm repre-
+senting the ordered phase of the membrane, and fluores-
+cence between 620 and 750 nm representing the
+disordered phase (Owen et al., 2012). The degree of mem-
+brane lipid order may thus be quantified by ratiometric
+imaging and subsequent calculation of the generalized
+polarization (GP) value (Owen et al., 2012). Here, we com-
+bine di-4-ANEPPDHQ-based live imaging of lipid order, cell
+biological visualization of sterols and cell-plate proteins,
+and biochemical as well as functional genetic analyses to
+elucidate the relationship between membrane order, sterol
+content and DRP1A function in plant cytokinesis. Our
+results reveal that the plant cell plate is a high lipid-order
+membrane domain whose lipid order strictly relies on cor-
+rect sterol composition and DRP1A protein function.
+RESULTS
+The cell plate is a dynamic, high lipid-order membrane
+domain
+In order to explore potential differences in lipid order
+between membranes in plant roots, we employed ratio-
+metric live imaging using the fluorescent lipid-order
+probe di-4-ANEPPDHQ to study root epidermal cells of
+Arabidopsis seedlings. We monitored two regions of the
+emission spectrum of this probe, reflecting the ordered
+and disordered phases (Figure 1a), to generate ratiometric
+pseudo-colored GP images, in which red and green corre-
+spond to high or low GP values reflecting higher and
+lower membrane lipid order, respectively (Figure 1b).
+Intriguingly, the cell plate of meristematic cells consis-
+tently displayed a higher GP value than the plasma mem-
+brane of wild-type seedlings (Figure 1b), which we
+confirmed by quantitative and statistical analyses of GP
+values from the cell plate and the plasma membrane at
+the single-cell level (Figure 2a). Furthermore, analyzing
+GP values from cell plates at various cytokinetic stages
+(early stage, middle stage and late stage, n = 15 for each
+stage) indicated a progressive decrease in cell-plate lipid
+order, but the lipid order of the plasma membrane did
+not change during cytokinesis (Figure 2b,c and Tables S1,
+S2 and S3). In addition, we calculated the GP values for
+the cell plate relative to the GP value of the closest
+plasma membrane, and noticed a progressive decrease in
+the relative GP values from early to middle and late
+stages, with the relative GP values from early and late
+stages being highly significantly different (Figure 2d and
+Table S1). Consistent with these findings, following indi-
+vidual cells over time by ratiometric imaging of GP val-
+ues throughout cell-plate maturation revealed a dynamic
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+746 Marcia Frescatada-Rosa et al.
+decrease in cell-plate lipid order, while lipid order of the
+plasma membrane remained fairly constant (Figure 2e,f).
+The cell plate is a sterol-sensitive, high lipid-order
+membrane domain
+We confirmed the high lipid order of the cell plate by quantita-
+tive analyses of GP values from cell plates and plasma
+membranes from large populations of cytokinetic cells
+obtained from multiple experiments (Figure 3c and Tables S2
+and S3). We used a recently developed membrane lipid order
+probe, PY3174 (Kwiatek et al., 2013), in live-cell imaging, and
+observed higher GP values for cell plates than for plasma
+membranes of cytokinetic cells (Figure S1 and Table S2), very
+similar to the results obtained with di-4-ANEPPDHQ.
+Together, these findings strongly suggest that the cell plate
+represents a high lipid-order membrane domain.
+We next assessed whether modifications of the mem-
+brane sterol content affect the lipid order of cell-plate
+membranes. Membrane order may be modified by the con-
+centration and molecular nature of the sterols integrated
+into the phospholipid bilayer (Xu et al., 2001; Jin et al.,
+2006; Owen et al., 2006; Roche et al., 2008). Genetic and
+pharmacological tools allow modulation of sterol concen-
+tration and composition in plants. For example, seedlings
+defective in the sterol biosynthesis gene CYCLOPROPYLS-
+TEROL ISOMERASE1 (CPI1), or treated with the sterol bio-
+synthesis inhibitor fenpropimorph (fen), display a
+substantially modified sterol profile, primarily accumulat-
+ing cyclopropylsterols (He et al., 2003; Men et al., 2008).
+We also observed a strong shift of the sterol profile
+towards cyclopropylsterols in cpi1-1 mutant root callus,
+although the callus retained a significant amount of sitos-
+terol (Figure 4a), which was found to be almost completely
+absent in seedling roots (Men et al., 2008). The sterol bio-
+synthesis inhibitor lovastatin (lov) inhibits the activity of 3-
+hydroxy-3-methylglutaryl CoA reductase, causing a reduc-
+tion of total sterol concentration (Bach and Lichtenthaler,
+1983). Treatment of Arabidopsis seedlings with 1 lM lov or
+50 lg ml1 fen significantly reduced the total amount of
+sterols or converted a large proportion of sterols into cy-
+clopropylsterols, respectively (Figure 4b). We used the
+cpi1-1 mutant and inhibitor treatments to address whether
+interference with sterol biosynthesis affects membrane
+order as visualized by ratiometric di-4-ANEPPDHQ imag-
+ing. Intriguingly, the GP values for cell plates and plasma
+membranes of individual cells (Figure 3a) and from large
+populations of cytokinetic cells were similar for cytokinetic
+cells of the cpi1-1 mutant (Figure 3b,c and Tables S2 and
+S3), as well as fen-treated wild-type roots (Figure 3b,c and
+Tables S2 and S3). Cells from roots treated with lov also
+displayed significantly lower GP values at the cell plate
+compared with the dimethylsulfoxide (DMSO)-treated con-
+trol (Figure 3c). This is in contrast to the strikingly higher
+GP values observed for the cell plates of wild-type cells or
+solvent-treated control cells compared to their plasma
+membranes (Figure 3b,c and Table S3). Thus, our results
+strongly suggest that the cell plate represents a dynamic,
+high lipid-order membrane domain that is highly sensitive
+to alterations in sterol concentration or composition.
+DRP1A and other CME components are enriched in
+detergent-resistant membranes and co-localize with
+sterols at the cell plate
+Membrane rafts act as platforms at which specific proteins
+assemble through cooperative interactions between pro-
+teins, sterols and sphingolipids (Pike, 2006; Simons and
+Sampaio, 2011). A biochemical tool to estimate the
+(a)
+(b)
+Figure 1. The cell plate is a high lipid-order membrane domain.
+Ratiometric fluorescence live imaging analysis of membrane lipid order in
+cytokinetic cells from 5-day-old Arabidopsis thaliana seedling roots labeled
+with the lipid order-sensitive probe di-4-ANEPPDHQ.
+(a) Fluorescence properties of di-4-ANEPPDHQ. The dye is excited using a
+488 nm laser. The red line corresponds to the spectrum of the dye at the
+cell plate (CP), whereas the black line corresponds to the spectrum at the
+plasma membrane (PM). Two-channel acquisition is performed in the wave-
+length bands indicated by red shading (500–580 nm) and gray shading
+(620–750 nm).
+(b) Left panels: di-4-ANEPPDHQ fluorescence recorded between 500–
+580 nm, representing high lipid order. Middle panels: fluorescence recorded
+at 620–750 nm representing low lipid order. Right panels: ratiometric color-
+coded GP images obtained after processing images recorded at 500–580
+and 620–750 nm as described previously (Owen et al., 2012) and in the
+Experimental procedures. Red, high lipid order; black, low lipid order.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+DRP1A and membrane order during plant cytokinesis 747
+abundance of proteins associated with sterol-enriched
+membrane domains involves preparation and extraction of
+proteins that co-fractionate in detergent-resistant
+membranes (DRMs) (Mongrand et al., 2004; Borner et al.,
+2005; Lingwood and Simons, 2007). To determine whether
+components of the CME machinery associate with DRMs
+from roots, DRMs were prepared from total membrane
+fractions obtained from Arabidopsis thaliana wild-type and
+(a)
+(b)
+(c)
+(f)
+(d)
+(e)
+Figure 2. Dynamics of high lipid order at the cell plate during cytokinesis.
+(a) Histograms showing the percentage of pixels per class of GP values between -0.7 (lower order) and 0.2 (higher order). Values were extracted from a single
+cell plate (CP) and the closest plasma membrane (PM) of a cytokinetic Col-0 cell. Note the significant shift of GP values at the CP towards higher order compared
+to GP values at the PM. Asterisks indicate a statistically significant difference between the GP value distributions for the PM and for the CP (**P = 0.0011).
+(b) GP images of representative cytokinetic stages (early CP, middle CP and late CP) in Col-0. Note the decrease in lipid order (from red to yellow) from early to
+late CPs, while the PM order remains lower (green).
+(c) Quantitative analysis of mean GP value distributions for CPs and PMs obtained from multiple cells of the early, middle and late cytokinetic stages shown in
+(b). Fifteen cells were analyzed per stage. The horizontal lines indicate the means of the non-normal distributions. P values obtained using the non-parametric,
+two-tailed Mann–Whitney test indicate that differences between the distributions are highly significant (***P < 0.001) or significant (**P < 0.005). Exact P values
+are given in Table S2.
+(d) Mean relative GP values for each individual cell from the three cytokinetic stages from (c) calculated using the equation (GPPM – GPCP)/(GPPM + GPCP). Fifteen
+cells were analyzed per stage. P values obtained using Student’s two-tailed t test for two samples indicate that differences between the distributions are signifi-
+cant (**P < 0.01). Exact P values are given in Table S1.
+(e) Time series of membrane order represented by eight selected GP images of a cell throughout the various stages of cell-plate formation. Numbers indicate
+the time (min) from onset of imaging of an early unfused cell plate until cell-plate fusion.
+(f) Quantification of all GP values extracted from the CP and PM for all 12 images acquired during the time series.
+Scale bars = 5 lm.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+748 Marcia Frescatada-Rosa et al.
+cpi1-1 mutant root callus cultures and analyzed by immu-
+noblotting. This revealed that, in contrast to the DRM-
+depleted protein STEROL METHYLTRANSFERASE 1
+(SMT1) (Boutte et al., 2010), the CME components CLATH-
+RIN HEAVY CHAIN (CHC), CLATHRIN LIGHT CHAIN (CLC),
+DRP1A (Kang et al., 2003a; Fujimoto et al., 2007, 2010; Kon-
+opka and Bednarek, 2008a; Kitakura et al., 2011; Wang
+et al., 2013) and ADP-RIBOSYLATION FACTOR1 (ARF1),
+which are required for endocytosis (Xu and Scheres, 2005;
+Boutte et al., 2010), were enriched in DRMs obtained from
+both wild-type and cpi1-1-mutant callus (Figure 5a–d). Our
+CP PM CP PMCP PM CP PM CP PM
+G
+P
+ v
+al
+ue
+(b)
+0.2
+–0.8
+–0.6
+–0.4
+–0.2
+0
+DMSO lov fenCol-0 cpi1-1
+*** *** ***
+***
+***
+***
+1 
+–1 DMSO lov fenCol-0 cpi1-1(c)
+(a)
+–0
+.7
+–0
+.6
+–0
+.5
+–0
+.4
+–0
+.3
+–0
+.2
+–0
+.1 0.
+0
+0.
+1
+0.
+2
+GP value
+CP
+ PM
+cpi1-1
+10
+15
+20
+25
+30
+35
+5
+0
+%
+  p
+ix
+el
+s 
+pe
+r c
+la
+ss
+Figure 3. The high lipid order of cell-plate membranes is sterol-dependent.
+(a) Histograms showing the percentage of pixels per class of GP values
+between -0.7 (lower order) and 0.2 (higher order). Values were extracted from
+a single cell plate (CP) and the closest plasma membrane (PM) of a cytoki-
+netic cpi1-1 cell (in the Col-0 background). There was no significant shift of
+GP values at the CP compared to GP values at the PM in cpi1-1 (P = 0.972).
+(b) GP images of representative cytokinetic cells of the genotypes or treat-
+ments: Col-0 (wild-type), cpi1-1 in the Col-0 background (cpi1-1), Col-0 trea-
+ted with 0.1% DMSO as a solvent control, Col-0 treated with 1 lM lovastatin
+(lov) and Col-0 treated with 50 lg ml1 fenpropimorph (fen). Note the higher
+lipid order (orange/red) at the CP compared to the PM (green) in Col-0 (wild-
+type) and Col-0 treated with 0.1% DMSO compared to the lower lipid order at
+the CP and PM (green) in cpi1-1 and lov- or fen-treated cells. Scale
+bars = 5 lm.
+(c) Quantitative analysis of mean GP value distributions for CPs and PMs
+obtained from multiple cells of the genotypes or treatments shown in (b).
+Forty cells in three to ten imaging experiments were analyzed for Col-0 and
+cpi1-1, and 50 cells were analyzed for DMSO, lov and fen treatments. The
+horizontal lines indicate the means of the non-normal distributions. P values
+obtained using the non-parametric, two-tailed Mann–Whitney test indicate
+that differences between distributions are highly significant (**P < 0.001) or
+very highly significant (***P < 0.0001). Exact P values are given in Tables S2
+and S3.
+(a)
+(b)
+Figure 4. Altered sterol composition in cpi1-1 mutant root callus and in
+roots treated with sterol biosynthesis inhibitors.
+(a) GC/MS composition analysis of bulk sterols in 3-week-old root callus cul-
+tures generated from roots of Ler wild-type and the homozygote cpi1-1
+mutant (in the Ler background). Callus of individual cultures was pooled
+from callus collections at passage after 3 weeks of culture, when small cal-
+lus pieces were transferred to fresh culture plates. Values are means  SD
+obtained from n = 4 cultures of Ler and n = 8 cultures of cpi1-1 grown in
+parallel. Sterol composition is expressed as lg g1 fresh weight of callus.
+(b) GC/MS composition analysis of bulk sterols from 5-day-old Col-0 seed-
+ling roots obtained from seedlings grown on MS agar plates containing
+0.1% DMSO (DMSO), 1 lM lovastatin (lov) or 50 lg ml1 fenpropimorph
+(fen). Sterol composition is expressed as lg g1 fresh weight. Values are
+means  SD from five independent biological experiments. Note reduction
+of bulk sterol content for sitosterol, stigmasterol and 24-methylcholesterol
+(campesterol) upon lov treatment compared to the striking accumulation of
+the cyclopropylsterols cycloeucalenol and 24-methylpollinastanol upon fen
+treatment.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+DRP1A and membrane order during plant cytokinesis 749
+finding that DRMs from cpi1-1 mutant callus showed levels
+similar to the wild-type callus may partly be due to the fact
+that the sterol composition profile of cpi1-1 root callus
+(Figure 4a) was not as strongly altered as that of cpi1-1-
+mutant roots (Men et al., 2008). Although we did not
+observe differences in DRM association of the tested CME
+proteins between the cpi1-1-mutant and wild-type root cal-
+lus, our results clearly show that several CME components
+from Arabidopsis root cells preferentially associate with
+DRMs, indicating that they may associate with membrane
+rafts.
+To assess co-localization of CME components with ste-
+rol-rich membranes in roots in situ, we used the 3-b-hy-
+droxysterol-specific probe filipin III (Grebe et al., 2003) to
+co-label fluorescent filipin–sterol complexes with DRP1A,
+DRP2B or CLC 2 fused to GFP (DRP1A–GFP, DRP2B–GFP or
+CLC2–GFP). We observed that sterols clearly co-localized
+with DRP1A–GFP (Figure 5e–g), DRP2B–GFP (Figure 5h–j)
+and CLC2–GFP (Figure 5k–m) at the cell plate. Additionally,
+CLC2–GFP and sterols co-localized in some intracellular
+compartments (Figure 5k–m), most likely the trans-Golgi
+network/early endosome (Ito et al., 2012), whose mem-
+branes are sterol-enriched (Boutte et al., 2010). Taken
+together, several CME components co-localized with ster-
+ols at the cell plate in the plane of cell division.
+Cell-plate accumulation of DRP1A is sensitive to sterol
+composition
+Interestingly, specific localization of the KNOLLE syntaxin
+in the plane of cell division relies on sterol-dependent
+endocytosis in a clathrin- and DRP1A-dependent manner
+(Boutte et al., 2010). KNOLLE is constrained to the cell
+plate and to endomembrane compartments in wild-type,
+but is ectopically found at lateral plasma membranes of
+late cytokinetic cells in cpi1-1 and drp1a mutants (Boutte
+et al., 2010). We determined whether loss of function of
+the two individual DRP2 genes or the two individual CHC
+genes also affects KNOLLE cell-plate localization. However,
+we did not observe a deviation of KNOLLE localization
+from that of the wild-type in drp2a, drp2b, chc1 and chc2
+single mutants (Figure S2a–f). This may be due to the
+reported redundancy within these two gene families as
+indicated by early lethality of respective double mutants
+(Backues et al., 2010; Kitakura et al., 2011).
+We next evaluated whether altered sterol composition
+affects the cell-plate localization of CME components. In
+wild-type roots, DRP1A mainly localized along and towards
+(a)
+(c)
+(e) (f) (g)
+(h) (i) (j)
+(k) (l) (m)
+(d)
+(b)
+Figure 5. DRP1A is enriched in DRMs and co-localizes with sterols at the
+cell plate.
+(a–d) Western blot analysis of DRM fractions from 3-week-old Arabidopsis
+callus cultures of wild-type Ler and the cpi1-1 mutant (in the Ler back-
+ground). Equal amounts of membrane protein were loaded from the control
+fraction mock-extracted at a Triton X-100 detergent/protein (w/w) ratio of 0
+(non-DRM) and the DRM fraction extracted at a Triton X-100 detergent/pro-
+tein (w/w) ratio of 8 (DRM). Similar results were obtained in three indepen-
+dent experiments.
+(a) Western blot from DRM extractions probed with anti-DRP1A (isoform-
+specific), anti-CLC (generic), anti-ARF1 (generic) and anti-SMT1 (isoform-
+specific) antibodies.
+(b) Replicate Coomassie Blue gel as a loading control for the blot in (a).
+(c) Western blot from DRM extraction probed with anti-CHC (generic) and
+anti-SMT1 (isoform-specific) antibodies.
+(d) Replicate Coomassie Blue gel as a loading control for the blot in (c).
+The results in (a) and (c) indicate enrichment of DRP1A, CLC2, CHC and
+ARF1 in DRMs compared to depleted SMT1.
+(e–m) Co-localization analyses at the cell plate in late cytokinetic cells: (e,h,
+k) filipin-sterol fluorescence (fil, red); (f) DRP1A–GFP, (i) DRP2B–GFP and (l)
+CLC2–GFP fluorescence (green). (g,j,m) Merged images of (e) and (f), (h)
+and (i), and (k) and (l), respectively. Scale bars = 5 lm.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+750 Marcia Frescatada-Rosa et al.
+the edges of the forming cell plate, and was also present in
+endomembrane compartments as well as at the plasma
+membrane (Figures 5f and 6a). In comparison with wild-
+type (Figure 6a), anti-DRP1A immunolabeling at the cell
+plate was enhanced in the cpi1-1 mutant (Figure 6b), as
+corroborated by quantitative analysis of DRP1A immuno-
+fluorescence intensity at the plane of cell division
+(Figure 6c). In contrast, the cell-plate localization of
+DRP2B–GFP and CLC2–GFP appeared to be unaffected in
+cytokinetic cpi1-1-mutant cells (Figure S2g–r), possibly due
+to the abundance of other DRP2 and CHC isoforms at the
+cell plate, or due to a differential sterol sensitivity of these
+proteins compared to DRP1A.
+Both genetic and pharmacological interference with
+membrane sterol composition induce mis-localization of
+KNOLLE at lateral plasma membranes during late cytokine-
+sis (Boutte et al., 2010). We obtained similar results for
+seedlings treated with 1 lM lov or with a lower fen concen-
+tration (50 lg ml1) than applied in previous studies
+(200 lg ml1) (Boutte et al., 2010). When compared with
+solvent-treated wild-type (Figure 5d,g), fen and lov treat-
+ment induced lateral KNOLLE mis-localization (Figure 6e,f,
+h,i), under conditions that reduced cell-plate membrane
+lipid order (Figure 3b,c). We previously observed KNOLLE
+lateral mis-localization in the cyclopropylsterol-accumulat-
+ing cpi1-1 mutant; however, this did not strongly affect the
+rate of KNOLLE lateral diffusion (Boutte et al., 2010). We
+also analyzed lateral diffusion of KNOLLE at the cell plate
+of DMSO-treated and lov-treated roots in the presence of
+the protein translation inhibitor cycloheximide and energy
+inhibitors (sodium azide and 2-deoxy-d-glucose) by fluo-
+rescence recovery after photobleaching (FRAP) analyses
+(Figure S3). Compared with cells from DMSO-treated roots
+(Figure S3a,c), functional YFP–KNOLLE displayed only mar-
+ginally faster FRAP at cell plates from lov-treated roots
+(Figure S3b,c), suggesting that reduction of total sterol lev-
+els by lov treatment hardly affects lateral membrane diffu-
+sion of YFP–KNOLLE per se, similar to the results obtained
+for GFP–KNOLLE in the cpi1-1 mutant (Boutte et al., 2010).
+More strikingly, KNOLLE localization is strongly affected by
+interference with CME components, and particularly
+depends on DRP1A function (Boutte et al., 2010). This
+prompted us to investigate whether sterol-modulated
+Average DRP1A pixel intensity at cell plate
+N
+um
+be
+r o
+f c
+el
+ls
+ p
+er
+ c
+la
+ss
+an
+ti-
+D
+R
+P1
+A
+YF
+P-
+KN
+O
+LL
+E
+an
+ti-
+D
+R
+P1
+A
+an
+ti-
+KN
+O
+LL
+E (e) (f)(d)
+(g) (h) (i)
+(j) (k) (l)
+(m)
+cpi1-1
+Ler
+(c)
+DMSO fen lov
+DMSO fen lov
+DMSO fen lov
+(b)
+(a)
+Average DRP1A  pixel intensity at cell plate
+N
+um
+be
+r o
+f c
+el
+ls
+ p
+er
+ c
+la
+ss
+0-10
+80
+70
+60
+50
+40
+30
+20
+10
+0
+11-20 21-30 31-40 41-50 51-60 61-70
+DMSO
+lov
+fen
+***
+*
+0-10 11-20 21-30 31-40 41-50
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Ler
+cpi1-1 *
+Figure 6. Cell-plate accumulation of DRP1A is sensitive to sterol composi-
+tion.
+(a,b) anti-DRP1A immunolocalization (red) in late cytokinetic root cells of (a)
+wild-type (Ler) and (b) the cpi1-1 mutant (in the Ler background). Blue stain-
+ing indicates DAPI-stained DNA.
+(c) Quantification of DRP1A immunofluorescence intensity at cell plates
+from multiple cells (n = 125–146). Frequency distributions of cells per class
+average pixel intensity at the cell plate are shown. The mean pixel intensity
+was calculated as described in Experimental procedures. Non-normal distri-
+butions were analyzed for significance of differences between distributions
+by the non-parametric, two-tailed Mann–Whitney test with a significance
+threshold level of P < 0.05. The P value for Ler (n = 146 cells from 50 roots)
+versus cpi1-1 (n = 125 cells from 47 roots) is 0.014694 (asterisk).
+(d–l) Analyses of 5-day-old root cells from Arabidopsis seedlings grown on
+medium supplemented with 0.1% DMSO solvent (d,g,j), 50 lg ml1 fen (e,h,k)
+or 1 lM lov (f,i,l). (d–f) Anti-KNOLLE immunolabeling of late cytokinetic cells
+treated with (d) DMSO, (e) fen or (f) lov. (g–i) Functional YFP–KNOLLE
+expressed in late cytokinetic root cells of seedlings treated with (g) DMSO,
+(h) fen or (i) lov. Labeling of the ectopic lateral membrane by anti-KNOLLE
+(e,f) and YFP–KNOLLE (h,i) is indicated by arrowheads. (j–l) DRP1A immuno-
+fluorescence labeling of late cytokinetic root cells of seedlings treated with
+(j) DMSO, (k) fen or (l) lov. Blue staining indicates DAPI-stained DNA.
+(m) Quantification of DRP1A immunofluorescence intensity at the cell plate
+from multiple cells of roots from seedlings treated with DMSO, fen or lov.
+Frequency distributions of cells per class average pixel intensity at the cell
+plate (calculated as described in Experimental procedures) are shown. Dis-
+tributions were analyzed for significance of differences by the non-paramet-
+ric, two-tailed Mann–Whitney test with a significance threshold level at
+P < 0.05. *P = 0.015068 for DMSO (n = 146 cells from 50 roots) versus fen
+(n = 100 cells from 31 roots); ***P < 2e-06 for DMSO (n = 95 cells from 25
+roots) versus lov (n = 73 cells from 28 roots).
+Scale bars = 5 lm in (a), (b) and (d–l).
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+DRP1A and membrane order during plant cytokinesis 751
+membrane order may also affect DRP1A localization at the
+cell plate. Indeed, compared to solvent-treated control
+roots (Figure 6j), higher DRP1A immunofluorescence was
+found at the cell plate in fen-treated seedlings (Figure 6k);
+this result was supported by quantitative analysis (Fig-
+ure 6m). In contrast, reducing sterol concentration by lov
+treatment strongly decreased the DRP1A signal (Figure 6l,
+m and Figure S2u,v). Similarly, Western blot analysis of
+total protein extracts revealed increased DRP1A protein
+levels in fen-treated seedlings compared to DMSO-treated
+controls, in contrast to the decreased DRP1A protein levels
+observed upon lov treatment (Figure S4). Taken together,
+our findings reveal differential effects of alterations in ste-
+rol composition and concentration on DRP1A localization
+at the cell plate.
+DRP1A is required for high membrane lipid order at the
+cell plate
+Previous studies showed that DRP1A and CPI1 function is
+required for correct execution of cytokinesis and for endo-
+cytosis of cargo proteins such as KNOLLE during late cyto-
+kinesis (Boutte et al., 2010) or the PIN2 auxin efflux carrier
+after cytokinesis, respectively (Men et al., 2008; Mravec
+et al., 2011). Moreover, analysis of the drp1a cpi1-1 double
+mutant revealed a strong synergistic interaction of the
+DRP1A and CPI1 genes (Boutte et al., 2010). As interference
+with sterol composition and membrane order affected the
+cell-plate localization of DRP1A, we determined whether
+DRP1A contributes to membrane lipid order as visualized
+by di-4-ANEPPDHQ. In striking contrast to the wild-type,
+which exhibited a higher mean GP value for the cell plate
+than for the plasma membrane, cytokinetic cells in drp1a-
+single mutants displayed similar mean GP values for the
+cell plate and the plasma membrane (Figure 7a,b), indicat-
+ing similar lipid order. Hence, DRP1A localization not only
+depends on sterol composition, but its activity may also
+feedback on the lipid order of cell-plate membranes.
+DISCUSSION
+In this study, we provide evidence that the plant cell plate
+represents a high lipid-order membrane domain. Sterols
+are clearly present in cell-plate membranes but are not
+preferentially enriched here compared with the plasma
+membrane in cytokinetic cells. However, genetic and phar-
+macological interference with sterol biosynthesis strongly
+disrupted cell plate-specific membrane order (Figure 8).
+This suggests that additional, specifically localized compo-
+nents may contribute to membrane order. Strikingly, sev-
+eral CME components accumulate at the cell plate (Kang
+et al., 2003a,b; Fujimoto et al., 2007, 2008; Boutte et al.,
+2010; Mravec et al., 2011), and have been found to be
+enriched in DRMs from tobacco, Nicotiana tabacum, cells
+as well as Arabidopsis leaf plasma membranes (Mongrand
+et al., 2004; Minami et al., 2009). Indeed, we found that
+CME components were preferentially enriched in DRMs
+compared to non-DRMs from Arabidopsis root callus cul-
+tures, and observed that DRP1A, DRP2B and CLC2 co-local-
+ized with sterols at the cell plate in roots. Thus, sterol-rich,
+high lipid-order membranes apparently function as plat-
+forms for CME at the cell plate.
+The stronger accumulation of DRP1A at the cell plate of
+cpi1-1 mutant and fen-treated root cells compared to con-
+trol roots, as well as the ectopic accumulation of YFP–
+KNOLLE and native KNOLLE at the plasma membrane of
+cpi1-1 mutant and fen-treated seedlings during late cytoki-
+nesis, are consistent with the increased residence time of
+DRP1A foci at the cell cortex in elongated root cells of fen-
+treated roots (Konopka and Bednarek, 2008a). Thus, these
+CP PMCP PM CP PM
+G
+P
+ v
+al
+ue
+0.2
+–0.8
+–0.6
+–0.4
+–0.2
+0
+1 
+–1
+*** drp1a 060977Col-0 drp1a rsw9
+***
+***
+(a)
+(b)
+drp1a 060977Col-0 drp1a rsw9
+Figure 7. DRP1A is required for high membrane lipid order at the cell plate.
+(a) Color-coded GP images from ratiometric fluorescence live imaging
+analyses of membrane lipid order in cytokinetic cells of 5-day-old seedling
+roots of genotypes Col-0, drp1arsw9 or drp1a060977 labeled with di-4-ANE-
+PPDHQ. Red, high lipid order; black, low lipid order.
+(b) Quantitative analysis of mean GP value distributions from cell plates
+(CP) and plasma membranes (PM) obtained from multiple cells (n = 40) for
+each of the genotypes (Col-0, drp1arsw9 or drp1a060977) collected in 3–7
+imaging experiments. Horizontal lines indicate means of the non-normal
+distributions. P values obtained using the non-parametric, two-tailed Mann–
+Whitney test with a significance threshold level at P < 0.05 indicate that dif-
+ferences between the indicated distributions are highly significant
+(***P < 0.001). Exact P values are given in Tables S2 and S3.
+Note the strong difference in cell-plate membrane lipid order between Col-0
+and drp1a mutant alleles.
+The cells for Col-0 (n = 40) were acquired independently of the Col-0 cells
+for which results are shown in Figure 2c.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+752 Marcia Frescatada-Rosa et al.
+results suggest that alterations in sterol composition that
+induce accumulation of cyclopropylsterols affect the
+release of DRP1A from the membrane during endocytosis
+(Figure 8). By comparison, reduction of sterol concentration
+by lov treatment reduced the amount of DRP1A at the cell
+plate, but also decreased lipid membrane order, similar to
+alteration of sterol composition (Figure 8). This implies
+that a critical sterol concentration is required for high
+membrane order and DRP1A membrane localization. Col-
+lectively, our results indicate that DRP1A localization may
+be regulated by membrane sterol composition, although it
+is possible that alterations of sterol composition affect
+overall DRP1A protein abundance, because total DRP1A
+levels observed in protein extracts were affected similarly
+to DRP1A protein localization at the cell plate as observed
+by immunolocalization or use of fluorescent DRP1A fusion
+proteins. More intriguingly, DRP1A function itself is
+required for high membrane lipid order at the cell plate.
+Such potential feedback modulation of membrane lipid
+order by DRP1A may occur through its function in endocy-
+tosis. DRP1A function in endocytosis is required to restrict
+lateral diffusion of KNOLLE to the plane of cell division
+(Boutte et al., 2010), as well as for selective asymmetric
+internalization of PIN auxin efflux carriers after cell division
+(Mravec et al., 2011). Interestingly, sterols accumulate at
+the contractile actin ring in fission yeast and sea urchins
+during cytokinesis (Wachtler et al., 2003; Takeda et al.,
+2004; Ng et al., 2005), and membrane raft components
+including dynamin are enriched in the mammalian mid-
+body (Skop et al., 2004). Our study on plants, which dis-
+play a very different mode of cytokinesis, suggests that
+evolutionarily diverse organisms use high lipid-order
+membrane domains as platforms for execution of cytokine-
+sis. Moreover, our findings provide precedence for a func-
+tion of dynamin-like proteins in the lipid order of
+cytokinetic membranes. Future studies may reveal whether
+various eukaryotes employ dynamin-dependent endocyto-
+sis to create high lipid-order domains to drive execution of
+their diverse modes of cytokinesis.
+EXPERIMENTAL PROCEDURES
+Plant material and growth conditions
+We used the Arabidopsis thaliana L. Heyn. ecotypes Landsberg
+erecta (Ler) and Columbia-0 (Col-0), and the following mutants:
+cpi1-1 in the Ler background (Men et al., 2008) and cpi1-1 out-
+crossed seven times to the Col-0 background, herein referred to
+as cpi1-1 in the Col-0 background, drp1arsw9 (Collings et al.,
+2008) and drp1a069077 (SALK_069077) in the Col-0 background
+(Collings et al., 2008; Boutte et al., 2010), drp2a-1 and drp2b-2
+(Backues et al., 2010), and chc1-2, chc2-1 and chc2-2 (Kitakura
+et al., 2011) in the Col-0 background. Molecular characterization
+of the cpi1-1, drp1a, drp2a-1, drp2b-2, chc1-2, chc2-1 and chc2-
+2 mutants was performed by PCR-based genotyping as
+described previously (Collings et al., 2008; Men et al., 2008;
+Backues et al., 2010; Boutte et al., 2010; Kitakura et al., 2011). In
+addition, we used the fluorescent protein marker lines
+pKNOLLE:YFP-KNOLLE in the Ler/Niederzenz-0 background (El
+Kasmi et al., 2013), pDRP1A:DRP1A-tagRFP;pDRP2B:DRP2B-GFP
+in the Col-0 background (Fujimoto et al., 2010), and pDRP1A:
+DRP1A-mGFP5 (Kang et al., 2003a) and pCLC2:CLC2-GFP (Kon-
+opka and Bednarek, 2008b) in the Wassilewskija background.
+Plant growth conditions were as described previously (Fischer
+et al., 2006). For DRM extraction and sterol analyses of root cal-
+lus, 3-week-old callus cultures of Ler and cpi1-1 (in the Ler
+background) were grown as described previously (Encina et al.,
+2001) at 22°C, 60% humidity, in the dark.
+Drug treatments
+For inhibitor treatments, fenpropimorph (Pestanal, Sigma, http://
+www.sigmaaldrich.com/) was dissolved in DMSO to give a stock
+solution of 200 mg ml1, and lovastatin (Mevinolin, Sigma) was
+dissolved in DMSO to 2 mM, respectively. Seedlings were grown
+on MS agar plates containing 50 lg ml1 fenpropimorph (fen) or
+1 lM lovastatin (lov), or on control plates containing an equal
+amount of 0.1% DMSO. Analyses were performed on 5-day-old
+seedlings.
+Sterol analysis from roots and root callus cultures of
+Arabidopsis
+Sterol extraction and subsequent analysis of sterols derived
+from roots dissected from 5-day-old seedlings grown on MS
+Figure 8. Model for sterol and DRP1A action on cell-plate membrane lipid
+order.
+Alteration of sterol composition by cpi1-1 mutation or fenpropimorph (fen)
+treatment induces a decrease in lipid order at the cell plate (CP) and
+increased DRP1A accumulation at the CP. The decreased sterol concentra-
+tion caused by lovastatin (lov) treatment induces a decrease in lipid order at
+the CP and DRP1A residence at the CP. The lipid order of CP membranes is
+also decreased in the drp1a mutant, suggesting that DRP1A is needed for
+high lipid order. The mode(s) of sterol action on DRP1A requires further
+mechanistic analysis, and may include effects in addition to those on lipid
+order.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+DRP1A and membrane order during plant cytokinesis 753
+agar plates containing DMSO, 50 lg ml1 fen or 1 lM lov was
+performed by GC/TOF MS exactly as previously described (Men
+et al., 2008), except that five independent biological experi-
+ments were performed. Sterol analyses from root callus cul-
+tures were performed using 20 mg fresh weight of 3-week-old
+callus for each individual wild-type and mutant line tested.
+Detergent-resistant membrane analysis
+All steps of the DRM extraction were performed at 4°C as
+described previously (Borner et al., 2005; Boutte et al., 2010). In
+brief, root callus tissue derived from roots of 3-week-old Ler or
+the cpi1-1 mutant (in the Ler background) was ground in two
+volumes of homogenization buffer (12% w/v sucrose, 100 mM
+Tris/HCl pH 8.0, 1 mM EDTA), and total membrane was col-
+lected as described previously (Borner et al., 2005). Protein
+quantification was performed using a bicinchoninic acid (BCA)
+protein assay kit (Thermo Scientific, http://www.thermoscienti-
+fic.com/) and a Spectra-MAX190 multichannel spectrophotome-
+ter (Molecular Devices, http://www.moleculardevices.com/). A
+total of 2.5 mg total membrane protein was incubated without
+Triton X-100 (ratio 0) or with 20 mg Triton X-100 (ratio 8) for
+35 min under agitation (100 rpm). The final volume was kept
+constant for the two ratios so that the percentage of Triton X-
+100 did not exceed 3% at ratio 8. After sucrose step-gradient
+centrifugation, DRMs were collected as described previously
+(Borner et al., 2005), and their protein concentration was deter-
+mined using the BCA kit. Equal amounts of protein from vari-
+ous fractions (5–7 lg) were separated by SDS–PAGE using a
+Bio-Rad (http://www.bio-rad.com/) Mini-Protean 3 system, and
+subjected to Western blotting. The primary antibodies and dilu-
+tions used were: rabbit anti-KNOLLE, 1:1000 (Lauber et al.,
+1997); rabbit anti-SMT1, 1:100 (Agrisera, http://www.agrisera.
+com/) (Boutte et al., 2010); rabbit anti-CLC2, 1:10 000 (Wang
+et al., 2013); mouse anti-CHC-4A8, 1:1000 (ab33474, Abcam,
+http://www.abcam.com/); rabbit anti-DRP1A, 1:250 (Backues and
+Bednarek, 2010); rabbit anti-ARF1, 1:1000 (Agrisera). The sec-
+ondary antibodies used were horseradish peroxidase-conjugated
+goat anti-mouse IgG, 1:3000 (Bio-Rad), and ECL horseradish
+peroxidase-linked donkey anti-rabbit IgG whole antibody,
+1:10 000 (Amersham, http://www.gelifesciences.com/). An ECL
+Western blotting detection reagent kit (Amersham) was used
+for chemiluminescent detection.
+Filipin-sterol fluorescence labeling and detection
+Five-day-old seedlings were completely submerged in a filipin
+III (225 lM; Sigma)/4% w/v paraformaldehyde fixative solution in
+microtubule-stabilizing buffer (MTSB) comprising 50 mM PIPES,
+5 mM EGTA, 5 mM MgSO4, pH 7.0 (Grebe et al., 2003). In a con-
+ventional microwave oven (Electrolux, http://www.electrolux.
+com), specimens were pulsed six or seven times for 30 sec at
+90 W with an interval of at least 1 min between each pulse
+(Boutte et al., 2011). Staining/fixation were continued for 1 h at
+room temperature in the dark, after which the seedlings were
+washed three times for 5 min each with sterile distilled water.
+In the case of co-labeling with CLC–GFP, the microwave step
+was omitted, and the seedlings were stained/fixed for 2 h at
+room temperature instead. Root tips were dissected and
+mounted in a drop of Citifluor AF1 (Citifluor Ltd, http://citifluor.
+com/). Fluorescence was detected by confocal laser scanning
+microscopy using a Leica TCS SP2 AOBS (http://www.leica-
+microsystems.com/) spectral system mounted on a Leica DM
+IRE2 inverted microscope. Image acquisition settings were as
+described previously (Boutte et al., 2011). The excitation wave-
+lengths used were 364 nm (argon UV laser) for filipin-sterol flu-
+orescence, 488 nm (argon laser) for GFP and 561 nm (diode
+laser) for tagRFP (Figure S2). Fluorescence emission was
+detected between 400 and 484 nm, 492 and 557 nm and 580
+and 700 nm, respectively. Pictures were overlaid and assembled
+using Adobe Illustrator CS6 (http://www.adobe.com/).
+Ratiometric di-4-ANEPPDHQ fluorescence microscopy
+imaging of membrane lipid order
+Di-4-ANEPPDHQ (D36802, Molecular Probes, http://www.lifetech-
+nologies.com/) was dissolved in 300 ll DMSO to create a stock
+solution of 5 mM, and stored sealed in an air-tight, light-proof
+vial at room temperature (21°C) for up to 6 months. Staining solu-
+tion was prepared by dissolving 2 ll of di-4-ANEPPDHQ stock solu-
+tion in 2 ml of MS medium. Five-day-old seedlings were
+submerged in staining solution for 90 min at room temperature.
+Specimens were washed three times for 1 min at room tempera-
+ture in MS medium, and roots were mounted for observation by
+confocal laser scanning microscopy using a Zeiss LSM 780 Axio
+Observer inverted microscope (http://www.zeiss.com/microscopy/
+en_de/home.html) and a water-corrected Plan-Apochromat 409/
+1.20 DIC M27 objective (Zeiss; http://www.zeiss.com/microscopy/
+en_de/home.html). Di-4-ANEPPDHQ fluorescence was excited at
+488 nm, and fluorescence intensity images were recorded simulta-
+neously in the ranges 500–580 and 620–750 nm.
+The calculation of the GP images obtained from ratiometric
+di-4-ANEPPDHQ fluorescence imaging was performed using
+ImageJ (http://imagej.nih.gov/ij/) following the procedure
+described by Owen et al. (2012) and using their custom-written
+macro. The ordered (500–580 nm) and disordered (620–750 nm)
+phase fluorescence channels were assigned ch00 and ch01,
+respectively. The threshold value for the analysis was fixed at
+15, the color scale for the output GP images was set to ‘grays’,
+and no immunofluorescence mask was selected. The ImageJ
+macro for GP analysis generates GP images from ordered and
+disordered channel images based on the following equation:
+GP ¼ I500 580 GI620 750
+I500 580 þGI620 750
+where I represents the intensity in each pixel in the image
+acquired in the indicated spectral channel (numbers in nm). To
+compensate for differences in the efficiency of collection in the
+two channels, GP values were corrected using a G factor. In order
+to obtain the G factor, the same microscope set-up employed for
+imaging root samples was used to image the fluorescence of a
+drop of undiluted di-4-ANEPPDHQ stock solution (2 ll) at three
+laser powers (0.3%, 0.5% and 1%). The mean pixel intensities of
+the channels ch00 (ordered) and ch01 (disordered) were extracted
+in ImageJ, and corresponding GPmes values were calculated
+(using the previous equation with G = 1). The G factor was then
+calculated according to the equation:
+G ¼ GPref þGPref GPmes GPmes  1
+GPmes þGPref GPmes GPref  1
+GPref is a reference value for di-4-ANEPPDHQ in DMSO, here fixed
+at -0.85 (Owen et al., 2012). In this study, the G factor was defined
+as G = 0.35.
+GP values were calculated and pseudo-colored, ratiometric
+images were generated in ImageJ. The mean GP values were cal-
+culated for fluorescence at the cell plate (CP) and at the closest
+plasma membrane (PM) from cytokinetic root tip cells of Col-0
+(two independent sets of cells, n = 50 and n = 40), cpi1-1 (in the
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+754 Marcia Frescatada-Rosa et al.
+Col-0 background) (n = 40), drp1arsw9 (n = 40) and drp1A060977
+(n = 40), as well as cells from Col-0 seedlings grown on plates
+containing 0.1% DMSO (n = 50), 50 lg ml1 fen (n = 50 cells) or
+1 lM lov (n = 50). As distributions of the measured populations of
+cells did not follow a normal distribution, the non-parametric,
+two-tailed Mann–Whitney U rank order sum test (http://ele
+gans.som.vcu.edu/~leon/stats/utest.html) was used to test for sig-
+nificance of difference between the distribution of GP values of CP
+and PM. First, the difference between the distribution of GP values
+in the CP and PM was tested within the same line. Second, the dif-
+ference between the distributions of GP values for the CP and GP
+values for the PM was compared between Col-0 and the mutant
+lines cpi1-1 in the Col-0 background, drp1arsw9 and drp1A060977, or
+between Col-0 treated with DMSO and cells from seedlings treated
+with fen or lov.
+Ratiometric PY3174 fluorescence microscopy imaging of
+membrane lipid order
+PY3174 was employed using a similar procedure as for di-4-ANE-
+PPDHQ. Stock solution for PY3174 (Kwiatek et al., 2013) was
+prepared by dissolving 2 mg of the probe in ethanol to a final con-
+centration of 6.57 mg ml1. Staining solution was prepared by
+dissolving 1 ll of PY3174 stock solution in 2 ml of MS medium.
+PY3174 fluorescence was excited at 488 nm, and fluorescence
+intensity images were recorded simultaneously in the ranges 505–
+590 and 620–690 nm. The ratiometric calculation of the GP images
+obtained from PY3174 fluorescence was performed as described
+above except that the G factor was defined as G = 0.82. The signif-
+icance of the difference between the distribution of GP values for
+CP and PM was tested on n = 66 GP values each using a two-
+tailed Mann–Whitney U rank order sum test (http://ele
+gans.som.vcu.edu/~leon/stats/utest.html).
+Immunolocalization and confocal laser-scanning
+microscopy
+Whole-mount immunofluorescence localization was performed as
+described previously (Fischer et al., 2006; Men et al., 2008; Boutte
+et al., 2010). In brief, 5-day-old seedlings were fixed in 4% parafor-
+maldehyde in MTSB for 1 h, then washed three times with MTSB,
+followed by three washes with sterile distilled water. Root tips were
+dissected, transferred to polylysine microscope slides (Menzel
+Gl€aser, http://www.menzel.de/), and dried at room temperature. Per-
+meabilization was achieved by 35 min incubation in 2% Driselase
+(Sigma) at room temperature, followed by treatment for 1 h in 10%
+DMSO, 3% IPEGAL (Sigma) in MTSB (pH 7.0) at room temperature.
+After blocking with 5% normal donkey serum (Jackson ImmunoRe-
+search, https://www.jacksonimmuno.com/) in MTSB, primary and
+secondary antibodies were applied. Washes were performed as
+described previously (Fischer et al., 2006). Prior to mounting in Citi-
+fluor AF1, root tips were stained with 2 lg ml1 4’,6-diamidino-2-
+phenylindole (DAPI, Sigma) for 30 min. The primary antibodies and
+dilutions usedwere: rabbit anti-KNOLLE, 1:4000 (Lauber et al., 1997)
+and rabbit anti-DRP1A, 1:500 (Backues and Bednarek, 2010). Sec-
+ondary antibodies were diluted as follows: fluorescein isothiocya-
+nate-coupled donkey anti-rabbit, 1:250 (Jackson ImmunoResearch),
+Cy5-coupled donkey anti-rabbit IgG, 1:300 (Jackson ImmunoRe-
+search) and Dylight 649-conjugated affiniPure donkey anti-rabbit
+IgG (H+L), 1:800 (Jackson ImmunoResearch). Whole-mount immu-
+nolabeling detection and live imaging were performed by confocal
+laser scanningmicroscopy using either a Leica TCS SP2 AOBS spec-
+tral confocal laser scanning microscope mounted on a Leica DM
+IRE2 invertedmicroscope or a Zeiss LSM 780Axio Observer inverted
+microscope. An oil-corrected 639 objective (NA = 1.4, HCX PL APO
+lbd.BL 63.0 9 1.40 oil; Leica) or a Plan-Apochromat 639/1.40 oil DIC
+M27 in the Zeiss LSM 780, or a water-corrected 639 objective
+NA = 1.2 (HCX PL APO 63.0 9 1.20WBD UV, Leica) were used. Exci-
+tation wavelengths were 405 nm (blue diode laser) for DAPI,
+488 nm for GFP and fluorescein isothiocyanate, 514 nm (argon
+laser) for YFP, 561 nm for tagRFP and 633 nm (helium/neon lasers)
+for Cy5/Dylight 649 fluorescence. Fluorescence emission was
+detected at 410–510 nm for DAPI, 490–595 nm for GFP (or 497–
+550 nm when imaged together with tagRFP), 500–550 nm for fluo-
+rescein isothiocyanate, 525–600 nm for YFP, 580–680 nm for tag-
+RFP, 638-690 nm for Cy5, and 644–759 nm for Dylight 649. In multi-
+labeling studies, detection was performed in sequential line-scan-
+ning mode with a line average of 8 for the Leica confocal laser scan-
+ning microscope or a line average of 4 for the Zeiss confocal laser
+scanning microscope. Pictures from sequential scans were overlaid
+and assembled using Adobe Illustrator CS6.
+Quantitative analyses of fluorescence intensity
+Transmitted light images obtained in parallel with DRP1A fluores-
+cence enabled delineation of the cell plate in cells that had low
+levels of DRP1A label. Intensity measurements of DRP1A immuno-
+fluorescence or DRP1A–GFP were performed using ImageJ. The
+cell plate for each cytokinetic cell was encircled using the ‘Polygon
+selection’ tool, and the pixel intensity at the cell division plane
+was obtained using the ‘histogram’ option of the ‘Analyze’ menu.
+The mean pixel intensity was obtained by multiplying each inten-
+sity level (0–255) by the number of pixels displaying that corre-
+sponding intensity. Subsequently, the sum of all pixel intensity
+values was divided by the total number of pixels. Additionally, the
+same selection tool was used to define a region in the back-
+ground, and the mean pixel intensity was measured in this area.
+For each cell, the mean pixel intensity at the cell division plane
+was corrected for background fluorescence. Values obtained were
+divided into classes, and these classes were plotted on a graph to
+obtain the distribution per genotype or treatment. Measurements
+were obtained for wild-type and cpi1-1 mutant seedlings immuno-
+stained with anti-DRP1A antiserum. In addition, we quantified the
+DRP1A immunofluorescence in wild-type seedlings treated with
+fen, lov or DMSO, as described above. Furthermore, GFP fluores-
+cence was quantified in DRP1A–GFP-expressing seedlings treated
+with fen, lov or DMSO. Statistical significances were calculated
+using the non-parametric two-tailed Mann–Whitney U rank order
+sum test (http://elegans.som.vcu.edu/~leon/stats/utest.html).
+FRAP analyses
+FRAP analyses were performed using a Zeiss LSM 780 Axio Obser-
+ver inverted confocal laser scanning microscope with a water-cor-
+rected 409/1.2 C-Apochromat M27 objective (Zeiss). Pre-bleach and
+post-bleach signals of YFP–KNOLLE fluorescence were detected at
+1% laser power for the 514 nm laser excitation line and 510–
+620 nm emission settings. One bleach frame of 2 lm diameter at
+the membrane was placed in the middle of the cell division plane.
+Photobleaching was performed using ten 3.64 s bleach scan peri-
+ods and 100%main laser power for the 514 nm excitation laser line.
+Values from the plane of cell division were normalized for loss of
+fluorescence caused by photobleaching by correcting for differ-
+ences between pre- and post-bleach values observed in neighbor-
+ing cells. For each treatment condition, 13 cells from 13 individual
+roots were analyzed. Values were normalized to pre-bleach values
+and post-bleach values corresponding to 100% and 0%, respec-
+tively. The half-time (t½) required for fluorescence in the photo-
+bleached region to recover to 50% of the recovery asymptote was
+15 min. The significance of the subtle deviations observed between
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+DRP1A and membrane order during plant cytokinesis 755
+DMSO- and lov-treated cell populations analyzed by FRAP was
+determined using Student’s two-tailed, two-sample t test assuming
+equal variance.
+Western blot analysis of total protein extracts
+Total protein was extracted from 5-day-old seedlings grown on
+MS agar plates containing 50 lg ml1 fen or 1 lM lov, or control
+plates containing an equal volume of 0.1% DMSO compared to
+the fen- and lov-containing plates. Seedlings were frozen in liquid
+nitrogen and ground with a fine pestle in 200 ll extraction buffer
+per 20 seedlings. The extraction buffer comprised 25 mM Tris/HCl
+pH 7.5, 10 mM MgCl2, 5 mM EGTA, 10% glycerol, 100 mM NaCl,
+0.2% Tween-20, 10 ll ml1 proteinase inhibitor cocktail (Sigma
+Aldrich) and 2 mM dithiothreitol. Supernatants were collected after
+10 min centrifugation at 11 000 g, and used for Western blot
+analyses. Protein quantification was performed using Bradford
+reagent (Bio-Rad). Equal amounts of protein (30 lg) were sepa-
+rated by SDS–PAGE using a Bio-Rad Mini-Protean 3 system, and
+subjected to Western blotting. The primary antibodies and dilu-
+tions used were: mouse monoclonal anti-Hsc70 antibody and
+plant ER BiP (endoplasmic reticulum Binding Protein), 1:1000
+(Nordic Biosite AB, http://www.nordicbiosite.com/), rabbit anti-
+DRP1A, 1:500 (Backues and Bednarek, 2010) and rabbit anti-
+KNOLLE, 1:1000 (Lauber et al., 1997). The secondary antibodies
+were horseradish peroxidase-conjugated goat anti-mouse IgG
+(Bio-Rad), 1:3000 and horseradish peroxidase-linked ECL donkey
+anti-rabbit IgG whole antibody, 1:10000 (Amersham). An ECL Wes-
+tern blotting detection reagent kit (Amersham) was used for
+chemiluminescent detection.
+ACCESSION NUMBERS
+The Arabidopsis Genome Initiative or GenBank/EMBL database acces-
+sion numbers for the sequences referred to in this paper are At5g50375
+(CPI1), At5g42080 (DRP1A), At1g59610 (DRP2B), At3g08530 (CHC2),
+At3g11130 (CHC1), At2g40060 (CLC2), At1g23490 (ARF1) and At5g13710
+(SMT1).
+ACKNOWLEDGMENTS
+We are grateful to Jirı Friml (Institute of Science and Technology
+Austria, Klosterneuburg, Austria) Nobuhiro Tsutsumi (Department
+of Agricultural and Environmental Biology, University of Tokyo,
+Japan) and Richard E. Williamson (Research School of Biological
+Sciences, Australian National University, Canberra, Australia) for
+sharing publishedmaterials and reagents. We thank DylanM. Owen
+(Experimental Biophysics & Nanotechnology, King’s College Lon-
+don, UK) for helpful advice on ratiometric lipid-order imaging, and
+Stephanie Robert for critical reading of the manuscript. We thank
+the Nottingham Arabidopsis Stock Centre for providing seed stocks.
+Thisworkwas supported by the Swedish Research Council for the Envi-
+ronment, Agricultural Sciences and Spatial Planning (Formas) (grant
+number 2007-715 to M.G.), a postdoctoral stipend from the Carl Tryg-
+gers Foundation for T.S. to M.G., a US National Science Foundation
+award (number 1121998) to S.Y.B., and a grant from the Swedish
+KempeFoundations toM.G.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found in the online ver-
+sion of this article.
+Figure S1. Cell-plate lipid-order analysis using the membrane
+order-sensitive probe PY3174.
+Figure S2. Effects of CME gene mutations on KNOLLE localization,
+and effects of sterol biosynthesis interference on CME component
+localization.
+Figure S3. Lovastatin effects on YFP–KNOLLE lateral diffusion
+determined by FRAP analysis.
+Figure S4. Differential effects of lovastatin and fenpropimorph
+treatments on DRP1A total protein levels.
+Table S1. Statistical analyses of differences in relative GP values
+between different cell-plate maturation stages during cytokinesis.
+Table S2. Statistical analyses of differences between GP value dis-
+tributions of cell plates and plasma membranes from various
+genotypes or treatments.
+Table S3. Statistical analyses of differences between GP value dis-
+tributions from cell plates or plasma membranes from mutants or
+treatments compared to wild-type or mock-treated controls.
+REFERENCES
+Atilla-Gokcumen, G.E., Muro, E., Relat-Goberna, J., Sasse, S., Bedigian,
+A., Coughlin, M.L., Garcia-Manyes, S. and Eggert, U.S. (2014) Dividing
+cells regulate their lipid composition and localization. Cell, 156, 428–
+439.
+Bach, T.J. and Lichtenthaler, H.K. (1983) Mechanisms of inhibition by me-
+vinolin (MK 803) of microsome-bound radish and of partially purified
+yeast HMG-CoA reductase (EC.1.1.1.34). Z. Naturforsch. C 38, 212–219.
+Backues, S.K. and Bednarek, S.Y. (2010) Arabidopsis dynamin-related pro-
+tein 1A polymers bind, but do not tubulate, liposomes. Biochem. Bio-
+phys. Res. Commun. 393, 734–739.
+Backues, S.K., Korasick, D.A., Heese, A. and Bednarek, S.Y. (2010) The Ara-
+bidopsis dynamin-related protein2 family is essential for gametophyte
+development. Plant Cell, 22, 3218–3231.
+Barr, F.A. and Gr€uneberg, U. (2007) Cytokinesis: placing and making the
+final cut. Cell, 131, 847–860.
+Borner, G.H., Sherrier, D.J., Weimar, T., Michaelson, L.V., Hawkins, N.D.,
+Macaskill, A., Napier, J.A., Beale, M.H., Lilley, K.S. and Dupree, P. (2005)
+Analysis of detergent-resistant membranes in Arabidopsis. Evidence for
+plasma membrane lipid rafts. Plant Physiol. 137, 104–116.
+Boutte, Y., Frescatada-Rosa, M., Men, S. et al. (2010) Endocytosis restricts
+Arabidopsis KNOLLE syntaxin to the cell division plane during late cyto-
+kinesis. EMBO J. 29, 546–558.
+Boutte, Y., Men, S. and Grebe, M. (2011) Fluorescent in situ visualization of
+sterols in Arabidopsis roots. Nat. Protoc. 6, 446–456.
+Collings, D.A., Gebbie, L.K., Howles, P.A., Hurley, U.A., Birch, R.J., Cork,
+A.H., Hocart, C.H., Arioli, T. and Williamson, R.E. (2008) Arabidopsis
+dynamin-like protein DRP1A: a null mutant with widespread defects in
+endocytosis, cellulose synthesis, cytokinesis, and cell expansion. J. Exp.
+Bot. 59, 361–376.
+El Kasmi, F., Krause, C., Hiller, U., Stierhof, Y.D., Mayer, U., Conner, L.,
+Kong, L., Reichardt, I., Sanderfoot, A.A. and J€urgens, G. (2013) SNARE
+complexes of different composition jointly mediate membrane fusion in
+Arabidopsis cytokinesis. Mol. Biol. Cell 24, 1593–1601.
+Encina, C.L., Constantin, M. and Botella, J. (2001) An easy and reliable
+method for establishment and maintenance of leaf and root cell cultures
+of Arabidopsis thaliana. Plant Mol. Biol. Rep. 19, 245–248.
+Fernandez, C., Lobo Md Mdel, V., Gomez-Coronado, D. and Lasuncion, M.A.
+(2004) Cholesterol is essential for mitosis progression and its deficiency
+induces polyploid cell formation. Exp. Cell Res. 300, 109–120.
+Fischer, U., Ikeda, Y., Ljung, K., Serralbo, O., Singh, M., Heidstra, R., Palme,
+K., Scheres, B. and Grebe, M. (2006) Vectorial information for Arabidop-
+sis planar polarity is mediated by combined AUX1, EIN2, and GNOM
+activity. Curr. Biol. 16, 2143–2149.
+Fujimoto, M., Arimura, S., Nakazono, M. and Tsutsumi, N. (2007) Imaging
+of plant dynamin-related proteins and clathrin around the plasma mem-
+brane by variable incidence angle fluorescence microscopy. Plant Bio-
+technol. 24, 449–455.
+Fujimoto, M., Arimura, S., Nakazono, M. and Tsutsumi, N. (2008)
+Arabidopsis dynamin-related protein DRP2B is co-localized with DRP1A
+on the leading edge of the forming cell plate. Plant Cell Rep. 27, 1581–
+1586.
+Fujimoto, M., Arimura, S., Ueda, T., Takanashi, H., Hayashi, Y., Nakano, A.
+and Tsutsumi, N. (2010) Arabidopsis dynamin-related proteins DRP2B
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+756 Marcia Frescatada-Rosa et al.
+and DRP1A participate together in clathrin-coated vesicle formation dur-
+ing endocytosis. Proc. Natl Acad. Sci. USA 107, 6094–6099.
+Gerbeau-Pissot, P., Der, C., Thomas, D., Anca, I.A., Grosjean, K., Roche, Y.,
+Perrier-Cornet, J.M., Mongrand, S. and Simon-Plas, F. (2013) Modifica-
+tion of plasma membrane organization in tobacco cells elicited by cryp-
+togein. Plant Physiol. 164, 273–286.
+Grebe, M., Xu, J., M€obius, W., Ueda, T., Nakano, A., Geuze, H.J., Rook,
+M.B. and Scheres, B. (2003) Arabidopsis sterol endocytosis involves
+actin-mediated trafficking via ARA6-positive early endosomes. Curr. Biol.
+13, 1378–1387.
+He, J.X., Fujioka, S., Li, T.C., Kang, S.G., Seto, H., Takatsuto, S., Yoshida, S.
+and Jang, J.C. (2003) Sterols regulate development and gene expression
+in Arabidopsis. Plant Physiol. 131, 1258–1269.
+Ito, E., Fujimoto, M., Ebine, K., Uemura, T., Ueda, T. and Nakano, A. (2012)
+Dynamic behavior of clathrin in Arabidopsis thaliana unveiled by live
+imaging. Plant J. 69, 204–216.
+Jin, L., Millard, A.C., Wuskell, J.P., Dong, X., Wu, D., Clark, H.A. and Loew,
+L.M. (2006) Characterization and application of a new optical probe for
+membrane lipid domains. Biophys. J. 90, 2563–2575.
+J€urgens, G. (2005) Cytokinesis in higher plants. Annu. Rev. Plant Biol. 56,
+281–299.
+Kang, B.H., Busse, J.S. and Bednarek, S.Y. (2003a) Members of the Arabid-
+opsis dynamin-like gene family, ADL1, are essential for plant cytokinesis
+and polarized cell growth. Plant Cell, 15, 899–913.
+Kang, B.H., Rancour, D.M. and Bednarek, S.Y. (2003b) The dynamin-like pro-
+tein ADL1C is essential for plasma membrane maintenance during pollen
+maturation. Plant J. 35, 1–15.
+Kitakura, S., Vanneste, S., Robert, S., L€ofke, C., Teichmann, T., Tanaka,
+H. and Friml, J. (2011) Clathrin mediates endocytosis and polar
+distribution of PIN auxin transporters in Arabidopsis. Plant Cell, 23,
+1920–1931.
+Konopka, C.A. and Bednarek, S.Y. (2008a) Comparison of the dynamics and
+functional redundancy of the Arabidopsis dynamin-related isoforms
+DRP1A and DRP1C during plant development. Plant Physiol. 147, 1590–
+1602.
+Konopka, C.A. and Bednarek, S.Y. (2008b) Variable-angle epifluorescence
+microscopy: a new way to look at protein dynamics in the plant cell cor-
+tex. Plant J. 53, 186–196.
+Kwiatek, J.M., Owen, D.M., Abu-Siniyeh, A., Yan, P., Loew, L.M. and Gaus,
+K. (2013) Characterization of a new series of fluorescent probes for imag-
+ing membrane order. PLoS ONE, 8, e52960.
+Lauber, M.H., Waizenegger, I., Steinmann, T., Schwarz, H., Mayer, U.,
+Hwang, I., Lukowitz, W. and J€urgens, G. (1997) The Arabidopsis KNOLLE
+protein is a cytokinesis-specific syntaxin. J. Cell Biol. 139, 1485–1493.
+Lingwood, D. and Simons, K. (2007) Detergent resistance as a tool in mem-
+brane research. Nat. Protoc. 2, 2159–2165.
+Liu, P., Li, R.L., Zhang, L., Wang, Q.L., Niehaus, K., Baluska, F., Samaj, J.
+and Lin, J.X. (2009) Lipid microdomain polarization is required for
+NADPH oxidase-dependent ROS signaling in Picea meyeri pollen tube tip
+growth. Plant J. 60, 303–313.
+McMichael, C.M., Reynolds, G.D., Koch, L.M., Wang, C., Jiang, N., Nadeau,
+J., Sack, F.D., Gelderman, M.B., Pan, J. and Bednarek, S.Y. (2013) Media-
+tion of clathrin-dependent trafficking during cytokinesis and cell expan-
+sion by Arabidopsis stomatal cytokinesis defective proteins. Plant Cell,
+25, 3910–3925.
+Men, S., Boutte, Y., Ikeda, Y., Li, X., Palme, K., Stierhof, Y.D., Hartmann,
+M.A., Moritz, T. and Grebe, M. (2008) Sterol-dependent endocytosis
+mediates post-cytokinetic acquisition of PIN2 auxin efflux carrier polarity.
+Nat. Cell Biol. 10, 237–244.
+Minami, A., Fujiwara, M., Furuto, A., Fukao, Y., Yamashita, T., Kamo, M.,
+Kawamura, Y. and Uemura, M. (2009) Alterations in detergent-resistant
+plasma membrane microdomains in Arabidopsis thaliana during cold
+acclimation. Plant Cell Physiol. 50, 341–359.
+Mongrand, S., Morel, J., Laroche, J., Claverol, S., Carde, J.P., Hartmann,
+M.A., Bonneu, M., Simon-Plas, F., Lessire, R. and Bessoule, J.J. (2004)
+Lipid rafts in higher plant cells: purification and characterization of Triton
+X-100-insoluble microdomains from tobacco plasma membrane. J. Biol.
+Chem. 279, 36277–36286.
+Mravec, J., Petrasek, J., Li, N. et al. (2011) Cell plate restricted association
+of DRP1A and PIN proteins is required for cell polarity establishment in
+Arabidopsis. Curr. Biol. 21, 1055–1060.
+Ng, M.M., Chang, F. and Burgess, D.R. (2005) Movement of membrane
+domains and requirement of membrane signaling molecules for cytoki-
+nesis. Dev. Cell 9, 781–790.
+Owen, D.M., Lanigan, P.M., Dunsby, C., Munro, I., Grant, D., Neil, M.A.,
+French, P.M. and Magee, A.I. (2006) Fluorescence lifetime imaging
+provides enhanced contrast when imaging the phase-sensitive dye
+di–4–ANEPPDHQ in model membranes and live cells. Biophys. J. 90,
+L80–L82.
+Owen, D.M., Rentero, C., Magenau, A., Abu-Siniyeh, A. and Gaus, K. (2012)
+Quantitative imaging of membrane lipid order in cells and organisms.
+Nat. Protoc. 7, 24–35.
+Pike, L.J. (2006) Rafts defined: a report on the Keystone Symposium on
+Lipid Rafts and Cell Function. J. Lipid Res. 47, 1597–1598.
+Prekeris, R. and Gould, G.W. (2008) Breaking up is hard to do - membrane
+traffic in cytokinesis. J. Cell Sci. 121, 1569–1576.
+Roche, Y., Gerbeau-Pissot, P., Buhot, B., Thomas, D., Bonneau, L., Gresti,
+J., Mongrand, S., Perrier-Cornet, J.M. and Simon-Plas, F. (2008) Deple-
+tion of phytosterols from the plant plasma membrane provides evidence
+for disruption of lipid rafts. FASEB J. 22, 3980–3991.
+Samuels, A.L., Giddings, T.H. Jr and Staehelin, L.A. (1995) Cytokinesis in
+tobacco BY-2 and root tip cells: a new model of cell plate formation in
+higher plants. J. Cell Biol. 130, 1345–1357.
+Simons, K. and Sampaio, J.L. (2011) Membrane organization and lipid rafts.
+Cold Spring Harb. Perspect. Biol. 3, 1–17.
+Skop, A.R., Liu, H., Yates, J. 3rd, Meyer, B.J. and Heald, R. (2004) Dissection
+of the mammalian midbody proteome reveals conserved cytokinesis
+mechanisms. Science, 305, 61–66.
+Takeda, T., Kawate, T. and Chang, F. (2004) Organization of a sterol-rich
+membrane domain by cdc15p during cytokinesis in fission yeast. Nat.
+Cell Biol. 6, 1142–1144.
+Wachtler, V., Rajagopalan, S. and Balasubramanian, M.K. (2003) Sterol-rich
+plasma membrane domains in the fission yeast Schizosaccharomyces
+pombe. J. Cell Sci. 116, 867–874.
+Wang, C., Yan, X., Chen, Q., Jiang, N., Fu, W., Ma, B., Liu, J., Li, C., Bedn-
+arek, S.Y. and Pan, J. (2013) Clathrin light chains regulate clathrin-medi-
+ated trafficking, auxin signaling, and development in Arabidopsis. Plant
+Cell, 25, 499–516.
+Xu, J. and Scheres, B. (2005) Dissection of Arabidopsis ADP-RIBOSYLA-
+TION FACTOR 1 function in epidermal cell polarity. Plant Cell, 17, 525–
+536.
+Xu, X., Bittman, R., Duportail, G., Heissler, D., Vilcheze, C. and London, E.
+(2001) Effect of the structure of natural sterols and sphingolipids on the
+formation of ordered sphingolipid/sterol domains (rafts). Comparison of
+cholesterol to plant, fungal, and disease-associated sterols and compari-
+son of sphingomyelin, cerebrosides, and ceramide. J. Biol. Chem. 276,
+33540–33546.
+© 2014 The Authors
+The Plant Journal published by Society for Experimental Biology and John Wiley & Sons Ltd.,
+The Plant Journal, (2014), 80, 745–757
+DRP1A and membrane order during plant cytokinesis 757

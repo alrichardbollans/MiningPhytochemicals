@@ -1,0 +1,646 @@
+Technological University Dublin 
+ARROW@TU Dublin 
+Articles School of Food Science and Environmental Health 
+2010-01-01 
+Characterization of Phenolics Composition in Lamiaceae Spices 
+by LC-ESI-MS/MS 
+Mohammad Hossain 
+Technological University Dublin, mohammad.hossain@teagasc.ie 
+Dilip Rai 
+Teagasc, Ashtown Food Research Centre, dilip.rai@teagasc.ie 
+Nigel Brunton 
+Teagasc, Ashtown Food Research Centre, nigel.brunton@teagasc.ie 
+Ana Belen Martin-Diana 
+Technological University Dublin, anabelen.martindiana@tudublin.ie 
+Catherine Barry-Ryan 
+Technological University Dublin, Catherine.Barryryan@tudublin.ie 
+Follow this and additional works at: https://arrow.tudublin.ie/schfsehart 
+ Part of the Food Chemistry Commons 
+Recommended Citation 
+Hossain, M. et al. (2010)Characterization of Phenolic Composition in Lamiaceae Spices by LC-ESI-MS/
+MS. J. Agric. Food Chem., 2010, 58 (19), pp 10576–10581. doi:10.1021/jf102042g 
+This Article is brought to you for free and open access by 
+the School of Food Science and Environmental Health at 
+ARROW@TU Dublin. It has been accepted for inclusion in 
+Articles by an authorized administrator of ARROW@TU 
+Dublin. For more information, please contact 
+yvonne.desmond@tudublin.ie, arrow.admin@tudublin.ie, 
+brian.widdis@tudublin.ie. 
+This work is licensed under a Creative Commons 
+Attribution-Noncommercial-Share Alike 3.0 License 
+Characterization of phenolics composition in Lamiaceae spices by LC-ESI-MS/MS 1 
+ 2 
+Mohammad B. Hossaina,b, Dilip K. Raib*, Nigel P. Bruntonb, Ana B. Martin-Dianac, 3 
+Catherine Barry-Ryana  4 
+aSchool of Food Science and Environmental Health, Cathal Brugha Street, Dublin 5 
+Institute of Technology, Dublin, Ireland 6 
+ 
+bTeagasc Food Research Centre, Ashtown, Dublin 15, Ireland 7 
+cAgricultural Technological Institute of Castilla and Leon. Government of Castilla and 8 
+Leon, Finca Zamadueñas, Valladolid, Castilla and Leon, Spain 9 
+ 10 
+ 11 
+*Email: dilip.rai@teagasc.ie 12 
+Fax number: 00353(0)18059550 13 
+Phone number: 00353(0)18059500 ext 169 14 
+ 15 
+ 16 
+ 17 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ABSTRACT 24 
+A total of 38 phenolic compounds in the solid/liquid extracts of five Lamiaceae spices 25 
+such as rosemary, oregano, sage, basil and thyme were identified in the present study 26 
+using LC-ESI-MS/MS. These compounds were distributed in four major categories 27 
+namely hydroxycinnamic acid derivatives, hydroxybenzoic acid derivatives, flavonoids 28 
+and phenolic terpenes. Among them, the category of flavonoids was the largest with 17 29 
+compounds. Identification of the phenolic compounds was carried out by comparing 30 
+retention times and mass spectra with those of authentic standards. In case of 31 
+unavailability of standards, phenolic compounds were identified based on accurate mass 32 
+of pseudomolecular [M-H]- ions and tandem mass spectrometry (MS/MS) data. The 33 
+results of accurate mass measurements fitted well with the elemental composition of the 34 
+compounds. The diagnostic fragmentation patterns of the compounds during collision 35 
+induced dissociation (CID) elucidated structural information of the compounds analysed. 36 
+ 37 
+KEYWORDS: Spice, accurate mass, phenolics, LC-ESI-MS/MS, fragments  38 
+ 39 
+ 40 
+ 41 
+ 42 
+ 43 
+ 44 
+ 45 
+ 46 
+INTRODUCTION 47 
+It is well known that Lamiaceae spices have potent antioxidant properties, mostly due to 48 
+the polyphenolic compounds present in them (1, 2). Recently, interest has increased 49 
+considerably in naturally occurring antioxidant for use in foods as replacements for 50 
+synthetic antioxidants such as BHA and BHT, whose use is being restricted due to 51 
+concerns over safety (3, 4). Natural antioxidants can protect the human body from free 52 
+radicals and could retard the progress of many chronic diseases as well as lipid oxidative 53 
+rancidity in foods (5-7). Oxidation of lipids in food not only lowers the nutritional value 54 
+(8), but is also associated with cell membrane damage, aging, heart disease and cancer in 55 
+living organisms (9). Therefore the addition of natural antioxidants to food products has 56 
+become popular as a means of increasing shelf life and to reduce wastage and nutritional 57 
+losses by inhibiting and delaying oxidation (10). As previously stated spices in the 58 
+Lamiaceae family are a well known source of antioxidants particularly polyphenols. 59 
+Furthermore, spices have been used for many years to enhance the sensory attributes such 60 
+as taste and aroma of foods (11). Since these spices are commonly consumed in most 61 
+countries, there are no legal barriers to use them in foods. However, their use in foods as 62 
+either a control measure for lipid oxidation or increase inherent antioxidant capacity 63 
+requires detailed characterization of the compounds responsible for their antioxidant 64 
+properties. Liquid chromatography-electrospray ionization-tandem mass spectrometry 65 
+(LC-ESI-MS/MS) has been recognized as a powerful analytical tool with its high 66 
+sensitivity, short run time and less use of toxic organic solvents used as mobile phase 67 
+compared to reversed phase stand alone HPLC coupled with Diode-Array Detector (12-68 
+15). A previous LC-ESI-MS study of polyphenols in Lamiaceae family by Møller et al. 69 
+(16) investigated the major fingerprint ions in methanolic extracts of three variants of 70 
+oregano and rosemary, however,  only two polyphenols, rosmarinic acid and kaempferol, 71 
+were identified in these extracts despite the fact that many other polyphenolic compounds 72 
+have been identified in these species by other methods. However, Herrero et al. (17) 73 
+reported 14 compounds in the pressurized liquid extract of rosemary by LC-ESI-MS 74 
+method. Other studies (18-22) also identified similar number of compounds in different 75 
+members of the family. In the present study we examined 38 polyphenols in five 76 
+Lamiaceae spices using liquid chromatographic separation and collision induced 77 
+dissociation analysis. Furthermore, accurate mass measurement technique was 78 
+successfully applied for the first time in this spice family to elucidate the elemental 79 
+composition of the polyphenols studied.  80 
+ 81 
+MATERIALS AND METHODS 82 
+Samples and reagents. Dried and ground rosemary, oregano, sage, basil and thyme were 83 
+provided by AllinAll Ingredients Ltd., Dublin 12, Ireland. According to product 84 
+specifications, the country of origin of the spices used was Turkey. The spices were air 85 
+dried after heat treatment (steam sterilization at 120 °C for 30 sec). The dried spices were 86 
+ground (particle size range: 500 to 600 µm) and stored at -20 °C in darkness. Seventeen 87 
+standards namely caffeic acid, chlorogenic acid, carnosic acid, carnosol, ferulic acid, 88 
+gallic acid, gallocatechin, 4-hydroxybenzoic acid, phloridzin, protocatechuic acid, p-89 
+coumaric acid, quercetin, rosmarinic acid, rutin, syringic acid, thymol and vanillic acid 90 
+were purchased from Sigma-Aldrich. Four flavonoid standards, such as apigenin, 91 
+apigenin-7-O-glucoside, luteolin and luteolin-7-O-glucoside were purchased from 92 
+Extrasynthese, France. HPLC grade methanol and water were purchased from VWR 93 
+International Limited, Leicestershire, UK and Lennox Laboratory Supplies Limited, 94 
+Dublin, Ireland respectively. The purity of standards and solvents were in the range of 95 95 
+% to 99.8 %. Only luteolin-7-O-glucoside and carnosic acid had 90 % and 91 % purity 96 
+respectively.   97 
+  98 
+Preparation of solid/liquid extracts. Dried and ground spice samples (1 g) were 99 
+homogenised for 1 min at 24,000 rpm using an Ultra-Turrax T-25 Tissue homogenizer 100 
+(Janke & Kunkel, IKA-Labortechnik, Saufen, Germany) in 25 mL of 80% methanol in 101 
+the dark at room temperature (~23 °C). Aqueous methanol (80 %) was chosen for its high 102 
+efficiency in extracting polyphenols from plant samples (2). The homogenised sample 103 
+suspension was shaken overnight with a V400 Multitude Vortexer (Alpha laboratories, 104 
+North York, Canada) at 1,500 rpm and room temperature. The mixture was then 105 
+centrifuged for 15 min at 2,000 g (MSE Mistral 3000i, Sanyo Gallenkamp, 106 
+Leicestershire, UK) and filtered through 0.22 µm polytetrafluoethylene (PTFE) filters 107 
+(Sigma-Aldrich, Steinheim, Germany). The extracts were analyzed immediately after 108 
+extraction. 109 
+ 110 
+Liquid chromatography-mass spectrometry (LC-MS). LC-MS analysis was 111 
+performed on a Q-Tof Premier mass spectrometer (Waters Corporation, Micromass MS 112 
+Technologies, Manchester, UK coupled to Alliance 2695 HPLC system (Waters 113 
+Corporation, Milford, MA, USA). The Q-Tof Premier is equipped with a lockspray 114 
+source where an internal reference compound (Leucine-Enkephalin) was introduced 115 
+simultaneously with the analyte for accurate mass measurements. Compounds were 116 
+separated on an Atlantis T3 C18 column (Waters Corporation, Milford, USA, 100 mm x 117 
+2.1 mm; 3 µm particle size) using 0.5% aqueous formic acid (solvent A) and 0.5% formic 118 
+acid in 50/50 v/v acetonitrile:methanol (solvent B).  Column temperature was maintained 119 
+at 40 °C. A stepwise gradient from 10% to 90% solvent B was applied at a flow rate of 120 
+0.2 mL/min for 26 min. Electrospray mass spectra data were recorded on a negative 121 
+ionisation mode for a mass range m/z 100 to m/z 1000.  Capillary voltage and cone 122 
+voltage were set at 3 kV and 30 V respectively. Collision induced fragmentation (CID) of 123 
+the analytes was achieved using 12 eV to 20 eV energy with argon as the collision gas. 124 
+ 125 
+RESULTS AND DISCUSSION 126 
+A total of 38 polyphenols distributed in four major categories; hydroxycinnamic acid 127 
+derivatives, hydroxybenzoic acid derivatives, flavonoids and phenolic terpenes have been 128 
+analyzed in the present study. Figure 1 shows the total ion current (TIC) chromatogram 129 
+of rosemary extract and the major peaks observed has been assigned in Table 1. Since 130 
+polyphenols contain one or more hydroxyl and/or carboxylic acid groups, MS data were 131 
+acquired in negative ionization mode.  Identification of the phenolic compounds was 132 
+carried out by comparing retention times and their masses with those of the 21 authentic 133 
+standards. For the remaining 17 compounds for which no standards were available 134 
+identification was based on accurate mass measurements of the pseudomolecular [M-H]- 135 
+ions and CID fragment ions. Results of accurate mass measurements matched the 136 
+elemental composition of all the compounds analyzed (Table 1). Data obtained from the 137 
+ESI-MS analyses of the extracts of five Lamiaceae spices are summarized in Table 1. The 138 
+following sections outline conditions used to identify each of the compounds (arranged 139 
+into their constituent groups), fragmentation patterns and occurrence in each of the spice 140 
+extracts. 141 
+ 142 
+Hydroxycinnamic acid derivatives 143 
+Seven different polyphenols in the category of hydroxycinnamic acid derivatives were 144 
+found to occur in all the spices examined. Five of them namely caffeic acid, chlorogenic 145 
+acid, p-coumaric acid, rosmarinic acid and ferulic acid were identified by comparing their 146 
+retention times and characteristic MS spectral data with those of authentic standards 147 
+(Table 1). Accurate mass measurements and fragmentation pattern during CID further 148 
+confirmed their structural composition. The pseudomolecular ions of p-coumaric acid 149 
+(m/z 163.04) and ferulic acid (m/z 193.05) produced the major fragment ions at m/z 119.0 150 
+and m/z 149.0 respectively during CID corresponding to the loss of carbon dioxide from 151 
+the precursor ion. Gruz et al. (23) reported the same fragmentation pattern of these 152 
+compounds in white wine. The other fragment generated during CID of ferulic acid was 153 
+at m/z 178.0 due to initial loss of a methyl group from the precursor ion. The remaining 154 
+two hydroxycinnamic acid derivatives; caffeic acid hexoside and dicaffeoylquinic acid 155 
+were identified by their accurate mass measurements and MS/MS spectral data.  156 
+The tentative mass spectrum for caffeic acid showed the deprotonated molecule [M-H]-  157 
+ion at m/z 179.03 at 1.57 min. The major fragment ions produced by CID analysis were 158 
+m/z 161.0 and m/z 135.0 corresponding to loss of water and carbon dioxide molecules 159 
+respectively from the precursor ion. Generally, deprotonated phenolic acids [M-H]- 160 
+produce a typical fragmentation pattern after collision induced dissociation, characterised 161 
+by the loss of a CO2 (44 u) from the carboxylic acid group, providing an anion of [M-H-162 
+COO]- (24). Other fragment ions m/z 113.0, 101.0 and 71.0 unique to caffeic acid were 163 
+also observed. These ions were produced as a result of the cleavage of the phenolic ring 164 
+of the precursor ion at m/z 179.0 at different sites as illustrated in Figure 2.  Similar 165 
+fragment ions were seen when the precursor [M-H]-ions of m/z 341.10 eluting at 1.53 166 
+min, m/z 353.09 at 3.91 min and m/z 515.10 eluting at 10.01 min were subjected to CID. 167 
+This confirmed that these precursor molecular ions were associated with caffeic acid. For 168 
+instance m/z 341.10 ions were identified as deprotonated caffeic acid hexoside. The loss 169 
+of a hexose moiety (162 u) resulted in a dominant fragment ion at m/z 179.0 170 
+corresponding to deprotonated caffeic acid. It must also be noted that a dicaffeic acid 171 
+would also generate similar precursor and fragment ions as that of caffeic acid hexoside. 172 
+In this context, application of accurate mass measurement discriminated caffeic acid 173 
+hexoside (calculated from [M-H]-= 341.0873) from dicaffeic acid (calculated from [M-174 
+H]-= 341.0660). The MS/MS on the precursor m/z 353.09 ions identified as chlorogenic 175 
+acid gave dominant product ions m/z 191.1, m/z 179.0 and m/z 173.0. The product ions 176 
+m/z 191.1 for quinic acid and 179.0 for caffeic acid revealed the constituent of 177 
+chlorogenic acid prior to condensation. Loss of a caffeoyl moiety yielded the other 178 
+dominant fragment ion m/z 173.0. The MS/MS on precursor [M-H]- ion at m/z 515.10 179 
+showed product ions of m/z 353.0, m/z 191.0 and m/z 179.0 corresponding to the 180 
+pseudomolecular ions of caffeoylquinic acid, quinic acid and caffeic acid respectively in 181 
+addition to the finger-print fragment ions of caffeic acid. Thus this compound was 182 
+identified as dicaffeoylquinic acid. A similar fragmentation of the compound was 183 
+reported by Parejo et al. (24) in fennel extract.  The CID experiment on [M-H]- ion at m/z 184 
+359.08 identified as rosmarinic acid gave the two main constituents of rosmarinic acid 185 
+namely caffeic acid at m/z 179.0 and the 2-hydroxy derivative of hydrocaffeic acid at m/z 186 
+197.0 as illustrated in Figure 3. Similar pattern of fragmentation of rosmarinic acid 187 
+during CID analysis has been reported by several authors (17, 25, 26) in analyzing 188 
+extracts of Lamiaceae spices.  189 
+ 190 
+ Hydroxybenzoic acid derivatives 191 
+The ESI-MS signals at m/z 169.01, m/z 197.04, m/z 167.04, m/z 153.02 and m/z 137.02 192 
+were identified as gallic acid, syringic acid, vanillic acid, protocatechuic acid and 4-193 
+hydroxybenzoic acid respectively by comparing their retention time and MS spectral data 194 
+with those of an authentic standard. Accurate mass measurements further confirmed their 195 
+elemental composition (Table 1). Upon fragmentation by CID gallic acid, vanillic acid, 196 
+protocatechuic acid and 4-hydroxybenzoic acid produced the ions at m/z 125.0, m/z 197 
+123.0, m/z 109.0 and m/z 93.0 respectively due to loss of CO2 from their respective 198 
+precursor ions. This pattern of fragmentation was characteristic feature of 199 
+hydroxybenzoic acid derivatives like other phenolic acids. Syringic acid on the other 200 
+hand first lost a water molecule generating a major fragment ion at m/z 179.0 followed by 201 
+a loss of carbon dioxide producing the other fragment at m/z 135.0. A sugar conjugate of 202 
+hydroxybenzoic acid eluting at 22.64 min showed [M-H]- ions of m/z 299.10. Accurate 203 
+mass measurement suggested the molecular composition as that of hydroxybenzoic acid-204 
+O-hexoside. Subsequent MS/MS experiment revealed the loss of hexose moiety 205 
+producing deprotonated 4-hydroxybenzoic acid at m/z 137.0. All the hydroxybenzoic acid 206 
+derivatives mentioned above were detected in all the Lamiaceae spices examined by ESI-207 
+MS analyses (Table 1). 208 
+ 209 
+Flavonoids 210 
+Flavonoids constituted the largest number of polyphenols in the spices investigated in this 211 
+study (Table 1). With the aid of reference standards and complemented by the accurate 212 
+mass measurement data, eight flavonoids were identified in all the spices studied by LC-213 
+MS. The eight flavonoids were apigenin, luteolin, apigenin-7-O-glucoside, luteolin-7-O-214 
+glucoside, gallocatechin, phloridzin, quercetin and rutin. Furthermore, the fragmentation 215 
+pattern of these flavonoids was similar to those described previously where the most 216 
+common fragment lost was a water molecule and a glucose moiety in the two glucosides 217 
+(26, 27).  218 
+For the remaining nine flavonoids listed in Table 1 for which there were no ‘in-house’ 219 
+standards, their identifications were based solely on accurate mass measurements and the 220 
+MS/MS data (Table 1). Acacetin found in rosemary, oregano and basil; cirsimaritin and 221 
+methyl apigenin found in all 5 spices; and isorhamnetin found in rosemary, sage and 222 
+thyme were the only four non-sugar based flavonoids. They had a characteristic feature in 223 
+the MS/MS experiment where the loss of one or more methyl groups was observed. 224 
+Acacetin (m/z 283.1) eluting at 17.89 min, methyl apigenin (m/z 283.1) eluting at 20.69 225 
+min and isorhamentin (m/z 315.0) eluting at 14.80 min lost one methyl group each 226 
+producing m/z 268.0, m/z 268.0 and m/z 300.0 respectively while cirsimaritin (m/z 313.1) 227 
+lost two consecutive methyl groups resulting fragment ions m/z 298.0 and m/z 283.1. 228 
+Despite the fact that acacetin and methyl-apigenin are isomers differing only in the 229 
+position of methyl group, they separated well in the reversed phase LC. Since acacetin is 230 
+slightly polar than methyl-apigenin, it eluted earlier in the LC-separation.  Justesen (26) 231 
+described similar fragmentation of acacetin in analyzing extracts from different herbs. 232 
+Similar to our findings, Herrero et al. (17) have previously reported on cirsimaritin in 233 
+rosemary extracts using LC-ESI-MS/MS. Parejo et al. (24), unlike our data, have noted 234 
+three fragment ions from isorhamnetin, i.e. m/z 300, m/z 271 and m/z 255, in fennel 235 
+extracts by ESI-MS/MS analysis. The difference could probably be due to different set of 236 
+collision energy being used in the two different instruments.   237 
+Glycosylated flavonoids constituted the bulk of the polyphenols in the spices. Hexose and 238 
+rutinose conjugates of flavonoids were most commonly observed. The MS/MS 239 
+experiments revealed that the [M-H]- ions at m/z 477.10 eluting at 9.85 min and m/z 240 
+463.09 eluting at 4.83 min were isorhamnetin-3-O-hexoside and quercetin-3-O-hexoside 241 
+respectively. Similar to the MS/MS data from apigenin-7-O-glucoside and luteolin-7-O-242 
+glucoside, these hexosides also showed the loss of a hexose moiety (162 u). In addition to 243 
+the fragment ion at m/z 315.0 corresponding to deprotonated molecular ion of 244 
+isorhamnetin, the isorhamnetin-3-O-hexoside produced a fragment ion at m/z 300.0 245 
+further confirming that the hexose derivative was that of isorhamnetin. As expected 246 
+isorhamnetin-3-O-hexoside was only detected in the extracts of rosemary, sage and 247 
+thyme of the five spices examined (Table 1). Similar approach and conclusions were 248 
+made for quercetin-3-O-hexoside. The present study also identified two phenolic 249 
+rutinosides, namely apigenin-7-O-rutinoside and luteolin-7-O-rutinoside apart from 250 
+quercetin-7-O-rutinoside (commonly known as rutin) in all the spices examined (Table 251 
+1). The product ion scan experiments of these compounds produced the intense fragment 252 
+ions 308 u (dehydrated rutinose moiety) lower than the m/z values of the precursor ions. 253 
+The presence of rutin in rosemary and oregano extract has been reported by 254 
+Papageorgiou, et al. (28) using reversed phase HPLC. However, only one glucoronide 255 
+derivrative of flavonoids could be detected in all the spices examined. This compound 256 
+eluting at 12.15 min was identified as luteolin-3-O-glucoronide (Table 1). Subsequent 257 
+CID of luteolin-3-O-glucoronide showed the loss of a glucoronic acid (m/z 176) and 258 
+produced the predominant fragment at m/z 285.0 corresponding to deprotonated luteolin. 259 
+Similar fragmentation of the compound was reported by Justesen (26) in analyzing thyme 260 
+extracts.   261 
+ 262 
+Phenolic terpenes and lignan 263 
+There were 8 polyphenols detected in the spices examined that fall uder the phenolic 264 
+terpenes and lignan category (Table 1). Three of them, thymol, carnosol and carnosic 265 
+acid, were identified as they showed identical LC-MS characteristics as that of the 266 
+standards. Thymol detected only in thyme when subjected to CID produced fragments at 267 
+m/z 131.0 and m/z 120.0 corresponding to the loss of water and an ethyl [-CH2-CH3] 268 
+group (29 u) from the precursor ion (m/z 149.09). Carnosol detected in all the spices and 269 
+carnosic acid found only in rosemary, oregano and sage showed major fragment ions 270 
+following a loss of carbon dioxide as seen in all the phenolic acids. Decarboxylated 271 
+carnosic acid further fragmented producing m/z 244.2 ions due to dissociation of a propyl 272 
+group (CH2CH2CH3). Methylated carnosic acid and methoxycarnosol were also identified 273 
+in all the samples (Table 1).  Methyl carnosate (m/z 345.20) eluting at 22.68 min 274 
+produced two major fragments: m/z 301.2 due to loss of carbondioxide molecule with 275 
+further loss of methyl group producing m/z 286.2 ions. This fragmentation pattern was in 276 
+agreement with that reported by Herrero et al., (2009) in analysing the phenolic 277 
+antioxidant compounds of rosemary extracts. The methoxycarnosol (m/z 359.17) eluting 278 
+at 22.70 min also generated two major fragments in the MS/MS experiment: m/z 329.2 279 
+and m/z 285.2 corresponding to loss of a methoxy group and subsequent loss of 280 
+carbondioxide molecule. Epirosmannol which has the same nominal mass as that of 281 
+methyl carnosate eluted 4.75 min earlier than the methyl carnosate in the LC separation 282 
+(Figure 1 and Table 1). In addition to difference in elution time, the accurate mass 283 
+measurement distinguished epirosmannol (calculated m/z 345.1702, observed m/z 284 
+345.1702) from methyl carnosate (calculated m/z 345.2066, observed m/z 345.2054). 285 
+Furthermore the MS/MS data from epirosmannol, unlike methyl carnosate, showed the 286 
+loss of water following decarboxylation. The last of the terpenes found in this study was 287 
+rosmadial which had a unique fragmentation pathway compared to other terpenes 288 
+described earlier. Rosmadial (m/z 343.20) lost two and three methylene groups from the 289 
+precursor ions resulting fragment ions m/z 315.2 and m/z 300.2 respectively. There was 290 
+only one phenolic lignan, namely medioresinol, identified in the extracts of all Lamiaceae 291 
+spices analysed. 292 
+ 293 
+Application of LC-ESI-MS/MS technique in the current study provided useful 294 
+information to characterize 38 phenolic compounds in the extracts of five Lamiaceae 295 
+spices. Fragments produced during CID analysis of the compounds mentioned above are 296 
+the diagnostic features of these compounds which could be used to identify them in 297 
+different extracts. Results of accurate mass measurements are another diagnostic feature 298 
+of these compounds and proved useful to differentiate compounds with same nominal 299 
+mass but dissimilar exact masses (Table 1). Equally mass spectrometry showed 300 
+advantageous in identification of polyphenols for those that did not separate as different 301 
+entities in the reversed phase column. Nonetheless, when isomeric polyphenols such as 302 
+acacetin and methyl apigenin which posed challenge for MS, the LC was able to resolve 303 
+the isomers. One inherent weakness of the low collision energy MS/MS studies was that 304 
+it could not localise the position in the native phenolic ring that underwent modification. 305 
+In such scenario, the application of nuclear magnetic resonance (NMR) spectroscopy 306 
+would be helpful. The NMR would also have the capability to reveal the identity of the 307 
+compound responsible for the modification. As far as the authors are aware, there is no 308 
+literature providing a comprehensive analysis of polyphenols in the extracts of Lamiaceae 309 
+spices. Furthermore, of the 38 polyphenols identified, 20 compounds in rosmary, 26 310 
+compounds in oregano, 23 compounds in sage, 24 compounds in basil and 20 compounds 311 
+in thyme have been reported in the present study for the first time (Table 1).  In 312 
+conclusion, the combination of accurate mass measurement to determine the elemental 313 
+composition and the LC’s ability to separate isomeric compounds provided a powerful 314 
+tool in identification of polyphenolic diversity in five species of Lamiaceae family even 315 
+in the absence of standards. 316 
+ 317 
+Unidentified compounds. Pseudomolecular ions at m/z 597.10 (observed exact mass 318 
+597.1288), m/z 503.10 (observed exact mass 503.0831), m/z 394.07 (observed exact mass 319 
+394.0667) and m/z 301.17 (observed exact mass 301.1758) eluting at 8.32 min, 13.96 320 
+min, 23.5 min and 24.45 min respectively could not be identified. 321 
+ 322 
+ACKNOWLEDGEMENT 323 
+We would like to thank AllinAll Ingredients Ltd, Dublin 12 for providing spice samples. 324 
+ 325 
+LITERATURE CITED 326 
+(1) Hossain, M. B.; Brunton, N. P.; Barry-Ryan, C.; Martin-Diana A. B.; Wilkinson, M. 327 
+Antioxidant activity of spice extracts and phenolics in comparison to synthetic 328 
+antioxidants. Rasayan J. Chem. 2008, 1, 751-756. 329 
+(2) Shan, B.; Cai, Y. Z.; Sun, M.; Corke, H. Antioxidant capacity of 26 spice extracts and 330 
+characterization of their phenolic constituents. J. Agric. Food Chem. 2005, 53, 7749-331 
+7759. 332 
+(3) Ito, M.; Murakami, K.; Yoshino, M. Antioxidant action of eugenol compounds: role 333 
+of metal ion in the inhibition of lipid peroxidation. Food Chem. Toxicol. 2005, 43, 334 
+461-466. 335 
+(4) Zheng, W.; Wang, S. Y. Antioxidant activity and phenolic compounds in selected 336 
+herbs. J. Agric. Food Chem. 2001, 49, 5165-5170. 337 
+(5) Arts, I. C.; Hollman, P. C. Polyphenols and disease risk in epidemiologic studies. Am. 338 
+J. Clin. Nutr. 2005, 81, 317S-325S. 339 
+(6) Lai, L.S.; Chou, S.T.; Chao, W.W. Studies on the antioxidative activities of Hsian-340 
+tsao (Mesona procumbens Hemsl) leaf gum. J. Agric. Food Chem. 2001, 49, 963-968. 341 
+(7) Williamson, G.; Manach, C. Bioavailability and bioefficacy of polyphenols in 342 
+humans. II. Review of 93 intervention studies. Am. J. Clin. Nutr. 2005, 81, 243S-343 
+255S. 344 
+(8) Kristinová, V.; Mozuraityte, R.; Storrø, I.; Rustad, T. Antioxidant activity of phenolic 345 
+acids in lipid oxidation catalyzed by different prooxidants. J. Agric. Food Chem. 346 
+2009, 57, 10377-10385. 347 
+ (9) Cosgrove, J. P.; Church, D. F.; Pryor, W. A. The kinetics of the autoxidation of 348 
+polyunsaturated fatty acids. Lipids 1987, 22, 299–304. 349 
+(10) Tsuda, T.; Osawa, T.; Ohshima, K.; Kawakishi, S. Antioxidative pigments isolated 350 
+from the seeds of Phaseolus vulgaris L. J. Agric. Food Chem. 1994, 42, 248-251. 351 
+(11) Wang, H.; Cao, G.; Prior, R. L. Total antioxidant capacity of fruits. J. Agric. Food 352 
+Chem. 1996, 44, 701-705. 353 
+(12) Liu, R.; Sun, J.; Bi, K.; Guo, D. A. Identification and determination of major 354 
+flavonoids in rat serum by HPLC-UV and HPLC-MS methods following oral 355 
+administration of Dalbergia odorifera extract. J. Chromatogr. B 2005, 829, 35-44. 356 
+(13) Proestos, C.; Sereli, D.; Komaitis, M. Determination of phenolic compounds in 357 
+aromatic plants by RP-HPLC and GC-MS. Food Chem. 2006, 95, 44-52. 358 
+(14) Zu, Y.; Li, C.; Fu, Y.; Zhao, C. Simultaneous determination of catechin, rutin, 359 
+quercetin kaempferol and isorhamnetin in the extract of sea buckthorn (Hippophae 360 
+rhamnoides L.) leaves by RP-HPLC with DAD. J. Pharm. Biomed. Anal. 2006, 41, 361 
+714-719. 362 
+(15) Rauter, A. P.; Martins, A.; Borges, C.; Ferreira, J.; Jorge, J.; Bronze, M.R.; Coelho, 363 
+A. V.; Choi, Y. H.; Verpoorte, R., Liquid chromatography-diode array detection-364 
+electrospray ionisation mass spectrometry/nuclear magnetic resonance analyses of the 365 
+anti-hyperglycemic flavonoid extract of Genista tenera: Structure elucidation of a 366 
+flavonoid-C-glycoside. J. Chromatogr. A 2005, 1089, 59-64. 367 
+ (16) Møller, J. K. S.; Rodrigo, R.; Catharino, R. R.; Eberlin, M. N. Electrospray 368 
+ionization mass spectrometry fingerprinting of essential oils: Spices from the Labiatae 369 
+family. Food Chem. 2007, 100, 1283-1288. 370 
+(17) Herrero, M.; Plaza, M.; Cifuentes, A.; Ibáñez, E. Green processes for the extraction 371 
+of bioactives from Rosemary: Chemical and functional characterization via ultra-372 
+performance liquid chromatography-tandem mass spectrometry and in-vitro assays. J.  373 
+Chromatogr. A 2010, 1217, 2512-2520. 374 
+(18) Almela, L.; Sánchez-Munóz, B.; Fernández-Lopez, J. A.; Roca, M. J.; Rabe, V. 375 
+Liquid chromatographic-mass spectrometric analysis of phenolics and free radical 376 
+scavenging activity of rosemary extract from different raw material. J. Chromatogr. 377 
+A 2006, 1120, 221-229. 378 
+(19) Cavero, S.; García-Risco, M. R.; Marín, F. R.; Jaime, L.; Santoyo, S.; Señoráns, F. 379 
+J.; Reglero, G.; Ibañez, E. Supercritical fluid extraction of antioxidant compounds 380 
+from oregano: Chemical and functional characterization via LC-MS and in vitro 381 
+assays. J. Supercrit. Fluids 2006, 38, 62-69. 382 
+(20) Babovic, N.; Djilas, S.; Jadranin, M.; Vajs, V.; Ivanovic, J.; Petrovic, S.; Zizovic, I. 383 
+Supercritical carbon dioxide extraction of antioxidant fractions from selected 384 
+Lamiaceae herbs and their antioxidant capacity. Innov. Food Sci. Emerg, Technol. 385 
+2010, 11, 98-107. 386 
+(21) Señoráns, F. J.; Ibañez, E.; Cavero, S.; Tabera, J.; Reglero, G. Liquid 387 
+chromatographic-mass spectrometric analysis of supercritical-fluid extracts of 388 
+rosemary plants. J. Chromatogr. A 2000, 870, 491-499. 389 
+(22) Leal, P. F.; Maia, N. B.; Carmello, Q. A. C.; Catharino, R. R.; Eberlin, M. N.; 390 
+Meireles, M. A. A. Sweet basil (Ocimum basilicum) extracts obtained by 391 
+supercritical fluid extraction (SFE): global yields, chemical composition, 392 
+antioxidant activity, and estimation of the cost of manufacturing. Food Bioprocess 393 
+Technol. 2008, 1, 326-338. 394 
+(23) Gruz, J.; Novák, O.; Strnad, M. Rapid analysis of phenolic acids in beverages by 395 
+UPLC-MS/MS. Food Chem. 2008, 111, 789-794. 396 
+ (24) Parejo, I.; Jauregui, O.; Sánchez-Rabaneda, F.; Viladomat, F.; Bastida, J.; Codina, 397 
+C. Separation and characterization of phenolic compounds in fennel (foeniculum 398 
+vulgare) using liquid chromatography negative electrospray ionization tandem mass 399 
+spectrometry. J. Agric. Food Chem. 2004, 52, 3679-3687. 400 
+(25) Shen, D.; Pan, M.-H.; Wu, Q.-L.; Park, C.-H.; Juliani, H. R.; Ho, C.-T.; Simon, J. E. 401 
+LC-MS method for the simultaneous quantitation of the anti-inflammatory 402 
+constituents in oregano (Origanum Species). J. Agric. Food Chem. 2010, 58,  7119-403 
+7125.  404 
+(26) Justesen, U. Negative atmospheric pressure chemical ionization low-energy collision 405 
+activation mass spectrometry for the characterization of flavonoids in extracts of 406 
+fresh herbs. J. Chromatogr. A 2000, 902, 369-379. 407 
+ (27) Wang, L.; Morris, M. E. Liquid chromatography-tandem mass spectroscopy assay 408 
+for quercetin and conjugated quercetin metabolites in human plasma and urine. J.  409 
+Chromatogr. B 2005, 821, 194-201.  410 
+(28) Papageorgiou, V.; Mallouchos, A.; Komaitis, M. Investigation of the antioxidant 411 
+behavior of air- and freeze-dried aromatic plant materials in relation to their phenolic 412 
+content and vegetative cycle. J. Agric. Food Chem. 2008, 56, 5743-5752. 413 
+ 414 
+This work was supported by the Irish Department of Agriculture Fisheries and 415 
+Food funded Food Institutional Research Measure and ABBEST scholarship 416 
+programme of Dublin Institute of Technology, Dublin, Ireland. The authors are 417 
+thankful to Teagasc, Ashtown Food Research Centre, Ashtown, Dublin for 418 
+providing laboratory facilities. 419 
+ 420 
+Figure captions 421 
+Figure 1. Total ion current (TIC) chromatogram of aqueous methanol extract of 422 
+rosemary.  423 
+ 424 
+Figure 2. Schematic diagram of the production of fragments from caffeic acid hexoside 425 
+(m/z 341.09) during CID analysis. 426 
+ 427 
+Figure 3. ESI-MS/MS spectrum of product ion scan of rosmarinic acid (m/z 359.10). 428 
+ Peak 
+No. 
+Polyphenols Empirical 
+formula 
+Observed 
+m/z 
+Calculated  
+m/z 
+Major fragments (intensity)  
+ m/z 
+RT 
+(min) 
+Detected  in 
+1 Gallic acida C7H5O5- 169.0141 169.0137 125.0 (100 %) 1.25 R, Ob, S, Bb, T 
+2 Caffeic acid hexoside C15H17O9- 341.0883 341.0873 179.0 (55 %), 161.0 (15 %) 1.53 Rb, Ob, Sb, Bb, Tb 
+3 Caffeic acida C9H7O4- 179.0350 179.0344 161.0 (10 %), 135.0 (10 %) 1.57 R, O, S, B, T 
+4 Syringic acida C9H9O5- 197.0453 197.0450 179.0 (60 %), 135.0 (100 %) 2.62 R, O, S, B, T 
+5 Vanillic acida C8H7O4- 167.0366 167.0344 123.0 (70 %) 2.70 R, O, S, B, T 
+6 Protocatechuic acida C7H5O4- 153.0190 153.0188 109.0 (100 %) 3.16 Rb, Ob, Sb, Bb, Tb 
+7 Rosmadial C20H23O5- 343.1526 343.1545 315.2 (20 %), 300.2 (20 %) 3.19 R 
+8 Chlorogenic acida C16H17O9- 353.0951 353.0873 191.1 (42 %), 179.0 (62 %), 
+173.0 (100 %) 
+3.91 R, O, S, B, T 
+9 p-Coumaric acida C9H7O3- 163.0402 163.0395 119.0 (100 %) 3.97 R, O, S, B, T 
+10 4-Hydroxybenzoic acida C7H5O3- 137.0247 137.0239 93.0 (40 %) 4.23 Rb, Ob, Sb, Bb, Tb 
+11 Quercetin-3-O-hexoside C21H19O12- 463.0880 463.0877 301.0 (50 %) 4.83 Rb, Ob, Sb, Bb, Tb 
+12 Medioresinol C21H23O7- 387.1421 387.1444 207.1 (20 %) 4.84 Rb, Ob, Sb, Bb, Tb 
+13 Gallocatechina C15H13O7- 305.0665 305.0661 225.0 (88 %) 6.08 R, Ob, Sb, B, Tb 
+14 Luteolin-7-O-glucosidea C21H19O11- 447.0920 447.0927 285.0 (50 %) 8.87 Rb, Ob, Sb, Bb, T 
+15 Ferulic acida C10H9O4- 193.0518 193.0501 178.0 (10 %), 149.0 (100 %) 8.98 R, O, S, B, T 
+16 Phloridzina C21H23O10- 435.1302 435.1291 273.0 (65 %), 167 (40 %) 9.38 Rb, Ob, Sb, Bb, Tb 
+17 Isorhamnetin-3-O-
+hexoside 
+C22H21O12- 477.1036 477.1033 462.0 (10 %), 315.0 (100 %), 
+300.0 (20 %) 
+9.85 Rb, Sb, Tb 
+18 Dicaffeoylquinic acid C25H23O12- 515.1163 515.1190 359.0 (15 %), 179.0 (54 %), 
+135.0 (25 %), 101.0 (6 %) 
+10.01 Rb, Ob, Sb, Bb, Tb 
+19 Apigenin-7-O-rutinoside C27H29O14- 577.1559 577.1557 269.0 (100 %) 10.54 Rb, Ob, Sb, Bb, Tb 
+20 Rutina C27H29O16- 609.1473 609.1456 301.0 (100 %) 10.59 Rb, Ob, Bb, T 
+21 Apigenin-7-O-glucosidea C21H19O10- 431.0993 431.0978 269.1 (22 %) 10.62 Rb, Ob, Sb, Bb, T 
+22 Rosmarinic acida C18H15O8- 359.0763 359.0767 197.0 (50 %), 179.0 (20 %), 
+161.0 (100 %), 135.0 (10 %) 
+11.27 R, O, S, B, T 
+23 Luteolin-3-O-
+glucoronide 
+C21H17O12- 461.0725 461.0720 285.0 (100 %) 12.15 Rb, Ob, Sb, Bb, T 
+Table 1. Peak assignments of aqueous methanol extract of rosemary. 
+ 
+  
+a Identification confirmed using commercial standards 
+b Compounds characterized for the first time by LC-ESI-MS/MS 
+R = Rosemary, O = Oregano, S = Sage, B = Basil, T = Thyme 
+ 
+ 
+ 
+ 
+24 Luteolin-7-O-rutinoside C27H29O15- 593.1533 593.1506 285.0 (28 %) 14.09 Rb, Ob, Sb, Bb, Tb 
+25 Isorhamnetin C16H11O7- 315.0489 315.0505 300.0 (100 %) 14.80 Rb, Sb, Tb 
+26 Quercetina C15H9O7- 301.0334 301.0349 227.1 (10 %), 151.1 (10 %) 16.86 Rb, O, Sb, Bb, T 
+27 Apigenina C15H9O5- 269.0441 269.0450 158.9 (15 %) 17.09 R, Ob, Sb, B, T 
+28 Thymola C10H13O- 149.0981 149.0966 131.0 (10 %), 120.0 (25 %) 17.30 Tb 
+29 Acacetin C16H11O5- 283.0613 283.0606 268.0 (45 %) 17.89 R, Ob, Bb  
+30 Epirosmanol C20H25O5- 345.1702 345.1702 301.2 (100 %), 283.2 (25 %) 17.93 R, Ob, S, Bb, Tb 
+31 Cirsimaritin C17H13O6- 313.0700 313.0712 298.0 (55 %), 283.0 (18 %) 19.01 R, Ob, Sb, Bb, T 
+32 Methyl apigenin C16H11O5- 283.0616 283.0606 268.0 (100 %) 20.69 Rb, Ob, Sb, Bb, Tb 
+33 Hydroxybenzoic acid-O-
+hexoside 
+C13H15O8- 299.0752 299.0767 137.0 (100 %) 22.64 Rb, Ob, Sb, Bb, Tb 
+34 Methyl carnosate C21H29O4- 345.2054 345.2066 301.2 (100 %), 286.2 (20 %) 22.68 R, Ob, Sb, Bb, Tb 
+35 Methoxy carnosol C21H27O5- 359.1855 359.1858 329.2 (100 %), 285.2 (40 %) 22.70 Rb, Ob, Sb, Bb, Tb 
+36 Luteolina C15H9O6- 285.0392 285.0399 267.0 (60 %) 22.95 Rb, Ob, Sb, Bb, Tb 
+37 Carnosola C20H25O4- 329.1747 329.1753 285.1 (40 %) 23.09 R, Ob, S, Bb, Tb 
+38 Carnosic acida C20H27O4- 331.1903 331.1909 287.2 (100 %), 244.2 (10 %) 24.97 R, Ob, S 
+ Figure 1
+Time
+5.00 10.00 15.00 20.00 25.00
+%
+0
+100
+Time
+3.00 4.00 5.00 6.00 7.00 8.00 9.00 10.00
+%
+0
+100
+Time
+12.00 13.00 14.00 15.00 16.00 17.00 18.00 19.00 20.00 21.00 22.00
+%
+0
+100
+1 
+2,3 22 
+33-36 
+38 4 
+5 
+11,12 
+13 
+8,9 10 
+14 
+17 
+16 
+6,7 
+25 
+27 
+26 
+28 
+19 20 
+23 
+21 
+24 
+37 
+32 
+29,30 
+31 
+Magnified 
+10 X 
+Magnified  
+10 X 
+15 18 
+Figure 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O
+OH
+O
+O
+O
+HO
+OHOH
+CH2OH
+OH
+OH
+O
+O
+O
+O
+O
+O
+O
+O
+OH
+O
+O
+m/z: 71.01 m/z: 101.06 m/z: 113.06
+m/z 341.09
+m/z 161.02m/z 179.03
+  (Dissociation products of the phenol ring) 
+ Figure 3 
+ 
+ 
+ 
+ 
+m/z
+100 120 140 160 180 200 220 240 260 280 300 320 340 360 380 400 420
+%
+0
+100 x10161.0
+135.0
+197.0
+179.0
+359.1
+198.0 360.1
+OH
+HO
+OO
+OH
+O
+OH
+OH
+179.0
+197.0
+135.0
+[179.0-H2O]
+% %
+m/z 
+m/z 
+m/z 
+[M-H]- rosmarinic acid 

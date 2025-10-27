@@ -1,0 +1,568 @@
+November - December 2008 709
+A cultura do tomateiro, Lycopersicon esculentum (Mill.), 
+é atacada por várias espécies de insetos-praga, sendo a 
+traça Tuta absoluta (Meyrick) considerada uma das mais 
+prejudiciais. Ela pode ocorrer durante todo o ciclo de 
+desenvolvimento da cultura, independentemente do período 
+em que o tomate seja cultivado (França & Castelo Branco 
+1992). Suas larvas minadoras alimentam-se inicialmente do 
+mesofi lo foliar, construindo galerias transparentes, podendo 
+também broquear o caule, perfurar o broto terminal, danifi car 
+fl ores e frutos. Estes, além de terem a polpa destruída, fi cam 
+mais suscetíveis à penetração de microrganismos, tornando-
+se, na maioria das vezes, inviáveis à comercialização (Castelo 
+Branco 1992, Souza & Reis 1992). 
+O controle de T. absoluta é principalmente químico, 
+caracterizado por aplicações sucessivas de inseticidas, 
+chegando, em alguns casos, a 36 pulverizações por cultivo 
+CROP PROTECTION
+Bioatividade de Moléculas Isoladas de Trichilia pallida Swartz (Meliaceae)
+sobre Tuta absoluta (Meyrick) (Lepidoptera: Gelechiidae)
+UEMERSON S. DA CUNHA1, JOSÉ D. VENDRAMIM2, WALDIRENY C. ROCHA3 E PAULO C. VIEIRA3
+1Depto. Fitossanidade, FAEM/UFPel, Campus Universitário, C. postal 354, 96001-970, Pelotas, RS; 
+uscunha@ufpel.edu.br
+2Depto. Entomologia, Fitopatologia e Zoologia Agrícola, ESALQ/USP, Av. Pádua Dias, 11, C. postal 9, 13418-900, 
+Piracicaba, SP
+3Depto. de Química, UFSCar, Rod. Washington Luís, km 235, 13565-905, São Carlos, SP
+Neotropical Entomology 37(6):709-715 (2008)
+Bioactivity of Trichilia pallida Swartz (Meliaceae) Derived Molecules on Tuta absoluta (Meyrick)
+(Lepidoptera: Gelechiidae)
+ABSTRACT - Dichloromethane (DIC) leaf and fruit extracts of Trichiliapallida Swartz were 
+obtained for the isolation and identifi cation of molecules with insecticidal activity against the tomato 
+leafminer, Tuta absoluta (Meyrick). DIC leaf extracts of T. pallida yielded six compounds, the 
+triterpenes 24-methylenecycloarta-3E-ol (TRIT-1), 24-methylenecycloarta-3E-26-diol (TRIT-2) and 
+cycloarta-23-eno-3E,25-diol (TRIT-3), the sterols 24-methylene-3,22-dihydroxycholesterol (EST-1), 
+24-methylenecholesterol (EST-2) and 24-methylene-3E,4E,22-trihydroxycholesterol (EST-3), while 
+the fruit extract yielded the limonoid gedunine (LIM). These molecules were dissolved in acetone 
+and sprayed at 0.1% on tomato leafl ets infested with newly-hatched larvae. Larval mortality at day 
+5 and 9 after infestation, larval and pupal developmental time and survival, pupal weight and adult 
+malformation were evaluated. TRIT-1, EST-1 and LIM were the most effective against T. absoluta
+due to larval development arrestment and reduced larval survivorship. 
+KEY WORDS: Lycopersicon esculentum, botanical insecticide, natural product, control, tomato                        
+      leafminer
+RESUMO - A partir do extrato em diclorometano (DIC) de folhas e frutos de Trichilia pallida Swartz,
+objetivou-se fazer o isolamento e identifi cação de substâncias com atividade inseticida sobre a traça-
+do-tomateiro, Tuta absoluta (Meyrick). Do extrato em DIC de folhas de T. pallida foram isolados 
+os triterpenos 24-metilenocicloarta-3E-ol (TRIT-1), 24-metilenocicloarta-3E-26-diol (TRIT-2) e 
+cicloarta-23-eno-3E,25-diol (TRIT-3), os esteróides 24-metileno-3,22-diidroxicolesterol (EST-1), 24-
+metilenocolesterol (EST-2) e 24-metileno-3E,4E,22-triidroxicolesterol (EST-3), além do limonóide 
+gedunina (LIM) obtido de frutos da planta. As substâncias foram dissolvidas em acetona e pulverizadas a 
+0,1% em folíolos de tomateiro infestados com lagartas recém-eclodidas. Foram avaliadas a mortalidade 
+de lagartas aos quinto e nono dias após a infestação, duração e sobrevivência das fases de larva e pupa, 
+peso de pupas e porcentagem de adultos deformados. TRIT-1, EST-1 e LIM foram as moléculas que 
+apresentaram maior atividade sobre T. absoluta, alongando o desenvolvimento larval e reduzindo a 
+sobrevivência dessa fase. 
+PALAVRAS-CHAVE: Lycopersicon esculentum, inseticida botânico, produto natural, controle,                          
+      traça-do-tomateiro
+710 Cunha et al. - Bioatividade de Moléculas Isoladas de Trichilia pallida Swartz (Meliaceae) sobre Tuta absoluta...
+(Picanço et al. 1995). Apesar disso, de modo geral, não 
+se tem obtido a eficácia desejada devido à seleção de 
+populações resistentes aos princípios ativos empregados 
+(Siqueira et al. 2000, Lietti et al. 2005) e à eliminação de 
+populações de inimigos naturais da traça (Miranda et al.
+2005). Somados a esses problemas, estão os referentes a 
+intoxicações de produtores e de consumidores pelos resíduos 
+dos agrotóxicos utilizados, contaminação do ambiente e alto 
+custo de produção (França & Castelo Branco 1992, Souza & 
+Reis 1992, Guedes et al. 1994, Picanço et al. 1995). Assim, 
+é primordial a disponibilização e adoção de medidas que 
+contribuam de maneira a tornar efi caz, viável econômica e 
+ambientalmente, para o controle da traça T. absoluta.
+Uma das alternativas do manejo integrado da traça-do-
+tomateiro é o uso de espécies de plantas da família Meliaceae, 
+fonte de substâncias com atividade inseticida. Inúmeras 
+pesquisas foram desenvolvidas com o intuito de identifi car 
+possíveis efeitos inseticidas dessas plantas, principalmente 
+Azadirachta indica A. Juss, comumente denominada nim, que 
+apresenta, entre outros compostos, o limonóide azadiractina. 
+Além dessa planta, outras, do gênero Trichilia, que contém 
+aproximadamente 230 espécies, distribuídas principalmente na 
+América Tropical, vêm sendo apontadas como promissoras por 
+possuírem substâncias com atividade inseticida comparável à 
+da azadiractina (Mikolajczak & Reed 1987, Xie et al. 1994, 
+Ramírez et al. 2000, Wheeler et al. 2001).
+No Brasil, em trabalhos visando selecionar espécies 
+de meliáceas com atividade sobre a lagarta-do-cartucho, 
+Spodoptera frugiperda (J. E. Smith), destacou-se Trichilia 
+pallida Swartz, (Rodríguez & Vendramim 1996, 1997, 
+Roel & Vendramim 1999, Roel et al. 2000a, b, Bogorni & 
+Vendramim 2005). Aliado à bioatividade encontrada está o 
+fato de essa espécie vegetal, além de ser nativa do Brasil, 
+estar amplamente distribuída geografi camente (Klein 1984), 
+permitindo prever que tais plantas, partes destas, ou até 
+mesmo substâncias isoladas das mesmas, têm potencial para 
+emprego no controle de pragas.
+Diversas pesquisas já foram conduzidas para avaliar o 
+efeito de extratos de Meliaceae sobre a traça-do-tomateiro 
+T. absoluta (Thomazini et al. 2000, Trindade et al. 2000, 
+Brunherotto & Vendramim 2001, Vendramim & Thomazini 
+2001, Gonçalves-Gervásio & Vendramim 2007) sem, no 
+entanto, terem como objetivo isolar e avaliar a atividade 
+inseticida de substâncias de tais plantas. Em pesquisas 
+recentes, Cunha et al. (2005, 2006) identifi caram a partir de 
+extratos de folhas de T. pallida e Trichilia pallens C. DC.,
+respectivamente, frações com maior potencial inseticida 
+sobre T. absoluta. Nesse sentido, objetivou-se neste trabalho 
+avaliar a bioatividade de substâncias isoladas de T. pallida,
+a partir do que foi desenvolvido por Cunha et al. (2005),
+sobre T. absoluta.
+Material e Métodos
+O processo de isolamento de moléculas bioativas de 
+T. pallida e as características das moléculas isoladas, são 
+apresentados por  Rocha (2004). Os bioensaios foram 
+realizados a 25 r 2oC, UR de 60 r 10% e fotofase de 14h. 
+A criação de T. absoluta foi feita de acordo com método 
+adaptado de Pratissoli (1995) em folíolos de tomateiro cv. 
+Santa Clara cultivado em estufa. 
+As várias etapas, que culminaram com a seleção do 
+extrato em diclorometano de folhas de T. pallida como o 
+de maior potencial de apresentar substâncias com atividade 
+sobre T. absoluta, foram detalhadamente descritas por Cunha 
+et al. (2005), diferindo no que se refere ao extrato de frutos 
+em diclorometano. 
+Efeito de substâncias de T. pallida sobre T. absoluta.
+Os bioensaios foram conduzidos seguindo delineamento 
+inteiramente casualizado com seis repetições e nove 
+tratamentos, testando sete substâncias a 0,1% [24-
+metilenocicloarta-3E-ol (TRIT-1); 24-metilenocicloarta-
+3E-26-diol (TRIT-2); cicloarta-23-eno-3E ,25-diol 
+(TRIT-3); 24-metileno-3,22-diidroxicolesterol (EST-1); 
+24-metilenocolesterol (EST-2); 24-metileno-3E,4E,22-
+triidroxicolesterol (EST-3) e gedunina (LIM)], acrescidas 
+dos controles acetona e água. Dada a importância de se 
+avaliar o efeito do limonóide gedunina sobre T. absoluta,
+embora o mesmo tenha sido obtido sem bio-monitoramento 
+do extrato em diclorometano de frutos, foi incluído nos 
+bioensaios juntamente com as demais substâncias isoladas 
+a partir do extrato em diclorometano de folhas. Incluiu-se a 
+acetona como controle em virtude de ter sido este o solvente 
+utilizado para as referidas moléculas.
+As substâncias foram aplicadas em folíolos de tomateiro 
+por meio de um miniatomizador de acordo com Cunha et al.
+(2005, 2006). A fi m de manter a turgescência dos folíolos, 
+seus pecíolos foram envolvidos com algodão hidrófi lo, 
+umedecido diariamente. Em cada folíolo, sendo três por 
+repetição, foram liberadas seis lagartas recém-eclodidas, 
+totalizando 108 indivíduos por tratamento. Depois de 
+infestados, os folíolos foram transferidos para placas plásticas 
+(6 cm de diâmetro) onde permaneceram até nove dias após 
+a infestação (DAI). Decorrido esse período, as lagartas 
+remanescentes foram transferidas para folíolos de tomateiro 
+não-tratados, preparados conforme descrito anteriormente, 
+sendo avaliada diariamente a mortalidade de lagartas até 
+a formação de pupas. As pupas eram então retiradas dos 
+folíolos e transferidas, individualmente, para tubos de vidro 
+(2,5 cm de diâmetro e 8,5 cm de altura) para a determinação 
+do sexo após 24h.
+Foram avaliados os seguintes parâmetros: mortalidade 
+de lagartas (%) ao quinto e nono DAI, duração (dias) e 
+sobrevivência (%) da fase larval, peso de pupas (mg), 
+duração (dias) e sobrevivência (%) da fase de pupa e adultos 
+deformados (%). 
+Análise Estatística. Os dados foram submetidos à análise de 
+variância (ANOVA), sendo as médias comparadas pelo teste 
+de Duncan (P d 0,05). Quando necessário, os dados foram 
+transformados com base em teste (Hartley) para avaliação 
+da homocedasticidade de variâncias.
+Resultados e Discussão
+Moléculas isoladas de T. pallida. A partir do extrato em 
+diclorometano de folhas de T. pallida foram isoladas seis 
+November - December 2008 Neotropical Entomology 37(6) 711
+moléculas, sendo três triterpenóides (TRIT) e três esteróides 
+(EST) (Fig. 1). A outra molécula, identifi cada como sendo 
+o limonóide (LIM) gedunina, foi obtida do extrato em 
+diclorometano de frutos (Fig. 1).
+Efeito das moléculas isoladas sobre T. absoluta. As 
+mortalidades de lagartas de T. absoluta observadas aos 
+5 DAI para 24-metilenocicloarta-3E-ol (TRIT-1) e gedunina 
+(LIM) (16,8 e 15,4 % respectivamente) superaram aquelas 
+registradas para 24-metilenocicloarta-3E-26-diol (TRIT-2), 
+24-metilenocolesterol (EST-2), 24-metileno-3E,4E,22-
+triidroxicolesterol (EST-3) e cicloarta-23-eno-3E,25-diol 
+(TRIT-3) (Tabela 1). O esteróide 24-metileno-3,22-
+diidroxicolesterol (EST-1), embora não tenha ocasionado 
+mortalidade signifi cativa, foi o único tratamento, aos 5 DAI, 
+que não diferiu do triterpenóide TRIT-1 e do limonóide 
+LIM.
+Aos 9 DAI, à semelhança do observado aos 5 DAI, apenas 
+HO
+24-metilenocolesterol 
+(EST-2)
+HO
+OH
+OH
+24-metileno-3ȕ,4ȕ,22-triidroxicolesterol 
+(EST-3) 
+O
+OAcO
+O
+O
+O
+Gedunina 
+(LIM)
+HO
+OH
+OH
+24-metileno-3,22-diidroxicolesterol 
+(EST-1)
+cicloarta-23-eno-3E,25-diol 
+(TRIT-3) 
+HO
+HO
+24-metilenocicloarta-3E-ol 
+(TRIT-1) 
+HO
+OH
+24-metilenocicloarta-3E-26-diol 
+(TRIT-2) 
+Fig. 1. Moléculas isoladas a partir do extrato de T. pallida em diclorometano.
+712 Cunha et al. - Bioatividade de Moléculas Isoladas de Trichilia pallida Swartz (Meliaceae) sobre Tuta absoluta...
+as substâncias LIM (20,9 %) e TRIT-1 (19,6 %) diferiram dos 
+controles acetona (7,2 %) e água (3,9 %), sendo que EST-1, 
+além de não diferir de TRIT-1 e LIM, também ocasionou 
+mortalidade de lagartas superior à do controle água (Tabela 
+1). Além disso, de 5 DAI para 9 DAI, observou-se um 
+incremento na mortalidade de lagartas de 77,4% para EST-1, 
+enquanto que para TRIT-1 e LIM os incrementos foram de 
+16,7% e 35,7%, respectivamente. Assim, pode-se inferir que 
+o efeito tóxico causado às lagartas pelo esteróide EST-1 pode 
+ser crônico, levando maior tempo para ocasionar a morte do 
+inseto em relação a TRIT-1 e LIM. 
+TRIT-1, LIM e EST-1, além de terem sido responsáveis 
+pelos maiores valores de mortalidade de lagartas de T.
+absoluta aos 5 DAI e 9 DAI, também ocasionaram maior 
+duração da fase larval (Tabela 2). A duração dessa fase para 
+os tratamentos com LIM e EST-1 foi de 15,2 e 14,9 dias 
+respectivamente, diferindo dos controles acetona (13,5 dias) 
+e água (12,8 dias), sendo que para  TRIT-1 (14,3 dias), houve 
+diferença apenas em relação ao controle com água (Tabela 2). 
+Além disso, LIM e EST-1 ocasionaram sobrevivência larval 
+(67,3% e 65,0% respectivamente) inferior àquelas registradas 
+nos controles acetona (85,6%) e água (92,5%), sendo que 
+TRIT-1 também reduziu a sobrevivência (74,5%); porém, 
+apenas em relação ao controle com água (Tabela 2).
+Segundo Rodríguez & Vendramim (1996), é interessante 
+que haja prolongamento da fase larval, pois, em condições 
+de campo, o inseto fi caria por mais tempo propenso ao 
+ataque de inimigos naturais, gerando ainda assincronia entre 
+os adultos dessa população em relação aos indivíduos da 
+população normal.
+Assim, o triterpenóide TRIT-1, o limonóide LIM e o 
+esteróide EST-1, além de apresentarem efeito tóxico sobre 
+lagartas de T. absoluta, caracterizado pelos maiores índices 
+de mortalidade (Tabela 1), possivelmente também tenham 
+exercido efeito fagodeterrente, que teria, por sua vez, 
+prolongado a fase larval e reduzido a sobrevivência dessa 
+fase (Tabela 2). 
+Além desses efeitos, lagartas alimentadas em folíolos 
+tratados com o triterpenóide TRIT-1 apresentaram alterações 
+possivelmente relacionadas ao sistema endócrino, uma vez que 
+algumas lagartas não conseguiram se livrar completamente da 
+exúvia, o que ocasionou o anelamento do abdome do inseto, 
+impedindo-o de se alimentar e de se locomover, ocorrendo 
+então a morte por ocasião da ecdise (Fig. 2), assim como 
+observado para S. frugiperda (Roel et al. 2000b).
+Os efeitos causados pelo triterpenóide TRIT-1 em 
+T. absoluta e os citados por Roel et al. (2000b) foram 
+igualmente observados em outras espécies de insetos e 
+atribuídos ao tetranortriterpenóide (limonóide) azadiractina, 
+principal substância com atividade inseticida do nim 
+(Martinez & van Emden 2001, Mordue (Luntz) & Blackwell 
+1993, Mordue (Luntz) & Nisbet 2000). Pode-se, pois, inferir 
+que 24-metilenocicloarta-3E-ol (TRIT-1) tenha atuado de 
+forma semelhante à azadiractina, reduzindo, provavelmente, 
+a concentração de ecdisônio na hemolinfa, levando o inseto à 
+morte pela incapacidade de se livrar da exúvia (Fig. 2).
+Apesar dos efeitos observados em relação à fase larval, 
+TRIT-1, LIM e EST-1 não afetaram a duração e sobrevivência 
+da fase pupal, bem como o peso de pupas fêmeas e machos em 
+relação aos controles (acetona e água) (Tabela 3). Resultados 
+semelhantes foram observados por Rodríguez & Vendramim 
+(1996), que, ao avaliarem o efeito de extratos aquosos de 
+diferentes estruturas vegetais de 11 espécies de Meliaceae 
+sobre S. frugiperda, constataram que os parâmetros 
+relacionados à fase de larva foram mais afetados que os da 
+fase de pupa. De acordo com Tanzubil & McCaffery (1990), 
+Tabela 1. Mortalidade de lagartas (%) de T. absoluta
+aos cinco e nove dias após a infestação (DAI) em folíolos 
+de tomateiro tratados com moléculas (0,1%) isoladas de T.
+pallida.
+1TRIT-1 (24-metilenocicloarta-3E-ol); LIM (gedunina); 
+EST-1 (24-metileno-3,22-diidroxicolesterol); TRIT-2 (24-
+metilenocicloarta-3E-26-diol); EST-2 (24-metilenocolesterol); 
+EST-3 (24-metileno-3E,4E,22-triidroxicolesterol) e TRIT-3 
+(cicloarta-23-eno-3E,25-diol). Médias (r EP) seguidas por 
+letras distintas, na coluna, diferem entre si pelo teste de Duncan 
+(P d 0,05). 2Dados originais; para análise estatística foram 
+transformados em 0,5x  .
+Tabela 2. Duração e sobrevivência da fase de lagarta de 
+T. absoluta em folíolos de tomateiro tratados com moléculas 
+(0,1%) isoladas de T. pallida.
+1TRIT-1 (24-metilenocicloarta-3E-ol); LIM (gedunina); 
+EST-1 (24-metileno-3,22-diidroxicolesterol); TRIT-2 (24-
+metilenocicloarta-3E-26-diol); EST-2 (24-metilenocolesterol); 
+EST-3 (24-metileno-3E,4E,22-triidroxicolesterol) e TRIT-3 
+(cicloarta-23-eno-3E,25-diol). Médias (r EP) seguidas por 
+letras distintas, na coluna, diferem entre si pelo teste de Duncan 
+(P d 0,05).
+Tratamento1 (n = 108) Duração (dias) Sobrevivência (%) 
+TRIT-1 14,3 r 0,18 bc 74,5 r 6,36 bc 
+LIM 15,2 r 0,46 a 67,3 r 7,07 c 
+EST-1 14,9 r 0,28 ab 65,0 r 8,82 c 
+TRIT-2 14,2 r 0,29 bc 86,6 r 3,97 ab 
+EST-2 13,6 r 0,10 c 81,2 r 5,59 abc 
+EST-3 14,0 r 0,36 c 85,9 r 4,30 ab 
+TRIT-3 13,9 r 0,12 c 90,7 r 2,76 ab 
+Controle – acetona 13,5 r 0,21 c 85,6 r 2,26 ab 
+Controle – água 12,8 r 0,16 d 92,5 r 3,35 a 
+Tratamento1 (n = 108) 5 DAI2 9 DAI 
+TRIT-1 16,8 r 5,01 a  19,6 r 5,57 ab  
+LIM 15,4 r 2,26 a  20,9 r 2,19 a  
+EST-1 9,3 r 2,75 ab 16,5 r 5,03 abc  
+TRIT-2 6,9 r 2,67 b 9,0 r 2,79 cd 
+EST-2 5,6 r 1,52 b  10,5 r 3,23 bcd  
+EST-3 4,6 r 2,03 b 6,5 r 2,26 cd 
+TRIT-3 3,9 r 0,79 b 7,0 r 1,88 cd 
+Controle – acetona 4,6 r 1,69 b 7,2 r 1,81 cd 
+Controle – água 2,0 r 1,50 b  3,9 r 1,47 d 
+November - December 2008 Neotropical Entomology 37(6) 713
+tais resultados estariam associados à baixa concentração da 
+molécula ativa, uma vez que houve inibição do crescimento 
+de lagartas (Tabela 2). No entanto, estas não reduziram o 
+consumo de alimento, o que refl etiu em pupas com pesos 
+equivalentes àquelas dos controles (Tabela 3).
+Acrescendo-se a isso, o peso de pupas fêmeas (Tabela 
+3) formadas a partir de lagartas alimentadas em folíolos 
+tratados com TRIT-1, foi superior às do controle (água). Esse 
+resultado, em princípio contraditório, uma vez que a referida 
+substância causou as maiores mortalidades de lagartas aos 5 
+DAI e 9 DAI (Tabela 1), prolongou a fase de larva e reduziu 
+sua sobrevivência (Tabela 2), pode ser decorrente de uma 
+possível seleção, de maneira que apenas os indivíduos mais 
+vigorosos (com maior peso), e portanto mais aptos a atingir 
+a fase adulta, teriam sobrevivido (Vendramim & Scampini 
+1997). Outrossim, como se pode observar na Tabela 3, houve 
+maior sobrevivência da fase de pupa para EST-1 em relação 
+a EST-2. Esse resultado também parece contraditório, uma 
+vez que o esteróide EST-1 ocasionou maior mortalidade de 
+lagartas aos 9 DAI comparada aos controles (acetona e água), 
+prolongou a fase larval e reduziu de maneira signifi cativa a 
+sobrevivência dessa fase. No entanto, de maneira similar ao 
+observado com o peso de pupas fêmeas envolvendo TRIT-1 
+e o controle (água) (Tabela 3), possivelmente também possa 
+ter ocorrido seleção dos indivíduos mais aptos, segundo 
+Vendramim & Scampini (1997).
+Em relação ao percentual de adultos deformados (Fig. 3), 
+não foi possível identifi car efeito signifi cativo das substâncias 
+ Peso de pupas (mg) 
+Tratamento1 (n = 108) Duração (dias) Sobrevivência (%) 
+Fêmea Machon.s
+TRIT-1 7,6 r 0,10 ab 87,3 r 4,76 ab 3,7 r 0,17 a 2,4 r 0,11 
+LIM 7,6 r 0,19 ab 83,9 r 2,64 ab 3,3 r 0,16 abc 2,2 r 0,05 
+EST-1 7,6 r 0,05 ab 95,2 r 3,37 a 3,2 r 0,33 abc 2,3 r 0,08 
+TRIT-2 7,4 r 0,08 abc 83,3 r 3,15 ab 3,0 r 0,18 abc 2,3 r 0,12 
+EST-2 7,1 r 0,15 c 81,8 r 3,54 b 3,5 r 0,17 ab 2,3 r 0,14 
+EST-3 7,3 r 0,13 bc 86,2 r 5,08 ab 2,8 r 0,25 bc 2,3 r 0,19 
+TRIT-3 7,3 r 0,14 bc 87,6 r 3,04 ab 3,3 r 0,12 abc 2,5 r 0,10 
+Controle – acetona 7,7 r 0,07 a 87,5 r 4,35 ab 3,2 r 0,26 abc 2,3 r 0,10 
+Controle – água 7,4 r 0,19 abc 84,6 r 1,16 ab 2,8 r 0,13 c 2,3 r 0,16 
+1TRIT-1 (24-metilenocicloarta-3E-ol); LIM (gedunina); EST-1 (24-metileno-3,22-diidroxicolesterol); TRIT-2 (24-
+metilenocicloarta-3E-26-diol); EST-2 (24-metilenocolesterol); EST-3 (24-metileno-3E,4E,22-triidroxicolesterol) e TRIT-3 
+(cicloarta-23-eno-3E,25-diol). Médias (r EP) seguidas por letras distintas, na coluna, diferem entre si pelo teste de Duncan (P d
+0,05). n.s.não signifi cativo.
+Tabela 3. Duração, sobrevivência e peso da fase de pupa de T. absoluta em folíolos de tomateiro tratados com moléculas 
+(0,1 %) isoladas de T. pallida.
+Fig. 2. Lagartas de T. absoluta após alimentação em folíolos de tomateiro tratados com o triterpeno 24-metilenocicloarta-3E-ol
+(TRIT-1) isolado de folhas de T. pallida. As setas indicam o anelamento do abdome pela exúvia (acima) bem como a posição da 
+placa protorácica por ocasião da morte das lagartas (abaixo).
+Ļ
+Ļ
+714 Cunha et al. - Bioatividade de Moléculas Isoladas de Trichilia pallida Swartz (Meliaceae) sobre Tuta absoluta...
+0
+2
+4
+6
+8
+10
+12
+14
+16
+TRIT-1 LIM EST-1 TRIT-2 EST-2 EST-3 TRIT-3 Controle
+(acet.)
+Controle
+(água)
+A
+du
+lto
+s 
+de
+fo
+rm
+ad
+os
+ (%
+)  
+ n.s
+.
+Fig. 3. Adultos deformados de T. absoluta em folíolos de tomateiro tratados com moléculas (0,1%) isoladas de T. pallida. TRIT-1 
+(24-metilenocicloarta-3E-ol), LIM (gedunina), EST-1 (24-metileno-3,22-diidroxicolesterol), TRIT-2 (24-metilenocicloarta-3E-26-
+diol), EST-2 (24-metilenocolesterol), EST-3 (24-metileno-3E,4E,22-triidroxicolesterol) e TRIT-3 (cicloarta-23-eno-3E,25-diol).
+Dados originais; para análise estatística foram transformados em log de x+0,5. n.s.não signifi cativo.
+avaliadas em comparação aos controles (acetona e água). 
+Para esse parâmetro, como houve grande variabilidade entre 
+as diferentes repetições, caracterizada pelo maior desvio 
+(EP) em relação às médias de tratamentos, o que confere 
+baixa precisão. Ao se avaliarem os resultados, é conveniente 
+se considerar em trabalhos futuros um maior número de 
+indivíduos a fi m de que a variabilidade observada seja 
+minimizada. Similarmente, Bogorni & Vendramim (2005), ao 
+avaliarem o efeito de extratos aquosos de folhas e ramos de 
+várias espécies de Trichilia spp., observaram grande variação 
+para o percentual de adultos de S. frugiperda deformados,
+sem constatar, no entanto, a ocorrência de diferenças 
+signifi cativas para esse parâmetro.
+Com base nos resultados encontrados, conclui-se 
+que das substâncias isoladas a partir do extrato em 
+diclorometano de T. pallida (a 0,1 %), o triterpeno 24-
+metilenocicloarta-3E-ol e o esteróide 24-metileno-3,22-
+diidroxicolesterol, ambos de folhas, juntamente com o 
+limonóide gedunina de frutos, apresentam maior atividade 
+inseticida sobre lagartas de T. absoluta que as substâncias 
+24-metilenocicloarta-3E-26-diol; 24-metileno-colesterol; 
+24-metileno-3E,4E,22-triidroxicolesterol e cicloarta-23-eno-
+3E,25-diol. Além do mais, o triterpeno 24-metilenocicloarta-
+3E-ol, o limonóide gedunina e o esteróide 24-metileno-3,22-
+diidroxicolesterol prolongam o desenvolvimento larval e
+reduzem a sobrevivência larval, mas não afetam a duração, 
+a sobrevivência e o peso de pupas de T. absoluta.
+Agradecimentos
+Ao Dr. Paulo César Bogorni pelo auxílio na coleta e 
+identifi cação de T. pallida e à Dra. Rita de Cássia Gonçalves 
+Gervásio pelo apoio na criação da traça-do-tomateiro e 
+na realização dos bioensaios. Ao Conselho Nacional de 
+Desenvolvimento Científi co e Tecnológico (CNPq) pela 
+concessão da bolsa aos autores.
+Referências
+Bogorni, P.C. & J.D. Vendramim. 2005. Efeito subletal de extratos 
+aquosos de Trichilia spp. sobre o desenvolvimento de 
+Spodoptera frugiperda (J.E.Smith) (Lepidoptera: Noctuidae) 
+em milho. Neotrop. Entomol. 34: 311-317.
+Brunherotto, R. & J.D. Vendramim. 2001. Bioatividade de extratos 
+aquosos de Melia azedarach L. sobre o desenvolvimento 
+de Tuta absoluta (Meyrick) (Lepidoptera: Gelechiidae) em 
+tomateiro. Neotrop. Entomol. 30: 455-459.
+Castelo Branco, M. 1992. Flutuação populacional da traça do 
+tomateiro no Distrito Federal. Hort. Bras. 10: 33-34.
+Cunha, U.S. da, J.D. Vendramim, W.C. Rocha & P.C. Vieira. 2005. 
+Potencial de Trichilia pallida Swartz (Meliaceae) como fonte 
+de substâncias com atividade inseticida sobre a traça-do-
+tomateiro, Tuta absoluta (Meyrick) (Lepidoptera: Gelechiidae). 
+Neotrop. Entomol. 34: 667-674.
+Cunha, U.S. da, J.D. Vendramim, W.C. Rocha & P.C. Vieira. 2006. 
+Frações de Trichilia pallens com atividade inseticida sobre Tuta 
+absoluta. Pesq. Agropec. Bras. 41: 1579-1585.
+França, F.H. & M. Castelo Branco. 1992. Ocorrência da traça-
+do-tomateiro (Scrobipalpuloides absoluta) em solanáceas 
+silvestres no Brasil Central. Hort. Bras. 10: 6-10.
+Gonçalves-Gervásio, R. de C.R. & J.D. Vendramim. 2007. 
+Bioatividade do extrato aquoso de sementes sobre Tuta 
+absoluta (Meyrick, 1917) (Lepidoptera: Gelechiidae) em três 
+formas de aplicação. Ciênc. Agrotec. 31: 28-34.
+Guedes, R.N.C., M.C. Picanço, A.L. Matioli & R.M. Rocha. 1994. 
+Efeito de inseticidas e sistemas de condução do tomateiro 
+no controle de Tuta absoluta (Meyrick) (Lepidoptera: 
+Gelechiidae). An. Soc. Entomol. Bras. 23: 321-325.
+Klein, R.M. 1984. Meliaceae, p.40-46. In: R. Reitz. (ed.), Flora 
+November - December 2008 Neotropical Entomology 37(6) 715
+ilustrada catarinense. As plantas meliáceas. Itajaí: “Herbário 
+Barbosa Rodrigues”, 140p.
+Lietti, M.M.M, E. Botto & R.A. Alzogaray. 2005. Insecticide 
+resistance in Argentine populations of Tuta absoluta (Meyrick) 
+(Lepidoptera: Gelechiidae). Neotrop. Entomol. 34: 113-119.
+Martinez, S.S. & H.F. van Endem. 2001. Growth disruption, 
+abnormalities and mortality of Spodoptera littoralis caused 
+by azadirachtin. Neotrop. Entomol. 30: 113-125.
+Miranda, M.M.M., M.C. Picanço, J.C. Zanuncio, L. Bacci & É.M. 
+da Silva. 2005. Impact of integrated pest management on the 
+population of leafminers, fruit borers, and natural enemies in 
+tomato. Ciênc. Rural. 35: 204-208.
+Mikolajczak, K.L. & D.K. Reed. 1987. Extractives of seeds of the 
+Meliaceae: Effects on Spodoptera frugiperda (J.E. Smith), 
+Acalymma vittatum (F.), and Artemia salina Leach. J. Chem. 
+Ecol. 13: 99-111.
+Mordue (Luntz), A.J. & A. Blackwell. 1993. Azadirachtin: An 
+update. J. Insect Physiol. 39: 903-924.
+Mordue (Luntz), A.J. & A.J. Nisbet. Azadirachtin from the neem 
+tree Azadirachta indica: Its actions against insects. An. Soc. 
+Entomol. Bras. 29: 615-632.
+Picanço, M., R.N.C. Guedes, G.L.D. Leite, P.C.R. Fontes & E.A. 
+Silva. 1995. Incidência de Scrobipalpuloides absoluta em 
+tomateiro sob diferentes sistemas de tutoramento e de controle 
+químico. Hort. Bras. 13: 180-183.
+Pratissoli, D. 1995. Bioecologia de Trichogramma pretiosum Riley, 
+1879, nas traças Scrobipalpuloides absoluta (Meyrick, 1917) 
+e Phthorimaea operculella (Veller, 1873), em tomateiro. Tese 
+de doutorado, ESALQ/USP, Piracicaba, 130p.
+Ramírez, M. del C., R.A. Toscano, J. Arnason, S. Omar, C.M. Cerda-
+García-Rojas & R. Mata. 2000. Structure, conformation and 
+absolute confi guration of new antifeedant dolabellanes from 
+Trichilia trifolia. Tetrahedron 56: 5085-5091.
+Rocha, W. C. 2004. Busca de substâncias bioativas em plantas 
+amazônicas: Adiscanthus fuscifl orus (Rutaceae), Trichilia 
+pallida e T. rubra (Meliaceae). Tese de doutorado, UFSCar, 
+São Carlos, 221p. Disponível em : <http://www.bdtd.ufscar.
+br/tde_arquivos/18/TDE-2005-03-15T09:09:06Z-543/Publico/
+TeseWCR.pdf>. Acesso em 04 out. 2008.
+Rodríguez H., C. & J.D. Vendramim. 1996. Toxicidad de extractos 
+acuosos de Meliaceae en Spodoptera frugiperda (Lepidoptera: 
+Noctuidae). Man. Integ. Plagas 14-22.
+Rodríguez H., C. & J.D. Vendramim. 1997. Avaliação da bioatividade 
+de extratos aquosos de Meliaceae sobre Spodoptera frugiperda
+(J.E. Smith). Rev. Agric. 72: 305-318. 
+Roel, A.R. & J.D. Vendramim. 1999. Desenvolvimento de 
+Spodoptera frugiperda (J.E. Smith) em genótipos de milho 
+tratados com extrato acetato de etila de Trichilia pallida
+(Swartz). Sci. Agric. 56: 581-586. 
+Roel, A.R., J.D. Vendramim, R.T.S. Frighetto & N. Frighetto. 
+2000a. Atividade tóxica de extratos orgânicos de Trichilia 
+pallida (Swartz) (Meliaceae) sobre Spodoptera frugiperda (J.E. 
+Smith). An. Soc. Entomol. Bras. 29: 799-808. 
+Roel, A.R., J.D. Vendramim, R.T.S. Frighetto & N. Frighetto. 
+2000b. Efeito do extrato acetato de etila de Trichilia pallida
+(Swartz) (Meliaceae) no desenvolvimento e sobrevivência da 
+lagarta-do-cartucho. Bragantia 59: 53-58.
+Siqueira, H.A.A., R.N.C. Guedes & M.C. Picanço. 2000. Insecticide 
+resistance in populations of Tuta absoluta (Lepidoptera: 
+Gelechiidae). Agric. For. Entomol. 2: 147-153.
+Souza, J.C. de & P.R. Reis. 1992. Traça-do-tomateiro: Histórico, 
+reconhecimento, biologia, prejuízos e controle. Belo Horizonte: 
+EPAMIG, 1992, 19p. (EPAMIG. Boletim, 38).
+Tanzubil, P.B. & A.R. McCaffery. 1990. Effects of azadirachtin 
+and aqueous neem seed extracts on survival, growth and 
+development of the African armyworm, Spodoptera exempta.
+Crop. Prot. 9: 383-386.
+Thomazini, A.P.B.W., J.D. Vendramim & M.R.T. Lopes. 2000. 
+Extratos aquosos de Trichilia pallida e a traça-do-tomateiro. 
+Sci. Agric. 57: 13-17.
+Trindade, R.C.P., I.M.R. Marques, H.S. Xavier & J.V. de Oliveira. 
+2000. Extrato metanólico da amêndoa da semente de nim e 
+a mortalidade de ovos e lagartas da traça-do-tomateiro. Sci. 
+Agric. 57: 407-413.
+Vendramim, J.D. & A.P. de B.W. Thomazini. 2001. Traça Tuta 
+absoluta (Meyrick) em cultivares de tomateiro tratadas com 
+extratos aquosos de Trichilia pallida Swartz. Sci. Agric. 58: 
+607-611.
+Vendramim, J.D. & P.J. Scampini. 1997. Efeito do extrato aquoso 
+de Melia azedarach sobre o desenvolvimento de Spodoptera
+frugiperda (J.E. Smith) em dois genótipos de milho. Rev. 
+Agric. 72: 159-170. 
+Wheeler, D.A., M.B. Isman, P.E. Sanchez-Vindas & J.T. Arnason. 
+2001. Screening of Costa Rican Trichilia species for biological 
+activity against the larvae of Spodoptera litura (Lepidoptera: 
+Noctuidae). Biochem. Syst. Ecol. 29: 347-358.
+Xie, Y.S., M.B. Isman, P. Gunning, S. Mackinnon, J.T. Arnason, 
+D.R. Taylor, P. Sánchez, C. Hasbun & G.H.N. Towers. 1994. 
+Biological activity of extracts of Trichilia species and the 
+limonoid hirtin against lepidoptera larvae. Biochem. Syst. 
+Ecol. 22: 129-136.
+Received 31/XIII/07. Accepted 22/X/08.

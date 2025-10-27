@@ -1,0 +1,4940 @@
+Louisiana State University
+LSU Digital Commons
+LSU Historical Dissertations and Theses Graduate School
+1980
+The Chemistry and Biological Activity of
+Sesquiterpene Lactones of Heliantheae
+(Compositae).
+June Walachy Klimash
+Louisiana State University and Agricultural & Mechanical College
+Follow this and additional works at: https://digitalcommons.lsu.edu/gradschool_disstheses
+This Dissertation is brought to you for free and open access by the Graduate School at LSU Digital Commons. It has been accepted for inclusion in
+LSU Historical Dissertations and Theses by an authorized administrator of LSU Digital Commons. For more information, please contact
+gradetd@lsu.edu.
+Recommended Citation
+Klimash, June Walachy, "The Chemistry and Biological Activity of Sesquiterpene Lactones of Heliantheae (Compositae)." (1980).
+LSU Historical Dissertations and Theses. 3492.
+https://digitalcommons.lsu.edu/gradschool_disstheses/3492
+INFORMATION TO USERS
+This was produced from a copy of a document sent to us for microfilming. While the 
+most advanced technological means to photograph and reproduce this document 
+have been used, the quality is heavily dependent upon the quality of the material 
+submitted.
+The following explanation of techniques is provided to help you understand 
+markings or notations which may appear on this reproduction.
+1. The sign or “ target” for pages apparently lacking from the document 
+photographed is “Missing Page(s)” . If it was possible to obtain the missing 
+page(s) or section, they are spliced into the film along with adjacent pages. 
+This may have necessitated cutting through an image and duplicating 
+adjacent pages to assure you of complete continuity.
+2. When an image on the film is obliterated with a round black mark it is an 
+indication that the film inspector noticed either blurred copy because of 
+movement during exposure, or duplicate copy. Unless we meant to delete 
+copyrighted materials that should not have been filmed, you will find a 
+good image of the page in the adjacent frame.
+3. When a map, drawing or chart, etc., is part of the material being photo­
+graphed the photographer has followed a definite method in “sectioning” 
+the material. It is customary to begin filming at the upper left hand corner 
+of a large sheet and to continue from left to right in equal sections with 
+small overlaps. If necessary, sectioning is continued again—beginning 
+below the first row and continuing on until complete.
+4. For any illustrations that cannot be reproduced satisfactorily by 
+xerography, photographic prints can be purchased at additional cost and 
+tipped into your xerographic copy. Requests can be made to our 
+Dissertations Customer Services Department.
+5. Some pages in any document may have indistinct print. In all cases we 
+have filmed the best available copy.
+University
+Microfilms
+International
+300 N. ZEEB ROAD, ANN ARBOR, Ml 48106 
+18 BEDFORD ROW, LONDON WC1R 4EJ, ENG LA N D
+8021754
+KLIMASH, JUNE WALACHY
+THE CHEMISTRY AND BIOLOGICAL ACTIVITY OF SESQUITERPENE 
+LACTONES OF HELIANTHEAE (COMPOSITAE)
+The Louisiana State University and
+Agricultural and Mechanical Col. PH.D. 1980
+University 
+M icrofilms
+In te rn a t io n a l  300 N. Zeeb Road, Ann Arbor, MI 48106 18 Bedford Row, London WC1R 4EJ, England
+THE CHEMISTRY AND BIOLOGICAL ACTIVITY OF SESQUITERPENE 
+LACTONES OF HELIANTHEAE (COMPOSITAE)
+A Dissertation
+Submitted to the Graduate Faculty of the 
+Louisiana State University and 
+Agricultural and Mechanical College 
+in partial fulfillment of the 
+requirements for the degree of 
+Doctor of Philosophy
+in
+The Department of Chemistry
+by
+June Walachy Klimash 
+B.S., Louisiana State University, 1973 
+May 1980
+fjjn u vy fiui o±
+ACKNOWLEDGEMENT
+I gratefully acknowledge the support, guidance, trust, and 
+friendship of my major professor, Nikolaus H. Fischer. Throughout 
+my course as a graduate student he has shown not only the patience 
+but also the encouragement needed for the completion of my doctoral 
+studies. I am especially thankful for the extra understanding and 
+support offered me in past several months.
+I also wish to thank my minor professor, Ezzat S. Younathan, 
+without whose knowledge and expertise the phosphofructokinase work 
+could not have been carried out.
+The collection and identification of the various plants by 
+Dr. Tod Stuessy and Dr. Lowell Urbatsch is greatly appreciated.
+I would also like to thank my fellow farmers and Helga 
+Fischer for their loyal support and friendship.
+Lastly, I acknowledge the financial support received from 
+the National Cancer Institute, the Louisiana State University 
+Student Government Association, and Coates Memorial Foundation.
+June Walachy Klimash
+Baton Rouge, La.
+April 1980
+iii
+TABLE OF CONTENTS
+Page
+LIST OF T A B L E S ..................................................... vi
+LIST OF F I G U R E S ............    ix
+LIST OF S C H E M E S ..................................................  xii
+ABSTRACT............................................................ xiv
+INTRODUCTION .......................................................  1
+Part
+I THE ISOLATION AND STRUCTURAL ELUCIDATION
+OF SESQUITERPENE LACTONES FROM A BIOLOGICALLY 
+ACTIVE MEMBER OF THE GENUS MELAMPODIUM
+(COMPOSITAE) ..............................................  37
+Isolation of Possible Anti-Tumor Active
+Sesquiterpene Lactones .................................  40
+Physical Data of Melcanthin A ( 3 2 ) ....................  42
+The Structure of Melcanthin D ( 8 3 ) ....................  54
+The Structure of Melcanthin E ( 8 4 ) ....................  59
+Configurational and Conformational
+Considerations of the Melcanthins .....................  65
+Possible Biological Activity of the
+M e l c a n t h i n s ............................................  66
+An Incomplete Structure Determination of
+Two New Sesquiterpene Lactones ........................  68
+II MODIFICATION REACTIONS OF SESQUITERPENE 
+LACTONES FROM THE GENUS MELAMPODIUM
+(COMPOSITAE)................. .............................  77
+Summary of Antineoplastic Activity and
+Cytotoxicity Data of Sesquiterpene Lactones
+Performed at the National Cancer Institute ............  79
+iv
+Page
+Synthesis of Germacranolide Esters ......................  91
+Biological Activity of Germacranolides
+and Their Derivatives ...................................  121
+III AN INHIBITION STUDY OF PHOSPHOFRUCTOKINASE
+WITH GERMACRANOLIDE SESQUITERPENE LACTONES ...............  124
+Phosphofructokinase .....................................  127
+PFK Inhibition Study of Sesquiterpene
+Lactones................................................... 128
+Correlation Between PFK Inhibition and
+Cytotoxicity and/or Anti-Tumor Activity ...............  162
+IV EXPERIMENTAL................................................  167
+Isolation of Melcanthin A (32), Melcanthin D (83),
+and Melcanthin E ( 8 4 ) ...................................  169
+Syntheses of Various Ester Derivatives of
+Natural Products .......................................... 171
+Phosphofructokinase Assay System ........................  186
+REFERENCES............................................................ 192
+v
+LIST OF TABLES
+Table Page
+1. Screening Data of Antineoplastic Activity
+of Crude Plant Extracts .................................  39
+2. Screening Data of Melampodivm cineveum
+2015B Fractions..........................................  41
+3. Mass Spectral Parameters of the Melcanthins...........  48
+4. NMR Data of the Melcanthins.............................  52
+5. 200 MHz ^H-NMR Parameters of (87) and (88) in
+° 6D 6 ........................ -  . . — .............  71
+6 . Mass Spectral Parameters of Melcanthin F and G . . . .  73
+7. Activity Data of Various Structural Types of
+L a c t o n e s .................................................  79
+8. Cytotoxicity and Antineoplastic Activity of
+Erioflorin and Derivatives .............................  86
+9. Cytotoxicity and Antineoplastic Activity of
+Costunolide and Derivatives .............................  87
+10. Cytotoxicity and Antineoplastic Activity of
+Two E l e m a n o l i d e s ........................................  89
+11. Cytotoxicity of Two Guaianolide Isomers ................  89
+12. Anti-Tumor Activity of Germacranolide
+Sesquiterpene ............................................. 92
+13. Germacranolide Esters Synthesized .......................  98
+14. ^H-NMR Data of Melampodin B Derivatives................  99
+15. Mass Spectral Data for Melampodin B (86)
+and Derivatives..................... "“7 .................  101
+vi
+Table Page
+16. ^H-NMR of Cinerenin Derivatives ........................  103
+17. Mass Spectral Data of Cinerenin and Derivatives . . . .  105
+18. ^H-NMR Data of Melcanthin B and Derivatives........... 107
+19. Mass Spectral Data of Melcanthin B and
+Derivatives..............................................  109
+20. ^H-NMR Data of Melampodin A and Derivatives...........  110
+21. Mass Spectral Data of Melampodin A and
+Derivatives..............................................  Ill
+22. Apparent K. Values for Melampodin B and
+Derivatives..............................................  152
+23. Apparent K. Values for Cinerenin and
+Derivatives..............................................  153
+24. Apparent K. Values for Melampodin A and
+Derivatives..............................................  155
+25. Apparent K. Values for Melcanthin B and
+Derivatives............................................... 157
+26. Apparent K_^  Values for the M e l c a n t h i n s ................ 160
+27. Apparent Values for the Melampolides................  161
+28. Anti-Tumor Activity and PFK Inhibition Data of
+Germacranolide Sesquiterpene Lactones .................. 163
+29. Esterification of Melampodin B (88),
+Melampodin A (100), and Cinerenin- (101)
+via Method A ~ T ......................  172
+30. Esterification of Melampodin B (86),
+Melcanthin B (99), Melampodin A ~(T00)» and
+Cinerenin (101J- via Method B . .  ....................  173
+31. IR Data of Melampodin B and Derivatives................  175
+32. IR Data of Cinerenin and D e r i v a t i v e s ..................  176
+33. IR Data of Melcanthin B and Derivatives................  177
+vii
+Page
+177
+178
+179
+180
+181
+182
+182
+183
+183
+187
+189
+IR Data of Melampodin A and Derivatives
+UV Data of Melampodin B and Derivatives
+CD Data of Melampodin B and Derivatives
+UV Data of Cinerenin and Derivatives 
+CD Data of Cinerenin and Derivatives 
+UV Data of Melampodin A and Derivatives
+CD Data of Melampodin A and Derivatives
+UV Data of Melcanthin B and Derivatives
+CD Data of Melcanthin B and Derivatives
+Reagents of PFK Assay Mixture .........
+Sesquiterpenes Tested with PFK . . . .
+viii
+LIST OF FIGURES
+Figure
+1 .
+2 .
+3.
+4.
+5.
+6.
+7.
+8. 
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+Page
+LC Trace of Melampodium cinereum 2015B
+Fractions 28-37, Band I A .................................  43
+LC Trace of Melampodium oinevevm 2015B
+Fractions 28-37, Band I B .................................  44
+200 MHz NMR Spectrum of Melcanthin A ( 3 2 ) ...........  47
+200 MHz NMR Spectrum of Melcanthin D ( 8 3 ) ...........  56
+200 MHz ^H NMR Spectrum of Melcanthin E ( 8 4 ) ...........  61
+200 MHz ^H NMR Spectrum of Melcanthin F and
+Melcanthin G ..............................................  69
+Correlation Between PS Activity and
+Cytotoxicity of Sesquiterpenes ..........................  81
+Activity-Dose Relationship of Graminiliatrin ...........  82
+Activity-Dose Relationship of Helenalin and
+Fastigilin C ............................................... 84
+Correlation Among PS Activity, Dose, and
+Toxicity...................................................  85
+100 MHz NMR Spectrum of Melampodin B in
+P y r i d i n e - d ^ ................................................  113
+100 MHz NMR Spectrum of Cinerenin in
+Acetone-d,................................................... 114
+o
+100 MHz "Hi FT Spectrum of Melampodin...................... 115
+100 MHz ^H NMR of Melcanthin B ............................  116
+Correlation Between PS Activity and Dose
+of Melampodins..............................................  123
+PFK Inhibition Graph of Melampodin B ......................   130
+ix
+Figure Page
+17. PFK Inhibition Graph of Melampodin B
+A c e t a t e ..................................................  131
+18. PFK Inhibition Graph of Melampodin B
+I s o b u t y r a t e ..............................................  132
+19. PFK Inhibition Graph of Melampodin B
+H e x a n o a t e ................................................  133
+20. PFK Inhibition Graph of Melampodin B
+P a l m i t a t e ................................................  134
+21. PFK Inhibition Graph of C i n e r e n i n ......................  135
+22. PFK Inhibition Graph of Cinerenin
+Acetate  .......................................... 136
+23. PFK Inhibition Graph of Cinerenin
+Isobutyrate .  ...........................................  137
+24. PFK Inhibition Graph of Cinerenin
+H e x a n o a t e ................................................  138
+25. PFK Inhibition Graph of Cinerenin
+P a l m i t a t e ................................................. 139
+26. PFK Inhibition Graph of Cinerenin
+C i n n a m a t e ................................................. 140
+27. PFK Inhibition Graph of Melampodin A ....................  141
+28. PFK Inhibition Graph of Melampodin A
+A c e t a t e ...................................................  142
+29. PFK Inhibition Graph of Melampodin A
+H e x a n o a t e ...................................................  143
+30. PFK Inhibition Graph of Melcanthin B ....................  144
+31. PFK Inhibition Graph of Melcanthin B
+A c e t a t e ...................................................... 145
+32. PFK Inhibition Graph of Melcanthin B
+H e x a n o a t e ................................................. 146
+33. PFK Inhibition Graph of Melcanthin A ....................  147
+x
+Figure Page
+34. PFK Inhibition Graph of Melcanthin D ....................  148
+35. PFK Inhibition Graph of Melcanthin E ....................  149
+36. PFK Inhibition Graph of Melampodinin .................... 150
+37. PFK Inhibition Graph of Enhydrin A ......................  151
+38. Enzyme Cleft Regions .......................................  156
+xi
+LIST OF SCHEMES
+Scheme Page
+1. Probable Biosynthetic Pathway to the
+Sesquiterpenoids ..........................................  8
+2. Possible Lactone Ring Formation ........................  10
+3. Possible Biosynthesis of Structural Classes
+of Sesquiterpene Lactones ...............................  11
+4. Possible Biogenetic Cope Rearrangement of
+Germacranolides to Elemanolides ........................  12
+5. Spontaneous Cope Rearrangements ........................  13
+6 . Formation of Eudesmanolides from
+Epoxygermacranolides ...................................... 13
+7. Formation of Eremophilanolides from
+Epoxyeudesmanolides.........„ ..........................  14
+8 . Biogenesis of Guaianolides from
+Germacranolides ..........................................  15
+9. Oxidation of Melcanthin A ............................... 17
+10. Reduction of Maculatin...................................  19
+11. Reduction of Linderane...................................  19
+12. Acid-Catalyzed Cyclization of Tulipinolide .............  20
+13. Relactonization of Cnicin ............................... 20
+14. Relactonization of Eupatoriopicrin ......................  21
+15. Cope Rearrangement of Dihydrochamissonin
+D i a c e t a t e .................................................  22
+16. Photochemical Reaction of
+11,13-Dihydrocostunolide .................................  23
+17. Photochemical Reaction of Isabelin ......................  23
+18. Possible Biological Michael Addition ....................  29
+19. Cytotoxic and Anti-Tumor Active
+Sesquiterpene Lactones ...................................  31
+xii
+Scheme Page
+20. Anti-Tumor Activity of Vernolepin
+and Hexahydrovernolepin .................................  31
+21. Activity of Three Sesquiterpene Lactones
+and Their Cysteine Adducts ...............................  33
+22. Phosphofructokinase Assay Reactions... ...................  34
+23. Mass Spectral Fragmentation Patterns of
+Melcanthin A ..............................................  49
+24. Loss of CO from a-Methylene-y-Lactones in
+Mass S p e c t r o s c o p y ........................................  50
+25. Mass Spectral Data of Melcanthin A ......................  51
+26. Mass Spectral Fragmentation Patterns of
+Melcanthin D ............................................... 58
+27. Mass Spectral Fragmentations of
+Melcanthin D ............................................... 59
+28. Mass Spectral Fragmentation Patterns of
+Melcanthin E ............................................... 63
+29. Mass Spectral Fragmentations of
+Melcanthin E ............................................... 64
+30. Mass Spectral Fragmentation Patterns of
+Melcanthin F and G ........................................  74
+31. Mass Spectral Fragmentations of (87) and (88) .......... 75
+32. General Synthesis of Methacrylate Esters (I) ............  95
+33. General Synthesis of Methacrylate Esters (II) .......... 95
+34. Possible Mechanism of Exchange Reactions.................  97
+35. Mass Spectral Fragmentations of
+Ester Moieties............................................  H 7
+xiii
+ABSTRACT
+Investigations of the antineoplastic crude extracts of 
+Melampodvum cineveum No. 2015B provided low yields of four new cis, 
+cis-germacranolide sesquiterpene lactones which were named melcanthin 
+D (83), E (84), F (87), and G (8 8). The separations of these closely 
+related compounds were accomplished by reverse phase high pressure 
+liquid chromatography. Structure elucidation of melcanthins D to G 
+utilized infrared, ultraviolet, circular dichroism, mass, and proton 
+nuclear magnetic resonance spectroscopic methods combined with 
+spectral correlation with the known compound melcanthin A. Tentative 
+configurational and conformational assignments were made by 
+considering proton nuclear magnetic resonance coupling data and the 
+dihedral angles from stereo models (Karplus correlation).
+For structure-biological activity correlation studies 
+(antineoplastic activity, cytotoxicity, and phosphofructokinase 
+deactivation), acetate, isobutyrate, hexanoate, and palmitate ester 
+derivatives were prepared of four melampolide-type sesquiterpene 
+lactones from Melampod'ium'. melampodin B (86), melcanthin B (99), 
+melampodin A (100), and cinerenin (101). The cinnamate of cinerenin 
+was prepared, but attempts to prepare methacrylates of this series 
+of melampolides by several methods failed.
+xiv
+Twenty-two melampolide-type sesquiterpene lactones and their 
+ester derivatives were tested for inhibition of the enzyme phospho­
+fructokinase (PFK) and the apparent values were determined. All 
+compounds showed considerable PFK inhibition. Within each series of 
+ester derivatives, PFK inhibition was observed to increase with 
+increasing chain length of the ester moiety, rising to maximum 
+inhibition for hexanoate esters. Comparison of these and other 
+structural variations with cytotoxicity and limited antineoplastic 
+activity data (obtained under the auspices of the National Cancer 
+Institute) indicated possible correlations between cytotoxicity and 
+PFK inhibition, which could indicate that general cytotoxicity of 
+these compounds is due to PFK deactivation. No correlation between 
+antineoplastic activity and PFK inhibition was observed.
+xv
+INTRODUCTION
+From the brews administered by ancient medicine men to the
+many antibiotics now prescribed daily by physicians, plants have
+always played a large part in curative medicine. Research in the
+field of pharmacognosy has certainly advanced greatly in the past
+few decades, but this area still holds a wealth of information. The
+following quotation written by Helen Abbott in 1887, has much yet to
+say to today's phytochemists:^
+The vegetable kingdom does not usually claim our attention 
+for its intellectual attainments, although its members 
+would certainly seem to possess greater chemical skill 
+than a higher race of beings exhibits in laboratories.
+Within the plant kingdom, the family Compositae contains many
+different species that have been or are being used for medicinal 
+2
+purposes. Once chemical investigation had begun on the Compositae,
+it was discovered that a characteristic group of compounds,
+sesquiterpene lactones, commonly occurs in this plant family. Today,
+more than one thousand sesquiterpene lactones have been isolated from
+3
+over 125 genera of the Compositae family.
+Sesquiterpene lactones are compounds which contain fifteen
+carbon atoms in an isoprenoid or modified isoprenoid structure. In
+these compounds, the isopropyl side chain is modified so that the
+A
+oxidation state is that of a carboxylic acid. Sesquiterpene lactones
+are divided into six major structural classes. The following is a
+1
+2brief description, with some typical examples, of these structural 
+classes.
+1. Germacranolides
+The germacranolides are cyclodeca-l,5-dienes containing 
+double bonds at the C-4,5 and C-l(lO) positions of the medium ring. 
+Germacranolides can be lactonized toward carbon atom six or eight. A 
+basic germacranolide skeleton (1) with the conventional numbering 
+pattern is shown below. There are four major subgroups within
+( I )2
+3
+this class of sesquiterpene lactones, defined by the stereochemistry 
+of the two double bonds.
+a. The germacrolides contain trans double bonds at both C-4,5 
+and C-l(lO) positions. Tulipinolide (2)^is a typical member of this
+( 2 )
+largest subgroup of germacranolides.
+b. Melampolldes contain a cis-l(lO) double bond and a trans- 
+4,5 double bond. A typical example from this subgroup is 
+melampolidin (3).^
+OAcOMe O
+(3)
+c. A trans-1 (10) double bond and a cis-4 ,5 double bond 
+characterize the subgroup heliangolides, which are represented by 
+eupaformonin (4).^
+OH
+d. The last subgroup of the germacranolides is typified by 
+cis double bonds at both C-l(10) and C-4,5 positions. Until recently, 
+there were no known naturally occurring members of this subgroup. But
+g
+the discovery of cis,cis-3-acetoxy-8-hydroxycostunolide (5) 
+established their existence.
+4A c O N'
+O
+(5)
+2. Guaianolides
+9
+Graminiliatrin (6) is a member of another structural class
+of sesquiterpene lactones known as the guaianolides. The guaianolides
+contain a 5,7-ring system that is based on the guaiane skeleton.
+Together with the seco-guaianolides (xanthanolides), the guaianolides
+3
+comprise over two hundred naturally occurring compounds. The 
+majority of guaianolides are lactonized towards carbon six, although 
+it is not uncommon to find C-7,8 lactones.
+lactones. Like the guaianolides, the pseudoguaianolides contain a 
+5,7-ring system. However, unlike the guaianolides, they contain a
+(§)
+o
+3. Pseudoguaianolides
+The pseudoguaianolides comprise a large class of sesquiterpene
+5methyl group at the C-5 Instead of the C-4 position. Again, lactone 
+formation may occur at C-6 or C-8 . The pseudoguaianolides can be 
+divided into two major subgroups based upon the stereochemistry about 
+carbon atom ten.
+a. Helenanolides represent pseudoguaianolides possessing the 
+C-10 methyl group in an alpha-orientation. An example from this sub­
+group is pulchellin (7)."^
+OH
+Hi m
+OH
+(7)
+b. Pseudoguaianolides with the C-10 methyl group in a beta- 
+orientation are placed in the subgroup ambrosanolides. Damsin (8) ^
+(8)
+is a representative of this subgroup.
+4. Eudesmanolides
+The eudesmanolides are characterized by a 6 ,6-fused ring 
+system based on the eudesmane skeleton. Normally the ring fusion is
+612
+trans, as is seen in ludalbin (9). Eudesmanolides contain either
+2
+3
+13
+(§)
+trans-7,6-lactones or 7,8-lactones that may occur as either cis or 
+trans-y-lactones.
+5. Eremophilanolides
+The structural class known as the eremophilanolides is defined
+by the absence of the C-10 methyl group in the eudesmanolides and the
+.13presence of a methyl group at C-5. Xanthanene (10)' 
+eremophilanolide.
+is a typical
+(to)
+6 . Elemanolides
+Elemanolides are structurally based on the elemol skeleton.
+It has been suggested that this class of sesquiterpene lactones
+represented artifacts of germacranolides produced during the isolation
+14
+of these natural products. But the existence of more complex
+7elemanolides, such as vernmenin (11) proved that not all such 
+compounds are artifacts.
+7. Biosynthesis of Sesquiterpene Lactones
+Many excellent reviews have recently appeared dealing with
+3 16-22
+the biosynthesis of the various classes of sesquiterpene lactones. ’
+Although the central role of mevalonic acid (12) in the biosynthesis
+of terpenoid and steroidal compounds has been realized for many 
+23-25years, the elucidation of detailed pathways of formation of these
+compounds has been quite elusive. This difficulty has been due, at 
+least in part, to the fact that traditional radiolabeling experiments 
+are not successful in higher plants. At best, one can usually expect 
+no more than 1-2% incorporation of radioactivity. However, recent
+data of labeling experiments involving vitamin precursors have
+13 26
+yielded, with the aid of C NMR, very promising results.
+The formation of trans,trans-farnesyl pyrophosphate (13)
+from mevalonic acid, and its subsequent cyclization to the trans-
+germacradiene intermediate (14) are shown in Scheme I. Biogenetically,
+all of the various structural classes of sesquiterpene lactones can be
+SCHEME I
+J h m  ..?iftps 
+NAOPH NADP
+OH mevalonic acid (12)3  a c e ty l  CoA
+COOH
+2 ATP
+OH
+2 ADP
+ADP ATP
+OP OH
+.COOHCOOH
+OPP OPPOPP
+PPO OPP
+PPO
+-OPP
+pp
+geranyl pyrophosphate
+(14)
+HZ
+OPP
+trane , tran*-farnesyl pyrophosphate (13)
+9derived from a trans-germacradiene structure such as (14). Through 
+loss of a proton, the germacradiene intermediate (14) can lead to the 
+formation of the common volatile sesquiterpenes germacrene A (15) and/ 
+or germacrene B (16). From these germacradienes, two biogenetic routes
+2
+3
+(15)
+3 4
+have been suggested for the formation of the lactone ring. * Using 
+germacrene A, the introduction of an oxygen function at the allylically 
+active C-12 position of (15) could proceed through either an epoxide 
+intermediate (17) or a hydroperoxide intermediate such as (18). As 
+seen in Scheme II, these two different routes will lead to different 
+products if formation of the hydroperoxide were to occur via a radical 
+process. Biogenetically, the hydroperoxide route will lead to a C-12 
+alcohol (19) under retention of the 11,13 double bond, whereas the 
+epoxide route will lead to a C-13 alcohol (20) with formation of an 
+11,12 double bond. Further oxidation of the alcohol (19) to the 
+aldehyde (21) and the acid (22), followed by the allylic oxidation of 
+the C-6 position and the formation of the lactone would lead to the 
+germacranolide costunolide (23).
+SCHEME II
+Germacrene A (Ip)
+W p .
+H-^12
+1
+(20)
+(J7)
+lactonization
+Costunolide (23)
+C -6
+oxida tion
+00H
+OH
+OH
+(21)
+(2 2)
+SCHEME III
+Eudesmanolide
+1
+Eremophilanolide
+Germacranolide
+GuoianolideElemonolide
+Pseudoguaianolide
+12
+Examination of the germacrene A structure reveals that all
+of the non-olefinic carbons are allylically activated for oxidation,
+with the exception of carbon eight. Thus it is possible for all of
+these activated carbons to become further oxidized, thereby accounting
+for the many different side chains encountered in sesquiterpene
+lactones. Oxidation at C-8 follows from germacrene B in which C-8 is
+allylically activated.
+Scheme III demonstrates some general routes in which one
+structural class of sesquiterpene lactone converts to another. The
+germacranolides are believed to be the parent class from which all
+the other classes are then derived, either directly or indirectly.
+It has been postulated that the elemanolides are formed from the
+germacranolides via a biogenetic Cope rearrangement as seen in Scheme
+27
+IV. Recently, Bohlmann and Zdero observed a spontaneous Cope
+cnzymotic ^
+SCHEME IV
+rearrangement that took place at temperatures below 60°C (Scheme V). 
+Of particular note was their observation that the alcohols (25) and
+(26) required temperatures above 100°C for the Cope rearrangement, 
+whereas the aldehyde (2£) rearranged below 60°C to yield the product
+(^), R=H, R® CHO
+(25), R=H» R'« OH
+(26), R,R' = OH
+(2 7 )
+SCHEME V
+H*
+Cotfunolide - 1,10-epoxide 
+OH
+Reynosin Santamarine
+SCHEME VI
+14
+(27). The aldehyde group in compound (24) may play a crucial role in
+28
+this spontaneous process, as predicted by theoretical calculations. 
+Eudesmanolides have been synthesized in vitro from epoxy-
+germacranolides, indicating their likely involvement in the biogenesis
+29
+of eudesmanolides (Scheme VI).
+30 31
+Yoshioka and coworkers ’ have successfully transformed 
+epoxyeudesmanolides into eremophilanolides upon acid treatment as 
+seen in Scheme VII. This supports the assumption that the eudes­
+manolides could be the biogenetic precursors for the eremophilanolides.
+H COOH,  o c e t o n e  
+r e f l u x ,  2  hrs. 4
+SC H EM E VII
+There is also evidence that furan precursors could be involved
+32-34
+in the formation of the eremophilanolide lactone ring.
+Biogenesis of the guaianolides from the germacranolides can 
+be envisioned, as in the biogenesis of the eudesmanolides, to proceed 
+via an epoxygermacranolide. In Scheme VIII, the 4,5-epoxygermacrolide
+(28) is rearranged in the presence of an acid catalyst to form the 
+cis-fused guaianolide cation (2|) which, upon uptake of water, forms 
+the cis-fused guaianolide skeleton (30). If the guaianolide cation
+(29) undergoes hydride and methyl shifts as shown by the arrows, the
+pseudoguaianolide skeleton (11) will result.
+(28)
+H
+(2_9)
+H a n d
+c h 3
+s h i f t s
+H2 0
+OH
+OH
+(30) (31)
+SCHEME VIII
+8. Isolation and Structure Elucidation of Sesquiterpene Lactones 
+In the past decade several new analytical techniques have 
+appeared that have been welcome additions to the more classical 
+methods of isolation. The technique most commonly used to isolate 
+sesquiterpene lactones from dried plant material is essentially as 
+follows: a known amount of dried plant material is first extracted
+with an appropriate organic solvent; this crude extract is chromato­
+graphed on an open column usually consisting of silica gel; the
+16
+fractions thus obtained are further purified by smaller columns or by
+thick layer chromatography. However, many mixtures cannot be
+completely purified by this technique alone. The introduction of high
+pressure liquid chromatography (HPLC) has greatly aided the natural-
+products chemist in the purification of complex mixtures. HPLC has
+been especially useful in separation work involving very small sample
+sizes. Examples have begun to appear in the literature citing the
+application of HPLC in the separation of pure compounds from crude 
+35
+plant extracts.
+The development of volatile derivatives of sesquiterpene
+lactone mixtures has led to the employment of gas chromatography-mass
+spectrometry (GC-MS) as a valuable tool in the analysis of these 
+36
+natural products. However, routine structure eludication of a 
+sesquiterpene lactone requires both physical and chemical methods.
+Some of the common physical methods used are nuclear magnetic 
+resonance spectrometry (NMR), mass spectrometry (MS), infrared 
+spectrometry (IR), ultraviolet sepctrometry (UV), circular dichroism 
+(CD), and X-ray analysis.
+Some of the standard reactions employed in the analysis of 
+sesquiterpene lactones will be presented to illustrate their useful­
+ness in the structure elucidation of these complex natural products.
+a. Oxidations and Reductions. Oxidation reactions yield both 
+structural and stereochemical information. From changes in the NMR 
+spectrum and in the mass spectrum after oxidation, much can be learned 
+about the hydroxylation pattern of a compound. This is clearly
+17
+demonstrated in Scheme IX, the oxidation of melcanthin A (32). When 
+(32) was oxidized with activated MnC^, the downfield shift of H-5
+OAc
+a c t .  Mn02 , 
+ether, r . t . ,  I hr!
+HO
+9 . 4 9  ppm
+6 .45  ppm
+<3.2) ($3)
+SCHEME IX
+in the NMR spectrum from 5.65 ppm in (32) to 6.45 ppm in (33)
+37
+substantiated the presence of an allylic alcohol.
+38
+Herz and Sharma have used the oxidation of an allylic
+alcohol to an aldehyde to determine the configuration of the carbon-
+carbon double bond. They noted that the NMR chemical shift of the
+aldehyde proton in a,B-unsaturated medium ring aldehydes depends on
+the configuration of the double bond. NMR absorptions near 10 ppm or
+above generally occur with compounds containing trans double bonds.
+Compounds with the cis configuration usually exhibit chemical shifts
+near 9.5 ppm. "Herz's rule" was used (Scheme IX) to support the
+37
+presence of a cis-4,5 double bond in melcanthin A. Numerous other
+examples that follow this empirical rule can be found in the
+„ 39-42
+literature.
+18
+Other oxidation reactions commonly employed in the structure
+elucidation of sesquiterpene lactones are chromium trioxide oxidation
+43 44 45-46
+of an alcohol ’ and peracid epoxidation of double bonds. In
+47 48 49 50
+addition, dehydration ’ and dehydrogenation * reactions are
+frequently employed.
+Reductions of sesquiterpene lactones with either I^/Pd-C or
+NaBH^ in methanol generally yield the 11,13-dihydro-derivatives. In
+51
+the reduction of the melampolide maculatin (34), catalytic
+hydrogenation and NaBH^ reduction yielded different epimeric
+11,13-dihydro-derivatives, (35) and (36) (Scheme X).
+Reductions involving the use of either Zn-Cu couple or Ct CI^
+to reduce epoxides to alkenes have been helpful in structure
+elucidations of sesquiterpene lactones. The structure correlation of
+linderane (J2) with linderalactone (38) was accomplished using
+52
+reduction with (Scheme XI).
+b. Cyclizations. Acid-catalyzed cyclization reactions have
+been extremely useful in the characterization of germacranolides.
+Scheme XII outlines a typical example of this reaction, the cyclization
+53
+of tulipinolide (39). The NMR spectrum of the cyclized product (40) 
+allowed, by analogy, stereochemical assignments for the C-6 and C-8 
+oxygen functions in tulipinolide.
+c. Hydrolysis, Relactonizations, and Esterifications. 
+Hydrolysis under alkaline conditions is frequently desired in the 
+structure elucidation of a sesquiterpene lactone. This can yield 
+valuable information about the side chain ester functions that are
+( 3 4 )
+0 C H 3  
+OAc
+(3.6)
+S C H E M E  X
+CrCl2
+ace tone ,
+A c O H
+*
+( 3 7 )
+S C H E M E  X!
+20
+QAc
+SOCI2
+SC H EM E XII
+(40)
+present. Herz and Sharma have shown that there exists a distinct 
+difference in the ease of hydrolysis of various esters with K^CO^ in 
+methanol-water at room temperature.
+Treatment of sesquiterpene lactones with strong base, followed 
+by acidification will result in a relactonization as seen in Scheme 
+XIII. Cnicin (41) rearranges to the 7,8-lactone artemisiifolin (42).
+I. KOH
+OHHO HO
+(41) (4=2)
+SCHEME XIII
+Similar relactonizations, from C-7,6 to C-7,8 lactonic compounds, 
+generally occur with C-8 alpha-oxygenated germacranolides. However,
+21
+such treatment of eupatoriopicrin (43) to produce eupatolide (44) 
+(Scheme XIV) results in retention of the C-7,6 lactone, due to the
+OH
+OH
+'4
+(43) (44)
+SCHEME XIV
+S-configuration of the C-8 oxygen function which does not allow easy 
+56
+lactonization. These examples have led to a general rule for
+germacranolide relactonization: molecules with a C-7,6 lactone and
+an a-C-8 oxygen function will, upon treatment with strong base followed
+by acidification, relactonize to C-8; if a 8-C-8 oxygen function is
+57present, the formation of a cis C-7,8 lactone is disfavored.
+Esterification reactions, especially acetylations, have been
+employed quite often as an indication of the presence of primary and
+secondary alcohols. Conversion of an alcohol to a diastereomeric
+mixture of esters is the chemical basis of the Horeau Method, a
+partial resolution method for the configurational assignment of
+alcohols. This method has been applied with reasonable success to
+58-60
+sesquiterpene lactones.
+22
+d. Cope Rearrangements. The Cope rearrangement has been of 
+great importance in structural studies of germacranolide-type sesqui­
+terpene lactones. Two recent reviews have been written on this 
+61 62
+subject. * The Cope rearrangement can yield important structural
+information since, in general, the reaction is highly stereospecific
+for germacranolides. It is known to proceed through a chair-like
+transition state (46), as is shown in Scheme XV. Dihydrochamissonin
+diacetate (45) undergoes a highly stereospecific Cope rearrangement
+63to yield a divinylcyclohexane derivative (47).
+OAc 0Ac I
+(47)
+SCHEME XV
+23
+e. Photochemical Reactions. The photochemistry of germa­
+cranolides, eudesmanolides, and pseudoguaianolides has been fairly 
+well investigated. Two photochemical processes involving germa­
+cranolides are outlined in Schemes XVI and XVII. In Scheme XVI the
+irradiation of 11,13-dihydrocostunolide (48) resulted in the formation
+64
+of a guaianolide (49). 
+2+2-cycloaddition product (51).
+The irradiation of isabelin (50) yields a 
+65
+(48)
+quartz lamp
+' Hi l l
+SCHEME XVI (49)
+O 254 nm
+benzene
+(50)
+SCHEME XVII
+(51)
+Barton and coworkers and others have done extensive photo-
+66 67
+chemical studies on the eudesmanolide santonin. ’
+24
+9. Biological Activity of Sesquiterpene Lactones
+Although most of the reactions that are typical for sesqui­
+terpene lactones were discovered in the course of structure elucidation, 
+this is certainly not their sole value. Some of these reactions have 
+been applied in the study of structure-biological activity relation­
+ships. The modification of sesquiterpene lactones to study the effect 
+of various functional groups on activity has produced some insight 
+into how these compounds exert their influence.
+Sesquiterpene lactones exhibit various modes of biological
+53—  76
+activity, about which numerous reviews have been written. Two
+of the most pronounced biological effects exerted by these natural
+products are cytotoxicity and anti-tumor activity. These will be
+discussed in more detail following a brief description of some other
+interesting biological effects attributable to sesquiterpene lactones.
+The anti-microbial activity of sesquiterpene lactones has been
+known for quite a few years.^ In vitro inhibition of growth of both
+the bacterium Staphylococcus aureus and the yeast Candida albicans
+has been effected by two germacranolides, mikanolide (52) and dihydro- 
+78
+mikanolide (53). Russian workers found that ten of the eighty-two
+(52) (53)
+25
+sesquiterpene lactones that were tested showed strong in vitro
+protozoacidal activity against Entamoeba histolytica and Trichomonas
+79vaginalis (active at 0.24-7.8 yg/ml). These workers also found that
+certain functional groups generally conferred increased activity. The
+exocyclic methylene in conjunction with the lactone carbonyl and an
+acetyl group or ketone on the ring, were all responsible for general
+increases in protozoacidal activity. Other reports of similar anti-
+80 81
+microbial activity have been published. ’
+Plant growth regulation has been exhibited by sesquiterpene
+82
+lactones of many structural types. Vernolepin (54) has been shown
+83
+to inhibit the growth of wheat coleoptile sections by 20-80%, while 
+alantolactone (55) was shown not only to inhibit seedling growth, but
+(54) (55)
+84
+also to inhibit seed germination. It appears that the exocyclic
+methylene group, or some other electrophilic site, may be responsible
+for the regulatory action. It has been shown that these plant growth
+effects may be reduced by the elimination of the exocyclic methylene 
+85
+group.
+26
+Eremanthine (56), costunolide (57), and 3-cyclocostunolide
+(58), three sesquiterpene lactones isolated from the bark of Brazilian
+86
+trees, were found to have schistosomicidal properties. These 
+lactones prevented skin penetration by the cercariae of the trematode, 
+Schi-stosoma mansoni. It is interesting to note that dihydro-a- 
+cyclocostunolide (59) was found to be inactive, indicating that the 
+exocyclic methylene group on the lactone ring is necessary for 
+activity.
+(56) (57)
+( 5 8 ) (59)
+27
+In a study of the members of the genus Vemonia (Compositae),
+Burnett et al. found that the presence of sesquiterpene lactones can
+87provide a plant with some resistance to insect feeding. In an 
+experiment using five species of insects, Spodoptera eridania,
+S. frigiperda, S. omithogalli, Diaorisia Virginia, and Triehoplusia 
+ni, the larval feeding preferences were tested on agar medium 
+supplemented with glaucolide A (60). Larval feeding was found to be 
+inversely proportional to the concentration of glaucolide A in the 
+medium.
+OAc
+OAc (60)
+Hymenoxys odorata, more commonly known as bitterweed, has
+been known to be a livestock toxicant that primarily affects sheep and 
+88
+goats. The major sesquiterpene lactone present in Texas populations 
+of bitterweed, hymenovin (61), was shown to be involved in the death
+OH
+(61)
+of sheep. Sesquiterpene lactones are also suspected to be involved
+28
+in some way with the many other species of Compositae that are
+73reported to be poisonous to livestock. Bitterweed has also been
+known to impart a bitter taste to the milk of cattle that have eaten 
+90
+the plant. When tenulin (62), a constituent of EeZenium amarium,
+was administered to a lactating cow, a resultant bitter taste was
+91
+found in the milk.
+In 1956 the American weed Parthenium hysterophorus was
+accidentally introduced into India. In certain cities of India,
+allergic contact dermatitis has now become a major public health
+problem. The major allergen in P. hysterophorus is the pseudo-
+73
+guaianolide, parthenin (63).
+29
+When over eighty sesquiterpene lactones were tested for their
+allergenicity, it was demonstrated that the most important requisite
+was the presence of the a-methylene group, exocyclic to the 
+92 93
+y-lactone. ’ In fact, all the known allergenic sesquiterpene
+73
+lactones contain an exocyclic-a-methylene function. It is
+postulated that these functions may react with sulfhydryl groups in
+proteins via a Michael-type addition to form compounds capable of
+93producing the allergic reaction (Scheme XVIII).
+protein S-H +
+SCHEME XVIII
+In the past fifteen years enormous effort has been expended 
+in the isolation and structure elucidation of cytotoxic and anti­
+tumor active sesquiterpene lactones. ^ T h i s  is probably due 
+in great part to the formal plant screening program instituted in the
+early 1960's by the National Cancer Institute (NCI). The first crude
+102plant extract was tested at NCI in 1956. From the beginning of the
+program there was a steady increase in the number of plant extracts
+submitted for screening until 1973, at which time the number leveled
+,, 103 off.
+Samples submitted to NCI are screened for both cytotoxicity 
+and anti-tumor activity. An in vitvo tumor system known as KB has
+30
+been widely used to test cytotoxicity of crude plant extracts. The KB
+system is composed of human epidermoid carcinoma of the nasopharynx.
+Cytotoxicity is defined as an ED^q value of greater than or equal to
+2.0, whereas ED,_q is equal to the effective dose in yg/ml at which 50%
+inhibition of cell growth (versus untreated controls) is observed. Two
+in vivo tumor systems used to test the anti-tumor activity of plant-
+derived extracts are LE and PS. The host employed in both is the mouse.
+The tumor in the LE system is a lymphoid leukemia L-1210, while in the
+PS system it is a lymphocytic leukemia P388. Activity is expressed in
+terms of increase in life span, ILS. An ILS value greater than or equal
+to 25% is considered active in the LE system whereas an ILS value
+greater than or equal to 30% is considered PS-active. In vivo activity
+is also often expressed as a ratio of test to control known as T/C,
+representing 100 times the ratio of average survival time of treated
+animals to that of control animals (T/C = 100 + ILS).
+Approximately two hundred sesquiterpene lactones have been
+tested in the Natural Products Section of the NCI program. Of these,
+about 35% have shown cytotoxic activity and about 20% have shown
+104
+anti-tumor activity. Scheme XIX shows some examples of cytotoxic
+and anti-tumor active sesquiterpene lactones. All of these compounds
+are biologically active and they also possess a,8-unsaturated double
+bonds. As the results in Scheme XX indicate, the a,8-unsaturated
+96
+carbonyl functions appear to be necessary for activity. Further
+work has pointed to the importance of the conjugated a-methylene
+108
+lactone function in cytotoxicity and anti-tumor activity. Reactions
+31
+AcO
+OAc OH
+9 6 1 0 5C h a m is s o n in  d i o c e t a t e  ( 6 4 )  Helenal in  ( 6 5 )
+E 0 5 0  = 0 . 5 0  ED5 0 = 0 . 2 0 ,  T /C= 2 2 0
+A m b r o s i n  ( 6 g )  
+E D 5 0  = 0 . 0 3 8
+106
+AcO
+OH
+O
+Eupachlorin a c e t a t e  ( 6 7 )  
+ED 5 0  = 0 . 1 8 ,  T / C  = 155
+107
+SCHEME XIX
+V e r n o l e p i n  ( 5 4 )  
+T/C = 1 4 5
+Hexahydrovernolepin ( 6 8 )  
+no a c t iv i t y  
+SCHEME XX
+32
+of various unsaturated lactones with model biological nucleophiles
+109
+have been shown to diminish or completely eliminate activity.
+Results of the reactions of three cytotoxic sesquiterpene lactones
+with L-cysteine are given in Scheme XXI. The bis-cysteine adduct (73)
+was essentially devoid of KB activity. The monocysteine derivatives
+(71) and (72) were appreciably less cytotoxic than the parent
+compounds, (69) and (70). These results support the idea that the
+a-methylene-y-lactone function plays a significant role in the mode
+of action of these compounds, and that these compounds react with
+active sulfhydryl groups on enzymes that are involved in the cell
+division process. To test this theory further, studies were
+performed with active sesquiterpene lactones and the enzyme
+phosphofructokinase.
+Phosphofructokinase (ATP:D-fructose-6-phosphate 1-phospho-
+transferase, EC 2.7.1.11) catalyzes the phosphorylation of fructose-
+6-phosphate (74) to fructose-1,6-diphosphate (75) (Scheme XXII) in
++2
+the first stage of glycolysis. Mg is required for catalysis,
+presumably because the actual substrate is not ATP but MgATP. The
+phosphorylation of fructose-6-phosphate is an important control point
+in glycolysis. Phosphofructokinase is an allosteric (regulatory)
+enzyme, and like most allosteric enzymes has a rather high molecular
+weight (-360,000) and shows a complex dependence of its reaction
+111
+velocity on substrate concentration. Phosphofructokinase activity
+is regulated by a variety of substances including its substrate, 
+substrate analogs such as AMP and cyclic 3',5'-AMP, and by the
+33
+Elephantopin (69) 
+ED50= 0.32
+•CO
+NH
+ED50= 1.7
+OH
+OH
+Eupatundin (70)
+ED50 = 039
+OH I CO
+NH
+(72)
+ED5q= 3.2
+•OH OH
+CO,
+nh3'
+Vernolepin (§.4) 
+ED50 = 2.0
+(73)
+E D50 > 10 0
+S C H E M E  X X I
+34
+.2
+CH20 P 0 3 CH2OH CHgOPO^ CH2 0 P 0 3
+PFK OH>
+OH OH
+OH
+(75 )(74) MgADPMg A T P
+pyruvote kinase -2
+COO" OPOCOOCH
+pyruvate (77) phosphoenolpyruvate (76)
+NADH'
+NAD+<
+lactate
+dehydrogenase
+CH3-qH-C00" lactate (78)
+OH
+SCHEME XXI I
+35
+112
+structurally unrelated compound, citrate. Thiol groups are known
+113
+to be important to the catalytic activity of phosphofructokinase.
+114
+Engel'hardt and Sokov reported that oxidizing agents affected the
+activity of the enzyme. More recently Paetkau and Lardy proved a
+direct relationship between the thiol potential of phosphofructokinase
+112
+and the enzyme's activity.
+Phosphofructokinase activity may be assayed in many different
+ways but the most common is the coupled procedure described by Ling 
+115and coworkers. Using this method, phosphofructokinase activity is
+determined by coupling the reaction catalyzed by phosphofructokinase
+with the other two reactions shown in Scheme XXII. For each mole of
+fructose-1,6-aiphosphate formed in the reaction catalyzed by phospho-
+fructokinase, there is one mole of NADH oxidized. It is this
+oxidation that is actually being monitored in the assay of activity.
+The decrease in UV absorption at 340 nm is measured at pH = 8.0 and
+28°C, where the enzyme activity is maximal.
+116
+Kupchan and coworkers studied the effects of a number of 
+compounds on the activity of phosphofructokinase, including some 
+sesquiterpene lactones. Euparotin acetate (79), eupacunin (80), and 
+vernolepin (54) all showed 50% inhibition of enzyme activity at 
+relative concentrations of 1000 to 2000 moles of inhibitor per 
+protomer of enzyme. In comparison with inhibition of some standard 
+sulfhydryl reagents, these a,8-unsaturated lactones are about ten 
+times as effective as iodoacetamide (81). If these three sesqui­
+terpene lactones were first reacted with dithiothreitol (82), and
+36
+AcO
+OH
+uV
+OH
+AcO
+( 7 9 ) ( 8 0 )
+iHN
+( 8 1  )
+ch2 i
+OH
+h s - c h 2 - c h - c h -  c h 2  - s h
+OH
+( 8 2 )
+then allowed to react with phosphofructokinase, no inhibition of the 
+enzyme was observed. This could indicate that the sesquiterpene 
+lactones inhibit phosphofructokinase because of their affinity for 
+the sulfhydryl groups of the enzyme, which are essential for enzyme 
+activity.
+PART I
+The Isolation and Structure Elucidation
+of
+Sesquiterpene Lactones From a 
+Biologically Active Member of 
+the Genus Melampodium (Compositae)
+37
+38
+An investigation into the potential biological activity of 
+the genus Melampodium, of the sunflower family (Compositae), was begun 
+in this laboratory several years ago. Many crude plant extracts were 
+submitted to the National Cancer Institute (hereafter NCI) to 
+determine their possible cytotoxicity and anticancer activity. Table 
+I contains selected results obtained from the NCI screening program.
+To be considered PS-active a plant extract should have a T/C 
+value of 130 or greater. It is immediately obvious that only three 
+of the extracts in Table I are PS-active. Of these three, Melampodium 
+cinereum, Stuessy-Fisher #2015B is the most anti-tumor active crude 
+extract. Therefore, the population #2015B was selected for a 
+systematic chemical investigation to determine its natural products, 
+especially the sesquiterpene lactones present, with the hope of 
+finding the anti-tumor active constituent(s).
+39
+Table 1
+Screening Data of Antineoplastic Activity of Crude Plant Extracts
+Sample Description NSC# PS (%T/C) (mg/kg)
+Melampodium argophyllum3 B-664326
+Stuessy # 3596 
+Coahiula, Mexico
+Melampodium oinereum, B-900555
+Stuessy-Fisher # 2015B 
+Duval Co., Texas
+Melampodium cineveum3 B-900556
+Stuessy # 2024 D009
+Melampodium ainereum3 B-900556
+Stuessy-Fischer # 2033 D010
+Melampodium leuaanthum3 B-664327
+Stuessy-Fischer # 2044
+Melampodium leuaanthum3 B-664328
+Stuessy # 3504
+Melampodium leuoanthum3 B-664329
+Stuessy # 3560
+121
+186
+156
+140
+130
+122
+126
+142
+115
+106
+(12.5)
+(37.5) 
+(11.0)
+(16.5)
+(25.0)
+(3.13)
+(25.0)
+(25.0)
+(25.0) 
+(12.5)
+40
+la. Isolation of Possible Anti-Tumor Active Sesquiterpene Lactones 
+The method for the isolation of sesquiterpene lactones from 
+Metampodiian cinevewn # 2015B followed the basic procedure outlined 
+below.
+1. A known amount of dried plant material was ground in 
+a Waring blender and then extracted with chloroform.
+This slurry was filtered and reextracted after which 
+the combined chloroform extracts were evaporated to 
+yield a crude syrup.
+2. The crude syrup was dissolved in ethanol, treated with 
+a 5% aqueous lead (II) acetate solution, and then 
+filtered through filter aid (Celite). The lead (II) 
+acetate solution precipitated most of the phenolic 
+compounds as well as the chlorophylls.
+3. The filtrate was evaporated to approximately one-half 
+of its original volume and then extracted three times 
+with appropriate amounts of chloroform. The combined 
+chloroform extracts were dried over magnesium 
+sulfate, filtered, and evaporated leaving a crude 
+terpenoid-containing extract.
+Crude Melampodiim oineveum # 2015B extract (1.5-2.0 g) was 
+sent to NCI for anti-tumor testing. Results of these tests, seen in 
+Table 1, indicated high PS activity. The crude plant extract was 
+therefore chromatographically fractionated on silica gel as described 
+in Part IV of this dissertation. Over 200 fractions were collected 
+and were combined according to TLC analysis. Twenty-two combined 
+fractions of extract 2015B were submitted to NCI for cytotoxicity 
+tests. Table 2 contains the results of this screening which indicates 
+highest cytotoxicity, and therefore highest probable anti-tumor 
+activity, in fractions 28-37. Further purification of this fraction 
+was initiated using preparative layer chromatography. The bands
+41
+Table 2
+Screening Data of M. cineveum 2015B Fractions
+M. oinereum ft 2015B 
+Fractions
+NSC # B900556 
+Fraction # ED50
+1-11 F020 1.6 X 101
+12-14 F021 9.2 X 101
+15-16 F022 3.2 X 10°
+17-20 F023 2.8 X 10°
+21-22 F024 3.7 X 10°
+23-27 F025 2.6 X 10°
+28-37 F026 1.5 X 10°
+42-46 F027 3.0 X 10°
+47-50 F028 3.5 X 10°
+51-57 F028 3.1 X 10°
+58-64 F030 4.3 X 10°
+65-70 F031 2.4 X 101
+71-75 F032 3.2 X 101
+76-88* F033 2.5 X 101
+**
+76-88 F034 3.9 X 10°
+89-99 F035 3.2 X 10°
+100-110 F036 2.8 X 10°
+111-126* F037 3.3 X 10°
+**
+111-126 F038 3.0 X 10°
+126-164 F039 2.7 X 101
+165-210 F040 4.3 X 101
+MeOH wash F041 3.5 X 101
+CHCl^ soluble oil
+**
+Acetone soluble crystals
+42
+isolated from the preparative plate were analyzed by NMR spectroscopy, 
+which indicated mixtures of the same sturctural types of medium ring 
+sesquiterpene lactones with differing ester side chains. The 
+separation of the lactone mixtures was performed by high pressure 
+liquid chromatography (HPLC) using a reverse phase y-Bondapak C^g 
+column. Two of the bands from the preparative layer plate contained 
+similar mixtures. The HPLC chromatograms of these bands are seen in 
+Figures 1 and 2. Three pure compounds were collected from band IA, 
+while two pure compounds and one two-component mixture were obtained 
+from band IB. Each peak in the LC traces of Figures 1 and 2 yielded 
+approximately 8 mg of material. The structural elucidation of the 
+pure compounds and of the mixtures will be discussed below.
+IB. Physical Data of Melcanthin A (32)
+From a previous study of Melampodium leuoanthum carried out
+in our laboratory, the isolation of three new cis-l(lO), cis-4,5-
+37germacranolides, melcanthin A, B, and C was reported. The isolation 
+of these compounds from this species was of considerable biochemical 
+systematic interest since it completed the finding of this rare 
+fourth germacranolide subgroup in Melampodium.
+Examination of the NMR spectra of Melampodium cinereum 
+// 2015B, fractions 28-37, suggested the presence of compounds similar 
+to the melcanthins. For instance, several signals near 2.0 ppm 
+(acetate methyl), 3.7 ppm (carbomethoxy), and doublets at approximately 
+5.8 and 6.3 ppm (lactonic exocyclic methylenes) are typical for
+43
+1 figure
+lletampod'tum einermm 2013B 
+! fractions 28--37; Band IA 
+0 1 injection - • -
+i»0% mei:hanol--50% water
+:.,2  in l/m in j. 0700 P!!X; .01! amp
+ :——-so — — - —:— —
+-70
+peak # 2
+■60
+50-
+■40
+-3.0
+pea
+44
+------------------------ -— ------------------------ -90-
+IJelampod'CurnAiineretm 201,>B 
+fractions 28--37; Band IB
+i. 1 injection
+:>0% me :hanol -50% water :
+■ - • 2 ml ^ mln; i.700 Pi>1; -Wfo amp
+peak y 3
+-70
+peak it 1
+50
+-40
+45
+melcanthins. Furthermore, the 100 MHz NMR spectrum of fraction 
+28-37 in CDCl^ exhibited broadened signals at ambient temperatures 
+which sharpened considerably when the spectrum was obtained at 60°C, 
+a phenomenon which is typical for melcanthin-type compounds and will 
+be discussed later. After purification of fraction 28-37, the 
+structure elucidation of the melcanthins present indicated that one 
+of the compounds was melcanthin A (32). The following physical and
+OCH j 
+^ OAc
+oc-
+c h 3
+CH3
+(32)
+HO
+spectral data of melcanthin A were used in the structure elucidations 
+of the other cis,cis-germacranolides.
+Melcanthin A (32), *-'23^28^9’ ‘*'S t *16 comPound present in peaks 
+it 2 and 3 of the LC traces in Figures 1 and 2, respectively. The IR 
+spectrum of melcanthin A exhibited absorptions typical of an 
+a-methylene-y-lactone at 1755 cm \  Other IR absorptions at 3500, 
+1660, and 1640 cm \  indicated the presence of hydroxyl groups and 
+double bonds. The identity of the newly isolated compound was 
+deduced by analysis of the 100 MHz and 200 MHz ^H-NMR spectral data 
+and the mass spectral fragmentation patterns, followed by comparison 
+of these data with the published data for melcanthin A.
+46
+The 200 MHz ^H-NMR spectrum of melcanthin A was obtained in 
+CDClg at ambient temperature (Figure 3). The spectrum showed a 
+quartet of a quartet at 6.08 ppm (H-3'), a doublet of a quartet at 
+1.92 ppm (C-S'-CH^), and a narrowly-spaced multiplet at 1.74 ppm 
+(C^'-CH^), absorptions typical of the angeloyl m o i e t y . T w o  
+singlets of three-proton intensity each at 2.08 and 3.65 ppm were 
+assigned to an acetate methyl group and the C-14 carbomethyoxy methyl 
+group, respectively.
+The low resolution mass spectrum of melcanthin A (Table 3) 
+verified the above NMR assignments for the ester side chains. The 
+base peak at m/z 83 (C^H^O), a peak at m/z 100 (C,-Hg02), and a strong 
+peak at m/z 55 (C^H^) supported the presence of an angeloyl moiety. 
+Furthermore, peaks at m/z 43 (CH^CO), m/z 406 (M-C^H^O), and m/z 
+388 (M-C2H^0 2) indicated the presence of an acetate group in (32).
+The appearance of m/z 388 by loss of acetic acid via a McLafferty 
+rearrangement is well documented for acetate derivatives with hydrogens 
+beta to the carbon containing the acetoxy group. The peak at m/z 
+307 could be due to the loss of the angelate radical (C^H^O^) from 
+m/z 406. Further loss of water from m/z 307 would result in m/z 289. 
+Scheme XXIII illustrates these basic fragmentation patterns of 
+melcanthin A.
+The peak at m/z 228 could arise from m/z 256 by an expulsion 
+of CO from the lactone (Scheme XXIV). The loss of CO from a-methylene- 
+y-lactones appears to be common.
+200 MHz 3H-NMR Spectrum of Melcanthin A
+CH
+10-COOMe
+9-OAc
+C-2'-CH_
+4-CH2OH C-3'-
+: CH»
+M-l
+i f t•s' \
+H-13b H-13a
+, h -5
+\ iVi -.1 H-6; i  i~r- H-7
+H-2,3
+7.00 6.00 5.00 4.00 3.00 2.00
+Figure 3
+.00
+Table 3
+Mass Spectral Parameters of the Melcanthins
+Melcanthin A (32) Melcanthin D (83) Melcanthin E (84)
+Relative Relative Relative
+m/z Intensity___________m/z Intensity___________m/z Intensity
+448 0.7 376 0.7 374 0.2
+406 0.4 349 0.4 343 0.7
+388 0.8 288 8.6 288 3.6
+307 1.2 270 6.2 270 3.4
+289 2.6 260 10.9 260 4.2
+256 2.8 256 19.6 256 10.1
+228 3.4 228 23.7 228 13.5
+211 2.6 211 12.5 211 7.9
+199 2.1 170 0.9 199 10.4
+170 0.3 161 13.7 183 5.9
+149 2.0 149 8.7 170 1.8
+128 4.0 128 25.9 161
+CM00
+109 2.0 105 9.3 128 13.3
+100 0.9 91 15.9 109 5.7
+91 3.7 83 23.6 91 7.0
+83 100 77 15.0 77 7.1
+77 3.7 71 100 69 100
+55 23.9 43 75.2 43 9.5
+43 11.1
+MW = 448 MW = 436 MW = 434
+49
+4 4 8  C 0 .7  3
+OAngOAng
+- 4 2
+HO HO
+- 9 9
+~ v3 8 8
+C 0.811
+OAng
+HO HO
+4 0 6  
+CO. 4 □
+3 0 7
+(HgO)
+HO
+1- 289
+C 2 .6 D
+SCHEME XXIII
+50
+H
++ CO
+O
+SCHEME XXIV
+Examination of the remaining NMR data accounted for most of
+the medium ring protons. A broadened triplet at 7.15 ppm (H-l) is 
+typical for the 3-hydrogen of the a,3-unsaturated carbomethoxy 
+group. This downfield absorption of the H-l proton indicates a cis 
+orientation of the 3_hydrogen and the C-14 carboxyl group, which is 
+evidence for the presence of a cis double bond between C-l and C-10 
+in the medium ring of (32). Irradiation of the broad triplet at
+7.15 ppm resulted in a sharpening of the broad multiplet at 2.41 ppm 
+and suggested the presence of alkane-type protons at C-2. The 
+broadened two-proton singlet at 4.11 ppm is typical for a 
+hydroxylated C-15. Its broadening suggests allylic coupling to H-5 
+(5.65 ppm). Irradiation of the multiplet at 3.15 ppm (H-7) collapsed 
+both of the doublets at 5.81 (H-13a) and 6.36 ppm (H-13b) to singlets, 
+while the broadened triplet at 5.42 ppm (H-6) was simplified to a 
+broadened doublet. The doublet of a doublet at 5.87 ppm (H-8) changed 
+to a doublet. Saturation of H-8 in turn sharpened the multiplet at
+3.15 ppm and collapsed the broadened doublet at 6.04 ppm (H-9) to a 
+singlet. Irradiation of H-6 caused the broad doublet at 5.65 ppm
+51
+(H-5) to collapse to a singlet. The above NMR assignment accounted 
+for all oxygens in melcanthin A and for all but one carbon and two 
+hydrogens, which appeared between 2.3 and 2.8 ppm. From the chemical 
+shift of the two remaining protons a CH^ moiety was assigned at C-3. 
+The NMR assignments for melcanthin A are summarized in Table 4.
+angelate functions at the medium ring in (32) was obtained from mass
+spectral data of (32). Melcanthin A gave a significant peak at m/z
+128 (C,Ho0„) and a relatively minor peak at m/z 170 (CoH 1A0.) which 
+o o J o ±U 4
+were assigned to the ions seen in Scheme XXV. If these assignments
+are correct, then this is evidence for the attachment of the acetate 
+group to C-9 in (32). Additional evidence to support this could be 
+obtained by an exchange of the acetate group presumably at C-9 for
+Information concerning the attachments of the acetate and
+CO2CH3
+CO2CH3 
+I .,-*0Ac
+\ \ _ 0 A c  
+H
+SCHEME XXV
+m/z 170 
+C 0 .3  3
+acetate-d^, since facile substitutions at C-9 have been noted
+52
+Table 4 
+NMR Data of the Melcanthins
+Assignment Melcanthin A (32) Melcanthin D (83) Melcanthin E (84)
+H-l 7.15 tr 7.15 tr 7.15 tr
+(8 .0) (6 .0) (6 .0 )
+H-2 2.25-2.80 m 2.20-2.80 m 2.20-2.80 m
+H-3 2.25-2.80 m 2.20-2.80 m 2.20-2.80 m
+H-5 5.64 brd 5.62 brd 5.61 brd
+(9.0) (8 .0) (8 .0)
+H-6 5.42 brtr 5.40 brtr 5.42 brtr
+H-7 3.15 m 3.13 m 3.07 m
+H-8 5.88 dd 5.80 dd 5.77 dd
+(2.0, 4.0) (2.0, 4.0) (2.0, 4.0)
+H-9 6.04 d 6.01 d 6.01 d
+(4.0) (4.0) (4.0)
+H-13a 5.81 d 5.78 d 5.73 d
+(3.0) (3.0) (3.0)
+H-l 3b 6.36 d 6.34 d 6 . 34 d
+(3.0) (3.0) (3.0)
+H-15 4.11 d 4.10 d 4.10 d
+(1 .0) (1 .0) (1 .0)
+COOMe 3.65 3.61 3.69
+Acetate 2.08 2.06 2.08
+C-2'-CH_ 1. 74 m 1.80 m 1.00 d
+(6 .0 )
+53
+Table 4, continued
+Assignment Melcanthin A (32) Melcanthin D (83) Melcanthin E (84)
+C-3'-CH3 1.92 dq 
+(1.5, 7.0)
+— —
+H-2' — — 2.45 hept 
+(6 .0)
+H-3' 6.06 qq 
+(1.5, 7.0)
+— —
+H-3'a — 5.51 dq
+(1.5)
+—
+H-3'b 5.94 dq
+*
+All spectra were run in CDCl^ at 200 MHz. Chemical shifts 
+(6-scale) are in ppm relative to tetramethylsilane, followed by the 
+common multiplicity symbols. Numbers in parentheses are coupling 
+constants or line separations in Hertz.
+54
+previously for melampolides. Unfortunately, not enough material 
+was available to complete this experiment, but the mass spectral 
+data cited above strongly suggested attachment of the acetate group 
+to C-9, leaving the angelate ester at C-8 .
+All the above mass spectral and NMR information, along with
+arguments for a cis-4,5-double (page 15), completed the cis,cis-
+germacranolide skeleton (32). Comparison of the published data for 
+37
+melcanthin A with the NMR assignments and mass spectral patterns of 
+(32), proved that this newly isolated sesquiterpene lactone was 
+indeed melcanthin A.
+Ic. The Structure of Melcanthin D (83)
+In terms of probable biological activity, the most 
+interesting compound found in Melaxngodivm oinereim # 2015B was 
+melcanthin D. It was apparent from its NMR and mass spectral data 
+that this compound was very similar to melcanthin A (32). These two 
+germacranolides differ in the ester side chain present at C-8 , an 
+angelate group in (32) that is replaced by a methacrylate ester in 
+(83). Data from the National Cancer Institute^^ has indicated that 
+a number of methacrylate-containing sesquiterpene lactones exhibited 
+anti-tumor activity.
+Melcanthin D, (83), ^22^26^9’ WaS t*ie component corresponding 
+to peak # 1 of the LC trace in Figure 2. The IR spectrum showed 
+absorptions at 3500, 1755, 1725, and 1640 cm \  indicating the 
+presence of hydroxyls, esters, y-lactone, and double bonds,
+55
+respectively. Due to the lack of material, the structure of 
+melcanthin D was mainly established by correlation of the 200 MHz 
+■^ H NMR data and the mass spectral fragmentation patterns of (83) 
+with those for melcanthin A.
+HO
+6h - (83)
+The 200 MHz ^H NMR of melcanthin D was run in CDCl^ at 
+ambient temperature (Figure 4). The NMR parameters suggested that 
+melcanthin D and melcanthin A had the same medium ring skeleton.
+The only apparent difference between these two compounds appeared 
+to be in the side chain at C-8 . The characteristic three-proton 
+signals for acetate (2.07 ppm) and carbomethoxy (3.61 ppm) were 
+easily assigned. The remaining proton absorptions of melcanthin D 
+were assigned by detailed double irradiation experiments. When the 
+multiplet at 3.13 ppm (H-7) was irradiated, the doublets at 5.78 
+(H-13a) and 6.34 ppm (H-13b) collapsed to singlets. Furthermore, 
+the broad triplet at 5.40 ppm (H-6) sharpened slightly and the 
+doublet of a doublet at 5.80 ppm (H-8) simplified to a doublet.
+200 11Hz ^H-NMR Spectrum of 
+Melcanthin D
+10-COOMe
+2'-CH3
+H-3'b H-8
+H-l 3b U 2
+-13a
+H-l
+A
+1-3’ a
+4-CH20H
+H-7
+~ J J x A _
+H-2 & H-3
+7 . 0 0 6.00 5 . 0 0 4 . 00 3 . 0 0 2.00 1. 0 0
+Figure 4
+Ln
+O'
+57
+Irradiation of H-8 in turn sharpened the multiplet at 3.13 ppm (H-7)
+and also collapsed the doublet at 6.01 ppm (H-9) to a singlet.
+Saturation of H-6 simplified the doublet at 5.62 ppm (H-5) to a
+singlet. Irradiation of the broad triplet at 7.14 ppm (H-l)
+sharpened the signals near 2.2-2.8 ppm, indicating that the C-2
+carbon must be saturated. When the multiplet at 1.80 ppm (2'-CH^)
+was irradiated, the doublets of a quartet at 5.51 (H-3'a) and 5.94 ppm
+(H-3'b) were simplified to doublets, a pattern of NMR signals which
+is typical for methacrylate esters. Table 4 summarizes the NMR
+parameters for (83)•
+Further support for the presence of a methacrylate ester side
+chain was provided by low resolution mass spectral data for (83)
+(see Table 3), as indicated by the base peak at m/z 69 (C^H^O) and
+the peaks at m/z 393 (M-C^H,.) and m/z 348 (C^H^O^). Additional
+peaks at m/z 43 (C^H^O), m/z 377 (M-C2H^02), and m/z 392 (M-C2H 2O)
+were strong indications of the presence of an acetate moiety. The
+1X8
+peak at m/z 374 must result from a McLafferty rearrangement, while 
+the peak at m/z 392 can be accounted for by the loss of ketene.
+Scheme XXVI illustrates some of these fragmentations. Information 
+about the attachments of the acetate and methacrylate esters at the 
+medium ring in (83) was obtained from the mass spectral ions seen in 
+Scheme XXVII. Melcanthin D gave a significant peak at m/z 128 
+which was assigned to the ion shown in Scheme XXVII. This peak, 
+along with the relatively minor peak at m/z 170, strongly indicated 
+the presence of the acetate group at C-9. As described in section lb
+58
+C 0.0 3
+CH3 ° 2 ?  OAc
+OMac
+(c4 h 6 o 2 )
+6 0  
+(c2 h 4 o 2 )
+n
+CH3 ° 2 ?  OAc
+3 4 8
+CO. I 3
+CO 2 C H 3
+HO
+3 7 4  
+C 0 . 2  3  
+ 5 v ^ 0 M 0 C
+l c 4 H e 0 2 )
+-6 0
+(c 2 h 4 o2)
+* 2 8 8  
+C 0 2 c h 3 C 3 . 6 D
+(H2 0)
+COo CH
+S C H E M E  X X V I
+^ ^ 2 C 11
+H"-Jy ^  OAc
+H
+SCHEME XXVII
+m/z 170 
+C0.9D
+for melcanthin A, there was not enough material available to carry out 
+experiments for further proof. Assuming the reliability of the mass 
+spectral evidence is good, then it can be concluded that the 
+methacrylate ester is located at C-8 .
+irradiation experiments, accounted for all the oxygens present in (83) 
+and for all but one carbon and two hydrogens, which by analogy with 
+melcanthin A must be represented by a unit at C-3, thus completing 
+the cis,cis-germacranolide structure for melcanthin D.
+Id. The Structure of Melcanthin E (84)
+The above mass spectral data combined with all the double
+In the study of Melampodium cinereum # 2015B, fraction 28-37, 
+another melcanthin-type compound, named melcanthin E, was isolated by 
+liquid chromatography.
+60
+Melcanthin E (84), C 22H 28°9’ WaS Present in Pea^s # 1 anc* 2
+of the LC chromatograms in Figures 1 and 2, respectively. The IR
+v -1 
+spectrum of melcanthin E showed absorptions at 1755 cm , typical of
+the a-methylene-y-lactone, at 3500 cm \  indicating the presence of
+hydroxyls, and at 2960 cm \  which indicated the presence of alkane
+functions. The structure (84) was assigned by comparison of the NMR
+and mass spectral data of melcanthin E with that of melcanthin A.
+0-C-CH
+HO
+/CH3
+CH3
+( 8 4 )
+The ■*'H NMR spectrum of melcanthin E (seen in Figure 5) 
+provided evidence that the basic skeletons of melcanthin E and 
+melcanthin A were very similar, differing only in the ester side chain 
+present at C-8 . The singlet at 2.08 ppm indicated the presence of an 
+acetate group, while the singlet at 3.69 ppm was reminiscent of the 
+carbomethoxy function. Decoupling experiments suggested that the 
+ester side chain in melcanthin E was the isobutyrate ester instead of 
+the angelate ester of melcanthin A. When the set of doublets at 
+1.0 ppm were irradiated, the heptet at 2.45 ppm (H-2’)
+collapsed to a singlet. These signals in the NMR are very typical for 
+the isobutyrate function.
+200 MHz H-NMR Spectrum of 
+Melcanthin E
+;o-c
+HO
+V/ riy
+r xh
+-CH3 
+3
+H-13b
+H-l
+K v _
+H-8
+H-13a
+H-9 |t H-5
+d H-6
+I
+6.00
+4-CH2OH
+10-C0OMe
+H-2'
+H-2 & ij 
+H-7 H-3 M
+9-OAc
+2'CH„
+7 . 0 0 5 . 0 0 4 . 0 0 3 . 0 0 2.00 1.00
+Figure 5
+62
+Data from the low resolution mass spectrum supported the
+l
+presence of an isobutyrate ester, displaying peaks at m/z 71 
+(C.H.,0), m/z 43 (C0H_,), and m/z 349 (M-C,H_,0o) (Scheme XXVIII).
+H / J / O, I I
+Extensive double irradiation experiments were performed to 
+deduce the basic skeletal structure of (84). Irradiation at 7.14 ppm 
+(H-l) sharpened the broad multiplet at 2.2-2.5 ppm, indicating that 
+the C-2 carbon was saturated. The downfield absorption of H-l and 
+its broadened nature are common for cis-l(lO) compounds with a carbo- 
+methoxy function at the C-10 position. Upon irradiation of the 
+multiplet at 3.07 ppm (H-7), the doublets at 5.73 (H-13a) and 
+6.34 ppm (H-13b) collapsed to singlets, while the doublet of a 
+doublet at 5.77 ppm (H-8) simplified to a doublet. Furthermore, the 
+broad triplet at 5.42 ppm (H-6) sharpened to a doublet. Saturation 
+of the broad doublet at 6.01 ppm (H-9) changed the doublet of a 
+doublet at 5.77 ppm (H-8 ) to a doublet. The broadened doublet at 
+4.10 ppm (H-15), along with the downfield absorption of H-5 
+(5.61 ppm) that indicated a C-4,5 double bond, provided evidence 
+that no protons were present at C-4. All of the basic skeletal 
+protons with the exception of the protons at C-3 were accounted for 
+and the appearance of the C-3 protons in the upfield region of the 
+spectrum (2.3-2.5) indicated a CH^ group at C-3. Table 4 summarizes 
+the NMR data of melcanthin E.
+The remaining mass spectral data supported structure (84) for 
+melcanthin E. The strong peak at m/z 43 ^ £ ^ 0 )  along with the peak 
+at m/z 376 (M-C2H^02) indicated an acetate moiety in melcanthin E.
+63
+,OAc Olsb
+- 8 7
+OHO HO
+3 4 9
+Olsb
+HO
+1
+C H , 0
+-88
+HO
+2 8 8
+C 8 6 D
+-18
+( h2 o )
+' 2 7 0  
+L6 . Z3
+SCHEME XXVIII
+64
+Other fragmentations are very similar to those encountered with 
+melcanthin A. As shown in Scheme XXVIII, loss of 88 from
+m/z 376 results in the peak at m/z 288. The loss of acetic acid
+loss of CO from m/z 256, which was illustrated previously in 
+Scheme XXIV. Loss of water from m/z 288 results in a peak at m/z 270. 
+Proof for the attachment of the isobutyrate group at C-8 can be 
+extracted from mass spectral data. A relatively strong peak at 
+m/z 128 along with the appearance of a peak at m/z 170 strongly 
+suggested that the acetate ester was attached to the medium ring at 
+C-9. Scheme XXIX demonstrates the formation of these ions. Table 3 
+contains the mass spectral parameters for melcanthin E (84).
+(62^ 0 2) from m/z 288 leads to a peak at m/z 288 (McLafferty 
+118
+rearrangement). The peak at m/z 288 could also result from the
+co2ch3
+CO2CH3 
+I ..OAc
+H
+SCHEME XXIX m/z 170 
+CI .83
+65
+Ie. Configurational and Conformational Considerations 
+of the Melcanthins
+Configurational and conformational information on melcanthin A
+had been derived from biogenetic considerations, NMR data, and
+37
+chemical modifications performed on this compound and analogues.
+From biogenetic considerations, it can be assumed that the side chain
+3
+at C-7 in melcanthin A adopts a 3-configuration. The protons at 
+H-5 and H-6 have antiperiplanar orientations as indicated by the large 
+coupling constant (J , = 9.0Hz). The observed coupling of H-6, H-7
+D , O
+and H-7, H-8 led to the following conclusions concerning the cis or 
+trans nature of the lactone ring. A synperiplanar orientation of H-6, 
+H-7 or H-7, H-8 would be required if a 6,7- or 7,8-cis lactone were 
+present in melcanthin A. Such an orientation generally results in 
+coupling constants quite different from those observed. It was 
+therefore considered quite unlikely that melcanthin A contained a cis 
+lactone. If a 7,8-trans lactone were present in melcanthin A, the 
+angle between H-7 and H-8 would require g to be greater than or 
+equal to 6 Hz. Since the observed coupling constant was signifi­
+cantly lower than th:'s value (J., „ = 2.0 Hz), the presence of a .
+/,«
+7,8-trans lactone was considered unlikely. Model considerations1 
+indicated that if a 7,8-trans lactone were present, a nearly synperi­
+planar orientation of H-6 and H-7 should be expected, which would 
+require a much larger coupling constant than the one observed
+(J^ , = 5.0 Hz), 
+b, /
+The NMR coupling data of melcanthin A can be best interpreted 
+by a 7,6-trans lactone. The orientations of H-7 and H-8 should be a
+66
+and H-9 should be 8, all configurations that are common in
+6 121
+germacranolides of known absolute configuration from Melampodium. *
+The cis nature of the double bond at C-l(lO) was supported
+earlier by NMR data. The double bond at C-4,5 is probably cis, as
+37judged from data obtained from earlier work in this laboratory. The
+oxidation of the C-15 alcohol to an aldehyde resulted in an aldehydic
+proton signal in the NMR occurring at approximately 9.5 ppm, which
+38
+according to Herz’s rule indicates a 4,5-cis double bond.
+The subject of conformational isomers being present in these 
+types of systems requires some comment. Rigid or preferred
+conformations are generally observed with 7,6-lactonized
+122 121 123
+germacranolides, melampolides, and heliangolides. It
+appears that the cis-1(10),cis-4,5-germacranolides are considerably
+8 124 123
+more flexible with respect to the medium ring skeleton, ’ ’
+therefore possibly adopting several major conformations. This results 
+in a broadening of the signals observed in the NMR at ambient 
+temperatures.
+If. Possible Biological Activity of the Melcanthins
+The isolation of the melcanthin compounds just discussed was
+approached in a very systematic fashion. Only the fraction of
+Metampodium oinereum # 2015B that showed the greatest activity in the
+fractionation testing at NCI was more carefully examined. Besides
+containing these melcanthin-type sesquiterpene lactones, this fraction
+also contained some dilactone sesquiterpenes and significant amounts
+42
+of the flavonoid artemetin (85). Artemetin had already been tested
+OCH-
+OCH-
+( 8 5 )
+OH O
+for anti-tumor activity and had shown no appreciable activity. The 
+dilactone sesquiterpenes present all appeared to be structurally 
+related to the dilactone, melampodin B (86). Melampodin B had also
+HO
+been tested previously and had shown no significant activity. This 
+led to the conclusion that the melcanthin compounds were the most 
+likely contributors to the high anti-tumor activity shown by the 
+active fraction of M. oinereum #2015B.
+Melcanthin D was of greatest interest in terms of its 
+possible activity, since the ester present at C-8 in this compound 
+is a methacrylate. As mentioned previously, it was found from data 
+obtained from NCI that a large percentage of methacrylate-containing
+sesquiterpene lactones are anti-tumor active. It has been
+postulated that the probable mode of action of sesquiterpenes involves 
+a Michael-type addition of a biological nucleophile to the 
+a,g-unsaturated bond. In melcanthin D, or any other methacrylate- 
+containing sesquiterpene lactone, there would be an additional site 
+for Michael addition to take place. There is also an additional site 
+of a,g-unsaturation in melcanthin A represented by the angelate ester, 
+but it is more sterically hindered and therefore may show lower 
+reactivity toward biological nucleophiles.
+Unfortunately, only 8 mg of melcanthin D was obtained, making 
+it impossible to have this compound tested in the NCI program. 
+Melcanthin A and melcanthin E were also obtained in small quantities 
+(15 mg), not permitting PS activity tests at NCI. The only biological 
+activity results obtained on these compounds were inhibition studies 
+performed with the enzyme phosphofructokinase. These results will be 
+discussed in Part III of this dissertation.
+Ig. An Incomplete Structure Determination of Two 
+New Sesquiterpene Lactones
+Peak # 3 in the LC chromatogram (Figure 1) was broadened and 
+appeared to contain a shoulder, which indicated a mixture of compounds. 
+The following "^H NMR and mass spectral data did allow a tentative 
+structure determination of the two compounds, which we named 
+melcanthin F (87) and G (88).
+The 200 MHz "Si NMR spectrum of the mixture in C,D, (Figure 6)
+o o
+indicated quite clearly that there were two constituents present in
+200 MHz H-NKR Spectrum of Melcanthin F and G
+o  0 c h 3
+0 - C - C H - C H , - C H ,  
+OAc* 3 ' 2  3
+H-l H-13b
+H-8 H-6
+*H-9 Jj H-13a r■, H-5 
+1 1 .. '-*< i'Sh
+10-CO0Me
+4-CH20H
+H-2 & 1 H-2'
+H-7 H - 3 N  /; L  H-l*
+8- or 9-0AC
+C-l’-CH
+! l  H-3'
+[!\i, r** i-'n
+6.50
+T
+5.50
+~ r
+4.50 3.50 2.50 1.50 0.50
+Figure 6
+O'
+VO
+70
+the sample (Table 5). Two sharp singlets near 1.43 ppm indicated two 
+compounds, both containing an acetate function. This same double 
+pattern was evident near 3.16 ppm due to the carbomethoxy moiety.
+Two broad overlapping singlets at 3.38 ppm suggested the presence of 
+CH^OH (C-15), as in the other melcanthins. The NMR signals for 
+these compounds indicated a 60/40 ratio of the two constituents.
+Decoupling experiments performed on the mixture provided 
+useful information about the basic skeletons of these compounds and 
+also about the various side chains that were present. Irradiation of 
+the multiplet at 2.5 ppm (H-7) collapsed the pairs of doublets at 
+5.77 and 5.79 ppm (H-13a) and at 6.05 and 6.08 ppm (H-13b) to singlets. 
+Also affected were the doublets of doublets at 5.75 and 5.77 ppm 
+(H-8) which simplified to doublets and the triplets at 5.13 and 5.15 
+ppm (H-6) which changed to broad doublets. Irradiation of H-6 in 
+turn sharpened the multiplet at 2.5 ppm (H-7). Saturation of the 
+signals at 3.38 ppm (H-15) slightly affected the doublets at 5.05 and 
+5.07 ppm (H-5) and the absorptions at 1.8-1.9 ppm (H-2) were sharpened 
+when the signals at about 7.0 ppm (H-l) were irradiated. Due to 
+solvent side bands present from 6.6-7.3 ppm, the triplets for H-l were 
+obscured, but a spectrum run in CDCl^ clearly demonstrated the 
+presence of a pair of broadened triplets at approximately 7.1 ppm. 
+These irradiations account for all of the basic skeletal carbon 
+protons with the exception of C-3 and C-9. Because of the similarity 
+of the "Sl-NMR absorption of this mixture to melcanthin A, C-3 must 
+be an obscured signal among the group of signals occurring between
+71
+Table 5
+200 MHz ^H-NMR Parameters of (87) and (88) in C^D.=  =  o b
+Assignment
+H-l 7.1 tr
+H-2 & H-3 1.75-1.95 m
+H-5 5.05 & 5.07 d
+H-6 5.13 & 5.15 tr
+H-7 2.5 m
+H-8 5.75 & 5.77 dd
+H-9 5.91 d
+H-l 3a 5.77 & 5.79 d
+H-l 3b 6.05 & 6.08 d
+H-15 3.38
+C02Me 3.16
+Acetate 1. A3
+H-l' 1.0 m
+H-2' 1.7 m
+H-3’ 0.5 tr
+c-i '-c h 3 0.7 d
+72
+1.75 and 1.95 ppm and must represent a Cl^ moiety. Also, by 
+comparison with melcanthin A, it can be deduced that the broad 
+doublets near 5.91 ppm represent H-9, the chemical shift being 
+indicative of the presence of an ester function at C-9.
+Further irradiations gave considerable information about the 
+side chain ester functions present in this mixture. When the triplets 
+at 0.5 ppm were irradiated, the multiplet at 1.74 was sharpened. 
+Saturation of the doublets at 0.7 ppm caused the multiplet at 1.0 ppm 
+to sharpen. When the multiplet near 1.7 ppm was irradiated, it 
+caused the triplets at 0.5 ppm to collapse to a set of doublets, 
+while the multiplet at 1.0 ppm was again sharpened. This pattern of 
+signals indicates the presence of an a-methylbutyrate ester in this 
+mixture.
+The low resolution mass spectrum of this mixture (Table 6) 
+supported the presence of an a-methylbutyrate side chain by the 
+occurrence of the base peak at m/z 85 (C H.O), the intense peak at
+j y
+m/z 57 (C^Hg) and a peak at m/z 349 (M-C,.Hg02). The rather intense
+peak at m/ z 43 (C^H^O) along with the peak at m/z 390 , due
+118
+to the McLafferty rearrangement, indicated the presence of an 
+acetate function. Scheme XXX demonstrates that the basic fragmen­
+tation patterns of this mixture are very similar to those of the 
+melcanthin compounds previously discussed.
+The mass spectral and NMR data on (87) and (88) together gave 
+much information concerning the ester side chains present in these 
+compounds. Scheme XXXI shows mass spectral fragmentations that
+73
+Table 6
+Mass Spectral Parameters of Melcanthin F & G 
+m/z Relative Intensity
+390 0.3
+355 3.9
+349 0.3
+288 6.4
+270 6.7
+256 20.5
+228 27.9
+212 5.3
+200 14.2
+170 2.1
+161 16.5
+128 27.5
+105 11.7
+91 11.3
+85 100
+77 12.4
+57 » 84.1
+43 27.2
+MW = 450
+T 450 
+00.03CH3p2? ,0R 02-Me ButOR
+-60
+HO HO
+t 390 
+C O S H
+(87), R =AcetateR* = 2-Methylbutyrate
+(8), R = 2-Methylbutyrate R’ = Acetate
+(87)
+-102
+288 
+06.4 3
+HO
+-18
+(HoO)
+270
+SCHEME XXX
+C2.II]
+~ l t
+CH&C 0 CH3 0C-CH-CH2-CHj ■OAc
+“ It
+COgCHj
+-) H^J/ \V^OCCHCH2CH3 
+h flCH3 
+m/z 212 C 5.3 □
+SCHEME XXX
+indicate a mixture of positional isomers at carbons eight and nine.
+The peaks at m/z 170 and m/z 128 accounted for the acetate group at 
+C-9, while the peak at m/z 212 resulted from the isomer with the 
+a-methylbutyrate group at C-9. From the relative abundances of peaks 
+m/z 170 and 212, it was calculated that these isomers were present in 
+a 60/40 ratio, which coincided with the ratio calculated from NMR data.
+Combining this mass spectral information with the NMR data, 
+it was concluded that (87) and (88) could be represented by the 
+positional isomers illustrated below. These structures were not only
+76
+consistent with the physical data, but also explained the
+inseparability of these compounds on the LC under the conditions
+utilized to separate the other melcanthins. Furthermore, since a
+reversed phase C1Q column was used in the separation, the most polar 
+lo
+compound should have eluted first. Of the five melcanthins obtained 
+from the LC, the a-methylbutyrates (87) and (88) are the least poicr 
+and should be the last compounds to elute from the column, which was 
+indeed the case (Figure 1).
+PART II
+Modification Reactions 
+of
+Sesquiterpene Lactones from 
+the Genus Melampodium (Compositae)
+77
+Various sesquiterpene lactones are biologically active in a 
+73
+multitude of ways, including cytotoxicity and anti-tumor activity. 
+Considerable interest has been generated in the past decade as to 
+the modes of action these compounds use in exerting biological 
+effects. The project described in this part of the dissertation was 
+undertaken with the hope that by producing derivatives of a group of 
+compounds in a systematic manner, the effects of relative position 
+and of functionality on cytotoxicity and anti-tumor activity could be 
+elucidated. Some work has been carried out along these 
+l i n e s , b u t  none of the investigations were extensive. To 
+better understand the rationale used in the selection of specific 
+sesquiterpene lactones and the derivatives to be made, some back­
+ground data will be presented first.
+Ila. Summary of Antineoplastic Activity and Cytotoxicity Data 
+of Sesquiterpene Lactones Performed at the National 
+Cancer Institute
+In spite of extensive testing of sesquiterpene lactones at 
+NCI, no attempt had been made to assimilate all of the accumulated 
+data and determine whether any trends in structure-activity relation­
+ships could be established. Upon our request, the Natural Products 
+Section of NCI made available activity data on sesquiterpene lactones 
+that had been obtained from the start of the program up through the 
+end of 1977. From this information, it was learned that of the 181 
+tested sesquiterpene lactones, 69 compounds (38%) were cytotoxic 
+(KB < 2.0) and approximately 19% were antineoplastic agents (based on 
+LE, PS, and WA activities, where T/C = 125). This indicated that more 
+compounds were cytotoxic than anti-tumor active. Table 7 shows the
+Table 7
+Activity Data of Various Structural Types of Lactones
+Structural Type # Tested # Cytotoxic (%) # PS-Active (%)
+Germacranolides 58 28 (48) 17 (29)
+Eudesmanolides 20 8 (40) 1 (5)
+Psuedoguaianolides 54 15 (28) 7 (13)
+Guaianolides 32 14 (44) 4 (13)
+Elemanolides 3 2 (67) 2 (67)
+Others 14 2 (14) 1 (7)
+activity data of the various structural types of lactones. In 
+examining the different major structural classes, the germacranolides 
+appear to be statistically the most likely group of compounds to 
+display antineoplastic activity. It must be noted, however, that this 
+class of sesquiterpene lactones also produces the largest percentage 
+of cytotoxic compounds.
+It has generally been assumed that there exists a relation­
+ship between cytotoxicity and anti-tumor activity. Figure 7 shows a 
+graphical representation of antineoplastic activity (represented by 
+the ILS) vs cytotoxicity values (ED^q ) for a number of sesquiterpene 
+lactones. There appears to be no correlation between these activity 
+data. Since cytotoxicity of a compound against KB cells and non- 
+malignant cells might be expected to be similar, it seems reasonable 
+that low cytotoxicity and high anti-tumor activity would be desirable 
+qualities in a compound. Therefore, one could ask the question, what 
+structural and other variables may affect cytotoxicity and/or anti­
+tumor activity?
+First, one variable that is generally examined in a 
+pharmacological study is the dose level of a compound, in order to 
+establish the dosage of highest activity. Examining some specific 
+examples of lactones provided much insight into the dosage-anti-tumor 
+activity relationship. For instance, Figure 8 shows a plot of the 
+dose level vs PS-activity of the guaianolide sesquiterpene lactone 
+graminiliatrin (89). One observed an increase in PS activity with 
+increasing dosage that peaked near 50 mg/kg of animal weight, and then
+IL
+S 
+(P
+S
+)
+81
+120
+8 0  
+7 0  
+6 0
+o
+5 0  h  •  
+4 0  
+3 0  
+20
+10
+»
+o
+G e r m a c r a n o l i d e s  •
+G u a i a n o l i d e s  o
+Ps  e u d o g u a i a no I i d es  a
+t
+o
+A
+O *
+1.0 2 . 0  3 . 0  1  116.0
+K B  ( E D 5 0 >
+Figure 7
+0
+/1
+%
+) 
+A
+1IA
+I10V
+ 
+Sd
+ACTIVITY-DOSE RELATIONSHIP OF GRAMINILIATRIN
+CH OAc
+OH
+0 — C — C =  CH—CH8 0
+140 I/1
+100
+6 0
+20
+2 0  4 0  6 0  80 100
+DOSE (mg/kg)
+Figure 8 00K3
+83
+dropped off rather rapidly. As shown in Figure 9, a similar situation 
+was found in the case of the two pseudoguaianolides, helenalin (90) 
+and fastigilin C (91), except that considerably lower dosages were 
+necessary for maximal activity. The most PS-active of all 
+sesquiterpene lactones, helenalin, showed a particularly narrow range 
+of high PS-activity, whereas the activity range of fastigilin C was 
+quite broad but did show a rapid drop-off, indicating a lesser cyto­
+toxicity of (91) at higher dose levels. From this data it can be 
+concluded that at a certain dose level, the increase of antineoplastic 
+activity will be counteracted by the concurrent increase in toxicity 
+and therefore a maximal dosage level should be seen. This concept 
+is depicted graphically in Figure 10. A logical assumption is that 
+in finding the optimal dose level, one is simply balancing the 
+cytotoxic and anti-tumor effects.
+A variable that is particularly sensitive to chemical 
+manipulation is the functionality of a molecule. Tables 8 and 9 show 
+cytotoxic and antineoplastic activities of two series of 
+germacranolides. For instance, in Table 8, as the R group of 
+erioflorin (92) is changed from hydroxy to acetate to methacrylate, 
+the PS and KB activities are affected, the least cytotoxic and most 
+anti-tumor active derivative being the acetate. Table 9 contains the 
+data for costunolide (57) and parthenolide (93). Again, the most 
+anti-tumor active compound, parthenolide, is the least cytotoxic. 
+Kupchan et at.^  had noted in a structure-cytotoxicity study of 
+sesquiterpene lactones that structural features of importance to
+1
+IL
+S 
+(P
+S
+)
+84
+130 CH
+120
+N O
+100 O CH
+90 ▲ Helenalin, R= H , R'= OH 
+• Fastigilin C, R = 0H,R'=0Sen80
+70
+60
+5 0
+40
+30
+20
+10 20 30
+D o s e  ( m g / k g )
+Figure 9
+C o r r e l a t i o n  b e t w e e n  P S - A c t i v i t y ,  D o s e  a n d  T o x i c i t y
+I L S  ^  K x  D o s e
+I L S  ~
+T o x i c i  t y
+D o s e  , T o x i c i t y
+Figure 10
+86
+Table 8
+Cytotoxicity and Antineoplastic Activity of 
+Erioflorin and Derivatives
+R
+Name R PS (Dose) KB
+Erioflorin OH 127 (24) 0.31
+Acetate OAc 131 (22) 1.8
+Methacrylate O-Methac. 100 (20) 0.67
+87
+Table 9
+Cytotoxicity and Antineoplastic Activity 
+of Costunolide and Derivatives
+Name R PS (Dose) KB
+Costunolide H 113 (100) 0.01 x 10"4
+Parthenolide H,4,5-Epoxide 136 (35.0) 2.0
+88
+cytotoxicity would not necessarily increase the anti-tumor activity 
+of the lactone. In fact, it was shown that not many of the cyto­
+toxic sesquiterpene lactones had shown in vivo anti-tumor activity. 
+Parthenolide and costunolide differ only in the 4,5-epoxide function 
+that is present in (9J) and absent in (57). It has been postulated 
+for some time that in many epoxide-containing sesquiterpene lactones,
+the epoxide function is responsible in contributing to the anti-tumor
+97 105 132or cytotoxic activity. ’ ’ The epoxy group may act as a
+secondary site for alkylation in addition to the essential center, the
+109 133
+a-methylene-y-lactone moiety. * From the data presented, it is
+already clear how great an effect the position and stereochemistry of
+a functionality on a molecule has on its cytotoxicity and anti-tumor
+activity. For instance, the positional isomers in Table 10 show
+dramatic differences in cytotoxicity. Table 11 exemplifies what
+changes in stereochemistry can have on cytotoxicity. The
+a-orientation at C-8 in gaillardin (94) shows more cytotoxicity than
+the 8-orientation found in neogaillardin (95).
+Some definite trends can be derived from the data presented
+above. The germacranolides appear to be the most promising group in
+which to find antineoplastic compounds. A compound from this class
+should ideally have a relatively high anti-tumor activity at a dose
+of low cytotoxicity. Detailed structure-activity studies on
+126 131
+sesquiterpene lactones are limited and only one recent study
+130
+involved derivatives of a germacranolide sesquiterpene lactone.
+In this study, three structurally related germacranolide esters,
+Table 10
+Cytotoxicity and Antineoplastic Activity of 
+Two Elemanolides
+OH
+OH
+Vernolepin Vernomenin
+KB 0.49 20
+PS 145 (4.0) 136 (1.88)
+Table 11
+Cytotoxicity of Two Guaianolide Isomers
+A c — o„ y___
+/ %  * — \  
+< \ / > ✓ \/ p O
+0
+H 0 ,1% j :
+1 H
+Name KB
+Gaillardin (8 a-0) 1.6 x 10-5
+Gaillardin, neo (8 8-0) 1.6
+90
+eriofertin (96), eriofertopin (97), and deacetyleupaserrin (98), were 
+examined for correlation between structural features and in vivo 
+activity. Results of their study showed that acetylation had a
+pronounced negative effect on antileukemic activity, suggesting that 
+the alcohol functions contributed in some way to the in vivo activity 
+of these compounds. It was concluded that the a-methylene-butyro- 
+lactone ring was alone not sufficient for antileukemic activity among 
+the germacranolides examined. From this study, we felt that a more 
+varied group of germacranolides needed to be systematically derivatized 
+and tested. Since this class of sesquiterpene lactones shows the most 
+promise of producing antineoplastic agents, a series of esters of 
+four structurally varied germacranolides were chosen to be synthesized 
+and tested. In section lib the reasons for selecting ester 
+derivatives will be commented upon. Hopefully, differences in cyto­
+toxicity or anti-tumor activity would yield much valuable information
+o
+c h 3 o
+( 9 6 ) ,  R = " C _ C= CH
+=  f ii i
+o  c h 3 ( 9 8 )
+( 9 J ) ,  R = - c - 9 * c h 2  
+c h 3
+about what effect functionality about the basic germacranolide 
+skeleton has on its cytotoxicity and anti-tumor activity.
+lib. Synthesis of Germacranolide Esters
+It was of interest to examine a series of esters of 
+germacranolide sesquiterpene lactones for any correlations between 
+structural changes and biological activity. A series of esters of 
+varying chain length was synthesized to determine whether the increase 
+in lipophilicity, with increase in ester chain length, would affect 
+the biological activities of the germacranolide sesquiterpene 
+lactones. Increased lipophilicity should aid in penetration of the 
+cell membrane by the sesquiterpene lactone and hopefully increase its 
+antineoplastic activity. Since increased membrane permeability should 
+also increase cytotoxicity,^ we hoped to find the correct chain 
+length to increase lipophilicity without significantly increasing 
+cytotoxicity. Put another way, we hoped to maximize anti-tumor 
+activity while keeping cytotoxicity to a minimum. Two ester 
+derivatives, methacrylate and cinnamate, were chosen to be 
+synthesized for different reasons. It was thought that these two 
+ester functions should provide a second site for alkylation and 
+thereby increase biological activity. The ester series that was 
+chosen included acetate, isobutyrate, hexanoate, palmitate, 
+methacrylate, and cinnamate.
+The four germacranolides to be derivatized, melampodin B (86), 
+melcanthin B (99), melampodin A (100), and cinerenin (101), were 
+selected for a number of reasons. First, these germacranolides were
+(9 9 ) (!£P> ( 1 0 0
+available in quantities sufficient to carry out all of the proposed 
+esterifications. Secondly, the four sesquiterpenes had been tested 
+previously at NCI and had shown varying activities (Table 12). Lastly, 
+these compounds are structurally varied yet all contain an 
+esterifiable alcohol function.
+Table 12
+Anti-Tumor Activity of Germacranolide Sesquiterpene
+Compound
+PS
+% T/C (mg/kg)
+Melampodin B 113 (12)
+Cinerenin 110 (25)
+Melampodin A 119 (12)
+Melcanthin B 100 (16)
+Melampodin B Acetate 117 (15)
+Melampodin A Acetate 131 (12)
+Cinerenin Hexanoate 123 (32)
+Following initial synthetic attempts to prepare the ester
+derivatives, it became obvious that the methacrylate and cinnamate
+esters posed problems. Previous work described in the literature
+indicated that the yields of formation of methacrylate esters were
+134-136
+unexceptionally low. Therefore melampodin B (§6) was selected
+as a model compound for the methacrylate ester synthesis studies 
+because of the availability of relatively large quantities of this 
+compound. The first attempt to synthesize melampodin B methacrylate 
+utilized the classical method of ester preparation. Reaction of 
+methacrylolyl chloride and (86) in pyridine produced the C-15 meth­
+acrylate ester in very low yield.
+The catalyst 4-dimethylaminopyridine (102) has been used with
+C H 3 \ N -"CH3
+(102)
+u u- j j 137,138good success to synthesize sterically hindered esters.
+Formation of the reactive acylpyridinium intermediate enables
+4-dimethylaminopyridine to function as an extremely good catalyst for
+the esterification of even highly sterically hindered alcohols. The
+attempted synthesis of melampodin B methacrylate using (102) as a
+catalyst, again yielded mostly unreacted starting material (86).
+139Takimoto et al. reported that the addition of silver 
+cyanide to various esterification reactions improved the yields
+94
+dramatically. This is thought to be due to the complexation of the 
+chloride group on the acid chloride with the silver ion prior to 
+reaction with the alcohol. Addition of silver cyanide to the reaction 
+mixture of (86) and methacryloyl chloride showed only trace amounts 
+of product ester in the NMR spectrum, while unreacted (86) appeared 
+to be the major constituent of the reaction mixture.
+A facile synthesis of methacrylate esters employing meth-
+° 140
+acryloyl chloride and 3 A molecular sieves was recently reported.
+The authors claimed that the molecular sieves, if powdered and dried
+under vacuum with heat, would act as efficient scavengers of small
+molecules such as H^O and HC1. Both of these compounds would
+interfere with the esterification by either hydrolysis of the acid
+chloride and/or polymerization of the extremely reactive methacryloyl
+chloride, lowering the yield of the esterification reaction. In
+O
+model reactions with 3 A molecular sieves, good yields of methacrylate 
+esters were reported with such alcohols as cyclopentanol (95%) and 
+3-methyl-3-pentanol (50%). Applying these conditions in the 
+melampodin B methacrylate reaction did not noticably improve the 
+yields.
+At this point the synthesis of the methacrylate esters for 
+the series was temporarily abandoned. An alternative method would 
+have to be found that would yield the methacrylate ester without 
+using the extremely reactive methacryloyl chloride. Two viable 
+protection methods can be seen in the schemes below. In Scheme XXXII 
+the B-bromo acid chloride is reacted with the appropriate alcohol
+95
+to form the S-bromo ester. This ester could dehydrobrominate to 
+yield the methacrylate ester. Scheme XXXIII approaches this
+0I
+Cl ~C - 9H" CHg Br 
+CH,
+ROH
+Co)
+S k  0
+----------> R0-C-CH-CH2 Br
+6h3
+r o -c -c =c h 2
+- HBr
+CH,
+S C H E M E  XXXI
+0I
+h o -c -c =c h 2
+CH,
+0
+R - C- C= CH ,
+1
+C H ,
+HN(CH3)2 ^
+I. CH3I
+2. N a C 03
+H O - C - C H - C H2-N(CH3)2
+c h 3
+R O H
+DCC
+0I
+R - C -  9H - C l ^ -  N(CH3)2
+c h 3
+9CHEME XXXII I
+synthesis from a slightly different angle. Methacrylic acid is 
+reacted with dimethylamine in a Michael addition to form the S-amino 
+acid. This acid is reacted with the appropriate alcohol in the 
+presence of dicyclohexylcarbodiimide or some other suitable condensing 
+agent to yield the S-amino ester. Methylation of the amine function
+with methyl iodide followed by loss of quarternary amine in a Hoffmann-
+3
+type elimination should yield the methacrylate ester.
+Synthesis of the cinnamate ester presented many of the same 
+problems as those encountered with the methacrylate synthesis. The 
+desired products were obtained in low yields with the exception of 
+cinerenin cinnamate. The details of the synthesis of this compound 
+will be presented below and in the experimental section of this 
+dissertation.
+Initially, the reaction method chosen for the synthesis of 
+the desired germacranolide ester derivatives involved reaction of 
+commercially available acid chloride with the medium ring alcohol in 
+pyridine. This approach presented two problems. The yields of 
+esters using this procedure were rather low with the exception of 
+the acetate formation which could in part be due to the steric 
+hindrance of the secondary alcohols. But probably a more important 
+factor contributing to the low yield reactions is the partial 
+solubility of the ester products in the aqueous phase. Another 
+problem encountered in this synthetic procedure was a side reaction 
+involving ester functions already present in the starting compounds. 
+Upon examination of the product of the reaction of melampodin B with 
+isobutyryl chloride in pyridine, it was evident from the NMR spectrum 
+[product (1£4) in Table 14] that the allylic acetate group present at 
+C-l in (86) had been replaced by an isobutyrate moiety. This 
+exchange reaction is probably base-catalyzed as seen below in 
+Scheme XXXIV.
+97
+SCHEME XXXI V
+Because of the problems discussed before, an alternative
+synthetic approach to the desired esters was chosen. The method
+127
+previously used by Lee and coworkers in the synthesis of ester
+derivatives of the pseudoguaianolide helenalin (92), was tested on the
+medium ring compounds. Combining the appropriate acid chloride and
+alcohol (1.5:1.0) in refluxing benzene gave good yields of the
+desired esters with no exchange reaction. A list of the esters
+synthesized can be seen in Table 13. The experimental details of
+their syntheses are summarized in Part IV on pages 171-186 and the
+physical parameters (IR, UV, and CD) of the derivatives are presented
+in tabular form in Part IV on pages 175-183. The IR of the ester
+-1
+derivatives lacked the OH absorption at 3400 cm and showed ester 
+carbonyl absorption at 1730-1750 cm \
+^H-NMR and mass spectral data of the prepared esters are 
+summarized in Tables 14-21. Comparison of the ^H-NMR and mass 
+spectral data of the derivatives with the spectra of the original 
+compounds indicated that the desired esters had been obtained and no 
+exchange processes with other ester functions had occurred. The
+Table 13
+Germacranolide Esters Synthesized
+Melampodin B Acetate (103) 
+Melampodin B Diisobutyrate (104) 
+Melampodin B Isobutyrate (105) 
+Melampodin B Hexanoate (106) 
+Melampodin B Palmitate (107) 
+Cinerenin Acetate (108)
+Cinerenin Isobutyrate (109) 
+Cinerenin Hexanoate (110) 
+Cinerenin Palmitate (111) 
+Cinerenin Cinnamate (112) 
+Melcanthin B Acetate (113) 
+Melcanthin B Hexanoate (114) 
+Melampodin A Acetate (115) 
+Melampodin A Hexanoate (116)
+Table 14
+1 *
+H-NMR Data of Melampodin B Derivatives
+Assignment (103)1 (104)2 (105)1 (1W >)2 (107)2
+H-l 5.65 m 5.68 m 5.64 m 5.62 m 5. 65 m
+H-5 5.47 d 5.54 d 5.47 d 5.50 d 5.47 d
+(1 0.0) (1 0 .0) (1 0 .0) (1 0.0) (1 0 .0)
+H-6 4.63 tr 4.64 tr 4.63 tr 4.63 tr 4.65 tr
+(1 0.0) (1 0.0) (1 0 .0) (1 0.0) (1 0.0)
+H-7 3.15 m 3.24 m 3.17 m 3.22 m 3.08 m
+H-l 3a 5.81 d 5.87 d 5.83 d 5.85 d 5.82 d
+(3.0) (3.0) (3.0) (3.0) (3.0)
+H-l 3b 6.45 d 6.42 d 6.42 d 6.42 d 6.46 d
+(3.0) (3.0) (3.0) (3.0) (3-0)
+H-15 4.63 d 4.64 d 4.61 d 4.63 d 4.65 d
+(1 .0) (1 .0) (1.5) (1 .0) (1 .0)
+-coch3 2.11 s — 2.07 s 2.08 s 2.10 s
+-coch(ch3 )2
+b) a)
+a) 1.08 d
+(7.0)
+b) 2.59 hept
+(7.0)
+a) 1.17 d
+(7.0)
+b) 2.60 hept
+(7.0)
+Table 14, continued
+Assignment (103)1 (104)2
+i I
+s (“* (106)2 (107)2
+-coch2c4h9
+b) a)
+— — — a)
+b)
+0.90 m 
+1.30 m 
+2.23 tr 
+(6 .0)
+—
+-COCH2C16H33 
+b) a)
+a)
+b)
+1.26 m 
+2.23 tr 
+(6 .0)
+All spectra are run in CDCl^.
+^100 MHz spectrum.
+2
+60 MHz spectrum.
+Table 15
+Mass Spectral Data for Melampodin B (86) and Derivatives
+m/e
+(86)
+Relative
+Intensity m/e
+(103)
+Relative
+Intensity m/e
+(105)
+Relative
+Intensity m/e
+(106)
+Relative
+Intensity m/e
+(1£Z)
+Relative
+Intensity
+274 53.5 376 4.3 404 2.6 432 2.7 257 8.8
+256 100 274 31.0 345 23.1 373 15.2 256 58.8
+245 34.9 256 43.8 301 43.4 329 24.5 213 11.6
+228 96.5 228 41.7 274 6.2 256 16.6 157 11.4
+227 58.1 212 27.8 256 12.5 100 20.5 129 37.2
+210 62.5 147 17.6 212 13.2 99 100 97 25.5
+165 68.6 91 21.9 147 10.6 91 26.5 85 27.3
+162 30.0 82 25.7 109 14.1 71 59.6 83 28.7
+91 69.9 43 100 71 100 60 23.2 73 100
+43 51.2 43 26.7 44 21.2 71 33.3
+43 50.3 69 43.8
+101
+Table 15, continued
+(86) (103) (105) (106) (107)
+Relative Relative Relative Relative Relative
+m/e Intensity m/e Intensity m/e Intensity m/e Intensity m/e Intensity
+60 65.2
+57 39.9
+55 37.2
+43 33.2
+MW = 334 MW = 376 MW = 404 MW = 432 MW = 572
+Table 16
+1 *
+H-NMR Data of Cinerenin Derivatives
+Assignment (108)1 (109)1 (lio)2 ( m )2 QJL2)2
+H-l 4.40 m 4.33 m 4.36 m 4.32 m 4.33 m
+H-5 5.47 brd 5.45 brd 5.49 brd 5.44 brd 5.53 brd
+(9.0) (1 0.0) (1 0.0) (1 0 .0) (1 0 .0)
+H-6 4.60 tr 4.59 tr 4.61 tr 4.58 tr 4.60 tr
+(9.5) (1 0 .0) (1 0 .0) (1 0.0) (9.5)
+H-7 3.22 m 3.14 m 3.12 m 3.15 m 3.20 m
+H-l 3a 5.84 d 5.82 d 5.84 d 5.80 d 5.81 d
+(3.0) (3.0) (3.0) (3.0) (3.0)
+H-13b 6.46 d 6.45 d 6.47 d 6.43 d 6 .44 d
+(3.0) (3.0) (3.0) (3.0) (3.0)
+H-15 4.59 brs 4.61 brs 4.62 d 4.59 d 4.75 brs
+(1 .0 ) (1 .0)
+C-l'-CH- 3.58 dq 3.51 dq 3.49 dq 3.47 dq 3.47 dq
+z
+(7.5; 2.0) (7.0; 2.0) (7.0; 1.0) (7.0; 1.0) (7.0; 1.
+C-2f-CH_ 1.16 tr 1.16 tr 1.18 tr 1.17 tr 1.18 tr
+3 (7.0) (7.0) (6.5) (7.0) (7.0) 103
+Table 16, continued
+Assignment (108)1 (109)1 (n o )2 ( u p 2 (112)2
+-coch3 2.08 s — — — —
+-coch(ch3)2
+b) a)
+a) 1.16 d
+(7.0)
+b) 2.59 hept
+(7.0)
+-coch2c4h9
+b) a)
+a) 0.90 m 
+1. 34 m
+b) 2.37 tr 
+(7.0)
+-c°CH2Ci6H33
+b) a)
+“ — —*— a) 1.25 m
+b) 2.33 tr 
+(7.0)
+— —
+C0CHCHC,Hc b _>
+a) b) c)
+a) 6.46 d 
+(16.0)
+b) 7.77 dd 
+(16.0;
+3.0)
+c) 7.46 m
+All spectra run in CDCI3 . 100 MHz spectrum. 60 MHz spectrum.
+ra/e
+320
+274
+256
+228
+227
+199
+179
+165
+147
+112
+Table 17
+Mass Spectral Data of Cinerenin and Derivatives
+(101)
+Relative 
+Intensity m/e
+(108)
+Relative 
+Intensity m/e
+(109)
+Relative 
+Intensity m/e
+(no)
+Relative 
+Intensity m/e
+( u p
+Relative 
+Intensity m/e
+3.1 362
+50.0 275
+70.5 274
+58.0 256
+37.6 228
+36.0 178
+37.6 165
+67.2 147
+70.5 140
+100 112
+0.8 390
+18.4 302
+75.7 274
+38.9 256
+42.7 228
+22.2 179
+32.3 165
+26.6 149
+24.5 112
+82.7 91
+1.0 418
+17.1 374
+6.8 330
+11.1 274
+5.5 256
+6.3 228
+6.3 212
+24.9 140
+27.1 112
+21.9 99
+0.8 558
+3.9 470
+26.0 302
+2.8 274
+13.6 257
+7.5 256
+4.9 240
+o
+•
+00 239
+23.4 228
+100 212
+1.2 450
+8.3 362
+5.0 256
+10.4 212
+10.8 147
+34.9 131
+10.8 112
+50.6 103
+9.5 81
+15.8 77
+Table 17, continued
+(101) (108) (109) (110) (111) (112)
+Relative Relative Relative Relative Relative Relative
+m/e Intensity m/e Intensity m/e Intensity m/e Intensity m/e Intensity m/e Intensity
+91 50.0 91 45.9 77 27.9 71 49.9 112 38.2 69 7.5
+43 18.2 77 53.7 71 100 69 26.5 85 46.1 57 7.9
+43 100 43 41.7 43 39.6 83 41.1 43 9.6
+71 53.1
+69 61.4
+57 100
+43 59.3
+MW = 320 MW = 362 MW = 390 MW = 418 MW = 558 MW = 450
+106
+107
+Table 18
+1 *
+H-NMR Data for Melcanthin B and Derivatives
+Assignment (99 )1 (113)2 O M )1
+H-l 7.13 d 7.06 d 7.04 d
+(7.0) (7.0) (7.0)
+H-2 4.66 m 5.64 m 5.64 dtr
+H-5 5.73 brd 5.85 brd 5.83 brd
+(9.0) (9.0)
+H-6 5.19 brdd 5.19 5.20
+(6.5, 9.0)
+H-7 3.28 m 3.30 m 3.31 m
+H-8 5.93 dd 5.94 5.94
+(2.0, 3.5)
+**
+H-9 5.69 d 5.8 5.8
+(3.5)
+H-13a 5.88 d 5.90 d 5.9 d
+(2.5) (3.0)
+H-l 3b 6.35 d 6.44 d 6 .44 d
+(3.0) (3.0)
+H-15 4.27 br 4.70 br 4.65 br
+C2'CH3
+1.74 m 1.76 m 1.65 m
+C ,'CH, 1.94 dq 1.95 dq 1.96 dq
+(1.2, 7.0) (1.5, 7.0)
+C ' H 6.09 qq 6.13 qq 6.14 qq
+J (1.2, 7.0) (1.3, 7.0)
+Table 18, continued
+Assignment (99)1 (113)2 (114)1
+COCH3 2.05 2.10 & 2.12 2.12
+COCH2C4H 9 -- —  a) 0.90 m &
+b) a)
+1.31 m 
+b) 2.35 tr 
+(4.5)
+*
+All spectra run in CDCl^.
+Obscured by other signals,
+^100 MHz spectrum.
+2
+60 MHz spectrum.
+109
+Table 19
+Mass Spectral Data of Melcanthin B and Derivatives
+m/e
+(99)
+Relative
+Intensity m/ e
+(113)
+Relative
+Intensity m/e
+(114)
+Relative
+Intensity
+464 2.0 548 0.3 561 0.5
+404 3.9 488 1.2 403 1.0
+364 1.0 449 0.4 328 1.8
+304 7.4 286 4.6 304 2.6
+186 13.4 269 4.0 286 7.8
+144 13.5 227 5.5 269 9.7
+139 8.8 209 4.0 227 10.5
+100 6.9 186 2.9 209 7.6
+83 100 144 5.4 186 4.6
+55 9.7 83 100 144 8.4
+55 52.8 139 9.4
+43 56.9 99 45.4
+83 100
+71 34.2
+55 23.4
+43 34.2
+MW = 464 MW = 548 MW = 660
+110
+Table 20
+1 *
+H-NMR Data of Melampodin A and Derivatives
+Assignment (100)1 (115)2 (116)3
+H-l 6.92 dd 
+(1 .2 , 2 .0)
+7.02 d 
+(2 .0)
+7.0 d
+H-7 2.58 m 2.75 m 2.74 m
+H-8 6.21 dd 
+(1.5, 8.5)
+6.71 dd 
+(1.5, 8.2)
+6.69 dd
+H-9 3.98 dd 
+(8.5, 11.0)
+5.40 d 
+(8 .2)
+5.38 d
+H-13a 5.60 d 
+(3.0)
+5.74 d 
+(3.0)
+5.74 d
+H-l 3b 6.19 d 
+(3.0)
+6.26 d 
+(3.0)
+6.25 d
+OMe 3.85 3.84 3.84
+31 Me 1.27 d 
+(5.5)
+1.19 d 
+(5.2)
+1.21 d
+2' Me 1.54 1.49 1.51
+3' H 3.05 q 
+(5.5)
+3.04 q 
+(5.2)
+3.04 q
+coch3 — 2.0 —
+coch2c4h9
+b) a)
+a) 0.91 
+1.34
+b) 2.36 
+(3.0
+*
+All spectra run in CDCl^. ^100 MHz spectrum.
+260
+3
+MHz spectrum. 200 MHz spectrum.
+Ill
+Table 21
+Mass Spectral Data of Melampodin A and Derivatives
+m/e
+(100)
+Relative
+Intensity m/e
+(115)
+Relative
+Intensity m/e
+(116)
+Relative
+Intensity
+286 23.9 286 25.5 518 0.2
+272 19.8 271 20.1 446 1.3
+2A4 39.3 243 22.7 403 1.8
+243 27.8 227 56.3 343 1.1
+227 42.5 226 51.6 303 2.4
+226 40.6 200 58.2 286 19.8
+199 46.3 199 52.7 271 26.6
+177 39.8 176 35.7 227 43.2
+176 44.8 171 25.5 200 55.5
+163 57.5 128 30.0 199 30.6
+128 37.3 95 29.4 198 20.5
+95 53.8 82 26.1 176 17.6
+71 51.6 43 100 128 15.6
+43 100 99 86.5
+71 99.3
+43 100
+MW = 420 MW = 462 MW = 518
+112
+■^H-NMR spectra of the four known starting germacranolides are included 
+in Figures 11-14 for convenient reference. The C-15 protons that 
+occurred at approximately 4.1 ppm in the starting alcohols were 
+shifted downfield to approximately 4.6 ppm upon esterification. The 
+secondary alcohol function at C-2 in melcanthin B was also esterified 
+and the C-2 proton that occurred at 4.6 ppm in the parent compound 
+appeared near 5.6 ppm in the ester. The sole alcohol moiety in 
+melampodin A is the secondary alcohol at C-9. In the parent compound 
+H-9 had a chemical shift of 4.0 ppm while in the ester derivatives of 
+melampodin A, H-9 absorbed downfield to about 5.4 ppm. These down­
+field shifts are strong evidence for ester formation. The appearance 
+in the ester NMR spectra of signals attributable to protons on the 
+ester moiety, together with the mass spectral fragmentation patterns 
+associated with these ester functions, provided additional evidence 
+to support ester formation. Scheme XXXV illustrates the common mass 
+spectral fragmentation patterns of the various ester moieties.
+Acetates of all four germacranolides were synthesized. The 
+sharp three-proton singlet at about 2.0 ppm in the ^H-NMR indicated 
+the presence of an acetate function. Melampodin B and melcanthin B 
+both contained acetates in the original compounds. Integration of 
+the singlet at 2.0 ppm accounted for two acetate methyls in these 
+acetate derivatives. The mass spectra of all the acetate derivatives 
+showed large peaks at m/z 43, indicating the loss of 02^ 0 . The loss 
+of acetic acid (m/z 60) via a McLafferty rearrangement was evident in 
+the mass spectra of the acetate esters (Scheme XXXV).
+CHj'C-Q 9
+10 0  M Hz N M R  S p e c t r u m  of 
+M e l a m p o d i n - B  in P y r i d i n e - d s
+Ac
+H-13
+c i s
+H-15
+H - 1 3  u .q  
+t r a n s  H 8H*9 H-2
+H-3H - 6
+H-7
+2.03 . 03 . 54 . 04 . 55 . 05 . 56.07 . 0 6 . 5
+8  p p m
+Figure 11
+113
+1 0 0  MHz N MR  S p e c t r u m  
+o f  Cine ren in  in A c e t o n e  - d 6
+H-15
+H-5
+acefons
+ex'
+6 .59 .5
+H-7 S  R-groupH*13 H-13
+H-8
+J/L m .
+i I
+t I
+6 . 0  5.5
+H-15
+H-9
+H-6 H-3H-l *UJi 
+i
+3.07.5 7.0 6.5 4 .05.0 4 .5 2 .5  2 . 03.5
+PPM
+Figure 12
+,CH
+1 0 0  MHz ’H FT SPEC TR U M  
+O F  MELAMPODIN A
+2 , 3
+13 t rans
+ppm 1
+- 4-
+6
+Figure 13
+C- 2 ' -Me
+3 ’ 9-OH
+H---------- ■■■■■♦ ' »
+3 2 1
+115
+100 MHz NMR Spectrum of Melcanthin B
+,0Ac 9-OAcHO-H - 1 3  b
+H -  6 HO-CH.
+10-COOMe
+2'-Me
+6.00
+I r r .
+3'-Me
+H - I 3 a
+f-f~Y H - 2otl-
+- H " 3
+I
+6.007.00 5.00 2.004.00 3.00
+Figure 14
+116
+117
+Scheme XXXV
+Mass Spectral Fragmentations of Ester Moieties
+Acetate
+' 1 0
+i I ii
+R-pO—pC
+I I
+ib ta
+Isobutyrate
+' '0 I t
+I I I
+R-pO-pC— CH(CH3)2
+i i 
+ib ,a
+I t
+COCH(CH3)2 m/z = 71
+I t
+R m/z = M - 88
+Hexanoate
+1
+b
+R - p O - p C - p H — CH3
+C5H11
+I t
+C0(CH2)4CH3
+I t
+R
+m/z = 71
+m/z = 99
+m/z = M - 116
+118
+Scheme XXXV, continued
+Palmitate
+0
+n
+RO— C (CH2) y -CH, -CHr -CH. -ch2- c h 2- c h 3
+I t
+i  I  i
+C6H13
+I t “i t  “i t  “i t
+C5H11 C4H 9 C3H7
+m/z = 85 m/z = 71 m/z = 57 m/z = 43
+Cinnamate
+• o '  '
+I i I I
+RO-rC-rCH=CH-r C6H5
+I I , Ic b a
+i i i
+1
+c
+C6H5
+'6 5
+I t
+I t
+COCH=CHC6H5
+m/z = 77 
+m/z = 103
+m/z = 131
+Melampodin B and cinerenin were the only two germacranolides
+forming isobutyrate esters in good yields. The secondary alcohol 
+functions on melcanthin B and melampodin A may be too sterically 
+hindered to react efficiently with the more bulky isobutyryl chloride. 
+The NMR spectra of melampodin B and cinerenin isobutyrate contained 
+the typical doublet near 1.1 ppm due to the two isobutyryl methyls.
+The heptet at about 2.6 ppm was assigned to the a-hydrogen of the 
+ester in both spectra. The mass spectra of the two isobutyrates had 
+base peaks at m/z 71, indicating the expected acylium ion (C^H^O)
+(see Scheme XXXV). Also, McLafferty rearrangement was again evident 
+in the mass spectra by the appearance of peaks at M-8 8 .
+synthesized without any difficulty. Referring to the hexanoate 
+moiety below, the triplet representing the methylene protons adjacent
+to the carbonyl group (a-hydrogens) appeared at approximately 2.35 ppm. 
+The remaining protons in the ester group (b-hydrogens) occurred at 
+two multiplets, one near 0.90 ppm and an envelope at about 1.3 ppm.
+In melcanthin B hexanoate all these signals were integrated in agree­
+ment with formation of the diester. Mass spectral fragmentation 
+patterns also supported formation of the hexanoate ester (see
+Scheme XXXV). Loss of the acylium ion (C,H-.,0) resulted in very
+b 11
+Hexanoate esters of all four germacranolides could be
+0
+II
+3
+strong peaks at m/z 99, which was the base peak in both melampodin B 
+and cinerenin hexanoate, and m/z 71, which was assigned to the loss 
+of CijihQ from the hexanoate side chain. The loss of hexanoic acid 
+via McLafferty rearrangement was evident from the appearance of an 
+M-116 peak.
+Only melampodin B and cinerenin were converted to the 
+palmitate ester derivatives. The ^H-NMR spectra of these two esters 
+showed the triplet at about 2.25 ppm assigned to the methylene 
+protons adjacent to the carbonyl group. The remaining protons in the 
+palmitate function occurred as an envelope centered near 1.25 ppm.
+The mass spectral fragmentation patterns of the palmitate esters 
+showed typical long chain hydrocarbon fragmentations (see Scheme XXXV). 
+Loss of fragments differing by 14 mass units (CH^) of the long 
+hydrocarbon backbone was apparent by fairly intense peaks at m/z 43 
+(-C3H 7), m/z 57 (-C4H 9), m/z 71 ( - C ^ ) ,  and m/z 85 (-C6H13>.
+Cinerenin palmitate contained the molecular ion for the ester 
+derivative at m/z 558. The base peak in melampodin B palmitate at 
+m/z 73 appeared to result from the loss of propanoic acid from the 
+palmitate side chain via a McLafferty-type process.
+As stated previously, the only cinnamate ester synthesized 
+was cinerenin cinnamate. Evidence of the formation of cinerenin 
+cinnamate was found in the ^H-NMR spectrum of the ester. The 
+appearance of aromatic signals at about 7.5 ppm along with the 
+signals for the a- and (3-protons at approximately 6.46 and 7.77 ppm, 
+respectively, indicated the presence of the cinnamate moiety. This
+data was supported by the mass spectral data which showed a molecular 
+ion peak at m/z 450. Loss of m/z 77 (-C^H^), m/z 103 (-CgH^), 
+m/z 131 (CgH^O), and m/z 147 (C^H^C^) are all indicative of the 
+cinnamic acid ester function (see Scheme XXXV).
+Further experimental details on all of the above 
+esterifications can be found in Part IV of this dissertation.
+lie. Biological Activity of Germacranolides and Their Derivatives
+The four germacranolides, melampodin B, cinerenin, melampodin 
+A, and melcanthin B, have all been tested under the auspices of the 
+National Cancer Institute. The results of these tests and of the 
+testing that has been carried out so far on some of the derivatives of 
+these compounds are shown in Table 12. The derivatives that were 
+described in the previous section were submitted to NCI to be tested 
+for cytotoxicity and anti-tumor activity. Unfortunately when these 
+derivatives were tested, the control was bad and all the results had 
+to be voided. Because of the time involved in resynthesizing these 
+derivatives and in resubmitting the samples, results are still not 
+unavailable on most of these compounds.
+From the data available, it is apparent that the acetate of 
+melampodin A had a significant increase in activity over the parent 
+compound. There could be many reasons for this change in activity. 
+Possibly the less polar ester can more easily penetrate cell membranes 
+to where it is needed to exert its biological effect. Another 
+interpretation could be that the ester at C-9 is known to exchange 
+under basic conditions in compounds such as melampodin A. Possibly
+122
+the less acetate exchanged and was replaced by another fatty acid.
+This could greatly enhance the ability of the compound to penetrate 
+the fatty acid layer of the cell membrane, again enabling the compound 
+to exert its maximum effect. The decrease in polarity afforded by the 
+ester function could also explain the increase in activity of 
+cinerenin hexanoate over that of cinerenin.
+A plot of PS-activity versus dose level for melampodin A 
+(100), melampodin A acetate (115)> and the structurally related 
+germacranolide melamopidinin (117) is seen in Figure 15. The same 
+trend was observed for the lactones in Figures 8 and 9 reappears.
+OAc Q OH C H 3  
+C- 
+H3 C OAc
+A maximal dose level exists for each of the three compounds, 10 mg/kg. 
+Once this dosage level is exceeded, PS-activity drops off rapidly.
+Again the close interplay between cytotoxicity and antineoplastic 
+activity is quite apparent.
+Fortunately, small amounts of each ester derivative synthesized 
+had been set aside for biological testing with the enzyme phospho- 
+fructokinase. The results of these tests will be discussed in Part III.
+123
+Dose-PS-Ac tivity Correlation of Melampodins
+•  M e l a m p o d i n  A,  R = H
+A M e l a m p o d i n  A A c e t a t e ,  
+V  R = Ac
+X  □  M e l a m p o  d i n i n
+co
+CL
+co
+o
+10 20 3 0
+Dose (mg/kg)
+Figure 15
+PART III
+An Inhibition Study of 
+Phosphof rue tokinase 
+With Germacranolide Sesquiterpene Lactones
+124
+125
+In previous studies directed towards the mechanism of action
+X16of anti-tumor active sesquiterpene lactones, three compounds had 
+been tested as possible inhibitors of the enzyme PFK. The sesqui­
+terpene lactones, vernolepin (54), euparotin acetate (79) and 
+eupacunin (80) were found to inhibit the enzyme. Treatment of these 
+inhibitors with an excess of dithiothreitol prior to reaction with 
+enzyme rendered them ineffective in inhibiting enzyme activity. This 
+indicated that these compounds could be inhibiting PFK because of 
+their affinity for the sulfhydryl groups at the active site. A 
+Michael-type addition of the sulfhydryl group or groups to a site or 
+sites of unsaturation on the sesquiterpene lactone appears to render 
+the enzyme inactive. A similar addition could occur with sulfhydryl 
+groups present in a protein or enzyme involved in the cell division 
+p r o c e s s . T h i s  could render a key intermediate in cell division 
+inactive which would account not only for the anti-tumor activity, 
+but also for the cytotoxicity of these compounds.
+The following section of this dissertation describes the
+testing of a number of germacranolide sesquiterpene lactones with
+PFK. A different and more sensitive method of testing for enzyme
+116inhibition was employed than that used by the previous workers.
+It was hoped that by testing a group of structurally related 
+compounds that some structural feature could be related to the 
+■ . biological activity of these natural products. With this goal in
+mind, the series of ester derivatives of melampodin B (86), melcanthin 
+B (99), melampodin A (100)„ and cinerenin (101) were tested for their
+126
+inhibitory effects on PFK. In addition to the ester derivatives of 
+melampodin A, two other structurally related compounds, enhydrin A 
+(118) and melampodinin (117), were also tested with PFK.
+0  o  c h 3
+C - C '- 'C H
+6 h ,
+Finally, three structurally similar cis,cis-germacranolides, 
+melcanthin A (32), melcanthin D (83), and melcanthin E (84), were 
+tested for their relative abilities to inhibit PFK.
+Following the completion of the inhibition studies of PFK 
+with the sesquiterpene lactones, an attempt was made to discover 
+whether there was any correlation between the anti-tumor activity 
+data obtained from NCI and the results of the inhibition studies 
+with PFK.
+127
+Ilia. Phosphofructokinase
+Phosphofructokinase (ATP:D-fructose-6-phosphate 1-phospho-
+transferase, EC 2.7.1.11; hereafter PFK) catalyzes the phosphorylation
+of fructose-6-phosphate by adenosine triphosphate (ATP) to produce
+fructose-1,6-diphosphate and adenosine diphosphate (ADP) (see Scheme
+XXII). PFK can be easily isolated in pure form from a variety of
+sources. Skeletal muscle PFK has a sedimentation pattern that is
+141-142
+indicative of the enzyme undergoing self-association. Rabbit
+muscle PFK aggregation is known to be dependent on protein
+, „ 143-145 , .concentration and pH. The state of aggregation is also
+146
+affected by various effectors of the enzyme. The stability of the
+enzyme is dependent on the aggregation state of the enzyme. The loss
+of activity of PFK upon dilution can be explained by a deaggregation
+112
+favored by low protein concentration. The smallest fully active
+enzyme (13S) consists of four subunits. Each protomer contains 16-18
+sulfhydryl groups.-^3,147 ^  found that 60% of the enzyme's
+activity was lost by alkylation of six of the sulfhydryl groups with
+iodoacetamide (81). Fructose-6-phosphate and magnesium ATP protected
+the enzyme against this loss of activity.
+PFK was chosen as the enzyme to employ with sesquiterpene
+lactones to study their enzyme inhibitory effects for a number of
+reasons. First, some initial work had been done with PFK and
+116 148sesquiterpene lactones, ’ which gave some indication that these 
+compounds were indeed good inhibitors of PFK, but no inhibition 
+constants had been calculated. Secondly, it had been postulated that
+128
+sesquiterpene lactones exerted many biological activities by combining 
+with sulfhydryl-containing proteins. Since PFK is known to have 
+sulfhydryl groups at its active site, the reaction of these lactones 
+with PFK could serve as a model reaction for what actually occurs in 
+vivo. Moreover, PFK is the key regulatory enzyme of the glycolytic 
+pathway which provides energy to the cell in the form of ATP. ATP 
+is essential for all endergonic, i.e. thermodynamically unfavorable, 
+reactions in living organisms. Also, PFK is unique in having 
+several specific regulatory sites on the enzyme besides its active 
+site. These regulatory sites bind physiological ligands, either 
+inhibitors or activators, in a specific fashion. Lastly, PFK was 
+selected because the enzyme was readily available in purified form 
+and could be easily assayed for enzymatic activity.
+Illb. PFK Inhibition Study of Sesquiterpene Lactones
+Twenty-two germacranolide sesquiterpene lactones were tested 
+as possible inhibitors of PFK. The method of assay of enzyme 
+activity was the spectrophometric method of Ling et This
+method of assaying activity is described in the experimental section 
+of this dissertation. Apparent inhibition constants, abbreviated 
+apparent K., were calculated for each sesquiterpene lactone tested. 
+This was accomplished by varying the concentration of the inhibitor 
+while keeping the concentrations of the remaining reagents the same. 
+For each inhibitor concentration, a percent inhibition was obtained. 
+The percent inhibition was then plotted against the final
+129
+concentration of the inhibitor in the reaction mixture. From this 
+plot, the concentration of the inhibitor that would yield 50% 
+inhibition was calculated. This concentration is defined as the 
+apparent K^. The lower the value of the apparent K^, the better the 
+inhibition of PFK or the enzyme being examined. The plots from 
+which the apparent values of each sesquiterpene lactone were 
+calculated are shown in Figures 16-37.
+Examining the data for the derivative series of melampodin B, 
+melampodin A, melcanthin B, and cinerenin showed some very interest­
+ing trends. Table 22 contains the inhibition results for melampodin B 
+and its ester derivatives. The best inhibitor of this series is 
+melampodin B hexanoate while the least effective inhibitor against 
+PFK is the parent compound, melampodin B. Melampodin B hexanoate is 
+approximately two and a half times more effective as an inhibitor of 
+PFK than is melampodin B. In fact, as the polarity of the compounds 
+decreases from melampodin B to melampodin B hexanoate, the effective­
+ness of the compound as an inhibitor of PFK increases. But the least 
+polar derivative, melampodin B palmitate, does not fall within this 
+trend. A possible explanation for the trend observed with melampodin B 
+and its derivatives and for the exception to this trend will be 
+presented below.
+Data from the inhibition studies of cinerenin and its ester 
+derivatives are seen in Table 23. As in the melampodin B series, the 
+most effective inhibitor is the hexanoate ester, while cinerenin has 
+the highest apparent K^ value. Cinerenin hexanoate inhibits PFK
+Z
+O
+H
+-H
+H
+C
+O
+H
+IZ
+H
+^
+FIGURE 16 MELAMPODINB
+20 .
+0
+FINAL CONC. CMM> 130
+FIGURE 17 MELAMPODINBACETATE
+100.
+8 0 .
+6 0 .
+4 0 .
+20 .
+6 72 3 4 50
+FINAL CONC. CMM)
+Z
+O
+H
+H
+H
+C
+O
+H
+IZ
+H
+>
+?
+FIGURE 18 MELAMPODINBISOBUTYRATE
+1 0 0 .  T
+8 0 .  -
+6 0 .  --
+4 0 .  -■
+20 . --
+.2 . 30 .
+FINAL CONC. CMM)
+Z
+O
+H
+H
+H
+n
+J
+H
+I
+Z
+H
+X
+FIGURE 19 MELAMPODINBHEXANOATE
+6 0 .
+. 0 5
+FINAL CONC. CMM!)
+133
+Z
+O
+H
+H
+H
+U
+H
+I
+Z
+H
+X
+FIGURE 20 MELAMPODINBPALMIT ATE
+1 0 0 .
+8 0 .
+6 0 .
+4 0 .
+20 .
+0 .
+21 5. 0 50
+FINAL CONC. CMM)
+Z
+O
+H
+H
+H
+D
+O
+H
+I
+Z
+H
+^
+FIGURE 21 CINERENIN
+1 . 32  . 4  . 6  . 8  1 .0
+FINAL CONC. CMM> 135
+FIGURE 22 CINERENINACETATE
+8 0 .  -■
+6 0 .  -
+4 0 .  -
+20 . -■
+0 .  . 1 . 2  . 3  . 4  . 5  . 6  . 7  . 8  . 9  1 .
+FINAL CONC. CMM)
+X
+H
+Z
+I
+H
+B
+H
+I
+-
+H
+O
+Z
+FIGURE 23 CINERENINISOBUTYRATE
+1 0 0 .
+4 0 .
+0 . ’ . 2  . 4  . 6  . 9
+F I N A L  CONC.  CMM) 137
+Z
+O
+H
+H
+H
+O
+J
+H
+I
+Z
+H
+^
+FIGURE 24 CINERENINHEXANOATE
+100.
+8 0 .
+6 0 .
+4 0 .
+20 .
+0
+0. .2 . 3. 1 . 5. 4
+FINAL CONC. Cm)
+138
+^
+H
+Z
+I
+H
+C
+Q
+H
+h
+H
+O
+Z
+FIGURE 25 CINERENINPALMITATE
+1 0 0 .  T
+8 0 .  --
+6 0 .  -
+20 . --
+. 3 . 4
+FINAL CONC. CMM5 139
+Z
+O
+H
+H
+H
+O
+J
+H
+I2
+H
+X
+*
+FIGURE 26 CINERENINCINNAMATE
+4 0 .
+20 .
+. 2  . 3  . 4  . 5  . 6  . 7. I
+FINAL CONC. CHM) 140
+Z
+O
+H
+H
+H
+C
+D
+H
+I
+Z
+H
+^
+FIGURE 27 MELAMPODINA
+20 .
+1 . 5
+FINAL CONC. CMM) 141
+Z
+O
+H
+H
+H
+C
+D
+H
+I
+Z
+H
+^
+FIGURE 28 MELAMPODINAACETATE
+1 0 0 .  T
+8 0 .  -
+6 0 .  -
+4 0 .  -
+20. -•
+8  1 . 1 . 2  1 . 46
+FINAL CONC. CMM)
+142
+Z
+O
+H
+H
+H
+D
+P
+H
+I
+Z
+H
+^
+FIGURE 29 MELAMPODINAHEXANOATE
+100.
+1 . 34  . 6  . 8  1 .
+FINAL CONC. CMM) 143
+FIGURE 30 MELCANTHINB
+1 0 0 .
+8 0 .
+6 0 .
+4 0 .
+20.
+2 . 3 . 4 . 50 .
+FINAL CONC. CMM)
+Z
+O
+H
+H
+H
+O
+J
+H
+I2
+H
+X
+*
+FIGURE 31 MELCANTHINBACETATE
+4 0 .
+0 .
+FINAL CONC. CMM) 145
+Z
+O
+H
+H
+H
+D
+D
+H
+I
+Z
+H
+^
+FIGURE 32 MELCANTHINBHEXANOATE
+1 0 0 .
+8 0 .
+6 0 .
+4 0 .
+20.
+0 .
+6 .8 1 . 1.24 1 . 520
+FINAL CONC. CMM) 146
+Z
+O
+H
+H
+H
+D
+O
+H
+I
+Z
+H
+^
+FIGURE 33 MELCANTHINA
+8 0 .
+4 0 .
+0 2 .
+FINAL CONC. CMM) 147
+Z
+O
+H
+H
+H
+D
+O
+H
+I
+Z
+H
+^
+FIGURE 34 MELCANTHIND
+100. T
+8 0 .  -
+60. -
+40. -
+20 . -
+. 3.20
+FINAL CONC. CMM)
+148
+Z
+O
+H
+H
+H
+D
+O
+H
+I
+Z
+H
+^
+FIGURE 35 MELCANTHINE
+1 0 0 .
+8 0 .
+6 0 .
+4 0 .
+20.
+0 .
+1 . 2 . 3 . 4 . 5 . 6 . 7 . 8 . 9 1 .0
+FINAL CONC. CMM) 149
+Z
+O
+H
+H
+H
+D
+O
+H
+I
+Z
+H
+^
+FIGURE 36 MELAMPODININ
+30
+FINAL CONC. CMM) 150
+Z
+O
+H
+H
+H
+O
+J
+H
+I
+Z
+H
+^
+F I G U R E  3 7  ENHYDRINA
+6 0 .
+0
+FINAL CONC. CMM5 151
+152
+Table 22
+Apparent Values for Melampodin B and Derivatives
+0
+RO
+Compound R
+Apparent K. 
+(mM) 1
+Melampodin B H 0.320
+Melampodin B 
+Acetate
+0
+ 
+X 0
+=
+0
+1 o 0.310
+Melampodin B 
+Isobutyrate
+CH3v 2 ch-6-o
+c h3'
+0.145
+Melampodin B 
+Hexanoate
+0
+CH3"4!f-CH2-tC-0 0.098
+Melampodin B 
+Palmitate
+0
+CHj— +CH2tC-0 0.155
+153
+Table 23
+Apparent Values for Cinerenin and Derivatives
+RO
+Compound R
+Apparent K. 
+(mM) 1
+Cinerenin H 0.93
+Cinerenin 0
+Acetate
+c h 3 - c - o 0.70
+Cinerenin
+Isobutyrate
+C H 3\ 0
+c h - 6 - o
+c h 3'
+0.55
+Cinerenin 0II
+Hexanoate C H 3 - ^ - C H 2 “K - 0 0.23
+Cinerenin 0
+C H r i t C H 2 f ^ °
+Palmitate 0.31
+Cinerenin
+Cinnamate
+0  
+C 6 H 5 - C H * C H  - C - 0
+0.53
+154
+nearly four times as effectively as does the parent compound, 
+cinerenin. The same trend as was seen with melampodin B and its 
+derivatives is present within the cinerenin series. As polarity of 
+the compounds decreases from cinerenin to cinerenin hexanoate, the 
+ability to inhibit PFK increases. But again the palmitate ester 
+breaks the trend, exhibiting an apparent value greater than that 
+of cinerenin hexanoate. Cinerenin was the only sesquiterpene lactone 
+in which the cinnamate ester was synthesized. Although this 
+derivative had been expected to be a potent inhibitor due to the 
+presence of a second Michael receptor, its apparent K_^  was not 
+comparatively small. Some possible reasons for these observations 
+will be presented following presentation of all the inhibition data 
+for the series.
+Melampodin B (86) and cinerenin (101) differ structurally 
+only in the function at C-l, an acetate in (86) and an ethoxide in 
+(101). Comparing the data in Tables 22 and 23, it seems that all of 
+the melampodin B compounds are better inhibitors of PFK than are the 
+cinerenin compounds. One could attribute this difference in activity 
+to the presence of an ester function at C-l in (86) as opposed to an 
+ether function as in (101).
+Only two ester derivatives were synthesized from melampodin A. 
+The apparent K^ values of these three compounds are seen in Table 24. 
+Again, the hexanoate ester gave the lowest apparent K^ and 
+melampodin A had the highest value. The least polar compound in this 
+series was the most potent inhibitor of PFK.
+155
+Table 24
+Apparent Values for Melampodin A and Derivatives
+OR
+,0-C
+A / h3 
+(J — CH 
+CH3
+Compound R
+Apparent K. 
+(mM) 1
+Melampodin A H 1.75
+Melampodin A 
+Acetate
+0
+CH3-C-O 1.17
+Melampodin A 
+Hexanoate
+0
+CH3 - ^ C H 2-tC-0 1.05
+156
+The last series of esters synthesized for this study is shown 
+in Table 25. Melcanthin B is the least effective inhibitor of PFK, 
+while the hexanoate ester is the most effective of the three 
+compounds. Melcanthin B hexanoate inhibits PFK almost four times as 
+strongly as the parent compound, melcanthin B, and almost three times 
+as strongly as melcanthin B acetate. As the melcanthin compounds 
+become more non-polar they become better enzyme inhibitors.
+To understand the trends within the above lactone series, it 
+would be advantageous to consider briefly the environment around the 
+enzyme active site. It is known that the active sites of most 
+enzymes are located in what is termed cleft regions of the enzyme. 
+These cleft regions are formed by an enzyme in aqueous medium due 
+to the orientation of the polar side chains of its amino acid 
+residues towards the more polar surface of the enzyme and the 
+orientation of the non-polar side chains inwards, away from the 
+polar medium. When these non-polar groups orient inwards, pockets 
+are formed that are referred to as clefts (see Figure 38). These
+C l e f t s
+F I G U R E  3 8
+157
+Table 25
+Apparent Values for Melcanthin B and Derivatives
+CH
+RO
+CH3
+Compound R
+Apparent K. 
+(mM) 1
+Melcanthin B H 3.4
+Melcanthin B 
+Acetate o X O', 0
+=
+0
+1 o 2.5
+Melcanthin B 
+Hexanoate
+0
+0.82
+158
+cleft regions are relatively non-polar and have strict spatial 
+considerations and stereospecificity. If the sulfhydryl groups that 
+the sesquiterpene lactones are to react with are located within this 
+cleft near the active site, then the polarity trend observed can be 
+easily explained. As the polarity of a compound decreases, the 
+repulsive forces of the less polar cleft region of the enzyme also 
+decreases. Therefore one should expect more efficient inhibition 
+from the less polar ester derivatives, which is in agreement with the 
+experimentally observed data. Similar considerations are applicable 
+to the dozen specific regulatory sites of PFK. In reference to the 
+palmitate esters being less effective inhibitors than the hexanoate 
+esters, although being less polar, the following can be used as an 
+explanation. Since there is usually a very strict spatial requirement 
+within the clefts of an enzyme, it is possible that the long-chain 
+palmitate ester for steric reasons cannot easily reach the active 
+site in order to react with the sulfhydryl groups. It would be
+interesting to test some ester derivatives intermediate in size and
+polarity between the hexanoate and the palmitate esters. Results of 
+such tests may reveal more details as to exactly how structural 
+contributions affect activity. The disappointingly low inhibition of 
+PFK by cinerenin cinnamate could also be explained by the inability 
+of this bulkier ester to react efficiently with the sulfhydryl groups
+located in the cleft region of the enzyme.
+Two additional series of structurally related germacranolides 
+were also tested for inhibition of PFK. The first of these series is
+159
+seen in Table 26. Three naturally occurring cis,cis-germacranolides, 
+melcanthin A, D, and E, that differ only by the ester side chain 
+present at carbon-8, were isolated from a crude plant extract that 
+was anti-tumor active. These three lactones were indeed inhibitors 
+of PFK, with the methacrylate ester showing the greatest inhibition.
+In terms of polarity, the trend observed with these cis,cis compounds 
+is opposite to what was observed for the synthetic esters. Based on 
+previous findings with methacrylate-containing sesquiterpene lactones, 
+it was predicted that the methacrylate ester should be the most 
+anti-tumor active of the three compounds because of the additional 
+site of unsaturation for Michael addition provided by the reactive 
+ester group. This second Michael receptor could also make the 
+methacrylate a better inhibitor of PFK by providing an additional 
+electrophilic site for the reaction of the sulfhydryl groups of PFK.
+The last group of structurally related sesquiterpene 
+lactones to be tested on PFK are shown in Table 27. Two of the 
+compounds in this series have been examined in Table 23 as part of 
+the synthetic ester series. But these two compounds, melampodin A 
+and melampodin A acetate, will also be examined here because they are 
+both naturally occurring sesquiterpene lactones as are the 
+structurally related enhydrin A and melampodinin. As seen previously 
+in Table 23, the acetate ester increases the inhibition of PFK 
+significantly over the parent alcohol. Addition of another epoxide 
+function to the melampodin A skeleton, as in enhydrin A, does not 
+improve the PFK inhibitory ability. In fact, enhydrin A is less
+160
+Table 26
+Apparent Values for the Melcanthins
+OR
+HO
+Compound R Apparent K. 
+(mM) 1
+Melcanthin D
+0
+0 -C-C=CHP
+fcH,
+0.30
+Melcanthin E
+0 / « 3
+o -c -c h C
+'c h 3
+0.50
+Melcanthin A
+0  CH3 >1 1 J
+OC-(p = CH
+c h 3
+1.35
+161
+Table 27
+Apparent Values for the Melampolides
+OR
+Compound R R ’
+Other
+Differences
+Apparent K. 
+(mM) 1
+Melampodin A
+0II
+H 0 -C-A
+c h3
+ii
+IOXo\X
+1.75
+Melampodin A 
+Acetate ro
+X01
+0
+=
+01o Same as 
+above
+— 1.17
+Enhydrin A Same as 
+above
+Same as 
+above 4,5-epoxide 2.70
+Melampodinin Same as Q  
+above
+0  OH c h 3
+-c -^-c h
+HjC OAc
+4.05
+162
+potent as an inhibitor than both melampodin A and its acetate. The 
+least potent inhibitor of PFK is melampodinin (Table 27). This 
+germacranolide has no epoxide function in its side chain but contains 
+the 2,3-epoxide as did all previous compounds. These data suggest 
+that the 2,3-epoxide function has no major influence on the ability 
+of germacranolides to inhibit PFK. But the presence of the epoxide 
+function in the C-8 side chain is of greater importance in enzyme 
+inhibition by these natural products. It is possible that the epoxide 
+in the side chain at C-8 is providing an additional electrophilic 
+site for attack by the sulfhydryl groups of the enzyme.
+IIIc. Correlation Between PFK Inhibition and Cytotoxic and/or 
+Anti-Tumor Activity
+It has been demonstrated that germacranolide sesquiterpene 
+lactones are potent inhibitors of the enzyme PFK. The question of 
+whether there is any correlation between enzyme inhibition and the 
+cytotoxic or antireoplastic properties of these compounds can be 
+studied by comparing the inhibition data with results of testing for 
+cytotoxicity and anti-tumor activity.
+Table 28 shows the nine sesquiterpene lactones that have been 
+tested for antineoplastic activity (PS) and for PFK inhibition. The 
+PS activity is expressed in T/C values, where a higher T/C value 
+indicates a more anti-tumor active compound. PFK inhibition is 
+expressed as an apparent K_^ , where a lower apparent K^ value indicates 
+greater inhibition of PFK. The data in Table 28 suggest that there 
+exists a correlation within the ester series of melampodin B,
+Table 28
+Anti-Tumor Activity and PFK Inhibition Data of 
+Germacranolide Sesquiterpene Lactones
+Compound PS
+T/C (mg/kg)
+PFK
+Apparent K^ (mM)
+Melampodin B 113 (12) 0.221
+Melampodin B Acetate 117 (15) 0.222
+Cinerenin 110
+k
+(25) 0.90
+Cinerenin Hexanoate 123 (32) 0.25
+Melcanthin B 100 (16) 3.2
+Melampodin A 119 (12) 1.8
+Melampodin A Acetate 131 (12) 1.2
+Enhydrin 107 (7.5) 2.7
+Malampodinin 140 (12) 4.1
+A
+LE Tumor System
+164
+melampodin A, and cinerenin. In each case, the ester represents the 
+more antineoplastic compound. Melampodin B and melampodin B acetate 
+do not show significant differences in either anti-tumor activity or 
+PFK inhibition. However, in the pair cinerenin:cinerenin hexanoate, 
+the hexanoate ester shows considerably greater anti-tumor activity. 
+This same trend is repeated in the PFK inhibition data for the 
+cinerenins. Melampodin A acetate is noticably more active against 
+tumors than melampodin A, a trend echoed again in the PFK data, with 
+melampodin A acetate possessing an apparent K_^  that is lower than the 
+apparent K^ for melampodin A.
+It is evident that of the four related sesquiterpenes, 
+melampodin A, melampodin A acetate, enhydrin A, and melampodinin, 
+melampodinin shows the highest antineoplastic activity in this group, 
+but it is the least potent inhibitor of PFK. The data for melampodin 
+A, melampodin A acetate, and enhydrin A do seem to correlate quite 
+well. The discrepancy in the melampodinin results cannot be easily 
+rationalized at this point, but will be commented upon below.
+Comparing the data on all nine compounds in Table 28, there 
+does not appear to be any correlation other than that within the 
+series of structurally related lactones. Since only a small number 
+of sesquiterpene lactones have been compared to date, it is probably 
+too early to draw any conclusions concerning the existence of a 
+correlation between anti-tumor activity and inhibition of PFK. 
+Certainly more compounds will have to be tested on both systems before 
+trends can be recognized that either favor or disfavor correlation.
+165
+It was hoped that all the synthetic ester derivatives that were 
+tested for PFK inhibition would also be tested for antineoplastic 
+activities at NCI. However, due to an invalid control when these 
+samples were tested at NCI, the results were inconclusive. Most of 
+the synthetic ester derivatives have been resubmitted for anti-tumor 
+tests, but these results are still pending.
+It may prove that there exists closer relationships between 
+PFK inhibition data of sesquiterpene lactones and cytotoxicity rather 
+than anti-tumor activity. Most of the lactones tested at NCI have 
+been found to be cytotoxic. In fact a larger percentage of 
+sesquiterpene lactones are classified as cytotoxic agents rather than 
+as anti-tumor agents. It is indeed possible, if not highly probable, 
+that this high cytotoxicity could be a direct reflection of the 
+potent inhibition of PFK. Since PFK is an important control enzyme 
+in glycolysis, deactivation of PFK would shut down glycolysis. Once 
+the energy-producing cycle of the cell is stopped, or slowed 
+sufficiently, the cell cannot continue to live.
+Anti-tumor activity is a more complex phenomenon than that 
+occurring in a single purified enzyme system. Anti-tumor activity is 
+dependent on many biochemical characteristics, such as transport of 
+the compound into the cell, possible modification of the compound to 
+form the actual anti-tumor agent, and reaction of the lactones with 
+more than one protein in the malignant cell. The possibility also 
+exists that PFK from various tissues and/or species may have different 
+sensitivities towards the inhibitory sesquiterpene lactones. Thus,
+166
+it is no surprise to find anti-tumor activity, measured in vivo, and 
+PFK inhibition, measured in vitro, are not highly correlatable. Nor 
+is it surprising to find "anomalous" data as in Table 28.
+PART IV
+Experimental
+167
+168
+The following instruments were used to obtain the various
+data (unless otherwise specifically indicated):
+IR Perkin-Elmer 137 Sodium Chloride Spectrophotometer
+UV Carey-14 Recording Spectrophotometer and Beckman
+DB-G Grating Spectrophotometer
+CD Durram-Jasco J-20 Spectrometer
+MP Thomas Hoover Capillary Melting Point Apparatus
+(uncorrected)
+60 MHz NMR Varian A-60 Spectrometer
+100 MHz NMR Varian HA-100 Spectrometer
+200 MHz NMR Bruker WP-200 Spectrometer
+Mass Spectra Hewlett-Packard 5985 (samples were introduced via 
+the solid probe)
+LC Waters Associates Dual Pump Liquid Chromatograph
+169
+IVa. Isolation of Melcanthin A (32), Melcanthin D (83), and 
+Melcanthin E (84)
+A collection of Melampodium cineveum D.C., var. cineveum3 
+was made on July 19, 1973, 8.6 miles northeast of Hebbronville, Duval 
+County, Texas on route 359 (T. F. Stuessy and N. H. Fischer 11 2015).
+The voucher is deposited at the Ohio State University Herbarium, 
+Columbus, Ohio.
+Dried leaves (1450 g) were ground in a Waring blender with 
+cold chloroform. After filtration by suction and re-extraction of 
+the residue, the combined chloroform extracts were evaporated in vacuo. 
+The green residue was dissolved in a sufficient amount of ethanol and 
+then an equal volume of an aqueous 5% lead (II) acetate solution was 
+added. The precipitate was removed by filtration over celite and the 
+filtrate was evaporated in vacuo to remove most of the ethanol. The 
+residual aqueous phase was extracted exhaustively with chloroform 
+and dried with anhydrous MgSO^. Removal of the solvent left the 
+crude terpenoid-containing syrup.
+The crude syrup (5 g) was chromatographed over 250 g of 
+Brinkman silica gel 60 (particle size 0.063-0.2 mm; 70-230 mesh ASTM) 
+collecting approximately 25 ml fractions. The solvent used to elute 
+the column was n-propyl acetate. Fractions were collected and 
+combined according to TLC analysis. Fractions 28-37 (800 mg) were 
+further purified by thick layer chromatography with 90% diethyl ether- 
+10% hexane as the eluting solvent. Four bands were obtained, two of 
+which were chromatographed on a high pressure liquid chromatograph.
+170
+The column employed was a Waters C.0-bondapak reverse phase column
+lo
+(7.8 mm ID x 30 cm), and 50% methanol-50% water by volume was used
+as solvent in the separations. About eight milligrams of each of
+the three pure cis,cis-germacranolides were obtained.
+Melcanthin A (32), C„„H„nO„, gum: UV, X (MeOH), 226 nm
+--------------  =  23 28 9 b max
+(e = 1.91 x 104); CD (c = 4.5 x 10-5, MeOH), [0]212 “1.0 x 104 ,
+[0]oo, +4.4 x 103; IR, v (CHC1„), 3500 (OH), 1755 (lactone),
+lio max 6
+1735 and 1720 (esters), 1660 and 1640 cm ^ (double bonds). NMR data
+are listed in Table 4. Mass spectral data are found in Table 3.
+Melcanthin D (83), CooH o,0„, gum; UV, X , MeOH, 220 nm 
+-------------  =  22 26 9 max
+(e = 0.96 x 104); CD (c = 3.24 x 10_4, MeOH), [©3214 ~2 -2 * 104 ,
+[0]oo, +7.4 x 103; IR, v (CHC1_), 3500 (OH), 1755 (lactone), 1725
+16/ max d
+(ester), and 1640 (double bonds) cm NMR data are listed in Table
+4 and mass spectral data are included in Table 3.
+Melcanthin E (84), C„„H,.,nO,,, gum; UV, X , MeOH, 218 nm 
+-------------  —  22 28 9 max
+(e = 1.75 x 104); CD (c = 6.0 x 10-5, MeOH), [0]21O -2.1 x 104 ,
+[6]ooc +7.6 x 103; IR, v (CHC10), 3500 (OH), 2960 (alkane), and
+235 max 3
+1755 cm ^ (lactone). NMR data are included in Table 4. Mass spectral 
+data are listed in Table 3.
+Approximately 6 mg of a two-component mixture were also 
+recovered from the LC. However, NMR data for the mixture are given 
+in Table 5 and mass spectral information on these compounds is listed 
+in Table 6.
+171
+IVb. Synthesis of Various Ester Derivatives of Natural Products
+Two methods of esterification were employed in the synthesis 
+of a number of ester derivatives of melampodin B (86), melcanthin B 
+(99), melampodin A (100), and cinerenin (101). These two methods are 
+described below.
+Method A . A known amount of sesquiterpene lactone was
+O
+dissolved in redistilled pyridine which had been stored over 4 A 
+molecular sieves. Excess acetic anhydride was added dropwise and the 
+reaction mixture was allowed to be stirred overnight at room 
+temperature. The resultant solution was evaporated under reduced 
+pressure to yield a crystalline residue. These crystals were 
+triturated with aqueous HC1 (10%) and extracted several times with 
+CHCl^. The combined CHCl^ extracts were dried over MgSO^ for 1 hour, 
+filtered, and evaporated to yield crystalline product. The product 
+was recrystallized or purified by thick layer chromatography and 
+characterized by NMR (Tables 14, 16, 18, and 20), MS (Tables 15, 17, 
+19, and 21), IR (Tables 31-34), UV (Tables 35, 37, 39, and 41), and 
+CD (Tables 36, 38, 40, and 42). The esters which were synthesized 
+by this method are listed in Table 29.
+Method B . To a known amount of sesquiterpene lactone 
+dissolved in approximately 10 ml of dry, distilled benzene (stored
+O
+over 4 A molecular sieves) was added dropwise a lh~ to 2-fold excess 
+of acid chloride. The reaction mixture was refluxed until the 
+reaction was shown to be complete by thin layer chromatography. The 
+reaction mixture was filtered and then washed with 5% NaHCO^ and
+Table 29
+Esterificatlon of Melampodin B (86), Melampodin A (100), 
+and Cinerenin (101) via Method A
+Product
+Amount 
+Reacted, mg
+Anhydride or Acid 
+Chloride Employed
+% Yield mp, °C
+Melampodin B 
+Acetate (103) 520 Acetic Anhydride 70
+42
+206-207
+Melampodin B 
+Diisobutyrate (104) 80 Isobutyryl Chloride 50 ------
+Melampodin B 
+Methacrylate 110 Methacryloyl Chloride — ------
+Cinerenin 
+Acetate (108) 112 Acetic Anhydride 89
+42
+188-189
+Melampodin A 
+Acetate (115) . . . Acetic Anhydride ___ 175-177
+Table 30
+Esterificatlons of Melampodin B (86), Melcanthin B (99), Melampodin A (100),
+and Cinerenin (101) via Method B
+Product
+Amount 
+Reacted, mg
+Acid Chloride 
+Employed % Yield mp, °C
+Melampodin B 
+Isobutyrate (105) 130 Isobutyryl Chloride 80 186-187
+Melampodin B 
+Hexanoate (106) 132 Hexanoyl Chloride 97 138-140
+Melampodin B 
+Palmitate (107) 92 Palmitoyl Chloride 73 112-114
+Melampodin B 
+Cinnamate 100 Cinnamoyl Chloride — ---
+Cinerenin 
+Isobutyrate (109) 115 Isobutyryl Chloride 43 147-149
+Cinerenin 
+Hexanoate (110) 100 Hexanoyl Chloride 96 144-146
+Table 30, continued
+Product
+Amount 
+Reacted, mg
+Acid Chloride 
+Employed
+% Yield mp, °C
+Cinerenin 
+Palmitate (111) 99 Palmitoyl Chloride 100 110-112
+Cinerenin 
+Cinnamate (112) 115 Cinnamoyl Chloride 44 112-114
+Melcanthin B 
+Acetate (113) 90 Acetyl Chloride 90 gum
+Melcanthin B 
+Hexanoate (114) 73 Hexanoyl Chloride 50 gum
+Melampodin A 
+Hexanoate (116) 36 Hexanoyl Chloride 42 gum
+Table 31
+IR Data of Melampodin B and Derivatives
+Compound
+-1
+v , cm 
+max
+*
+Melampodin B 3420 (OH), 1780 (y-lactone), 1730 
+(a,8-unsat. ester), 1665 (double 
+bonds)
+**
+Melampodin B Acetate 1780 (y-lactone) , 1760 (a, (3-unsat. 
+ester), 1680, 3025 (double bonds)
+**
+Melampodin B Isobutyrate 1780 (y-lactone), 1760 (a, (3-unsat. 
+ester), 1680, 3010 (double bonds)
+* 5 -C
+Melampodin B Hexanoate 2960, 1470 (alkane), 1775 (y-lactone), 
+1760 (a,6-unsat. ester), 1675, 1310, 
+3010 (double bonds)
+**
+Melampodin B Palmitate 2920, 1470 (alkane), 1775 (y-lactone), 
+1750 (a,B-unsat. ester), 1670, 1295, 
+(double bonds)
+*
+Nujol
+)’c*
+Liquid cell, CHCl-j
+176
+Table 32
+IR Data of Cinerenin and Derivatives
+Compound
+-1
+v ,cm 
+max
+Cinerenin
+k
+3450 (OH), 1775 (y-lactone), 1750 
+(a,6-unsat. ester), 1660 (double 
+bonds)
+Cinerenin
+aa
+Acetate 3030, 1680 (double bonds), 1775 
+(y-lactone), 1760 (a,6-unsat. ester)
+Cinerenin
+A A
+Isobutyrate 2010, 1680 (double bonds), 1775 
+(y-lactone), 1750 (a,6-unsat. ester)
+Cinerenin
+A A
+Hexanoate 3010, 1680 (double bonds), 2960, 1475 
+(alkane), 1780 (y-lactone), 1750 
+(a,8-unsat. ester)
+Cinerenin
+AA
+Palmitate 3040, 1675 (double bonds), 2960, 2890, 
+1475 (alkane), 1780 (y-lactone), 1760 
+(a,6-unsat. ester)
+Cinerenin
+AA
+Cinnamate 3030, 1500, 1450, 700 (aromatic), 
+3010, 1650 (double bonds), 1780 
+(y-lactone), 1740 (a,8-unsat. ester 
+y-lactone), 1710 (a,B-unsat ester, 
+aryl)
+*
+Nujol
+Jilt
+Liquid cell, CHCl-j
+177
+Table 33
+IR Data of Melcanthin B and Derivatives
+Compound
+max
+cm
+Melcanthin B
+Melcanthin B Acetate
+**
+Melcanthin B Hexanoate
+**
+3450 (alcohol), 1765 (a,B-unsat. y- 
+lactone), 1740, 1730 (a,3~unsat. 
+ester), 1660, 1645 (double bonds)
+3040, 1660 (double bonds), 1780 
+(y-lactone), 1760 (a,B~unsat. ester)
+2900, 1450 (alkane), 1775 (y-lactone), 
+1735 (a,3-unsat. ester), 1645 (double 
+bonds)
+Neat
+**
+Liquid cell, CHC1,
+Table 34
+IR Data of Melampodin A and Derivatives
+Compound v , cm max
+-1
+Melampodin A
+Melampodin A Acetate
+Melampodin A Hexanoate
+3400 (alcohol), 1760 (y-lactone), 1720 
+(a,B-unsat. ester), 1670, 1630 (double 
+bonds)
+2990, 1660 (double bonds), 1775 (y- 
+lactone), 1740 (a,B-unsat. ester)
+2890, 1450, 1435 (alkane), 1740 (y- 
+lactone), 1780 (a,f3-unsat. ester), 
+1690, 960 (double bonds)
+178
+Table 35
+UV Data of Melampodin B and Derivatives
+Compound AMe0H (nm) 
+max
+Melampodin B 
+Melampodin B Acetate 
+Melampodin B Diisobutyrate 
+Melampodin B Isobutyrate 
+Melampodin B Hexanoate 
+Melampodin B Palmitate
+204
+203
+203
+219
+220 
+217
+2.35 x 10
+1.30 x 10
+2.60 x 10
+1.22 x 10
+1.04 x 10
+2.17 x 10
+Table 36
+CD Data of Melampodin B and Derivatives
+Compound / 3 £, g/cm A, nm
+deg-cm2
+decimole
+Melampodin B 6.2 x 10 5 216 -8.3 x 10^
+238 +5.4 x 10,
+277 -5.4 x 10
+-4 , „4
+Melampodin B Acetate 7.1 x 10 216 -2.9 x 10*
+233 +4.5 x 10
+Melampodin B Isobutyrate 2.54 x 10~4 216 -2.1 x 104
+236 +4.9 x 10,
+274 -1.6 x 10
+-4
+Melampodin B Hexanoate 3.0 x 10 216 -2.2 x 10?
+236 +4.6 x 10,
+271 -2.0 x 10
+Melampodin B Palmitate 2.40 x 10-4 217 -2.6 x 104
+236 +3.8 x 10,
+269 -1.4 x 10J
+*
+All CD spectra run in MeOH.
+Table 37
+UV Data of Cinerenin and Derivatives
+Compound
+..MeOH , , 
+X (nm) 
+max e
+Cinerenin 205 2.74 X 10
+Cinerenin Acetate 218 1.15 X 10'
+Cinerenin Isobutyrate 218 1.17 X 10‘
+Cinerenin Hexanoate 217 1.31 X 10'
+Cinerenin Palmitate 220 1.73 X 10'
+Cinerenin Cinnamate 275 1.35 X 10'
+218 1.33 X 10
+Table 38
+CD Data of Cinerenin and Derivatives
+Compound , 3 c, g/cm A, nm r6] deg-~_£S2 -' decimole
+-5 4
+Cinerenin 6.25 x 10 218 -4.1 X 104
+240 +4.7 X 102
+280 -6.6 X io2
+-4 A
+Cinerenin Acetate 2.50 x 10 217 -2.8 X 104
+238 +3.7 X 103
+276 -2.5 X 10
+Cinerenin Isobutyrate 2.84 x 10-4 217 -2.8 X 104
+239 +3.1 X 10
+—4 A
+Cinerenin Hexanoate 2.62 x 10 218 -2.9 X 104
+237 +4.1 X 103
+276 -2.7 X io3
+-4 4
+Cinerenin Palmitate 2.83 x 10 217 -2.4 X 104
+238 +3.2 X
+103
+279 -2.4 X 103
+-4 4
+Cinerenin Cinnamate 2.23 x 10 218 -1.7 X 104
+237 +3.5 X 10
+182
+Table 39
+UV Data of Melampodin A and Derivatives
+Compound XMe0H (nm) max
+e
+Melampodin A 214 5.29 x 103
+Melampodin A Acetate 213 6.0 x 103
+Melampodin A Hexanoate 211 7.01 x 103
+Table 40
+CD Data of Melampodin A and Derivatives
+Compound / 3 £, g/cm X, nm [0] dea-cmL’ decimole
+Melampodin A 2.57 x 10-4 246
+214
++3.8 x 104 
+-1.1 x 10
+Melampodin A Acetate 2.66 x 10"4 247
+214
++3.2 x 104 
+-1.3 x 10
+Melampodin A Hexanoate 2.74 x IO"4 248
+216
++1.7 x 103 
+-9.6 x 10
+183
+Table 41
+UV Data of Melcanthin B and Derivatives
+Compound
+, MeOH , v 
+A (nm) 
+max
+e
+Melcanthin B 222 1.8 x 104
+Melcanthin B Acetate 221 1.59 x 104
+Table 42
+CD Data of Melcanthin B and Derivatives
+Compound c_, g/cnf* A, nm
+de£ -cm2_  
+’ decimole
+Melcanthin B 5.6 x 10-5 218
+244
+-74 x 10^ 
++ 4 x 10
+-4 4
+Melcanthin B Acetate 2.68 x 10 213 -5.2 x 10~
+241 +5.7 x 10
+184
+saturated NaCl. The combined benzene washings were dried with Na^SO^ 
+overnight, filtered, and evaporated under reduced pressure to yield 
+crystalline product. Further purification was effected by 
+recrystallization or by thick layer or column chromatography, followed 
+by characterization by NMR (Tables 14, 16, 18, and 20), MS (Tables 15, 
+17, 19, and 21), IR (Tables 31-34), UV (Tables 35, 37, 39, and 41), 
+and CD (Tables 36, 38, 40, and 42). The esters synthesized by method 
+B are listed in Table 30.
+Reaction of melampodin B and methacryloyl chloride in pyridine. 
+To 110 mg (0.33 mmoles) of melampodin B, dissolved in approximately 
+3 ml of pyridine, was added dropwise at 0°C an ethereal solution con­
+taining 0.03 ml of methacryloyl chloride. The reaction mixture was 
+stirred at room temperature for about four hours. A yellow, water- 
+soluble gum formed during the reaction and was filtered off. The 
+ether solution was then extracted five times with 25 ml portions of 
+dilute HC1 followed by two washings with saturated NaHCO^. The 
+combined ether extracts were dried over MgSO^ for one-half hour and 
+evaporated under reduced pressure to yield white crystals. An NMR 
+spectrum of these crystals indicated only unreacted starting material.
+Reaction of melampodin B and methacryloyl chloride with the 
+catalyst 4-dimethylaminopyridine. To 80 mg (0.3 mmoles) of 
+melampodin B dissolved in 5 ml of pyridine was added at 0°C 0.04 ml 
+of methacryloyl chloride in ether over a fifteen minute period. Then, 
+approximately 75 mg of 4-dimethylaminopyridine (0.6 mmoles) were 
+added. The reaction mixture was stirred at room temperature for 6
+185
+hours and then left overnight in the refrigerator. Filtration and 
+evaporation under reduced pressure yielded off-white crystals. A 
+slurry of the crystals and 25 ml of aqueous HC1 (10%) were extracted 
+with three portions of diethyl ether. The combined ether extracts 
+were dried over MgSO^ and evaporated under reduced pressure to yield 
+white crystals which were shown by ^H-NMR to be unreacted starting 
+material.
+Synthesis of silver cyanide. A potassium cyanide solution 
+(1.95 g in 50 ml of li^ O) was combined with a silver nitrate solution 
+(5.1 g in 100 ml of ^ 0 )  at room temperature. The silver cyanide 
+precipitate was filtered and washed thoroughly with water. The 
+catalyst was then dried in vaauo at 2 mm Hg for approximately 12 
+hours.
+Reaction of melampodin B and methacryloyl chloride with the 
+catalyst silver cyanide. Melampodin B (83 mg, 0.3 mmoles) was 
+dissolved in 5 ml of acetonitrile under slight heating. Silver 
+cyanide (0.134 g, 1.0 mmole) was added to the solution of melampodin 
+B at room temperature. With stirring, 0.05 ml of methacryloyl 
+chloride was added to this solution with the aid of a microsyringe. 
+This mixture was stirred at room temperature until the reaction 
+appeared complete by TLC (68 hours). The mixture was filtered and 
+the solvent removed to yield white crystals which were impure by TLC 
+analysis. Silica gel column chromatography of the reaction mixture 
+resulted in a very small amount of the desired product as shown by 
+1H-NMR.
+Reaction of melampodin B and methacryloyl chloride with 3 A
+molecular sieves. To 100 mg (0.3 mmoles) of melampodin B and 200 mg
+O
+of powdered 3 A molecular sieves in acetonitrile was added 0.03 ml of 
+methacryloyl chloride. The reaction mixture was refluxed for 
+approximately 1 hour, stirred at room temperature for 36 hours, 
+filtered, and evaporated under reduced pressure. The crystalline 
+product was shown to be unreacted starting material by ^H-NMR.
+IVc. Phosphofructokinase Assay System
+The inhibition studies of sesquiterpene lactones with 
+phosphofructokinase (PFK) were all carried out using a modified 
+procedure of Ling et A reaction mixture is made up as seen
+in Table 43. The reaction mixture, excluding the substrate, 
+fructose-6-phosphate, was incubated for ten minutes. The reaction 
+was initiated after this period of time by the addition of an 
+appropriate amount of fructose-6-phosphate. This assay mixture was 
+run in a 1 cm light path curvette kept at 28°C. The reaction rate 
+was proportional to the change in optical density at 340 nm. Each 
+inhibitor was run against a control and percent inhibition is defined 
+as the relative rates of reaction with and without inhibitor.
+Table 9 contains all the inhibitors tested, the concentrations 
+employed, and their percent inhibition. All sesquiterpene lactone 
+samples tested were either solids or gums, and were dissolved in 
+spectograde methanol. The control sample contained an equal amount 
+of methanol.
+187
+Table 43 
+Reagents of PFK Assay Mixture
+Reagent Molarity Volume (X) Final Molarity
+Water — 200 —
+Tris-Cl Buffer 
+pH = 7.8 0.25 M 200 50 mM
+KC1 0.50 M 100 50 mM
+MgCl2 0.04 M 100 4 mM
+EDTA 0.004 M 50 0.2 mM
+o-phenanthroline 0.024 M 50 1.2 mM
+NADH 3.2 mM 50 0.16 mM
+ATP, pH = 7.0 0.01 M 50 0.5 mM
+Fructose-6-phosphate 0.02 M 50 1. 0 mM
+Phosphoenolpyruvate 0.04 M 50 2. 0 mM
+*
+Auxiliary enzymes — 25 —
+*
+PFK — 25 —
+Inhibitor
+**
+50
+**
+Total 1000
+*
+Preparation as described in text.
+•kk
+These concentrations are included in Table 9.
+188
+Auxiliary enzyme mixture. The auxiliary enzyme mixture was 
+prepared as follows:
+1 part stock lactate dehydrogenase
+1 part stock pyruvate kinase
+3 parts 0.25 M tris-chloride buffer, pH = 7.8
+Phosphofructokinase. Phosphofructokinase is diluted as the 
+stock enzyme with a dilution buffer prepared as follows. To prepare 
+10 ml of dilution buffer, combine 5 ml of 0.1 M tris-phosphate 
+buffer, pH = 8.0 with 2 mM EDTA, 1 ml of 0.1% bovine serum albumin,
+0.5 ml of 0.024 M o-phenanthroline, and 3.5 ml of water. A 100-fold 
+dilution of PFK is prepared with 0.010 ml of stock rabbit muscle PFK 
+and 0.990 ml of the dilution buffer described above. Further 
+dilutions are made until the proper rate of the enzyme reaction, 
+without inhibitors, is established.
+icy
+Table 44
+Sesquiterpene Lactones Tested With PFK
+Sesquiterpene Lactone Final Molarity Percent Inhibition
+Melampodin B 0.66 mM 83
+0.33 mM 72
+0.23 mM 50
+0.11 mM 29
+Melampodin B Acetate 0.63 mM 86
+0.31 mM 68
+0.20 mM 53
+0.16 mM 39
+Melampodin B Isobutyrate 0.27 mM 79
+0.19 mM 65
+0.14 mM 54
+0.09 mM 38
+Melampodin B Hexanoate 0.18 mM 83
+0.12 mM 62
+0.09 mM 51
+0.06 mM 37
+Melampodin B Palmitate 0.19 mM 59
+0.13 mM 44
+0.10 mM 35
+0.06 mM 20
+Cinerenin 1.19 mM 57
+0.79 mM 44
+0.40 mM 36
+Cinerenin Acetate 0.87 mM 57
+0.44 mM 37
+0.29 mM 26
+0.19 mil 14
+Cinerenin Isobutyrate 0.78 mM 64
+0.39 mM 50
+0.26 mM 24
+0.13 mM 17
+190
+Table 44, continued
+Sesquiterpene Lactone Final Molarity Percent Inhibition
+Cinerenin Hexanoate 0.37 mM 69
+0.25 mM 64
+0.16 mM 47
+0.12 mM 28
+Cinerenin Palmitate 0.37 mM 62
+0.19 mM 27
+0.12 mM 18
+0.09 mM 10
+Cinerenin Cinnamate 0.63 mM 55
+0.32 mM 33
+0.21 mM 27
+0.11 mM 9
+Melampodin A 1.88 mM 52
+0.94 mM 26
+0.47 mM 15
+0.24 mM 5
+Melampodin A Acetate 1.30 mM 53
+0.86 mM 40
+0.65 mM 26
+Melampodin A Hexanoate 1.25 mM 55
+0.83 mM 44
+0.63 mM 31
+Melcanthin B 4.16 mM 53
+2. 75 mM 47
+2.08 mM 35
+0.52 mM 7
+Melcantbin B Acetate 1.60 mM 35
+1.10 mM 21
+0.80 mM 11
+Melcanthin B Hexanoate 1. 04 mM 66
+0.69 mM 40
+0.52 mM 23
+191
+Table 44, continued
+Sesquiterpene Lactone Final Molarity Percent Inhibition
+Melcanthin A 1.55 mM 53
+1.00 mM 40
+0.78 mM 25
+Melcanthin D 0.23 mM 42
+0.15 mM 26
+0.12 mM 11
+Melcanthin E 0.70 mil 64
+0.46 mM 57
+0.35 mM 35
+Enhydrin A 2.90 mM 53
+2.00 mM 37
+0.95 mM 20
+Melampodinin 3.30 mM 39
+2.20 mM 26
+1.10 mM 18
+192
+REFERENCES
+1. Abbott, H. D., Franklin Inst., 1887, 124, 161.
+2. Altschul, S. R., "Drugs and Foods from Little-Known Plants," 
+Harvard University Press, Cambridge, Mass., 1973, pp. 295-342.
+3. Fischer, N. H., E. J. Olivier, and H. Fischer, "Progress in 
+the Chemistry of Natural Products, Vol. 38," Edited by W. Herz, 
+Springer, Vienna, 1979.
+4. Geissman, T. A., and D. H. G. Crout, "Organic Chemistry of 
+Secondary Plant Metabolism," Freeman, Cooper and Co., San 
+Francisco, Calif., 196J), pp. 233-288.
+5. Doskotch, R. W. and F. S. El Feraly, J_. Organ. Chem., 1970, 35, 
+1928.
+6. Fischer, N. H., R. A. Wiley, D. L. Perry, and K. D. Haegele,
+J.. Organ. Chem., 197J), 4(3^, 3956.
+7. McPhail, A. T., K. D. Onan, K. H. Lee, T. Ibuka, and H. C. Huang, 
+Tetrahedron Letters, 1974, 3203.
+8. Bohlmann, F. and C. Zdero, Chem. Ber., 1975. 108, 1902.
+9. Herz, W., J. Poplawski, and R. P. Sharma, J. Organ. Chem., 1975, 
+40, 199.
+10. Herz, W., K. Ueda, and S. Inayama, Tetrahedron, 1963, 19, 483.
+11. Suchy, M. , V. Herout, and F. Sorm, Collect. Czech. Chem. Comm.,
+1963. 28, 2257.
+12. Geissman, T. and T. Saitoh, Phytochem., 1972, 11, 1157.
+13. Tamaka, N., T. Yazawa, K. Aoyama, and T. Murakami, Chem. Pharm. 
+Bull., 1976. 24, 1419.
+.14. Rao, A. S., A. P. Sadgopal, and S. C. Bhattacharyya, Tetrahedron, 
+1961. 13, 319.
+15. Kupchan, S. M., R. J. Hemingway, D. Werner, and A. Karim,
+J^. Organ. Chem., 1£^9, .34, 3903.
+193
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+Fischer, N. H., R. A. Wiley, and D. L. Perry, Rev. Latinoamer. 
+Quim., 1976, ]_, 87.
+Geissman, T., "Recent Advances in Phytochemistry, Vol. 6," 
+Edited by V. C. Runeckles and T. J. Mabry, Academic Press, New 
+York, N.Y., 1973. p. 65.
+Herz, W., Israel J. Chem. , 197_7, l£s 32.
+Barton, D. H. R., G. P. Moss, and J. A. Whittle, J_. Chem. Soc. ,
+C., 1968. 1813.
+Herz, W., "Nobel Foundation, Stockholm, Chemistry in Botanical 
+Classification, Nobel Symposium, Vol. 25," Academic Press, New 
+York, N.Y., 1973.
+Fischer, N. H., Rev. Latinoamer. Quim., 1978, j), 41.
+Pinder, A. R., "Progress in the Chemistry of Natural Products, 
+Vol, 34," Edited by W. Herz, W. Grisebach, and G. W. Kirby, 
+Springer, Vienna, 1£77.
+Ruzicka, L. Pure Appl. Chem. , 1JJ63, 6, 493.
+Hendrickson, J. B., Tetrahedron, 1959. 82.
+Parker, W. J., S. Roberts, and R. Ramage, Quart. Rev., 1967,
+3, 331.
+Scott, I., "The Recent Chemistry of Natural Products, Including 
+Tobacco," Edited by N. J. Fina, Philip Morris, Inc., New York, 
+N.Y., 1976. pp. 101-131.
+Bohlmann, F. and C. Zdero, Phytochem., 1979, _18, 95.
+Epiotis, N. D., "Theory of Organic Reactions," Springer-Verlag, 
+New York, N.Y., 1978. pp. 206-209.
+Rodriques, A. A. S., M. Garcia, and J. A. Rabi, Phytochem., 
+1978. JL7, 953.
+Kitagawa, I., Y. Yamazoe, R. Takedo, and I. Yoshioka, Tetrahedron 
+Letters, 1972. 48, 4843.
+Kitagawa, I., H. Shibuya, Y. Yamazoe, H. Takeno, and I. Yoshioka, 
+Tetrahedron Letters, 1974. 111.
+Novotny, L., Z. Samek, and F. Sorm, Collect. Czech. Chem. Comm., 
+1966. 31, 371.
+194
+33. Moriyama, Y. and Takahashi, Bull. Chem. Soc. Japan, 1276, 3196.
+34. Naya, K., N. Nogi, Y. Makiyama, H. Takashina, and T. Imagawa,
+Bull. Chem. Soc. Japan, 1977, 53, 3002.
+35. Hostettmann, K., M. J. Pettei, I. Kubo, and K. Nakanishi,
+Helv. Chim. Acta, 1977. 60, 670.
+36. Perry, D. L., D. M. Desiderio, and N. H. Fischer, Organ. Mass 
+Spectr., 1978, 13, 325.
+37. Fischer, N. H., F. Seaman, R. A. Wiley, and K. D. Haegele,
+J_. Organ. Chem., i2Z8, 43, 4984.
+38. Herz, W. and R. P. Sharma, J_. Organ. Chem., 1975, 40, 392.
+39. Czerson, H. F. Bohlmann, T. F. Stuessy, and N. H. Fischer, 
+Phytochem., 1978, 33, 257.
+40. Bohlmann, F. and C. Zdero, Phytochem., 1977» 16, 1832.
+41. Herz, W. and P. S. Kalyanaraman, .J. Organ. Chem., 1975, 43, 3486.
+42. Fischer, N. H. and D. L. Perry, J_. Organ. Chem. , 1975, 40, 3480.
+43. Yoshioka, H. and T. J. Mabry, Tetrahedron, 1969, 25, 4767.
+44. Payne, W. W., P. H. Raven, and D. W. Kyhos, Am. J. Bot.,
+1964. 51, 419.
+45. Rodriques, A. A. S., M. Garcia, and J. A. Rabi, Phytochem.,
+1978. 17, 953.
+46. Shafizadeh, F. and N. R. Bhadane, Phytochem., 1973, 12, 857.
+47. Geissman, T. A. and R. Mukherijee, J^. Organ. Chem. , 1968. 33, 656.
+48. Mabry, T. J., W. Renold, H. E. Miller, and H. B. Kagan,
+J_. Organ. Chem., 1966, 31, 681.
+49. Rybalko, K. S. and L. Dolejs, Coll. Czech. Chem. Comm., 1961,
+26, 2909.
+50. Barton, D. H. R., 0. C. Bochman, and P. DeMayo, J. Chem. Soc., 
+1960. 2263.
+51. Herz, W. and S. V. Bhat, Phytochem., 1973, 13, 1737.
+52. Joshi, B. S., V. N. Kamat, and T. R. Govindachari, Tetrahedron,
+1967. 23, 261.
+195
+53. Doskotch, R. W. and F. S. El Feraly, J_. Organ. Chem., 1970, 35, 
+1928.
+54. Herz, W. and R. P. Sharma, J_. Organ. Chem. , 1976, 41, 1015.
+55. Yoshioka, H., W. Renold, and T. Mabry, J. Chem. Soc., Chem. Comm., 
+1970, 148.
+56. Dolejes, J. and V. Herout, Collect. Czech. Chem. Comm., 1962,
+26, 2654.
+57. Yoshioka, H., W. Renold, and T. J. Mabry, Chem. Comm., 1970, 148.
+58. Fischer, N. H., T. J. Mabry, and H. B. Kagan, Tetrahedron, 1968, 
+24, 4091.
+59. Herz, W. and H. B. Kagan, .J. Organ. Chem., 1967, 32, 216.
+60. Yoshioka, H., E. Rodriguez, and T. J. Mabry, J. Organ. Chem., 
+1970. 35, 2888.
+61. Takeda, K., Tetrahedron, 1£74, 30, 1525.
+62. Takeda, K., Pure Appl. Chem., 1970, 21, 181.
+63. L'Homme, M. F., T. A. Geissman, H. Yoshioka, T. H. Porter,
+W. Renold, and T. J. Mabry, Tetrahedron Letters, 1969, 3161.
+64. Winter, R. E. K. and R. F. Lindauer, Tetrahedron, 1976, 32, 955.
+65. Yoshioka, H., T. J. Mabry, and A. Hiyo, J. Amer. Chem. Soc.,
+1970. 92, 923.
+66. Barton, D. H. R. and P. T. Gilham, J. Chem. Soc. (London), 1960,
+4596.
+67. Chapman, 0. L., "Advances in Photochemistry, Vol. 1," Edited by 
+W. A. Noyles, G. S. Hammond, and J. N. Pitts, Interscience 
+Publishers, New York, N.Y., 19£3, p. 323.
+68. Kupchan, S. M., J. W. Ashmore, and A. T. Sneden, J. Pharm. Sci.,
+1978, 67, 865.
+69. Ruecker, G., Deut. Apoth-Ztg., 1972, 112, 263.
+70. Uzdennikov, B. N., Nauch. Tr. Tyumen. Sel. Khoz. Inst., 1970,
+_7, 116.
+71. Marin-Smith, M. and W. E. Sneader, Fortschr. Arzneimittelforsch., 
+1969. 13, 11.
+196
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80. 
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+Gill, J. S., Pharmacos, 1968, 13, 27.
+Rodriguez, E., G. H. N. Towers, and J. C. Mitchell, Phytochem., 
+1976. 15, 1573.
+Sticher, 0., "New Natural Prod. Plant Drugs Pharmacol., Biol. 
+Ther. Act., Proc., Int. Cong., 1st, 1976," Edited by H. Wagner 
+and P. Wolff, Springer, Berlin, Germany, 1977, p. 137.
+Julio, A. M. and C. Pinto, Bol. Fac. Farm. Coimbia, 1976, 1_, 9.
+Ruecker, G., Deut. Apoth-Ztg., 1973, 113, 1391.
+Kuznetsova, G. A., N. M. Milova, and M. V. Nazarenko, Rast. 
+Resursy, 1966, 2_, 216, via Chem. Abs., 65; 14140e (1966).
+Mathur, S. B., P. G. Tello, C. M. Fermin, and W. Mora-Arellano, 
+Rev. Latinoamer. Quim. , 1975, (j, 201.
+Rubinchik, M. A., K. S. Rybalko, R. I. Evstratova, and 0. V. 
+Konovalova, Rastit. Resursy, 1976, 12, 170, via Chem. Abs. 
+85:87892u (1976).
+Char, M. B. S. and S. Shankarabhat, Experientia, 1975, 31, 1164.
+Mitscher, L. A., "Recent Advances in Phytochemistry, Vol. 9," 
+Edited by C. V. C. Runeckles, Plenum Press, New York, N.Y.,
+1970, pp. 243-283.
+Gross, D., Phytochem., 1975, 14, 2105.
+Sequeira, L., R. J. Hemingway, and S. M. Kupchan, Science, 1968, 
+161, 790.
+Dalvi, R. R., B. Singh, and D. K. Salunkhe, Chem.-Biol. Interactions,
+1971. _3, 13.
+Shiboaka, H., M. Shimokoriyama, S. Iruichyima, and S. Tamura, 
+Plant Cell Physiol., 1967, 8^, 297.
+Baker, P. M., C. C. Fortes, G. Gassinelli, B. Gilbert, J. N. C. 
+Lopes, J. Pellegrino, T. Tomassini, and W. Vichnewski, 
+jJ. Pharm. Pharmac., 1972, 2A_, 853.
+Burnett, W. C., S. B. Jones, T. J. Mabry, and W. Padoline, 
+Biochem. System. Ecol. , 1£74> j2, 25.
+Sperry, 0. E., J. W. Dollahite, G. 0. Hoffman, and B. J. Camp, 
+Texas Plants Poisonous to Livestock, (Texas A & M University, 
+College Station, Texas, 1964).
+197
+89. Ivie, G. W., D. A. Witzel, W. Herz, R. Kannan, J. 0. Norman,
+D. D. Rushing, J. H. Johnson, L. D. Rowe, and J. A. Velch,
+J_. Agric. Food Chem. , 1975, 23, 841.
+90. Walachy, M. L., Personal communication.
+91. Ivie, G. W., D. A. Witzel, and D. D. Rushing, J. Agric. Food Chem.,
+1975, 23, 845.
+92. Dupuis, G., J. C. Mitchell, and G. H. N. Towers, Can. J. Biochem., 
+1974, 52_, 575.
+93. Mitchell, J. C., "Recent Advances in Phytochemistry, Vol. 9,"
+Edited by V. C. Runeckles, Plenum Press, New York, N.Y., 1975, 
+pp. 119-139.
+94. Hartwell, J. L. and B. J. Abbott, Adv. Pharmacol. Chemother.,
+1969, 2_»
+95. Kupchan, S. M., Pure Appl. Chem., 1970, 21, 227.
+96. Kupchan, S. M., M. A. Eakin, and A. M. Thomas, J_. Med. Chem., 
+1971, 14, 1147.
+97. Lee, K. H., E. S. Huang, C. Piantadosi, J. S. Pagano, and 
+T. A. Geissman, Cancer Research, 1971, 31, 1649.
+98. Kupchan, S. M., Fed. Proceed., 1974, 33, 2288.
+99. Kupchan, S. M., "Recent Advances in Phytochemistry, Vol. 9," 
+Edited by V. C. Runeckles, Plenum Press, New York, N.Y., 1975.
+100. Watson, W. H., M. G. Reinecke, and J. C. Hitt, Rev. Lationamer. 
+Quim. , 1975, 6^, 1.
+101. Hartwell, J. L., Cancer Treatment Reports, 1976, 60, 1031.
+102. Schepartz, S. A., Cancer Treatment Reports, 1976, 60, 975.
+103. Abbott, B. J., Cancer Treatment Reports, 1976, 6£, 1007.
+104. Fischer, N. H. and J. W. Klimash, 16th National Medicinal Chem. 
+Symp., Kalamazoo, Mich., June, 1978.
+105. Lee, K. H., H. Kim, H. Furakawa, and C. Piantadosi, J. Med. Chem., 
+1975. 18, 59.
+106. Torrance, S. J., R. M. Wiedhopf, and J. R. Cole, J. Pharm. Sci., 
+1975. 64, 887.
+198
+107. Joland, S. D., R. M. Wiedhopf, and J. R. Cole, J_. Pharm. Sci., 
+1974. 63, 1321.
+108. Kupchan, S. M., Cancer Treatment Reports, 1976, 60, 1115.
+109. Kupchan, S. M., D. C. Fessler, M. A. Aekin, and T. J. Giacobbe, 
+Science, 1970, 168, 376.
+110. Hall, I. H., K. H. Lee, and S. A. Eigelaby, J^. Pharm. Sci. , 1978, 
+67, 55.
+111. Lehninger, A. L. , "Biochemistry," Worth Publishers, Inc., New 
+York, N.Y., 1970. pp. 180-1, 319-320.
+112. Paetkau, V. and H. A. Lardy, J^. Biol. Chem., 1967, 242, 2035.
+113. Younathan, E. S., V. Paetkau, and H. A. Lardy, J_. Biol. Chem. , 
+1968. 243, 1603.
+114. Engel'hardt, V. A. and N. E. Sakov, Biokhimiya, 1943, 8^, 9.
+115. Ling, K. H., V. Paetkau, F. Marcus, and H. A. Lardy, "Methods in 
+Enzymology, Vol. IX," Edited by S. P. Colowick and N. 0. Kaplan, 
+Academic Press, New York, N.Y., 1966. p. 425.
+116. Hanson, R. L., H. A. Lardy, and S. M. Kupchan, Science, 1970, 
+168, 378.
+117. Frazer, R. R. , Can. J^. Chem. , 1960, 38, 549.
+118. Silverstein, R. M., G. C. Bassler, and T. C. Morrill, 
+"Spectrometric Identification of Organic Compounds," John Wiley 
+& Sons, New York, N.Y., 1974, pp. £-40.
+119. Wasada, Tsuchiya, Yoshii, and Watanabe, Tetrahedron, 1967,
+23, 4623.
+120. Herz, W. and P. S. Kalyanaraman, .J. Organ. Chem., 1975. 40, 3486.
+121. Fischer, N. H. , R. Wiley, and J. D. Wander, J_. Chem. Soc. , Chem. 
+Commun., 1972. 137.
+122. Bhacca, N. S. and N. H. Fischer, Chem. Commun., 1969, 68.
+123. Watkins, S. F., N. H. Fischer, and I. Bernal, Proc. Natl. Acad. 
+Sci., U.S.A., 1973. 70, 2434.
+124. Bohlmann, F. and D. Ehlers, Phytochem., 1977, lb, 137.
+199
+125. Bohlmann, F. and C. Zdero, Phytochem., 1977, jL6, 1243.
+126. Lee, K. H., H. Furukawa, and E. S. Huang, J^. Med. Chem., 1972,
+15, 609.
+127. Lee, K. H., R. Meek, C. Piantadosi, and E. S. Huang, J^. Med. Chem.,
+1973. 16, 299.
+128. Lee, K. H., T. Ibuka, S. H. Kim, I>. Vestal, I. Hall, and E. S.
+Huang, J_. Med. Chem., 1975, 1^, 812.
+129. Lee, K. H., Y. S. Wu, and I. Hall, J. Med. Chem., 1977. .20, 911.
+130. Kupchan, S. M. , J. W. Ashmore, and A. T. Sneden, J^. Pharm. Sci., 
+1978. 67, 865.
+131. Lee, K. H., T. Ibuka, E. C. Mar, and I. Hall, J.. Med. Chem. , 
+1978. 21, 698.
+132. Lee, K. H., J. Pharm. Sci., 1973. 62, 1028.
+133. Kupchan, S. M., J. E. Kelsey, M. Maruyama, J. M. Cassidy,
+J. C. Hemingway, and J. R, Knox, J.. Organ. Chem. , 1969, 34., 3876.
+134. Korshunov, M. A., F. N. Bodnaryuk, and V. S. Mikhlin, J^. Organ. 
+Chem., U.S.S.R., 1969. 5, 1839.
+135. Haken, J. K., JT. Appl. Chem. , 1967, JLI3, 17.
+136. Klimsky, M. R., Makromol. Chem., 1975, 176, 2473.
+137. Hoefle, G. and W. Steglich, Synthesis, 1972, 619.
+138. Blickenstaff, R. T. and B. Orwig, _J. Organ. Chem., 1969, 34,
+1377.
+139. Takimoto, S., J. Inanaga, T. Katsuki, and M. Yamaguchi, Bull. 
+Chem. Soc. Japan, 1976, 4j), 2335.
+140. Banks, Fibiger, and Jones, J_. Organ. Chem. , 1977, 42^ 3965.
+141. Ling, K. H. , F. Marcus, and H. A. Lardy, J^. Biol. Chem., 1965,
+240, 1893.
+142. Leonard, K. R. and I. 0. Walker, Eur. J. Biochem., 1972, 26,
+442.
+143. Parmeggiana, A., J. H. Luft, D. S. Love, and E. G. Krebs, J_. Biol. 
+Chem., 1966, 241, 4625.
+200
+144. Uyeda, K., Biochem., 1969, J3, 2366.
+145. Paetkau, V. H., E. S. Younathan, and H. A. Lardy, J_. Mol. Biol.,
+1968. 23, 721.
+146. Lad, P. M., D. E. Hill, and G. C. Hammes, Biochem., 1973, 12, 
+4303.
+147. Kemp, R. G. and P. B. Forest, Biochem., 1968, _7, 2596.
+148. Kupchan, S. M. and Schubert, Science , 1974, 185, 791.
+VITA
+June Walachy Klimash was born in Kaplan, Louisiana on 
+June 22, 1951. After moving to New Orleans, Louisiana, she attended 
+public school and graduated in May, 1969 from Riverdale High School. 
+The following August she entered Louisiana State University and 
+Agricultural and Mechanical College in Baton Rouge, Louisiana.
+In May, 1973 Ms. Klimash graduated from Louisiana State University 
+with a B.S. in Biochemistry. The following August she entered 
+graduate school at Louisiana State University. Her graduate study 
+was interrupted from May, 1974 through August, 1975 when she 
+accompanied her husband on a sabbatical leave to the Florida State 
+University in Tallahassee, Florida. Upon returning in August, 1975, 
+she reentered graduate school at Louisiana State University.
+Ms. Klimash is currently a research chemist at Copolymer 
+Rubber and Chemical Company in Baton Rouge, Louisiana and a 
+candidate for the degree of Doctor of Philosophy with a major in 
+Chemistry and a minor in Biochemistry.
+201
+EXAMINATION AND THESIS REPORT
+Candidate: June Walachy Klimash
+Major Field: Organic Chemistry
+Title of Thesis: The Chemistry and Biological Activity of Sesquiterpene
+Lactones of Heliantheae (Compositae)
+Approved:
+Major Professor and Chairman
+Dean of the Graduate/Xchool
+EXA M I N I N G  COMMITTEE:
+i\ZCc
+/ -  - K  1
+Date of Examination:
+February 1, 1980

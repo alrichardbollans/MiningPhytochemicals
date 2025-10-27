@@ -1,0 +1,714 @@
+Journul of Natural Products 
+Vol. 48, No. 5 ,  pp.  725-738, Sep-Oct 1985 
+725 
+BENZYLISOQUINOLINE BIOSYNTHESIS BY CULTIVATED 
+PLANT CELLS AND ISOLATED ENZYMES. 
+MEINHART H. ZENK+, MARTINA RUEFFER, MANFRED AMANN, BRIGITTE DEUS-NEUMANN, 
+Lhrsruhl fur Phatmuzeutische Biologie, Universitat Munchen, Karlstrasse 29, 0-8000 Munchen 2, West Germany 
+and NAOTAKA NAGAKURA 
+Kobe Women’s College of Pharmacy. Kobe 658, Japan 
+ABSTRACT.-Plant cell cultures rather than differentiated plants are the preferred mate- 
+rial for studying secondary product formation and elucidate the enzyme pathways responsible 
+for isoquinoline alkaloid formation. Using callus and cell suspension cultures of different Bw- 
+beriJ species, we studied the incorporation ofearly precursors like tyrosine, dopa, tyramine, and 
+dopamine into jatrorrhizine. Besides tyrosine, tyramine and, to a lesser extent, dopamine were 
+incorporated into the aldehyde precursor moiety of the isoquinoline molecule. The use of cell- 
+free extracts of Berberis cultures has allowed us to isolate and characterize all of the eight enzymes 
+involved in berberine biosynthesis. (S)-Tetrahydroprotoberberine oxidase was successfully im- 
+mobilized and could be used for the quantitative conversion of (S)-tetrahydroprotoberberines 
+through their dehydroderivatives and their racemic reduction products into the pure (R)-enan- 
+tiomer. This latter enzyme and the berberine bridge enzyme are localized exclusively in a new 
+vesicle with the density 6 = 1.14; all six other enzymes of the pathway are cytoplasmic. Using 
+highly labeled (R)- and (S)-reticuline as well as scoulerine, it could be demonstrated that the 
+transport of these compounds into vacuoles of Fumaria capreolata does not proceed by an ion-trap 
+mechanism, but rather involves an active ATP-requiring, stereospecific carrier system acting 
+only on the (S)- and not on the @?)-enantiomer. 
+The benzylisoquinoline alkaloid series shows an unusually rich variety of structural 
+types ( 1,2). Many useful biogenetic schemes have been suggested (summarized in 3 )  to 
+account for the biosynthesis of these molecules. Remarkable progress was made in the 
+1960s and 1970s in elucidating these pathways using living differentiated whole plants 
+and various precursor molecules labeled with radioactive or stable isotopes. However, 
+as was pointed out already by I.D. Spenser as early as 1968 (4 ) ,  more reliable informa- 
+tion on the actual biosynthetic sequences can only be obtained by in-vitro work with the 
+purified enzymes of biosynthesis. Tracer work only suggests probable biosynthetic se- 
+quences; the ultimate proof, however, can only be given by the isolation and character- 
+ization of the respective catalysts. In addition, more information has to be sought and 
+gained on the compartmentation of enzymes involved in the biosynthetic chain leading 
+to secondary plant products and on the mechanisms by which these products and their 
+precursors are transported and stored. Because of the structural diversity expressed in 
+the benzylisoquinoline group, and due to the pharmaceutical value that some of its 
+members (e.g., codeine, berberine, galanthamine, hydrastine, morphine, narcotine, 
+tetrandrine, a-tubocurarine) represent, biosynthetic work on these compounds is jus- 
+tified in addition to its heuristic value. 
+CELL CULTURES.Xel1 suspension as well as callus cultures of several species of the 
+families Berberidaceae, Ranunculaceae, Menispermaceae, Papaveraceae, and 
+Fumariaceae produce isoquinoline alkaloids in substantial amounts (5). The most di- 
+verse isoquinoline alkaloid spectrum for a cell suspension culture thus far published has 
+been found to occur in Fumaria capreolata (6). The structural types of benzylisoquinoline 
+alkaloids found in cell cultures indicating also their biogenetic relationship are shown 
+‘Presented as a plenary lecture at the “Biologically Active Nitrogen-Containing Natural Products: 
+Structure, Biosynthesis, and Synthesis” Symposium of the International Research Congress on Natural 
+Products at the University of North Carolina, Chapel Hill, North Carolina, July 7-12, 1985. 
+726 Journal of Natural Products [Vol. 48, No. 5 
+in Figure 1. All of these structures have been isolated and identified in callus and/or sus- 
+pension cultures except for cularine- and pavine-type alkaloids, which have not yet been 
+found to occur in undifferentiated plants. Plant cell cultures capable of producing the 
+desired alkaloids are excellent sources of enzyme systems (7). Cells can be grown under 
+exactly defined conditions on a large scale, thus providing any desired amount of 
+homogeneous plant material as an enzyme source independent of seasons. As a rule, 
+levels of enzyme activity are considerably higher in suspension cells as compared with 
+whole plants because the time required for product synthesis under cell culture condi- 
+tions is much shorter than in field-grown plants. In differentiated plants, stationary 
+levels of enzymes involved in secondary metabolism seem to be very low in general. The 
+high content of phenolics and other undesirable cell constituents tends to inactivate en- 
+zymes during the isolation procedure. By using plant cell cultures, however, it has been 
+possible to gain a deeper insight into the cell-free biosynthesis of benzylisoquinoline al- 
+kaloids (7,8). 
+Maphinandionow / Benzylisoquinolim Aporphine 
+Pavine Benrophemthridino Protobutmino RDtopinc 
+FIGURE 1. Structural types of benzylisoquinoline alkaloids found in 
+plant cell cultures indicating also their biogenetic relation- 
+ship. Cularine and pavine type alkaloids have not been de- 
+tected so far in cell cultures. 
+THE DISTANT PRECURSORS.-AS early as 1910, Winterstein and Trier (9) 
+suggested that two molecules of 3,4-dihydroxyphenylalanine (DOPA) might be mod- 
+ified in the plant to yield dopamine and 3,4-dihydroxyphenylacetaldehyde, which in 
+turn could condense and yield norlaudanosoline, recognized already at that time as a 
+potential precursor for more complex isoquinoline alkaloids. Gear and Spenser (10) 
+were the first to observe that singly-labeled tyrosine (a known precursor of DOPA) can 
+serve as a specific precursor of hydrastine and that the two units forming this benzyl- 
+isoquinoline alkaloid bear labels to a different extent. Further work, (4)  established 
+beyond doubt that tyrosine contributes to the upper (isoquinoline) as well as to the 
+lower (benzyl) portion of these alkaloids, whereas DOPA, formed from tyrosine, is 
+exclusively incorporated into the isoquinoline moiety (Figure 2). The nature of the true 
+precursors during the formation of the benzylisoquinoline system has not been fully 
+Sep-Oct 19851 Zenk et af. : Benzylisoquinoline Biosynthesis 727 
+H U Hoocm "upper" HO portion isoquinoline . / 
+L-Tyrosine \ 4__ / L-DOPA 
+"lower" 
+benzyl 
+Ho P " 2  portion 
+Tyramine Dopamine 
+FIGURE 2. Incorporation experiments described in the literature (4) 
+using "C-labeled potential precursors resulting in differ- 
+ent labeling of the upper, isquinoline, and the lower, 
+benzyl, portion of benzylisquinoline alkaloids. 
+established yet (1 1). 3,4-Dihydroxyphenylpyruvic acid, which has been postulated as 
+an intermediate in benzylisoquinoline biosynthesis through the formation of nor- 
+laudanosoline- 1-carboxylic acid (12), has been ruled out by enzyme work (13). It is 
+quite certain that dopamine is the precursor of the upper (isoquinoline) portion of these 
+alkaloids. It is formed from tyrosine via DOPA and subsequent decarboxylation (Figure 
+3). 
+The question remains how the precursor of the benzylic portion of nor- 
+laudanosoline, now known to be 3,4-dihydroxyphenylacetaldehyde ( 13), is formed. 
+00- 
+Chorismate - -m Lco2 
+!-!€I 
+&Hydroxy phenylpyruvate \ - bclaurine 
+derived 
+Alkaloids 
+HO fi-/ Ho 
+L-Tyrosine pN 2 ~ - H y d r o x y p h o n y l a c e ( a l d o h y d l  
+H 
+L-DOPA 
+Tyramine I 
+' O m o  - R;;;;;e 
+Alkaloids 
+Dopamine \ 
+H o ~ m < 3 & ~ i  o hydroxyp heny lacetaldehyde 
+3.4 Dihydroxyphenylpyruvate 
+FIGURE 3. Biosynthetic sequence leading from a primary metabolite (tyrosine) to the building blocks of 
+the benzylisoquinoline alkaloids: dopamine, 3,4-dihydroxyphenylacetaIdehyde, and 4-hy- 
+droxyphenylacetaldehyde. 
+728 Journal of Natural Products IVol. 48, No. 5 
+Three possibilities are shown in Figure 3 .  4-Hydroxyphenylacetaldehyde is formed 
+either by decarboxylation of 4-hydroxyphenylpyruvate or by action of a monoamine 
+oxidase on tyramine, and can then be hydroxylated by action of a phenolase to yield the 
+dihydroxy precursor. The two other possibilities comprise the deamination of 
+dopamine or the decarboxylation of 3,4-dihydroxyphenylpyruvate by a plant enzyme to 
+yield the dihydroxylated aldehyde. To investigate these possibilities, all four potential 
+precursors labeled in the 1 '-position were administered to rapidly growing callus cul- 
+tures of Berberis canadensis. Jatrorrhizine, the major alkaloid of this species (14), was iso- 
+lated, methylated to palmatine, and subsequently subjected to permanganate oxidation 
+( 15) yielding the upper and lower halves of the protoberberine molecule. Incorporation 
+and degradation data are summarized in Table 1. 
+TABLE 1. Incorporation of Potential Precursors into Jatrorrhizine by 
+Callus Cultures of Berberis canadensis 
+portion of jatrorrhizine" 
+(% of label) 
+Precursor fed 
+85.5 14.5 
+"The protoberberine molecule was methylated and cleaved into 
+the upper isoquinoline and the lower benzyl portion, and the distribu- 
+tion of radioactivity was determined. 
+The incorporation of all four precursors into the protoberberine was between 25 and 
+35 percent. The incorporation of tyrosine into both halves of the protoberberine follows 
+the classical pattern established earlier (4). The incorporation of tyramine into both 
+halves of the protoberberine molecule, however, demonstrates beyond doubt that the 
+suggested condensation of dopamine and 3,4-dihydroxyphenylpyruvate affording the 
+intermediate norlaudanosoline- 1-carboxylic acid ( 12) is not an important pathway, if it 
+occurs at all. Surprisingly, dopamine is also incorporated to an extent of 14 percent into 
+the lower portion of the protoberberine molecule, while DOPA itself is almost exclu- 
+sively incorporated into the upper isoquinoline portion of the target molecule, confirm- 
+ing the well-established biosynthetic scheme (e.g., 4). 
+For the interpretation of these results, it is important to realize that large pools of 
+dopamine have been discovered to occur in Papaversomniferum, which are, in addition, 
+compartmentalized in different cellular and subcellular loci (16). This dopamine pool 
+could lead to an enormous dilution of the labeled precursor administered, resulting in a 
+low absolute incorporation. Furthermore, any monoamine oxidase acting on this 
+dopamine pool to yield the required C&, precursor would further reduce the labeling 
+of the benzyl (lower) unit of morphinan alkaloids. In contrast, only a small dopamine 
+pool has been observed in B .  canadensis callus, which might explain the results obtained 
+in the DOPA and dopamine feeding (and degradation) experiments (Table 1; Figure 4). 
+Both dihydroxylated precursors, in contrast to other feeding experiments-xpertly 
+discussed by Holland, et a / .  ( l l f i label  both halves of the benzylisoquinoline 
+molecule, although to an unequal extent. Tyramine, whose incorporation into the 
+isoquinoline as well as the benzyl portion of a protoberberine alkaloid, has been ob- 
+Sep-Oct 19851 Zenk et a / .  : Benzylisoquinoline Biosynthesis 7 29 
+HO HO p”2 
+upper: 75% 
+lower: 25% 
+upper : 50% \ 
+lower: 50% 
+HO ti0 
+upper: 100% upper: 85V0 
+Lower: 0 lower: 15% 
+FIGURE 4. Incorporation of I4C-labeled potential precursors into the 
+isoquinoline “upper” and the benzyl “lower” portion of 
+the protoberberine molecule jatrorrhizine, produced by 
+Berberis ranadensjs callus tissue. 
+served here for the first time, but has been used surprisingly little in biosynthetic exper- 
+iments in the past, (1  1). 
+As a result, we have to assume that tyrosine is not metabolized solely via DOPA. 
+DOPA seems to be converted predominantly to dopamine by decarboxylation, which 
+serves as precursor for the upper portion of the benzylisoquinoline system. Some 
+dopamine is converted also by deamination to 3,4-dihydroxyphenylacetaldehyde. The 
+main portion of the benzyl precursor is, however, formed from tyramine by deamina- 
+tion and subsequent hydroxylation of the 4-hydroxyphenylacetaldehyde thus formed. 
+Monoamine oxidase acting on both tyramine and dopamine, and phenolase activity hy- 
+droxylating all three substances ‘(tyramine, tyrosine, and 4-hydroxyphenylacetal- 
+dehyde) are also present in the cells. The latter enzyme was discovered in crude extracts 
+of the Berberis cell culture purified, and its properties were then studied (17). There was 
+also evidence for some weak activity decarboxylatingp-hydroxyphenylpyruvate to yield 
+p-hydroxyphenylacetaldehyde (17). In the past, internal pool sizes of metabolites and 
+compartments in which some of these enzymes are located (17) have certainly influ- 
+enced the interpretation of feeding and incorporation experiments conducted with dis- 
+tant precursors of isoquinoline alkaloids (4). We now regard the link between primary 
+metabolism (tyrosine, DOPA) and secondary metabolism (dopamine, 3,4-dihydroxy- 
+phenylacetaldehyde) as largely understood. 
+ENZYMES AND INTERMEDIATES.-The final aim in elucidating a metabolic path- 
+way is the isolation and characterization of the individual enzymes catalyzing the step- 
+wise transformation of the primary precursors to the ultimate products. During the past 
+years, we have been able to isolate all four enzymes involved in the synthesis of ( S  -re- 
+ticuline, a central intermediate in benzylisoquinoline biosynthesis (Figure 5). The first 
+enzyme in this biosynthetic pathway is (S)-norlaudanosoline synthase, which we dis- 
+covered in cell-free systems from representatives of ten different genera from three plant 
+families (13,18). This novel enzyme condenses dopamine with 3,4-dihydroxy- 
+phenylacetaldehyde to yield norlaudanosoline directly. The aldehyde, rather than the 
+previously postulated 3,4-dihydroxyphenylpyruvate, is the substrate for this condensa- 
+tion reaction. The reaction product was proven to possess the 1-a-H-(S) configuration. 
+There was, however, a considerable amount of nonenzymatic condensation of aldehyde 
+with amine taking place under the incubation conditions, yielding racemic nor- 
+laudanosoline. 
+This first intermediate in the reticuline pathway is 0-methylated predominantly in 
+730 Journal of Natural Products {Vol. 48,  No. 5 
+Dopamine 
+Ho op"2 + H,pO - 1 Hoq&A,H:xp+rL. / O 
+Hod ' ' OH 
+HO 
+3.L-Gihydroxyphmyl- (S)-Norlaudanosolinc (Sb6-Met h ylnorlaudanosoline 
+acetaldehyde 
+(S)-Norreticulina (s)- Reticuline (S)-Scoulerine 
+(S)-Tetrohydrocolurnbamino Columbamine Berberine 
+FIGURE 5 .  The biosynthetic pathway to berberine involving eight different enzymes that were isolated 
+and characterized from protoberberine-containing cell suspension cultures. 
+the 6 position, S-adenosyl-L-methionine (SAM) being the methyl group donator. The 
+enzyme catalyzing this reaction was found to occur in serveral species of four families, 
+all containing isoquinoline alkaloids. This enzyme does not distinguish between (R)- 
+and (9-norlaudanosoline, and besides about 80 percent of 6-0-methylnor- 
+laudanosoline, about 20 percent of 7-0- methylnorlaudanosoline is formed ( 19). 6-0- 
+Methylnorlaudanosoline is further modified by an enzyme that specifically methylates 
+the 4'-OH group of this intermediate to yield norreticuline. This enzyme, which is pre- 
+sently being investigated in our laboratory by T. Frenzel, is highly stereospecific in that 
+it only utilizes the substrate with the (S)-configuration. The final step in the biosyn- 
+thesis of reticuline is the N-methylation of norreticuline. This new enzyme was disco- 
+vered (20) in a number of species belonging to the genera Berberis, Cwydzlis, Eschscholt- 
+zia, Fumuria, and Thalictrum. The N-methyltransferase has a rather broad substrate 
+specificity in that it methylates several differently substituted norbenzylisoquinoline 
+alkaloids. The enzyme is also not stereospecific in that it uses both (R)- and (S) - '  isomers. 
+This enzyme, in combination with isotopically labeled SAM and stereochemically pure 
+(R)- or (S)-norreticuline as substrate, can provide the respective reticuline species with 
+extremely high specific activities for use in biosynthetic or enzymatic experiments. 
+(S)-Reticuline is the main branch point intermediate in the biosynthesis of 
+isoquinoline alkaloids. The molecule is able to undergo many different transformations 
+to yield the structural diversity of alkaloids depicted in Figure 1. One of these pos- 
+sibilities is the formation of protoberberine alkaloids. The first enzyme, which is the 
+only one in this pathway that had previously been detected and purified sevenfold from 
+cell cultures of Maduya (2 l), is responsible for the formation of the berberine bridge. 
+W e  have devised a new assay system for this enzyme (22), which relies on the use of N- 
+CT,-(S)-reticuline as substrate. The conversion of this labeled substrate to scoulerine, 
+the-established product of the berberine bridge enzyme (BBE) (2 1, 22), results in the 
+release of exactly one-third of the radioactivity of the N-methyl label into the aqueous 
+phase of the incubation mixture. This enzyme was found to occur in more than 50 dif- 
+Sep-Oct 19851 Zenk et ai. : Benzylisoquinoline Biosynthesis 73 1 
+Particle 
+bound 
+ferentiated plants and cell cultures. It was purified to homogeneity and characterized 
+(Table 2). The previously postulated (S)-reticuline-N-oxide is neither a substrate nor an 
+intermediate in this reaction. Besides scoulerine, stoichiometric amounts of H202 are 
+produced by the BBE. A second enzyme acts on scoulerine as substrate (23) .  It is a new 
+methyltransferase which catalyzes the stereospecific and regiospecific 0-methylation at 
+position 9 of (S)-scoulerine using SAM as methyl group donor (Figure 5) .  This enzyme 
+transforms (3)-scoulerine to (S)-tetrahydrocolumbamine. This product i, next trans- 
+formed into the protoberberine columbamine by the specific oxidation of ring C by a 
+new enzyme, (S)-tetrahydroprotoberberine oxidase (abbreviated STOX) (24 ) ,  which 
+Stereo 
+specificity 
+TABLE 2.  Some Properties of the  Eight  Enzymes Involved in Berberine Biosynthesis, 
+Indicat ine also Source of Cell  Cultures used for Isolation of Each En 
+Norlaudanosoline 
+Synthase 
+6-0-Merhyltransferse 
+4'-O-Methyltransfere 
+N-Methyltransferase 
+Berberine Bridge Enzyme 
+@BE) 
+Scoulerine-9-0- 
+methyltransferase 
+(S)-Tetrah ydroproto- 
+berberine Oxidase (STOX) 
+Berberine Synthase 
+- 
+No. 
+Erchrrholtzia 
+tenulfolza 
+Argmone 
+plat] cerai 
+Glauczimr 
+rubruni 
+Bwbrrii 
+t ulgarzi 
+Berberzi 
+heanzana 
+Bwberzi 
+u zlmniar 
+zar rubiaulialatd 
+Bwberzi 
+u zlionrar 
+tar rabiaulialatr 
+Berberrr 
+rtolonzfera 
+Purification 
+Namea 
+No 
+No 
+No 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+No 
+Yes 
+Yes 
+40 
+80 
+40 
+100 
+homo- 
+geneous 
+27 
+horno- 
+geneous 
+homo- 
+geneous 
+PH- 
+(optimum) 
+7.8 
+7 . 5  
+7.5  
+7.7 
+8 .9  
+8 .9  
+8 .9  
+8.9 
+klolecular 
+weight 
+(kD) 
+15 
+47 
+68 
+68 
+49 
+63 
+100 
+32 
+m e  
+I 
+"Enzymes No 1-4 belong to the general 6)-reticuline pathway, Enzymes No 5-8 are part of the protoberberine 
+bNo asymmetric center in the molecule. 
+pathway 
+catalyzes the dehydrogenation of more than 20 different tetrahydroprotoberberines, in- 
+cluding canadine, capaurimine, coramine, coreximine, corydaline, corydalmine, 
+corypalmine, discretamine, isocorypalmine, methoxycorytenchirine, tetrahydro- 
+palmatrubine, scoulerine, stepholidine, stylopine, and tetrahydropalmatine. The en- 
+zyme is absolutely specific for the substrate with the (S)-configuration. The enzyme was 
+purified to homogeneity and characterized: It is a flavine enzyme producing 1 mole 
+H,02 per mole of substrate under consumption of oxygen. Later, our enzyme was also 
+detected in crude callus homogenates by Beecher and Kelleher (25) .  Their claim that 
+tetrahydrojatrorrhizine is not a substrate for this enzyme is incorrect. Using authentic 
+substrate (by ms, nmr) and enzyme from Berberrs aggregata {a species that has been used 
+by these authors (25)], it can be seen in Figure 6 that tetrahydrojatrorrhizine is also an 
+excellent substrate for the enzyme from this plant. The suggested reaction mechanism 
+for the oxidation of tetrahydroisoquinolines is given by Amann et a / .  (24) .  
+Columbamine thus formed is further transformed by another enzyme to yield ber- 
+berine. This reaction involves the formation of a methylenedioxy ring. The enzyme 
+catalyzing this reaction has been purified to homogeneity from Berberis stoionifea (26). 
+It is an Fe++-containing enzyme with a surprisingly high temperature optimum (70") 
+and is the first enzyme found to form a methylenedioxy ring from a methoxy group ad- 
+jacent to a phenolic hydroxyl (Figure 5 ) .  This enzyme completes the sequence of four 
+7 3 2  Journal of Natural Products [Vol. 48, No. 5 
+J 
+(R)-Tetrahydrojatrorrhizine time [min] 
+10 20 30 4 0  50 60 
+FIGURE 6. Oxidation of (S)-tetrahydrojatrorrhizine by 
+STOX. Jatrorrhizine formation was photometri- 
+cally monitored at 369 nm and calculated with 
+@‘Y6xg9=25.2 X 106cm2mol-’. The borate buf- 
+fered (0.05 M, pH 8.9) incubation mixture (0.7 
+ml) contained 40 FM substrate and 0.1 ml en- 
+zyme preparation 10-70% (NH4),W4; Sephadex 
+G-251 from Berberis uggregufa (1.1 mg/ml pro- 
+tein). (R)-Tetrahydrojatrorrhizine was taken as 
+control. 
+enzymes involved in the formation of berberine from (S)-reticuline. The chain of reac- 
+tions starting from dopamine and 3,4-dihydroxyphenylacetaldehyde and leading to 
+berberine is shown in Figure 5. Some properties of the eight enzymes, seven of which 
+have been discovered and characterized in our laboratory, are shown in Table 2 .  Ber- 
+berine is used medicinally, especially in East Asia. It is the first alkaloid whose biosyn- 
+thesis is now completely understood at the enzyme level. 
+COMPARTMENTATION.-Homogenizing cultured cells of the genus Berberzs in 
+phosphate buffer results in a soluble enzyme preparation, containing all eight of the 
+above-described enzymes of the berberine pathway. Using a gentle cell disintegration 
+method with an isotonic sucrose-containing buffer and subjecting this preparation to 
+sucrose density ultracentrifugation, and subsequently analyzing the gradient for activ- 
+ity of the individual enzymes, Amann et al. demonstrated (27) that only six of the en- 
+zymes were indeed soluble, while two of them (BBE and STOX) were found in one and 
+the same particle fraction showing a buoyant density of p= 1.14 g/cm3. Figure 7 shows 
+a typical fractionation profile, illustrating the separation of organelles and indicating 
+the position of marker enzymes for organelles. By electron microscopy, this fraction was 
+seen to be predominantly composed of smooth vesicles ( 2 7 ) .  Freezing and thawing of 
+this preparation liberated both enzymes and rendered them completely soluble. Analy- 
+sis of the protein composition of this preparation by SDS-gel electrophoresis revealed 
+the presence of only about ten separable proteins, of which two major ones are BBE and 
+STOX. By immunoelectrophoresis it could be demonstrated that STOX is exclusively 
+located in these vesicles. Incubation of these vesicles with the substrate (S)-reticuline in 
+the presence and absence of S-adenosyl-L-methionine in both cases led to the formation 
+of a red product identified as dehydroscoulerine. This fact indicates that no methyl- 
+Sep-Oct 19851 Zenk etal. : Benzylisoquinoline Biosynthesis 
+Micre 
+u i e s  Chloroplasts ER Tonoplast - - T -  
+Mitochondria Golgi 
+2 4  6 8 1 0  20 
+2.2  ml Fractions 
+733 
+130 
+120 i 
+* . E 
+00 
+x 
+Y 
+.- 
+1.10 E 
+100 
+FIGURE 7 .  Typical fractionation profile of a sucrose density gradient 
+separation of organelles isolated from Berberjs wzisoniae var. 
+srr&urrliuiutu. BBE and STOX enzyme activity were localized 
+exclusively with matching peaks at a density of 6= 1.14 g/ 
+cm j . 
+transferase is located in the vesicles. If the cytoplasmic enzyme S-adenosyl-L- 
+methionine:(S)-scoulerine-9-0-methyltransfetase is added to this smooth vesicle prepa- 
+ration, in the presence of (S)-reticuline and SAM, no dehydroscouletine, but rather col- 
+umbamine, is formed (Table 3). Columbamine is the immediate precursor of berberine 
+(26).  
+Finally, addition of soluble berberine synthase enzyme to the vesicles that are syn- 
+thesizing columbamine leads predominantly to the formation of berberine. The cooper- 
+ation of vesicular and cytoplasmic enzymes therefore leads to berberine, a late product 
+of this biosynthetic branch. The isolated vesicles are yellow. Analysis of the pigments 
+demonstrated that the vesicles contained protoberberine alkaloids in the same ratio as is 
+found in the cultivated cells. These vesicles have been found in members of four differ- 
+ent plant families: Annonaceae, Berberidaceae, Ranunculaceae, and Menispermaceae, 
+in cell cultures as well as in differentiated tissue. These vesicles are the first highly spe- 
+cific and unique compartment serving only for alkaloid biosynthesis. From a regulatory 
+point of view, the vesicles must play a major role in determining the direction of 
+biosynthesis. Reticuline (Figure 1) can be transformed to a multitude of isoquinoline 
+structures even within one and the same cell culture (6). Once a molecule of (S)-re- 
+ticuline enters a vesicle, however, its further metabolic fate is immediately determined. 
+The exclusive Occurrence of BBE within the vesicles will transform the precursor 
+molecule reticuline, to scoulerine, which means that only a protoberberine structure 
+can result as a consequence of this entry. Scoulerine, now possessing the berberine 
+bridge, can leave the vesicle and be further methylated or transformed in other ways. 
+Reentry of the modified molecule into the vesicle will yield oxidized ptotoberberines 
+(e.g., columbamine), which can undergo further metabolism to berberine, and open- 
+ing of the methylenedioxy ring (7) will eventually lead to jatrorrhizine, the major sec- 
+734 Journal of Natural Products [Vol. 48,  No. 3 
+TABLE 3. In Vitro Transformation of Labeled Reticuline by 
+Vesicles Cooperating with Cytoplasmic Enzymes 
+Relative amount of alkaloids (5%) 
+Alkaloid formed I Sample numbeP 
+Reticuline‘ 
+Dehydroreticuline 
+Scoulerine 
+Dehydroscoulerine 
+Tetrahydrocolumbamine 
+Columbamine 
+Canadine 
+Berberine 
+l b  
+41 
+0 
+20 
+39 
+0 
+0 
+0 
+0 
+2c 
+37 
+0 
+8 
+0 
+0 
+55 
+0 
+0 
+40 
+49 
+“All three samples (0.5 ml, 14% sucrose) contained 0.01 mM 
+{“C-N]-(S)-reticuline (0.3 pCi), 0.2 mM SAM and 0 .1  ml purified 
+vesicles (0.02 mg protein containing 5 pkat BBE and 22 pkat STOX) 
+in tricine gradient buffer. 
+bSample 1 was incubated without further additions. 
+‘Cytoplasmic S-adenosyl-L-methionine: (S)-scoulerine-9-O-methyl- 
+transferase (22.5 pkat) was added to sample 2. 
+dSample 3 contained 0.01 pkat of berberine synthase besides the 
+methyltransferase. After 10 h incubation at 30’ the alkaloids were ex- 
+tracted and identified by tlc in two solvent systems. 
+‘Residual amount. 
+ondary metabolite of Bwbwzs cell cultures. Thus, the number ofvesicles, their location 
+within the cytoplasm of the cell, and possibly an active or even passive uptake system 
+for reticuline within the vesicle membrane will determine the amount of cytoplasmic 
+(S)-reticuline that will be transformed into protoberberines. 
+VACUOLAR STORAGE.-It is now general knowledge that alkaloids are accumu- 
+lated and stored within plant vacuoles. The question remains how the isoquinoline al- 
+kaloids that are formed in the cytoplasm (with or without participation of vesicles) are 
+finally deposited in the vacuole. The transport of alkaloids from the cytosol across the 
+vacuolar membrane-the tonoplast-into the vacuole is crucial for the storage of al- 
+kaloids in the vacuolar space. A simple model for alkaloid accumulation in vacuoles of 
+plant cells is based on the fact that vacuolar cell sap is acidic. According to this model, 
+alkaloids can freely pass through the tonoplast by diffusion in their lipophilic forms. In 
+the acidic vacuole, they are protonated and therefore trapped as cations to which the 
+tonoplast is not permeable; see literature cited by Deus-Neumann and Zenk (28). This 
+phenomenon has been called the “ion-trap mechanism.” Doubts about this ion-trap 
+mechanism arose when we could demonstrate (29,30) that isolated vacuoles of an al- 
+kaloid-containing plant take up only those alkaloids that are indigenous to the plant 
+species from which the vacuoles had been isolated. Vacuoles of alkaloid-free plants did 
+not take up any alkaloids. Vacuolar alkaloid transport was characterized as an active, 
+probably energy-requiring mechanism (30). For a further characterization of this trans- 
+port system, isolated vacuoles from Fumavza capveafutu cell cultures were used. The dif- 
+ferential uptake of two alkaloids, reticuline and scoulerine, in both their (S) -  and (R)-  
+configurations, was investigated (28). It was demonstrated that the uptake of alkaloids 
+is carrier-mediated, as shown by its substrate saturation and its sensitivity to metabolic 
+inhibitors. Most interestingly, however, only the (S)-forms of reticuline and scoulerine 
+were taken up, while the @)-enantiomers, which do not occur in this plant species, 
+Sep-Oct 19851 Zenk et a/ .  : Benzylisoquinoline Biosynthesis 735 
+were strictly discriminated against (Figure 8). Saturation of the uptake system is 
+achieved with a concentration of ca. 0.5 pM (S)-reticuline in the incubation medium. 
+The K,-value for the uptake is calculated as 0 .3  p M  and was exactly in the range of 
+KM-values determined for other alkaloids in several plant species (30). The carrier has a 
+high affinity for the substrate, and the transport was stimulated sevenfold by ATP. As 
+shown in Table 4 ,  this stimulation of (3)-reticuline uptake into Fumaria vacuoles is 
+highly specific for ATP; none of the other nucleotide triphosphates, as well as ADP, 
+AMP, or adenosine, stimulate this vacuolar transport. In addition, evidence was found, 
+60- 
+s 50- 
+*$ 40- 
+Y E, 
+4 20- 
+5- 
+-L 
+3 
+- 
+3, 
+X 
+30- 
+r 
+10- 
+(R)-Reticuline 
+- - - - -  
+0 0.1 02 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 
+Alkaloid IkMl 
+FIGURE 8. Uptake of (S)-reticuline and (R)-reticuline by isolated vacuoles 
+ofFunzaria rapreolata as a function of concentration. The alkaloid 
+uptake was determined after 40 min of incubation using enan- 
+tiomer specific radioimmunoassays, substracting the endogene- 
+ous (S)-reticuline level of the vacuoles. 
+using ATPase inhibitors and proton gradient dissipators, that vacuolar alkaloid trans- 
+port follows a proton-antiport mechanism. Efflux experiments with vacuoles preloaded 
+with labeled (3)-reticuline proved that alkaloid unloading of the vacuoles is also highly 
+specific and energy dependent. The data now accumulated present clear evidence that 
+alkaloids are readily channeled in and out of the vacuole by energy-dependent carrier- 
+mediated transport. Very probably, the same carrier mediates transport in both direc- 
+tions, and there is no doubt about the energization of the transport process. The ion- 
+trap mechanism is therefore no longer tenable for the explanation of alkaloid accumula- 
+tion in plant vacuoles. 
+Alkaloid transport through the tonoplast membrane proceeds neither by diffusion 
+nor by a channel protein mechanism. Evidence is now accumulating (28-30) that for 
+every alkaloid there is a highly specific alkaloid carrier or specific binding site of a gen- 
+eral carrier present in the tonoplast membrane. A working model showing the possible 
+mechanism by which alkaloids are transported into and out ofvacuoles is shown in Fig- 
+ure 9. This model agrees in principle with the hypothesis developed for general product 
+transport in plant vacuoles (3 1, 32). 
+736 
+Compound added" 
+(0 mM) 
+ATP (0.5 mM) control 
+Adenosine (0.5 mM) 
+AMP (0.5 mM) 
+ADP (0.5 mM) 
+CTP(O.5 mM) 
+GTP (0.5 mM) 
+ITP(0.5mM) 
+UTP (0.5 mM) 
+Journal of Natural Products [Vol. 48, No. 5 
+(SkReticuline uptake 
+pmol control 
+(106vacuoles-') (%) 
+37.1 15 
+253.0 100 
+29.0 12 
+11.5 5 
+15.1 6 
+20.2 8 
+29.9 12 
+35.4 14 
+81.0 32 
+"Additions were made to 1-ml samples of 
+Fumaria vacuole suspension (4.5 X 105/ml) prior to 
+the addition of [3H]-(S)-reticuline (500 pmol/ml). 
+Incubation of all samples was terminated after 40 
+min by filtration centrifugation. 
+Cytosol Tonoplast Vacuo le 
+pH 7.0 pH 5.0 
+FIGURE 9. Working model showing the function of H+- 
+translocating ATPase in a highly specific al- 
+kaloid transport system in the tonoplast mem- 
+brane. 
+CONCLUsIONS.-we may infer from the above findings that, in general, studies 
+involving labeled precursors, using differentiated plants or even using crude, un- 
+purified enzyme extracts, have not led to the true sequence of biosynthetic events. En- 
+zymatic work, purification, and characterization of the enzymes involved, as well as 
+Sep-Oct 19851 Zenk etal. : Benzylisoquinoline Biosynthesis 737 
+studies about their compartmentation will lead to the knowledge of how secondary 
+products are formed, transported, and stored in plants. For a few groups of alkaloids, 
+we can now imagine nature’s fascinating strategy in secondary plant product biosyn- 
+thesis at that level; these are the indole alkaloids ( 3 3 ) ,  the quinolizidine alkaloids (34), 
+and the protoberberine alkaloids shown here. Looking at the rapidly developing and 
+commercially attractive field of gene technology, we should remember that unless we 
+know the gene products (meaning the particular enzymes of secondary pathways), we 
+will be able neither to understand the metabolic sequences leading to natural products, 
+nor to locate and isolate the genes responsible for the synthesis of the respective en- 
+zymes. Considering the magnificent application fundamental and industrial research 
+has found for microbial genes, we should keep in mind that there are only about 3000 
+bacterial and 60,000 fungal species known up to now, in contrast to the existence of 
+more than 370,000 plant species (35), plants which are filled with enormous numbers 
+of highly diverse secondary product types serving many allelochemical functions. This 
+tremendous gene pool within the plant kingdom, producing enzymes catalyzing the 
+most remarkable chemical reactions, has not yet been touched. It will be the responsi- 
+bility of plant scientists to develop our knowledge about secondary pathways, which 
+will ultimately lead us to the genes involved in the synthesis of secondary products and 
+to the broad field of biotechnological application of this knowledge. 
+ACKNOWLEDGMENTS 
+Linguistic help by Dr. Bruce Cassels during the preparation of this manuscript is gratefully acknowl- 
+edged. This work was supported by SFB 145 of the Deutsche Forschungsgemeinschaft, Bonn, and by the 
+Fonds der Chemischen Industrie. 
+1. 
+2. 
+3. 
+4 .  
+5. 
+6.  
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+LITERATURE CITED 
+M. Shamrna, The Isoquinoline Alkaloids, Academic Press, New York, 1972. 
+M. Sharnma and J.L. Moniot, Isoquinoline AlkaloidResearch 1972-1977, Plenum Press, New York, 
+1978. 
+G.A. Cordell, Introduction to Alkaloids, John Wiley, New York, 198 1. 
+I.D. Spencer, in: Comprehensive Biochemistry, 20,  231 (1968). 
+M. Rueffer, in: The Chemistry and Biology of lsoquinoline Alkaloids, Ed. by J.D. Phillipson, et al . ,  
+Springer, Heidelberg, 1985, p. 265. 
+T. Tanahashi and M.H.  Zenk, Plant Cell Rep., 4 ,  96 (1985). 
+M.H. Zenk, in: The Chemistry and Biology oflsoquinoline Alkaloids, Ed. by J.D. Phillipson, et  a(. , 
+Springer, Heidelberg, 1985, p. 240. 
+W.J. Kelleher, A. Rother, E. Wellrnann, H .  Grisebach, Planta Med. 40, 127 (1980). 
+E. Winterstein and G. Trier, Die Alkaloide, Gebriider Borntdger, Berlin, 1910. 
+J .R. Gear and I.D. Spenser, Nature, 191,  1393 (1961). 
+H.L. Holland, P.W. Jeffs, T.M. Capps, and D.B. MacLean, CanJ.Chem.. 57, 1588(1979). 
+M.L. Wilson and C.J. Coscia,J.Am.Chem.Soc-. , 97, 43 1 (1975). 
+H.M. Schurnacher, M. Rueffer, N .  Nagakura, and M.H. Zenk, Planta Med., 48, 2 12 (1983). 
+H .  Hinz and M.H.  Zenk, Natunurssensrhafen, 67, 620 (1981). 
+E. Spath and F. Kuffner, Chem. Ber . ,  64, 370 (193 i). 
+T.M. Kutchan, S. Ayabe and C. J .  Coscia, in: The Chemistry andBiology of lsoquinoline Alkaloids, Ed. 
+by J.D. Phillipson, etal. , Springer, Heidelberg, 1985 (and literature cited therein), p. 281. 
+M. Rueffer and M.H. Zenk, manuscript in preparation. 
+M. Rueffer, H .  El-Shagi, N .  Nagakura, and M.H. Zenk, FEBS Lett., 129.5 (198 1). 
+M. Rueffer, N.  Nagakura, and M.H. Zenk, Planta Med., 49, 13 1 (1983). 
+C.K. Wat,  P. Steffens, and M.H. Zenk, in press (1986). 
+E. Rink and H .  Bohm, F E E S  Lett., 49, 396 (1975). 
+P. Steffens, N .  Nagakura, and M.H. Zenk, Phytochemistry, in press (1985). 
+S. Muernrnler, M. Rueffer, N.  Nagakura, and M.H. Zenk, Plant Cell Rep., 4 ,  36 (1985) 
+M. Amann, N .  Nagakura, and M.H.  Zenk, Tetrahedron Lett., 2 5 ,  953 (1984). 
+C .W.W.  Beecher and W.J. Kelleher, Tetrahedron Lett., 25, 4595 (1984). 
+M. Rueffer and M.H.  Zenk, Tetrahedron Lett., 26,  201 (1985). 
+M. Amann, G .  Wanner, and M.H.  Zenk, Planta, (in press). 
+738 Journal of Natural Products [Vol. 48, No. 5 
+28. 
+29. 
+30. 
+3 1. 
+32. 
+33. 
+34. 
+35 
+B. Deus-Neumann and M.H.  Zenk, Planta, (in press). 
+B. Deus and M.H. Zenk, Biotechn.Biwng., 24, 1965 (1982). 
+B. Deus-Neumann and M.H.  Zenk, Planta, 162, 250 (1984). 
+H .  Sze, Physiol.Plantarum, 61, 683 (1984). 
+C.  Werner and P. Matile, ].Plant Physiol., 118, 237 (1985). 
+J .  Stiickigt, in: Indole and Biogeneticall) Related Alkaloids, Ed. by J.D. Phillipson and M.H.  Zenk, 
+Academic Press, London, 1980. 
+M. Wink and T. Hartman, in: Natural Products Chmisrq 1984, Elsevier Science Publishers, 
+Amsterdam, 1984, p.  5 11. 
+D.  von Denffer, F. Ehrendorfer, K. Magdefrau, and H .  Ziegler, Lebrbuch dw Botanrk, Fischer, 
+Stuttgart, 1978. 

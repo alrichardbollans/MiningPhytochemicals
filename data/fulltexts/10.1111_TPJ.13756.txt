@@ -1,0 +1,3363 @@
+Biochemistry, Biophysics and Molecular Biology 
+Publications Biochemistry, Biophysics and Molecular Biology 
+1-2018 
+Identification and functional characterization of diterpene 
+synthases for triptolide biosynthesis from Tripterygium wilfordii 
+Ping Su 
+China Academy of Chinese Medical Sciences 
+Hongyu Guan 
+China Academy of Chinese Medical Sciences 
+Yujun Zhao 
+China Academy of Chinese Medical Sciences 
+Yuru Tong 
+China Academy of Chinese Medical Sciences 
+Meimei Xu 
+Iowa State University, xumm@iastate.edu 
+See next page for additional authors 
+Follow this and additional works at: https://lib.dr.iastate.edu/bbmb_ag_pubs 
+ Part of the Biochemistry Commons, Biophysics Commons, Molecular Biology Commons, Plant 
+Sciences Commons, and the Structural Biology Commons 
+The complete bibliographic information for this item can be found at https://lib.dr.iastate.edu/
+bbmb_ag_pubs/272. For information on how to cite this item, please visit 
+http://lib.dr.iastate.edu/howtocite.html. 
+This Article is brought to you for free and open access by the Biochemistry, Biophysics and Molecular Biology at 
+Iowa State University Digital Repository. It has been accepted for inclusion in Biochemistry, Biophysics and 
+Molecular Biology Publications by an authorized administrator of Iowa State University Digital Repository. For more 
+information, please contact digirep@iastate.edu. 
+Identification and functional characterization of diterpene synthases for triptolide 
+biosynthesis from Tripterygium wilfordii 
+Abstract 
+Tripterygium wilfordii has long been used as a medicinal plant, and exhibits impressive and effective anti-
+inflammatory, immunosuppressive and anti-tumor activities. The main active ingredients are diterpenoids 
+and triterpenoids, such as triptolide and celastrol, respectively. A major challenge to harnessing these 
+natural products is that they are found in very low amounts in planta. Access has been further limited by 
+the lack of knowledge regarding the underlying biosynthetic pathways, particularly for the abeo-abietane 
+tri-epoxide lactone triptolide. Here suspension cell cultures of T. wilfordii were found to produce triptolide 
+in an inducible fashion, with feeding studies indicating that miltiradiene is the relevant abietane olefin 
+precursor. Subsequently, transcriptome data was used to identify eight putative (di)terpene synthases 
+that were then characterized for their potential involvement in triptolide biosynthesis. This included not 
+only biochemical studies that revealed the expected presence of class II diterpene cyclases that produce 
+the intermediate copalyl diphosphate (CPP), along with the more surprising finding of an atypical class I 
+(di)terpene synthase that acts on CPP to produce the abietane olefin miltiradiene, but also their sub-
+cellular localization and, critically, genetic analysis. In particular, RNA interference targeting either both of 
+the CPP synthases, TwTPS7v2 & TwTPS9v2, or the subsequently acting miltiradiene synthase, 
+TwTPS27v2, led to decreased production of triptolide. Importantly, these results then both confirm that 
+miltiradiene is the relevant precursor and the relevance of the identified diterpene synthases, enabling 
+future studies of the biosynthesis of this important bioactive natural product. 
+Keywords 
+Tripterygium wilfordii, diterpene synthase, RNA interference, miltiradiene, triptolide 
+Disciplines 
+Biochemistry | Biophysics | Molecular Biology | Plant Sciences | Structural Biology 
+Comments 
+This is the peer reviewed version of the following article: Su, Ping, Hongyu Guan, Yujun Zhao, Yuru Tong, 
+Meimei Xu, Yifeng Zhang, Tianyuan Hu et al. "Identification and functional characterization of diterpene 
+synthases for triptolide biosynthesis from Tripterygium wilfordii." The Plant Journal 93, no. 1 (2018): 
+50-65, which has been published in final form at doi: 10.1111/tpj.13756. This article may be used for non-
+commercial purposes in accordance with Wiley Terms and Conditions for Use of Self-Archived Versions. 
+Authors 
+Ping Su, Hongyu Guan, Yujun Zhao, Yuru Tong, Meimei Xu, Yifeng Zhang, Tianyuan Hu, Jian Yang, Qiqing 
+Cheng, Linhui Gao, Yujia Liu, Jiawei Zhou, Reuben J. Peters, Luqi Huang, and Wei Gao 
+This article is available at Iowa State University Digital Repository: https://lib.dr.iastate.edu/bbmb_ag_pubs/272 
+Identification and functional characterization of diterpene 
+synthases for triptolide biosynthesis from Tripterygium wilfordii
+Ping Su1,2, Hongyu Guan1,2, Yujun Zhao1, Yuru Tong1,2,6, Meimei Xu5, Yifeng Zhang1,2, 
+Tianyuan Hu2, Jian Yang1, Qiqing Cheng1,2,4, Linhui Gao1,2, Yujia Liu2, Jiawei Zhou2, 
+Reuben J. Peters5, Luqi Huang1,*, and Wei Gao2,3,*
+1State Key Laboratory Breeding Base of Dao-di Herbs, National Resource Center for Chinese 
+Materia Medica, China Academy of Chinese Medical Sciences, Beijing, China
+2School of Traditional Chinese Medicine, Capital Medical University, Beijing, China
+3Beijing Key Lab of TCM Collateral Disease Theory Research, Capital Medical University, Beijing, 
+China
+4State Key Laboratory of Quality Research in Chinese Medicine, Macau University of Science and 
+Technology, Avenida Wai Long, Taipa, Macau, China
+5Roy J. Carver Department of Biochemistry, Biophysics & Molecular Biology, Iowa State 
+University, Ames, IA, USA
+6School of Traditional Chinese Materia Medica, Shenyang Pharmaceutical University, Shenyang, 
+China
+SUMMARY
+Tripterygium wilfordii has long been used as a medicinal plant, and exhibits impressive and 
+effective anti-inflammatory, immunosuppressive and anti-tumor activities. The main active 
+ingredients are diterpenoids and triterpenoids, such as triptolide and celastrol, respectively. A 
+major challenge to harnessing these natural products is that they are found in very low amounts in 
+planta. Access has been further limited by the lack of knowledge regarding the underlying 
+biosynthetic pathways, particularly for the abeo-abietane tri-epoxide lactone triptolide. Here 
+suspension cell cultures of T. wilfordii were found to produce triptolide in an inducible fashion, 
+with feeding studies indicating that miltiradiene is the relevant abietane olefin precursor. 
+Subsequently, transcriptome data was used to identify eight putative (di)terpene synthases that 
+were then characterized for their potential involvement in triptolide biosynthesis. This included not 
+only biochemical studies that revealed the expected presence of class II diterpene cyclases that 
+produce the intermediate copalyl diphosphate (CPP), along with the more surprising finding of an 
+*For correspondence: Luqi Huang (huangluqi01@126.com), Wei Gao (weigao@ccmu.edu.cn). 
+Accession Numbers
+The Illumina-derived nucleotide sequences reported in this paper have been submitted to the short-read archive (SRA) at NCBI with 
+the following accession numbers: SRR6001265. Sequence data from this article can be found in the GenBank/EMBL data libraries 
+with the following accession numbers: TwTPS7v2 (AKM28412); TwCPS2 (AKM28413); TwTPS3v2 (AKM28414); TwTPS9v2 
+(KX931054); TwTPS27v2 (ARQ20737); TwKSL1 (KX931055); TwTPS16v2 (AKM28415).
+CONFLICT OF INTEREST STATEMENT
+The authors declare that they have no conflict of interest in accordance with the journal policy.
+HHS Public Access
+Author manuscript
+Plant J. Author manuscript; available in PMC 2019 January 01.
+Published in final edited form as:
+Plant J. 2018 January ; 93(1): 50–65. doi:10.1111/tpj.13756.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+atypical class I (di)terpene synthase that acts on CPP to produce the abietane olefin miltiradiene, 
+but also their sub-cellular localization and, critically, genetic analysis. In particular, RNA 
+interference targeting either both of the CPP synthases, TwTPS7v2 & TwTPS9v2, or the 
+subsequently acting miltiradiene synthase, TwTPS27v2, led to decreased production of triptolide. 
+Importantly, these results then both confirm that miltiradiene is the relevant precursor and the 
+relevance of the identified diterpene synthases, enabling future studies of the biosynthesis of this 
+important bioactive natural product.
+Keywords
+Tripterygium wilfordii; diterpene synthase; RNA interference; miltiradiene; triptolide
+INTRODUCTION
+Tripterygium wilfordii Hook. f., commonly known as Lei Gong Teng in Chinese, has been 
+used for centuries, mainly to treat rheumatoid arthritis (Tu, 2009). While the genus 
+Tripterygium is known to produce many types of terpenoids, the major bioactive compounds 
+in T. wilfordii seem to be diterpenoids, especially triptolide, a tri-epoxide lactone first 
+identified by Kupchan et al. (1972), and related compounds. These natural products have 
+aroused extensive interest due to their broad spectrum of anti-inflammatory, 
+immunosuppressive, anti-cystogenesis, and anticancer activities (Tao and Lipsky, 2000; 
+Gong et al., 2008; Chen et al., 2009; Leuenroth et al., 2010; Titov et al., 2011; Manzo et al., 
+2012; Chugh et al., 2012). In addition, triptolide exerts effects on central nervous system 
+diseases, such as Parkinson’s and Alzheimer’s (Li et al., 2003, 2004; Gao et al., 2008; Nie et 
+al., 2012; Zheng et al., 2013). However, these diterpenoids currently are exclusively derived 
+from Tripterygium plants, with low yields, limiting our ability to investigate and apply these 
+bioactive compounds. Elucidation of the biosynthetic pathways for these complex 
+diterpenoids would enable increased access via metabolic engineering, either in the native 
+plant or using a synthetic biology approach to introduce the pathway into a microbial host.
+Triptolide is an abietane-type diterpenoid, which places it in the labdane-related super-
+family that is characterized by formation of the underlying hydrocarbon backbone from the 
+general diterpenoid precursor (E,E,E)-geranylgeranyl diphosphate (GGPP) by a sequential 
+pair of cyclization reactions (Peters, 2010). These are catalyzed firstly by class II diterpene 
+cyclases, which contain a characteristic DxDD motif, and then subsequently acting class I 
+diterpene synthases that contain a separate DDxxD motif instead (Peters, 2010). Despite 
+their distinct catalytic activity, catalyzed in separate active sites defined by the noted motifs 
+(Gao et al., 2012), these enzymes are both members of the terpene synthase (TPS) family, 
+with the class II diterpene cyclases making up the TPS-c sub-family and subsequently acting 
+class I diterpene synthases comprising the TPS-e sub-family (Chen et al., 2011).
+More specifically, triptolide is presumably produced via initial cyclization of GGPP to 
+copalyl diphosphate (CPP), with subsequent cyclization and rearrangement to an abietane-
+type diene olefin, which is then further transformed to triptolide. It has been suggested that 
+this proceeds via the aromatized dehydroabietic acid, with subsequent 1,2-migration of the 
+Su et al. Page 2
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+carboxylic acid (from carbon 4 → 3) to form the observed abeo-abietane backbone (Kutney 
+& Han, 1996). Notably, the cyclohexa-1,4-diene arrangement of the abietane miltiradiene 
+poises this for aromatization (Gao et al., 2009), which readily occurs spontaneously (Zi & 
+Peters, 2013). Thus, miltiradiene is a likely intermediate in triptolide biosynthesis (Figure 1).
+Identification of the tissues where the compound of interest is produced and/or conditions 
+that lead to increased accumulation can significantly aid elucidation of the underlying 
+biosynthetic pathway. Consistent with previous results (Kutney et al., 1980), we have 
+recently developed suspension cell cultures of T. wilfordii that produce triptolide and related 
+diterpenoids, as well as the triterpenoid celastrol (Su et al., 2014). Here we report that 
+feeding miltiradiene to these cultures increases triptolide production. In addition, we find 
+that production of triptolide can be induced in these cultures, which were then subjected to 
+RNA-Seq to generate a transcriptome. This dataset was mined to discover eight potential 
+(di)terpene synthases, which were functionally characterized by sub-cellular localization and 
+biochemical analysis, revealing two closely related CPP synthases (CPSs), TwTPS7v2 and 
+TwTPS9v2, and a subsequently acting miltiradiene synthase, TwTPS27v2. Critically, RNA 
+interference (RNAi) of TwTPS7v2 and TwTPS9v2, or TwTPS27v2, reduced triptolide 
+production, confirming not only the role of miltiradiene as a precursor, but also of these 
+diterpene synthases in biosynthesis of this important diterpenoid natural product.
+RESULTS
+Suspension cell cultures can be used to illuminate triptolide biosynthetic pathway
+As previously reported (Su et al., 2014), we have established T. wilfordii suspension cell 
+cultures. Critically, these were found to stably produce diterpenoids, particularly including 
+triptolide, over a 3-year period. Briefly, these cultures were grown in defined medium in the 
+dark at 25 °C on a rotary shaker and transferred to fresh medium every 18 d, with increases 
+of 2.6-fold in the fresh weight of suspension cells over this time (Figure S1). These cultures 
+were found to produce 53 ± 3 µg/g of triptolide in the suspension cells and 4.0 ± 0.2 mg/L in 
+the medium (Figure 2C).
+To compare the phytochemical complexity of these suspension cell cultures relative to whole 
+plants, extracts from the cells and medium, as well as plant root, stem, leaf, and flower 
+tissues, were analyzed by ultra-performance liquid chromatography-quadrupole time of 
+flight-mass spectrometry (UPLC/Q-TOF MS). The plant samples, especially those from the 
+roots traditionally associated with medicinal use, were largely composed of a variety of 
+alkaloids (e.g. wilforgine and wilforine), with relatively small amounts of diterpenoids, 
+including triptolide. By contrast, the suspension cell cultures appear to selectively 
+accumulate diterpenoids and triterpenoids rather than alkaloids. Indeed, the suspension 
+cultures accumulated triptolide at a higher level than the native plant, and this was 
+particularly prevalent in the media, which exhibits a relatively simple phytochemical profile 
+that presumably would assist purification of triptolide and/or related diterpenoids. Thus, 
+these cultures represent a potential source of these natural products for commercial 
+production. Perhaps more relevant here, these cultures further provide a system for 
+investigation of the underlying biosynthetic network. For example, potential intermediates 
+Su et al. Page 3
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+such as triptophenolide, triptinin B and triptoquinonide can be readily detected in the 
+suspension cells (Table 1 and Figure 2).
+Miltiradiene is a precursor to triptolide
+Notably, miltiradiene, arguably the most likely olefin precursor to triptolide, was detectable 
+in our suspension cell cultures (Figure S2). To further investigate the potential role of 
+miltiradiene in triptolide biosynthesis, this abietane was fed to these cultures, which led to a 
+statistically significant increase in triptolide accumulation relative to control cultures after 5 
+d (Figure 3). Altogether, this indicated that miltiradiene does serve as a precursor to 
+triptolide, such that a class I diterpene synthase producing this olefin should be involved in 
+the biosynthesis of these diterpenoids.
+Triptolide production is induced by methyl jasmonate
+Previous work has indicated that the production of (di)terpenoid natural products can be 
+induced by the defense signalling molecule methyl jasmonate (MeJA), which is further 
+useful for co-expression analysis. Indeed, the application of MeJA to T. wilfordii cell 
+cultures led to increased production of triptolide, at least in the cells, as measured by UPLC 
+analysis (Figure S3). Elevated levels of triptolide in MeJA-induced relative to control 
+cultures were evident within 72 h, with even larger differences found in later time points – 
+e.g., after 240 h triptolide levels were >3-fold higher, reaching just over 200 µg/g, in the 
+induced suspension cells (Figure 4). While it seems worth mentioning that the ability to 
+induce higher levels of triptolide may assist the potential use of these suspension cell 
+cultures for larger-scale production of this and related diterpenoids, here this finding was 
+used to assist elucidation of the underlying biosynthetic network.
+Induced transcriptome of T. wilfordii
+Based on the ability of MeJA to increase triptolide production, such induced suspension 
+cells were subjected to deep transcriptome sequencing with the Illumina HiSeq 2000 
+platform. In total, 12.68 Gb of clean sequence was obtained after adapter related reads, low 
+quality reads and reads containing unknown bases were removed from the raw reads (Table 
+S1). A total of 90,801 transcripts were assembled with a mean length of 1,053 bp and an 
+N50 of 1,837 bp (Table S2 and Figure S4).
+Functional annotation was carried out using multiple databases, specifically Nr (NCBI non-
+redundant protein sequences), Nt (NCBI non-redundant nucleotide sequences), Pfam 
+(Protein family), KOG/COG (Clusters of Orthologous Groups of proteins), Swiss-Prot (A 
+manually annotated and reviewed protein sequence database), KO (KEGG Ortholog 
+database) and GO (Gene Ontology). Relevant to triptolide biosynthesis, 27 unigenes 
+potentially involved in such metabolism were found, including eight putative diterpene 
+synthases, as defined by falling within either the TPS-c or TPS-e sub-families (Tables S3–4; 
+Figure S5).
+Cloning of putative diterpene synthases
+To demonstrate the utility of the generated transcriptome for elucidation of triptolide 
+biosynthesis, it was hypothesized that the diterpene synthases necessary for formation of 
+Su et al. Page 4
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+miltiradiene should be present – i.e., among those in the transcriptome. Sequence analysis 
+indicated that full-length open reading frames (ORFs) were not present for all eight putative 
+diterpene synthases. Thus, full-length sequences were obtained by 5’ and 3’ rapid 
+amplification of cDNA ends (RACE), also using RNA from induced suspension cells. This 
+eventually led to cloning of cDNA for six distinct full-length diterpene synthases (Table S5).
+The obtained putative diterpene synthases were subjected to phylogenetic analysis (Figures 5 
+and S6–7). During the course of our studies reports appeared describing similar, although 
+not exactly identical genes (Anderson-Ranberg et al., 2016; Hansen et al., 2017a). These are 
+presumably allelic to those identified here and, to be consistent with these recent reports, 
+here we utilize nomenclature that reflects these presumed relationships. Four of those found 
+here fall within the TPS-c sub-family and, hence, were expected to be class II diterpene 
+cyclases. Three appeared to be allelic to previously identified genes and, accordingly, were 
+named TwTPS7v2, TwTPS3v2, and TwTPS9v2, while the remaining gene was termed 
+TwCPS2. However, in place of the highly conserved DxDD motif, TwCPS2 contains 
+“DTDC311”, raising questions about its activity. The two remaining diterpene synthases fall 
+within the TPS-e sub-family, which is anchored by the ent-kaurene synthases (KSs) required 
+in vascular plants for gibberellin phytohormone metabolism, but also contains derived KS-
+like (KSL) enzymes (Zi et al., 2014). One appeared to be allelic to a previously identified 
+gene and, hence, was named TwTPS16v2, while the other appeared to be unique and was 
+named TwKSL1.
+Functional characterization of the putative class II diterpene cyclases
+To determine the function of the putative class II diterpene cyclases, these were 
+heterologously expressed in E. coli, and tested with GGPP as substrate via in vitro cell-free 
+assays. For detection by gas chromatography-mass spectrometry (GC-MS), phosphatase was 
+added to the assays upon completion to dephosphorylate both the substrate GGPP and any 
+product, such as CPP, yielding geranylgeraniol (GGOH) and copalol, respectively. The 
+production of CPP was detected for TwTPS7v2, TwTPS3v2 and TwTPS9v2 by comparison 
+to the known activity of a CPS from Salvia miltiorrhiza (SmCPS1; Gao et al., 2009) (Figure 
+6A), while no activity was detected for TwCPS2. Thus, TwCPS2 appears to be an inactive 
+pseudogene. Consistent with this hypothesis is both the phylogenetic distance of this from 
+other (functional) members of the TPS-c sub-family, even within the Tripterygium genus 
+(Figure 5), and the fact that the lack of activity goes beyond simple loss of the DxDD motif, 
+as correcting this (i.e., by changing C311 to the Asp prototypically found at that position) 
+did not restore any enzymatic activity to TwCPS2.
+To determine the absolute stereochemistry of the CPP products of TwTPS7v2, TwTPS3v2 
+and TwTPS9v2, these were coupled to stereospecific class I diterpene synthases. In 
+particular, the miltiradiene synthase from S. miltiorhiza, SmMS (Gao et al., 2009), or KS 
+from Arabidopsis thaliana, AtKS (Yamaguchi et al., 1998), which are specific for CPP or 
+ent-CPP, respectively (Gao et al., 2009; Morrone et al., 2009). In vitro cell-free assays were 
+carried out in all six possible pairings, with the production of miltiradiene observed in assays 
+with SmMS and either TwTPS7v2 or TwTPS9v2, while ent-kaurene was only observed in 
+assays with AtKS and TwTPS3v2 (Figure 6B). Thus, consistent with recently reported work 
+Su et al. Page 5
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+on their allelic variants (Anderson-Ranberg et al., 2016; Hansen et al., 2017a), both 
+TwTPS7v2 and TwTPS9v2 produce CPP, while TwTPS3v2 produces ent-CPP.
+Functional characterization of putative class I diterpene synthases
+To determine the function of the two putative class I diterpene synthases, they were 
+recombinantly expressed in E. coli and subjected to in vitro cell-free assays in combination 
+with either TwTPS7v2 or TwTPS3v2 (providing CPP or ent-CPP, respectively). Neither 
+TwKSL1 or TwTPS16v2 produced miltiradiene. Instead, both were only active with ent-
+CPP. Consistent with the very recently reported activity of its allelic variant (Hansen et al., 
+2017a), TwTPS16v2 produced largely 16α-hydroxy-ent-kaurane, along with small amounts 
+of ent-kaurene (Figure S8), which was further confirmed by co-expressing this with 
+TwTPS3v2 in yeast (Saccharomyces cerevisiae). TwKSL1 was found to produce a mixture 
+of diterpenes, the major components of which were identified upon incorporation into a 
+modular metabolic engineering system in E. coli (Cyr et al., 2007), and comparison to 
+already characterized enzymes (Jia & Peters, 2016), as ent-pimara-8(14),15-diene and small 
+amounts of 8α-hydroxy-ent-pimar-15-ene, as well as minor amounts of ent-kaurene (Figure 
+6C).
+Interestingly, the production of 16α-hydroxy-ent-kaurane has been previously shown to 
+critically depend on the identity of a specific residue, which is conserved as methionine in 
+KSs, but is a smaller residue in diterpene synthases that produce 16α-hydroxy-ent-kaurane 
+instead, with corresponding site-directed mutagenesis of this residue leading to substantial 
+changes in product outcome (Kawaide et al., 2011; Zerbe et al., 2012; Irmisch et al., 2015). 
+TwTPS16v2 contains an alanine at this position and, consistent with previous reports, 
+substitution of Met leads to predominant production of ent-kaurene, with smaller amounts of 
+16α-hydroxy-ent-kaurane, from ent-CPP by the resulting mutant TwTPS16v2:A608M 
+(Figure S8). The result, together with a report identifying two key residues of TwTPS14 and 
+TwTPS21 by Hansen et al. (2017b), highlights the evolutionary potential of this enzymatic 
+family to drive rapid diversification of plant diterpene biosynthesis through neo-
+functionalization (Hansen et al., 2017b).
+Identification of a miltiradiene synthase
+Given the data indicating a role for miltiradiene in triptolide biosynthesis, it was 
+hypothesized that an alternative terpene synthase responsible for its formation must be 
+expressed in the T. wilfordii suspension cell cultures. Hence, we screened the transcriptome 
+dataset using the amino acid sequence of the known miltiradiene synthase from Salvia 
+miltiorrhiza (SmMS; Gao et al., 2009), as the probe sequence (with a cutoff E-value of < e
+−10). In total, 6 potential terpene synthases were found, including two of the already 
+characterized diterpene synthases, two that fall within the TPS-a sub-family and appear to be 
+sesquiterpene synthases, and two that fall within the TPS-b sub-family, which usually 
+indicates that these would be monoterpene synthases (Table S6). However, consistent with a 
+very recent report that appeared during the course of our studies (Hansen et al., 2017a), we 
+also found that one of these, upon recombinant expression in E. coli and subsequent in vitro 
+cell-free assays in combination with TwTPS7v2, produces miltiradiene (Figure 6D). Given 
+Su et al. Page 6
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+that this TPS appears to be allelic to the previously identified miltiradiene synthase, sharing 
+98.0% identity, to be consistent with that previous report, this is named here TwTPS27v2.
+Use of TwTPS7v2/TwTPS9v2 and TwTPS27v2 in metabolic engineering
+Yeast has been engineered to produce miltiradiene using the relevant diterpene synthases 
+from S. miltiorrhiza (SmCPS1 and SmMS), including the use of gene fusions between 
+SmCPS1 and SmMS, which led to increased yield when expressed in the order SmMS-
+SmCPS1 (Zhou et al., 2012). Here the utility of the relevant diterpene synthases from T. 
+wilfordii for similar engineering was investigated. However, the yield from co-expression of 
+TwTPS27v2 with either TwTPS7v2 or TwTPS9v2 in appropriately engineered yeast, which 
+was equivalent to each other (Figure S9A), was not found to be significantly better than that 
+previously reported using SmCPS1 and SmMS (Zhou et al., 2012). Moreover, fusing 
+TwTPS7v2 and TwTPS27v2, in either orientation, actually significantly decreased the yield 
+of miltiradiene, to less than 5% of the strain separately expressing each of these enzymes 
+(Figure S9B). Indeed, unlike SmCPS1 and SmMS (Zhou et al., 2012), TwTPS7v2 and 
+TwTPS27v2 do not seem to interact, consistent with negative results from yeast two-hybrid 
+assays with these (Figure S10).
+Subcellular localization
+Particularly given that diterpene biosynthesis is initiated in plastids, separate from the 
+cytosolic location presumed for monoterpene synthases (Chen et al., 2011), to verify the role 
+of TwTPS27v2 and the other diterpene synthases, it seemed worth investigating their sub-
+cellular localization. Accordingly, recombinant plasmids containing the ORFs of these genes 
+fused with that for a green fluorescent protein (GFP) were transformed into N. benthamiana 
+leaves, which were then examined for GFP localization (Figure 7). All GFP signals for 
+TwTPS7v2, TwTPS3v2, TwTPS9v2 and TwTPS27v2 were mainly found in chloroplasts, 
+while those for TwKSL1 and TwTPS16v2 were found both in chloroplast and cytoplasm, 
+supporting roles for all of these in diterpene biosynthesis. However, consistent with the 
+hypothesis that TwCPS2 is a non-functional pseudo-gene, the GFP signal for TwCPS2 
+produced a typical cytoplasm localization pattern.
+Induction of diterpene synthase transcription
+To further investigate the potential role of the functionally characterized diterpene synthases 
+in triptolide biosynthesis, their transcriptional response to MeJA was investigated. Transcript 
+levels were measured by qRT-PCR in suspension cells after induction with MeJA. This 
+revealed increased mRNA levels, peaking at 12 or 24 h, for all the diterpene synthases 
+investigated here, except TwKSL1 (Figure 8).
+RNAi of both TwTPS7v2 and TwTPS9v2, or TwTPS27v2
+To provide more direct evidence of a role in triptolide biosynthesis for TwTPS7v2 and/or 
+TwTPS9v2, as well as TwMS and, hence, miltiradiene, RNAi was employed with suspension 
+cell cultures. Given the high identity between TwTPS7v2 and TwTPS9v2 (98.5%), both 
+were targeted together using a stretch of identical sequence in the RNAi construct. While 
+this only led to reductions of just over 30% in the transcript level of both TwTPS7v2 and 
+Su et al. Page 7
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+TwTPS9v2, transcript levels for TwCPS2 and TwTPS3v2 were not affected, and triptolide 
+accumulation was nevertheless decreased by almost 50% compared to control cultures 
+transformed with the empty vector. When RNAi targeting TwTPS27v2 was carried out, the 
+transcript level of TwTPS27v2 was similarly only reduced by ~30%, with no reduction in 
+the levels of the related TPS-b sub-family members TwTPS22v2, TwTPS23v2, TwTPS32, 
+and TwTPS33, triptolide accumulation was decreased by ~40% (Figure 9).
+DISCUSSION
+The ability of T. wilfordii suspension cell cultures to produce valuable terpenoids, 
+particularly the abeo-abietane tri-expoxide triptolide, has long been appreciated (Kutney et 
+al., 1980). The suspension cell cultures used here constitutively produce 53 ± 3 µg/g of 
+triptolide in the suspension cells and 4.0 ± 0.2 mg/L in the medium, which is slightly lower 
+than that of recently reported Tripterygium adventitious root cultures (90 ± 80 µg/g in the 
+adventitious roots and 4.7 ± 0.9 mg/L in the medium, Inabuy et al., 2017). Here the utility of 
+these cell cultures for investigation of triptolide biosynthesis was first demonstrated by not 
+only finding that miltiradiene can be detected therein, but also that feeding this olefin leads 
+to increased accumulation, as well as the presence of several other plausible biosynthetic 
+intermediates. Notably, it was further shown that triptolide biosynthesis can be induced by 
+MeJA in these cultures, which further increases their utility by providing a means for co-
+expression analysis.
+To begin elucidating triptolide biosynthesis, an RNA-Seq approach was taken to generate an 
+induced suspension cell culture transcriptome. The utility of this sequence data was 
+demonstrated by identification of the diterpene synthases involved in production of 
+miltiradiene and, hence, triptolide biosynthesis. These were found to consist of not only the 
+expected class II diterpene cyclases that produce CPP, termed here TwTPS7v2 and 
+TwTPS9v2, but also the unusual finding of a subsequently acting class I diterpene synthase, 
+TwTPS27v2, which is not from the TPS-e sub-family that typically provides such enzymes 
+in labdane-related diterpenoid biosynthesis (Zi et al., 2014), rather being derived from the 
+phylogenetically distinct TPS-b sub-family instead. While similar biochemical 
+characterization has been very recently reported for both presumably allelic copies of these 
+T. wilfordii diterpene synthases (Hansen et al., 2017), as well as the orthologs from T regelii 
+(Inabuy et al., 2017), the data reported here go beyond this to unambiguously demonstrate 
+the role of the characterized enzymes in triptolide biosynthesis. Most critically, in addition to 
+showing sub-cellular localization of these enzymes to the plastid, where such diterpene 
+biosynthesis occurs in planta, this includes genetic evidence, with RNAi knock-down of 
+these genes leading to reduced triptolide levels. Thus, it is now clear that TwTPS7v2, 
+TwTPS9v2 and TwTPS27v2 are involved in triptolide biosynthesis, and these then provide 
+targets for in planta metabolic engineering efforts aimed at increasing yields of this valuable 
+diterpenoid natural product. In addition, the unambiguous assignment of miltiradiene as the 
+olefin precursor now enables further investigation of subsequently acting enzymes, such as 
+cytochrome P450 mono-oxygenases, much as demonstrated in other (di)terpenoid 
+biosynthetic networks (Kitaoka et al., 2015), and enabled by the induced transcriptome 
+reported here.
+Su et al. Page 8
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+EXPERIMENTAL PROCEDURES
+Plant material, chemicals and reagents
+The T. wilfordii suspension cells were cultured in Murashige & Skoog basal medium 
+containing 0.5 mg/L 2,4-dichlorophenoxyacetic acid (2,4-D), 0.1 mg/L kinetin (KT), 0.5 
+mg/L indole-3-butytric acid (IBA), and 30 g/L sucrose (pH = 5.8) by incubation in the dark 
+at 25 °C on a rotary shaker (Su et al., 2014). After 10 days of cultivation, induced suspension 
+cells were treated with methyl jasmonate (MeJA) in carrier solution (dimethyl sulfoxide) at 
+the final concentration of 50 µM, while control cultures were only treated with same volume 
+of carrier solution. Nicotiana benthamiana were grown in a greenhouse with a 16 h-light/8 h-
+dark cycle. Triptolide, wilforgine and wilforine were purchased from Chengdu Push Bio-
+Technology Co., Ltd (Chengdu, China). Celastrol, demethylzeylasteral and triptonide were 
+purchased from Chengdu Must Bio-Technology Co., Ltd (Chengdu, China). Triptophenolide 
+and neotriptophenolide were purchased from Shanghai yuanye Bio-Technology Co., Ltd 
+(Shanghai, China). Dehydroabietic acid, triptinin B and triptoquinonide were purchased 
+from BioBioPha Co., Ltd (Yunnan, China). All other reagents were purchased from Merck.
+Metabolite analysis of suspension cell cultures and native plant
+Solid samples were harvested and homogenized using Retsch MM400 mixer mill (Retsch 
+GmbH, Haan, Germany), and placed in an ultralow-temperature refrigerator at 80 °C for at 
+least 4 h prior to freeze drying for 48 h (EYELA FDU-1110, Tokyo, Japan). For each 
+sample, aliquots of 50 mg were suspended in 1 mL of 80% (v/v) methanol overnight at room 
+temperature, and then subjected to sonication in an ultrasonic water bath for 60 min. The 
+supernatant was filtered through a 0.22-µm membrane filter (polytetrafluoroethylene) before 
+further analysis. A medium aliquot of suspension cell cultures (generally 7.5 mL) was 
+extracted twice with ethyl acetate (3 mL each time) by thorough mixing for 1 min at room 
+temperature. The organic fractions were pooled and dried using a Nitrogen Evaporator 
+(Baojingkeji, Henan, China). The residue was redissolved in 300 µL of 80% methanol and 
+passed through a 0.22-µm membrane filter prior to injection into the UPLC/Q-TOF MS 
+system for analysis.
+The UPLC separation was performed using a Waters Acquity UPLC™ I-Class system 
+(Waters Corp., Milford, MA, USA) with a Waters ACQUITY UPLC HSS T3 analytical 
+column (2.1 mm × 100 mm, 1.8 µm) kept at 40 °C. The mobile phase, consisting of a 
+mixture of 0.1% (v/v) acetic acid in water (A) and acetonitrile (B), was pumped at a flow 
+rate of 0.5 mL/min. The gradient elution was programed as follows: 0 min at 30% B, 6 min 
+at 45% B, 18 min at 60% B, 23 min at 90% B. The TOF MS experiments were performed 
+using a Xevo G2-S QTOF MS system (Waters Corp., Milford, MA, USA). The experiment 
+was performed in the ESI (+) ionization modes and the data acquisition modes were MSE 
+continuum. The source and desolvation temperature were 100 °C and 450 °C, respectively, 
+and the desolvation gas flow rate was 900 L/h. The capillary voltage were 0.5 KV and the 
+cone voltage was 40 V. The ramp collision energy was set as 20–40 eV for the high-energy 
+scans. The data acquisition range was 50–1500 Da. The mass accuracy was maintained 
+using a lock spray with leucine enkephalin (200 pg/µL, 10 µL/min) as the reference (m/z 
+Su et al. Page 9
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+556.2771 ESI (+)). Data analysis was performed using the UNIFI Scientific Information 
+System.
+Feeding studies
+Miltiradiene (13.6 mg) in 200 µL of methanol/DMSO (1/1, vol/vol) was fed to freshly sub-
+cultured suspension cells cultures (~1 g fresh weight suspension cells in 10 mL MS media in 
+50-mL flasks), and cells in control group were only treated with the same volume of carrier 
+solution. After treatment, the cells were harvested in liquid nitrogen at 0, 1, 3 and 5 d, and 
+the corresponding medium was stored at 4 °C. All the media (~ 10 mL) were extracted twice 
+with ethyl acetate (5 mL each time) and the organic fractions were pooled dried in the 2.0-
+mL eppendorf tube as described above. Solid samples were homogenized and freeze dried, ~ 
+80 mg added to the 2.0-mL eppendorf tube, which were then extracted with 1.5 mL of 80% 
+(v/v) as described above. The supernatant was filtered through a 0.22-µm membrane filter 
+(polytetrafluoroethylene) for UPLC analysis. Additional details are provided in the 
+supplemental METHODS.
+RNA-Seq
+Total RNA of the MeJA-induction 12–24–48 h suspension cells was isolated using the 
+cetyltrimethylammonium bromide (CTAB) method (Del Sal et al., 1989). The total RNA 
+was treated with RNase-free DNase I (NEB, USA) and purified by RNA Purification Kit 
+(Tiangen Biotech, Beijing, China). A total of 3 µg purified RNA was used as input material 
+for the RNA sample preparations. Sequencing libraries were generated using NEBNext® 
+Ultra™ RNA Library Prep Kit for Illumina® (NEB, USA) following the manufacturer’s 
+recommendations and index codes were added to attribute sequences to each sample. 
+Briefly, mRNA was purified from total RNA using poly-T oligo-attached magnetic beads. 
+Fragmentation was carried out using divalent cations under elevated temperature in 
+NEBNext First Strand Synthesis Reaction Buffer (5×). First strand cDNA was synthesized 
+using random hexamer primer and M-MuLV Reverse Transcriptase (RNase H−). Second 
+strand cDNA synthesis was subsequently performed using DNA Polymerase I and RNase H. 
+Remaining overhangs were converted into blunt ends via exonuclease/polymerase activities. 
+After adenylation of 3’ ends of DNA fragments, NEBNext Adaptor with hairpin loop 
+structure were ligated to prepare for hybridization. In order to preferentially select cDNA 
+fragments of 150~200 bp length, the library fragments were purified with AMPure XP 
+system (Beckman Coulter, Beverly, USA). Then 3 µl USER Enzyme (NEB, USA) was used 
+with size-selected, adaptor-ligated cDNA at 37°C for 15 min followed by 5 min at 95 °C 
+before PCR. Then PCR was performed with Phusion High-Fidelity DNA polymerase, 
+Universal PCR primers and Index (X) Primer. Finally, PCR products were purified (AMPure 
+XP system), and library quality assessed on the Agilent Bioanalyzer 2100 system.
+The clustering of the index-coded samples was performed on a cBot Cluster Generation 
+System using TruSeq PE Cluster Kit v3-cBot-HS (Illumina) according to the manufacturer’s 
+instructions. After cluster generation, the library preparations were sequenced on an Illumina 
+Hiseq 2000 platform and paired-end reads were generated. Over 95% of these reads 
+(63,401,185) were judged to be clean, and used for further analysis. The left files (read1 
+files) from all libraries/samples were pooled into one big left.fq file, and right files (read2 
+Su et al. Page 10
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+files) into one big right.fq file. Transcriptome assembly was accomplished based on the 
+left.fq and right.fq using Trinity (Grabherr et al., 2011) with min_kmer_cov set to 2 by 
+default and all other parameters also set to their default values. Gene function was annotated 
+based on the following databases: Nr (NCBI non-redundant protein sequences), Nt (NCBI 
+non-redundant nucleotide sequences), Pfam (Protein family), KOG/COG (Clusters of 
+Orthologous Groups of proteins), Swiss-Prot (A manually annotated and reviewed protein 
+sequence database), KO (KEGG Ortholog database), GO (Gene Ontology).
+RACE and gene cloning
+Purified RNA was used to synthesize the 3'- or 5'-RACE-ready cDNA with the SMARTer™ 
+RACE cDNA Amplification Kit (Clontech Laboratories, Cal., USA). To acquire the full-
+length cDNA sequences, it was necessary to perform 3' and 5' RACE reactions, which were 
+done following the user's manual and using gene specific primers based on the 
+corresponding sequences from the T. wilfordii transcriptome sequencing dataset (Table S7). 
+The full-length ORFs were cloned by PCR amplification using PrimeSTAR GXL DNA 
+Polymerase (Takara Biotechnology, Dalian, China), according to the manufacturer's 
+instructions, then ligated into the pMD19-T vector (Takara Biotechnology, Dalian, China) 
+and verified by complete sequencing.
+Sequence analysis
+The sequences of the cDNA for TwTPS7v2, TwCPS2, TwTPS3v2, TwTPS9v2, TwTPS27v2, 
+TwKSL1, and TwTPS16v2 were analyzed at NCBI (http://www.ncbi.nlm.nih.gov/). The 
+open reading frames (ORFs) and deduced amino acid sequences were determined using the 
+online tool ORF Finder (http://www.ncbi.nlm.nih.gov/gorf/gorf.html) and the ExPASy 
+online tool (http://web.expasy.org/translate/), respectively.
+Although none of the T. wilfordii diterpene synthases identified here were exactly identical 
+to those recently reported by others (Anderson-Ranberg et al., 2016; Hansen et al., 2017a), 
+most were similar enough to be allelic and were named accordingly. In particular, given the 
+96.8%, 98.9%, 99.3%, 98.5%, and 98.0% identities (at the amino acid sequence level) to the 
+previously characterized ent-CPP synthase TwTPS3, CPP synthases TwTPS7 and TwTPS9, 
+16α-hydroxy-ent-kaurane synthase TwTPS16, and miltiradiene synthase TwTPS27, the 
+corresponding enzymes were named TwTPS3v2, TwTPS7v2, TwTPS9v2, TwTPS16v2, and 
+TwTPS27v2, respectively. By contrast, TwKSL1 shares less than 95% identity with any of 
+the previously characterized diterpene synthases.
+For phylogenetic analysis, amino acid sequences for a variety of diterpene synthases were 
+obtained from the NCBI database (Table S8), and a tree constructed with the MEGA6 
+software package (Tamura et al., 2013) using the neighbor-joining method. One thousand 
+bootstrap replicates were performed in each analysis to define the level of confidence 
+support.
+Sub-cellular localization
+All constructs for N. benthamiana transformation were prepared using the E3025 vector (Jin 
+2008), which contains a gene for the green fluorescent protein (GFP) driven by the 35S 
+Su et al. Page 11
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+promoter, and the specific primers were listed in Table S7. The recombinant plasmids 
+containing the ORFs of the targeted diterpene synthase(s) were first transformed into 
+Agrobacterium tumefaciens EHA105, then injected to the N. benthamiana leaves, with 
+subsequent observation via confocal laser scanning microscopy. Detailed information on 
+subcellular localization analysis is given in the supplemental METHODS.
+MeJA induction and UPLC analysis
+After 10 days of cultivation, the suspension cells were treated with MeJA in carrier solution 
+(dimethyl sulfoxide) at a final concentration of 50 µM, while cells in the control group were 
+only treated with same volume of carrier solution. Post-induction cells were harvested in 
+liquid nitrogen after 0, 1, 4, 12, 24, 48, 72, 120 and 240 h. Three samples were prepared for 
+each time point in each group for UPLC analysis. Additional details are provided in the 
+supplemental METHODS.
+qRT-PCR analysis
+The suspension cells harvested for UPLC analysis were also used for real-time gene 
+expression analysis, following the procedure previously described (Su et al., 2017). 
+Expression levels were evaluated using the 2−ΔΔCt method (Livak and Schmittgen, 2001) 
+based on β-actin as the reference gene, with triplicate measurements from three biological 
+replicates.
+Recombinant expression
+The relevant ORFs were amplified by PCR using PrimeSTAR GXL DNA Polymerase and 
+gene specific primers (Table S7), then ligated into pMD19-T followed by complete 
+sequencing and sub-cloning into the N-terminal MBP fusion expression vector pMAL-c2X 
+(NEB, USA). The ORF for AtKS was amplified from an Arabidopsis thaliana cDNA library, 
+and sub-cloned into the pMAL-c2X vector. S. miltiorrhiza SmCPS1 and SmMS ORFs were 
+sub-cloned into the pET32a(+) vector.
+The recombinant plasmids were transformed into E. coli TransB (DE3) for heterologous 
+expression, using the empty pMAL-c2X vector as a negative control. Cultures (200 mL) 
+were grown in Luria-Bertani (LB) medium (10 g/L Tryptone, 5 g/L yeast extract, 10 g/L 
+NaCl) containing 100 mg/L ampicillin until the optical density of the culture at 600 nm 
+reached 0.6 to 0.8, then induced with 0.4 mM isopropyl 1-thio-β-D-galactopyranoside 
+(Sigma, USA) and grown at 16 °C for 8 h at 200 rpm. The cell pellets were harvested by 
+centrifugation (3,000 g, 20 min, 4 °C) and resuspended in 5 mL of assay buffer (50 mM 
+HEPES, pH 7.2, 7.5 mM MgCl2, 100 mM KCl, 5 mM DTT, and 5% (v/v) glycerol) and 
+lysed by a sonicator on ice. The lysates were centrifuged (12,000 g, 30 min, 4 °C) to produce 
+soluble extracts, which were then concentrated using Amicon Ultra-15 centrifugal filter unit 
+with Ultracel-30 membrane (Merck Millipore, Germany), according to the manufacturer's 
+instructions.
+In vitro cell-free assays
+To determine the catalytic activity of the recombinant proteins, 200 µM GGPP (Sigma-
+Aldrich) was added to 0.2 mL of recombinant cell-free extracts, incubated for 2 h at 25 °C in 
+Su et al. Page 12
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+the dark, and then extracted with hexane (3 × 0.5 mL). Residual organic solvent was 
+removed under a stream of N2 before adding 10 units of calf intestinal phosphatase (CIP; 
+NEB, USA), and then incubating for 4 h at 37 °C to allow enzymatic dephosphorylation. A 
+standard for CPP was produced by incubation of SmCPS1 with GGPP for 2 h at 25 °C, with 
+dephosphorylation by CIP as above. The dephosphorylated compounds were extracted with 
+hexane (3 × 0.5 mL), with the organic extracts then completely dried under N2 and the 
+residue dissolved in 60 µL of hexanes for GC-MS analysis (Zhang et al., 2015).
+Coupled assays were performed to determine the stereochemistry of CPP much as 
+previously described (Keeling et al., 2010). Briefly, assays containing each class II TwTPS 
+and GGPP were pre-incubated for 2 h at 25 °C, at which point equivalent volumes of cell-
+free extracts from individually expressed diterpene synthases (AtKS, SmMS, TwTPS27v2, 
+TwKSL1 or TwTPS16v2) were added, along with MgCl2 to a final concentration of 10 mM. 
+These reactions were then incubated overnight at room temperature before extraction with 
+hexane (3 × 0.5 mL), and subsequent GC-MS analysis. Production of 16α-hydroxy-ent-
+kaurane was confirmed by comparison to an authentic sample isolated from gametophores of 
+the moss P. patens (Hayashi et al., 2006).
+Yeast expression
+To confirm the results of the in vitro cell-free assays, the ORFs of single functional class II 
+diterpene cyclases, as well as the functional enzymatic pairings, were PCR-amplified using 
+gene-specific primers (Table S7), then sub-cloned into the yeast epitope-tagging vector 
+pESC-Trp (Agilent Technologies, USA) via digestion by the corresponding restriction 
+endonucleases. The resulting plasmids were transformed into the yeast BY-T20 strain 
+(BY4742, ΔTrp1, Trp1::HIS3-PPGK1-BTS1/ERG20-TADH1-PTDH3-SaGGPS-TTPI1-PTEF1-
+tHMG1-TCYC1), which produces the GGPP substrate (Dai et al., 2013, 2014; Shi et al., 
+2014), and then enzymatic activity analyzed much as previously described (Su et al., 2016). 
+Briefly, organic extracts were dried and the residues dissolved in 60 µL of hexanes for GC-
+MS analysis as described above.
+Analysis of TwKSL1 in E. coli
+To identify the products of TwKSL1, this was transferred to pET44a, using the BamHI and 
+XhoI restriction sites. This was used for expression in E. coli strain C41 OverExpress 
+(Lucigen) also engineered to produce ent-CPP, using a previously described modular 
+metabolic engineering system (Cyr et al., 2007). The resulting recombinant strain was grown 
+in 50 mL of TB media, shaken at 200 rpm, first at 37 °C to OD600 ~ 0.8, then shifted to 
+16 °C for 1 h before induction with 1 mM IPTG, following which the culture was further 
+shaken at 16 °C for 3 d. The resulting TwKSL1 products were directly extracted with an 
+equal volume of hexanes, which was then separated, dried under a gentle stream of N2, and 
+the residue resuspended in 500 µL hexanes, with 1 µL then subjected to GC-MS analysis. 
+Compounds were identified by comparison of retention time and mass spectra to previously 
+characterized enzymatic products (Jia and Peters, 2016).
+Su et al. Page 13
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Yeast two-hybrid assays
+To test the interactions of TwTPS27v2 and TwTPS7v2, as well as TwTPS27v2 and 
+TwTPS9v2. TwTPS27v2 was fused with the BD domain in the pGBKT7 vector, and 
+TwTPS7v2 and TwTPS9v2 were individually fused with the AD domain in the pGADT7 
+vector. Primers used for the constructs are listed in Table S7. Yeast two-hybrid assays to 
+assess protein interactions were performed using the yeast strain Saccharomyces cerevisiae 
+AH109, as previously described (Zhai et al., 2015).
+Engineering yeast for miltiradiene production
+To examine the catalytic efficiency of TwTPS7v2 versus TwTPS9v2, these were both sub-
+cloned into the vector pESC-Trp, and the resulting vector used for their co-expression in the 
+yeast BY-T20 strain. The induced yeast cells (20 mL, cultivated for 48 h in SD-Trp-His 
+liquid induction medium supplemented with 20 g/L D-galactose) were extracted and 
+analyzed by GC-MS as described above.
+To examine the ability of fusion to improve yield of miltiradiene, TwTPS7v2 was fused with 
+TwTPS27v2. We constructed two modules producing the fused protein TwTPS27v2-
+TwTPS7v2 and TwTPS7v2-TwTPS27v2 by inserting a widely used GGGS linker encoded 
+by a “GGT GGT GGT TCT” sequence, according to the protocol of pEASY®-Uni Seamless 
+Cloning and Assembly Kit (TransGen Biotech, Beijing, China). The recombinant plasmids 
+pESC-Trp::TwTPS7v2/TwTPS27v2, pESC-Trp::TwTPS7v2-TwTPS27v2 and pESC-
+Trp::TwTPS27v2-TwTPS7v2 were transformed into BY-T20, induced with D-galactose. The 
+products were then analyzed by GC-MS as described above. Linear calibration was 
+performed to calculate the yield of miltiradiene (R2 = 0.9997).
+Site-directed mutagenesis of TwCPS2 and TwTPS16v2
+Site-directed mutagenesis of the DXDD motif of TwCPS2 (DTDC311TAM to 
+DTDD311TAM), and the active site of TwTPS16v2 (DLLKSA608LRE to DLLKSM608LRE) 
+were performed with the relevant pMAL-c2X construct using mutagenic primers (Table S7) 
+and the Fast Mutagenesis System (TransGen Biotech), according to the manufacturer's 
+instructions. Expression and functional characterization of these mutants was carried out as 
+described above.
+RNAi
+Vector pK7GWIWG2D (Invitrogen, USA) was used for RNAi targeting TwTPS7v2 and 
+TwTPS9v2, or TwTPS27v2, in suspension cells. Briefly, fragments of TwTPS7v2/
+TwTPS9v2 or TwTPS27v2 were ligated to vector pK7GWIWG2D using the Gateway 
+cloning system (Invitrogen) and the resulting vectors transformed into suspension cells.
+Suspension cells in the logarithmic growth phase were plated on MS solid medium 
+supplemented with 0.5 mg/L 2,4-D, 0.1 mg/L KT, and 0.5 mg/L IBA, and 30 g/L sucrose 
+(pH = 5.8), and grown for 7 days before bombardment. Then the recombinant plasmids were 
+transformated into the cells using a biolistic gene gun (PDS 100/He, Bio-Rad). Each 
+transformation was performed twice. The resulting recombinant cells were cultured for 7 
+days before UPLC analysis.
+Su et al. Page 14
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+Acknowledgments
+We thank Prof. Xueli Zhang for providing the yeast strain BY-T20 (Tianjin Institute of Industrial Biotechnology, 
+Chinese Academy of Sciences, China), Prof. Meng Wang for the N. benthamiana seeds and assistance with 
+subcellular localization (Institute of Genetics and Developmental Biology Chinese Academy of Sciences), and Dr. 
+Kawaide for the gift of authentic 16α-hydroxy-ent-kaurane isolated from gametophores of the moss P. patens 
+(Tokyo University of Agriculture and Technology, Japan). This work was supported by the National Natural 
+Science Foundation of China (81422053 and 81373906 to W.G, and 81325023 to L.H.), Key project at central 
+government level: The ability establishment of sustainable use for valuable Chinese medicine resources (2060302) 
+to L.H., National High Technology Research and Development Program of China (863 Program: 2015AA0200908) 
+and Support Project of High-level Teachers in Beijing Municipal Universities in the Period of 13th Five-year Plan 
+(CIT&TCD20170324) to W.G., as well as a grant from the US National Institutes of Health (GM109773) to R.J.P.
+References
+Andersen-Ranberg J, Kongstad KT, Nielsen MT, et al. Expanding the landscape of diterpene structural 
+diversity through stereochemically controlled combinatorial biosynthesis. Angew. Chem. Int. Ed. 
+Engl. 2016; 55:2142–2146. [PubMed: 26749264] 
+Chen F, Tholl D, Bohlmann J, Pichersky E. The family of terpene synthases in plants: a mid-sized 
+family of genes for specialized metabolism that is highly diversified throughout the kingdom. Plant 
+J. 2011; 66:212–229. [PubMed: 21443633] 
+Chen YW, Lin GJ, Chia WT, Lin CK, Chuang YP, Sytwu HK. Triptolide exerts anti-tumor effect on 
+oral cancer and KB cells in vitro and in vivo. Oral. Oncol. 2009; 45:562–568. [PubMed: 19359213] 
+Chugh R, Sangwan V, Patil SP, et al. A preclinical evaluation of Minnelide as a therapeutic agent 
+against pancreatic cancer. Sci. Transl. Med. 2012; 4:156ra139.
+Cyr A, Wilderman PR, Determan M, Peters RJ. A modular approach for facile biosynthesis of labdane-
+related diterpenes. J. Am. Chem. Soc. 2007; 129:6684–6685. [PubMed: 17480080] 
+Dai ZB, Liu Y, Zhang X, Shi MY, Wang B, Wang D, Huang LQ, Zhang XL. Metabolic engineering of 
+Saccharomyces cerevisiae for production of ginsenosides. Metab. Eng. 2013; 20:146–156. 
+[PubMed: 24126082] 
+Dai ZB, Wang B, Liu Y, Shi MY, Wang D, Zhang X, Liu T, Huang LQ, Zhang XL. Producing aglycons 
+of ginsenosides in bakers' yeast. Sci. Rep. 2014; 4:3698–3698. [PubMed: 24424342] 
+Del Sal G, Manfioletti G, Schneider C. The CTAB-DNA precipitation method: A common mini-scale 
+preparation of template DNA from phagemids, phages or plasmids suitable for sequencing. 
+Biotechniques. 1989; 7:514–520. [PubMed: 2699240] 
+Forman V, Callari R, Folly C, Heider H, Hamberger B. Production of Putative Diterpene Carboxylic 
+Acid Intermediates of Triptolide in Yeast. Molecules. 2017; 22:981.
+Gao JP, Sun S, Li WW, Chen YP, Cai DF. Triptolide protects against 1-methyl-4-phenyl pyridinium-
+induced dopaminergic neurotoxicity in rats: implication for immunosuppressive therapy in 
+Parkinson’s disease. Neurosci. Bull. 2008; 24:133–142. [PubMed: 18500385] 
+Gao W, Hillwig ML, Huang LQ, Cui GH, Wang XY, Kong JQ, Yang B, Peters RJ. A functional 
+genomics approach to tanshinone biosynthesis provides stereochemical insights. Org. Lett. 2009; 
+11:5170–5173. [PubMed: 19905026] 
+Gao Y, Honzatko RB, Peters RJ. Terpenoid synthase structures, a so far incomplete view of complex 
+catalysis. Nat. Prod. Rep. 2012; 29:1153–1175. [PubMed: 22907771] 
+Gong Y, Xue B, Jiao J, Jing L, Wang X. Triptolide inhibits COX-2 expression and PGE2 release by 
+suppressing the activity of NF-kappaB and JNK in LPS-treated microglia. J. Neurochem. 2008; 
+107:779–788. [PubMed: 18761708] 
+Grabherr MG, Haas BJ, Yassour M, et al. Full-length transcriptome assembly from RNA-Seq data 
+without a reference genome. Nat. Biotechnol. 2011; 29:644–652. [PubMed: 21572440] 
+Su et al. Page 15
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Hansen NL, Heskes AM, Hamberger B, Olsen CE, Hallström BM, Andersen-Ranberg J, Hamberger B. 
+The terpene synthase gene family in Tripterygium wilfordii harbors a labdane-type diterpene 
+synthase among the monoterpene synthase TPS-b subfamily. Plant J. 2017a; 89:429–441. 
+[PubMed: 27801964] 
+Hansen NL, Nissen JN, Hamberger B. Two residues determine the product profile of the class II 
+diterpene synthases TPS14 and TPS21 of Tripterygium wilfordii. Phytochemistry. 2017b; 138:52–
+56. [PubMed: 28279524] 
+Hayashi K, Kawaide H, Notomi M, Sakigi Y, Matsuo A, Nozaki H. Identification and functional 
+analysis of bifunctional ent-kaurene synthase from the moss Physcomitrella patens. FEBS Lett. 
+2006; 26:6175–6181.
+Inabuy F, Fischedick JT, Lange I, Hartmann M, Srividya N, Parrish AN, Xu M, Peters RJ, Lange BM. 
+Biosynthesis of diterpenoids in Tripterygium adventitious root cultures. Plant Physiol. 2017; 
+175:92–103. [PubMed: 28751314] 
+Irmisch S, Müller AT, Schmidt A, Günther J, Gershenzon J, Köllner T. One amino acid makes the 
+difference: the formation of ent-kaurene and 16α-hydroxy-ent-kaurane by diterpene synthases in 
+poplar. BMC Plant Biol. 2015; 15:262. [PubMed: 26511849] 
+Jia M, Peters RJ. Extending a single residue switch for abbreviating catalysis in plant ent-kaurene 
+synthases. Front. Plant Sci. 2016; 7:1765. [PubMed: 27920791] 
+Jin, JC. Cloning and preliminary functional study of the NAD+-dependent sorbitol dehydrogenase 
+(NAD-SDH) in Tobacco. master thesis. Henan Agricultural University; Henan, China: 2008. 
+Kawaide H, Hayashi K, Kawanabe R, Sakigi Y, Matsuo A, Natsume M, Nozaki H. Identification of the 
+single amino acid involved in quenching the ent-kauranyl cation by a water molecule in ent-
+kaurene synthase of Physcomitrella patens. FEBS J. 2011; 278:123–133. [PubMed: 21122070] 
+Kitaoka N, Lu X, Yang B, Peters RJ. The application of synthetic biology to elucidation of plant 
+mono-, sesqui-, and diterpenoid metabolism. Mol. Plant. 2015; 8:6–16. [PubMed: 25578268] 
+Keeling CI, Dullat HK, Yuen M, Ralph SG, Jancsik S, Bohlmann J. Identification and functional 
+characterization of monofunctional ent-copalyl diphosphate and ent-kaurene synthases in white 
+spruce reveal different patterns for diterpene synthase evolution for primary and secondary 
+metabolism in gymnosperms. Plant Physiol. 2010; 152:1197–1208. [PubMed: 20044448] 
+Kupchan SM, Court WA, Dailey RG Jr, Gilmore CJ, Bryan RF. Triptolide and tripdiolide, novel 
+antileukemic diterpenoid triepoxides from Tripterygium wilfordii. J. Am. Chem. Soc. 1972; 
+94:7194–7195. [PubMed: 5072337] 
+Kutney JP, Beale MH, Salisbury PJ, et al. Triptolide from tissue culture of Tripterygium wilfordii. 
+Heterocycles. 1980; 14:1465–1467.
+Kutney JP, Han K. Studies with plant-cell cultures of the Chinese herbal plant, Tripterygium wilfordii. 
+Isolation and characterization of diterpenes. Recl. Trav. Chim. Pays-Bas. 1996; 115:77–93.
+Leuenroth SJ, Bencivenga N, Chahboune H, Hyder F, Crews CM. Triptolide reduces cyst formation in 
+a neonatal to adult transition Pkd1 model of ADPKD. Nephrol. Dial. Transplant. 2010; 25:2187–
+2194. [PubMed: 20139063] 
+Li FQ, Cheng XX, Liang XB, Wang XH, Xue B, He QH, Wang XM, Han JS. Neurotrophic and 
+neuroprotective effects of tripchlorolide, an extract of Chinese herb Tripterygium wilfordii Hook F, 
+on dopaminergic neurons. Exp. Neurol. 2003; 179:28–37. [PubMed: 12504865] 
+Li FQ, Lu XZ, Liang XB, Zhou HF, Xue B, Liu XY, Niu DB, Han JS, Wang XM. Triptolide, a Chinese 
+herbal extract, protects dopaminergic neurons from inflammation-mediated damage through 
+inhibition of microglial activation. J. Neuroimmunol. 2004; 148:24–31. [PubMed: 14975583] 
+Livak KJ, Schmittgen TD. Analysis of relative gene expression data using real-time quantitative PCR 
+and the 2−ΔΔCt method. Methods. 2001; 25:402–408. [PubMed: 11846609] 
+Manzo SG, Zhou ZL, Wang YQ, Marinello J, He JX, Li YC, Ding J, Capranico G, Miao ZH. Natural 
+product triptolide mediates cancer cell death by triggering CDK7-dependent degradation of RNA 
+polymerase II. Cancer Res. 2012; 72:5363–5373. [PubMed: 22926559] 
+Morrone D, Chambers J, Lowry L, Kim G, Anterola A, Bender K, Peters RJ. Gibberellin biosynthesis 
+in bacteria: separate ent-copalyl diphosphate and ent-kaurene synthases in Bradyrhizobium 
+japonicum. FEBS Lett. 2009; 583:475–480. [PubMed: 19121310] 
+Su et al. Page 16
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Nie J, Zhou M, Lü C, Hu X, Wan B, Yang B, Li Y. Effects of triptolide on the synaptophysin 
+expression of hippocampal neurons in the AD cellular model. Int. Immunopharmacol. 2012; 
+13:175–180. [PubMed: 22498763] 
+Peters RJ. Two rings in them all: the labdane-related diterpenoids. Nat. Prod. Rep. 2010; 27:1521–
+1530. [PubMed: 20890488] 
+Shi MY, Liu Y, Wang D, Lu FP, Huang LQ, Dai ZB, Zhang XL. Construction of Saccharomyces 
+cerevisiae cell factories for lycopene production. Zhongguo Zhong Yao Za Zhi. 2014; 39:3978–
+3985. [PubMed: 25751950] 
+Su P, Cheng QQ, Wang XJ, Cheng XQ, Zhang M, Tong YR, Li F, Gao W, Huang LQ. Characterization 
+of eight terpenoids from tissue cultures of the Chinese herbal plant, Tripterygium wilfordii, by 
+high-performance liquid chromatography coupled with electrospray ionization tandem mass 
+spectrometry. Biomed. Chromatogr. 2014; 28:1183–1192. [PubMed: 25237706] 
+Su P, Tong YR, Cheng QQ, Hu YT, Zhang M, Yang J, Teng ZQ, Gao W, Huang LQ. Functional 
+characterization of ent-copalyl diphosphate synthase, kaurene synthase and kaurene oxidase in the 
+Salvia miltiorrhiza gibberellin biosynthetic pathway. Sci. Rep. 2016; 6:23057. [PubMed: 
+26971881] 
+Su P, Hu TY, Liu YJ, Tong YR, Guan HY, Zhang YF, Zhou JW, Huang LQ, Gao W. Functional 
+characterization of NES and GES responsible for the biosynthesis of (E)-nerolidol and (E,E)-
+geranyllinalool in Tripterygium wilfordii. Sci. Rep. 2017; 7:40851. [PubMed: 28128232] 
+Tamura K, Stecher G, Peterson D, Filipski A, Kumar S. MEGA6: molecular evolutionary genetics 
+analysis version 6.0. Mol. Biol. Evol. 2013; 30:2725–2729. [PubMed: 24132122] 
+Tao X, Lipsky PE. The Chinese anti-inflammatory and immunosuppressive herbal remedy 
+Tripterygium wilfordii Hook F. Rheum. Dis. Clin. North Am. 2000; 26:29–50. [PubMed: 
+10680192] 
+Titov DV, Gilman B, He QL, Bhat S, Low WK, Dang Y, Smeaton M, Demain AL, Miller PS, Kugel JF. 
+XPB, a subunit of TFIIH, is a target of the natural product triptolide. Nat. Chem. Biol. 2011; 7:82–
+188.
+Tu SH. Difficulties and countermeasures in treatment of rheumatoid arthritis with Tripterygium. Chin 
+J. Integr. Tradit. West Med. 2009; 29:104–105.
+Yamaguchi S, Sun TP, Kawaide H, Kamiya Y. The GA2 locus of Arabidopsis thaliana encodes ent-
+kaurene synthase of gibberellin biosynthesis. Plant Physiol. 1998; 116:1271–1278. [PubMed: 
+9536043] 
+Zerbe P, Chiang A, Bohlmann J. Mutational analysis of white spruce (Picea glauca) ent-kaurene 
+synthase (PgKS) reveals common and distinct mechanisms of conifer diterpene synthases of 
+general and specialized metabolism. Phytochemistry. 2012; 74:30–39. [PubMed: 22177479] 
+Zhai QZ, Zhang X, Wu FM, Feng HL, Deng L, Xu L, Zhang M, Wang QM, Li CY. Transcriptional 
+mechanism of jasmonate receptor COI1-mediated delay of flowering time in Arabidopsis. Plant 
+Cell. 2015; 27:2814–2828. [PubMed: 26410299] 
+Zhang M, Su P, Zhou YJ, Wang XJ, Zhao YJ, Liu YJ, Tong YR, Hu TY, Huang LQ, Gao W. 
+Identification of geranylgeranyl diphosphate synthase genes from Tripterygium wilfordii. Plant 
+Cell Rep. 2015; 34:2179–2188. [PubMed: 26449416] 
+Zheng Y, Zhang WJ, Wang XM. Triptolide with potential medicinal value for diseases of the central 
+nervous system. CNS Neurosci. Ther. 2013; 19:76–82. [PubMed: 23253124] 
+Zhou YJ, Gao W, Rong QX, et al. Modular pathway engineering of diterpenoid synthases and the 
+mevalonic acid pathway for miltiradiene production. J. Am. Chem. Soc. 2012; 134:3234–3241. 
+[PubMed: 22280121] 
+Zi J, Peters RJ. Characterization of CYP76AH4 clarifies phenolic diterpenoid biosynthesis in the 
+Lamiaceae. Org. Biomol. Chem. 2013; 11:7650–7652. [PubMed: 24108414] 
+Zi J, Mafu S, Peters RJ. To gibberellins and beyond! Surveying the evolution of (di)terpenoid 
+metabolism. Annu. Rev. Plant Biol. 2014; 65:259–286. [PubMed: 24471837] 
+Su et al. Page 17
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 1. 
+Diterpenoid biosynthetic network in T. wilfordii as elucidated by the work described here 
+and others (Forman et al., 2017; Inabuy et al., 2017).
+Su et al. Page 18
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 2. 
+Comparison of extracts from T. wilfordii suspension cells and whole plant organs. (A) BPI 
+chromatograms of extracts from suspension culture cells and medium, and plant root, stem, 
+leaf, and flower tissues by UPLC/Q-TOF MS. The identities of the metabolite peaks 1 to 28 
+are listed in Table 1. (B) Relative content of the identified metabolites from suspension cells, 
+culture medium, root, stem, leaf, or flower. (C) Concentrations of triptolide in suspension 
+cells, culture medium, root, stem, leaf, or flower.
+Su et al. Page 19
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 3. 
+Triptolide content in suspension cells fed with miltiradiene as measured by UPLC. The data 
+represent the averages ± standard deviations from analysis of at least four independent lines 
+of suspension cell cultures (lettering indicates statistically significant difference from all-by-
+all comparison using the Student’s t-test).
+Su et al. Page 20
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 4. 
+Accumulation of triptolide in suspension cells induced by MeJA. The data represent the 
+averages ± standard deviations of at least three independent suspension cell cultures.
+Su et al. Page 21
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 5. 
+Phylogenetic tree of T. wilfordii diterpene synthases (i.e., those from the TPS-c and TPS-e 
+sub-families) with representative examples from other species. Abbreviations and NCBI 
+accession numbers are provided in Table S8.
+Su et al. Page 22
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 6. 
+GC-MS analysis of the products from the reactions catalyzed by T. wilfordii (di)terpene 
+synthases in vitro. (A) GC-MS analysis of the dephosphorylated reaction products of 
+recombinant TwCPSs with GGPP as substrate, compared with CPP produced by SmCPS1, 
+which is detected here as the dephosphorylated copalol. (B) GC-MS analysis of TwTPS7v2, 
+TwTPS3v2 or TwTPS9v2 coupled with either SmMS or AtKS, compared with the 
+miltiradiene or ent-kaurene produced by the complementary enzymatic pairs SmCPS1 and 
+SmMS or AtCPS and AtKS, respectively. (C) GC-MS analysis of the TwKSL1 reaction 
+products with ent-CPP. (D) GC-MS analysis of the reaction products from TwTPS27v2 and 
+TwTPS7v2 with GGPP. Peaks are lettered as follows: a, (ent-)copalol (from 
+dephosphorylated (ent-)CPP); b, miltiradiene; c, ent-kaurene; d, ent-pimara-8(14),15-diene; 
+e, 8α-hydroxy-ent-pimar-15-ene.
+Su et al. Page 23
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 7. 
+Subcellular localization of T. wilfordii diterpene synthases with GFP fusion protein in N. 
+benthamiana leaves. Images were taken with a confocal laser scanning microscope. Green, 
+GFP fluorescence image; Red, chlorophyll autofluorescence image; Transmission, bright-
+field image; Merged, merger of these images. Bars, 7.5 µm (TwTPS7v2-GFP), 50 µm 
+(TwCPS2-GFP), 10 µm (TwTPS3v2-GFP), 7.5 µm (TwTPS9v2-GFP), 10 µm (TwTPS27v2-
+GFP), 75 µm (TwKSL1-GFP), 75 µm (TwTPS16v2-GFP).
+Su et al. Page 24
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 8. 
+Relative expression of T. wilfordii diterpene synthases in suspension cells treated with 
+MeJA. MeJA, suspension cells treated with 50 µM MeJA; Control, suspension cells treated 
+with carrier solution (dimethyl sulfoxide). The X axis represents the hours after treatment (0, 
+1, 4, 12, 24, 48, 72, 120, 240 h).
+Su et al. Page 25
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Figure 9. 
+Relative expression of TwTPS7v2, TwTPS9v2, TwTPS27v2, and closely related TPSs, as 
+well as triptolide concentration in RNAi suspension cells. (A1) Relative expression of 
+TwTPS7v2, TwTPS9v2, TwTPS27v2, as well as the related TPS-c sub-family members 
+TwCPS2 and TwTPS3v2 in TwTPS7v2&TwTPS9v2-RNAi suspension cells. (A2) Relative 
+expression of TwTPS7v2, TwTPS9v2, and TwTPS27v2, as well as related TPS-b sub-family 
+members TwTPS22v2, TwTPS23v2, TwTPS32 and TwTPS33, in TwTPS27v2-RNAi 
+suspension cells. (B) Presence of recombinant RNAi plasmids, as detected by PCR. (C) 
+Triptolide concentration in RNAi suspension cells. The data represent the averages ± 
+standard deviations of at least four independent lines of suspension cells (* P < 0.05, ** P < 
+0.01).
+Su et al. Page 26
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Su et al. Page 27
+Ta
+bl
+e 
+1
+M
+et
+ab
+ol
+ite
+s d
+et
+ec
+te
+d 
+by
+ U
+PL
+C-
+QT
+O
+F-
+M
+S 
+in
+ in
+ a
+ll 
+tis
+su
+es
+ (r
+oo
+t, s
+tem
+, le
+af,
+ an
+d f
+low
+er
+) o
+f T
+.
+ 
+w
+ilf
+or
+di
+i, 
+an
+d 
+su
+sp
+en
+sio
+n 
+ce
+lls
+ a
+s w
+el
+l a
+s t
+he
+ m
+ed
+iu
+m
+s.
+M
+et
+ab
+ol
+ite
+N
+um
+be
+r i
+n 
+Fi
+g.
+ 
+1
+R
+T
+[m
+in
+]
+Fo
+rm
+u
+la
+[M
++H
+]+
+C
+al
+cu
+la
+te
+d 
+O
+bs
+er
+v
+ed
+Er
+ro
+r
+[Δ
+pp
+m
+]
+M
+S/
+M
+S 
+sig
+na
+l p
+at
+te
+rn
+s
+(%
+ re
+la
+tiv
+e 
+a
+bu
+n
+da
+nc
+e)
+Au
+th
+. s
+tr
+d.
+co
+n
+fir
+m
+ed
+Te
+n
+ta
+tiv
+e
+ID
+C
+el
+af
+ur
+in
+e (
+1)
+0.
+53
+C 2
+1H
+27
+O
+3N
+3
+37
+0.
+21
+31
+37
+0.
+21
+40
+2.
+4
+37
+0(7
+.2)
+, 3
+17
+(18
+.1)
+, 3
+05
+(37
+.1)
+, 2
+87
+(54
+.1)
+, 2
+63
+(25
+.6)
+, 1
+79
+(26
+.1)
+, 
+13
+9(6
+2.3
+), 1
+27
+(35
+.9)
+, 1
+00
+(21
+.1)
+√
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(2)
+0.
+67
+C 2
+0H
+27
+O
+2N
+5
+37
+0.
+22
+43
+37
+0.
+22
+70
+7.
+3
+37
+0(1
+1.3
+), 2
+65
+(3.
+4),
+ 24
+9(5
+.8)
+, 1
+66
+(9.
+9),
+ 16
+1(1
+6.1
+), 1
+60
+(10
+0),
+ 13
+1(5
+.6)
+, 
+10
+0(2
+3.9
+)
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(3)
+0.
+81
+C 2
+1H
+33
+O
+5N
+38
+0.
+24
+37
+38
+0.
+24
+37
+0
+38
+0(1
+3.1
+), 2
+75
+(2.
+2),
+ 25
+9(4
+.0)
+, 1
+88
+(3.
+5),
+ 17
+6(8
+.4)
+, 1
+61
+(14
+.0)
+, 1
+05
+(36
+.8)
+, 
+10
+0(1
+3.5
+)
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(4)
+1.
+30
+C 2
+3H
+35
+O
+5N
+40
+6.
+25
+93
+40
+6.
+26
+01
+2.
+0
+40
+6(2
+0.9
+), 3
+01
+(5.
+4),
+ 25
+8(6
+.2)
+, 1
+88
+(7.
+7),
+ 16
+1(1
+2.3
+), 1
+60
+(99
+.2)
+, 1
+31
+(10
+0),
+ 
+10
+3(1
+3.2
+)
+Tr
+ip
+to
+lid
+e 
+(5)
+2.
+35
+C 2
+0H
+24
+O
+6
+36
+1.
+16
+51
+36
+1.
+16
+56
+1.
+4
+36
+1(1
+00
+), 2
+79
+(2.
+1),
+ 25
+0(2
+.2)
+, 2
+01
+(5.
+1),
+ 15
+7(2
+.9)
+, 1
+45
+(3.
+6),
+ 10
+8(6
+.6)
+, 
+10
+5(2
+.6)
+√
+Tr
+ip
+fo
+rd
+in
+e 
+A
+ (6
+)
+2.
+35
+C 3
+6H
+45
+O
+18
+N
+78
+0.
+27
+15
+78
+0.
+27
+04
+1.
+4
+78
+0(5
+2.2
+), 7
+52
+(10
+0),
+ 73
+4(2
+4.1
+), 6
+74
+(11
+.7)
+, 6
+32
+(11
+.7)
+, 2
+04
+(10
+.4)
+, 
+19
+4(2
+9.7
+), 1
+76
+(23
+.8)
+, 1
+58
+(2.
+4)
+√
+2-
+O
+-d
+ea
+ce
+ty
+l-e
+uo
+ni
+ne
+ (7
+)
+3.
+71
+C 3
+6H
+45
+O
+17
+N
+76
+4.
+27
+66
+76
+4.
+27
+59
+0.
+9
+76
+4(1
+00
+), 7
+46
+(51
+.2)
+, 6
+86
+(16
+.8)
+, 6
+44
+(8.
+9),
+ 20
+6(7
+2.0
+), 1
+60
+(2.
+9)
+√
+A
+la
+tu
+sin
+in
+e 
+(8)
+3.
+92
+C 3
+8H
+47
+O
+19
+N
+82
+2.
+28
+21
+82
+2.
+28
+23
+0.
+2
+82
+2(4
+1.3
+), 7
+94
+(10
+0),
+ 77
+6(1
+2.2
+), 6
+74
+(12
+.0)
+, 2
+50
+(6.
+2),
+ 19
+4(1
+7.2
+), 1
+76
+(19
+.1)
+, 
+16
+0(6
+.5)
+√
+Tr
+ip
+to
+ni
+de
+ (9
+)
+4.
+73
+C 2
+0H
+22
+O
+6
+35
+9.
+14
+95
+35
+9.
+15
+00
+1.
+4
+35
+9(1
+00
+), 1
+97
+(1.
+6),
+ 17
+1(2
+.1)
+, 1
+43
+(3.
+1),
+ 10
+7(3
+.0)
+√
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(10
+)
+5.
+85
+C 3
+5H
+46
+O
+20
+N
+3
+82
+8.
+26
+75
+82
+8.
+26
+70
+0.
+6
+82
+8(4
+3.1
+), 8
+06
+(10
+0),
+ 78
+8(2
+5.9
+), 7
+46
+(18
+.8)
+, 6
+86
+(20
+.6)
+, 6
+44
+(3.
+6),
+ 20
+6(4
+0.6
+), 
+17
+8(1
+0.2
+)
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(11
+)
+6.
+52
+C 3
+5H
+46
+O
+20
+N
+3
+82
+8.
+26
+75
+82
+8.
+26
+73
+0.
+2
+82
+8(3
+7.9
+), 8
+06
+(10
+0),
+ 78
+8(5
+0.0
+), 7
+46
+(48
+.6)
+, 7
+04
+(14
+.8)
+, 6
+86
+(12
+.0)
+, 6
+09
+(5.
+9),
+ 
+20
+6(2
+1.5
+), 1
+60
+(6.
+5)
+H
+yp
+og
+la
+un
+in
+e 
+C
+ (1
+2)
+7.
+67
+C 4
+3H
+49
+O
+19
+N
+88
+4.
+29
+77
+88
+4.
+29
+84
+0.
+8
+88
+4(6
+9.0
+), 8
+56
+(10
+0),
+ 83
+8(1
+5.0
+), 6
+74
+(12
+.1)
+, 1
+94
+(11
+.3)
+, 1
+76
+(14
+.4)
+, 1
+05
+(6.
+4)
+√
+N
+eo
+tr
+ip
+to
+ph
+en
+ol
+id
+e (
+13
+)
+7.
+88
+C 2
+1H
+26
+O
+4
+34
+3.
+19
+09
+34
+3.
+19
+31
+6.
+4
+34
+3(8
+6.4
+), 3
+01
+(17
+.8)
+, 2
+97
+(36
+.9)
+, 2
+57
+(22
+.3)
+, 2
+55
+(10
+0),
+ 24
+0(3
+2.6
+), 
+20
+5(5
+0.2
+), 1
+77
+(18
+.8)
+, 1
+63
+(35
+.1)
+, 1
+37
+(10
+.7)
+√
+Tr
+ip
+to
+ph
+en
+ol
+id
+e 
+(14
+)
+8.
+44
+C 2
+0H
+24
+O
+3
+31
+3.
+18
+04
+31
+3.
+18
+22
+5.
+7
+31
+3(3
+1.0
+), 2
+71
+(9.
+7),
+ 25
+3(9
+.1)
+, 2
+25
+(47
+.8)
+, 2
+06
+(10
+0),
+ 17
+8(2
+0.4
+), 1
+33
+(10
+.6)
+, 
+10
+6(1
+6.1
+)
+√
+W
+ilf
+o
+rg
+in
+e 
+(15
+)
+8.
+44
+C 4
+1H
+47
+O
+19
+N
+85
+8.
+28
+21
+85
+8.
+28
+71
+5.
+8
+85
+8(1
+00
+), 8
+40
+(22
+.3)
+, 7
+98
+(9.
+4),
+ 78
+0(4
+.8)
+, 7
+46
+(8.
+3),
+ 68
+6(1
+5.4
+)
+√
+Tr
+ip
+tin
+in
+ B
+ (1
+6)
+8.
+65
+C 2
+0H
+26
+O
+3
+31
+5.
+19
+60
+31
+5.
+19
+69
+2.
+9
+29
+7(3
+3.8
+), 2
+79
+(24
+.2)
+, 2
+69
+(27
+.8)
+, 2
+55
+(10
+0),
+ 23
+7(4
+7.8
+), 2
+27
+(41
+.5)
+, 
+21
+3(3
+4.4
+), 1
+97
+(29
+.2)
+, 1
+85
+(38
+.6)
+, 1
+71
+(78
+.1)
+, 1
+57
+(34
+.7)
+, 1
+49
+(40
+.4)
+, 
+14
+7(4
+8.0
+), 1
+33
+(39
+.8)
+, 1
+05
+(12
+.0)
+√
+Tr
+ip
+to
+qu
+in
+on
+id
+e 
+(17
+)
+9.
+21
+C 2
+0H
+22
+O
+4
+32
+7.
+15
+96
+32
+7.
+16
+11
+4.
+6
+32
+7(1
+00
+), 3
+09
+(6.
+0),
+ 28
+1(7
+7.6
+), 2
+63
+(24
+.5)
+, 2
+53
+(24
+.1)
+, 2
+39
+(62
+.4)
+, 2
+24
+(17
+.4)
+, 
+21
+1(1
+8.6
+), 1
+93
+(15
+.0)
+, 1
+69
+(16
+.7)
+, 1
+65
+(12
+.1)
+, 1
+43
+(6.
+9),
+ 11
+9(7
+.9)
+, 1
+08
+(5.
+9)
+√
+W
+ilf
+o
+rn
+in
+e 
+A
+ (1
+8)
+9.
+81
+C 4
+5H
+51
+O
+20
+N
+92
+6.
+30
+83
+92
+6.
+30
+55
+3.
+0
+92
+6(3
+8.5
+), 8
+04
+(10
+0),
+ 76
+0(1
+1.3
+), 7
+44
+(6.
+1),
+ 68
+4(6
+.0)
+, 2
+04
+(6.
+6)
+√
+Plant J. Author manuscript; available in PMC 2019 January 01.
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+A
+uthor M
+an
+u
+script
+Su et al. Page 28
+M
+et
+ab
+ol
+ite
+N
+um
+be
+r i
+n 
+Fi
+g.
+ 
+1
+R
+T
+[m
+in
+]
+Fo
+rm
+u
+la
+[M
++H
+]+
+C
+al
+cu
+la
+te
+d 
+O
+bs
+er
+v
+ed
+Er
+ro
+r
+[Δ
+pp
+m
+]
+M
+S/
+M
+S 
+sig
+na
+l p
+at
+te
+rn
+s
+(%
+ re
+la
+tiv
+e 
+a
+bu
+n
+da
+nc
+e)
+Au
+th
+. s
+tr
+d.
+co
+n
+fir
+m
+ed
+Te
+n
+ta
+tiv
+e
+ID
+W
+ilf
+o
+ri
+ne
+ (1
+9)
+10
+.4
+1
+C 4
+3H
+49
+O
+18
+N
+86
+8.
+30
+28
+86
+8.
+30
+49
+2.
+4
+86
+8(1
+00
+), 8
+50
+(33
+.6)
+, 8
+08
+(12
+.6)
+, 7
+46
+(14
+.6)
+, 6
+86
+(25
+.2)
+, 2
+06
+(30
+.7)
+, 1
+78
+(7.
+1),
+ 
+10
+5(4
+.8)
+√
+W
+ilf
+o
+rn
+in
+e 
+F 
+(20
+)
+10
+.9
+7
+C 4
+1H
+47
+O
+17
+N
+82
+6.
+29
+22
+82
+6.
+29
+01
+2.
+5
+82
+6(7
+4.4
+), 8
+12
+(10
+0),
+ 80
+8(3
+8.6
+), 7
+48
+(6.
+6),
+ 31
+0(4
+.7)
+, 2
+06
+(43
+.4)
+, 1
+05
+(5.
+6)
+√
+Tr
+ip
+to
+no
+te
+rp
+en
+e 
+m
+et
+hy
+l e
+th
+er
+ 
+(21
+)
+12
+.9
+3
+C 2
+1H
+30
+O
+3
+33
+1.
+22
+73
+33
+1.
+22
+81
+2.
+4
+31
+6(1
+7.6
+), 3
+01
+(16
+.0)
+, 2
+71
+(21
+.3)
+, 2
+45
+(21
+.3)
+, 2
+31
+(19
+.9)
+, 2
+06
+(59
+.6)
+, 
+20
+1(2
+7.4
+), 1
+79
+(10
+0),
+ 16
+3(3
+1.5
+), 1
+37
+(24
+.6)
+, 1
+09
+(9.
+0),
+ 10
+5(6
+.2)
+√
+D
+em
+et
+hy
+lz
+ey
+la
+st
+er
+al
+ (2
+2)
+14
+.8
+5
+C 2
+9H
+36
+O
+6
+48
+1.
+25
+90
+48
+1.
+26
+03
+2.
+7
+48
+1(1
+00
+), 4
+63
+(3.
+2),
+ 24
+5(6
+.5)
+, 2
+31
+(62
+.1)
+, 2
+13
+(5.
+0),
+ 20
+3(1
+4.4
+), 1
+61
+(1.
+5),
+ 
+14
+7(4
+.5)
+, 1
+21
+(1.
+8),
+ 10
+9(4
+.6)
+√
+W
+ilf
+o
+rd
+in
+in
+e 
+I (
+23
+)
+15
+.4
+1
+C 4
+8H
+51
+O
+19
+N
+94
+6.
+31
+34
+94
+6.
+30
+94
+4.
+2
+94
+6(4
+1.0
+), 9
+18
+(7.
+8),
+ 84
+6(1
+2.7
+), 8
+24
+(10
+0),
+ 76
+4(6
+.8)
+, 7
+46
+(4.
+4),
+ 62
+5(2
+.0)
+, 
+20
+4(5
+.8)
+√
+W
+ilf
+o
+rn
+in
+e 
+C
+ (2
+4)
+15
+.9
+7
+C 5
+0H
+53
+O
+20
+N
+98
+8.
+32
+39
+98
+8.
+32
+01
+3.
+8
+98
+8(3
+4.1
+), 9
+60
+(5.
+5),
+ 94
+2(3
+.9)
+, 9
+20
+(1.
+9),
+ 88
+8(1
+.8)
+, 8
+66
+(10
+0),
+ 84
+8(6
+.5)
+, 
+82
+2(4
+.8)
+, 8
+06
+(3.
+8),
+ 78
+8(1
+.6)
+, 7
+64
+(3.
+9),
+ 74
+6(3
+.9)
+, 2
+04
+(4.
+7),
+ 10
+5(4
+.4)
+√
+D
+eh
+yd
+ro
+a
+bi
+et
+ic
+ a
+ci
+d 
+(25
+)
+17
+.7
+6
+C 2
+0H
+28
+O
+2
+30
+1.
+21
+68
+30
+1.
+21
+63
+1.
+7
+17
+3(8
+3.1
+), 1
+71
+(8.
+0),
+ 15
+9(1
+6.7
+), 1
+40
+(25
+.4)
+, 1
+33
+(60
+.1)
+, 1
+31
+(10
+0),
+ 10
+6(5
+8.6
+)
+√
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(26
+)
+18
+.4
+2
+C 3
+4H
+35
+O
+9N
+4
+64
+3.
+24
+04
+64
+3.
+23
+99
+0.
+8
+64
+3(1
+00
+), 5
+83
+(59
+.2)
+, 5
+55
+(21
+.5)
+, 4
+95
+(15
+.2)
+, 4
+69
+(3.
+1),
+ 44
+1(3
+.0)
+, 1
+18
+(0.
+9)
+C
+el
+as
+tr
+o
+l (2
+7)
+20
+.0
+0
+C 2
+9H
+38
+O
+4
+45
+1.
+28
+48
+45
+1.
+28
+64
+3.
+5
+45
+1(3
+.1)
+, 2
+15
+(15
+.5)
+, 2
+02
+(16
+.7)
+, 2
+01
+(10
+0),
+ 18
+6(7
+.9)
+, 1
+53
+(11
+.3)
+, 1
+28
+(8.
+5),
+ 
+11
+5(7
+.1)
+√
+U
+nk
+no
+w
+n
+ a
+lk
+al
+oi
+d 
+(28
+)
+20
+.6
+9
+C 2
+9H
+42
+O
+10
+N
+4
+60
+7.
+29
+79
+60
+7.
+29
+89
+1.
+6
+60
+7(1
+00
+), 5
+47
+(33
+.2)
+, 4
+61
+(3.
+7)
+√
+Plant J. Author manuscript; available in PMC 2019 January 01.

@@ -1,0 +1,1528 @@
+Hindawi Publishing Corporation
+Evidence-Based Complementary and Alternative Medicine
+Volume 2011, Article ID 952031, 10 pages
+doi:10.1093/ecam/nep241
+Original Article
+Anti-Obesityand Anti-Diabetic Effectsof Acacia Polyphenolin
+ObeseDiabeticKKAyMiceFedHigh-FatDiet
+Nobutomo Ikarashi, TakahiroToda, TakehiroOkaniwa,Kiyomi Ito, Wataru Ochiai,
+andKiyoshi Sugiyama
+Department of Clinical Pharmacokinetics, Hoshi University, Tokyo, Japan
+Correspondence should be addressed to Kiyoshi Sugiyama, sugiyama@hoshi.ac.jp
+Received 13 October 2009; Accepted 12 December 2009
+Copyright © 2011 Nobutomo Ikarashi et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Acacia polyphenol (AP) extracted from the bark of the black wattle tree (Acacia meansii) is rich in unique catechin-like ﬂavan-
+3-ols, such as robinetinidol and ﬁsetinidol. The present study investigated the anti-obesity/anti-diabetic eﬀects of AP using obese
+diabetic KKAy mice. KKAy mice received either normal diet, high-fat diet or high-fat diet with additional AP for 7 weeks. After the
+end of administration, body weight, plasma glucose and insulin were measured. Furthermore, mRNA and protein expression of
+obesity/diabetic suppression-related genes were measured in skeletal muscle, liver and white adipose tissue. As a result, compared
+to the high-fat diet group, increases in body weight, plasma glucose and insulin were signiﬁcantly suppressed for AP groups.
+Furthermore, compared to the high-fat diet group, mRNA expression of energy expenditure-related genes (PPARα,P P A R δ,C P T 1 ,
+ACO and UCP3) was signiﬁcantly higher for AP groups in skeletal muscle. Protein expressions of CPT1, ACO and UCP3 for AP
+groups were also signiﬁcantly higher when compared to the high-fat diet group. Moreover, AP lowered the expression of fat acid
+synthesis-related genes (SREBP-1c, ACC and FAS) in the liver. AP also increased mRNA expression of adiponectin and decreased
+expression of TNF-α in white adipose tissue. In conclusion, the anti-obesity actions of AP are considered attributable to increased
+expression of energy expenditure-related genes in skeletal muscle, and decreased fatty acid synthesis and fat intake in the liver.
+These results suggest that AP is expected to be a useful plant extract for alleviating metabolic syndrome.
+1.Introduction
+Acacia is an evergreen tree belonging to the genus Acacia in
+the family legume, and is widely found in the Australian and
+African continents. The extract of Acacia catechu duramen
+is called gambir, and has long been used as an astringent
+and anti-bacterial to treat stomatitis and diarrhea in Japan
+and China. Studies have also reported that the powdered
+seeds of Acacia catechu and Acacia milanoxylon exhibit
+hypoglycemic actions by increasing insulin secretion in non-
+diabetic rats and rabbits [1, 2]. Furthermore, in Europe,
+acacia polyphenol (AP) extracted from the bark of the black
+wattle tree (Acacia meansii) has been used to eliminate wine
+sediment. Australian aborigines also eat the young leaves and
+beans of Acacia mollissima.
+AP is rich in unique catechin-like ﬂavan-3-ols, such as
+robinetinidol and ﬁsetinidol [3–6]. In recent years, polyphe-
+nols have been reported to possess various pharmacological
+actions, including anti-obesity actions [7–9], anti-diabetic
+actions[10–12],anti-canceractions[13,14]andanti-allergic
+actions [15]. While polyphenol-rich AP may possess various
+pharmacological actions like other polyphenols, no studies
+have yet clariﬁed the pharmacological actions of AP.
+In the present study, to investigate the anti-obesity and
+anti-diabetic actions of AP, a high-fat diet was administered
+to KKAy mice, an obese type-II diabetes model, to induce
+severe obesity and diabetes. The eﬀects of AP on obesity
+and diabetes were then studied. To elucidate the mechanisms
+underlying the suppression of obesity and diabetes, the
+eﬀects of AP on the expression of genes related to obesity
+and diabetes suppression in skeletal muscle, liver and white
+adipose tissue were investigated.
+2.MaterialsandMethods
+2.1. Hot Water Extraction from Acacia Bark. AP was donated
+by Mimozax Co., Ltd. (Hiroshima, Japan), and was prepared2 Evidence-Based Complementary and Alternative Medicine
+according to the methods reported by Cutting [16]. Brieﬂy,
+the powdered bark of South African A. mollissima was
+pulverized and extracted for 30 min in a 10-fold volume of
+hot water (100◦C) and then dried using a spray drier. The
+polyphenol content of the present product as measured by
+the Stiasny reaction was 79.0% [17–19]. Average molecular
+weight of AP is 1250 (300–3000) [20, 21], and robinetinidol
+and ﬁsetinidol are the major ingredients [3–6].
+2.2. Materials. Powdered regular low-fat diet (LF) (10%
+lard, D12450B) and powdered high-fat diet (HF) (60%
+lard, D12492) were purchased from Research Diets (New
+Brunswick, NJ, USA). Primers were purchased from Invitro-
+gen (Tokyo, Japan). The ECL Plus Western Blotting Detec-
+tion System was purchased from GE Healthcare (Chalfont
+St Giles, UK). Anti-rabbit ACO antibody and anti-rabbit
+UCP3 antibody were purchased from Abcam (Cambridge,
+UK). Anti-rabbit CPT1 antibody was purchased from Santa
+Cruz Biotechnology (Santa Cruz, CA, USA). Anti-rabbit β-
+actin antibody was purchased from BioLegend (San Diego,
+CA, USA). Anti-rabbit IgG (whole molecule) peroxidase
+conjugatewas purchased from Sigma-Aldrich (St Louis, MO,
+USA). All other reagents were of the highest commercially
+available grade.
+2.3. Animals, Diets and Treatment. Male KKAy mice (5-
+weeks old) were purchased from Clea Japan (Tokyo, Japan).
+Each mouse was caged separately and kept at room tem-
+perature (22±1◦C) and 55±10% humidity with 12h of
+light (artiﬁcial illumination: 08:00–20:00). Mice that had
+been acclimatized for 1 week were divided into four groups.
+Each group was provided with ad libitum access to either
+LF, HF, HF containing 2.5% (w/w) AP (HF/AP 2.5%)
+or HF containing 5.0% (w/w) AP (HF/AP 5.0%) for 7
+weeks. Food intake was measured once weekly. Following
+this feeding period, after 17h of fasting, a blood sample
+was collected using heparin from the abdominal vena cava
+under diethyl ether-induced anesthesia. The liver, white
+adipose tissue (around the testes, retroperitoneum and
+kidney) and skeletal muscle were also removed and placed
+in either neutral-buﬀered formalin or liquid nitrogen. The
+present study was conducted in accordance with the Guiding
+Principles for the Care and Use of Laboratory Animal, as
+adopted by the Committee on Animal Research at Hoshi
+University.
+2.4. Blood Analysis. Blood samples were centrifuged (1000g
+for 15min at 4◦C), and plasma stored at −80◦C until
+assay. Plasma glucose concentrations were enzymatically
+quantiﬁed using a Glucose CII Test (Wako Pure Chemical
+Industries, Osaka, Japan). Plasma insulin concentrations
+were measured according to the protocol described by the
+manufacturer of the Mouse Insulin ELISA Kit (Shibayagi,
+Gunma, Japan). Plasma glutamate oxalacetate transaminase
+(GOT) and glutamate pyruvate transaminase (GPT) concen-
+trations were quantiﬁed using Transaminase CII Test (Wako
+Pure Chemical Industries).
+2.5. Homeostasis Model Assessment of Insulin Resistance
+Index. Homeostasis model assessment of insulin resistance
+(HOMA-IR), an index of insulin resistance, was calculated
+according to the following equation using fasting insulin and
+glucose concentrations [22]:
+HOMA-IR = fasting insulin
+
+μUml
+−1
+×fasting glucose
+
+mmoll
+−1
+/22.5.
+(1)
+2.6. Measurement of Liver Triglyceride/Cholesterol Content.
+Liver triglyceride and cholesterol content were measured as
+described previously [23, 24]. Brieﬂy, a portion (100mg)
+of liver tissue was homogenized in phosphate buﬀer saline
+(pH 7.4, 1ml). The homogenate (0.2ml) was extracted
+with isopropyl alcohol (1ml), and the extract was analyzed
+using a Triglyceride E-Test (Wako Pure Chemical Industries)
+to determine liver triglyceride content. The homogenate
+(0.2ml) was extracted with chloroform-methanol (2:1,
+1ml), and the extract was concentrated under a nitrogen
+stream. The residue was dissolved in isopropyl alcohol and
+analyzed using a Cholesterol E-Test (Wako Pure Chemical
+Industries).
+2.7. Preparation of Slide for Histopathology
+2.7.1. Hematoxylin—Eosin Staining. Liver and epididymal
+fat were ﬁxed in 10% neutral-buﬀered formalin. After
+trimming the tissues, liver and epididymal fat were embed-
+ded in paraﬃn using a tissue processor. Sections were
+t a k e ni n3 - 4μm thicknesses, and stained with HE solution
+for microscopy. Average surface area for epididymal white
+adipocytes was measured using Image J software (National
+Institute of Mental Health, Bethesda, MD, USA) [25, 26].
+2.7.2. Oil red O Staining. After frozen liver sections about
+7μm thick were prepared using a cryostat apparatus, oil red
+O staining was conducted for microscopy.
+2.8. RNA Preparation from Tissue Samples. RNA was
+extracted from about 50mg of frozen skeletal muscle using
+TRI reagent. RNA was extracted from about 15mg of frozen
+liver using the RNeasy Mini Kit. RNA was extracted from
+about 75mg of frozen epididymal white adipose tissue using
+the RNeasy Lipid Tissue Mini Kit. RNA extraction was
+performed according to the protocol for the TRI Reagent,
+RNeasy Mini Kit and RNeasy Lipid Tissue Mini Kit. The
+resulting solution was diluted 50-fold using TE buﬀer, and
+purity was conﬁrmed and RNA concentration (μgml
+−1)w a s
+calculatedbymeasuringabsorbanceat260and280nmusing
+a U-2800 spectrophotometer (Hitachi High Technologies,
+Tokyo, Japan).
+2.9. Real-time RT-PCR. A high-capacity cDNA synthesis
+kit was used to synthesize cDNA from 1μgo fR N A .T E
+buﬀer was used to dilute the cDNA 20-fold to prepare
+cDNA TE buﬀer solution. The expression of target genesEvidence-Based Complementary and Alternative Medicine 3
+Table 1: Primer sequences of mouse mRNA.
+Target Accession number Forward primer (5 –3 ) Reverse primer (5 –3 ) Amplicon size (bp)
+PPARα NM 011144 GTACGGTGTGTATGAAGCCATCTT GCCGTACGCGATCAGCAT 76
+PPARδ NM 011145 GCCATATTCCCAGGCTGTC CAGCACAAGGGTCATCTGTG 102
+CPT1 NM 013495 GTGACTGGTGGGAGGAATAC GAGCATCTCCATGGCGTAG 83
+ACO NM 015729 GTGCAGCTCAGAGTCTGTCCAA TACTGCTGCGTCTGAAAATCCA 112
+UCP3 NM 009464 CCAGAGCATGGTGCCTTCGCT CTCGTGTCAGCAGCAGTG 84
+GLUT4 NM 009204 GGAAGGAAAAGGGCTATGCTG TGAGGAACCGTCCAAGAATGA 115
+SREBP-1c NM 011480 ACGGAGCCATGGATTGCACA AAGGGTGCAGGTGTCACCTT 278
+ACC NM 133360 ATGGGCGGAATGGTCTCTTTC TGGGGACCTTGTCTTCATCAT 148
+FAS NM 007988 TGCTCCCAGCTGCAGGC GCCCGGTAGCTCTGGGTGTA 107
+PPARγ NM 011146 CCAGAGCATGGTGCCTTCGCT CAGCAACCATTGGGTCAGCTC 241
+LPL NM 008509 CCACAGCAGCAAGACCTTC AGGGCGGCCACAAGTTTG 87
+Adiponectin NM 009605 GAGATGCAGGTCTTCTTGGTC GCTCTCCTTTCCTGCCAG 105
+TNF-α NM 013693 AAGCCTGTAGCCCACGTCGTA GGCACCACTAGTTGGTTGTCTTTG 122
+β-Actin NM 007393 GAGCGCAAGTACTCTGTGTG CGGACTCATCGTACTCCTG 97
+PPARα, peroxisome proliferator-activated receptor α;P P A R δ, peroxisome proliferator-activated receptor δ; CPT1, carnitine palmitoyl-transferase1; ACO,
+acyl CoA oxidase; UCP3, uncoupling protein3; GLUT4, glucose transporter4; SREBP-1c, sterol regulatory element-binding protein-1c; ACC, acetyl-CoA
+carboxylase; FAS, fatty acid synthase; PPARγ, peroxisome proliferator-activated receptor γ; LPL, lipoprotein lipase; TNF-α, tumor necrosis factor-α.
+was detected by preparing primers listed in Table 1 and
+performing real-time RT-PCR. To each well of a Multiplate
+PCR Plates 96-well clear (Bio-Rad Laboratories), 25μlo f
+iQ SYBR Green Supermix, 3μl of forward primer of target
+gene (5pmolμl
+−1), 3μl of reverse primer (5pmolμl
+−1), 4μl
+of cDNA TE buﬀer solution and 15μl of RNase-free water
+were added. With regard to β-actin, a housekeeping gene,
+4μlo fac D N AT Eb u ﬀer solution that was prepared by
+diluting above-mentioned solution 20-fold using TE buﬀer
+was used. Denaturation temperature was set at 95◦Cf o r
+15s, annealing temperature at 56◦C for 30 s and elongation
+temperature at 72◦C for 30 s. Fluorescence intensity of the
+ampliﬁcation process was monitored using the My iQTM
+Single Color Real-time RT-PCR Detection System (Bio-Rad
+Laboratories). mRNA expressions were normalized using β-
+actin.AllmRNAexpressionswereexpressedinrelationtothe
+average expression of the LF group (100%).
+2.10. Western Blotting Analysis. Leg muscle (100 mg) was
+homogenized using dissecting buﬀer (0.3M sucrose, 25mM
+imidazole, 1mM EDTA, pH 7.2, containing 8.5μMl e u -
+peptin, and 1 mM phenylmethylsulfonyl ﬂuoride), and the
+homogenates were centrifuged at 500g for 10min at 4◦C
+[27, 28]. Total protein content in the supernatants was
+determined by the Lowry method [29] using bovine serum
+albumin as a standard.
+Electrophoresis was performed using the method
+described by Laemmli [30]. Using the loading buﬀer (84
+mM Tris, 20% glycerol, 0.004% bromophenol blue, pH
+6.3, 4.6% SDS and 10% 2-mercaptoethanol), protein was
+diluted 2-fold, boiled for 5min and applied to 12.5%
+polyacrylamide gel (ATTO Corp., Tokyo, Japan). After
+electrophoresis, the isolated proteins were transferred to
+a PVDF membrane (ATTO Corp.) using CompactBLOT
+(AE-7500, ATTO Corp.). After blocking for 1h using 1.0%
+skim milk, the resulting membrane was reacted for 1h at
+room temperature with anti-rabbit CPT1 antibody (1:100),
+ACO antibody (1:200), UCP3 antibody (1:1,000) or β-
+actin antibody (1:200). After washing the membrane using
+TBS-TWEEN (Tris-HCl 20mM, NaCl 137mM and Tween
+20 0.1%, pH 7.6), the resulting membrane was reacted for
+1h at room temperature with anti-rabbit IgG peroxidase
+conjugate. After washing, the membrane was reacted with
+the ECLplus detection reagent and visualized with an
+LAS-3000 mini luminoimage analyzer (Fuji Film, Tokyo,
+Japan). Protein levels were normalized against β-actin. All
+protein expressions are given as percentages compared to the
+LF group (100%).
+2.11. Statistical Analysis. Numerical data are expressed as
+means±standard deviation. The signiﬁcance of diﬀerences
+wasexaminedusingANOVA,followedbyTukey’stest.Values
+of P <.05 were considered signiﬁcant.
+3. Results
+3.1. Body Weight and Visceral Fat Accumulation. During the
+7-week experimental period, food intake was measured once
+weekly. Mean energy intake was signiﬁcantly higher for the
+HF group than for the LF group. No signiﬁcant diﬀerence
+existed in energy intake between the HF, HF/AP 2.5% and
+HF/AP 5.0% groups (Table 2).
+At the end of administration, body weight was signiﬁ-
+cantly higher for the HF group than for the LF group. AP
+administration signiﬁcantly suppressed HF-induced body
+weight increases. In particular, the degree of body weight
+increase was comparable between the HF/AP 5.0% and LF
+groups (Table 2).4 Evidence-Based Complementary and Alternative Medicine
+Table 2: Body weight gain, and plasma and hepatic biochemistry of mice fed on the experimental diets for 7 weeks.
+LF HF HF/AP 2.5% HF/AP 5.0%
+Food intake (g/mouse/day) 5.1±0.9 4.5±0.6 4.6±0.5 4.4±0.5
+Energy intake (kcal/mouse/day) 19.4±3.6 23.3±3.2∗ 23.5±2.8∗ 22.0±2.9∗
+Pre-diet body weight (g) 31.3±1.2 30.9±1.1 31.5±1.6 31.1±1.0
+Post-diet body weight (g) 39.7±2.4 51.4±2.5∗∗ 45.7±4.7∗∗,## 39.5±1.6##
+Body weight gain (g) 8.4±1.9 20.5±2.0∗∗ 14.2±4.3∗∗,## 8.4±1.9##
+Whole WAT (g) 3.14±0.60 4.66±0.34∗∗ 4.00±0.35∗∗,## 3.37±0.54##
+Epididymal WAT (g) 1.63±0.23 1.97±0.21∗ 1.77±0.22# 1.70±0.22#
+Retroperitoneal WAT (g) 0.96±0.28 1.57±0.21∗∗ 1.31±0.19∗∗ 0.94±0.19##
+Perirenal WAT (g) 0.66±0.14 1.35±0.19∗∗ 0.91±0.19∗,## 0.76±0.23##
+Liver weight (g) 1.85±0.22 3.27±0.44∗∗ 1.83±0.40## 1.26±0.13∗∗,##
+Liver triglyceride (mgg−1 liver) 78.0±13.8 156.5±11.9∗∗ 82.2±4.5## 39.5±6.1∗∗,##
+Liver cholesterol (mgg−1 liver) 2.3±0.4 4.4±0.7∗∗ 1.0±0.6∗∗,## 0.9±0.4∗∗,##
+Glucose concentration (mmoll
+−1)6 . 7 ±2.1 20.8±4.4∗∗ 8.4±3.2## 5.6±1.5##
+Insulin concentration (μUml
+−1) 22.7±16.5 171.5±120.9∗∗ 42.7±33.4## 28.8±13.0##
+HOMA-IR 7.5±3.9 139.9±81.6∗∗ 20.6±17.3## 7.7±5.4##
+GOT concentration (Ul
+−1) 42.7±14.8 176.3±77.9∗∗ 82.2±59.5# 64.8±29.6#
+GPT concentration (Ul
+−1) 16.8±5.0 56.7±14.0∗∗ 12.2±3.0## 19.8±7.8##
+KKAy mice were given a low-fat diet (LF), a high-fat diet (HF), HF containing 2.5% AP (HF/AP 2.5%) or HF containing 5.0% AP (HF/AP 5.0%) for 7 weeks.
+After measuring body weight, white adipose tissue and liver were removed and weighed, and levels of liver triglyceride and cholesterol were measured. Blood
+samples were also collected to measure glucose, insulin, GOT and GPT levels. HOMA-IR was calculated from glucose and insulin levels after overnight fasting.
+Foodintakewasmeasuredonceweekly.Detailsofthedietsaregiveninthe“MaterialsandMethods”section.Datarepresentmeans±SDsof10micepergroup.
+Tukey’s test: ∗P <.05 versus LF; ∗∗P <.01 versus LF; #P <.05 versus HF; ##P <.01 versus HF.
+Furthermore, visceral white adipose tissue weight was
+signiﬁcantly higher for the HF group than for the LF group.
+APsigniﬁcantlysuppressedthisincreaseinadose-dependent
+manner (Table 2).
+HE staining of epididymal white adipose tissue showed
+that mature adipocytes for the HF group were hypertro-
+phied, with numerous immature adipocytes in the stroma.
+Conversely, HF-induced hypertrophy of mature adipocytes
+was not seen for the HF/AP 5.0% group, and the size
+of adipocytes and number of immature adipocytes were
+comparable to those for the LF group (Figure 1).
+3.2. Liver Lipid Accumulation. Table 2 shows liver weight
+and liver lipid content. At the end of administration, liver
+weight was about 1.8 times greater for the HF group than for
+the LF group. In addition, liver triglyceride and cholesterol
+levels were signiﬁcantly higher for the HF group when
+comparedtotheLFgroup.ForbothHF/AP2.5%andHF/AP
+5.0% groups, increased liver weight and triglyceride and
+cholesterol accumulation were signiﬁcantly suppressed.
+The liver was subjected to HE staining and oil red O
+staining, and the HF group displayed large fat droplets
+throughout liver lobules. However, HF/AP 2.5% and HF/AP
+5.0% groups showed smaller fat droplets in individual
+hepatocyte and fewer fat droplets throughout liver lobules,
+thus indicating suppression of fatty liver (Figure 2).
+3.3. Plasma Glucose, Insulin, GOT and GPT Concentration.
+Table 2 shows fasting plasma glucose, plasma insulin, GOT
+and GPT. Plasma glucose and plasma insulin levels were
+signiﬁcantly higher for the HF group than for the LF group.
+Conversely, plasma glucose and insulin levels for the AP
+groups decreased to levels similar to those for the LF group,
+and HOMA-IR index in the HF/AP 2.5% and HF/AP 5.0%
+groups was signiﬁcantly decreased compared to the HF
+group. Plasma GOT and GPT, indicators of hepatopathy,
+were signiﬁcantly higher for the HF group than for the LF
+group. AP administration signiﬁcantly suppressed increases
+in GOT and GPT.
+3.4. mRNA and Protein Expression in the Skeletal Muscle.
+Real-time RT-PCR was performed to measure the mRNA
+expression of energy expenditure-related genes (peroxisome
+proliferator-activated receptor (PPAR)α,P P A R δ, carnitine
+palmitoyl-transferase1(CPT1),acylCoAoxidase(ACO)and
+uncoupling protein 3 (UCP3)) and glucose transporter 4
+(GLUT4) in skeletal muscle, an important organ for energy
+expenditure (Figure 3). No signiﬁcant diﬀerence existed in
+all genes between LF and HF groups. The mRNA expression
+of PPARα for the HF/AP 5.0% group was signiﬁcantly
+higher (1.5 times) than that for the HF group. In addition,
+mRNA expression of PPARδ for the HF/AP 2.5% and HF/AP
+5.0% groups was 1.8 and 2.0 times higher when compared
+to the HF group. Moreover, AP signiﬁcantly increased
+mRNA expression of CPT1, ACO and UCP3. In particular,
+compared to the HF group, mRNA expression of UCP3 for
+the HF/AP 2.5% and HF/AP 5.0% groups was about 2 and
+3 times greater, respectively. AP administration increased
+mRNA expression of GLUT4 (abundantly expressed inEvidence-Based Complementary and Alternative Medicine 5
+LF HF
+HF/AP 2.5% HF/AP 5.0%
+(a) HE Staining
+12000
+10000
+8000
+6000
+4000
+2000
+0
+LF HF AP 2.5% AP 5.0%
+HF
+∗∗
+##
+##
+M
+e
+a
+n
+a
+d
+i
+p
+o
+c
+y
+t
+e
+s
+u
+r
+f
+a
+c
+e
+a
+r
+e
+a
+(
+μ
+m
+2
+)
+(b) Adipocyte area
+Figure 1: Histology of epididymal adipose tissue (a) and mean adipocyte surface area (b). KKAy mice were given a LF, a HF, HF containing
+2.5% AP (HF/AP 2.5%) or HF containing 5.0% AP (HF/AP 5.0%) for 7 weeks. White adipose tissue around the testis was removed, ﬁxed
+in 10% neutral-buﬀered formalin, paraﬃnized and stained using HE (a). Mean surface area for epididymal white adipocytes was measured
+using Image J software (b). Details of the diets are given in the “Materials and Methods” section. Data represent means±SDs for seven
+sections per group. Tukey’s test: ∗∗P <.01 versus LF; ##P <.01 versus HF.
+LF
+HF
+HF/AP 2.5%
+HF/AP 5.0%
+(a) HE Staining
+LF
+HF
+HF/AP 2.5%
+HF/AP 5.0%
+(b) Oil red O staining
+Figure 2: Representative histological sections of liver stained with
+HE (a) or oil red O (b). KKAy mice were given a LF, a HF, HF
+containing 2.5% AP (HF/AP 2.5%) or HF containing 5.0% AP
+(HF/AP 5.0%) for 7 weeks. The liver was removed, ﬁxed in 10%
+neutral-buﬀered formalin, paraﬃnized and stained using HE (a). A
+cryostat was also used to prepare tissue sections for staining with
+oil red O (b). Details of the diets are given in the “Materials and
+Methods” section.
+skeletal muscle), and mRNA expression of GLUT4 for the
+HF/AP 5.0% group was about double that for the HF group.
+Protein expressions of CPT1, ACO and UCP3 were
+quantiﬁed by western blotting, and AP administration
+signiﬁcantly increased the expression of all proteins (Figure
+4). These increases also correlated to increased mRNA
+expressions.
+3.5.mRNAExpressionintheLiver. Intheliver,expressionsof
+fatty acid synthesis-related genes (sterol regulatory element-
+binding protein (SREBP)-1c, acetyl-CoA carboxylase (ACC)
+and fatty acid synthase (FAS)), a fatty acid decomposition-
+related gene (PPARα) and fat intake-related genes (PPARγ
+and lipoprotein lipase (LPL)) were measured by real-time
+RT-PCR (Figure 5). The mRNA expressions of SREBP-1c,
+ACC and FAS were signiﬁcantly lower for HF/AP 2.5% and
+HF/AP 5.0% groups than for the HF group. In addition,
+mRNA expression of PPARα was signiﬁcantly higher for the
+HF/AP2.5%andHF/AP5.0%groupsthanfortheHFgroup.
+Furthermore, mRNA expressions of PPARγ and LPL, which
+are related to liver fat accumulation, were signiﬁcantly lower
+when compared to the HF group.
+3.6. mRNA Expression in White Adipose Tissue. The mRNA
+expressions of adipocytokines (adiponectin and tumor
+necrosis factor (TNF)-α), which are produced in white adi-
+pose tissue and play important roles in obesity and diabetes,
+and PPARγ were measured by real-time RT-PCR (Figure 6).
+The results showed that mRNA expression of adiponectin
+was signiﬁcantly lower for the HF group than for the LF
+group, while mRNA expression of TNF-α was signiﬁcantly6 Evidence-Based Complementary and Alternative Medicine
+200
+150
+100
+50
+0
+∗∗.#
+LF HF AP 2.5%AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+PPARα
+(a)
+∗∗.## ∗∗.## 200
+150
+100
+50
+0
+LF HF AP 2.5%AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+PPARδ
+(b)
+∗.##
+CPT1
+200
+150
+100
+50
+0
+LF HF AP 2.5%AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+(c)
+∗∗.##
+∗∗.##
+ACO
+200
+150
+100
+50
+0
+LF HF AP 2.5%AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+(d)
+∗∗.##
+∗.##
+UCP3
+200
+250
+150
+100
+50
+0
+LF HF AP 2.5%AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+(e)
+∗∗.## GLUT4
+#
+200
+150
+100
+50
+0
+LF HF AP 2.5%AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+(f)
+Figure 3: Eﬀect of acacia polyphenol on mRNA expression in skeletal muscle. KKAy mice were given a LF, HF, HF containing 2.5% AP
+(HF/AP 2.5%) or HF containing 5.0% AP (HF/AP 5.0%) for 7 weeks. Skeletal muscle was removed, and mRNA expressions were measured
+using real-time RT-PCR, using β-actin as a housekeeping gene. All mRNA expressions are given as percentages compared to the LF group
+(100%). Details of the diets are given in the “Materials and Methods” section. Data represent means±SDs for six mice per group. Tukey’s
+test: ∗P <.05 versus LF; ∗∗P <.01 versus LF; #P <.05 versus HF; ##P <.01 versus HF.
+CPT1
+ACO
+UCP3
+β-actin
+LF HF HF/AP 2.5% HF/AP 5.0%
+(a)
+250
+200
+150
+100
+50
+0
+CPT1
+R
+e
+l
+a
+t
+i
+v
+e
+p
+r
+o
+t
+e
+i
+n
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗∗.#
+LF HF AP 2.5%AP 5.0%
+HF
+(b)
+ACO
+∗∗.#
+250
+200
+150
+100
+50
+0
+R
+e
+l
+a
+t
+i
+v
+e
+p
+r
+o
+t
+e
+i
+n
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+LF HF AP 2.5%AP 5.0%
+HF
+(c)
+UCP3
+∗∗.##
+∗∗.##
+R
+e
+l
+a
+t
+i
+v
+e
+p
+r
+o
+t
+e
+i
+n
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+LF HF AP 2.5%AP 5.0%
+HF
+400
+300
+200
+100
+0
+(d)
+Figure 4: Eﬀect of acacia polyphenol on protein expression of CPT1, ACO and UCP3 in skeletal muscle. KKAy mice were given a LF, a
+HF, HF containing 2.5% AP (HF/AP 2.5%) or HF containing 5.0% AP (HF/AP 5.0%) for 7 weeks. The skeletal muscle was removed, and
+protein expression was measured by western blotting, using β-actin as a housekeeping gene. All protein expressions are given as percentages
+compared to the LF group (100%). Details of the diets are given in the “Materials and Methods” section. Data represent means±SDs for six
+mice per group. Tukey’s test: ∗∗P <.01 versus LF; #P <.05 versus HF; ##P <.01 versus HF.Evidence-Based Complementary and Alternative Medicine 7
+SREBP-1c
+LF HF AP 2.5% AP 5.0%
+HF
+140
+120
+100
+80
+60
+40
+20
+0
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗∗.## ∗∗.##
+(a)
+ACC
+LF HF AP 2.5% AP 5.0%
+HF
+120
+100
+80
+60
+40
+20
+0
+∗∗
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗∗.## ∗∗.##
+(b)
+FAS
+LF HF AP 2.5% AP 5.0%
+HF
+120
+100
+80
+60
+40
+20
+0
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗∗.# ∗
+(c)
+PPARα
+LF HF AP 2.5% AP 5.0%
+HF
+700
+600
+500
+400
+300
+200
+100
+0
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗∗.##
+∗∗ ∗∗
+(d)
+PPARγ
+LF HF AP 2.5% AP 5.0%
+HF
+∗∗ 300
+250
+200
+150
+100
+50
+0
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗.## ∗.##
+(e)
+LPL
+LF HF AP 2.5% AP 5.0%
+HF
+140
+120
+100
+80
+60
+40
+20
+0
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+∗∗.## ∗∗.##
+(f)
+Figure 5: Eﬀect of acacia polyphenol on mRNA expression in the liver. KKAy mice were given a LF, a HF, HF containing 2.5% AP (HF/AP
+2.5%) or HF containing 5.0% AP (HF/AP 5.0%) for 7 weeks. The liver was removed and mRNA expression was measured by real-time
+RT-PCR using β-actin as a housekeeping gene. All mRNA expressions are given as percentages compared to the LF group (100%). Details of
+the diets are given in the “Materials and Methods” section. Data represent means±S D sf o rs i xm i c ep e rg r o u p .T u k e y ’ st e s t :∗P <.05 versus
+LF; ∗∗P <.01 versus LF; #P <.05 versus HF; ##P <.01 versus HF.
+Adiponectin
+250
+200
+150
+100
+50
+0
+LF HF AP 2.5% AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+##
+∗∗
+∗∗
+(a)
+TNF-α
+250
+200
+150
+100
+50
+0
+LF HF AP 2.5% AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+##
+##
+∗
+(b)
+PPARγ
+LF HF AP 2.5% AP 5.0%
+HF
+R
+e
+l
+a
+t
+i
+v
+e
+m
+R
+N
+A
+e
+x
+p
+r
+e
+s
+s
+i
+o
+n
+(
+%
+o
+f
+L
+F
+)
+120
+100
+80
+60
+40
+20
+0
+∗∗
+∗∗
+∗∗.##
+(c)
+Figure6:EﬀectofacaciapolyphenolonmRNAexpressioninepididymalwhiteadiposetissue.KKAymiceweregivenaLF,HF,HFcontaining
+2.5% AP (HF/AP 2.5%) or HF containing 5.0% AP (HF/AP 5.0%) for 7 weeks. White adipose tissue around the testis was removed, and
+mRNA expression was measured by real-time RT-PCR, using β-actin as a housekeeping gene. All mRNA expressions are given as percentages
+compared to the LF group (100%). Details of diets are given in the “Materials and Methods” section. Data represent means±SDs for six
+mice per group. Tukey’s test: ∗P <.05 versus LF; ∗∗P <.01 versus LF; ##P <.01 versus HF.
+higher. Conversely, mRNA expression of adiponectin was
+signiﬁcantly higher for the HF/AP 2.5% and HF/AP 5.0%
+groups in a dose-dependent manner when compared to the
+HF group, but mRNA expression of TNF-α was signiﬁcantly
+lower. In particular, expression of TNF-α was signiﬁcantly
+lower for the HF/AP 5.0% group when compared to the LF
+group. The mRNA expression of PPARγ for the HF group
+was signiﬁcantly lower (about 90% lower) compared to the
+LF group. AP administration signiﬁcantly accentuated this
+decrease in mRNA expression in a dose-dependent manner.
+4. Discussion
+The anti-obesity eﬀects of AP, a new polyphenol, were
+investigated using KKAy mice as a model of obese type-II
+diabetes.Whenfedanormaldiet,KKAymicedevelopobesity
+and type-II diabetes by 12-weeks old [31], and these mice
+are thus widely used for research into obesity and diabetes
+[32, 33]. In the present study, lard was administered to 6-
+week-oldKKAymicefor7weekstoinducesevereobesityand
+diabetes and the eﬀects of AP were evaluated. Lard is widely8 Evidence-Based Complementary and Alternative Medicine
+Acacia
+polyphenol
+Skeletal muscle White adipose tissue Liver
+Energy expenditure
+Glucose intake
+Adiponectine
+TNF-α
+Energy expenditure
+Fatty acid synthesis
+Fat intake
+Anti-obesity action
+Anti-diabetic action
+Figure 7: Hypothetical mechanisms of anti-obesity/diabetic actions of acacia polyphenol.
+used in studies on obesity and diabetes [34, 35]. AP was
+found to signiﬁcantly suppress increases in body weight and
+white adipose tissue weight, showing anti-obesity actions
+(Table 2, Figure 1). HF also increased liver fat accumulation
+and induced fatty liver, but AP administration lowered
+fat accumulation, clarifying that AP suppresses fatty liver
+(Table 2, Figure 2). Furthermore, measurements of plasma
+GOT and GPT clariﬁed that AP suppressed fatty liver-
+induced hepatopathy (Table 2). Plasma glucose and insulin
+levels were signiﬁcantly higher for the HF group than for the
+LF group, and severe type II diabetes was induced. AP sup-
+pressed these increases in plasma glucose and insulin levels.
+The HOMA-IR index, a simpler method to measure insulin
+sensitivityusuallyusedinclinicalandanimalstudies[22,36],
+was signiﬁcantly decreased in AP-treated groups compared
+to the HF group, indicating that AP reduced hyperglycemia
+and hyperinsulinemia (Table 2). These ﬁndings clarify that
+AP suppresses obesity and diabetes caused by a high-fat diet.
+Obesity is caused by low energy expenditure and
+increased fatty acid synthesis from carbohydrates and fat
+intake by organs. Therefore, as well as the eﬀects of AP
+on the expression of energy expenditure-related genes in
+skeletal muscle and liver, eﬀects on the expression of genes
+related to fatty acid synthesis and fat intake in the liver were
+investigated.
+In skeletal muscle, 7 weeks of AP administration
+signiﬁcantly increased mRNA and protein expressions of
+ACO, CPT1 (β-oxidation enzymes) and UCP3 (uncoupling
+protein) compared to the HF group (Figures 3 and 4). AP
+administration also increased mRNA expression of PPARα
+and PPARδ (nuclear receptors). The mRNA expression of
+PPARαincreasednotonlyinskeletalmuscle,butalsoinliver.
+Activation and elevation of PPARα and PPARδ expression
+is known to increase expression of CPT1, ACO and UCP3
+to elevate energy expenditure, subsequently resulting in
+anti-obesity actions [37–40]. This suggests that AP acts on
+skeletal muscle and liver to increase energy expenditure.
+Furthermore, AP decreased mRNA expression of ACC and
+FAS, the rate-limiting enzymes of fatty acid synthesis in the
+liver, and mRNA expression of SREBP-1c, which controls the
+expression of these enzymes [41]. Furthermore, AP lowered
+the mRNA expression of PPARγ and LPL, which are related
+to fat intake by the liver (Figure 5). Reduced expressions of
+fatty acid synthetase [9], PPARγ [42, 43]a n dL P L[ 44]i n
+the liver suppress the onset of obesity and fatty liver. These
+ﬁndings indicate that the anti-obesity actions of AP are due
+to increased expression of energy expenditure-related genes
+in skeletal muscle and liver and decreased fatty acid synthesis
+and fat intake in the liver.
+Insulin resistance can be generated by decreased
+adiponectin secretion and increased TNF-α secretion [45,
+46]. AP increased mRNA expression of adiponectin and
+decreased mRNA expression of TNF-α in white adipose
+tissue (Figure 6). In white adipose tissue, AP administra-
+tion signiﬁcantly increased (by about 5-fold) the mRNA
+expression of PPARγ, which facilitates the expression of
+adiponectin [47]. Furthermore, AP signiﬁcantly increased
+the mRNA expression of GLUT4 in skeletal muscle
+(Figure 3). GLUT4 is one of the glucose transporters that
+are frequently expressed in skeletal muscle, and an increase
+in GLUT4 expression has been known to reduce insulin
+resistance [48]. AP thus reduces hyperglycemia and hyper-
+insulinemia, not simply through alleviated obesity, but
+through increased adiponectin secretion and suppressed
+TNF-α secretion in white adipose tissue, and increased
+GLUT4 expression in skeletal muscle.
+Various pharmacological actions of polyphenols have
+been reported. The AP used in the present study acted on
+skeletalmuscle,liver and whiteadipose tissueand wasshown
+to possess anti-obesity and anti-diabetic actions (Figure 7).Evidence-Based Complementary and Alternative Medicine 9
+While many studies have described plant extracts exhibiting
+anti-obesity and anti-diabetic actions, to the best of our
+knowledge, none have demonstrated anti-obesity and anti-
+diabetic actions via the modiﬁcation of energy expenditure-
+related genes in skeletal muscle. In recent years, selective
+PPARδ agonists, such as synthetic GW501516, have been
+shown to suppress body weight increase and reduce insulin
+resistance in obese diabetic mice [37, 38]. The present study
+suggests that AP is a plant extract with a novel mechanism of
+action with skeletal muscle as an active site.
+5. Conclusion
+In KKAy mice with high-fat diet-induced obesity, the anti-
+obesity actions of AP appear attributable to increased
+expression of energy expenditure-related genes in skeletal
+muscle and liver, and decreased fatty acid synthesis and
+fat intake in the liver. AP also reduced hyperglycemia
+and hyperinsulinemia by increasing adiponectin secretion
+and suppressing TNF-α secretion by white adipocytes, and
+elevating the expression of GLUT4 in skeletal muscle in
+addition to reducing obesity. In the future, AP seems to
+oﬀer potential as a plant extract that is useful for alleviating
+metabolic syndrome.
+References
+[1] K. N. Singh, R. K. Mittal, and K. C. Barthwal, “Hypoglycaemic
+activity of Acacia catechu, Acacia suma, and Albizzia odor-
+atissima seed diets in normal albino rats,” Indian Journal of
+Medical Research, vol. 64, no. 5, pp. 754–757, 1976.
+[2] A. Wadood, N. Wadood, and S. A. W. Shah, “Eﬀects of Acacia
+arabicaandcarallumaedulisonbloodglucoselevelsofnormal
+and alloxan diabetic rabbits,” Journal of the Pakistan Medical
+Association, vol. 39, no. 8, pp. 208–212, 1989.
+[3] D. G. Roux and E. A. Maihs, “Condensed tannins. 3.
+Isolation and estimation of (-)-7:3 :4 :5 -tetrahydroxyﬂavan-
+3-ol, (+)-catechin and (+)-gallocatechin from black-wattle-
+bark extract,” Biochemical Journal, vol. 74, pp. 44–49, 1960.
+[4] D. G. Roux and E. Paulus, “Condensed tannins. 7. Isolation of
+(-)-7:3 :4 -trihydroxyﬂavan-3-ol [(-)-ﬁsetinidol], a naturally
+occurringcatechinfromblack-wattleheartwood,”Biochemical
+Journal, vol. 78, pp. 120–123, 1961.
+[5] D.G.Roux,E.A.Maihs,andE.Paulus,“Condensedtannins.9.
+Distribution of ﬂavonoid compounds in the heartwoods and
+barks of some interrelated wattles,” Biochemical Journal, vol.
+78, pp. 834–839, 1961.
+[6] S. E. Drewes and D. G. Roux, “Condensed tannins. 15.
+Interrelationships of ﬂavonoid components in wattle-bark
+extract,” Biochemical Journal, vol. 87, pp. 167–172, 1963.
+[7] L.-K. Han, T. Takaku, J. Li, Y. Kimura, and H. Okuda, “Anti-
+obesity action of oolong tea,” International Journal of Obesity,
+vol. 23, no. 1, pp. 98–105, 1999.
+[8] T. Murase, A. Nagasawa, J. Suzuki, T. Hase, and I. Tokimitsu,
+“Beneﬁcial eﬀects of tea catechins on diet-induced obesity:
+stimulation of lipid catabolism in the liver,” International
+Journal of Obesity, vol. 26, no. 11, pp. 1459–1464, 2002.
+[ 9 ]Y .O h t a ,M .S a m i ,T .K a n d a ,K .S a i t o ,K .O s a d a ,a n dH .K a t a ,
+“Gene expression analysis of the anti-obesity eﬀect by apple
+polyphenolsinratsfedahighfatdietoranormaldiet,”Journal
+of Oleo Science, vol. 55, pp. 305–314, 2006.
+[10] A. Ruzaidi, I. Amin, A. G. Nawalyah, M. Hamid, and
+H. A. Faizul, “The eﬀect of Malaysian cocoa extract on
+glucose levels and lipid proﬁles in diabetic rats,” Journal of
+Ethnopharmacology, vol. 98, no. 1-2, pp. 55–60, 2005.
+[11] G.Klein,J.Kim,K.Himmeldirk,Y.Cao,andX.Chen,“Antidi-
+abetes and anti-obesity activity of Lagerstroemia speciosa,”
+Evidence-Based Complementary and Alternative Medicine, vol.
+4, no. 4, pp. 401–407, 2007.
+[12] T. Akase, T. Shimada, Y. Harasawa et al., “Preventive eﬀects
+of Salacia reticulate on obesity and metabolic dixorders in
+TSOD mice,” Evidence-Based Complementary and Alternative
+Medicine, 2009.
+[ 1 3 ]S .E .C h u a n g ,M .L .K u o ,C .H .H s ue ta l . ,“ C u r c u m i n -
+containing diet inhibits diethylnitrosamine-induced murine
+hepatocarcinogenesis,” Carcinogenesis, vol. 21, no. 2, pp. 331–
+335, 2000.
+[14] G. Peng, D. A. Dixon, S. J. Muga, T. J. Smith, and M. J. War-
+govich, “Green tea polyphenol (-)-epigallocatechin-3-gallate
+inhibits cyclooxygenase-2 expression in colon carcinogenesis,”
+Molecular Carcinogenesis, vol. 45, no. 5, pp. 309–319, 2006.
+[15] T.Enomoto,Y.Nagasako-Akazome,T.Kanda,M.Ikeda,andY.
+Dake,“Clinicaleﬀectsofapplepolyphenolsonpersistentaller-
+gic rhinitis: a randomized double-blind placebo-controlled
+parallel arm study,” Journal of Investigational Allergology and
+Clinical Immunology, vol. 16, no. 5, pp. 283–289, 2006.
+[16] N. J. Cutting, “The development and application of speciality
+wattle extracts,” Journal of the Society of Leather Technologies
+and Chemists, vol. 81, no. 3, pp. 89–93, 1997.
+[17] E.Stiasny,“Dieeinwiirkungvonformaldehydeaufgerbstoﬀe,”
+Der Gerber, vol. 740, pp. 186–188, 1905.
+[18] Y. Yazaki, Z. Guangcheng, and S. D. Searle, “Extractives
+Yields and polyﬂavanoid contents of Acacia mearnsii Barks in
+Australia,” Australian Forestry, vol. 53, pp. 148–53, 1990.
+[19] Y. Yazaki, R. Gu, Y. Lin, W. Chen, and N. K. Nguyen, “Analyses
+of black wattle (Acacia mearnsii) tannins-relationships among
+the hide-powder, the Stiasny and the ultra-violet (UV)
+methods,” Holzforschung, vol. 47, pp. 57–61, 1993.
+[20] D. G. Roux and S. R. Evelyn, “Condensed tannins. I. A study
+of complex leucoanthocyanins present in condensed tannins,”
+Biochemical Journal, vol. 69, pp. 530–538, 1958.
+[21] D. G. Roux and S. R. Evelyn, “The correlation between struc-
+ture and paper chromatographic behaviour of some ﬂavonoid
+compoundsandtannins,”JournalofChromatographyA,vol.1,
+pp. 537–544, 1958.
+[22] D. R. Matthews, J. P. Hosker, A. S. Rudenski, B. A. Naylor, D. F.
+Treacher, and R. C. Turner, “Homeostasis model assessment:
+insulin resistance and beta-cell function from fasting plasma
+glucose and insulin concentrations in man,” Diabetologia, vol.
+28, pp. 412–419, 1985.
+[23] L.-K.Han,Y.Kimura,andH.Okuda,“Reductioninfatstorage
+during chitin-chitosan treatment in mice fed a high-fat diet,”
+International Journal of Obesity, vol. 23, no. 2, pp. 174–179,
+1999.
+[ 2 4 ]S .H .P a r k ,S .K .K o ,a n dS .H .C h u n g ,“ E u o n y m u sa l a t u s
+prevents the hyperglycemia and hyperlipidemia induced by
+high-fat diet in ICR mice,” Journal of Ethnopharmacology, vol.
+102, no. 3, pp. 326–335, 2005.
+[25] K. Tsuchiya, H. Sakai, N. Suzuki et al., “Chronic blockade of
+nitric oxide synthesis reduces adiposity and improves insulin
+resistance in high fat-induced obese mice,” Endocrinology, vol.
+148, no. 10, pp. 4548–4556, 2007.10 Evidence-Based Complementary and Alternative Medicine
+[26] N. H. Rogers, J. W. P. Li, K. J. Strissel, M. S. Obin,
+and A. S. Greenberg, “Reduced energy expenditure and
+increased inﬂammation are early events in the development
+of ovariectomy-induced obesity,” Endocrinology, vol. 150, no.
+5, pp. 2161–2168, 2009.
+[27] F. Felipe, M. L. Bonet, J. Ribot, and A. Palou, “Up-regulation
+of muscle uncoupling protein 3 gene expression in mice
+following high fat diet, dietary vitamin A supplementation
+and acute retinoic acid-treatment,” International Journal of
+Obesity, vol. 27, no. 1, pp. 60–69, 2003.
+[28] S. H. Cha, Z. Hu, S. Chohnan, and M. D. Lane, “Inhibition
+of hypothalamic fatty acid synthase triggers rapid activation
+of fatty acid oxidation in skeletal muscle,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 102, no. 41, pp. 14557–14562, 2005.
+[ 2 9 ]O .H .L o w r y ,N .J .R o s e b r o u g h ,A .L .F a r r ,a n dR .J .R a n d a l l ,
+“Protein measurement with the Folin phenol reagent,” The
+Journal of Biological Chemistry, vol. 193, pp. 265–275, 1951.
+[30] U. K. Laemmli, “Cleavage of structural proteins during the
+assembly of the head of bacteriophage T4,” Nature, vol. 227,
+no. 5259, pp. 680–685, 1970.
+[31] K. Hayashi and M. Ito, “Antidiabetic action of low molecular
+weight chitosan in genetically obese diabetic KK-Ay mice,”
+Biological and Pharmaceutical Bulletin, vol. 25, no. 2, pp. 188–
+192, 2002.
+[32] A. Tsuchida, T. Yamauchi, S. Takekawa et al., “Peroxisome
+proliferator-activated receptor (PPAR)± activation increases
+adiponectin receptors and reduces obesity-related inﬂamma-
+tion in adipose tissue: comparison of activation of PPAR±,
+PPAR3, and their combination,” Diabetes, vol. 54, no. 12, pp.
+3358–3370, 2005.
+[33] R. Vianna, A. Brault, L. C. Martineau, R. Couture, J. T.
+Arnason, and P. S. Haddad, “In vivo anti-diabetic activity of
+the ethanolic crude extract of Sorbus decora C.K.Schneid.
+(Rosacea): a medical plant used by Canadian james bay cree
+nations to treat symptoms related to diabetes,” Evidence-Based
+Complementary and Alternative Medicine, 2009.
+[34] M. G. Dube, E. Beretta, H. Dhillon, N. Ueno, P. S. Kalra, and
+S. P. Kalra, “Central leptin gene therapy blocks high-fat diet-
+induced weight gain, hyperleptinemia, and hyperinsulinemia:
+increase in serum ghrelin levels,” Diabetes,v o l .5 1 ,n o .6 ,p p .
+1729–1736, 2002.
+[35] A. L. Hildebrandt, D. M. Kelly-Sullivan, and S. C. Black,
+“Antiobesity eﬀects of chronic cannabinoid CB1 receptor
+antagonist treatment in diet-induced obese mice,” European
+Journal of Pharmacology, vol. 462, no. 1–3, pp. 125–132, 2003.
+[36] Y.Sasaki,W.Suzuki,T.Shimadaetal.,“Dosedependentdevel-
+opment of diabetes mellitus and non-alcoholic steatohepatitis
+in monosodium glutamate-induced obese mice,” Life Sciences,
+vol. 85, no. 13-14, pp. 490–498, 2009.
+[37] T. Tanaka, J. Yamamoto, S. Iwasaki et al., “Activation of
+peroxisome proliferator-activated receptor δ induces fatty
+acid β-oxidation in skeletal muscle and attenuates metabolic
+syndrome,” Proceedings of the National Academy of Sciences of
+theUnitedStatesofAmerica,vol.100,no.26,pp.15924–15929,
+2003.
+[38] Y.-X. Wang, C.-L. Zhang, R. T. Yu et al., “Regulation of muscle
+ﬁber type and running endurance by PPARδ,” PLoS Biology,
+vol. 2, no. 10, article e294, 2004.
+[39] F. Villarroya, R. Iglesias, and M. Giralt, “PPARs in the control
+of uncoupling proteins gene expression,” PPAR Research, vol.
+2007, Article ID 74364, 12 pages, 2007.
+[40] M. J. Yoon, G. Y. Lee, J.-J. Chung, Y. H. Ahn, S. H. Hong, and J.
+B. Kim, “Adiponectin increases fatty acid oxidation in skeletal
+muscle cells by sequential activation of AMP-activated protein
+kinase, p38 mitogen-activated protein kinase, and peroxisome
+proliferator-activated receptoralpha,” Diabetes,v o l .5 5 ,n o .9 ,
+pp. 2562–2570, 2006.
+[41] H. Guillou, P. G. Martin, and T. Pineau, “Transcriptional
+regulation of hepatic fatty acid metabolism,” Sub-Cellular
+Biochemistry, vol. 49, pp. 3–47, 2008.
+[42] M. Inoue, T. Ohtake, W. Motomura et al., “Increased expres-
+sion of PPARγ in high fat diet-induced liver steatosis in mice,”
+Biochemical and Biophysical Research Communications, vol.
+336, no. 1, pp. 215–222, 2005.
+[43] T. Tanaka, H. Masuzaki, K. Ebihara et al., “Transgenic expres-
+sion of mutant peroxisome proliferator-activated receptor γ in
+liver precipitates fasting-induced steatosis but protects against
+high-fat diet-induced steatosis in mice,” Metabolism, vol. 54,
+no. 11, pp. 1490–1498, 2005.
+[44] J. K. Kim, J. J. Fillmore, Y. Chen et al., “Tissue-speciﬁc
+overexpression of lipoprotein lipase causes tissue-speciﬁc
+insulin resistance,” Proceedings of the National Academy of
+Sciences of the United States of America, vol. 98, no. 13, pp.
+7522–7527, 2001.
+[45] T. Kadowaki, T. Yamauchi, N. Kubota, K. Hara, K. Ueki, and
+K. Tobe, “Adiponectin and adiponectin receptors in insulin
+resistance, diabetes, and the metabolic syndrome,” Journal of
+Clinical Investigation, vol. 116, no. 7, pp. 1784–1792, 2006.
+[46] S. E. Borst, “The role of TNF-α in insulin resistance,”
+Endocrine, vol. 23, no. 2-3, pp. 177–182, 2004.
+[47] M. Iwaki, M. Matsuda, N. Maeda et al., “Induction of
+adiponectin, a fat-derived antidiabetic and antiatherogenic
+factor, by nuclear receptors,” Diabetes, vol. 52, no. 7, pp. 1655–
+1663, 2003.
+[48] A. Zorzano, M. Palac´ ın, and A. Gum` a, “Mechanisms reg-
+ulating GLUT4 glucose transporter expression and glucose
+transport in skeletal muscle,” Acta Physiologica Scandinavica,
+vol. 183, no. 1, pp. 43–58, 2005.

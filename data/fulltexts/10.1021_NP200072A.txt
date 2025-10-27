@@ -1,0 +1,381 @@
+Published: May 31, 2011
+Copyright r 2011 American Chemical Society and
+American Society of Pharmacognosy 1513 dx.doi.org/10.1021/np200072a|J. Nat. Prod. 2011, 74, 1513–1516
+NOTE
+pubs.acs.org/jnp
+Identification of Ostruthin from Peucedanum ostruthium Rhizomes as
+an Inhibitor of Vascular Smooth Muscle Cell Proliferation
+Helge Joa,
+†,§ Sylvia Vogl,
+†,§ Atanas G. Atanasov,*
+,† Martin Zehl,
+† Thomas Nakel,
+† Nanang Fakhrudin,
+†,^
+Elke H. Heiss,
+† Paolo Picker,
+† Ernst Urban,
+‡ Christoph Wawrosch,
+† Johannes Saukel,
+† Gottfried Reznicek,
+†
+Brigitte Kopp,
+† and Verena M. Dirsch
+†
+†Department of Pharmacognosy, University of Vienna, Althanstrasse 14, 1090 Vienna, Austria
+‡Department for Medicinal Chemistry, University of Vienna, Althanstrasse 14, 1090 Vienna, Austria
+b S Supporting Information
+C
+oronary artery disease induced by atherosclerosis is one of
+themajorcausesofdeath inthe Western world.
+1Onemajor
+pathological change associated with atherosclerosis is thickening
+of the arterial wall and progressive narrowing of the arterial
+lumen,leadingtoinsuﬃcientbloodﬂow.Proliferationofvascular
+smooth muscle cells (VSMC) in the intima layer of the arterial
+wall is one of the major components of the narrowing process,
+besides ongoing inﬂammatory processes.
+2 There are already
+several pharmaceuticals used to combat pathological VSMC
+proliferation, but their action is not optimal due to long-term
+side eﬀects. Therefore, there is still a need to identify new active
+compounds.
+3,4
+Natural products represent an excellent resource for the
+identiﬁcation of new lead structures.
+5 Austria and its adjacent
+regions have a rich history in traditional folk medicine. In order to
+conserve this ethnopharmacological knowledge, the VOLKSMED
+database was created.
+6 Since inﬂammation is associated with very
+diverse pathological conditions, including atherosclerosis, plants
+used traditionally to treat inﬂammatory conditions were retrieved
+from the VOLKSMED database. In an ongoing screening program,
+extracts of these plants were tested for their ability to inhibit VSMC
+proliferation. This bioactivity screening procedure revealed an
+activityofthedichloromethane(CH2Cl2) extractfromPeucedanum
+ostruthium (L.) WDJ Koch (Apiaceae) rhizomes. Peucedanum
+species, especially the rhizomes of P. ostruthium, have a long history
+in Austrian traditional medicine for the treatment of inﬂammatory
+diseases.Furthermore,ananti-inﬂammatoryactionofaP.ostruthium
+rootextracthasbeendemonstratedinvivoonoraladministrationto
+rats with carrageenan-induced rat paw edema.
+7
+To test whether the CH2Cl2 extract of P. ostruthium rhizomes
+concentration dependently inhibits serum (10%)-induced pro-
+liferation of rat aortic VSMC, this extract was applied at
+concentrations of 3 to 30 μg/mL (Figure 1), and resazurin
+conversion after 48 h was measured.
+8 Serum-stimulated VSMC
+weretakenaspositivecontrolandserum-starvedcellsasnegative
+control. Data quantiﬁcation revealed that the CH2Cl2 extract of
+Figure 1. Peucedanum ostruthium rhizome CH2Cl2 extract inhibits the
+proliferationofVSMC.Theextractwasappliedat3,10,and30μg/mL,and
+after 30 min thecells werestimulated with 10% serumfor48 h, followed by
+quantiﬁcationoftheproliferationbytheresazurinconversionmethod.Final
+DMSOconcentrationinallsampleswas0.1%.Allvalueswerenormalizedto
+the signal obtained from the unstimulated, vehicle (0.1% DMSO)-treated
+cells and therefore represent the fold activation of proliferation above the
+basal level. The graph is representative for three independent experiments
+with consistent results (mean ( SD), **p <0 . 0 1( A N O V A / T u k e y ) .
+Received: January 25, 2011
+ABSTRACT:Inhibitionofvascularsmoothmusclecell(VSMC)
+proliferation is of substantial interest in combating cardiovascular
+disease. A dichloromethane extract from the rhizomes of Peuce-
+danum ostruthium, a traditionally used Austrian medicinal plant
+with anti-inﬂammatory properties, was examined for a putative
+antiproliferative activityinrataorticVSMC.Thisextractinhibited
+serum (10%)-induced VSMC proliferation concentration depen-
+dently. Further identiﬁcation and biological testing of its major
+constituentsrevealedthatthecoumarinostruthin(7)i st h em a j o r
+antiproliferative substance. In summary, a new bioactivity of P.
+ostruthium rhizomes is described, and 7 has been identiﬁed as the responsible compound.1514 dx.doi.org/10.1021/np200072a |J. Nat. Prod. 2011, 74, 1513–1516
+Journal of Natural Products NOTE
+P. ostruthium rhizomes inhibits the proliferation of VSMC with
+an IC50 value of 24 ( 14 μg/mL.
+It has been reported previously that coumarins are major
+bioactive constituents of extracts from P. ostruthium rhizomes.
+7,9
+Furthermore, in a parallel study, we have performed a comprehen-
+sivequalitativeandquantitativeanalysisofthemaincoumarins
+in extracts from P. ostruthium rhizomes.
+10 High-performance
+liquid chromatography diode-arraydetection massspectrometry
+(HPLC-DAD-MS) proﬁling of the CH2Cl2 extract investigated in
+this study (Figure 2) led to the identiﬁcation of seven coumarins as
+major constituents (1 7). The total coumarin content in this
+CH2Cl2extractwasdeterminedtobe78%,whereasthecontentper
+gram dry weight of plant material was 6%. Ostruthin (7)w a s
+quantiﬁed as the main coumarin (41% of the total coumarin
+content), followed by oxypeucedanin (2, 18%), ostruthol (3,
+13%), imperatorin (4, 12%), isoimperatorin (6, 9%), oxypeuceda-
+nin hydrate (1,6 % ) ,a n do s t h o l e( 5,1 % ) .
+After the identiﬁcation of the seven major coumarin consti-
+tuents of the CH2Cl2 extract of P. ostruthium rhizomes, their
+individual antiproliferative activities in serum-stimulated VSMC
+were investigated. Compounds 1, 2, and 4 6 were obtained
+from commercial sources. Ostruthol (3) and ostruthin (7) were
+isolated by preparative HPLC, the identity was conﬁrmed by
+massspectrometryand1Dand2DNMRspectroscopy,andtheir
+puritywasshowntobe>98%byHPLC-DAD,HPLC-ELSD,and
+NMR. Compounds 1 7 were all applied at 30 μM, but only 7
+exhibited signiﬁcant antiproliferative activity (Figure 3). Since 7
+was the main compound in the extract (Figure 2), as well as the
+most active among the seven major constituents (Figure 3), it is
+concluded that 7 is the major active compound in the CH2Cl2
+extract of P. ostruthium rhizomes inhibiting VSMC proliferation.
+Furthermore, 7 constitutes around 32% of the total extract. The
+IC50 value determined for the CH2Cl2 extract, i.e., 24 μg/mL,
+corresponds to about 26 μMo f7. Since 7 inhibited VSMC
+proliferation with an IC50 of 11 ( 2 μM, its activity can entirely
+explain the inhibitory properties of the plant crude extract.
+The resazurin assay method used is based on the metabolic
+conversion of resazurin to the ﬂuorescent resoruﬁn, which
+correlates to the cell number. To validate the potential of 7 to
+inhibit VSMC proliferation, the rate of de novo DNA synthesis
+via BrdU incorporation was measured (Figure 4). As expected,
+ostruthin concentration dependently inhibited the serum-in-
+duced DNA synthesis, with an IC50 of 17 ( 6 μM. Furthermore,
+the IC50 value at which the CH2Cl2 extract inhibited DNA
+synthesis was 18 ( 4 μg/mL. Since 18 μg/mL extract solution
+corresponds to 19 μM ostruthin, the DNA synthesis inhibitory
+propertiesoftheplantcrudeextractcanalsobeentirelyexplained
+by that single chemical constituent. No signiﬁcant diﬀerences in
+the cell viability assessed by trypan blue exclusion test was
+detected in the presence of ostruthin in the used concentration
+range, with a cell viability of 98 ( 2% and 92 ( 6% for the
+untreated and ostruthin (30 μM)-treated cells, respectively
+(mean ( SD, n =4 ,p > 0.05, Student’s t test).
+An antiproliferative action of 7 in VSMC has not been
+reported before. However, one study examined an antiprolifera-
+tive action (IC50 of 13.6 ( 1.8 μM) of the structurally similar
+osthole (5) isolated from Angelica pubescens in the smooth
+muscle cell line A10.
+11 In contrast, when applied at 30 μMw e
+didnotobserveanysigniﬁcantinhibitoryactionbyostholeinour
+modelsystemutilizingprimaryrataortaVSMC(Figure3).Since
+thestructurallysimilarlinearfuranocoumarins(Figure3)alsodo
+nothaveaneﬀectontheproliferationofVSMC,itwasconcluded
+Figure 2. HPLC chromatogram (310 nm) of the CH2Cl2 extract of
+Peucedanum ostruthium rhizome. Peak identities: 1, oxypeucedanin
+hydrate; 2, oxypeucedanin; 3, ostruthol; 4, imperatorin; 5, osthole; 6,
+isoimperatorin; 7, ostruthin.
+Figure 3. Ostruthin (7) is the active compound of the Peucedanum
+ostruthium CH2Cl2 extract. The major compounds of this extract,
+oxypeucedanin hydrate (1), oxypeucedanin (2), ostruthol (3), imper-
+atorin (4), osthole (5), isoimperatorin (6), and ostruthin (7), were
+tested for an antiproliferative action on VSMC utilizing the resazurin
+conversion method. All compounds were tested in a concentration of
+30 μM. Ostruthin (7) was the only compound signiﬁcantly inhibiting
+serum-stimulated VSMC proliferation (mean ( SD, n =3 ,* p < 0.05;
+ANOVA/Tukey).1515 dx.doi.org/10.1021/np200072a |J. Nat. Prod. 2011, 74, 1513–1516
+Journal of Natural Products NOTE
+that the geranyl group at the C-6 position may be necessary for
+the inhibitory eﬀect. To validate this speciﬁce ﬀect of the geranyl
+group, the inhibitory potential for several further coumarins and
+furanocoumarins was tested, namely, auraptene, bergamottin,
+bergapten, bergaptol, heraclenin, isobergapten, isopimpinellin,
+scopoletin, and umbelliferone (Figures S1 and S2, Supporting
+Information), which all share some structural similarity to 7, but
+lack the C-6 geranyl group. Indeed, none of these compounds
+signiﬁcantly inhibited VSMC proliferation at a concentration of
+30 μM, underlining the speciﬁc action of 7, among the com-
+pounds tested.
+’EXPERIMENTAL SECTION
+Reagents. Cell culture reagents including Dulbecco’s modified Eagle’s
+medium (DMEM) without phenol red containing 4.5 g/L glucose, gluta-
+mine, calf serum, penicillin, and streptomycin were obtained from Lonza
+Group Ltd. (Basel, Switzerland). Trypsin was purchased from Invitrogen
+(Carlsbad, CA), and DMSO was from Fluka (Buchs, Switzerland).
+Acetonitrile, dichloromethane, ethyl acetate, hexane, and methanol
+(MeOH) were HPLC grade and purchased from VWR (Vienna,
+Austria). Glacial acetic acid was obtained from Carl Roth (Karlsruhe,
+Germany). Imperatorin (4), isoimperatorin (6), oxypeucedanin (2),
+andoxypeucedaninhydrate(1)wereallof99%purityandpurchasedfrom
+HerborealLtd.(Edinburgh,U.K.).Osthole(5)withapurityof98.9%was
+fromChromadex(Irvine,CA). Waterwas distilled byanautomaticwater
+distillation apparatus (IKA Dest. M3000). All other reagents were from
+Carl Roth (Karlsruhe, Germany), if not stated otherwise.
+Cell Culture. VSMC from thoracic aortas of Sprague Dawley rats
+were kindly provided by Dr. Kathy K. Griendling (Emory University,
+Atlanta, GA). VSMC were grown and seeded at the indicated density in
+DMEM containing glutamine, penicillin/streptomycin, and 10% calf
+serum. Basic cellparameters were checked routinely usingacell viability
+analyzer (ViCell, Beckman Coulter, Brea, CA), and cell passages 5 to 15
+were used for the experiments.
+PlantMaterial.P.ostruthiumrhizomeswerepurchasedfromKottas
+Pharma GmbH, Vienna, Austria (collected in 2008, batch: KLA70807).
+The species identity of the plant material was authenticated macro-
+scopicallyandmicroscopicallybyoneoftheauthors(J.S.),andchemical
+fingerprinting was done by TLC and HPLC-DAD-MS. A voucher
+specimen is deposited at the Department of Pharmacognosy, University
+of Vienna, Austria (number: Po001).
+ExtractionandIsolationofOstruthol(3)andOstruthin(7).
+The dried and powdered roots of P. ostruthium (367.5 g) were extracted
+with CH2Cl2 and subsequently with MeOH using an ASE200 acceler-
+ated solvent extractor (Dionex Corp., Sunnyvale, CA). The instrument
+was equipped with 22 mL stainless steel extraction cells and 60 mL glass
+collectionbottles.Threeextractioncycleswith5minheat-uptime,2min
+static time, 10% flush volume, and 60 s nitrogen purge were used.
+Extractionwasdoneat40 Cand150bar.Weobtained37.8gofCH2Cl2
+extract and 81.2 g from the MeOH extract. From the MeOH extract,
+tannins were depleted using a method published by Wall et al.
+12 A 2.3 g
+amount of the detannified MeOH extract was then further fractionated
+by solid-phase extraction on a 60 cm
+3 Bond Elut C18 cartridge (Varian,
+Harbor City, CA) eluted with solutions of30%, 70%, and 100% MeOH.
+A 181 mg amount of the 30% MeOH subfraction, 925 mg of the 70%
+MeOH subfraction, and 716 mg of the 100% MeOH SPE subfraction
+were obtained. A 420 mg aliquot of the 70% MeOH subfraction was
+separated by preparative HPLC using an instrument from Shimadzu
+(LC-8A)withanautosampler(SIL-10AP),adiodearraydetector(SPD-
+M20A9), andafractioncollector (FRC-10A). Chromatographic separa-
+tionwasobtainedatroom temperatureonaVP250/21Nucleosil100-7
+C18columnataflowrateof20.8mL/min.Thesolventsystemconsisted
+ofH2O(A)andacetonitrile(B)usinggradientelutionstartingwith15%
+Bfor3min,in2minto20%B,in10minto30%B,in3minto45%B,in
+7 min to 50% B, in 10 min to 70% B, in 3 min to 85% B, and in 5 min to
+95%B.Sixrunswithanaverageloadof70mgofextractwereperformed,
+leading to a total of 420 mg. Fractions were collected every 30 s starting
+after 20 min, obtaining nine subfractions. Subfraction 6 (37 mg)
+contained mainly 3 and low amounts of peucenin. An 18 mg portion
+ofthisfractionwaspurifiedonsilicagelSPEcartridgesusinghexaneand
+ethyl acetate (8:2), resulting in 3.8 mg of peucenin. Elution with hexane
+and ethyl acetate (3:1) yielded 12 mg of 3 (purity >98%, confirmed by
+HPLC-ELSDandNMR).Subfraction9containedpure7(30mg;purity
+>98%, confirmed by HPLC-ELSD and NMR). The identification of 3
+and 7 was confirmed by 1D and 2D NMR spectroscopy, ESIMS, and
+comparison of the
+1H and
+13C NMR data with literature values.
+10,13 15
+Identification and Quantification of Coumarins by High-
+Performance Liquid Chromatography Diode Array Detec-
+tor (HPLC-DAD) and HPLC-DAD Mass Spectrometry. Com-
+prehensivequalitativeandquantitativeanalysisofthemaincoumarinsin
+extractsfromP.ostruthiumrhizomeswasrecentlydescribedelsewhere.
+10
+Briefly, analytical HPLC separation was performed on an Acclaim C18
+reversed-phase column from Dionex (2.1   150 mm, 3 μm) at 38  C
+and a flow rate of 0.5 mL/min with a water (A) and acetonitrile (B)
+gradient containing 0.01% acetic acid. The gradient was 25 37% B in
+6 min, 37 45% B in 8 min, 45 65% B in 10 min, 65 95% B in 1 min,
+and isocratic at 95% B for 5 min. Tentative identification of the main
+coumarins was facilitated by HPLC-DAD-MS in an automated data-
+dependent acquisition mode. These analyses were performed on an
+UltiMate 3000 RSLC-series system (Dionex, Germering, Germany)
+coupled to a 3D quadrupole ion trap mass spectrometer equipped with
+an orthogonal ESIsource(HCT, Bruker Daltonics, Bremen, Germany).
+The identity of 1, 2, and 4 6 was confirmed by comparison of their
+retention times and UV spectra with authentic references.
+10 The main
+coumarins were quantified by a validated HPLC-DAD method at a
+detectionwavelengthof310nmwithimperatorinasexternalstandard.A
+Shimadzu Prominence HPLC system was used for these analyses.
+Resazurin Conversion Assay. The assay is based on the meta-
+bolic conversion of resazurin to fluorescent resorufin, which correlates
+with cell number.
+8 Cells were seeded in transparent 96-well plates (1  
+10
+4 cells/well), serum-starved for 24 h, pretreated with the indicated
+concentrations of the respective samples or vehicle for 30 min, and
+subsequentlystimulatedfor48hwithcalfserum(10%).Then,cellswere
+washed with PBS and incubated in DMEM containing 10 μg/mL
+resazurin for 2 h. Samples were measured by monitoring the increase
+Figure 4. Ostruthin (7) inhibits serum-stimulated proliferation of
+VSMC in a concentration-dependent manner. Serum-starved VSMC
+werepretreatedwiththeindicatedconcentrationsof7orDMSO(0.1%)
+for 30 min, BrdU (10 μM) was added, and cells were stimulated with
+10% serum for 20 h. Incorporation of BrdU was measured at the end of
+thestimulationperiod.Allvalueswerenormalizedtothesignalobtained
+from the unstimulated, vehicle (0.1% DMSO)-treated cells and there-
+fore represent the fold activation of proliferation above the basal level
+(SEM, n =3 ,* p < 0.05; ANOVA/Tukey).1516 dx.doi.org/10.1021/np200072a |J. Nat. Prod. 2011, 74, 1513–1516
+Journal of Natural Products NOTE
+influorescenceatawavelengthof580nmusinganexcitationwavelength
+of 535 nm in a 96-well plate reader (Tecan GENios Pro; Tecan Group
+Ltd., M€ annedorf, Switzerland).
+5-Bromo-20-deoxyuridineIncorporation.Asameasurementof
+DNA synthesis, 5-bromo-20-deoxyuridine (BrdU) incorporation was de-
+termined using a cell proliferation kit (Roche Diagnostics) as previously
+described.
+16 Briefly, VSMC were seeded into black (transparent flat
+bottom) 96-well plates (1   10
+4 cells/well), serum-starved for 24 h,
+pretreated with test samples or vehicle (0.1% final concentration of DMSO
+in all samples) for 30 min, and subsequently stimulated with calf serum
+(10%). After 30 min, BrdU (10 μM) was added, and the cells were
+cultivated for another 20 h. Afterward, cells were fixed and stained with an
+enzyme-coupled anti-BrdU antibody according to the manufacturer’s
+instructions. Relative light units were determined using a 96-well plate
+reader (Tecan GENios Pro; Tecan Group Ltd., M€ annedorf, Switzerland).
+Trypan Blue Exclusion Test. The trypan blue viability test is based
+on the principle that living cells possess intact cell membranes that are not
+permeable to the trypan blue dye, whereas dead cells have disrupted
+membrane integrity and in the presence of the dye are colored blue. To
+assessthecellviability,VSMCwereseededinsix-wellplates(1 10
+5cells/
+well), serum starved for 24 h, pretreated with ostruthin for 30 min, and
+subsequentlystimulatedwithcalfserum(10%).Theviabilityofthecellswas
+assessed 24 h later by trypan blue exclusion utilizing an automated cell
+viability analyzer (ViCell, Beckman Coulter, Brea, CA).
+Statistical Analysis. Data were evaluated as means ( standard
+deviation from at least three independent experiments. IC50 values were
+determined by nonlinear regression using Data Analysis Toolbox soft-
+ware (MDL Information Systems Inc., Nashville, TN). Statistical
+significance was determined by ANOVA using Tukey post hoc test,
+and the results with p < 0.05 were considered significant.
+’ASSOCIATED CONTENT
+b S Supporting Information. Results regarding the antipro-
+liferative activity of additional structurally related coumarins and
+furanocoumarins are available free of charge via the Internet at
+http://pubs.acs.org.
+’AUTHOR INFORMATION
+Corresponding Author
+*Tel:þ43-1-4277-55226.Fax:þ43-1-4277-9552.E-mail:atanas.
+atanasov@univie.ac.at.
+Notes
+^Permanent address: Department of Pharmaceutical Biology,
+Gadjah Mada University, Sekip Utara, Yogyakarta, 55281,
+Indonesia.
+Author Contributions
+§These authors contributed equally to this work.
+’ACKNOWLEDGMENT
+We thank J. Benedics, H. Beres, and D. Schachner for their
+excellent technical assistance. This work was supported by the
+Austrian Science Fund (FWF) [Grants NFN S10704-B03, NFN
+S10706-B03, and NFN S10708-B03].
+’REFERENCES
+(1) Rader, D. J.; Daugherty, A. Nature 2008, 451, 904–913.
+(2) Ivey, M. E.; Osman, N.; Little, P. J. Atherosclerosis 2008,
+199, 237–247.
+(3) Dzau, V. J.; Braun-Dullaeus, R. C.; Sedding, D. G. Nat. Med.
+2002, 8, 1249–1256.
+(4) Raja, S. G. Ann. Thorac. Surg. 2006, 81, 1162–1171.
+(5) Newman, D. J.; Cragg, G. M. J. Nat. Prod. 2007, 70, 461–477.
+(6) Saukel, J.; Kubelka, W. Sci. Pharm. 1993, 62, 100.
+(7) Hiermann, A.; Schantl, D. Planta Med. 1998, 64, 400–403.
+(8) Ahmed, S. A.; Gogal, R. M., Jr.; Walsh, J. E. J. Immunol. Methods
+1994, 170, 211–224.
+(9) Hiermann, A.; Schantl, D.; Schubert-Zsilavecz, M.; Reiner, J.
+Phytochemistry 1996, 43, 881–883.
+(10) Vogl, S.; Zehl, M.; Picker, P.; Urban, E.; Wawrosch, C.;
+Reznicek, G.; Saukel, J.; Kopp, B. J. Agric. Food. Chem. 2011, 59, 4371–
+4377.
+(11) Guh, J. H.; Yu, S. M.; Ko, F. N.; Wu, T. S.; Teng, C. M. Eur. J.
+Pharmacol. 1996, 298, 191–197.
+(12) Wall,M.E.;Wani,M.C.;Brown,D.M.;Fullas,F.;Olwald,J.B.;
+Josephson, F. F.; Thornton, N. M.; Pezzuto, J. M.; Beecher, C. W. W.;
+Farnsworth, N. R.; Cordell, G. A.; Kinghorn, A. D. Phytomedicine 1996,
+3, 281–285.
+(13) Liu, R.; Sun, Q.; Shi, Y.; Kong, L. J. Chromatogr. A 2005,
+1076, 127–132.
+(14) Khaled, S. A.; Szendrei, K.; Novak, I.; Reisch, J. Phytochemistry
+1975, 14, 1461–1462.
+(15) Perel’son, M.; Sheinker, Y.; Syrova, G. Chem. Nat. Compd.
+1971, 7, 557–562.
+(16) Schwaiberger, A. V.; Heiss, E. H.; Cabaravdic, M.; Oberan, T.;
+Zaujec, J.; Schachner, D.; Uhrin, P.; Atanasov, A. G.; Breuss, J. M.;
+Binder, B. R.; Dirsch, V. M. Arterioscler. Thromb. Vasc. Biol. 2010,
+30, 2475–2481.

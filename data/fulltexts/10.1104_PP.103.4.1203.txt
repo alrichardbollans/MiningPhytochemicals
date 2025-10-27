@@ -1,0 +1,832 @@
+Plant Physiol. (1993) 103: 1203-1210 
+Separate de Novo and Salvage Purine Pools 
+Are lnvolved in the Biosynthesis of Theobromine but 
+Not Caffeine in Leaves of Coffea arabica 1.’ 
+Cladys M. Nazario* and Caro1 J. Lovatt* 
+Department of Botany and Plant Sciences, University of California, Riverside, California 92521 -01 24 
+In Coffea arabica leaves, the purine ring of theobromine (3,7- 
+dimethylxanthine) and caffeine (1,3,7-trimethylxanthine) i s  pro- 
+vided by de novo purine biosynthesis: (a) [14C]glycine, [14C]bi- 
+carbonate, and [14C]formate were incorporated into inosine 5’- 
+monophosphate (IMP), sum of adenine nucleotides (ZAde), theo- 
+bromine, and caffeine; and (b) incorporation of [14C]formate into 
+IMP, ZAde, theobromine, and caffeine was inhibited by azaserine, 
+a known inhibitor of de novo purine biosynthesis. Capacity of 
+coffee leaves to salvage added purines was demonstrated by in- 
+corporation of [14C]hypoxanthine into ZAde and the incorporation 
+of [“Cladenosine, [14C]adenine, [“Clinosine, and [‘4C]hypo- 
+xanthine into both theobromine and caffeine. Consistent with 
+synthesis of theobromine from two separate purine nucleotide 
+pools, one synthesized de novo and one via salvage, added xanthine 
+5‘-monophosphate (XMP), inosine, or hypoxanthine failed to re- 
+duce the incorporation of [14C]formate into theobromine but di- 
+luted the specific radioactivity of [“C]adenosine and [14C]adenine 
+incorporated into theobromine. Evidence that theobromine is not 
+the immediate precursor of caffeine i s  provided: (a) [14C]xanthine 
+was incorporated into caffeine but not into theobromine; (b) ex- 
+ogenous xanthine diluted the specific radioactivity of caffeine 
+synthesized from [“Cladenine and [14C]hypoxanthine but caused 
+accumulation of radiolabel in  theobromine; (c) allopurinol, a 
+known inhibitor of the conversion of hypoxanthine to xanthine, 
+reduced incorporation of [‘%Iadenine and [14C]hypoxanthine 
+into caffeine but caused accumulation of radiolabel in  theobro- 
+mine; and (d) incorporation of [14C]formate into caffeine, but 
+not into theobromine, was reduced by added XMP, inosine, or 
+hypoxanthine. 
+~~~~ ~ ~ ~ 
+Attempts to elucidate the pathway by which theobromine 
+(3,7-dimethylxanthine) is synthesized in Coffea arabica have 
+been limited exclusively to studies of the metabolism of 
+preformed nucleosides and bases or their 1-, 3-, or 7-meth- 
+ylated counterparts (Looser et al., 1974; Suzuki and Taka- 
+hashi, 1975a; Roberts and Waller, 1979; Suzuki and Waller, 
+1984). The results of these studies demonstrated that radio- 
+labeled adenine, guanine, and xanthine were incorporated 
+into 7-methylxanthine, theobromine, and caffeine (Suzuki 
+~ ~ ~ 
+’ Supported in part by a fellowship from the Graduate Division, 
+University of Califomia, Riverside, and by the Citrus Research Center 
+and Agricultura1 Experiment Station of the University of Califomia, 
+Riverside. 
+This paper represents a portion of the dissertation submitted by 
+G.M.N. in partia1 fulfillment of the requirements for a Ph.D. in 
+Botany at the University of Califomia. 
+* Corresponding author; fax 1-909-787-4437. 
+and Waller, 1984; Negishi et al., 1985c), whereas the radio- 
+labeled ribosides were first incorporated into 7-methylxan- 
+thosine and then into 7-methylxanthanine, theobromine, and 
+caffeine (Negishi et al., 1992). Both 7-methylxanthosine and 
+7-methylxanthine were methylated to form theobromine and 
+caffeine, but 7-methylinosine and 7-methylguanosine were 
+not (Looser et al., 1974; Baumann and Wanner, 1977). In 
+view of these results, there is much speculation regarding the 
+substrate of the first methylation step and subsequent enzyme 
+reactions leading to the synthesis of theobromine (Ogutuga 
+and Northcote, 1970a, 1970b; Baumann and Wanner, 1977; 
+Baumann et al., 1978; Roberts and Waller, 1979; Waller et 
+al., 1983; Suzuki and Waller, 1984; Suzuki et al., 1992). In 
+addition, the relationship between theobromine and caffeine 
+(1,3,7-trimethylxanthine) remains equivocal. Paraxanthine 
+(1,7-dimethylxanthine) was a better substrate for methylation 
+than theobromine or theophylline in the synthesis of caffeine 
+in both C. arabica (Roberts and Waller, 1979; Ashihara and 
+Nobusawa, 1981) and Camellia sinensis (Suzuki and Taka- 
+hashi, 1975a). However, both coffee fruit and tea leaves 
+incorporated 1- and 7-[’*CH3]xanthine predominantly into 
+theophylline and theobromine, respectively; incorporation 
+into paraxanthine was negligible (Suzuki and Takahashi, 
+1975a; Roberts and Waller, 1979). 
+Additional evidence that theobromine is an immediate 
+precursor of caffeine was provided by studies using tea 
+leaves: (a) radiolabeled adenine (Ashihara and Kubota, 1986; 
+Fujimori and Ashihara, 1990; Fujimori et al., 1991), guanine, 
+and hypoxanthine (Suzuki and Takahashi, 1976a, 1976b; 
+Ashihara and Kubota, 1987) were incorporated into theo- 
+bromine and caffeine to a greater extent than into theophyl- 
+line by intact leaves; (b) during leaf development, theobrom- 
+ine content decreased as the concentration of caffeine 
+increased (Ashihara and Kubota, 1986); and (c) cell-free 
+extracts of tea leaves converted 7-methylxanthosine and 7- 
+methylxanthine to both theobromine and caffeine (Suzuki 
+and Takahashi, 1975a; Negishi et al., 1985a, 1985b; Fujimori 
+et al., 1991). 
+In the present study, we contrasted the role of purines 
+produced endogenously via the de novo pathway in the 
+synthesis of theobromine and caffeine with that of purines 
+Abbreviations: ZAde, sum of the adenine nucleotides, adenosine, 
+and adenine, obtained by converting the adenine nucleotides and 
+adenosine to adenine by acid hydrolysis at 100OC; XMP, xanthine 
+5 ’ -monophosphate. 
+1203 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+1204 Nazario and Lovatt Plant Physiof. Vol. 103, 1993 
+generated via the various salvage or catabolic reactions from 
+exogenously supplied pools. We also addressed the specific 
+question of whether theobromine is the immediate precursor 
+of caffeine in coffee leaves. To undertake this study, we 
+developed two new methods for isolating and quantifying 
+the amount of theobromine and caffeine synthesized from 
+radiolabeled precursors by intact cells of leaves of C. arabica. 
+Each method, with the proof of its reliability, is reported in 
+this communication. 
+MATERIALS AND METHODS 
+Chemicals 
+A11 radiolabeled chemicals were purchased from ICN Phar- 
+maceuticals, Inc., except [8-'4C]inosine, which was purchased 
+from Amersham Corp. Liquiscint (liquid scintillation cocktail) 
+was purchased from National Diagnostics. Mineral salts for 
+both Shive's and Hoagland nutrient solutions were of ana- 
+Iytical reagent quality and were purchased from Fisher Sci- 
+entific Co. A11 other chemicals were purchased from Sigma. 
+Determination of Radioisotope Content 
+To determine the content of radioisotope, samples were 
+prepared as described in the text and then diluted with 6.5 
+mL of liquiscint for each 2 mL of sample. The content of 
+radioisotope was measured using a Beckman LS 9000 liquid 
+scintillation spectrometer. Each datum was corrected for 
+quenching by an automatic extemal standardization system 
+of quench analysis. A standard quench curve was detennined 
+by using a series of samples containing a known quantity of 
+'4C-radioactivity and an increasing amount of chemical 
+quencher (CHC13). Data are presented as the means f SE with 
+the number of experiments given in parentheses. 
+Plant Material 
+Coffee (Coffea arabica L.) seedlings were donated by the 
+Department of Agriculture in Puerto Rico and imported to 
+Califomia in accordance with U.S. Department of Agriculture 
+regulations. The seedlings were transplanted in University of 
+Califomia soil mix and fertilized twice a week with half- 
+strength Hoagland nutrient solution (Hoagland and Amon, 
+1950). Young, fully expanded leaves from trees that were 1 
+to 5 years old were used in a11 experiments. The leaves were 
+coilected just prior to the experiments, washed with distilled 
+H20, and quickly blotted dry before weighing. 
+lncorporation of Radiolabeled Precursors into Purine 
+Nucleotides, Theobromine, and Caffeine 
+Leaves of C. arabica (500 mg fresh weight, midrib removed 
+and cut in 5- X 5-mm pieces) were routinely preincubated 
+for 2 h at 3OoC ir1 5 mL of Shive's nutrient solution (Shive 
+and Robbins, 1938) [5 m~ Ca(N03), 2 m~ MgS04, 2 m~ 
+KzS04, 1 m~ KH2P04,  1 mg of Fe L-', 0.13 mg of C1 L-', 1 
+mg of Mn L-', 0.1 mg of Zn L-', 0.1 mg of B L-', 0.01 mg of 
+Cu L-', and 0.01 mg of Na L-'1 adjusted to pH 7.4. At the 
+end of the preincubation period, the nutrient solution was 
+decanted, and the leaf tissue was immediately transferred to 
+fresh Shive's nutrient solution supplemented with one of  the 
+following radiolabeled precursors at the final concentration 
+and specific radioactivity indicated: 5 m~ ['4C]formate, 3300 
+dpm nmol-'; 2 m~ [l-'4C]Gly, 400 dpm nmol-I; 25 m~ ["C]- 
+bicarbonate, 2640 dpm nmol-'; 2 m~ [8-14C]inosine, 1100 
+dpm nmol-'; 2 m [8-'4C]adenosine, 1100 dpm nmol-I; 2 
+m~ [8-'4C]adenine, 1100 dpm nmol-'; 2 m~ [8-'4C]theoph- 
+ylline, 150 dpm nmol-'; 2 m~ [l-'4CH3]caffeine, 200 dpm 
+nmol-'; [8-14C]hypoxanthine, 200 dpm nmol-'; 2 m~ [8-'4C]- 
+xanthine, 400 dpm nmol-'; 2 m~ ~-[ '~cH~]Met,  1540 dpm 
+nmol-'; and any other additives in a final volume of !i mL, 
+pH 7.4. 
+Reaction mixtures were incubated for 3 or 7 h at 30'T in 
+a water bath shaker. Incubations were camed out in 2,5-mL 
+Erlenmeyer flasks, each sealed with a rubber stopper fitted 
+with a plastic center well containing a filter paper wick. Just 
+before the reactions were terminated, 0.3 mL of 20% (w/v) 
+KOH was injected into the center well to absorb any I4CO2 
+released during the incubation. The reactions were then 
+terminated by injecting 1 mL of 6 N HC1O4 or 15 mL of 95% 
+(v/v) ethanol into the main chamber of the flask for the 
+subsequent isolation of theobromine or caffeine, respectively. 
+The contents of the main chamber of the flask wertt ho- 
+mogenized with a Polytron homogenizer (PCU-2, speed 6; 
+Brinkman Instruments), and the insoluble material was re- 
+moved by centrifugation at 10,OOOg for 10 min at OOC. 
+lsolation of Radiolabeled Purine Nucleotide Products by 
+Co-Crystallization 
+IMP and adenine nucleotides and adenosine synthesized 
+by leaf tissue from radiolabeled precursors were converted 
+by acid hydrolysis to hypoxanthine and adenine, respectively, 
+by heating the acid-soluble fraction at 100°C for 1 h prior to 
+neutralization with KOH. Hypoxanthine and adenine were 
+isolated from the neutralied acid-soluble fraction by co- 
+crystallization with camer (Lovatt, 1983; Tomlinson and Lov- 
+att, 1987). 
+lsolation of Radiolabeled Theobromine and Caffeine by 
+Co-Crystallization 
+The supematant fraction from the reactions terminiated 
+with HCIOl was neutralized with KOH, and the resulting 
+precipitate of KC1O4 was removed by centrifugatiori at 
+10,OOOg for 10 min at O°C. The neutralized acid-soluble 
+supematant fraction was brought to 125 mL with 0.01 N 13Cl 
+and saturated at the boiling point with 1 g of commercial 
+theobromine. The supematant fraction from the reactions 
+terminated with 85% (v/v) ethanol was made 80% (v/v) 
+ethanolic and saturated at the boiling point with 3 g of 
+commercial caffeine. The saturated solutions of theobromine 
+and caffeine were allowed to cool slowly to room temperature 
+and then to 4OC ovemight in a refrigerator. The crystals were 
+collected by suction filtration and recrystallized to a constant 
+specific radioactivity per 20 mg of crystals dried to a constant 
+weight at 6OOC. 
+The reliability of the methods for isolating radiolabeled 
+theobromine and caffeine synthesized by coffee leaves from 
+['4C]formate or radiolabeled purine ribosides and bases was 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+Pathways of Theobromine and Caffeine Synthesis in Coffea arabica 1205 
+Table 1. lncorporation of radiolabeled Cly, bicarbonate, and 
+formate into IMP, CAde, theobromine, and caffeine in leaves of 
+C.  arabica 
+Conditions for the incorporation of 100 mM [‘4C]Gly, 400 dpm 
+nmol-’ were optimal; no attempts were made to determine optimal 
+conditions for 25 mM [14C]bicarbonate, 2640 dpm nmol-’ or 5 m M  
+l’4Clformate. 3300 dDm nmol-’. 
+lncorporation of Precursor into: 
+“C-Precursor 
+IMP ZAde Theobromine Caffeine 
+nmol g-’ fresh wt (7 h)-’ 
+GlY 2 5 + 5 ”  3 7 f 5  1 4 f l  1 3 5 f 1 0  
+Bicarbonate 4 f O 42 f 2 7 f l  32 f 2 
+Formate B f 4  6 1 f 7  31 + 7  1 4 7 f 1 3  
+nmol g-’ fresh wt (3 h)-’ 
+a Mean f SE, n = 2. 
+assessed using two different methods. The purity of theo- 
+bromine and caffeine crystals recrystallized to a constant 
+specific radioactivity as described above was determined by 
+comparing the specific radioactivity of the crystals before and 
+after TLC on Eastman Kodak 13254 cellulose with fluorescent 
+indicator 6065 using n-propanol:ammonia:H20 (100:60:40, 
+v/v/v) as the developing solvent (Ashihara and Nobusawa, 
+1981). The commercial standards of theobromine and caf- 
+feine were located with a UV light, and, in each case, the 
+corresponding area of the chromatogram of the sample was 
+cut out and diluted with 4 mL of 0.25 N KOH for determi- 
+nation of radioisotope content. 
+In addition, potential contamination by radiolabeled purine 
+ribosides or bases was assessed by attempting to isolate the 
+various ‘‘C-precursors, provided at the concentrations and 
+specific radioactivities used in the incorporation studies, from 
+a mock neutralized acid-soluble fraction or ethanol-soluble 
+fraction without plant tissue by co-crystallization with theo- 
+bromine and caffeine, respectively. 
+RESULTS 
+Demonstration of the de Novo Biosynthesis of the Purine 
+Ring of Theobromine and Caffeine in lntact Cells of 
+C. arabica 
+Evidence that leaves of C. arabica synthesize purine nucle- 
+otides and purine alkaloids de novo was provided by dem- 
+onstration of the incorporation of the radiolabeled carbons 
+of Gly, bicarbonate, and formate into IMP, ZAde, theobrom- 
+ine, and caffeine (Table I). 
+IMP and ZAde were subjected to acid hydrolysis, and the 
+resulting hypoxanthine and adenine, respectively, were 
+shown to be radioactive, thus confirming that the radiola- 
+beled carbons were incorporated into the purine ring. In 
+addition, azaserine, a known inhibitor of de novo purine 
+biosynthesis that is effective in plants (Lovatt, 1983; Tomlin- 
+son and Lovatt, 1987), inhibited the incorporation of [“CC]- 
+formate into BAde by 40% and into IMP, theobromine, and 
+caffeine by 30%. 
+The reliability of the methods for the isolation of labeled 
+theobromine and caffeine by co-crystallization with commer- 
+cial canier was verified by two separate techniques. The 
+radiolabeled metabolite of [‘4C]formate isolated by CO-crys- 
+tallization with camer theobromine or caffeine was shown 
+to co-chromatograph with its respective commercial standard. 
+In addition, chromatography of either camer containing the 
+metabolite of [‘4C]fomate did not result in a significant 
+change in its specific radioactivity. The specific radioactivity 
+of theobromine and caffeine before chromatography was 620 
+and 9 1 O dpm per 20 mg of dry weight of crystals, respectively, 
+and 555 and 692 dpm per 20 mg of crystals, respectively, 
+after chromatography. Radioactivity above background level 
+was not found in any other regions of the chromatograms. 
+Recoveries of approximately 80% are typical; no adjustment 
+in the data was made to approximate 100% recovery. 
+Potential contamination of isolated theobromine and caf- 
+feine by radiolabeled purine ribosides and bases was assessed 
+by isolating these radiolabeled purine precursors from a mock 
+neutralized acid-soluble fraction or ethanol-soluble fraction 
+without leaf tissue by co-crystallization with commercial 
+carrier. With the exception of a low level of contamination 
+(20%) of theobromine by [14C]caffeine, none of the radiola- 
+beled precursors used in this study co-crystallized with camer 
+theobromine or caffeine (Table 11). 
+[I4C]Caffeine was not used as a substrate in any assays, 
+and although the specific radioactivity of caffeine synthesized 
+by leaf tissue would be significantly lower than that used to 
+test for contamination, care was taken in interpreting a11 ex- 
+periments assessing incorporation of ‘‘C-precursors into 
+theobromine. 
+Optimal Conditions for Measuring the lncorporation of 
+Radiolabeled Precursors into Theobromine and 
+Caffeine in lntad Cells 
+Assays routinely used 500 mg fresh weight of leaf tissue 
+cut into 5- X 5-mm squares (midrib removed) suspended in 
+5 mL of Shive’s nutrient solution, pH 7.4. The optimal 
+concentration of [‘4C]Gly incorporated into IMP and into 
+Table II. Absence of contamination of theobromine and caffeine by 
+radiolabeled purine ribosides and bases 
+Precursors were supplied as: 100 mM [“ClGIy, 400 dpm nmol-’; 
+2 mM [14C]adenine, 1100 dpm nmol-’; 2 mM [14C]xanthine, 400 
+dpm nmol-’; 2 m M  [14C]caffeine, 200 dpm nmol-’; or 2 mM [‘“CI- 
+theophylline, 150 dpm nmol-’. 
+Percentage Recovery‘ of 
+Radiolabeled Precursors 
+with commercial Carrier 
+14 C-Precursor lsolated by Co-Crystallization 
+Theobromine Caffeine 
+GlY 0.4 0.5 
+Adenine 0.9 0.6 
+Xanthine 0.4 0.0 
+Caffeine 19.4 
+TheoDhvlline 1.1 2.5 
+~ ~~ 
+a Total dpm isolated by co-crystallization with commercial theo- 
+bromine and caffeine divided by the initial dpm supplied in the 
+mock neutralized acid-soluble and ethanol-soluble fractions, re- 
+spectively, without plant tissue times 100%. 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+1206 Nazario and Lovatt Plant Physiol. Vol. 103, 1993 
+caffeine was 100 m. This concentration was used to deter- 
+mine the effect of the duration of the incubation period on 
+caffeine biosyn thesis. Maximum incorporation of [14C]Gly 
+into caffeine wiis 345,660 dpm g-' fresh weight of leaf tissue 
+obtained with a 7-h incubation period at 3OOC. Preincubation 
+of the leaf tissue for 2 or 3 h at 3OoC in Shive's nutrient 
+solution doubled the incorporation of [14C]Gly into caffeine 
+during the subsequent 7-h incubation period. Thus, a11 studies 
+reported here in which incorporation into purine alkaloids 
+was assessed used a 2-h preincubation period, followed by 
+an incubation period of 7 h in fresh Shive's nutrient solution 
+supplemented with a radiolabeled precursor. Under these 
+assay conditions, the rate of caffeine biosynthesis obtained 
+with 5 m~ ["Clformate was equal to that obtained with 100 
+m~ [14C]Gly, and the rate of theobromine biosynthesis was 
+doubled over that obtained with the saturating concentration 
+of Gly (Table I). Thus, formate was used in a11 assays in 
+which the role of the de novo pathway in the synthesis of 
+purine alkaloids was examined. Assays measuring the incor- 
+poration of radiolabeled precursors into IMP or ZAde used a 
+2-h preincubation period followed by a 3-h incubation period 
+previously shown to be optimal (Lovatt, 1983). 
+The possibility that the incorporation observed reflected 
+the activity of fungal or bacterial contamination of the coffee 
+leaves is considered unlikely since no growth of microorga- 
+nisms was detected after incubation of leaf squares on potato 
+dextrose agar in either the dark or light for 60 h at 3OOC. 
+Further evidence that the metabolic activities measured were 
+those of intact cells of coffee leaves and not those of fungal 
+or bacterial contaminants was obtained by comparing the 
+release of l4CO, from [8-'4C]hypoxanthine by leaf squares 
+with that generated by an equal amount of leaf squares 
+homogenized with the Polytron tissue homogenizer at speed 
+6. Intact leaf squares degraded 62 nmol of hypoxanthine to 
+COz g-' fresh weight of leaf tissue; virtually no I4CO2 was 
+generated by the homogenate. 
+Evidence that Separate de Novo and Salvage Purine Pools 
+Are lnvolved in the Biosynthesis of Theobromine in 
+Leaves of C. arabica 
+The incorporation of [14C]formate into theobromine was 
+significantly reduced by the addition of adenosine or adenine 
+to the preincubation and incubation mixtures but not by the 
+addition of the ribonucleotide XMP, the riboside inosine, or 
+the bases hypoxanthine and xanthine (Table 111). In contrast, 
+XMP, inosine, adenine, and hypoxanthine added to the prein- 
+cubation and incubation mixtures at a final concentration of 
+10 m~ reduced the specific radioactivity of [14C]adenosine 
+and [14C]adenine mcorporated into theobromine (Table IV). 
+The ability of cofllee leaves to utilize inosine and hypoxan- 
+thine for the synthesis of theobromine was confirmed by 
+demonstrating that 39 nmol of [I4C]inosine and 50 nmol of 
+[14C]hypoxanthine were incorporated into theobromine g-' 
+fresh weight of tissue during a 7-h incubation period (Table 
+V). There was no significant incorporation of ['4C]xanthine 
+into theobromine--approximately 1 nmol was incorporated 
+g-' fresh weight of leaf tissue during a 7-h incubation period 
+(Table V). In addition, coffee leaves exhibited the capacity to 
+convert 236 nmol of [I4C]hypoxanthine into ZAde g-' fresh 
+weight during a 3-h incubation period. 
+Failure of XMP, inosine, and hypoxanthine to dilute the 
+specific radioactivity of [I4C]formate incorporated into theo- 
+bromine while diluting the specific radioactivity of [14C]aden- 
+osine and [14C]adenine incorporated into theobromine i., s. con- 
+sistent with the synthesis of theobromine from two separate 
+purine pools: one generated endogenously via the de novo 
+biosynthetic pathway and the other by the salvage of sexog- 
+enously supplied purines (Fig. 1). The results provide evi- 
+dente that exogenously supplied adenosine and adenirle are 
+available to both pools, whereas adenine, adenosine, clr ad- 
+enine nucleotides synthesized from other exogenously sup- 
+plied purines do not enter the de novo pool. 
+Evidence that Theobromine and Caffeine Are the 
+Products of Separate Pathways in Leaves of C. arabica 
+In contrast to the lack of effect by added purines 01'1 the 
+incorporation of [14C]formate into theobromine, with the 
+exception of adenosine and adenine, incorporation of I"C]- 
+formate into caffeine was reduced in the presence of a'dded 
+XMP, inosine, adenosine, adenine, hypoxanthine, and xan- 
+thine (Table 111). 
+In addition, coffee leaves metabolized xanthine in a dffer- 
+ent manner in relation to theobromine and caffeine. Incor- 
+poration of [I4C]xanthine into theobromine was negli,@ble 
+(Table V). Added unlabeled xanthine (10 m final conceiitra- 
+tion) increased incorporation of radiolabeled inosine, ade- 
+nine, adenosine, and hypoxanthine into theobromine (I'able 
+V). Allopurinol, a known inhibitor of degradation of hypo- 
+xanthine and xanthine, supplied at final concentration of 10 
+m ~ ,  either increased or had no effect on the incorporaticln of 
+these precursors into theobromine (Table V). In contrasí!, 90 * 22 (n = 3) nmol of [I4C]xanthine were incorporated into 
+caffeine g-' fresh weight of coffee leaves during a 7-h i~icu- 
+bation period. Consistent with xanthine being an intermedi- 
+Table 111. The effect of XMP, inosine, adenosine, adenine, 
+hypoxanthine, and xanthine on the incorporation of radiolabeletj 
+formate into theobromine and caffeine in leaves of C. arabica 
+incorporation of 5 mM ['4Clformate, 3300 dom nmol-'. 
+N o  attempts were made to determine optimal conditions foi the 
+lncorporation of Precursor 
+Additions into Producr " 
+110 mMI 
+''C-Precursor 
+- Theobromine Caffeine 
+?'O control 
+Formate XMP 113 45 
+lnosine 135 90 
+Adenosine 48 47 
+Adenine 19 50 
+Hypoxanthine 110 49 
+Xanthine 110 73 - 
+a Results are the means of two to three separate experiments. 
+Values for each experiment did not vary from the mean by more 
+than 10%. lncorporation of [14C]formate into theobromine md 
+caffeine averaged 102,300 and 485,100 d p m  g-' fresh weight, 
+respectively, during a 7-h incubation period. 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+Pathways of Theobromine and Caffeine Synthesis in Coffea arabica 1207 
+Table IV. The effect of XMP, inosine, adenosine, adenine, and 
+hypoxanthine on the incorporation of radiolabeled adenosine and 
+adenine into theobromine and caffeine in leaves of C. arabica 
+No attempts were made to determine optimal conditions for the 
+incorporation of 2 mM [8-14C]adenosine, 1100 dpm nmol-’, or 2 
+m M  [8-14C]adenine, 1100 dpm nmol-’. 
+lncorporation of Precursor 
+Additions into Product” 
+(10 mM) 
+“C-Precursor 
+Theobromine Caffeine 
+% control 
+Adenosine XMP 50 62 
+lnosine 40 90 
+Adenine 4 74 
+Hypoxanthine 63 35 
+Adenine XMP 82 68 
+lnosine 87 90 
+Adenosine 28 10 
+Hypoxanthine 74 53 
+a Results are the means of one to two separate experiments. 
+Values for each experiment did not vary by more than 20%. An 
+average of 132,000 dpm of [‘4C]adenosine and 113,300 d p m  of 
+[14C]adenine were incorporated into theobromine and 381,700 
+dpm of [14C]adenosine and 188,100 dpm of [14C]adenine were 
+incorporated into caffeine per gfresh weight during a 7-h incubation 
+period. 
+ate in the synthesis of caffeine, unlabeled xanthine (10 mM 
+final concentration) reduced the specific radioactivity of caf- 
+feine formed from radiolabeled formate, adenosine, adenine, 
+and hypoxanthine (Table VI). Allopurinol (10 m final con- 
+centration) inhibited the incorporation of radiolabeled for- 
+mate, adenine, and hypoxanthine into caffeine by more than 
+50% (Table VI). 
+Table V. The effect of xanthine and allopurinol on the 
+incorporation of radiolabeled inosine, adenosine, adenine, 
+hypoxanthine, and xanthine into theobromine in leaves of 
+C. arabica 
+No attempts were made to determine optimal conditions for the 
+incorporation of 2 mM [8-’4C]inosine, 1100 dpm nmol-’; 2 m M  
+[8-’4C]adenosine, 1100 dpm nmol-’; 2 mM [8-14C]adenine, 1100 
+dpm nmol-’; 2 mM [8-’4C]hypoxanthine, 200 dpm nmol-’; or 2 m M  
+[8-14C]xanthine, 400 dpm nmol-’. 
+lncorporation of Precursor into Theobromine 
++Xanthine +Allopurinol “C-Precursor Control 
+(10 mM) (10 mM) 
+nmol g’ (7 h)-’“ %controlb 
+lnosine 39 ( 1 )  151 98 
+Adenosine 84 & 34 (2) 130 121 
+Adenine 103 (1 )  116 95 
+Hypoxanthine 50 2 5 (3) 138 126 
+Xanthine 1 f 0.8 (3) 
+a Mean f SE (n  = 2-3); number of experiments is given in 
+parentheses. bValues are the averages, as indicated for the 
+control, of two to three separate experiments. The values obtained 
+did not vary from the mean by more than 20%. 
+De novo - Endogenous Pool 
+Theobromine 
+? 7 ? 
+r 1 \ 7  
+Formale IMP + m a  
+1‘ 
+Adenine 
+Inosine or its . . HvDoxanthine , . .. - - .. . - 
+or its melabolite . orits 
+melabolite melabolite 
++ + 
+Adenine 4 Adenosine d 
+$! \1 
+Hypoxanthine 11 4; IMP \1 ..... 
+.1?‘ JATPI 
+J/ ,7 XMP + GMP 
+Xanlhine 
+I , ? Xanlhosine 
+Caffeine ? Xanlhine 
+G 
+d T h e o b r o m i n e  
+Salvage - Exogenous Pool 
+Figure 1. Proposed compartmentalization of two separate pools of 
+purines for the biosynthesis of theobromine in leaves of C. arabica, 
+one generated endogenously by the de novo pathway and the 
+other from salvage of exogenously supplied purines, ribosides, and 
+bases. 
+The effect of various purines on the incorporation of L- 
+[14CH3]Met into theobromine and caffeine was assessed. In- 
+corporation into theobromine was 130 and 160% of the 
+control value when 3-methyladenine and 7-methylxanthos- 
+ine were provided in the reaction mixture. In contrast, the 
+incorporation of ~- [ ‘~cH~]Met  into caffeine was significantly 
+enhanced by two different monomethylpurines, l-methyl- 
+guanosine (141% of control) and 1-methylinosine (130% of 
+control). However, when supplied exogenously, a11 three 
+dimethylxanthines increased the incorporation of L-[’~CH~]- 
+Met into caffeine: paraxanthine (223% of control) > theo- 
+bromine (216%) > theophylline (130%). 
+Taken together, the results of this research provide strong 
+evidence that endogenously synthesized theobromine is not 
+the immediate precursor of caffeine in actively metabolizing 
+leaves of C. arabica. 
+DlSCUSSlON 
+Leaves of C. arabica were demonstrated to have the capac- 
+ity to synthesize the purine ring of theobromine and caffeine 
+de novo, utilizing radiolabeled formate, bicarbonate, or Gly 
+or by salvage of exogenously supplied adenosine, adenine, 
+inosine, or hypoxanthine. The capacity of coffee leaves to 
+synthesize theobromine or caffeine from [14C]adenine was 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+1208 Nazario and Lovatt Plant Physiol. Vol. 103, 1993 
+~ 
+Table VI. The effect of xanthine and allopurinol on the 
+incorporation of radiolabeled formate, inosine, adenosine, adenine, 
+and hypoxanthine into caffeine in leaves of C. arabica 
+N o  attempts were made to determine optimal conditions for the 
+incorporation of 5 mM [8-‘4C]formate, 3300 dpm nmoi-’; 2 mM 
+[8-I4C]inosine, 1100 dpm nmol-I; 2 mM [8-14C]adenosine, 1100 
+d p m  nmol-I; 2 IYIM [8-14C]adenine, 1100 dpm nmol-I; or 2 mM 
+[8-’4Clhv~oxanthine, 200 dwn nmol-’. 
+lncorporation of Precursor into Caffeine 
+Control 
+“C-Precursor +Xanthine +Allopurinol 
+(10 mM) (10 mM) -~ ~ ~ 
+nmol g-‘ fresh wt (7 h)-‘” % controlb 
+Formate 1 4 7 f  13 (2) 73 56 
+lnosine 49 ( 1 )  226 89 
+Adenosine 3 4 7 f 4 6  (2) 56 124 
+Ade n i ne 171 (1) 65 45 
+Hypoxanthine 157 f 30 (2) 26 37 
+a Mean & SE (n = 2); number of experiments is given in parenthe- 
+ses. Values are t h e  averages (where appropriate) for two sep- 
+arate experiments. The values obtained did not vary from t h e  mean 
+by more than 20%. 
+significantly greater than reported previously for coffee fruit: 
+compare 103 and 171 nmol of [14C]adenine incorporated into 
+theobromine and caffeine, respectively, g-’ fresh weight of 
+leaf tissue during a 7-h incubation period in this study to 0.3 
+and 2.0 nmol of [14C]adenine incorporated into theobromine 
+and caffeine, respectively, g-’ of immature coffee fruit during 
+a 36-h incubation period (Suzuki and Waller, 1984). The low 
+rate of incorporation observed for coffee fruit may be due to 
+the duration of the incubation period. For leaves, maximum 
+incorporation of radiolabeled precursor into caffeine was 
+obtained with a 7-h incubation period. There was a significant 
+decrease in the amount of caffeine isolated after 24 h of 
+incubation and a 90% reduction after 48 h. 
+Although Anderson and Gibbs (1962) and Proiser and 
+Serenkov (1963) previously showed that the purine ring of 
+caffeine was synthesized de novo in C. arabica and C. sinensis, 
+our results provide the first data documenting de novo syn- 
+thesis of the purine ring of theobromine. Additional experi- 
+ments using the technique of isotope dilution to contrast the 
+de novo synthesis, of theobromine with its synthesis from 
+exogenously supplied purine ribosides and bases provide 
+evidence that the synthesis of theobromine occurs in two 
+separate compartments in leaves of C. arabica, one utilizing 
+purine rings generated endogenously and de novo, the other 
+metabolizing exogenously supplied purines (Fig. 1). Taken 
+together, the following results indicate that adenine and 
+adenosine, when supplied exogenously, entered the purine 
+pools of both cornpartments but did not move between 
+compartments when produced endogenously: (a) unlabeled 
+adenine and adenosine diluted the specific radioactivity of 
+[14C]formate incorporated into theobromine; (b) the specific 
+radioactivity of [I4C]adenine or [14C]adenosine incorporated 
+into theobromine was diluted by exogenously supplied hy- 
+poxanthine, as well as other purine nucleotides and ribosides; 
+(c) radiolabeled hypoxanthine was incorporated into ZAde; 
+and (d) unlabeled hypoxanthine did not dilute the specific 
+radioactivity of [14C]formate incorporated into theobroimine. 
+It is tempting to speculate that differences in the specificity 
+of one or more membrane camer protein provides the basis 
+for the differential uptake between species of exogenously 
+supplied purine ribosides and bases into the two com part- 
+ments (pools). It is interesting to note that only adimine 
+compounds have an amino group at position 6 of the purine 
+ring, which could be the structural feature recognized by a 
+specific camer protein (Fig. 2). 
+The possibility that the de novo and salvage pathways 
+occur in separate compartments (pools) between which trans- 
+port of intermediates is slow was previously proposed to 
+explain the unequal incorporation of precursors of the two 
+pathways into adenine and guanine nucleotides (Shuster, 
+1963; Robern et al., 1965; Doree, 1973; Clark, 1974; Suzuki 
+and Takahashi, 1975b, 1977; Anderson, 1979; reviewed by 
+Ross, 1981). The physical location of the enzymes of the de 
+novo purine pathway has been little studied (Wagner and 
+Backer, 1992), with the exception of nitrogen-fixing nodules 
+of the ureide-forming species Vigna unguiculata and Gl.ycine 
+max, in which the de novo pathway is clearly segregated in 
+the plastids (Boland et al., 1982; Boland and Schubert, 1!)83). 
+Whether this is true for nonureide-forming tissues remains 
+to be determined. 
+Our results are the first to demonstrate the involvement of 
+two separate compartments (pools) in the biosynthesis of a 
+purine alkaloid. It is not known which of severa1 possible 
+enzymes regulates export from the de novo pool and entry 
+into the catabolic pool of C. arabica: (a) AMP deaminase, 
+which controls adenylate catabolism in spinach leaves and 
+Catharanthus roseus cells in suspension culture (Yoshino and 
+Murakami, 1980; Yabuki and Ashihara, 1992); (b) IMP oxi- 
+doreductase, which regulates the formation of xanthine for 
+ureide biosynthesis in nitrogen-fixing nodules of cowpea 
+(Shelp and Atkins, 1983); or (c) nucleobase nonspecific 5‘- 
+nucleotidases, which generate ribosides for intracelliilar 
+transport (Wagner and Backer, 1992). 
+Our results clearly indicate that separate compartments 
+(pools) are not involved in the biosynthesis of caffeine by 
+RIBASE-P RIBÒSE 
+AMP ADENOSINE ADENINE 
+RIBOSE-P RIBOSE H 
+IMP INOSWE HYPOXANTHINE 
+O O O 
+XMP XANTHOSINE XANTHINE 
+Figure 2. Structure of purine nucleotides, ribosides, and bases. 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+Pathways of Theobromine and Caffeine Synthesis in Coffea arabica 1209 
+coffee leaves. Exogenously supplied XMP, inosine, hypoxan- 
+thine, and xanthine diluted the incorporation of either ["C]- 
+formate or [14C]adenosine and [14C]adenine into caffeine. The 
+involvement of two separate pools in the biosynthesis of 
+theobromine, but not caffeine, in leaves of C. arabica suggests 
+that theobromine is not the immediate precursor of caffeine. 
+This possibility is further substantiated by differences in the 
+metabolism of xanthine: (a) [14C]xanthine failed to label theo- 
+bromine to a significant degree but labeled caffeine signifi- 
+cantly; (b) unlabeled xanthine caused radiolabeled inosine, 
+adenosine, adenine, and hypoxanthine to accumulate in theo- 
+bromine but diluted the specific radioactivity of these com- 
+pounds incorporated into caffeine (with the exception of 
+inosine, the result of a single experiment, which we cannot 
+explain at this time); and (c) allopurinol, a known inhibitor 
+of the conversion of hypoxanthine to xanthine, caused radio- 
+labeled adenosine and hypoxanthine to accumulate in theo- 
+bromine but inhibited the incorporation of adenine and 
+hypoxanthine into caffeine. The similarity in the results 
+obtained with added xanthine versus allopurinol suggests the 
+possibility that xanthine blocks the conversion of hypoxan- 
+thme to xanthine, as does allopurinol, resulting in the accu- 
+mulation and storage of nitrogen and carbon in theobromine 
+rather than in caffeine. Whether the reduced incorporation 
+of radiolabeled purines into caffeine in the presence of added 
+xanthine is due to isotope dilution or inhibition of hypoxan- 
+thine degradation remains to be determined. 
+Consistent with theobromine and caffeine being the prod- 
+ucts of two separate pathways, each was found to be pref- 
+erentially synthesized from different monomethylated purine 
+precursors. Although 7-methylxanthosine was only incorpo- 
+rated into theobromine in our system, previous researchers 
+have provided evidence that 7-methylxanthosine was an 
+efficient precursor of both theobromine and caffeine in leaves 
+of both coffee (Baumann and Wanner, 1977) and tea (Negishi 
+et al., 1985b). Of the dimethylpurines, paraxanthine was the 
+best substrate for the synthesis of caffeine, as previously 
+reported for both coffee fruits (Roberts and Waller, 1979) and 
+leaves (Baumann and Wanner, 1977). 
+Reports in the literature defining a pathway for theobrom- 
+ine and caffeine biosynthesis are equivoca1 (Wagner and 
+Backer, 1992). Our results provide strong evidence that theo- 
+bromine is not the immediate precursor of caffeine and 
+suggest that theobromine is synthesized from adenine nucle- 
+otides without a xanthine species as an intermediate, whereas 
+caffeine is likely a product of a methylated xanthine. How- 
+ever, our results demonstrate that caffeine is synthesized 
+from theobromine, and paraxanthine, when they are supplied 
+exogenously. The results of our research underscore that a 
+compound might be metabolized differently depending on 
+whether it is supplied exogenously or generated endoge- 
+nously, and we emphasize the need to understand these 
+differences to elucidate the correct biosynthetic pathway. 
+Thus, further investigation of the metabolism of endo- 
+genously generated purines is warranted to determine the 
+exact enzymic events leading to the formation of each purine 
+alkaloid. 
+Received April22, 1993; accepted August 3, 1993. 
+Copyright Clearance Center: 0032-0889/93/103/1203/08. 
+LITERATURE CITED 
+Anderson JD (1979) Purine nucleotide metabolism of germinating 
+soybean embryonic axes. Plant Physiol63 100-104 
+Anderson L, Gibbs M (1962) The biosynthesis of caffeine in the 
+coffee plant. J Biol Chem 237: 1941-1944 
+Ashihara H, Kubota H (1986) Pattems of adenine metabolism and 
+caffeine biosynthesis in different parts of tea seedlings. Physiol 
+Plant 6 8  275-281 
+Ashihara H, Kubota H (1987) Biosynthesis of purine alkaloids in 
+Camellia plants. Plant Cell Physiol28 535-539 
+Ashihara H, Nobusawa E (1981) Metabolic fate of [8-"C]hypoxan- 
+thine in higher plants. Z Pflanzenphysiol104 443-458 
+Baumann TW, Dupont-Looser E, Wanner H (1978) 7-Methylxan- 
+thosine-an intermediate in caffeine biosynthesis. Phytochemistry 
+Baumann TW, Wanner H (1977) Tracer studies on biosynthesis of 
+caffeine in Coffea arabica. In 8e Colloque Associeé Scientifique 
+Intemational sur le Café. ASIC, Abidjan, Ivory Coast, pp 135-137 
+Boland MK, Hanks JF, Reynolds PH, Blevins DG, Tolbert NE, 
+Schubert KR (1982) Subcellular organization of ureide biogenesis 
+from glycolytic intermediates and ammonium in nitrogen-fixing 
+soybean nodules. Planta 155 45-51 
+Boland MK, Schubert KR (1983) Biosynthesis of purines by a 
+proplastid fraction from soybean nodules. Arch Biochem Biophys 
+Clark MC (1974) Metabolism of adenine in healthy and blighted 
+potato leaves. J Exp Bot 2 5  309-319 
+Doree M (1973) Metabolism of exogenous adenine by Acer pseudo- 
+platanus cells. Phytochemistry 12 2101-2108 
+Fujimori N, Ashihara H (1990) Adenine metabolism and the syn- 
+thesis of purine alkaloids in flowers of Camellia. Phytochemistry 
+Fujimori N, Suzuki T, Ashihara H (1991) Caffeine biosynthesis in 
+tea leaves. Phytochemistry 30: 2245-2248 
+Hoagland DR, Arnon DI (1950) The Water Culture Method for 
+Growing Plants without Soil, circular 347. University of Berkeley 
+Press, Berkeley, CA 
+Looser R, Baumann TW, Wanner H (1974) The biosynthesis of 
+caffeine in the coffee plant. Phytochemistry 13 2515-2518 
+Lovatt CJ (1983) De novo purine biosynthesis in intact cells of 
+Cucurbita pepo. Plant Physiol73 766-772 
+Negishi O, Ozawa T, Imagawa H (1985a) Conversion of xanthosine 
+into caffeine in tea plants. Agric Biol Chem 49: 251-253 
+Negishi O, Ozawa T, Imagawa H (1985b) Methylation of xanthosine 
+by tea-leaf extracts and caffeine biosynthesis. Agric Biol Chem 49 
+Negishi O, Ozawa T, Imagawa H (1985~) The role of xanthosine in 
+the biosynthesis of caffeine in coffee plants. Agric Biol Chem 49 
+2221-2222 
+Negishi O, Ozawa T, Imagawa H (1992) Biosynthesis of caffeine 
+from purine nucleotides in tea plant. Biosci Biotechnol Biochem 
+Ogutuga DBA, Northcote DH (1970a) Biosynthesis of caffeine in 
+tea callus tissue. Biochem J 117: 715-720 
+Ogutuga DBA, Northcote DH (1970b) Caffeine formation in tea 
+callus tissue. J Exp Bot 21: 258-273 
+Proiser E, Serenkov GP (1963) Caffeine biosynthesis in tea leaves. 
+Biokhimiya 28 857-861 
+Robern H, Wang D, Waygood ER (1965) Biosynthesis of nucleotides 
+in wheat. I. Purines from "C-labelled compounds. Can J Biochem 
+Roberts M, Waller GR (1979) N-methyltransferases and 7-methyl- 
+p-nucleoside hydrolase activity in Coffea arabica and the biosyn- 
+thesis of caffeine. Phytochemistry 1 8  451-455 
+Ross CW (1981) Biosynthesis of nucleotides. In PK Stumpf, EE Conn, 
+eds, The Biochemistry of Plants, Vol6. Academic Press, New York, 
+Shelp B, Atkins C (1983) Role of inosine monophosphate oxidore- 
+ductase in the formation of ureides in nitrogen-fiwing nodules of 
+cowpea (Vigna unguiculata L. Walp.). Plant Physiol72 1029-1034 
+Shive JW, Robbins WR (1938) Methods for growing plants in 
+solution and sand cultures. NJ Agric Bull No. 636 
+17: 2075-2076 
+220 179-187 
+29 3513-3516 
+887-890 
+5 6  499-503 
+43 225-235 
+pp 169-205 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.
+1210 Nazario and Lovatt Plant Physiol. Vol. 103, 1993 
+Shuster L (1963) Aminoimidazolecarboxamide and fonnate incor- 
+poration in wheat embryo purines. J Biol Chem 238 3344-3347 
+Suzuki T, Ashihara H, Waller GR (1992) Purine and purine alkaloid 
+metabolism in Camellia and Coffen plants. Phytochemistry 31: 
+Suzuki T, Takahashi E (1975a) Biosynthesis of caffeine by tea leaf 
+extracts. Biochein J 146: 87-96 
+Suzuki T, Takahashi E (1975b) Metabolism of xanthine and hypo- 
+xanthine in the tea plant (Thea sinensis L.). Biochem J 146: 79-85 
+Suzuki T, Takahashi E (1976a) Metabolism of methionine and 
+bicsynthesis of caffeine in tea plants (Cnmellia sinensis L.). Biochem 
+Suzuki T, Takahashi E (1976b) Caffeine biosynthesis in Camellia 
+sinensis. Phytochemistry 15: 1235-1239 
+Suzuki T, Takahashi E (1977) Biosynthesis of purine nucleotides 
+and methylate purine in higher plants. Drug Metab Rev 6 
+2575-2584 
+J 1 6 0  171-179 
+213-242 
+Suzuki T, Waller GR (1984) Biosynthesis and biodegradation of 
+caffeine, theobromine and theophylline in Coffea arnbicn L. fruits. 
+J Agric Food Chem 3 2  845-848 
+Tomlinson PT, Lovatt CJ (1987) Nucleotide metabolism in ‘Wash- 
+ington’ nave1 orange fruit. I. Pathways of synthesis and catatmlism. 
+J Am SOC Hort Sci 112: 529-535 
+Wagner KG, Backer AI (1992) Dynamics of nucleotides in plants 
+studied on a cellular basis. Int Rev Cytoll34 1-84 
+Waller GR, Mac Vean CD, Suzuki T (1983) High production of 
+caffeine and related enzyme activities in callus cultures of Coffea 
+arabica L. Plant Cell Rep 2 109-112 
+Yabuki N, Ashihara H (1992) AMP deaminase and the conlrol of 
+adenylate catabolism in suspension-cultured Catharanthus roseus 
+cells. Phytochemistry 31: 1905-1909 
+Yoshino M, Murakami K (1980) AMP deaminase from spinach 
+leaves purification and some regulatory properties. Z Pflanzen- 
+physiol99: 331-338 
+ www.plantphysiol.orgon May 13, 2019 - Published by Downloaded from 
+Copyright © 1993 American Society of Plant Biologists. All rights reserved.

@@ -1,0 +1,79 @@
+Tetrahedron Letters,Vol.27,No.46,pp 5603-5604,1986 0040-4039/86 $3.OO + .OQ 
+Printed in Great Britain Pergamon Journals Ltd. 
+S-ADENOSYL-L-METHIONINE: (S)-7,8,13,14-TETRAHYDROBERBERINE- 
+ClS-N-METHYLTRANSFERASE, A BRANCH POINT ENZYME IN THE BIO- 
+SYNTHESIS OF BENZOPHENANTHRIDINE AND PROTOPINE ALKALOIDS. 
+M. Rueffer and M. H. Zenk 
+Lehrstuhl f~r Pharmazeutische Biologie, Universit~t MOnchen, 
+Karlstr .  29, D-8000 M~nchen 2, W-Germany 
+Abstract: The enzyme which transfers the CH3-group of S-adenosylmethionine to the 
+nitrogen atom of (S)-tetrahydroberberine and (S)-stylopine is found to occur in a number 
+of plant cel l  cultures or ig inat ing from species containing alkaloids; i t  is located at an 
+important branch point in isoquinoline alkaloid biosynthesis. 
+Protopine and benzophenanthridine alkaloids are prominent members of the large group 
+of isoquinoline alkaloids in higher plants. Previous work has ver i f ied the incorporation 
+of the N-methyl derivatives of canadine and stylopine into both classes of alkaloids [1,2] .  
+Takao et a l .  [3] fur ther  demonstrated that only the cis-N-methyl derivatives of tetra-  
+hydroprotoberberines can be stereospeci f ical ly  metabolized into the benzophenanthridine 
+type and protopine type skeleton. As part of our investigations involving the elucidation 
+of reaction sequences in the isoquinoline biosynthesis~ we searched for that enzyme which 
+catalyzes the N-methylation of tetrahydroprotoberberines. The enzyme was assayed for  i ts  
+cata lyt ic  ac t iv i ty  by using (14CH3)-S-adenosyl-L-methionine (SAM; 2 nMol) and (R,S)-cana- 
+dine (10 nMol) as a substrate at pH 8 (glycine-NaOH buffer) in a tota l  volume of 300 ~l 
+containing 50-300 pg protein. The enzyme reaction was followed by monitoring the transfer 
+of rad ioact iv i ty  from the aqueous into the isoamyl phase [4] after an incubation period of 
+30 min at 40°C. Enzymatically catalyzed methylation of canadine occurred in a number of 
+ce l l - f ree  extracts from cel l  suspension cultures of for  instance Berberis stenophylla 
+(0.22 pkat/mg protein),  Corydalis vaginans (0.74), Dicentra spectabil is (0.94), Fumaria 
+o f f i c ina l i s  (0.43), Papaver somniferum (0.41). The product of the reaction was un- 
+equivocally ident i f ied  as N-methyltetrahydroprotoberberine by large scale (500-fold) incu- 
+bation (10 h) of the above incubation mixture containing 80 mg protein from C. vaginans. 
+The incubation mixture was extracted with ethylacetate, which was chromatographed (TLC) 
+and the newly formed compound isolated. MS of the unknown product showed e/z M + at 353 
+(5.6%); 339 (19.4%); 176 (27.8%); 174 (30.6%); 164 (100%); 149 (83.5%). The MS was in 
+every respect identical  to N-methylcanadine [5].  The enzyme was pur i f ied 40-fold, i t  has a 
+molecular weight of 72 000 + 10%, a pH-optimum at 8.0, and a temperature optimum at 40°C. 
+The enzyme is specif ic for  (S)-canadine (R I = R 2 = CH3; I00%) and (S)-stylopine (R I + R 2 = 
+CH2; 77%); the (R)-enantiomers as well as (S)-scoulerine, (R,S)-tetrahydropalmatine, 
+(R,S)-tetrahydrojatrorrhiz ine,  (R,S)-columbamine, (S)-norret icul ine and (S) - ret icu l ine are 
+not metabolized. The enzyme therefore acts on tetrahydroprotoberberines of (S)-configur- 
+5603 
+5604 
+ation containing a methylenedioxy bridge at carbon atoms 2 and 3. Feeding experiments of 
+N-(14CH3)-stylopine obtained by enzymatic catalysis showed good incorporation into proto- 
+pine (0.6%) and sanguinarine (7.7%) in Fumaria capreolata callus cultures. This 
+demonstrated that the product formed by the new enzyme is b io logical ly  active. Since Takao 
+et al .  [3] have unequivocally demonstrated that only the cis-N-methyl derivatives of tetra-  
+hydroprotoberberines can be stereospecif ical ly metabolized into the benzophenanthridine 
+and protopine type skeleton - while the trans-N-methyl derivatives are absolutely inactive 
+- we can assign the cis-configuration to the enzymatically formed product. The enzyme 
+responsible for the formation of this important branch point metabolite is therefore 
+termed: S-Adenosyl-L-methionine: (S)-7,8,13,14-tetrahydroberberine-cis-N-methyltrans- 
+ferase. The high substrate spec i f i c i ty  of this enzyme is reflected by the fact that the 
+vast majority of benzophenanthridine and protopine alkaloids in nature contain methylene- 
+dioxy groups biogenetically corresponding to the C 2 and C 3 position of the tetrahydro- 
+protoberberine skeleton. Since the methylenedioxy group in berberine biosynthesis is 
+formed at the quaternary stage (the substrate being columbamine and not tetrahydrocolumba- 
+mine) [6] and since quaternary alkaloids cannot diffuse or be transported across the 
+membrane of the specif ic vesicle in which they are formed [7],  the question that remains is 
+how (S)-canadine and (S)-stylopine, both acceptors for the methyl group, are formed. There 
+are at least two poss ib i l i t ies :  either quaternary protoberberines are stereospecif ical ly 
+reduced to thei r  tetrahydro counterparts with (S)-configuration, which serve as substrates 
+for the N-methylating enzyme, or (S)-canadine is formed from (S)-tetrahydrocolumbamine by
+a yet to be discovered methylenedioxy bridge forming enzyme acting on this  substrate 
+rather than on the quaternary alkaloid columbamine [6].  
+0 3 , ~\CH3 
+~. . -~OR ~ OR 2 
+Acknowledgement: 
+Supported by SFB 145 of Deutsche Forschungsgemeinschaft, Bonn, and 
+Fonds der Chemischen Industrie. 
+References: 
+I .  A.R.Battersby, J.Staunton, H.R.Wiltshire, R.J.Francis, R.Southgate. 
+J.Chem.Soc., Perkin I, 1147 (1975). 
+2. N.Takao, K.lwasa, M.Kamigauchi and M.Sugiura. Pharm.Bull. 24, 2859 (1976). 
+3. N.Takao, M.Kamigauchi and M.Okada. Helv.Chim.Acta 66, 473 (1983). 
+4. M.Rueffer, N.Nagakura and M.H.Zenk. Planta Med. 49, 131 (1983). 
+5. J .Slavik. J.Coll.Czech.Chem.Commun. 3__~5, 2597 (1970). 
+6. M.Rueffer and M.H.Zenk. Tetrahedron Letters 26, 201 (1985). 
+7. M.Amann, G.Wanner and M.H.Zenk. Planta 167, 310 (1986). 
+(Received in Germany 21 July 1986) 

@@ -1,0 +1,2624 @@
+BioMed  Central
+Page 1 of 22
+(page number not for citation purposes)
+BMC Cancer
+Open Access Research article
+Proapoptotic activity of Ukrain is based on Chelidonium majus L. 
+alkaloids and mediated via a mitochondrial death pathway
+Daniel Habermehl†1, Bernd Kammerer†2, René Handrick1, Therese Eldh1, 
+Charlotte Gruber1, Nils Cordes4, Peter T Daniel5, Ludwig Plasswilm3, 
+Michael Bamberg1, Claus Belka1 and Verena Jendrossek*1
+Address: 1Department of Radiation Oncology, University Hospital of Tuebingen, Hoppe-Seyler-Str. 3, D-72076 Tuebingen, Germany, 2Institute of 
+Pharmacology and Toxicology, Division of Clinical Pharmacology, University Hospital of Tuebingen, Otfried-Mueller-Str. 45, D-72076 
+Tuebingen, Germany, 3University Hospital, Department of Radiation Oncology, Petersgraben 4, Ch-4031 Basel, Switzerland, 4OncoRay – 
+Radiation Research in Oncology, Medical Faculty Carl Gustav Carus, Technical University Dresden, Fetscherstrasse 74, D-01307 Dresden, Germany 
+and 5Department of Clinical and Molecular Oncology, University Medical Center Charité, Campus Buch, Humboldt University, Lindenbergerweg 
+80, D-13125 Berlin, Germany
+Email: Daniel Habermehl - daniel.habermehl@med.uni-tuebingen.de; Bernd Kammerer - Bernd.Kammerer@uni-tuebingen.de; 
+René Handrick - rene.handrick@med.uni-tuebingen.de; Therese Eldh - therese.eldh@med.uni-tuebingen.de; 
+Charlotte Gruber - charlotte.gruber@gmx.de; Nils Cordes - Nils.Cordes@mailbox.tu-dresden.de; Peter T Daniel - pdaniel@mdc-berlin.de; 
+Ludwig Plasswilm - lplasswilm@uhbs.ch; Michael Bamberg - michael.bamberg@med.uni-tuebingen.de; Claus Belka - claus.belka@uni-
+tuebingen.de; Verena Jendrossek* - verena.jendrossek@uni-tuebingen.de
+* Corresponding author    †Equal contributors
+Abstract
+Background:  The anticancer drug Ukrain (NSC-631570) which has been specified by the
+manufacturer as semisynthetic derivative of the Chelidonium majus L. alkaloid chelidonine and the
+alkylans thiotepa was reported to exert selective cytotoxic effects on human tumour cell lines in
+vitro. Few clinical trials suggest beneficial effects in the treatment of human cancer. Aim of the
+present study was to elucidate the importance of apoptosis induction for the antineoplastic activity
+of Ukrain, to define the molecular mechanism of its cytotoxic effects and to identify its active
+constituents by mass spectrometry.
+Methods: Apoptosis induction was analysed in a Jurkat T-lymphoma cell model by fluorescence
+microscopy (chromatin condensation and nuclear fragmentation), flow cytometry (cellular
+shrinkage, depolarisation of the mitochondrial membrane potential, caspase-activation) and
+Western blot analysis (caspase-activation). Composition of Ukrain was analysed by mass
+spectrometry and LC-MS coupling.
+Results: Ukrain turned out to be a potent inducer of apoptosis. Mechanistic analyses revealed that
+Ukrain induced depolarisation of the mitochondrial membrane potential and activation of caspases.
+Lack of caspase-8, expression of cFLIP-L and resistance to death receptor ligand-induced apoptosis
+failed to inhibit Ukrain-induced apoptosis while lack of FADD caused a delay but not abrogation of
+Ukrain-induced apoptosis pointing to a death receptor independent signalling pathway. In contrast,
+the broad spectrum caspase-inhibitor zVAD-fmk blocked Ukrain-induced cell death. Moreover,
+over-expression of Bcl-2 or Bcl-xL and expression of dominant negative caspase-9 partially reduced
+Ukrain-induced apoptosis pointing to Bcl-2 controlled mitochondrial signalling events.
+Published: 17 January 2006
+BMC Cancer 2006, 6:14 doi:10.1186/1471-2407-6-14
+Received: 13 September 2005
+Accepted: 17 January 2006
+This article is available from: http://www.biomedcentral.com/1471-2407/6/14
+© 2006 Habermehl et al; licensee BioMed Central Ltd. 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/2.0), 
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 2 of 22
+(page number not for citation purposes)
+However, mass spectrometric analysis of Ukrain failed to detect the suggested trimeric chelidonine
+thiophosphortriamide or putative dimeric or monomeric chelidonine thiophosphortriamide
+intermediates from chemical synthesis. Instead, the Chelidonium majus L. alkaloids chelidonine,
+sanguinarine, chelerythrine, protopine and allocryptopine were identified as major components of
+Ukrain.
+Apart from sanguinarine and chelerythrine, chelidonine turned out to be a potent inducer of
+apoptosis triggering cell death at concentrations of 0.001 mM, while protopine and allocryptopine
+were less effective. Similar to Ukrain, apoptosis signalling of chelidonine involved Bcl-2 controlled
+mitochondrial alterations and caspase-activation.
+Conclusion: The potent proapoptotic effects of Ukrain are not due to the suggested "Ukrain-
+molecule" but to the cytotoxic efficacy of Chelidonium majus L. alkaloids including chelidonine.
+Background
+The anticancer drug Ukrain has been specified by
+Nowicky Pharma (Vienna, Austria) as semi-synthetic
+derivative of thiotepa and the alkaloid chelidonine, a
+main component of the plant greater celandine (Chelido-
+nium majus L., Papaveraceae) [1-3]. In the postulated
+molecular structure one central thiophosphortriamide
+molecule is surrounded by three molecules of chelido-
+nine, which are bound in a covalent manner (Fig. 1).
+During the last decades pre-clinical investigations pointed
+to promising antineoplastic activity of Ukrain. In these
+studies, Ukrain was suggested to exert selective cytotoxic
+effects on tumour cells without adverse side effects on
+normal cells and tissues [4]. Recently, Ukrain was also
+shown to inhibit tumour growth and metastasis of Lewis
+carcinoma in C57Bl6 mice [5]. Moreover, a recent report
+revealed radiosensitizing effects of Ukrain on human
+colorectal and glioblastoma cell lines in vitro, while nor-
+mal human fibroblasts were protected against the cyto-
+toxic effects of ionizing radiation [6]. However, the
+observations on selective cytotoxicity of Ukrain are still
+subject to controversial discussion [7]. In addition to the
+above mentioned promising pre-clinical data, some clini-
+cal investigations predominantly from Eastern Europe
+suggested beneficial effects of Ukrain in the treatment of
+patients suffering e.g. from bladder, breast, pancreatic,
+rectal or colorectal cancer when given as single drug or in
+combination with standard chemotherapeutic drugs or
+ionizing radiation (recently reviewed by [8]). However,
+the molecular mechanisms of Ukrain-induced antineo-
+plastic effects are not yet completely understood. Apart
+from suggested immunomodulatory effects, induction of
+a growth arrest in the G2/M phase of the cell cycle and/or
+induction of apoptosis may be involved [7,9-13].
+Apoptosis constitutes a highly regulated, physiological
+form of cell death involving complex intracellular prote-
+olysis. In this scenario, specialized intracellular cysteine
+proteases known as caspases constitute central execution-
+ers of apoptosis that cleave a multitude of cellular sub-
+strates triggering morphological alterations and finally
+cell death [14]. There is accumulated evidence that cas-
+pases can either be activated by the extrinsic, death recep-
+tor dependent or the intrinsic, death receptor-
+independent mitochondrial pathway. Death receptor lig-
+ands, such as CD95 or TRAIL, trigger clustering of their
+respective receptors in the cytoplasmic membrane with
+recruitment of the adapter molecule FADD (Fas associated
+Death Domain) and pro-caspase-8 to form a multimeric
+death receptor-inducing complex (DISC). Proximity of
+several pro-caspase-8 molecules in the DISC allows auto-
+proteolytic cleavage and thus activation of this initiator
+caspase with subsequent cleavage of downstream effector
+caspases such as caspase-3, -6 and -7 [15]. In contrast,
+application of cellular stress mostly triggers the so-called
+mitochondrial death pathway that critically involves dis-
+ruption of the mitochondrial membrane potential with
+release of proapoptotic proteins including cytochrome c
+from the mitochondrial intermembrane space into the
+cytosol [16]. Release of cytochrome c culminates in the
+activation of pro-caspase-9 within a multimeric cytosolic
+death inducing complex, the apoptosome. Similar to cas-
+pase-8, the initiator caspase-9 triggers activation of the
+effector caspase-cascade that finally executes cell death
+[17-19]. A mitochondrial amplification loop mediated by
+caspase-8 triggered cleavage of the proapoptotic Bcl-2 pro-
+tein Bid yielding truncated Bid (tBid) and tBid mediated
+release of cytochrome c from the mitochondrial inter-
+membrane space constitutes a molecular link between the
+death receptor and the mitochondrial pathway that
+assures execution of apoptosis in cells with low initial cas-
+pase-8 cleavage upon death receptor stimulation [20].
+Inversely, dependent on the cell line, complete activation
+of mitochondria and subsequent execution of drug-
+induced apoptosis may rely on a mitochondrial amplifica-
+tion loop mediated by caspase-3 and caspase-8 [21].
+Induction of apoptosis is a common mechanism of the
+cytotoxic action of most DNA-damaging drugs and irradi-BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 3 of 22
+(page number not for citation purposes)
+ation. However, tumour cells are often characterized by
+alterations in genes coding for proteins involved in apop-
+tosis and survival signalling [22,23]. In this regard,
+increased levels of anti-apoptotic or decreased levels of
+pro-apoptotic proteins can cause acquired or intrinsic
+resistance against apoptosis induction by DNA-damaging
+antineoplastic drugs and ionizing radiation thereby con-
+tributing to treatment failure and poor clinical prognosis
+[24]. Thus, novel agents targeting aberrant apoptosis path-
+ways or inducing alternative death pathways may be
+suited to overcome treatment resistance [16,25-34].
+The putative proapoptotic and radiosensitizing effects
+together with its reported selective action on tumour cells
+make Ukrain an interesting novel agent for cancer treat-
+ment as single drug and in combination with radiation
+therapy. However, data regarding the cytotoxic activity of
+the drug are still conflicting and the molecular mecha-
+nisms of Ukrain-triggered cell death are not yet under-
+stood. Moreover, concerns about the chemical purity of
+this semisynthetic drug emerged [35].
+Therefore, the aim of the present study was to characterize
+the apoptosis inducing capacity of Ukrain, to elucidate
+molecular mechanisms of Ukrain-induced apoptosis and
+to analyse the chemical identity of the drug preparation.
+Methods
+Chemicals and drugs
+The pharmaceutical preparation "Ukrain" (NSC-631570)
+with an indicated concentration of 1 mg/ml "Ukrain-mol-
+ecule") was obtained from Nowicky Pharmaceuticals
+(Vienna, Austria). Chelidonine, protopine, allocryp-
+topine, chelerythrine, sanguinarine and thiotepa were
+purchased from Sigma-Aldrich (Munich, Germany). For
+in vitro investigations the alkaloids were dissolved in water
+(allocryptopine, chelerythrine and protopine), DMSO
+(chelidonine) or methanol (sanguinarine) as 1 mM, 10
+mM or 100 mM stock solutions.
+A native extract of greater celandine (Chelidonium majus
+L.) was obtained from Caelo & Loretz GmbH (Hilden,
+Germany). As indicated by the manufacturer the extract
+solution contained 0.35% (w/w) alkaloids as calculated
+from the content of chelidonine as major alkaloid compo-
+nent. For experimental use, the stock solution was
+adjusted to 1 mM chelidonine.
+Etoposide and the pan-caspase-inhibitor zVAD-fmk were
+purchased from Alexis Biochemicals (San Diego, USA)
+and dissolved in DMSO. TMRE was obtained from Molec-
+ular Probes (Mobitec, Goettingen, Germany) and dis-
+solved as a 25 µM stock solution in water. Hoechst 33342
+and propidium iodide were purchased from Calbiochem
+(Bad Soden, Germany) and from Sigma (Munich, Ger-
+many), respectively, and dissolved in distilled water.
+Trypan Blue was from Sigma (Munich, Germany) and
+used as 0.04% solution for cytotoxicity assays.
+Rabbit anti-cleaved caspase-3, rabbit anti-Bad, rabbit anti-
+PARP- and rabbit anti-cleaved PARP antibodies were
+obtained from Cell Signaling (Frankfurt, Germany). Anti-
+caspase-9-antibody and polyclonal rabbit anti-Bak-NT
+were purchased from Upstate (Biomol, Hamburg, Ger-
+many). Monoclonal mouse anti-caspase-8-mouse-anti-
+body directed against the p18 subunit was obtained from
+BioCheck (Münster, Germany)[19]. Monoclonal mouse
+anti-Bcl-2 mouse-antibody was purchased from Santa
+Cruz Biotech (Heidelberg, Germany). Polyclonal rabbit
+anti-Bim was purchased from Pharmingen (Becton Dick-
+inson, Heidelberg, Germany) and rabbit anti-Bid from R
+& D Systems (Wiesbaden, Germany). Horse-radish perox-
+idase-conjugated secondary antibodies were purchased
+from Santa-Cruz-Biotech (Heidelberg, Germany; anti-rab-
+bit and anti-mouse) and Amersham-Pharmacia Biotech
+(Freiburg, Germany; anti-sheep), respectively. All other
+chemicals were obtained from Sigma (Munich, Germany)
+if not otherwise specified.
+Cell culture and cellular treatment
+Jurkat A3 T-lymphoma cells were from American Type
+Culture Collection (Manassas, VA, USA). Caspase-9 DN
+(a) Postulated trimeric structure of the "Ukrain-molecule" Figure 1
+(a) Postulated trimeric structure of the "Ukrain-mol-
+ecule".
+N H
+O
+O
+N
++ O
+O
+OH
+N H
+P
+S
+O
+O
+N
++
+O
+O
+OH
+N
+H
+O
+O
+N
++
+O O
+O H
+3+
+Molecular Formula: C66H72N6O15PS (cation)
+Monoisotopic mass: 1251.45 Da
+m/z: 417.2 (cation with 3 charges)
+O H 3BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 4 of 22
+(page number not for citation purposes)
+expressing Jurkat cells, caspase-8 and FADD-negative Jur-
+kat cells, CD95/TRAIL-resistant Jurkat A3 as well as Bcl-2
+overexpressing Jurkat cells and the respective mock trans-
+fected control cells (Jurkat Vector) were used as already
+described [19,36,37]. Jurkat J16 control cells as well as
+cFLIP-L expressing Jurkat cells were kindly provided by J.
+Tschopp, Epalinges, Switzerland [38]. Jurkat cells were
+grown in RPMI 1640 medium supplemented with 10%
+fetal calf serum (Invitrogen-Gibco, Karlsruhe, Germany)
+and 100 U/ml penicilline and 100 µg/ml streptomycine
+(Invitrogen-Gibco, Karlsruhe, Germany) and maintained
+in a humidified incubator at 37°C and 5% CO2.
+Irradiation was performed with 6 MV photons from a Sie-
+mens Mevatron linear accelerator with a dose rate of 4 Gy
+per min at room temperature.
+Cytotoxicity assay
+Cytotoxicity of Ukrain was measured by standard live-
+dead staining. To this end, cells were incubated for 10 min
+with Trypan Blue staining solution (0.04%). The number
+of viable (transparent) and dead (blue) cells was deter-
+mined by light microscopic analysis.
+Determination of apoptosis
+Cell death was analysed by fluorescence microscopy upon
+combined staining of the cells with Hoechst 33342 and
+propidium iodide. In brief, cells were incubated for 15
+min with Hoechst 33342 (1.5 µM) or with Hoechst 33342
+(1.5 µM) and propidium iodide (2.5 µg/ml) where indi-
+cated. Cell morphology was then determined by fluores-
+cence microscopy (Zeiss Axiovert 200, Carl Zeiss, Jena,
+Germany) using an excitation wavelength filter of 380
+nm. Cells were analysed with 40fold magnification and
+documented using a CCD camera device (Zeiss Axiocam
+MRm). At least 250 cells were counted for each value.
+Moreover, cell death was quantified by flow cytometry
+using light scatter characteristics employing a FACS Cali-
+bur flow cytometer (Becton Dickinson, Heidelberg, Ger-
+many).
+Determination of mitochondrial transmembrane potential
+The mitochondrial transmembrane potential (∆ψm) was
+analysed by flow cytometry using the ∆ψm-specific stain
+TMRE (tetramethylrhodamine ethylester perchlorate)
+(Molecular Probes, Mobitech, Göttingen Germany). To
+this end, cells were loaded for 30 min at 37°C with 25 nM
+TMRE and subsequently analysed by flow cytometry. Pre-
+incubation with 1 µM of the proton ionophore CCCP
+(carbonylcyanide-m-chlorophenylhydrazone) was used
+as a positive control for complete depolarisation.
+Determination of caspase-activation
+Caspase activation was determined by Western blot anal-
+ysis of cytosolic extracts upon treatment with Ukrain or
+defined alkaloid preparations. To this end, cells were
+resuspended in 3fold concentrated lysis buffer (final con-
+centration: 62.5 mM Tris-HCl (pH = 6.8), 2% (w/v) SDS,
+10% (v/v) Glycerol, 50 mM DDT, 0.01% (w/v) bromphe-
+nol-blue in PBS) and subsequently boiled for 10 min at
+100°C.
+Ten µl lysate (corresponding to 105 cells) were separated
+by SDS-PAGE and subsequently blotted onto PVDF-mem-
+branes (Pharmacia, Freiburg, Germany). Equal protein
+loading was confirmed by Coomassie Blue staining.
+Blots were blocked for 1 h in TBS buffer containing 0.05%
+Tween 20 and 5% non fat dried milk (3% non fat dried
+milk in case of caspase-9 antibody). The membrane was
+then incubated over night at 4°C with the respective pri-
+mary antibodies. After repeated washings with PBS/
+Tween-20 (0.05%) the membrane was incubated with the
+respective secondary antibody (1:10 000) in TBS/Tween
+for 1 h at room temperature and again washed several
+times with TBS/Tween. The detection of antibody binding
+was performed by enhanced chemoluminescence staining
+(ECL Western blotting analysis system, Amersham-Phar-
+macia Biotech, Freiburg, Germany).
+In addition, caspase activation was quantified using the
+CaspACE® FITC-VAD-fmk in situ marker which consists of
+a FITC-conjugate of the cell permeable pan-caspase-inhib-
+itor VAD-fmk (Promega, Mannheim, Germany). Within
+the cell the inhibitor binds to activated caspases and
+serves as in situ marker for caspase-activation. CaspACE®-
+staining was performed according to the manufacturer's
+guidelines.
+Chromatographic separation and mass spectrometric 
+investigations of Chelidonium majus extract and the 
+pharmaceutical preparation Ukrain (NSC-631570)
+Dissolution of extract and Ukrain prior to analysis
+Before analysis both the Chelidonium majus L. extract and
+Ukrain were diluted with methanol/water. Ten µl of Che-
+lidonium majus extract were diluted with 500 µl methanol/
+water (90/10, v/v), stirred for 10 min, centrifuged and the
+brown supernatant was used for analyis. Twenty µl of
+Ukrain were diluted with 100 µl methanol/water (90/10,
+v/v), and the light green solution was used for further
+investigations. In each case 10 µl of the particle free meth-
+anolic/water solutions were injected into the HPLC sys-
+tem coupled to ESI-MS interface.
+High-performance-liquid-chromatography
+The HPLC system consisted of a Surveyor quaternary
+pump (Thermo Finnigan; San Jose, California; USA), Sur-BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 5 of 22
+(page number not for citation purposes)
+veyor PDA detector (UV-range scanned: 200–800 nm in 5
+nm intervals) and Surveyor autosampler. Reversed-phase
+chromatography was carried out on a Grom Saphir 110
+C8, (3 µm, 150 × 2 mm) column (Grom Analytik; Rotten-
+burg, Germany). The mobile phase consisted of water +
+0.1% formic acid (eluent A) and acetonitrile + 0.1% for-
+mic acid (eluent B); flow rate was 200 µl/min. Formic acid
+was necessary for improving peak shape. The gradient was
+applied as follows: 0 min: 100% A – 5 min: 100% A – 1
+min: 95% A – 50 min: 50% A – 55 min: 50% A – 56 min:
+100% A. The column was washed with pure methanol
+and pure acetonitrile after each run for 15 min and equil-
+ibrated with 100% A for 3 min.
+Electrospray and MS settings
+All mass spectra were obtained using a Thermo Finnigan
+(San Jose, California; USA) TSQ Quantum triple quadru-
+pole mass spectrometer equipped with an electrospray
+interface coupled to the Surveyor HPLC-system and oper-
+ated in positive ionisation mode. For data processing the
+Xcalibur 1.3 software was used. The ESI-interface was
+locked in a 90° position towards the orifice and operated
+at 3.8 kV. Capillary temperature and sheath gas were set to
+320°C and 30 (arbitrary) units, respectively. Auxillary gas
+was set to 12 (arbitrary) units to enhance signal intensity.
+Full scan MS scans
+Conventional (non MS/MS) full scans in centroid mode
+using the third quadrupole as mass selector (Q3 full scan)
+were recorded in the range of m/z 100–1000 within a
+dwell time of 0.7 s. Source CID (collision induced frag-
+mentation) voltage was 10 V, which minimizes analyte-
+solvent adducts.
+MS/MS product ion scans
+Within one LC-MS run up to four product ion scans for
+different precursor masses were combined. Source CID
+voltage was set to constant value of 10 V and collision
+energy to 35 V (for 354.1 m/z and 370.1 m/z) and to 40 V
+(for 332.1 m/z and 348.2 m/z), respectively and the argon
+collision gas was maintained at a pressure of 1.3· 10-6 bar.
+Product ion spectra were recorded with a scan time of 0.5
+s for each mass, a peak width of 0.7 for Q1 and Q3 and
+within a range of m/z 40 to m/z of the moleclular ion + 10
+mass units.
+Mass spectrometric fragmentation behaviour of reference 
+compounds
+For each reference compound (Fig. 10), a solution with an
+approximate concentration of 0.1 mg/ml was prepared by
+dissolving the dry substances in methanol. Ten µl of these
+standard solutions were injected separately and analysed
+by LC-MS and LC-MS/MS under the same conditions as
+the Chelidonium majus extract and Ukrain. The data were
+then evaluated with respect to ionisation efficiency, com-
+pound stability in the electrospray source and adduct for-
+mation.
+Statistical analysis
+Experiments were at least performed in triplicates. Data
+were represented as means ± SD. Where appropriate, one-
+way ANOVA test or paired t-test were performed using
+GraphPad InStat version 3.00 for Windows 95, GraphPad
+Software, San Diego California USA, http://www.graph
+pad.com.
+Results
+Ukrain induces apoptosis in Jurkat T-lymphoma cells
+Earlier reports suggested an involvement of apoptosis in
+the antineoplastic activity of Ukrain [9,10,12,13]. There-
+fore, in a first set of experiments we analysed the sensitiv-
+ity of Jurkat Vector and A3 cells to apoptosis induction by
+Ukrain. Evaluation of nuclear morphology by fluores-
+cence microscopy upon treatment with increasing drug-
+concentrations revealed Ukrain-triggered morphological
+alterations that are indicative for apoptotic cell death
+including chromatin condensation, nuclear shrinkage and
+fragmentation (Fig. 2a). In line with this observation,
+Ukrain induced a concentration- (Fig. 2b, white bars) and
+time-dependent (Fig. 2c, white bars) increase of apoptotic
+rates in Jurkat Vector cells compared to the respective
+untreated controls as determined by flow cytometry using
+light scatter characteristics indicative for cellular shrink-
+age. Interestingly, Ukrain also induced a concentration-
+dependent breakdown of the mitochondrial membrane
+potential (Fig. 2b, grey bars). Similar to the results regard-
+ing cellular shrinkage, Ukrain-induced alterations of
+mitochondrial function were observed within 6 h after
+treatment with 10 µg/ml Ukrain (Fig. 2c, grey bars). More-
+over, Ukrain-treatment triggered a time- and concentra-
+tion-dependent activation of caspases as indicated by flow
+cytometric detection of increased rates of CaspACE®-fluo-
+rescence (Fig 2b+c, black bars). These data were corrobo-
+rated by detection of cleavage of caspase-3 and -8 as well
+as of the caspase-3 substrate PARP that was observed
+within 12 h after treatment with 10 µg/ml Ukrain (Fig.
+2d). To evaluate importance of caspase-activation in
+Ukrain-triggered apoptosis, apoptosis rates were deter-
+mined in the presence of the broad-spectrum caspase-
+inhibitor zVAD-fmk. Inhibition of caspase-activation by
+pre-incubation with zVAD-fmk resulted in a reduced
+amount of Ukrain-induced apoptosis compared to cells
+treated with Ukrain in the absence of zVAD-fmk (Fig. 3a).
+In addition, to prove cytotoxic efficacy of Ukrain in the
+Jurkat T-lymphoma cell model, the number of living and
+dead cells was determined by Trypan Blue Exclusion. As
+shown in Fig. 3b, Ukrain-treatment increased the percent-
+age of dead cells in a time- and concentration-dependent
+manner.BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 6 of 22
+(page number not for citation purposes)
+Signalling pathways of Ukrain-induced apoptosis
+Up to now our data indicated that Ukrain triggers activa-
+tion of caspases and alteration of mitochondrial function.
+To gain further insight into the molecular requirements
+for Ukrain-induced apoptosis we subsequently analysed
+the contribution of death receptor-dependent and mito-
+chondrial apoptosis signalling events.
+Since our results revealed activation of caspase-8 upon
+Ukrain-treatment, the importance of the death receptor
+(a) Ukrain induces morphological alterations indicative for apoptosis Figure 2
+(a) Ukrain induces morphological alterations indicative for apoptosis. Mock-transfected Jurkat control cells (Jurkat 
+Vector) were treated for 24 h with medium or 10 µg/ml Ukrain and subsequently stained with Hoechst33342. Apoptotic cells 
+show characteristic chromatin condensation and nuclear fragmentation. Micrographs of a representative experiment are 
+shown. (b) Ukrain induces apoptosis in a concentration-dependent manner. Jurkat Vector cells were treated for 24 h 
+with medium or 5, 10 and 50 µg/ml Ukrain. Apoptosis was then quantified by flow cytometric analysis using light scatter char-
+acteristics (white bars), determination of the mitochondrial membrane potential ∆ψm upon staining with the potential sensitive 
+dye TMRE (grey bars) and detection of caspase-activation upon staining with CaspACE® (black bars). Data show specific apop-
+tosis (% apoptosis in Ukrain-treated cells minus % apoptosis in untreated control cells) as means ± SD (n ≥ 3). (c) Ukrain 
+induces apoptosis in a time-dependent manner. Jurkat Vector cells were treated with medium or 10 µg/ml Ukrain for 3, 
+6, 12 and 24 h and subsequently analysed by flow cytometry using light scatter characteristics (white bars), determination of 
+the mitochondrial membrane potential upon staining with the potential sensitive dye TMRE (grey bars) and detection of cas-
+pase-activation upon staining with CaspACE® (black bars). Data represent specific apoptosis (means ± SD, n ≥ 3). (d) Ukrain 
+induces activation of caspases. Jurkat Vector cells were treated with medium or 10 µg/ml Ukrain for 6, 12 and 24 h. Cas-
+pase activation was determined by Western blot analysis of cytosolic extracts with specific antibodies against caspase-8 and 
+caspase-3 and their respective cleavage products. In addition, caspase-3 activation was verified by detection of the cleavage of 
+the caspase-3 substrate PARP. Data from one representative experiment are shown.
+a
+0
+20
+40
+60
+80
+100
+5 µg/ml 10 µg/ml 50 µg/ml
+24 h
+S
+p
+e
+c
+i
+f
+i
+c
+a
+p
+o
+p
+t
+o
+s
+i
+s
+r
+a
+t
+e
+[
+%
+] Light Scatter
+Cells with low ∆Ψm
+Caspase-activation
+0
+20
+40
+60
+80
+100
+3h 6h 1 2h 2 4h
+10 µg/ml
+S
+p
+e
+c
+i
+f
+i
+c
+a
+p
+o
+p
+t
+o
+s
+i
+s
+r
+a
+t
+e
+[
+%
+] Light Scatter
+Cells with low ∆Ψm
+Caspase-activation
+b
+c d
+ p54/52
+Jurkat Vector
+[h] 06 1 2 2 4 Treatment time
+10 µg/ml Ukrain
+PARP
+PARP cleaved
+Active caspase-3
+Procaspase-8
+Processed casp.-8  p43/41
+ p19/17
+ p116
+ p85
+Medium
+24 h
+Ukrain 10 µg/ml
+24 h
+Jurkat VectorBMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 7 of 22
+(page number not for citation purposes)
+pathway was analysed using Jurkat cells lacking caspase-8
+or the adapter protein FADD, Jurkat cells expressing the
+caspase-8 inhibitor cFLIP-L as well as the respective con-
+trol cells (Fig. 4 and Fig. 5) [38]. In addition, variant Jurkat
+A3 cells resistant to CD95 and TRAIL-induced apoptosis
+(CD95/TRAIL-resistant Jurkat cells) were used (Fig. 5)
+[36]. Lack of FADD and caspase-8 as well as expression of
+cFLIP-L were verified by Western blot analysis (data not
+shown). Resistance of CD95/TRAIL-resistant Jurkat cells
+to death receptor-induced apoptosis was verified by fluo-
+rescence microscopy upon stimulation with 10 ng/ml
+TRAIL (Fig. 5).
+Ukrain induced mitochondrial damage and apoptosis in
+caspase-8- and FADD-negative cells in a concentration-
+and time-dependent manner to the same extent as in Jur-
+kat A3 control cells (Fig. 4a right and left panel, respec-
+tively). Moreover, activation of caspases was clearly
+detectable in Ukrain-treated caspase-8- and FADD-defi-
+cient cells although a slight delay in the activation of cas-
+(a) Ukrain-induced apoptosis depends on caspase-activation Figure 3
+(a) Ukrain-induced apoptosis depends on caspase-activation. Jurkat A3 cells were pre-incubated for 2 h with medium 
+supplemented with 30 µM of the pan-caspase-inhibitor zVAD-fmk or left untreated. Subsequently, cells were treated for 24 h 
+with medium or 10 µg/ml Ukrain. Apoptosis was then quantified by counting of the cells with apoptotic nuclear morphology 
+(left panel). Data show means ± SD, n = 3. Paired t-test was performed using GraphPad InStat version 3.00 for Windows 95, 
+GraphPad Software, San Diego California USA, http://www.graphpad.com. Micrographs showing reduced induction of apop-
+totic nuclear morphology upon combined treatment are depicted in the right panel. (b) Ukrain exerts concentration- and 
+time-dependent cytotoxic effects on Jurkat T-lymphoma cells. Jurkat Vector cells were treated for 24 h with medium, 
+5, 10 and 50 µg/ml Ukrain (left panel) or for 0, 12, 24 or 48 h with 10 µg/ml Ukrain (right panel). The number of living and dead 
+cells was then quantified by light microscopy using Trypan Blue Exclusion. Data show means ± SD, n = 3.
+0
+20
+40
+60
+80
+100
+control 5 µg/ml 10 µg/ml 50 µg/ml
+D
+e
+a
+d
+c
+e
+l
+l
+s
+[
+%
+]
+24h Jurkat Vector
+0
+20
+40
+60
+80
+100
+control 10 µg/ml
+D
+e
+a
+d
+c
+e
+l
+l
+s
+[
+%
+]
+12 h
+24 h
+48 h
+Jurkat Vector
+b
+a
+Ukrain 10 µg/ml
+24 h
+Jurkat A3
+Ukrain 10 µg/ml
++z V A D - f m k2 4h
+0
+20
+40
+60
+80
+100
+control Ukrain
+10 µg/ml
+zVAD-fmk
+30 µM
+zVAD-fmk 30 µM
++Ukrain 10 µg/ml
+A
+p
+o
+p
+t
+o
+t
+i
+c
+c
+e
+l
+l
+s
+[
+%
+] 12 h
+24 h
+Jurkat A3
+p<0.05
+p<0.05BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 8 of 22
+(page number not for citation purposes)
+pase-3 and cleavage of the caspase-3 substrate PARP was
+observed in the FADD-deficient cells (Fig. 4b). Consistent
+with these findings, cFLIP-L expressing Jurkat cells as well
+as CD95/TRAIL resistant Jurkat cells that failed to undergo
+apoptosis upon treatment with 10 ng/ml TRAIL were sen-
+sitive to Ukrain-induced apoptosis to the same extent as
+the control cells (Fig. 5).
+These data reveal that lack of caspase-8 or FADD, two
+essential components of the death receptor pathway,
+expression of cFLIP-L or resistance to death receptor lig-
+ands do not abrogate apoptosis upon Ukrain-treatment.
+In addtion, Ukrain-treatment induced mitochondrial
+alterations. Therefore, we subsequently tested the hypoth-
+esis that similar to DNA-damaging anticancer drugs,
+(a) Expression of caspase-8 and FADD are not essential for Ukrain-induced apoptosis Figure 4
+(a) Expression of caspase-8 and FADD are not essential for Ukrain-induced apoptosis. Jurkat A3 control cells as 
+well as FADD-deficient and caspase-8-deficient Jurkat cells were treated for 24 h with medium or 5, 10 and 50 µg/ml Ukrain. 
+Apoptosis was then determined by flow cytometry using light scatter characteristics (left panel). Alternatively, A3, FADD-defi-
+cient and caspase-8-deficient Jurkat cells were treated for 3, 6, 12 and 24 h with medium or 10 µg/ml Ukrain. Apoptosis induc-
+tion was then quantified by determination of the mitochondrial membrane potential (∆ψm) (right panel). Data show induction 
+of specific apoptosis (means ± SD; n ≥ 3). One-way ANOVA was performed using GraphPad InStat version 3.00 for Windows 
+95, GraphPad Software, San Diego California USA, http://www.graphpad.com. (b) Expression of caspase-8 and FADD are 
+not essential for Ukrain-induced caspase-activation. Jurkat A3 as well as FADD-deficient and caspase-8-deficient Jurkat 
+cells were treated for 6, 12 and 24 h with medium or 10 µg/ml Ukrain. Caspase activation was then determined by Western 
+blot analysis of cytosolic extracts with specific antibodies against caspase-3, cleaved caspase-3, PARP and cleaved PARP, respec-
+tively. In addition, cells were treated for 3, 6, 12 and 24 h with medium or 10 µg/ml Ukrain and Western blot analysis with spe-
+cific antibodies against caspase-8 was performed. Data from one representative experiment are shown.
+a
+b
+0 6 12 24
+Procaspase-3
+Active caspase-3
+PARP
+PARP cleaved
+[h] 0 6 12 24 0 6 12 24 Treatment time
+ p116
+ p85
+Jurkat A3 Jurkat Casp. 8 neg. Jurkat FADD neg.
+Procaspase-8
+Processed casp.-8
+ p35
+036 1 2 2 4 [h] 036 1 2 2 4 Treatment time 036 1 2 2 4
+ p35
+ p19
+ p54/52
+ p43/41
+0
+20
+40
+60
+80
+100
+5µ g / m l 1 0µ g / m l 5 0µ g / m l
+24 h
+S
+p
+e
+c
+i
+f
+i
+c
+a
+p
+o
+p
+t
+o
+s
+i
+s
+[
+%
+] Jurkat A3
+Jurkat Caspase-8 neg
+Jurkat FADD neg
+n.s.
+n.s. n.s.
+n.s.
+n.s.
+n.s.
+0
+20
+40
+60
+80
+100
+3h 6h 1 2h 2 4h
+10 µg/ml
+C
+e
+l
+l
+s
+w
+i
+t
+h
+l
+o
+w
+∆
+Ψ
+m
+[
+%
+] Jurkat A3
+Jurkat Caspase-8 neg
+Jurkat FADD neg
+n.s.
+n.s.
+n.s.
+n.s. n.s.
+n.s.
+n.s.
+n.s.BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 9 of 22
+(page number not for citation purposes)
+Ukrain may trigger apoptosis via the mitochondrial apop-
+tosis signalling cascade. Mitochondrial death pathways
+are characterized by early depolarisation of the mitochon-
+drial membrane potential and activation of caspases
+downstream of the mitochondria. These events are regu-
+lated by pro- and anti-apoptotic Bcl-2-like proteins [39].
+In this context, anti-apoptotic Bcl-2 and Bcl-xL function as
+guardians of mitochondrial integrity preventing mito-
+chondrial damage and caspase-activation triggered by
+pro-apoptotic Bcl-2 family members e.g. Bax and Bak at
+the level of the mitochondria [40].
+To analyse the contribution of the mitochondrial death
+pathway Ukrain-induced apoptosis was determined in
+Jurkat cells overexpressing anti-apoptotic Bcl-2, Bcl-xL or a
+dominant negative caspase-9, three known antagonists of
+the mitochondrial death pathway, as well as the respective
+mock-transfected control cells (Jurkat Vector). Expression
+of Bcl-2, Bcl-xL and caspase-9 were controlled by Western
+blot analysis (Fig. 6c and data not shown).
+In our hands, overexpression of Bcl-2 only partially inhib-
+ited apoptosis induction upon treatment with Ukrain as
+determined by fluorescence microscopy upon Hoechst
+33342 staining (Fig. 6a). Similar results were obtained in
+cells overexpressing Bcl-xL (Fig. 7). Moreover, Bcl-2 almost
+completely abrogated apoptosis induction upon treat-
+ment with etoposide or ionizing radiation, two paradig-
+matic stimuli of the mitochondrial death pathway.
+Expression of a dominant negative caspase-9 mutant
+inhibited Ukrain-induced apoptosis to a similar extent,
+while apoptosis induction upon treatment with etoposide
+or ionizing radiation was less affected (Fig. 6a).
+In line with these findings, overexpression of Bcl-2
+reduced Ukrain-induced mitochondrial damage while
+expression of the dominant negative caspase-9 was less
+effective, at least at increased drug concentrations (Fig.
+6b). The moderate effects on apoptosis induction
+observed by flow cytometric analysis were reflected by
+determination of caspase-activation using Western blot
+Expression of cFLIP-L or resistance to death receptor ligands do not interfere with Ukrain-induced apoptosis Figure 5
+Expression of cFLIP-L or resistance to death receptor ligands do not interfere with Ukrain-induced apoptosis 
+Jurkat J16 control cells, cFLIP-L expressing Jurkat cells and CD95/TRAIL resistant Jurkat cells were treated for 24 h with 
+medium, 10 ng/ml TRAIL or 10 µg/ml Ukrain. Apoptosis was then quantified by fluorescence microscopy upon Hoechst33342-
+staining and counting of cells with apoptotic morphology (means ± SD; n = 3). One-way ANOVA was performed using Graph-
+Pad InStat version 3.00 for Windows 95, GraphPad Software, San Diego California USA, http://www.graphpad.com.
+0
+20
+40
+60
+80
+100
+Trail 10 ng/ml Ukrain 10 µg/ml
+S
+p
+e
+c
+i
+f
+i
+c
+ 
+a
+p
+o
+p
+t
+o
+s
+i
+s
+[
+%
+] Jurkat J16 Jurkat cFLIP
+CD95/TRAIL-resistant Jurkat A3
+24 h
+p < 0.001
+n.s.
+n.s.
+n.s.BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 10 of 22
+(page number not for citation purposes)
+(a) Overexpression of Bcl-2 and expression of a dominant negative caspase-9 partially reduce Ukrain-induced apoptosis Figure 6
+(a) Overexpression of Bcl-2 and expression of a dominant negative caspase-9 partially reduce Ukrain-induced 
+apoptosis. Jurkat Vector cells, Jurkat Bcl-2 cells as well as Jurkat Caspase-9 DN cells were treated for 24 h with medium or 10 
+µg/ml Ukrain, for 12 h with medium or 25 µM Etoposide and for 48 h with medium or irradiated with 10 Gy 48 h prior to 
+determination of apoptosis. Apoptosis was quantified by fluorescence microscopy upon Hoechst33342-staining by counting 
+cells with apoptotic nuclear morphology. Data show specific apoptosis (apoptosis rates of treated cells minus apoptosis rates 
+of untreated cells) as means ± SD (n = 3). One-way ANOVA was performed using GraphPad InStat version 3.00 for Windows 
+95, GraphPad Software, San Diego California USA, http://www.graphpad.com. (b) Overexpression of Bcl-2 partially inhib-
+its Ukrain-induced mitochondrial damage. Jurkat Vector, Jurkat Bcl-2 as well as Jurkat Caspase-9 DN cells were treated 
+for 24 h with medium or 5, 10 and 50 µg/ml Ukrain. Apoptosis induction was then quantified by determination of the mito-
+chondrial membrane potential (∆ψm) (right panel). Data show induction of specific apoptosis (means ± SD; n ≥ 3). One-way 
+ANOVA was performed using GraphPad InStat version 3.00 for Windows 95, GraphPad Software, San Diego California USA, 
+http://www.graphpad.com. (c) Verification of variant Jurkat clones. Expression of Bcl-2 in Jurkat Vector and Bcl-2 overex-
+pressing Jurkat cells (Jurkat Bcl-2) (upper panel) as well as expression of caspase-9 in Jurkat Vector and Jurkat cells expressing 
+a dominant negative caspase-9 (Jurkat Caspase-9 DN) (lower panel) were verified by Western blot analysis of cytotsolic 
+extracts with the respective antibodies. (d) Overexpression of Bcl-2 and expression of a dominant negative caspase-
+9 only slightly inhibit Ukrain-induced caspase-activation. Jurkat Vector cells, Jurkat Bcl-2 cells as well as Jurkat Cas-
+pase-9 DN cells were treated for 0, 6, 12 and 24 h with medium or 10 µg/ml Ukrain. Caspase-activation was then determined 
+by Western blot analysis of cytosolic extracts with antibodies against full length and active caspase-3, caspase-8 as well as PARP 
+and cleaved PARP. Data from one representative experiment are shown.
+ab
+0
+20
+40
+60
+80
+100
+Ukrain
+10 µg/ml
+24 h
+Etoposide
+25 µM
+12 h
+Irradition
+10 Gy
+48 h
+S
+p
+e
+c
+i
+f
+i
+c
+a
+p
+o
+p
+t
+o
+s
+i
+s
+[
+%
+]
+Jurkat Vector
+Jurkat Bcl-2
+Jurkat Caspase-9 DN
+p < 0,01
+p < 0.05
+p < 0,01
+n.s.
+p < 0.001
+p < 0.001
+0
+20
+40
+60
+80
+100
+5µ g / m l 1 0µ g / m l 5 0µ g / m l
+24 h
+C
+e
+l
+l
+s
+w
+i
+t
+h
+l
+o
+w
+∆
+Ψ
+m
+[
+%
+] Jurkat Vector Jurkat Bcl-2
+Jurkat Caspase-9 DN
+n. s.
+p < 0.05
+p < 0.001
+p < 0.001 n. s.
+p < 0.05
+c
+Jurkat
+Vector
+Jurkat
+Bcl-2
+Bcl-2 p28
+Jurkat
+Vector
+Jurkat
+Casp.-9 DN
+Casp.-9 p45
+d
+0 6 12 24 [h] 0 6 1 22 4 0 61 22 4 Treatment-time
+Jurkat Vector Jurkat Bcl-2 Jurkat Casp.-9 DN
+Procaspase-3
+Active caspase-3 p17/p19
+p35
+PARP
+PARP cleaved
+p116
+p85
+Procaspase-8
+Cleaved casp.-8
+p54/52
+p43/41BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 11 of 22
+(page number not for citation purposes)
+analysis that revealed reduction but not inhibition of cas-
+pase-activation and PARP-cleavage in Jurkat Bcl-2 cells
+compared to control cells (Fig. 6d). In this regard, the
+small amount of PARP-cleavage observed in untreated Jur-
+kat Vector and Jurkat Caspase-9 DN cells was attributed to
+increased levels of spontaneous apoptosis in untreated
+cells compared to untreated Bcl-2 control cells.
+Since expression of Bcl-2, Bcl-xL and the dominant nega-
+tive caspase-9 reduced Ukrain-induced apoptosis pointing
+to the contribution of mitochondrial signalling events we
+subsequently analysed whether Ukrain-treatment would
+affect pro-apoptotic members of the Bcl-2 family. How-
+ever, treatment with Ukrain did not alter expression levels
+or integrity of the pro-apoptotic Bak, Bid or Bad (data not
+shown).
+Mass spectrometric analysis of Ukrain-components
+The main component of Ukrain as pharmaceutical prepa-
+ration has been suggested to consist of three chelidonine
+moieties crosslinked with one thiothepa unit in the center
+representing the "Ukrain molecule" [1-3]. The postulated
+chemical structure of the "Ukrain-molecule" (NSC-
+631570) is depicted in Fig. 1 indicating its cationic struc-
+ture with an calculated isotopic pattern for
+[C66H72N6O15PS]3+ as given in Fig. 8.
+To check integrity of the "Ukrain-molecule", mass spectro-
+metric analysis of this pharmaceutical preparation was
+performed. Surprisingly, the extracted ion chromatogram
+(EIC) for m/z 417.2 (Fig. 9) demonstrated that the
+reported semisynthetic thiothepa derivative Ukrain was
+completely absent in the pharmaceutical preparation
+Ukrain. Moreover, no dimeric or monomeric condensa-
+tion products of thiotepa with two or one chelidonine
+molecules were found (data not shown).
+Instead, mass spectrometric analysis of the pharmaceuti-
+cal preparation Ukrain revealed five major components of
+the preparation including the Chelidonium majus alkaloids
+protopine (peak no 1, Fig. 10 and Fig. 11) chelidonine
+(peak no 2, Fig. 10 and Fig. 11), allocryptopine (peak no
+3a and no 3b, Fig. 10 and Fig. 11), sanguinarine (peak no
+4a and 4b, Fig. 10 and Fig. 11) and chelerythrine (peak no
+5a and 5b, Fig. 10 and Fig. 11). Identity of the alkaloids
+was shown by the detection of molecules with identical
+MS/MS-fragmentation pattern as the reference com-
+pounds (Fig. 10).
+In addition, the same alkaloid components were identi-
+fied in commercially available extracts of Chelidonium
+majus (see peaks no 1–5, Fig. 10 and Fig. 12).
+Extracts of Chelidonium majus extracts have similar 
+proapoptotic potency as Ukrain
+Based on the finding that instead of the suggested trimeric
+chelidonine thiophosphortriamide the pharmaceutical
+preparation Ukrain contains a mixture of several known
+Chelidonium majus L alkaloids we wondered whether
+extracts of Chelidonium majus L. would also induce apop-
+tosis in Jurkat T-lymphoma cells. To this end, we quanti-
+fied apoptosis induction in Jurkat Vector cells upon
+treatment with a commercially available Chelidonium
+majus L. extract. As expected, Chelidonium majus L. extracts
+adjusted to 5 to 50 µM chelidonine (corresponding to
+1.765 µg/ml and 17.65 µg/ml chelidonine, respectively)
+Overexpression of BclxL reduces Ukrain induced apoptosis Figure 7
+Overexpression of BclxL reduces Ukrain induced apoptosis. Jurkat Vector cells and Jurkat cells overexpressing anti-
+apoptotic Bcl-xL (Jurkat Bcl-xL) were treated with 10 µg/ml Ukrain for 6, 12 and 24 h (left panel) or for 24 h with 5, 10 and 50 
+µg/ml Ukrain (right panel). Apoptosis was then measured by fluorescence microscopy upon Hoechst33342-staining. Data show 
+means ± SD (n = 3). Paired t-test was performed using GraphPad InStat version 3.00 for Windows 95, GraphPad Software, San 
+Diego California USA, http://www.graphpad.com).
+0
+20
+40
+60
+80
+100
+5µg/ml 10µg/ml 50µg/ml
+S
+p
+e
+c
+i
+f
+i
+c
+ 
+a
+p
+o
+p
+t
+o
+s
+i
+s
+[
+%
+] Jurkat Vector
+Jurkat VectorBcl-xL
+24 h
+p<0.01
+p<0.05
+p<0.05
+10 µg/ml Ukrain
+0
+20
+40
+60
+80
+100
+6 h 12 h 24 h
+S
+p
+e
+c
+i
+f
+i
+c
+ 
+a
+p
+o
+p
+t
+o
+s
+i
+s
+[
+%
+]
+Jurkat Vector
+Jurkat Vector Bcl-xL
+n.s.
+p<0.05
+p<0.05BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 12 of 22
+(page number not for citation purposes)
+as major alkaloid compound induced massive apoptosis
+in Jurkat Vector cells within 24 h in a concentration-
+dependent manner as quantified by fluorescence micros-
+copy upon staining with Hoechst 33342 (Fig. 13a). While
+a concentration of 1 µM was almost ineffective, 5 µM
+extract yielded massive apoptosis. A further increase in the
+alkaloid concentration led only to a slight increase in the
+number of apoptotic cells compared to the values
+obtained with 5 µM extract. The characteristic nuclear
+morphology observed upon treatment with Chelidonium
+majus L. extracts is depicted in Fig. 13b. Quantification of
+cell shrinkage and of depolarisation of the mitochondrial
+membrane potential gave similar results (Fig 13c white
+and grey bars, respectively). Interestingly, in contrast to
+Ukrain, treatment with Chelidonium majus L. extracts
+induced only low levels of caspase-activation (Fig. 13c,
+black bars).
+Chelidonine is a potent apoptosis inducing component of 
+Ukrain
+Up to now our data indicated that the pharmaceutical
+preparation Ukrain and Chelidonium majus extracts both
+constitute mixtures of diverse Chelidonium majus L. alka-
+loids and induce apoptosis of Jurkat T-lymphoma cells
+with almost similar potency. Consequently, we next
+aimed to define the apoptosis inducing alkaloids among
+the components of the Ukrain-preparation identified by
+mass spectrometry.
+To this end apoptosis induction by chelidonine, pro-
+topine, allocryptopine, sanguinarine and chelerythrine
+was analysed in Jurkat T-lymphoma cells. In these investi-
+gations chelidonine, sanguinarine and chelerythrine
+turned out to be potent inducers of apoptosis in Jurkat
+Vector cells inducing cell death in a concentration- and
+time-dependent manner in the µM dose range (Figs. 14
+and 15 as well as data not shown). Because of the known
+proapoptotic effects of sanguinarine and chelerythrine,
+only apoptosis inducing potency of chelidonine, pro-
+topine and allocryptopine was analysed in more detail. In
+these investigations chelidonine turned out to be a potent
+inducer of apoptosis in Jurkat Vector cells inducing cell
+death in a concentration- and time-dependent manner
+(Fig. 14a and data not shown). 1 µM chelidonine was suf-
+ficient to induce apoptosis in Jurkat Vector and A3 cells
+within 24 h as determined by flow cytometry (Fig. 14a left
+panel, white bars). Maximal effects were almost obtained
+at a concentration of 5 µM and a further increase in the
+chelidonine-concentration did not result in a further mas-
+sive increase in apoptosis rates. Flow cytometric data
+revealed strong chelidonine-induced mitochondrial dam-
+age and caspase-activation in the same dose range (Fig.
+14a left panel grey and black bars, respectively). Micro-
+graphs showing typical apoptotic nuclear morphology of
+Hoechst 33342-stained cells are depicted in Fig. 14a (right
+panel) Interestingly, even at increased chelidonine con-
+centrations, only moderate levels of necrotic cell death
+(below 20%) were observed (data not shown).
+The alkaloid protopine (≥ 50 µM) also exerted cytotoxic
+effects on Jurkat T-lymphoma cells. However, increased
+drug concentrations compared to chelidonine were
+required to induce similar levels of cell death (approxi-
+mately 40% of cell death upon treatment with 50 µM pro-
+topine compared to 5 µM chelidonine) (Fig. 14b).
+Interestingly, fluorescence microscopy of protopine-
+treated cells upon combined staining with Hoechst 33342
+and propidium iodide revealed that a further increase in
+the alkaloid concentration led to increasing rates of
+necrotic cell death (data not shown).
+In contrast to the above mentioned findings the alkaloid
+allocryptopine had only minor apoptosis inducing
+potency. At concentrations between 50 and 150 µM the
+drug almost completely failed to induce mitochondrial
+damage, caspase-activation, chromatin condensation or
+nuclear fragmentation (Fig. 15, left panel). Only at
+increased drug concentrations (250 µM to 1 mM) alloc-
+ryptopine induced cell death including apoptosis and
+necrosis (Fig. 15, right panel).
+These data were further substantiated by determination of
+cleavage of the caspase-3 substrate PARP. In this regard,
+Western blot analysis of cytosolic extracts upon treatment
+Calculated isotopic pattern of [C66H72N6O15PS]3+ Figure 8
+Calculated isotopic pattern of [C66H72N6O15PS]3+.
+417 418 419 420
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.5
+A
+b
+u
+n
+d
+a
+n
+c
+e
+417.15
+417.49
+417.82
+418.15
+418.49
+418.82 419.16 419.
+Calculated isotopic pattern of [C66H72N6O15PS]3+BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 13 of 22
+(page number not for citation purposes)
+of Jurkat Vector cells with chelidonine, protopine, alloc-
+ryptopine and Chelidonium majus L. extract revealed strong
+caspase-activation indicated by massive PARP-cleavage
+only upon treatment with 1 µM chelidonine, 50 µM pro-
+topine and 5 µM Chelidonium majus L. extract, respectively,
+while in the dose range tested, allocryptopine failed to
+induce PARP-cleavage (Fig. 16).
+Influence of Bcl-2 on chelidonine-induced apoptosis
+Upon definition of chelidonine as a potent apoptosis
+inducing component of Ukrain and Chelidonium majus L.
+extracts, we wondered whether Bcl-2 would also interfere
+with apoptosis regulation of this isolated alkaloid compo-
+nent. As expected, Bcl-2 clearly reduced chelidonine-
+induced mitochondrial damage, caspase-activation and
+apoptosis at all concentrations tested, arguing for an
+involvement of Bcl-2 in the regulation of chelidonine-
+induced apoptosis (Fig. 17a–d).
+Discussion
+Our data clearly show that the antineoplastic drug prepa-
+ration Ukrain (NSC-631570) is a potent inducer of apop-
+tosis and cell death in human Jurkat T lymphoma cells
+involving mitochondrial damage and caspase-activation.
+However, our data also reveal that the cytotoxic efficacy of
+Ukrain is not due to the suggested "Ukrain-molecule" but
+instead to apoptosis inducing alkaloids from Chelidonium
+majus L..
+It has been shown earlier that Ukrain induces apoptosis in
+tumour cell lines from human solid tumours
+[9,10,12,13]. Here, we show for the first time that Ukrain
+LC-UV-MS and LC-UV-MS/MS spectra of Ukrain®. Extracted ion chromatogram for m/z 417.2 Figure 9
+LC-UV-MS and LC-UV-MS/MS spectra of Ukrain®. Extracted ion chromatogram for m/z 417.2. I: LC-UV (290 
+nm) chromatogram; II: Total ion current (TIC) of mass range m/z 100 to 1000; III: LC-MS ion chromatogram of m/z 417.2 
+(extracted ion chromatogram); IV: Mass spectrum of peak with retention time 54.6 min; V: Zoom of mass range m/z 415 to 
+425 showing isotopic pattern of m/z 417.
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56
+Time (min)
+0
+50
+100
+50
+100
+0
+50000
+100000
+u
+A
+U
+31.67
+32.95
+34.38 2.03
+39.33
+33.17
+34.58
+31.81
+2.15
+13.72 4.48 5.31 39.49 30.79 1.22 5.89 47.37 29.91 17.17 16.44 17.42 54.86 35.99 7.25 13.09 27.82 19.94 24.13 11.09 21.11 50.39 51.36 40.32 43.19 44.36
+54.57
+2.19
+2.05
+2.39 23.98 42.17 21.65 44.55 28.70 45.43 35.60 48.00 51.02 5.11 5.70 53.26 20.87 40.08 26.12 13.09 32.05 12.07 14.60 38.76 10.71
+100 150 200 250 300 350 400 450 500 550 600 650 700 750 800 850 900 950 1000
+m/z
+20
+40
+60
+80
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+326.91
+395.08 327.94 101.10
+140.77 250.86 684.05 211.87 416.97 348.80
+415 416 417 418 419 420 421 422 423 424
+m/z
+20
+40
+60
+80
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+417.00
+418.11
+418.79 423.31 424.01 421.92 415.35 420.33
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+I
+III
+II
+V
+IVBMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 14 of 22
+(page number not for citation purposes)
+is also effective in a Jurkat T-Lymphoma cell model. Inter-
+estingly, the concentrations required for efficient induc-
+tion of apoptosis in Jurkat cells (1–50 µg/ml) were similar
+to the concentration required for the reported radiosensi-
+tizing effects of Ukrain on human colorectal and glioblas-
+toma cell lines in vitro (0.1–50 µg/ml) [6].
+However, up to now the mechanism of Ukrain-induced
+apoptosis remained unclear. In our hands, apoptosis
+induction did not require the presence of caspase-8 and
+FADD, two integral signalling molecules of the death
+receptor pathway. In line with these findings, expression
+of the caspase-8 inhibitor cFLIP-L or resistance to the
+death receptor ligands CD95 and TRAIL failed to abrogate
+Ukrain-induced apoptosis. These findings implicate that
+Ukrain induces apoptosis independently from death
+receptor signalling. The delayed activation of caspase-3
+and cleavage of the caspase-3 substrate PARP in the
+FADD-deficient cells could be indicative for the contribu-
+tion of a FADD-dependent signalling event.
+In contrast, overexpression of Bcl-2, Bcl-xL and expression
+of a dominant negative caspase-9 reduced Ukrain-induced
+apoptosis revealing an involvement of the mitochondrial
+signalling cascade that is controlled by anti-apoptotic
+members of the Bcl-2 family. A similar protective effect of
+Bcl-2 on Ukrain-induced apoptosis has also been reported
+for human keratinocytes [41]. However, the moderate
+inhibitory action of Bcl-2, Bcl-xL and caspase-9 DN on
+Ukrain-induced mitochondrial damage and caspase-acti-
+Constituents of Ukrain and Chelidonium majus L. extract Figure 10
+Constituents of Ukrain and Chelidonium majus L. extract: Comparison of MS/MS fragmentation with reference stand-
+ards.
+Standard Ukrain Chelidonium majus
+no. name and structure m/z fragments (% intensity) RT
+(min)
+fragments (% intensity) RT
+(min)
+fragments (% intensity)
+1
+Protopine
+O
+O
+O
+O N
++
+O
+H
+354.1
+148.9 (27.2); 159.0 (8.0); 164.9 (8.6);
+188.0 (99.8); 189.0 (100.0); 206.0
+(13.0); 235.1 (9.2), 247.0 (17.9);
+275.0 (18.4); 320.0 (6.3), 354.1 (10.5)
+￿max:2 4 0 ,2 9 0
+31.8
+148.8 (27.0); 158.9 (7.2); 164.9 (9.0);
+187.9 (100.0); 189.0 (91.9); 205.9
+(13.7); 234.88 (9.0), 247.0 (17.3);
+274.9 (17.3); 319.9 (5.8), 354.1 (8.9)
+30.4
+149 (26.6); 159.0 (7.9); 165.0 (8.7);
+188.0 (97.9); 189.0 (100.0); 206.0
+(12.7); 235.0 (9.1), 247.0 (17.6);
+275.0 (18.0); 320.0 (6.0), 354.1 (10.2)
+2
+Chelidonine
+O
+O
+N
++
+O
+O
+O H
+H
+354.1
+134.9 (10.2); 163.0 (9.6); 188.0 (7.3);
+189.0 (20.1); 217.0 (18.5); 237.1
+(6.6); 247.0 (73.2); 275.0 (100.0);
+354.1 (<1)
+￿max:2 4 5 ,2 8 0
+33.2
+134.9 (12.3); 162.8 (4.5); 188.1 (8.9);
+188.9 (16.9); 217.0 (20.5); 236.9
+(4.0); 246.9 (50.8); 274.9 (100.0);
+354.1 (<1)
+31.7
+135.0 (10.5); 163.0 (10.0); 188.0
+(6.2); 189.0 (19.3); 217.0 (18.7);
+237.1 (6.8); 247.0 (73.9); 275.0
+(100.0); 354.1 (<1)
+3a
+and
+3b
+N
++
+O
+O
+O
+O
+O
+H
+Allocryptopine (two isomers)
+370.2
+149.0 (12.5); 151.0 (8.5); 165.0
+(13.4); 166.0 (9.5); 181.0 (8.5); 188.0
+(100); 189.0 (53.3); 190.1 (8.8); 206.0
+(23.4); 275.0 (10.7); 278.1 (6.3);
+290.0 (35.3); 306.0 (8.1); 320.1 (6.9);
+336.1 (16.2); 370.2 (6.3)
+￿max:2 4 0 ,2 9 0
+33.1
+and
+34.6
+148.8 (10.9); 150.9 (7.7); 164.9
+(12.2); 165.9 (9.3); 180.9 (8.8); 187.9
+(100); 189.0 (48.8); 190.1 (8.3); 205.9
+(24.1); 274.9 (9.5); 278.1 (6.3); 290.0
+(35.3); 306.0 (8.1); 320.1 (6.9); 336.1
+(16.2); 370.2 (6.3)
+31.9
+and
+34.0
+149.0 (12.6); 151.0 (8.5); 165.0
+(13.5); 166.0 (9.5); 181.1 (9.2); 188.1
+(100); 189.0 (52.3); 190.1 (8.8); 206.0
+(23.4); 275.0 (10.7); 278.1 (6.3);
+290.0 (35.3); 306.0 (8.1); 320.1 (6.9);
+336.1 (16.2); 370.2 (6.3)
+4a
+and
+4b
+O
+O
+N
++
+O
+O
+Sanguinarine (two isomers)
+332.1
+189.1 (12.9); 203.1 (8.7); 215.1
+(13.2); 216.1 (36.7); 217.1 (19.9);
+218.1 (44.9); 233.1 (11.9); 244.1
+(31.9); 246.1 (61.5); 247.1 (16.1);
+259.1 (12.2); 261.1 (12.3); 274.1
+(100.0); 275.1 (18.9); 304.0 (20.2);
+316.1 (12.6); 317.0 (51.47); 332.0
+(30.9).
+￿max:2 3 0 ,2 7 5 ,3 3 0
+36.1
+and
+37.2
+189.1 (9.5); 203.1 (5.1); 215.1 (8.8);
+216.1 (39.4); 217.1 (15.2); 218.1
+(51.9); 233.1 (13.9); 244.1 (37.1);
+246.1 (71.7); 247.1 (17.2); 259.0
+(11.5); 261.0 (10.0); 274.1 (100.0);
+275.1 (15.2); 304.0 (27.2); 316.1
+(57.6); 317.0 (51.47); 332.0 (38.8).
+34.9
+Only Q3 full scan data are available
+m/z: 353.94 (100)
+(only one isomer was identified)
+5a
+and
+5b
+O
+O
+N
++
+O
+O
+Chelerythrine (two isomers)
+348.4
+232.1 (8.7); 246.1 (9.7); 274.1 (7.1);
+275.1 (7.1); 287.1 (6.3); 290.0 (74.1);
+304.0 (75.2); 316.0 (22.2); 318.0
+(29.0); 330.1 (26.7); 332.1 (100.0).
+￿max:2 3 5 ,2 7 0 ,3 2 0 ,3 4 0
+39.5
+and
+40.4
+232.1 (10.7); 246.0 (10.7); 274.1
+(11.8); 275.0 (9.0); 286.9 (6.9); 290.1
+(76.9); 304.0 (72.4); 316.0 (21.2);
+318.0 (21.9); 330.1 (29.4); 332.1
+(100.0).
+38.4
+Only Q3 full scan data are available
+m/z: 347.89 (100)
+(only one isomer was identified)BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 15 of 22
+(page number not for citation purposes)
+vation suggests that some factors different from Bcl-2, Bcl-
+xL and caspase-9 may be required for regulation of mito-
+chondrial damage and apoptosis execution upon Ukrain-
+treatment. In this regard, our data reveal that altered
+expression levels or integrity of the proapoptotic Bcl-2
+family members Bak, Bid or Bad were not involved in
+Ukrain-induced apoptosis.
+Our findings on the composition of the pharmaceutical
+preparation implicate that several distinct alkaloid com-
+pounds contribute to the proapoptotic signalling of
+Ukrain. In this regard, mass spectrometric analyses of the
+pharmaceutical preparation identified several well-known
+alkaloids from Chelidonium majus L. including chelido-
+nine, chelerythrine, sanguinarine, protopine and allocryp-
+topine as major constituents of the drug preparation
+without evidence for the presence of the postulated
+"Ukrain-molecule" or some dimeric or monomeric con-
+densation products of thiotepa with two or one chelido-
+nine moieties.
+Interestingly, the same alkaloids were detected in a com-
+mercially available Chelidonium majus L. extract. Of these,
+chelerythrine, sanguinarine, chelidonine and to a lesser
+extent protopine turned out to potently induce apoptosis
+in Jurkat T-lymphoma cells, while allocryptopine was
+almost ineffective. Together with the observation that
+extracts from Chelidonium majus L. induced apoptosis of
+Jurkat T-lymphoma cells in a similar dose range as the ref-
+erence alkaloid chelidonine and Ukrain these findings
+implicate that the pharmaceutical preparation Ukrain
+may mainly constitute purified extracts from Chelidonium
+majus L. and that the Chelidonium majus L. alkaloids cheli-
+donine, chelerythrine, sanguinarine and protopine are
+responsible for the reported cytotoxic effects of the drug
+preparation. Our findings are consistent with a recent
+publication from Panzer and co-workers that similarly
+failed to confirm the presence of the specified "Ukrain-
+molecule" by thin-layer chromatography, high-perform-
+ance liquid chromatography and liquid chromatography-
+mass spectrometry and gave raise to the assumption that
+Ukrain preparations may consist of a mixture of several
+Chelidonium majus L. alkaloids [35].
+Chelidonium majus L. and its alkaloids are well-known to
+exert antitumour, antiinflammatory and antimicrobial
+effects and to affect diverse cellular processes [42-47]. It
+has been shown that chelerythrine, sanguinarine and che-
+lidonine exert cytotstatic and cytotoxic effects on human
+tumour cell lines [48-54]. In this context, the common
+antimicrotubule properties of chelidonine, chelerythrine
+and sanguinarine have been suggested to contribute to
+their observed antineoplastic activity [49,55]. Moreover,
+LC-UV-MS and LC-UV-MS/MS spectra of Chelidonium majus  L. extract Figure 12
+LC-UV-MS and LC-UV-MS/MS spectra of Chelido-
+nium majus L. extract I: LC-UV (290 nm) chromatogram; 
+II: LC-MS ion chromatogram of m/z 332.1 (extracted ion 
+chromatogram); III: LC-MS ion chromatogram of m/z 348.4 
+(extracted ion chromatogram); IV: LC-MS/MS ion chromato-
+gram of m/z 354.1; V: LC-MS/MS ion chromatogram of m/z 
+370.2.
+I
+II
+III
+IV
+V
+1
+3a
+5a
+2
+3b
+4a
+0 5 10 15 20 25 30 35 40 45 50 55
+Time (min)
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+0
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+0
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+0
+500000
+1000000
+1500000
+u
+A
+U
+1.57
+25.73
+23.94
+27.70
+31.92 35.97 2.97
+19.68
+34.96
+2.25
+3.23
+38.38
+52.14
+30.38
+31.65
+31.96
+24.64
+27.1629.9
+31.28 35.40
+34.01
+LC-UV-MS and LC-UV-MS/MS spectra of Ukrain Figure 11
+LC-UV-MS and LC-UV-MS/MS spectra of Ukrain. I: 
+LC-UV (290 nm) chromatogram; II: LC-MS/MS ion chroma-
+togram of m/z 332.1; III: LC-MS/MS ion chromatogram of m/
+z 348.4; IV: LC-MS/MS ion chromatogram of m/z 354.1; V: 
+LC-MS/MS ion chromatogram of m/z 370.2.
+I
+II
+III
+IV
+V
+1 2
+3a 3b
+4a
+5a
+4b
+5b
+0 5 10 15 20 25 30 35 40 45 50 55
+Time (min)
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+20
+40
+60
+80
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+50
+100
+R
+e
+l
+a
+t
+i
+v
+e
+A
+b
+u
+n
+d
+a
+n
+c
+e
+0
+50000
+100000
+u
+A
+U
+31.67
+32.95
+2.03
+39.33
+36.06
+37.13
+39.48
+31.82
+1.91 33.18 3.47 13.73
+20.49
+33.09
+34.55
+40.40
+34.38
+46.03 50.20 53.67 35.87BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 16 of 22
+(page number not for citation purposes)
+chelerythrine was found to function as an antagonist of
+antiapoptotic Bcl-xL and to inhibit, similar to its structural
+homologue sanguinarine, the anti-apoptotic mitogen-
+activated protein kinase phosphatase as well as protein
+kinase C [52,56-59].
+Up to now only single reports revealed growth inhibitory
+and pro-apoptotic effects of chelidonine [49,51]. In the
+present investigation, we identified chelidonine as a
+potent proapoptotic component of Ukrain and Chelido-
+nium majus L. extract. Thus, in addition to chelerythrine
+(a) Chelidonium majus L. extracts induce apoptosis Figure 13
+(a) Chelidonium majus L. extracts induce apoptosis. Jurkat Vector cells were treated for 24 h with medium supple-
+mented with solvent or 1, 5, 10 and 50 µM Chelidonium majus L. extract adjusted to the respective chelidonine concentration. 
+Apoptosis induction was analysed by fluorescence microscopy upon combined staining with Hoechst33342 and propidium 
+iodide. The percentage of cells with characteristic apoptotic nuclear morphology was determined by counting a minimum of 
+250 cells per data point in each of at least three independent experiments. Data represent the percentage of cells with apop-
+totic nuclear morphology (means ± SD, n = 3). (b) Chelidonium majus L. extracts induce chromatin condensation and 
+nuclear fragmentation. Jurkat Vector cells were treated for 24 h with medium supplemented with solvent or 50 µM Cheli-
+donium majus extract adjusted to the respective chelidonine-concentration. Apoptosis induction was analysed by fluorescence 
+microscopy upon combined staining with Hoechst33342 and propidium iodide. Characteristic micrographs of nuclear mor-
+phology are shown. (c) Chelidonium majus L. extracts induce mitochondrial damage and caspase-activation. Jurkat 
+vector cells were treated for 24 h with medium supplemented with solvent or 1, 5, 10 and 50 µM Chelidonium majus L. extract 
+adjusted to the respective chelidonine-concentration. Induction of apoptosis was then measured using flow cytometry (cell 
+shrinkage: white bars; breakdown of mitochondrial membrane potential: grey bars; caspase-activation: black bars). Data show 
+means ± SD (n ≥ 3).
+0
+20
+40
+60
+80
+100
+c o n t r o l 1µ M 5µ M 1 0µ M 5 0µ M
+24 h
+A
+p
+o
+p
+t
+o
+t
+i
+c
+c
+e
+l
+l
+s
+[
+%
+]
+Jurkat Vector
+0
+20
+40
+60
+80
+100
+c o n t r o l 1µ M 5µ M 1 0µ M 5 0µ M
+24 h
+A
+p
+o
+p
+t
+o
+t
+i
+c
+c
+e
+l
+l
+s
+[
+%
+]
+Light Scatter
+Low ∆Ψm
+Casp.-activ.
+a b
+c
+Medium 24 h
+Chel. majus extract
+50 µM 24 h
+Jurkat VectorBMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 17 of 22
+(page number not for citation purposes)
+and sanguinarine chelidonine may contribute to the
+reported cytotoxic efficacy of both preparations. Interest-
+ingly, while protopine, chelerythrine and sanguinarine
+induced high levels apoptosis and necrosis, the predomi-
+nant mode of cell death upon chelidonine-treatment was
+apoptosis. This is consistent with recent data of Kemeny-
+Beke and co-workers that observed similar effects in a pri-
+mary human uveal melanoma cell line [51].
+Moreover, we show for the first time that apoptosis induc-
+tion by chelidonine involves alteration of mitochondrial
+function and caspase-activation. The observation that
+overexpression of Bcl-2 interfered with chelidonine-
+induced apoptosis argues for a role of the intrinsic mito-
+chondrial pathway. These data are reminiscent to recent
+findings revealing the involvement of the mitochondrial
+death pathway in sanguinarine-induced apoptosis in
+(a) Chelidonine potently induces apoptosis in Jurkat Vector cells Figure 14
+(a) Chelidonine potently induces apoptosis in Jurkat Vector cells. Jurkat Vector cells were treated for 24 h with 
+medium supplemented with solvent or 1, 5, 10, 50 and 100 µM chelidonine. Apoptosis was quantified by flow cytometric anal-
+ysis using light scatter characteristics (white bars), measurement of mitochondrial membrane potential ∆ψm (grey bars) and 
+the activation of caspases (black bars) (left panel). Data show means ± SD (n ≥ 3). Fluorescence microscopy of Hoechst33342 
+stained cells treated for 24 h with 5 µM chelidonine revealed massive chromatin condensation and nuclear fragmentation (right 
+panel). (b) Protopine induces apoptosis in Jurkat Vector cells at increased drug concentrations. Jurkat Vector cells 
+were treated for 24 h with medium or 50, 100, 150 and 250 µM protopine. Protopine-induced apoptosis was then quantified 
+by flow cytometric analysis using light scatter characteristics (white bars), measurement of mitochondrial membrane potential 
+∆ψm (grey bars) and caspase- activation (black bars) (left panel). Data show means ± SD (n ≥ 3). Fluorescence microscopy 
+upon combined staining with Hoechst33342 and propidium iodide treated for 24 h with 500 µM protopine showed increased 
+levels of cells undergoing apoptosis (right panel).
+a
+Medium 24 h
+5 µM Chelidonine
+24 h
+Jurkat Vector
+0
+20
+40
+60
+80
+100
+control 50 µM 100 µM 150 µM 250 µM
+24 h
+A
+p
+o
+p
+t
+o
+t
+i
+c
+c
+e
+l
+l
+s
+[
+%
+]
+Light Scatter
+Low ∆Ψm
+Caspase-activation
+b
+0
+20
+40
+60
+80
+100
+control 0.5 µM 1 µM 5 µM 10 µM 50 µM 100 µM
+A
+p
+o
+p
+t
+o
+t
+i
+c
+c
+e
+l
+l
+s
+[
+%
+]
+Light Scatter
+Low ∆Ψm
+Caspase-activation
+24 h
+Medium 24 h
+500 µM Protopine
+24 h
+Jurkat VectorBMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 18 of 22
+(page number not for citation purposes)
+immortalised keratinocytes [60]. However, Bcl-2 failed to
+completely inhibit chelidonine-induced proapoptotic
+effects pointing to the contribution of Bcl-2-independent
+signalling events.
+Our data implicate that defined proapoptotic alkaloid
+compounds from Chelidonium majus L. may constitute
+promising novel anticancer drugs [51]. In contrast,
+despite numerous reports on beneficial effects of Ukrain
+in preclinical investigations, case reports and non-rand-
+omized as well as randomized clinical trials, up to now
+there is no solid scientific basis for a rational use of Ukrain
+in cancer treatment. In this regard, the suggested selective
+antitumour activity of Ukrain is still controversial [7].
+Moreover, a recent systematic review of published clinical
+trial data revealed that most of the clinical data do not
+meet stringent criteria for randomized clinical studies and
+that methodological limitations of the remaining studies
+(e.g. small sample size, poor or unknown method of ran-
+domisation) actually prevent final conclusions on the
+putative value of Ukrain for the treatment of cancer
+patients [8]. Our finding that Ukrain represents a mixture
+of Chelidonium majus L. alkaloids instead of the "Ukrain-
+molecule" further challenges clinical use of Ukrain and in
+addition rises concerns on potential adverse side effects of
+Chelidonium majus L. alkaloids induce PARP-cleavage Figure 16
+Chelidonium majus L. alkaloids induce PARP-cleavage. Jurkat Vector cells were treated for 24 h with medium or 1, 5 
+and 50 µM chelidonine, protopine, allocryptopine, and Chelidonium majus extract adjusted to 1, 5 or 50 µM chelidonine. Cas-
+pase-activation was then determined by Western blot analysis with antibodies specific for PARP and cleaved PARP. A repre-
+sentative experiment is shown.
+Jurkat Vector
+0
+Chelidonine
+15
+Protopine Allocryptopine
+15 5 0 15
+PARP
+Cleaved  PARP
+Drug-conc. [µM]
+C.m. Extract
+50 1 5 50 50
+ p116
+ p85
+Allocryptopine fails to induce apoptosis at concentrations below 250 µM Figure 15
+Allocryptopine fails to induce apoptosis at concentrations below 250 µM. Allocryptopine-induced apoptosis was 
+quantified by flow cytometric analysis using light scatter characteristics (white bars), measurement of mitochondrial membrane 
+potential ∆ψm (grey bars) and the activation of caspase-3 (black bars) upon treatment of Jurkat Vector cells for 24 h with 
+medium or 0, 50, 100, 150 and 250 µM allocryptopine. Data show means ± SD (n ≥ 3) (left panel). Fluorescence microscopy 
+upon combined staining with Hoechst33342 and propidium iodide staining of cells treated with 250 µM allocryptopine for 24 h 
+showed increased numbers of cells with apoptotic morphology upon treatment (right panel).
+0
+20
+40
+60
+80
+100
+control 50 µM 100 µM 150 µM 250 µM
+24 h
+A
+p
+o
+p
+t
+o
+t
+i
+c
+ 
+c
+e
+l
+l
+s
+ 
+[
+%
+]
+Light Scatter
+Low ǻȌm
+Caspase-activation
+Medium 24 h
+250 µM Allocryptopine
+24 h
+Jurkat VectorBMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 19 of 22
+(page number not for citation purposes)
+the drug preparation on liver tissue as observed for Cheli-
+donium majus L. extracts [61,62].
+Conclusion
+Taken together, our investigation clearly shows that
+induction of apoptosis contributes to the cytotoxic effects
+of the pharmaceutical preparation Ukrain. Ukrain
+induced apoptosis independently from death receptor sig-
+nalling via a pathway involving mitochondrial damage
+and caspase-activation that were partially sensitive to
+overexpression of Bcl-2, Bcl-xL and a dominant negative
+caspase-9.
+Importantly, our mass spectrometric data reveal that
+instead of the composition indicated by the manufacturer
+the pharmaceutical preparation Ukrain constitutes a mix-
+ture of Chelidonium majus L. alkaloids including chelido-
+nine, protopine, allocryptopine, chelerythrine and
+sanguinarine. In addition to native Chelidonium majus L.
+extract the isolated alkaloids sanguinarine, chelerythrine
+and chelidonine were identified as potent inducers of
+apoptosis in Jurkat T-Lymphoma cells that induced cell
+death with similar potency as Ukrain. Consequently, our
+data strongly suggest that the observed antineoplastic
+effects of Ukrain are based on proapoptotic Chelidonium
+Chelidonine-induced apoptosis is partially inhibited by anti-apoptotic Bcl-2 Figure 17
+Chelidonine-induced apoptosis is partially inhibited by anti-apoptotic Bcl-2/b>: Jurkat Vector and Bcl-2 overexpressing cells 
+were treated for 24 h with medium supplemented with solvent or 1, 5, 10, 50 and 100 µM chelidonine. Apoptosis induction 
+was then quantified using (a) light scatter characteristics to determine cellular shrinkage, (b) TMRE-staining to detect altera-
+tions of mitochondrial membrane potential ∆ψm, and (c) CaspACE®-staining to test caspase-activation. Data show means ± 
+SD (n = 3). Paired t-test was performed using GraphPad InStat version 3.00 for Windows 95, GraphPad Software, San Diego 
+California USA, http://www.graphpad.com. (d) Combined staining with Hoechst33342 and propidium iodide of Jurkat Vector 
+cells treated for 24 h with medium or 100 µM chelidonine revealed massive apoptosis while apoptosis rates were reduced in 
+Bcl-2 overexpressing Jurkat cells.
+a b
+c d Medium 24 h Chelidonine
+100 µM 24 h
+Jurkat
+Vector
+Jurkat
+Bcl-2
+0
+20
+40
+60
+80
+100
+c o n t r o l 1µ M 5µ M 1 0µ M 5 0µ M 1 0 0µ M
+24 h
+A
+p
+o
+p
+t
+o
+t
+i
+c
+c
+e
+l
+l
+s
+[
+%
+]
+Jurkat Vector
+Jurkat Bcl-2
+n.s.
+n.s.
+n.s.
+p < 0.05
+p < 0.05
+p < 0.05
+0
+20
+40
+60
+80
+100
+control
+0.5 µM
+1µ M
+5 µM
+10 µM
+50 µM
+100 µM
+24 h
+C
+e
+l
+l
+s
+w
+i
+t
+h
+l
+o
+w
+∆
+Ψ
+m
+[
+%
+]
+Jurkat Vector
+Jurkat Bcl-2
+n.s.
+n.s.
+p<0.05
+p<0.001 p<0.001 p<0.01
+p<0.01
+0
+20
+40
+60
+80
+100
+control
+0.5 µM
+1 µM
+5 µM
+10 µM
+50 µM
+100µ M
+24 h
+C
+a
+s
+p
+a
+s
+e
+-
+a
+c
+t
+i
+v
+a
+t
+i
+o
+n
+[
+%
+] Jurkat Vector
+Jurkat Bcl-2
+n.s.
+n.s.
+p<0.05
+p<0,05 p<0,05 p<0,01
+p<0,05BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 20 of 22
+(page number not for citation purposes)
+majus L. alkaloids instead of the hypothetic "Ukrain-mol-
+ecule" and implicate that purified Chelidonium majus L.
+alkaloids should be considered for further preclinical and
+clinical development as single drugs or in combination
+with standard therapies including ionizing radiation.
+List of abbreviations
+cFLIP, cellular FADD-like interleukin-1 converting
+enzyme (FLICE) inhibitory protein; FADD, Fas-associated
+death domain; PARP, poly(ADP-ribose)polymerase
+Competing interests
+Ukrain and financial support were obtained from
+Nowicky Pharma.
+Authors' contributions
+Daniel Habermehl: substantial contribution to the data
+acquisition, data analysis and drafting the manuscript.
+Bernd Kammerer: substantial contribution to the acquisi-
+tion and analysis and interpretation of of the data and
+drafting the manuscript.
+René Handrick: substantial contribution to the analysis
+of the data, drafting the manuscript and critical revision.
+Therese Eldh: substantial contribution to the acquisition
+of the data.
+Charlotte Gruber: substantial contribution to the acquisi-
+tion of the data.
+Peter Daniel: substantial contribution to data interpreta-
+tion and revision of the manuscript.
+Nils Cordes: critical revision of the manuscript.
+Ludwig Plasswilm: contribution to conception of the
+study and critical revision of the manuscript.
+Michael Bamberg: critical revision of the manuscript.
+Claus Belka: substantial contribution to the conception
+of the study, interpretation of data, critical revision of the
+manuscript and final approval.
+Verena Jendrossek: substantial contribution to the con-
+ception and design of the study, interpretation of data,
+drafting of the manuscript, critical revision of the manu-
+script and final approval.
+Acknowledgements
+We are thankful to P. Juo and J. Blenis (Boston, MA, USA) for the caspase-
+8 and FADD negative Jurkat cells, J. Tschopp for the cFLIP-L overexpressing 
+and Jurkat J16 control cells and to E. Alnemri (Philadelphia, USA) for the 
+caspase-9-DN construct. The work was supported by the Doctoral Pro-
+gram of the Deutsche Forschungsgemeinschaft (DFG) "Cellular mecha-
+nisms of immune-associated processes", GK 794, a grant of the Federal 
+Ministry of Education and Research (Fö. 01KS9602) and the Interdiscipli-
+nary Center of Clinical Research Tuebingen (IZKF) to V.J. and C.B. a grant 
+from the Mildred Scheel Stiftung to (10–1970 Be-III) to C.B. and V. J We 
+are grateful to Nowicky Pharma (Vienna, Austria) for providing us with 
+Ukrain and financial support.
+References
+1. Danilos J, Zbroja-Sontag W, Baran E, Kurylcio L, Kondratowicz L,
+Jusiak L: Preliminary studies on the effect of Ukrain (Tris(2-
+([5bS-(5ba,6b,12ba)]- 5b,6,7,12b,13,14-hexahydro-13-
+methyl[1,3] benzodioxolo[5,6-v]-1-3- dioxolo[4,5-i]phen-
+anthridinium-6-ol]-Ethaneaminyl)Phosphinesulfide.6HCl )
+on the immunological response in patients with malignant
+tumours.  Drugs Exp Clin Res 1992, 18(Suppl):55-62.
+2. Pengsaa P, Wongpratoom W, Vatanasapt V, Udomthavornsuk B,
+Mairieng E, Tangvorapongchai V, Pesi M, Krusan S, Boonvisoot V,
+Nowicky JW: The effects of thiophosphoric acid (Ukrain) on
+cervical cancer, stage IB bulky.  Drugs Exp Clin Res 1992,
+18(Suppl):69-72.
+3. Sotomayor EM, Rao K, Lopez DM, Liepins A: Enhancement of
+macrophage tumouricidal activity by the alkaloid derivative
+Ukrain. In vitro and in vivo studies.  Drugs Exp Clin Res 1992,
+18(Suppl):5-11.
+4. Hohenwarter O, Strutzenberger K, Katinger H, Liepins A, Nowicky
+JW: Selective inhibition of in vitro cell growth by the anti-
+tumour drug Ukrain.  Drugs Exp Clin Res 1992, 18(Suppl):1-4.
+5. Grinevich Y, Shalimov S, Bendyuh G, Zahriychuk O, Hodysh Y: Effect
+of Ukrain on the growth and metastasizing of Lewis carci-
+noma in C57BL/6 mice.  Drugs Exp Clin Res 2005, 31(2):59-70.
+6. Cordes N, Plasswilm L, Bamberg M, Rodemann HP: Ukrain, an alka-
+loid thiophosphoric acid derivative of Chelidonium majus L.
+protects human fibroblasts but not human tumour cells in
+vitro against ionizing radiation.  Int J Radiat Biol 2002,
+78(1):17-27.
+7. Panzer A, Hamel E, Joubert AM, Bianchi PC, Seegers JC:
+Ukrain(TM), a semisynthetic Chelidonium majus alkaloid
+derivative, acts by inhibition of tubulin polymerization in
+normal and malignant cell lines.  Cancer Lett 2000,
+160(2):149-157.
+8. Ernst E, Schmidt K: Ukrain - a new cancer cure? A systematic
+review of randomised clinical trials.  BMC Cancer 2005, 5(1):69.
+9. Liepins A, Nowicky JW, Bustamante JO, Lam E: Induction of bimo-
+dal programmed cell death in malignant cells by the deriva-
+tive Ukrain (NSC-631570).  Drugs Exp Clin Res 1996, 22(3-
+5):73-79.
+10. Kurochkin SN, Kolobkov SL, Votrin II, Voltchek IV: Induction of
+apoptosis in cultured Chinese hamster ovary cells by Ukrain
+and its synergistic action with etoposide.  Drugs Exp Clin Res
+2000, 26(5-6):275-278.
+11. Nowicky JW, Hiesmayr W, Nowicky W, Liepins A: Influence of
+Ukrain on human xenografts in vitro.  Drugs Exp Clin Res 1996,
+22(3-5):93-97.
+12. Roublevskaia IN, Haake AR, Ludlow JW, Polevoda BV: Induced
+apoptosis in human prostate cancer cell line LNCaP by
+Ukrain.  Drugs Exp Clin Res 2000, 26(5-6):141-147.
+13. Roublevskaia IN, Polevoda BV, Ludlow JW, Haake AR: Induced G2/
+M arrest and apoptosis in human epidermoid carcinoma cell
+lines by semisynthetic drug Ukrain.  Anticancer Res 2000,
+20(5A):3163-3167.
+14. Fischer U, Janicke RU, Schulze-Osthoff K: Many cuts to ruin: a
+comprehensive update of caspase substrates.  Cell Death Differ
+2003, 10(1):76-100.
+15. Thorburn A: Death receptor-induced cell killing.  Cell Signal
+2004, 16(2):139-144.
+16. Scholz C, Wieder T, Starck L, Essmann F, Schulze-Osthoff K, Dorken
+B, Daniel PT: Arsenic trioxide triggers a regulated form of cas-
+pase-independent necrotic cell death via the mitochondrial
+death pathway.  Oncogene 2005, 24(11):1904-1913.
+17. Orrenius S: Mitochondrial regulation of apoptotic cell death.
+Toxicol Lett 2004, 149(1-3):19-23.
+18. Weinmann M, Jendrossek V, Handrick R, Guner D, Goecke B, Belka
+C: Molecular ordering of hypoxia-induced apoptosis: criticalBMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 21 of 22
+(page number not for citation purposes)
+involvement of the mitochondrial death pathway in a FADD/
+caspase-8 independent manner.  Oncogene 2004,
+23(21):3757-3769.
+19. Belka C, Rudner J, Wesselborg S, Stepczynska A, Marini P, Lepple-
+Wienhues A, Faltin H, Bamberg M, Budach W, Schulze-Osthoff K:
+Differential role of caspase-8 and BID activation during radi-
+ation- and CD95-induced apoptosis.  Oncogene 2000,
+19(9):1181-1190.
+20. Rudner J, Jendrossek V, Lauber K, Daniel PT, Wesselborg S, Belka C:
+Type I and type II reactions in TRAIL-induced apoptosis --
+results from dose-response studies.  Oncogene 2005,
+24(1):130-140.
+21. von Haefen C, Wieder T, Essmann F, Schulze-Osthoff K, Dorken B,
+Daniel PT: Paclitaxel-induced apoptosis in BJAB cells pro-
+ceeds via a death receptor-independent, caspases-3/-8-
+driven mitochondrial amplification loop.  Oncogene 2003,
+22(15):2236-2247.
+22. Guner D, Belka C, Daniel PT: Disruption of cell death signaling
+in cancer: impact on disease prognosis and response to ther-
+apy.  Curr Med Chem Anti-Canc Agents 2003, 3(5):319-326.
+23. Sturm I, Bosanquet AG, Hermann S, Guner D, Dorken B, Daniel PT:
+Mutation of p53 and consecutive selective drug resistance in
+B-CLL occurs as a consequence of prior DNA-damaging
+chemotherapy.  Cell Death Differ 2003, 10(4):477-484.
+24. Mrozek A, Petrowsky H, Sturm I, Kraus J, Hermann S, Hauptmann S,
+Lorenz M, Dorken B, Daniel PT: Combined p53/Bax mutation
+results in extremely poor prognosis in gastric carcinoma
+with low microsatellite instability.  Cell Death Differ 2003,
+10(4):461-467.
+25. Fischer U, Schulze-Osthoff K: New approaches and therapeutics
+targeting apoptosis in disease.  Pharmacol Rev 2005,
+57(2):187-215.
+26. Belka C, Jendrossek V, Pruschy M, Vink S, Verheij M, Budach W:
+Apoptosis-modulating agents in combination with radio-
+therapy-current status and outlook.  Int J Radiat Oncol Biol Phys
+2004, 58(2):542-554.
+27. Weinmann M, Jendrossek V, Guner D, Goecke B, Belka C: Cyclic
+exposure to hypoxia and reoxygenation selects for tumor
+cells with defects in mitochondrial apoptotic pathways.  Faseb
+J 2004, 18(15):1906-8 Epub 2004 Sep 28.
+28. Marini P, Schmid A, Jendrossek V, Faltin H, Daniel PT, Budach W,
+Belka C: Irradiation specifically sensitises solid tumour cell
+lines to TRAIL mediated apoptosis.  BMC Cancer 2005, 5(1):5.
+29. McLaughlin F, La Thangue NB: Histone deacetylase inhibitors
+open new doors in cancer therapy.  Biochem Pharmacol 2004,
+68(6):1139-1144.
+30. El-Zawahry A, McKillop J, Voelkel-Johnson C: Doxorubicin
+increases the effectiveness of Apo2L/TRAIL for tumor
+growth inhibition of prostate cancer xenografts.  BMC Cancer
+2005, 5(1):2.
+31. Jendrossek V, Handrick R, Belka C: Celecoxib activates a novel
+mitochondrial apoptosis signaling pathway.  Faseb J 2003,
+17(11):1547-9 Epub 2003 Jun 17.
+32. Scholz C, Richter A, Lehmann M, Schulze-Osthoff K, Dorken B, Dan-
+iel PT: Arsenic trioxide induces regulated, death receptor-
+independent cell death through a Bcl-2-controlled pathway.
+Oncogene 2005, 24(47):7031-42.
+33. Schmelz K, Wieder T, Tamm I, Muller A, Essmann F, Geilen CC,
+Schulze-Osthoff K, Dorken B, Daniel PT: Tumor necrosis factor
+alpha sensitizes malignant cells to chemotherapeutic drugs
+via the mitochondrial apoptosis pathway independently of
+caspase-8 and NF-kappaB.  Oncogene 2004, 23(40):6743-6759.
+34. Eberle J, Fecker LF, Hossini AM, Wieder T, Daniel PT, Orfanos CE,
+Geilen CC: CD95/Fas signaling in human melanoma cells: con-
+ditional expression of CD95L/FasL overcomes the intrinsic
+apoptosis resistance of malignant melanoma and inhibits
+growth and progression of human melanoma xenotrans-
+plants.  Oncogene 2003, 22(57):9131-9141.
+35. Panzer A, Joubert AM, Eloff JN, Albrecht CF, Erasmus E, Seegers JC:
+Chemical analyses of Ukrain, a semi-synthetic Chelidonium
+majus alkaloid derivative, fail to confirm its trimeric struc-
+ture.  Cancer Lett 2000, 160(2):237-241.
+36. Jendrossek V, Muller I, Eibl H, Belka C: Intracellular mediators of
+erucylphosphocholine-induced apoptosis.  Oncogene 2003,
+22(17):2621-2631.
+37. Rudner J, Belka C, Marini P, Wagner RJ, Faltin H, Lepple-Wienhues A,
+Bamberg M, Budach W: Radiation sensitivity and apoptosis in
+human lymphoma cells.  Int J Radiat Biol 2001, 77(1):1-11.
+38. Kataoka T, Schroter M, Hahne M, Schneider P, Irmler M, Thome M,
+Froelich CJ, Tschopp J: FLIP prevents apoptosis induced by
+death receptors but not by perforin/granzyme B, chemo-
+therapeutic drugs, and gamma irradiation.  J Immunol 1998,
+161(8):3936-3942.
+39. von Haefen C, Gillissen B, Hemmati PG, Wendt J, Guner D, Mrozek
+A, Belka C, Dorken B, Daniel PT: Multidomain Bcl-2 homolog
+Bax but not Bak mediates synergistic induction of apoptosis
+by TRAIL and 5-FU through the mitochondrial apoptosis
+pathway.  Oncogene 2004, 23(50):8320-8332.
+40. Daniel PT, Schulze-Osthoff K, Belka C, Guner D: Guardians of cell
+death: the Bcl-2 family proteins.  Essays Biochem 2003, 39:73-88.
+41. Roublevskaia IN, Haake AR, Polevoda BV: Bcl-2 overexpression
+protects human keratinocyte cells from Ukrain-induced
+apoptosis but not from G2/M arrest.  Drugs Exp Clin Res 2000,
+26(5-6):149-156.
+42. Chung HS, An HJ, Jeong HJ, Won JH, Hong SH, Kim HM: Water
+extract isolated from Chelidonium majus enhances nitric
+oxide and tumour necrosis factor-alpha production via
+nuclear factor-kappaB activation in mouse peritoneal mac-
+rophages.  J Pharm Pharmacol 2004, 56(1):129-134.
+43. Chaturvedi MM, Kumar A, Darnay BG, Chainy GB, Agarwal S, Aggar-
+wal BB: Sanguinarine (pseudochelerythrine) is a potent inhib-
+itor of NF-kappaB activation, IkappaBalpha
+phosphorylation, and degradation.  J Biol Chem 1997,
+272(48):30129-30134.
+44. Barreto MC, Pinto RE, Arrabaca JD, Pavao ML: Inhibition of mouse
+liver respiration by Chelidonium majus isoquinoline alka-
+loids.  Toxicol Lett 2003, 146(1):37-47.
+45. Hiller KO, Ghorbani M, Schilcher H: Antispasmodic and relaxant
+activity of chelidonine, protopine, coptisine, and Chelido-
+nium majus extracts on isolated guinea-pig ileum.  Planta Med
+1998, 64(8):758-760.
+46. Saeed SA, Gilani AH, Majoo RU, Shah BH: Anti-thrombotic and
+anti-inflammatory activities of protopine.  Pharmacol Res 1997,
+36(1):1-7.
+47. Vavreckova C, Gawlik I, Muller K: Benzophenanthridine alka-
+loids of Chelidonium majus; I. Inhibition of 5- and 12-lipoxy-
+genase by a non-redox mechanism.  Planta Med 1996,
+62(5):397-401.
+48. Vavreckova C, Gawlik I, Muller K: Benzophenanthridine alka-
+loids of Chelidonium majus; II. Potent inhibitory action
+against the growth of human keratinocytes.  Planta Med 1996,
+62(6):491-494.
+49. Panzer A, Joubert AM, Bianchi PC, Hamel E, Seegers JC: The effects
+of chelidonine on tubulin polymerisation, cell cycle progres-
+sion and selected signal transmission pathways.  Eur J Cell Biol
+2001, 80(1):111-118.
+50. Ahmad N, Gupta S, Husain MM, Heiskanen KM, Mukhtar H: Differ-
+ential antiproliferative and apoptotic response of sanguinar-
+ine for cancer cells versus normal cells.  Clin Cancer Res 2000,
+6(4):1524-1528.
+51. Kemeny-Beke A, Aradi J, Damjanovich J, Beck Z, Facsko A, Berta A,
+Bodnar A: Apoptotic response of uveal melanoma cells upon
+treatment with chelidonine, sanguinarine and chelerythrine.
+.
+52. Hoffmann TK, Leenen K, Hafner D, Balz V, Gerharz CD, Grund A,
+Ballo H, Hauser U, Bier H: Antitumor activity of protein kinase
+C inhibitors and cisplatin in human head and neck squamous
+cell carcinoma lines.  Anticancer Drugs 2002, 13(1):93-100.
+53. Ding Z, Tang SC, Weerasinghe P, Yang X, Pater A, Liepins A: The
+alkaloid sanguinarine is effective against multidrug resist-
+ance in human cervical cells via bimodal cell death.  Biochem
+Pharmacol 2002, 63(8):1415-1421.
+54. Debiton E, Madelmont JC, Legault J, Barthomeuf C: Sanguinarine-
+induced apoptosis is associated with an early and severe cel-
+lular glutathione depletion.  Cancer Chemother Pharmacol 2003,
+51(6):474-82 Epub 2003 Apr 17.
+55. Wolff J, Knipling L: Antimicrotubule properties of benzophen-
+anthridine alkaloids.  Biochemistry 1993, 32(48):13334-13339.
+56. Chan SL, Lee MC, Tan KO, Yang LK, Lee AS, Flotow H, Fu NY, Butler
+MS, Soejarto DD, Buss AD, Yu VC: Identification of cheleryth-Publish with BioMed Central    and   every 
+scientist can read your work free of charge
+"BioMed Central will be the most significant development for 
+disseminating the results of biomedical research in our lifetime."
+Sir Paul Nurse, Cancer Research UK
+Your research papers will be:
+available free of charge to the entire biomedical community
+peer reviewed and published  immediately upon acceptance
+cited in PubMed and archived on PubMed Central 
+yours — you keep the copyright
+Submit your manuscript here:
+http://www.biomedcentral.com/info/publishing_adv.asp
+BioMedcentral
+BMC Cancer 2006, 6:14 http://www.biomedcentral.com/1471-2407/6/14
+Page 22 of 22
+(page number not for citation purposes)
+rine as an inhibitor of BclXL function.  J Biol Chem 2003,
+278(23):20453-6 Epub 2003 Apr 17.
+57. Vogt A, Tamewitz A, Skoko J, Sikorski RP, Giuliano KA, Lazo JS: The
+benzo[c]phenanthridine alkaloid, sanguinarine, is a selec-
+tive, cell-active inhibitor of mitogen-activated protein kinase
+phosphatase-1.  J Biol Chem 2005, 280(19):19078-86 Epub 2005
+Mar 7.
+58. Nakajima T, Yukawa O, Azuma C, Ohyama H, Wang B, Kojima S,
+Hayata I, Hama-Inaba H: Involvement of protein kinase C-
+related anti-apoptosis signaling in radiation-induced apopto-
+sis in murine thymic lymphoma(3SBH5) cells.  Radiat Res 2004,
+161(5):528-534.
+59. Chmura SJ, Mauceri HJ, Advani S, Heimann R, Beckett MA, Nodzenski
+E, Quintans J, Kufe DW, Weichselbaum RR: Decreasing the apop-
+totic threshold of tumor cells through protein kinase C inhi-
+bition and sphingomyelinase activation increases tumor
+killing by ionizing radiation.  Cancer Res 1997, 57(19):4340-4347.
+60. Adhami VM, Aziz MH, Mukhtar H, Ahmad N: Activation of prode-
+ath Bcl-2 family proteins and mitochondrial apoptosis path-
+way by sanguinarine in immortalized human HaCaT
+keratinocytes.  Clin Cancer Res 2003, 9(8):3176-3182.
+61. Benninger J, Schneider HT, Schuppan D, Kirchner T, Hahn EG: Acute
+hepatitis induced by greater celandine (Chelidonium majus).
+Gastroenterology 1999, 117(5):1234-1237.
+62. Stickel F, Poschl G, Seitz HK, Waldherr R, Hahn EG, Schuppan D:
+Acute hepatitis induced by Greater Celandine (Chelidonium
+majus).  Scand J Gastroenterol 2003, 38(5):565-568.
+Pre-publication history
+The pre-publication history for this paper can be accessed
+here:
+http://www.biomedcentral.com/1471-2407/6/14/prepub
