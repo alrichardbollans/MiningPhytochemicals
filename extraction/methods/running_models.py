@@ -1,16 +1,23 @@
 import os
 import pickle
-import string
 
 import langchain_core
+import pandas as pd
 import pydantic_core
 
+from data.get_data_with_full_texts import data_with_full_texts_csv
+from data.parse_refs import fulltext_dir, sanitise_doi
+from extraction.methods.extending_model_outputs import add_all_extra_info_to_output
 from extraction.methods.loading_files import read_file_and_chunk
-from extraction.methods.making_examples import example_messages
 from extraction.methods.prompting import standard_prompt
 from extraction.methods.structured_output_schema import TaxaData, deduplicate_and_standardise_output_taxa_lists
 
-def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = None, single_chunk: bool = True, examples=example_messages) -> TaxaData:
+repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
+deepseek_pkls_path = os.path.join(repo_path, 'extraction', 'deepseek_pkls')
+
+
+def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = None,
+                  single_chunk: bool = True) -> TaxaData:
     if not single_chunk:
         raise NotImplementedError
     text_chunks = read_file_and_chunk(text_file, context_window)
@@ -25,7 +32,8 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
 
         extractions = extractor.batch(
             [{"text": text} for text in text_chunks],
-            {"max_concurrency": 1},  # limit the concurrency by passing max concurrency! Otherwise Requests rate limit exceeded
+            {"max_concurrency": 1},
+            # limit the concurrency by passing max concurrency! Otherwise Requests rate limit exceeded
         )
     except (langchain_core.exceptions.OutputParserException, pydantic_core._pydantic_core.ValidationError) as e:
         raise NotImplementedError
@@ -55,7 +63,8 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
                                 chunk_output = extractor.invoke({"text": even_more_text})
                                 extractions.append(chunk_output)
                             except Exception as e:
-                                print(f'Unknown error "{e}" for text with length {len(even_more_text)}: {even_more_text}')
+                                print(
+                                    f'Unknown error "{e}" for text with length {len(even_more_text)}: {even_more_text}')
 
     output = []
 
@@ -64,7 +73,7 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
             output.extend(extraction.taxa)
 
     deduplicated_extractions = deduplicate_and_standardise_output_taxa_lists(output)
-
+    add_all_extra_info_to_output(deduplicated_extractions)
     if pkl_dump:
         with open(pkl_dump, "wb") as file_:
             pickle.dump(deduplicated_extractions, file_)
@@ -80,15 +89,11 @@ def get_input_size_limit(total_context_window_k: int):
 
 
 def setup_models():
-
     # Get API keys
     from dotenv import load_dotenv
 
     load_dotenv()
     out = {}
-    # A selection of models that support .with_structured_output https://python.langchain.com/v0.3/docs/integrations/chat/
-    # Try to use the best from each company, and use a specified stable version.
-    # If any work particularly well then also test cheaper versions e.g. gpt-mini, claude haiku
 
     hparams = {'temperature': 0}
 
@@ -98,23 +103,31 @@ def setup_models():
     # Input/Output: $0.28/0.42/1M tokens
     # https://api-docs.deepseek.com/quick_start/pricing/
 
+    # DeepSeek-R1, specified via model="deepseek-reasoner", does not support tool calling or structured output.
+    # Those features are supported by DeepSeek-V3 (specified via model="deepseek-chat").
+
     from langchain_deepseek import ChatDeepSeek
     model6 = ChatDeepSeek(
-        model="deepseek-reasoner", **hparams)
-    out['deepseek-reasoner'] = [model6, get_input_size_limit(128)]
+        model="deepseek-chat", **hparams)
+    out['deepseek-chat'] = [model6, get_input_size_limit(128)]
 
     return out
 
 
-if __name__ == '__main__':
+def main():
     models = setup_models()
 
-    example_model_name = 'deepseek-reasoner'
-    repo_path = os.environ.get('KEWSCRATCHPATH')
-
-    out = query_a_model(models[example_model_name][0], '/home/atp/Documents/repos/MiningPhytochemicals/data/fulltexts/10.1021_NP800137N.txt',
-                  models[example_model_name][1])
-    print(out)
+    example_model_name = 'deepseek-chat'
+    doi_data_table = pd.read_csv(data_with_full_texts_csv, index_col=0)
+    for doi in doi_data_table['refDOI'].unique().tolist()[:5]:
+        sanitised_doi = sanitise_doi(doi)
+        fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
+        result_ = query_a_model(models[example_model_name][0], fulltextpath,
+                                models[example_model_name][1],
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'))
+        print('###########')
+        print(doi)
+        print(result_)
     #
     # messages = [
     #     ("system", "You are a helpful translator. Translate the user sentence to French."),
@@ -123,3 +136,7 @@ if __name__ == '__main__':
     #
     # output = models[example_model_name][0].invoke(messages)
     # print(output)
+
+
+if __name__ == '__main__':
+    main()

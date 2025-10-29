@@ -1,6 +1,6 @@
 from langchain_text_splitters import TokenTextSplitter
 
-from extraction.methods.reading_annotations import remove_double_spaces_and_break_characters
+from extraction.methods.string_cleaning_methods import remove_double_spaces_and_break_characters
 
 
 def get_txt_from_file(txt_file: str):
