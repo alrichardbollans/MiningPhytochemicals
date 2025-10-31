@@ -1,0 +1,9 @@
+,0
+total_pairs,91
+wikidata_pair_counts,54
+deepseek_pair_counts,46
+agreements,9
+found_in_wikidata_but_not_deepseek,45
+found_in_deepseek_but_not_wikidata,37
+wikidata_name_counts,11
+deepseek_name_counts,10

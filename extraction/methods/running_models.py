@@ -5,9 +5,8 @@ import langchain_core
 import pandas as pd
 import pydantic_core
 
-from data.get_data_with_full_texts import data_with_full_texts_csv
+from data.get_data_with_full_texts import validation_data_csv
 from data.parse_refs import fulltext_dir, sanitise_doi
-from extraction.methods.extending_model_outputs import add_all_extra_info_to_output
 from extraction.methods.loading_files import read_file_and_chunk
 from extraction.methods.prompting import standard_prompt
 from extraction.methods.structured_output_schema import TaxaData, deduplicate_and_standardise_output_taxa_lists
@@ -17,7 +16,11 @@ deepseek_pkls_path = os.path.join(repo_path, 'extraction', 'deepseek_pkls')
 
 
 def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = None,
-                  single_chunk: bool = True) -> TaxaData:
+                  single_chunk: bool = True, rerun=True) -> TaxaData:
+    if not rerun and os.path.exists(pkl_dump):
+        with open(pkl_dump, "rb") as file_:
+            return pickle.load(file_)
+
     if not single_chunk:
         raise NotImplementedError
     text_chunks = read_file_and_chunk(text_file, context_window)
@@ -118,15 +121,16 @@ def main():
     models = setup_models()
 
     example_model_name = 'deepseek-chat'
-    doi_data_table = pd.read_csv(data_with_full_texts_csv, index_col=0)
-    for doi in doi_data_table['refDOI'].unique().tolist()[:5]:
+    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    for doi in doi_data_table['refDOI'].unique().tolist():
+        print('###########')
+        print(doi)
         sanitised_doi = sanitise_doi(doi)
         fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
         result_ = query_a_model(models[example_model_name][0], fulltextpath,
                                 models[example_model_name][1],
-                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'))
-        print('###########')
-        print(doi)
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
+
         print(result_)
     #
     # messages = [
@@ -139,4 +143,6 @@ def main():
 
 
 if __name__ == '__main__':
+    from extraction.methods.extending_model_outputs import add_all_extra_info_to_output
+
     main()

@@ -11,7 +11,7 @@ from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column, get
 from data.get_compound_occurences import data_path
 from extraction.methods.structured_output_schema import TaxaData, Taxon
 
-# _wcvp_taxa = get_all_taxa()
+_wcvp_taxa = get_all_taxa()
 def add_accepted_info(deepseek_output: TaxaData):
     deepseek_names = pd.DataFrame([c.scientific_name for c in deepseek_output.taxa], columns=['scientific_name'])
     acc_deepseek_names = get_accepted_info_from_names_in_column(deepseek_names, 'scientific_name', all_taxa = _wcvp_taxa)
@@ -63,6 +63,9 @@ def add_all_extra_info_to_output(deepseek_output: TaxaData):
 
 
 if __name__ == '__main__':
+    _inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
+    pkled_result = pickle.load(open(_inchi_translation_cache, 'rb'))
+    print(pkled_result)
     example = TaxaData(taxa=[Taxon(scientific_name='acanthochlamys bracteata p. c. kao',
                                    compounds=['tetracosanoic acid', 'stigmasterol', 'demethyl coniferin',
                                               'kaempferol 3-o-(3",6"-di-o-e-p-coumaroyl)-β-d-glcopyranoside',

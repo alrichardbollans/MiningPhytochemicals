@@ -64,7 +64,7 @@ def get_accepted_matches(taxadata1: TaxaData, taxadata2: TaxaData):
                 unmatched_taxon2 = Taxon(scientific_name=taxon2.scientific_name, compounds=[],
                                          accepted_name=taxon2.accepted_name, inchi_key_simps=[])
                 for compound in taxon1.inchi_key_simps:
-                    if any(compound == compound2 for compound2 in taxon2.inchi_key_simps):
+                    if compound is not None and any(compound == compound2 for compound2 in taxon2.inchi_key_simps):
                         relevant_taxon.inchi_key_simps.append(compound)
                     else:
                         unmatched_taxon1.inchi_key_simps.append(compound)
@@ -117,7 +117,7 @@ def deduplicate_taxa_list_on_scientific_name(taxadat: TaxaData):
                 if new_taxon.accepted_name is None:
                     new_taxon.accepted_name = taxon.accepted_name
                 for compound in taxon.inchi_key_simps:
-                    if compound not in new_taxon.inchi_key_simps:
+                    if compound is not None and compound not in new_taxon.inchi_key_simps:
                         new_taxon.inchi_key_simps.append(compound)
                 for compound in taxon.compounds:
                     if compound not in new_taxon.compounds:
@@ -145,7 +145,7 @@ def deduplicate_taxa_list_on_accepted_name(taxadat: TaxaData):
                 if taxon.scientific_name not in new_taxon.matched_names:
                     new_taxon.matched_names.append(taxon.scientific_name)
                 for compound in taxon.inchi_key_simps:
-                    if compound not in new_taxon.inchi_key_simps:
+                    if compound is not None and compound not in new_taxon.inchi_key_simps:
                         new_taxon.inchi_key_simps.append(compound)
                 for compound in taxon.compounds:
                     if compound not in new_taxon.compounds:

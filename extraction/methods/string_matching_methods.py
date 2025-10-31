@@ -42,6 +42,8 @@ def check_organism_names_match(name1: str, name2: str):
     :param name2: The second name to compare.
     :return: True if name1 is an exact match or an abbreviation of name2, or if name2 is an abbreviation of name1. False otherwise.
     """
+    if name1 is None or name2 is None or name1 == "" or name2 == "":
+        raise ValueError("Both names must be provided.")
 
     if precise_taxon_name_match(name1, name2):
         return True
