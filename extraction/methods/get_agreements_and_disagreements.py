@@ -119,7 +119,7 @@ def deduplicate_taxa_list_on_scientific_name(taxadat: TaxaData):
                 for compound in taxon.inchi_key_simps:
                     if compound is not None and compound not in new_taxon.inchi_key_simps:
                         new_taxon.inchi_key_simps.append(compound)
-                for compound in taxon.compounds:
+                for compound in taxon.compounds or []:
                     if compound not in new_taxon.compounds:
                         new_taxon.compounds.append(compound)
 

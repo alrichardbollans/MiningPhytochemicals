@@ -50,7 +50,10 @@ def resolve_name_to_inchi(name: str):
 
 def add_inchi_keys(deepseek_output: TaxaData):
     for taxon in deepseek_output.taxa:
-        inchi_keys = [resolve_name_to_inchi(c) for c in taxon.compounds]
+        if taxon.compounds is not None:
+            inchi_keys = [resolve_name_to_inchi(c) for c in taxon.compounds]
+        else:
+            inchi_keys = []
         taxon.inchi_keys = [c for c in inchi_keys if c is not None]
         taxon.inchi_key_simps = list(set([simplify_inchi_key(c) for c in taxon.inchi_keys]))
     return deepseek_output

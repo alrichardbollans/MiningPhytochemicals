@@ -75,7 +75,7 @@ def get_name_compound_pairs_for_doi(doi: str, model: str):
     pairs = []
     for taxon in model_results.taxa:
         for compound in taxon.compounds:
-            pairs.append((taxon.scientific_name, compound))
+            pairs.append([taxon.scientific_name, compound])
     # print(f'Number of pairs for DOI {doi}: {len(pairs)}')
     # print(pairs)
     return pairs

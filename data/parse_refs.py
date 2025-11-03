@@ -1,4 +1,5 @@
 import os
+import pathlib
 import pickle
 import time
 from collections import defaultdict
@@ -16,6 +17,15 @@ api_endpoint = "https://api.core.ac.uk/v3/"
 fulltext_dir = os.path.join(data_path, 'fulltexts')
 pdf_dir = os.path.join(data_path, 'pdfs')
 
+# Some pkls to store info about previous searches
+request_pkl_file = os.path.join(data_path, 'doi_request_dict.pkl')
+try:
+    _request_dict_info = pickle.load(open(request_pkl_file, 'rb'))
+except FileNotFoundError:
+    _request_dict_info = {}
+
+with open(os.path.join(data_path, 'secrets.txt')) as keyfile:
+    _core_apikey = keyfile.read()
 
 def extract_info(hit: dict) -> dict:
     """
@@ -58,16 +68,15 @@ def get_results_for_doi(doi: str) -> list[dict]:
     :rtype: list[dict]
     """
 
-    if doi in request_dict_info:
-        return request_dict_info[doi]
+    if doi in _request_dict_info:
+        return _request_dict_info[doi]
     # else:
     #     raise HTTPError(f'Error getting results for {doi}')
 
     time.sleep(2)
-    headers = {"Authorization": "Bearer " + apikey}
+    headers = {"Authorization": "Bearer " + _core_apikey}
 
-
-    #NOte this params method is commented out as it seems to be broken, although its following the example
+    # NOte this params method is commented out as it seems to be broken, although its following the example
     # here: https://api.core.ac.uk/docs/v3#tag/Works/operation/optionsCustomSearchWorks
     # params = {
     #     'q': f'doi:"{doi}"',
@@ -85,9 +94,9 @@ def get_results_for_doi(doi: str) -> list[dict]:
         relevant_results = [c for c in result['results'] if c['doi'] and c['doi'].lower() == doi.lower()]
         out_dict = [extract_info(c) for c in relevant_results]
 
-        request_dict_info[doi] = out_dict
+        _request_dict_info[doi] = out_dict
         with  open(request_pkl_file, 'wb') as pfile:
-            pickle.dump(request_dict_info, pfile)
+            pickle.dump(_request_dict_info, pfile)
         # print(request_dict_info)
         return out_dict
 
@@ -113,7 +122,7 @@ def sanitise_doi(doi: str) -> str:
     return doi.replace('/', '_')
 
 
-def build_text_data(dois: list[str]) -> None:
+def build_text_data(dois: list[str], outfolder: str = fulltext_dir) -> None:
     """
     Processes a list of Digital Object Identifiers (DOIs) to retrieve full text data
     and saves them to text files. Skips DOIs for which the corresponding text file
@@ -123,9 +132,11 @@ def build_text_data(dois: list[str]) -> None:
     :type dois: list[str]
     :return: None
     """
+    pathlib.Path(outfolder).mkdir(parents=True, exist_ok=True)
+
     for i in tqdm(range(len(dois))):
         doi = dois[i]
-        text_out_file = os.path.join(fulltext_dir, sanitise_doi(doi) + '.txt')
+        text_out_file = os.path.join(outfolder, sanitise_doi(doi) + '.txt')
         if not os.path.exists(text_out_file):
             #     print(f'Skipping {doi} as it already exists')
             # else:
@@ -137,7 +148,7 @@ def build_text_data(dois: list[str]) -> None:
                 if len(fulltexts) > 0:
                     ## Use largest fulltext just in case
                     sorted_fulltexts = sorted(fulltexts, key=lambda x: len(x), reverse=True)
-                    with open(text_out_file, 'w') as outfile:
+                    with open(text_out_file, 'w', encoding="utf-8") as outfile:
                         outfile.write(sorted_fulltexts[0])
             except HTTPError as e:
                 print(f'Error: {e}')
@@ -182,14 +193,5 @@ def main():
 
 
 if __name__ == '__main__':
-    with open('secrets.txt') as keyfile:
-        apikey = keyfile.read()
-
-    # Some pkls to store info about previous searches
-    request_pkl_file = os.path.join(data_path, 'doi_request_dict.pkl')
-    try:
-        request_dict_info = pickle.load(open(request_pkl_file, 'rb'))
-    except FileNotFoundError:
-        request_dict_info = {}
 
     main()

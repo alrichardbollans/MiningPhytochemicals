@@ -8,7 +8,7 @@ import pydantic_core
 
 from data.get_compound_occurences import data_path
 from data.get_data_with_full_texts import validation_data_csv
-from data.get_papers_with_no_hits import get_sanitised_dois_for_random_papers
+from data.get_papers_with_no_hits import get_sanitised_dois_for_random_papers, get_sanitised_dois_for_medplant_papers
 from data.parse_refs import fulltext_dir, sanitise_doi
 from extraction.methods.loading_files import read_file_and_chunk
 from extraction.methods.prompting import standard_prompt
@@ -139,11 +139,22 @@ def main():
     #     print(result_)
 
     ### Negative examples
-    random_txt_dir, result = get_sanitised_dois_for_random_papers()
+    # random_txt_dir, result = get_sanitised_dois_for_random_papers()
+    # for sanitised_doi in result:
+    #     print('###########')
+    #     print(sanitised_doi)
+    #     fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
+    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
+    #                             models[example_model_name][1],
+    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
+    #
+    #     print(result_)
+
+    medplant_txt_dir, result = get_sanitised_dois_for_medplant_papers()
     for sanitised_doi in result:
         print('###########')
         print(sanitised_doi)
-        fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
+        fulltextpath = os.path.join(medplant_txt_dir, f'{sanitised_doi}.txt')
         result_ = query_a_model(models[example_model_name][0], fulltextpath,
                                 models[example_model_name][1],
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
