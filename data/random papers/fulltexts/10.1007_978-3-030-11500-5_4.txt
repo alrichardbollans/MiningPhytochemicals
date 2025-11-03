@@ -1,0 +1,674 @@
+ar
+X
+iv
+:1
+90
+2.
+09
+64
+8v
+1 
+ [g
+r-q
+c] 
+ 25
+ Fe
+b 2
+01
+9
+A Snapshot of J. L. Synge
+Peter A. Hogan∗,
+School of Physics
+University College Dublin
+Belfield, Dublin 4, Ireland
+Abstract
+A brief description is given of the life and influence on relativity the-
+ory of Professor J. L. Synge accompanied by some technical examples
+to illustrate his style of work.
+1 Introduction
+When I was a postdoctoral fellow working with Professor Synge in the School
+of Theoretical Physics of the Dublin Institute for Advanced Studies he was
+fifty–one years older than me and he remained research active for another
+twenty years. John Lighton Synge FRS was born in Dublin on 23rd. March,
+1897 and died in Dublin on 30th. March, 1995. As well as his emphasis
+on, and mastery of, the geometry of space–time he had a unique delivery,
+both verbal and written, which I will try to convey in the course of this
+short article. But first the basic facts of his academic life are as follows: He
+was educated in St. Andrew’s College, Dublin and entered Trinity College,
+University of Dublin in 1915. He graduated B.A. (1919), M.A. (1922) and
+Sc.D. (1926). He was Assistant Professor of Mathematics in the University
+of Toronto (1920–25), subsequently returning to Trinity College Dublin as
+Professor of Natural Philosophy (1925–30) and then left for the University
+of Toronto again to take up the position of Professor of Applied Mathemat-
+ics (1930–43). From there he went to Ohio State University as chairman of
+the Mathematics Department (1943–46) followed by Head, Mathematics De-
+partment at Carnegie Institute of Technology, Pittsburgh (1946–48) before
+∗Email: peter.hogan@ucd.ie
+1
+Figure 1: J. L. Synge 1897-1995
+returning to Dublin to establish his school of relativity in the Dublin Insti-
+tute for Advanced Studies. He officially retired when he was seventy–five
+years old.
+Synge was prolific, publishing 250 papers and 11 books. In 1986 he
+wrote, but did not publish, some informal autobiographical notes [1], which
+he described as being for his family and descendants and to aid obituary
+writers, and which are deposited in the library of the School of Theoretical
+Physics of the Dublin Institute for Advanced Studies.
+Early in his career he published his first important paper: “On the
+Geometry of Dynamics”, Phil. Trans. Roy. Soc. A226 (1926), 31-106. Of
+this work he said [1]; “I sent a copy to T. Levi-Civita`, and in return he sent
+me a copy of a paper by him, just appearing. Our papers had in common
+the equation of geodesic deviation, now familiar to relativists, but he had
+done it using an indefinite line element, appropriate to relativity, whereas
+my line element was positive definite.”
+2 A Scheme of Approximation
+Synge placed great emphasis on working things out for oneself, writing that
+[2] “the lust for calculation must be tempered by periods of inaction, in
+which the mechanism is completely unscrewed and then put together again.
+It is the decarbonisation of the mind.” As an illustration of this activity
+I give a weak field approximation scheme published in 1970 by Synge [3]
+which has the advantage that it can be described without reference to an
+2
+example. This is a topic which, by 1970, had become a standard entry in
+textbooks on general relativity and one might be forgiven for thinking that
+by then the last word had been said on it.
+We first need some basic objects and notation. In Minkowskian space-
+time Synge liked to use imaginary time (which some people find maddening!)
+and to write the position 4–vector in rectangular Cartesians and time as
+xa = (x, y, z, it) with a = 1, 2, 3, 4 and i =
+√−1,
+with the index in the covariant or lower position. The Minkowskian metric
+tensor in these coordinates has components δab (the Kronecker delta). If the
+metric tensor of a space–time has components of the form
+gab = δab + γab ,
+then he defined the “truncated Einstein tensor” Gˆab via
+Gab = Lab + Gˆ
+ab ,
+where Gab is the Einstein tensor calculated with the metric gab and
+Lab =
+1
+2
+(γab,cc + γcc,ab − γac,cb − γbc,ca)− 1
+2
+δab(γcc,dd − γcd,cd) .
+The energy–momentum–stress tensor of matter giving rise to a gravitational
+field has components T ab. With these preliminaries Synge’s strategy is as
+follows:
+(1) Given T ab, generate a sequence of metrics gab
+M
+= δab + γab
+M
+(M =
+0, 1, 2, . . . , N);
+(2) Approximations are introduced by expressing the components T ab in
+terms of a small parameter;
+(3) Integrability conditions, equivalent to the equations of motion, are im-
+posed to terminate the sequence at a term which satisfies Einstein’s field
+equations with a predicted order of approximation in terms of the small
+parameter.
+The sequence is constructed as follows: with
+γ∗ab
+M
+= γab
+M
+− 1
+2
+δab γcc
+M
+(M = 0, 1, 2, . . . N) ,
+3
+and
+H
+M
+ab = T ab + (8π)−1Gˆ
+M
+ab
+(γ
+M
+) (M = 0, 1, 2, . . . N) ,
+define the sequence {γab
+M
+} by
+γab
+0
+= 0 and γ∗ab
+M
+= 16πKabrsH
+rs
+M−1
+(M = 1, 2, 3, . . . N) .
+Here Kabrs is an operator defined by
+Kabrs = −δar δbs J + J(δar Dbs + δbsDar − δabDrs)J ,
+with Da = ∂/∂xa, Dab = ∂
+2/∂xa∂xb. The operator J is the inverse
+d’Alembertian:
+Jf(~x, t) = − 1
+4π
+∫
+f(~x′, t− |~x− ~x′|)
+|~x− ~x′| d3x
+′ .
+Synge proved that the integrals involved in the implementation of the op-
+erator K converge if the physical system is stationary (T ab,4 = 0) for some
+period in the past. He called this property J–convergence.
+Approximations are introduced as follows: all {γab
+M
+} defined above satisfy
+the coordinate conditions
+γ∗ab,b
+M
+= 0 (M = 0, 1, 2, . . . N) .
+Introduce approximations by assuming T ab = O(k) for some dimensionless
+parameter k then
+γab
+M
+− γab
+M−1
+= O(kM ) (M = 1, 2, 3, . . . , N) ,
+from the definition of γab, and
+Gˆ
+M
+ab − Gˆ
+M−1
+ab
+= O(kM+1) ,
+from the quadratic nature of Gˆab. To obtain a solution of Einstein’s field
+equations in the Nth. approximation, terminate the sequence {γab
+M
+} at the
+4
+Nth. term by imposing the Integrability Conditions/Equations of Motion in
+the Nth. approximation:
+H
+N−1
+ab
+,b ≡ T ab,b + (8π)−1 Gˆ
+N−1
+ab
+,b = 0 .
+Now
+γ∗ab
+N
+= −16π J H
+N−1
+ab ,
+and
+G
+N
+ab + 8π T ab = O(kN+1) ,
+showing that Einstein’s field equations are approximately satisfied in this
+sense. This scheme was subsequently utilised for the study of equations of
+motion in general relativity [4], [5], [6] and [7].
+In an amusing spin-off Synge [8] constructed the following divergence–
+free pseudo–tensor: first write the vanishing covariant divergence of the
+energy–momentum–stress tensor in the equivalent forms
+T ab|b = 0 ⇔ T ab,b +Ka = 0 .
+Here Ka = Γ
+a
+cb T
+cb + Γbcb T
+ac is not a tensor (so the position of the index
+a is not significant; Γabc are the components of the Riemannian connection
+calculated with the metric tensor gab). Then define the pseudo–vector
+Qa = JKa ⇒ Qa = Ka ,
+(with J the operator introduced above and the Minkowskian d’Alembertian
+operator) and define the pseudo–tensor
+ϕab = Qa,b +Qb,a − δabQc,c .
+It thus follows that
+ϕab,b = Qa +Qb,ab −Qc,ca = Qa = Ka = −T ab,b .
+Hence
+τab = T ab + ϕab = τ
+ba ,
+is a pseudo–tensor with vanishing divergence (τab,b = 0). However Synge
+offered, in his characteristic style, these words of warning: “I refrain from
+attaching the words momentum and energy to this pseudo–tensor or to in-
+tegrals formed from it, because I believe that we are barking up the wrong
+tree if we attach such important physical terms to mathematical constructs
+which lack the essential invariance property fundamental in general relativ-
+ity.”
+5
+3 Lorentz Transformations
+Synge gave a succinct description of his early education when he wrote [1]:
+“Although there are great gaps in my scientific equipment - like Hadamard,
+I could never get my teeth into group theory - I think I have ranged more
+widely than most. I might easily have stuck to classical subjects in which
+I was well trained as an undergraduate (dynamics, hydrodynamics, elas-
+ticity), but I wanted to take part in the new subjects, and in due course
+I mastered relativity but not quantum theory.” True to this background,
+when considering Lorentz transformations, Synge thought of the analogy
+with “the kinematics of a rigid body with a fixed point” (in [?]) and thus
+the construction of a general rotation in three dimensional Euclidean space
+in terms of the Euler angles. For Lorentz transformations the analogy re-
+quires six transformations of an orthonormal tetrad to another orthonormal
+tetrad, involving three pseudo angles (the arguments of hyperbolic func-
+tions) and three Euclidean angles. While this perspective is interesting the
+resulting formalism is not well suited to discussing the detailed effect of
+Lorentz transformations on the null cone. In the second edition of his text
+on special relativity Synge thanked I. Robinson and A. Taub “for pointing
+out an error in Chapter IV of this book as first published (1955): singular
+Lorentz transformations were overlooked.”
+Taub was using spinors but Robinson had encountered the singular case
+in a novel way [9, 10, 11]: Robinson was interested in the Schwarzschild
+solution in the limit m → +∞. Starting with the Eddington–Finkelstein
+form
+ds2 = − r
+2 (dx2 + dy2){
+1 + 1
+4
+(x2 + y2)
+}2 + 2 du dr +
+(
+1− 2m
+r
+)
+du2
+and, using a clever coordinate transformation, Robinson wrote this in the
+form
+ds2 = − r
+2
+cosh2 λξ
+(dξ2 + dη2) + 2 du dr +
+(
+λ2 − 2
+r
+)
+du2 , λ = m−1/3
+Taking the limit λ→ 0 (⇔ m→ +∞) this becomes
+ds2 = −r2(dξ2 + dη2) + 2 du dr − 2
+r
+du2
+This is another (different from Schwarzschild) Robinson–Trautman [12] type
+D vacuum space–time. The metric tensor has one term singular at r = 0.
+6
+This line element can be written in the form
+ds2 = −T 4/3(dX2 + dY 2)− T−2/3dZ2 + dT 2
+which is a Kasner [13] solution of Einstein’s vacuum field equations. If we
+remove the term singular at r = 0 above we have a line element
+ds2 = −r2(dξ2 + dη2) + 2 du dr
+This is flat space–time and r = 0 is a null geodesic. Hence
+ξ → ξ + a , η → η + b , u→ u , r→ r
+where a, b are real constants, constitutes a Lorentz transformation leaving
+only the null direction r = 0 invariant. This is a singular Lorentz trans-
+formation (or null rotation) and the example moreover shows that such
+transformations exist and constitute a two–parameter Abelian subgroup of
+the Lorentz group.
+4 Synge on an Observation of E. T. Whittaker
+I mentioned at the outset that Professor Synge remained research active well
+into old age. To demonstrate this I want to give an example of some work
+carried out when he was eighty–eight years old. For several years, starting in
+the early 1980’s, he and I found it convenient to correspond via letter. This
+allowed easy exchange of the results of calculations before the age of email.
+He typed his letters, including equations, on an ancient machine which he
+had used for years. The example I want to give involves an observation due
+to E. T. Whittaker and to do it justice I must first give a fairly extensive
+introduction.
+Whittaker (in [14], [15]) was concerned with the Lie´nard–Wiechert elec-
+tromagnetic field of a moving charge e so we will need some notation which
+we can briefly summarise as follows:
+1) Line element: ds2 = ηijdX
+i dXj = −dX2 − dY 2 − dZ2 + dT 2 .
+2) World line of charge: Xi = wi(u) ; vi(u) = dwi/du with vi vi = +1
+(⇒ vi = 4–velocity, u = arc length or proper time); ai = dvi/du = 4–
+acceleration ⇒ ai vi = 0)
+3) Retarded distance of Xi from Xi = wi(u):
+r = ηij(X
+i − wi(u))vj ≥ 0 ; ηij(Xi − wi(u))(Xj − wj(u)) = 0 .
+7
+Let Xi − wi(u) = r ki then ki ki = 0 and ki vi = +1. Parametrise the
+direction of ki by x, y such that
+ki = P−1
+0
+(
+−x,−y,−1 + 1
+4
+(x2 + y2), 1 +
+1
+4
+(x2 + y2)
+)
+,
+and then the normalisation ki vi = +1 implies
+P0 = x v
+1(u) + y v2(u) +
+{
+1− 1
+4
+(x2 + y2)
+}
+v3(u) +
+{
+1 +
+1
+4
+(x2 + y2)
+}
+v4(u) .
+Whittaker observed that the Lie´nard–Wiechert 4–potential
+Ai =
+e vi
+r
+⇒ Ai,i = 0 = Ai ,
+could be written, modulo a gauge transformation, in the form
+Ai =
+e vi
+r
+= KijF,j +
+∗KijG,j ,
+where Kij = −Kji is a constant real bivector, with ∗Kij = 12ǫijklKkl its
+dual, and F,G are real–valued functions each satisfying the Minkowskian
+wave equation
+F = 0 and G = 0 .
+To establish this in coordinates x, y, r, u we need
+∂
+∂Xi
+= −P
+2
+0
+r
+(
+∂ki
+∂x
+∂
+∂x
++
+∂ki
+∂y
+∂
+∂y
+)
++ vi
+∂
+∂r
++ ki
+{
+∂
+∂u
+− (1− r ai ki) ∂
+∂r
+}
+,
+and
+ = −P
+2
+0
+r2
+(
+∂2
+∂x2
++
+∂2
+∂y2
+)
+− (1− 2 ai ki r)
+(
+∂2
+∂r2
++
+2
+r
+∂
+∂r
+)
++ 2
+∂2
+∂u∂r
++
+2
+r
+∂
+∂u
+.
+In coordinates x, y, r, u Whittaker’s two wave functions are [16]
+F = −e
+2
+log(x2 + y2) and G = −e tan−1 y
+x
+,
+(two harmonic functions) and thus
+∂F
+∂Xi
+=
+eP 20
+r (x2 + y2)
+(
+x
+∂ki
+∂x
++ y
+∂ki
+∂y
+)
+,
+8
+and
+∂G
+∂Xi
+=
+eP 20
+r (x2 + y2)
+(
+x
+∂ki
+∂y
+− y ∂ki
+∂x
+)
+.
+Define
+Kij = δi3 δ
+j
+4
+− δi4 δj3 and Lij = δi1 δj2 − δi2 δj1 = ∗Kij ,
+then
+Ai = KijF,j +
+∗KijG,j =
+e vi
+r
++ ηij Ψ,j ,
+with
+Ψ = e log{r P−1
+0
+√
+x2 + y2} .
+Whittaker pointed out that this decomposition is analogous to the splitting
+of a plane light wave into two plane polarised components. A notable fact
+is that almost every vacuum Maxwell field can be resolved into two parts
+in this way. The presentation of Whittaker’s observation in coordinates
+x, y, r, u facilitates the derivation of the explicit decomposition (see [16]) for
+the Goldberg–Kerr electromagnetic field [17]. The second, and final, part of
+the introduction, to enable us to appreciate Synge’s contribution, involves a
+simple proof of this decomposition of a vacuum Maxwell field in general.
+We are working in Minkowskian space–time and we shall write the line
+element as given above in rectangular Cartesian coordinates and time Xi =
+(X,Y,Z, T ) with i = 1, 2, 3, 4. In addition we shall make use of the following
+basis vector fields:
+ki
+∂
+∂Xi
+=
+∂
+∂Z
++
+∂
+∂T
+, li
+∂
+∂Xi
+= − ∂
+∂Z
++
+∂
+∂T
+,
+mi
+∂
+∂Xi
+=
+∂
+∂X
++ i
+∂
+∂Y
+, m¯i
+∂
+∂Xi
+=
+∂
+∂X
+− i ∂
+∂Y
+.
+All scalar products (with respect to the Minkowskian metric) of the pairs
+of these vectors vanish except ki li = +2 and m
+i m¯i = −2. In what follows
+a complex self–dual bivector satisfies: Aij = −Aji and ∗Aij = iAij and a
+complex anti–self–dual bivector satisfies: Bij = −Bji and ∗Bij = −iBij ,
+with the star denoting the Hodge dual. A basis of complex anti–self–dual
+bivectors is given by
+mij = mi kj −mj ki , nij = m¯i lj − m¯j li ,
+9
+and
+lij = mi m¯j − m¯imj + li kj − lj ki .
+Let Fij = −Fji be a candidate for a real Maxwell bivector. Since Fij + i∗Fij
+is an anti–self–dual complex bivector it can be expanded on the basis above
+as
+Fij + i
+∗Fij = φ0 nij + φ1 lij + φ2mij ,
+where φ0, φ1, φ2 are complex–valued functions of X
+i. Maxwell’s Equations
+(F ij + i∗F ij),j = 0 ,
+imply integrability conditions for the existence of a complex–valued function
+Q(Xi) such that:
+(a) Q is a wave function: Q = 0 ⇔ m¯imj Q,ij = ki lj Q,ij ;
+(b) φ0 =
+1
+4
+kimj Q,ij , φ1 =
+1
+4
+ki lj Q,ij , φ2 = −14 li m¯j Q,ij .
+Let l¯ij denote the complex conjugate of lij , then l¯ij is self–dual. Define
+Wij =
+1
+4
+l¯i
+pQ,pj − 1
+4
+l¯j
+pQ,pi = −Wji .
+Since Q is a wave function it follows that Wij is anti–self–dual. Expressing
+Wij on the anti–self–dual bivector basis, and using (b) above, results in
+Wij = Fij + i
+∗Fij .
+Hence with 1
+4
+l¯ij = Kij − i∗Kij and Q = U + iV , we can write
+Fij = Ai,j −Aj,i with Ai = Kij U,j + ∗Kij V,j .
+Thus in general an analytic solution of Maxwell’s vacuum field equations
+on Minkowskian space–time can be constructed from a pair of real wave
+functions U, V and a constant real bivector Kij = −Kji. The classic paper
+on this type of result for zero rest mass, spin s fields is that of Penrose [18]
+(see also Stewart [19]).
+When I wrote out this proof (incorporated into [20]) and sent it to Synge
+his response was characteristic. He worked it all out for himself and sent me
+the following proof in December, 1985:
+10
+Synge’s proof begins with
+Lemma: With Xi = (X,Y,Z, T ), ηij = diag(−1,−1,−1,+1), Fij = −Fji a
+Maxwell field so that F ij ,j = 0 ; Fj,k + Fki,j + Fjk,i = 0 then
+Fij = 0 at T = 0 ⇒ Fij = 0 for all T .
+“You cannot make energy out of nothing” (Synge)
+Corollary: If Fij and Hij are Maxwell fields then
+Fij = Hij at T = 0 ⇒ Fij = Hij for all T .
+With these preliminaries Synge stated the following:
+Theorem: Given a Maxwell field Fij and
+Hij = Ki
+l U,lj +
+∗Ki
+l V,lj −Kj l U,li − ∗Kj l V,li ,
+with Kij = −Kji = constants and U, V wave functions, then Hij is a
+Maxwell field and there exists Kij , U, V such that
+Hij = Fij at T = 0 .
+Comment: Clearly Hij is a solution of Maxwell’s equations. The choice of
+Kij , U, V is not unique. The theorem demands only their existence.
+Proof: Choose Kij = δi3 δ
+j
+4
+− δi3 δj4 then ∗Kij = δi1 δj2 − δi2 δj1 and writing out
+Hij = Fij at T = 0 we find the following pairs of equations for the Cauchy
+data U, V, U,4, V,4 for the wave functions at T = 0: (all equations evaluated
+at T = 0)
+(A): (U,4),1 = F13 + V,23 and (U,4),2 = F23 − V,13 ;
+(B): (V,4),1 = F24 − U,23 and (V,4),2 = −F14 + U,13 ;
+(C): U,11 + U,22 = −F34 and V,11 + V,22 = −F12 .
+If the equations (A) are consistent and if the equations (B) are consistent
+then (A), (B) and (C) can in principle be solved for the Cauchy data. The
+consistency follows from the assumption that Fij is a Maxwell field since
+then (A) implies that
+(U,4),12 − (U,4),21 = F13,2 − F23,1 + V,232 + V,131 = F13,2 + F32,1 + F21,3 = 0 ,
+11
+and (B) implies that
+(V,4),12 − (V,4),21 = F24,2 + F14,1 − U,232 − U,131 = F24,2 + F14,1 + F34,3 = 0 ,
+and the theorem is established.
+5 Epilogue
+When visitors came to the Center for Relativity in the University of Texas at
+Austin, Alfred Schild, the founder of the Center and one of Synge’s former
+collaborators [21] would enthusiastically point out to them that this was
+where Roy Kerr found his solution. This raises the question: what were
+the stand–out works produced in Professor Synge’s school of relativity in
+Dublin? I discussed this with George Ellis some time ago and we concluded
+that Felix Pirani’s study of the physical significance of the Riemann tensor
+[22] and Werner Israel’s proof of the uniqueness of the static black hole
+(uncharged [23] and charged [24]) are arguably the most profound products
+of Synge’s school.
+When Synge turned ninety years of age a small conference was organised
+in his honour. His status within Ireland was reflected in the report in a na-
+tional newspaper which stated: “President Hillery [Head of State] attended
+a special event in the Dublin Institute for Advanced Studies yesterday to
+wish a happy 90th. birthday to Professor Emeritus J. L. Synge, Ireland’s
+most distinguished mathematician of the present century. Although he has
+been retired for fifteen years, the professor, a nephew of the playwright J.
+M. Synge, published three papers last year and has two more at present in
+the course of publication” [Irish Times, 23rd. March, 1987].
+My photograph of Professor Synge (Figure 1 above) was taken in July,
+1987 in my back garden. Also present were two of Synge’s former students,
+Dermott Mc Crea (see [4], [5] and [7] for example) and Stephen O’Brien (of
+the O’Brien–Synge junction conditions [25]) together with Bill Bonnor who
+was visiting from the University of London.
+References
+[1] J. L. Synge. Autobiography. Dublin Institute for Advanced Studies,
+unpublished, 1986.
+[2] J. L. Synge. Relativity: the general theory. North-Holland Publishing
+Company, Amsterdam, 1966.
+12
+[3] J. L. Synge. Proc. Roy. Irish Acad., A59:11, 1970.
+[4] P. A. Hogan and J. D. McCrea. GRG Journal, 5:77, 1974.
+[5] J. D. McCrea and G. M. O’Brien. GRG Journal, 9:1101, 1977.
+[6] G. M. O’Brien. GRG Journal, 10:129, 1979.
+[7] J. D. McCrea. GRG Journal, 13:397, 1981.
+[8] J. L. Synge. Nature, 215:102, 1967.
+[9] Private communication to the author from I. Robinson.
+[10] W. Rindler and A. Trautman. Gravitation and Geometry, Bibliopolis,
+Naples, page 13, 1987.
+[11] C. Barrabe`s and P. A. Hogan. Advanced General Relativity:Gravity
+Waves, Spinning Particles, and Black Holes. Oxford University Press,
+2013.
+[12] I. Robinson and A. Trautman. Proc. Roy. Soc., A265:463, 1962.
+[13] E. Kasner. Trans. American Math. Soc., 27:155, 1925.
+[14] E. T. Whittaker. Proc. London Math. Soc., 1:367, 1903.
+[15] E. T. Whittaker. A History of the Theories of Aether and Electricity.
+Nelson, London, page 410, 1958.
+[16] G. F. R. Ellis and P. A. Hogan. Ann. Phys. (N.Y.), 210:178, 1991.
+[17] J. N. Goldberg and R. P. Kerr. J. Math. Phys., 5:172, 1964.
+[18] R. Penrose. Proc. Roy. Soc., A284:159, 1965.
+[19] J. M. Stewart. Proc. Roy. Soc., A367:527, 1979.
+[20] P. A. Hogan. J. Math. Phys., 28:2087, 1987.
+[21] J. L. Synge and A. Schild. Tensor Calculus. University of Toronto
+Press, Toronto, 1949.
+[22] F. A. E. Pirani. Acta Physica Polonica, 15:389, 1956.
+[23] W. Israel. Phys. Rev., 164:1776, 1967.
+13
+[24] W. Israel. Comm. Math. Phys., 8:245, 1968.
+[25] J. L. Synge and S. O’Brien. Communs. Dubl. Inst. Adv. Stud., A 9,
+1952.
+14

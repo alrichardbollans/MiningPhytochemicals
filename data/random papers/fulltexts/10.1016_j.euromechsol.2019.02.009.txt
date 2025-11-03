@@ -1,0 +1,1556 @@
+ar
+X
+iv
+:1
+90
+2.
+04
+91
+4v
+1 
+ [c
+on
+d-
+ma
+t.m
+trl
+-sc
+i] 
+ 13
+ Fe
+b 2
+01
+9
+Mode I crack tip fields: strain gradient plasticity theory
+versus J2 flow theory
+Emilio Mart´ınez-Pan˜edaa,∗, Norman A. Flecka
+aDepartment of Engineering, Cambridge University, CB2 1PZ Cambridge, UK
+Abstract
+The mode I crack tip asymptotic response of a solid characterised by strain
+gradient plasticity is investigated. It is found that elastic strains dominate
+plastic strains near the crack tip, and thus the Cauchy stress and the strain
+state are given asymptotically by the elastic K-field. This crack tip elas-
+tic zone is embedded within an annular elasto-plastic zone. This feature is
+predicted by both a crack tip asymptotic analysis and a finite element com-
+putation. When small scale yielding applies, three distinct regimes exist: an
+outer elastic K field, an intermediate elasto-plastic field, and an inner elas-
+tic K field. The inner elastic core significantly influences the crack opening
+profile. Crack tip plasticity is suppressed when the material length scale ℓ
+of the gradient theory is on the order of the plastic zone size estimation, as
+dictated by the remote stress intensity factor. A generalized J-integral for
+strain gradient plasticity is stated and used to characterise the asymptotic
+response ahead of a short crack. Finite element analysis of a cracked three
+∗Corresponding author.
+Email address: mail@empaneda.com (Emilio Mart´ınez-Pan˜eda)
+This article was presented at the IUTAM Symposium on Size-Effects in Microstructure
+and Damage Evolution at Technical University of Denmark, 2018
+Preprint submitted to European Journal of Mechanics - A/Solids February 14, 2019
+point bend specimen reveals that the crack tip elastic zone persists in the
+presence of bulk plasticity and an outer J-field.
+Keywords:
+Strain gradient plasticity, Length scales, Asymptotic analysis, Finite
+element analysis, Fracture
+1. Introduction
+Strain gradient plasticity is increasingly used in fracture analyses to pre-
+dict the stress elevation that accompanies gradients of plastic strain, see, for
+example, (Wei and Hutchinson, 1997; Jiang et al., 2001; Komaragiri et al.,
+2008; Nielsen et al., 2012; Mart´ınez-Pan˜eda et al., 2017b) and references therein.
+Gradients of plastic strain are associated with lattice curvature and geo-
+metrically necessary dislocations (Ashby, 1970), and the increased disloca-
+tion density promotes strengthening. Flow stress elevation in the presence
+of plastic strain gradients has been observed in a wide range of mechani-
+cal tests on micro-sized specimens. Representative examples are indenta-
+tion (Poole et al., 1996; Nix and Gao, 1998), torsion (Fleck et al., 1994), and
+bending (Sto¨lken and Evans, 1998). These experiments typically predict a
+3-fold increase in the effective flow stress by reducing the size of the speci-
+men (smaller is stronger). Isotropic, strain gradient plasticity theories have
+been developed to capture this size effect. The pivotal step in construct-
+ing these phenomenological models is to write the plastic work increment in
+terms of both the plastic strain and plastic strain gradient, thereby introduc-
+ing a length scale in the material description (Aifantis, 1984; Gao et al., 1999;
+Fleck and Hutchinson, 2001; Gurtin and Anand, 2005). Work-conjugate stress
+2
+quantities for plastic strain and plastic strain gradient follow immediately.
+The crack tip stress elevation, as predicted by strain gradient plasticity
+theory relative to conventional plasticity theory, plays a fundamental role in
+the modelling of numerous damage mechanisms (Mart´ınez-Pan˜eda and Betego´n,
+2015; Mart´ınez-Pan˜eda and Niordson, 2016). Examples include fatigue (Brinckmann and Siegmund,
+2008; Pribe et al., 2019), notch mechanics (Mart´ınez-Pan˜eda et al., 2017a),
+microvoid cracking (Tvergaard and Niordson, 2008), and hydrogen embrit-
+tlement (Mart´ınez-Pan˜eda et al., 2016a,b).
+In the present study, we examine the mode I crack tip field according
+to strain gradient plasticity theory (Gudmundson, 2004; Fleck and Willis,
+2009). Previous crack tip asymptotic studies considered earlier gradient
+plasticity classes, such as couple-stress theories without stretch gradients
+(Huang et al., 1997; Xia and Hutchinson, 1996) or models involving the gra-
+dients of elastic strains (Chen et al., 1999). For such theories, plastic strains
+dominate elastic strains near the crack tip and the asymptotic nature of the
+crack tip field can be obtained by neglecting elasticity. This is analogous to
+the HRR (Hutchinson, 1968; Rice and Rosengren, 1968) analysis for a con-
+ventional elasto-plastic solid.
+We shall show in the present study that the crack tip field for Gudmundson-
+type strain gradient theories is of a different nature, such that the asymptotic
+crack tip field comprises both elastic and plastic straining, and it is not pos-
+sible to simplify the crack tip asymptotic state by neglecting elastic strains.
+3
+Instead, the elastic strain εeij scales as r
+−1/2 with distance r from the crack
+tip, whereas the plastic strain tensor ε
+∼
+p (x) is of the form
+ε
+∼
+p (x) = ε
+∼
+p (0) + ε˜
+∼
+p (x) + · · · (1)
+The leading order term ε
+∼
+p (0) has a finite value independent of x. The
+next term in the series, ε˜
+∼
+p (x), scales as r3/2 where r = |x| is the polar coor-
+dinate from the crack tip, and ε˜
+∼
+p (x) also depends upon the polar coordinate
+θ. Thus, we can write εpij in polar coordinates as,
+− εprr = εpθθ = A cos (2θ) + r3/2f (θ) + · · · (2)
+εprθ = A sin (2θ) + r
+3/2g (θ) + · · · (3)
+Later, in the paper, we shall obtain explicit expressions for the angular
+functions f (θ) and g (θ). Thus, the elastic strain is more singular than the
+plastic strain and the Cauchy stress σij (r, θ) is given by the usual elastic
+K-field in the vicinity of the crack tip.
+The following simple argument supports the finding that the crack tip is
+surrounded by an elastic K-field in an elastic-plastic strain gradient solid.
+Introduce a generalized effective plastic strain E˜p such that
+(
+E˜p
+)2
+=
+2
+3
+εpijε
+p
+ij + ℓ
+2εpij,kε
+p
+ij,k (4)
+in terms of a material length scale ℓ; the comma subscript (),k denotes spa-
+tial differentiation with respect to the coordinate xk in the usual manner.
+Consider the case of a deformation theory solid, and assume that the plastic
+strain energy density wp scales as E˜p
+(N+1)
+in terms of a strain hardening
+4
+exponent N (where 0 ≤ N ≤ 1). We proceed to show that the elastic strain
+must dominate the plastic strain. To do so, we shall explore the consequences
+of assuming that the plastic strain dominates the elastic strain near the crack
+tip. Then, wp must scale as J/r in order for the energy release rate for crack
+advance to be finite at the crack tip. Consequently, E˜p and ℓεpij,k scale as
+r−1/(N+1) and εpij scales as r
+N/(N+1). We conclude that εpij tends to zero as
+the crack tip is approached. If the elastic strain is dominated by the plastic
+strain then this implies that εeij tends to zero at a faster rate than r
+N/(N+1),
+and the crack tip will have a strain and a stress concentration of zero. This
+is implausible on physical grounds. We conclude that the elastic strain field
+must dominate the plastic strain field at the crack tip, and the Cauchy stress
+and elastic strain are given by the usual elastic K-field.
+2. Strain Gradient Plasticity
+We idealise strain gradient effects by means of the Gudmundson (2004)
+higher order gradient plasticity model, see also Fleck and Willis (2009). A
+brief summary of the constitutive and field equations for a flow theory version
+of strain gradient plasticity is now presented.
+2.1. Variational principles and balance equations
+The primal kinematic variables are the velocity u˙i and the plastic strain
+rate ε˙pij. Upon adopting a small strain formulation, the total strain rate reads
+ε˙ij =
+1
+2
+(u˙i,j + u˙j,i) (5)
+and is decomposed additively into elastic and plastic parts,
+ε˙ij = ε˙
+e
+ij + ε˙
+p
+ij (6)
+5
+Write the internal work within a volume V as
+δW =
+∫
+V
+(
+σijδε
+e
+ij + qijδε
+p
+ij + τijkδε
+p
+ij,k
+)
+dV (7)
+where σij denotes the Cauchy stress, qij the so-called micro-stress tensor
+(work-conjugate to the plastic strain εpij) and τijk is the higher order stress
+tensor (work-conjugate to the plastic strain gradient εpij,k). The volume V
+is contained within a surface S of unit outward normal ni. Now make use
+of Gauss’ divergence theorem to re-express δW as the external work on the
+surface S,
+δW =
+∫
+S
+(
+σijnjδui + τijknkδε
+p
+ij
+)
+dS (8)
+to obtain the following equilibrium equations within V :
+σij,j = 0
+sij = qij − τijk,k (9)
+Here, sij is the deviatoric part of the Cauchy stress such that sij = σij −
+δijσkk/3. Equations (7) and (8) constitute the Principle of Virtual Work,∫
+V
+(
+σijδε
+e
+ij + qijδε
+p
+ij + τijkδε
+p
+ij,k
+)
+dV =
+∫
+S
+(
+Tiδui + tijδε
+p
+ij
+)
+dS (10)
+where Ti = σijnj and tij = τijknk denote the conventional and higher order
+tractions, respectively.
+2.2. Constitutive laws
+The elastic strain εeij gives rise to an elastic strain energy density,
+we =
+1
+2
+εeijCijklε
+e
+kl (11)
+6
+where Cijkl = Cklij is the isotropic elastic stiffness tensor, given in terms
+of Young’s modulus E and Poisson’s ratio ν. We identify the elastic work
+increment σijδε
+e
+ij with δw
+e such that
+σij =
+∂we
+∂εeij
+= Cijklε
+e
+kl (12)
+The stresses (qij , τijk) are taken to be dissipative in nature and we assume
+that the plastic work rate w˙p reads,
+qijδε˙
+p
+ij + τijkδε˙
+p
+ij,k = δw˙
+p (13)
+where w˙p(E˙p) is given in terms of a combined effective plastic strain rate,
+E˙p =
+(
+2
+3
+ε˙pij ε˙
+p
+ij + ℓ
+2ε˙pij,kε˙
+p
+ij,k
+)1/2
+(14)
+thereby introducing a material length scale ℓ. The use of (13) implies imme-
+diately that
+qij =
+∂w˙p
+∂ε˙pij
+=
+∂w˙p
+∂E˙p
+∂E˙p
+∂ε˙pij
+(15)
+and
+τijk =
+∂w˙p
+∂ε˙pij,k
+=
+∂w˙p
+∂E˙p
+∂E˙p
+∂ε˙pij,k
+(16)
+Upon introducing an overall effective stress Σ = ∂w˙p/∂E˙p, these expres-
+sions reduce to
+qij =
+2
+3
+Σ
+E˙p
+ε˙pij and τijk =
+Σ
+E˙p
+ℓ2ε˙pij,k (17)
+Note that Σ is work conjugate to E˙p, such that it satisfies
+ΣE˙p = qij ε˙
+p
+ij + τijkε˙
+p
+ij,k (18)
+and, upon making use of (14) and (17) we obtain the relation
+Σ =
+(
+3
+2
+qijqij + ℓ
+−2τijkτijk
+)1/2
+(19)
+7
+3. Asymptotic analysis of crack tip fields
+3.1. Deformation theory solid
+We begin our study by conducting an asymptotic analysis of the stress
+and strain state at the crack tip. As already discussed in the introduc-
+tion, consider a deformation theory solid such that the strain energy density
+w
+(
+εeij , ε
+p
+ij, ε
+p
+ij,k
+)
+is decomposed into an elastic part we and a plastic part wp,
+w
+(
+εeij, ε
+p
+ij, ε
+p
+ij,k
+)
+= we
+(
+εeij
+)
++ wp
+(
+εpij, ε
+p
+ij,k
+)
+(20)
+The elastic contribution is stated explicitly by (11). For the deformation
+theory solid the effective strain quantity E˜p has already been introduced by
+(4). The dissipation potential wp is taken to be a power law function of E˜p
+wp
+(
+E˜p
+)
+=
+σY εY
+N + 1
+(
+E˜p
+εY
+)N+1
+(21)
+in terms of a reference value of strength σY , yield strain εY = σY /E and hard-
+ening index N (where 0 ≤ N ≤ 1). Upon writing the dissipation increment
+δwp as
+δwp = qijδε
+p
+ij + τijkδε
+p
+ij,k (22)
+and upon introducing the notation Σ = ∂wp/∂E˜p, we have
+qij =
+∂wp
+∂εpij
+= Σ
+∂E˜p
+∂εpij
+=
+2
+3
+Σ
+E˜p
+εpij (23)
+τijk =
+∂wp
+∂εpij,k
+= Σ
+∂E˜p
+∂εpij,k
+= ℓ2
+Σ
+E˜p
+εpij,k (24)
+We note in passing that substitution of (23)-(24) into (4) recovers (19),
+and the relation between Σ and E˜p is of power law type, such that
+Σ =
+∂wp
+∂E˜p
+= σY
+(
+E˜p
+εY
+)N
+(25)
+8
+via (22).
+3.2. Energy boundness analysis
+We proceed to obtain the asymptotic nature of εpij (r, θ). The finite ele-
+ment solutions presented later in the study consistently reveal that the de-
+viatoric Cauchy stress sij scales as r
+−1/2. We shall adopt this scaling law for
+sij and explore its ramifications. First, note from (23) and (24) that τijk,
+and consequently τijk,k, are more singular in r than qij , as the crack tip is
+approached. Then, the equilibrium relation (9)b demands that
+sij ∼ −τijk,k (26)
+to leading order in r, and consequently τijk is of order r
+1/2. This imposes a
+severe restriction on the form of εpij (r, θ). Assume the separation of variables
+form for εpij in terms of its Cartesian components
+εpij = Aij + r
+αBij (θ) + · · · (27)
+where Aij is taken to be independent of θ and the index α > 0 remains to be
+found. First we show that this form satisfies the field equations, and second
+we justify this choice. Accordingly, the plastic strain gradient reads
+εpij,k = αr
+α−1B¯ijk (θ) + · · · (28)
+where B¯ijk can be expressed in terms of Bij (θ) and its derivatives with respect
+to θ. Substitution of (27) and (28) into (4) gives
+(
+E˜p
+)2
+=
+4
+3
+AijAij + · · · (29)
+9
+along with
+Σ
+Ep
+= σY
+(
+2√
+3εY
+)N−1
+(AijAij)
+N−1
+2 (30)
+Consequently, (26), (24) and (28) give
+sij = −ℓ2σY
+(
+2√
+3εY
+)N−1
+(ApqApq)
+N−1
+2
+(
+rα−1B¯ijk (θ)
+)
+,k
+(31)
+Upon recalling that sij scales as r
+−1/2 the above equation implies that
+α = 3/2 for consistency. The above solution reveals that the elastic strain
+energy density wE scales as r−1 while the plastic strain energy density scales
+as r0, upon recalling (21) and (29). Now recall that we require w ∼ J/r in
+order for w = we + wp to give a finite energy release rate J at the crack tip.
+This is achieved by the elastic field whereas the plastic field is not sufficiently
+singular in r to give any contribution to the energy release rate. Alternative
+assumptions can be made for the series expansion of εpij in preference to (27).
+However, these do not give rise to an equilibrium solution (i.e., Eq. (26) is
+not satisfied) or they give solutions that are less singular than that of (29).
+For example, if we assume that the Cartesian components Aij are a function
+of θ we find that εpij,k scales as r
+−1 and τijk,k scales as r
+−(N+1), and the equi-
+librium relation (29) for sij is violated. Alternatively, if we take Aij = 0 then
+an equilibrium solution for sij is obtained provided we take α = N/(N + 1).
+This leads to a higher order term in the series expansion of εpij than that
+given by the first two terms of (29). Finally, what is the implication of as-
+suming that α < 0 in our asymptotic expression (29)? If we were to assume
+α < 0, then the leading order term becomes rαBij (θ). Asymptotic matching
+of both sides of the equilibrium relation (26) again results in α = N/(N +1),
+which is inconsistent with the initial assumption that α < 0.
+10
+In summary, the plastic strain field εpij (r, θ) is of the asymptotic form (27)
+with α = 3/2, and the crack tip field for Cauchy stress σij (r, θ) and elastic
+strain εeij (r, θ) is given by the usual K-field for a mode I crack.
+3.3. Asymptotic crack tip fields
+Assume that the leading order terms in εpij, in polar coordinates, are of
+the form (2)-(3). This choice is consistent with the nature of the symmetry of
+the solution of a mode I crack tip problem; εpθθ and ε
+p
+rr are even in θ and give
+rise to εpyy = A = −εpxx, εpxy = 0 in Cartesian coordinates. The components
+of the plastic strain gradient and the Laplacian of the plastic strain read
+εprr,r =
+∂εprr
+∂r
+= −3
+2
+r1/2f (θ) (32)
+εprr,θ =
+1
+r
+(
+∂εprr
+∂θ
+− 2εprθ
+)
+= −r1/2 [3f ′ (θ)− 2g (θ)] (33)
+εprθ,r =
+∂εprθ
+∂r
+=
+3
+2
+r1/2g (θ) (34)
+εprθ,θ =
+1
+r
+(
+∂εprθ
+∂θ
++ 2εprr
+)
+= r1/2 [g′ (θ)− f (θ)] (35)
+and,
+εprr,kk =
+∂2εprr
+∂r2
++
+1
+r
+∂εprr
+∂r
++
+1
+r2
+∂2εprr
+∂θ2
+− 2
+r2
+(
+εprr − εpθθ + 2
+∂εprθ
+∂θ
+)
+(36)
+= r−1/2
+[
+7
+4
+f (θ)− f ′′ (θ) + 4g′ (θ)
+]
+εprθ,kk =
+∂2εprθ
+∂r2
++
+1
+r
+∂εprθ
+∂r
++
+1
+r2
+∂2εprθ
+∂θ2
++
+2
+r2
+(
+∂εprr
+∂θ
+− ∂ε
+p
+θθ
+∂θ
+− 2εprθ
+)
+(37)
+= r−1/2
+[
+−7
+4
+g (θ) + g′′ (θ)− 4f ′ (θ)
+]
+11
+Nowmake use of the higher order equilibrium equation (9)b, which asymp-
+totically implies sij ≈ −τijk,k. Note that, as r → 0, E˜p is of leading order
+2A/
+√
+3 and can therefore be treated as a constant. As argued above and
+demonstrated numerically below, the Cauchy stress is characterized by an
+inner elastic K-field. Consequently, we make use of the Williams (1957)
+solution to write
+srr =
+KI
+4
+√
+2πr
+[
+cos
+(
+θ
+2
+)
+− cos
+(
+3θ
+2
+)]
+(38)
+srθ =
+KI
+4
+√
+2πr
+[
+sin
+(
+θ
+2
+)
++ sin
+(
+3θ
+2
+)]
+(39)
+where KI is the mode I stress intensity factor. The higher order equilibrium
+follows by suitable substitution of (36)-(39) into (24) and (9)b, to give
+KIE˜
+p
+4Σ
+√
+2π
+[
+cos
+(
+θ
+2
+)
+− cos
+(
+3θ
+2
+)]
+= −7
+4
+f (θ) +
+∂2f (θ)
+∂θ2
++ 4
+∂g (θ)
+∂θ
+(40)
+KIE˜
+p
+4Σ
+√
+2π
+[
+sin
+(
+θ
+2
+)
++ sin
+(
+3θ
+2
+)]
+=
+7
+4
+g (θ)− ∂
+2g (θ)
+∂θ2
++ 4
+∂f (θ)
+∂θ
+(41)
+In addition, the symmetry condition ahead of a mode I crack tip demands
+that f (θ) is an even function of θ. Thus, the solution to the system of
+differential equations is given by
+f (θ) = − KIE˜
+p
+16Σ
+√
+2π
+[
+2 cos
+(
+3θ
+2
+)
++ cos
+(
+θ
+2
+)
++ a1 cos
+(
+θ
+2
+)
++ a3 cos
+(
+7θ
+2
+)]
+(42)
+g (θ) = − KIE˜
+p
+16Σ
+√
+2π
+[
+2 sin
+(
+3θ
+2
+)
+− sin
+(
+θ
+2
+)
++ a1 sin
+(
+θ
+2
+)
++ a3 sin
+(
+7θ
+2
+)]
+(43)
+Now make use of the traction-free boundary conditions trr = tθθ = 0
+along the crack flanks (θ = π) to obtain a relation between the constants a1
+12
+and a3. Free boundary conditions on the higher order traction τθθθ = 0 on
+θ = π implies that
+f ′ (θ) + 2g (θ) = 0 at θ = π (44)
+rendering a1 = 7/3 − a3. Imposition of vanishing higher order traction
+τrθθ = 0 on θ = π is identically satisfied and provides no useful additional in-
+formation on (a1, a3). It follows that numerical analysis is needed to calibrate
+a1 and a3 and obtain a full field solution.
+4. Finite element analysis
+4.1. Numerical implementation
+Wemake use of the finite element implementation of Mart´ınez-Pan˜eda et al.
+(2019) and employ the viscoplastic potential presented by Panteghini and Bardella
+(2016). The effective stress is related to the gradient-enhanced effective plas-
+tic flow rate through a viscoplastic function,
+Σ = σF (E
+p) V (E˙p) (45)
+where the current flow stress σF depends on the initial yield stress σY and
+on Ep via a hardening law. We adopt the following isotropic hardening law,
+σF = σY
+(
+1 +
+Ep
+εY
+)N
+(46)
+and assume that the yield strain is εY = σY /E = 0.003. The viscoplastic
+function V (E˙p) is defined as
+V (E˙p) =
+
+
+E˙p/ (2ε˙0) if E˙
+p/ε˙0 ≤ 1
+1− ε˙0/
+(
+2E˙p
+)
+if E˙p/ε˙0 > 1
+(47)
+13
+and the rate-independent limit is achieved by choosing a sufficiently small
+value of the material parameter ε˙0. The numerical experiments conducted
+show that the ratio E˙p/ε˙0 is sufficiently high that V (E˙
+p) ≈ 1 in the vicinity
+of the crack for all remote K values considered.
+A mixed finite element scheme is adopted, such that displacements and
+plastic strains are treated as primary variables, in accordance with the the-
+oretical framework. The non-linear system of equations for a time t +∆t is
+solved iteratively by using the Newton-Raphson method,
+u
+εp
+
+
+t+∆t
+=
+
+u
+εp
+
+
+t
+−
+
+Ku,u Ku,εp
+Kεp,u Kεp,εp
+
+
+−1
+t
+
+Ru
+Rεp
+
+
+t
+(48)
+where the residuals comprise the out-of-balance forces,
+R
+n
+u =
+∫
+V
+σijB
+n
+ij dV −
+∫
+S
+TiN
+n
+i dS (49)
+R
+n
+εp =
+∫
+V
+[
+(qij − sij)Mnij + τijkMnij,k
+]
+dV −
+∫
+S
+tijM
+n
+ij,k dS (50)
+Here, Bij denotes the strain-displacement matrix, and Ni and Mij are the
+shape functions for the nodal values of displacement and plastic strain com-
+ponents. The components of the consistent stiffness matrix are obtained by
+differentiating the residuals with respect to the incremental nodal variables.
+The reader is referred to Mart´ınez-Pan˜eda et al. (2019) for full details.
+4.2. The small scale yielding solution
+We make use of the so-called boundary layer formulation to prescribe an
+outerK-field. Consider a crack with tip at the origin and with the crack plane
+14
+along the negative axis of the Cartesian reference frame (x, y). A remote K
+field is imposed by prescribing the nodal displacements in the outer periphery
+of the mesh as,
+ui =
+K
+E
+r1/2fi (θ, ν) (51)
+where ν is Poisson’s ratio and the functions fi (θ, ν) are given by
+fx =
+1 + ν√
+2π
+(3− 4ν − cos θ) cos
+(
+θ
+2
+)
+(52)
+and
+fy =
+1 + ν√
+2π
+(3− 4ν − cos θ) sin
+(
+θ
+2
+)
+(53)
+Upon exploiting the symmetry about the crack plane, only half of the
+finite element model is analysed. A mesh sensitivity study reveals that it
+is adequate to discretise the domain by approximately 5200 plane strain,
+quadratic, quadrilateral elements.
+A representative small scale yielding solution is now presented in Figs.
+1 and 2, for the choice K = 20σY
+√
+ℓ, N = 0.1, εY = 0.003, and ν = 0.3.
+Conventional J2 flow theory implies a plastic zone size R0 of magnitude
+R0 =
+1
+3π
+(
+K
+σY
+)2
+(54)
+and so the choice K = 20σY
+√
+ℓ implies R0 = 42ℓ. Consequently, the plastic
+zone size is much larger than ℓ for the strain gradient solid also. The plastic
+zone is plotted in Fig. 1 by showing contours of von Mises plastic strain,
+εp =
+(
+2
+3
+εpijε
+p
+ij
+)1/2
+(55)
+15
+In broad terms, the outer boundary of the plastic zone is given by the con-
+tour εp/εY = 0.1. Additional contours for εp/εY = 1 and 3 are included. It
+is found that εp/εY attains a plateau value slightly greater than 3 within the
+contour εp/εY = 3. Consequently, the stress state within this crack tip zone
+is elastic in nature. This finding is supported by a plot of tensile stress σyy as
+a function of r directly ahead of the crack tip (y = 0), see Fig. 2a. The stress
+component σyy scales as r
+−1/2 for sufficiently small r. Likewise, the elastic
+strain component εeyy scales as r
+−1/2 for r/ℓ < 1, see Fig. 2b. Farther from
+the crack tip (1 < r/ℓ < 10) the stress profile σyy varies with r in the manner
+of the HRR field, σθθ ∼ r−N/(N+1). Beyond the plastic zone (r/ℓ > 10) the
+stress state again converges to the elastic K-field and σyy scales as r
+−1/2.
+Thus, both an outer and an inner K field exist. The distributions of εeyy(r)
+and εpyy(r) are shown in Fig. 2b. Within the elastic zone at the crack tip, and
+in the outer elastic zone, we have εeyy >> ε
+p
+yy. In contrast, within the annual
+region of the crack tip plastic zone, the plastic strains dominate and εpyy > ε
+e
+yy.
+The following J-integral argument can be used to show that the magni-
+tude of K for the crack tip elastic zone is identical to that in the outer field.
+Write the potential energy P of the cracked solid as
+P (a) =
+∫
+V
+w dV −
+∫
+ST
+(
+T∞i ui + t
+∞
+ij ε
+p
+ij
+)
+dS (56)
+where (T∞i , t
+∞
+ij ) are the prescribed tractions on a partial boundary ST , with
+outward normal ni. Define J as the energy release rate per unit crack exten-
+sion, such that
+J = −∂P
+∂a
+(57)
+16
+for a body of unit thickness in the z direction. Note that∮ (
+wnx − σijnjui,x − τijknkεpij,x
+)
+dS ≡ 0 (58)
+for any closed contour in the solid that excludes the crack tip. Also note
+that σijnj = 0 and τijknk = 0 on the faces of a traction-free crack. Then, an
+evaluation of J for a contour Γ which encloses the crack tip, starts on the
+lower crack flank and ends on the upper flank, gives
+J =
+∫
+Γ
+(
+wnx − σijnjui,x − τijknkεpij,x
+)
+dS (59)
+where the crack lies along the negative x-axis. The proof is straightforward
+and follows that outlined by (Eshelby, 1956; Rice, 1968) for the conventional
+deformation theory solid, absent strain gradient effects.
+Now evaluate the contour integral J assuming that the stress state (and
+associated strain energy density w) is given by an elastic K-field. Direct
+evaluation gives the Irwin relation EJ/(1− ν2) = K2. Upon performing this
+integration within the crack tip elastic zone of the strain gradient solid, and
+repeating the evaluation in the outer K-field remote from the crack tip, path
+independence of J immediately implies that the magnitude of K is the same
+in the two zones.
+4.3. Sensitivity of crack tip fields to strain hardening and material length
+scale
+We proceed to examine the influence of the strain hardening exponent N
+upon the crack tip stress state, see Fig. 3a. Consistent with the analytical
+17
+asymptotic analysis of Section 3, the near-tip asymptotic response is inde-
+pendent of the value of N and the three regimes (outer K, elastic-plastic field
+and inner K) can be readily identified for the three values of N considered.
+The strain state near the crack tip is shown in the form of the components εpyy
+and εyy versus r/ℓ in Fig. 3b. The asymptotic value of ε
+p
+yy(r → 0) increases
+slightly with decreasing N . The zone of almost constant εpyy near the crack
+tip is of similar size for N = 0.1, 0.2 and 0.3: the size of the elastic core
+scales with ℓ and is independent of N .
+The dependence of εpyy(r → 0) upon K/(σY
+√
+ℓ) is plotted in Fig. 4 for
+selected values of N . At small K/(σY
+√
+ℓ), negligible plasticity exists near
+the crack tip - the plastic zone vanishes. At larger K/(σY
+√
+ℓ) a plastic zone
+exists and εpyy(r → 0) increases.
+The tensile stress component σyy is shown as a function of r in Fig. 5 for
+several values of ℓ/R0. The reference size of the plastic zone R0 is given by
+Irwin’s approximation (54). For the strain gradient solid the plastic zone is
+approximately of size R0 since σyy/σY ≈ 1 at r/R0 = 1 for all ℓ/R0 values
+considered. Also, the inner elastic zone is of extent ℓ to a good approxima-
+tion. Consequently, the active plastic zone exists between r ∼ ℓ and r ∼ R0.
+4.4. Influence on the crack profile and in inhibiting plasticity
+Strain gradient plasticity influences the crack tip profile δ(r) behind the
+crack tip. Fig. 6 shows the crack opening profile for conventional (ℓ = 0)
+and strain gradient plasticity (ℓ = 0.05R0), along with the solutions from the
+HRR field and from linear elasticity. The HRR field crack opening profile is
+18
+given by
+σYEδ
+K2
+= α
+(
+rσYE
+K2
+) N
+N+1
+(60)
+while the elastic solution reads
+σYEδ
+K2
+= β
+(
+rσYE
+K2
+) 1
+2
+(61)
+with α = 0.18 and β = 0.48. The finite element results show large differences
+between conventional and gradient-enhanced plasticity solutions. Strain gra-
+dient plasticity sharpens the crack profile to resemble that of an elastic solid.
+Now consider the sensitivity of the plastic zone size rp to the magnitude
+of K/(σY
+√
+ℓ). We have already noted that, when K/(σY
+√
+ℓ) is significantly
+large, the plastic zone size scales with Irwin’s approximation R0 as given
+by (54). In contrast, when K/(σY
+√
+ℓ) is small, we anticipate that the inner
+elastic core of dimension ℓ dominates the plastic zone; this is shown in Fig.
+7. In order to define the size of the plastic zone rp, a criterion is needed
+for active yielding. Here, we assume that the plastic zone extends to either
+the location where εp/εY = 0.1 or 1, see Fig. 7. It is clear from the figure
+that the plastic zone size rp scales with K
+2/σ2Y in the same manner as the
+conventional elastic-plastic solid for sufficiently large K/(σY
+√
+ℓ). However,
+at small K/(σY
+√
+ℓ), on the order of 5 to 10, the plastic zone vanishes. At an
+intermediate value ofK/(σY
+√
+ℓ) the active plastic zone for the strain gradient
+solid is somewhat larger than that predicted for the conventional solid.
+4.5. Regime of J-dominance
+The small scale yielding (SSY) approach is valid provided the crack
+length is much greater than the plastic zone size R0 at the onset of frac-
+19
+ture, a > 7.5πR0. Thus, on a map with axes a/R0 and ℓ/R0 the small scale
+yielding regime exists for a/R0 > 7.5π; this is shown explicitly in Fig. 8. If
+a/R0 is in the range 75πεY < a/R0 < 7.5π, then a J-field exists near the
+crack tip and the valid loading parameter becomes J instead of K. This
+regime of J-dominance is also sketched in Fig. 8. We proceed to explore
+the stress state near the crack tip for the case of J-dominance. To do so
+we consider a deeply notched beam in three point bending and calculate the
+tensile stress state ahead of the crack tip.
+We follow the ASTM E 1820-01 Standard2 and model a three point single
+edge bend specimen, as outlined in Fig. 9. We take advantage of symme-
+try and model only half of the specimen, with a total of 24000 quadratic
+quadrilateral plane strain elements. The J-integral is computed following
+the ASTM E 1820 Standard,
+J = Je + Jp (62)
+with Je being computed from the remote load and the specimen dimensions
+and Jp being calculated from the area below the force versus displacement
+curve. A reference length scale R0 can be defined from the estimated value
+of J as
+R0 =
+1
+3π (1− ν2)
+EJ
+σ2Y
+(63)
+Crack tip stresses for a/R0 = 0.8 and W/R0 = 1.6 are shown in Fig. 10
+for strain gradient plasticity (ℓ/R0 = 0.1) and conventional plasticity theory.
+2Standard No. ASTM E 1820-01 “Standard Test Method for Measurement of Fracture
+Toughness,” American Society for Testing and Materials, Philadelphia, PA.
+20
+Finite element results reveal that the elastic core is still present for the case
+of J-dominance; the strain gradient plasticity prediction exhibits the elastic
+1/
+√
+r singularity as r → 0. Thus short cracks, where small scale yielding
+does not apply, also exhibit an elastic stress state near the crack tip.
+5. Conclusions
+We examine, numerically and analytically, the crack tip asymptotic re-
+sponse in metallic materials. The solid is characterised by strain gradient
+plasticity theory, aiming to phenomenologically link scales in fracture me-
+chanics by incorporating the stress elevation due to dislocation hardening.
+Results reveal that an elastic zone is present in the immediate vicinity of
+the crack tip. The stresses follow the linear elastic r−1/2 singularity and the
+plastic strains reach a plateau at a distance to the crack tip that scales with
+the length scale of strain gradient plasticity ℓ. The dominant role of elastic
+strains in the vicinity of the crack invalidates asymptotic analyses that ne-
+glect their contribution to the total strains. The existence of an elastic core
+is reminiscent of a dislocation free zone, as introduced by Suo et al. (1993).
+The emergence of an elastic core has important implications on the on-
+set of plasticity and the crack opening profile. Numerical predictions show
+that strain gradient plasticity sharpens the crack opening profile to that of
+an elastic solid. Differences with conventional plasticity are substantial and
+results suggest that an experimental characterisation of the crack opening
+profile could be used to infer the value of the length scale parameter. On the
+other hand, plasticity is precluded if the remote load is not sufficiently large,
+21
+such that the plastic zone size (as given by, e.g., Irwin’s approximation) falls
+within the elastic core domain.
+In addition, we show that the inner elastic regime is also present when
+the crack is small and an outer elastic K field does not exist. A generalised
+J-integral is presented for strain gradient solids and the stress fields are
+computed under J-dominance conditions in a three point single edge bend
+specimen.
+Finally, we note that the material length scale ℓ is on the order of a few
+microns for most metals. This is roughly the smallest scale at which void
+nucleation and growth occur, suggesting that the transition to an inner zone
+dominated by elasticity will have important implications in quasi-cleavage
+but play a secondary role in ductile fracture.
+6. Acknowledgements
+The authors would like to acknowledge financial support from the Eu-
+ropean Research Council in the form of an Advance Grant (MULTILAT,
+669764). The authors would also like to acknowledge the funding and tech-
+nical support from BP (ICAM02ex) through the BP International Centre for
+Advanced Materials (BP-ICAM).
+References
+Aifantis, E. C., 1984. On the Microstructural Origin of Certain Inelastic
+Models. Journal of Engineering Materials and Technology 106 (4), 326.
+22
+Ashby, M. F., 1970. The deformation of plastically non-homogeneous mate-
+rials. Philosophical Magazine 21 (170), 399–424.
+Brinckmann, S., Siegmund, T., 2008. Computations of fatigue crack growth
+with strain gradient plasticity and an irreversible cohesive zone model.
+Engineering Fracture Mechanics 75 (8), 2276–2294.
+Chen, J. Y., Wei, Y., Huang, Y., Hutchinson, J. W., Hwang, K. C., 1999. The
+crack tip fields in strain gradient plasticity: the asymptotic and numerical
+analyses. Engineering Fracture Mechanics 64 (5), 625–648.
+Eshelby, J. D., 1956. The Continuum Theory of Lattice Defects. Solid State
+Physics 3 (C), 79–144.
+Fleck, N. A., Hutchinson, J. W., 2001. A reformulation of strain gradient
+plasticity. Journal of the Mechanics and Physics of Solids 49 (10), 2245–
+2271.
+Fleck, N. A., Muller, G. M., Ashby, M. F., Hutchinson, J. W., 1994. Strain
+gradient plasticity: Theory and Experiment. Acta Metallurgica et Materi-
+alia 42 (2), 475–487.
+Fleck, N. A., Willis, J. R., 2009. A mathematical basis for strain-gradient
+plasticity theory. Part II: Tensorial plastic multiplier. Journal of the Me-
+chanics and Physics of Solids 57 (7), 1045–1057.
+Gao, H., Hang, Y., Nix, W. D., Hutchinson, J. W., 1999. Mechanism-based
+strain gradient plasticity - I. Theory. Journal of the Mechanics and Physics
+of Solids 47 (6), 1239–1263.
+23
+Gudmundson, P., 2004. A unified treatment of strain gradient plasticity.
+Journal of the Mechanics and Physics of Solids 52 (6), 1379–1406.
+Gurtin, M. E., Anand, L., 2005. A theory of strain-gradient plasticity for
+isotropic, plastically irrotational materials. Part I: Small deformations. In-
+ternational Journal of the Mechanics and Physics of Solids 53, 1624–1649.
+Huang, Y., Zhang, L., Guo, T. F., Hwang, K. C., 1997. Mixed mode near-tip
+fields for cracks in materials with strain-gradient effects. Journal of the
+Mechanics and Physics of Solids 45 (3), 439–465.
+Hutchinson, J. W., 1968. Singular behaviour at the end of a tensile crack in a
+hardening material. Journal of the Mechanics and Physics of Solids 16 (1),
+13–31.
+Jiang, H., Huang, Y., Zhuang, Z., Hwang, K. C., 2001. Fracture in
+mechanism-based strain gradient plasticity. Journal of the Mechanics and
+Physics of Solids 49 (5), 979–993.
+Komaragiri, U., Agnew, S. R., Gangloff, R. P., Begley, M. R., 2008. The role
+of macroscopic hardening and individual length-scales on crack tip stress
+elevation from phenomenological strain gradient plasticity. Journal of the
+Mechanics and Physics of Solids 56 (12), 3527–3540.
+Mart´ınez-Pan˜eda, E., Betego´n, C., 2015. Modeling damage and fracture
+within strain-gradient plasticity. International Journal of Solids and Struc-
+tures 59, 208–215.
+24
+Mart´ınez-Pan˜eda, E., del Busto, S., Betego´n, C., 2017a. Non-local plastic-
+ity effects on notch fracture mechanics. Theoretical and Applied Fracture
+Mechanics 92, 276–287.
+Mart´ınez-Pan˜eda, E., del Busto, S., Niordson, C. F., Betego´n, C., 2016a.
+Strain gradient plasticity modeling of hydrogen diffusion to the crack tip.
+International Journal of Hydrogen Energy 41 (24), 10265–10274.
+Mart´ınez-Pan˜eda, E., Deshpande, V. S., Niordson, C. F., Fleck, N. A., 2019.
+The role of plastic strain gradients in the crack growth resistance of metals.
+Journal of the Mechanics and Physics of Solids (in press).
+Mart´ınez-Pan˜eda, E., Natarajan, S., Bordas, S., 2017b. Gradient plasticity
+crack tip characterization by means of the extended finite element method.
+Computational Mechanics 59, 831–842.
+Mart´ınez-Pan˜eda, E., Niordson, C. F., 2016. On fracture in finite strain gra-
+dient plasticity. International Journal of Plasticity 80, 154–167.
+Mart´ınez-Pan˜eda, E., Niordson, C. F., Gangloff, R. P., 2016b. Strain gradient
+plasticity-based modeling of hydrogen environment assisted cracking. Acta
+Materialia 117, 321–332.
+Nielsen, K. L., Niordson, C. F., Hutchinson, J. W., 2012. Strain gradient
+effects on steady state crack growth in rate-sensitive materials. Engineering
+Fracture Mechanics 96, 61–71.
+Nix, W. D., Gao, H. J., 1998. Indentation size effects in crystalline materials:
+A law for strain gradient plasticity. Journal of the Mechanics and Physics
+of Solids 46 (3), 411–425.
+25
+Panteghini, A., Bardella, L., 2016. On the Finite Element implementation
+of higher-order gradient plasticity, with focus on theories based on plastic
+distortion incompatibility. Computer Methods in Applied Mechanics and
+Engineering 310, 840–865.
+Poole, W. J., Ashby, M. F., Fleck, N. A., 1996. Micro-hardness of annealed
+and work-hardened copper polycrystals. Scripta Materialia 34 (4), 559–
+564.
+Pribe, J. D., Siegmund, T., Tomar, V., Kruzic, J. J., 2019. Plastic strain
+gradients and transient fatigue crack growth: a computational study. In-
+ternational Journal of Fatigue 120, 283–293.
+Rice, J. R., 1968. Mathematical Analysis in the Mechanics of Fracture. Math-
+ematical Fundamentals 2 (B2), 191–311.
+Rice, J. R., Rosengren, G. F., 1968. Plane strain deformation near a crack tip
+in a power-law hardening material. Journal of the Mechanics and Physics
+of Solids 16 (1), 1–12.
+Sto¨lken, J. S., Evans, A. G., 1998. A microbend test method for measuring
+the plasticity length scale. Acta Materialia 46 (14), 5109–5115.
+Suo, Z., Shih, C. F., Varias, A. G., 1993. A theory for cleavage cracking
+in the presence of plastic flow. Acta Metallurgica Et Materialia 41 (5),
+1551–1557.
+Tvergaard, V., Niordson, C. F., 2008. Size effects at a crack-tip interacting
+with a number of voids. Philosophical Magazine 88 (30-32), 3827–3840.
+26
+Wei, Y., Hutchinson, J. W., 1997. Steady-state crack growth and work of
+fracture for solids characterized by strain gradient plasticity. Journal of
+the Mechanics and Physics of Solids 45 (8), 1253–1273.
+Williams, M. L., 1957. On the stress distribution at the base of a stationary
+crack. Journal of Applied Mechanics 24, 109–114.
+Xia, Z. C., Hutchinson, J. W., 1996. Crack tip fields in strain gradient plas-
+ticity. Journal of the Mechanics and Physics of Solids 44 (10), 1621–1648.
+27
+List of Figures
+1 Finite element predictions of the different domains surround-
+ing the crack tip in an strain gradient solid at K = 20σY
+√
+ℓ.
+Three regions are identified as a function of the effective von
+Mises plastic strain εp: the outer elastic domain, the plastic
+zone and the inner elastic core. A scale bar of length 5ℓ is
+included. Material properties: N = 0.1, εY = 0.003, and
+ν = 0.3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+2 Tensile (a) stress and (b) strain ahead of the crack tip for a
+strain gradient solid at K = 20σY
+√
+ℓ. Material properties:
+N = 0.1, εY = 0.003, and ν = 0.3. . . . . . . . . . . . . . . . . 30
+3 Tensile (a) stress and (b) strain ahead of the crack tip for a
+strain gradient solid with different values of the strain hard-
+ening exponent N at K = 20σY
+√
+ℓ. Material properties:
+N = 0.1, εY = 0.003, and ν = 0.3. . . . . . . . . . . . . . . . . 31
+4 Crack tip plastic strain component εpyy as a function of the
+remote load for different strain hardening exponents. Material
+properties: εY = 0.003, and ν = 0.3. . . . . . . . . . . . . . . . 32
+5 Tensile stress ahead of the crack tip for a strain gradient solid
+with different values of the length scale parameter at K =
+20σY
+√
+ℓ. Material properties: N = 0.1, εY = 0.003, and
+ν = 0.3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+6 Crack opening profile for strain gradient plasticity and conven-
+tional plasticity. Material properties: N = 0.1, εY = 0.003,
+and ν = 0.3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+7 Plastic zone size as a function of the remote load for con-
+ventional and strain gradient plasticity. Material properties:
+N = 0.1, εY = 0.003, and ν = 0.3. . . . . . . . . . . . . . . . . 35
+8 Schematic diagram of the regimes and competing length scales
+involved in the response ahead of a stationary crack. . . . . . 36
+9 Configuration and dimensions of the three point single edge
+bend specimen. . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+10 Tensile stresses ahead of the crack tip for conventional and
+strain gradient (ℓ/R0 = 0.1) plasticity under J-dominance
+conditions. Material properties: N = 0.1, εY = 0.003, ν = 0.3,
+and a/R0 = 0.8. . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+28
+Elastic
+= 0.1
+= 3
+= 1
+Plastic
+Elastic
+5
+Figure 1: Finite element predictions of the different domains surrounding the crack tip
+in an strain gradient solid at K = 20σY
+√
+ℓ. Three regions are identified as a function of
+the effective von Mises plastic strain εp: the outer elastic domain, the plastic zone and
+the inner elastic core. A scale bar of length 5ℓ is included. Material properties: N = 0.1,
+εY = 0.003, and ν = 0.3.
+29
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+-1
+10
+0
+10
+1
+10
+2
+1
+1
+2
+_
+1
+1
+2
+_
+1
+N/(N+1)
+K eld HRR
+Elastic
+K  eld(a)
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+(b) K eld HRR K eld
+J  ow theory
+2
+Figure 2: Tensile (a) stress and (b) strain ahead of the crack tip for a strain gradient solid
+at K = 20σY
+√
+ℓ. Material properties: N = 0.1, εY = 0.003, and ν = 0.3.
+30
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+-1
+10
+0
+10
+1
+(b)
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+0
+10
+1
+10
+2
+(a)
+Figure 3: Tensile (a) stress and (b) strain ahead of the crack tip for a strain gradient
+solid with different values of the strain hardening exponent N at K = 20σY
+√
+ℓ. Material
+properties: N = 0.1, εY = 0.003, and ν = 0.3.
+31
+0 20 40 60 80
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Figure 4: Crack tip plastic strain component εpyy as a function of the remote load for
+different strain hardening exponents. Material properties: εY = 0.003, and ν = 0.3.
+32
+10
+-4
+10
+-3
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+3
+1
+2
+_
+1
+2
+_
+1
+1
+Figure 5: Tensile stress ahead of the crack tip for a strain gradient solid with different
+values of the length scale parameter at K = 20σY
+√
+ℓ. Material properties: N = 0.1,
+εY = 0.003, and ν = 0.3.
+33
+-1 -0.8 -0.6 -0.4 -0.2 0
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+HRR
+Elastic
+Figure 6: Crack opening profile for strain gradient plasticity and conventional plasticity.
+Material properties: N = 0.1, εY = 0.003, and ν = 0.3.
+34
+0 5 10 15 20 25 30 35
+0
+0.02
+0.04
+0.06
+Strain gradient plasticity
+Conventional plasticity
+Figure 7: Plastic zone size as a function of the remote load for conventional and strain
+gradient plasticity. Material properties: N = 0.1, εY = 0.003, and ν = 0.3.
+35
+0
+10
+-2
+10
+-1
+10
+0
+10
+1
+10
+2
+10
+3
+0.1
+K field
+J field
+75Y
+7.5
+Severe crack 
+tip blunting
+Figure 8: Schematic diagram of the regimes and competing length scales involved in the
+response ahead of a stationary crack.
+36
+0
+2	
+
+W
+
+
+P
+Figure 9: Configuration and dimensions of the three point single edge bend specimen.
+37
+10
+0
+10
+1
+10
+2
+10
+3
+10
+4
+10
+-1
+10
+0
+10
+1
+10
+2
+Strain gradient plasticity
+Conventional plasticity
+J-dominance
+1
+2
+_
+1
+Figure 10: Tensile stresses ahead of the crack tip for conventional and strain gradient
+(ℓ/R0 = 0.1) plasticity under J-dominance conditions. Material properties: N = 0.1,
+εY = 0.003, ν = 0.3, and a/R0 = 0.8.
+38

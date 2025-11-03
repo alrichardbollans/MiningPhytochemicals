@@ -1,0 +1,834 @@
+ar
+X
+iv
+:1
+90
+4.
+05
+49
+6v
+2 
+ [a
+str
+o-
+ph
+.SR
+]  
+24
+ M
+ay
+ 20
+19
+Draft version May 27, 2019
+Typeset using LATEX preprint style in AASTeX62
+A new small satellite sunspot triggering recurrent standard- and blowout-coronal jets
+Yuhu Miao,1, 2, 3, 4, 5, 6 Y. Liu,1, 2, 3, 4, 5 Y. D. Shen,1, 2 A. ELMHAMDI,3 A. S. KORDI,3
+H. B. Li,1, 6 Z. Z. ABIDIN,4 and Z. J. Tian5
+1Yunnan Observatories, Chinese Academy of Sciences, Kunming 650216, China
+2Key Laboratory of Geospace Environment, Chinese Academy of Sciences, University of Science & Technology of
+China, Hefei 230026, China
+3Department of Physics and Astronomy, King Saud University, PO Box 2455, Riyadh 11451, Saudi Arabia
+4Radio Cosmology Lab, Department of Physics, Faculty of Science, University of Malaya, 50603 Kuala Lumpur,
+Malaysia.
+5Institute of Space Physics, Luoyang Normal University, Luoyang, China
+6University of Chinese Academy of Sciences, Beijing 100049, China
+(Accepted April 8, 2019)
+ABSTRACT
+In this paper, we report a detailed analysis of recurrent jets originated from a location
+with emerging, canceling and converging negative magnetic field at the east edge of
+NOAA active region AR11166 from 2011 March 09 to 10. The event presented several
+interesting features. First, a satellite sunspot appeared and collided with a pre-existing
+opposite polarity magnetic field and caused a recurrent solar jet event. Second, the
+evolution of the jets showed blowout-like nature and standard characteristics. Third,
+the satellite sunspot exhibited a motion toward southeast of AR11166 and merged with
+the emerging flux near the opposite polarity sunspot penumbra, which afterward, due to
+flux convergence and cancellation episodes, caused recurrent jets. Fourth, three of the
+blowout jets associated with coronal mass ejections (CMEs), were observed from field
+of view of the Solar Terrestrial Relations Observatory. Fifth, almost all the blowout
+jet eruptions were accompanied with flares or with more intense brightening in the jet
+base region, while almost standard jets did not manifest such obvious feature during
+eruptions. The most important, the blowout jets were inclined to faster and larger scale
+than the standard jets. The standard jets instead were inclined to relative longer-lasting.
+The obvious shearing and twisting motions of the magnetic field may be interpreted
+as due to the shearing and twisting motions for a blowout jet eruption. From the
+statistical results, about 30% blowout jets directly developed into CMEs. It suggests
+that the blowout jets and CMEs should have a tight relationship.
+Keywords: Sun: activity — Sun: activity — Sun: — flares — Sun: magnetic fields —
+Sun: coronal mass ejections (CMEs)
+Corresponding author: Yuhu Miao
+myh@ynao.ac.cn
+2 Miao et al.
+1. INTRODUCTION
+Solar jet activities are very common phenomena associated with magnetic flux emergence and can-
+cellation. They are observed both in cool and hot plasma ejections from the photosphere to the outer
+corona in the solar atmosphere. Until to-date, many kinds of jet activities have been observed in dif-
+ferent spectral lines, such as Hα surges (Roy 1973; Liu & Kurokawa 2004; Jiang et al. 2007), extreme
+ultraviolet (EUV) (Shen et al. 2012; Li et al. 2015; Liu et al. 2015; Shen et al. 2011; Nistico` et al.
+2015; Kumar et al. 2017; Zhu et al. 2017; Tian et al. 2017, 2018) and X-ray jets (Shibata et al.
+1992; Vasheghani Farahani et al. 2009; Moore et al. 2010, 2013; Pucci et al. 2013; Sterling et al. 2015;
+Moore et al. 2018). Many researches indicated that most solar jets result from magnetic reconnection
+in the low solar atmosphere (Shibata et al. 1992, 1994; Canfield et al. 1996; Shimojo et al. 1996, 1998;
+Liu & Zhang 2002; Jiang et al. 2007; Shen et al. 2011; Hong et al. 2011; Shen et al. 2014; Li et al.
+2015; Liu et al. 2015; Sterling et al. 2015; Li et al. 2015; Xu et al. 2016; Hong et al. 2017; Shen et al.
+2017, 2012; Adams et al. 2014; Schmieder et al. 2015; Yang et al. 2016; Tian et al. 2018; Li et al.
+2019; Panesar et al. 2018; Cheng et al. 2018). In the past few decades, numerous characteristics of
+the solar jets were found and summarized. According to Shimojo et al. (1996, 1998), the authors
+found that jets have the following features: 1) the general length is in the range of a few × 104
+to 4× 105 km and the width is 5×103 to 105 km; 2) the lifetimes range from few minutes to more
+than ten hours; 3) the velocities are 10 km s−1 to 1000 km s−1, and the average velocity is about
+200 km s−1; 4) 72% of them happened at the mixed polarity regions. Liu et al. (2005b) reported a
+detailed analysis of the relationship between jet and jet-like CME. The authors indicated that a large
+scale jet probably can produced a jet-like CME.
+By examining many X-ray jets, Moore et al. (2010) divided them into two types: one is standard
+jet and one is non-standard jet, which is called blowout jet. In the classification, about two thirds of
+them are standard type and about one third of them are blowout type. The authors also indicated
+that a blowout jet has enough free energy to drive an ejective eruption, because the blowout jet
+has strongly shear or twist in the field core of the arch. But, according to Moore et al. (2013),
+the authors presented 54 polar X-ray jets. There were 32 blowout jets, 19 standard jets and 3
+ambiguous jets, respectively. The number of the blowout jets has about twice as many as standard
+jets. However, according to Moore et al. (2010), the number of the standard jets twice over the
+blowout jets. Combining the two samples, the authors indicated that the percentage of the blowout
+jets and standard jets is closer to 50%-50%. Some researches argued that jets could result in coronal
+mass ejections (CMEs; Wang et al. 1998; Moore et al. 2001; Liu et al. 2005a; Moore & Sterling 2006;
+Liu 2008; Shen et al. 2012; Liu et al. 2015; Shen et al. 2017; Sterling 2018; Tiwari et al. 2018) and
+the erupting plasmoid can be observed in the corona (Moore & Sterling 2007; Liu 2008). Moore et al.
+(2010) also constructed a model to interpret the blowout jet. Blowout jets have tight association with
+small filament eruptions (Moore et al. 2010; Shen et al. 2012; Miao et al. 2018), and they usually
+accompany with flares during the eruptions. In the last few years, jet eruptions were reported
+to be associated with CMEs by Liu et al. (2011), Shen et al. (2012), Liu et al. (2015), Miao et al.
+(2018) based on the high spatial and temporal resolution of the Solar Dynamics Observatory (SDO;
+Pesnell et al. 2012).
+Recurrent jets appear to often occurred in mixed polarity regions (Chen et al. 2015; Liu et al.
+2016). Magnetic reconnection is supposed to play a major role in the triggering mechanism of
+the jets (Shibata et al. 1994). Magnetic flux emergences, convergences and cancellations are the
+3important features in recurrent jet eruptions, that habitually appear near the pre-existing abient
+magnetic field (Jiang et al. 2007; Sterling et al. 2018). In addition, many observational facts sug-
+gested that some jet activities can directly or indirectly result in large-scale magnetic reconfigura-
+tions such as filament, loop eruptions (e.g., Jiang et al. 2008; Wang et al. 2016; Zheng et al. 2016;
+Miao et al. 2018; Shen et al. 2018c), CMEs, and EUV waves (Zheng et al. 2012, 2013; Su et al. 2015;
+Patsourakos & Vourlidas 2009; Yang et al. 2017; Shen et al. 2018a,b; Miao et al. 2019). It should be
+noted that Shen et al. (2012); Miao et al. (2018) presented a blowout jet eruption associated with
+simultaneous double-CME event. Blowout jet eruptions are considered as a a very important so-
+lar phenomenon and usually generate narrow and bubble-like CMEs (Liu 2008; Shen et al. 2012;
+Zheng et al. 2013; Archontis & Hood 2013; Chen et al. 2015; Chandra et al. 2017; Miao et al. 2018).
+According to Yashiro et al. (2003) and Vourlidas et al. (2013), a CME with angular width ≤ 20◦ is
+dubbed narrow CME.
+In the present work we report an event occurred from 2011 March 09 11:00 UT to March 10 09:00
+UT at the east periphery region of AR11166 close to the solar disk center. The series jets included
+both blowout-like and standard jets. Three CMEs were produced by the counterpart of the three
+blowout jets. The paper is organized as follows. In Section 2, the reduction of the instruments and
+data. In Section 3, the results are briefly listed. In the last section, the conclusions and discussions
+are presented.
+2. INSTRUMENTS AND DATA SETS
+The recurrent jets were observed by the Atmospheric Imaging Assembly (AIA; Lemen et al. 2012)
+on board the SDO captures full-disk images of the Sun up to 1.3R⊙ in seven EUV channels and
+three UV-visible channels, whose temporal cadences are 12 s and 24 s, respectively, with a resolution
+of 0′′.6 pixel−1. Six EUV wavelength channels: 94, 131, 171, 193, 211 and 335 A˚ wavelengths are
+due to strong iron lines with temperature range from 0.6 MK to 16 MK. The 304 A˚ wavelength
+is due to He II line. In this paper, only 304 and 171 A˚ images are used to detect the jets. The
+line-of-sight (LOS) magnetograms and continuum intensity images were taken by the Helioseismic
+and Magnetic Imager (HMI; Scherrer et al. 2012) on board the SDO, whose temporal and spatial
+resolutions are 45 s and 0′′.5, respectively. The Space-weather HMI Active Region Patches (SHARPs;
+Bobra et al. 2014) are also used for displaying the vector magnetic field evolution. The jets were also
+observed by the Extreme Ultraviolet Imager (EUVI; Howard et al. 2008) of the Sun Earth Connection
+Coronal and Heliospheric Investigation (SECCHI; Howard et al. 2008) on board the Solar TErrestrial
+Relations Observatory (STEREO; Kaiser et al. 2008) providing full-disk He ii 304 A˚ images, with a
+5 and 10 minute cadences and a pixel width of 1′′.6. The three CMEs were captured by the inner
+coronagraphs (COR1) and the outer coronagraphs (COR2) on board the STEREO/Ahead (STA)
+and STEREO/Behind (STB), whose cadences and field of views (FOVs) are 5 minutes, 1.4–4R⊙ and
+2.5–15.6R⊙ (Thompson et al. 2003), respectively.
+3. OBSERVATIONS AND DATA ANALYSIS
+In defining and recognizing standard/blowout jets, Moore et al. (2010, 2013, 2015, 2018) assumed
+a relatively simple magnetic structure, with a single bipole embedded in a background unipolar
+magnetic field. Based on that, they defined “standard” and “blowout” jets based (in part) on the
+width of the spire compared to the size of the jet’s bipolar base, and based on observations in
+Hinode/XRT X-rays and AIA EUV images. Their setup was representative of the magnetic situation
+4 Miao et al.
+for jets in coronal holes. The magnetic field at the base of our active region jets is much more
+complicated than the simplified situation of Moore et al.. Therefore we cannot define our jets as
+blowout or standard jets in exactly the same way that Moore et al. did. But, by looking at AIA
+EUV movies of the jets of our region, we found many of them to tend to have relatively narrow
+spires compared to the width of the negative patch shown in Figure 5(b), and others of them to
+have spires that grew to be comparable in width to that patch. Based on this, we classified the
+relatively-narrow-spire jets as standard jets, and the relatively-broad-spire jets as blowout jets. We
+expect that our so-determined standard and blowout jets fit closely with the categories defined by
+Moore et al..
+Table 1 lists the blowout-like and standard jets from 2011 March 09 to 2011 March 10. The
+table includes thirty-seven jets. Many of them are standard jets (about 73% of the total statistical
+data), while the remaining events are blowout-like. The jets are observed through 171 and 304 A˚
+wavelengths of the SDO/AIA in the study. The first column in the table displays the number of
+the jet events. The second and the third columns in the table show the detection time of the jets.
+The fourth column displays the flares associated with the jet eruptions. The fifth column reports
+the CMEs velocities from both COR2-A and COR2-B. The sixth column presents the speeds of the
+jets and the seventh column shows the duration time during the rise phase of the jets. The eighth
+column displays the lengths of the jets. We use the 1′′ ≈ 720 kma. The ninth column shows the
+types of the jets. The “ST” and “BL” denote the standard jet and the blowout jet, respectively.
+The characteristics of the standard jet and blowout jet present several differences (Moore et al. 2010;
+Liu et al. 2011; Shen et al. 2012; Moore et al. 2013; Pucci et al. 2013; Sterling et al. 2016; Liu et al.
+2016). A movie highlighting all the jet eruptions, made using 171 and 304 A˚ images (video1.mpeg)
+is given with the online accompanying material. It should be noted that some very small jets are
+excluded because they appear to be too blurred to be distinguished. The data at the beginning of
+the jet J11 is little blurred probably due to a little shake of the SDO.
+Table 2 lists the details of the three CME events, observed by STEREO/COR2-A and COR2-B.
+The three CMEs were detected on March 09 18:24 UT, 23:54 UT and March 10 07:54 UT from COR2-
+A, respectively. On 2011 March 09 and 10, the separation angle between STEREO/Ahead (STA)
+and STEREO/Behind (STB) were about 177◦, while that between STA (STB) and SDO was about
+88◦ (95◦). Worth to note that STEREO/COR2-B data did not observe the third CME, while the
+STEREO/COR1-B captured it (see Figure 7(b3)). In the table, we focus on the COR2-A observed
+results and list the COR2-B data only for reference. The CME events in Table 2 can be found on the
+page SECCHI-A and -B CME Lists1 from STEREO. The seventh column displays the angular width
+of the three CMEs. According to Table 2, two CMEs angular widths are ≤ 20◦. The two CMEs can
+be hence called narrow CMEs and they were triggered by the counterpart two blowout jet eruptions.
+Actually, all of the three CMEs were triggered by blowout jets. Interestingly, Miao et al. (2018)
+presented a double-CME event associated with the jet J15. The authors displayed a simultaneous
+jet-like CME and bubble-like CME eruption that was triggered by the jet J15 eruption. Hence strictly
+speaking, we observe four CMEs, three are jet-like CMEs and a one bubble-like CME. According to
+the CME angular width, the CMEs can be classified as three narrow CMEs and a bubble-like CME.
+1 https://secchi.nrl.navy.mil/cactus/
+5Figure 1 shows the speeds of the blowout and the standard jets. The red “∗” symbol represents
+the speeds of the standard jets and the green “∗” symbol represents the speeds of the blowout jets’,
+respectively. Combing with Table 1 and Figure 1, the blowout jets are faster and larger than the
+standard jets. According Moore et al. (2010), a blowout jet is more intense than a standard jet during
+the eruption stage. It should be noted that the three CMEs are triggered by the blowout jets. On
+the one hand, this might explain why the blowout jet is actually more intense. On the other hand,
+the blowout jet eruption tends to release large amounts of energy.
+Interestingly, a satellite sunspot appeared near the main sunspot penumbra at about 11:30 UT. In
+Figure 2 panel (b), at about 12:00 UT, the satellite sunspot was easily distinguishable at the east
+edge of AR11166. Panel (a) shows the HMI LOS magnetic field of the small sunspot near the main
+pre-existing sunspot. Panels (c) and (d) illustrate the first jet using the SDO/AIA 171 and 304 A˚,
+respectively. “J1” is the first jet in Table 1. After 14:00 UT, the satellite sunspot was moving toward
+the southeast of the edge of AR11166 with a very slow velocity. We measure the velocity of the
+satellite sunspot to be about 0.4 km s−1 (see the top row of Figure 3). Panels (a) to (d) of Figure
+3 show the satellite sunspot evolution. Panels (e) to (h) of Figure 3 display the LOS magnetic field
+evolution from March 09 12:00 UT to March 10 00:00 UT. Later on, the magnetic field of the jet
+base gets more and more complex and the negative magnetic field became more intense. In order
+to display the satellite sunspot and the counterpart of magnetic field evolutions, we provide a movie
+(video2.mpeg; in the online journal), constructed using HMI continuum intensity images and LOS
+magnetograms.
+Five jets are displayed in Figure 4. Panels (a) to (e) in the first column correspond to HMI LOS
+magnetograms highlighting evolution of the jet base region magnetic flux. Panels (f) to (j) in the
+second column are HMI continuum intensity images displaying the evolution of the satellite sunspot.
+The third and fourth columns are 171 and 304 A˚ images for the five jets. They counterpart with the
+magnetic flux evolution of the jet base region, which we report in the first and second columns. the
+other jets can be recognized in the online animation material: video1.mpeg. From the first and the
+second columns, the magnetic field evolution is very clear. Worth to mention here that we mainly
+focus on the negative flux evolution, because the pre-existing sunspot is too big to accurately measure
+the positive flux evolution.
+In order to inspect the negative flux evolution of the jet base region, we measure data from March
+09 11:00:30 UT to March 10 10:00:30 UT. The results are displayed in Figure 5. Panel (a) shows
+AR11166 with the box indicating the jet base region. The box region is shown in panel (b) of Figure
+5. Panel (c) presents the evolution of the negative flux at jet base region. It is so important to
+pay more attention to the negative flux region. The positive flux region is too large and complex
+which impedes a precise quantification of the positive flux. The result suggests that the negative
+flux shows manifests both emergence and cancellation episodes during the whole stage. The overall
+trend indicates emergence to be more intense and faster than cancellation. It should be noted that
+the cancellation is undergoing on both the north and south sides of the negative patch, which near
+the pre-existing positive polarity. Actually, the jets come from both of these locations. Sterling et al.
+(2017) indicated that eruptions of strong jets occur only during times of intense flux cancellation.
+Our observations are consistent with this, because our jets come from the two locations where we see
+cancellation.
+6 Miao et al.
+According to Yang et al. (2013) and Chen et al. (2015), the jets are usually produced by the mag-
+netic reconnection or cancellation. In order to understand the evolution of the satellite sunspot
+and magnetic field, we analyze vector magnetograms around the jet region. In Figure 6, the roman
+numerals “I”, “II”, “III”, represent the satellite sunspot flux region, emergence flux region and the
+whole of the jet base region, respectively. To distinctly scrutinize the vector magnetic flux evolution,
+we present a movie (video3.mpeg) of the evolution of the magnetic field of the jet base region. From
+video3.mpeg, we could easily observe the evolution of the vector magnetic flux in the jet base region.
+The satellite sunspot moved towards the southeast of the pre-existing sunspot and merged with the
+emergence flux from March 09 to March 10. The video3.mpeg also displays characteristics of strong
+twisting motion and shearing motion of the magnetic field at the jet base region.
+During the time interval March 09 11:00 UT to March 10 08:00 UT, there were three large scale
+CMEs produced by blowout jet eruption. The details of the three CMEs are listed in Table 1 and
+Table 2, which are observed from the STEREO/COR2. In Figure 7 we display the three CMEs.
+Snapshots are 304 A˚ and running difference COR1 images at the limb as viewed from STEREO
+Ahead and Behind.
+Figure 7 reports the composite EUVI 304 A˚ and COR1 images. The structures of the three CMEs
+can be clearly seen. Panels (a1), (b1) show the first CME at about 17:40 UT. Panels (a2), (b2)
+display the second CME, which is a double-CME event (see Miao et al. (2018) for more details).
+Panels (a3), (b3) present the third CME. The three CMEs have a common characteristic namely
+being triggered by the blowout jets.
+4. CONCLUSIONS AND DISCUSSIONS
+The solar recurrent jets occurring from 2011 Mach 09 12:00 UT to 2011 March 10 08:00 UT have
+been investigated in the present work. The jets can be classified into two types, namely, blowout jet
+and standard jet. We mainly focus on the recurrent jets and three CMEs associated with blowout
+jets. The main observational results can be summarized as follows.
+1. The recurrent jet eruption associated with a newly formed satellite sunspot, together with a
+negative flux appeared in the penumbra of the main sunspot at about 11:30 UT on March 09. After
+14:00 UT, the penumbra southeast of AR11166, presents a scenario whereby the negative pole of an
+emerging-flux element is growing in a sea of positive polarity. We measure the speed of the small
+satellite sunspot to be 0.4 km s−1.
+2. During the whole process, ten blowout jets and twenty-seven standard jets were observed. About
+27% are the blowout jets while 73% belong to standard jets.
+3. All the blowout jet velocities are found to be larger than those of standard jets. We report the
+velocity results in Table 1. Compared to standard jets, blowout jets are generally brighter and more
+explosive in EUV, suggesting that they are undergoing intense magnetic reconnection. This may
+suggest that the blowout jet releases more energy than standard jets.
+4. The eruption processes of magnetic cancellation and emergence are clearly identified and re-
+ported. From the video2.mpeg and the video3.mpeg, we can evidently recognize the magnetic field
+evolution at the the jet base region. Many new small emerging fluxes collided and converged during
+the whole stage. Especially, the obvious shearing and twisting motions of the magnetic field are prob-
+ably interpreted as indication of the shearing and twisting motions for blowout jet eruptions. When
+a blowout jet erupted, the shearing and twisting motions of the magnetic field (see the video2.mpeg
+and video3.mpeg) appear more intense than a standard jet.
+7Table 1. Date and time for the observed jets, and their measured parameters.
+Jets:
+Jet No. Date Time Flare CME Speed Jet Speed Jet Rise Dur. Jet Lengtha Type
+(UT) class (km s−1) (km s−1) (± 1 min) (± 1500 km) ST or BLb
+J1 09-Mar-11 11:59:08 · · · · · · 92 13 72000 ST
+J2 09-Mar-11 12:07:32 · · · · · · 55 13 43200 ST
+J3 09-Mar-11 12:45:56 · · · · · · 40 15 36000 ST
+J4 09-Mar-11 13:40:32 · · · · · · 39 20 46700 ST
+J5 09-Mar-11 14:05:08 · · · · · · 44 15 39600 ST
+J6 09-Mar-11 14:15:20 · · · · · · 72 10 43200 ST
+J7 09-Mar-11 14:30:20 · · · · · · 42 17 43200 ST
+J8 09-Mar-11 15:27:20 · · · · · · 50 18 50400 ST
+J9 09-Mar-11 16:55:32 · · · 256c , 126d 156 23 216000 BL
+J10 09-Mar-11 19:00:20 · · · · · · 120 15 108000 ST
+J11 09-Mar-11 19:15:53 · · · · · · 184 13 144000 BL
+J12 09-Mar-11 19:50:08 · · · · · · 135 16 129600 ST
+J13 09-Mar-11 20:37:32 · · · · · · 70 26 108000 ST
+J14 09-Mar-11 21:05:08 · · · · · · 200 18 216000 BL
+J15 09-Mar-11 22:05:08 C9.4e 337f , 143g 350h 25 435000 BL
+J16 09-Mar-11 23:48:20 · · · · · · 100 12 72000 ST
+J17 10-Mar-11 00:28:32 · · · · · · 145 12 104400 ST
+J18 10-Mar-11 01:00:20 · · · · · · 120 15 108000 ST
+J19 10-Mar-11 01:30:20 · · · · · · 138 10 108000 ST
+J20 10-Mar-11 01:40:32 · · · · · · 140 9 75600 ST
+J21 10-Mar-11 01:49:32 · · · · · · 175 12 126000 BL
+J22 10-Mar-11 02:51:20 · · · · · · 135 12 97200 ST
+J23 10-Mar-11 02:53:08 · · · · · · 133 11 72000 ST
+J24 10-Mar-11 03:06:56 · · · · · · 193 13 151200 BL
+J25 10-Mar-11 03:30:20 · · · · · · 92 13 72000 ST
+J26 10-Mar-11 03:45:20 · · · · · · 120 10 72000 ST
+J27 10-Mar-11 04:05:08 C2.9i - 165 12 118000 BL
+J28 10-Mar-11 04:23:08 · · · · · · 129 15 116000 ST
+J29 10-Mar-11 04:43:32 · · · · · · 129 15 116000 ST
+J30 10-Mar-11 04:50:08 · · · · · · 150 10 90000 ST
+J31 10-Mar-11 05:41:08 · · · · · · 96 10 57600 ST
+J32 10-Mar-11 06:08:08 · · · · · · 125 13 97200 ST
+J33 10-Mar-11 06:19:32 · · · · · · 150 12 108000 ST
+J34 10-Mar-11 06:30:56 · · · · · · 135 8 64800 ST
+J35 10-Mar-11 06:41:08 · · · 263j 158 19 180000 BL
+J36 10-Mar-11 07:53:08 · · · · · · 168 5 50400 BL
+J37 10-Mar-11 07:59:08 · · · · · · 168 5 50400 BL
+aWe use the 1 arcsec ≈ 720km
+bBL means Blowout and ST means Standard, respectively.
+chttps://secchi.nrl.navy.mil/cactus/index.php?p=SECCHI-A/2011/03/out/Flow0005/CME.html
+dhttps://secchi.nrl.navy.mil/cactus/index.php?p=SECCHI-B/2011/03/out/Flow0009/CME.html
+ehttps://www.solarmonitor.org/?date=20110309
+fhttps://secchi.nrl.navy.mil/cactus/index.php?p=SECCHI-A/2011/03/out/CME0032/CME.html
+ghttps://secchi.nrl.navy.mil/cactus/index.php?p=SECCHI-B/2011/03/out/CME0030/CME.html
+hSee the velocity in the paper Miao et al. (2018)
+ihttps://www.solarmonitor.org/?date=20110310
+jhttps://secchi.nrl.navy.mil/cactus/index.php?p=SECCHI-A/2011/03/out/CME0034/CME.html
+5. The three CMEs were produced by the corresponding blowout jet eruptions. All of the jets are
+displayed in Table 1, where the jet J15 has the largest scale. This blowout jet led to a double-CME
+event (Miao et al. 2018). Blowout jets were easily observed in the region of the recurrent jets, with
+distinct complex magnetic field and mixed polarities. From the statistical results, about 30% blowout
+jets directly developed into CMEs. Due to the low resolution of the STEREO, we consider that is
+probably more than 30% blowout jets can directly developed into CMEs. The forecast requires of
+course more statistical data to be confirmed in the future.
+8 Miao et al.
+Table 2. Date and time for the observed jets, and their measured parameters.
+CME-producing Jets:
+Jet No. CME No. Date Time Flare CME Speed CME Angular CME Rise Dur. Jet Type
+STEREO/COR2-A (UT) Class (km s−1) Width (◦) (hour)
+J9 cme1ac 09-Mar-11 18:24 · · · 256 20 01 BL
+J15 cme2af 09-Mar-11 23:54 C9.4e 337 44 03 BL
+J35 cme3aj 10-Mar-11 07:54 · · · 263 14 01 BL
+Jet No. CME No. Date Time Flare CME Speed CME Angular CME Rise Dur. Jet Type
+STEREO/COR2-B (UT) Class (km s−1) Width (◦) (hour)
+J9 cme1bd 09-Mar-11 18:24 · · · 126 16 00 BL
+J15 cme2bg 09-Mar-11 23:24 C9.4e 143 24 01 BL
+J35 · · · 10-Mar-11 · · · · · · · · · · · · · · · BL
+In Table 1, ten blowout jet eruptions and twenty-seven standard jet eruptions were observed from
+2011 March 09 to March 10. According to Moore et al. (2010), the authors observed the interior
+base arch brightened with the production of the blowout jet. They thought that in blowout jet the
+interior of the base arch takes part in the eruption. According to the video1.mpeg, all of the blowout
+jets brightened in the interior of the base arch with the blowout jet eruptions. The brightening in
+the interior of the base arch becomes more extensive. In Table 1 and Table 2, two large blowout jet
+eruptions are associated with C class flares.
+The magnetic emergence and cancellation both play an important role in this jet activities. There
+are few events associated with a new sunspot triggering the recurrent jet events. Interestingly, the
+new satellite sunspot appears to move toward the emergence region in the southeast of the main
+sunspot. The satellite sunspot had negative flux as the same emergence flux. At about 21:00 UT on
+March 09, the satellite sunspot and the emergence flux converged together. From Figure 6, during
+the evolution of the vector magnetic, the jet base region had intense cancellation (see video2.mpeg;
+material online). It suggests that the jet base region embodies very intense flux emergence feature.
+The negative flux evolution indicates that the emergence, cancellation and convergence co-exist at the
+same time. Through all the study stage, the emergence appears more intense than the cancellation.
+According to Moore et al. (2010); Wang & Liu (2010); Chen et al. (2015), the eruption of blowout
+jet requires a large amount of energy. From the video1.mpeg and Table 1, we can see that the
+blowout jet eruptions accompany the brightening in the jet base region at the beginning. The
+jet J15 eruption accompanied with the C9.4 flare was observed at about 22:05 UT. In Table 1,
+the scale of most of blowout jets are larger than standard jets and the velocities are faster than
+standard jets (Pucci et al. 2013). The results indicate that a blowout jet eruption need more
+energy than a standard jet. Liu et al. (2016); Pucci et al. (2013) reported that during the
+magnetic reconnection of blowout jet more free energy should be released compared to standard jets.
+It suggested that the scale of a blowout jet should be usually larger than a standard jet. According
+to Figure 6 and video3.mpeg, magnetic emergence and cancellation were clearly very intense. We
+believe that cancellation has provide enough amount of energy to keep the recurrent jet eruptions.
+Even some blowout jet eruptions can produce CMEs, such as jet J9, J15 and J35 in the listed in Table
+1 and Table 2. Liu (2008) has studied the relationship between surges and CMEs. Due to the low
+cadence of the data in Liu (2008), we considered that the jet-like surges probably are blowout jets.
+The narrow CMEs were formed directly from the blowout jet eruptions. In addition and according
+to Liu (2008); Moore et al. (2010) and Table 1, 2, The statistical results support that the blowout
+9jets and CMEs have a tight relationship. Our results therefore might suggest that a blowout jet has
+larger scale and needs more free magnetic reconnection energy than a standard jet. More similar
+observational investigations will be reported to confirm and support our present findings in the future.
+In this paper, we reported the finding of thirty-seven jets and three CMEs as displayed in Table 1
+and Table 2. Our study suggests that the blowout or blowout-like jets are larger and faster than the
+standard jets. Another intriguing result indicates that the blowout type eruptions can more easily
+trigger CMEs than standard type. The blowout jet eruptions tend to be accompanied with more
+intense flares or brightenings. We believe many new characteristics can be reported from recurrent
+jet eruptions in the future, which may aide to promote hence the development of new physical aspects
+of these interesting events.
+We are grateful to the SDO and STEREO teams for the excellent data they provided. We also
+thank the referee for valuable suggestions and comments that improved the quality of this paper.
+This work is funded by the grants from the Strategic Priority Research Program of CAS with grant
+XDA-17040507, the National Scientific Foundation of China (NSFC 11533009, 11773068) and from
+the Key Laboratory of Geospace Environment, CAS, University of Science and Technology of China.
+This work is also supported by the grant associated with project of the Group for Innovation of
+Yunnan Province. The authors Y. Liu and Z.Z. Abidin would like to thank the University of Malaya
+Faculty of Science grant (GPF040B-2018) for their support. The authors extend their appreciation to
+the Deanship of Scientific Research at King Saud University for funding this work through research
+group No. (RG-1440-092). In addition, we are also grateful to the One Belt and One Road project
+of the West Light Foundation, CAS.
+REFERENCES
+Adams, M., Sterling, A. C., & Moore, R. L. 2014,
+in AGU Fall Meeting Abstracts, Vol. 2014,
+SH51C–4178
+Archontis, V., & Hood, A. W. 2013, ApJ, 769, L21
+Bobra, M. G., Sun, X., Hoeksema, J. T., et al.
+2014, SoPh, 289, 3549
+Canfield, R. C., Reardon, K. P., Leka, K. D., et al.
+1996, ApJ, 464, 1016
+Chandra, R., Mandrini, C. H., Schmieder, B.,
+et al. 2017, A&A, 598, A41
+Chen, J., Su, J., Yin, Z., et al. 2015, ApJ, 815, 71
+Cheng, X., Li, Y., Wan, L. F., et al. 2018, ApJ,
+866, 64
+Hong, J., Jiang, Y., Yang, J., Li, H., & Xu, Z.
+2017, ApJ, 835, 35
+Hong, J., Jiang, Y., Zheng, R., et al. 2011, ApJL,
+738, L20
+Howard, R. A., Moses, J. D., Vourlidas, A., et al.
+2008, SSRv, 136, 67
+Jiang, Y., Shen, Y., Yi, B., Yang, J., & Wang, J.
+2008, ApJ, 677, 699
+Jiang, Y. C., Chen, H. D., Li, K. J., Shen, Y. D.,
+& Yang, L. H. 2007, A&A, 469, 331
+Kaiser, M. L., Kucera, T. A., Davila, J. M., et al.
+2008, SSRv, 136, 5
+Kumar, P., Nakariakov, V. M., & Cho, K.-S. 2017,
+ApJ, 836, 121
+Lemen, J. R., Title, A. M., Akin, D. J., et al.
+2012, SoPh, 275, 17
+Li, X., Yang, S., Chen, H., Li, T., & Zhang, J.
+2015, ApJL, 814, L13
+Li, X., Zhang, J., Yang, S., & Hou, Y. 2019,
+PASJ, 71, 14
+Liu, C., Deng, N., Liu, R., et al. 2011, ApJL, 735,
+L18
+Liu, J., Wang, Y., Shen, C., et al. 2015, ApJ, 813,
+115
+Liu, J., Wang, Y., Erde´lyi, R., et al. 2016, ApJ,
+833, 150
+Liu, Y. 2008, SoPh, 249, 75
+Liu, Y., & Kurokawa, H. 2004, ApJ, 610, 1136
+10 Miao et al.
+Liu, Y., Kurokawa, H., Kitai, R., Ueno, S., & Su,
+J. T. 2005a, SoPh, 228, 149
+Liu, Y., Su, J. T., Morimoto, T., Kurokawa, H., &
+Shibata, K. 2005b, ApJ, 628, 1056
+Liu, Y., & Zhang, H. Q. 2002, A&A, 386, 646
+Miao, Y., Liu, Y., Li, H. B., et al. 2018, ApJ, 869,
+39
+Miao, Y. H., Liu, Y., Shen, Y. D., et al. 2019,
+ApJ, 871, L2
+Moore, R. L., Cirtain, J. W., Sterling, A. C., &
+Falconer, D. A. 2010, ApJ, 720, 757
+Moore, R. L., & Sterling, A. C. 2006, in Bulletin
+of the American Astronomical Society, Vol. 38,
+AAS/Solar Physics Division Meeting #37, 247
+Moore, R. L., & Sterling, A. C. 2007, ApJ, 661,
+543
+Moore, R. L., Sterling, A. C., & Falconer, D. A.
+2015, ApJ, 806, 11
+Moore, R. L., Sterling, A. C., Falconer, D. A., &
+Robe, D. 2013, ApJ, 769, 134
+Moore, R. L., Sterling, A. C., Hudson, H. S., &
+Lemen, J. R. 2001, ApJ, 552, 833
+Moore, R. L., Sterling, A. C., & Panesar, N. K.
+2018, ApJ, 859, 3
+Nistico`, G., Zimbardo, G., Patsourakos, S.,
+Bothmer, V., & Nakariakov, V. M. 2015, A&A,
+583, A127
+Panesar, N. K., Sterling, A. C., Moore, R. L.,
+et al. 2018, ApJ, 868, L27
+Patsourakos, S., & Vourlidas, A. 2009, ApJL, 700,
+L182
+Pesnell, W. D., Thompson, B. J., & Chamberlin,
+P. C. 2012, SoPh, 275, 3
+Pucci, S., Poletto, G., Sterling, A. C., & Romoli,
+M. 2013, ApJ, 776, 16
+Roy, J. R. 1973, SoPh, 28, 95
+Scherrer, P. H., Schou, J., Bush, R. I., et al. 2012,
+SoPh, 275, 207
+Schmieder, B., Aulanier, G., & Vrsˇnak, B. 2015,
+SoPh, 290, 3457
+Shen, Y., Ichimoto, K., Ishii, T. T., et al. 2014,
+ApJ, 786, 151
+Shen, Y., Liu, Y., Liu, Y. D., et al. 2018a, ApJ,
+861, 105
+Shen, Y., Liu, Y., Su, J., & Deng, Y. 2012, ApJ,
+745, 164
+Shen, Y., Liu, Y., Su, J., & Ibrahim, A. 2011,
+ApJL, 735, L43
+Shen, Y., Liu, Y. D., Su, J., Qu, Z., & Tian, Z.
+2017, ApJ, 851, 67
+Shen, Y., Tang, Z., Li, H., & Liu, Y. 2018b,
+MNRAS, 480, L63
+Shen, Y., Tang, Z., Miao, Y., Su, J., & Liu, Y.
+2018c, ApJL, 860, L8
+Shibata, K., Nitta, N., Strong, K. T., et al. 1994,
+ApJL, 431, L51
+Shibata, K., Ishido, Y., Acton, L. W., et al. 1992,
+PASJ, 44, L173
+Shimojo, M., Hashimoto, S., Shibata, K., et al.
+1996, PASJ, 48, 123
+Shimojo, M., Shibata, K., & Harvey, K. L. 1998,
+SoPh, 178, 379
+Sterling, A. C. 2018, in Journal of Physics
+Conference Series, Vol. 1100, Journal of Physics
+Conference Series, 012024
+Sterling, A. C., Moore, R. L., Falconer, D. A., &
+Adams, M. 2015, Nature, 523, 437
+Sterling, A. C., Moore, R. L., Falconer, D. A.,
+et al. 2016, ApJ, 821, 100
+Sterling, A. C., Moore, R. L., Falconer, D. A.,
+Panesar, N. K., & Martinez, F. 2017, ApJ, 844,
+28
+Sterling, A. C., Moore, R. L., & Panesar, N. K.
+2018, ApJ, 864, 68
+Su, W., Cheng, X., Ding, M. D., Chen, P. F., &
+Sun, J. Q. 2015, ApJ, 804, 88
+Thompson, W. T., Davila, J. M., Fisher, R. R.,
+et al. 2003, in Proc. SPIE, Vol. 4853, Innovative
+Telescopes and Instrumentation for Solar
+Astrophysics, ed. S. L. Keil & S. V. Avakyan,
+1–11
+Tian, Z., Liu, Y., Shen, Y., et al. 2017, ApJ, 845,
+94
+Tian, Z., Shen, Y., & Liu, Y. 2018, NewA, 65, 7
+Tiwari, S. K., Moore, R. L., De Pontieu, B., et al.
+2018, ApJ, 869, 147
+Vasheghani Farahani, S., Van Doorsselaere, T.,
+Verwichte, E., & Nakariakov, V. M. 2009, A&A,
+498, L29
+Vourlidas, A., Lynch, B. J., Howard, R. A., & Li,
+Y. 2013, SoPh, 284, 179
+Wang, H., & Liu, C. 2010, ApJL, 716, L195
+Wang, R., Liu, Y. D., Zimovets, I., et al. 2016,
+ApJL, 827, L12
+Wang, Y.-M., Sheeley, Jr., N. R., Socker, D. G.,
+et al. 1998, ApJ, 508, 899
+Xu, Z., Jiang, Y., Yang, J., Yang, B., & Bi, Y.
+2016, ApJL, 820, L21
+Yang, B., Jiang, Y., Yang, J., Yu, S., & Xu, Z.
+2016, ApJ, 816, 41
+11
+Yang, L., Yan, X., Li, T., Xue, Z., & Xiang, Y.
+2017, ApJ, 838, 131
+Yang, L., Zhang, J., Liu, W., Li, T., & Shen, Y.
+2013, ApJ, 775, 39
+Yashiro, S., Gopalswamy, N., Michalek, G., &
+Howard, R. A. 2003, Advances in Space
+Research, 32, 2631
+Zheng, R., Chen, Y., Du, G., & Li, C. 2016,
+ApJL, 819, L18
+Zheng, R., Jiang, Y., Yang, J., et al. 2013, ApJ,
+764, 70
+—. 2012, ApJL, 753, L29
+Zhu, X., Wang, H., Cheng, X., & Huang, C. 2017,
+ApJL, 844, L20
+12 Miao et al.
+Figure 1. The two type jets velocities evolutions. The red “∗” represents standard jets and the green “∗”
+represents blowout jets, respectively.
+13
+     
+ 
+250
+260
+270
+280
+290
+Y(
+arc
+se
+cs
+)
+09−Mar−2011  HMI_FRONT2  12:00:30 UT (a)
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+09−Mar−2011  AIA_3 171  12:00:48 UT (b)
+−40 −30 −20 −10 0
+X(arcsecs)
+250
+260
+270
+280
+290
+Y(
+arc
+se
+cs
+)
+09−Mar−2011  HMI_FRONT2  12:00:30 UT (c)
+ −30 −20 −10 0
+X(arcsecs)
+ 
+ 
+ 
+ 
+ 
+ 
+09−Mar−2011  AIA_4 304  12:00:56 UT (d)
+−100
+0
+100
+G
+au
+ss
+Figure 2. Panels (a) and (c) display the HMI magnetogram and HMI continuum intensity image, respec-
+tively. Panels (c), (b), and (d) show the contour levels ±100 G. The blue and green lines represent negative
+and positive flux,respectively. The red circles encompass regions highlighting the small sunspot in panel (a)
+and the corresponding magnetic field in panel (c). Panels (b) and (d) show the first jet (J1) at 171 A˚ and
+304 A˚, respectively.
+14 Miao et al.
+−40 −30 −20 −10 0 10
+X(arcsecs)
+220
+230
+240
+250
+260
+270
+280
+Y(
+arc
+se
+cs
+)
+(a)
+ 9−Mar−2011 12:00:30 UT
+−40 −30 −20 −10 0 10
+X (arcsecs)
+220
+230
+240
+250
+260
+270
+280
+Y 
+(ar
+cs
+ec
+s)
+(e)
+ 9−Mar−2011 12:00:30 UT
+(b)
+ 9−Mar−2011 16:00:29 UT
+(f)
+ 9−Mar−2011 16:00:29 UT
+(c)
+ 9−Mar−2011 20:00:29 UT
+(g)
+ 9−Mar−2011 20:00:29 UT
+(d)
+10−Mar−2011 00:00:29 UT
+(h)
+10−Mar−2011 00:00:29 UT
+0.4 km/s
+−500
+0
+500
+G
+au
+ss
+Figure 3. A set of SDO/HMI continuum intensity images displaying the satellite sunspot evolution and
+measured the moving average velocity to be about 0.4 km s−1 in the top row. The bottom row shows the
+magnetic field evolution using the SDO/HMI magnetograms. The green circle regions represent the small
+sunspot and the corresponding magnetic field in the two rows, respectively. The blue dotted lines highlight
+the satellite sunspot motion path (see video2.mpeg).
+15
+(a)  12:00:30 UT
+9−Mar−2011
+(b)  17:00:29 UT
+9−Mar−2011
+(c)  19:25:14 UT
+9−Mar−2011
+(d)  21:08:44 UT
+9−Mar−2011
+(e)  22:08:44 UT
+9−Mar−2011
+−60 −30 0 30
+X(arcsecs)
+220
+240
+260
+280
+300
+Y(
+arc
+se
+cs
+)
+(f)  12:00:30 UT
+9−Mar−2011
+(g)  17:00:29 UT
+9−Mar−2011
+(h)  19:25:14 UT
+9−Mar−2011
+(i)  21:08:44 UT
+9−Mar−2011
+(j)  22:08:44 UT
+9−Mar−2011
+(k)  12:00:48 UT
+9−Mar−20119−Mar−2011
+(l)  17:00:24 UT
+9−Mar−20119−Mar−2011
+(m)  19:25:12 UT
+9−Mar−20119−Mar−2011
+(n)  21:08:48 UT
+9−Mar−20119−Mar−2011
+(o)  22:08:48 UT
+9−Mar−20119−Mar−2011
+(p)  12:00:56 UT
+9−Mar−20119−Mar−2011
+(q)  17:00:20 UT
+9−Mar−20119−Mar−2011
+(r)  19:25:08 UT
+9−Mar−20119−Mar−2011
+(s)  21:08:58 UT
+9−Mar−20119−Mar−2011
+(t)  22:08:20 UT
+9−Mar−20119−Mar−2011
+−100 G
+0 G
+100 G
+Figure 4. The first column and the second column show the magnetic field and the satellite sunspot
+evolutions, respectively. The third and fourth column correspond to jet eruptions at 171 A˚ and 304 A˚. The
+five jets occurred on 09 March 2011. The more jets are shown in the online material (see video1.mpeg in
+the online journal).
+16 Miao et al.
+-50 0 50 100 150 200
+150
+200
+250
+300
+350
+X (arcsecs)
+Y 
+(ar
+cs
+ec
+s)
+SDO HMI  22:18:29 UT
+AR 11166(a) (b)
+60 65 70 75 80 85
+X (arcsecs)
+235
+240
+245
+250
+255
+11:00 14:00 17:00 20:00 23:00 02:00 05:00 08:00 10:00
+UT (since 11:00:30 UT March 09)
+5
+10
+15
+20
+25
+30
+N
+eg
+at
+ive
+ F
+lu
+x 
+(10
+19
+ 
+ 
+M
+x) (c)
+Figure 5. Panel (a) is one HMI LOS magnetogram, with panel (b) consists of a zoomed view of the region
+marked by a black box in panel (a), highlighting the position of the jet base negative flux. Panels (c) shows
+the box negative flux variation from 11:00 UT on March 09 to 10:00 UT on March 10.
+17
+ 9−Mar−2011 10:58:15.000 UT
+I
+II
+(a)
+−1500
+−1000
+−500
+0
+500
+1000
+1500
+G
+au
+ss
+ 9−Mar−2011 19:10:14.800 UT
+I
+IIIII
+(b)
+G
+au
+ss
+ 9−Mar−2011 22:10:14.900 UT
+I
+II
+III
+(c)
+G
+au
+ss
+10−Mar−2011 06:34:15.200 UT
+III
+(d)
+G
+au
+ss
+Figure 6. Panels (a)-(d) display the vector magnetic evolution. The Roman numerals “I” and “II” represent
+satellite sunspot magnetic field and magnetic emergence field, respectively. The “III” displays the mixed
+and convergence magnetic field region (see video3.mpeg).
+18 Miao et al.
+(a1)  17:40:00 UT
+09−Mar−2011  COR1−A
+(b1) 17:40:27 UT
+09−Mar−2011  COR1−B
+(a2)  22:45:00 UT
+09−Mar−2011  COR1−A
+(b2) 22:45:36 UT
+09−Mar−2011  COR1−B
+ 07:25:00 UT(a3)
+09−Mar−2011  COR1−A
+ 07:25:27 UT (b3)
+09−Mar−2011  COR1−B
+Figure 7. Composite of STEREO 304 A˚ and running difference COR1 Ahead and Behind images showing
+the three CMEs, which were triggered by J9, J15 and J35, respectively. Panels (a1), (b1) present the first
+CME event. Panels (a2), (b2) show the double-CME event from the FOVs of STEREO COR1 ahead and
+COR1 behind. The double-CME event has two simultaneous CMEs, namely, the jet-like CME and the
+bubble-like CME, marked with the white arrows. Panels (a3), (b3) display the third CME event.

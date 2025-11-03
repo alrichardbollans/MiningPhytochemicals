@@ -1,0 +1,2497 @@
+Astronomy & Astrophysics manuscript no. BowerEtAl2019Preprint_v3 c©ESO 2019
+November 11, 2019
+Linking the evolution of terrestrial interiors and an early outgassed
+atmosphere to astrophysical observations
+Dan J. Bower1, Daniel Kitzmann1, Aaron S. Wolf2, Patrick Sanan3, Caroline Dorn4, and Apurva V. Oza5
+1 Center for Space and Habitability, University of Bern, Gesellschaftsstrasse 6, 3012 Bern, Switzerland
+e-mail: daniel.bower@csh.unibe.ch
+2 Earth and Environmental Sciences, University of Michigan, 1100 North University Avenue, Ann Arbor, MI 48109-1005, USA
+3 Institute of Geophysics, ETH Zurich, Sonneggstrasse 5, 8092 Zurich, Switzerland
+4 University of Zurich, Institute of Computational Sciences, Winterthurerstrasse 190, 8057 Zurich, Switzerland
+5 Physics Institute, University of Bern, Sidlerstrasse 5, 3012 Bern, Switzerland
+Received April 16, 2019; accepted September 6, 2019
+ABSTRACT
+Context. A terrestrial planet is molten during formation and may remain molten due to intense insolation or tidal forces. Observations
+favour the detection and characterisation of hot planets, potentially with large outgassed atmospheres.
+Aims. We aim to determine the radius of hot Earth-like planets with large outgassing atmospheres. Our goal is to explore the differ-
+ences between molten and solid silicate planets on the mass–radius relationship and transmission and emission spectra.
+Methods. An interior–atmosphere model was combined with static structure calculations to track the evolving radius of a hot rocky
+planet that outgasses CO2 and H2O. We generated synthetic emission and transmission spectra for CO2 and H2O dominated atmo-
+spheres.
+Results. Atmospheres dominated by CO2 suppress the outgassing of H2O to a greater extent than previously realised since previous
+studies applied an erroneous relationship between volatile mass and partial pressure. We therefore predict that more H2O can be
+retained by the interior during the later stages of magma ocean crystallisation. Formation of a surface lid can tie the outgassing of
+H2O to the efficiency of heat transport through the lid, rather than the radiative timescale of the atmosphere. Contraction of the mantle,
+as it cools from molten to solid, reduces the radius by around 5%, which can partly be offset by the addition of a relatively light species
+(e.g. H2O versus CO2) to the atmosphere.
+Conclusions. A molten silicate mantle can increase the radius of a terrestrial planet by around 5% compared to its solid counterpart,
+or equivalently account for a 13% decrease in bulk density. An outgassing atmosphere can perturb the total radius, according to its
+composition, notably the abundance of light versus heavy volatile species. Atmospheres of terrestrial planets around M-stars that are
+dominated by CO2 or H2O can be distinguished by observing facilities with extended wavelength coverage (e.g. JWST).
+Key words. Planets and satellites: terrestrial planets – Planets and satellites: interiors – Planets and satellites: atmospheres – Planets
+and satellites: detection – Planets and satellites: physical evolution
+1. Introduction
+The detection of over 1000 rocky exoplanets has ushered in a
+new era of exoplanet characterisation, which is driven by the
+goal of identifying and characterising Earth-analogues or poten-
+tially habitable worlds. During planet formation, terrestrial plan-
+ets do not retain a significant primordial atmosphere from the
+nebula gas due to volatile loss during accretion (e.g. Schlichting
+& Mukhopadhyay 2018). Rather, they outgas volatiles from the
+interior to form so-called secondary atmospheres once the cir-
+cumstellar disk decays. This strong coupling between the rocky
+interior and atmosphere presents an opportunity to probe the
+connection between the state of the interior and atmospheric
+structure and composition. Current (TESS) and future (JWST,
+CHEOPS, PLATO) observatories will enhance our catalogue of
+rocky worlds through new discoveries and detailed characterisa-
+tion, particularly of atmospheres. These facilities demand a con-
+current advancement in modelling capabilities to extract max-
+imum insight from observational data, particularly in terms of
+the interplay between the interior, surface, and atmosphere.
+The earliest secondary atmosphere of a rocky planet origi-
+nates from extensive volatile release during one or more magma
+ocean epochs that occur during and after the assembly of the
+planet. Magma oceans form as a result of accretion, core-
+formation, radioactive decay of short-lived elements, and gi-
+ant impacts (e.g. Elkins-Tanton 2012). For example, the moon-
+forming impact melted at least two-thirds of Earth’s mantle
+(Nakajima & Stevenson 2015), producing a global magma ocean
+that subsequently cooled and crystallised. Magma oceans set the
+stage for the long-term evolution of terrestrial planets by estab-
+lishing the major chemical reservoirs of the iron core and silicate
+mantle, chemical stratification within the mantle, and outgassed
+atmosphere. Therefore, understanding the whole life-cycle of a
+terrestrial planet—from its magma ocean origins to potentially a
+mature state with a solid mantle—has fundamental implications
+Article number, page 1 of 19
+ar
+X
+iv
+:1
+90
+4.
+08
+30
+0v
+3 
+ [a
+str
+o-
+ph
+.E
+P]
+  7
+ N
+ov
+ 20
+19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+for the thermal and chemical evolution of terrestrial planets (e.g.
+Schaefer & Elkins-Tanton 2018).
+Although definitions in the literature can vary, the magma
+ocean stage is typically defined as the period during which the
+planetary mantle has a melt fraction above a critical value, usu-
+ally between 30% and 50%. This critical value reflects the melt
+fraction at which a partially molten mantle abruptly switches
+from a dynamic regime dominated by turbulent melt transport
+to the comparatively slow viscous creep of solid materials. The
+boundary between these two regimes is known as the ‘rheologi-
+cal transition’ or the ‘rheological front’ since it is strongly con-
+trolled by the phase and hence temperature dependency of vis-
+cosity (Solomatov 2000). For a magma ocean that crystallises
+from the bottom-up, this boundary moves upwards through the
+mantle from the core-mantle boundary to the surface as the
+planet cools.
+As inferred from solar system samples, the building blocks
+of a rocky planet can contain several hundred ppm by mass of
+volatiles that subsequently outgas as a magma ocean cools and
+crystallises. CO2 and H2O are the dominant gases released from
+carbonaceous chondrites (Schaefer & Fegley 2010) and potent
+greenhouse gases, and therefore they receive significant attention
+in the context of coupled interior–atmosphere evolution (Elkins-
+Tanton 2008; Lebrun et al. 2013; Nikolaou et al. 2019). As a
+magma ocean crystallises, the solubility of volatile species in
+the melt phase drives outgassing as the solid fraction increases
+and the melt becomes over-saturated with volatiles. The growing
+atmosphere thermally insulates the magma ocean and thereby
+dictates the early cooling rate, possibly extending the lifetime of
+a magma ocean from a few thousand years with no atmosphere
+(e.g. Abe 1993) to several tens of million years with an atmo-
+sphere (e.g. Hamano et al. 2013).
+For the terrestrial planets in the solar system, the magma
+ocean stage was only transient, lasting at most a few hundred
+million years. However, some exoplanets may harbour perma-
+nent magma oceans, which necessitates an understanding of the
+spectral signature of magma oceans to assist in their character-
+isation. This is because there is an observational bias to detect
+exoplanets with short orbital periods, such that many of the de-
+tected rocky worlds are likely to be tidally-locked and subject to
+intense insolation. These factors compound to promote a perma-
+nent magma ocean on the star-facing side of the planet, which
+may extend globally if the atmospheric redistribution of heat is
+efficient (Kite et al. 2016). Melts behave fundamentally differ-
+ently than solids, which necessitates a tailored approach to de-
+termine their material properties and hence requires that their
+impact on interior evolution and mass–radius observations is as-
+sessed. Wolf & Bower (2018) recently provide a thermodynam-
+ically self-consistent equation of state for MgSiO3 melt—the
+most abundant mineral in Earth’s mantle—which is calibrated
+by high pressure and temperature calculations and experimental
+data. This raises the question of whether mass–radius data can
+be explained by differences in the phase of silicate matter, rather
+than invoking bulk compositions that depart strongly from Earth
+(e.g. Dorn et al. 2019).
+Magma oceans have also garnered interest from the perspec-
+tive of observing planet formation in process, notably the giant
+impact stage, which may be amiable to direct detection using
+the next generation of ground-based facilities (Miller-Ricci et al.
+2009; Lupu et al. 2014; Bonati et al. 2019). The planet may emit
+strongly in the infra-red and have an outgassing atmosphere that
+is preferable for atmospheric characterisation. The library of hot
+planets will continue to increase due to TESS preferentially de-
+tecting planets with ∼27 day period (e.g. Barclay et al. 2018), as
+well as the expected yield from future missions such as PLATO
+(Rauer et al. 2014) and ARIEL (Tinetti et al. 2018). Understand-
+ing the interior evolution of a rocky planet provides a vital bridge
+between planet formation theory and observations. Mass–radius
+data cannot uniquely constrain the structure and composition of
+a planet due to inherent degeneracy that is most appropriately
+addressed using a Bayesian framework (e.g. Dorn et al. 2018).
+Additional data or modelling constraints can be used to limit the
+range of acceptable interior structures, such as a combination of
+stellar abundances (Dorn et al. 2016) and disk evolution models
+(Dorn et al. 2019). Ordinarily, static structure models assume an
+interior thermal structure, although this is adopted a priori rather
+than relating directly to evolutionary considerations. Planetary
+radii determined from static structure models that consider only
+solid phases are relatively insensitive to temperature (e.g. Dorn
+et al. 2018). However, temperature variations drive dynamic pro-
+cesses such as melting that facilitate outgassing, which again
+provides a direct connection between the interior and potentially
+observable atmospheric signatures.
+An holistic modelling strategy is required to maximise our
+understanding of interior–atmosphere processes as future obser-
+vational facilities push the limits of exoplanetary characterisa-
+tion. In this study, we highlight the potential to combine mod-
+els of coupled interior–atmosphere evolution with static struc-
+ture calculations and modelled atmospheric spectra (transmis-
+sion and emission). By combining these components in a com-
+mon modelling framework, we acknowledge planets as dynamic
+entities and leverage their evolution to bridge planet formation,
+interior-atmosphere interaction, and observations. By consider-
+ing the earliest stage of terrestrial planet evolution—the magma
+ocean epoch—we investigate the consequences of large varia-
+tions in temperature, material phase, and atmospheric properties
+on observations. This has immediate application for characteris-
+ing hot and close-in rocky planets. Ultimately, we wish to close
+the gap between atmospheric modelling and interior dynamics,
+and thus pave the way for a new comprehension of the nature of
+rocky planets.
+2. Model
+2.1. Dynamic interior model
+The composition space of exoplanetary interiors may be large
+(Bond et al. 2010), which is confounded by fewer constraints
+on the properties of materials that depart strongly from those
+of terrestrial interest. We therefore focus on a planet that has
+comparable size, composition, and structure to Earth, although
+our modelling framework itself is ambivalent and can accom-
+modate diverse compositions and internal structures as desired.
+We used the SPIDER code (Bower et al. 2018) to model the
+interior evolution of a rocky planet coupled to an atmosphere
+(Sect 2.2). Our model parameters are based on Case BU pre-
+sented in Bower et al. (2018), which tracks the thermal evolution
+of an Earth-like planet at 1 AU during its magma ocean stage.
+We consider a mantle with one component (Mg-Bridgmanite)
+and two phases (melt and solid), which resides above an Earth-
+sized iron core. The thermophysical properties of silicate melt
+are provided by Wolf & Bower (2018), since they are calibrated
+to terrestrial mantle pressures and temperatures and agree with
+shock-wave data (Fig. 3, Wolf & Bower 2018). Solid proper-
+ties are given by Mosenfelder et al. (2009), and the properties of
+the melt–solid mixture are derived by assuming volume additiv-
+ity and computing the two-phase adiabat (e.g. Solomatov 2007).
+For the melting region, we join together liquidus and solidus
+Article number, page 2 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+data appropriate for the upper and lower mantle with a smoothed
+transition region. The lower mantle liquidus and solidus are de-
+rived from measurements on chondritic composition (Andrault
+et al. 2011). These melting curves have nearly linear bound-
+aries that are reasonably described with a constant proportion-
+ality of 1.09, which is consistent with typical melting behaviour
+governed by the cryoscopic equation as discussed in Stixrude
+et al. (2009). For the upper mantle, we adopt the melting bounds
+used by Hamano et al. (2013) from published experimental peri-
+dotite melting data, which is likewise consistent with similar fit-
+ted boundaries (e.g. Stixrude et al. 2009).
+Compared to Case BU in Bower et al. (2018), we omitted
+the parameterised ultra-thin thermal boundary layer at the sur-
+face; this is simply a choice to ensure that the surface tempera-
+ture is resolved by both the interior and the atmosphere model.
+The mesh resolution is set by 1000 nodes across the mantle.
+Our model includes internal heating due to the long-lived ra-
+diogenic isotopes (40K, 232Th, 235U, 238U), where the half-lives
+and present-day fractional abundances are provided by Ruedas
+(2017). We assume the mantle is undepleted (fertile) to esti-
+mate the heating rate per unit mass (p. 170, Turcotte & Schu-
+bert 2014). We exclude short-lived radioisotopes such as 26Al
+and 60Fe since our model begins as a fully assembled albeit
+molten planet. Short-lived radionuclides can drive the thermal
+and chemical evolution of planetary building blocks (e.g. Licht-
+enberg et al. 2016), but their influence is muted during the final
+accretion stage. Cases that include the gravitational separation
+flux driven by the density difference between the melt and solid
+phase have a suffix of ‘s’ (Sect. 3.3).
+Our parameterised model of convection requires a prescrip-
+tion of the mixing length, which is conventionally taken as either
+a constant or the distance to the nearest boundary (e.g. Abe 1995;
+Stothers & Chin 1997). We use both of these prescriptions in this
+study. A constant mixing length effectively averages the convec-
+tive heat transport over the mantle and therefore replicates the
+results of boundary layer theory that considers an average (rep-
+resentative) viscosity for the calculation of the Rayleigh number.
+By contrast, a mixing length that increases away from the upper
+and lower boundaries enforces a conductive region at the inter-
+faces of the mantle with the atmosphere and core. For the atmo-
+sphere interface, this can enable the near surface to form a vis-
+cous lid when it drops below the rheological transition and hence
+restrict subsequent cooling of the interior. Therefore, a variable
+versus constant mixing length gives end-member models of slow
+and fast interior cooling, respectively, once the surface reaches
+the rheological transition. We suffix the case number with ‘v’
+to denote cases with a variable mixing length, that is a mixing
+length that increases linearly from zero at the outer boundaries
+to a maximum of d/2 in the centre of the domain, where d is the
+thickness of the mantle. By comparison, a suffix of ‘c’ represents
+a constant mixing length of d/4, which is the average across the
+domain for the variable mixing length parameterisation.
+2.2. Coupled interior–atmosphere evolution
+We modified the SPIDER code to include volatile species (H2O
+and CO2) that form an atmosphere as a consequence of out-
+gassing as a magma ocean cools and crystallises. The influence
+of radiation trapping of greenhouse species in the atmosphere
+can delay cooling of the interior by several orders of magnitude
+relative to no atmosphere being present. For each species, mass
+conservation determines its abundance in the melt, solid, and gas
+phase, according to solubility and partitioning behaviour (e.g.
+Eqs. 14–17, Lebrun et al. 2013). The partitioning of a species
+Table 1. Volatile parameters for coupled atmosphere model.
+Parameter Value and units References
+Ref. pressure P0 101325 Pa
+CO2 absorption
+coefficient at P0 0.05 m2/kg 1
+CO2 Henry α 4.4×10−6 ppm/Pa 2 & Eq. 1
+CO2 exponent β 1.0 2 & Eq. 1
+CO2 solid–melt
+distribution coeff. 5×10−4 3
+H2O absorption
+coefficient at P0 0.01 m2/kg 4
+H2O Henry α 6.8×10−2 (ppm/Pa)1/β 5 & Eq. 1
+H2O exponent β 1/0.7 5 & Eq. 1
+H2O solid–melt
+distribution coeff. 1×10−4 6
+Notes. References. (1) Pujol & North (2003); (2) Pan et al. (1991); (3)
+Shcheka et al. (2006); (4) Yamamoto & Onishi (1952); (5) Carroll &
+Holloway (1994); (6) Bolfan-Casanova et al. (2003).
+between the melt and solid phase is given by a constant partition
+coefficient, and the partitioning between the melt and gas phase
+is determined by a modified Henry’s law that accommodates a
+power-law relationship between partial pressure pv and volatile
+abundance in the melt Xv:
+pv(Xv) =
+(
+Xv
+αv
+)βv
+, (1)
+where Xv is the abundance of volatile v in the melt, αv is Henry’s
+constant, and βv facilitates a non-linear relationship. Table 1 pro-
+vides the parameters for the two volatile species that we con-
+sider, H2O and CO2. The partial pressure of each volatile species
+relates to its atmospheric mass (e.g. Pierrehumbert 2011):
+mgv = 4piR2p
+(
+µv
+µ¯
+)
+pv
+g
+, (2)
+where mgv is the mass of the volatile in the atmosphere, Rp ra-
+dius of the planetary surface, µv molar mass of the volatile, µ¯
+mean molar mass of the atmosphere, pv the (surface) partial pres-
+sure of the volatile, and g gravity. The ratio of molar masses is
+omitted in some previous studies that focus on magma ocean
+outgassing, although the reasoning for this is unclear and diffi-
+cult to justify. The ratio of molar masses is unity for an atmo-
+sphere with a single species, but this is not the case for a multi-
+species atmosphere (Appendix A). The mass balance equations
+for the volatile species form a set of coupled differential equa-
+tions that we solve as part of the same system of equations
+that determine the evolution of the interior. Hence our interior
+and atmosphere are fully coupled during the evolution. Our at-
+mosphere model solves for the radiative transfer of heat in a
+plane-parallel, grey atmosphere, with no scattering, using the
+two-stream approximation (Abe & Matsui 1985). It computes an
+effective emissivity of the atmosphere by summing the optical
+depth of each volatile at the planetary surface. The optical depth
+depends on an absorption coefficient (equivalent to the extinction
+coefficient, since scattering is not considered) that scales linearly
+with atmospheric pressure. The model provides the pressure–
+temperature structure of the atmosphere that is fully consistent
+with the pressure-temperature structure of the interior.
+Previous magma ocean studies often assume an initial abun-
+dance of volatiles in the (molten) mantle around 0.05 wt% H2O
+Article number, page 3 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+and 0.01 wt% CO2 (e.g. Elkins-Tanton 2008; Lebrun et al. 2013;
+Nikolaou et al. 2019). These values roughly correspond to the
+water content of Earth’s ocean (300 bar) and the CO2 content of
+Venus’s atmosphere (100 bar), and are thus a lower estimate of
+the initial reservoir sizes that are required to explain solar sys-
+tem observations. The aforementioned conversion from volatile
+mass to atmospheric pressure assumes that the given volatile is
+the only species in the atmosphere (i.e. the ratio of molar masses
+in Eq. 2 is unity). For this study, however, we are interested in
+the diversity of CO2 and H2O atmospheres that may be viable be-
+yond the solar system. We calibrated our initial condition to pro-
+duce exactly 220 bar (surface partial pressure) of H2O once all of
+the volatiles have outgassed, which corresponds to the pressure
+at the critical point of water. For cases with a constant mixing
+length, we can chart the thermal evolution of the planet without
+H2O condensing from the gas phase below the critical tempera-
+ture. For cases with a variable mixing length, the surface cools
+rapidly once it reaches the rheological transition and thus con-
+densation would occur. Since we do not model condensation we
+are therefore overestimating the greenhouse effect of the atmo-
+sphere for these cases. However, the planetary cooling timescale
+is controlled by melt–solid separation and then viscous transport
+of the largely solid mantle once the rheological transition reaches
+the surface, rather than the atmospheric structure that determines
+the energy transport by radiation. Nevertheless, the presence of
+water at the surface may be integral to establishing the style of
+convection in the viscous mantle through the initiation and sus-
+tenance of plate tectonics (Korenaga 2010). We consider a range
+of CO2 volume mixing ratios at the end of outgassing:
+r f ,CO2 =
+p f ,CO2
+p f ,CO2 + p f ,H2O
+, (3)
+where r f ,CO2 is the final (i.e. fully outgassed) volume mixing ra-
+tio of CO2, p f ,CO2 the final partial pressure of CO2, p f ,H2O the
+final partial pressure of H2O, and the total pressure is the sum of
+the partial pressures according to Dalton’s law. The partial pres-
+sure of each volatile decreases with altitude above the planetary
+surface, but the volume mixing ratio stays the same if the atmo-
+sphere is well-mixed and condensation is neglected. From an im-
+plementation perspective, only the partial pressure at the surface
+is necessary to compute for the interior coupling (pv, Eq. 2). We
+explore the influence of relatively more or less CO2 compared
+to 220 bar of H2O at the end of outgassing by varying the fi-
+nal volume mixing ratio of CO2 (Table 2). This also results in
+different total surface pressures and volatile masses in the atmo-
+sphere when crystallisation is complete. We then back compute
+the initial reservoir size (ppm by mass) of both H2O and CO2 in
+the fully molten mantle (Table 2). Again, even though the final
+partial pressure of H2O is fixed in all cases to 220 bar, the ini-
+tial mantle abundance of H2O is not the same in all cases since
+CO2 affects the average molar mass of the atmosphere (Eq. 2 &
+Appendix A).
+2.3. Static structure calculation
+The interior–atmosphere model determines the temperature and
+phase throughout the interior and the pressure–temperature
+structure and composition of the atmosphere. At a given time,
+the mantle density is sensitive to the interior pressure and tem-
+perature, both of which also determine the phase (melt, solid, or
+mixed) via the melting curves. Using this interior density dis-
+tribution, we solved the static structure equations following the
+approach outlined in Valencia et al. (2007). The algorithm iter-
+ates to find the planetary radius of the surface that satisfies the
+Table 2. Initial volatile concentrations X0v (ppm by mass) of CO2 and
+H2O in the mantle relative to a total mantle mass of 4.208 × 1024 kg.
+Case Final outgassed Initial abundance
+r f ,CO2 p f ,CO2 X
+0
+CO2
+X0H2O
+(bar) (ppm) (ppm)
+1 0.1 25 63 234
+2 0.13 32 79 227
+3 0.25 74 160 197
+4 0.33 110 221 181
+5 0.5 220 380 155
+6 0.66 441 666 136
+7 0.75 662 941 128
+8 0.83 1103 1483 121
+9 0.9 1986 2558 116
+Notes. Final volume mixing ratio and partial pressure of CO2 is r f ,CO2
+and p f ,CO2 , respectively. All parameter combinations result in a 220 bar
+partial pressure atmosphere of H2O once solidification and hence out-
+gassing is complete. A suffix of ‘v’ and ‘c’ to the case number denotes
+a variable and constant mixing length, respectively. An additional suffix
+of ‘s’ denotes that the case includes gravitational separation of the melt
+and solid phase.
+requirement of a hydrostatic interior. The geophysical (iron) core
+mass and radius are fixed to Earth values to enable us to focus
+on the influence of the silicate mantle and its early outgassing.
+In this regard, the core is always treated as an incompressible
+sphere of iron at the planetary centre. The growth of an out-
+gassing atmosphere does not influence the density structure of
+the interior because the bulk modulus of silicate melt and solid
+is around 100 GPa. Therefore, silicates do not experience ap-
+preciable compression due to atmospheric pressure. We are thus
+justified in computing the height of the atmosphere above the
+planetary surface independent from the structure of the rocky in-
+terior. The pressure–temperature structure of the atmosphere is
+provided by the atmosphere model (Abe & Matsui 1985). This
+is converted to height–temperature using the ideal gas law (with
+the mean molar mass of the atmosphere) and the equation of hy-
+drostatic equilibrium, assuming that the volatiles are well-mixed
+throughout the atmosphere.
+2.4. Transmission and emission spectroscopy
+We computed synthetic transmission and emission spectra at
+fixed times during the evolution. The previous modelling steps
+provide all the information that we need for this calculation, that
+is the pressure–temperature structure of the atmosphere, radius
+of the planetary surface, and abundance of volatiles in the at-
+mosphere. To generate the transmission and emission spectra,
+we employed our observation simulator Helios-o. For trans-
+mission spectra we divided the atmosphere into 200 annuli p.
+For each wavenumber ν we then calculated the integrated slant
+optical depth along each tangent height τν(p):
+τν(p) =
+∫ ∞
+−∞
+χν(x(p)) dx , (4)
+where χν(x(p)) is the extinction coefficient and x the spatial co-
+ordinate along the tangent. The extinction coefficient contains
+contributions of both scattering and absorption. The transmis-
+sion Tν(p) along a tangent p is
+Tν(p) = e−τν(p) . (5)
+Article number, page 4 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+The effective tangent height hν is
+hν =
+∫ ∞
+0
+[
+1 − Tν(p)] dp (6)
+and the wavelength-dependent radius Rν is then given by
+Rν = Rp + hν , (7)
+where Rp is the planet’s surface radius, as before. Due to the
+presence of a fixed surface radius and pressure, transmission
+spectra of terrestrial planets do not suffer from radius–pressure
+degeneracy (Heng & Kitzmann 2017). Synthetic emission spec-
+tra were calculated by solving the radiative transfer equation at
+each wavenumber ν. The spectral fluxes Fν were obtained by us-
+ing a general n-stream discrete ordinate method, where we em-
+ployed the C version of the state-of-art discrete ordinate solver
+DISORT (Hamre et al. 2013). We set the number of streams to
+four, which is more than sufficient to provide accurate fluxes in
+the absence of strongly scattering aerosols. The discrete ordinate
+solver takes into account absorption, thermal emission, as well
+as Rayleigh scattering by molecules. The absorption coefficients
+were calculated using the opacity calculator Helios-k (Grimm
+& Heng 2015). For CO2, HITEMP (Rothman et al. 2010) was
+employed as the source for the line list, whilst for water we used
+the full BT2 list (Barber et al. 2006). The calculation and data
+sources for the molecular Rayleigh scattering coefficients are
+discussed in Kitzmann (2017).
+3. Results
+3.1. Evolution of extended outgassing cases
+We first describe Case 3v (Figs. 1 and 2), which encapsulates
+both the short- and long-term evolution of a rocky planet and
+demonstrates the major trends of the cases that facilitate vis-
+cous lid formation. Case 3v uses a variable mixing length and
+r f ,CO2 = 0.25, which produces the same final volume mixing ra-
+tio at the end of outgassing as an atmosphere with 100 bar CO2
+and 300 bar H2O. In previous studies, these partial pressures mo-
+tivate reference cases (e.g. Lebrun et al. 2013; Salvador et al.
+2017; Nikolaou et al. 2019), although their initial volatile abun-
+dances in the mantle are incompatible with the multi-species
+mass balance (Eq. 2). Figures 1 and 2 show the coupled evo-
+lution of the interior and atmosphere as the planet cools from
+fully molten to fully solid. The molten planet follows a thermal
+profile as dictated by the MgSiO3 melt adiabat (Wolf & Bower
+2018), before intercepting the liquidus at the base of the man-
+tle. The cooling profile then transitions through the mixed phase
+region, taking account of the two-phase adiabat as well as tur-
+bulent mixing of the melt and solid phase that transports energy
+via latent heat (Fig. 1). During the early cooling stage (before 1
+Myr), the cooling rate is restricted by the radiative timescale of
+the atmosphere, which is largely determined by CO2 since it is
+less soluble in silicate melt and hence outgasses first to the at-
+mosphere. The mass fraction of CO2 in the interior continues to
+decrease during this stage and the atmosphere shows a commen-
+surate increase (Fig. 2b).
+Once the rheological transition reaches the surface, just prior
+to 1 Myr, there is an abrupt change in the evolutionary trajectory.
+The cooling rate is now no longer restricted by the ability of the
+atmosphere to radiate heat, but rather the ability of the lid to
+transport energy to the near surface to be radiated. At this time,
+the majority of H2O remains in the interior reservoir (Fig. 2b),
+and therefore has only negligible influence on the cooling of
+0 25 50 75 100 135
+P (GPa)
+250
+1000
+2000
+3000
+4000
+5000
+T (K)
+Mantle temperature (Case 3v)
+Time, Myr (φg)
+0.00 (1.00)
+0.25 (0.75)
+0.65 (0.30)
+573.00 (0.01)
+4550.00 (0.00)
+Fig. 1. Evolution of interior temperature of an Earth-like planet as it
+cools from fully molten to fully solid (Case 3v). Global melt fraction
+φg is given in brackets after the time in Myr. Surface and core-mantle
+boundary are at 0 and 135 GPa, respectively, and the mantle is initially
+superliquidus (0 Myr). Grey shaded region shows where the melt and
+solid phase coexist and is bounded by the liquidus above and the solidus
+below. Dashed lines denote pure solid or melt, and solid lines show
+where solid and melt coexist.
+the planet prior to this time compared to CO2. Subsequently,
+the surface cools rapidly to just above the equilibrium tempera-
+ture (Fig. 2c), whilst the interior temperature remains below the
+rheological transition but above the solidus for several hundred
+Myr (Fig. 1). The volatile reservoirs do not experience signif-
+icant modification during the protracted stage of cooling from
+around 1 Myr to 100 Myr. After around 100 Myr, the global
+melt fraction φg drops below 10% and H2O begins to enter the
+atmosphere in earnest (Fig. 2a). In our models the rheological
+transition is defined by a dynamic criteria in which the convec-
+tive regime switches from inviscid to viscous, and not simply by
+a critical melt fraction or viscosity.
+As H2O flushes into the atmosphere, the partial pressure of
+CO2 decreases since the volume mixing ratio of CO2 decreases
+(Fig. 2a). H2O outgasses into the atmosphere from around 100
+Myr to 1 Gyr because it is controlled by heat transport through
+the lid and the cooling rate of the viscous mantle. Outgassing
+from the interior hence persists for around 1 Gyr and results in
+a 220 bar H2O atmosphere and a 74 bar CO2 atmosphere after
+4.55 Gyr. Of course, the initial volatile mass in the mantle was
+set by this criteria, but this result remains useful since it demon-
+strates the accuracy and stability of our fully-coupled numerical
+scheme to handle the interior–atmosphere evolution over short
+and long timescales. For comparison, at 0 Myr the atmosphere
+consists of 96 bar of CO2 and less than 1 bar of H2O. The ther-
+mal profile after 4.55 Gyr captures the first-order characteris-
+tics of Earth’s geotherm, including average mantle temperature,
+core-mantle boundary temperature, and viscous boundary layers
+at the surface and core-mantle boundary with temperature drops
+around 1000 K (e.g. Turcotte & Schubert 2014).
+Article number, page 5 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+10−210−1 100 101 102 103
+Time (Myr)
+0
+50
+100
+150
+200
+p (bar)
+(a) Pressure and global melt fraction
+CO2
+H2O
+Melt, φg
+10−210−1 100 101 102 103
+Time (Myr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+x
+(b) Reservoir mass fraction
+CO2 interior
+CO2 atmos
+H2O interior
+H2O atmos
+10−210−1 100 101 102 103
+Time (Myr)
+200
+700
+1200
+1700
+2200
+2700
+Ts (K)
+(c) Surface temp and emissivity
+Surface temp, Ts
+Emissivity, ²
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+φg
+10−3
+4× 10−4
+6× 10−4
+2× 10−3
+²
+Fig. 2. Evolution of atmosphere (Case 3v). (a) Partial pressure of CO2 and H2O in atmosphere, and global melt fraction, (b) Volatile mass fraction
+in interior (melt and solid) and atmosphere, (c) Surface temperature and emissivity.
+All extended outgassing cases are characterised by a de-
+crease in the cooling rate once the surface reaches the rheological
+transition (φg around 30%). At this time, the majority of H2O re-
+mains in the interior reservoir and the CO2 volume mixing ratio
+remains higher than 85%. This again demonstrates that the time
+to cool to the rheological transition is almost exclusively deter-
+mined by the abundance of CO2 in the atmosphere. For cooling
+beyond the rheological transition, all cases show a similar re-
+duction in the global melt fraction with time, demonstrating that
+heat transport across the lid is now determining the cooling rate
+of the interior and not the efficiency of the atmosphere to radiate
+heat.
+3.2. Evolution of early outgassing cases
+We now present cases that demonstrate early complete out-
+gassing of the interior. These cases use a constant mixing length,
+which prevents a viscous lid from forming at the surface and
+hence runaway cooling of the atmosphere. These models are
+therefore the most appropriate for eventual application to hot
+and molten exoplanets, since intense insolation maintains a
+molten surface and hot atmosphere and hence prevents a vis-
+cous lid from forming. We recall that using a constant mixing
+length replicates the behaviour of models that use boundary layer
+theory. Since our evolutionary models transition through near-
+equilibrium states, the mixing length parameterisation mostly
+determines the timescale of cooling once the rheological transi-
+tion reaches the surface. This is evident by comparing the global
+melt fraction φg for Case 3v (Figs. 2a and 3a) with Case 3c
+(Fig. 3a). For Case 3v, the distinctive kink in the melt fraction
+evolution around 1 Myr that is associated with the rheological
+transition reaching the surface is absent for the equivalent Case
+3c with constant mixing length.
+Figure 3 compares the early outgassing cases. The cooling
+time varies over almost two orders of magnitude, but all cases
+follow a similar cooling profile (Fig. 3a). As the global melt frac-
+tion decreases, volatiles become over-saturated in the melt which
+leads to outgassing. Outgassing of H2O begins once the global
+melt fraction drops below about 25% and manifests as a decrease
+in the CO2 volume mixing ratio and an increase in the abundance
+of H2O in the melt. The abundance of H2O in the melt always
+increases with time (Fig. 3d). By contrast, the abundance of CO2
+in the melt does not always increase, and this is a consequence
+of the mass–partial pressure relationship (Eq. 2). Following a
+steady increase in the melt concentration of CO2, later H2O out-
+gassing causes the abundance of CO2 in the melt to decrease,
+and this effect is most pronounced for atmospheres that are H2O
+dominated (Fig. 3c). This is because H2O outgassing reduces
+the partial pressure of CO2 in the atmosphere, such that the con-
+centration of CO2 in the melt adjusts according to Henry’s law
+to maintain thermodynamic equilibrium (Eq. 1). Figure 4 shows
+that volatile depletion of the interior occurs once the global melt
+fraction drops below about 15%. The massive CO2-dominated
+atmospheres (e.g. Case 9c) suppress the outgassing of H2O to a
+greater extent than atmospheres that are less massive with less
+CO2 (e.g. Case 1c). Whilst the total volatile mass is different for
+the cases, only the partial pressure of each species controls its
+abundance in the melt according to Henry’s law (Eq. 1).
+3.3. Influence of melt–solid separation
+Since we consider an Mg-Bridgmanite mantle, gravitational sep-
+aration is driven by the density contrast between MgSiO3 melt
+and solid (Eq. 13, Bower et al. 2018). Therefore, the melt is on
+average 5% less dense than the solid throughout the mantle ac-
+cording to the equations of state for MgSiO3 that we adopt. Al-
+though this fails to take account of upper mantle mineralogy and
+the evolving chemistry of the melt and solid phase during magma
+ocean cooling—both of which impact melt–solid separation—it
+is nevertheless useful to assess how melt–solid separation may
+modify the cooling timescale predicted by the extended and early
+outgassing cases. Relative migration of melt and solid phases
+may become a dominant mechanism of energy transport once a
+magma ocean reaches the rheological transition (e.g. Abe 1993).
+To this end, we repeat the calculation of Case 3 and 7, with
+both variable and constant mixing length, to include gravita-
+tional separation (Fig. 5). As expected, the evolution of all four
+variants of each case are near identical during the early cool-
+ing stage when the global melt fraction is above the rheolog-
+ical transition (φg > 30%). Once the rheological transition is
+obtained, however, the trajectory of a given case variant can di-
+verge from its companions. Case 3vs (with separation) compared
+to Case 3v (without separation) shows that the cooling timescale
+is reduced by approximately an order of magnitude when melt–
+Article number, page 6 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+10−2 10−1 100 101 102
+Time (Myr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+φg
+(a) Global melt fraction, φg
+10−2 10−1 100 101 102
+Time (Myr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+rCO2
+(b) CO2 volume mixing ratio
+Case (rf,CO2 )
+1c (0.1)
+3c (0.25)
+3v (0.25)
+5c (0.5)
+7c (0.75)
+9c (0.9)
+10−2 10−1 100 101 102
+Time (Myr)
+101
+102
+103
+XCO2
+(c) CO2 in melt (ppm)
+10−2 10−1 100 101 102
+Time (Myr)
+102
+103
+104
+XH2O
+(d) H2O in melt (ppm)
+Fig. 3. Comparison of Case 1c, 3c, 3v, 5c, 7c, and 9c. (a) Global melt fraction φg, (b) CO2 volume mixing ratio, (c) Abundance of CO2 in the melt,
+(d) Abundance of H2O in the melt. Lines in (c) and (d) terminate at the time when the global melt fraction φg = 0.01.
+solid separation is considered. We stress again that this is likely
+a maximum decrease in the cooling timescale, since melts are
+not expected to be buoyant at all mantle depths. Case 3cs (with
+separation) and 3c (without separation) follow a near-identical
+evolution, such that they have been plotted as a single line in
+Fig. 5. This indicates that the gravitational separation flux is a
+negligible modifier to the overall heat transport for cases with a
+constant mixing length. Case 7 has a larger initial CO2 inven-
+tory than Case 3 which gives rise to a higher partial pressure of
+CO2. The general trends reported for Case 3 are also observed
+for Case 7; for a variable mixing length, gravitational separation
+decreases the cooling timescale by 1–2 orders of magnitude. Fur-
+thermore, gravitational separation does not impact the evolution
+of Case 7 with a constant mixing length.
+4. Discussion
+4.1. Mass–partial pressure relationship
+Several previous magma ocean studies (e.g. Elkins-Tanton 2008;
+Lebrun et al. 2013; Salvador et al. 2017; Nikolaou et al. 2019) do
+not appear to use the correct expression for the relationship be-
+tween the partial pressure of a given volatile and its mass in the
+atmosphere (Eq. 2). For example, Fig. 5 in Lebrun et al. (2013),
+Fig. 5 in Salvador et al. (2017), and Fig. 4 in Nikolaou et al.
+(2019) show the partial pressure of both CO2 and H2O increas-
+ing during outgassing, whereas we find that the partial pressure
+of CO2 decreases as the atmosphere becomes increasingly di-
+luted by H2O (Fig. 2a). Equation 9 in Elkins-Tanton (2008) also
+omits the ratio of the volatile molar mass to the mean atmo-
+spheric molar mass, which suggests the study is also affected by
+the same discrepancy. A decrease in the CO2 partial pressure is a
+robust feature of the parameter combinations that we investigate.
+We note that studies that consider the evolution of one volatile
+species such as H2O (e.g. Abe & Matsui 1985; Hamano et al.
+2013) are unaffected. To estimate the influence of neglecting the
+molar masses, we compute four extra cases: two cases using pa-
+rameter combinations in this study (Sect. 4.1.1), and two cases
+using an initial CO2 abundance of 120 ppm and H2O abundance
+of 410 ppm (Sect. 4.1.2), which is inspired by previous reference
+cases (Lebrun et al. 2013; Nikolaou et al. 2019).
+4.1.1. Influence of molar mass on Case 3c and Case 7c
+We compute two additional cases with exactly the same param-
+eters as Case 3c and 7c but that omit the ratio of molar masses
+from the mass balance (Eqs. 2 and A.1). We refer to cases that
+Article number, page 7 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+0246810
+φg (%)
+0
+20
+40
+60
+80
+100
+D
+ep
+le
+ti
+o
+n
+(%
+)
+CO2
+(dashed)
+H2O
+(solid)
+Interior volatile depletion
+Case (rf,CO2 )
+1c (0.1)
+3c (0.25)
+5c (0.5)
+7c (0.75)
+9c (0.9)
+Fig. 4. Volatile depletion of interior during the later stage of crystalli-
+sation (0% ≤ φg ≤ 10%) for CO2 (dashed lines) and H2O (solid lines).
+Depletion fraction (%) is relative to the initial amount of volatile that
+was partitioned into the interior according to the volatile mass balance.
+include molar mass as ‘correct’ and cases that omit molar mass
+as ‘previous formulation’ or simply ‘previous’. Figure 6 shows
+the results of the correct (Case 3c and 7c) versus the previous
+formulation (Case 3cw and 7cw) cases. There are three obvi-
+ous differences between the correct and previous cases: (1) once
+H2O begins outgassing, the CO2 volume mixing ratio decreases
+at a faster rate and to a lower final value than predicted by the
+equivalent previous case (Fig. 6a), (2) the CO2 concentration in
+the melt decreases at later time for the correct case, but always
+increases for the previous case (Fig. 6b), and (3) compared to the
+previous case, the correct case retains more H2O in the interior
+until a lower global melt fraction is reached (or equivalently, un-
+til later time), but then delivery of H2O to the atmosphere occurs
+at a faster pace. This trade-off is because the depletion of the in-
+terior (for both correct and previous cases) begins at 0% for a
+fully molten mantle and ends near 100% for a fully solid man-
+tle, assuming a comparatively negligible retention of volatiles
+in the solid mantle. Therefore, these boundary conditions mean
+that the correct and previous cases have the same depletion at the
+start and end of evolution, but the trajectory between these two
+boundary values can be different.
+The global melt fraction is decreasing as a consequence of
+continuous cooling, such that the melt volume available to ac-
+commodate the volatiles is decreasing with time. Over-saturation
+of volatiles in the ever-reducing volume of melt can therefore
+drive outgassing. This basic behaviour is captured by both the
+correct and previous cases. The differences between the correct
+and previous cases can be understood by appreciating that there
+is feedback between the outgassing of multiple species. For all
+cases, at early time the CO2 volume mixing ratio of the atmo-
+sphere is near unity, since CO2 is much less soluble in silicate
+melt than H2O. Using Eq. 2, we therefore find at early time that
+dmgH2O
+dpH2O
+≈
+(
+µH2O
+µCO2
+) 4piR2p
+g
+≈ 0.41 × 4piR
+2
+p
+g
+. (8)
+Hence the increase of H2O mass in the atmosphere for an in-
+cremental change in H2O partial pressure is suppressed, com-
+pared to if only H2O is in the atmosphere. In other words, for
+a given addition of H2O mass to the atmosphere, more solidi-
+fication (cooling) is necessary to increase the abundance in the
+melt and hence increase the partial pressure (Eq. 1) when H2O
+is outgassing in the presence of CO2. Therefore CO2 in the at-
+mosphere delays the outgassing of H2O until later time, and this
+effect is more pronounced for atmospheres that are dominated by
+CO2 (Fig. 6c). Relative to the previous cases, the correct cases
+predict a slower depletion of the H2O reservoir, reaching max-
+imum differences of 10% at φg ≈ 3.5% for Case 3 and 16% at
+φg ≈ 2% for Case 7. At these global melt fractions, the surface
+temperature of Case 3c and 7c is 1100 K and 1400 K, respec-
+tively. These surface temperatures are at or above the dry peri-
+dotite solidus of 1100 K (Hirschmann 2000), and the presence
+of volatiles (such as CO2 and H2O) would further decrease the
+solidus temperature. Nevertheless, the maximum differences in
+depletion occur when the surface is not completely molten, and
+in this regard the assumption of dissolution equilibrium may be-
+gin to break down. A second mechanism explains why, also at
+later time, the CO2 abundance in the melt decreases. As H2O
+flushes into the atmosphere it decreases the partial pressure of
+CO2, and the concentration of CO2 in the melt reduces to main-
+tain thermodynamic equilibrium according to Henry’s law. CO2
+is always outgassing so the interior reservoir is always decreas-
+ing in total CO2 mass (Fig. 4) even though its concentration in
+the melt can either increase or decrease. The equations for the
+coupling between multiple volatile species are provided in Ap-
+pendix A.
+4.1.2. Alternative initial volatile abundance
+The physical reasoning described above applies in general to two
+outgassing species, but to offer further calibration of existing
+work in the literature we compute another two cases (one cor-
+rect, one previous formulation). We configure a model based on
+the reference-A model in Nikolaou et al. (2019), which itself is
+similar (by design) to the models in Lebrun et al. (2013). This
+model setup is typical of magma ocean models in the literature
+that investigate early outgassing of volatile species. Compared
+to the standard model setup for the constant mixing length cases
+in this study, we make the following amendments. We exclude
+core cooling, internal heat generation, and the turbulent mixing
+of the melt and solid phase. The initial CO2 and H2O are 120
+and 410 ppm, respectively, and we decrease the CO2 absorption
+coefficient to 10−4 m2/kg. We deem our model similar enough
+to reference-A (Nikolaou et al. 2019) to provide a meaningful
+assessment of how neglecting the molar mass ratio term in the
+mass–partial pressure relationship affects previous results.
+Figure 7 shows a comparison of correct and previous cases
+and can be compared with Fig. 4 in Nikolaou et al. (2019).
+Both cases behave similarly before the outgassing of H2O. Out-
+gassing of H2O begins around the same time (soon after 10−2
+Myr) and the partial pressure of H2O increases at a similar rate
+(Fig. 7a). Here we have kept the initial volatile abundances the
+same rather than the final mixing ratios at the end of outgassing,
+so the H2O partial pressure in the correct case continues to rise
+even though the previous case reaches a maximum around 340
+bar. At 10 Myr, the mixing ratio for H2O is less for the previ-
+ous case (Fig. 7b), resulting in a maximum error around -25%
+during the evolution (Fig. 7c). The most pronounced difference
+by far is the error that accumulates for the partial pressure and
+volume mixing ratio of CO2. As we previously note, the partial
+pressure of CO2 decreases as a consequence of H2O outgassing,
+and this behaviour is again evident for these cases (Fig. 7a). For
+the previous formulation, this results in more than 100% error for
+the CO2 partial pressure and mixing ratio at 10 Myr. We further
+confirm the trend shown in Fig. 6c that the correct case predicts
+Article number, page 8 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+10−2 10−1 100 101 102 103
+Time (Myr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+φg
+(a) Global melt fraction, φg
+Case
+3v
+3vs
+3c, 3cs
+10−2 10−1 100 101 102 103
+Time (Myr)
+80
+90
+100
+110
+120
+p (bar)
+(b) CO2 partial pressure (bar)
+Case
+3v
+3vs
+3c, 3cs
+10−2 10−1 100 101 102 103
+Time (Myr)
+0
+50
+100
+150
+200
+p (bar)
+(c) H2O partial pressure (bar)
+Case
+3v
+3vs
+3c, 3cs
+10−2 10−1 100 101 102 103
+Time (Myr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+φg
+(d) Global melt fraction, φg
+Case
+7v
+7vs
+7c, 7cs
+10−2 10−1 100 101 102 103
+Time (Myr)
+600
+650
+700
+750
+p (bar)
+(e) CO2 partial pressure (bar)
+Case
+7v
+7vs
+7c, 7cs
+10−2 10−1 100 101 102 103
+Time (Myr)
+0
+50
+100
+150
+200
+p (bar)
+(f) H2O partial pressure (bar)
+Case
+7v
+7vs
+7c, 7cs
+Fig. 5. Evolution of atmosphere (a, b, c) Case 3, (d, e, f) Case 7. A case suffix of ‘v’ denotes variable mixing length, ‘c’ constant mixing length,
+and ‘s’ gravitational separation. (a, d) Global melt fraction φg, (b, e) Partial pressure of CO2, (c, f) Partial pressure of H2O. For a constant mixing
+length, cases with and without gravitational separation are visually indistinguishable and therefore plotted together.
+10−2 10−1 100 101 102
+Time (Myr)
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+rCO2
+(a) CO2 volume mixing ratio
+10−2 10−1 100 101 102
+Time (Myr)
+102
+XCO2
+(b) CO2 in melt (ppm)
+051015
+φg (%)
+0
+20
+40
+60
+80
+100
+D
+ep
+le
+ti
+o
+n
+(%
+)
+H2O
+(c) Interior H2O depletion
+Case (rf,CO2 )
+3c (0.25)
+3cw, previous
+7c (0.75)
+7cw, previous
+Fig. 6. Comparison of Case 3c and 7c with a previous formulation (but otherwise identical parameters) that excludes the ratio of molar masses from
+the volatile mass–partial pressure relationship (Eqs. 2 and A.1). (a) CO2 volume mixing ratio, (b) Abundance of CO2 in the melt, (c) Depletion
+fraction (%), which is relative to the initial amount of volatile that was partitioned into the interior according to the volatile mass balance.
+Article number, page 9 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+10−3 10−2 10−1 100 101
+Time (Myr)
+0
+50
+100
+150
+200
+250
+300
+350
+p (bar)
+(a) Partial pressure (bar)
+CO2
+H2O
+CO2 previous
+H2O previous
+10−3 10−2 10−1 100 101
+Time (Myr)
+10−2
+10−1
+100
+V
+o
+lu
+m
+e
+m
+ix
+in
+g
+ra
+ti
+o
+(b) Volume mixing ratio
+CO2
+H2O
+CO2 previous
+H2O previous
+10−3 10−2 10−1 100 101
+Time (Myr)
+−20
+0
+20
+40
+60
+80
+100
+120
+D
+iff
+er
+en
+ce
+(%
+)
+(c) Difference (%)
+CO2 partial
+H2O partial
+CO2 mixing
+H2O mixing
+Fig. 7. Extra case with parameters similar to reference-A (Nikolaou et al. 2019). Comparison of a correct and previous formulation case, in which
+the only difference is that the previous case excludes the ratio of molar masses from the volatile mass–partial pressure relationship (Eq. 2). For
+CO2 and H2O: (a) Partial pressure, (b) Volume mixing ratio, (c) Relative difference of previous case to correct case (%).
+less depletion of the H2O interior reservoir (figure not shown).
+Therefore, this preliminary analysis suggests that results of pre-
+vious studies are impacted by the difference of the molar masses
+of CO2 and H2O.
+4.2. Magma ocean solidification and outgassing of H2O
+4.2.1. Magma ocean lifetime
+There are broadly two ways to define the lifetime of a magma
+ocean. Firstly, the lifetime can be the time taken for either the
+surface or the bulk of the mantle to reach the rheological transi-
+tion (‘RT definition’); below this transition the cooling timescale
+is dictated by melt–solid separation and ultimately the viscous
+creep of the solid matrix. Secondly, the lifetime may instead be
+the time for a magma ocean to freeze to a near or fully solid state
+(‘solid definition’). These definitions are sensitive to different
+parameters and regimes of a cooling magma ocean. The lifetime
+according to the RT definition is dictated by the efficiency of the
+atmosphere to radiate heat as well as the melting curves near the
+surface which determine when the RT is reached. In this case,
+the cooling timescale is controlled by radiative energy emission
+from the hot surface and is not limited by heat transfer to the
+surface, which is rapid for a turbulent magma ocean. This is why
+cooling to the RT is not sensitive to the choice of mixing length
+(variable or constant) or the inclusion of gravitational separation
+(Fig. 5). Cooling from a molten state to the RT is rapid without
+an insulating atmosphere, occurring from a few hundred years
+(Solomatov 2000) to several hundred thousand years (Monteux
+et al. 2016). This lifetime is increased by orders of magnitude
+to 1 Myr to 100 Myr for models that account for a co-evolving
+atmosphere (Elkins-Tanton 2008; Lebrun et al. 2013; Hamano
+et al. 2013; Nikolaou et al. 2019).
+For the solid definition of lifetime, the atmospheric cool-
+ing rate and interior melting curves can conspire to give similar
+cooling times, albeit for completely different reasons. For ex-
+ample, models that assume cooling is limited by radiative heat
+loss can crystallise 98% of the Earth’s mantle in less than 5 Myr
+(Elkins-Tanton 2008). We expect this time to increase if we take
+account of the transition to a cooling timescale dictated by a vis-
+cous lid or interior dynamics once the surface reaches the RT.
+However, the formation of a viscous lid can be mitigated by up-
+wards draining of buoyant melt through a solid matrix, which
+keeps the near surface hot at the expense of cooling the deep in-
+terior (Fig. 5). Although a dynamic model of the interior reports
+a similar lifetime to Elkins-Tanton (2008) of a few Myr (Lebrun
+et al. 2013), this is a consequence of very steep melting curves
+such that most of the mantle is crystallised by the time the sur-
+face reaches the RT. Lebrun et al. (2013) and Abe (1997) use
+melting curves based on an ideal mixture of MgSiO3 and MgO
+extrapolated to high pressure, which results in a liquidus tem-
+perature at the base of the mantle of over 6000 K. This is around
+800 K higher than the liquidus of peridotite (Fiquet et al. 2010)
+and 1250 K higher than the liquidus of chondritic mantle (An-
+drault et al. 2011). Salvador et al. (2017) update the model of
+Lebrun et al. (2013) to use chondritic melting curves (Andrault
+et al. 2011) and find that the surface temperature reaches the RT
+between around 500 kyr and 1 Myr. These time estimates are
+impacted by a miscalculation of the outgoing long-wavelength
+radiation in their atmosphere model (see Marcq et al. 2017, for
+discussion).
+The majority of previous magma ocean models use bound-
+ary layer theory to model interior dynamics, which facilitates
+continuous outgassing since they do not consider lid formation
+at the surface which can restrict cooling. Rather, these models
+compute an estimate of the bulk viscosity of the mantle that
+is then used for calculating an effective Rayleigh number and
+hence the magma ocean heat flux. We reproduce these types of
+models using a constant mixing length, which also has the effect
+of disregarding a near-surface lid that can influence the cooling
+rate. We refer to these cases as early outgassing cases (Sect. 3.2).
+However, due to the true 1-D nature of our model, we also inves-
+tigate cases that form a viscous lid at the surface, resulting in
+extended outgassing cases (Sect. 3.1). These cases represent an
+end-member scenario in which melt–solid separation is insuffi-
+cient to maintain a hot surface and prevent lid formation. For
+these cases, there is a dramatic change in cooling style once the
+surface reaches the RT, since the growth of a lid greatly hinders
+heat exchange from the interior to the atmosphere. The surface
+cools rapidly due to efficient radiation of heat and the compara-
+Article number, page 10 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+tively sluggish internal (viscous) dynamics that cannot replenish
+the near surface with heat at the same rate due to presence of the
+viscous lid. Hence the planet transitions from a cooling timescale
+dictated by the atmosphere to a cooling timescale dictated by the
+lid and the interior dynamics. The liquidus and solidus of the
+mantle determine both when the surface reaches the RT and the
+global melt fraction at this time, which depends on the gradient
+of the melting curves with pressure and their relationship to the
+thermal profile.
+Gravitational separation of melt and solid phases can reduce
+the cooling timescale of the extended outgassing cases by around
+an order of magnitude, and does not appreciably alter the cool-
+ing timescale of the early outgassing cases. At the RT, upwards
+draining of buoyant melt delivers heat from deep within the man-
+tle to the surface, which maintains a hot surface to enable both
+efficient radiative cooling as well as preventing a viscous lid
+from forming. Therefore, the timescale for magma ocean cool-
+ing with gravitational separation is bracketed by the extended
+and early outgassing cases (Fig. 5). We can furthermore con-
+sider a melt–solid density crossover that exists at high pressure,
+such that melt drains downwards from a (buoyant) solid matrix
+to form a basal magma ocean (e.g. Labrosse et al. 2007). For
+this (unmodelled) crossover scenario, we surmise that the global
+melt fraction would remain higher for extended time, compared
+to a scenario where melts are buoyant throughout the mantle.
+In addition to the transport of heat downwards due to melt mi-
+gration, the growth of a mid-mantle viscous layer can restrict
+the cooling of the basal magma ocean beneath. This is indepen-
+dent of whether or not a viscous lid at the surface is also present
+or forming. The mid-mantle layer may also render the assump-
+tion of dissolution equilibrium invalid with respect to the molten
+reservoir beneath, such that a proportion of the initial volatile
+budget is trapped in the deep mantle and unable to readily out-
+gas.
+4.2.2. Outgassing volatiles
+Despite differences in methodology and the mass–partial pres-
+sure relationship (Sect. 4.1), for all cases we also find that CO2
+controls the early cooling rate of the interior and H2O outgasses
+later (Lebrun et al. 2013; Nikolaou et al. 2019). However, this
+result is strongly controlled by the solubility curves, which are
+often the same or similar between studies, so agreement in this
+regard is not surprising. A more interesting result, is that the out-
+gassing of H2O is strongly impacted by the delayed cooling and
+solidification of the mantle caused by a surface lid (extended
+outgassing cases). For the initial H2O and CO2 combinations
+that we consider in this study, we find that the majority of H2O
+does not outgas during the magma ocean stage prior to the sur-
+face reaching the RT. Instead, 90% of the initial H2O reservoir
+(by mass) remains in the interior and its outgassing rate is de-
+termined by heat transport in the mantle (gravitational separa-
+tion and viscous flow) and the surface lid. Late or extended out-
+gassing of H2O, or any volatile for that matter, is a challenge
+to model since it falls outside the melt fraction regime that is
+typically considered by either short- or long-term modelling ap-
+proaches.
+When the surface reaches the RT, the interior dynamics
+are switching to a viscous flow regime according to the local
+Reynolds number and melt–solid separation can become an im-
+portant energy transfer mechanism. The transition from inviscid
+to viscous convection is validated by recent studies that demon-
+strate that solid-state convection begins during magma ocean
+crystallisation (Ballmer et al. 2017; Maurice et al. 2017). We
+thus capture the first-order nature of the transition that is impor-
+tant for bulk heat transport, but the details of how a lid forms and
+evolves at the surface is complex, notably depending on melt mi-
+gration in the near-surface environment. Nevertheless, if signif-
+icant volatile outgassing from terrestrial planets occurs once the
+surface has partially solidified to form a lid, then there could be
+profound feedback between processes operating in the interior,
+atmosphere, and surface. The lid-forming process is particularly
+relevant for H2O outgassing, since H2O is relatively soluble in
+silicate melt and does not readily outgas until the global melt
+fraction drops to a few tens of percent.
+For a fixed partial pressure of H2O at the end of outgassing,
+Fig. 3a shows that the time taken to reach the RT is approx-
+imately monotonically increasing with increasing initial CO2
+abundance. This appears to contradict Fig. 6 in Salvador et al.
+(2017), which shows the RT is first obtained for a case with an
+atmosphere that has a reduced initial CO2 content. Salvador et al.
+(2017) cases show a similar early cooling trajectory to our cases,
+with a high initial CO2 abundance resulting in slower cooling
+and higher surface temperature relative to low initial CO2 abun-
+dance. However, the crucial difference is that whilst both stud-
+ies use the same H2O absorption coefficient of 10−2 m2/kg, we
+use a CO2 absorption coefficient of 5 × 10−2 m2/kg (i.e. larger
+than the H2O value) whereas Salvador et al. (2017) use 10−4
+m2/kg (i.e. smaller than the H2O value). Once H2O begins to
+outgas it dilutes the CO2 in the atmosphere and drives the effec-
+tive absorption coefficient of the multi-species atmosphere to-
+wards the value of the H2O absorption coefficient. For Salvador
+et al. (2017), this means that the case with low initial CO2 abun-
+dance is strongly diluted by H2O and hence cooling then pro-
+ceeds slower due to the influence of the relatively large H2O
+absorption coefficient. This is compared to the case with high
+initial CO2 abundance that is diluted less by H2O and hence re-
+tains an effective absorption coefficient that is closer to the value
+for pure CO2. For our cases, we do not observe such an appre-
+ciable change in cooling rate once H2O outgasses because the
+absorption coefficients of CO2 and H2O are comparable—only
+differing by a factor of five versus a factor of 100 in Salvador
+et al. (2017).
+We apply the volatile mass balance (Eq. A.4) throughout the
+evolution of the extended outgassing cases, which implies that
+the interior and atmosphere are always in thermodynamic equi-
+librium even once the surface cools and forms a lid. Hence, out-
+gassing in our models is restricted by the planetary cooling rate
+and not the ability of the interior to communicate with the atmo-
+sphere. Although we compute the evolution of Case 3v for sev-
+eral Gyr (Fig. 1), our model does not consider any volatile sinks,
+such as atmospheric escape or ingassing of volatile species due
+to geochemical cycling driven by surface processes such as plate
+tectonics. Rather, our objective is to demonstrate the switching
+of timescales that control planetary cooling, and to note the po-
+tential importance of the surface lid and near-surface dynamics
+that has largely been ignored by previous modelling studies.
+4.3. Implications for observations
+We apply the results of our evolutionary models to the detec-
+tion and characterisation of rocky exoplanets by considering the
+global melt fraction at various stages of the evolution. This is
+facilitated since our models evolve through a series of quasi-
+equilibrium states, which enables us to inform both observations
+of transient magma oceans (e.g. Miller-Ricci et al. 2009) as well
+as permanent magma oceans on ‘lava planets’ that are sustained
+by intense insolation. Although the mechanism by which a melt
+Article number, page 11 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+10−2 10−1 100 101
+Time (Myr)
+0
+50
+100
+150
+200
+p
+(bar)
+φ
+g
+=
+0
+.7
+5
+0
+.3
+0
+0
+.1
+0
+0
+.0
+1
+(a) Case 1c (rf ,CO2 = 0.1)
+CO2
+H2O
+100 101 102
+Time (Myr)
+0
+500
+1000
+1500
+2000
+p
+(bar)
+φ
+g
+=
+0
+.7
+5
+0
+.3
+0
+0
+.1
+0
+0
+.0
+1
+(b) Case 9c (rf ,CO2 = 0.9)
+CO2
+H2O
+Fig. 8. Evolution of partial pressure of CO2 and H2O of (a) Case 1c, (b) Case 9c. Vertical dotted lines show the times at which the interior reaches
+a global melt fraction φg = 0.75, 0.3, 0.1, and 0.01.
+reservoir is formed and sustained is different for these two sce-
+narios, both result in a molten or partially molten planet, and
+we now focus on the observable nature of such a planet. Nu-
+merous hot terrestrial planets are expected to be discovered by
+current (e.g. TESS) and future (e.g. PLATO, ARIEL) observa-
+tories, and even though they exhibit extreme environments from
+the perspective of habitability, they remain at the cutting edge of
+observations. Figure 8 shows the evolution of the partial pres-
+sure in the atmosphere for Case 1c and Case 9c, with a relatively
+low (r f ,CO2 = 0.1) and high (r f ,CO2 = 0.9) final volume mixing
+ratio of CO2, respectively. We determine the global melt frac-
+tion φg and surface temperature (Ts) at several times which are
+denoted by vertical dotted lines (Fig. 8). For these global melt
+fractions, we combine the integrated interior–atmosphere model
+with structure calculations and spectra calculations to determine
+the observational nature of an Earth-like planet with an early
+outgassed atmosphere (Fig. 9).
+4.3.1. Mass–radius
+Figure 9 reveals that the thickness of the silicate mantle is around
+10% less for a fully solid mantle than for a fully molten mantle.
+A mantle that is locked at the rheological transition (φg about
+30%) has a thickness around 5% less. The contraction of the
+mantle follows a similar trend for both Case 1c and 9c, which is
+mostly a consequence of plotting the same global melt fraction
+φg. By contrast, the atmospheric structure of the two cases ex-
+hibits crucial differences. The massive CO2 atmosphere of Case
+9c undergoes continual contraction due to cooling, such that it
+reduces in height by around 40% as the mantle transitions from
+dominantly molten (φg = 1) to solid (φg = 0.01). Case 1c also
+contracts as φg decreases, but we notice that the atmospheric
+height is predicted to be higher for φg = 0.01 than for φg = 0.10.
+This is because H2O flushing into the atmosphere during the later
+stage of the evolution reduces the mean molar mass of the atmo-
+sphere such that the atmosphere expands. This dilution of the
+atmosphere also occurs for Case 9c, but not to the same extent
+since there is insufficient H2O available to appreciably decrease
+the mean molar mass of the atmosphere (Fig. 10c).
+We explore the connection between outgassing and plane-
+tary radius by determining the evolution of the radius for Case
+1c and 9c (Fig. 10a, b), for both the planetary surface and the
+total radius which includes the atmospheric height (defined at 10
+mbar). Initially the hot atmosphere increases the planetary radius
+relative to a molten mantle by 2% to 3%. The early evolution of
+the radius before the rheological transition is reached is driven
+by contraction of the mantle with a smaller contribution from at-
+mospheric cooling. Beyond the rheological transition, the mantle
+continues to contract to reduce the total radius by a further 1%
+at the end of solidification. For the CO2-dominated atmosphere
+(Case 9c), the total radius tracks the planetary surface radius,
+suggesting that contraction of the atmosphere is near complete
+once the rheological transition is reached. For Case 1c, how-
+ever, outgassing of H2O once the planet reaches around 10%
+melt fraction is able to compensate for the reduction in radius
+due to mantle contraction, and increases the total planetary ra-
+dius before it then decreases again (Fig. 10a).
+Our results show that variations in mantle melt fraction and
+atmospheric thickness might be the cause of observed variabil-
+ity in the bulk densities of super-Earths below two Earth radii
+(Fig. 11). Super-Earths do not follow a simple mass–radius
+trend, but rather reveal a diversity of mass–radius relationships
+that are usually associated with compositional and structural dif-
+ferences. Close-in planets that are highly irradiated and experi-
+ence strong tidal heating (e.g. Bolmont et al. 2013) or induction
+heating due to the stellar magnetic field (Kislyakova et al. 2017),
+might have largely molten interiors which reduces the bulk den-
+sity similar to our calculated planetary interiors (Fig. 9). If the
+density decrease observed here for molten Earth-sized bodies
+is of similar scale for more massive super-Earths, a completely
+molten mantle could explain the radius of close-in rocky exo-
+planets such as HD219134 b and 55 Cnc e. This offers an alter-
+native explanation to these planets having exotic solid composi-
+tions with light element enrichment and possibly a mineral-rich
+atmosphere (e.g. Dorn et al. 2019).
+Article number, page 12 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+0
+50
+100
+150
+200
+250
+A
+tm
+o
+sp
+h
+er
+e
+h
+ei
+g
+h
+t
+(k
+m
+)
+0%
+-25%
+-50%
+(a) Case 1c (rf ,CO2 = 0.1)
+φg (Ts)
+1.00 (2707)
+0.75 (1966)
+0.30 (1728)
+0.10 (1167)
+0.01 (911)
+0%
+-25%
+-50%
+(b) Case 9c (rf ,CO2 = 0.9)
+φg (Ts)
+1.00 (2708)
+0.75 (1966)
+0.30 (1704)
+0.10 (1550)
+0.01 (1452)
+200 1000 2000 3000 4000 5000
+T (K)
+500
+1000
+1500
+2000
+2500
+3000
+3500
+M
+a
+n
+tl
+e
+d
+ep
+th
+(k
+m
+)
+-10%
+-5%
+0%
+200 1000 2000 3000 4000 5000
+T (K)
+-10%
+-5%
+0%
+Fig. 9. Combining the integrated interior–atmosphere evolutionary model with internal structure calculations. Global melt fraction is φg and surface
+temperature is Ts. Planetary surface is at 0 km and the atmospheric height and mantle depth are plotted relative to this coordinate. Horizontal bars
+at the end of each profile show the 10 mbar pressure contour (uppermost bar) and the core-mantle boundary depth (lowermost bar). Horizontal
+dotted lines indicate the percentage change in height (atmosphere) and depth (mantle) relative to the initial height and depth of the respective
+reservoir at 0 Myr. (a) Case 1c, (b) Case 9c.
+10−2 10−1 100 101
+Time (Myr)
+6300
+6400
+6500
+6600
+6700
+6800
+6900
+R
+a
+d
+iu
+s,
+R
+(k
+m
+) 0
+.7
+5
+0
+.3
+0
+0
+.1
+0
+φ
+g
+=
+0
+.0
+1
+(a) Case 1c (rf ,CO2 = 0.1)
+Surface
+Total
+100 101 102
+Time (Myr)
+6300
+6400
+6500
+6600
+6700
+6800
+6900
+R
+a
+d
+iu
+s,
+R
+(k
+m
+) 0
+.7
+5
+0
+.3
+0
+0
+.1
+0
+φ
+g
+=
+0
+.0
+1
+(b) Case 9c (rf ,CO2 = 0.9)
+Surface
+Total
+10−2 10−1 100 101 102
+Time (Myr)
+20
+25
+30
+35
+40
+45
+M
+o
+la
+r
+m
+a
+ss
+(g
+/
+m
+o
+l)
+CO
+2
+do
+mi
+na
+nt
+H
+2O
+dominant
+(c) Atmosphere molar mass
+Case (rf,CO2 )
+1c (0.1)
+9c (0.9)
+−6
+−3
+0
+3
+∆
+R
+(%
+)
+−6
+−3
+0
+3
+∆
+R
+(%
+)
+Fig. 10. Evolution of planetary surface radius and total radius (including the atmosphere, i.e. the 10 mbar contour) of (a) Case 1c, (b) Case 9c.
+Left y-axis shows the radius R (km) and right y-axis shows the difference relative to the planetary radius with a fully molten mantle ∆R (%) (i.e.
+relative to the initial condition). Vertical dotted lines show the times at which the interior reaches a global melt fraction of φg = 0.75, 0.3, 0.1, and
+0.01. (c) Mean molar mass of the atmosphere.
+Article number, page 13 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+Fig. 11. Mass versus density diagram of confirmed exoplanets as a
+function of orbital period. Density is relative to an Earth-like interior
+ρEarth−scaled that corresponds to a planetary mass Mp. Molten mantles
+alone can lower the bulk density to ρp/ρEarth−scaled = 0.87. All planets
+are close-in such that irradiation and tidal heating may prohibit com-
+plete solidification. Planet sample is taken from the TEPCat catalogue
+(http://www.astro.keele.ac.uk/jkt/tepcat/) and shows planets with radii
+less than twice Earth (Rp < 2R⊕), and mass and radius uncertainties
+below 35% and 15%, respectively.
+It remains at the cutting edge of material science to exper-
+imentally verify the equation of state of planetary materials at
+the extreme interior conditions of super-Earths (e.g. Wicks et al.
+2018). We have intentionally limited our exposure to large un-
+certainty in the equation of state by focussing on a planet that
+is Earth-size and with Earth-like composition. Nevertheless, we
+estimate that the mantle thickness can change by up to 10% dur-
+ing cooling from a molten to solid state. Assuming an Earth-like
+core size, this mantle decrease translates to a 13% decrease in
+bulk density or a change in bulk radius of 5% for the rocky in-
+terior. The evolution of the coupled interior–atmosphere models
+indicate a change in planetary radius of up to 7%. Such differ-
+ences in density or radii can be measured with current and future
+observational facilities (e.g. HARPS, TESS, CHEOPS, PLATO).
+Especially with CHEOPS, well-characterised radii for a distri-
+bution of super-Earths might confirm an overall decrease in the
+bulk density of planets at small orbital distances and relatively
+low (Earth-like) planet mass.
+4.3.2. Planetary spectra
+We compute transmission and emission spectra for Case 1c and
+Case 9c at global melt fraction φg=1, 0.75, 0.3, 0.1, 0.01. These
+spectra correspond to the static structure calculations in Fig. 9.
+For each case, the transmission spectra are calculated for two
+central stars: a G2V star (1 solar radius, left y-axis) and a cool
+M-dwarf (0.117 solar radii, right y-axis) (Fig. 12). For a G-type
+main sequence star, the total variations in transit depth between
+the different melt fractions are of the order of 15 ppm for each of
+the two cases. Whilst the primary transits of these planets could
+be detected by the PLATO satellite mission (Rauer et al. 2014),
+the variations due to the different melt fractions are undetectable
+in the near future. It is also virtually impossible to distinguish
+between Case 1c and 9c with the currently planned, future planet
+detection and characterisation missions if the planet is orbiting a
+solar-like star.
+By contrast, if the planet orbits a cool M-dwarf, the transit
+depths increase considerably (right y-axis, Fig. 12) due to the
+much smaller stellar radius. The overall variations of the tran-
+sit depths are now in the range of 750 ppm, which are even
+detectable with current ground-based telescopes. For the same
+melt fraction, Case 1c and 9c differ of the order of 100 ppm.
+These variations are caused by the different atmospheric compo-
+sitions: Case 1c is a water-dominated atmosphere, whilst Case 9c
+is predominantly composed of CO2. Whilst challenging from the
+ground, such observations are feasible in the near future by, for
+example, the James Webb Space Telescope (JWST). The Hub-
+ble Space Telescope (HST) is in principle sensitive to these sig-
+nal levels, but lacks spectral coverage. The HST’s WFC3 instru-
+ment’s wavelength range, which is often used to observe exo-
+planets, is mostly only sensitive to H2O and does not cover the
+major absorption bands of CO2.
+Figure 13 shows the corresponding emission spectra (up-
+per panels) and secondary eclipse spectra (lower panels) for the
+same melt fractions as plotted for the transmission spectra. We
+restrict the emission spectra to a planet orbiting at 1 AU around
+an M-star host. Owing to the much higher luminosity of the
+G2V star, detecting the thermal emission spectrum of an orbit-
+ing planet would require a space-based interferometer or a space
+telescope with a starshade to mitigate the stellar light. Whilst be-
+ing theoretically investigated as a possible future space observa-
+tory (e.g. LUVOIR), no such mission is currently planned to be
+available within the foreseeable future. The overall differences in
+the secondary eclipse spectra are of the order of several hundred
+ppm in the infrared wavelength range for both cases. Such spec-
+tral variations are detectable in the near future with the JWST
+(Gardner et al. 2006). The different atmospheric compositions
+of the two cases can also be clearly distinguished; Case 1c fea-
+tures strong water absorption bands whilst Case 9c is dominated
+by the very deep CO2 absorption band at 15 µm and has only
+muted water features.
+Different melt fractions also show strong variations in the
+secondary eclipse spectra. For a planet with a low melt frac-
+tion, the spectrum resembles a black body when compared to the
+spectrum for a planet with high melt fraction. This is caused by
+the different temperature profiles. For lower melt fractions and
+lower surface temperatures, the atmospheres become increas-
+ingly isothermal in the upper atmosphere (Fig. 9) which causes
+them to appear similar to a pure black-body spectrum. Differ-
+ences in the spectra can also be noticed at shorter wavelengths.
+This part of the spectrum is determined by the back-scattering of
+the planet’s host star radiation via molecular Rayleigh scattering
+rather than thermal emission. Clear spectral signatures can only
+be seen for high melt fractions. At low melt fractions, which is
+indicative of a significant outgassed atmosphere, the atmosphere
+is optically thick enough to absorb most of the stellar radiation
+which leads to a reduced back-scattering signal in the planetary
+spectrum. Therefore, observing a planet in the infrared and at
+shorter wavelengths might enable us to differentiate observation-
+ally between the different atmospheric compositions and total
+surface pressures caused by the variations in melt fraction.
+Combining both primary transit and secondary eclipse mea-
+surements together with mass estimates via radial velocity mea-
+surements can give constraints on the atmosphere and the plan-
+etary interior to a certain degree, at least for roughly Earth-sized
+planets orbiting small M-type host stars. There are of course still
+degeneracies that can not be easily overcome, such as between
+Article number, page 14 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+1 2 3 4 5
+Wavelength (µm)
+80
+85
+90
+95
+100
+T
+ra
+n
+si
+t
+d
+ep
+th
+,
+G
+-s
+ta
+r
+(p
+p
+m
+)
+(a) Case 1c (rf,CO2=0.1)
+φg
+1
+0.75
+0.3
+0.1
+0.01
+1 2 3 4 5
+Wavelength (µm)
+80
+85
+90
+95
+100
+T
+ra
+n
+si
+t
+d
+ep
+th
+,
+G
+-s
+ta
+r
+(p
+p
+m
+)
+(b) Case 9c (rf,CO2=0.9)
+φg
+1
+0.75
+0.3
+0.1
+0.015500
+5750
+6000
+6250
+6500
+6750
+7000
+T
+ra
+n
+si
+t
+d
+ep
+th
+,
+M
+-s
+ta
+r
+(p
+p
+m
+)
+5500
+5750
+6000
+6250
+6500
+6750
+7000
+T
+ra
+n
+si
+t
+d
+ep
+th
+,
+M
+-s
+ta
+r
+(p
+p
+m
+)
+Fig. 12. Prediction of transit depths for mantle melt fraction φg = 1, 0.75, 0.3, 0.1, 0.01. (a) Case 1c, (b) Case 9c. See Fig. 9 or 13 to relate the
+global melt fraction φg to surface temperature Ts. The left and right y-axes show the transit depth for a G-star and M-star, respectively.
+the total surface pressure and the planetary surface radius for
+very massive atmospheres. Transmission spectra inherently only
+provide information about the upper atmosphere and the over-
+all planetary radius. Emission spectra, meanwhile, are sensitive
+to the atmospheric temperature profile and pressure. However,
+neither spectra can provide information about the very deep at-
+mosphere if the planet possesses a massive atmosphere. Ther-
+mal emission spectra originate from parts of the atmosphere
+where the optical depth integrated from the top of the atmosphere
+downwards is approximately unity. Information from larger opti-
+cal depths (and thus higher pressures) is therefore not accessible.
+4.3.3. Atmospheric escape
+We now evaluate thermal and non-thermal mechanisms of at-
+mospheric escape in the context of our models. In the thermal
+regime, we consider end members due to two heating mecha-
+nisms: solar heating at the surface (modified surface Jeans es-
+cape) and XUV heating of the upper atmosphere (energy-limited
+escape or hydrodynamic escape), both of which are discussed in
+Johnson et al. (2015). In the non-thermal regime we consider
+plasma-driven escape, where we focus on the observed mecha-
+nism of atmospheric sputtering (e.g. Haff et al. 1981; Johnson
+2004; Oza et al. 2019). Surface and upper atmospheric heat-
+ing dominate light atmospheres (H, He), but nevertheless can
+be calculated for volatile species of any molar mass. In a test
+model (not shown), we implement escape due to surface heating
+(Eq. 2b, Johnson et al. 2015) and find that it has negligible influ-
+ence on magma ocean cooling. Even though the surface temper-
+ature is high, the molar mass of both H2O and CO2 is large which
+results in a large Jeans parameter and hence minimal Jeans es-
+cape in the absence of dissociation (Eq. 1b, Johnson et al. 2015).
+Upper atmospheric heating that is limited by XUV stellar irradi-
+ation is often used to approximate hydrodynamic escape at ter-
+restrial exoplanets (e.g. Bourrier et al. 2017). This may evaporate
+the secondary H2O atmospheres that are produced from interior
+outgassing. During the early Earth’s transient magma ocean, the
+enhanced EUV irradiation can be more than one hundred times
+the present-day value, which results in around 109g/s of H2O
+loss (Catling & Kasting 2017). This corresponds to roughly 1.5
+kbar of water loss over 100 Myr, and may be the main driver
+of the desiccation of Venus. Nevertheless, we caution that the
+physics of upper atmospheric heating is not well constrained for
+terrestrial planets and in particular the heating efficiency factor
+is necessarily assumed to be similar to large planets, although it
+may in fact be very different. This is because the chemical speci-
+ation (e.g. CO2, H2, N2) of terrestrial atmospheres regulates the
+heating of the upper atmosphere that is responsible for escape.
+In-situ solar system observations reveal that plasma-driven
+heating is the dominant mechanism for atmospheric loss at all
+terrestrial planets at present day (e.g. Zahnle & Catling 2017;
+Catling & Kasting 2017). These data are particularly valuable to
+inform the loss rate of terrestrial atmospheres for planets orbit-
+ing M-dwarfs that are known to be strongly magnetic (Garraffo
+et al. 2017). MAVEN recently detected an oxygen escape rate of
+around 103 g/s at Mars (Jakosky et al. 2018), which when sput-
+tered for 4.5 Gyr corresponds to a loss of approximately 8 bar of
+CO2 (Luhmann et al. 1992). For a planet at 1 AU, this yields a
+lower loss limit of approximately 18 bar of CO2 due to sputter-
+ing alone. Simulations that include plasma-driven losses as well
+as ion-molecular dissociation are therefore important for future
+long-term evolution models (e.g. Egan et al. 2019; Leblanc et al.
+2019). In this regard, our model is an end-member that assumes
+retention of an outgassed atmosphere. Importantly, atmospheric
+losses that occur over Gyr must be considered alongside geo-
+chemical cycling that also acts to deplete the atmospheric reser-
+voir over geological timescales. Consideration of both of these
+effects will be important for bridging short-term and long-term
+evolution models, and should form the basis of future coupled
+interior–atmosphere models.
+4.3.4. Condensation, clouds, and atmospheric convection
+We use a radiative-equilibrium solution with grey opacity to
+compute the atmospheric structure (Abe & Matsui 1985). For
+an H2O-dominated atmosphere, this solution is approximately
+valid for both the radiatively-equilibrated structure for small op-
+tical depths and the convectively-equilibrated structure for large
+optical depths (Appendix A, Abe & Matsui 1985). Although
+this formulation facilitates efficient calculations when integrated
+in an interior evolution model, it necessarily simplifies some
+aspects of the atmospheric structure. For example, our atmo-
+Article number, page 15 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+100 101
+Wavelength (µm)
+10−10
+10−8
+10−6
+10−4
+10−2
+100
+102
+104
+F
+lu
+x
+d
+en
+si
+ty
+(W
+m
+−
+2
+µ
+m
+−
+1
+)
+(a) Case 1c (rf,CO2 = 0.1)
+φg (Ts)
+1.00 (2707)
+0.75 (1966)
+0.30 (1728)
+0.10 (1167)
+0.01 (911)
+100 101
+Wavelength (µm)
+10−10
+10−8
+10−6
+10−4
+10−2
+100
+102
+104
+F
+lu
+x
+d
+en
+si
+ty
+(W
+m
+−
+2
+µ
+m
+−
+1
+)
+(b) Case 9c (rf,CO2 = 0.9)
+φg (Ts)
+1.00 (2708)
+0.75 (1966)
+0.30 (1704)
+0.10 (1550)
+0.01 (1452)
+100 101
+Wavelength (µm)
+0
+200
+400
+600
+800
+1000
+F
+p
+/
+F
+?
+(p
+p
+m
+)
+(c) Case 1c (rf,CO2 = 0.1)
+φg
+1.00
+0.75
+0.30
+0.10
+0.01
+100 101
+Wavelength (µm)
+0
+200
+400
+600
+800
+1000
+F
+p
+/
+F
+?
+(p
+p
+m
+)
+(d) Case 9c (rf,CO2 = 0.9)
+φg
+1.00
+0.75
+0.30
+0.10
+0.01
+Fig. 13. (a, b) Prediction of emission spectra and (c, d) secondary eclipse signal for a planet orbiting an M-star at 1 AU with a mantle melt fraction
+φg =1, 0.75, 0.3, 0.1, 0.01 and surface temperature Ts. (a, c) Case 1c, (b, d) Case 9c.
+sphere model does not consider condensation of H2O, which
+can give rise to a moist troposphere that restricts the outgo-
+ing long-wavelength radiation (OLR) to around 300 Wm−2 (i.e.
+Nakajima’s radiation limit, Nakajima et al. 1992). For an atmo-
+sphere with 300 bar of H2O and 100 bar of CO2, this limit is
+reached for surface temperatures less than around 1700 K for
+a cloud-free atmosphere and 2000 K if clouds are considered
+(Marcq et al. 2017). In our models, the OLR always decreases
+monotonically with surface temperature, so exclusively incorpo-
+rating a radiation limit would increase the cooling rate during the
+later stages of magma ocean crystallisation. Conversely, clouds
+reduce the OLR by about a factor of 2 to 4, although their in-
+fluence is diminished at high temperature (Fig. 1, Marcq et al.
+2017); hence, consideration of clouds alone would extend the
+lifetime of the magma ocean in our models. It should also be
+noted that the interplay of radiation limits, solar insolation, and
+hydrodynamic escape, can produce an evolutionary dichotomy
+for initially molten planets that reside either side of a critical or-
+bital distance (Hamano et al. 2013).
+Clouds have a large impact on the spectra and surface tem-
+perature of Earth-like planets. They can scatter incident stellar
+radiation back to space but also contribute a greenhouse effect by
+trapping infrared radiation in the lower atmosphere (Marley et al.
+2013). The net radiative impact of clouds is determined by the
+size distribution of their particles, composition (for Earth-like
+planets: either solid or liquid water, or dry ice), optical depth,
+and also their location within the atmosphere. In Earth’s atmo-
+sphere, for example, low-level water clouds exhibit a net cooling
+effect on the surface, whilst high-level water ice clouds have a
+net greenhouse effect (Kitzmann et al. 2010). Determining the
+climatic impact of water clouds in the hot and massive atmo-
+spheres considered in this study requires knowledge of their for-
+mation mechanisms under strongly non-Earth-like atmospheric
+conditions. Many of the clouds’ properties depend on the spa-
+tial distribution of the initial cloud condensation nuclei, which
+are presently unknown for this class of atmosphere. For exam-
+ple, it is not clear if condensation nuclei would be present in the
+region of the atmosphere where water can condense. Since the
+vertical extension of the atmospheres in this study is large, nu-
+clei would need to be transported over long distances from the
+surface to the high atmosphere (100s km versus less than 20 km
+for present-day Earth). Therefore, due to the inherent complex-
+ity of treating cloud formation in hot and massive atmospheres,
+we choose to neglect them in this work.
+Water clouds comparable to the ones found in Earth’s atmo-
+sphere can mute spectral features of molecules and lower the
+overall OLR (Kitzmann et al. 2011a); a reduction in spectral flux
+is also reported for hot atmospheres with clouds above a magma
+ocean (Figs. 8 and 10, Marcq et al. 2017). However, water clouds
+can also enhance the spectral signals by increasing the amount
+Article number, page 16 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+of back-scattered light from the atmosphere to space (Kitzmann
+et al. 2011b). Therefore, determining their actual impact again
+depends on their location in the atmosphere, composition, and
+particle size. Clearly, clouds that form in parts of the atmosphere
+that are optically thick have a negligible impact on the thermal
+emission spectra. As previously mentioned, since the details of
+cloud formation in the massive atmospheres that we consider are
+unknown, we do not take them into account for the calculation of
+the emission spectra (Fig. 13). Besides their impact on the atmo-
+spheric emission and reflection, clouds are also able to influence
+the transmission spectra of planets. Cloud layers high in the at-
+mospheres of hot Jupiters and mini-Neptunes can increase the
+overall transit radius and mute the signatures of molecules in the
+transmission spectrum (Marley et al. 2013). For the atmospheres
+of terrestrial planets that we consider, clouds are usually found in
+the troposphere. This region of the atmosphere is already mostly
+optically thick due to molecular absorption, such that the impact
+of clouds on the transmission spectra is negligible (Kaltenegger
+& Traub 2009).
+We expect our primary result to remain robust despite the
+aforementioned complexities that will influence atmospheric
+structure. To recap, the planetary radius of an Earth-like planet
+differs by 5% depending whether it is molten or solid, and an
+outgassed atmosphere can introduce an additional radius per-
+turbation of a few percent depending on the initial inventory of
+CO2 and H2O. We observe the same physical mechanisms that
+control the atmospheric height as recently summarised in Turbet
+et al. (2019): (1) total mass of the atmosphere, (2) temperature
+of the atmosphere, and (3) mean molar mass of the atmosphere
+(Fig. 10). The relatively late outgassing of H2O compared to
+CO2 is driven by the difference in solubility of the two volatiles
+in silicate melt. This causes the planetary radius to expand for
+H2O-dominated atmospheres by reducing the mean molar mass
+of the atmosphere, since contraction of the interior is largely
+complete at this stage. In this regard, the atmospheric pressure–
+temperature profile is less important than the atmospheric com-
+position. However, the pressure–temperature profile controls the
+condensation of H2O and thereby the establishment of radiation
+limits, which coupled to volatile escape considerations could in
+principle produce different behaviour. This is because preferen-
+tial loss of lighter volatiles from the atmosphere will mitigate
+their ability to decrease the mean molar mass of the atmosphere,
+thereby reducing the expansion of the atmosphere.
+5. Conclusions
+We devise a coupled interior–atmosphere model to connect the
+evolution of a rocky planet to the observational nature of hot
+Earth-like planets with large outgassed atmospheres. Our mod-
+els are calibrated to give an outgassed atmosphere of 220 bar
+H2O, and we vary the final CO2 volume mixing ratio to explore
+the consequences of a CO2 versus H2O dominated atmosphere.
+The relationship between the volatile mass and partial pressure is
+often misstated in the literature when more than a single volatile
+species is considered, so we provide clarification on the correct
+expression and calibrate previous results by running compari-
+son cases. It is anticipated that the correction will greatly affect
+atmospheres that contain species with strongly differing molar
+masses, and is perhaps magnified further if the species have sim-
+ilar solubilities.
+We generate two suites of end-member models that produce
+different outgassing behaviour. For early outgassing cases, typi-
+cal of most models in the literature, outgassing is unimpeded by
+interior dynamics and magma ocean cooling generates a large
+outgassed atmosphere within a few million years. For extended
+outgassing cases, the formation of a viscous lid at the surface
+prevents efficient outgassing, particularly of H2O which has a
+higher solubility in silicate melt than CO2. This is because the
+cooling timescale is dictated by heat transport through the lid,
+and eventually the viscous flow of the solid mantle, rather than
+the radiative timescale of the atmosphere. Including melt–solid
+separation can reduce the cooling timescale of extended out-
+gassing cases by around an order of magnitude by mitigating the
+formation of the viscous lid. This is probably a maximum reduc-
+tion in the cooling timescale due to melt–solid separation, since
+we assume that melts are buoyant everywhere in the mantle and
+therefore substantial upwards draining of melt is facilitated. For
+all cases, 90% of the H2O inventory remains in the interior and
+only readily outgasses once the global melt fraction drops below
+10%; this suggests that a large reservoir of H2O can be retained
+in the interior until the very last stages of magma ocean crys-
+tallisation. Therefore, the formation of a surface lid that restricts
+heat transport could control the outgassing rate of some volatiles
+from the interior of a rocky planet.
+We combine the evolutionary models with static structure
+calculations to determine the radius of a rocky planet with vary-
+ing degrees of melt from fully molten to fully solid and with an
+outgassed atmosphere. Our results demonstrate that a hot molten
+planet can have a radius several percent larger (≈ 5%) than its
+equivalent solid counterpart, which may explain the larger radii
+of some close-in exoplanets. Outgassing of a low molar mass
+species (such as H2O, compared to CO2) can combat the con-
+tinual contraction of a planetary mantle and even marginally in-
+crease the planetary radius. We further use our models to gen-
+erate synthetic transmission and emission data to aid in the de-
+tection and characterisation of rocky planets via transits and sec-
+ondary eclipses. Atmospheres of terrestrial planets around M-
+stars that are dominated by CO2 or H2O can be distinguished by
+future observing facilities that have extended wavelength cover-
+age (e.g. JWST). Incomplete magma ocean crystallisation and
+full or part retention of an early outgassed atmosphere—as may
+be the case for close-in terrestrial planets—should be considered
+in the interpretation of observational data.
+Acknowledgements. DJB acknowledges Swiss National Science Foundation
+(SNSF) Ambizione Grant 173992. ASW acknowledges the Turner postdoc-
+toral fellowship and OAC-15-50482 in supporting this work. PS acknowl-
+edges financial support from the Swiss University Conference and the Swiss
+Council of Federal Institutes of Technology through the Platform for Ad-
+vanced Scientific Computing (PASC) programme. CD acknowledges SNSF Am-
+bizione Grant PZ00P2_174028. AVO acknowledges support from the SNSF
+grant BSSGI0_155816 “PlanetsInTime”. This research was partly inspired by
+discussions and interactions within the framework of the National Center for
+Competence in Research (NCCR) PlanetS supported by the SNSF. The calcula-
+tions were performed on UBELIX (http://www.id.unibe.ch/hpc), the HPC cluster
+at the University of Bern. We thank T. Lichtenberg for comments on an earlier
+draft of the manuscript and B.-O. Demory for discussions. Constructive critique
+from an anonymous reviewer further enhanced the manuscript.
+References
+Abe, Y. 1993, in Evolution of the Earth and Planets, ed. E. Takahashi, R. Jeanloz,
+& D. Rubie, Vol. 74 (AGU, Washington, D.C.), 41–54
+Abe, Y. 1995, in The Earth’s Central Part: Its Structure and Dynamics, ed.
+T. Yukutake (Terra Sci. Pub. Com., Tokyo), 215–230
+Abe, Y. 1997, Phys. Earth Planet. Inter., 100, 27
+Abe, Y. & Matsui, T. 1985, J. Geophys. Res.-So. Ea., 90, C545
+Andrault, D., Bolfan-Casanova, N., Nigro, G. L., et al. 2011, Earth Planet. Sci.
+Lett., 304, 251
+Ballmer, M. D., Lourenço, D. L., Hirose, K., Caracas, R., & Nomura, R. 2017,
+Geochem. Geophy. Geosys., 18, 2785
+Barber, R. J., Tennyson, J., Harris, G. J., & Tolchenov, R. N. 2006, MNRAS,
+368, 1087
+Article number, page 17 of 19
+A&A proofs: manuscript no. BowerEtAl2019Preprint_v3
+Barclay, T., Pepper, J., & Quintana, E. V. 2018, ApJS, 239, 2
+Bolfan-Casanova, N., Keppler, H., & Rubie, D. C. 2003, Geophys. Res. Lett., 30
+Bolmont, E., Selsis, F., Raymond, S. N., et al. 2013, A&A, 556, A17
+Bonati, I., Lichtenberg, T., Bower, D. J., Timpe, M., & Quanz, S. 2019, A&A,
+621
+Bond, J. C., O’Brien, D. P., & Lauretta, D. S. 2010, ApJ, 715, 1050
+Bourrier, V., Ehrenreich, D., Wheatley, P. J., et al. 2017, A&A, 599, L3
+Bower, D. J., Sanan, P., & Wolf, A. S. 2018, Phys. Earth Planet. Inter., 274, 49
+Carroll, M. R. & Holloway, J. R., eds. 1994, Volatiles in Magmas, Vol. 30 (Min-
+eralogical Society of America)
+Catling, D. C. & Kasting, J. F. 2017, Atmospheric Evolution on Inhabited and
+Lifeless Worlds (Cambridge University Press)
+Dorn, C., Bower, D. J., & Rozel, A. 2018, in Handbook of Exoplanets, ed. H. J.
+Deeg & J. A. Belmonte (Springer International Publishing)
+Dorn, C., Harrison, J., Bonsor, A., & Hands, T. 2019, MNRAS, 484, 712
+Dorn, C., Hinkel, N. R., & Venturini, J. 2016, A&A, 597, A38
+Egan, H., Jarvinen, R., & Brain, D. 2019, MNRAS, 486, 1283
+Elkins-Tanton, L. 2008, Earth Planet. Sci. Lett., 271, 181
+Elkins-Tanton, L. T. 2012, Ann. Rev. Earth Planet. Sci., 40, 113
+Fiquet, G., Auzende, A. L., Siebert, J., et al. 2010, Sci., 329, 1516
+Gardner, J. P., Mather, J. C., Clampin, M., et al. 2006, Space Sci. Rev., 123, 485
+Garraffo, C., Drake, J. J., Cohen, O., Alvarado-Gómez, J. D., & Moschou, S. P.
+2017, ApJ, 843, L33
+Grimm, S. L. & Heng, K. 2015, ApJ, 808, 182
+Haff, P. K., Watson, C. C., & Yung, Y. L. 1981, J. Geophys. Res.-Space, 86, 6933
+Hamano, K., Abe, Y., & Genda, H. 2013, Nat., 497, 607
+Hamre, B., Stamnes, S., Stamnes, K., & Stamnes, J. J. 2013, in American Insti-
+tute of Physics Conference Series, Vol. 1531, American Institute of Physics
+Conference Series, 923–926
+Heng, K. & Kitzmann, D. 2017, Mon. Not. R. Astron. Soc., 470, 2972
+Hirschmann, M. M. 2000, Geochem. Geophy. Geosys., 1
+Jakosky, B., Brain, D., Chaffin, M., et al. 2018, Icarus, 315, 146
+Johnson, R. E. 2004, ApJ, 609, L99
+Johnson, R. E., Oza, A., Young, L. A., Volkov, A. N., & Schmidt, C. 2015, ApJ,
+809, 43
+Kaltenegger, L. & Traub, W. A. 2009, ApJ, 698, 519
+Kislyakova, K. G., Noack, L., Johnstone, C. P., et al. 2017, Nat. Astron., 1, 878
+Kite, E. S., Fegley Jr, B., Schaefer, L., & Gaidos, E. 2016, ApJ, 828, 80
+Kitzmann, D. 2017, A&A, 600, A111
+Kitzmann, D., Patzer, A. B. C., von Paris, P., Godolt, M., & Rauer, H. 2011a,
+A&A, 531, A62
+Kitzmann, D., Patzer, A. B. C., von Paris, P., Godolt, M., & Rauer, H. 2011b,
+A&A, 534, A63
+Kitzmann, D., Patzer, A. B. C., von Paris, P., et al. 2010, A&A, 511, A66
+Korenaga, J. 2010, ApJL, 725, L43
+Labrosse, S., Hernlund, J. W., & Coltice, N. 2007, Nat., 450, 866
+Leblanc, F., Benna, M., Chaufray, J. Y., et al. 2019, Geophys. Res. Lett., 46, 4144
+Lebrun, T., Massol, H., Chassefière, E., et al. 2013, J. Geophys. Res.-Planet.,
+118, 1155
+Lichtenberg, T., Golabek, G. J., Gerya, T. V., & Meyer, M. R. 2016, Icarus, 274,
+350
+Luhmann, J. G., Johnson, R. E., & Zhang, M. H. G. 1992, Geophys. Res. Lett.,
+19, 2151
+Lupu, R. E., Zahnle, K., Marley, M. S., et al. 2014, ApJ, 784, 27
+Marcq, E., Salvador, A., Massol, H., & Davaille, A. 2017, J. Geophys. Res.-
+Planet., 122, 1539
+Marley, M. S., Ackerman, A. S., Cuzzi, J. N., & Kitzmann, D. 2013, in Com-
+parative Climatology of Terrestrial Planets, ed. S. J. Mackwell, A. A. Simon-
+Miller, J. W. Harder, & M. A. Bullock, Space Science Series (University of
+Arizona Press), 367–391
+Maurice, M., Tosi, N., Samuel, H., et al. 2017, J. Geophys. Res.-Planet., 122,
+577
+Miller-Ricci, E., Meyer, M. R., Seager, S., & Elkins-Tanton, L. 2009, ApJ, 704,
+770
+Monteux, J., Andrault, D., & Samuel, H. 2016, Earth Planet. Sci. Lett., 448, 140
+Mosenfelder, J. L., Asimow, P. D., Frost, D. J., Rubie, D. C., & Ahrens, T. J.
+2009, J. Geophys. Res.-So. Ea., 114
+Nakajima, M. & Stevenson, D. J. 2015, Earth Planet. Sci. Lett., 427, 286
+Nakajima, S., Hayashi, Y.-Y., & Abe, Y. 1992, J. Atmospheric Sci., 49, 2256
+Nikolaou, A., Katyal, N., Tosi, N., et al. 2019, ApJ, 875, 11
+Oza, A. V., Johnson, R. E., Lellouch, E., et al. 2019, ApJ, accepted
+Pan, V., Holloway, J. R., & Hervig, R. L. 1991, Geochim. Cosmochim. Ac., 55,
+1587
+Pierrehumbert, R. T. 2011, Principles of Planetary Climate (Cambridge Univer-
+sity Press)
+Pujol, T. & North, G. R. 2003, Tellus A, 55, 328
+Rauer, H., Catala, C., Aerts, C., et al. 2014, Exp. Astron., 38, 249
+Rothman, L. S., Gordon, I. E., Barber, R. J., et al. 2010, J. Quant. Spectr. Rad.
+Transf., 111, 2139
+Ruedas, T. 2017, Geochem. Geophy. Geosys., 18, 3530
+Salvador, A., Massol, H., Davaille, A., et al. 2017, J. Geophys. Res.-Planet., 122,
+1458
+Schaefer, L. & Elkins-Tanton, L. T. 2018, Phil. Trans. R. Soc. Lond., Ser. A, 376,
+20180109
+Schaefer, L. & Fegley, B. 2010, Icarus, 208, 438
+Schlichting, H. E. & Mukhopadhyay, S. 2018, Space Sci. Rev., 214, 34
+Shcheka, S. S., Wiedenbeck, M., Frost, D. J., & Keppler, H. 2006, Earth Planet.
+Sci. Lett., 245, 730
+Solomatov, V. S. 2000, in Origin of the Earth and Moon, ed. R. M. Canup &
+K. Righter, Space Science Series (University of Arizona Press), 323–338
+Solomatov, V. S. 2007, in Treatise on Geophysics, ed. G. Schubert, Vol. 9: Evo-
+lution of the Earth (Elsevier), 91–119
+Stixrude, L., de Koker, N., Sun, N., Mookherjee, M., & Karki, B. B. 2009, Earth
+Planet. Sci. Lett., 278, 226
+Stothers, R. B. & Chin, C. 1997, ApJL, 478, L103
+Tinetti, G., Drossart, P., Eccleston, P., et al. 2018, Exp. Astron., 46, 135
+Turbet, M., Ehrenreich, D., Lovis, C., Bolmont, E., & Fauchez, T. 2019, arXiv
+e-prints, arXiv:1906.03527
+Turcotte, D. & Schubert, G. 2014, Geodynamics (Cambridge University Press)
+Valencia, D., Sasselov, D. D., & O’Connell, R. J. 2007, ApJ, 656, 545
+Wicks, J. K., Smith, R. F., Fratanduono, D. E., et al. 2018, Sci. Adv., 4
+Wolf, A. S. & Bower, D. J. 2018, Phys. Earth Planet. Inter., 278, 59
+Yamamoto, G. & Onishi, G. 1952, J. Meteor., 9, 415
+Zahnle, K. J. & Catling, D. C. 2017, ApJ, 843, 122
+Article number, page 18 of 19
+Dan J. Bower et al.: Evolution of terrestrial interiors and mass–radius observations
+Appendix A: Volatile mass balance and evolution
+The volatile mass balance is expressed following Lebrun et al.
+(2013), except we correct the expression for the relationship be-
+tween the partial pressure of a volatile and its mass in the atmo-
+sphere (Eq. 2). For a given volatile v,
+Xv(kvMs + Ml) + 4piR2p
+(
+µv
+µ¯
+)
+pv
+g
+= X0vM
+m , (A.1)
+where Xv is the volatile concentration in the melt (liquid) phase,
+kv distribution coefficient between solid and melt, Ms man-
+tle mass of solid, Ml mantle mass of melt, Rp planetary (sur-
+face) radius, g surface gravity, µv volatile molar mass, µ¯ mean
+molar mass of the atmosphere, pv (surface) partial pressure of
+the volatile, X0v initial volatile concentration in the mantle, and
+Mm = Ms + Ml is total mantle mass. The total surface pressure
+Ps is given by Dalton’s law, which for n volatiles is
+Ps =
+n∑
+v
+pv . (A.2)
+The mean molar mass of the atmosphere is
+µ¯ =
+n∑
+v
+(
+pv µv
+Ps
+)
+. (A.3)
+For an atmosphere with n volatiles, the time derivative of Eq. A.1
+is
+dXv
+dt
+(
+kvMm + (1 − kv)Ml
+)
++ Xv(1 − kv)dM
+l
+dt
++
+4piR2pµv
+g
+1µ¯ dpvdt − pvµ¯2
+n∑
+w
+µw
+Ps
+(
+dpw
+dt
+− pw
+Ps
+dPs
+dt
+) = 0 . (A.4)
+Time-derivatives of pv, and by extension Ps, can be reduced to
+time-derivatives of Xv by applying the chain rule to Eq. 1. To
+show the origin of the discrepancy between the formulation of
+previous studies and this study, we evaluate Eq. A.4 for n = 2
+volatiles. For notional clarity, we now adopt a subscript of H to
+denote H2O and C to denote CO2, although in actuality the sub-
+scripts could refer to any two arbitrary volatile species. Eq. A.4
+now becomes
+dXv
+dt
+(
+kvMm + (1 − kv)Ml
+)
++ Xv(1 − kv)dM
+l
+dt
++
+4piR2pµv
+g
+[
+1
+µ¯
+dpv
+dt
+− pv
+µ¯2
+(µC − µH)
+(pC + pH)2
+(
+pH
+dpC
+dt
+− pC dpHdt
+)]
+= 0 ,
+(A.5)
+where µC and pC are the molar mass and partial pressure of C,
+respectively, and similarly for H. Recall that quantities with in-
+dex v relate to the volatile in question, either C or H. If we set the
+molar mass of the two species to be identical then the first term in
+the square brackets drops out, recovering the expected evolution
+equation for an atmosphere consisting of a single volatile. How-
+ever, this first term should not be neglected if the two volatiles
+have different molar masses. Furthermore, this term provides a
+non-linear coupling between all of the volatiles that are present
+in the system. Within the time stepper, we solve a system of
+coupled differential equations to obtain the time updates of the
+volatile abundances in the melt phase (i.e. dXv/dt).
+For the initial condition, it is usually most appropriate to de-
+fine an initial volatile concentration in the mantle X0v . For a man-
+tle that is fully molten at time zero, Ml = Mm and Ms = 0,
+which simplifies Eq. A.1. However, due to coupling between
+the volatiles through µ¯, as well as potential non-linearities intro-
+duced by the modified Henry’s law (i.e. when βv , 1 in Eq. 1),
+the resulting set of equations are still solved numerically.
+Article number, page 19 of 19

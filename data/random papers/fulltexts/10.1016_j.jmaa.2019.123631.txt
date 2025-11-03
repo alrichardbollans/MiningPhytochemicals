@@ -1,0 +1,2261 @@
+ar
+X
+iv
+:1
+90
+2.
+11
+01
+3v
+4 
+ [m
+ath
+.D
+G]
+  3
+ D
+ec
+ 20
+19
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES OF A PARABOLIC
+EQUATION UNDER GEOMETRIC FLOW
+GUANGWEN ZHAO
+Abstract
+In this paper, we consider a manifold evolving by a general geometric flow and study parabolic equation
+(∆− q(x, t)− ∂t)u(x, t) = A(u(x, t)), (x, t) ∈M × [0, T ].
+We establish space-time gradient estimates for positive solutions and elliptic type gradient estimates for
+bounded positive solutions of this equation. By integrating the gradient estimates, we derive the corresponding
+Harnack inequalities. Finally, as applications, we give gradient estimates of some specific parabolic equations.
+1. Introduction
+The paper study parabolic equation
+(∆− q(x, t) − ∂t)u(x, t) = A(u(x, t))(.)
+on Riemannian manifold M evolving by the geometric flow
+∂
+∂t
+g(t) = 2h(t),(.)
+where (x, t) ∈M × [0, T ], q(x, t) is a function on M × [0, T ] of C2 in x-variables and C1 in t-variable,
+A(u) is a function of C2 in u, and h(t) is a symmetric (0, 2)-tensor field on (M, g(t)). A important
+example would be the case where h(t) = −Ric(t) and g(t) is a solution of the Ricci flow introduced
+by R.S. Hamilton [12]. We will give some gradient estimates and Harnack inequalities for positive
+solutions of equation (.).
+The study of gradient estimates for parabolic equations originated with the work of P. Li and S.-
+T. Yau [18]. They prove a space-time gradient estimate for positive solutions of the heat equation
+on a complete manifold. By integrating the gradient estimate along a space-time path, a Harnack
+inequality was derived. Therefore, Li–Yau inequality is often called differential Harnack inequality. It
+is easy to see that the above space-time estimate will become an elliptic type gradient estimate for a
+time-independent solution (see [7]). But the elliptic type estimate cannot hold for a time-dependent
+solution in general, this can be seen from the form of the fundamental solution of the heat equation
+in Rn. However, in 1993, R.S. Hamilton [14] established an elliptic type gradient estimate for positive
+solutions of the heat equation on compact manifolds. It is worth noting that the noncompact version
+of Hamilton’s estimate is not true even for Rn (see [29, Remark 1.1]). Nevertheless, for complete
+noncompact manifolds, P. Souplet and Q.S. Zhang [29] obtained an elliptic type gradient estimate
+for a bounded positive solution of the heat equation after inserting a necessary logarithmic correction
+term. Li–Yau type and Hamilton–Souplet–Zhang type gradient estimates have been obtained for other
+nonlinear equations on manifolds, see for example [4, 5, 9, 17, 19, 23, 24, 27, 31–33] and the references
+therein.
+On the other hand, gradient estimates are very powerful tools in geometric analysis. For instance,
+R.S. Hamilton [13, 15] established differential Harnack inequalities for the Ricci flow and the mean
+curvature flow. These results have important applications in the singularity analysis. Over the past
+two decades, many authors used similar techniques to prove gradient estimates and Harnack inequalities
+for geometric flows. The list of relevant references includes but is not limited to [1, 3, 11, 16, 20–22,25,
+2010 Mathematics Subject Classification. Primary 53C44; Secondary 35K55, 53C21.
+Keywords. Parabolic equation, Gradient estimate, Harnack inequality, Geometric flow.
+1
+2 G. ZHAO
+30,34, 35]. In this paper, we follow the work of J. Sun [30] and M. Bailesteanu et al. [1], and focus on
+the system (.)–(.).
+Now we give some remarks on equation (.). When A(u) = au logu, the nonlinear elliptic equation
+corresponding to (.) is related to the gradient Ricci soliton. When A(u) = auβ , the nonlinear elliptic
+equation corresponding to (.) is related to the Yamabe-type equation. In general, the parabolic
+equation (.) is the so-called reaction-diffusion equation, which can be found in many mathematical
+models in physics, chemistry and biology (see [26,28]), where qu+A(u) and ∆u are the reaction term
+and the diffusion term, respectively. The reaction-diffusion equations are very important objects in
+pure and applied mathematics.
+In [6], Q. Chen and the author studied the equation (.) with a convection term on a complete
+manifold with a fixed metric. Here, we establish some gradient estimates for positive solutions of (.)
+under geometric flow (.), which are richer and sharper than [6].
+The rest of this paper is organized as follows.
+In Section 2, we establish space-time gradient estimates for positive solution of (.). We firstly
+consider that M is a complete noncompact manifold without boundary. A local and a global estimate
+were established, see Theorem 2.1 and Corollary 2.6. Next, the case that M is closed is also deal with.
+In this case, inspired by [1], we obtain a sharper estimate than [30, Theorem 6], see Theorem 2.7. We
+also give the corresponding Harnack inequalities in the above two cases, see Corollary 2.10.
+In Section 3, we consider the case that the solution is bounded, and establish elliptic type gradient
+estimates of local and global versions, see Theorem 3.1 and Corollary 3.5. The elliptic type Harnack
+inequality is also obtained, see Corollary 3.6.
+Finally, in Section 4, we give some applications and explanations of these gradient estimates in some
+specific cases. For the case of A(u) = au logu with a ∈ R, we can derive the gradient estimate for
+positive solutions. In particular, we deal with the case that the manifold evolving by the Ricci flow,
+see Corollary 4.2, 4.3, 4.4. For the case of A(u) = auβ with a ∈ R and β ∈ (−∞, 0]∪ [1,+∞), we give
+the gradient estimate for bounded positive solutions, see Corollary 4.5, 4.6.
+Throughout the paper, we denote by n the dimension of the manifold M , and by d(x, y, t) the
+geodesic distance between x, y ∈M under g(t). When we say that u(x, t) is a solution to the equation
+(.), we mean u is a solution which is smooth in x-variables and t-variable. In addition, we have to
+give some notations for the convenience of writing. Let f = log u and Aˆ(f) = A(u)
+u
+. Then
+Aˆf = A
+′(u)−A(u)/u, Aˆff = uA′′(u)−A′(u) +A(u)/u.
+For u > 0 we define several nonnegative real numbers (some of λ,Λ,Σ, κ are allowed to be infinite) as
+follows:
+λ2R := − min
+Q2R,T
+Aˆ−f = −min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
+,
+Λ2R := max
+Q2R,T
+Aˆ+f = max
+{
+0, max
+Q2R,T
+(A′(u)− A(u)/u)
+}
+,
+Σ2R := max
+Q2R,T
+Aˆ+ff = max
+{
+0, max
+Q2R,T
+(uA′′(u)−A′(u) +A(u)/u)
+}
+κ2R := −min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u) , min
+Q2R,T
+A′(u)
+}
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 3
+and
+λ := − inf
+M×[0,T ]
+Aˆ−f = −min
+{
+0, inf
+M×[0,T ]
+(A′(u)−A(u)/u)
+}
+,
+Λ := sup
+M×[0,T ]
+Aˆ+f = max
+{
+0, sup
+M×[0,T ]
+(A′(u)−A(u)/u)
+}
+,
+Σ := sup
+M×[0,T ]
+Aˆ+ff = max
+{
+0, sup
+M×[0,T ]
+(uA′′(u)−A′(u) +A(u)/u)
+}
+κ := −min
+{
+0, inf
+Q2R,T
+(A′(u)− A(u)/u) , inf
+Q2R,T
+A′(u)
+}
+.
+Here, we denote by v+ = max{0, v} and v− = min{0, v} the positive part and the negative part of a
+function v. Notice that if M is compact, then λ,Λ,Σ and κ must be finite.
+2. space-time gradient estimates for positive solutions
+Firstly, we have the following local space-time gradient estimate for (.)–(.).
+Theorem 2.1. Let (M, g(0)) be a complete Riemannian manifold, and let g(t) evolves by (.) for
+t ∈ [0, T ]. Given x0 and R > 0, let u be a positive solution to (.) in the cube Q2R,T := {(x, t) :
+d(x, x0, t) ≤ 2R, 0 ≤ t ≤ T }. Suppose that there exist constants K1,K2,K3,K4, γ, θ ≥ 0 such that
+Ric ≥ −K1g, −K2g ≤ h ≤ K3g, |∇h| ≤ K4
+and
+|∇q| ≤ γ2R, ∆q ≤ θ2R
+on Q2R,T . Then for any α > 1 and 0 < ε < 1, we have
+|∇u(x, t)|2
+u2(x, t)
+− αut(x, t)
+u(x, t)
+− αq(x, t) − αA(u(x, t))
+u(x, t)
+≤nα
+2
+t
++
+Cα2
+R2
+(
+α2
+α− 1 +
+√
+K1R
+)
++ Cα2K2 + nα
+2λ2R
++
+{
+nα2
+[
+αθ2R + nα
+2max{K22 ,K23}
++
+nα2
+4(1− ε)(α− 1)2
+(
+(α − 1)Λ2R + αΣ2R + 2(K1 + (α − 1)K3 +K4)
+)2
++
+9
+8
+nα2K4 +
+3
+4
+(
+4nα2
+ε
+) 1
+3
+(α− 1) 23 γ
+4
+3
+2R
+]} 12
+(.)
+on QR,T , where C is a constant that depends only on n.
+Remark 2.2. We see that Theorem 2.1 covers [30, Theorem 1]. In fact, when q(x, t) = A(u) = 0,
+from Theorem 2.1 we can get
+|∇u(x, t)|2
+u2(x, t)
+− αut(x, t)
+u(x, t)
+≤nα
+2
+t
++
+Cα2
+R2
+(
+α2
+α− 1 +
+√
+K1R
+)
++ Cα2K2
++
+{
+nα2
+[
+nα2max{K22 ,K23}+
+9
+8
+nα2K4
++
+nα2
+(1 − ε)(α− 1)2 (K1 + (α − 1)K3 +K4)
+2
+]} 12
+.
+4 G. ZHAO
+Let ε→ 0+, we thus get
+|∇u(x, t)|2
+u2(x, t)
+− αut(x, t)
+u(x, t)
+≤nα
+2
+t
++
+Cα2
+R2
+(
+R
+√
+K1 +
+α2
+α− 1
+)
++ Cα2K2
++
+nα2
+α− 1(K1 + (α− 1)K3 +K4)
++ nα2
+(
+max{K2,K3}+
+√
+9K4/8
+)2
+.
+To prove Theorem 2.1, we need the following two lemmas. Let f = log u, by (.) we know that f
+satisfies
+∆f = ft + q +
+A(u)
+u
+− |∇f |2 = ft + q + Aˆ(f)− |∇f |2(.)
+Set F = t(|∇f |2 − αft − αq − αAˆ). We have
+Lemma 2.3 (Lemma 3 in [30]). Suppose the metric evolves by (.). Then for any smooth function
+f , we have
+∂
+∂t
+|∇f |2 = −2h(∇f,∇f) + 2〈∇f,∇(ft)〉
+and
+(∆f)t = ∆(ft)− 2〈h,Hess f〉 − 2〈div h− 12∇(trgh),∇f〉,
+where div h is the divergence of h.
+Lemma 2.4. Let (M, g(t)) satisfies the hypotheses of Theorem 2.1. Then for any δ ∈ (0, 1
+α
+), we have
+(∆− ∂t)F ≥2(1− δα)t
+n
+(|∇f |2 − ft − q − Aˆ)2 − F
+t
+− 2〈∇f,∇F 〉
++ αtAˆf (|∇f |2 − ft − q − Aˆ)− 2(α− 1)t〈∇f,∇q〉
+− t(2(α− 1)Aˆf + αAˆff + 2K1 + 2(α− 1)K3)|∇f |2
+− 3αt√nK4|∇f | − αtn
+2δ
+max{K22 ,K23} − αt∆q.
+(.)
+Proof. By the Bochner formula, (.) and Lemma 2.3, we calculate
+∆F =2t|Hess f |2 + 2tRic(∇f,∇f) + 2t〈∇f,∇∆f〉
+− αt∆(ft)− αt∆q − αtAˆf∆f − αtAˆff |∇f |2
+=2t|Hess f |2 + 2tRic(∇f,∇f) + 2t〈∇f,∇∆f〉
+− αt(∆f)t − 2αt〈h,Hess f〉 − 2αt〈div h− 12∇(trgh),∇f〉
+− αt∆q − αtaAˆf∆f − αtaAˆff |∇f |2.
+By (.) and the definition of F we have
+∇∆f = −∇F
+t
+− (α− 1)(∇(ft) +∇q + Aˆf∇f)
+and
+(∆f)t =
+F
+t2
+− Ft
+t
+− (α− 1)(ftt + qt + Aˆfft).
+By Lemma 2.3 we also have
+Ft =|∇f |2 − αft − αq − αAˆ
++ 2t〈∇f, (∇f)t〉 − αt(ftt + qt + Aˆfft)
+=|∇f |2 − αft − αq − αAˆ
++ 2t〈∇f,∇(ft)〉 − 2th(∇f,∇f)− αt(ftt + qt + Aˆfft).
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 5
+It follows the above equalities that
+(∆− ∂t)F =2t|Hess f |2 + 2tRic(∇f,∇f)− F
+t
+− 2〈∇f,∇F 〉
+− 2αt〈h,Hess f〉 − 2αt〈div h− 12∇(trgh),∇f〉
++ αtAˆf (|∇f |2 − ft − q − Aˆ)− αt∆q − 2(α− 1)t〈∇f,∇q〉
+− 2(α− 1)th(∇f,∇f)− 2(α− 1)tAˆf |∇f |2 − αtAˆff |∇f |2
+(.)
+The assumption −K2g ≤ h ≤ K3g implies
+|h|2 ≤ nmax{K22 ,K23}.
+By Young’s inequality,
+〈h,Hess f〉 ≤δ|Hess f |2 + 1
+4δ
+|h|2
+≤δ|Hess f |2 + n
+4δ
+max{K22 ,K23}
+(.)
+for any δ ∈ (0, 1
+α
+). We also have
+| div h− 12∇(trgh)| =|gij∇ihjl − 12gij∇lhij |
+≤3
+2
+|g||∇h| ≤ 3
+2
+√
+nK4.
+(.)
+On the other hand,
+|Hess f |2 ≥ 1
+n
+(∆f)2 =
+1
+n
+(|∇f |2 − ft − q − Aˆ)2.(.)
+Substituting (.), (.) and (.) into (.) and using the assumptions on bounds of Ric and h, we
+obtain the final inequality (.). 
+The proof of Theorem 2.1. By the assumption of bounds of Ricci tensor and the evolution of the
+metric, we know that g(t) is uniformly equivalent to the initial metric g(0) (see [8, Corollary 6.11]),
+that is,
+e−2K2T g(0) ≤ g(t) ≤ e2K3T g(0).
+Then we know that (M, g(t)) is also complete for t ∈ [0, T ].
+Let φ ∈ C∞((0,+∞]),
+φ(s) =
+{
+1, s ∈ [0, 1],
+0, s ∈ [2,+∞)
+satisfies φ(s) ∈ [0, 1], φ′(s) ≤ 0, φ′′(s) ≥ −C1 and |φ
+′(s)|2
+φ(s) ≤ C1, where C1 is an absolute constant.
+Define
+η(x, t) = φ
+(
+r(x, t)
+R
+)
+,
+where r(x, t) = d(x, x0, t). Using the argument of [2], we can assume that the function η(x, t) is C
+2
+with support in Q2R,T .
+Define G = ηF . For any T1 ∈ (0, T ], let (x1, t1) ∈ Q2R,T1 at which G attains its maximum, and
+without loss of generality, we can assume G(x1, t1) > 0, and then η(x1, t1) > 0 and F (x1, t1) > 0.
+Hence, at (x1, t1), we have
+∇G = 0, ∆G ≤ 0, ∂tG ≥ 0.
+Hence, we obtain
+∇F = −F
+η
+∇η(.)
+6 G. ZHAO
+and
+0 ≥(∆− ∂t)G
+=F (∆− ∂t)η + η(∆− ∂t)F + 2〈∇η,∇F 〉.(.)
+By the properties of φ and the Laplacian comparison theorem, we have
+|∇η|2
+η
+≤ C1
+R2
+and
+∆η =φ′
+∆r
+R
++ φ′′
+|∇r|2
+R2
+≥−
+√
+C1
+R
+√
+(n− 1)K1 coth
+(√
+K1
+n−1R
+)
+− C1
+R2
+≥− (n− 1)
+√
+C1
+R2
+−
+√
+(n− 1)C1K1
+R
+− C1
+R2
+.
+By [30, p. 494], there exist a constant C2 such that
+−Fηt ≥ −C2K2F.
+Substituting the above three inequalities into (.) and using (.), we obtain
+0 ≥−
+(
+(n− 1)√C1
+R2
++
+√
+(n− 1)C1K1
+R
++
+3C1
+R2
++ C2K2
+)
+F + η(∆− ∂t)F
+=:η(∆− ∂t)F −
+(
+C3(n)
+R2
++
+C4(n)
+R
+√
+K1 + C2K2
+)
+F.
+(.)
+Let µ = |∇f(x1,t1)|
+2
+F (x1,t1)
+, then, at (x1, t1) we have
+η〈∇f,∇F 〉 = −F 〈∇f,∇η〉 ≤
+√
+C1
+R
+η
+1
+2F |∇f |
+and
+|∇f |2 − ft − q − aAˆ =
+(
+µ− t1µ− 1
+t1α
+)
+F.
+Therefore, at (x1, t1), by Lemma 2.4 and (.), and using the inequality
+3α
+√
+nK4|∇f | ≤ 2K4|∇f |2 + 9
+8
+nα2K4,(.)
+we obtain
+0 ≥2(1− δα)t1
+n
+η
+(
+µ− t1µ− 1
+t1α
+)2
+F 2 − ηF
+t1
+− 2
+√
+C1
+R
+η
+1
+2µ
+1
+2F
+3
+2
++ αt1ηAˆf
+(
+µ− t1µ− 1
+t1α
+)
+F − αt1η∆q − 2(α− 1)t1η〈∇f,∇q〉
+− t1η(2(α− 1)Aˆf + αAˆff + 2(K1 + (α− 1)K3 +K4))µF
+− 9
+8
+t1ηnα
+2K4 − t1ηnα
+2δ
+max{K22 ,K23}
+−
+(
+C3(n)
+R2
++ C4(n)
+R
+√
+K1 + C2K2
+)
+F.
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 7
+Multiplying through by t1η, we conclude that
+0 ≥2(1− δα)
+nα2
+(1 + (α− 1)t1µ)2G2 − ηG− 2
+√
+C1
+R
+t1µ
+1
+2G
+3
+2
++ t1ηAˆf (1 + (α− 1)t1µ)G − αt21η2∆q − 2(α− 1)t21η2〈∇f,∇q〉
+− t21η[2(α− 1)Aˆf + αAˆff + 2(K1 + (α− 1)K3 +K4)]µG
+− 9
+8
+t21η
+2nα2K4 − t
+2
+1η
+2nα
+2δ
+max{K22 ,K23}
+− t1
+(
+C3(n)
+R2
++ C4(n)
+R
+√
+K1 + C2K2
+)
+G
+=
+2(1− δα)
+nα2
+(1 + (α− 1)t1µ)2G2 − ηG− 2
+√
+C1
+R
+t1µ
+1
+2G
+3
+2
++ t1ηAˆfG− αt21η2∆q − 2(α− 1)t21η2〈∇f,∇q〉
+− t21η[(α− 1)Aˆf + αAˆff + 2(K1 + (α− 1)K3 +K4)]µG
+− 9
+8
+t21η
+2nα2K4 − t
+2
+1η
+2nα
+2δ
+max{K22 ,K23}
+− t1
+(
+C3(n)
+R2
++ C4(n)
+R
+√
+K1 + C2K2
+)
+G
+Noticing that 0 < η(x1, t1) ≤ 1, from the above inequalities we obtain
+0 ≥2(1− δα)
+nα2
+G2 +
+4(1− δα)
+nα2
+(α− 1)t1µG2
++
+2(1− δα)
+nα2
+(α− 1)2t21µ2G2 −G− t1λ2RG−
+2
+√
+C1
+R
+t1µ
+1
+2G
+3
+2
+− t21
+[
+(α− 1)Λ2R + αΣ2R + 2(K1 + (α− 1)K3 +K4)
+]
+µG
+− 2t21(α− 1)γ2Rµ
+1
+2G
+1
+2 − 9
+8
+t21nα
+2K4 − t
+2
+1nα
+2δ
+max{K22 ,K23}
+− αt21θ2R − t1
+(
+C3(n)
+R2
++ C4(n)
+R
+√
+K1 + C2K2
+)
+G.
+By Young’s inequality, we have
+2
+√
+C1
+R
+µ
+1
+2G
+3
+2 ≤ 4(1− δα)
+nα2
+(α− 1)µG2 + nα
+2C1G
+8(1− δα)(α − 1)R2 ,
+2(α− 1)γ2Rµ 12G 12 ≤ 2(1− δα)ε
+nα2
+(α− 1)2µ2G2 + 3
+4
+(
+2nα2
+(1− δα)ε
+) 1
+3
+(α− 1) 23 γ
+4
+3
+2R
+and
+[
+(α− 1)Λ2R + αΣ2R + 2(K1 + (α − 1)K3 +K4)
+]
+µG
+≤2(1− δα)(1 − ε)
+nα2
+(α− 1)2µ2G2
++
+nα2
+8(1− δα)(1 − ε)(α− 1)2
+[
+(α− 1)Λ2R + αΣ2R + 2(K1 + (α− 1)K3 +K4)
+]2
+,
+8 G. ZHAO
+where ε ∈ (0, 1) is an arbitrary constant. Combining the above four inequalities, there exists a constant
+C5(n) that depends only on n, such that
+0 ≥2(1− δα)
+nα2
+G2
+−
+[
+1 + t1
+(
+λ2R +
+C5(n)
+R2
+(
+α2
+(1− δα)(α − 1) +
+√
+K1R
+)
++ C2K2
+)]
+G
+− t21αθ2R − t21nα2max{K22 ,K23}
+− t21
+nα2
+8(1− δα)(1 − ε)(α− 1)2
+·
+[
+(α − 1)Λ2R + αΣ2R + 2(K1 + (α− 1)K3 +K4)
+]2
+− 9
+8
+t21nα
+2K4 − 3
+4
+t21
+(
+2nα2
+(1− δα)ε
+) 1
+3
+(α− 1) 23 γ
+4
+3
+2R.
+For a positive number a and two nonnegative numbers b, c, from the inequality ax2 − bx − c ≤ 0 we
+have x ≤ b
+a
++
+√
+c
+a
+. Hence, we obtain
+G ≤ nα
+2
+2(1− δα)
+[
+1 + t1
+(
+λ2R +
+C5(n)
+R2
+(
+α2
+(1− δα)(α − 1) +
+√
+K1R
+)
++ C2K2
+)]
++ t1
+{
+nα2
+[
+αθ2R + nα
+2max{K22 ,K23}
++
+nα2
+8(1− δα)(1 − ε)(α− 1)2
+·
+[
+(α− 1)Λ2R + αΣ2R + 2(K1 + (α− 1)K3 +K4)
+]2
++
+9
+8
+nα2K4 +
+3
+4
+(
+2nα2
+(1− δα)ε
+) 1
+3
+(α− 1) 23 γ
+4
+3
+2R
+]} 12
+.
+Now, by taking δ = 12α , and noticing that d(x, x0, T1) ≤ R implies η(x, T1) = 1, we can get
+(|∇f |2 − αf1 − αqt − αAˆ)(x, T1) = F (x, T1)
+T1
+≤ G(x1, t1)
+T1
+≤nα
+2
+T1
++
+C(n)α2
+R2
+(
+α2
+α− 1 +
+√
+K1R
+)
++ C(n)α2K2 + nα
+2λ2R
++
+{
+nα2
+[
+αθ2R + nα
+2max{K22 ,K23}
++
+nα2
+4(1− ε)(α− 1)2
+(
+(α− 1)Λ2R + αΣ2R + 2(K1 + (α− 1)K3 +K4)
+)2
++
+9
+8
+nα2K4 +
+3
+4
+(
+4nα2
+ε
+) 1
+3
+(α− 1) 23 γ
+4
+3
+2R
+]} 12
+,
+where C(n) is an appropriate constant that depends only n. Since T1 is arbitrary, we complete the
+proof. 
+Remark 2.5. In the above proof, if we use x ≤ 12a
+(
+b+
+√
+b2 + 4ac
+)
+instead of x ≤ b
+a
++
+√
+c
+a
+when we
+deal with ax2 − bx− c ≤ 0, then a more appropriate δ may give a sharper estimate.
+From the above local estimate, we get a global one:
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 9
+Corollary 2.6. Let (M, g(0)) be a complete noncompact Riemannian manifold without boundary, and
+let g(t) evolves by (.) for t ∈ [0, T ]. Suppose that there exist constant K1,K2,K3,K4, γ, θ ≥ 0 such
+that
+Ric ≥ −K1g, −K2g ≤ h ≤ K3g, |∇h| ≤ K4
+and
+|∇q| ≤ γ, ∆q ≤ θ.
+If u is a positive solution to (.), then for any α > 1, we have
+|∇u(x, t)|2
+u2(x, t)
+− αut(x, t)
+u(x, t)
+− αq(x, t)− αA(u(x, t))
+u(x, t)
+≤nα
+2
+t
++ C′
+(
+K1 +K2 +K3 +K4 +
+√
+K4 +
+√
+θ + γ
+2
+3 + λ+ Λ+ Σ
+)(.)
+on M × [0, T ], where C′ is a constant that depends only on n, α.
+Proof. By the uniform equivalence of g(t), we know that (M, g(t)) is complete noncompact for t ∈ [0, T ].
+Now we choose ε = ε0 in (.), where ε0 is an arbitrary fixed number in (0, 1). Let R→ +∞ in (.),
+and using the inequality
+√
+x+ y ≤ √x+√y holds for any x, y ≥ 0, we complete the proof. 
+We now consider the case that the manifold M is closed. By Lemma 2.4, we have a global gradient
+estimate on a closed Riemannian manifold.
+Theorem 2.7. Let (M, g(t)) be a closed Riemannian manifold, where g(t) evolves by (.) for t ∈ [0, T ]
+and satisfies
+Ric ≥ −K1g, −K2g ≤ h ≤ K3g, |∇h| ≤ K4.
+If u is a positive solution to (.), and q(x, t) satisfies
+|∇q| ≤ γ, ∆q ≤ θ.
+Then for any α > 1, we have
+|∇u(x, t)|2
+u2(x, t)
+− αut(x, t)
+u(x, t)
+− αq(x, t) − αA(u(x, t))
+u(x, t)
+≤nα
+2
+2t
++
+nα2
+α− 1(K1 + (α− 1)K3 +K4) + nα
+2
+(
+max{K2,K3}+ 3
+4
+√
+2K4
+)
++ α
+3
+2
+√
+nθ +
+(
+nα2
+2
+(α− 1) 12 +√nα(α− 1) 14
+)
+γ
+2
+3 +
+nα2
+2
+(λ+ Λ) +
+nα3
+2(α− 1)Σ
+(.)
+on M × (0, T ].
+Proof. We use the same symbols f, F as above. Set
+F¯ (x, t) =F (x, t)− nα
+2
+α− 1(K1 + (α− 1)K3 +K4)t
+− nα2
+(
+max{K2,K3}+ 3
+4
+√
+2K4
+)
+t− α 32
+√
+nθt
+−
+(
+nα2
+2
+(α− 1) 12 +√nα(α− 1) 14
+)
+γ
+2
+3 t− nα
+2
+2
+(λ + Λ)t− nα
+3
+2(α− 1)Σt.
+If F¯ (x, t) ≤ nα22 for any (x, t) ∈M × (0, T ], the proof is complete.
+If (.) doesn’t hold, then at the maximal point (x0, t0) of F¯ (x, t), we have
+F¯ (x0, t0) >
+nα2
+2
+.
+As F¯ (x, 0) = 0, we know that t0 > 0 here. Then applying the maximum principle, we have
+∇F¯ (x0, t0) = 0, ∆F¯ (x0, t0) = 0, ∂tF¯ (x0, t0) = 0.
+10 G. ZHAO
+Therefore, we obtain
+0 ≥ (∆− ∂t)F¯ ≥ (∆− ∂t)F.
+Using Lemma 2.4, inequality (.) and the fact that
+|∇f |2 − ft − q − Aˆ = 1
+α
+(|∇f |2 − αft − αq − αAˆ) + α− 1
+α
+|∇f |2
+=
+1
+α
+F
+t0
++
+α− 1
+α
+|∇f |2,
+we obtain
+0 ≥2(1− δα)t0
+nα2
+(
+F
+t0
+)2
++
+4(1− δα)(α − 1)t0
+nα2
+|∇f |2F
+t0
++
+2(1− δα)(α − 1)2t0
+nα2
+|∇f |4 − F
+t0
+− t0λF
+t0
+− 2t0(α− 1)γ|∇f | − 9
+8
+t0nα
+2K4 − t0αθ − t0nα
+2δ
+max{K22 ,K23}
+− t0 ((α− 1)Λ + αΣ + 2(K1 + (α− 1)K3 +K4)) |∇f |2.
+By
+F
+t0
+=
+F¯
+t0
++
+nα2
+α− 1(K1 + (α − 1)K3 +K4) +
+3
+2
+nα2
+√
+K4
++
+(
+nα2
+2
+(α− 1) 12 +
+√
+2nα(α − 1) 14
+)
+γ
+2
+3
++ nα2A1 +
+nα3
+2(α− 1)A2 > 0,
+2t0(α− 1)γ|∇f |2 ≤ t0(α− 1) 32 γ 23 |∇f |2 + t0(α− 1) 12 γ 43 ,
+and using the inequality ax2 − bx ≥ − b24a holds for a > 0, b ≥ 0, we obtain
+0 ≥2(1− δα)t0
+nα2
+(
+F
+t0
+)2
+− F
+t0
+− t0λF
+t0
+− 9
+8
+t0nα
+2K4 − t0αθ
+− t0nα
+2δ
+max{K22 ,K23} − t0(α− 1)
+1
+2 γ
+4
+3 − t0nα
+2
+8(1− δα)(α − 1)2E
+2,
+where
+E = (α − 1) 32 γ 23 + (α− 1)Λ + αΣ + 2(K1 + (α− 1)K3 +K4).
+For a positive number a and two nonnegative numbers b, c, from the inequality ax2 − bx − c ≤ 0 we
+have
+x ≤ 1
+2a
+(
+b+
+√
+b2 + 4ac
+)
+.
+Hence, we obtain
+F
+t0
+≤ nα
+2
+4(1− δα)t0
+{
+1 + t0λ+
+[
+(1 + t0λ)
+2
++
+8(1− δα)t0
+nα2
+(
+nα2t0
+8(1− δα)(α − 1)2E
+2
++ t0(α− 1) 12 γ 43 + 9
+8
+t0nα
+2K4 + t0αθ +
+t0nα
+2δ
+max{K22 ,K23}
+)] 1
+2
+}
+.
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 11
+Using the inequality
+√
+x+ y ≤ √x+√y holds for any x, y ≥ 0, we obtain
+F
+t0
+≤ nα
+2
+4(1− δα)t0
+{
+1 + t0λ+
+[
+(1 + t0λ)
+2 +
+4(1− δα)t20
+δα
+max{K22 ,K23}
+] 1
+2
+}
++
+nα2
+4(1− δα)t0
+{
+8(1− δα)t20
+nα2
+[
+nα2
+8(1− δα)(α − 1)2E
+2
++ (α − 1) 12 γ 43 + 9
+8
+nα2K4 + αθ
+]} 12
+.
+Now, by taking δ = t0 max{K2,K3}1+t0λ+2t0 max{K2,K3} · 1α ∈ (0, 1α ) for max{K2,K3} 6= 0. However, from Lemma 2.4
+we know that we can choose δ = 0 if K2 = K3 = 0. Therefore, in any case, we can get
+nα2
+4(1− δα)t0
+{
+1 + t0λ+
+[
+(1 + t0λ)
+2 +
+4(1− δα)t20
+δα
+max{K22 ,K23}
+] 1
+2
+}
+=
+nα2
+2t0
++
+nα2
+2
+λ+ nα2max{K2,K3}
+and
+nα2
+4(1− δα)t0
+(
+8(1− δα)t20
+nα2
+) 1
+2
+=
+(
+1 + t0λ+ 2t0max{K2,K3}
+2(1 + t0λ+ t0max{K2,K3})
+) 1
+2 √
+nα ≤ √nα.
+Therefore, again according to
+√
+x+ y ≤ √x+√y, we obtain
+F
+t0
+≤nα
+2
+2t0
++
+nα2
+2
+λ+ nα2max{K2,K3}
++
+√
+nα
+{ √
+nα
+2
+√
+2(α− 1)
+√
+1 + t0λ+ 2t0max{K2,K3}
+1 + t0λ+ t0 max{K2,K3} E
++ (α− 1) 14 γ 23 + 3
+2
+√
+2
+√
+nα
+√
+K4 +
+√
+αθ
+}
+≤nα
+2
+2t0
++
+nα2
+2
+λ+ nα2max{K2,K3}
++
+nα2
+2(α− 1)E +
+√
+nα(α − 1) 14 γ 23 + 3
+4
+nα2
+√
+2K4 + α
+3
+2
+√
+nθ.
+Substituting E into the above inequality yields
+F
+t0
+≤nα
+2
+2t0
++
+nα2
+α− 1(K1 + (α − 1)K3 +K4)
++ nα2
+(
+max{K2,K3}+ 3
+4
+√
+2K4
+)
++ α
+3
+2
+√
+nθ
++
+(
+nα2
+2
+(α− 1) 12 +√nα(α− 1) 14
+)
+γ
+2
+3 +
+nα2
+2
+(λ+ Λ) +
+nα3
+2(α− 1)Σ.
+This implies that F¯ (x0, t0) ≤ nα22 , in contradiction with our assumption. So (.) holds. 
+Remark 2.8. In [30, Theorem 6], The coefficient of 1
+t
+in the right hand side of the gradient inequality
+is nα2. We see Theorem 2.7 extends and improves Sun’s estimate.
+Remark 2.9. In Theorem 2.1 if K1 = K4 = Σ2R = 0, we can let α → 1. Similarly, in Corollary 2.6
+and Theorem 2.7, if K1 = K4 = Σ = 0, we can also let α→ 1.
+12 G. ZHAO
+Similar to [30, Corollary 8], integrating the gradient estimate in space-time as in [18] or [10], we can
+derive the following parabolic Harnack type inequality.
+Corollary 2.10. Let (M, g(0)) be a complete noncompact Riemannian manifold without boundary or
+a closed Riemannian manifold. Assume that g(t) evolves by (.) for t ∈ [0, T ] and satisfies
+Ric ≥ −K1g, −K2g ≤ h ≤ K3g, |∇h| ≤ K4.
+If u is a positive solution to (.), and q(x, t) satisfies
+|∇q| ≤ γ, ∆q ≤ θ.
+Then for any (x1, t1), (x2, t2) in M × (0, T ] such that t1 < t2, we have
+u(x1, t1) ≤ u(x2, t2)
+(
+t2
+t1
+)τnα
+exp
+(
+αZ
+4(t2 − t1) + C
+t2 − t1
+α
+K
+)
+,(.)
+for any α > 1, where
+τ =
+{
+1, if (M, g(0)) is complete noncompact without boundary,
+1
+2 , if (M, g(0)) is closed,
+K = K1 +K2 +K3 +K4 +
+√
+K4 + γ +
+√
+θ + γ
+2
+3 + λ+ Λ+ Σ,
+C is a constant that depends only on n, α, and
+Z = inf
+ζ
+∫ 1
+0
+|ζ′(s)|2σ(s)ds
+is the infimum over smooth curves ζ jointing x2 and x1 (ζ(0) = x2, ζ(1) = x1) of the averaged square
+velocity of ζ measured at time σ(s) = (1− s)t2 + st1.
+Proof. The gradient estimate in Corollary 2.6 and Theorem 2.7 can both be written as
+|∇u(x, t)|2
+u2(x, t)
+− αut(x, t)
+u(x, t)
+≤ τnα
+2
+t
++ C(n, α)K,
+for any α > 1. Take any curve ζ satisfying the assumption and define
+l(s) = log u(ζ(s), σ(s)).
+Then l(0) = log u(x2, t2) and l(1) = log u(x1, t1). A direct computation yields
+dl(s)
+ds
+=(t2 − t1)
+(∇u
+u
+ζ′(s)
+t2 − t1 −
+ut
+u
+)
+≤ α|ζ
+′(s)|2σ
+4(t2 − t1) +
+t2 − t1
+α
+(
+τnα2
+σ(s)
++ CK
+)
+.
+Integrating this inequality over ζ(s), we have
+log
+u(x1, t1)
+u(x2, t2)
+=
+∫ 1
+0
+dl(s)
+ds
+ds
+≤
+∫ 1
+0
+α|ζ′(s)|2σ
+4(t2 − t1) + C
+t2 − t1
+α
+K + τnα log
+t2
+t1
+,
+which implies the corollary. 
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 13
+3. Elliptic type gradient estimates for bounded positive solutions
+Now we establish elliptic type gradient estimates for (.)–(.). Firstly we give the local version.
+Theorem 3.1. Let (M, g(t)) be a complete solution to (.) for t ∈ [0, T ] and let u be a positive
+solution to (.). Suppose that there exist constants L > 0 and K ≥ 0, such that u ≤ L and
+Ric ≥ −K1g, h ≥ −K2g
+on Q2R,T . Then we have
+|∇u(x, t)|
+u(x, t)
+≤ C˜
+(
+1√
+t
++
+1
+R
++
+√
+H
+)(
+1 + log
+L
+u(x, t)
+)
+(.)
+on QR,T , where C˜ is a constant that depends only on n and
+H = K1 +K2 + max
+Q2R,T
+(|q| − q) + max
+Q2R,T
+|∇q|√
+|q| + κ2R.
+Remark 3.2. In [6, Theorem 1.9], the authors gave a elliptic type gradient estimate for bounded
+positive solutions of (.) with a convection term on a complete manifold, where the metric does not
+depend on time. In the estimate of [6, Theorem 1.9], the upper bound induced by the term A(u) is
+−min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
+−min
+{
+0, min
+Q2R,T
+(A(u)/u)
+}
+instead of κ2R here. Compare with [6, Theorem 1.9], we see that our estimate (.) is sharper. In fact,
+in general, for real numbers x, y, a direct calculation yields
+min{0, x}+min{0, y} ≤ min{0, x+ y}.
+Similarly, for two functions f, g on the same domain D, the following obvious fact holds:
+min
+D
+f +min
+D
+g ≤ min
+D
+(f + g).
+By the above two inequalities we obtain
+min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
++min
+{
+0, min
+Q2R,T
+(A(u)/u)
+}
+≤min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u) + min
+Q2R,T
+(A(u)/u)
+}
+≤min
+{
+0, min
+Q2R,T
+A′(u)
+}
+.
+On the other hand, it is obvious that
+min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
++min
+{
+0, min
+Q2R,T
+(A(u)/u)
+}
+≤min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
+.
+In conclusion,
+min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
++min
+{
+0, min
+Q2R,T
+(A(u)/u)
+}
+≤min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u), min
+Q2R,T
+A′(u)
+}
+= −κ2R.
+That is,
+κ2R ≤ −min
+{
+0, min
+Q2R,T
+(A′(u)−A(u)/u)
+}
+−min
+{
+0, min
+Q2R,T
+(A(u)/u)
+}
+.
+14 G. ZHAO
+And we will see in the proof of Theorem 3.1 that this sharper estimate comes from a more careful
+treatment of the term Aˆf +
+Aˆ(f)
+1−f . However, the treatment we give here is not necessarily optimal. It
+is possible that a sharper estimate will be applied to more equations.
+Now we are ready to prove Theorem 3.1. Noticing that if 0 < u ≤ L is a solution to (.), then
+u˜ = u
+L
+is a solution to the equation
+(∆− q(x, t)− ∂t)u(x, t) = 1
+L
+A(Lu˜(x, t))
+and 0 < u˜ ≤ 1. Hence, we can assume that 0 < u ≤ 1 in the proof of Theorem 3.1. Similar to the
+proof of Theorem 2.1, we need a auxiliary lemma. We still set f = log u ≤ 0 and Aˆ(f) = A(u)
+u
+. In this
+case, we define w = |∇ log(1− f)|2 and F (x, t) = tw(x, t).
+Lemma 3.3. Let (M, g(t)) be a complete solution to (.) for t ∈ [0, T ] and let u ∈ (0, 1] be a solution
+to (.). Suppose that there exists a constant K ≥ 0, such that
+Ric+h ≥ −Kg
+on Q2R,T . Then we have
+(∆− ∂t)F ≥2(1− f)
+t
+F 2 − 2
+(
+K − Aˆf − q
+1− f −
+Aˆ(f)
+1− f
+)
+F
+− F
+t
+− 2f〈∇ log(1 − f),∇F 〉 − 2t
+1− f 〈∇ log(1 − f),∇q〉.
+(.)
+on Q2R,T .
+Proof. By the Bochner formula we have
+∆F =2t|Hess log(1− f)|2 + 2tRic(∇ log(1− f),∇ log(1 − f))
++ 2t〈∇ log(1− f),∇∆ log(1− f)〉.
+However, by (.),
+∆ log(1− f) =− ∆f
+1− f −
+|∇f |2
+(1− f)2 = −fw −
+ft + q + Aˆ
+1− f .
+Therefore, we obtain
+∆F =2t|Hess log(1− f)|2 + 2tRic(∇ log(1− f),∇ log(1 − f))
++
+2(1− f)
+t
+F 2 − 2f〈∇ log(1 − f),∇F 〉
++
+2
+1− f (ft + q + Aˆ)F −
+2t
+1− f 〈∇ log(1− f),∇(ft)〉
+− 2t
+1− f 〈∇ log(1− f),∇q〉 −
+2tAˆf
+1− f 〈∇ log(1− f),∇f〉.
+On the other hand, by the first equality of Lemma 2.3,
+Ft =− 2th(∇ log(1− f),∇ log(1− f))
++ 2t〈∇ log(1− f),∇((log(1− f))t)〉+ F
+t
+=− 2th(∇ log(1− f),∇ log(1− f))
+− 2t
+1− f 〈∇ log(1− f),∇(ft)〉+
+2ftF
+1− f +
+F
+t
+.
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 15
+Combining the above two equalities, we get
+(∆− ∂t)F ≥2(1− f)
+t
+F 2 + 2t(Ric+h)(∇ log(1− f),∇ log(1− f))
++ 2AˆfF +
+2
+1− f (q + Aˆ)F − 2f〈∇ log(1− f),∇F 〉
+− 2t
+1− f 〈∇ log(1− f),∇q〉 −
+F
+t
+.
+The lemma follows from the assumption on bound of Ric+h. 
+Remark 3.4. It is easy to see that we don’t need any assumption on the Ricci tensor if geometric
+flow (.) is the Ricci flow, i.e., h = −Ric.
+The proof of Theorem 3.1. Choosing φ and η as in the proof of Theorem 2.1. For any T1 ∈ (0, T ], let
+(x1, t1) ∈ Q2R,T1 , at which G(x, t) = η(x, t)F (x, t) attains its maximum, and without loss of generality,
+we can assume G(x1, t1) > 0, and then η(x1, t1) > 0 and F (x1, t1) > 0. By Lemma 3.3 and a similar
+argument as in the proof of Theorem 2.1, we have at (x1, t1),
+0 ≥2η(1− f)
+t1
+F 2 − 2η
+(
+K1 +K2 − Aˆf − q
+1− f −
+Aˆ(f)
+1− f
+)
+F
+− 2ηf〈∇ log(1− f),∇F 〉 − 2t1η
+1− f 〈∇ log(1− f),∇q〉
+− ηF
+t1
+−
+(
+C3(n)
+R2
++
+C4(n)
+R
+√
+K1 + C2K2
+)
+F
+=
+2η(1− f)
+t1
+F 2 − 2η
+(
+K1 +K2 − Aˆf − q
+1− f −
+Aˆ(f)
+1− f
+)
+F
++ 2f〈∇ log(1− f),∇η〉F − 2t1η
+1− f 〈∇ log(1− f),∇q〉
+− ηF
+t1
+−
+(
+C3(n)
+R2
++
+C4(n)
+R
+√
+K1 + C2K2
+)
+F.
+Multiplying both sides of the above inequality by t1η, we have
+0 ≥2(1− f)G2 − 2t1η
+(
+K1 +K2 − Aˆf − q
+1− f −
+Aˆ(f)
+1− f
+)
+G
++ 2t1f〈∇ log(1− f),∇η〉G − 2t
+2
+1η
+2
+1− f 〈∇ log(1− f),∇q〉
+− ηG− t1
+(
+C3(n)
+R2
++
+C4(n)
+R
+√
+K1 + C2K2
+)
+G.
+Noticing that f ≤ 0, by Young’s inequality,
+−2t1f〈∇ log(1− f),∇η〉G ≤− 2ft
+1
+2
+1
+|∇η|
+η
+1
+2
+G
+3
+2 ≤ −2ft1
+√
+C1
+R
+G
+3
+2
+≤(1− f)G2 + 27t
+2
+1
+16
+C21
+R4
+f4
+(1 − f)3
+and
+〈∇ log(1− f),∇q〉 ≤ |∇q|w 12 ≤ |q|w + |∇q|
+2
+4|q| .
+16 G. ZHAO
+Combining the above three inequalities we have
+0 ≥(1 − f)G2 − 2t1η
+(
+K1 +K2 − Aˆf − q
+1− f −
+Aˆ(f)
+1− f
+)
+G
+− 27t
+2
+1
+16
+C21
+R4
+f4
+(1− f)3 −
+2t1η
+1− f |q|G−
+t21η2
+2(1− f)
+|∇q|2
+|q|
+− ηG− t1
+(
+C3(n)
+R2
++
+C4(n)
+R
+√
+K1 + C2K2
+)
+G.
+From 0 ≤ 11−f < 1 and 0 < −f1−f ≤ 1, we see that
+Aˆf +
+Aˆ(f)
+1− f =
+−f
+1− f Aˆf +
+1
+1− f
+(
+Aˆf + Aˆ(f)
+)
+≥ −f
+1− f min
+{
+0, min
+Q2R,T
+Aˆf
+}
++
+1
+1− f min
+{
+0, min
+Q2R,T
+A′(u)
+}
+≥min
+{
+0, min
+Q2R,T
+Aˆf , min
+Q2R,T
+A′(u)
+}
+=− κ2R.
+By 0 < η(x1, t1) ≤ 1, we get
+0 ≥(1 − f)G2 −G− 2t1
+(
+K1 +K2 + max
+Q2R,T
+(|q| − q) + κ2R
+)
+G
+− t1
+(
+C3(n)
+R2
++
+C4(n)
+R
+√
+K1 + C2K2
+)
+G− 27t
+2
+1
+16
+C21
+R4
+f4
+(1− f)3 −
+t21
+2
+max
+Q2R,T
+|∇q|2
+|q| .
+Applying the quadratic formula and the inequality of arithmetic and geometric means
+√
+K1
+R
+≤ 1
+2R2
++
+K1
+2
+,
+and noticing the fact 0 ≤ −f1−f < 1 again, we obtain
+G ≤C6(n)
+(
+1 + t1
+(
+1
+R2
++H
+))
+,
+where C6(n) is a constant that depends only on n and
+H = K1 +K2 + max
+Q2R,T
+(|q| − q) + max
+Q2R,T
+|∇q|√
+|q| + κ2R.
+Noticing that d(x, x0, T1) ≤ R implies η(x, T1) = 1, we can get
+w(x, T1) =
+F (x, T1)
+T1
+≤ G(x1, t1)
+T1
+≤ C6(n)
+(
+1
+T1
++
+1
+R2
++H
+)
+.
+Since T1 is arbitrary, and using
+√
+x+ y ≤ √x+√y, we complete the proof. 
+Similar to Corollary 2.6, when (M, g(0)) is a complete noncompact Riemannian manifold without
+boundary and g(t) evolves by (.), we can obtain a global estimate from Theorem 3.1 by taking
+R→ 0.
+Corollary 3.5. Let (M, g(t)) be a complete solution to (.) for t ∈ [0, T ] and (M, g(0)) be a complete
+noncompact Riemannian manifold without boundary. Let u be a positive solution to (.). Suppose
+that there exist constants L > 0 and K ≥ 0, such that u ≤ L and
+Ric ≥ −K1g, h ≥ −K2g.
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 17
+Then we have
+|∇u(x, t)|
+u(x, t)
+≤ C˜
+(
+1√
+t
++
+√
+H
+)(
+1 + log
+L
+u(x, t)
+)
+(.)
+on M × [0, T ], where C˜ as in Theorem 3.1 and
+H = K1 +K2 + sup
+M×[0,T ]
+(|q| − q) + sup
+M×[0,T ]
+|∇q|√
+|q| + κ.
+The following corollary gives a elliptic Harnack inequality by integrating the elliptic type gradient
+estimate (.) in space only. Unlike Corollary 2.10, this inequality can compare the function values at
+two spatial points at the same time, but inequality (.) cannot.
+Corollary 3.6. Let (M, g(t)) be a complete solution to (.) for t ∈ [0, T ] and (M, g(0)) be a complete
+noncompact Riemannian manifold without boundary. Let u be a positive solution to (.). Suppose
+that there exist constants L > 0 and K ≥ 0, such that u ≤ L and
+Ric ≥ −K1g, h ≥ −K2g.
+Then for any x1, x2 ∈M , we have
+u(x1, t) ≥ u(x2, t)H exp((1 −H)(1 + logL)).(.)
+in each t ∈ [0, T ]. Here, H = exp
+(
+C˜
+(
+1√
+t
++
+√
+H
+)
+d(x1, x2, t)
+)
+, where C˜ as in Theorem 3.1 and
+H = K1 +K2 + sup
+M×[0,T ]
+(|q| − q) + sup
+M×[0,T ]
+|∇q|√
+|q| + κ.
+Proof. For any fixed t and any x1, x2 ∈M , let ζ : [0, 1]→M is the geodesic of minimal length, which
+connecting x2 and x1, ζ(0) = x2 and ζ(1) = x1. Let f = log u and
+l(s) = log(1 + logL− f(ζ(s), t)).
+By Corollary 3.5 we have
+dl(s)
+ds
+=
+−〈(∇f)(ζ(s), t), ζ′(s)〉
+1 + logL− f(ζ(s), t)
+≤|ζ′(s)| · |∇f |(ζ(s), t)
+1 + logL− f(ζ(s), t)
+≤C˜|ζ′(s)|
+(
+1√
+t
++
+√
+H
+)
+.
+Integrating this inequality over ζ(s), we have
+log
+1 + logL− f(x1, t)
+1 + logL− f(x2, t) ≤ C˜
+(
+1√
+t
++
+√
+H
+)
+d(x1, x2, t).
+From this inequality, inequality (.) can be obtained through a simple calculation. 
+4. Applications
+We will give some applications of gradient estimates in section 2 and section 3 to some special
+equations. In some cases, we also take the geometric flow as the Ricci flow, i.e., h = −Ric in (.).
+18 G. ZHAO
+4.1. Applications of space-time gradient estimates. In this subsection, we focus on applications
+of space-time gradient estimate for positive solutions. In this case, we see that λ,Λ,Σ are not necessarily
+finite in (.). For example, if we choose A(u) = up for p > 0, then λ,Λ,Σ are all multiples of
+supM×[0,T ] u
+p−1 and they are not all zero if p 6= 1. But supM×[0,T ] up−1 is not necessarily finite, unless
+u is bounded. For the case that q = 0 and A(u) = up, the reader can also refer to [20, 21, 35].
+Naturally, for general unbounded positive function u, we want to know when λ,Λ and Σ are finite.
+Since u is a positive solution to (.), A(u) can be written as u · A(u)
+u
+, which is A(u) = uH(u) for some
+C2 function H(u). As pointed by Q. Chen and the author in [6, Remark 1.8], λ,Λ,Σ < +∞ implies
+|H(u)| ≤ C0 log u, as u→ +∞.
+When A(u) = au logu, A direct computation yields Σ = 0 and{
+λ2R = λ ≡ 0, Λ2R = Λ ≡ a, if a ≥ 0,
+λ2R = λ ≡ −a, Λ2R = Λ ≡ 0, if a ≤ 0.
+Therefore, we can obtain that local and global gradient estimates for positive solutions of the equation
+(∆− q(x, t)− ∂t)u(x, t) = au(x, t) log(u(x, t)), a ∈ R(.)
+from Theorem 2.1 and Corollary 2.6.
+Remark 4.1. By the asymptotic behavior ofH , we can find many examples that satisfy λ,Λ,Σ < +∞.
+Such as H(u) = Pk(u)
+Pl(u)
+, where Pk, Pl are polynomials of degree k, l, respectively and k < l. Hence we
+can obtain gradient estimates for positive solution of the following series of equations
+(∆− q(x, t) − ∂t)u(x, t) = au(x, t)Pk(u(x, t))
+Pl(u(x, t))
+, a ∈ R, k < l.
+For instance, if we choose k = 0, l = 1, so A(u) = u
+u+1 , then λ =
+1
+4 ,Λ = 0 and Σ =
+8
+27 .
+On the other hand, as mentioned in Remark 2.9, if A(u) = au logu, then Σ = 0. In addition, we
+take h = −Ric. In this case, we don’t need the assumption on the bound |∇h| since the contracted
+second Bianchi identity. At this time, when α→ 1, we can also let ε→ 0 in local estimate (.), and
+then we are arriving at
+Corollary 4.2. Let (M, g(0)) be a complete Riemannian manifold, and let g(t) evolves by the Ricci
+flow for t ∈ [0, T ]. Suppose that there exist constants K2, θ ≥ 0 such that
+0 ≤ Ric ≤ K2g
+and
+∆q ≤ θ2R
+on Q2R,T . If u is a positive solution to (.). Then on QR,T , we have
+(1) for a ≥ 0,
+|∇u(x, t)|2
+u2(x, t)
+− ut(x, t)
+u(x, t)
+− q(x, t)− A(u(x, t))
+u(x, t)
+≤ n
+t
++ (C + n)K2 +
+√
+nθ +
+n
+2
+a;
+(2) for a < 0,
+|∇u(x, t)|2
+u2(x, t)
+− ut(x, t)
+u(x, t)
+− q(x, t) − A(u(x, t))
+u(x, t)
+≤ n
+t
++ (C + n)K2 +
+√
+nθ − na,
+where C as in Theorem 2.1.
+From the above local estimate, we have immediately
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 19
+Corollary 4.3. Let (M, g(0)) be a complete noncompact Riemannian manifold without boundary, and
+let g(t) evolves by the Ricci flow for t ∈ [0, T ]. Suppose that there exist constants K2, θ ≥ 0 such that
+0 ≤ Ric ≤ K2g
+and
+∆q ≤ θ.
+If u is a positive solution to (.). Then we have
+|∇u(x, t)|2
+u2(x, t)
+− ut(x, t)
+u(x, t)
+− q(x, t)− A(u(x, t))
+u(x, t)
+≤ n
+t
++ C′′
+(
+K2 +
+√
+θ + |a|
+)
+on M × [0, T ], where C′′ is a constant that depends only on n.
+When the manifold is closed, we also have
+Corollary 4.4. Let (M, g(t)) be a closed Riemannian manifold, where g(t) evolves by the Ricci flow
+for t ∈ [0, T ] and satisfies
+0 ≤ Ric ≤ K2g.
+If u is a positive solution to the equation
+(∆− q(x, t) − ∂t)u(x, t) = au(x, t) log(u(x, t)),
+and q(x, t) satisfies
+∆q ≤ θ.
+Then we have
+|∇u(x, t)|2
+u2(x, t)
+− ut(x, t)
+u(x, t)
+− q(x, t)− A(u(x, t))
+u(x, t)
+≤ n
+2t
++ nK2 +
+√
+nθ +
+n
+2
+|a|
+on M × (0, T ].
+4.2. Applications of elliptic type gradient estimates. Now we give some applications of elliptic
+type gradient estimates for bounded positive solutions. Since we are dealing with bounded positive
+solutions, A(u) that satisfies the conditions κ < +∞ is easy to find.
+We will consider that elliptic type gradient estimates for bounded positive solutions of the equation
+(∆− q(x, t)− ∂t)u(x, t) = au(x, t)β , a ∈ R, β ∈ (−∞, 0] ∪ [1,+∞).(.)
+In order not to be redundant, we only give the global estimate here, and the local one is omitted.
+Corollary 4.5. Let (M, g(t)) be a complete solution to (.) for t ∈ [0, T ] and (M, g(0)) be a complete
+noncompact Riemannian manifold without boundary. Let u be a positive solution to (.). Suppose
+that there exist constants L > 0 and K ≥ 0, such that u ≤ L and
+Ric ≥ −K1g, h ≥ −K2g.
+Then on M × [0, T ], we have
+|∇u(x, t)|
+u(x, t)
+≤ C˜
+(
+1√
+t
++
+√
+H ′
+)(
+1 + log
+L
+u(x, t)
+)
+,
+where C˜ as in Theorem 3.1 and
+H ′ = K1 +K2 + sup
+M×[0,T ]
+(|q| − q) + sup
+M×[0,T ]
+|∇q|√
+|q| + κ0
+with
+κ0 =
+
+
+sign a−1
+2 aβL
+β−1, if a ∈ R, β ≥ 1,
+0, if a ≤ 0, β ≤ 0,
+a(1− β) (infM×[0,T ] u(x, t))β−1 , if a ≥ 0, β ≤ 0.
+Here, signa is the sign function, which is 1, 0,−1 if a > 0,= 0, < 0, respectively.
+20 G. ZHAO
+Proof. From Corollary 3.5, we just have to compute κ. By the definition, we have
+κ =−min
+{
+0, inf
+M×[0,T ]
+(aβuβ−1), inf
+M×[0,T ]
+(a(β − 1)uβ−1)
+}
+=
+
+
+0, if a ≥ 0, β ≥ 1,
+−aβLβ−1, if a ≤ 0, β ≥ 1,
+0, if a ≤ 0, β ≤ 0,
+a(1− β) (infM×[0,T ] u(x, t))β−1 , if a ≥ 0, β ≤ 0.
+Therefore, we obtain the corollary. 
+In particular, when q(x, t) = const., the term qu(x, t) can be combined by au(x, t)β , so we get
+Corollary 4.6. Let (M, g(t)) be a complete solution to (.) for t ∈ [0, T ] and (M, g(0)) be a complete
+noncompact Riemannian manifold without boundary. Let u be a positive solution to
+(∆− ∂t)u(x, t) = au(x, t)β , a ∈ R, β ∈ (−∞, 0] ∪ [1,+∞).
+Suppose that there exist constants L > 0 and K ≥ 0, such that u ≤ L and
+Ric ≥ −K1g, h ≥ −K2g.
+Then on M × [0, T ], we have
+|∇u(x, t)|
+u(x, t)
+≤ C˜
+(
+1√
+t
++
+√
+K1 +K2 + κ0
+)(
+1 + log
+L
+u(x, t)
+)
+,
+where C˜ as in Theorem 3.1 and
+κ0 =
+
+
+sign a−1
+2 aβL
+β−1, if a ∈ R, β ≥ 1,
+0, if a ≤ 0, β ≤ 0,
+a(1− β) (infM×[0,T ] u(x, t))β−1 , if a ≥ 0, β ≤ 0.
+Here, signa is the sign function, which is 1, 0,−1 if a > 0,= 0, < 0, respectively.
+Remark 4.7. For each of these specific equations that appear in this section, we also have the
+corresponding Harnack inequality, which we will not write them all down here.
+References
+[1] M. Bailesteanu, X. Cao, and A. Pulemotov. Gradient estimates for the heat equation under the Ricci flow. Journal
+of Functional Analysis, 258(10):3517–3542, 2010.
+[2] E. Calabi. An extension of E. Hopfs maximum principle with an application to Riemannian geometry. Duke Math-
+ematical Journal, 25(1):45–56, 1958.
+[3] X. Cao and R. S. Hamilton. Differential Harnack estimates for time-dependent heat equations with potentials.
+Geometric and Functional Analysis, 19(4):989–1000, 2009.
+[4] L. Chen and W. Chen. Gradient estimates for a nonlinear parabolic equation on complete non-compact Riemannian
+manifolds. Annals of Global Analysis and Geometry, 35(4):397–404, 2009.
+[5] Q. Chen and H. Qiu. Gradient estimates and Harnack inequalities of a nonlinear parabolic equation for the V -
+Laplacian. Annals of Global Analysis and Geometry, 50(1):47–64, 2016.
+[6] Q. Chen and G. Zhao. Li–Yau type and Souplet–Zhang type radient estimates of a parabolic equation for the
+V -laplacian. Journal of Mathematical Analysis and Applications, 463(2):744–759, 2018.
+[7] S. Y. Cheng and S.-T. Yau. Differential equations on Riemannian manifolds and their geometric applications.
+Communications on Pure and Applied Mathematics, 28(3):333–354, 1975.
+[8] B. Chow, P. Lu, and L. Ni. Hamilton’s Ricci flow, volume Graduate Studies in Mathematics 77. American Mathe-
+matical Society, 2006.
+[9] N. T. Dung and N. N. Khanh. Gradient estimates of Hamilton–Souplet–Zhang type for a general heat equation on
+Riemannian manifolds. Archiv der Mathematik, 105(5):479–490, 2015.
+[10] C. M. Guenther. The fundamental solution on manifolds with time-dependent metrics. Journal of Geometric Anal-
+ysis, 12(3):425–436, 2002.
+[11] H. Guo and M. Ishida. Harnack estimates for nonlinear backward heat equations in geometric flows. Journal of
+Functional Analysis, 267(8):2638–2662, 2014.
+[12] R. S. Hamilton. Three-maniflods with positive Ricci flow. Journal of Differential Geometry, 1:255–306, 1982.
+GRADIENT ESTIMATES AND HARNACK INEQUALITIES 21
+[13] R. S. Hamilton. The Harnack estimate for the Ricci flow. Journal of Differential Geometry, 37:225–243, 1993.
+[14] R. S. Hamilton. A matrix Harnack estimate for the heat equation. Communications in Analysis and Geometry,
+1(1):113–126, 1993.
+[15] R. S. Hamilton. Harnack estimate for the mean curvature flow. Journal of Differential Geometry, 41:215–226, 1995.
+[16] M. Ishida. Geometric flows and differential Harnack estimates for heat equations with potentials. Annals of Global
+Analysis and Geometry, 45(4):287–302, 2014.
+[17] J. Li. Gradient estimate for the heat kernel of a complete Riemannian manifold and its applications. Journal of
+Functional Analysis, 97(2):293–310, 1991.
+[18] P. Li and S.-T. Yau. On the parabolic kernel of the Schro¨dinger operator. Acta Mathematica, 156(1):153–201, 1986.
+[19] Y. Li. Li–Yau–Hamilton estimates and Bakry–Emery–Ricci curvature. Nonlinear Analysis: Theory, Methods &
+Applications, 113:1–32, 2015.
+[20] Y. Li and X. Zhu. Li–Yau Harnack estimates for a heat-type equation under the geometric flow. Potential Analysis,
+2018. https://doi.org/10.1007/s11118-018-9739-x.
+[21] Y. Li and X. Zhu. Harnack estimates for a heat-type equation under the Ricci flow. Journal of Differential Equations,
+260(4):3270–3301, 2016.
+[22] S. Liu. Gradient estimates for solutions of the heat equation under Ricci flow. Pacific Journal of Mathematics,
+243(1):165–180, 2009.
+[23] L. Ma. Gradient estimates for a simple elliptic equation on complete non-compact Riemannian manifolds. Journal
+of Functional Analysis, 241(1):374–382, 2006.
+[24] E. R. Negrin. Gradient estimates and a Liouville type theorem for the Schro¨dinger operator. Journal of Functional
+Analysis, 127(1):198–203, 1995.
+[25] L. Ni. Ricci flow and nonnegativity of sectional curvature. Mathematical Research Letters, 11(6):883–904, 2004.
+[26] F. Rothe. Global Solutions of Reaction-Diffusion Systems. Springer, 1984.
+[27] Q. Ruan. Elliptic-type gradient estimate for Schro¨dinger equations on noncompact manifolds. Bulletin of the London
+Mathematical Society, 39(6):982–988, 2007.
+[28] J. Smoller. Shock Waves and Reaction-Diffusion Equations. Springer-Verlag, 1983.
+[29] P. Souplet and Q. S. Zhang. Sharp gradient estimate and Yau’s Liouville theorem for the heat equation on non-
+compact manifolds. Bulletin of the London Mathematical Society, 38(6):1045–1053, 2006.
+[30] J. Sun. Gradient estimates for positive solutions of the heat equation under geometric flow. Pacific Journal of
+Mathematics, 253(2):489–510, 2011.
+[31] J.-Y. Wu. Elliptic gradient estimates for a weighted heat equation and applications. Mathematische Zeitschrift,
+280(1-2):451–468, 2015.
+[32] J.-Y. Wu. Elliptic gradient estimates for a nonlinear heat equation and applications. Nonlinear Analysis: Theory,
+Methods & Applications, 151:1–17, 2017.
+[33] Y. Yang. Gradient estimates for a nonlinear parabolic equation on Riemannian manifolds. Proceedings of the Amer-
+ican Mathematical Society, 136(11):4095–4102, 2008.
+[34] Q. S. Zhang. Some gradient estimates for the heat equation on domains and for an equation by Perelman. Interna-
+tional Mathematics Research Notices, 2006(1):1479–1485, 2006.
+[35] L. Zhao and S. Fang. Gradient estimates for a nonlinear Lichnerowicz equation under general geometric flow on
+complete noncompact manifolds. Pacific Journal of Mathematics, 285(1):243–256, 2006.
+Guangwen Zhao, School of Mathematical Sciences, Fudan University, Shanghai 200433, China
+E-mail address: gwzhao@fudan.edu.cn

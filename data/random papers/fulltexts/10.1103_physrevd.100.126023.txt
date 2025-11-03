@@ -1,0 +1,1960 @@
+Heavy Holographic Exotics:
+Tetraquarks as Efimov States
+Yizhuang Liu∗
+Tsung-Dao Lee Institute, Shanghai Jiao University, Shanghai, 200240, China
+Maciej A. Nowak†
+M. Smoluchowski Institute of Physics and Mark Kac Center for Complex
+Systems Research, Jagiellonian University, 30–348 Krako´w, Poland
+Ismail Zahed‡
+Department of Physics and Astronomy, Stony Brook University, Stony Brook, New York 11794-3800, USA
+(Dated: April 15, 2019)
+We provide a holographic description of non-strange multiquark exotics as compact topological
+molecules by binding heavy-light mesons to a tunneling configuration in D8-D8¯ that is homotopic
+to the vacuum state with fixed Chern-Simons number. In the tunneling process, the heavy-light
+mesons transmute to fermions. Their binding is generic and arises from a trade-off between the
+dipole attraction induced by the Chern-Simons term and the U(1) fermionic repulsion. In the heavy
+quark limit, the open-flavor tetraquark exotics QQq¯q¯ and Q¯Q¯qq, emerge as bound Efimov states in
+a degenerate multiplet IJpi = (00+, 01+) with opposite intrinsic Chern-Simons numbers ± 1
+2
+. The
+hidden-flavor tetraquark exotics such as QQ¯qq¯, QQQ¯q¯ and QQQ¯Q¯ as compact topological molecules
+are unbound. Other exotics are also discussed.
+PACS numbers: 11.25.Tq, 11.15.Tk, 12.38.Lg, 12.39.Fe, 12.39.Hg, 13.25.Ft, 13.25.Hw
+I. INTRODUCTION
+Several experimental collaborations [1–4] have re-
+ported new multiquark exotic states such as the neutral
+X(3872) and the charged Zc(3900)
+± and Zb(10610)±,
+a priori outside the canonical quark model classifica-
+tion. More recently, the LHCb [4] has reported new
+pentaquark states P+c (4380) and P
++
+c (4450) through the
+decays Λ0b → JΨpK−, JΨppi− [5], and five narrow and
+neutral excited Ω0c baryon states that decay primarily to
+Ξ+c K
+− [6].
+Some of the reported hidden-flavor tetraquark exotics
+appear to be loosely bound hadronic molecules of two
+heavy-light mesons [7–14], although other explanations
+for their composition have been also suggested in [16–
+18]. The first estimates of the open-flavor and compact
+tetraquark exotics were made in the context of the bag
+model [19], and the random instanton model with full
+chiral and heavy quark symmetry in [20, 21], in line with
+recent estimates using constituent quark models [22].
+The reported pentaquark states with hidden charm ini-
+tially suggested in [23], have been addressed by many [24–
+27] including the newly reported neutrals Ω0c as discussed
+in [28–31]. Given the difficulty to track QCD in the in-
+frared, it is not easy to identify a first principle mecha-
+nism for the formation of these multiquark states.
+Most of the multiquark states reported so far involve
+∗Electronic address: yizhuang.liu@sjtu.edu.cn
+†Electronic address: maciej.a.nowak@uj.edu.pl
+‡Electronic address: ismail.zahed@stonybrook.edu
+both heavy and light quarks but fall outside the realm of
+the canonical quark model [22]. It is well established that
+the light quark sector of QCD exhibits spontaneous chi-
+ral symmetry breaking, while the heavy quark sector is
+characterized by heavy quark symmetry [32]. Both sym-
+metries are at the origin of the chiral doubling suggested
+in heavy-light mesons [33, 34], and confirmed experimen-
+tally in [35, 36]. It is therefore important that a the-
+oretical approach to the multiquark states should have
+manifest chiral and heavy quark symmetry, a clear orga-
+nizational principle in the infrared, and should address
+concisely the multi-body bound state problem.
+The holographic principle in general [37–39], and the
+D4-D8-D8¯ holographic set up in particular [40] provide a
+framework for addressing QCD in the infrared in the dou-
+ble limit of a large number of colors and strong coupling
+λ = g2YMNc. It is confining and exhibits spontaneous
+chiral symmetry breaking geometrically. In leading or-
+der in 1/λ, the light meson sector is well described by
+an effective action on the fused D8-D8¯ branes that is
+consistent with known effective theories [41]. The same
+setup can be minimally modified to account for the de-
+scription of heavy-light mesons as well, with full account
+of heavy quark symmetry [42]. Light and heavy-light
+baryons are dual to instantons and instanton-heavy me-
+son bound states in bulk [42–48], providing a concise ap-
+proach to the multi-body bound state problem. In a way,
+the holographic construction provides a geometrical real-
+ization of the Skyrmion and its variants [25, 49, 50], with-
+out the shortcomings of the derivative expansion. Alter-
+native holographic models for the description of heavy
+hadrons have been developed in [51–53] without the dual
+strictures of chiral and heavy quark symmetrty.
+ar
+X
+iv
+:1
+90
+4.
+05
+18
+9v
+2 
+ [h
+ep
+-p
+h]
+  1
+2 A
+pr
+ 20
+19
+2The organization of the paper is as follows: in sec-
+tion 2 we recall the geometrical setup for the derivation
+of the heavy-light effective action with two light and one
+heavy flavor. We detail the heavy-light Dirac-Born-Infeld
+(hereafter DBI) action and the particular classical fields
+of interest for the description of the holographic multi-
+quark states. In section 3 we derive explicitly a class of
+O(4) tunneling configurations with fixed Chern-Simons
+(hereafter CS) number in D8-D8¯, that interpolate contin-
+uously between a unit topological charge (fermion) and
+zero topological charge (boson). We also derive their
+associated fermionic zero modes. In section 4, we de-
+tail how a heavy meson attached to the tunneling con-
+figuration transmutes to a fermion. We also derive the
+pertinent Hamiltonian on the moduli associated to the
+topological molecule formed of heavy mesons attached
+to the O(4) tunneling configuration. In the heavy quark
+limit, the open-flavor and non-strange tetraquarks and
+hexaquarks are found to be bound Efimov-like states.
+The hidden-flavor tetraquarks are not bound. In gen-
+eral, heavier exotics are not bound. Our conclusions are
+in section 5. We provide two appendices for complete-
+ness.
+II. HOLOGRAPHIC HEAVY-LIGHT
+EFFECTIVE ACTION
+A. D-brane set up
+The D4-D8-D8¯ setup for light flavor branes is stan-
+dard [40]. The minimal modification that accomodates
+heavy mesons makes use of an extra heavy brane as dis-
+cussed in [42]. It consists of Nf light D8-D8¯ branes (L)
+and one heavy (H) probe brane in the cigar-shaped ge-
+ometry that spontaneously breaks chiral symmetry. A
+schematic description of the set up for Nf = 2 is shown
+in Fig. 1. We assume that the L-brane world volume con-
+sists of R4 × S1 × S4 with [0− 9]-dimensions. The light
+8-branes are embedded in the [0−3+5−9]-dimensions and
+set at the antipodes of S1 which lies in the 4-dimension.
+The warped [5− 9]-space is characterized by a finite size
+R and a horizon at UKK .
+B. DBI action
+The effective action on the probe L-branes consists of
+the non-Abelian DBI and CS action. After integrating
+over the S4, the leading contribution in 1/λ to the DBI
+action is
+SDBI ≈ −κ
+∫
+d4xdzTr (f(z)FµνF
+µν + g(z)FµzF
+νz) (1)
+The warping factors are
+FIG. 1: Nf = 2 antipodal 8L light branes, and one 8H heavy
+brane shown in the τU plane, with a bulk O(4) symmetric
+tunneling configuration with a turning point, embedded in
+8L and a massive HL-string connecting them.
+f(z) =
+R3
+4Uz
+, g(z) =
+9
+8
+U3z
+UKK
+(2)
+with U3z = U
+3
+KK + UKKz
+2, and κ ≡ aλNc and a =
+1/(216pi3) [40]. Our conventions are (−1, 1, 1, 1, 1) with
+A†M = −AM and the labels M,N running over µ, z only
+in this section. All units are given in terms of MKK = 1,
+which is readily recovered by dimensional inspection.
+The effective fields in the field strengths are [42]
+FMN =(
+FMN − Φ[MΦ†N ] ∂[MΦN ] +A[MΦN ]
+−∂[MΦ†N ] − Φ†[MAN ] −Φ†[MΦN ]
+)
+(3)
+The matrix valued 1-form gauge field is
+A =
+(
+A Φ
+−Φ† 0
+)
+(4)
+For Nf = 2, the naive Chern-Simons 5-form is
+SCS =
+iNc
+24pi2
+∫
+M5
+Tr
+(
+AF 2 − 1
+2
+A3F +
+1
+10
+A5
+)
+(5)
+We note that for only Nf > 2 it fails to reproduce the cor-
+rect transformation law under the combined gauge and
+chiral transformations [46]. In particular, when address-
+ing the Nf = 3 baryon spectra, (5) does not treproduce
+3the important hypercharge constraint [46], but can be
+minimally modified to do that.
+ForNf coincidental branes, the Φ multiplet is massless,
+but for separated branes as illustrated in Fig. 1 they are
+massive with the additional contribution
+1
+2
+m2HTr
+(
+Φ†MΦM
+)
+(6)
+The value of mH is related to the separation between the
+light and heavy branes, which is about the length of the
+HL string. Below, mH will be taken as the heavy meson
+mass.
+C. Light fields
+In the coincidental brane limit, light baryons are in-
+terchangebly described as a flavor instanton or a D4
+brane wrapping the S4. The instanton size is small with
+ρ ∼ 1/√λ after balancing the order λNc bulk gravita-
+tional attraction with the subleading and of order λ0Nc
+U(1) induced topological repulsion [40].
+To describe tetraquark states which carry zero topolog-
+ical charge or baryon number, but are still tightly bound
+by the underlying light gauge field in holography, we sug-
+gest to use a tunneling configuration on the sphaleron
+path that is homotopic to the vacuum state. The config-
+uration will carry fixed Chern-Simons number. We will
+seek it using the maximally symmetric O(4) gauge field
+AM (y) = −σMN∂NF (y) Fzm(y)||y|=R = 0 (7)
+subject to the condition of zero ′electric′ field strength at
+the turning point R = ρ. From here on M,N runs only
+over 1, 2, 3, z unless specified otherwise. If ρ ∼ 1/√λ is
+the typical size of these tunneling configuations, then it
+is natural to recast the DBI action using the rescaling
+(x0, xM )→ (x0, xM/
+√
+λ),
+√
+λρ→ ρ
+(A0, AM )→ (A0,
+√
+λAM ) (8)
+The rescaled fields satisfy the equations
+DMFMN = 0 ∂
+2
+MA0 = −
+1
+32pi2a
+FaMN ? FaMN (9)
+with the use of the Hodge dual notation, subject to the
+turning point condition (7) in leading order in 1/λ. The
+detailed solution to (9) will be given below. Unlike the
+instanton which is stable, these tunneling configurations
+are unstable and tend to relax to the vacuum state. They
+are the O(4) analogue of an instanton-anti-instanton con-
+figuration running to its demise through the valley. Be-
+low, we will show that they can stabilize quantum me-
+chanically when heavy mesons bind to them.
+D. Heavy-light fields
+Let (Φ0,ΦM ) be the pair of heavy quantum fields that
+bind to the tunneling configuration above. If again ρ ∼
+1/
+√
+λ is their typical size, then it is natural to recast the
+heavy-light part of the DBI action using the additional
+rescaling
+(Φ0,ΦM )→ (Φ0,
+√
+λΦM ) (10)
+The interactions between the light gauge fields (A0, AM )
+and the heavy fields (Φ0,ΦM ) to quadratic order split to
+several contributions [42]
+L = aNcλL0 + aNcL1 + LCS (11)
+which are quoted in the Appendix for completeness. Here
+we only need the leading contributions stemming from
+(11) in the additional heavy mass limit mH → ∞. For
+that, we split ΦM = φMe
+−imHx0 for particles (mH →
+−mH for anti-particles). The leading order contribution
+takes the form
+L0 = −1
+2
+|fMN − ?fMN |2 + 2φ†M (FMN − ?FMN )φN
+(12)
+subject to the constraint equation DMφM = 0 with
+fMN = ∂[MφN ] +A[MφN ] (13)
+while the subleading contributions in (11) to order λ0mH
+simplify to
+L1
+aNc
+→ 4mHφ†M iD0φM
+LCS → mHNc
+16pi2
+φ†M ? FMNφN (14)
+For self-dual light gauge fields with FMN = ?FMN ,
+the last contribution in (12) vanishes, and the minimum
+is reached for fMN = ?fMN . This observation when
+combined with the transversality condition for DMφM =
+0, amounts to a first order equation for the combination
+ψ = σ¯MφM with σM = (i, ~σ), i.e.
+σMDMψ = Dψ = 0 (15)
+as noted in [42]. In a self-dual gauge configuration,
+the heavy spin-1 meson transmutes to a massless spin- 12
+spinor that is BPS bound in leading order. For the tun-
+neling configuration in (7) the self-duality condition no
+longer holds. With this in mind, we now proceed to deter-
+mine first the explicit tunneling configuration (A0, AM )
+by solving (9), and then its variational zero mode.
+4III. TUNNELING FIELD AND ITS FERMIONIC
+ZERO MODE
+In this section we detail the construction of a family of
+O(4) symmetric tunneling configurations (7) solution to
+(9). They carry fractional Chern-Simons number at the
+turning point, and interpolate parametrically between
+the instanton and the sphaleron configuration at the
+turning point when continued to Minkowski space. Their
+O(3) symmetric relatives through a conformal transfor-
+nation are discussed in the Appendix. We note that
+similar configurations were used in the context of ex-
+plosive sphalerons and their applications to finite energy
+collisions [54–56]. We also derive their corresponding
+fermionic zero modes, which will prove useful for the dis-
+cussion of the heavy-meson bound states through trans-
+mutation.
+A. O(4) tunneling configuration
+Consider the O(4) static and symmetric ansatz for the
+SU(2) gauge configuration
+AaM (y) = 2 η¯aMN
+yN
+y2
+f(ξ) (16)
+with the conformal variable ξ(y) = 12 ln(y
+2/ρ2). The anti-
+instanton and anti-sphaleron configurations follow from
+a similar construction with a dual background η¯ → η.
+In terms of (16) the static O(4) symmetric part of the
+Yang-Mills action in (1) without warping reads
+SDBI → −κT
+∫
+d3xdz FaMNFaMN
+= +
+24pi2T
+g2κ
+∫
+dξ
+(
+f ′2(ξ)
+2
++ V (f(ξ))
+)
+(17)
+with T the length of time, the induced effective coupling
+for the flavor gauge fields g2κ = 1/κ, and the double well
+potential
+V (f) = 2(ff¯)2 (18)
+with f¯ = 1−f . The O(4) profile f(ξ) extremizes (17) by
+satisfying
+d2f
+dξ2
+= 4(f2 − f)(2f − 1) . (19)
+which is of the Jacobi type. Remarkably, the solution to
+(19) with a sphaleron-like turning point at ξ = 0 with
+f ′(ξ = 0) = 0, can be found explicitly
+fk(ξ) =
+1
+2
+(
+1 +
+(
+2k2
+1 + k2
+) 1
+2
+sn
+(
+ξ
+(
+2
+1 + k2
+) 1
+2
+, k
+))
+(20)
+with sn the Jacobi sine function. We note that the solu-
+tion (20) is ξ-periodic with period
+Tk = 2K(k)
+(
+1 + k2
+2
+) 1
+2
+(21)
+Here K(k) is the elliptic function, and ξ ∈ [−Tk2 , Tk2 ]. In
+Fig. 2 we show (20) for k = 0.1, 0.5, 1.
+-3 -2 -1 1 2 3
+0.2
+0.4
+0.6
+0.8
+1.0
+f(ξ, 0.1)
+f(ξ, 0.5)
+f(ξ, 1)
+FIG. 2: fk(ξ) for k = 0.1, 0.5, 1.
+The parameter k relates to the sphaleron-like energy
+at the turning point
+Ek =
+24pi2
+g2κ
+V (fk(ξ = 0)) =
+3pi2
+g2κ
+(
+1− k2
+1 + k2
+)2
+(22)
+At k = 0 we recover the expected sphaleron energy
+E0 = 3pi
+2/g2κ with the constant profile f0(ξ) =
+1
+2 . At
+the instanton point k = 1 with zero energy E1 = 0 we
+recover the instanton interpolating profile
+f1(ξ) =
+1
+2
++
+1
+2
+sn(ξ, 1) =
+e2ξ
+1 + e2ξ
+(23)
+as illustrated in Fig. 2. In general, the solution (20)
+carries Chern-Simons number Nk and energy Ek at the
+turning point, that are tied through the profile of the
+potential (18)
+Nk(1−Nk) = 1
+4
+(
+Ek
+E0
+) 1
+2
+(24)
+with N1 = 1 the instanton topological charge, and
+N0 =
+1
+2 the sphaleron Chern-Simons number. Only the
+solution with N1 = 1 is self-dual. All the other config-
+urations with Nk < 1 are extrema rather than minima,
+and therefore prone to decay. They are homotopic to the
+vacuum state.
+For the holographic dual hadronic configurations, the
+more relevant quantity is the action (17) for the gener-
+alized tunneling configurations (20). Since the solutions
+are periodic reflecting on the periodicity of the sphaleron-
+ridge, we have for the fundamental period the action
+Sk =
+24pi2T
+g2κ
+∫ Tk
+0
+dξ
+(
+f ′2(ξ)
+2
++ V (f(ξ))
+)
+(25)
+5which gives S1 = (8pi
+2/g2κ)T at the instanton point as
+expected, and
+S0 =
+3pi2
+g2κ
+T0T =
+3pi3√
+2g2κ
+T (26)
+at the sphaleron point. In particular, the holographic
+mass of the tunneling configuration without warping, can
+be read from (25) as Mk = Sk/T . We note that the holo-
+graphic mass ratio at the sphaleron to instanton point is
+M0/M1 = 3pi/8
+√
+2 < 1. In Fig. 3 we show the mass ratio
+Mk/M1 = Sk/S1 for different values of 0 ≤ k ≤ 1.
+0.2 0.4 0.6 0.8 k
+0.85
+0.90
+0.95
+1.00
+Mk/M1
+FIG. 3: The mass ratio Mk/M1 versus k.
+B. U(1) gauge field
+The U(1) gauge field in (9) is sourced by the local
+topological charge density carried by the O(4) tunneling
+configuration (16). For that, it is useful to determine the
+field strength FMN and its dual ?FMN , or more explicitly
+the electric and magnetic fields
+y2 ~E = ~σ
+(
+f ′ − (~y)
+2
+y2
+(f ′ − 2ff¯)
+)
++
+(~y · ~σ~y − y4~σ × ~y)
+y2
+(f ′ − 2ff¯)
+y2 ~B = ~σ
+(
+2ff¯ +
+(~y)2
+y2
+(f ′ − 2ff¯)
+)
+− (~y · ~σ~y − y4~σ × ~y)
+y2
+(f ′ − 2ff¯) (27)
+with Ei = F i4 and Bi = 12
+ijkF jk. For self-dual fields
+f ′ = 2ff¯ and ~E = ~B as expected for the instanton path.
+The U(1) field satisfies
+∂2MA0 = −
+3
+4pi2ay4
+(
+2f ′ff¯
+)
+(28)
+which can be inverted if we define
+A0(y) =
+1
+y2
+φ1(ξ) (29)
+so that φ1(ξ) is solution to
+φ′′1 − 2φ′1 = −
+3
+4pi2a
+(
+2f ′ff¯
+)
+≡ F0(ξ, k) ≡ − 3
+4pi2a
+F0(ξ, k) (30)
+which is sourced by the topological charge density. The
+net topological charge is
+Qtop(k) = 3
+∫ Tk
+2
+−Tk2
+dξ F0(ξ, k) (31)
+Note that F0(ξ, k) is a total derivative as it should,
+F0(ξ, k) =
+(
+f2 − 2
+3
+f3
+)′
+(32)
+which is identically zero at the sphaleron point since
+f0 =
+1
+2 . (31) is monotonous in k as shown in Fig. 4.
+It interpolates continuously between the sphaleron path
+at k = 0 with zero topological charge, and the instanton
+path at k = 1 with unit topological charge.
+Eq. (30) is readily solved using
+φ1(ξ) = C1 + C2e
++2ξ
++
+1
+2
+∫ ξ
+−Tk2
+dξ1(e
++2ξ−2ξ1 − 1)F0(ξ1, k) (33)
+The constants of integration C1,2 can be fixed by choosing
+the solution to satisfy the zero boundary condition at
+ξ = −Tk2 and the regular boundary condition at ξ = Tk2 .
+This means that
+−C2 = eTkC1 = 1
+2
+∫ Tk
+2
+−Tk2
+e−2ξ1F0(ξ1, k)dξ1 (34)
+which explicitly gives
+φ1(ξ) = +
+1
+2
+∫ ξ
+−Tk2
+dξ1(e
++2ξ−2ξ1 − 1)F0(ξ1, k)
+−1
+2
+(e2ξ − e−Tk)
+∫ Tk
+2
+−Tk2
+e−2ξ1F0(ξ1, k)dξ1
+(35)
+60.2 0.4 0.6 0.8 k
+0.2
+0.4
+0.6
+0.8
+1.0
+Qtop(k)
+FIG. 4: Topological charge versus k.
+C. O(4) fermionic zero mode
+The zero mode solution in the O(4) configuration (1)
+solves the Dirac equation
+(∂M − iAM ) γM ψ = 0 (36)
+In the chiral basis with spin matrices σ¯Ms = (1,−i~σs)
+and
+γ5 =
+(
+1 0
+0 −1
+)
+γµ =
+(
+0 σMs
+σ¯Ms 0
+)
+(37)
+(36) splits into two chirality modes ψ± each conjugate
+of the other. Note the difference between the preceding
+conventions and the hermiticity of the gauge field in this
+section only. If we note that the t′ Hooft symbol satisfies
+the color identity
+σ¯McσNc = σacηaMN (38)
+with the color matrices σMc = (1,−i~σc), then the posi-
+tive chirality mode associated to (36) satisfies
+(
+σ¯Ms∂M +
+1
+2
+σ¯Nsσ¯Nc σMc∂M F
+)
+ψ+ = 0 (39)
+with the spin and color matrices commuting, and F (ξ)
+following from (16)
+F (ξ(y)) = 2
+∫ ξ(y)
+0
+dξ′f(ξ′) (40)
+Note that while writing (39) we have added a U(1) part
+to the gauge field for notational simplicity. It will be
+removed in the final step below. Eq. (39) can be solved
+formally using
+ψ+ = ϕχQ (χQ)aµ = aµ (41)
+wich is a singlet in color-spin space that satisfies
+σMsχQ = σ¯McχQ σ¯MsχQ = σMcχQ (42)
+Using (41-42) in (39) yield
+(
+σ¯Ms∂M +
+1
+2
+σ¯NsσNs σ¯Ms∂M F
+)
+ϕχQ = 0 (43)
+It is here that we need to remove the U(1) contribution
+noted above through the substitution
+σ¯NsσNs χQ =
+(
+1 + (~σs)
+2
+)
+χQ → (~σs)2χQ = 3χQ (44)
+leading to the O(4) symmetric equation for the zero mode
+amplitude
+ϕ′ +
+3
+2
+F ′ϕ = 0 (45)
+The spinor zero-mode of positive parity is
+ψ+(y) = C e
+− 32F (ξ(y))χQ ≡ f0(y)χQ (46)
+with the normalization constant fixed within Tk
+C =
+∣∣∣∣∫
+Tk
+d4y e−3F (ξ(y))
+∣∣∣∣− 12 (47)
+IV. MULTIQUARK EXOTICS AS
+TOPOLOGICAL MOLECULES
+In the triple limit of a large number of colors Nc, strong
+coupling λ and heavy meson mass mH , the holographic
+multiquark exotics can be constructed by attaching to the
+O(4) tunneling gauge configuration an arbitrary number
+of heavy-light mesons. Of course, in reality only a few can
+stick. The fermionic repulsion induced through a U(1)
+coupling to the Chern-Simons term stabilizes the tunnel-
+ing configurations viewed as an instanton-anti-instanton
+process.
+A. Heavy bound meson
+For k = 1 with net topological charge 1, the heavy me-
+son field in the self-dual classical background (7) trans-
+mutes to a fermionic zero mode (15) as initially noted
+in [42]. For k < 1 which is the case of interest with frac-
+tional topological charge (fixed Chern-Simons number),
+the classical background (7) is no longer self-dual and
+the minimum of (12) can be solved using a variational
+fermionic ansatz of the type (15)
+7φM → σMψ+ ≡ σMg(r)χQ (48)
+with the radial coordinate r = |y|. In terms of (48) the
+leading contribution to the action S0 associated to L0 in
+(11) is
+S0 = −
+∫
+d4y
+(
+f†MNfMN + 2φ
+†
+MFMNφN
+)
+= −
+∫
+2pi2dr (6S0(g(r))) χ†QχQ (49)
+with
+S0(g) = r3
+(
+g′2 + 2gg′G+ g2
+(
+−2G′ − 6G
+r
++ 9G2
+))
+(50)
+Here g′ = dg/dr, G(r) = f/r and G′ = dG/dr with the
+background gauge field expressed in the r-coordinate
+AM = −σ¯MN yM
+r
+G(r) (51)
+The local minimum for S0(g) requires that g(r) satisfies
+g′′ +
+3
+5
+g′ −
+(
+−3G′ − 9G
+r
++ 9G2
+)
+g = 0 (52)
+A special solution to (52) is of the form
+g(r) = e−3
+∫ r
+0
+dr′G(r′) = e−
+3
+2F (ξ) (53)
+which is readily seen to satisfy
+g′ + 3Gg = 0
+g′′ + 3G′g + 3Gg′ = 0 (54)
+and therefore(
+g′ + 3Gg
+)
++
+(
+3
+r
+− 3G
+)(
+g′′ + 3G′g + 3Gg′
+)
+= g′′ +
+3
+r
+g′ +
+(
+− 3G′ − 9G
+r
++ 9G2
+)
+g = 0 (55)
+which is (52). We note that for k = 1 which corresponds
+to the instanton path, Eq. (53) reduces to the standard
+fermionic zero mode (r2 + ρ2)−
+3
+2 . (48) with (53) is trans-
+verse DMφM = 0 for all values of k. In [42] χQ → χQ(t)
+describes the induced fermionic moduli upon binding,
+which is how the heavy quark of the original heavy-light
+meson manifests itself in this limit.
+B. Action for the topological molecule
+With the above in mind, and following the arguments
+presented in [42] (see section VB), the pertinent contri-
+butions to the action for the topological molecule to order
+λ0mH is
+Sk
+aNc
+≈
+∫
+dt
+(
+Mk
+aNc
+− 16m2Hχ†QχQ
+)
++
+∫
+dt d4y
+(
+16mH g
+2(r)χ†Qi∂tχQ
++
+mH
+8api2
+MNPQφ
+†
+MFNPφQ
+)
++ SC(A0) (56)
+with the U(1) Coulomb contribution
+SC(A0 = iψ) =∫ (
+1
+2
+(∇ψ)2 + ψ
+(
+ρ0[A]− 16mHg2(r)χ†QχQ
+))
+(57)
+due to the attraction induced by the Chern-Simons den-
+sity ρ0(A) and the self-repulsion. More explicitly, we
+have
+SC(A0) = 16mHχ
+†
+QχQ
+∫
+g2(r)(−iAcl0 )
+−αC(16mHχ†QχQ)2 (58)
+with the Coulomb factor
+αC =
+1
+2
+∫
+g2(r)
+1
+−∇2 g
+2(r) (59)
+The contribution to (56)
+−2mH(φ†0iDMφM − c.c) = 0
+drops out for any k, thanks to the transversality of the
+zero-mode (48). We recall that for k = 1 the tunneling
+configuration is self-dual but not otherwise. This configu-
+ration is an instanton with topological charge 1, and (56)
+describes the action of holographic heavy baryons [42].
+C. Hamiltonian for the topological molecule
+The molecular Hamiltonian associated to (56) follows
+using the canonical rules for χQ in the form
+Hk ≈Mk +mHχ†QχQ
++
+λα0(k)
+16mHρ2
+χ†QχQ +
+3α1(k)
+4pi2aρ2
+χ†QχQ +
+α2(k)
+8pi2aNcρ2
+(χ†QχQ)
+2
+(60)
+8after the rescaling of the fermionic fields
+χQ → 1
+(16aNcmH)
+1
+2
+χQ (61)
+Switching to the conformal coordinate ξ, and using the
+explicit profile for the tunneling gauge configuration f(ξ)
+in (20), the U(1) gauge field F0(ξ, k) in (30) and the
+zero mode g(ξ) in (53), we obtain for the k-dependent
+coefficients α0,1,2(k)
+α0(k) =
+(−12e+2ξ−3F f |∂B)(∫
+B
+dξe4ξ−3F
+)−1
+α1(k) =
+(∫
+B
+dξe+2ξ−3F
+(
+−φ1 − 1
+8
+(
+f ′
+2
++ f¯f
+)))
+×
+(∫
+B
+dξe4ξ−3F
+)−1
+α2(k) =
+(∫
+B
+dξe+2ξ−3Fφ2
+)(∫
+B
+dξe4ξ−3F
+)−2
+(62)
+As a reminder, the functions φ1,2 are explicitly given by
+φ1(ξ) =
+1
+2
+∫ ξ
+−Tk2
+dξ1 (e
+2(ξ−ξ1) − 1)F0(ξ1, k)
+−1
+2
+(e2ξ − e−Tk)
+∫ Tk
+2
+−Tk2
+dξ1e
+−2ξ1F0(ξ1, k)
+φ2(ξ) = −1
+2
+∫ ξ
+−Tk2
+dξ1 (e
+2(ξ−ξ1) − 1) e2ξ1−3F (ξ1,k)
++
+1
+2
+(e2ξ − e−Tk)
+∫ Tk
+2
+−Tk2
+dξ1e
+−3F (ξ1,k) (63)
+We fix the region of integration B to the period Tk in (21)
+or B = [−Tk2 , Tk2 ], with the boundary conditions specified
+earlier. The integrals in (62) for α1,2(k) are not reducible
+to single integrals upon the insertion of (63) and integra-
+tion by parts, since e2ξ−3F does not integrate to a simple
+function.
+The first contribution in (60) is the holographic mass
+(25) of the tunneling configuration of order λNc, which
+is seen to reduce to the instanton mass (action) for
+k = 1. The second contribution is the mass of the
+attached heavy quarks in the mesonic molecule. The
+contribution linear in λ stems from the boundary term
+for the quadratic heavy meson action. It is non-zero
+for 0 ≤ k < 1 due to the deviation of the tunneling
+gauge configuration from self-duality. The α1 contri-
+bution stems from the U(1) Coulomb coupling of the
+charge χ†χ to the background charge ρ0 and the Chern-
+Simons terms.The (χ†χ)2 contribution stems from the
+U(1) Coulomb-like self-interaction. All of these contri-
+butions are similar to the k = 1 case with the exception
+of the α0-contribution.
+The behavior of α0,1,2(k) versus k is shown in Figs. 5-7
+respectively. Eq. α0(k) is maximally repulsive at k = 0
+reflecting on the maximal deviation from self-duality, and
+vanishes at the self-dual point with k = 1 in agreement
+with [42]. Eq. α1(k) is attractive for all k with the ex-
+pected value α1(1) = − 18 from [42]. Eq, α2(k) is repulsive
+throughout with the limiting value α2(1) =
+1
+3 in agree-
+ment with [42].
+0.2 0.4 0.6 0.8 k
+1
+2
+3
+4
+5
+α0(k)
+FIG. 5: α0(k) versus k.
+0.2 0.4 0.6 0.8 k
+-0.12
+-0.10
+-0.08
+-0.06
+-0.04
+-0.02
+α1(k)
+FIG. 6: α1(k) versus k.
+D. Classical binding energy
+In general the treatment of the size ρ requires quantum
+mechanics as we detail below. However, for a classical
+estimate, we note that since the dependence of Mk versus
+k is mild as seen in Fig. 3 with a size of order (λNc)
+0/
+√
+λ,
+we may fix it near the instanton point at k ∼ 1 with the
+result [44, 45]
+ρ2 =
+27pi
+λ
+√
+6
+5
+(64)
+90.2 0.4 0.6 0.8 k
+0.20
+0.25
+0.30
+α2(k)
+FIG. 7: α2(k) versus k.
+in units of MKK . If NQ = χ
+†
+QχQ is the number of heavy
+quarks (mesons) attached to the tunneling configuration,
+their classical binding energy ∆H(k) as a function of k
+follows from (60) as (M1 = 8pi
+2κ)
+∆H(k) ≡ (Hk −NQmH)
+≡ Mk +
+(
+λα0(k)
+16mH
++ 162piα1(k)
+)
+NQ
+ρ2
++27piα2(k)
+N2Q
+Ncρ2
+(65)
+We fix the holographic parameters to: Nc = 3, λ =
+20 [44, 57] and MKK = mρ/
+√
+0.67 ≈ 1 GeV [44]. For
+NQ = 2, we show in Fig. 8 the classical binding energy
+∆H(0) versus mH in units of MKK . We recall that k = 0
+corresponds to the sphaleron path with zero topologi-
+cal charge. For charm and bottom, mH is fixed to the
+(0−, 1−) multiplet, i.e. mD ≈ 1.870 GeV for (D,D∗)
+and mB ≈ 5.279 GeV for (B,B∗). The classical binding
+of both charm and bottom is large and depends sensi-
+tively on the value of ρ. In the heavy quark limit with
+mH → ∞, the classical binding disappears when the re-
+pulsion (α2) exceeds the attraction (α1) modulo Mk, i.e.
+NQ/Nc > 6|α1(0)|/α2(0) ≈ 1.22. A more accurate esti-
+mate of the binding requires a quantum treatment as we
+now discuss.
+E. Quantum moduli
+The quantum moduli space of the O(4) tunneling
+configurations is analogous to the instanton moduli or
+R4 × R4/Z2 (flat space) [40]. Here we focus on R4/Z2
+which corresponds to the size and global flavor SU(2)
+orientations.We will refer to yI = ρaI as the coordinates
+on R4/Z2, with the SU(2) orientations parametrized by
+aI subject to the normalization a
+2
+I = 1, and to ρ as the
+size of the instanton. The collective Hamiltonian on the
+1 2 3 4 5 6 mH
+-1.0-0.8
+-0.6-0.4
+-0.2
+0.2
+ΔH(0)
+FIG. 8: Classical binding energy ∆H(0) versus mH for NQ =
+2 and λ = 20 in units of MKK = 1 GeV
+R4/Z2 moduli for the bound molecule follows from the
+arguments given in [42] as
+H = − 1
+2mk
+(
+1
+ρ
+3
+2
+∂2ρ ρ
+3
+2 +
+1
+ρ2
+(∇2S3 − 2mkQ(k))
+)
++
+1
+2
+mkω
+2
+kρ
+2 (66)
+with mk/m1 = Mk/M1,
+Q(k) =
+Nc
+40pi2a
+×
+(
+q(k) +
+λ
+mH
+5α0(k)
+432pi
+NQ
+Nc
++ 30α1(k)
+NQ
+Nc
++ 5α2(k)
+N2Q
+N2c
+)
+(67)
+and the inertial parameters m1 = 16pi
+2aNc, ω
+2
+1 =
+1
+6 .
+Here q(k) is the U(1) topological self-repulsion in the
+absence of the heavy mesons
+q(k) = −45
+2
+∫ Tk
+2
+−Tk2
+e−2ξφ1(ξ)F0[ξ, k] (68)
+In Fig 9 we show (68) versus k, which is seen to increase
+monotonously with the topological charge, from q(0) =
+0 on the sphaleron path to q(1) = 1 on the instanton
+path [42].
+All contributions in (67) are in principle leading in the
+triple limit Nc > λ > mH  1 provided that NQ/Nc is of
+order 1. However, in practice some of the the inequalities
+may not be fulfilled. This is a known shortcoming of the
+holographic construction, where for instance λ > Nc is
+used in most applications [40, 44, 57].
+For NQ = 0, the eigenstates of (66) are given by
+Tl(a)Rln, where Tl(a) are the spherical harmonics on S
+3
+with ∇2Tl = −l(l + 2)Tl. Under SO(4)∼ SU(2)xSU(2)
+they are in the ( l2 ,
+l
+2 ) representations, with the two SU(2)
+identified by the isometry aI → VLaIVR. The left factor
+10
+0.2 0.4 0.6 0.8 k
+0.2
+0.4
+0.6
+0.8
+1.0
+q(k)
+FIG. 9: U(1) self-repulsion q(k) versus k.
+is the isospin rotation and the right factor is the space
+rotation with quantum numbers I = J = l2 .
+For NQ 6= 0, the isospin (I) and the spin (J) decouple
+with the identification [42]
+J = −I+ χ†QTχQ (69)
+The isospin-spin representations are now
+IJ ≡
+(
+l
+2
+,
+l
+2
+)
+→
+ l
+2
+,
+l
+2
+NQ⊕
+i=1
+1
+2
+ (70)
+F. Multiquark exotics
+The radial equation for the reduced wavefunction
+Rnl = unl/ρ
+3
+2 following from (66) now reads
+−u′′nl +
+gl(k)
+ρ2
+unl + (mkωkρ)
+2 unl = ek,nl unl (71)
+with
+gl(k) = l(l + 2) + 2mkQ(k) (72)
+and ek,nl = 2mk(Ek,nl −Mk − NQmH). The quantum
+corrected classical binding energy (65) is now
+∆H(k)→ ∆k = Ek,nl −NQmH = Mk + ek,nl
+2mk
+(73)
+The occurence of the 1/ρ2 potential at short distances,
+stems from the nature of the attraction in (60) which
+is dipole-like and the repulsion in (60) which is U(1)-
+like and Coulombic in 4-spatial dimensions. It is dom-
+inant at small distances, with the critical coupling of
+− 14 for the formation of deep bound states below the
+heavy meson threshold. Throughout, binding means that
+Ek,nl −NQmH < 0.
+In Fig. 10 we show the behavior of sl(x) ≡ gl(0) + 14
+as a function of x = NQ/Nc with mH → ∞, on the
+sphaleron path (zero topological charge), for l = 0 lower
+(blue) curve, l = 1 middle (orange) curve and l = 2 upper
+(green) curve. Only for l = 0 and x = NQ/Nc < 1.2 is the
+attraction sufficiently strong to form deep bound states.
+Higher waves with l = 1, 2, ... are unbound. For Nc = 3,
+only NQ ≤ 3 states are a priori bound, i.e. open-flavor
+tetraquark QQq¯q¯ and hexaquark QQQq¯q¯q¯ states. The
+S-wave tetraquark states QQq¯q¯ carry IJpi = 00+, 01+
+assignments with Chern-Simons number + 12 , and are de-
+generate.
+0.2 0.4 0.6 0.8 1.0 1.2 1.4 x-2
+2
+4
+6
+8
+10
+sl(x)
+FIG. 10: sl(x) ≡ gl(0) + 14 versus x = NQ/Nc for l = 0 lower
+(blue) curve, l = 1 middle (orange) curve and l = 2 upper
+(green) curve.
+G. Efimov states
+For small distances and S-waves, (71) reduces to
+−u′′n0 +
+g0(k)
+ρ2
+un0 ≈ ek,n0 un0 (74)
+For g0(k) +
+1
+4 < 0, the potential in (74) is sufficiently
+attractive to form deep bound states. However, it is sin-
+gular and requires regularization [58]. The scale invari-
+ance of (74) allows for a universal regularization using
+the renormalization group approach, whereby the depth
+of the attractive and singular potential, can be chosen to
+be a function of a short distance cutoff RS [58]. As a re-
+sult, (74) admits many S-wave bound states with an accu-
+mulation near threshold, the so-called Efimov states [59].
+We note that in our case, there is a minimal value for the
+cutoff Rmin = 1/mH , so the number of bound states is
+limited.
+The bound state spectrum for (74) was detailed in [58]
+with extensive analysis in the context of the renormal-
+ization group cycle, with the result
+11
+ek,n0 = − 4
+r20
+eϕk,n
+ϕk,n =
+(
+2
+νk,x
+(
+C + Im ln Γ(1 + iνk,x)−
+(
+n+
+1
+2
+)
+pi
+))
+νk,x =
+(
+−1
+4
+− g0(k)
+) 1
+2
+(75)
+where x = NQ/Nc. To avoid cluttering the notations, we
+omitted the x-dependence in all quantities except νk,x.
+The behavior of νk,x versus k is shown in Fig. 11 for Nc =
+3, x = 2/3 and mH → ∞. The coupling peaks at k =
+1
+2 , halfway between the instanton and sphaleron path.
+Consecutive bound state energies are tied geometrically
+ek,(n+1)0
+ek,n0
+= e
+− 2piνk,x (76)
+showing their accumulation or dissipation at threshold
+ek,00 = 0, i.e. the Efimov effect. The undetermined con-
+stant C in the quantum spectrum (75) reflects on the sin-
+gular potential, that warrants renormalization. Chang-
+ing C amounts to redefining the depth of the singular
+potential.
+0.2 0.4 0.6 0.8 k
+1.6
+1.8
+2.0
+2.2
+νk,2/3
+FIG. 11: νk,2/3 versus k for x =
+2
+3
+and mH →∞.
+In (75) the scale r0 is fixed by the curvature or range
+of the long distance 1/ρ2 potential. From (71) we fix it
+by matching the strength of the short distance potential
+to the strength of the large distance harmonic potential,
+i.e. r20 = 1/(mkω1). As a result, the quantum binding
+energy (73) becomes
+∆k(Nc, x, λ) = Mk − 2ω1 eϕk,n
+=
+(
+λNc
+27pi
+)
+Mk
+M1
+−
+√
+2
+3
+eϕk,n (77)
+For Nc = 3 and at the sphaleron point with k = 0, the
+binding energy (77) depends on the coupling λ, the oc-
+cupation ratio x = NQ/Nc < 1.2 and the parameter C
+(cutoff depth). We fix C so that the binding energy van-
+ishes for x = 1/3 giving a Qq¯ meson state of energy
+exactly mH . With this in mind, (77) reads
+∆0(3, λ, x) =
+λ
+24
+√
+2
+−
+√
+2
+3
+(
+λ
+√
+3
+48
+)ν0,1/3/ν0,x
+×e 2ν0,x (Im Ln Γ(1+iν0,x)−Im Ln Γ(1+iν0,1/3))
+(78)
+In the heavy quark limit, ν0,1/3 = 1.10, ν0,2/3 = 1.26 and
+ν0,3/3 = 0.93.
+12 14 16 18 20 λ
+-0.10
+-0.08
+-0.06
+-0.04
+-0.02
+Δ0(3,x,λ)
+FIG. 12: Binding energy (78) versus λ for mH → ∞: x = 13
+green (upper) curve, x = 2
+3
+lower (orange) curve and x = 3
+3
+middle (blue) curve.
+Fig. 12 shows the behavior of the binding energies (78)
+versus the t′ Hooft coupling λ, for x = 13 upper (green)
+curve, x = 23 lower (orange) curve and x =
+3
+3 middle
+(blue) curve, in the heavy quark limit. For mH → ∞,
+the binding energies of the tetraquark states QQq¯q¯ and
+hexaquark states QQQq¯q¯q¯ are listed in the first column
+of Table I-II respectively. The binding energies are not
+very sensitive to 10 ≤ λ ≤ 20. For bottom B-mesons
+with mB = 5.279 GeV and charmed D-mesons with
+mD = 1.87 GeV, the binding energies for tetraquark and
+hexaquark states are also listed in Table I-II respectively.
+The hexaquark states are unbound for finite masses.
+We note that for the bound tetraquark states, the Efi-
+mov factor is e−2pi/ν0,2/3 ≈ 10−3. This factor in the
+geometrical ratio (76) shows that the radially excited
+tetraquark exotics rapidly move to the continuum and
+unbind. So we expect only one bound state to survive.
+The heavy multiquark states with hidden-flavor are
+also covered by the present analysis provided that NQ →
+NQ − NQ¯ is substituted in (67) when NQ > NQ¯. For
+NQ < NQ¯ the starting O(4) tunneling configuration
+should be an anti-instanton path with topological charge
+−1, interpolating to an anti-sphaleron path with Chern-
+Simons number − 12 . This implies conjugate symmetry
+for bosonic multiquark states. As a result, the conju-
+gate tetraquark states Q¯Q¯qq are bound and degenerate
+12
+TABLE I: Binding energies for tetraquarks
+λ QQq¯q¯ GeV bbq¯q¯ GeV bcq¯q¯ GeV ccq¯q¯ GeV
+10 −0.097 −0.088 −0.080 −0.072
+15 −0.107 −0.091 −0.077 −0.062
+20 −0.108 −0.085 −0.064 −0.041
+TABLE II: Binding energies for hexaquarks
+λ QQQq¯q¯q¯ GeV bbbq¯q¯q¯ GeV bbcq¯q¯q¯ GeV cccq¯q¯q¯ GeV
+10 −0.026 −0.005 +0.008 +0.037
+15 −0.029 +0.006 +0.029 +0.076
+20 −0.029 +0.018 +0.045 +0.084
+with QQq¯q¯. Heavier tetraquark states such as QQQ¯Q¯
+with NQ → NQ − NQ¯ = 0 are unbound. Heavier
+multiquark states of the type QQQ¯q¯ and QQQ¯qq¯q¯ with
+NQ → NQ −NQ¯ = 1 are unbound, but those of the type
+QQ(QQ¯)pq¯q¯ with NQ −NQ¯ = (p+ 2)− p = 2 are bound
+in the heavy quark limit.
+The holographic exotics with hidden-flavor QQ¯qq¯ with
+NQ → NQ − NQ¯ = 0, are also unbound. Experimental
+evidence in [1–4] suggests otherwise. This shows that
+the X,Y,Z states reported in [1–4] are not the compact
+topological molecules discussed here, but likely loosely
+bound hadronic molecules (deusons) [7–14]. Finally, we
+also note that the present analysis is limited to the light
+SU(2) flavor sector. The extension to the SU(3) flavor
+sector with massive strange quarks is more involved [42]
+and will be discussed elsewhere.
+H. Discussion
+Recent lattice and phenomenological estimates suggest
+that the double-bottom tetraquark state is deeply bound
+with ∆BB = −(0.15−0.2) GeV [60] (lattice) and ∆BB =
+−(0.17) GeV [22] (and references therein). The same
+lattice analysis suggests that the mixed charm-bottom
+tetraquark state is bound ∆CB = −(0.061− 0.015) GeV,
+but the the double-charm tetraquark state is not [60].
+Our holographic results support a double-bottom
+tetraquark state with a binding energy ∆BB = −(0.088−
+0.091) GeV somewhat lower than the lattice estimate, a
+mixed bottom-charm tetraquark with a binding energy
+∆CB = −(0.064 − 0.080) GeV closer to the lattice esti-
+mate, and a bound double-charm tetraquark with a bind-
+ing energy ∆CC = −(0.041− 0.072) GeV contrary to the
+lattice estimate. These results are overall consistent with
+earlier estimates in the context of the random instanton
+model [21].
+Finally, we note that multiquark exotics in the con-
+text of holography have been recently addressed in the
+context of the holography inspired stringy hadron model
+(HISH) [53]. We view our analysis as complementary
+to the HISH analysis as it applies to the low lying ex-
+otics as opposed to the highly excited and stringy ex-
+otics. Our analysis can be extended to the excited
+and unbound exotic states for slow rotations, with the
+rotational-vibrational spectrum for l > 0
+E0,nl = M0 +NQmH
++
+(
+l2
+6
++
+2Nc
+81
+Q(0)
+) 1
+2
++
+2n+ 1√
+6
+(79)
+following from (66-67) through standard arguments [40,
+42]. The states described by (70) are unstable against
+the strong decay to heavy-light mesons. For l  1 the
+spectrum (79) does not reggeize since E0,nl ≈ l. A way
+to achieve reggeization is through relativistic rotations,
+that allow for a stringy-like deformation of the underly-
+ing O(4) tunneling configuration. This will be discussed
+elsewhere.
+V. CONCLUSIONS
+We have presented a top-down holographic approach
+to multiquark exotic states using a minimally modified
+D4-D8-D8¯ set up to account for two light and one heavy
+flavor [42]. The heavy multiquark states are topological
+molecules of heavy-light mesons bound to a tunneling
+gauge configuration with fixed Chern-Simons number.
+The latter interpolates between an instanton path with
+net topological charge 1 or baryon number (a fermion),
+and a sphaleron path with net topological charge 0 and
+Chern-Simons number 12 (a boson).
+The geometrical interpolation between a fermion and
+a boson in higher dimensions, is remarkable. It points to
+a topological duality between the heavy baryon exotics
+discussed in [42], and the heavy meson exotics addressed
+here. This is suggestive of a geometrical realization and
+generalization of the Savage-Wise symmetry [61] to most
+heavy exotics.
+In leading order in the heavy quark limit, the bounded
+heavy mesons to the tunneling path with fixed Chern-
+Simons number transmute to fermions. This mechanism
+is reminiscent of the transmutation of the strange quark
+spin to the Skyrmion in the kaon-Skyrmion bound state
+[62]. The binding of the fermions follows by balancing
+the attraction induced by the Chern Simons term which
+is dipole-like, and the dual repulsion stemming from the
+induced U(1) gauge field together with the deviation of
+the tunneling configuration from self-duality which are 4-
+dimensional Coulomb-like. The ensuing potential in the
+molecule is singular. As a result the topologically bound
+exotics are Efimov states.
+Our analysis shows that only the open-flavor molecules
+with x = NQ/Nc < 1.2 are bound in the heavy quark
+13
+limit. For Nc = 3, the open-flavor exotics QQq¯q¯ and
+their conjugate Q¯Q¯qq are bound in a degenerate mul-
+tiplet IJpi = (00+, 01+) with opposite intrinsic Chern-
+Simons numbers ± 12 . The open-flavor and non-strange
+hexaquark states QQQq¯q¯q¯ are bound in the heavy quark
+limit only. The heavier exotics QQQ¯Q¯ are unbound. The
+compact exotics with hidden-flavor such as QQQ¯q¯ and
+QQ¯qq¯ are also unbound, but the heavier exotics such as
+QQ(QQ¯)q¯q¯ are bound in the heavy quark limit.
+The leading holographic correction in the heavy quark
+mass is found to penalize the binding in ccq¯q¯ more than
+in bbq¯q¯. Our analysis suggests a rotational-vibrational
+tower of multiquark excitations prone to strong decay.
+Some of the shortcomings of the present approach lie
+in the use of the triple limits of large Nc, large coupling λ,
+and large meson mass mH . Although the relaxation of
+these limits is straightforward in principle, its system-
+atic implementation is involved in practice. This not
+withstanding, the present setup is noticeable because of
+the limited number of parameters it carries. The brane
+tension κ ∼ λNc is usually traded for the pion decay
+constant, and the KK scale for the rho meson mass all
+in the light meson sector, leaving the treatment of the
+heavy-light sector parameter free modulo the heavy me-
+son masses mH .
+Unlike most of the approaches for heavy exotics [63]
+(and references therein), the present construction en-
+forces heavy quark symmetry, the spontaneous breaking
+of chiral symmetry, provides a systematic organizational
+framework using the QCD parameters Nc, λ,mH , and
+solves the multi-body problem using topological bound
+states.
+The construction can be improved in a number of ways.
+For instance, by breaking isospin symmetry and including
+strangeness to account for strange topological exotics, or
+by adding a tachyon and a tachyon potential to bring the
+model closer to QCD at short distances, perhaps in the
+context of improved holographic QCD [64]. These and
+related issues will be discussed next.
+VI. ACKNOWLEDGEMENTS
+We thank Marek Karliner for a discussion. MAN
+thanks the Nuclear Theory Group at Stony Brook Uni-
+versity for hospitality during the completion of this work.
+This work was supported by the U.S. Department of
+Energy under Contract No. DE-FG-88ER40388 and by
+the Polish National Science Centre (NCN) Grant UMO-
+2017/27/B/ST2/01139.
+VII. APPENDIX I: HEAVY-LIGHT ACTION
+The explicit construction of the holographic heavy-ligh
+action was detailed in [42]. Here we quote the relevant
+expressions for (11) for completeness,
+L0 = −(DMΦ†N −DNΦ†M )(DMΦN −DNΦM )
++2Φ†MFMNΦN
+L1 = +2(D0Φ†M −DMΦ†0)(D0ΦM −DMΦ0)
+−2Φ†0F 0MΦM − 2Φ†MFM0Φ0
+−2m2HΦ†MΦM + L˜1
+LCS = − iNc
+24pi2
+(dΦ†AdΦ + dΦ†dAΦ + Φ†dAdΦ)
+− iNc
+16pi2
+(dΦ†A2Φ + Φ†A2dΦ + Φ†(AdA+ dAA)Φ)
+−5iNc
+48pi2
+Φ†A3Φ + SC(Φ4, A) (80)
+and
+L˜1 = +1
+3
+z2(DiΦj −DjΦi)†(DiΦj −DjΦi)
+−2z2(DiΦz −DzΦi)†(DiΦz −DzΦi)
+−2
+3
+z2Φ†iFijΦj + 2z
+2(Φ†zFziΦi + c.c.) (81)
+VIII. APPENDIX II: O(3) SYMMETRIC
+TUNNELING SOLUTION AND ITS FERMIONIC
+ZERO MODE
+In this Appendix we suggest yet another tunneling con-
+figuration with O(3) instead of O(4) symmetry that is
+also suitable for binding heavy-light mesons which is fully
+localized in flat R4. This configuration is characterized
+by a turning point in the holographic direction at z = 0,
+in agreement with the explosive sphaleron configurations
+discussed in [54–56]. To construct it, we note that the
+O(4) solutions to the Yang-Mills equations with a turn-
+ing point at ξ = 0 relates to the solution with a turning
+point at z = 0 by the inversion
+(x+ a)M =
+2ρ2
+|y + a|2 (y + a)M (82)
+with a = (~0, ρ), which maps the sphere y2 = ρ2 onto the
+upper-half of the x-space as illustrated in Fig. 13. This
+inversion leaves the line element in R4 unchanged modulo
+a conformal weight σ(y)
+|dy|2 = σ(y) |dx|2 = |y + a|
+4
+4ρ4
+|dx|2 (83)
+and leaves invariant the 1-form of the gauge field
+dxµAµ(x) = dyνAν(y) (84)
+This leads to the transform
+14
+AaM (x) =√
+σ(y)
+(
+gMN − 2 (y + a)M (y + a)N
+(y + a)2
+)
+AaN (y)
+(85)
+with y solving (82).
+We now proceed to construct the O(3) symmetric zero
+mode by applying the spatial inversion (82) onto the O(4)
+symmetric zero mode in (46) through
+ψ˜+(x) =
+σ†µ (y + a)µ
+1/(y + a)2
+ψ+(y) (86)
+More explicitly, we have (r = |~x|)
+ψ˜+(r, z) =
+8ρ6C
+((z + ρ)2 + r2)2
+× ((z + ρ) + i~σ · ~x) e− 32F (ξ(y)) χQ
+(87)
+with
+ξ(y) =
+1
+2
+ln
+(
+(z − ρ)2 + r2
+(z + ρ)2 + r2
+)
+(88)
+This result is in agreement with the one derived in [56]
+prior to the analytical continuation to Minkowski space
+(see their Eq. 22 with a minor correction of the 2 to 32
+in their exponent).
+FIG. 13: Inversion of S3ρ onto R
+4
++ through S
+3
+2ρ.
+[1] I. Adachi [Belle Collaboration], arXiv:1105.4583 [hep-ex];
+A. Bondar et al. [Belle Collaboration], Phys. Rev. Lett.
+108, 122001 (2012) [arXiv:1110.2251 [hep-ex]].
+[2] M. Ablikim et al. [BESIII Collaboration], Phys. Rev.
+Lett. 110, 252001 (2013) [arXiv:1303.5949 [hep-ex]].
+[3] V. M. Abazov et al. [D0 Collaboration],
+[arXiv:1602.07588 [hep-ex]].
+[4] R. Aaij et al. [LHCb Collaboration], arXiv:1606.07895
+[hep-ex]; R. Aaij et al. [LHCb Collaboration],
+arXiv:1606.07898 [hep-ex].
+[5] R. Aaij et al. [LHCb Collaboration], Phys. Rev. Lett. 115
+(2015) 072001 [arXiv:1507.03414 [hep-ex]]; R. Aaij et al.
+[LHCb Collaboration], Phys. Rev. Lett. 117 (2016) no.8,
+082002 [arXiv:1604.05708 [hep-ex]]; R. Aaij et al. [LHCb
+Collaboration], Phys. Rev. Lett. 117 (2016) no.8, 082003
+Addendum: [Phys. Rev. Lett. 117 (2016) no.10, 109902]
+[arXiv:1606.06999 [hep-ex]].
+[6] R. Aaij et al. [LHCb Collaboration], arXiv:1703.04639
+[hep-ex].
+[7] M. B. Voloshin and L. B. Okun, JETP Lett. 23, 333
+(1976) [Pisma Zh. Eksp. Teor. Fiz. 23, 369 (1976)];
+[8] N. A. Tornqvist, Phys. Rev. Lett. 67, 556 (1991);
+N. A. Tornqvist, Z. Phys. C 61, 525 (1994) [hep-
+ph/9310247]; N. A. Tornqvist, Phys. Lett. B 590, 209
+(2004) [hep-ph/0402237].
+[9] M. Karliner and H. J. Lipkin, arXiv:0802.0649 [hep-
+ph]; M. Karliner and J. L. Rosner, Phys. Rev. Lett.
+115 (2015) no.12, 122001 [arXiv:1506.06386 [hep-ph]];
+M. Karliner, Acta Phys. Polon. B 47, 117 (2016).
+[10] C. E. Thomas and F. E. Close, Phys. Rev. D 78, 034007
+(2008) [arXiv:0805.3653 [hep-ph]]; F. Close, C. Downum
+and C. E. Thomas, Phys. Rev. D 81, 074033 (2010)
+[arXiv:1001.2553 [hep-ph]].
+[11] S. Ohkoda, Y. Yamaguchi, S. Yasui, K. Sudoh
+and A. Hosaka, Phys. Rev. D 86, 034019 (2012)
+[arXiv:1202.0760 [hep-ph]]; S. Ohkoda, Y. Yamaguchi,
+S. Yasui, K. Sudoh and A. Hosaka, arXiv:1209.0144 [hep-
+ph].
+[12] M. T. AlFiky, F. Gabbiani and A. A. Petrov, Phys.
+Lett. B 640, 238 (2006) [hep-ph/0506141]; I. W. Lee,
+A. Faessler, T. Gutsche and V. E. Lyubovitskij, Phys.
+Rev. D 80, 094005 (2009) [arXiv:0910.1009 [hep-ph]];
+M. Suzuki, Phys. Rev. D 72, 114013 (2005) [hep-
+ph/0508258]; J. R. Zhang, M. Zhong and M. Q. Huang,
+Phys. Lett. B 704, 312 (2011) [arXiv:1105.5472 [hep-
+ph]]; D. V. Bugg, Europhys. Lett. 96, 11002 (2011)
+[arXiv:1105.5492 [hep-ph]]; J. Nieves and M. P. Valder-
+rama, Phys. Rev. D 84, 056015 (2011) [arXiv:1106.0600
+[hep-ph]]; M. Cleven, F. K. Guo, C. Hanhart and
+U. G. Meissner, Eur. Phys. J. A 47, 120 (2011)
+[arXiv:1107.0254 [hep-ph]]; T. Mehen and J. W. Pow-
+ell, Phys. Rev. D 84, 114013 (2011) [arXiv:1109.3479
+[hep-ph]]; F. K. Guo, C. Hidalgo-Duque, J. Nieves
+and M. P. Valderrama, Phys. Rev. D 88, 054007
+(2013) [arXiv:1303.6608 [hep-ph]]; Q. Wang, C. Han-
+hart and Q. Zhao, Phys. Rev. Lett. 111, no. 13, 132003
+(2013) [arXiv:1303.6355 [hep-ph]]; F. K. Guo, C. Han-
+hart, Q. Wang and Q. Zhao, Phys. Rev. D 91 (2015)
+no.5, 051504 [arXiv:1411.5584 [hep-ph]]; X. W. Kang,
+Z. H. Guo and J. A. Oller, Phys. Rev. D 94 (2016)
+no.1, 014012 [arXiv:1603.05546 [hep-ph]]; X. W. Kang
+and J. A. Oller, arXiv:1612.08420 [hep-ph].
+[13] E. S. Swanson, Phys. Rept. 429, 243 (2006) [hep-
+ph/0601110]; Z. F. Sun, J. He, X. Liu, Z. G. Luo
+15
+and S. L. Zhu, Phys. Rev. D 84, 054002 (2011)
+[arXiv:1106.2968 [hep-ph]];
+[14] Y. Liu and I. Zahed, Phys. Lett. B 762, 362 (2016)
+[arXiv:1608.06535 [hep-ph]]; Y. Liu and I. Zahed, Int.
+J. Mod. Phys. E 26, 1740017 (2017) [arXiv:1610.06543
+[hep-ph]]; Y. Liu and I. Zahed, arXiv:1611.04400 [hep-
+ph].
+[15] M. Albaladejo, F. K. Guo, C. Hidalgo-Duque
+and J. Nieves, Phys. Lett. B 755, 337 (2016)
+doi:10.1016/j.physletb.2016.02.025 [arXiv:1512.03638
+[hep-ph]].
+[16] A. V. Manohar and M. B. Wise, Nucl. Phys. B 399,
+17 (1993) [hep-ph/9212236]; N. Brambilla et al., Eur.
+Phys. J. C 71, 1534 (2011) [arXiv:1010.5827 [hep-
+ph]]; M. B. Voloshin, Prog. Part. Nucl. Phys. 61,
+455 (2008) [arXiv:0711.4556 [hep-ph]]; J. M. Richard,
+arXiv:1606.08593 [hep-ph].
+[17] D. O. Riska and N. N. Scoccola, Phys. Lett. B 299, 338
+(1993).
+[18] M. Nielsen, F. S. Navarra and S. H. Lee, Phys. Rept.
+497, 41 (2010) [arXiv:0911.1958 [hep-ph]].
+[19] J. P. Ader, J. M. Richard and P. Taxil, Phys. Rev. D 25,
+2370 (1982); S. Zouzou, B. Silvestre-Brac, C. Gignoux
+and J. M. Richard, Z. Phys. C 30, 457 (1986); J. Carlson,
+L. Heller and J. A. Tjon, Phys. Rev. D 37, 744 (1988).
+[20] M. A. Nowak, I. Zahed and M. Rho, Phys. Lett. B 303,
+130 (1993).
+[21] S. Chernyshev, M. A. Nowak and I. Zahed, Phys. Rev. D
+53, 5176 (1996) [hep-ph/9510326].
+[22] M. Karliner, J. L. Rosner and T. Skwarnicki, Ann. Rev.
+Nucl. Part. Sci. 68, 17 (2018) [arXiv:1711.10626 [hep-
+ph]]; M. Karliner and J. L. Rosner, Phys. Rev. Lett.
+119, no. 20, 202001 (2017) [arXiv:1707.07666 [hep-ph]];
+E. J. Eichten and C. Quigg, Phys. Rev. Lett. 119, no.
+20, 202002 (2017) [arXiv:1707.09575 [hep-ph]]; A. Czar-
+necki, B. Leng and M. B. Voloshin, Phys. Lett. B 778,
+233 (2018) [arXiv:1708.04594 [hep-ph]].
+[23] M. Karliner and J. L. Rosner, Phys. Rev. Lett. 115, no.
+12, 122001 (2015) [arXiv:1506.06386 [hep-ph]]; M. Kar-
+liner, EPJ Web Conf. 130, 01003 (2016).
+[24] R. Chen, X. Liu, X. Q. Li and S. L. Zhu, Phys. Rev.
+Lett. 115, no. 13, 132002 (2015) [arXiv:1507.03704 [hep-
+ph]]; H. X. Chen, W. Chen, X. Liu, T. G. Steele
+and S. L. Zhu, Phys. Rev. Lett. 115, no. 17, 172001
+(2015) [arXiv:1507.03717 [hep-ph]]; L. Roca, J. Nieves
+and E. Oset, Phys. Rev. D 92, no. 9, 094003 (2015)
+[arXiv:1507.04249 [hep-ph]]; T. J. Burns, Eur. Phys. J.
+A 51, no. 11, 152 (2015) [arXiv:1509.02460 [hep-ph]].
+H. Huang, C. Deng, J. Ping and F. Wang, Eur. Phys.
+J. C 76, no. 11, 624 (2016) [arXiv:1510.04648 [hep-
+ph]]; L. Roca and E. Oset, Eur. Phys. J. C 76, no.
+11, 591 (2016) [arXiv:1602.06791 [hep-ph]]; Q. F. L and
+Y. B. Dong, Phys. Rev. D 93, no. 7, 074020 (2016)
+[arXiv:1603.00559 [hep-ph]]; Y. Shimizu, D. Suenaga and
+M. Harada, Phys. Rev. D 93, no. 11, 114003 (2016)
+[arXiv:1603.02376 [hep-ph]]; C. W. Shen, F. K. Guo,
+J. J. Xie and B. S. Zou, Nucl. Phys. A 954, 393 (2016)
+[arXiv:1603.04672 [hep-ph]]; M. I. Eides, V. Y. Petrov
+and M. V. Polyakov, Phys. Rev. D 93, no. 5, 054039
+(2016) [arXiv:1512.00426 [hep-ph]]; I. A. Perevalova,
+M. V. Polyakov and P. Schweitzer, Phys. Rev. D 94, no.
+5, 054024 (2016) [arXiv:1607.07008 [hep-ph]]; V. Kope-
+liovich and I. Potashnikova, Phys. Rev. D 93, no.
+7, 074012 (2016); Y. Yamaguchi and E. Santopinto,
+arXiv:1606.08330 [hep-ph]; S. Takeuchi and M. Takizawa,
+Phys. Lett. B 764, 254 (2017) [arXiv:1608.05475 [hep-
+ph]].
+[25] N. N. Scoccola, D. O. Riska and M. Rho, Phys. Rev. D
+92, no. 5, 051501 (2015) [arXiv:1508.01172 [hep-ph]].
+[26] G. Rossi and G. Veneziano, JHEP 1606, 041 (2016)
+[arXiv:1603.05830 [hep-th]].
+[27] J. Sonnenschein and D. Weissman, arXiv:1606.02732
+[hep-ph].
+[28] M. Karliner and J. L. Rosner, arXiv:1703.07774 [hep-
+ph]; G. Yang and J. Ping, arXiv:1703.08845 [hep-ph];
+K. L. Wang, L. Y. Xiao, X. H. Zhong and Q. Zhao,
+arXiv:1703.09130 [hep-ph]; W. Wang and R. L. Zhu,
+arXiv:1704.00179 [hep-ph]; H. Y. Cheng and C. W. Chi-
+ang, arXiv:1704.00396 [hep-ph]; H. Huang, J. Ping
+and F. Wang, arXiv:1704.01421 [hep-ph]; B. Chen and
+X. Liu, arXiv:1704.02583 [hep-ph]; T. M. Aliev, S. Bilmis
+and M. Savci, arXiv:1704.03439 [hep-ph]; H. C. Kim,
+M. V. Polyakov and M. Praszalowicz, arXiv:1704.04082
+[hep-ph].
+[29] D. Ebert, R. N. Faustov and V. O. Galkin, Phys.
+Rev. D 84, 014025 (2011) [arXiv:1105.0583 [hep-ph]];
+D. Ebert, R. N. Faustov and V. O. Galkin, Phys. Lett. B
+659, 612 (2008) [arXiv:0705.2957 [hep-ph]]; W. Roberts
+and M. Pervin, Int. J. Mod. Phys. A 23, 2817 (2008)
+[arXiv:0711.2492 [nucl-th]].
+[30] Z. G. Wang, Eur. Phys. J. C 76, no. 2, 70
+(2016) [arXiv:1508.01468 [hep-ph]]; Z. G. Wang,
+arXiv:1704.01854 [hep-ph].
+[31] M. Padmanath and N. Mathur, arXiv:1704.00259 [hep-
+ph].
+[32] E. V. Shuryak, Nucl. Phys. B 198, 83 (1982); N. Is-
+gur and M. B. Wise, Phys. Rev. Lett. 66 (1991) 1130;
+A. V. Manohar and M. B. Wise, “Heavy quark physics,”
+Camb. Monogr. Part. Phys. Nucl. Phys. Cosmol. 10, 1
+(2000).
+[33] M. A. Nowak, M. Rho and I. Zahed, Phys. Rev. D 48,
+4370 (1993) [hep-ph/9209272]; M. A. Nowak, M. Rho
+and I. Zahed, Acta Phys. Polon. B 35, 2377 (2004) [hep-
+ph/0307102].
+[34] W. A. Bardeen and C. T. Hill, Phys. Rev. D 49 (1994)
+409 [hep-ph/9304265]; W. A. Bardeen, E. J. Eichten
+and C. T. Hill, Phys. Rev. D 68, 054024 (2003) [hep-
+ph/0305049].
+[35] B. Aubert et al. [BaBar Collaboration], Phys. Rev. Lett.
+90, 242001 (2003) [hep-ex/0304021].
+[36] D. Besson et al. [CLEO Collaboration], Phys. Rev. D 68,
+032002 (2003) Erratum: [Phys. Rev. D 75, 119908 (2007)]
+[hep-ex/0305100].
+[37] J. M. Maldacena, Int. J. Theor. Phys. 38, 1113
+(1999) [Adv. Theor. Math. Phys. 2, 231 (1998)]
+[hep-th/9711200]; S. S. Gubser, I. R. Klebanov and
+A. M. Polyakov, Phys. Lett. B 428, 105 (1998) [hep-
+th/9802109]; E. Witten, Adv. Theor. Math. Phys. 2, 505
+(1998) [hep-th/9803131]; I. R. Klebanov and E. Witten,
+Nucl. Phys. B 556, 89 (1999) [hep-th/9905104].
+[38] J. Erlich, E. Katz, D. T. Son and M. A. Stephanov, Phys.
+Rev. Lett. 95, 261602 (2005) [hep-ph/0501128]; L. Da
+Rold and A. Pomarol, Nucl. Phys. B 721, 79 (2005) [hep-
+ph/0501218].
+[39] S. Hong, S. Yoon and M. J. Strassler, JHEP 0604,
+003 (2006) [hep-th/0409118]; J. Erlich, G. D. Kribs
+and I. Low, Phys. Rev. D 73, 096001 (2006)
+doi:10.1103/PhysRevD.73.096001 [hep-th/0602110];
+16
+H. R. Grigoryan and A. V. Radyushkin, Phys. Rev.
+D 76, 095007 (2007) [arXiv:0706.1543 [hep-ph]];
+H. R. Grigoryan and A. V. Radyushkin, Phys. Lett.
+B 650, 421 (2007) [hep-ph/0703069]; S. S. Afonin and
+I. V. Pusenkov, EPJ Web Conf. 125, 04004 (2016)
+[arXiv:1606.06091 [hep-ph]]; N. R. F. Braga, M. A. Mar-
+tin Contreras and S. Diles, Europhys. Lett. 115, no.
+3, 31002 (2016) [arXiv:1511.06373 [hep-th]]; A. Gorsky,
+S. B. Gudnason and A. Krikun, Phys. Rev. D 91, no.
+12, 126008 (2015) [arXiv:1503.04820 [hep-th]].
+[40] T. Sakai and S. Sugimoto, Prog. Theor. Phys. 113, 843
+(2005) [hep-th/0412141]; T. Sakai and S. Sugimoto, Prog.
+Theor. Phys. 114, 1083 (2005) [hep-th/0507073].
+[41] T. Fujiwara, T. Kugo, H. Terao, S. Uehara and K. Ya-
+mawaki, Prog. Theor. Phys. 73, 926 (1985).
+[42] Y. Liu and I. Zahed, Phys. Rev. D 95, no. 5, 056022
+(2017) [arXiv:1611.03757 [hep-ph]]. Y. Liu and I. Za-
+hed, arXiv:1611.04400 [hep-ph]; Y. Liu and I. Zahed,
+arXiv:1704.03412 [hep-ph].
+[43] S. w. Li, Phys. Rev. D 96, no. 10, 106018 (2017)
+[arXiv:1707.06439 [hep-th]]; W. Cai and S. w. Li, Eur.
+Phys. J. C 78, no. 6, 446 (2018) [arXiv:1712.06304 [hep-
+th]]; S. w. Li, Phys. Rev. D 99, no. 4, 046013 (2019)
+[arXiv:1812.03482 [hep-th]].
+[44] H. Hata, T. Sakai, S. Sugimoto and S. Yamato, Prog.
+Theor. Phys. 117 (2007) 1157 [hep-th/0701280 [HEP-
+TH]].
+[45] K. Hashimoto, T. Sakai and S. Sugimoto, Prog.
+Theor. Phys. 120 (2008) 1093 [arXiv:0806.3122 [hep-
+th]]; K. Y. Kim and I. Zahed, JHEP 0809, 007 (2008)
+[arXiv:0807.0033 [hep-th]].
+[46] H. Hata and M. Murata, Prog. Theor. Phys. 119, 461
+(2008) [arXiv:0710.2579 [hep-th]].
+[47] K. Hashimoto, N. Iizuka, T. Ishii and D. Kadoh, Phys.
+Lett. B 691, 65 (2010) [arXiv:0910.1179 [hep-th]].
+[48] P. H. C. Lau and S. Sugimoto, arXiv:1612.09503 [hep-th].
+[49] I. Zahed and G. E. Brown, Phys. Rept. 142, 1 (1986);
+Multifaceted Skyrmion, Eds. M. Rho and I. Zahed, World
+Scientific, 2016.
+[50] N. N. Scoccola, Nucl. Phys. A 532, 409C (1991);
+M. Rho, D. O. Riska and N. N. Scoccola, Z. Phys.
+A 341, 343 (1992); D. P. Min, Y. s. Oh, B. Y. Park
+and M. Rho, hep-ph/9209275. Y. s. Oh, B. Y. Park
+and D. P. Min, Phys. Rev. D 49, 4649 (1994) [hep-
+ph/9402205]; Y. s. Oh, B. Y. Park and D. P. Min, Phys.
+Rev. D 50, 3350 (1994) [hep-ph/9407214]; D. P. Min,
+Y. s. Oh, B. Y. Park and M. Rho, Int. J. Mod.
+Phys. E 4, 47 (1995) [hep-ph/9412302]; Y. s. Oh and
+B. Y. Park, Phys. Rev. D 51, 5016 (1995) [hep-
+ph/9501356]; J. Schechter, A. Subbaraman, S. Vaidya
+and H. Weigel, Nucl. Phys. A 590, 655 (1995) Erra-
+tum: [Nucl. Phys. A 598, 583 (1996)] [hep-ph/9503307];
+Y. s. Oh and B. Y. Park, Z. Phys. A 359, 83 (1997) [hep-
+ph/9703219]; C. L. Schat and N. N. Scoccola, Phys. Rev.
+D 61, 034008 (2000) [hep-ph/9907271]; N. N. Scoccola,
+arXiv:0905.2722 [hep-ph]; N. Itzhaki, I. R. Klebanov,
+P. Ouyang and L. Rastelli, Nucl. Phys. B 684, 264 (2004)
+[hep-ph/0309305]; J. P. Blanckenberg and H. Weigel,
+Phys. Lett. B 750, 230 (2015) [arXiv:1505.06655 [hep-
+ph]]; M. Praszalowicz, PoS CORFU 2017, 025 (2018)
+[arXiv:1805.07729 [hep-ph]].
+[51] A. Paredes and P. Talavera, Nucl. Phys. B 713, 438
+(2005) [hep-th/0412260]; J. Erdmenger, N. Evans and
+J. Grosse, JHEP 0701, 098 (2007); [hep-th/0605241].
+J. Erdmenger, K. Ghoroku and I. Kirsch, JHEP 0709
+(2007) 111 [arXiv:0706.3978 [hep-th]]; C. P. Herzog,
+S. A. Stricker and A. Vuorinen, JHEP 0805, 070 (2008)
+[arXiv:0802.2956 [hep-th]]; Y. Bai and H. C. Cheng,
+JHEP 1308, 074 (2013) [arXiv:1306.2944 [hep-ph]];
+K. Hashimoto, N. Ogawa and Y. Yamaguchi, JHEP
+1506, 040 (2015) [arXiv:1412.5590 [hep-th]].
+[52] G. F. de Teramond, S. J. Brodsky, A. Deur, H. G. Dosch
+and R. S. Sufian, arXiv:1611.03763 [hep-ph]; H. G. Dosch,
+G. F. de Teramond and S. J. Brodsky, Phys. Rev.
+D 92 (2015) no.7, 074010 [arXiv:1504.05112 [hep-ph]];
+H. G. Dosch, G. F. de Teramond and S. J. Brodsky, Phys.
+Rev. D 95 (2017) no. 3, 034016 [arXiv:1612.02370 [hep-
+ph]].
+[53] J. Sonnenschein and D. Weissman, Nucl. Phys. B 920
+(2017) 319 [arXiv:1606.02732 [hep-ph]]; J. Sonnenschein
+and D. Weissman, arXiv:1812.01619 [hep-ph].
+[54] M. Luscher, Phys. Lett. 70B, 321 (1977).
+B. M. Schechter, Phys. Rev. D 16, 3015 (1977).
+[55] D. M. Ostrovsky, G. W. Carter and E. V. Shuryak, Phys.
+Rev. D 66, 036004 (2002) [hep-ph/0204224].
+[56] E. Shuryak and I. Zahed, Phys. Rev. D 67, 014006 (2003)
+[hep-ph/0206022].
+[57] F. Brunner, D. Parganlija and A. Rebhan, Phys. Rev. D
+91, no. 10, 106002 (2015) Erratum: [Phys. Rev. D 93,
+no. 10, 109903 (2016)] [arXiv:1501.07906 [hep-ph]].
+[58] K. M. Case, Phys. Rev. 80, 797 (1950); S. R. Beane,
+P. F. Bedaque, L. Childress, A. Kryjevski, J. McGuire
+and U. van Kolck, Phys. Rev. A 64, 042103 (2001)
+[quant-ph/0010073]; E. Braaten and D. Phillips, Phys.
+Rev. A 70, 052111 (2004) [hep-th/0403168].
+[59] V. Efimov, Phys. Lett. 33B, 563 (1970).
+[60] A. Francis, R. J. Hudspith, R. Lewis and K. Maltman,
+arXiv:1810.10550 [hep-lat].
+[61] M. J. Savage and M. B. Wise, Phys. Lett. B 248, 177
+(1990).
+[62] C. G. Callan and I. Klebanov, Nucl. Phys. B262 (1985)
+365. For a review, see e.g. M.A. Nowak, M. Rho and I.
+Zahed, Nuclear Chiral Dynamics, World Scientific, Sin-
+gapore (1996).
+[63] Y. R. Liu, H. X. Chen, W. Chen, X. Liu and S. L. Zhu,
+arXiv:1903.11976 [hep-ph].
+[64] U. Gursoy and E. Kiritsis, JHEP 0802, 032 (2008)
+[arXiv:0707.1324 [hep-th]]; U. Gursoy, E. Kiritsis and
+F. Nitti, JHEP 0802, 019 (2008) [arXiv:0707.1349 [hep-
+th]].

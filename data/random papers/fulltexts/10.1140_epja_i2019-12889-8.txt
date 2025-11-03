@@ -1,0 +1,2197 @@
+The Role of Lattice QCD in Searches for Violations of Fundamental
+Symmetries and Signals for New Physics
+(USQCD Collaboration)
+Vincenzo Cirigliano (Editor),1, ∗ Zohreh Davoudi (Editor),2, 3, † Tanmoy Bhattacharya,1
+Taku Izubuchi,4, 5 Phiala E. Shanahan,6 Sergey Syritsyn,7, 5 and Michael L. Wagman6
+1Theoretical Division T-2, Los Alamos National Laboratory, Los Alamos, NM 87545, USA
+2Department of Physics and Maryland Center for Fundamental Physics,
+University of Maryland, College Park, MD 20742, USA
+3RIKEN Center for Accelerator-based Sciences, Wako 351-0198, Japan
+4Physics Department, Brookhaven National Laboratory, Upton, NY 11973, USA
+5RIKEN-BNL Research Center, Brookhaven National Lab, Upton, NY, 11973, USA
+6Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+7Department of Physics and Astronomy, Stony Brook University, Stony Brook, NY 11794
+This document is one of a series of whitepapers from the USQCD collaboration. Here, we
+discuss opportunities for Lattice Quantum Chromodynamics (LQCD) in the research frontier
+in fundamental symmetries and signals for new physics. LQCD, in synergy with effective
+field theories and nuclear many-body studies, provides theoretical support to ongoing and
+planned experimental programs in searches for electric dipole moments of the nucleon, nuclei
+and atoms, decay of the proton, n-n oscillations, neutrinoless double-β decay of a nucleus,
+conversion of muon to electron, precision measurements of weak decays of the nucleon and
+of nuclei, precision isotope-shift spectroscopy, as well as direct dark matter detection experi-
+ments using nuclear targets. This whitepaper details the objectives of the LQCD program in
+the area of Fundamental Symmetries within the USQCD collaboration, identifies priorities
+that can be addressed within the next five years, and elaborates on the areas that will likely
+demand a high degree of innovation in both numerical and analytical frontiers of the LQCD
+research.
+∗ cirigliano@lanl.gov
+† davoudi@umd.edu
+ar
+X
+iv
+:1
+90
+4.
+09
+70
+4v
+1 
+ [h
+ep
+-la
+t] 
+ 22
+ A
+pr
+ 20
+19
+2CONTENTS
+Executive summary 2
+I. Introduction 3
+II. CP violation and electric dipole moment of nucleon and nuclei 8
+III. Baryon-number nonconservation and proton decay 10
+IV. Lepton-number nonconservation and neutrinoless double-β decay of a nucleus 12
+V. Baryon-number minus lepton-number nonconservation and n-n¯ oscillation 16
+VI. Lepton-flavor nonconservation and muon to electron conversion 17
+VII. Dark-matter cross sections with nucleon and nuclei 19
+VIII. Precision β decay for searches of new physics 21
+IX. Isotope-shift spectroscopy 22
+X. Computing needs 22
+References 24
+EXECUTIVE SUMMARY
+In 2018, the USQCD collaboration’s Executive Committee organized several subcommittees to
+recognize future opportunities and formulate possible goals for lattice field theory calculations in
+several physics areas. The conclusions of these studies, along with community input, are presented
+in seven whitepapers [1–6]. The current whitepaper concerns the role of LQCD in the research
+frontier in fundamental symmetries and signals for new physics.
+Precision tests of the Standard Model (SM) of particle physics, if they reveal any discrepancy
+with the model’s predictions, provide a window into the physics beyond the SM. This would have a
+profound impact on our understanding of how nature works at the smallest distances and highest
+energies – scales far beyond the reach of particle colliders of today and of the future. The U.S.
+Nuclear Science Advisory Committee (NSAC) promoted research in Fundamental Symmetries and
+Neutrino Physics to one of the primary thrusts of the field of Nuclear Physics (NP) in the 2007
+Long Range Plan [7]. NSAC further enhanced and extended its support for such a program in
+the 2015 Long Range Plan [8], including making the strongest recommendation for investment in
+a tonne-scale experiment that will search for lepton-number violation in the neutrinoless double-β
+(0νββ) decay of a nucleus. Other areas in which the U.S. NP and High Energy Physics (HEP) pro-
+grams have invested substantially, and in several cases is leading the international effort, include
+searches for CP violation in electric dipole moments (EDMs) of the nucleon, nuclei and atoms,
+baryon-number nonconservation through proton decay, baryon-number minus lepton-number non-
+conservation through n-n oscillations, lepton-number nonconservation through 0νββ decay of a
+nucleus, and lepton-flavor nonconservation through muon to electron conversion. Further, preci-
+sion tests of the SM through weak decays of neutrons and nuclei and isotope-shift spectroscopy
+are ongoing efforts. Furthermore, a devoted experimental effort towards direct detection of dark
+3matter constrains many new physics scenarios, and accurate theoretical calculations of the cross
+sections of various dark-matter candidates with experimental nuclear targets are needed to reliably
+interpret experimental results.
+All of these exciting frontiers share a common theme: new heavy particles and interactions could
+violate (approximate) symmetries of the SM and lead to new physics in low-energy observables
+accessible to high-intensity experiments involving nucleons and nuclei, even in scenarios where
+the energy scale associated with the symmetry violation is inaccessible in collider experiments.
+Constraining new-physics models requires matching, e.g., the observed rate of the experimental
+process, to new high-scale interactions whose effects are encoded in a variety of higher-dimensional
+operators present in the low-energy SM theory. High-scale interactions are expressed at the quark-
+(and lepton-)level, and nonperturbative calculations of the strong dynamics of quarks and gluons
+in the quantum chromodynamics (QCD) sector of the SM are needed in order to match theoretical
+predictions to low-energy observables involving nucleons and nuclei. LQCD, as the most reliable
+method to provide such an input, has long established its role in supporting the HEP experimental
+program, and is now pushing the boundaries of challenging calculations relevant for both NP and
+HEP in the Fundamental Symmetries program.
+This whitepaper describes several areas in which LQCD has been, or will be, playing a major
+role, enumerates the challenges ahead, and identifies specific calculations that can have the highest
+impact on the larger program and which would complement nuclear and high-energy research in
+the U.S. and worldwide. In particular, the planned studies have been categorized as: i) straight-
+forward : those which will reach the required level of precision with the continuation of current
+hardware, software and personnel support in the next 5 years, ii) challenging : those which have
+just started now, but the completion of which will require at least an order of magnitude increase
+in computational resources that will be available in the coming Exascale era, and iii) extremely
+challenging : those that demand new ideas and paradigms in theory, algorithm and computation,
+but are still in reach of the LQCD community, granted its continual creativity and persistence.
+I. INTRODUCTION
+Overwhelming observational evidence in nature points to the existence of new degrees of freedom
+that go beyond the SM of particle physics. Beyond-the-Standard-Model (BSM) scenarios aim to
+explain the matter dominance over antimatter in Universe, the nature of massive but extremely
+light neutrinos, the extreme hierarchy of scales associated with electroweak and gravity forces, and
+the nature of dark matter. The Large Hadron Collider (LHC) at CERN has made a major discovery
+by observing the last predicted particle within the SM, the Higgs boson [9], but no evidence for BSM
+particles or interactions has been discovered as yet from LHC results, including runs with a total
+beam energy of 13 TeV. Motivated by a complementary discovery potential, the case is now stronger
+than ever for “Intensity Frontier” investigations. In the intensity-frontier experiments, the goal is
+shifted from attempting to produce “on-shell” BSM particles in high-energy collision, to detecting
+their effects when they are produced as “off-shell” intermediate states in low-energy experiments.
+While the sensitivity of collider-based investigations at the “Energy Frontier” is limited to few
+to tens of TeVs with current technology, Intensity Frontier investigations are sensitive to several
+types of BSM physics that could occur at scales orders of magnitude higher than those reached
+in colliders. With such a significant discovery potential, a vigorous experimental program in the
+U.S. and around the world has formed over the past few decades to search for the violations of
+fundamental symmetries of the SM, and for the deviation of given observables from their calculated
+SM values. Not only will a non-null result be a smoking gun for new physics, but also it can be
+used to test specific BSM models of high-scale physics.
+4BSM scenarios may involve new particles and interactions that originate at very high-energy
+scales, or alternatively may involve new physics at relatively low scales with extremely feeble
+couplings [10]. This whitepaper focuses on the former class of BSM scenarios, for which an effective
+field theory (EFT) framework can be adopted to encompass all SM extensions that respect the SM
+gauge group and have the same low-energy particle content as the SM [11–13]. One challenge that
+often needs to be dealt with in carrying out the program in Fundamental Symmetries is that the
+SM processes that are sensitive to new physics often involve hadrons and nuclei as initial, final,
+and/or intermediate states at low energies, demanding that SM and ab initio quantum many-body
+calculations be performed in a highly nonperturbative regime.
+The Department of Energy (DOE)-funded USQCD collaboration, as the unified collaboration of
+the majority of the LQCD collaborations in the U.S., has long identified the role of LQCD studies
+in enabling and advancing research at the Intensity Frontier. The significant results produced by
+the collaboration in the past two decades in constraining the Cabibbo-Kobayashi-Maskawa (CKM)
+matrix quark-mixing matrix of the SM, and in constraining the quantities relevant to tests of CP
+violation in the Kaon sector, mark major accomplishments for the LQCD community, and signify
+the essential role of LQCD in complimenting both experiment and theory effort in HEP research.
+Such a role has been identified in other sectors in which there is, or is expected to be, hints of
+deviation from the SM and of new physics. In particular, compared to the year 2013 when the
+Collaboration’s previous whitepapers were released, in 2018 the Collaboration has dedicated three
+separate whitepapers to the role of LQCD in research at the Intensity Frontier:1
+i) Opportunities for LQCD in quark and lepton flavor physics: Given the persisting tensions
+between theoretical predictions based on the SM and and experimental measurements in
+B meson decays at the LHC-B and the anomalous magnetic moment of the muon at the
+Brookhaven National Laboratory, and the continuing improvement in determinations of the
+CP violating parameters in Kaon and recently the heavy-meson sectors, there is a pressing
+need for reliable SM predictions of corresponding quantities from LQCD, to a precision
+level that is comparable to experimental determinations. Progress made by the USQCD
+collaboration in all these areas, the challenges ahead, and the plans forward are detailed in
+a companion whitepaper, see [6].
+ii) LQCD and neutrino-nucleus scattering: The large experimental enterprise in neutrino
+physics, in particular the upcoming Deep Underground Neutrino Experiment (DUNE) at
+Fermilab aims to shed light on CP violation in the lepton sector. However, reliable deter-
+minations of the Pontecorvo-Maki-Nakagawa-Sakata (PMNS) lepton-mixing matrix require
+accurate knowledge of neutrino-nucleus interactions. The neutrino-nucleon and neutrino-
+nucleus scattering cross sections are hence of crucial value, as otherwise the neutrino energy
+deposit in the nuclear detector can not be reliably calculated. LQCD, in close collaboration
+with the nuclear structure community, will play a fundamental role in constraining these
+cross sections, an opportunity that has been detailed in a companion whitepaper, see [3].
+iii) The role of LQCD in searches for violations of fundamental symmetries
+and signals for new physics: The violations of the symmetries protected in the SM
+go beyond the CP and lepton universality violation explored in lepton and flavor factories.
+A number of areas with significant growth in interest and potential include searches for
+CP violation in EDMs of the nucleon, nuclei and atoms, baryon-number nonconservation
+through proton decay, baryon-number minus lepton-number nonconservation through n-n
+1 Current and future opportunities in direct studies of the BSM models that complement collider searches of new
+physics, and require the nonperturbative tool of lattice field theory to simulate potential strong dynamics, are
+detailed in another companion whitepaper by the Collaboration, see [2].
+5Physics Target Quantity Experiments
+CP Violation and Baryon 
+Asymmetry in Universe Electric Dipole Moment
+Hg, Ra,  n EDM at SNS and 
+LANL
+Baryon Number Violation and 
+Grand Unified Theories Proton Decay Matrix Elements DUNE, Hyper-Kamiokande
+Lepton  
+Number Violation 0νββ Matrix Elements Tonne-scale 0νββ
+Baryon Number minus Lepton 
+Number Violation
+Neutron-antineutron Matrix 
+Elements
+ILL, ESS 
+Super-K  
+other reactors
+Lepton  
+Flavor Violation
+ Nucleon and Nuclei Form 
+Factors Mu2e, COMET 
+Dark Matter and New Physics 
+Searches
+Nucleon and Nuclei Form 
+Factors
+Dark Matter Experiments, 
+Precision Measurements
+FIG. 1. Summary of primary Fundamental Symmetries subjects discussed in this whitepaper.
+oscillations, lepton-number nonconservation through the 0νββ decay of a nucleus, and lepton-
+flavor nonconservation through muon to electron conversion. Further, precision tests of the
+SM through weak decays of the nucleon and of nuclei and through isotope-shift spectroscopy
+are ongoing efforts. Furthermore, a devoted experimental effort in the direct detection of
+dark matter has been constraining new physics scenarios, but requires reliable theoretical
+calculations of the cross section of various dark matter candidates with the nuclear targets
+used in experiments. Given the strong dynamics involved in theoretical predictions based
+on the SM, LQCD again is playing an important role. This whitepaper details this program
+within the USQCD collaboration, and elaborates on the areas that will likely demand a high
+degree of innovation in both numerical and analytical frontiers of LQCD research. The table
+in Fig. 1 summarizes the quantities of interest for the purpose of this whitepaper, along with
+the physics objectives and the experimental programs they correspond to.
+Research in Fundamental Symmetries has became one of the primary research thrusts in NP in
+the U.S. following a 2007 Nuclear Science Advisory Committee (NSAC) Long Range Plan. A
+community whitepaper in 2015 [14] explains that “...this development reflected a recognition that
+the subfield is an integral part of the NP scientific mission, that it provides unique opportunities for
+obtaining results having far-reaching significance, and that this potential is highly complementary
+to that of related disciplines, such as HEP and cosmology.” A more recent NSAC Long Range
+Plan in 2015 once again emphasizes the continuation of support for research in Fundamental
+Symmetries, as highlighted by their highest recommendation for a major new investment in the
+U.S. NP experimental program, namely a tonne-scale experiment to search for a 0νββ decay, with
+the acknowledgment of the essential role of theory in the optimal design and in interpretation of
+the future result of such an experiment.
+6⇤ > TeV
+⇤ < GeV
+⇤ < MeV
+⇤ ⇠ 102 GeV
+⇤ ⇠ 2 GeV
+START WITH A GIVEN HIGH-SCALE MODEL, e.g., LEFT-RIGHT 
+SYMMETRIC MODEL:
+RUN IT DOWN TO THE SCALE WHERE QCD IS STILL PERTURBATIVE:
+USE AB INITIO NUCLEAR MANY-BODY 
+CALCULATIONS TO MATCH TO NUCLEAR 
+MATRIX ELEMENTS:
+RUN IT DOWN TO HADRONIC SCALE:
+RUN IT DOWN TO THE SCALE WHERE THE HIGH-SCALE PHYSICS CAN 
+BE INTEGRATED OUT:
+ud
+e
+⌫R⌫L
+W RW L
+d u
+eW L W R
+⌫L
+n
+n
+p
+p
+d
+d
+d
+d
+u
+u
+u
+u
+d
+d
+u
+u
+u
+u
+u
+u
+d
+d
+d
+d
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+e
+⌫L
+p
+p
+n
+n
+e
+e
+⌫L
+W L
+W L
+(1)
+(2)
+(3)
+(4)
+FIG. 2. The role of LQCD in searches for new physics is demonstrated through the example of 0νββ decay.
+To plan the design of new experiments, and to interpret any potential observation, theorists will need to
+apply a multi-scale matching program to connect the observed rate in heavy isotopes to the expectation
+from lepton-number violating models at a high scale, see e.g., Ref. [15]. LQCD is the only reliable method
+that enables taking step (3) in the chart, bridging between perturbative and nonperturbative QCD regimes,
+and providing new LECs of nuclear EFTs in the few-body sector that can be fed into ab initio nuclear
+structure calculations of the isotopes of relevance to experiment.
+To understand the role of LQCD in the success of this program, one must recognize the com-
+plexity of connecting observations to the new-physics models one aims to constrain and the wide
+range of scales involved. The example of 0νββ decay demonstrates this complexity to the full de-
+gree (see also Sec. IV for further detail on the science motivation and prospects for this program),
+and is a representative of the procedure involved in almost all frontiers in Fundamental Symme-
+tries research [16]. As illustrated in Fig. 2, a multitude of lepton-number violating models at a
+hight scale (at and beyond TeV scale) can be proposed to explain a potential observation of this
+decay in a heavy isotope, such as Germanium 76Ge, where the typical nuclear scale is a few MeVs.
+In order to interpret the results within a given model and possibly differentiate between various
+models, it is necessary to perform a thorough matching between physics at the high scale and that
+74
+System Current SM
+e 10 29 10 38
+µ 10 19 10 35
+⌧ 10 16 10 34
+n 10 26 10 31
+p 10 23 10 31
+199Hg 10 29 10 33
+129Xe 10 27 10 33
+225Ra 10 23 10 33
+TABLE I. Approximate limits on EDM’s of
+various systems and their predictions from
+the standard model CKM CP-violation.
+Experimental landscape
+ 3
+Publication year
+1960 1970 1980 1990 2000 2010 2020 2030
+ c
+m
+)
+e ( nd
+32−10
+31−10
+30−10
+29−10
+28−10
+27−10
+26−10
+25−10
+24−10
+23−10
+22−10
+21−10
+20−10
+19−10
+Beam
+Bragg scattering
+UCN (Sussex-RAL-ILL)
+UCN (PNPI)
+nEDM upper limits (90% C.L.)
+Current limit
+Standard model
+BSM 
+physics
+SNS nEDM
+LANL and European 
+FIG. 2. Progress has slowed down in nEDM
+measurements, but future experiments are
+planned that will increase the precision by
+up to two orders of magnitude
+and matched from nuclear level to quark/gluon e↵ective CP-violating operators, as discussed in
+the introduction. Since the structure and interactions of the nucleon are described by QCD in the
+nonperturbative regime, LQCD calculations are essential to carry out this matching in a model-
+independent way. At the quark-gluon level, there are several e↵ective operators that may be orga-
+nized by their dimension. From the lowest-dimension dimension-4 QCD ✓QCD-term,
+1 to dimension-
+5(6) quark-EDM and quark-gluon chromo-EDM (cEDM),2 to the dimension-6 CP-violating 4-quark
+and the 3-gluon interactions (Weinberg operator, or gluon cEDM), these e↵ective operators rep-
+resent BSM CP-violating interactions that are increasingly suppressed by the energy scale of the
+underlying new physics. Quark/gluon CP-violating interaction can manifest itself at the nuclear
+and atomic level in two ways. First, they induce intrinsic EDMs in the proton and the neutron.
+Second, quark and gluon CP-violating interactions induce CP-violating nucleon and nucleon-pion
+couplings that also contribute to nuclear EDMs. Quantification of the nuclear EDMs, even for
+light nuclei, will require low-energy nuclear e↵ective theories and ab-initio nuclear many-body cal-
+culations that are based on nuclear EFTs. For heavy nuclei, such as 199Hg and 255Ra, nuclear
+modification to EDM are expected to be especially large.
+ZD comments: What is the state-of-the art? An exemplary plot? Did we reach the level of
+precision/advancement we promised in the 2013 whitepaper?
+5-year goals and plans: LQCD calculation of nucleon EDMs is similar to calculations of nucleon
+form factors, and its methodology is straightforward. However, the required statistical precision is
+more di cult to achieve because of additional (CP-violating) interactions added as perturbation to
+CP -even QCD interactions. The di culty may vary substantially depending on the CP-violating
+operator in question, and in some cases the calculation may become challenging and require new
+methods for evaluating LQCD correlators. The status of LQCD calculations with di↵erent CP-
+violating operators is summarized below.
+– Isovector quark EDM-induced p,nEDM calculations are straightforward since they are given
+by the tensor charge up to electromagnetic corrections. Isoscalar quark EDM-induced
+p,nEDM calculations are also straightforward, eventhough the disconnected contributions
+(those arising from the interactions of sea quarks with the CP-violating currents) lead to
+1 The ✓QCD term is allowed in QCD as part of the SM, although its smallness is di cult to reconcile without
+extending SM.
+2 Dimension-5 operators arise from dimension-6 operators during electroweak symmetry breaking. In many explicit
+BSM models, however, these operators are additionally suppressed due to the chirality violation that accompanies
+them and their contribution is no larger than the dimension-6 operators.
+4
+System Current SM
+e 10 29 10 38
+µ 10 19 10 35
+⌧ 10 16 10 34
+n 10 26 10 31
+p 10 23 10 31
+199Hg 10 29 10 33
+129Xe 10 27 10 33
+225Ra 10 23 10 33
+TABLE I. Approximate limits on EDM’s of
+various systems and their predictions from
+the standard model CKM CP-violation.
+Experimental landscape
+ 3
+Publication year
+1960 1970 1980 1990 2000 2010 2020 2030
+ c
+m
+)
+e ( nd
+32−10
+31−10
+30−10
+29−10
+28−10
+27−10
+26−10
+25−10
+24−10
+23−10
+22−10
+21−10
+20−10
+19−10
+Beam
+Bragg scattering
+UCN (Sussex-RAL-ILL)
+UCN (PNPI)
+nEDM upper limits (90% C.L.)
+Current limit
+Standard model
+BSM 
+physics
+SNS nEDM
+LANL and European 
+FIG. 2. Progress has slowed down in nEDM
+measurements, but future experiments are
+planned that will increase the precision by
+up to two orders of magnitude
+and matched from nuclear level to quark/gluon e↵ective CP-violating operators, as discussed in
+the introduction. Since the structure and interactions of the nucleon are described by QCD in the
+nonperturbative regime, LQCD calculations are essential to carry out this matching in a model-
+independent way. At the quark-gluon l vel, ther are several e↵ective o erators that may be orga-
+nized by their dimension. From the lowest-dimension dimension-4 QCD ✓QCD-term,
+1 to dimension-
+5(6) quark-EDM and quark-gluon chromo-EDM (cEDM),2 to the dimension-6 CP-violating 4-quark
+and the 3-gluon interactions (Weinberg operator, or gluon cEDM), these e↵ective operators rep-
+resent BSM CP-violating interactions that are increasingly suppressed by the energy scale of the
+underlying new physics. Quark/gluon CP-violati interaction can manifest it lf at the nuclear
+and atomic level in two ways. First, they induce intrinsic EDMs in the proton and the neutron.
+Second, quark and gluon CP-violating interactions induce CP-violating nucleon and nucleon-pion
+couplings that also contribute to nuclear EDMs. Quantification of the nuclear EDMs, even for
+li ht nuclei, will requir low-en rgy nuclear e↵ective theories and ab-initio nucl ar many-body cal-
+culations that are based on nuclear EFTs. For heavy nuclei, such as 199Hg and 255Ra, nuclear
+modification to EDM are expected to be especially large.
+ZD comments: What is the state-of-the art? An exemplary plot? Did we reach the level of
+pr cision/advancement we promised in the 2013 w itepaper?
+5-year goals and plans: LQCD calculation of nucleon EDMs is similar to calculations of nucleon
+form factors, and its methodology is straightforward. However, the required statistical precision is
+more di cult to achieve because of additional (CP-violating) interactions added as perturbation to
+CP -even QCD interactions. The di culty may vary substantially depending o the CP-violating
+operator in question, and in some cases the calculation may become challenging and require new
+methods for evaluating LQCD correlators. The status of LQCD calculations with di↵erent CP-
+violating operators is summarized below.
+– Isovector quark EDM-induced p,nEDM calculations are straightforward since they are given
+by the tensor charge up to electromagnetic corrections. Isoscalar quark EDM-induced
+p,nEDM calculations are also straightforward, eventhough the disconnected contributions
+(those arising from the interactions of sea quarks with the CP-violating currents) lead to
+1 The ✓QCD term is allowed in QCD as part of the SM, although its smallness is di cult to reconcile without
+extending SM.
+2 Dimension-5 operators arise from dimension-6 operators during electroweak symmetry breaking. In many explicit
+BSM models, however, these operators are additionally suppressed due to the chirality violation that accompanies
+them and their contribution is no larger than the dimension-6 operators.
+4
+System Current SM
+e 10 29 10 38
+µ 10 19 10 35
+⌧ 10 16 10 34
+n 10 26 10 31
+p 10 23 10 31
+199Hg 10 29 10 33
+129Xe 10 27 10 33
+225Ra 10 23 10 33
+TABLE I. Ap roximate limits on EDM’s of
+various systems and their predictions from
+the standard model CKM CP-violation.
+Experimental landscape
+ 3
+Publication year
+1960 1970 1980 1990 200 201 20 203
+ c
+m
+)
+e ( nd
+32−10
+31−10
+30−10
+29−10
+28−10
+27−10
+26−10
+25−10
+24−10
+23−10
+22−10
+21−10
+20−10
+19−10
+Beam
+Bragg scattering
+UCN (Sussex-RAL-I L)
+UCN (PN I)
+nEDM upper limits (90% C.L.)
+Current limit
+Stand r  model
+BSM 
+physics
+SNS nEDM
+LANL and European 
+FIG. 2. Progress has lowed down in nEDM
+measurements, but future experiments are
+plan ed that will increase the precision by
+up to two orders of magnitude
+and matched from nuclear level to quark/gluon e↵ective CP-violating operators, as discus ed in
+the introduction. Since the structure and interactions of the nucleon are described by QCD in the
+nonperturbative regime, LQCD calculations are es ential to car y out this matching in a model-
+independent way. At the quark-gluon level, th re are several e↵ective operators that may be orga-
+nized by their dimension. From the lowest-dimension dimension-4 QCD ✓QCD-term,
+1 to dimension-
+5(6) quark-EDM and quark-gluon chromo-EDM (cEDM),2 to the dimension-6 CP-violating 4-quark
+and the 3-gluon interactions (Weinberg operator, or gluon cEDM), these e↵ective operators rep-
+resent BSM CP-violating interactions that are increasingly sup res ed by the energy scale of the
+underlying new physics. Quark/gluon CP-viol ting interaction can manife t it elf at the nuclear
+and atomic level in two ways. First, they induce intrinsic EDMs in the proton and the neutron.
+Second, quark and gluon CP-violating interactions induce CP-violating nucleon and nucleon-pion
+couplings that also contribute to nuclear EDMs. Quantification of the nuclear EDMs, even for
+light nuclei, wil require low- nergy nuclear ↵ective theo ies and ab-initio nuclear many body cal-
+culations that are based on nuclear EFTs. For heavy nuclei, such as 19 Hg and 25 Ra, nuclear
+modification to EDM are expected to be especially large.
+ZD comments: What is the state-of-the art? An exemplary plot? Did we reach the level of
+precision/advanc ment we p omised in the 2013 whit pap r?
+5-year goals and plans: LQCD calculation of nucleon EDMs is similar to calculations of nucleon
+form factors, and its methodology is straightforward. However, the required statistical precision is
+more di cult to achieve because of ad itional (CP-violating) interactions ad ed as perturbation to
+CP -eve QCD interactions. The di culty may vary substantially depending on the CP-violating
+operator in question, and in some cases the calculation may become challenging and require new
+methods for evaluating LQCD cor elators. The status of LQCD calculations with di↵erent CP-
+violating operators is summarized below.
+– Isovector quark EDM-induced p,nEDM calculations are straightforward since they are given
+by the tensor charge up to electromagnetic cor ections. Isoscalar quark EDM-induced
+p,nEDM calculations are also straightforward, eventhough the discon ected contributions
+(those arising from the interactions of sea quarks with the CP-violating cur ents) lead to
+1 The ✓QCD term is allowed in QCD as part of the SM, although its smallness is di cult to reconcile without
+extending SM.
+2 Dimension-5 operators arise from dimension-6 operators during el ctroweak sym etry breaking. In many explicit
+BSM models, however, these operators are ad it onally sup ressed due to the chirality violation that ac ompanies
+them and their contribution is no larger than the dimension-6 operators.
+4
+System Current SM
+e 10 29 10 38
+µ 10 19 10 35
+⌧ 10 16 10 34
+n 10 26 10 31
+p 10 23 10 31
+199Hg 10 29 10 33
+129Xe 10 27 10 33
+225Ra 10 23 10 33
+TABLE I. Approximate limits on EDM’s of
+various systems and their predictions from
+the standard model CKM CP-violation.
+Experimental landscape
+ 3
+Publication year
+1960 1970 1980 1990 2000 2010 2020 2030
+ c
+m
+)
+e ( nd
+32−
+1
+30
+29−
+8
+27−
+6
+25−
+24−
+3
+22−10
+21−
+20−
+19−10
+Beam
+r gg scattering
+UCN (Sussex-RAL-ILL)
+ (PNPI)
+nEDM upper limits (90% C.L.)
+Current limit
+Standard model
+BSM 
+physics
+SNS nEDM
+LANL and European 
+FIG. 2. Progress has slowed down in nEDM
+measurements, but future experiments are
+planned that will increase the precision by
+up to two orders of magnitude
+and matched from nuclear level to quark/gluon e↵ective CP-violating operators, as discussed in
+the introduction. Since the structure and interactions of the nucleon are described by QCD in the
+nonperturbative regime, LQCD calculations are essential to carry out this matching in a model-
+independent way. At the quark-gluon level, there are several e↵ective operators that may be orga-
+nized by their dimension. From the lowest-dimension dimension-4 QCD ✓QCD-term,
+1 to dimension-
+5(6) quark-EDM and quark-gluon chromo-EDM (cEDM),2 to the dimension-6 CP-violating 4-quark
+and the 3-gluon interactions (Weinberg operator, or gluon cEDM), these e↵ective operators rep-
+resent BSM CP-violating interactions that are increasingly suppressed by the energy scale of the
+underlying new physics. Quark/gluon CP-violating interaction can manifest itself at the nuclear
+and atomic level in two ways. First, they induce intrinsic EDMs in the proton and the neutron.
+Second, quark and gluon CP-violating interactions induce CP-violating nucleon and nucleon-pion
+couplings that also contribute to nuclear EDMs. Quantification of the nuclear EDMs, even for
+light nuclei, will require low-energy nuclear e↵ective theories and ab-initio nuclear many-body cal-
+culations that are based on nuclear EFTs. For heavy nuclei, such as 199Hg and 255Ra, nuclear
+modification to EDM are expected to be especially large.
+ZD comments: What is the state-of-the art? An exemplary plot? Did we reach the level of
+precision/advancement we promised in the 2013 whitepaper?
+5-year goals nd plans: LQCD calculation of nucleon EDMs is similar to calculations of nucleon
+form factors, and its methodology is straightforward. However, the required statistical precision is
+more di cult to achieve because of additional (CP-violating) interactions added as perturbation to
+CP -even QCD interactions. The di culty may vary substantially depending on the CP-violating
+operator in question, and in some cases the calculation may become challenging and require new
+methods for evaluating LQCD correlators. The status of LQCD calculations with di↵erent CP-
+violating operators is summarized below.
+– Isovector quark EDM-induced p,nEDM calculations are straightforward since they are given
+by the tensor charge up to electromagnetic corrections. Isoscalar quark EDM-induced
+p,nEDM calculations are also straightforward, eventhough the disconnected contributions
+(th se arising from the int ractions of sea quarks with the CP-violating currents) lead to
+1 The ✓QCD term is allowed in QCD as part of the SM, although its smallness is di cult to reconcile without
+ext nding SM.
+2 Dimension-5 operators arise from dimension-6 operators during electroweak symmetry breaking. In many explicit
+BSM models, however, th se perators are addition lly s ppress d due to the chiralit viol tion that accom anies
+them and their cont ibution is no large th n he dimension-6 operators.
+FIG. 3. The tabl shows approxim te lim ts (in units of e·cm) on EDMs of various systems nd th ir
+pr dictions from the CP-viol tion within th SM through th CKM m chanism [17]. The plot indicates
+that progress has slowed down in nEDM measurements, but future experiments are planned to increase the
+precision by up to two orders of magnitude [18].
+at a ow scale. C nsider the l ft-right symmetric model, which extends the SM to contain a heavy
+ri -handed neu rino and a co esponding heavy b son, WR. In such a sce ario, a 0νββ deca n
+occur no only s a r sult of the xchange of a light left-handed Majorana neutrino th t converts
+two down quarks of th SM to tw up quarks (the left column of the figure), but also a right-
+handed Majorana neutrino inducing the same ransition (the right c lumn of the figure). One then
+con ders l w- nergy EFT in which all of these “ eavy” new mediators h ve been integrated out
+and relates the low-energy effective couplings to the high-energy new-physics parameters through
+th en rmalization group (RG). R nning down to below the electroweak symmetry breaki g scale,
+the SM W bosons can be integrated out as well, leaving eff ctive six-fermion in era tions inv lving
+SM quarks and leptons. When running the scale down o the chir l symmetry breaking sc le, he
+effective degrees of freedom are no longer quarks nd gluons but rath r hadr s and nucleons. To
+connect the eff ctive coupli gs, or in turn the “matrix elements” (MEs) of the operators b tween
+nucle nic states to hat of the higher scale requires a LQCD computation. Such calculatio s con
+str in the low-energy const nts (LECs) of proper EFTs in the few-nucleon sector, which can then
+be input into ab initio nuclear many-body cal ulations of the heavy isotopes used in experiments.
+It is important to note that the nature of such a nonperturbative calculation depends upon the
+high-scale scenario considered. In the scenario in which a light Majorana neutrino induces the
+decay, the neutrino can not be integrated out even at the nuclear energy scale, hence demanding
+complex calculations of a long-r ng nonlocal ME both at the QCD step and at the nuclear EFT
+and nuclear structure steps. As mentioned above, such a complex matching pr g am is comm n
+to the majority of the research areas discussed in this whitepaper, up to technical differences, and
+is a prominent example of the need for a strong synergy between different subcommunities within
+HEP and NP.
+8II. CP VIOLATION AND ELECTRIC DIPOLE MOMENT OF NUCLEON AND NUCLEI
+Motivation: The observation of permanent EDMs of protons, neutrons, nuclei, atoms and
+molecules [17, 19] would be deep probes of CP violation beyond the SM. Such violation of CP
+symmetry is necessary for baryogenesis [20] and its discovery would be central to understanding
+the origin of the baryonic matter in Universe [17]. The current limits of EDMs of most particles
+are 5–10 orders of magnitude larger than SM predictions for CP-violation arising from the CKM
+phase (Fig. 3) . Since BSM physics will affect different systems differently, a combination of EDM
+tests in different systems is invaluable in constraining CP-violation scenarios.
+LQCD is currently the best tool for connecting BSM physics to the EDMs of the nucleon, and to
+obtain the CP-odd pion-nucleon vertices that control the CP-odd nucleon-nucleon potential, which
+in turn determines nuclear EDMs. The current limit on the neutron EDM is |dn| < 3× 10−26e · cm
+(90% CL) [21, 22], which in turn can be used to estimate nuclear EDMs in EFTs and nuclear
+many-body models. In the next decade, several neutron EDM experiments are planned (two of
+which will be in the US, at the SNS and LANL), and are expected to improve limits on the neutron
+EDM by 1–2 orders of magnitude, reaching a sensitivity of ≈ 5 · 10−28 e · cm. The feasibility of a
+storage-ring experiment to measure the proton EDM has been studied, with a potential sensitivity
+of 10−29e · cm [23], higher than that expected for the neutron. This technology may also lead to
+measurements of EDMs of light nuclei (2D, 3H, 3He). Experiments are also planned to improve
+the limits on EDMs of other heavy nuclei (for a review of the experimental status and prospects
+see Ref. [17]). Together, these measurements will allow us to separate nuclear EDM contributions
+from the intrinsic nucleon EDMs and nucleon CP-violating interactions. The isospin dependence
+of the intrinsic EDMs and nucleon CP-violating interactions will also be useful for understanding
+the pattern of CP violation in the BSM models [16, 24].
+Progress report : Although the discovery of an EDM in any of these experiments would be a break-
+through, constraining various BSM extensions will require a combination of different EDM measure-
+ments and matching from the nuclear level to quark/gluon-level effective CP-violating operators, as
+discussed in the introduction. Since the structure and interactions of the nucleon are described by
+QCD in the nonperturbative regime, chiral EFT extended to include BSM CP-violating operators
+(see e.g., [25–28] and references therein) along with LQCD calculations are needed to carry out this
+matching in a model-independent way. At the quark and gluon level, there are several effective op-
+erators that may be organized by their dimension. From the lowest-dimension dimension-4 QCD
+θQCD-term,
+2 to dimension-5(6) quark-EDM and quark/gluon chromo-EDM (cEDM) operators,3
+to the dimension-6 CP-violating 4-quark and 3-gluon interactions (Weinberg operator, or gluon
+cEDM), these effective operators represent BSM CP-violating interactions that are increasingly
+suppressed by the energy scale of the underlying new physics. Quark/gluon CP-violating inter-
+actions can manifest themselves at the nuclear and atomic level in two ways. First, they induce
+intrinsic EDMs in the proton and the neutron. Second, quark and gluon CP-violating interactions
+induce CP-violating nucleon and nucleon-pion couplings that also contribute to nuclear EDMs.
+Quantification of the nuclear EDMs, even for light nuclei, requires low-energy nuclear effective
+theories and ab-initio nuclear many-body calculations that are based on nuclear EFTs [26, 28]. For
+heavy nuclei, such as 199Hg and 255Ra, nuclear effects are expected to be significant (see Ref. [24]
+and references therein).
+2 The θQCD term is allowed in QCD as part of the SM, although its smallness is difficult to reconcile without
+extending SM.
+3 Low-energy dimension-5 operators arise from dimension-6 operators above the electroweak symmetry breaking
+scale. In many explicit BSM models, however, these operators are additionally suppressed due to the chirality
+violation that accompanies them and their contribution is no larger than the dimension-6 operators.
+95-year goals and plans: LQCD calculation of nucleon EDMs is similar to calculations of nucleon
+form factors, and its methodology is straightforward. However, the required statistical precision is
+more difficult to achieve because of additional (CP-violating) interactions added as perturbations
+to CP-even QCD interactions. The difficulty may vary substantially depending on the CP-violating
+operator in question, and in some cases the calculation may become challenging and require new
+methods for evaluating LQCD correlators. The status of LQCD calculations with different CP-
+violating operators is summarized below.
+– Calculations of isovector quark EDM-induced proton and neutron EDM (p, nEDM) are
+straightforward since they are given by the tensor charge up to electromagnetic corrections.
+Isoscalar quark EDM-induced p, nEDM calculations are also straightforward, even though
+the disconnected contributions (those arising from the interactions of sea quarks with the
+CP-violating currents) lead to more noisy estimates. Relevant LQCD methodology has been
+substantially improved in recent years, and first calculations for these operators already
+exist [29].
+– Calculations of θQCD-induced p, nEDMs [30–38] are procedurally straightforward, however
+the signal is elusive as the expected value is small, i.e., it is ∝ mq ∝ m2pi in chiral perturbation
+theory (χPT) at the leading order, where mq is the mass of the quark and mpi is the mass
+of the pion, while the noise is large due to the fluctuations of the topological charge that
+grow with the volume of the four-dimensional lattice. Calculations with unphysical quark
+masses that lead to mpi & 250 MeV are underway and their results (expected within 1–2
+years) may be extrapolated to the physical point using χPT. However, calculations at the
+physical point, especially with quark actions that respect the chiral symmetry of QCD, will
+likely be challenging and require more extensive resources.
+– Calculations of isovector quark cEDM-induced p, nEDM are straightforward, and there are
+on-going efforts both with chiral and nonchiral quarks at the physical point that show reliable
+signals [39–41]. Under renormalization, the isovector quark cEDM operator mixes with the
+(isovector) pseudoscalar operator. However, the latter can be “rotated away” by an isovector
+chiral transformation, with residual effects proportional to the isovector chiral-symmetry
+violations [42].
+– The isoscalar cEDM operator mixes with the isoscalar pseudoscalar quark operator, which
+is effectively the θQCD term, due to the axial anomaly. Thus, LQCD determination of
+flavor-singlet cEDM-induced nucleon EDMs depends on the challenging calculations with
+θQCD-term described above. In addition, the isoscalar quark cEDM operator will contribute
+to nucleon EDM through numerically challenging quark-disconnected diagrams. Therefore,
+even though calculations with the isoscalar quark cEDM are in many respects similar to the
+isovector case, they are expected to be challenging to obtain with comparable precision.
+– Nucleon EDMs induced by the CP-violating 3-gluon operator (gluon cEDM) have been
+studied in the quenched approximation [43], and no clear statistical signal has been observed
+as yet. The study of this contribution is dependent on challenging calculations with a θQCD-
+term given the expected mixing. A full calculation in QCD with physical light dynamical
+quarks should be considered at least challenging.
+– Calculations of the 4-quark CP-violating operator inducing p, nEDM have not been at-
+tempted yet. They will likely be very challenging due to disconnected diagrams. However,
+some special operators that are relevant to the phenomenology of specific BSM models have
+10
+only chirally-suppressed disconnected contributions and mixing with lower dimensional op-
+erators. Even though the calculation of these contributions is challenging, there may be an
+opportunity to compute their contribution to p, nEDM with resources available within the
+next 5 years.
+– Each of the operators4 discussed above can also give rise to CP violation in the piNN and
+NN → NN interactions. The former calculations can be done indirectly by studying the
+mass shift induced by the CP-even chiral partners of these operators [44, 45], or by calculating
+the MEs of the axial current instead of the vector current as for the EDM. Most of these
+calculations are straightforward or challenging as above.
+– A direct calculation of N → Npi and any calculation of NN → NN MEs will be extremely
+challenging because of the multiple hadrons in the initial/final state, requiring a simulta-
+neous computation of the multi-level finite-volume spectrum and the use of Lu¨scher and
+Lellouch-Lu¨scher methodology to convert the LQCD output to elastic and inelastic transi-
+tion amplitudes in these channels.
+Finally, it must be noted that for all of the above calculations, quark-disconnected contributions
+to the isoscalar vector current operator and hence to the EDM may present an additional challenge.
+While the present methodology for computing these contributions to CP-even nucleon observables is
+efficient, the presence of CP-violating interactions may enhance these contributions and associated
+uncertainty. Since no systematic study has been conducted to date (with the exception of quark
+EDMs), such calculation may end up being challenging instead of straightforward.
+III. BARYON-NUMBER NONCONSERVATION AND PROTON DECAY
+Motivation: Baryon-number violation is one of Sakharov’s conditions necessary for producing
+baryons at a different rate than antibaryons, hence accounting for the observed matter dominance
+in Universe [20]. A well-searched-for experimental signature of baryon-number violation is the decay
+of the proton. Constraints on proton lifetime include τp > 8.2 × 1033 years and τp > 1.4 × 1034
+years for the p → pi0e+ process reported in Refs. [46] and [47], respectively, and τp > 5.9 × 1033
+years for the p→ K + ν− process reported in Ref. [48]. Baryon-number conservation in the SM is
+not a direct consequence of fundamental symmetries such as gauge and Lorentz invariance, and is
+in fact broken nonperturbatively by the electroweak anomaly. Such violation, however, is too small
+to account for the observed baryon asymmetry in Universe, motivating baryon-number-violating
+(BNV) BSM scenarios at high scales. Given their enhanced gauge symmetry, Models of Grand
+Unified Theories [49, 50], with or without supersymmetry, naturally predict that the proton can
+decay.
+EFT provides a systematic framework for classification and analysis of BNV interactions that
+contribute to proton decay. At the lowest order, the BNV effective interactions can be written as
+dimension-6 three-quark–single-lepton operators inducing the decay of the proton to a pseudoscalar
+meson, such as pion, kaon and η, and an antilepton [11, 51, 52]. The effective Lagrangian consists of
+these interactions accompanied by the corresponding Wilson coefficients, computed perturbatively
+within a given high-scale model, and renormalized (customarily within the MS scheme) at µ = 2
+GeV where the corresponding operators can be renormalized nonperturbatively using LQCD [53–
+55]. This procedure provides a physical scale-independent cross section, which along with the
+experimental constraints on the rate, leads to constraints on the parameters of BNV models.
+4 The quark EDM only contributes at O(αEM ) and can be neglected.
+11
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 .05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Su mary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud)LsL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|(ud)RuL|p>
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method an “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+0 0.05 0.1 0.15 0.2
+[GeV2]
+W0
+Wµ
+W0α,β
+Wµα,β
+-<π0|(ud)RuL|p>
+<π0|(ud)LuL|p>
+<K0|(us)RuL|p>
+<K0|(us)LuL|p>
+-<K+|(us)RdL|p>
+<K+|(us)LdL|p>
+-<K+|(ud)RsL|p>
+<K+|(ud) sL|p>
+-<K+|(ds)RuL|p>
+-<K+|(ds)LuL|p>
+<η|( d) u |
+<η|(ud)LuL|p>
+Figure 12: Summary of matrix elements obtained in our study; “W0, Wµ” which are evaluated
+from “direct” method and “Wα,β0 , W
+α,β
+µ ” which are evaluated “indirect” method, including the
+systematic error as discussed in text.
+21
+www.hyper-k.org
+FIG. 4. The form factors parametrizing the shown MEs contributing to the proton decay at given values of
+momentum-transfer-squared, obtained from a recent LQCD study [55] using “direct” (blue) and “indirect”
+(green) methods with 2+1 flavor dynamical domain-wall fermions with Iwasaki gauge action generated by
+RBC and UKQCD collaborations [56]. Wµ is a given linear combination of W0 and W1 form factors, see
+Ref. [55]. The smaller panel is an illustration of the quark and lepton-level process mediated by an effective
+operator, denoted by the green circle.
+Given the sensitivity of the cross section to the MEs of effective operators between the proton
+and the meson, and as next-generation experiments, such as DUNE and Hyper-Kamiokande, plan
+to improve the bounds on the proton decay rate significantly, it is important that these MEs are
+reliably estimated.
+Progress report : Since 1980s, LQCD has come a long way to compute the MEs relevant to proton
+decay [53–55, 57–60]. Uncontrolled systematic uncertainties in early calculations arising from
+the“quenched approximation”, chiral-symmetry violation, quark-mass extrapolation, and reliance
+on leading-order baryon χPT have been accounted for in state-of-the-art present-day calculations.
+From a computational perspective, a simpler computation is to evaluate the matrix elements of
+the proton-to-vacuum transition, which through baryon χPT can be related to two form factors,
+Wα,β0 and W
+α,β
+1 , characterizing the MEs contributing to proton decay. This is called the “indirect”
+method in literature [57, 61]. Since at the physical kinematics the outgoing pion is far from the
+soft-pion limit, it is expected that the indirect method is systematically away from the result of
+a “direct” method, where the form factors W0 and W1 characterizing the ME for proton to pion
+(meson) are computed directly. The most recent work reports on results of a LQCD study with
+2+1 dynamical flavor domain wall fermions at several values of the light quark masses [55]. Fig. 4
+presents the values of relevant form factors for corresponding MEs (normalized in the MS scheme
+at µ = 2 GeV) as a function of momentum-transfer squared in the process, using both the direct
+and indirect methods, at larger-than-physical values of quark masses, but with the associated
+systematics taken into account.
+5-year goals and plans: The calculation of the MEs relevant to the proton decay in the direct
+method at the physical values of the quark masses is an ongoing effort within the USQCD collab-
+oration and elsewhere, see e.g., Ref. [62]. With new error-reduction techniques, such as all-mode-
+averaging [63–65], these calculations are considered straightforward. Similarly, while complete
+studies including continuum and volume extrapolations are computationally challenging, they will
+remian procedurally straightforward, and hence a target precision of < 10% is within the reach in
+12
+the next 5 year.
+Other plausible final states for the decay of the proton are two-meson–single-antilepton states.
+In fact, model estimations point to a higher branching ratio for p → pipie+ in the isospin-singlet
+channel compared with the p→ pie+ channel [66]. As the upcoming DUNE will be sensitive to such
+three-body final-state processes, it is important that the corresponding hadronic matrix elements
+will be computed reliably with LQCD. The two-hadron final state complicates the analysis of
+the finite-volume matrix elements, hence making these calculations more challenging than those
+already performed for the single-hadron final states. However, the formalism and methodologies are
+known [67–73], and are successfully implemented in similar processes such as K → pipi decay [74]
+and the ρ → piγ∗ transition [75], such that the extraction of the physical matrix elements from
+LQCD calculations at arbitrary kinematics will not be out of reach in upcoming years.
+Finally, a question that remains to be investigated is the effect of nuclear medium, as is the case
+in experiments, on the decay rate of the proton. Addressing this question requires a study of the
+matrix elements relevant for transition NN → NP , where N and P denote the nucleon and the
+pseudoscalar meson, respectively. Estimating the size of two-nucleon short-distance contribution in
+many-nucleon systems with the help of nuclear EFTs will be the next step. The LQCD calculation
+of the matrix element with two-nucleon initial and/or final state will be challenging at the physical
+values of the quark masses, but are technically similar to those studied in Refs. [76–79] in the
+context of MEs of scalar, axial and tensor currents in light nuclei, see Secs. IV and VII.
+IV. LEPTON-NUMBER NONCONSERVATION AND NEUTRINOLESS DOUBLE-β
+DECAY OF A NUCLEUS
+Motivation: The observed matter-antimatter asymmetry in the visible Universe requires the vi-
+olation of baryon-number conservation. As the structure of the SM ensures that fluctuations in
+the number of baryons and leptons are equal, observing the nonconservation of lepton number
+through the 0νββ decay of nuclei would provide a direct probe of baryon-number nonconservation,
+a critical process in the evolution of Universe. Its observation would shed light on the nature of
+neutrinos and will unambiguously prove that the neutrino is a Majorana fermion, i.e., it is its own
+antiparticle. Although solely observing a decay will mark a major discovery, without a proper
+isolation of the nuclear MEs contributing to the rate of this decay, little insight can be gained into
+the BSM mechanism mediating this transition. Furthermore, the design and implementation of
+the DOE’s new tonne-scale experiment, that has been recommended with high priority in the 2015
+Long Range Plan for Nuclear Sciences [8], strongly relies on more accurate estimations for the rate
+of this process in target nuclei. Reduced uncertainties in theoretical calculations of nuclear MEs
+with ab initio methods are highly desired, and are underway [80].
+Progress report : The LQCD community, including members of the USQCD collaboration, has
+engaged in the larger 0νββ-decay program [77, 78, 81]. The goal of LQCD calculations is to
+reach the level of precision needed for the few-nucleon MEs to be valuable to the nuclear many-
+body physicists who aim to constrain the rate of this process in heavier nuclei. Fast progress is
+being made in developing a path from the QCD input for few-body MEs to nuclear many-body
+calculations, and is built upon applicable nuclear EFTs [15, 82–86], as illustrated in Fig. 2. Two
+types of MEs will be the focus of LQCD studies: i) MEs of nonlocal SM quark bilinear operators
+that change the total isospin of two-nucleon systems by two, ∆I = 2, and include the exchange
+of a light Majorana neutrino between the two operator insertions. Such a scenario arises from a
+minimal extension of the SM. ii) MEs of local non-SM four-quark–two-lepton operators that shift
+the lepton number L and the isospin of the initial state by two. These arise from integrating out new
+13
+Long-range 
+contribution
+Short-range 
+contribution
+17
+FIG. 5. The e↵ective one-body (left) and two-body (center) operators contributing to a single insertion
+of the axial current, A+µ , described by Eq. (44), with coe cients gA and l1,A respectively, and the e↵ective
+two-body operator corresponding to two insertions of the axial current (right), A+µA
++
+⌫ , described by Eq. (45),
+with coe cient h2,S . The first two interactions gives rise to an e↵ectively quenched value of gA in medium,
+while the third does not contribute the  -decay.
+C. The correlation function for nn! pp process within pionless EFT
+The LECs of the e↵ective Lagrangian, including couplings to the external fields, can be de-
+termined by matching the EFT and LQCD correlation functions. To study the nn ! pp matrix
+element induced by the background axial field used in this work (A+3 ⇠ ⌧+ 3), it is convenient to
+construct the correlation function matrix in the {nn, np(3S1), pp} channel channels. Explicitly,
+CNN,NN ⌘
+0@ Cnn,nn Cnn,np(3S1) Cnn,ppCnp(3S1),nn Cnp(3S1),np(3S1) Cnp(3S1),pp
+Cpp,nn Cpp,np(3S1) Cpp,pp
+1A . (46)
+The goal is to express the elements of this matrix in terms of the LECs, including couplings
+to the background axial field, while including the s-wave strong interactions in the two-nucleon
+sector to all orders using the dibaryon approach. This can be accomplished with the diagrammatic
+representation of the correlation function matrix, as depicted in Fig. 6. In momentum space, the
+expansion can be cast in the following form
+iCNN,NN (E) = Z · D(E) · 1
+13⇥3   I(E) · D(E) · Z
+†, (47)
+where E denotes the total energy of the two-nucleon state, and the total momentum is projected
+to zero. The overlap matrix Z is defined as
+Z ⌘
+0@ Zs 0 00 Zt 0
+0 0 Zs
+1A , (48)
+where Zs and Zt are the overlaps onto the isotriplet and isosinglet two-nucleon states, respectively.
+A generalized bare propagator matrix, D, at second order in the weak field is introduced,
+D ⌘
+0B@ Ds  il˜1,ADsDt  ( ih˜2,S   l˜21,ADt)Ds2 2 il˜1,ADsDt  Dt  il˜1,ADsDt 
+( ih˜2,S   l˜21,ADt)Ds2 2  il˜1,ADsDt  Ds
+1CA ,
+(49)
+to incorporate the e↵ect of channel-changing contact interactions on the bare dibaryon propagators.
+The LECs have been redefined as l˜1,A =
+1
+2M
+p
+r1r3
+l1,A and h˜2,S =
+1
+2Mr1
+h2,S , and   denotes the
+NN
+17
+FIG. 5. The e↵ective one-body (left) and two-body (center) operators contributing to a single insertion
+of the axial current, A+µ , described by Eq. (44), with coe cients gA and l1,A respectively, and the e↵ective
+two-body operator corresponding to two insertions of the axial current (right), A+µA
++
+⌫ , described by Eq. (45),
+with coe cient h2,S . The first two interactions gives rise to an e↵ectively quenched value of gA in medium,
+while the third does not contribute the  -decay.
+C. The correlation function for nn! pp process within pionless EFT
+The LECs of the e↵ective Lagrangian, including couplings to the external fields, can be de-
+termined by matching the EFT and LQCD correlation functions. To study the nn ! pp matrix
+element induced by the background axial field used in this work (A+3 ⇠ ⌧+ 3), it is convenient to
+construct the correlation function matrix in the {nn, np(3S1), pp} channel channels. Explicitly,
+CNN,NN ⌘
+0@ Cnn,nn Cnn,np(3S1) Cnn,ppCnp(3S1),nn Cnp(3S1),np(3S1) Cnp(3S1),pp
+Cpp,nn Cpp,np(3S1) Cpp,pp
+1A . (46)
+The goal is to express the elements of this matrix in terms of the LECs, including couplings
+to the background axial field, while including the s-wave strong interactions in the two-nucleon
+sector to all orders using the dibaryon approach. This can be accomplished with the diagrammatic
+representation of the correlation function matrix, as depicted in Fig. 6. In momentum space, the
+expansion can be cast in the following form
+iCNN,NN (E) = Z · D(E) · 1
+13⇥3   I(E) · D(E) · Z
+†, (47)
+where E denotes the total energy of the two-nucleon state, and the total momentum is projected
+to zero. The overlap matrix Z is defined as
+Z ⌘
+0@ Zs 0 00 Zt 0
+0 0 Zs
+1A , (48)
+where Zs and Zt are the overlaps onto the isotriplet and isosinglet two-nucleon states, respectively.
+A generalized bare propagator matrix, D, at second order in the weak field is introduced,
+D ⌘
+0B@ Ds  il˜1,ADsDt  ( ih˜2,S   l˜21,ADt)Ds2 2 il˜1,ADsDt  Dt  il˜1,ADsDt 
+( ih˜2,S   l˜21,ADt)Ds2 2  il˜1,ADsDt  Ds
+1CA ,
+(49)
+to incorporate the e↵ect of channel-changing contact interactions on the bare dibaryon propagators.
+The LECs have been redefined as l˜1,A =
+1
+2M
+p
+r1r3
+l1,A and h˜2,S =
+1
+2Mr1
+h2,S , and   denotes the
+3S1
+1S0
+1S0
+17
+FIG. 5. The e↵ective one-body (left) and two-body (center) operators contributing to a single insertion
+of the axial current, A+µ , described by Eq. (44), with coe cients gA and l1,A respectively, and the e↵ective
+two-body operator corresponding to two insertions of the axial current (right), A+µA
++
+⌫ , described by Eq. (45),
+with coe cient h2,S . The first two interactions gives rise to an e↵ectively quenched value of gA in medium,
+while the third does not contribute the  -decay.
+C. The correlation function for nn! pp process within pionless EFT
+The LECs of the e↵ective Lagrangian, including couplings to the external fields, can be de-
+termined by matching the EFT and LQCD corr lation functions. To study the nn ! pp matrix
+element nduced by the backgr und axial field used in this work (A+3 ⇠ ⌧+ 3), it is convenient to
+c struct the correlation function matrix in the {nn, np(3S1), pp} channel channels. Explicitly,
+CNN,NN ⌘
+0@ Cnn,nn Cnn,np(3S1) Cnn,ppCnp(3S1),nn Cnp(3S1),np(3S1) Cnp(3S1),pp
+C p,nn Cpp,np(3S1) Cpp,pp
+1A . (46)
+Th goal is to exp ess the elements of this matrix i terms of the LECs, including couplings
+to th background axial fi ld, while includ ng the s-wave strong interactions in the two-nucleon
+sector to all rders us ng the dibaryon approach. T is c n be accomplished with the diagrammatic
+representation of the correlation function matrix, as depicted in Fig. 6. In momentum space, the
+expansion can be cast in the following form
+iCNN,NN (E) = · D(E) · 1
+13⇥3   I(E) · D(E) · Z
+†, (47)
+where E den tes the total nergy of the two-nucleon state, and the total momentum is projected
+to z ro. The overlap matrix Z is defined as
+Z ⌘
+0@ Zs 0 00 Zt 0
+0 0 Zs
+1A , (48)
+where Zs and Zt are the overlaps onto the isotriplet and i osingl t two-nucleon states, respectively.
+A generalized bare pr pagator matrix, D, at second ord r in the weak field is introduced,
+D ⌘
+0B@ Ds  il˜1,ADsDt  ( ih˜2,S   l˜21,ADt)Ds2 2 il˜1,ADsDt  Dt  il˜1,ADsDt 
+( ih˜2,S   l˜21,ADt)Ds2 2  il˜1,A sDt  Ds
+1CA ,
+(49)
+to in orporate the e↵ect of chan el-changing cont ct i teractions o the bare dibaryon propag tors.
+The LECs have been redefined as l˜1,A =
+1
+2M
+p
+r1r3
+l1,A and h˜2,S =
+1
+2Mr1 2,
+, and   denotes the
+1S0
+⇠ gA ⇠ L1,A
+Constraint on the new 
+short-range LEC.@ m⇡ ⇡ 800 MeV
+H2, = 4.7(1.3)(1.8) fm
+⇠ H2,S
+FIG. 5. As a preliminary step towards co strai ing the MEs relevant to 0νββ with a light Majorana neutrino,
+the NPLQCD collaboration erformed a calculation of the ME of two axial vector currents that induce the
+SM cou terpar of 0νββ decay process, amely e 2νββ decay, in the two-nucleon system [77, 78]. This first
+study was performed at singl lattice spacing and lattice volume and with quark masses corresponding to a
+pion mass of ≈ 800 MeV, at which point the two-nucleon systems are found to be rather deeply bound [93].
+T new short-rang ∆I = 2 operato in the two-nucleon EFT was identified and its corresponding LEC,
+H2,S , was constrained from the result of the LQCD calculation. This study will be further developed in the
+next five years to account for the exotic process of 0νββ decay, and towards physical values of quark masses,
+such th t it will impact b initio u lear struc ure calculations of this process in larger nuclei.
+particles with masses larger than the EW scale, see e.g. Fig. 2. It is important to note that both of
+these possibilities may be equally important, each with their own signatures for the experimental
+observables, and must be accounted for when making predictions for potential observations.
+Considering the first scenario, a closely related SM process in the two-nucleon sector is nn →
+ppeeνν. This process occurs at very low energies and hence is well-suited for constraining the
+leading ∆I = 2 interaction in a nuclear EFT. Although the neutrinoless process involves radically
+different kinematics given the presence of a virtual Majorana neutrino, constraining the nuclear
+MEs relevant for 2νββ decay can provide much insight into the importance of new short-distance
+LECs, the size of multi-body currents, and the significance of the “quenching” of the axial charge
+in isotopes that undergo ββ decay. USQCD’s NPLQCD collaboration took the first steps towards
+constraining the MEs relevant for this process using ensembles of gauge-field configurations with
+a single lattice spacing, a single lattice volume and larger-than-physical values of quark masses,
+corresponding to a pion mass of ≈ 800 MeV [77, 78]. This calculation led to a constraint on the
+contact LEC in the two-nucleon sector that isolates the contributions from high-energy interme-
+diate states beyond an on-shell deuteron, see Fig. 5. The natural next step in this program is
+to recompute this ME with the inclusion of the Majorana neutrino, which is an ongoing project
+within the USQCD collaboration [87] and elsewhere [88].
+Considering the second scenario, if the Weinberg power counting of nuclear forces is applied, one
+would conclude that the dominant contribution to the amplitude of nn→ ppee arise from a process
+in which the exchanged pion (responsible for the long-range piece of the nuclear forces) undergoes
+a 0νββ decay, as demonstrated in the upper panel of Fig. 6. The CalLat collaboration, including
+members of the USQCD collaboration, has taken the first initiative to compute the MEs relevant
+to short-distance scenarios [81]. The MEs of several dimension-9 ∆I = 2 four-quark operators
+have been evaluated in the pion, and have been extrapolated to the continuum, infinite-volume
+and physical masses of quarks using USQCD’s MILC gauge-field ensembles.5 As will be discussed
+below, the more challenging MEs that involve nucleonic final states will be studied in upcoming
+years such that both the EFT and the assumed power-counting scheme can be examined.
+5 Similar results to the ones in Ref. [42], although with larger uncertainties, were obtained in Ref. [89] by relating
+the pi− → pi+ MEs via chiral SU(3) symmetry to K0-K0 MEs known from LQCD [90–92].
+14
+FIG. 6. Within the Weinberg power counting of nuclear forces, an organizational scheme was proposed in
+Ref. [82] to identify the dominant contributions to the 0νββ decay of two neutrons at low energies, as depicted
+in the upper panel. The CalLat collaboration performed the first calculation of the MEs of ∆L = 2 four-quark
+operators (arising from heavy-scale scenarios for 0νββ) in the pion, hence constraining part of the amplitude
+for nn → ppee in which the pion exchanged between the two nucleons undergoes a 0νββ decay [81]. The
+study was performed on USQCD’s MILC ensembles of gauge-field configurations and included continuum,
+finite-volume and chiral extrapolations. The lower-right plot displays the MEs 〈pi+|Oi|pi−〉 corresponding
+to a set of ∆I = 2 four-quark operators, Oi, as defined in the reference. Within the next five years, further
+developments will enable computations of more challenging 〈ppi+|Oi|n〉, 〈pp|Oi|nn〉 MEs.
+5-year goals and plans: In a model-independent approach, we organize the discussion of LQCD
+contributions that will be computed in the next five years according to the underlying mechanism
+(i.e., dimension of the ∆L = 2 operator), as well as their level of difficulty. Within an EFT approach
+to Lepton Number Violation (LNV), operators with ∆L = 2 arise at odd dimensions starting at
+dimension five [11, 94–96]. As was alluded to above, depending on the scale of new physics and
+the mechanism by which it appears, operators of dimension five, seven and nine can contribute to
+0νββ decay at levels comparable to the current and planned experimental sensitivities:
+– LNV from the dimension-5 operator (light Majorana-neutrino exchange): Here, the main
+phenomenological goal is to assess what kind of sensitivity the next generation searches
+will have to the effective neutrino Majorana mass, mββ =
+∑
+i U
+2
+eimi. To connect to the
+nuclear ME in larger nuclei, a LQCD calculation must first determine the MEs 〈pi+|SNL|pi−〉,
+〈ppi+|SNL|n〉, 〈pp|SNL|nn〉, where the nonlocal effective action SNL (up to factors of GF ,
+mββ , etc.) is defined as follows:
+SNL =
+∫
+d4x d4y S0(x− y) T
+{
+J+α (x)J
++
+β (y)
+}
+gαβ . (1)
+Here, S0(x− y) is the massless scalar propagator representing the Majorana neutrino prop-
+agator and J+α = u¯γα(1− γ5)d, where u and d are up and down quarks. The nn→ pp ME is
+15
+particularly important given that a consistent chiral EFT approach requires a leading-order
+contact interaction [85], whose coupling can be reliably determined only by matching to a
+LQCD calculation in the two-nucleon sector. The calculations that are planned for the next
+five years will all require new developments and can be categorized as: ii) Challenging : The
+pi− → pi+ ME offers a warm-up calculation, since it is simpler to implement and its con-
+tributions comes at higher orders in an EFT matching. The required lattice methodology
+has overlap with the calculation of electromagnetic corrections to hadronic and semi-leptonic
+processes, rare meson decays such as K+ → pi+νν, and the light-by-light contribution to the
+muon g− 2. Ongoing effort within the USQCD collaboration is focused on this ME and pre-
+liminary results at a range of quark masses will become available in the next 1-2 years. iii)
+Extremely challenging : While the lattice methodology developed for the pionic ME can be
+applied to 〈ppi+|SNL|n〉, 〈pp|SNL|nn〉, the signal-to-noise degradation in nuclear systems will
+demand far more computational resources to obtain the first results at the physical point.
+Further, complexities arising from two-particle initial and/or final states must be dealt with
+through new formalisms, that are yet to be developed, to connect the physical ME of a
+nonlocal operator to that obtained in a finite-volume Euclidean LQCD calculation. In the
+next five years, such a formalism will be in place and calculations of the new short-distance
+LECs with ∼ 20% − 30% uncertainty will be plausible with a range of quark masses, such
+that the first extrapolation to the physical point can be achieved. The projected precision
+may therefore be limited due to extrapolation uncertainties. The expected uncertainty will
+depend largely on the availability of ensembles with sufficiently large volumes and a range
+of lighter quark masses, which assuming the same trend in availability of computational
+resources to the USQCD program, are likely to become a reality within 5 years.
+– LNV from dimension-9 operators (“short-distance” mechanisms): Here, the main phe-
+nomenological goal is to assess what kind of models (beyond the high-scale seesaw mecha-
+nism) can produce 0νββ decay at levels that can be observed in ongoing searches. Improving
+the hadronic uncertainties will be crucial in comparing the reach of 0νββ decay and LNV
+signatures at colliders, such as in the pp → ee + 2 jets process [97]. At low energies of the
+order of ∼ 1 GeV, the operator basis involves a handful of six-fermion local operators, which
+are factorized as lepton bilinears times charge-changing four-quark operators, Oi [15, 82, 95].
+LQCD can provide the MEs of the four-quark charge-changing local operators between the
+appropriate hadronic states, namely 〈pi+|Oi|pi−〉, 〈ppi+|Oi|n〉, 〈pp|Oi|nn〉. The calculations
+that are planned for the next five years can be categorized as: ii) Challenging : While the
+computation of 〈pi+|Oi|pi−〉 MEs have been recently completed by the CalLat collabora-
+tion [81], one recalls that in a consistent chiral power counting [15], input from 〈pp|Oi|nn〉
+may be as important as the pionic contribution. As discussed above, such calculations are
+more challenging due to the signal-to-noise degradation. However, both the lattice technol-
+ogy for computing local MEs and the finite-volume formalism that enables the extraction of
+corresponding physical MEs are already in place, making the implementation of these calcu-
+lations plausible in the next five years. Once again, the availability of gauge-field ensembles
+suitable for studying nuclear systems with large characteristic length scales is a key to the
+success of this program.
+Finally, we must emphasize that given the lack of experimental input on the short-distance contri-
+butions to the nuclear MEs in both the light Majorana exchange and the short-distance scenarios,
+the input from LQCD calculations is crucial in advancing the theoretical frontier of the 0νββ pro-
+gram. This also means that even a constraint on these MEs and/or EFT couplings at the level of
+a few tens of percent will be extremely useful in enhancing the ongoing and upcoming ab initio
+16
+nuclear structure calculations that may be missing large contributions from currently unknown
+short-range effects.
+V. BARYON-NUMBER MINUS LEPTON-NUMBER NONCONSERVATION AND n-n¯
+OSCILLATION
+Motivation: Baryon number is approximately conserved to a very high precision in the SM at low
+energies, but only baryon minus lepton number (B-L) is an exact symmetry of the SM. Baryo-
+genesis mechanisms generically require B-L violation since B-violating electroweak sphalerons will
+washout any high-scale baryon asymmetry generated in the early Universe unless there is a B-
+L asymmetry. Low-scale B-L violation and post-sphaleron baryogenesis can be compatible with
+present experimental limits on B and B-L violation if they do not lead to proton decay (this could
+be because of selection rules imposed by the mechanism of baryon-number violation) and instead
+proceed through higher-dimensional operators and lead for instance to neutron-antineutron oscil-
+lations. Experimental searches for B-L neutron-antineutron (n-n¯) oscillations can test some of
+these low-scale baryogensis scenarios and provide complementary searches to B violation in proton
+decay and B-L violation through L violation in 0νββ decay, see e.g., Refs. [98–100] for reviews and
+further references.
+Two general classes of experiments can be used to search for n-n¯ oscillations: slow neutron
+beam experiments and detection of n-n¯ annihilation in nuclei. Neutron beam experiments are
+advantageous because of their clean theoretical interpretation. The tightest constraints from cold
+neutron beam experiments on the n-n¯ oscillation time τn-n¯ were obtained at the Institut Laue-
+Langevin (ILL) and give τn-n¯ > 0.86 × 108 s [101]. Future experiments have been proposed at
+the European Spallation Source (ESS) [102, 103] that could improve bounds on τn-n¯ by a factor
+of 32, as well as at other reactors [104]. Nuclear n-n¯ annihilation searches in large underground
+volume detectors provide competitive or even stronger bounds on B-L violation than neutron beam
+experiments, but are more difficult to interpret theoretically. Super-K provides a bound on the
+lifetime of Oxygen-16 of τ16O > 1.9×1032 years [105], which nuclear structure calculations indicate
+is associated with a constraint on the vacuum oscillation time of τn-n¯ > 2.7×108 s [106]. Bound on
+the n-n¯ transition time in the deuteron, τD > 1.18× 1031 years [107], also provides a competitive
+bound on the vacuum oscillation time, τn-n¯ > 1.6 × 108 s [108]. Future underground neutrino
+facilities such as DUNE may provide stronger limits on B-L violation in nuclei [109].
+Progress report: The results of present and future searches for n-n¯ oscillations and associated B-L
+violation in nuclei can be interpreted in an EFT framework where BSM effects are encoded in
+non-zero LECs for dimension-9 six-quark operators. A LQCD calculation of the n-n¯ transition
+MEs for a complete basis of six-quark operators [110–112] can be used to constrain BSM theories
+of B-L violation with experimental results for τn-n¯ and improve upon estimates from the MIT bag
+model [112]. Exploratory calculations involving USQCD members of such a complete basis of six-
+quark operators were performed using an efficient operator construction shown in Fig. 7 [113]. The
+perturbative and non-perturbative renormalization of n-n¯ transition operators was subsequently
+studied in a chiral basis that greatly simplifies n-n¯ operator renormalization [114, 115]. Non-
+perturbative RI/MOM renormalization factors were calculated for the n-n¯ operators in Refs. [114,
+116, 117] using a LQCD ensemble with approximate chiral symmetry and physical quark masses
+generated by the RBC/UKQCD collaborations [118]. The same ensembles were used for a recent
+calculation of the renormalized n-n¯ transition MEs in Ref. [116] involving USQCD members. LQCD
+results suggest that MEs are about 5− 10 times larger than had previously been estimated using
+MIT bag model results and therefore that the reach of current and future experiments into BSM
+17
+FIG. 7. The left diagram schematically shows how a neutron two-point correlation function can be con-
+structed from three copies of a single quark propagator. Calculations of three-point functions including
+operator insertions are typically more expensive because they require multiple quark propagator calcula-
+tions, but using the construction schematically depicted on the right, n-n¯ MEs can be constructed from
+the same quark propagator used to construct the neutron two-point function. The quark propagator source
+point is taken to be the operator insertion point (black dot) and extends forward in time to a neutron
+annihilation operator or backward in time to an anitneutron creation operator.
+parameter space is larger than expected.
+5-year goals and plans: Future calculations of the six-quark MEs studied in Ref. [116] are straight-
+forward and could reduce the statistical uncertainties in current results as well as discretization
+effects and other systematic uncertainties. Higher dimensional six-quark operators including elec-
+tromagnetic current insertions have also been identified as candidates for B-L violating neutron-
+antineutron conversions not suppressed by the presence of magnetic fields [119]. LQCD MEs of
+these operators could be computed using similar techniques as existing six-quark operator calcu-
+lations and should be considered straightforward.
+Allowing nuclear decay experiments to be interpreted with the same level of theoretical rigor
+requires challenging calculations of six-quark MEs in light nuclei. Chiral EFT has been used
+recently to calculate the deuteron lifetime τD in terms of τnn¯ [108] and therefore allows robust
+constraints on BSM theories to be extracted from a combination of SNO constraints on τD [106],
+chiral EFT and LQCD. Direct LQCD calculations of B-L violating deuteron annihilation could be
+used to test chiral EFT for this process and constrain higher-order LECs. Calculations in other
+light nuclei could be used to test and inform nuclear many-body models needed to predict the
+lifetimes of larger nuclei such as 16O in Super-K and 40Ar at DUNE. At unphysically large values
+of the quark masses these calculations may require a similar resource investment as nuclear MEs
+for other SM and BSM currents performed by the NPLQCD collaboration [76–79]. Performing
+these calculations at physical values of the quark masses would be extremely challenging because
+of the complex few-body final states and would require new formal developments as well as high
+statistics.
+VI. LEPTON-FLAVOR NONCONSERVATION AND MUON TO ELECTRON
+CONVERSION
+Motivation: The conservation of lepton family number is an accidental symmetry of the SM with
+no right-handed neutrinos, i.e., it follows simply from the field content, gauge symmetry, and
+the inclusion of operators of dimension less than or equal to four. With the discovery of neu-
+trino oscillations, we now have evidence that lepton flavor is not conserved. However, in minimal
+extensions of the SM that include only neutrino masses and mixing, branching ratios (BRs) for
+lepton-flavor-violating (LFV) decays of charged leptons are small (< 10−54) due to a quadratic
+Glashow-Iliopoulos-Maiani (GIM) suppression mechanism [120, 121] and are likely unobservable.
+Conversely, assuming new LFV dynamics at a scale ΛLFV, LFV processes such as µ→ eγ, µ→ 3e,
+and µ → e conversion in nuclei probe scales up to 103 TeV at the current and future experimen-
+18
+6 LORENZO CALIBBI and GIOVANNI SIGNORELLI
+Year
+1940 1950 1960 1970 1980 1990 2000 2010 2020 2030
+ L
+im
+it
+17−10
+16−10
+15−10
+14−10
+13−10
+12−10
+11−10
+10−10
+9−10
+8−10
+7−10
+6−10
+5−10
+4−10
+3−10
+2−10
+1−10
+1
+γ e → µ
+  e N→ N µ
+ e e e→ µ
+Figure 1. – Limit on the branching ratio of flavour violating muon decays as a function of the
+year. The three main clusters correspond to the usage of cosmic ray muons (until the 1950s),
+stopped pion beams (until the 1970s) and stopped muon beams. Presently the best limit is that
+on the µ+ ! e+  decay set by the MEG experiment [49].
+searching for Charged Lepton Flavour Violation (CLFV) is the aim of the present review.
+We first give a theoretical introduction to set the stage and to see in a more formal and
+detailed way what we mentioned above, as well as to discuss how and why Lepton Flavour
+can be violated in extensions of the Standard Model: what, in other words, makes CLFV
+processes so sensitive to new physics.
+We will then review the general aspects of the experimental searches and discuss
+some of the present and planned experiments with particular emphasis on the transition
+between the first and the second family of leptons. To this class, in fact, belong the
+three most searched modes – µ+ ! e+  (“mu-to-e-gamma”), µ N ! e N (“mu-e-
+conversion”), and µ+ ! e+e e+ (“mu-to-three-e”) – due to the copious availability of
+the parent particle in the cosmic radiation first and at dedicated accelerators afterwards.
+The history of the limit on the probability of these processes is shown in Figure 1, which
+starts with the first experiment performed by Hinks and Pontecorvo in 1947 [259]. They
+stopped cosmic ray muons in a lead absorber and measured the coincidence between
+signals from two Geiger-Mu¨ller counters: having seen no such coincidence they gave as
+a limit essentially the inverse of the number of observed muons. The limits on the three
+processes improved as artificial muons were produced, stopping pion beams first (until
+the 1970s) and starting directly with muon beams afterwards.
+These experiments give the best constraints to date to possible extensions of the Stan-
+dard Model inducing CLFV, therefore they play a prominent role in this review. There
+FIG. 8. The left panel shows limits on the branching ratio of LFV muon decays as a function of the year [128].
+The right panel depicts examples of LFV interactions induced by the dimension-6 operators. A denotes the
+atomic numbe of the target nucleus.
+tal sensitivity level (BR ∼ 10−13 − 10−16). It is anticipated that the experimental sensitivity in
+µ→ e conversion in nuclei will be greatly enhanced through the Mu2e experiment at Fermilab [122]
+and the COMET exp riment in J-PARC [123]. The left panel of Fig. 8 shows the limits on the
+branching ratio of several LFV decays of the muon over time.
+In order to understa d the implic tions f current and future searches of µ → e conversion in
+terms of underlying LFV mechanisms, one needs to control the associated hadronic/nuclear uncer-
+tainties. In fact, explicit studies have shown how reliable MEs will help establish the pattern of
+LFV signatures in various decay channels epending on the underlying mechanism [124, 125]. Par-
+ticularly int resti g from a phenomenologica standpoint is Higgs-mediated lepton-flavor violation,
+which depends on possible non-standard couplings of the 125 GeV Higgs boson and on possibly
+richer Higgs sectors. The phenomenological analysis in any underlying model is facilitated by an
+EFT setup [124, 126, 127]. In this context, one needs MEs of various quark billinears in nuclei of
+experimental interest, e.g., 27Al for next generation. Examples of such LFV interactions arising
+from dimension-6 operators are depicted in the right panel of Fig. 8.
+Progress report : LQCD input to the LFV program is closely related to that required in the dark-
+matter detection program. The progress in obtaining these MEs in the zero and nonzero-recoil
+limit using LQCD is mentioned in Sec. VII.
+5-year goals and plans: The analysis of a muon to electron conversion process in a nucleus can be
+organized using chiral EFT, according to which the leading term in the µ→ e transition amplitude
+is controlled by the coupling of the external probe (quark density) to single nucleons. Therefore,
+the needed LQCD input at this stage is the set of nucleon form factors (scalar, vector, axial,
+tensor and pseudoscalar) at q2 = m2µ, where q is the momentum transfer to nucleon and mµ is
+the muon mass. Most relevant for Higgs-mediated processes is the set of scalar form factors (with
+u, d, s flavor) and the MEs of the gluonic (GG) operator (that is induced by integrating out heavy
+quarks). For spin-dependent mechanisms, other tensor structures, especially the flavor diagonal
+axial form factor, becomes relevant. Since one needs MEs of flavor-diagonal quark bilinears, the
+calculation of disconnected diagrams is necessary. This set of calculations would at first sight be
+19
+considered as straightforward. However, in the case of the scalar densities, it may be challenging
+to reach a few-percent precision in order to compete with non-LQCD determinations of the sigma
+term [129]. The reason lies in the need to evaluate computationally expensive quark disconnected
+contributions, for which considerable progress has been made by the collaboration in recent years,
+as detailed in a companion whitepaper [5]. For the form-factor calculations from LQCD, either
+very large volumes (& 12 fm) or modified boundary conditions [130, 131] are required to access the
+low-momentum transfers relevant to the µ→ e process, which will be computationally challenging
+but procedurally straightforward.
+Beyond the leading chiral order, two-nucleon contributions to the µ→ e conversion in a nucleus
+arise. Existing estimates show that effect is non-negligible for scalar interactions in 27Al [132].
+LQCD can provide useful input in this regard, by computing directly the appropriate MEs in light
+nuclei [79]. The connection to nuclei of experimental interest would be achieved by matching the
+LQCD result to a chiral EFT calculation in the few-body systems and use the resulting operators
+in heavier nuclei. This set of calculations is challenging to extremely challenging. Going beyond the
+leading chiral order is well motivated in the case of Higgs-mediated lepton-flavor violation (scalar
+operators), as future µ→ e conversion searches provide the best probe of these scenarios.
+VII. DARK-MATTER CROSS SECTIONS WITH NUCLEON AND NUCLEI
+Motivation: There is abundant evidence from galactic rotation curves, gravitational lensing, struc-
+ture formation, and the cosmic microwave background that dark matter (DM) makes up a large
+percentage of the matter in Universe [133, 134]. Many models provide weakly interacting massive
+particles (WIMPs) as dark matter candidates, e.g., neutralinos in supersymmetric extensions of the
+SM. Interpreting direct dark matter searches in the context of these models requires knowledge of
+WIMP interactions with the heavy nuclei used in current detectors and light nuclei to be possibly
+used in next-generation searches [135]. Although the microscopic theory of WIMPs is unknown,
+the WIMP interactions with quarks and gluons can be parameterized at low-energy using EFT
+methods. At operator dimensions six and seven, a number of WIMP-quark operators appear,
+involving in principle all quark bilinears (see Ref. [136] and references therein). To interpret the
+results of direct dark-matter searches and translate these into limits on dark-matter models, SM
+input is therefore necessary. By computing the appropriate single- and few-nucleon MEs, LQCD
+provides the needed non-perturbative bridge between the EFT description in terms of quarks and
+gluons and the appropriate nucleon/nuclear EFTs and many-body methods [137–143]. LQCD can
+also be used to study the dynamics of new strongly-interacting theories that are proposed to govern
+the dark-matter sector. This latter class of investigations is discussed in the companion whitepaper
+on “Lattice Gauge Theory for Physics Beyond the Standard Model” [2], and will not be discussed
+here.
+Progress report: While the up and down scalar MEs of the nucleon can be extracted from pion-
+nucleon scattering experiments, LQCD determinations are now competitive in terms of precision.6
+Heavy-quark contributions to the MEs are amenable to perturbation theory, while LQCD is the key
+tool used to obtain the strange contributions. LQCD determinations of the tensor charge of the up
+and down quarks reach a precision of 3–7%, whereas the corresponding strange charge is bounded
+to be substantially smaller [145]. The flavor-diagonal axial charge of the up and down quarks
+is now known to 5–8% accuracy, and the smaller strange contribution is known at ∼ 15% [146].
+Calculations also exist for the form-factors of the pseudoscalar density and the axial and vector
+6 It is notable that recent LQCD determinations are in slight tension with the latest analyses of experimental
+data [144].
+20
+Nf = 3, m⇡ = 0.806 GeV, a = 0.145(2) fm 4
+this Letter. Taken as a whole, the results indicate that
+nuclear e↵ects in the charges are typically at the <⇠ 2%
+level in light nuclei with atomic number A  3. The
+exception to this picture is in the scalar channel where
+⇠ 10% e↵ects are seen. For each type of interaction,
+nuclear modifications scale approximately with the mag-
+nitude of the corresponding charge. While strange quark
+(equivalently, disconnected) contributions to the nuclear
+axial and tensor charges are negligible, strange quarks
+make significant contributions to the scalar charges, as
+seen for matrix elements of the same operators in the
+proton in previous studies [64, 66, 67].
+The tensor charges encode the quark EDM contribu-
+tions to the EDMs of light nuclei and thus set bounds
+on BSM sources of CP violation [10]. Given that the CP
+violation in the weak interaction is insu cient to gen-
+erate the observed matter-anti-matter asymmetry of the
+universe (assuming exact CPT invariance and baryon–
+anti-baryon symmetry of the initial conditions), many
+experiments have sought to measure permanent EDMs
+as evidence for such sources. Even with a successful
+measurement of a permanent EDM, fully disentangling
+the sources of CP violation requires multiple observ-
+ables [7, 68], and experiments searching for EDMs of light
+nuclei are in the planning stages [69–71]. Nuclear e↵ects
+in the tensor charge have not been previously observed;
+here they are resolved for the first time and found to
+be at the few percent level for A  3 at these quark
+masses. Similarly, modification of the axial charge in nu-
+clei is found to be at the 1–2% level for both the isoscalar
+and isovector combinations. The isovector 3He charge is
+consistent with values extracted from measurements of
+the   decay of tritium [72] and is more precise than our
+previous work [46]. Nuclear e↵ects in the axial charges
+can test predictions that nuclear modification of the spin-
+dependent structure function may be significantly di↵er-
+ent than the modification of the spin-independent struc-
+ture function [73–75]. The small deviation resolved in
+this study implies that quarks in nuclei carry a di↵erent
+fraction of the total spin than quarks in free nucleons.
+In contrast to the few-percent nuclear e↵ects seen in
+the tensor and axial charges, the scalar charges of light
+nuclei are suppressed at the 10% level relative to expec-
+tations for non-interacting nucleons.2 In phenomenolog-
+ical models of nuclei such as the Walecka model [76, 77]
+and the quark-meson coupling model [78], a mean scalar
+field in which the nucleons move is an important con-
+tribution to the saturation of nuclear matter. The large
+modifications of the scalar charges found here suggest
+that models based on similar mechanisms may approxi-
+2 The sign of these nuclear e↵ects is consistent with the deeper
+binding of nuclei with increasing quark masses that is found from
+direct calculations of the binding energies of light nuclei [45].
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+-0.03
+-0.02
+-0.01
+0.00
+0.01
+0.02
+-0.03
+-0.02
+-0.01
+0.00
+0.01
+0.02
+FIG. 3: The calculated values of  R
+(f)
+X for the deuteron (cir-
+cles), diproton (diamonds) and 3He (squares) to those in the
+proton. The panels display the results obtained for the scalar
+(top), axial (middle) and tensor (bottom) interactions, and
+the columns within the panels display results for the di↵erent
+flavor structures of the currents, as indicated at the top of the
+figure. In each case, the statistical and systematic uncertain-
+ties have been combined in quadrature. The points exactly
+at zero are constrained to vanish by spin and/or isospin sym-
+metry, while ratios are not given for the strange quark axial
+and tensor charges as both the numerators and denominator
+are consistent with zero.
+mately describe nuclei even at unphysical values of the
+quark masses. A determination of the scalar polar-
+izabilities through extensions of the calculations pre-
+sented here (using analogues of the methods discussed
+in Refs. [48, 49, 79]) would be interesting in this context
+[80, 81].
+The scalar charges of nuclei are also important in the
+interpretation of experimental searches for dark mat-
+ter [26–31, 33–39, 41, 42]. These charges quantify the
+contribution of explicit chiral symmetry breaking to nu-
+clear masses [82, 83], and define nuclear  -terms. The
+Kaixuan Ni                               Recent Results from Dark Matter Direction Detection                    CIPANP 2018, 5/29-6/3/2018, Palm Springs, CA
+Direct Detection of WIMPs by 2025?
+ 30
+Neutrino Coherent Scattering
+CMSSM
+Direct detection of WIMP by 2025?
+FIG. 9. The left panel (courtesy of the NPLQCD collaboration) shows deviation of the MEs of scalar, axial
+and tensor interactions in nuclei up to A = 3 from their values in a noninteracting nucleon model, using
+LQCD albeit at an unphysically large quark masses. The quantities ∆R(3,0,8,s) are defined in Ref. [79].
+This investigation indicates a large (∼ 10%-level) nuclear effect for scalar interactions, which if it persists at
+physical values of the quark masses, can have a significant effect in MEs of scalar currents in large isotopes
+(a large quenching can be a possibility considering the quenching of the axial charge in such isotopes [154]).
+Reliable theory input for scalar nuclear MEs will be crucial to interpret experimental searches in terms of the
+popular scalar portal scenarios. As is seen in the right panel (courtesy of Kaixuan Ni), the remaining not-
+yet-excluded region of the WIMP mass given the cross-section sensitivity of experiments will be considerably
+reduced in upcoming years, and reliable interpretation of the outcome of these searches will depend upon
+controlled nuclear MEs.
+currents, though all the systematics are not yet under control, see Ref. [147, 148] and references
+therein. Calculations of both strange and light scalar MEs with the physical values of the quark
+masses have achieved 10%-15% precision in the last five years [149–153].
+Ultimately, there is considerable uncertainty inherent in relating the scalar MEs of the nucleon to
+the scalar MEs of the nuclei used in direct searches for dark matter (e.g., Xenon with atomic number
+A = 131), and controlled determinations of the nuclear MEs are of great interest. Recently, the first
+calculation of the light and strange quark sigma terms of light nuclei with A ≤ 3 was achieved [79],
+albeit at larger-th n-physical values of the qu rk masses. It is notable that the scalar charges
+of these light nuclei were found to be suppressed at the 10% level relative to expectations for
+noninteracting nucleons, see the left panel of Fig. 9. If this feature persists at the physical values
+of quark masses, it will be important that these effects not be neglected in the interpretation of
+direct-d te tion lim ts. As is se n in the right panel of Fig. 9, the remaining not-yet-excluded region
+of the WIMP-nucleus cross section vs. the WIMP mass will be in reach of experiments planned
+for the next 5 years. To reliably convert limits on the cross sections from these experiments to a
+bound on the WIMP mass requires more precise knowledge of nuclear MEs.
+5-year goals and plans:
+– Few-percent level determinations of zero-recoil MEs of light and strange quark bilinear opera-
+tors in the nucleon, including scalar and axial bilinears, can be categorized as straightforward,
+given the emergence of Exascale computing resources in a few years.
+– Given controlled calculations of the scalar MEs of light nuclei, these MEs in larger phenom-
+enologically-relevant nuclei can be obtained by matching to chiral EFT calculations of few
+21
+and many-body systems. A few-percent precision on MEs may be a requirement to isolate
+the effects beyond that expected from a naive impulse approximation, in which nuclear
+effects are ignored. While performing these calculations with physical quark masses is a
+computationally challenging program, this goal may be achievable in the next 5 years.
+– Beyond scalar portal models, there are of course many other possibilities for dark-matter
+interactions with the SM sector [136, 155]. For example, dark-matter interactions may
+be spin-dependent, and, depending on the dark-matter densities in our local environment,
+velocity-dependent couplings may also be important [156]. Constraining these and other
+models requires knowledge of a range of QCD MEs, including those describing parton struc-
+ture, which can be determined using LQCD. As for the scalar MEs, few-percent precision
+on the relevant nucleon MEs, and first controlled calculations of MEs in light nuclei, are
+possible on a short timescale, if particular needs are identified.
+VIII. PRECISION β DECAY FOR SEARCHES OF NEW PHYSICS
+Motivation: Precision measurements of neutron and nuclear beta decay, at the 0.1% level or better,
+provide a very competitive probe of new physics well into the LHC era [157]. This statement is best
+quantified using the EFT framework [157–159], in which, at dimension-six, five non-standard effec-
+tive couplings can be probed via beta decays (the five other couplings that involve the right-handed
+neutrinos appear in observables only quadratically, resulting in lower sensitivity). Normalizing the
+effective Lagrangian to GFVud, these five dimensionless couplings parameterize the various BSM
+couplings of the left-handed lepton current: a correction to the usual SM left-handed quark current
+operator (L), a right-handed quark current operator (R), and the three chirality-flipping scalar,
+pseudoscalar, and tensor quark operators (S,P,T ).
+Progress report and 5-year goals and plans: LQCD provides key input in matching the quark-
+level effective Lagrangian to the hadronic and nuclear level, namely the so-called isovector nucleon
+charges gΓ, defined by
+〈p(p′, s′)|u¯Γd|n(p, s)〉 = gΓ u¯p(p′s′)Γun(p, s) , (2)
+for the five Dirac structures Γ ≡ 1, γ5, γµ, γ5γµ and [γµ, γν ]. Knowledge of scalar and tensor
+charges at the < 10% level makes the next generation precision beta decay experiments com-
+pete with the LHC [158, 159] in constraining S,T at the few × 10−4 level, i.e., probing effective
+scales of new physics close to 10 TeV. While the desired accuracy on gS,T has been achieved by
+several groups [160–164], a confirmation of this would be desirable and would entail relatively
+straightforward calculations.
+Knowledge of the axial charge gA will improve the model-independent bound on possible right-
+handed currents [158, 165], since beta-decay experiments are sensitive to the combination g¯A =
+gA(1−2R), where R parameterizes non-standard right-handed quark currents. Lattice calculation
+of gA routinely achieve a precision at the few % level [160, 162, 166–173] and a recent calculation
+has claimed a 1% precision [174]. Independent determinations at the percent-level, especially
+using different methods, are highly desirable, and are plausible with higher statistics. Future
+improvements resulting in determinations at the 0.2-0.3% level, requiring extremely challenging
+calculations, would start probing the W -quark right-handed coupling R at a level that competes
+with the best bounds on L from the Z-pole measurements.
+Finally, we mention the opportunity for LQCD to contribute to improving the understanding of
+radiative corrections in β decays. This is of high interest in light of recent results of Ref. [175], which
+22
+differ significantly from the previously established results [176] (barring compensating changes to
+the nuclear effects, the new radiative correction result leads to a ∼ 4-σ deviation in the CKM
+unitarity test). LQCD can contribute in two ways: (i) First, it can provide indirect input by calcu-
+lating of the time-ordered product of a weak and electromagnetic current (inserted with momenta
+±q) between neutron and proton, at a number of fixed q’s. This would provide a calibration for
+some of the input going in the calculation of Ref. [175]. The evaluation of the four-point functions
+or alternative methods [177] would be challenging. (ii) Second, LQCD can provide a more direct
+input by computing the O(α) contribution to n → peν¯e, using techniques similar to the ones de-
+veloped for the calculation of radiative corrections to K(pi) → `ν` [178]. This calculation is likely
+to be extremely challenging.
+IX. ISOTOPE-SHIFT SPECTROSCOPY
+Limits on new physics leading to spin-independent interactions between the neutron and the elec-
+tron can be constrained using optical frequency measurements and frequency shifts between iso-
+topes of hydrogen and helium atoms, light ions including lithium and nitrogen [179], and heavy
+atoms and ions [180–182]. QCD constraints on the scalar MEs of the nucleon and of the relevant
+nuclei are important in these calculations; recent progress and the outlook for LQCD calculations
+of these quantities is detailed above in the discussion of WIMPs. Unlike for direct DM searches
+which use large nuclei, however, the scalar MEs for the A . 4 light nuclei which are relevant
+in Ref. [179] can be provided from LQCD with controlled uncertainties on a 5-year timescale. The
+charge radius differences between nuclear isotopes are also necessary input. Radii can be extracted
+precisely from scattering experiments, but can be contaminated by new physics at various levels;
+in the longer term, LQCD calculations of charge radii for A . 4 nuclei will be feasible and will
+provide valuable constraints.
+X. COMPUTING NEEDS
+Calculations involving nucleons are particularly demanding due to the exponential growth of noise
+in nucleon correlation functions. The noise in the single-nucleon correlator at large (Euclidean)
+times behaves as ∼ e−3mpit/2, while the signal goes as ∼ e−mN t. The signal-to-noise ratio, therefore,
+degrades as ∼ e−(mN−3mpi/2)t given the small mass of the pions [183, 184]. In recent years, methods
+have been proposed based on domain decompositions at the level of correlation functions [185–187]
+and the quark propagators [188, 189], aiming to alleviate the noise in correlation functions, or
+enable the signal to be extracted from noisy correlators. This remains an active area of research
+in the field, with the hope that deep understanding of, and novel technologies on how to form,
+LQCD correlation functions may eliminate the need for an exponential increase in computational
+resources to achieve a signal for observables, see the companion whitepaper on “Status and Future
+Perspectives for Lattice Gauge Theory Calculations to the Exascale and Beyond” [5].
+For LQCD studies in the area of Fundamental Symmetries, many of the ultimate goals require
+MEs of operators between multi-hadron states. Pioneering calculations have been successfully per-
+formed for systems with a small number of nucleons (A < 5), but still with up/down quark masses
+heavier than those in nature [93, 190–194]. To gain statistical control and to avoid overwhelm-
+ing systematic error from excited-state contamination, several approaches have been implemented,
+such as faster and more efficient quark propagator solvers, efficient codes optimized to target HPC
+architectures, statistical-error reduction techniques, and more efficient ways of performing quark
+contractions for multi-hadron systems. Together with the support of HPC resources and its rapid
+23
+evolutions, these developments brought immense speedups in computations, enabling today’s flour-
+ishing lattice computations (see a companion whitepaper for state-of-the-arts examples [5]). The
+USQCD collaboration will continue to make breakthroughs in the efficient use of valuable HPC
+resources to provide indispensable theoretical results.
+The software requirements are common to all hadron computations in the subcategories in this
+whitepaper. The requirements on gauge-field ensembles needed for carrying out various types of
+calculations can be different. A few examples are:
+– For EDM calculations, a devoted QCD ensemble generation with CP-violating QCD action,
+especially the one with the nonzero θ vacuum angle, will be necessary.
+– For calculations of many new-physics related MEs, ensembles of gauge-field configurations
+with good chiral symmetry properties are highly valuable, as they substantially reduce the
+number of relevant effective operators with a given mass dimension.
+– For calculations involving nuclei, with vastly varying intrinsic energy scales compared with
+the QCD scale (e.g., consider the simplest nucleus, a deuteron, an extremely shallow bound
+state of two nucleons with a binding of only ∼ 2.2 MeV), ensembles with larger volumes
+are required. The dense finite-volume spectra will pose a challenge in identifying ground
+and excited states out of Euclidean correlation functions, and more sophisticated techniques
+based on a variational approach, such as those customary in the mesonic sector [195] and
+recently in the baryonic sector [196], will be a necessity.
+– For calculations of MEs involving multiple nucleons, ensembles with multiple volumes and
+ideally various boundary conditions are essential so that a Lellouch-Lu¨scher-type formalism
+can be used to extract physical MEs [67–73]. One should also perform calculations with
+various momenta for the initial and final states and for the momenta inserted at the current
+so to have access to multiple kinematic points.
+Finally, it must be noted that LQCD in its current form, and with classical resources, will likely
+not be the optimal method to directly obtain the MEs of operators related to the Fundamental
+Symmetries program in heavy isotopes, and a combination of LQCD, EFT and nuclear many-
+body methods are required to impact experiments. Computational challenges associated with
+nuclear LQCD calculations are enumerated in other companion whitepapers [3–5]. In short, these
+challenges include:
+i) Complexity of nuclear correlation functions: A quark-level nuclear correlation function
+requires Wick contractions of 2Np + Nn number of up quarks in the nuclear “source” in
+all possible ways with the same number of up quarks in the nuclear “sink”, as well as
+contracting Np + 2Nn number of down quarks with the same number of down quarks, for
+statistical averaging over vacuum gauge-field configurations to follow. Here, Np denotes the
+number of protons and Nn is the number of neutrons in the multi-nucleon system under
+study. This means a factorial growth in the complexity of the computation as the atomic
+number increases. This problem can be ameliorated with clever techniques [197, 198], but
+still presents a roadblock in first-principle QCD calculations of large isotopes relevant to the
+Fundamental Symmetries program.
+iii) Signal degradation: The exponential degradation of the signal discussed above for single
+nucleons occurs at much earlier times in the correlator if a system with atomic number A,
+with the signal-to-noise ratio scaling as ∼ e−A(mN−3mpi/2)t.
+24
+ii) Fine and dense density of states: While the excitation gap of single-nucleon state is of
+the order of the QCD scale, those of a large nucleus are orders of magnitude smaller. This
+means that a LQCD calculation of a large nucleus should obtain its mass (could be hundreds
+of GeVs) with an incredible precision, so as to isolate the lowest states from their nearby
+excitations (where the energy gap could be only a few keVs). Given the severe signal-to-noise
+degradation and the substantial HPC resources required to overcome the problem, such a
+precision goal may not be within reach in the next decade without revolutionary paradigms
+in computing.
+It is therefore important to emphasize that the LQCD effort in Fundamental Symmetries, which
+will be limited to single and few-nucleon observables in coming years, will not pay off without a
+cohesive and coordinated effort that involves EFT and nuclear many-body physicists that build the
+bridge between the QCD input for few-nucleon quantities and target quantities in the experimental
+program. Such effort has gained significant momentum in recent years [199–203] given the success
+of the LQCD program in delivering results that were not possible in the past, and will continue to
+accelerate as LQCD studies of nucleons and nuclei mature [4].
+[1] A. Bazavov, F. Karsch, S. Mukherjee, and P. Petreczky (USQCD), (2019).
+[2] R. Brower, A. Hasenfratz, E. T. Neil, et al. (USQCD), (2019).
+[3] A. S. Kronfeld, D. G. Richards, et al. (USQCD), (2019).
+[4] W. Detmold, R. G. Edwards, et al. (USQCD), (2019).
+[5] B. Joo´, C. Jung, et al. (USQCD), (2019).
+[6] C. Lehner, S. Meinel, et al. (USQCD), (2019).
+[7] A. Aprahamian et al., “nsac long range plan 2007 subcommittee white papers,” (2007).
+[8] A. Aprahamian et al., “reaching for the horizon: the 2015 long range plan for nuclear
+science,” (2015).
+[9] G. Aad et al. (ATLAS, CMS), Phys. Rev. Lett. 114, 191803 (2015), arXiv:1503.07589 [hep-ex].
+[10] J. Alexander et al. (2016) arXiv:1608.08632 [hep-ph].
+[11] S. Weinberg, Phys. Rev. Lett. 43, 1566 (1979).
+[12] W. Buchmuller and D. Wyler, Nucl. Phys. B268, 621 (1986).
+[13] B. Grzadkowski, M. Iskrzynski, M. Misiak, and J. Rosiek, JHEP 10, 085 (2010), arXiv:1008.4884
+[hep-ph].
+[14] A. Aprahamian et al., (2015).
+[15] V. Cirigliano, W. Dekens, J. de Vries, M. L. Graesser, and E. Mereghetti, (2018), arXiv:1806.02780
+[hep-ph].
+[16] V. Cirigliano and M. J. Ramsey-Musolf, Prog.Part.Nucl.Phys. 71, 2 (2013), arXiv:1304.0017 [hep-ph].
+[17] T. Chupp, P. Fierlinger, M. Ramsey-Musolf, and J. Singh, (2017), arXiv:1710.02504 [physics.atom-
+ph].
+[18] T. Ito, Private correspondence (2018).
+[19] M. Pospelov and A. Ritz, Annals Phys. 318, 119 (2005), arXiv:hep-ph/0504231 [hep-ph].
+[20] A. D. Sakharov, Pisma Zh. Eksp. Teor. Fiz. 5, 32 (1967), [Usp. Fiz. Nauk161,no.5,61(1991)].
+[21] C. A. Baker, D. D. Doyle, P. Geltenbort, K. Green, M. G. D. van der Grinten, et al., Phys. Rev. Lett.
+97, 131801 (2006), arXiv:hep-ex/0602020 [hep-ex].
+[22] J. M. Pendlebury et al., Phys. Rev. D92, 092003 (2015), arXiv:1509.04411 [hep-ex].
+[23] V. Anastassopoulos et al., Rev. Sci. Instrum. 87, 115116 (2016), arXiv:1502.04317 [physics.acc-ph].
+[24] J. Engel, M. J. Ramsey-Musolf, and U. van Kolck, Prog.Part.Nucl.Phys. 71, 21 (2013),
+arXiv:1303.2371 [nucl-th].
+[25] E. Mereghetti, W. H. Hockings, and U. van Kolck, Annals Phys. 325, 2363 (2010), arXiv:1002.2391
+[hep-ph].
+[26] J. de Vries, R. Higa, C. P. Liu, E. Mereghetti, I. Stetcu, R. G. E. Timmermans, and U. van Kolck,
+Phys. Rev. C84, 065501 (2011), arXiv:1109.3604 [hep-ph].
+25
+[27] J. de Vries, E. Mereghetti, R. G. E. Timmermans, and U. van Kolck, Annals Phys. 338, 50 (2013),
+arXiv:1212.0990 [hep-ph].
+[28] J. Bsaisou, U.-G. Meiner, A. Nogga, and A. Wirzba, Annals Phys. 359, 317 (2015), arXiv:1412.5471
+[hep-ph].
+[29] T. Bhattacharya, V. Cirigliano, R. Gupta, H.-W. Lin, and B. Yoon, Phys. Rev. Lett. 115, 212002
+(2015), arXiv:1506.04196 [hep-lat].
+[30] E. Shintani, S. Aoki, N. Ishizuka, K. Kanaya, Y. Kikukawa, Y. Kuramashi, M. Okawa, A. Ukawa,
+and T. Yoshie, Phys. Rev. D75, 034507 (2007), arXiv:hep-lat/0611032 [hep-lat].
+[31] E. Shintani, S. Aoki, and Y. Kuramashi, Phys. Rev. D78, 014503 (2008), arXiv:0803.0797 [hep-lat].
+[32] E. Shintani, S. Aoki, N. Ishizuka, K. Kanaya, Y. Kikukawa, Y. Kuramashi, M. Okawa, Y. Tanigchi,
+A. Ukawa, and T. Yoshie, Phys. Rev. D72, 014504 (2005), arXiv:hep-lat/0505022 [hep-lat].
+[33] F. Berruto, T. Blum, K. Orginos, and A. Soni, Phys. Rev. D73, 054509 (2006), arXiv:hep-lat/0512004
+[hep-lat].
+[34] S. Aoki, R. Horsley, T. Izubuchi, Y. Nakamura, D. Pleiter, P. E. L. Rakow, G. Schierholz, and
+J. Zanotti, (2008), arXiv:0808.1428 [hep-lat].
+[35] F. K. Guo, R. Horsley, U. G. Meissner, Y. Nakamura, H. Perlt, P. E. L. Rakow, G. Schierholz,
+A. Schiller, and J. M. Zanotti, Phys. Rev. Lett. 115, 062001 (2015), arXiv:1502.02295 [hep-lat].
+[36] A. Shindler, T. Luu, and J. de Vries, Phys. Rev. D92, 094518 (2015), arXiv:1507.02343 [hep-lat].
+[37] C. Alexandrou, A. Athenodorou, M. Constantinou, K. Hadjiyiannakou, K. Jansen, G. Koutsou, K. Ot-
+tnad, and M. Petschlies, Phys. Rev. D93, 074503 (2016), arXiv:1510.05823 [hep-lat].
+[38] E. Shintani, T. Blum, T. Izubuchi, and A. Soni, Phys. Rev. D93, 094503 (2016), arXiv:1512.00566
+[hep-lat].
+[39] M. Abramczyk, S. Aoki, T. Blum, T. Izubuchi, H. Ohki, and S. Syritsyn, Phys. Rev. D96, 014501
+(2017), arXiv:1701.07792 [hep-lat].
+[40] S. Syritsyn, T. Izubuchi, and H. Ohki, in 13th Conference on the Intersections of Particle and
+Nuclear Physics (CIPANP 2018) Palm Springs, California, USA, May 29-June 3, 2018 (2018)
+arXiv:1810.03721 [hep-lat].
+[41] T. Bhattacharya, B. Yoon, R. Gupta, and V. Cirigliano (2018) arXiv:1812.06233 [hep-lat].
+[42] T. Bhattacharya, V. Cirigliano, R. Gupta, E. Mereghetti, and B. Yoon, Phys. Rev. D92, 114026
+(2015), arXiv:1502.07325 [hep-ph].
+[43] J. Dragos, T. Luu, A. Shindler, and J. de Vries, in 35th International Symposium on Lattice Field
+Theory (Lattice 2017) Granada, Spain, June 18-24, 2017 (2017) arXiv:1711.04730 [hep-lat].
+[44] J. de Vries, E. Mereghetti, and A. Walker-Loud, Phys. Rev. C92, 045201 (2015), arXiv:1506.06247
+[nucl-th].
+[45] J. de Vries, E. Mereghetti, C.-Y. Seng, and A. Walker-Loud, Phys. Lett. B766, 254 (2017),
+arXiv:1612.01567 [hep-lat].
+[46] H. Nishino et al. (Super-Kamiokande), Phys. Rev. Lett. 102, 141801 (2009), arXiv:0903.0676 [hep-ex].
+[47] K. S. Babu et al., in Proceedings, 2013 Community Summer Study on the Future of U.S. Particle
+Physics: Snowmass on the Mississippi (CSS2013): Minneapolis, MN, USA, July 29-August 6, 2013
+(2013) arXiv:1311.5285 [hep-ph].
+[48] K. Abe et al. (Super-Kamiokande), Phys. Rev. D90, 072005 (2014), arXiv:1408.1195 [hep-ex].
+[49] J. C. Pati and A. Salam, Phys. Rev. Lett. 31, 661 (1973).
+[50] H. Georgi and S. L. Glashow, Phys. Rev. Lett. 32, 438 (1974).
+[51] F. Wilczek and A. Zee, Phys. Rev. Lett. 43, 1571 (1979).
+[52] L. F. Abbott and M. B. Wise, Phys. Rev. D22, 2208 (1980).
+[53] Y. Aoki, C. Dawson, J. Noaki, and A. Soni, Phys. Rev. D75, 014507 (2007), arXiv:hep-lat/0607002
+[hep-lat].
+[54] Y. Aoki, P. Boyle, P. Cooney, L. Del Debbio, R. Kenway, C. M. Maynard, A. Soni, and R. Tweedie
+(RBC-UKQCD), Phys. Rev. D78, 054505 (2008), arXiv:0806.1031 [hep-lat].
+[55] Y. Aoki, T. Izubuchi, E. Shintani, and A. Soni, Phys. Rev. D96, 014506 (2017), arXiv:1705.01338
+[hep-lat].
+[56] Y. Aoki et al. (RBC, UKQCD), Phys. Rev. D83, 074508 (2011), arXiv:1011.0892 [hep-lat].
+[57] S. Aoki et al. (JLQCD), Phys. Rev. D62, 014506 (2000), arXiv:hep-lat/9911026 [hep-lat].
+[58] N. Tsutsui et al. (CP-PACS, JLQCD), Phys. Rev. D70, 111501 (2004), arXiv:hep-lat/0402026 [hep-
+lat].
+26
+[59] V. M. Braun et al. (QCDSF), Phys. Rev. D79, 034504 (2009), arXiv:0811.2712 [hep-lat].
+[60] Y. Aoki, E. Shintani, and A. Soni, Phys. Rev. D89, 014505 (2014), arXiv:1304.7424 [hep-lat].
+[61] M. Claudson, M. B. Wise, and L. J. Hall, Nucl. Phys. B195, 297 (1982).
+[62] J.-S. Yoo, Y. Aoki, T. Izubuchi, and S. Syritsyn, (2018), arXiv:1812.09326 [hep-lat].
+[63] T. Blum, T. Izubuchi, and E. Shintani, Phys. Rev. D88, 094503 (2013), arXiv:1208.4349 [hep-lat].
+[64] T. Blum, T. Izubuchi, and E. Shintani, Proceedings, 30th International Symposium on Lattice
+Field Theory (Lattice 2012): Cairns, Australia, June 24-29, 2012, PoS LATTICE2012, 262 (2012),
+arXiv:1212.5542 [hep-lat].
+[65] E. Shintani, R. Arthur, T. Blum, T. Izubuchi, C. Jung, and C. Lehner, Phys. Rev. D91, 114511
+(2015), arXiv:1402.0244 [hep-lat].
+[66] M. B. Wise, R. Blankenbecler, and L. F. Abbott, Phys. Rev. D23, 1591 (1981).
+[67] L. Lellouch and M. Luscher, Commun. Math. Phys. 219, 31 (2001), arXiv:hep-lat/0003023 [hep-lat].
+[68] W. Detmold and M. J. Savage, Nucl. Phys. A743, 170 (2004), arXiv:hep-lat/0403005 [hep-lat].
+[69] R. A. Bricen˜o and Z. Davoudi, Phys. Rev. D88, 094507 (2013), arXiv:1204.1110 [hep-lat].
+[70] A. Agadjanov, V. Bernard, U. G. Meiner, and A. Rusetsky, Nucl. Phys. B886, 1199 (2014),
+arXiv:1405.3476 [hep-lat].
+[71] R. A. Briceo, M. T. Hansen, and A. Walker-Loud, Phys. Rev. D91, 034501 (2015), arXiv:1406.5965
+[hep-lat].
+[72] R. A. Briceo and M. T. Hansen, Phys. Rev. D92, 074509 (2015), arXiv:1502.04314 [hep-lat].
+[73] R. A. Briceo and M. T. Hansen, Phys. Rev. D94, 013008 (2016), arXiv:1509.08507 [hep-lat].
+[74] Z. Bai et al. (RBC, UKQCD), Phys. Rev. Lett. 115, 212001 (2015), arXiv:1505.07863 [hep-lat].
+[75] R. A. Briceo, J. J. Dudek, R. G. Edwards, C. J. Shultz, C. E. Thomas, and D. J. Wilson, Phys. Rev.
+D93, 114508 (2016), arXiv:1604.03530 [hep-ph].
+[76] M. J. Savage, P. E. Shanahan, B. C. Tiburzi, M. L. Wagman, F. Winter, S. R. Beane, E. Chang,
+Z. Davoudi, W. Detmold, and K. Orginos, Phys. Rev. Lett. 119, 062002 (2017), arXiv:1610.04545
+[hep-lat].
+[77] P. E. Shanahan, B. C. Tiburzi, M. L. Wagman, F. Winter, E. Chang, Z. Davoudi, W. Detmold,
+K. Orginos, and M. J. Savage, Phys. Rev. Lett. 119, 062003 (2017), arXiv:1701.03456 [hep-lat].
+[78] B. C. Tiburzi, M. L. Wagman, F. Winter, E. Chang, Z. Davoudi, W. Detmold, K. Orginos, M. J.
+Savage, and P. E. Shanahan, Phys. Rev. D96, 054505 (2017), arXiv:1702.02929 [hep-lat].
+[79] E. Chang, Z. Davoudi, W. Detmold, A. S. Gambhir, K. Orginos, M. J. Savage, P. E. Shanahan, M. L.
+Wagman, and F. Winter, Phys. Rev. Lett. 120, 152002 (2018), arXiv:1712.03221 [hep-lat].
+[80] J. Engel and J. Menndez, Rept. Prog. Phys. 80, 046301 (2017), arXiv:1610.06548 [nucl-th].
+[81] A. Nicholson et al., Phys. Rev. Lett. 121, 172501 (2018), arXiv:1805.02634 [nucl-th].
+[82] G. Prezeau, M. Ramsey-Musolf, and P. Vogel, Phys. Rev. D68, 034016 (2003), arXiv:hep-ph/0303205
+[hep-ph].
+[83] J. Menendez, D. Gazit, and A. Schwenk, Phys. Rev. Lett. 107, 062501 (2011), arXiv:1103.3622
+[nucl-th].
+[84] V. Cirigliano, W. Dekens, E. Mereghetti, and A. Walker-Loud, (2017), arXiv:1710.01729 [hep-ph].
+[85] V. Cirigliano, W. Dekens, J. De Vries, M. L. Graesser, E. Mereghetti, S. Pastore, and U. Van Kolck,
+(2018), arXiv:1802.10097 [hep-ph].
+[86] S. Pastore, J. Carlson, V. Cirigliano, W. Dekens, E. Mereghetti, and R. B. Wiringa, Phys. Rev. C97,
+014606 (2018), arXiv:1710.05026 [nucl-th].
+[87] W. Detmold and D. J. Murphy, in 36th International Symposium on Lattice Field Theory (Lattice
+2018) East Lansing, MI, United States, July 22-28, 2018 (2018) arXiv:1811.05554 [hep-lat].
+[88] X. Feng, L.-C. Jin, X.-Y. Tuo, and S.-C. Xia, (2018), arXiv:1809.10511 [hep-lat].
+[89] V. Cirigliano, W. Dekens, M. Graesser, and E. Mereghetti, Phys. Lett. B769, 460 (2017),
+arXiv:1701.01443 [hep-ph].
+[90] V. Bertone et al. (ETM), JHEP 03, 089 (2013), [Erratum: JHEP07,143(2013)], arXiv:1207.1287 [hep-
+lat].
+[91] P. A. Boyle, N. Garron, and R. J. Hudspith (RBC, UKQCD), Phys. Rev. D86, 054028 (2012),
+arXiv:1206.5737 [hep-lat].
+[92] B. J. Choi et al. (SWME), Phys. Rev. D93, 014511 (2016), arXiv:1509.00592 [hep-lat].
+[93] S. R. Beane, E. Chang, S. D. Cohen, W. Detmold, H. W. Lin, T. C. Luu, K. Orginos, A. Parreno,
+M. J. Savage, and A. Walker-Loud (NPLQCD), Phys. Rev. D87, 034506 (2013), arXiv:1206.5219
+27
+[hep-lat].
+[94] L. Lehman, Phys. Rev. D90, 125023 (2014), arXiv:1410.4193 [hep-ph].
+[95] M. L. Graesser, JHEP 08, 099 (2017), arXiv:1606.04549 [hep-ph].
+[96] A. Kobach, Phys. Lett. B758, 455 (2016), arXiv:1604.05726 [hep-ph].
+[97] T. Peng, M. J. Ramsey-Musolf, and P. Winslow, Phys. Rev. D93, 093002 (2016), arXiv:1508.04444
+[hep-ph].
+[98] R. N. Mohapatra, Journal of Physics G: Nuclear and Particle Physics 36, 104006 (2009),
+arXiv:0902.0834.
+[99] K. Babu et al., (2013), arXiv:1310.8593.
+[100] D. Phillips et al., Physics Reports 612, 1 (2016), arXiv:1410.1100.
+[101] M. Baldo-Ceolin et al., Zeitschrift fu¨r Physik C Particles and Fields 63, 409 (1994).
+[102] D. Milstead, (2015), arXiv:1510.01569.
+[103] M. J. Frost, (2016), arXiv:1607.07271.
+[104] A. K. Fomin, A. P. Serebrov, O. M. Zherebtsov, M. E. Chaikovskii, A. N. Murashkin, E. N. Leonova,
+O. P. Fedorova, V. G. Ivochkin, V. A. Lyamkin, D. V. Prudnikov, and A. V. Chechkin, KnE Energy
+3, 109 (2018).
+[105] K. Abe et al. (Super-Kamiokande), Physical Review D 91, 072006 (2011), arXiv:1109.4227.
+[106] E. Friedman and A. Gal, Phys. Rev. D78, 016002 (2008), arXiv:0803.3696 [hep-ph].
+[107] B. Aharmim et al. (SNO), Physical Review D 96, 1 (2017), arXiv:1705.00696.
+[108] F. Oosterhof, B. Long, J. de Vries, R. G. E. Timmermans, and U. van Kolck, (2019), arXiv:1902.05342
+[hep-ph].
+[109] J. E. Hewes, Searches for Bound Neutron-Antineutron Oscillation in Liquid Argon Time Projection
+Chambers, Tech. Rep. (Fermi National Accelerator Laboratory (FNAL), Batavia, IL (United States),
+2017).
+[110] L. Chang and N. Chang, Phys.Lett. B92, 103 (1980).
+[111] T.-K. Kuo and S. Love, Phys.Rev.Lett. 45, 93 (1980).
+[112] S. Rao and R. E. Shrock, Nuclear Physics B 232, 143 (1984).
+[113] M. Buchoff, C. Schroeder, and J. Wasem, in Proceedings of The 30th International Symposium on Lat-
+tice Field Theory — PoS(Lattice 2012) (Sissa Medialab, Trieste, Italy, 2012) p. 128, arXiv:1207.3832.
+[114] S. Syritsyn, M. I. Buchoff, C. Schroeder, and J. Wasem, in Proceedings of The 33rd International
+Symposium on Lattice Field Theory — PoS(LATTICE 2015), Vol. 132 (Sissa Medialab, Trieste, Italy,
+2016) p. 132.
+[115] M. I. Buchoff and M. Wagman, Physical Review D - Particles, Fields, Gravitation and Cosmology 93,
+1 (2016), arXiv:1506.00647.
+[116] E. Rinaldi, S. Syritsyn, M. L. Wagman, M. I. Buchoff, C. Schroeder, and J. Wasem, (2018),
+arXiv:1809.00246 [hep-lat].
+[117] E. Rinaldi, S. Syritsyn, M. L. Wagman, M. I. Buchoff, C. Schroeder, and J. Wasem, (2019),
+arXiv:1901.07519 [hep-lat].
+[118] T. Blum et al. (RBC, UKQCD), Phys. Rev. D93, 074505 (2016), arXiv:1411.7017 [hep-lat].
+[119] S. Gardner and X. Yan, Phys. Rev. D97, 056008 (2018), arXiv:1710.09292 [hep-ph].
+[120] S. T. Petcov, Sov. J. Nucl. Phys. 25, 340 (1977), [Erratum: Yad. Fiz.25,1336(1977)].
+[121] W. J. Marciano and A. I. Sanda, Phys. Lett. 67B, 303 (1977).
+[122] S. Giovannella, Proceedings, International Workshop on ”Flavour changing and conserving processes”
+(FCCP2017): Anacapri, Capri Island, Italy, September 7-9, 2017, EPJ Web Conf. 179, 01003 (2018).
+[123] R. P. Litchfield (COMET), Proceedings, International Workshop on ”Flavour changing and conserving
+processes” (FCCP2017): Anacapri, Capri Island, Italy, September 7-9, 2017, EPJ Web Conf. 179,
+01011 (2018).
+[124] V. Cirigliano, R. Kitano, Y. Okada, and P. Tuzon, Phys. Rev. D80, 013002 (2009), arXiv:0904.0957
+[hep-ph].
+[125] A. Crivellin, M. Hoferichter, and M. Procura, Phys. Rev. D89, 093024 (2014), arXiv:1404.7134 [hep-
+ph].
+[126] V. Cirigliano, S. Davidson, and Y. Kuno, Phys. Lett. B771, 242 (2017), arXiv:1703.02057 [hep-ph].
+[127] A. Crivellin, S. Davidson, G. M. Pruna, and A. Signer, JHEP 05, 117 (2017), arXiv:1702.03020
+[hep-ph].
+[128] L. Calibbi and G. Signorelli, Riv. Nuovo Cim. 41, 71 (2018), arXiv:1709.00294 [hep-ph].
+28
+[129] M. Hoferichter, J. Ruiz de Elvira, B. Kubis, and U.-G. Meiner, Phys. Rev. Lett. 115, 092301 (2015),
+arXiv:1506.04142 [hep-ph].
+[130] P. F. Bedaque, Phys. Lett. B593, 82 (2004), arXiv:nucl-th/0402051 [nucl-th].
+[131] G. M. de Divitiis, R. Petronzio, and N. Tantalo, Phys. Lett. B595, 408 (2004), arXiv:hep-lat/0405002
+[hep-lat].
+[132] A. Bartolotta and M. J. Ramsey-Musolf, Phys. Rev. C98, 015208 (2018), arXiv:1710.02129 [hep-ph].
+[133] G. Bertone, D. Hooper, and J. Silk, Phys. Rept. 405, 279 (2005), arXiv:hep-ph/0404175 [hep-ph].
+[134] G. Bertone and D. Hooper, Submitted to: Rev. Mod. Phys. (2016), arXiv:1605.04909 [astro-ph.CO].
+[135] S. A. Hertel, A. Biekert, J. Lin, V. Velan, and D. N. McKinsey, (2018), arXiv:1810.06283 [physics.ins-
+det].
+[136] F. Bishara, J. Brod, B. Grinstein, and J. Zupan, JHEP 11, 059 (2017), arXiv:1707.06998 [hep-ph].
+[137] A. L. Fitzpatrick, W. Haxton, E. Katz, N. Lubbers, and Y. Xu, JCAP 1302, 004 (2013),
+arXiv:1203.3542 [hep-ph].
+[138] V. Cirigliano, M. L. Graesser, and G. Ovanesyan, JHEP 10, 025 (2012), arXiv:1205.2695 [hep-ph].
+[139] J. Menendez, D. Gazit, and A. Schwenk, Phys. Rev. D86, 103511 (2012), arXiv:1208.1094 [astro-
+ph.CO].
+[140] M. Hoferichter, P. Klos, and A. Schwenk, Phys. Lett. B746, 410 (2015), arXiv:1503.04811 [hep-ph].
+[141] M. Hoferichter, P. Klos, J. Mene´ndez, and A. Schwenk, Phys. Rev. D 94, 063505 (2016).
+[142] C. Krber, A. Nogga, and J. de Vries, Phys. Rev. C96, 035805 (2017), arXiv:1704.01150 [hep-ph].
+[143] L. Andreoli, V. Cirigliano, S. Gandolfi, and F. Pederiva, Phys. Rev. C99, 025501 (2019),
+arXiv:1811.01843 [nucl-th].
+[144] J. Ruiz de Elvira, M. Hoferichter, B. Kubis, and U.-G. Meiner, J. Phys. G45, 024001 (2018),
+arXiv:1706.01465 [hep-ph].
+[145] R. Gupta, B. Yoon, T. Bhattacharya, V. Cirigliano, Y.-C. Jang, and H.-W. Lin, Phys. Rev. D98,
+091501 (2018), arXiv:1808.07597 [hep-lat].
+[146] R. Gupta, T. Bhattacharya, V. Cirigliano, B. Yoon, Y.-C. Jang, and H.-W. Lin, in 36th International
+Symposium on Lattice Field Theory (Lattice 2018) East Lansing, MI, United States, July 22-28, 2018
+(2018) arXiv:1812.03573 [hep-lat].
+[147] Y.-C. Jang, T. Bhattacharya, R. Gupta, H.-W. Lin, and B. Yoon, PoS(LATTICE2018)123, PoS
+LATTICE2018, 123 (2018), arXiv:1901.00060 [hep-lat].
+[148] G. S. Bali, S. Collins, M. Gruber, A. Schfer, P. Wein, and T. Wurm, (2018), arXiv:1810.05569
+[hep-lat].
+[149] X.-L. Ren, L.-S. Geng, and J. Meng, Phys. Rev. D91, 051502 (2015), arXiv:1404.4799 [hep-ph].
+[150] Y.-B. Yang, A. Alexandru, T. Draper, J. Liang, and K.-F. Liu (xQCD), Phys. Rev. D94, 054503
+(2016), arXiv:1511.09089 [hep-lat].
+[151] S. Durr et al., Phys. Rev. Lett. 116, 172001 (2016), arXiv:1510.08013 [hep-lat].
+[152] G. S. Bali, S. Collins, D. Richtmann, A. Schfer, W. Sldner, and A. Sternbeck (RQCD), Phys. Rev.
+D93, 094504 (2016), arXiv:1603.00827 [hep-lat].
+[153] A. Abdel-Rehim, C. Alexandrou, M. Constantinou, K. Hadjiyiannakou, K. Jansen, C. Kallido-
+nis, G. Koutsou, and A. Vaquero Aviles-Casco (ETM), Phys. Rev. Lett. 116, 252001 (2016),
+arXiv:1601.01624 [hep-lat].
+[154] W.-T. Chou, E. K. Warburton, and B. A. Brown, Phys. Rev. C 47, 163 (1993).
+[155] J. Kumar and D. Marfatia, Phys. Rev. D88, 014035 (2013), arXiv:1305.1611 [hep-ph].
+[156] G. Busoni, A. De Simone, P. Scott, and A. C. Vincent, JCAP 1710, 037 (2017), arXiv:1703.07784
+[hep-ph].
+[157] M. Gonzalez-Alonso, O. Naviliat-Cuncic, and N. Severijns, (2018), arXiv:1803.08732 [hep-ph].
+[158] T. Bhattacharya, V. Cirigliano, S. D. Cohen, A. Filipuzzi, M. Gonzalez-Alonso, M. L. Graesser,
+R. Gupta, and H.-W. Lin, Phys. Rev. D85, 054512 (2012), arXiv:1110.6448 [hep-ph].
+[159] V. Cirigliano, M. Gonzalez-Alonso, and M. L. Graesser, JHEP 02, 046 (2013), arXiv:1210.4553 [hep-
+ph].
+[160] R. Gupta, Y.-C. Jang, B. Yoon, H.-W. Lin, V. Cirigliano, and T. Bhattacharya, Phys. Rev. D98,
+034503 (2018), arXiv:1806.09006 [hep-lat].
+[161] C. Alexandrou et al., Phys. Rev. D95, 114514 (2017), [erratum: Phys. Rev.D96,no.9,099906(2017)],
+arXiv:1703.08788 [hep-lat].
+[162] G. S. Bali, S. Collins, B. Glssle, M. Gckeler, J. Najjar, R. H. Rdl, A. Schfer, R. W. Schiel, W. Sldner,
+29
+and A. Sternbeck, Phys. Rev. D91, 054501 (2015), arXiv:1412.7336 [hep-lat].
+[163] J. R. Green, J. W. Negele, A. V. Pochinsky, S. N. Syritsyn, M. Engelhardt, and S. Krieg, Phys. Rev.
+D86, 114509 (2012), arXiv:1206.4527 [hep-lat].
+[164] Y. Aoki, T. Blum, H.-W. Lin, S. Ohta, S. Sasaki, R. Tweedie, J. Zanotti, and T. Yamazaki, Phys.
+Rev. D82, 014501 (2010), arXiv:1003.3387 [hep-lat].
+[165] S. Alioli, V. Cirigliano, W. Dekens, J. de Vries, and E. Mereghetti, JHEP 05, 086 (2017),
+arXiv:1703.04751 [hep-ph].
+[166] C. Alexandrou, M. Constantinou, K. Hadjiyiannakou, K. Jansen, C. Kallidonis, G. Koutsou, and
+A. Vaquero Aviles-Casco, Phys. Rev. D96, 054507 (2017), arXiv:1705.03399 [hep-lat].
+[167] A. Abdel-Rehim et al., Phys. Rev. D92, 114513 (2015), [Erratum: Phys. Rev.D93,no.3,039904(2016)],
+arXiv:1507.04936 [hep-lat].
+[168] R. Horsley, Y. Nakamura, A. Nobile, P. E. L. Rakow, G. Schierholz, and J. M. Zanotti, Phys. Lett.
+B732, 41 (2014), arXiv:1302.2233 [hep-lat].
+[169] S. Capitani, M. Della Morte, G. von Hippel, B. Jager, A. Juttner, B. Knippschild, H. B. Meyer, and
+H. Wittig, Phys. Rev. D86, 074502 (2012), arXiv:1205.0180 [hep-lat].
+[170] J. R. Green, M. Engelhardt, S. Krieg, J. W. Negele, A. V. Pochinsky, and S. N. Syritsyn, Phys. Lett.
+B734, 290 (2014), arXiv:1209.1687 [hep-lat].
+[171] J. D. Bratt et al. (LHPC), Phys. Rev. D82, 094502 (2010), arXiv:1001.3620 [hep-lat].
+[172] H.-W. Lin, T. Blum, S. Ohta, S. Sasaki, and T. Yamazaki, Phys. Rev. D78, 014505 (2008),
+arXiv:0802.0863 [hep-lat].
+[173] T. Yamazaki, Y. Aoki, T. Blum, H. W. Lin, M. F. Lin, S. Ohta, S. Sasaki, R. J. Tweedie, and J. M.
+Zanotti (RBC+UKQCD), Phys. Rev. Lett. 100, 171602 (2008), arXiv:0801.4016 [hep-lat].
+[174] C. C. Chang et al., Nature 558, 91 (2018), arXiv:1805.12130 [hep-lat].
+[175] C.-Y. Seng, M. Gorchtein, H. H. Patel, and M. J. Ramsey-Musolf, (2018), arXiv:1807.10197 [hep-ph].
+[176] W. J. Marciano and A. Sirlin, Phys. Rev. Lett. 96, 032002 (2006), arXiv:hep-ph/0510099 [hep-ph].
+[177] C.-Y. Seng and U.-G. Meiner, (2019), arXiv:1903.07969 [hep-ph].
+[178] D. Giusti, V. Lubicz, G. Martinelli, C. T. Sachrajda, F. Sanfilippo, S. Simula, N. Tantalo, and
+C. Tarantino, Phys. Rev. Lett. 120, 072001 (2018), arXiv:1711.06537 [hep-lat].
+[179] C. Delaunay, C. Frugiuele, E. Fuchs, and Y. Soreq, Phys. Rev. D96, 115002 (2017), arXiv:1709.02817
+[hep-ph].
+[180] J. C. Berengut et al., Phys. Rev. Lett. 120, 091801 (2018), arXiv:1704.05068 [hep-ph].
+[181] C. Delaunay, R. Ozeri, G. Perez, and Y. Soreq, Phys. Rev. D96, 093001 (2017), arXiv:1601.05087
+[hep-ph].
+[182] C. Frugiuele, E. Fuchs, G. Perez, and M. Schlaffer, Phys. Rev. D96, 015011 (2017), arXiv:1602.04822
+[hep-ph].
+[183] G. Parisi, Common trends in particle and condensed matter physics. proceedings, Winter Advanced
+Study Institute, Les Houches, France, February 23 - March 11, 1983, Phys. Rept. 103, 203 (1984).
+[184] G. P. Lepage, Boulder ASI:97-120 , 97 (1989).
+[185] M. L. Wagman and M. J. Savage, Phys. Rev. D96, 114508 (2017), arXiv:1611.07643 [hep-lat].
+[186] M. L. Wagman and M. J. Savage, (2017), arXiv:1704.07356 [hep-lat].
+[187] K.-F. Liu, J. Liang, and Y.-B. Yang, Phys. Rev. D97, 034507 (2018), arXiv:1705.06358 [hep-lat].
+[188] M. C, L. Giusti, and S. Schaefer, Phys. Rev. D93, 094507 (2016), arXiv:1601.04587 [hep-lat].
+[189] M. C, L. Giusti, and S. Schaefer, Phys. Rev. D95, 034503 (2017), arXiv:1609.02419 [hep-lat].
+[190] T. Yamazaki, K.-i. Ishikawa, Y. Kuramashi, and A. Ukawa, Phys. Rev. D86, 074514 (2012),
+arXiv:1207.4277 [hep-lat].
+[191] T. Doi, S. Aoki, T. Hatsuda, Y. Ikeda, T. Inoue, N. Ishii, K. Murano, H. Nemura, and K. Sasaki
+(HAL QCD), Prog. Theor. Phys. 127, 723 (2012), arXiv:1106.2276 [hep-lat].
+[192] K. Orginos, A. Parreno, M. J. Savage, S. R. Beane, E. Chang, and W. Detmold, Phys. Rev. D92,
+114512 (2015), arXiv:1508.07583 [hep-lat].
+[193] T. Yamazaki, K.-i. Ishikawa, Y. Kuramashi, and A. Ukawa, Phys. Rev. D92, 014501 (2015),
+arXiv:1502.04182 [hep-lat].
+[194] E. Berkowitz, T. Kurth, A. Nicholson, B. Joo, E. Rinaldi, M. Strother, P. M. Vranas, and A. Walker-
+Loud, Phys. Lett. B765, 285 (2017), arXiv:1508.00886 [hep-lat].
+[195] R. A. Briceno, J. J. Dudek, and R. D. Young, Rev. Mod. Phys. 90, 025001 (2018), arXiv:1706.06223
+[hep-lat].
+30
+[196] A. Francis, J. R. Green, P. M. Junnarkar, C. Miao, T. D. Rae, and H. Wittig, (2018), arXiv:1805.03966
+[hep-lat].
+[197] W. Detmold and K. Orginos, Phys. Rev. D87, 114512 (2013), arXiv:1207.1452 [hep-lat].
+[198] T. Doi and M. G. Endres, Comput. Phys. Commun. 184, 117 (2013), arXiv:1205.0585 [hep-lat].
+[199] N. Barnea, L. Contessi, D. Gazit, F. Pederiva, and U. van Kolck, Phys. Rev. Lett. 114, 052501 (2015),
+arXiv:1311.4966 [nucl-th].
+[200] J. Kirscher, N. Barnea, D. Gazit, F. Pederiva, and U. van Kolck, Phys. Rev. C92, 054002 (2015),
+arXiv:1506.09048 [nucl-th].
+[201] L. Contessi, A. Lovato, F. Pederiva, A. Roggero, J. Kirscher, and U. van Kolck, Phys. Lett. B772,
+839 (2017), arXiv:1701.06516 [nucl-th].
+[202] J. Kirscher, E. Pazy, J. Drachman, and N. Barnea, Phys. Rev. C96, 024001 (2017), arXiv:1702.07268
+[nucl-th].
+[203] A. Bansal, S. Binder, A. Ekstrm, G. Hagen, G. R. Jansen, and T. Papenbrock, Phys. Rev. C98,
+054301 (2018), arXiv:1712.10246 [nucl-th].

@@ -1,3 +1,4 @@
+import glob
 import os
 import pickle
 
@@ -5,7 +6,9 @@ import langchain_core
 import pandas as pd
 import pydantic_core
 
+from data.get_compound_occurences import data_path
 from data.get_data_with_full_texts import validation_data_csv
+from data.get_papers_with_no_hits import get_sanitised_dois_for_random_papers
 from data.parse_refs import fulltext_dir, sanitise_doi
 from extraction.methods.loading_files import read_file_and_chunk
 from extraction.methods.prompting import standard_prompt
@@ -121,12 +124,26 @@ def main():
     models = setup_models()
 
     example_model_name = 'deepseek-chat'
-    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-    for doi in doi_data_table['refDOI'].unique().tolist():
+
+    ## Validation data examples
+    # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    # for doi in doi_data_table['refDOI'].unique().tolist():
+    #     print('###########')
+    #     print(doi)
+    #     sanitised_doi = sanitise_doi(doi)
+    #     fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
+    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
+    #                             models[example_model_name][1],
+    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
+    #
+    #     print(result_)
+
+    ### Negative examples
+    random_txt_dir, result = get_sanitised_dois_for_random_papers()
+    for sanitised_doi in result:
         print('###########')
-        print(doi)
-        sanitised_doi = sanitise_doi(doi)
-        fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
+        print(sanitised_doi)
+        fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
         result_ = query_a_model(models[example_model_name][0], fulltextpath,
                                 models[example_model_name][1],
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)

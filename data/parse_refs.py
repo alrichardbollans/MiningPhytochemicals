@@ -66,10 +66,14 @@ def get_results_for_doi(doi: str) -> list[dict]:
     time.sleep(2)
     headers = {"Authorization": "Bearer " + apikey}
 
-    params = {
-        'query': f'doi:"{doi}"',
-    }
-    response = requests.get(f"{api_endpoint}search/works", headers=headers, params=params)
+
+    #NOte this params method is commented out as it seems to be broken, although its following the example
+    # here: https://api.core.ac.uk/docs/v3#tag/Works/operation/optionsCustomSearchWorks
+    # params = {
+    #     'q': f'doi:"{doi}"',
+    # }
+    # response = requests.get(f"{api_endpoint}search/works", headers=headers, params=params)
+    response = requests.get(f"{api_endpoint}search/works/?q=doi:{doi}", headers=headers)
 
     if not response.status_code == 200:
         # retry
