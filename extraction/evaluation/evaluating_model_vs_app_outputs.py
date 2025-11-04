@@ -5,9 +5,9 @@ from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name
 
 
 def get_precision_scores(model):
-    found_pairs = pd.read_csv(os.path.join('outputs', model, 'found_pairs.csv'))
-    not_found_pairs = pd.read_csv(os.path.join('outputs', model, 'not_found_pairs.csv'))
-    assert len(set(found_pairs['doi'].tolist() +not_found_pairs['doi'].tolist() )) >= 9
+    found_pairs = pd.read_csv(os.path.join('..', 'app_to_manually_check_methods','outputs', model, 'found_pairs.csv'))
+    not_found_pairs = pd.read_csv(os.path.join('..', 'app_to_manually_check_methods','outputs', model, 'not_found_pairs.csv'))
+    assert len(set(found_pairs['doi'].tolist() + not_found_pairs['doi'].tolist())) >= 9
 
     true_positives = len(found_pairs)
     false_positives = len(not_found_pairs)
@@ -17,9 +17,10 @@ def get_precision_scores(model):
     print(f'Precision: {precision}')
     return precision
 
-def deepseek_pseudorecall():
-    found_pairs = pd.read_csv(os.path.join('outputs', 'deepseek', 'found_pairs.csv'))
-    wikidata_found_pairs = pd.read_csv(os.path.join('outputs', 'wikidata', 'found_pairs.csv'))
+
+def pseudorecall():
+    found_pairs = pd.read_csv(os.path.join('..', 'app_to_manually_check_methods','outputs', 'deepseek', 'found_pairs.csv'))
+    wikidata_found_pairs = pd.read_csv(os.path.join('..', 'app_to_manually_check_methods','outputs', 'wikidata', 'found_pairs.csv'))
 
     all_pairs = pd.concat([found_pairs, wikidata_found_pairs])
     all_pairs['name'] = all_pairs['name'].str.lower()
@@ -27,23 +28,24 @@ def deepseek_pseudorecall():
     all_pairs['compound'] = all_pairs['compound'].str.lower()
     all_pairs = all_pairs.drop_duplicates(subset=['name', 'compound', 'doi'])
 
-    recall = len(found_pairs)/len(all_pairs)
+    deepseek_recall = len(found_pairs) / len(all_pairs)
+    wikidata_recall = len(wikidata_found_pairs) / len(all_pairs)
 
-    print(f'pseudorecall: {recall}')
-    return recall
+    print(f'deepseek pseudorecall: {deepseek_recall}')
+    return deepseek_recall, wikidata_recall
 
 
 def main():
-    deepseek_recall = deepseek_pseudorecall()
+    deepseek_recall, wikidata_recall = pseudorecall()
 
     deepseek_score = get_precision_scores('deepseek')
     # Note for wikidata, this is marked for verbatim matching which is not a fair comparison
     wikidata_score = get_precision_scores('wikidata')
     out_df = pd.DataFrame({'model': ['deepseek', 'wikidata'], 'precision': [deepseek_score, wikidata_score],
-                           'Pseudorecall': ['', deepseek_recall],
+                           'Pseudorecall': [deepseek_recall, wikidata_recall],
                            'Notes': ['',
                                      'for wikidata, this is marked for verbatim matching which is not a fair comparison']})
-    out_df.to_csv(os.path.join('outputs', 'model_scores_on_validation_data.csv'))
+    out_df.to_csv(os.path.join( 'outputs', 'model_scores_on_validation_data.csv'))
 
 
 if __name__ == '__main__':

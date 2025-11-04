@@ -7,3 +7,5 @@ found_in_wikidata_but_not_deepseek,51
 found_in_deepseek_but_not_wikidata,93
 wikidata_name_counts,12
 deepseek_name_counts,10
+deepseek_resolved_compound_names,58
+deepseek_unresolved_compound_names,45

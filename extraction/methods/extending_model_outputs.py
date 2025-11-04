@@ -1,5 +1,6 @@
 import os
 import pickle
+import time
 import urllib
 
 import cirpy
@@ -7,14 +8,22 @@ import pandas as pd
 from phytochempy.compound_properties import simplify_inchi_key
 from wcvpy.wcvp_download import get_all_taxa
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column, get_genus_from_full_name
+from pubchempy import get_compounds
 
-from data.get_compound_occurences import data_path
+from data.get_compound_occurences import data_path, inchi_translation_cache
+from extraction.methods.string_cleaning_methods import clean_compound_strings
 from extraction.methods.structured_output_schema import TaxaData, Taxon
+
+try:
+    pkled_inchi_translation_result = pickle.load(open(inchi_translation_cache, 'rb'))
+except FileNotFoundError:
+    pkled_inchi_translation_result = {}
+
 
 _wcvp_taxa = get_all_taxa()
 def add_accepted_info(deepseek_output: TaxaData):
     deepseek_names = pd.DataFrame([c.scientific_name for c in deepseek_output.taxa], columns=['scientific_name'])
-    acc_deepseek_names = get_accepted_info_from_names_in_column(deepseek_names, 'scientific_name', all_taxa = _wcvp_taxa)
+    acc_deepseek_names = get_accepted_info_from_names_in_column(deepseek_names, 'scientific_name', all_taxa=_wcvp_taxa)
     acc_deepseek_names = acc_deepseek_names.set_index('scientific_name')
     for taxon in deepseek_output.taxa:
         taxon.accepted_name = acc_deepseek_names.loc[taxon.scientific_name, 'accepted_name']
@@ -22,30 +31,52 @@ def add_accepted_info(deepseek_output: TaxaData):
         taxon.accepted_genus = get_genus_from_full_name(taxon.accepted_species)
 
 
+def is_valid_inchikey(inchikey: str):
+    """
+    Check if an InChIKey has a valid format.
+    """
+    return inchikey and len(inchikey) == 27 and "-" in inchikey
+
+
 def resolve_name_to_inchi(name: str):
     """
 
     """
-    _inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
-    try:
-        pkled_result = pickle.load(open(_inchi_translation_cache, 'rb'))
-    except FileNotFoundError:
-        pkled_result = {}
-    if name not in pkled_result:
+    standard_name = clean_compound_strings(name)
+    standard_name = standard_name.replace('β', 'beta')
+    standard_name = standard_name.replace('α', 'alpha')
+    standard_name = standard_name.replace('ψ', 'psi')
+    standard_name = standard_name.replace('γ', 'gamma')
+    standard_name = standard_name.replace('δ', 'delta')
+    failed_search = False
+    if standard_name not in pkled_inchi_translation_result:
         out = None
-        if name == name and name != '':
+        if standard_name is not None and standard_name !='':
 
             try:
-                inch = cirpy.resolve(name, 'stdinchikey')
-                if inch is not None:
-                    out = inch.replace('InChIKey=', '')
+                time.sleep(0.3)
+                compounds = get_compounds(standard_name, 'name')
+                if compounds is not None and len(compounds) > 0:
+                    out = compounds[0].inchikey  # Take first result
+                else:
+                    print(f"Name not found in PubChem: {standard_name}")
+
+                    inch = cirpy.resolve(standard_name, 'stdinchikey')
+                    if inch is not None:
+                        out = inch.replace('InChIKey=', '')
+
+
             except (urllib.error.HTTPError, urllib.error.URLError):
                 out = None
-                print(f'WARNING: cas id not resolved: {name}')
-        pkled_result[name] = out
-    with  open(_inchi_translation_cache, 'wb') as pfile:
-        pickle.dump(pkled_result,pfile)
-    return pkled_result[name]
+                failed_search = True
+                print(f'WARNING: not resolved: {name}')
+        if out is not None:
+            assert is_valid_inchikey(out)
+        pkled_inchi_translation_result[standard_name] = out
+    if not failed_search:
+        with  open(inchi_translation_cache, 'wb') as pfile:
+            pickle.dump(pkled_inchi_translation_result, pfile)
+    return pkled_inchi_translation_result[standard_name]
 
 
 def add_inchi_keys(deepseek_output: TaxaData):
@@ -66,8 +97,8 @@ def add_all_extra_info_to_output(deepseek_output: TaxaData):
 
 
 if __name__ == '__main__':
-    _inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
-    pkled_result = pickle.load(open(_inchi_translation_cache, 'rb'))
+    inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
+    pkled_result = pickle.load(open(inchi_translation_cache, 'rb'))
     print(pkled_result)
     example = TaxaData(taxa=[Taxon(scientific_name='acanthochlamys bracteata p. c. kao',
                                    compounds=['tetracosanoic acid', 'stigmasterol', 'demethyl coniferin',

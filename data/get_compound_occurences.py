@@ -13,6 +13,7 @@ tracheophyte = 'Q27133'
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
 data_path = os.path.join(repo_path, 'data')
+inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
 compound_occurence_path = os.path.join(data_path, 'compound_occurrences')
 _temp_path = os.path.join(compound_occurence_path, 'temp')
 model_data_path = os.path.join(compound_occurence_path, 'model_data')
