@@ -49,11 +49,13 @@ def get_random_fulltexts():
 
 
 def get_med_plant_full_texts():
-    top_10000 = pd.read_csv('medicinals_top_10000.csv')[['DOI', 'plant_species_binomials_unique_total']].dropna(
+    top_10000 = pd.read_csv('medicinals_top_10000.csv')[['title','DOI', 'plant_species_binomials_unique_total']].dropna(
         subset=['DOI'])
     top_10000 = top_10000[top_10000['plant_species_binomials_unique_total'] > 0]
     selected_dois = random.sample(top_10000['DOI'].tolist(), 10)
     print(selected_dois)
+    data = top_10000[top_10000['DOI'].isin(selected_dois)]
+    print(data[['DOI', 'title']])
     fulltext_dir = os.path.join(data_path, f'medplant papers', 'fulltexts')
     build_text_data(selected_dois, fulltext_dir)
 
