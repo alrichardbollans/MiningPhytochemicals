@@ -5,7 +5,8 @@ import pandas as pd
 from phytochempy.compound_properties import simplify_inchi_key, fill_match_ids
 from phytochempy.wikidata_searches import get_wikidata_id_for_taxon, generate_wikidata_search_query, submit_query
 from wcvpy.wcvp_download import get_all_taxa, wcvp_columns, wcvp_accepted_columns
-from wcvpy.wcvp_name_matching import get_accepted_wcvp_info_from_ipni_ids_in_column, output_record_col_names, get_accepted_info_from_names_in_column
+from wcvpy.wcvp_name_matching import get_accepted_wcvp_info_from_ipni_ids_in_column, output_record_col_names, \
+    get_accepted_info_from_names_in_column
 
 # Vascular plant ID. Note may not contain angiosperms? I suspect as https://www.wikidata.org/wiki/Q14832431 doesn't have it as a parent.
 # OK the wikidata taxonomy is a mess actually.
@@ -73,7 +74,8 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
     :return:
     '''
 
-    important_cols = ['organism_name', 'ipniID', 'structureLabel', 'structure_inchikey', 'structure_smiles', 'structure_cas', 'chembl_id', 'refDOI']
+    important_cols = ['organism_name', 'ipniID', 'structureLabel', 'structure_inchikey', 'structure_smiles',
+                      'structure_cas', 'chembl_id', 'refDOI']
     wikidata_results = wikidata_results[important_cols]
     wikidata_results = wikidata_results.dropna(subset=['structureLabel', 'organism_name', 'refDOI'], how='any')
 
@@ -89,7 +91,8 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
 
     wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
 
-    wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name','example_compound_name', 'refDOI'], keep='first')
+    wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'refDOI'],
+                                                        keep='first')
 
     all_taxa = get_all_taxa(version=WCVP_VERSION)
     ipni_matches = get_accepted_wcvp_info_from_ipni_ids_in_column(wikidata_results,
@@ -105,8 +108,9 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
     acc_df = pd.concat([ipni_matched, name_matched])
 
     acc_df = acc_df[
-        ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'organism_name', wcvp_accepted_columns['name'], wcvp_accepted_columns['name_w_author'],
-         wcvp_accepted_columns['species'], 'refDOI']]
+        ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'organism_name', wcvp_accepted_columns['name'],
+         wcvp_accepted_columns['name_w_author'],
+         wcvp_accepted_columns['species'], 'accepted_family','refDOI']]
 
     acc_df = acc_df.dropna(subset=['InChIKey', 'organism_name', wcvp_accepted_columns['name'], 'refDOI'], how='any')
     acc_df = acc_df.sort_values(by=wcvp_accepted_columns['name'])
@@ -144,31 +148,6 @@ def tidy_outputs():
         all_family_compounds = pd.concat([all_family_compounds, df])
 
     tidy_final_output(all_family_compounds, plantae_compounds_csv)
-
-def get_train_val_test_dois():
-    raise NotImplementedError()
-    df = pd.read_csv(plantae_compounds_csv, index_col=0)
-    dois = df['refDOI'].unique().tolist()
-    from sklearn.model_selection import train_test_split
-    validation_dois, test_dois = train_test_split(dois, test_size=0.80, random_state=42)
-
-    assert set(validation_dois).isdisjoint(set(test_dois))
-
-    validation_data = df[df['refDOI'].isin(validation_dois)]
-    test_data = df[df['refDOI'].isin(test_dois)]
-
-    print(f'Validation size: {len(validation_data)}')
-    print(f'Test size: {len(test_data)}')
-    assert len(validation_data) + len(test_data) == len(df)
-    assert len(validation_data)/ len(df) > 0.15
-    assert len(validation_data)/ len(df) < 0.25
-
-    validation_data.to_csv(os.path.join(model_data_path, 'validation_data.csv'))
-    validation_data.describe(include='all').to_csv(os.path.join(model_data_path, 'validation_data_stats.csv'))
-    test_data.to_csv(os.path.join(model_data_path, 'test_data.csv'))
-    test_data.describe(include='all').to_csv(os.path.join(model_data_path, 'test_data_stats.csv'))
-    df.describe(include='all').to_csv(os.path.join(model_data_path, 'all_data_stats.csv'))
-
 
 
 if __name__ == '__main__':

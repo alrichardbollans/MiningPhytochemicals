@@ -1,5 +1,5 @@
-,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,refDOI,sanitised_dois
-count,61,61,61,61,61,61,61,61,61
-unique,55,55,49,12,11,11,11,10,10
-top,"(1S,4S,5R,9R)-5,9-dimethyl-14-methylidenetetracyclo[11.2.1.01,10.04,9]hexadec-10-ene-5-carboxylic acid",RJIPNPHMQGDUBW-XCDFPOGASA-N,WWFOQQIWOKJBSJ,Bagassa guianensis,Bagassa guianensis,Bagassa guianensis Aubl.,Bagassa guianensis,10.1016/J.PHYTOCHEM.2010.06.020,10.1016_J.PHYTOCHEM.2010.06.020
-freq,2,2,2,22,22,22,22,22,22
+,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family,refDOI,sanitised_dois
+count,61,61,61,61,61,61,61,61,61,61
+unique,55,55,49,12,11,11,11,9,10,10
+top,"(1S,4S,5R,9R)-5,9-dimethyl-14-methylidenetetracyclo[11.2.1.01,10.04,9]hexadec-10-ene-5-carboxylic acid",RJIPNPHMQGDUBW-XCDFPOGASA-N,QQGGCAFWTCETPD,Bagassa guianensis,Bagassa guianensis,Bagassa guianensis Aubl.,Bagassa guianensis,Moraceae,10.1016/J.PHYTOCHEM.2010.06.020,10.1016_J.PHYTOCHEM.2010.06.020
+freq,2,2,2,22,22,22,22,22,22,22

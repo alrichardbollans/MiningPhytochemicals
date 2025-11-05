@@ -33,20 +33,21 @@ def summarise_data_with_full_texts():
     df_with_full_texts.describe(include='all').to_csv(
         os.path.join(_data_with_full_texts_dir, 'data_with_full_texts_summary.csv'))
 
+    # For those already checked that I don't want to remove..
+    # valdoi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    # validation_dois = valdoi_data_table['refDOI'].unique().tolist()
+    #
+    # testdoi_data_table = pd.read_csv(test_data_csv, index_col=0)
+    # test_dois = testdoi_data_table['refDOI'].unique().tolist()
+    # [test_dois.remove(c) for c in already_checked_dois]
+
     ### Model split
     validation_dois = df_with_full_texts['refDOI'].unique().tolist()
     from sklearn.model_selection import train_test_split
     validation_dois, test_dois = train_test_split(validation_dois, test_size=0.997)
 
-    already_checked_dois = ['10.3389/FPLS.2012.00283', '10.1590/S0100-40422001000100006',
-                            '10.1093/ECAM/NEQ006', '10.1080/14786410903052399',
-                            '10.3892/IJO.2015.2946', '10.1186/1742-6405-2-12',
-                            '10.1007/S11306-009-0195-X', '10.1016/J.PHYTOCHEM.2010.06.020'
-                        ]
-    validation_dois += already_checked_dois
     assert len(validation_dois) == len(set(validation_dois))
     assert len(validation_dois) == 10
-    [test_dois.remove(c) for c in already_checked_dois]
 
     validation_data = df_with_full_texts[df_with_full_texts['refDOI'].isin(validation_dois)]
     test_data = df_with_full_texts[df_with_full_texts['refDOI'].isin(test_dois)]

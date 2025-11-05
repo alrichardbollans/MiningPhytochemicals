@@ -1,5 +1,5 @@
-,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,refDOI,sanitised_dois
-count,5259,5259,5259,5259,5259,5259,5158,5259,5259
-unique,3306,3324,2644,1022,953,953,911,729,729
-top,voacangine,MMAYTCMMKJYIAM-RUGRQLENSA-N,MMAYTCMMKJYIAM,Punica granatum,Punica granatum,Punica granatum L.,Punica granatum,10.1079/BJN20051371,10.1079_BJN20051371
-freq,80,47,83,129,129,129,129,156,156
+,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family,refDOI,sanitised_dois
+count,5259,5259,5259,5259,5259,5259,5158,5259,5259,5259
+unique,3306,3324,2644,1022,953,953,911,127,729,729
+top,voacangine,MMAYTCMMKJYIAM-RUGRQLENSA-N,MMAYTCMMKJYIAM,Punica granatum,Punica granatum,Punica granatum L.,Punica granatum,Apocynaceae,10.1079/BJN20051371,10.1079_BJN20051371
+freq,80,47,83,129,129,129,129,417,156,156
