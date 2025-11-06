@@ -13,7 +13,7 @@ standard_prompt = ChatPromptTemplate.from_messages(
             "You should extract information about specific compounds only, not generic compound classes. "
             "In general you should not modify the extracted text, however where two similar compounds are labelled to"
             " distinguish variants you should extract the variants separately, e.g. for abibalsamins A and B extract abibalsamins A and abibalsamins B. "
-            "Often compounds will be numbered in the text, but do not extract these numbers."
+            "Often compounds will be numbered in the text, but do not extract these numbers. "
             "Do not alter the extracted text by correcting spellings, expanding abbreviations or summarising the text. "
             "If a text provides no information on phytochemicals, return null. "
         ),
@@ -23,3 +23,6 @@ standard_prompt = ChatPromptTemplate.from_messages(
         ("human", "{text}"),
     ]
 )
+
+if __name__ == '__main__':
+    print(standard_prompt.messages[0].prompt.template)

@@ -3,7 +3,6 @@ import pathlib
 import pickle
 import time
 from collections import defaultdict
-from urllib.parse import quote
 
 import pandas as pd
 import requests
@@ -20,12 +19,14 @@ pdf_dir = os.path.join(data_path, 'pdfs')
 # Some pkls to store info about previous searches
 request_pkl_file = os.path.join(data_path, 'doi_request_dict.pkl')
 try:
-    _request_dict_info = pickle.load(open(request_pkl_file, 'rb'))
+    with open(request_pkl_file, 'rb') as _pfile:
+        _request_dict_info = pickle.load(_pfile)
 except FileNotFoundError:
     _request_dict_info = {}
 
 with open(os.path.join(data_path, 'secrets.txt')) as keyfile:
     _core_apikey = keyfile.read()
+
 
 def extract_info(hit: dict) -> dict:
     """
@@ -84,9 +85,9 @@ def get_results_for_doi(doi: str) -> list[dict]:
     # response = requests.get(f"{api_endpoint}search/works", headers=headers, params=params)
     response = requests.get(f"{api_endpoint}search/works/?q=doi:{doi}", headers=headers)
 
-    if not response.status_code == 200:
+    if response.status_code == 429:
         # retry
-        time.sleep(6)  # Rate limiting
+        time.sleep(10)  # Rate limiting
         response = requests.get(f"{api_endpoint}search/works/?q=doi:{doi}", headers=headers)
     if response.status_code == 200:
 
@@ -95,15 +96,17 @@ def get_results_for_doi(doi: str) -> list[dict]:
         out_dict = [extract_info(c) for c in relevant_results]
 
         _request_dict_info[doi] = out_dict
-        with  open(request_pkl_file, 'wb') as pfile:
+        with open(request_pkl_file, 'wb') as pfile:
             pickle.dump(_request_dict_info, pfile)
         # print(request_dict_info)
         return out_dict
 
     elif response.status_code == 429:
         raise ValueError('Rate limit exceeded')
-    else:
+    elif response.status_code == 500:
         raise HTTPError(f'Error getting results for {doi}. response code: {response.status_code}')
+    else:
+        raise ValueError(f'Something else is wrong. response code: {response.status_code}')
 
 
 def sanitise_doi(doi: str) -> str:
@@ -193,5 +196,4 @@ def main():
 
 
 if __name__ == '__main__':
-
     main()
