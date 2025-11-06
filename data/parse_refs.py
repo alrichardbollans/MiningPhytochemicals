@@ -13,7 +13,7 @@ from data.get_compound_occurences import data_path, plantae_compounds_csv
 
 api_endpoint = "https://api.core.ac.uk/v3/"
 
-fulltext_dir = os.path.join(data_path, 'fulltexts')
+fulltext_dir = os.path.join(data_path, 'wikidata_fulltexts')
 pdf_dir = os.path.join(data_path, 'pdfs')
 
 # Some pkls to store info about previous searches

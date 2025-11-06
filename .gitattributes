@@ -1,2 +1,1 @@
-data/compound_occurrences.csv filter=lfs diff=lfs merge=lfs -text
-data/compound_occurrences/wikidata_compounds.csv filter=lfs diff=lfs merge=lfs -text
+data/wikidata/wikidata_compounds.csv filter=lfs diff=lfs merge=lfs -text

@@ -7,7 +7,6 @@ from extraction.methods.string_cleaning_methods import clean_taxon_strings, clea
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
 data_path = os.path.join(repo_path, 'data')
-base_text_path = os.path.join(data_path, 'fulltexts')
 
 
 class Taxon(BaseModel, extra=Extra.allow):
