@@ -9,12 +9,25 @@ from extraction.methods.get_agreements_and_disagreements import check_records_fo
 from extraction.methods.structured_output_schema import TaxaData
 
 pkled_inchi_translation_result = pickle.load(open(inchi_translation_cache, 'rb'))
+
+
+def get_wikidata_examples_to_check(dois: list):
+    wikidata_potentially_bad_examples = []
+    for doi in dois:
+        verbatim_results, accepted_results = check_records_for_doi(doi)
+        for taxa in accepted_results[3].taxa:
+            for compound in taxa.inchi_key_simps:
+                wikidata_potentially_bad_examples.append([taxa.accepted_name, str(taxa.matched_names),compound,taxa.inchi_key_simps[compound], doi, 'wikidata'])
+    out_df = pd.DataFrame(wikidata_potentially_bad_examples, columns=['accepted_name', 'matched_names', 'compound', 'inchi_key_simps','doi', 'source'])
+    out_df.to_csv(os.path.join('outputs', 'wikidata_deepseek_comparison', 'wikidata_potentially_bad_examples.csv'))
+
+
 def count_unresolved_compound_names(taxadata: TaxaData):
     resolved = 0
     unresolved = 0
     for taxon in taxadata.taxa:
         for name in taxon.compounds:
-            if pkled_inchi_translation_result[name] is not None and pkled_inchi_translation_result[name] != '':
+            if name in pkled_inchi_translation_result and pkled_inchi_translation_result[name] is not None and pkled_inchi_translation_result[name] != '':
                 resolved += 1
             else:
                 unresolved += 1
@@ -37,7 +50,8 @@ def count_pairs_in_taxadata(taxadata: TaxaData, verbatim=True):
         if verbatim:
             counts += len(taxon.compounds)
         else:
-            counts += len(taxon.inchi_key_simps)
+            unique_simps = set(taxon.inchi_key_simps.values())
+            counts += len(unique_simps)
     return counts
 
 
@@ -104,6 +118,9 @@ def main():
     ## Validation Data
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
+
+    get_wikidata_examples_to_check(dois)
+
     results = get_counts_for_dois(dois)
     pd.DataFrame.from_dict(results, orient='index').to_csv(
         os.path.join(outpath, 'verbatim_validation_data_counts.csv'))

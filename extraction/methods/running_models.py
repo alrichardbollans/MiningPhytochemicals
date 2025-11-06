@@ -22,7 +22,11 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
                   single_chunk: bool = True, rerun=True) -> TaxaData:
     if not rerun and os.path.exists(pkl_dump):
         with open(pkl_dump, "rb") as file_:
-            return pickle.load(file_)
+            output = pickle.load(file_)
+        #     add_inchi_keys(output)
+        # with open(pkl_dump, "wb") as file_:
+        #     pickle.dump(output, file_)
+        return output
 
     if not single_chunk:
         raise NotImplementedError

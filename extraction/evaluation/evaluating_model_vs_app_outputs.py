@@ -1,7 +1,22 @@
 import os
 
 import pandas as pd
-from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name
+from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name, get_accepted_info_from_names_in_column
+
+from data.get_compound_occurences import WCVP_VERSION
+from extraction.methods.extending_model_outputs import resolve_name_to_inchi
+
+
+def get_what_would_be_output_data():
+    found_pairs = pd.read_csv(os.path.join('..', 'app_to_manually_check_methods', 'outputs', 'deepseek', 'found_pairs.csv'))
+    found_pairs['InChIKey'] = found_pairs['compound'].apply(resolve_name_to_inchi)
+    acc_data = get_accepted_info_from_names_in_column(found_pairs,'name', wcvp_version=WCVP_VERSION)
+    acc_data.to_csv(os.path.join('outputs','manually checked output data', 'dataset.csv'), index=False)
+    acc_data.describe(include='all').to_csv(os.path.join('outputs','manually checked output data', 'dataset_summary.csv'))
+
+    resolved_dataset= acc_data.dropna(subset=['accepted_name', 'InChIKey'])
+    resolved_dataset.to_csv(os.path.join('outputs','manually checked output data', 'dataset_resolved.csv'), index=False)
+    resolved_dataset.describe(include='all').to_csv(os.path.join('outputs','manually checked output data', 'dataset_resolved_summary.csv'))
 
 
 def get_precision_scores(model):
@@ -36,6 +51,7 @@ def pseudorecall():
 
 
 def main():
+    get_what_would_be_output_data()
     deepseek_recall, wikidata_recall = pseudorecall()
 
     deepseek_score = get_precision_scores('deepseek')
