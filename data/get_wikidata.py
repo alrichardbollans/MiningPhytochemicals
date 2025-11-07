@@ -96,6 +96,9 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
 
     wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
 
+    wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'InChIKey'],
+                                                        keep='first')
+
     if 'refDOI' in wikidata_results.columns:
         wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'refDOI'],
                                                             keep='first')

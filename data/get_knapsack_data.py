@@ -40,7 +40,11 @@ def tidy_knapsack_output(knapsack_results: pd.DataFrame, output_csv: str):
     knapsack_results = knapsack_results.rename(
         columns={'Organism': 'organism_name'})
     knapsack_results = add_CAS_ID_translations_to_df(knapsack_results, 'CAS ID', os.path.join(knapsack_data_path, 'cirpycache'))
-    knapsack_results['InChIKey_from_name'] = knapsack_results['example_compound_name'].apply(resolve_name_to_inchi)
+    problems = knapsack_results[knapsack_results['InChIKey']=='']
+    assert len(problems)==0
+    unresolved = knapsack_results[knapsack_results['InChIKey'].isna()][['example_compound_name']].drop_duplicates(subset=['example_compound_name'])
+    unresolved['InChIKey_from_name'] = unresolved['example_compound_name'].apply(resolve_name_to_inchi)
+    knapsack_results = pd.merge(knapsack_results, unresolved, on='example_compound_name', how='left')
     knapsack_results['InChIKey'] = np.where(knapsack_results['InChIKey'].isna(),
                                             knapsack_results['InChIKey_from_name'], knapsack_results['InChIKey'])
     knapsack_results = knapsack_results.drop(columns=['InChIKey_from_name'])
