@@ -39,7 +39,7 @@ def tidy_knapsack_output(knapsack_results: pd.DataFrame, output_csv: str):
 
     knapsack_results = knapsack_results.rename(
         columns={'Organism': 'organism_name'})
-    knapsack_results = add_CAS_ID_translations_to_df(knapsack_results, 'CAS ID', os.path.join(knapsack_data_path, 'cirpy_cache'))
+    knapsack_results = add_CAS_ID_translations_to_df(knapsack_results, 'CAS ID', os.path.join(knapsack_data_path, 'cirpycache'))
     knapsack_results['InChIKey_from_name'] = knapsack_results['example_compound_name'].apply(resolve_name_to_inchi)
     knapsack_results['InChIKey'] = np.where(knapsack_results['InChIKey'].isna(),
                                             knapsack_results['InChIKey_from_name'], knapsack_results['InChIKey'])
