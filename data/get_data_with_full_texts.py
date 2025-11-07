@@ -3,18 +3,18 @@ import os
 
 import pandas as pd
 
-from data.get_compound_occurences import data_path, plantae_compounds_csv
+from data.get_wikidata import data_path, wikidata_plantae_compounds_csv
 from data.parse_refs import fulltext_dir, sanitise_doi
 
-_data_with_full_texts_dir = os.path.join(data_path, 'compound_data_with_full_texts')
-data_with_full_texts_csv = os.path.join(data_path, 'compound_data_with_full_texts', 'data_with_full_texts.csv')
+_data_with_full_texts_dir = os.path.join(data_path, 'wikidata', 'compound_data_with_full_texts')
+data_with_full_texts_csv = os.path.join(data_path, 'wikidata', 'compound_data_with_full_texts', 'data_with_full_texts.csv')
 
 test_data_csv = os.path.join(_data_with_full_texts_dir, 'test_data.csv')
 validation_data_csv = os.path.join(_data_with_full_texts_dir, 'validation_data.csv')
 
 
 def summarise_data_with_full_texts():
-    df = pd.read_csv(plantae_compounds_csv, index_col=0)
+    df = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
 
     extension = 'txt'
     os.chdir(fulltext_dir)

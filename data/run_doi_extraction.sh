@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #SBATCH --partition=medium
-#SBATCH --mem=4G
+#SBATCH --mem=1G
 #SBATCH --cpus-per-task=1
 #SBATCH --job-name="run_doi_extraction_log"
 #SBATCH -o run_doi_extraction_log.out

@@ -3,7 +3,7 @@ import pickle
 
 import pandas as pd
 
-from data.get_compound_occurences import data_path
+from data.get_wikidata import data_path
 from data.get_papers_with_no_hits import get_sanitised_dois_for_random_papers, get_sanitised_dois_for_medplant_papers
 from data.parse_refs import sanitise_doi
 from extraction.methods.get_agreements_and_disagreements import get_verbatim_matches

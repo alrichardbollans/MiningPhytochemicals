@@ -10,7 +10,7 @@ from wcvpy.wcvp_download import get_all_taxa
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column, get_genus_from_full_name
 from pubchempy import get_compounds
 
-from data.get_compound_occurences import data_path, inchi_translation_cache
+from data.get_wikidata import data_path, inchi_translation_cache
 from extraction.methods.string_cleaning_methods import clean_compound_strings
 from extraction.methods.structured_output_schema import TaxaData, Taxon
 

@@ -1,0 +1,6 @@
+,family,Species per Family in Data,Species per Family,Species per Family in Data_loess_prediction,Species per Family in Data_residuals,Species per Family in Data_highlight_high,Species per Family in Data_highlight_low,R2
+0,Lycopodiaceae,1,463,1.0,0.0,False,False,1.0
+1,Rhamnaceae,1,1226,1.0,0.0,False,False,1.0
+2,Saxifragaceae,5,908,5.0,0.0,False,False,1.0
+3,Scrophulariaceae,10,2322,10.0,0.0,False,False,1.0
+4,Stilbaceae,1,40,1.0000000000000002,-2.220446049250313e-16,False,False,1.0

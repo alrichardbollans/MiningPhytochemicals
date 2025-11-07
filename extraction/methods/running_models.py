@@ -6,7 +6,7 @@ import langchain_core
 import pandas as pd
 import pydantic_core
 
-from data.get_compound_occurences import data_path
+from data.get_wikidata import data_path
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_random_papers, get_sanitised_dois_for_medplant_papers
 from data.parse_refs import fulltext_dir, sanitise_doi

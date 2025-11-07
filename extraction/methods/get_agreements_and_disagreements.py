@@ -108,6 +108,23 @@ def convert_wikidata_table_to_taxadata(data_table: pd.DataFrame) -> TaxaData:
     return TaxaData(taxa=taxa_output)
 
 
+def convert_taxadata_to_accepted_dataframe(taxa_data) -> pd.DataFrame:
+    out=[]
+    for taxon in taxa_data.taxa:
+        for i in taxon.inchi_key_simps:
+            out.append([taxon.accepted_name, taxon.inchi_key_simps[i]])
+
+    return pd.DataFrame(out, columns=['accepted_name','InChIKey_simp'])
+
+def convert_taxadata_to_verbatim_dataframe(taxa_data) -> pd.DataFrame:
+    out=[]
+    for taxon in taxa_data.taxa:
+        for i in taxon.compounds:
+            out.append([taxon.scientific_name, i])
+
+    return pd.DataFrame(out, columns=['organism_name','example_compound_name'])
+
+
 def deduplicate_taxa_list_on_scientific_name(taxadat: TaxaData):
     taxa = taxadat.taxa
     unique_scientific_names = []

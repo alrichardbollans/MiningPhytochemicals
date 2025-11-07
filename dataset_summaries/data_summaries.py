@@ -6,10 +6,11 @@ from matplotlib import pyplot as plt
 from wcvpy.wcvp_download import get_all_taxa
 import statsmodels.api as sm
 
-from data.get_compound_occurences import plantae_compounds_csv, compound_occurence_path, WCVP_VERSION
+from data.get_knapsack_data import knapsack_plantae_compounds_csv
+from data.get_wikidata import wikidata_plantae_compounds_csv, WCVP_VERSION
 
 
-def get_loess_outputs(data, x_var, y_var):
+def get_loess_outputs(data, x_var, y_var, outpath):
     # X = reg_data[[x_var]].values  # Independent variable
     X_to_plot = data[x_var].values  # Independent variable
     # scaled_data[metric] = np.log(scaled_data[metric])
@@ -33,15 +34,15 @@ def get_loess_outputs(data, x_var, y_var):
     data[f'{y_var}_highlight_high'] = data[f'{y_var}_residuals'] > ((2 * std_residual) + mean_residual)
     data[f'{y_var}_highlight_low'] = data[f'{y_var}_residuals'] < (mean_residual - (2 * std_residual))
     data['R2'] = r_squared
-    data.to_csv(os.path.join(compound_occurence_path, f'{x_var}_and_{y_var}_loess_outputs.csv'))
+    data.to_csv(os.path.join(outpath, f'{x_var}_and_{y_var}_loess_outputs.csv'))
     return data
 
 
-def plot_2d_annotated_regression_data(data, x_var, y_var, extras_to_annotate: list = None):
+def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, extras_to_annotate: list = None):
     # Set up the plot
     import seaborn as sns
 
-    data = get_loess_outputs(data, x_var, y_var)
+    data = get_loess_outputs(data, x_var, y_var, outpath)
     data['color'] = np.where((data[f'{y_var}_highlight_high'] == True), '#d12020', 'grey')
     data['color'] = np.where((data[f'{y_var}_highlight_low'] == True), '#5920ff', data['color'])
 
@@ -75,15 +76,15 @@ def plot_2d_annotated_regression_data(data, x_var, y_var, extras_to_annotate: li
 
     # plt.legend(loc='upper right')
 
-    plt.savefig(os.path.join(compound_occurence_path, f'{x_var}_and_{y_var}_plot_with_outliers.jpg'), dpi=300)
+    plt.savefig(os.path.join(outpath, f'{x_var}_and_{y_var}_plot_with_outliers.jpg'), dpi=300)
     plt.close()
     plt.clf()
     sns.reset_orig()
 
 
-def summarise():
-    df = pd.read_csv(plantae_compounds_csv, index_col=0)
-    df.describe(include='all').to_csv(os.path.join(compound_occurence_path, 'occurrences_summary.csv'))
+def summarise(occurrences_csv: str, outpath):
+    df = pd.read_csv(occurrences_csv, index_col=0)
+    df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
 
     phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
     reg_data = pd.DataFrame(
@@ -93,11 +94,14 @@ def summarise():
     family_size = families.groupby('accepted_family')['accepted_species'].count()
     fam_df = pd.DataFrame({'family': family_size.index, 'Species per Family': family_size.values})
 
-    reg_data = reg_data[reg_data['Species per Family in Data']>0]
+    reg_data = reg_data[reg_data['Species per Family in Data'] > 0]
     reg_data = pd.merge(reg_data, fam_df, on='family', how='left')
 
-    plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data')
+    plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data', outpath)
 
+def main():
+    summarise(wikidata_plantae_compounds_csv, 'wikidata')
+    summarise(knapsack_plantae_compounds_csv, 'knapsack')
 
 if __name__ == '__main__':
-    summarise()
+    main()

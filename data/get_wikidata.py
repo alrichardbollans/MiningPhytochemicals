@@ -22,7 +22,7 @@ model_data_path = os.path.join(compound_occurence_path, 'model_data')
 # Might be best to do per family
 family_pkl_file = os.path.join(data_path, 'families.pkl')
 
-plantae_compounds_csv = os.path.join(compound_occurence_path, 'wikidata_compounds.csv')
+wikidata_plantae_compounds_csv = os.path.join(compound_occurence_path, 'wikidata_compounds.csv')
 
 WCVP_VERSION = None
 
@@ -66,14 +66,7 @@ def get_all_families(rerun=False):
             print(f'{family} already in dict')
 
 
-def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
-    '''
-
-    Resolve names in wikidata query output and tidy.
-
-    :return:
-    '''
-
+def tidy_wikidata_output(wikidata_results: pd.DataFrame):
     important_cols = ['organism_name', 'ipniID', 'structureLabel', 'structure_inchikey', 'structure_smiles',
                       'structure_cas', 'chembl_id', 'refDOI']
     wikidata_results = wikidata_results[important_cols]
@@ -85,34 +78,51 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str):
                  'structure_inchikey': 'InChIKey',
                  'structure_smiles': 'SMILES',
                  'ipniID': 'wikidata_ipniID'})
+
+    tidy_final_output(wikidata_results, wikidata_plantae_compounds_csv, ipniid_col='wikidata_ipniID')
+
+
+def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_col=None):
+    '''
+
+    Resolve names in wikidata query output and tidy.
+
+    :return:
+    '''
+
     for c_id in ['InChIKey']:
         wikidata_results = fill_match_ids(wikidata_results, c_id)
     wikidata_results['InChIKey_simp'] = wikidata_results['InChIKey'].apply(simplify_inchi_key)
 
     wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
 
-    wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'refDOI'],
-                                                        keep='first')
+    if 'refDOI' in wikidata_results.columns:
+        wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'refDOI'],
+                                                            keep='first')
+    if ipniid_col is not None:
+        all_taxa = get_all_taxa(version=WCVP_VERSION)
+        ipni_matches = get_accepted_wcvp_info_from_ipni_ids_in_column(wikidata_results,
+                                                                      'wikidata_ipniID',
+                                                                      all_taxa)[
+            wikidata_results.columns.tolist() + output_record_col_names]
+        unmatched = ipni_matches[ipni_matches[wcvp_columns['wcvp_id']].isna()][wikidata_results.columns]
 
-    all_taxa = get_all_taxa(version=WCVP_VERSION)
-    ipni_matches = get_accepted_wcvp_info_from_ipni_ids_in_column(wikidata_results,
-                                                                  'wikidata_ipniID',
-                                                                  all_taxa)[
-        wikidata_results.columns.tolist() + output_record_col_names]
-    unmatched = ipni_matches[ipni_matches[wcvp_columns['wcvp_id']].isna()][wikidata_results.columns]
+        ipni_matched = ipni_matches[~ipni_matches[wcvp_columns['wcvp_id']].isna()]
+        ipni_matched['matched_by'] = 'ipni_id'
+        name_matched = get_accepted_info_from_names_in_column(unmatched, 'organism_name', wcvp_version=WCVP_VERSION, all_taxa=all_taxa)
 
-    ipni_matched = ipni_matches[~ipni_matches[wcvp_columns['wcvp_id']].isna()]
-    ipni_matched['matched_by'] = 'ipni_id'
-    name_matched = get_accepted_info_from_names_in_column(unmatched, 'organism_name', wcvp_version=WCVP_VERSION)
+        acc_df = pd.concat([ipni_matched, name_matched])
+    else:
+        acc_df = get_accepted_info_from_names_in_column(wikidata_results, 'organism_name', wcvp_version=WCVP_VERSION)
 
-    acc_df = pd.concat([ipni_matched, name_matched])
+    outcols = ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'organism_name', wcvp_accepted_columns['name'],
+               wcvp_accepted_columns['name_w_author'],
+               wcvp_accepted_columns['species'], 'accepted_family']
+    if 'refDOI' in acc_df.columns:
+        outcols.append('refDOI')
+    acc_df = acc_df[outcols]
 
-    acc_df = acc_df[
-        ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'organism_name', wcvp_accepted_columns['name'],
-         wcvp_accepted_columns['name_w_author'],
-         wcvp_accepted_columns['species'], 'accepted_family','refDOI']]
-
-    acc_df = acc_df.dropna(subset=['InChIKey', 'organism_name', wcvp_accepted_columns['name'], 'refDOI'], how='any')
+    acc_df = acc_df.dropna(subset=['InChIKey', 'organism_name', wcvp_accepted_columns['name']], how='any')
     acc_df = acc_df.sort_values(by=wcvp_accepted_columns['name'])
     acc_df.to_csv(output_csv)
 
@@ -147,7 +157,7 @@ def tidy_outputs():
         df = pd.read_csv(fname)
         all_family_compounds = pd.concat([all_family_compounds, df])
 
-    tidy_final_output(all_family_compounds, plantae_compounds_csv)
+    tidy_wikidata_output(all_family_compounds)
 
 
 if __name__ == '__main__':

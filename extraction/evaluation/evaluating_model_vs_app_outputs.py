@@ -3,7 +3,7 @@ import os
 import pandas as pd
 from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name, get_accepted_info_from_names_in_column
 
-from data.get_compound_occurences import WCVP_VERSION
+from data.get_wikidata import WCVP_VERSION
 from extraction.methods.extending_model_outputs import resolve_name_to_inchi
 
 

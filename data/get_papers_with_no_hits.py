@@ -9,7 +9,7 @@ import pandas as pd
 import requests
 import pathlib
 
-from data.get_compound_occurences import data_path
+from data.get_wikidata import data_path
 from data.parse_refs import api_endpoint, sanitise_doi, build_text_data
 
 

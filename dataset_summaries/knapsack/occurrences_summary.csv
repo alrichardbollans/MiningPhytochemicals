@@ -1,0 +1,5 @@
+,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family
+count,73,73,73,73,73,73,69,73
+unique,56,56,55,29,21,21,18,5
+top,Acteoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,FBSKJMQYURKNSU,Nuxia sphaerocephala,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Scrophulariaceae
+freq,4,4,4,9,11,11,11,43
