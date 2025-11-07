@@ -1,74 +1,82 @@
 ,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family
-14,beta-Peltoboykinolic acid,QGOSJBZFTWGWDU-GSXZFILMSA-N,QGOSJBZFTWGWDU,Astilbe chinensis,Astilbe chinensis,Astilbe chinensis (Maxim.) Franch. & Sav.,Astilbe chinensis,Saxifragaceae
-18,3beta-Hydroxyurs-12-en-27-oic acid,RXVRYAUOTRSYDU-RKQWDYETSA-N,RXVRYAUOTRSYDU,Astilbe chinensis,Astilbe chinensis,Astilbe chinensis (Maxim.) Franch. & Sav.,Astilbe chinensis,Saxifragaceae
-10,Bergenin,YWJXCIXBAKGUKZ-HJJNZUOJSA-N,YWJXCIXBAKGUKZ,Astilbe macroflora,Astilbe macroflora,Astilbe macroflora Hayata,Astilbe macroflora,Saxifragaceae
-9,Bergenin,YWJXCIXBAKGUKZ-HJJNZUOJSA-N,YWJXCIXBAKGUKZ,Astilbe rivularis,Astilbe rivularis,Astilbe rivularis Buch.-Ham. ex D.Don,Astilbe rivularis,Saxifragaceae
-11,Astilbin,ZROGCCBNZBKLEL-MFSALPCASA-N,ZROGCCBNZBKLEL,Astilbe odontophylla Miq. var. congesta,Astilbe rubra,Astilbe rubra Hook.f. & Thomson,Astilbe rubra,Saxifragaceae
-12,Astilbin,ZROGCCBNZBKLEL-MFSALPCASA-N,ZROGCCBNZBKLEL,Astilbe thunbergii,Astilbe thunbergii,Astilbe thunbergii (Siebold & Zucc.) Miq.,Astilbe thunbergii,Saxifragaceae
-32,Catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,LHDWRKICQLTVDL,Buddleja gloriosa,Buddleja,Buddleja Houst. ex L.,,Scrophulariaceae
-30,Catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,LHDWRKICQLTVDL,Buddleja spp.,Buddleja,Buddleja Houst. ex L.,,Scrophulariaceae
-62,Buddlejone,BCNSIXGFOKFNJJ-OXJNMPFZSA-N,BCNSIXGFOKFNJJ,Buddleja albiflora Hemsl.,Buddleja albiflora,Buddleja albiflora Hemsl.,Buddleja albiflora,Scrophulariaceae
-26,Acteoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,FBSKJMQYURKNSU,Buddleja cordata,Buddleja cordata,Buddleja cordata Kunth,Buddleja cordata,Scrophulariaceae
-43,Isorhamnetin 7-(6''-p-coumarylglucoside),FSHKRIFUEGZCIN-QUAQUOSGSA-N,FSHKRIFUEGZCIN,Buddleja coriacea,Buddleja coriacea,Buddleja coriacea J.Rémy,Buddleja coriacea,Scrophulariaceae
-42,Kaempferol 7-(6''-p-coumarylglucoside),GVLNXQDHAFPPFW-GIVAHCOESA-N,GVLNXQDHAFPPFW,Buddleja coriacea,Buddleja coriacea,Buddleja coriacea J.Rémy,Buddleja coriacea,Scrophulariaceae
-29,Agnuside,GLACGTLACKLUJX-QNAXTHAFSA-N,GLACGTLACKLUJX,Buddleja crispa,Buddleja crispa,Buddleja crispa Benth.,Buddleja crispa,Scrophulariaceae
-34,Buddledin A,SXWKLEULMBLXJM-PCRFWOPQSA-N,SXWKLEULMBLXJM,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-46,Buddledin B,AXGJIHAKGFPXOX-JXMROGBWSA-N,AXGJIHAKGFPXOX,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-23,(+)-Lirioresinol B,KOWMJRJXZMEZLD-HCIHMXRSSA-N,KOWMJRJXZMEZLD,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-31,Catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,LHDWRKICQLTVDL,Buddleja variabilis,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-54,Isomartynoside,NFTBVWKAIZBSRS-ZXLVUZSHSA-N,NFTBVWKAIZBSRS,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-49,Buddledin C,KXSUIPOSVGSLQP-YRNVUSSQSA-N,KXSUIPOSVGSLQP,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-50,Buddledin D,KXSUIPOSVGSLQP-CUOXCHRPSA-N,KXSUIPOSVGSLQP,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-53,Leucosceptoside A,ZMYQRHSOVRDQDL-CPPDSBOHSA-N,ZMYQRHSOVRDQDL,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-55,Buddledin E,XIFNHTVOUZHUCY-UHFFFAOYSA-N,XIFNHTVOUZHUCY,Buddleja davidii,Buddleja davidii,Buddleja davidii Franch.,Buddleja davidii,Scrophulariaceae
-36,Buddledin A,SXWKLEULMBLXJM-PCRFWOPQSA-N,SXWKLEULMBLXJM,Buddleja globosa,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-44,6-O-Methyl catalpol,CQHVYUDLQLYNAI-YKYOHQDXSA-N,CQHVYUDLQLYNAI,Buddleja globosa,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-33,Catalposide,UXSACQOOWZMGSE-RWORTQBESA-N,UXSACQOOWZMGSE,Buddleja globosa Lam.,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-61,Buddlejone,BCNSIXGFOKFNJJ-OXJNMPFZSA-N,BCNSIXGFOKFNJJ,Buddleja globosa,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-45,Zerumbone,GIHNTRQPEMKFKO-SKTNYSRSSA-N,GIHNTRQPEMKFKO,Buddleja globosa,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-25,Acteoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,FBSKJMQYURKNSU,Buddleja globosa,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-47,Buddledin B,AXGJIHAKGFPXOX-JXMROGBWSA-N,AXGJIHAKGFPXOX,Buddleja globosa,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-28,Acteoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,FBSKJMQYURKNSU,Buddleja globose,Buddleja globosa,Buddleja globosa Hope,Buddleja globosa,Scrophulariaceae
-59,Buddlejasaponin IV,IRJDRINEGANBIK-ARKKLDSOSA-N,IRJDRINEGANBIK,Buddleja japonica,Buddleja japonica,Buddleja japonica Hemsl.,Buddleja japonica,Scrophulariaceae
-56,Buddlejasaponin I,BIGBIRHBEOQTAL-YHUBRDCXSA-N,BIGBIRHBEOQTAL,Buddleja japonica,Buddleja japonica,Buddleja japonica Hemsl.,Buddleja japonica,Scrophulariaceae
-58,Buddlejasaponin III,OBBCTLJAZFKMAR-NVPCUVEXSA-N,OBBCTLJAZFKMAR,Buddleja japonica,Buddleja japonica,Buddleja japonica Hemsl.,Buddleja japonica,Scrophulariaceae
-63,Buddlejoside A4,VORMEQNHMJOLMM-KASFRZMWSA-N,VORMEQNHMJOLMM,Buddleja japonica Hemsl.,Buddleja japonica,Buddleja japonica Hemsl.,Buddleja japonica,Scrophulariaceae
-48,Buddledin B,AXGJIHAKGFPXOX-JXMROGBWSA-N,AXGJIHAKGFPXOX,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-57,Buddlejasaponin I,BIGBIRHBEOQTAL-YHUBRDCXSA-N,BIGBIRHBEOQTAL,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-52,"5,7,3'-Trihydroxy-4'-methoxyflavanone 7-(2,6-dirhamnosylglucoside)",LMWHBZYEUQWDBE-HDTUXXMVSA-N,LMWHBZYEUQWDBE,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-39,alpha-Amyrin,FSLPMRQHCOLESF-SFMCKYFRSA-N,FSLPMRQHCOLESF,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-38,beta-Stigmasterol,HCXVJBMSMIARIN-PHZDYDNGSA-N,HCXVJBMSMIARIN,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-37,(-)-beta-Sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,KZJWDPNRJALLNS,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-35,Buddledin A,SXWKLEULMBLXJM-PCRFWOPQSA-N,SXWKLEULMBLXJM,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-40,beta-Amyrin,JFSHUTJDVKUMTJ-QHPUVITPSA-N,JFSHUTJDVKUMTJ,Buddleja madagascariensis,Buddleja madagascariensis,Buddleja madagascariensis Lam.,Buddleja madagascariensis,Scrophulariaceae
-41,Apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,KZNIFHPLKGYRTM,Buddleja officinalis,Buddleja officinalis,Buddleja officinalis Maxim.,Buddleja officinalis,Scrophulariaceae
-27,Acteoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,FBSKJMQYURKNSU,Buddleja officinalis,Buddleja officinalis,Buddleja officinalis Maxim.,Buddleja officinalis,Scrophulariaceae
-24,Echinacoside,FSBUXLDOLNLABB-ISAKITKMSA-N,FSBUXLDOLNLABB,Buddleja officinalis,Buddleja officinalis,Buddleja officinalis Maxim.,Buddleja officinalis,Scrophulariaceae
-22,"5,7,3',4'-Tetrahydroxyflavone",IQPNAANSBPBGFQ-UHFFFAOYSA-N,IQPNAANSBPBGFQ,Buddleja officinalis,Buddleja officinalis,Buddleja officinalis Maxim.,Buddleja officinalis,Scrophulariaceae
-64,Ilwensisaponin C,FOSCLSOVGLTOKV-UHFFFAOYSA-N,FOSCLSOVGLTOKV,Buddleja officinalis Maxim.,Buddleja officinalis,Buddleja officinalis Maxim.,Buddleja officinalis,Scrophulariaceae
-51,Acacetin 7-(2G-rhamnosyl)-rutinoside,XQQFUXJSLVWQSS-UOMQSTFGSA-N,XQQFUXJSLVWQSS,Buddleja officinalis,Buddleja officinalis,Buddleja officinalis Maxim.,Buddleja officinalis,Scrophulariaceae
-60,Buddlejone,BCNSIXGFOKFNJJ-OXJNMPFZSA-N,BCNSIXGFOKFNJJ,Buddleja sessiliflora Kunth.,Buddleja sessiliflora,Buddleja sessiliflora Kunth,Buddleja sessiliflora,Scrophulariaceae
-67,Lycopodine,BCZFSDNVXODRAJ-JTTNIQEDSA-N,BCZFSDNVXODRAJ,Huperzia selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-68,alpha-Obscurine,HXJHQEWSHQXRPH-IPJQOSJUSA-N,HXJHQEWSHQXRPH,Lycopodium selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-69,alpha-Obscurine,HXJHQEWSHQXRPH-IPJQOSJUSA-N,HXJHQEWSHQXRPH,Huperzia selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-70,Selagine,APLHEOBEIBHCHW-SEQYCRGISA-N,APLHEOBEIBHCHW,Lycopodium selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-71,Ferulic acid,KSEBMYQBYZTDHS-HWKANZROSA-N,KSEBMYQBYZTDHS,Huperzia selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-72,beta-Obscurine,SIQKNJDHWYZFFT-IPJQOSJUSA-N,SIQKNJDHWYZFFT,Lycopodium selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-73,beta-Obscurine,SIQKNJDHWYZFFT-IPJQOSJUSA-N,SIQKNJDHWYZFFT,Huperzia selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-65,Acrifoline,NKDOONPOQHRNLY-DVAKLYJDSA-N,NKDOONPOQHRNLY,Lycopodium selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-66,Annotinine,MVITYUVPZPGMRM-RLFDSYHXSA-N,MVITYUVPZPGMRM,Lycopodium selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-75,Selagoline,ODKOKIUKHXCUOB-UYJHQMFVSA-N,ODKOKIUKHXCUOB,Huperzia selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-74,Huperzine A,ZRJBHWIHUMBLCN-QDEBKDIKSA-N,ZRJBHWIHUMBLCN,Huperzia selago,Huperzia selago,Huperzia selago (L.) Bernh. ex Schrank & Mart.,Huperzia selago,Lycopodiaceae
-8,3-Acetyl oleanolic acid,RIXNFYQZWDGQAE-DFHVBEEKSA-N,RIXNFYQZWDGQAE,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-7,Uvaol,XUARCIYIVXVTAE-HGBZRQGGSA-N,XUARCIYIVXVTAE,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-6,3-O-beta-D-Glucopyranosyl sitosterol,NPJICTMALKLTFW-OFUAXYCQSA-N,NPJICTMALKLTFW,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-5,Oleanolic acid,MIJYXULNPSFWEK-GTOFXWBISA-N,MIJYXULNPSFWEK,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-4,Acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,DANYIYRPLHHOCZ,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-3,Tectochrysin,IRZVHDLBAYNPCT-UHFFFAOYSA-N,IRZVHDLBAYNPCT,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-2,Lupeol,MQYXUWHLBZFQQO-JGGBMTAGSA-N,MQYXUWHLBZFQQO,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-1,Ursolic acid,WCGUUGGRBIKTOS-GPOJBZKASA-N,WCGUUGGRBIKTOS,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-0,"5-Hydroxy-7,4'-dimethoxyflavone",LZERJKGWTQYMBB-UHFFFAOYSA-N,LZERJKGWTQYMBB,Nuxia sphaerocephala,Nuxia sphaerocephala,Nuxia sphaerocephala (Baker) Baker,Nuxia sphaerocephala,Stilbaceae
-21,(+)-N-Methyllaurotetanine,ZFLRVRLYWHNAEC-AWEZNQCLSA-N,ZFLRVRLYWHNAEC,Phylica fengeriana,Phylica,Phylica L.,,Rhamnaceae
-20,(+)-N-Methyllaurotetanine,ZFLRVRLYWHNAEC-AWEZNQCLSA-N,ZFLRVRLYWHNAEC,Phylica rogersii,Phylica rogersii,Phylica rogersii Pillans,Phylica rogersii,Rhamnaceae
-19,(+)-Reticuline,BHLYRWXGMIUIHG-HNNXBMFYSA-N,BHLYRWXGMIUIHG,Phylica rogersii,Phylica rogersii,Phylica rogersii Pillans,Phylica rogersii,Rhamnaceae
-13,Unedoside,DRXHHSWFGHCUGX-IMOIEGEGSA-N,DRXHHSWFGHCUGX,Stilbe spp.,Stilbe,Stilbe Berg.,,Stilbaceae
+21,Antheridic acid,MALNZFMESUARAT-HGJZFELWSA-N,MALNZFMESUARAT,Anemia hirsuta,Anemia hirsuta,Anemia hirsuta (L.) Sw.,Anemia hirsuta,Schizaeaceae
+19,Gibberellin A61,JKQCGVABHHQYKQ-YZVDRFENSA-N,JKQCGVABHHQYKQ,Anemia mexicana,Anemia mexicana,Anemia mexicana Klotzsch,Anemia mexicana,Schizaeaceae
+18,Gibberellin A45,MBNDVMTZEKAWKP-CFHXUCNZSA-N,MBNDVMTZEKAWKP,Anemia mexicana,Anemia mexicana,Anemia mexicana Klotzsch,Anemia mexicana,Schizaeaceae
+17,Gibberellin A25,XOUJCIPAKFLTCI-POPXMCHDSA-N,XOUJCIPAKFLTCI,Anemia phyllitidis,Anemia phyllitidis,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis,Schizaeaceae
+16,Gibberellin A20,OXFPYCSNYOFUCH-KQBHUUJHSA-N,OXFPYCSNYOFUCH,Anemia phyllitidis,Anemia phyllitidis,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis,Schizaeaceae
+14,Gibberellin A15,TZGXVFYTKTWKCU-CXXOJBQZSA-N,TZGXVFYTKTWKCU,Anemia phyllitidis,Anemia phyllitidis,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis,Schizaeaceae
+20,Antheridic acid,MALNZFMESUARAT-HGJZFELWSA-N,MALNZFMESUARAT,Anemia phyllitidis,Anemia phyllitidis,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis,Schizaeaceae
+15,Gibberellin A19,AUKMHZZVLPQAOX-PCFYLXDYSA-N,AUKMHZZVLPQAOX,Anemia phyllitidis,Anemia phyllitidis,Anemia phyllitidis (L.) Sw.,Anemia phyllitidis,Schizaeaceae
+51,"Mearnsetin 3,7-dirhamnoside",RGWKAEPSNVHPMO-MPELBBHRSA-N,RGWKAEPSNVHPMO,Asplenium antiquum,Asplenium antiquum,Asplenium antiquum Makino,Asplenium antiquum,Aspleniaceae
+45,"Kaempferide 3,7-dirhamnoside",YJFHLDPUBWHTMO-FLEUXRLZSA-N,YJFHLDPUBWHTMO,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+44,Kaempferide 3-rhamnoside-7-glucoside,JKVVNVBAADBSQA-RWANRIBSSA-N,JKVVNVBAADBSQA,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+42,"Kaempferide 3,7-diglucoside",XLQNRISTRCEITF-ZWQMLEGXSA-N,XLQNRISTRCEITF,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+33,Kaempferol 3-rhamnoside-7-glucoside,MBLYALXOUBKFNE-QBEDIBAASA-N,MBLYALXOUBKFNE,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+35,Kaempferitrin,PUPKKEQDLNREIM-QNSQPKOQSA-N,PUPKKEQDLNREIM,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+55,Kaempferide 3-rhamnoside-7-(6''-succinylglucoside),USWCJNJGZZXFFW-UULYZMBJSA-N,USWCJNJGZZXFFW,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+30,Kaempferol 3-glucoside-7-rhamnoside,JZMDHNZJOZUDLG-QVBRAHCHSA-N,JZMDHNZJOZUDLG,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+28,"Kaempferol 3,7-di-O-glucoside",XFFQVRFGLSBFON-DEFKTLOSSA-N,XFFQVRFGLSBFON,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+27,Kaempferol 3-glucoside-7-galactoside,XFFQVRFGLSBFON-OQGYJKRLSA-N,XFFQVRFGLSBFON,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+43,Kaempferide 3-glucoside-7-rhamnoside,OFKKUHQXUNAUKP-SBWFBVOTSA-N,OFKKUHQXUNAUKP,Asplenium bulbiferum,Asplenium bulbiferum,Asplenium bulbiferum G.Forst.,Asplenium bulbiferum,Aspleniaceae
+58,"3,6,8-Tri-C-xylosylapigenin",KVNPEARIEDGOLI-AHWNHCFZSA-N,KVNPEARIEDGOLI,Asplenium viviparum,Asplenium daucifolium,Asplenium daucifolium Lam.,Asplenium daucifolium,Aspleniaceae
+59,"6,8-Di-C-rhamnopyranosylluteolin",UZQZUGANRMSXPO-UUAWUIBTSA-N,UZQZUGANRMSXPO,Asplenium viviparum,Asplenium daucifolium,Asplenium daucifolium Lam.,Asplenium daucifolium,Aspleniaceae
+56,Kaempferol 3-(6''-sulfatogetiobioside),VTJKDBCZBBPNIM-OMDDSJMVSA-N,VTJKDBCZBBPNIM,Asplenium fontanum,Asplenium fontanum,Asplenium fontanum (L.) Bernh.,Asplenium fontanum,Aspleniaceae
+61,Kaempferol 3-gentiobioside-4'-glucoside,NLAWSKQGKDCPGP-SVLRKJKOSA-N,NLAWSKQGKDCPGP,Asplenium incisum,Asplenium incisum,Asplenium incisum Thunb.,Asplenium incisum,Aspleniaceae
+36,Kaempferol 3-sophoroside-7-rhamnoside,VRYWDBDPXMHHGE-IAYTZLMWSA-N,VRYWDBDPXMHHGE,Asplenium kaulfussii,Asplenium kaulfussii,Asplenium kaulfussii Schltdl.,Asplenium kaulfussii,Aspleniaceae
+60,Bracteatin,ACAAVKGSTVOIQB-BASWHVEKSA-N,ACAAVKGSTVOIQB,Asplenium kaulfussii,Asplenium kaulfussii,Asplenium kaulfussii Schltdl.,Asplenium kaulfussii,Aspleniaceae
+32,Kaempferol 3-rhamnoside-7-glucoside,MBLYALXOUBKFNE-QBEDIBAASA-N,MBLYALXOUBKFNE,Asplenium kaulfussii,Asplenium kaulfussii,Asplenium kaulfussii Schltdl.,Asplenium kaulfussii,Aspleniaceae
+24,(-)-beta-Sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,KZJWDPNRJALLNS,Asplenium laciniatum,Asplenium laciniatum,Asplenium laciniatum D.Don,Asplenium laciniatum,Aspleniaceae
+22,Octadecanoic acid,QIQXTHQIDYTFRH-UHFFFAOYSA-N,QIQXTHQIDYTFRH,Asplenium laciniatum,Asplenium laciniatum,Asplenium laciniatum D.Don,Asplenium laciniatum,Aspleniaceae
+41,Isokaempferide 7-glucoside,FQKGNOGAGLOTLV-BPVUJVISSA-N,FQKGNOGAGLOTLV,Asplenium marinum,Asplenium marinum,Asplenium marinum L.,Asplenium marinum,Aspleniaceae
+47,Ermanin 7-glucoside,ZRARLHYGVFWDGL-UHFFFAOYSA-N,ZRARLHYGVFWDGL,Asplenium marinum,Asplenium marinum,Asplenium marinum L.,Asplenium marinum,Aspleniaceae
+23,Aphloiol,AEDDIBAIWPIIBD-ZJKJAXBQSA-N,AEDDIBAIWPIIBD,Asplenium montanum Willd.,Asplenium montanum,Asplenium montanum Willd.,Asplenium montanum,Aspleniaceae
+62,Isomangiferin,CDYBOKJASDEORM-HBVDJMOISA-N,CDYBOKJASDEORM,Asplenium montanum Willd.,Asplenium montanum,Asplenium montanum Willd.,Asplenium montanum,Aspleniaceae
+40,"Kaempferol 3-gentiobioside-7,4'-diglucoside",BFSYDSGBPJMJPN-CLSJFPNXSA-N,BFSYDSGBPJMJPN,Asplenium nidus,Asplenium nidus,Asplenium nidus L.,Asplenium nidus,Aspleniaceae
+26,Kaempferol 3-vicianoside,YJPZWZRYHLEDNA-QDINOSLNSA-N,YJPZWZRYHLEDNA,Asplenium nidus,Asplenium nidus,Asplenium nidus L.,Asplenium nidus,Aspleniaceae
+46,Ermanin 7-glucoside,ZRARLHYGVFWDGL-UHFFFAOYSA-N,ZRARLHYGVFWDGL,Asplenium platyneuron,Asplenium platyneuron,"Asplenium platyneuron (L.) Britton, Sterns & Poggenb.",Asplenium platyneuron,Aspleniaceae
+54,Kaempferol 3-rhamnoside-7-[6'''-ferulyglucosyl-(1->3)-rhamnoside],XLGPQHJWWDGNEY-DBAQLUFNSA-N,XLGPQHJWWDGNEY,Asplenium prolongatum,Asplenium prolongatum,Asplenium prolongatum Hook.,Asplenium prolongatum,Aspleniaceae
+53,Kaempferol 3-(2''-caffeyllaminaribioside)-7-rhamnoside,MKEHIHDELIMSAJ-WIQGHUGTSA-N,MKEHIHDELIMSAJ,Asplenium scolopendrium,Asplenium scolopendrium,Asplenium scolopendrium L.,Asplenium scolopendrium,Aspleniaceae
+37,Kaempferol 3-laminaribioside-7-rhamnoside,KJVPFRSUACPKED-BUMVDBNCSA-N,KJVPFRSUACPKED,Asplenium scolopendrium,Asplenium scolopendrium,Asplenium scolopendrium L.,Asplenium scolopendrium,Aspleniaceae
+52,Kaempferol 3-(2''-caffeylglucoside)-7-rhamnoside,ZFDYOOWTGQKEHM-JIUTYWKKSA-N,ZFDYOOWTGQKEHM,Asplenium scolopendrium,Asplenium scolopendrium,Asplenium scolopendrium L.,Asplenium scolopendrium,Aspleniaceae
+57,Quercetin 3-(3''-sulfatoglucoside),VTNCBBZWEIIJPO-LQGJBJRRSA-N,VTNCBBZWEIIJPO,Asplenium septentrionale,Asplenium septentrionale,Asplenium septentrionale (L.) Hoffm.,Asplenium septentrionale,Aspleniaceae
+38,Kaempferol 3-sophoroside-4'-glucoside,RZNSRWIUKKNVLV-MLQLOWHPSA-N,RZNSRWIUKKNVLV,Asplenium septentrionale,Asplenium septentrionale,Asplenium septentrionale (L.) Hoffm.,Asplenium septentrionale,Aspleniaceae
+39,Kaempferol 3-sophorotrioside-7-glucoside,HMXKVNAQDJJUTH-HWORSLRFSA-N,HMXKVNAQDJJUTH,Asplenium septentrionale,Asplenium septentrionale,Asplenium septentrionale (L.) Hoffm.,Asplenium septentrionale,Aspleniaceae
+31,Kaempferol 3-rhamnoside-7-alpha-L-arabionopyranoside,WIALSWOBTZTJMW-BBJHXPIMSA-N,WIALSWOBTZTJMW,Asplenium trichomanes,Asplenium trichomanes,Asplenium trichomanes L.,Asplenium trichomanes,Aspleniaceae
+34,Kaempferitrin,PUPKKEQDLNREIM-QNSQPKOQSA-N,PUPKKEQDLNREIM,Asplenium trichomanes,Asplenium trichomanes,Asplenium trichomanes L.,Asplenium trichomanes,Aspleniaceae
+29,Kaempferol 3-glucoside-7-rhamnoside,JZMDHNZJOZUDLG-QVBRAHCHSA-N,JZMDHNZJOZUDLG,Asplenium trichomanes-ramosum,Asplenium viride,Asplenium viride Huds.,Asplenium viride,Aspleniaceae
+48,Quercetin 3-O-beta-D-glucopyranosyl-7-O-alpha-L-rhamnopyranoside,OTUCXMIQUNROBJ-NVPNHPEKSA-N,OTUCXMIQUNROBJ,Asplenium trichomanes-ramosum,Asplenium viride,Asplenium viride Huds.,Asplenium viride,Aspleniaceae
+49,Quercetin 3-rhamnoside-7-alpha-L-arabinopyranoside,SWUZOZPDOFIEGX-HGXOLRDXSA-N,SWUZOZPDOFIEGX,Asplenium trichomanes-ramosum,Asplenium viride,Asplenium viride Huds.,Asplenium viride,Aspleniaceae
+50,Quercetin 3-methyl ether 5-glucoside,WAJZHIMAJHLZQB-BPVUJVISSA-N,WAJZHIMAJHLZQB,Asplenium trichomanes-ramosum,Asplenium viride,Asplenium viride Huds.,Asplenium viride,Aspleniaceae
+25,Juglanin,POQICXMTUPVZMX-WNJKXWAASA-N,POQICXMTUPVZMX,Asplenium trichomanes-ramosum,Asplenium viride,Asplenium viride Huds.,Asplenium viride,Aspleniaceae
+8,Caffeic acid,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS,Struthiopteris amabilis,Blechnum amabile,Blechnum amabile Makino,Blechnum amabile,Aspleniaceae
+9,Caffeic acid,QAIPRVGONGVQAS-DUXPYHPUSA-N,QAIPRVGONGVQAS,Struthiopteris niponica,Blechnum niponicum,Blechnum niponicum (Kunze) Makino,Blechnum niponicum,Aspleniaceae
+79,Multiflor-9(11)-ene,GAYMPSVFXABRFZ-AGEGXDEPSA-N,GAYMPSVFXABRFZ,Polypodium niponicum,Goniophlebium niponicum,Goniophlebium niponicum (Mett.) Bedd. ex Rödl-Linder,Goniophlebium niponicum,Polypodiaceae
+78,Multiflor-8-ene,ZJFCFQZUMBQPHL-GOQQEETESA-N,ZJFCFQZUMBQPHL,Polypodium niponicum,Goniophlebium niponicum,Goniophlebium niponicum (Mett.) Bedd. ex Rödl-Linder,Goniophlebium niponicum,Polypodiaceae
+77,Multiflor-7-ene,DLEIYVDJTDXZOP-ASDADGTLSA-N,DLEIYVDJTDXZOP,Polypodium niponicum,Goniophlebium niponicum,Goniophlebium niponicum (Mett.) Bedd. ex Rödl-Linder,Goniophlebium niponicum,Polypodiaceae
+74,24-Methylenecycloartanyl acetate,BYIMYSSYXBYIBJ-LLSUAUSMSA-N,BYIMYSSYXBYIBJ,Polypodium niponicum,Goniophlebium niponicum,Goniophlebium niponicum (Mett.) Bedd. ex Rödl-Linder,Goniophlebium niponicum,Polypodiaceae
+64,Osladin,QZOALWMSYRBZSA-XSAMIUIESA-N,QZOALWMSYRBZSA,Polypodium niponicum,Goniophlebium niponicum,Goniophlebium niponicum (Mett.) Bedd. ex Rödl-Linder,Goniophlebium niponicum,Polypodiaceae
+69,Pollinastanol,HXQRIQXPGMPSRW-WVVGHYSUSA-N,HXQRIQXPGMPSRW,Polypodium niponicum,Goniophlebium niponicum,Goniophlebium niponicum (Mett.) Bedd. ex Rödl-Linder,Goniophlebium niponicum,Polypodiaceae
+10,3-O-Caffeoylquinic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,CWVRJTMFETXNAD,Matteuccia struthiopteris,Onoclea struthiopteris,Onoclea struthiopteris (L.) Roth,Onoclea struthiopteris,Aspleniaceae
+11,Ponasterone A,PJYYBCXMCWDUAZ-JJJZTNILSA-N,PJYYBCXMCWDUAZ,Matteuccia struthiopteris,Onoclea struthiopteris,Onoclea struthiopteris (L.) Roth,Onoclea struthiopteris,Aspleniaceae
+12,Pterosterone,UMMBJCYNGLCGEF-OAUIFJKNSA-N,UMMBJCYNGLCGEF,Matteuccia struthiopteris,Onoclea struthiopteris,Onoclea struthiopteris (L.) Roth,Onoclea struthiopteris,Aspleniaceae
+13,Kaempferol 7-alpha-L-arabinoside,CCBSGQDAQUZKPI-HKUPAJFUSA-N,CCBSGQDAQUZKPI,Matteuccia struthiopteris,Onoclea struthiopteris,Onoclea struthiopteris (L.) Roth,Onoclea struthiopteris,Aspleniaceae
+6,20-Hydroxyecdysone,NKDFYOWSKOHCCO-YPVLXUMRSA-N,NKDFYOWSKOHCCO,Plenasium banksiaefolium,Osmunda banksiifolia,Osmunda banksiifolia (C.Presl) Kuhn,Osmunda banksiifolia,Osmundaceae
+7,Ponasterone A,PJYYBCXMCWDUAZ-JJJZTNILSA-N,PJYYBCXMCWDUAZ,Plenasium banksiaefolium,Osmunda banksiifolia,Osmunda banksiifolia (C.Presl) Kuhn,Osmunda banksiifolia,Osmundaceae
+0,Succinic acid,KDYFGRWQOYBRFD-UHFFFAOYSA-N,KDYFGRWQOYBRFD,Osmunda japonica,Osmunda japonica,Osmunda japonica Thunb.,Osmunda japonica,Osmundaceae
+5,Sherry lactone,KBLZKAKKJPDYKJ-UHFFFAOYSA-N,KBLZKAKKJPDYKJ,Osmunda japonica,Osmunda japonica,Osmunda japonica Thunb.,Osmunda japonica,Osmundaceae
+1,Ponasterone A,PJYYBCXMCWDUAZ-JJJZTNILSA-N,PJYYBCXMCWDUAZ,Osmunda japonica,Osmunda japonica,Osmunda japonica Thunb.,Osmunda japonica,Osmundaceae
+3,Osmundalactone,TVDPVFPVOHCHQM-UHFFFAOYSA-N,TVDPVFPVOHCHQM,Osmunda japonica,Osmunda japonica,Osmunda japonica Thunb.,Osmunda japonica,Osmundaceae
+4,Osmundalin,KZOPXYPPFZYEHT-RKPZXMFYSA-N,KZOPXYPPFZYEHT,Osmunda japonica,Osmunda japonica,Osmunda japonica Thunb.,Osmunda japonica,Osmundaceae
+2,Asiaticalin,JPUKWEQWGBDDQB-IDRAQACASA-N,JPUKWEQWGBDDQB,Osmunda asiatica,Osmundastrum cinnamomeum subsp. asiaticum,Osmundastrum cinnamomeum subsp. asiaticum (Fernald) Fraser-Jenk.,Osmundastrum cinnamomeum,Osmundaceae
+71,Hopane-29-acetate,QSIMBUYUBYRBSU-ALPBESCQSA-N,QSIMBUYUBYRBSU,Polypodium juglandifolium,Phanerophlebia juglandifolia,Phanerophlebia juglandifolia (Humb. & Bonpl. ex Willd.) J.Sm.,Phanerophlebia juglandifolia,Polypodiaceae
+75,Malic acid,BJEPYKJPYRNKOW-UHFFFAOYSA-N,BJEPYKJPYRNKOW,Polypodium cuspidatum,Phymatosorus cuspidatus,Phymatosorus cuspidatus (D.Don) Pic.Serm.,Phymatosorus cuspidatus,Polypodiaceae
+72,Afzelechin 7-O-beta-D-apiofuranoside,BJBAEYMVZJJUEM-AXDKOMKPSA-N,BJBAEYMVZJJUEM,Polypodium glycyrrhiza,Polypodium glycyrrhiza,Polypodium glycyrrhiza D.C.Eaton,Polypodium glycyrrhiza,Polypodiaceae
+80,Polypodoside A,OFFJUHSISSNBNT-NZWHLKEESA-N,OFFJUHSISSNBNT,Polypodium glycyrrhiza,Polypodium glycyrrhiza,Polypodium glycyrrhiza D.C.Eaton,Polypodium glycyrrhiza,Polypodiaceae
+68,20-Hydroxyecdysone,NKDFYOWSKOHCCO-YPVLXUMRSA-N,NKDFYOWSKOHCCO,Polypodium virginianum,Polypodium virginianum,Polypodium virginianum L.,Polypodium virginianum,Polypodiaceae
+66,Ecdysone,UPEZCKBFRMILAV-JMZLNJERSA-N,UPEZCKBFRMILAV,Polypodium virginianum,Polypodium virginianum,Polypodium virginianum L.,Polypodium virginianum,Polypodiaceae
+63,3-O-Caffeoylquinic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,CWVRJTMFETXNAD,Polypodium vulgare,Polypodium vulgare,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae
+73,Catechin 7-O-apiofuranoside,OZEIRJMOKXRLCR-AXDKOMKPSA-N,OZEIRJMOKXRLCR,Polypodium vulgare,Polypodium vulgare,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae
+67,Ecdysone,UPEZCKBFRMILAV-JMZLNJERSA-N,UPEZCKBFRMILAV,Polypodium vulgare,Polypodium vulgare,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae
+76,Malic acid,BJEPYKJPYRNKOW-UHFFFAOYSA-N,BJEPYKJPYRNKOW,Polypodium vulgare,Polypodium vulgare,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae
+65,Osladin,QZOALWMSYRBZSA-XSAMIUIESA-N,QZOALWMSYRBZSA,Polypodium vulgare,Polypodium vulgare,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae
+70,Polypodine B,GMFLGNRCCFYOKL-ACCCYTKYSA-N,GMFLGNRCCFYOKL,Polypodium vulgare,Polypodium vulgare,Polypodium vulgare L.,Polypodium vulgare,Polypodiaceae
