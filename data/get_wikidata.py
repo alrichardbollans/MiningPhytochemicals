@@ -126,7 +126,7 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
     acc_df = acc_df[outcols]
 
     acc_df = acc_df.dropna(subset=['InChIKey', 'organism_name', wcvp_accepted_columns['name']], how='any')
-    acc_df = acc_df.sort_values(by=wcvp_accepted_columns['name'])
+    acc_df = acc_df.sort_values(by=[wcvp_accepted_columns['name'], 'example_compound_name'])
     acc_df.to_csv(output_csv)
 
 

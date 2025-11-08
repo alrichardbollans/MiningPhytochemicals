@@ -1,4 +1,5 @@
 import os
+import pathlib
 import pickle
 
 import pandas as pd
@@ -11,7 +12,8 @@ from extraction.methods.get_agreements_and_disagreements import convert_taxadata
 from extraction.methods.running_models import deepseek_pkls_path
 
 
-def compare_two_outputs_accepted(df1, df2, out_dir: str):
+def compare_two_outputs_accepted(df1, df2, out_dir: str, label1: str, label2: str):
+    pathlib.Path(out_dir).mkdir(parents=True, exist_ok=True)
     df1_resolved = df1[['accepted_name', 'InChIKey_simp']].drop_duplicates()
     df2_resolved = df2[['accepted_name', 'InChIKey_simp']].drop_duplicates()
 
@@ -25,7 +27,8 @@ def compare_two_outputs_accepted(df1, df2, out_dir: str):
     print(f'Shared: {shared}')
     print(f'Percentage shared: {shared / (unique_left_count + unique_right_count + shared) * 100:.2f}%')
 
-    result_venn_diagram(unique_left_count, unique_right_count, shared, os.path.join(out_dir, 'resolved_data_venn.jpg'))
+    result_venn_diagram(unique_left_count, unique_right_count, shared, os.path.join(out_dir, 'resolved_data_venn.jpg'), label1, label2)
+
 
 def compare_two_outputs_verbatim(df1, df2, out_dir: str):
     raise NotImplementedError('This doesnt match names properly. Need to use compare_method_outputs_on_specific_dois.py for this.')
@@ -45,7 +48,7 @@ def compare_two_outputs_verbatim(df1, df2, out_dir: str):
     result_venn_diagram(unique_left_count, unique_right_count, shared, os.path.join(out_dir, 'verbatim_data_venn.jpg'))
 
 
-def result_venn_diagram(found_in_1_but_not_2: int, found_in_2_but_not_1: int, overlap: int, outpath: str):
+def result_venn_diagram(found_in_1_but_not_2: int, found_in_2_but_not_1: int, overlap: int, outpath: str, label1: str, label2: str):
     # library
     import matplotlib.pyplot as plt
     from matplotlib_venn import venn2
@@ -54,14 +57,16 @@ def result_venn_diagram(found_in_1_but_not_2: int, found_in_2_but_not_1: int, ov
     venn2(subsets=(found_in_1_but_not_2,
                    found_in_2_but_not_1,
                    overlap),
-          set_labels=('WikiData Pairs', 'Deepseek Pairs'))
+          set_labels=(f'{label1} Pairs', f'{label2} Pairs'))
     plt.savefig(outpath, dpi=300, bbox_inches='tight')
     plt.close()
 
 
 def main():
-    compare_two_outputs_accepted(pd.read_csv(wikidata_plantae_compounds_csv), pd.read_csv(knapsack_plantae_compounds_csv), 'wikidata_knapsack_comparison')
-    compare_two_outputs_verbatim(pd.read_csv(wikidata_plantae_compounds_csv), pd.read_csv(knapsack_plantae_compounds_csv), 'wikidata_knapsack_comparison')
+    wikidata = pd.read_csv(wikidata_plantae_compounds_csv)
+    knapsack_data = pd.read_csv(knapsack_plantae_compounds_csv)
+
+    compare_two_outputs_accepted(wikidata, knapsack_data, 'wikidata_knapsack_comparison', 'WikiData', 'KNApSAcK')
 
     # With validation data
     deepseek_df = pd.DataFrame()
@@ -71,18 +76,11 @@ def main():
         deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
         df = convert_taxadata_to_accepted_dataframe(deepseek_output)
         deepseek_df = pd.concat([deepseek_df, df])
-    wikidata = pd.read_csv(wikidata_plantae_compounds_csv)
-    compare_two_outputs_accepted(wikidata[wikidata['refDOI'].isin(dois)], deepseek_df, 'wikidata_deepseek_comparison_on_validation_data')
+    compare_two_outputs_accepted(wikidata[wikidata['refDOI'].isin(dois)], deepseek_df, 'wikidata_deepseek_comparison_on_validation_data', 'WikiData',
+                                 'DeepSeek')
 
-    deepseek_df = pd.DataFrame()
-    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-    dois = doi_data_table['refDOI'].unique().tolist()
-    for doi in dois:
-        deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
-        df = convert_taxadata_to_verbatim_dataframe(deepseek_output)
-        deepseek_df = pd.concat([deepseek_df, df])
-    wikidata = pd.read_csv(wikidata_plantae_compounds_csv)
-    compare_two_outputs_verbatim(wikidata[wikidata['refDOI'].isin(dois)], deepseek_df, 'wikidata_deepseek_comparison_on_validation_data')
+    compare_two_outputs_accepted(wikidata, deepseek_df, 'deepseek_on_validation_data_vs_all_wikidata', 'WikiData', 'DeepSeek')
+    compare_two_outputs_accepted(knapsack_data, deepseek_df, 'deepseek_on_validation_data_vs_all_knapsack', 'KNApSAcK', 'DeepSeek')
 
 
 if __name__ == '__main__':

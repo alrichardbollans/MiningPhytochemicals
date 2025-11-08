@@ -53,7 +53,7 @@ def tidy_knapsack_output(knapsack_results: pd.DataFrame, output_csv: str):
 
 def compile_family_data():
     big_df = pd.DataFrame()
-    for file in os.listdir(_temp_path):
+    for file in os.listdir(_temp_path)[:10]:
 
         out_csv = os.path.join(_temp_path, file)
         df = pd.read_csv(out_csv)
