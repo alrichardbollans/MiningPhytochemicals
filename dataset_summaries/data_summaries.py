@@ -5,7 +5,8 @@ import pickle
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-from wcvpy.wcvp_download import get_all_taxa
+from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
+    plot_native_number_accepted_taxa_in_regions
 import statsmodels.api as sm
 
 from data.get_data_with_full_texts import validation_data_csv
@@ -93,10 +94,14 @@ def summarise(df: pd.DataFrame, outpath, do_regression=True):
     pathlib.Path(outpath).mkdir(parents=True, exist_ok=True)
     df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
     df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
+
+    output_geographic_plots(df, outpath)
+
     if do_regression:
         phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
         reg_data = pd.DataFrame(
-            {'family': phytochemical_family_count.index, 'Species per Family in Data': phytochemical_family_count.values})
+            {'family': phytochemical_family_count.index,
+             'Species per Family in Data': phytochemical_family_count.values})
         families = get_all_taxa(version=WCVP_VERSION, accepted=True, ranks=['Species'])
 
         family_size = families.groupby('accepted_family')['accepted_species'].count()
@@ -107,6 +112,7 @@ def summarise(df: pd.DataFrame, outpath, do_regression=True):
 
         plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data', outpath)
 
+
 def get_deepseek_accepted_output_as_df(dois: list):
     deepseek_df = pd.DataFrame()
     for doi in dois:
@@ -116,8 +122,29 @@ def get_deepseek_accepted_output_as_df(dois: list):
     return deepseek_df
 
 
-def main():
+def output_geographic_plots(df, outpath: str):
+    df = df.dropna(subset=['accepted_species'])
 
+    plot_native_number_accepted_taxa_in_regions(df, wcvp_accepted_columns['species'], outpath,
+                                                'underlying_species_distributions.jpg', include_extinct=True,
+                                                wcvp_version=WCVP_VERSION,
+                                                colormap='inferno')
+    underlying_species_region_counts = pd.read_csv(
+        os.path.join(outpath, 'underlying_species_distributions.jpg_regions.csv'), index_col=0)
+    species_regions = pd.read_csv()
+    analysis_df = pd.merge(df, species_regions, on='accepted_species', how='left')
+
+    analysis_df = analysis_df.explode('native_tdwg3_codes')
+    # count_df = working_data.native_tdwg3_codes.value_counts().reset_index().rename(
+    #     columns={'index': 'Region', 0: 'count'})
+    #
+
+    #
+    #
+    # analysis_df = analysis_df.sort_values(by=x_var)
+
+
+def main():
     summarise(pd.read_csv(wikidata_plantae_compounds_csv, index_col=0), 'wikidata')
     summarise(pd.read_csv(knapsack_plantae_compounds_csv, index_col=0), 'knapsack')
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
