@@ -10,12 +10,12 @@ import requests
 import pathlib
 
 from data.get_wikidata import data_path
-from data.parse_refs import api_endpoint, sanitise_doi, build_text_data
+from data.parse_refs import api_endpoint, sanitise_doi, build_text_data, _core_apikey
 
 
 def get_random_fulltexts():
     time.sleep(2)
-    headers = {"Authorization": "Bearer " + apikey}
+    headers = {"Authorization": "Bearer " + _core_apikey}
     response = requests.get(f"{api_endpoint}search/works/?q=_exists_:fullText&limit=500",
                             headers=headers)
 
@@ -24,7 +24,7 @@ def get_random_fulltexts():
         # and doing a large query with post filtering is not working.
         # fields = ['botany', None]
 
-        fulltext_dir = os.path.join(data_path, f'random papers', 'fulltexts')
+        fulltext_dir = os.path.join(data_path, 'texts', f'random papers', 'fulltexts')
 
         pathlib.Path(fulltext_dir).mkdir(parents=True, exist_ok=True)
         result = response.json()
@@ -49,36 +49,23 @@ def get_random_fulltexts():
 
 
 def get_med_plant_full_texts():
-    top_10000 = pd.read_csv('medicinals_top_10000.csv')[['title','DOI', 'plant_species_binomials_unique_total']].dropna(
+    top_10000 = pd.read_csv('medicinals_top_10000.csv')[['title', 'DOI', 'plant_species_binomials_unique_total']].dropna(
         subset=['DOI'])
     top_10000 = top_10000[top_10000['plant_species_binomials_unique_total'] > 0]
     selected_dois = random.sample(top_10000['DOI'].tolist(), 10)
     print(selected_dois)
     data = top_10000[top_10000['DOI'].isin(selected_dois)]
     print(data[['DOI', 'title']])
-    fulltext_dir = os.path.join(data_path, f'medplant papers', 'fulltexts')
+    fulltext_dir = os.path.join(data_path, 'texts', f'medplant papers', 'fulltexts')
     build_text_data(selected_dois, fulltext_dir)
 
 
-def get_sanitised_dois_for_random_papers():
-    random_txt_dir = os.path.join(data_path, f'random papers', 'fulltexts')
-    extension = 'txt'
+def get_sanitised_dois_for_papers(dir_name: str):
+    random_txt_dir = os.path.join(data_path, 'texts', dir_name, 'fulltexts')
+    extension = '.txt'
     result = []
     for file in os.listdir(random_txt_dir):
-        if file.endswith(".txt"):
-            print(os.path.join(random_txt_dir, file))
-
-            result.append(file[:-4])
-
-    return random_txt_dir, result
-
-
-def get_sanitised_dois_for_medplant_papers():
-    random_txt_dir = os.path.join(data_path, f'medplant papers', 'fulltexts')
-    extension = 'txt'
-    result = []
-    for file in os.listdir(random_txt_dir):
-        if file.endswith(".txt"):
+        if file.endswith(extension):
             print(os.path.join(random_txt_dir, file))
 
             result.append(file[:-4])

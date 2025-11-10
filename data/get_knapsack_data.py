@@ -7,7 +7,9 @@ from phytochempy.compound_properties import add_CAS_ID_translations_to_df
 from phytochempy.knapsack_searches import get_knapsack_compounds_in_family
 from tqdm import tqdm
 import sys
-
+# Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
+# (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)
+tqdm.pandas()
 from extraction.methods.extending_model_outputs import resolve_name_to_inchi
 
 sys.path.append('..')
@@ -43,7 +45,7 @@ def tidy_knapsack_output(knapsack_results: pd.DataFrame, output_csv: str):
     problems = knapsack_results[knapsack_results['InChIKey']=='']
     assert len(problems)==0
     unresolved = knapsack_results[knapsack_results['InChIKey'].isna()][['example_compound_name']].drop_duplicates(subset=['example_compound_name'])
-    unresolved['InChIKey_from_name'] = unresolved['example_compound_name'].apply(resolve_name_to_inchi)
+    unresolved['InChIKey_from_name'] = unresolved['example_compound_name'].progress_apply(resolve_name_to_inchi)
     knapsack_results = pd.merge(knapsack_results, unresolved, on='example_compound_name', how='left')
     knapsack_results['InChIKey'] = np.where(knapsack_results['InChIKey'].isna(),
                                             knapsack_results['InChIKey_from_name'], knapsack_results['InChIKey'])
@@ -53,7 +55,7 @@ def tidy_knapsack_output(knapsack_results: pd.DataFrame, output_csv: str):
 
 def compile_family_data():
     big_df = pd.DataFrame()
-    for file in os.listdir(_temp_path)[:10]:
+    for file in os.listdir(_temp_path):
 
         out_csv = os.path.join(_temp_path, file)
         df = pd.read_csv(out_csv)

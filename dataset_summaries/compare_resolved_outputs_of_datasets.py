@@ -6,8 +6,10 @@ import pandas as pd
 
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
+from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv
 from data.parse_refs import sanitise_doi
+from dataset_summaries.data_summaries import get_deepseek_accepted_output_as_df
 from extraction.methods.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe, convert_taxadata_to_verbatim_dataframe
 from extraction.methods.running_models import deepseek_pkls_path
 
@@ -18,6 +20,8 @@ def compare_two_outputs_accepted(df1, df2, out_dir: str, label1: str, label2: st
     df2_resolved = df2[['accepted_name', 'InChIKey_simp']].drop_duplicates()
 
     merged = pd.merge(df1_resolved, df2_resolved, on=['accepted_name', 'InChIKey_simp'], how='outer', indicator=True)
+    merged._merge.value_counts().reset_index().rename(
+        columns={'index': '_merge', 0: 'count'}).to_csv(os.path.join(out_dir, 'resolved_data_summary.csv'))
     print(merged)
     unique_left_count = len(merged[merged['_merge'] == 'left_only'])
     unique_right_count = len(merged[merged['_merge'] == 'right_only'])
@@ -69,18 +73,21 @@ def main():
     compare_two_outputs_accepted(wikidata, knapsack_data, 'wikidata_knapsack_comparison', 'WikiData', 'KNApSAcK')
 
     # With validation data
-    deepseek_df = pd.DataFrame()
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
-    for doi in dois:
-        deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
-        df = convert_taxadata_to_accepted_dataframe(deepseek_output)
-        deepseek_df = pd.concat([deepseek_df, df])
+    deepseek_df = get_deepseek_accepted_output_as_df(dois)
     compare_two_outputs_accepted(wikidata[wikidata['refDOI'].isin(dois)], deepseek_df, 'wikidata_deepseek_comparison_on_validation_data', 'WikiData',
                                  'DeepSeek')
 
     compare_two_outputs_accepted(wikidata, deepseek_df, 'deepseek_on_validation_data_vs_all_wikidata', 'WikiData', 'DeepSeek')
     compare_two_outputs_accepted(knapsack_data, deepseek_df, 'deepseek_on_validation_data_vs_all_knapsack', 'KNApSAcK', 'DeepSeek')
+
+    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    deepseek_df = get_deepseek_accepted_output_as_df(result)
+    compare_two_outputs_accepted(wikidata, deepseek_df, 'deepseek_on_phytochem_papers_vs_all_wikidata', 'WikiData', 'DeepSeek')
+    compare_two_outputs_accepted(knapsack_data, deepseek_df, 'deepseek_on_phytochem_papers_vs_all_knapsack', 'KNApSAcK', 'DeepSeek')
+
+
 
 
 if __name__ == '__main__':

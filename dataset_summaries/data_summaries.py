@@ -1,4 +1,6 @@
 import os
+import pathlib
+import pickle
 
 import numpy as np
 import pandas as pd
@@ -6,8 +8,13 @@ from matplotlib import pyplot as plt
 from wcvpy.wcvp_download import get_all_taxa
 import statsmodels.api as sm
 
+from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
+from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv, WCVP_VERSION
+from data.parse_refs import sanitise_doi
+from extraction.methods.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
+from extraction.methods.running_models import deepseek_pkls_path
 
 
 def get_loess_outputs(data, x_var, y_var, outpath):
@@ -82,26 +89,45 @@ def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, extras_to_ann
     sns.reset_orig()
 
 
-def summarise(occurrences_csv: str, outpath):
-    df = pd.read_csv(occurrences_csv, index_col=0)
+def summarise(df: pd.DataFrame, outpath, do_regression=True):
+    pathlib.Path(outpath).mkdir(parents=True, exist_ok=True)
+    df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
     df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
+    if do_regression:
+        phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
+        reg_data = pd.DataFrame(
+            {'family': phytochemical_family_count.index, 'Species per Family in Data': phytochemical_family_count.values})
+        families = get_all_taxa(version=WCVP_VERSION, accepted=True, ranks=['Species'])
 
-    phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
-    reg_data = pd.DataFrame(
-        {'family': phytochemical_family_count.index, 'Species per Family in Data': phytochemical_family_count.values})
-    families = get_all_taxa(version=WCVP_VERSION, accepted=True, ranks=['Species'])
+        family_size = families.groupby('accepted_family')['accepted_species'].count()
+        fam_df = pd.DataFrame({'family': family_size.index, 'Species per Family': family_size.values})
 
-    family_size = families.groupby('accepted_family')['accepted_species'].count()
-    fam_df = pd.DataFrame({'family': family_size.index, 'Species per Family': family_size.values})
+        reg_data = reg_data[reg_data['Species per Family in Data'] > 0]
+        reg_data = pd.merge(reg_data, fam_df, on='family', how='left')
 
-    reg_data = reg_data[reg_data['Species per Family in Data'] > 0]
-    reg_data = pd.merge(reg_data, fam_df, on='family', how='left')
+        plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data', outpath)
 
-    plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data', outpath)
+def get_deepseek_accepted_output_as_df(dois: list):
+    deepseek_df = pd.DataFrame()
+    for doi in dois:
+        deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
+        df = convert_taxadata_to_accepted_dataframe(deepseek_output)
+        deepseek_df = pd.concat([deepseek_df, df])
+    return deepseek_df
+
 
 def main():
-    summarise(wikidata_plantae_compounds_csv, 'wikidata')
-    summarise(knapsack_plantae_compounds_csv, 'knapsack')
+
+    summarise(pd.read_csv(wikidata_plantae_compounds_csv, index_col=0), 'wikidata')
+    summarise(pd.read_csv(knapsack_plantae_compounds_csv, index_col=0), 'knapsack')
+    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    dois = doi_data_table['refDOI'].unique().tolist()
+    deepseek_df = get_deepseek_accepted_output_as_df(dois)
+    summarise(deepseek_df, 'deepseek_validaton', do_regression=False)
+
+    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', do_regression=False)
+
 
 if __name__ == '__main__':
     main()

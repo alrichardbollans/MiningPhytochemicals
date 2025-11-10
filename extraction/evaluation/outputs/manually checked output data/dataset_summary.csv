@@ -1,0 +1,5 @@
+,name,compound,doi,InChIKey,accepted_ipni_id,accepted_name,accepted_name_w_author,accepted_family,accepted_rank,accepted_species,accepted_species_w_author,accepted_species_ipni_id,accepted_parent,plant_name_id,taxon_status,matched_by,matched_name
+count,103,103,103,68,103,103,103,103,103,103,103,103,103,103,103,103,103
+unique,10,99,9,64,10,10,10,8,1,10,10,10,9,10,2,4,10
+top,forsythia suspensa,stigmasterol,10.1155/2014/304830,HCXVJBMSMIARIN-PHZDYDNGSA-N,608900-1,Forsythia suspensa,Forsythia suspensa (Thunb.) Vahl,Oleaceae,Species,Forsythia suspensa,Forsythia suspensa (Thunb.) Vahl,608900-1,Forsythia,369441,Accepted,direct_wcvp_unique,Forsythia suspensa
+freq,34,2,34,2,34,34,34,34,103,34,34,34,34,34,79,65,34
