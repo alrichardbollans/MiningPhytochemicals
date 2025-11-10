@@ -75,9 +75,9 @@ def resolve_name_to_inchi(name: str):
         if out is not None:
             assert is_valid_inchikey(out)
         pkled_inchi_translation_result[standard_name] = out
-    if not failed_search:
-        with  open(inchi_translation_cache, 'wb') as pfile:
-            pickle.dump(pkled_inchi_translation_result, pfile)
+        if not failed_search:
+            with  open(inchi_translation_cache, 'wb') as pfile:
+                pickle.dump(pkled_inchi_translation_result, pfile)
     return pkled_inchi_translation_result[standard_name]
 
 

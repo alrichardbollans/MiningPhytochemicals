@@ -1,5 +1,5 @@
 ,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family,pairs
-count,8474,8474,8474,8474,8474,8474,8043,8474,8474
-unique,4316,4246,3983,1574,1179,1179,1090,97,7865
-top,(-)-beta-Sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,KZJWDPNRJALLNS,Prunus avium,Prunus avium,Prunus avium (L.) L.,Prunus avium,Menispermaceae,CitharexylumBLGXFZZNTVWLAY
-freq,56,56,57,289,294,294,294,1200,7
+count,109857,109857,109857,109857,109857,109857,104231,109857,109857
+unique,31327,30742,28395,19931,15275,15275,13713,326,101941
+top,(-)-beta-Sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,KZJWDPNRJALLNS,Arabidopsis thaliana,Solanum lycopersicum,Solanum lycopersicum L.,Arabidopsis thaliana,Fabaceae,CitrusIXZUPBUEKFXTSD
+freq,571,571,581,776,776,776,776,13440,16

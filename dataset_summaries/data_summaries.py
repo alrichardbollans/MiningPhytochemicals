@@ -95,7 +95,7 @@ def summarise(df: pd.DataFrame, outpath, do_regression=True):
     df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
     df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
 
-    output_geographic_plots(df, outpath)
+    # output_geographic_plots(df, outpath)
 
     if do_regression:
         phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()

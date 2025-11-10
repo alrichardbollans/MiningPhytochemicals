@@ -39,7 +39,7 @@ def get_errors_from_result(result):
 
 
 def random_cases():
-    random_txt_dir, result = get_sanitised_dois_random_papers('random papers')
+    random_txt_dir, result = get_sanitised_dois_for_papers('random papers')
     out_df = get_errors_from_result(result)
     out_df.to_csv(os.path.join('outputs', 'model_errors_on_random_data.csv'))
 
