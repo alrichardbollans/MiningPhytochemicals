@@ -7,7 +7,7 @@ import pandas as pd
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
-from data.get_wikidata import wikidata_plantae_compounds_csv
+from data.get_wikidata import wikidata_plantae_compounds_csv, wikidata_plantae_reference_data_csv
 from data.parse_refs import sanitise_doi
 from dataset_summaries.data_summaries import get_deepseek_accepted_output_as_df
 from extraction.methods.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe, convert_taxadata_to_verbatim_dataframe
@@ -72,20 +72,23 @@ def main():
 
     compare_two_outputs_accepted(wikidata, knapsack_data, 'wikidata_knapsack_comparison', 'WikiData', 'KNApSAcK')
 
+    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    deepseek_df = get_deepseek_accepted_output_as_df(result)
+    compare_two_outputs_accepted(wikidata, deepseek_df, 'deepseek_on_phytochem_papers_vs_all_wikidata', 'WikiData',
+                                 'DeepSeek')
+    compare_two_outputs_accepted(knapsack_data, deepseek_df, 'deepseek_on_phytochem_papers_vs_all_knapsack', 'KNApSAcK',
+                                 'DeepSeek')
+
     # With validation data
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
+    wikidata = pd.read_csv(wikidata_plantae_reference_data_csv)
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
     compare_two_outputs_accepted(wikidata[wikidata['refDOI'].isin(dois)], deepseek_df, 'wikidata_deepseek_comparison_on_validation_data', 'WikiData',
                                  'DeepSeek')
 
     compare_two_outputs_accepted(wikidata, deepseek_df, 'deepseek_on_validation_data_vs_all_wikidata', 'WikiData', 'DeepSeek')
     compare_two_outputs_accepted(knapsack_data, deepseek_df, 'deepseek_on_validation_data_vs_all_knapsack', 'KNApSAcK', 'DeepSeek')
-
-    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    deepseek_df = get_deepseek_accepted_output_as_df(result)
-    compare_two_outputs_accepted(wikidata, deepseek_df, 'deepseek_on_phytochem_papers_vs_all_wikidata', 'WikiData', 'DeepSeek')
-    compare_two_outputs_accepted(knapsack_data, deepseek_df, 'deepseek_on_phytochem_papers_vs_all_knapsack', 'KNApSAcK', 'DeepSeek')
 
 
 

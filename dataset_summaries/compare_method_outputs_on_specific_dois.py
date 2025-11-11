@@ -115,12 +115,12 @@ def main():
         os.path.join('wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_counts.csv'))
     result_venn_diagram(results['found_in_wikidata_but_not_deepseek'],
                    results['found_in_deepseek_but_not_wikidata'],
-                   results['agreements'], os.path.join('wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_venn.jpg'))
+                   results['agreements'], os.path.join('wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_venn.jpg'), 'WikiData', 'DeepSeek')
     results = get_counts_for_dois(dois, verbatim=False)
     pd.DataFrame.from_dict(results, orient='index').to_csv(os.path.join('wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_counts.csv'))
     result_venn_diagram(results['found_in_wikidata_but_not_deepseek'],
                    results['found_in_deepseek_but_not_wikidata'],
-                   results['agreements'], os.path.join('wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_venn.jpg'))
+                   results['agreements'], os.path.join('wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_venn.jpg'), 'WikiData', 'DeepSeek')
 
     ## Test Data
     doi_data_table = pd.read_csv(test_data_csv, index_col=0)

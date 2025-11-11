@@ -1,0 +1,5 @@
+,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family,refDOI
+count,530751,530751,530751,530751,530751,530751,521412,530751,530751
+unique,148350,148860,96346,27388,25249,25249,23829,358,61660
+top,beta-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,KZJWDPNRJALLNS,Camellia sinensis,Tripterygium wilfordii,Tripterygium wilfordii Hook.f.,Citrus × aurantium,Asteraceae,10.1002/FFJ.2730100605
+freq,3057,3055,4803,1399,1451,1451,2078,73060,901

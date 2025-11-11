@@ -9,7 +9,7 @@ import requests
 from requests import HTTPError
 from tqdm import tqdm
 
-from data.get_wikidata import data_path, wikidata_plantae_compounds_csv
+from data.get_wikidata import data_path, wikidata_plantae_reference_data_csv
 
 api_endpoint = "https://api.core.ac.uk/v3/"
 
@@ -189,7 +189,7 @@ def build_pdf_data(dois: list[str]) -> None:
 
 
 def main():
-    compounds = pd.read_csv(wikidata_plantae_compounds_csv)
+    compounds = pd.read_csv(wikidata_plantae_reference_data_csv)
     dois = compounds['refDOI'].unique().tolist()
     assert len(dois) == len(set([sanitise_doi(c) for c in dois]))
     build_text_data(dois)
