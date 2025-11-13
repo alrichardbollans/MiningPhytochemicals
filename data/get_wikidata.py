@@ -72,6 +72,7 @@ def tidy_wikidata_output(wikidata_results: pd.DataFrame):
     important_cols = ['organism_name', 'ipniID', 'structureLabel', 'structure_inchikey', 'structure_smiles',
                       'structure_cas', 'chembl_id', 'refDOI']
     wikidata_results = wikidata_results[important_cols]
+    # To improve wikidata only include records with a doi reference
     wikidata_results = wikidata_results.dropna(subset=['structureLabel', 'organism_name', 'refDOI'], how='any')
 
     # rename to match other data sources
@@ -121,11 +122,6 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
     wikidata_results['InChIKey_simp'] = wikidata_results['InChIKey'].apply(simplify_inchi_key)
 
     wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
-
-    # To improve wikidata only include records with a doi reference,
-    # though I think query does this anyway
-    if 'refDOI' in wikidata_results.columns:
-        wikidata_results = wikidata_results.dropna(subset=['refDOI'])
 
     if for_paper_analysis:
         wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'refDOI'],

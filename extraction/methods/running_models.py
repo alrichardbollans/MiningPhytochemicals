@@ -5,6 +5,7 @@ import pickle
 import langchain_core
 import pandas as pd
 import pydantic_core
+from tqdm import tqdm
 
 from data.get_wikidata import data_path
 from data.get_data_with_full_texts import validation_data_csv
@@ -19,7 +20,7 @@ deepseek_pkls_path = os.path.join(repo_path, 'extraction', 'deepseek_pkls')
 
 
 def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = None,
-                  single_chunk: bool = True, rerun=True, rerun_inchi_resolution:bool=True) -> TaxaData:
+                  single_chunk: bool = True, rerun=True, rerun_inchi_resolution: bool = True) -> TaxaData:
     if not rerun and os.path.exists(pkl_dump):
         with open(pkl_dump, "rb") as file_:
             output = pickle.load(file_)
@@ -35,7 +36,8 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
     if single_chunk:
         # For most of analysis, will be testing on single chunks as this is how we've annotated them.
         # In this instance, the chunks should fit in the context window
-        assert len(text_chunks) == 1
+        if not len(text_chunks) == 1:
+            print(f'splitting chunks for {text_file}')
     # A few different methods, depending on the specific model are used to get a structured output
     # and this is handled by with_structured_output. See https://python.langchain.com/docs/how_to/structured_output/
     extractor = standard_prompt | model.with_structured_output(schema=TaxaData, include_raw=False)
@@ -139,7 +141,7 @@ def main():
     #     fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
     #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
     #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
+    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
     #
     #     print(result_)
     #
@@ -151,7 +153,7 @@ def main():
     #     fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
     #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
     #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
+    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
     #
     #     print(result_)
     #
@@ -162,19 +164,21 @@ def main():
     #     fulltextpath = os.path.join(medplant_txt_dir, f'{sanitised_doi}.txt')
     #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
     #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False)
+    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
     #
     #     print(result_)
 
     ### Phytochem paper examples
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    for sanitised_doi in result:
+    for i in tqdm(range(len(result))):
+        sanitised_doi = result[i]
         print('###########')
         print(sanitised_doi)
         fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
         result_ = query_a_model(models[example_model_name][0], fulltextpath,
                                 models[example_model_name][1],
-                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=True)
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                rerun_inchi_resolution=False)
 
         print(result_)
     #

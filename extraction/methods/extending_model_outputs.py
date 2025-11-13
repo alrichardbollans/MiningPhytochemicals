@@ -21,7 +21,9 @@ except FileNotFoundError:
 
 _original_timeout = 0.34
 _timeout = [0.3]
-# _wcvp_taxa = get_all_taxa()
+_wcvp_taxa = get_all_taxa()
+
+
 def add_accepted_info(deepseek_output: TaxaData):
     deepseek_names = pd.DataFrame([c.scientific_name for c in deepseek_output.taxa], columns=['scientific_name'])
     acc_deepseek_names = get_accepted_info_from_names_in_column(deepseek_names, 'scientific_name', all_taxa=_wcvp_taxa)
@@ -52,7 +54,7 @@ def resolve_name_to_inchi(name: str):
     failed_search = False
     if standard_name not in pkled_inchi_translation_result:
         out = None
-        if standard_name is not None and standard_name !='':
+        if standard_name is not None and standard_name != '':
 
             try:
                 time.sleep(_timeout[0])
@@ -71,7 +73,7 @@ def resolve_name_to_inchi(name: str):
                 out = None
                 failed_search = True
                 print(f'WARNING: not resolved: {name}')
-                _timeout[0] = _timeout[0]*2
+                _timeout[0] = _timeout[0] * 2
         if out is not None:
             assert is_valid_inchikey(out)
         pkled_inchi_translation_result[standard_name] = out
