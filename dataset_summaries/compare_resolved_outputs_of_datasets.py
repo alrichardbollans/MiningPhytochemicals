@@ -13,12 +13,14 @@ from dataset_summaries.data_summaries import get_deepseek_accepted_output_as_df,
 def compare_two_outputs_accepted(df1, df2, out_tag: str, label1: str, label2: str):
     out_dir = os.path.join('comparisons', out_tag)
     pathlib.Path(out_dir).mkdir(parents=True, exist_ok=True)
-    df1_resolved = df1[['accepted_name', 'InChIKey_simp']].drop_duplicates(
-        subset=['accepted_name', 'InChIKey_simp'])
-    df2_resolved = df2[['accepted_name', 'InChIKey_simp']].drop_duplicates(
-        subset=['accepted_name', 'InChIKey_simp'])
+    df1 = df1.dropna(subset=['accepted_name', 'InChIKey_simp'], how='any')
+    df2 = df2.dropna(subset=['accepted_name', 'InChIKey_simp'], how='any')
+    df1['pairs'] = df1['accepted_name'] + df1['InChIKey_simp']
+    df1 = df1.drop_duplicates(subset=['pairs'], keep='first')[['pairs']]
+    df2['pairs'] = df2['accepted_name'] + df2['InChIKey_simp']
+    df2 = df2.drop_duplicates(subset=['pairs'], keep='first')[['pairs']]
 
-    merged = pd.merge(df1_resolved, df2_resolved, on=['accepted_name', 'InChIKey_simp'], how='outer', indicator=True)
+    merged = pd.merge(df1, df2, on=['pairs'], how='outer', indicator=True)
     merged._merge.value_counts().reset_index().rename(
         columns={'index': '_merge', 0: 'count'}).to_csv(os.path.join(out_dir, 'resolved_data_summary.csv'))
     print(merged)
@@ -87,8 +89,9 @@ def main():
                                                'WikiData and KNApSAcK',
                                                'DeepSeek')
     only_in_deepseek_merge_info = merged_data[merged_data['_merge'] == 'right_only']
+    deepseek_df['pairs'] = deepseek_df['accepted_name'] + deepseek_df['InChIKey_simp']
     only_in_deepseek = deepseek_df[
-        deepseek_df['accepted_name'].isin(only_in_deepseek_merge_info['accepted_name'].values)]
+        deepseek_df['pairs'].isin(only_in_deepseek_merge_info['pairs'].values)]
     summarise(only_in_deepseek, 'deepseek_phytochem_papers_not_in_other_sources')
 
     # With validation data

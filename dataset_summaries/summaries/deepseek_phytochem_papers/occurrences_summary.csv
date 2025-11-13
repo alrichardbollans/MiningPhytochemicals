@@ -1,5 +1,5 @@
 ,InChIKey_simp,refDOI,accepted_ipni_id,accepted_name,accepted_name_w_author,accepted_family,accepted_rank,accepted_species,accepted_species_w_author,accepted_species_ipni_id,accepted_parent,plant_name_id,taxon_status,matched_by,matched_name,pairs
-count,1674,1674,1643,1645,1645,1645,1645,1582,1582,1582,1582,1645,1645,1645,1645,1645
-unique,857,37,140,141,141,36,4,133,133,133,64,141,1,2,141,1542
-top,KZJWDPNRJALLNS,10.1016_j.jep.2021.113834,711687-1,Nigella sativa,Nigella sativa L.,Asteraceae,Species,Nigella sativa,Nigella sativa L.,711687-1,Gynura,2381679,Accepted,direct_wcvp_unique,Nigella sativa,Cichorium intybusCWVRJTMFETXNAD
-freq,31,172,172,172,172,341,1521,172,172,172,172,172,1645,1545,172,4
+count,8387,8387,8231,8233,8233,8233,8233,8018,8018,8018,8018,8233,8233,8233,8233,8233
+unique,2935,234,672,673,673,100,4,641,641,641,318,673,2,2,673,7460
+top,KZJWDPNRJALLNS,10.30495_tpr.2022.694114,600841-1,Psidium guajava,Psidium guajava L.,Asteraceae,Species,Psidium guajava,Psidium guajava L.,600841-1,Psidium,166741,Accepted,direct_wcvp_unique,Psidium guajava,Moringa oleiferaCWVRJTMFETXNAD
+freq,109,295,249,249,249,943,7829,249,249,249,249,249,8211,7779,249,8

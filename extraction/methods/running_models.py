@@ -173,8 +173,6 @@ def main():
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
     for i in tqdm(range(len(result))):
         sanitised_doi = result[i]
-        print('###########')
-        print(sanitised_doi)
         fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
         result_ = query_a_model(models[example_model_name][0], fulltextpath,
                                 models[example_model_name][1],
