@@ -1,0 +1,5 @@
+,InChIKey_simp,refDOI,accepted_ipni_id,accepted_name,accepted_name_w_author,accepted_family,accepted_rank,accepted_species,accepted_species_w_author,accepted_species_ipni_id,accepted_parent,plant_name_id,taxon_status,matched_by,matched_name,pairs
+count,1674,1674,1643,1645,1645,1645,1645,1582,1582,1582,1582,1645,1645,1645,1645,1645
+unique,857,37,140,141,141,36,4,133,133,133,64,141,1,2,141,1542
+top,KZJWDPNRJALLNS,10.1016_j.jep.2021.113834,711687-1,Nigella sativa,Nigella sativa L.,Asteraceae,Species,Nigella sativa,Nigella sativa L.,711687-1,Gynura,2381679,Accepted,direct_wcvp_unique,Nigella sativa,Cichorium intybusCWVRJTMFETXNAD
+freq,31,172,172,172,172,341,1521,172,172,172,172,172,1645,1545,172,4

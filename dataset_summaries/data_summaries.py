@@ -10,6 +10,7 @@ from sklearn.linear_model import LinearRegression
 from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
     plot_native_number_accepted_taxa_in_regions
 import statsmodels.api as sm
+from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name, get_accepted_info_from_names_in_column
 
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
@@ -154,28 +155,28 @@ def plot_dist_of_metric(df_with_region_data, metric, out_path: str = None, color
     plt.clf()
 
 
-def summarise(df: pd.DataFrame, outpath, do_regression=True):
+def summarise(df: pd.DataFrame, out_tag, do_regression=True):
+    outpath = os.path.join('summaries', out_tag)
     pathlib.Path(outpath).mkdir(parents=True, exist_ok=True)
     df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
     df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
 
-    if do_regression:
-        output_geographic_plots(df, outpath)
+    output_geographic_plots(df, outpath)
 
-        phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
-        reg_data = pd.DataFrame(
-            {'family': phytochemical_family_count.index,
-             'Species per Family in Data': phytochemical_family_count.values})
-        families = get_all_taxa(version=WCVP_VERSION, accepted=True, ranks=['Species'])
+    phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
+    reg_data = pd.DataFrame(
+        {'family': phytochemical_family_count.index,
+         'Species per Family in Data': phytochemical_family_count.values})
+    families = get_all_taxa(version=WCVP_VERSION, accepted=True, ranks=['Species'])
 
-        family_size = families.groupby('accepted_family')['accepted_species'].count()
-        fam_df = pd.DataFrame({'family': family_size.index, 'Species per Family': family_size.values})
+    family_size = families.groupby('accepted_family')['accepted_species'].count()
+    fam_df = pd.DataFrame({'family': family_size.index, 'Species per Family': family_size.values})
 
-        reg_data = reg_data[reg_data['Species per Family in Data'] > 0]
-        reg_data = pd.merge(reg_data, fam_df, on='family', how='left')
+    reg_data = reg_data[reg_data['Species per Family in Data'] > 0]
+    reg_data = pd.merge(reg_data, fam_df, on='family', how='left')
 
-        plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data',
-                                          outpath, 'family')
+    plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data',
+                                      outpath, 'family')
 
 
 def get_deepseek_accepted_output_as_df(dois: list):
@@ -183,8 +184,14 @@ def get_deepseek_accepted_output_as_df(dois: list):
     for doi in dois:
         deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
         df = convert_taxadata_to_accepted_dataframe(deepseek_output)
+        df['refDOI'] = doi
         deepseek_df = pd.concat([deepseek_df, df])
-    return deepseek_df
+
+    deepseek_df = deepseek_df.rename(columns={'accepted_name':'name'})
+    acc_deepseek_df  =get_accepted_info_from_names_in_column(deepseek_df, 'name', wcvp_version=WCVP_VERSION)
+    pd.testing.assert_series_equal(acc_deepseek_df['accepted_name'], acc_deepseek_df['name'], check_index=False, check_names=False)
+    acc_deepseek_df = acc_deepseek_df.drop(columns=['name'])
+    return acc_deepseek_df
 
 
 def get_underlying_sp_distributions():
@@ -228,7 +235,7 @@ def main():
     summarise(deepseek_df, 'deepseek_validaton', do_regression=False)
 
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', do_regression=False)
+    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers')
 
 
 if __name__ == '__main__':
