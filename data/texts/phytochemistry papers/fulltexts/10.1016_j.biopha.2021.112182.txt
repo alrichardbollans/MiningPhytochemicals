@@ -1,0 +1,2035 @@
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+Available online 1 October 2021
+0753-3322/© 2021 The Authors. Published by Elsevier Masson SAS. This is an open access article under the CC BY license
+(http://creativecommons.org/licenses/by/4.0/).
+A review of ethnobotany, phytochemistry, antimicrobial pharmacology and 
+toxicology of Nigella sativa L. 
+Md. Sanower Hossain a,b,*, Ashik Sharfaraz c,1, Amit Dutta c,1, Asif Ahsan c,2, 
+Md. Anwarul Masud c,2, Idris Adewale Ahmed d, Bey Hing Goh e,f, Zannat Urbi g, 
+Md. Moklesur Rahman Sarker h,i, Long Chiau Ming j,** 
+a Department of Biomedical Science, Kulliyyah of Allied Health Sciences, International Islamic University Malaysia, 25200 Kuantan, Malaysia 
+b Faculty of Science, Sristy College of Tangail, 1900 Tangail, Bangladesh 
+c Department of Biotechnology & Genetic Engineering, Mawlana Bhashani Science and Technology University, 1902 Tangail, Bangladesh 
+d Center for Natural Products Research and Drug Discovery, Universiti Malaya, 50603 Kuala Lumpur, Malaysia 
+e Biofunctional Molecule Exploratory (BMEX) Research Group, School of Pharmacy, Monash University Malaysia, Bandar Sunway, Selangor, Malaysia 
+f College of Pharmaceutical Sciences, Zhejiang University, Hangzhou, Zhejiang, PR China 
+g Department of Industrial Biotechnology, Faculty of Industrial Sciences & Technology, Universiti Malaysia Pahang, 26300 Kuantan, Pahang, Malaysia 
+h Department of Pharmacy, State University of Bangladesh, 77 Satmasjid Road, Dhanmondi, Dhaka 1205, Bangladesh 
+i Health Med Science Research Limited, 3/1 Block F, Lalmatia, Dhaka 1207, Bangladesh 
+j PAP Rashidah Sa’adatul Bolkiah Institute of Health Sciences, Universiti Brunei Darussalam, Gadong, BE1410 Brunei, Darussalam   
+A R T I C L E  I N F O   
+Keywords: 
+Antibacterial agent 
+Antibiotic resistance 
+Bioactive molecules 
+Medicinal plant 
+Natural products 
+PhytochemistryToxicology 
+A B S T R A C T   
+Nigella sativa L. is one of the most extensively used traditional medicinal plants. This widely studied plant is 
+known to display diverse pharmacological actions, including antimicrobial activities. Current literature has 
+documented its multi-target mode of antimicrobial actions. N. sativa or its bioactive compounds, such as thy-
+moquinone, can induce oxidative stress, cell apoptosis (by producing reactive oxygen species), increase mem-
+brane permeability, inhibit efflux pumps, and impose strong biocidal actions. Despite its well-documented 
+antimicrobial efficacy in the experimental model, to the best of our knowledge its antimicrobial mechanisms 
+highlighting the multi-targeting properties have yet to be well discussed. Is N. sativa or thymoquinone a valuable 
+lead compound for therapeutic development for infectious diseases? Are N. sativa’s bioactive compounds po-
+tential antimicrobial agents or able to overcome antimicrobial resistance? This review aims to discuss the 
+antimicrobial pharmacology of N. sativa-based treatments. Additionally, it provides a holistic overview of the 
+ethnobotany, ethnopharmacology, and phytochemistry of N. sativa.   
+1. Introduction 
+Infectious diseases (IDs) are among the top ten deadly diseases 
+globally, and the menace of growing antimicrobial resistance (AMR) has 
+challenged and reduced the effectiveness of most clinical antibiotics [1]. 
+Irrational use of antibiotics causes an increased rate of AMR, resulting in 
+high AMR-related deaths globally [2]. For example, methicillin-resistant 
+Staphylococcus aureus (MRSA) infected patients are 64% more likely to 
+die than patients infected with drug-sensitive strains [1]. Additionally, 
+host susceptibility changes and altering the genetic makeup of micro-
+organisms themselves have caused a remarkable growth of AMR 
+worldwide [3]. 
+A multi-target drug approach could be a sustainable strategy to 
+overcome AMR problems, because bacterial resistance to single-target 
+antibiotics develops too rapidly to be sustainable, and resistance to 
+new drugs often develops even before they reach the market [4]. 
+* Corresponding author at: Department of Biomedical Science, Kulliyyah of Allied Health Sciences, International Islamic University Malaysia, 25200 Kuantan, 
+Malaysia. 
+** Corresponding author. 
+E-mail addresses: mshossainbge@gmail.com, sanower.h@live.iium.edu.my (Md.S. Hossain), urbi.zannat@gmail.com (Z. Urbi), long.ming@ubd.edu.bn 
+(L.C. Ming).   
+1 Both authors contributed equally and shared the second author position  
+2 Both authors contributed equally and shared the third author position 
+Contents lists available at ScienceDirect 
+Biomedicine & Pharmacotherapy 
+journal homepage: www.elsevier.com/locate/biopha 
+https://doi.org/10.1016/j.biopha.2021.112182 
+Received 8 August 2021; Received in revised form 5 September 2021; Accepted 7 September 2021   
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+2
+Therefore, the current drug discovery trend has changed from “one--
+molecule-one-target-one-disease” to “one molecule-multi-targets modula-
+tion.” Naturally, plant-derived molecules possess the ability to 
+multi-target as they fight against predators like bacteria, fungi, vi-
+ruses, insects, and herbivores, from their germination to maturity stages, 
+and undergo challenging defense mechanisms for survival [5-7]. So, 
+instead of developing new antibiotics, exploring potential antimicrobial 
+agents from plant sources is convenient and cost-effective. Moreover, 
+access to plant sources is easy and reliable since about 75–80% (more 
+than six billion) of the world’s population depends on traditional 
+medicine-based health care, especially in the less developed and 
+developing countries of the world [8–10]. 
+Nigella sativa L. (NS) is a potent medicinal plant used since ancient 
+times that has been investigated widely to prove its traditional claims. 
+The seeds or extracted oil of NS are traditionally used alone or in com-
+bination with other products like honey, lint, melted butter, and as-
+tringents in Islamic medicine, ayurvedic medicine, Unani traditional 
+medicine, and indigenous medicine. They are used for various diseases 
+or health conditions, including abdominal disorders, abscesses, 
+anorexia, worm infections, asthma, bronchitis, cardiovascular disease, 
+chronic headache, colic, coryza, coughs, dermatosis, diabetes, diar-
+rhoea, dispiritedness, eye infections, fatigue, fever, galactopoiesis, 
+headaches, haemorrhoids, hypertension, jaundice, liver ailments, 
+metabolic syndrome, nasal ulcers, obesity, orchitis, pulmonosis, repro-
+ductive disorders, respiratory infections, rheumatism, sinusitis and sore 
+eyes, and also as a stimulant for body energy [11–15]. 
+The therapeutic effects of NS are due to its richness in several phy-
+tochemicals, nutritionally vital constituents, and polyunsaturated fatty 
+acids (PUFA). NS oil is on the United States Food and Drug Adminis-
+tration’s (FDA) “Generally Recognized as Safe” list. It has multiple 
+bioactive molecules, including thymoquinone (TQ), p-cymene, α-thu-
+jene, carvacrol, β-pinene, limonene, methyl linoleate, sabinene, D- 
+limonene, 4,5-epoxy-1-isopropyl-4- methyl-1-cyclohexene, and 4- 
+terpineol [16–19], of which TQ exerts many pharmacological activ-
+ities, including antimicrobial, anticonvulsant, anticancer, 
+anti-histaminic, anti-diabetic, anti-inflammatory, and antioxidant [20]. 
+It also significantly inhibits the formation of biofilm, which increases 
+AMR in antibiotic-susceptible microorganisms [21,22]. This action 
+probably increases the production of reactive oxygen species in bacterial 
+cells. 
+Antimicrobial activities of NS or its secondary metabolites have been 
+reported. TQ and other bioactive compounds produce ROS, which 
+prompts oxidative stress and cell apoptosis [22] or increases bacteria 
+membrane permeability, thereby promoting the influx of antimicrobial 
+substances [23]. Nigellidine has a binding capacity to N-terminus pro-
+tease and nucleocapsid, and inhibits viral growth [24]. Some other 
+compounds, such as α-hederin and thymohydroquinone, bind to the 
+ACE2 receptor and disrupt viral host interaction [25]. The essential oil 
+of NS (1.5 mg/ml) inhibits the production of mycelia (67.4%) and 
+aflatoxin in Aspergillus parasiticus and TQ generates oxidative stress in 
+Candida glabrata [26,27]. Additionally, NS shows strong biocidal prop-
+erties against parasites [28]. Numerous in vitro and in vivo studies, 
+including many clinical trials, have demonstrated the therapeutic effi-
+cacy of NS against IDs [20,21,27,29–33]. Is NS or TQ a valuable lead 
+compound for therapeutic development for IDs? Are NS’s bioactive 
+compounds potential antimicrobial agents or able to overcome AMR? 
+This review aims to answer these questions by considering the various 
+contributing mechanisms to the antimicrobial pharmacology of 
+NS-based treatment. Additionally, this review provides a holistic over-
+view of the ethnobotany, ethnopharmacology, and phytochemistry of 
+NS, prior to exemplifying its antimicrobial properties and involved 
+mechanisms. Key references are cited to illustrate the concept of 
+mechanisms of NS’s antimicrobial actions and are not meant to be 
+comprehensive. 
+2. Methodology 
+Literature was searched using electronic databases, including 
+PubMed (http://www.ncbi.nlm.nih.gov/pubmed), ScienceDirect 
+(http://www.sciencedirect.com/), Scopus (http://www.scopus.com/), 
+Web of Science (https://apps.webofknowledge.com/), and advanced 
+search in Google Scholar (http://scholar.google.com.my/), as well as 
+recognized books, abstract, and thesis/dissertation. The following key-
+words are "Nigella sativa", “Black seed”, Black cumin”, "antimicrobial", 
+"anti-bacterial", "antiviral", "antifungal", and "anti-parasitic" were used 
+to search the literature. A combination of keywords was used in search 
+engines during the literature survey from years 1951–2021. The relevant 
+papers from the list of references of all retrieved available articles were 
+also searched in the aforementioned databases mentioned above. Other 
+relevant papers from the list of references of all available articles were 
+also searched. All structures of chemical constituents have been drawn 
+using ChemDraw Professional 16.0 software (PerkinElmer). The upda-
+ted international union of pure and applied chemistry (IUPAC) names of 
+isolated compounds of this plant were check-in the PubChem database. 
+3. Nigella sativa 
+3.1. Origin and global distribution 
+The origin of NS is not well documented. Most probably, NS is 
+indigenous to the Mediterranean region [34]. As the seeds of this plant 
+were first discovered in Tutankhamun’s tomb in Egypt in the 18th dy-
+nasty (1549/1550–1292 BCE) [35], it implies that the origin of this 
+plant is Egypt and its adjoining regions. However, NS is distributed 
+globally and cultivated in many countries and regions of the world, 
+including, but not limited to, the Middle Eastern Mediterranean region, 
+Central and Southern Europe, the former Soviet Union (Baltic states, 
+Central Asia, Eastern Europe, Russia, and Transcaucasia), Northern Af-
+rica, Sudan, Ethiopia, Kenya, Somalia, Djibouti, India, Pakistan, 
+Bangladesh, Sri Lanka, Nepal, Iran, Syria, Turkey, and Saudi Arabia [36, 
+37]. The plant is commercially grown in many north Indian states, and 
+India is the world’s largest producer and exporter of NS [36,38]. 
+3.2. Taxonomic hierarchy 
+The taxonomic serial number of N. sativa is 506592 [39].  
+Taxonomic Nomenclature Characteristics 
+Kingdom Plantae Plantes, Planta, Vegetal, plants 
+Subkingdom Viridiplantae Green plants 
+Infrakingdom Streptophyta Land plants 
+Superdivision Embryophyta  
+Division Tracheophyta Vascular plants, tracheophytes 
+Subdivision Spermatophytina Spermatophytes, seed plants, phanérogames 
+Class Magnoliopsida  
+Superorder Ranunculanae  
+Order Ranunculales  
+Family Ranunculaceae Buttercups, boutons d′or, crowfoot 
+Genus Nigella L.  
+Species Nigella sativa L.   
+3.3. Plant description 
+NS is an erect, herbaceous flowering plant with a stiff and multi- 
+branched stem and a well-developed taproot. The agro-morphological 
+traits of NS are distinguishable from other herbaceous plants as well 
+as different accessions of NS. The detailed agro-morphological traits of 
+NS [38,40,41] are presented in Table 1. Fig. 1 shows the anatomy of NS 
+[34]. The different body parts are also indicated clearly, including the 
+cross and transverse sections of the fruits and seeds (Fig. 1). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+3
+3.4. Vernacular names 
+The vernacular name— in other words, local name, common name or 
+non-Latin name—of a plant or animal is derived from the common 
+native speech of everyday life that is distinguishable from the binomial 
+nomenclature. This name originated based on plant morphology, habit 
+and habitat, organoleptic properties, and therapeutic uses. Generally, 
+medicinal plants are traded with their vernacular names [42]. There-
+fore, knowing the vernacular names is crucial for folk-taxonomic iden-
+tification. At the same time, it provides information on plant 
+morphology and gives information on habit and habitat, organoleptic 
+properties, and therapeutic actions of the medicinal plant. However, this 
+nomenclature does not always correspond one-to-one with scientific 
+plant names. For example, both Drypetes afzelii and Adansonia digitate are 
+known as Kiri to the Susu or Soso people of Guinea and Sierra Leone, 
+West Africa [42]. Such complications are prevalent for vernacular 
+names. 
+NS is commonly known as ‘black seed’ in English because the seeds 
+usually turn black upon exposure to air. It is also referred to as ‘Alha-
+bahat Alsawda’, ‘Habbatus Sauda’, and ‘Alkamoun Alaswad’, among the 
+Muslim community, in reference to the colour of its seeds [43]. Other 
+vernacular names of NS are presented in Table 2. The data were 
+extracted from references [12,44,45]. 
+3.5. Agronomic techniques 
+Conventionally, NS is propagated via seeds [46]. The growing season 
+of this crop varies extensively depending on the geographical location of 
+the cultivation area. It is grown as a winter crop in the tropics, whereas 
+in temperate regions it is grown as a spring-summer or autumn crop 
+[47]. Several studies suggested that seeds sown in early spring, with a 
+30 cm or 40 cm spacing and a depth of 2 cm, give a better yield [48] 
+while the soil pH is 8.2 and rainfall is 790 mm [49]. 
+The cultivation of NS is commonly seen in cold temperatures. 
+However, seed dormancy is one of the significant setbacks in cultivating 
+this plant [50]. Germination of NS seed is very low (12–15%), and 
+stratification for three weeks has proven to be effective for breaking its 
+dormancy and germination [46,48]. Furthermore, a temperature of 
+12–18 ◦C and 60% soil moisture are suitable for massive seed germi-
+nation [46]. In order to increase its grain size and oil content, one or two 
+irrigations are recommended at the flowering and seed formation stage 
+[45]. 
+There is a relationship of yield with genetic varieties of the same 
+plant species [51]. Selection of the high yield of secondary metabolite 
+varieties of NS and production through vegetative propagation is 
+essential. Since seedlings have genetic variations, vegetative propaga-
+tion, for example, adventitious rooting and plant tissue cultures [52,53], 
+is recommended for mass-scale production. Environmental factors such 
+as abiotic and biotic stress impact the yield of secondary metabolites 
+[54–56]; these factors could also be considered for NS production. In 
+some cases, abiotic stress, such as salinity stress, increases the yield of 
+secondary lead compounds in plants [57], because stress conditions alter 
+the metabolic pathway to accumulate the related metabolites to defend 
+against adverse conditions [58,59]. NS plants manifest extreme vari-
+ability in phytochemical profiles due to the adverse effects of changing 
+climatic and environmental conditions [50,60]. For this reason, in vitro 
+seed germination as well as vegetative propagation techniques are good 
+choices for large-scale production of this plant with regular phyto-
+chemical profiles under aseptic and controlled conditions. 
+4. Ethnopharmacological uses 
+NS has been commonly used for medicinal and culinary purposes for 
+many centuries [61]. Therefore, it is essential to study the ethnobotany 
+of NS due to its wide use in the different parts of the world, from gen-
+eration to generation. Due to traditional knowledge and customs, 
+different communities have developed unique practices concerning NS 
+and its medicinal uses. 
+4.1. Medicinal uses 
+Traditional medicine practices like Unani, Ayurveda [37], and the 
+Arabian, Indian, and Chinese civilizations have used NS for a long time 
+due to its numerous benefits [62]. For example, in Ayurveda, NS is 
+known to balance Vata (movement energy) and Kapha (structure and 
+lubrication energy), and increase Pitta (metabolism or digestion en-
+ergy). The therapeutic uses of NS seeds mentioned in the Unani system 
+include stomachic, laxative, carminative and galactagogue, and to 
+counter inflammation, ascites, jaundice, piles, tertian fever, paralysis, 
+and eye diseases. It is also used to combat headaches, cough and asthma, 
+and to expel kidney stones. 
+4.2. Culinary and other traditional uses 
+NS seeds have a pungent, bitter taste and aroma. They are used as a 
+condiment in curries in many cultures. NS is used as a flavouring addi-
+tive in bread and pickles, and is also added to tea, coffee, casseroles etc. 
+The grounded NS seeds are usually sprinkled on salads or mixed with 
+honey. NS is an ingredient of the spice mixture panch phoron, and the 
+dry-roasted seeds are sometimes used to flavour curries, pulses, and 
+vegetables [37,63]. 
+NS seeds have also been used as a liver tonic, diaphoretic, diuretic, 
+stomachic, emmenagogue, and control for parasitic infections [37,64]. 
+NS can be combined with other ingredients to cure diarrhoea, dyspepsia, 
+reflux, obesity and dyspnea, and to freshen breath. The seeds are taken 
+with buttermilk to treat persistent hiccups and treat anorexia, vomiting, 
+oedema, and puerperal diseases [63,64]. They are useful against mer-
+cury poisoning, leprosy, flatulence, and polio [61,63], and can treat 
+amenorrhea, dysmenorrhea, and skin eruptions. A tincture prepared 
+from NS seeds has been proven to be useful [62]. It is also used as a 
+vermifuge, and its oil extract is taken orally as a daily tonic due to its 
+immunostimulant property [31,61]. 
+Many people use the oil to treat skin conditions, including eczema, 
+Table 1 
+Agro-morphological traits of Nigella sativa.  
+Trait Value/characteristics 
+Plant height 30–70 cm 
+Stem   
+Diameter 0.65–0.98 cm  
+Shape Angular 
+Leaves   
+Arrangement Alternate  
+Length 2.5–5.0 cm  
+Width 2.0–2.5 cm  
+Shape Linear to lanceolate  
+Phyllotaxis 1–2  
+Pinna/rachis 5–6 
+Root   
+Length 12.74 – 15.08 cm 
+Flower   
+Color Pink, white, yellow, pale blue, or pale purple color  
+Size 2.74 cm × 2.78 cm  
+Number of 
+petals 
+5–10  
+Number of 
+sepals 
+4–6 
+Seed   
+Capsule size 0.4–1.7 cm  
+Seed/capsule 59.29 ± 3.2  
+Color Black  
+Size 2.33 mm ± 0.1 × 1.14 mm ± 0.02  
+Shape Acute, angles sharp, ovate, tetrangular, more tapering at 
+the end. 
+Flowering and Fruiting 
+time 
+January to April  
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+4
+psoriasis, and boils. Beeswax mixed with black seed oil is also used for 
+skin infections, burns, joint pain relief, moisturizers, or anti-wrinkle 
+agents [62,63]. The oil also has antiseptic properties and can be 
+applied externally. To restore a lost sense of smell, dried pods are snif-
+fed. They are used as insect repellents such as mothballs, and to preserve 
+woollen fabrics from insect damage by scattering between the folds of 
+fabrics [62]. 
+4.3. Documentation of uses of Nigella sativa in religious and medical 
+scripts 
+The names of medicinal plants, their formulation, and their impor-
+tance has been mentioned in religious books [65,66]. NS is mentioned in 
+books including The Prophetic Medicine and the Bible – two significant 
+books across the old and new testaments (Isaiah 28:25,27 and Matthew 
+23:23). In the Bible, NS is cited more than any other plant. It is used in 
+cancer treatment as well as in birth control [67]. NS is the curative 
+“black cumin” in the Bible and is described as Melanthion by Hippo-
+crates and Dioscorides, and as Gith by Pliny [68]. 
+Prophet Mohammed (Peace Be Upon Him) narrated that NS seed can 
+cure every ailment or illness except death (Al-Bhukhaari, 5688). Ibn 
+Sina, also known as Avicenna in the west, who is famous for his book 
+“The Canon of medicine,” advised about the use of NS. It helps the body 
+recover from dispiritedness and fatigue and boosts the body’s energy 
+[69]. Pedanius Dioscorides reported using NS seeds for food and ther-
+apeutic purposes to treat diseases of the eyes, toothache, and leprosy, to 
+increase urine, and to repel snakes. In Babylonia, the NS plant was used 
+externally to treat swelling and bruises, and internally to treat stomach 
+problems. The physician Assaf started its medical uses to treat colds in 
+the chest, head and body, nose infections and bright skin spots, as well as 
+to increase semen and virility, and to improve hair growth. It also served 
+as a pharmaceutical constituent against venomous creatures’ stings and 
+poisons [61]. In the history of Islamic medicine, NS is a “miraculous or 
+blessed” plant. Muslim scholars went to tremendous lengths to explore 
+the remedial features of this plant. Its importance is stated in “Prophetic 
+Medicine” tradition. Aishah (may Allah be pleased with her) narrated 
+that she heard the messenger of Allah (Peace Be Upon Him) saying: 
+“There is healing in black cumin for every disease, except as-saam”. Ibn 
+Fig. 1. Nigella sativa and its different body parts. 1. Habit, 2. Petal, 3. Stamen (front view), 4. Fruit, 5. Fruit (transverse section), 6. Seeds, and 7. Seeds (longitudinal 
+and transverse section). (Artwork credit: Rabyea Jahan Mukti1). 
+1 Department of Computer Science and Engineering, Uttara University, Dhaka-1230, Bangladesh 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+5
+Shihab said: As-saam is death [Sahih Bukhari, Volume 7, Book 71, Hadith 
+591; Sunan Ibn Majah, Vol. 4, Book of Medicine, Hadith 3449]. 
+In the Hadith above, the formulation of NS is also clearly stated: 
+“Take five or seven (seeds) and grind them to a powder, then drop them 
+into his nose with drops of olive oil, on this site and on this site” for the 
+treatment of sickness. It is stated in the books of Seerah that Nabi-e- 
+Akram (Peace Be Upon Him) himself used to take black seed for thera-
+peutic purposes together with honey syrup [70,71]. NS was ascertained 
+by Suhar Bakht and called habb-i-Sajzi, Sigzi grains. 
+The immense benefits of NS have been described by many ancient 
+scholars, including ancient Greek physicians like Hippocrates (460–370 
+BCE) and Dioscorides (40–90 CE), Galen (129–200/216 CE), Muslim 
+scholars like Al-Biruni (973–1048) and Ibn Sina (980–1037) (Table 3). 
+4.4. Use of Nigella sativa in modern medicine 
+Many of the traditional or historical uses of NS have been scientifi-
+cally examined. The medicinal importance and scientific quest of this 
+plant can be understood from the findings of an advanced search in the 
+PubMed database (as of 5 January 2021), with the cumulative publi-
+cation record presented in Fig. 2. A systematic search using the 
+following keywords (Nigella sativa[Title/Abstract]) OR (black seed 
+[Title/Abstract]) retrieved 1534 journal articles, of which 1065 were 
+from Medline only. Further filtration revealed 1365 journal articles, of 
+which 67 are clinical trials in the PubMed database. Among the (sys-
+temic) reviews, Medline covered only 97 out of 169 in PubMed. The 
+plant has attracted more focus in recent years, as evidenced by the 
+gradual upward trend of publications (Fig. 2). In the twentieth century, 
+only 54 and 46 journal articles were published in the PubMed and 
+Medline databases, respectively. This number has increased from the 
+beginning of the twentieth century. In 2020 alone, 176 publications 
+were included in PubMed, of which 17 articles are relevant to corona-
+virus disease (COVID-19). As NS has prominent antiviral compounds, 
+such as TQ, extensive investigation is in progress, including clinical 
+trials. It has been reported that the antiviral action of TQ is equivalent or 
+likely superior to chloroquinone and hydroxychloroquinone. TQ 
+demonstrated a good safety profile, whereas chloroquinone and 
+hydroxychloroquinone showed toxicity effects [72,73]. 
+Extant literature also provides much-needed evidence to support NS 
+usage. For example, Bamosa, Kaatabi, Lebdaa, Elq and Al-Sultanb [74] 
+reported that the grounded NS (supplement of 2 gm/day for three 
+months in 94 uncontrolled types-2 diabetes mellitus patients) produced 
+significant improvement in glycemia and diabetes control laboratory 
+parameters. NS also showed mnemonic or nootropic properties. Among 
+the elderly, its commercially available capsules (500 mg, taken for nine 
+weeks) were shown to increase executive functions, as shown by various 
+memory-related tests (letter cancellation, logical memory, trail making, 
+digit span, and Stroop tests) [75]. Taking 500 mg NS capsules daily for 
+four weeks as a nutritional supplement reduces anxiety, improves 
+memory, and stabilizes mood [43]. Other clinical studies revealed that 
+NS has activity against allergic diseases. Commercially available black 
+seed oil capsules with the brand name Immerfit® were applied to pa-
+tients with allergic diseases. Each capsule contained 500 mg NS oil with 
+1.5 mg β- carotene, 6 mg of vitamin E, and 70 μg biotin for stabilization. 
+All study groups were given capsules at 40–80 mg/kg/day. The four 
+studies showed that NS oil effectively relieved allergic disease symptoms 
+(atopic, allergic rhinitis, bronchial asthma, eczema) [76]. 
+5. Chemical compositions and phytocompounds 
+The following section outlines and discusses the chemical composi-
+tion of NS, the activity of phytocompounds derived from NS, and 
+structure–activity relationship of these active molecules. 
+5.1. Chemical compositions 
+NS seed contains a tiny amount of essential oils (0.4–1.49%), about 
+30–45% fixed oils and other compounds (Table 4). The concentration of 
+other compounds varies. NS contains amino acids, proteins, carbohy-
+drates as well as bioactive molecules. 
+The therapeutic efficacy of a plant depends on the phytocompounds 
+Table 2 
+The vernacular name of Nigella sativa.  
+Language Name Language Name 
+Arabic Habatut Barakah Shooneez Hebrew Ketzakh 
+Habba Sauda Indonesian Jintan hitam 
+Habb al-barka, Kannada Krishna Jeerige 
+Kamun eswid Malayalam Karim jerrakam 
+Habbat al-barakah Marathi Kalonji Jire 
+Assamese Kaljeera Persian Siah Dana 
+Kolajeera  Siyâh dâne 
+Amharic Tikur azmud  Siyah daneh 
+Bengali Kalo jeeray Portuguese Cominho-negro 
+Bosnian þurekot6 Punjabi Kalvanji 
+Chinese Hei Zhong Cao 黑種草 Russian Chernushka 
+English Fennel flower, Black cumins Sanskrit Krishana – Jiraka 
+Love-in-amist  Upakunchika 
+Nutmeg flower Spanish Ajenuz, 
+Roman coriander  Arañuel 
+Black caraway or blackseed Swedish Svartkummin 
+Black sesame Tamil Karum jeerakam 
+French Cheveux de Vénus  Karum cheerakam 
+Nigelle Turkish Cörek out 
+Nigelle de Crète Urdu Kalonji 
+Toute épice  Mangrail 
+German Schwarzkümmel  Kalaunji 
+Hindi Kalonji   
+Kalaunji   
+Mangrail    
+Table 3 
+Health benefits of Nigella sativa reported in historical medicine.  
+Scholars Period Health benefits 
+Pharaoh 
+Tutankhamen 
+1341–1323 
+BC 
+Epilepsy and cerebral malaria 
+Hippocrates 460–370 BC Treat diseases of women and children, such as 
+vaginal and oral thrush and skin conditions. 
+Dioscorides 40–90 AD Cure headache, toothaches, nasal congestion, 
+intestinal worms, and promote menstruation 
+and milk production 
+Galen 129–210 AD Hepatic and digestive disorders, common cold, 
+and stimulants in a variety of conditions 
+Al-Biruni 973–1048 Excite body’s energy and recover exhaustion 
+or dissipatedness 
+Ibn Sina 980–1037 Stimulates body’s energy, recover from fatigue 
+or dispiritedness and cancer  
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1965-2000 2001-2005 2006-2010 2011-2015 2016-2020
+N
+u
+m
+b
+e
+r
+o
+f
+P
+u
+b
+li
+c
+a
+ti
+o
+n
+s
+Year
+Pubmed
+Medline
+Fig. 2. Nigella sativa cumulative publication trends in PubMed database (as of 5 
+January 2021). Medline data were extracted to differentiate the trend, which is 
+specific for biomedical and life science research. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+6
+(secondary metabolites). Phytoconstituents are primary metabolites 
+(involved with the life cycle, thus almost the same in all living cells) and 
+secondary metabolites (products of subsidiary pathways, thus dealing 
+with medicinal efficacy in the case of medicinal plants). They are not 
+usually produced under the same conditions. In most cases, the specific 
+function of the phytocompounds and their benefits to the organism itself 
+are not yet known; however, they possess pharmacological properties 
+that are beneficial for humans and animals’ health care systems. The 
+distribution of secondary metabolites differs dramatically from one 
+plant to another, and even different accessions of the same species 
+possess varying quantities and qualities of pharmacologically active 
+compounds [5,81–83]. 
+5.2. Phytocompounds 
+From NS, many phytoconstituents have been extracted, validated, 
+and reported [44]. This review looked at available information on 171 
+isolated phytoconstituents of NS with structure (Fig. 3), part used, 
+extraction method and isolation techniques (Table 5). Among these 
+metabolites, only seven compounds exhibited antimicrobial activities in 
+experimental studies (Table 6). Only a few other compounds showed 
+other pharmacological properties. For example, α-Hederin has potential 
+as an anticancer agent [84]. It is effective against HEp-2 laryngeal cancer 
+cells [85] and has antitumor properties [86]. It can also attenuate lung 
+inflammation and improve cytokines [87]. Oleic acid and linoleic acid 
+modulates the interaction of cardiac glycosides with the sodium pump 
+[88], nigellidine possess immunomodulatory, anti-inflammatory and 
+antioxidant activities [89], and longifolene is effective as an insect re-
+pellent [90]. But the pharmacological roles of a majority of the isolated 
+pure compounds of NS in diverse health management are yet to be 
+discovered, including IDs. However, the list of phytocompounds we 
+have shown in this study might facilitate the researchers in drug dis-
+covery, mainly through computational biology, which can select target 
+candidates with the highest potential for successful disease recovery 
+using bioinformatic tools. 
+The highest number of metabolites has been isolated from seeds, 
+followed by roots and shoots (Fig. 4a). These compounds were in 
+different categories: alkaloids (1–12), fatty acids (13–25), polyphenols 
+(26–54), phytosterols (55–60), terpenes and terpenoids (61–151), and 
+others (152–171). Terpenes and terpenoids were the most predominant 
+secondary metabolites, accounting for 53% of the identified molecules. 
+Fig. 4b shows the prevalence of different types of phytocompounds of 
+NS. For isolation of metabolites, different types of extraction methods, 
+such as methanolic, ethanolic, n-hexane, chloroform, ethyl acetate, 
+diethyl ether, hot and cold water, supercritical carbon dioxide, hydro- 
+distillation and microwave distillation, have been used for different 
+parts of the plant (Table 5). 
+Identification and characterization were done using various chro-
+matography and spectroscopy methods, including thin-layer 
+chromatography (TLC), column chromatography (CC), gas 
+chromatography-mass spectrometry (GC-MS), high-performance liquid 
+chromatography (HPLC), ultra HPLC/MS-MS (UHPLC/MS-MS), 
+reversed-phase HPLC (RP-HPLC), infrared spectroscopy (IR), nuclear 
+magnetic resonance (NMR), mass spectrometry (MS), and X-ray crys-
+tallography (Table 5). 
+5.2.1. Alkaloids 
+A total of 12 alkaloids (1–12) were isolated from the seeds. The 
+naturally occurring alkaloids of NS mainly have an indazole ring as a 
+nucleus, such as migellicine and nigellidine. Nigellidine-4-O-sulfite is 
+the first sulfated alkaloid of its type. Nigellimine and nigellimine n-oxide 
+are isoquinoline alkaloids. Several dolabellane-type diterpene alkaloids, 
+nigellamines A1–A5, were also isolated from NS [124,125]. Natural 
+indazole-type alkaloids have only been obtained from NS, which means 
+they are a potential taxonomic marker [126]. 
+5.2.2. Fatty acids 
+NS possesses different types of fatty acids that can be determined 
+using GC-MS. Linoleic acid is the most predominant fatty acid (56%). 
+Oleic acid is the second-highest fatty acid present (24.6%). Palmitic 
+acid, stearic acid, eicosadienoic acid, linolenic acid and some other acids 
+are also present in small amounts in NS seed oil (13–25) [127]. The 
+determined fatty acids were 8% of the total identified molecules. 
+However, some of these molecules have shown potential modulating 
+properties where the cardiac glycosides interact with the sodium pump 
+[88]. 
+5.2.3. Polyphenols 
+A total of 29 polyphenols have been identified from the seeds, roots 
+and shoots of NS. From roots and shoots, they were identified using RP- 
+HPLC, and from seeds using the UHPLC-MS/MS method. Among 29 
+polyphenols, 17 compounds were phenolic acid (26–42), and the other 
+12 were flavonoids (43–54). Ferulic acid and sinapinic acid were the 
+major phenolic acid esters identified from NS seed extract. In contrast, 
+vanillic acid was the primary phenolic compound in shoots (143.21 mg/ 
+100 gm DW) and roots (89.94 mg/100 gm DW). Quercetin and 
+kaempferol are the major flavonoid glycosides identified in NS seed 
+extract, and catechin was the most abundant compound in roots 
+(3.4 ± 0.74 mg/100 gm DW) and shoots (7.26 ± 0.97 mg/100 gm DW) 
+[128,129]. 
+5.2.4. Phytosterols 
+The total sterol concentration ranges from 1993.07 mg/kg to 
+2887.28 mg/kg in oil extracted from NS. β-sitosterol (44–54%) is the 
+major sterol in NS seed oil. Stigmasterol (16.57–20.92%) is the second 
+major sterol followed by δ-7-stigmasterol, δ-7-avenasterol, campesterol, 
+and cholesterol (55–60) [130]. 
+5.2.5. Terpenes and terpenoids 
+More than 50% of compounds among the identified phyto-
+compounds of NS were terpenes and terpenoids (Fig. 4). We found 91 
+compounds belonging to the family of terpene (61–151). They include 
+mono-terpene, di-terpene, sesquiterpenes, monoterpenoid alcohols and 
+ketone. The major terpenes—TQ, trans-anethole, p-cymene, α-pinene 
+and carvone—have been identified. TQ, the primary compound of NS, 
+has a concentration of 388.61 µg/ml [117]. 
+5.2.6. Others 
+A study showed that NS comprises 21% protein, 35.5% fat, 5.5% 
+moisture, and 3.7% ash and carbohydrate (rhamnose, xylose, and 
+arabinose) [127]. It also contains triterpene saponin (171) (α-hederin), 
+phenylpropanoids (eugenol, ε-cinnamaldehyde) and some alkane hy-
+drocarbons (n-nonane, dodecanal etc.) (152–171). 
+Table 4 
+Chemical compositions of Nigella sativa.  
+Compound Yield (%) Reference 
+Essential oil 0.4–1.49 [77] 
+Fixed oil 30–44.21 [77] 
+Thymoquinone 26.8–54.8 [78] 
+p-cymene 14.7–38.0 [78] 
+Longifolene 1.2–10.2 [78] 
+Thujene 1.3–10.1 [78] 
+Carvacrol 0.5–4.2 [78] 
+Cubebene 0.4–3 [78] 
+Pinene 0.2–2.4 [78] 
+Limonene 0.7–2.3 [78] 
+Sabinene 0.2–1.6 [78] 
+Oleic acid 25 [79,80] 
+Palmitic acid 18 [79,80] 
+Thymoquinone 3.5–8.7 mg/g [79,80]  
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+7
+6. Antimicrobial pharmacology of Nigella sativa 
+Different extracts of NS, NS oil and several bioactive molecules of NS 
+have been effective against infections caused by microbes, as supported 
+by numerous in vitro studies. They have distinguishable antibacterial, 
+antiviral, antifungal and anti-parasitic activities, as discussed below. 
+6.1. Antibacterial activity 
+Various studies revealed the antibacterial potential of NS. In a recent 
+Fig. 3. Chemical structure of phytoconstituents of Nigella sativa. The compounds include alkaloids (1–12), fatty acid (13–25), polyphenol (26–54), phytosterol 
+(55–60), terpenes and terpenoid (61–151), and others (152–171). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+8
+study, 0.5%, 1.0%, and 2.0% concentrations of NS oil were used in the 
+agar diffusion technique against 24 spoilages, pathogenic, and lactic 
+acid bacteria (LAB). The more effective concentration was 2.0% [131]. 
+The lowest active concentration of NS oil was 0.5%. The concentration 
+was not effective against Escherichia coli, E. coli O157:H7, Klebsiella 
+pneumoniae, Pseudomonas aeruginosa, Yersinia enterocolitica, Lb. casei ssp. 
+casei, Leu. pseudomesenteroides or Weissella paramesenteroides. The most 
+sensitive bacterium against all concentrations of NS oils was Aeromonas 
+hydrophila, while the most resistant bacterium type was Y. enterocolitica 
+(Table 7). In general, the antibacterial activity of fixed oils in NS samples 
+against pathogenic bacteria and spoilage was higher than in LABs [131]. 
+In another study of the antimicrobial activity of ethanol and hexane 
+extracts of NS with the agar-well diffusion method, the extract’s 1.5, 3.0, 
+4.5, and 6.0 mg/ml concentrations were tested and compared with 
+Fig. 3. (continued). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+9
+standard antibiotics (tetracycline, erythromycin, ciprofloxacin, and 
+ampicillin). The ethanol extract showed an antibacterial effect against 
+both Gram-negative and Gram-positive bacteria, and the extract showed 
+remarkable and robust activity against S. epidermidis, K. pneumonia fol-
+lowed by Bacillus cereus, Bacillus subtilis, E. coli, and Salmonella typhi-
+murium (Table 7). The extract showed the best effect against B. subtilis, 
+followed by B. cereus and Staphylococcus epidermidis. The hexane extract 
+was the most effective against B. subtilis, followed by S. epidermidis and 
+B. cereus (Table 7) [132]. 
+NS is also effective against Methicillin-resistant Staphylococcus aureus 
+(MRSA), which is the most common pathogen encountered in laboratory 
+practice as well as in clinics. MRSA has become a major health problem 
+Fig. 3. (continued). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+10
+Fig. 3. (continued). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+11
+worldwide. There were 99 clinical isolates of MRSA and ATCC strain 
+25923 tested and compared with vancomycin (positive control). The 
+study demonstrated that methanolic and chloroform NS extracts at 
+4 mg/disk completely inhibited MRSA strains with a significant zone 
+size of > 12 mm. However, these strains were not inhibited at 0.5 mg/ 
+disk [133]. An ethanol extract of NS has been evaluated in vitro against 
+Streptococcus mutans and Streptococcus mitis. In humans, these strains are 
+known as causative agents of dental caries. The methanolic extract of NS 
+Fig. 3. (continued). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+12
+also showed pronounced antibacterial activity (Table 7) [134]. Another 
+study revealed that NS was effective against antibiotic-resistant Salmo-
+nella enterica. Amoxicillin, chloramphenicol, tetracycline, gentamicin, 
+and ampicillin-resistant S. enterica were also inhibited by methanol 
+extract and NS seed oil in in vitro experiments [135]. 
+The United States’ Centers for Disease Control and Prevention (CDC) 
+listed 18 bacteria as urgent threats, severe threats and concerning 
+threats, and listed three bacteria on the watch list [148]. Among these 
+infectious agents, Clostridioides difficile, Pseudomonas aeruginosa, Staph-
+ylococcus aureus, Streptococcus pneumonia, Salmonella Typhi, Enterobac-
+teriaceae and Acinetobacter as antibiotic-resistant bacteria were tested 
+against different extracts of NS. These bacteria are responsible for 
+various serious diseases. Fluoroquinolones-resistant Clostridioides diffi-
+cile causes life-threatening diarrhoea. Carbapenems-resistant Pseudo-
+monas aeruginosa is responsible for bloodstream, surgical site, urinary 
+tract infections, pneumonia, and chronic lung disease [149]. 
+Fig. 3. (continued). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+13
+Fig. 3. (continued). 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+14
+Table 5 
+Phytocompounds of Nigella sativa.  
+No. Compound Plant part Solvent used/Method Isolation and Identification Reference 
+Alkaloid 
+1 Nigellidine Seed Ethanol TLC, CC [91] 
+2 Nigellidine-4-O-sulfite Seed Methanol NMR, MS, X-ray [92] 
+3 Nigellicine Seed Chloroform CC [93] 
+4 Nigellimine Seed Chloroform CC [94] 
+5 Nigellamine A1 Seed Methanol HPLC [95] 
+6 Nigellamine A2 Seed Methanol HPLC [95] 
+7 Nigellamine A3 Seed Methanol HPLC [96] 
+8 Nigellamine A4 Seed Methanol HPLC [96] 
+9 Nigellamine A5 Seed Methanol HPLC [96] 
+10 Nigellamine B1 Seed Methanol HPLC [95] 
+11 Nigellamine B2 Seed Methanol HPLC [95] 
+12 Nigellamine C Seed Methanol HPLC [96] 
+Fatty acid 
+13 Methylnonadeca-15,17-dienoate Seed n-hexane IR NMR, MS [97] 
+14 Pentyl hexadec-12-enoate Seed n-hexane IR NMR, MS [97] 
+15 Pentyl pentadec-11-enoate Seed n-hexane IR NMR, MS [97] 
+16 Lauric acid Seed n-hexane GC-MS [98] 
+17 Myristic acid Seed n-hexane GC-MS [98] 
+18 Palmitic acid Seed n-hexane GC-MS [98] 
+19 Stearic acid Seed n-hexane GC-MS [98] 
+20 Oleic acid Seed n-hexane GC-MS [98] 
+21 Linoleic acid Seed n-hexane GC-MS [98] 
+22 Linolenic acid Seed n-hexane GC-MS [98] 
+23 Eicosadienoic acid Seed n-hexane GC-MS [98] 
+24 n-decanoic acid Seed MD, HD GC-MS [99] 
+25 Butyric acid hexadecyl ester Seed MD, HD GC-MS [99] 
+Polyphenol 
+26 Vanillic acid Root, shoot Methanol RP-HPLC [100] 
+27 Gallic acid Root, shoot Methanol RP-HPLC [100] 
+28 p-dihydroxybenzoic acid Roots Methanol RP-HPLC [100] 
+29 Chlorogenic acid Root, shoot Methanol RP-HPLC [100] 
+30 Syringic acid Root, shoot Methanol RP-HPLC [100] 
+31 p-coumaric acid Root Methanol RP-HPLC [100] 
+32 Ferulic acid Root Methanol RP-HPLC [100] 
+33 Trans-2-hydroxycinnamic acid Root, shoot Methanol RP-HPLC [100] 
+34 Trans-cinnamic acid Root, shoot Methanol RP-HPLC [100] 
+35 4-hydroxybenzoic acid Seed Methanol UHPLC/MS-MS [101] 
+36 Caffeic acid Seed Methanol UHPLC/MS-MS [101] 
+37 5-hydroxybenzoic acid Seed Methanol UHPLC/MS-MS [101] 
+38 Protocatechuic acid Seed Methanol UHPLC/MS-MS [101] 
+39 Sinapinic acid Seed Methanol UHPLC/MS-MS [101] 
+40 Rosmarinic acid Seed Methanol UHPLC/MS-MS [101] 
+41 Salicylic acid Seed Methanol UHPLC/MS-MS [101] 
+42 3-hydroxybenzoic acid Seed Methanol UHPLC/MS-MS [101] 
+43 Epicatechin Root, shoot Methanol RP-HPLC [100] 
+44 Catechin hydrated Root, shoot Methanol RP-HPLC [100] 
+45 Quercetine Root, shoot Methanol RP-HPLC [100] 
+46 Apigenin Root, shoot Methanol RP-HPLC [100] 
+47 Amentoflavone Root, shoot Methanol RP-HPLC [100] 
+48 Flavone Root, shoot Methanol RP-HPLC [100] 
+49 Myricetin Seed Methanol UHPLC/MS-MS [101] 
+50 Naringenin Seed Methanol UHPLC/MS-MS [101] 
+51 Kaempferol Seed Methanol UHPLC/MS-MS [101] 
+52 Chrysin Seed Methanol UHPLC/MS-MS [101] 
+53 Pinocembrin Seed Methanol UHPLC/MS-MS [101] 
+54 Galangin Seed Methanol UHPLC/MS-MS [101] 
+Phytosterol 
+55 Cholesterol Seed Hexane GC-MS [102] 
+56 Campesterol Seed Hexane GC-MS [102] 
+57 Stigmasterol Seed Hexane GC-MS [102] 
+58 β-sitosterol Seed Hexane GC-MS [102] 
+59 δ-7-stigmasterol Seed Hexane GC-MS [102] 
+60 δ-7-avenasterol Seed Hexane GC-MS [102] 
+Terpenes and Terpenoid 
+61 Camphene Seed MD, HD GC-MS [99] 
+62 Trans- β –terpineol Seed MD, HD GC-MS [99] 
+63 Linalool Seed MD, HD GC-MS [99] 
+64 Camphor Seed MD, HD GC-MS [99] 
+65 β-pinene oxide Seed MD, HD GC-MS [99] 
+66 Cis-pinocarveol Seed MD, HD GC-MS [99] 
+67 α-terpineol Seed MD, HD GC-MS [99] 
+68 Nerol Seed HD GC-MS [103] 
+69 α-pinene Seed n-hexane GC-MS [98] 
+(continued on next page) 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+15
+Table 5 (continued ) 
+No. Compound Plant part Solvent used/Method Isolation and Identification Reference 
+70 Fenchone Seed n-hexane GC-MS [98] 
+71 Dihydrocarvone Seed n-hexane GC-MS [98] 
+72 Carvone Seed n-hexane GC-MS [98,99] 
+73 Thymoquinone Seed n-hexane GC-MS [98,99,104] 
+74 Terpinen-4-ol Seed n-hexane GC-MS [98] 
+75 Umbellulone Seed MD, HD GC-MS [99] 
+76 p-cymene-8-ol Seed n-hexane GC-MS [98] 
+77 Carvacrol Seed n-hexane GC-MS [98] 
+78 α-ionone Seed MD, HD GC-MS [99] 
+79 α -longipinene Seed n-hexane GC-MS [98,104] 
+80 Longifolene Seed n-hexane GC-MS [98,99] 
+81 (Z)-caryophyllene Seed Sup-CO2 GC-MS [104] 
+82 Cyclosativene Seed Sup-CO2 GC-MS [104] 
+83 α -copaene Seed Sup-CO2 GC-MS [104] 
+84 α -longicyclene Seed Sup-CO2 GC-MS [104] 
+85 Aromadendrene Seed Sup-CO2 GC-MS [104] 
+86 2,4,(10)-thujadiene Seed Sup-CO2 GC-MS  
+87 Dihydrofarnesyl acetate Seed Sup-CO2 GC-MS [104] 
+88 Pimaradiene Seed Sup-CO2 GC-MS [104] 
+89 Myrcene Seed n-hexane GC-MS [98] 
+90 p-cymene Seed n-hexane GC-MS [98] 
+91 Limonene Seed n-hexane GC-MS [98,104] 
+92 Γ-terpinene Seed n-hexane GC-MS [98] 
+93 Terpinolene Seed Sup-CO2 GC-MS [104] 
+94 1,5,8-p-menthatriene Seed Sup-CO2 GC-MS [104] 
+95 Thymohydroquinone dimethylether Seed Sup-CO2 GC-MS [104] 
+96 Thymohydroquinone methyl ether Seed Sup-CO2 GC-MS [104] 
+97 Citronellyl acetate Seed Sup-CO2 GC-MS [104] 
+98 Ocimenone (E) Seed Sup-CO2 GC-MS [104] 
+99 β-farnesene Seed MD, HD GC-MS [99] 
+100 α -phellandrene Seed n-hexane GC-MS [98] 
+101 Trans-α-bergamotene Seed MD, HD GC-MS [99] 
+102 Thymohydroquinone Seed MD, HD GC-MS [99] 
+103 Tricyclene Seed Sup-CO2 GC-MS [104] 
+104 α-terpinene Seed Sup-CO2 GC-MS [104] 
+105 p-cymenene Seed MD, HD GC-MS [99] 
+106 Trans-sabinene hydrate acetate Seed MD, HD GC-MS [99] 
+107 1,8-cineole Seed Sup-CO2 GC-MS [104] 
+108 Cis-sabinene hydrate Seed Sup-CO2 GC-MS [104] 
+109 Trans-sabinene hydrate Seed Sup-CO2 GC-MS [104] 
+110 Borneol Seed Sup-CO2 GC-MS [104] 
+111 Pinocarvone Seed Sup-CO2 GC-MS [104] 
+112 Trans-dihydrocarvone Seed Sup-CO2 GC-MS [104] 
+113 Myrtenol Seed MD, HD GC-MS [99] 
+114 Iso-dihydrocarveol Seed MD, HD GC-MS [99] 
+115 Trans-carveol Seed MD, HD GC-MS [99] 
+116 Cis-carveol Seed MD, HD GC-MS [99] 
+117 Cuminaldehyde Seed MD, HD GC-MS [99] 
+118 Geranial Seed MD, HD GC-MS [99] 
+119 Bornyl acetate Seed MD, HD GC-MS [99] 
+120 p-cymen-7-ol Seed MD, HD GC-MS [99] 
+121 Thymol Seed MD, HD GC-MS [99] 
+122 Methyl geranate Seed MD, HD GC-MS [99] 
+123 Cis-carvyl acetate Seed MD, HD GC-MS [99] 
+124 Neryl acetate Seed MD, HD GC-MS [99] 
+125 Geranyl acetone Seed MD, HD GC-MS [99] 
+126 α -curcumene Seed MD, HD GC-MS [99] 
+127 Sabinene Seed n-hexane GC-MS [98,104] 
+128 Cis-piperitol Seed MD, HD GC-MS [99] 
+129 Trans-piperitol Seed MD, HD GC-MS [99] 
+130 Iso-longifolene Seed MD, HD GC-MS [99] 
+131 β-Elemene Seed MD, HD GC-MS [99] 
+132 Estragole Seed n-hexane GC-MS [98] 
+133 Anisaldehyde Seed n-hexane GC-MS [98] 
+134 Trans-anethole Seed n-hexane GC-MS [98] 
+135 γ-Elemene Seed MD, HD GC-MS [99] 
+136 Myristicin Seed n-hexane GC-MS [98] 
+137 Apiole Seed n-hexane GC-MS [98] 
+138 Cis-thujopsene Seed MD, HD GC-MS [99] 
+139 Davanone Seed Sup-CO2 GC-MS [104] 
+140 α-longifolene Seed Sup-CO2 GC-MS [104] 
+141 β-caryophyllene Seed Sup-CO2 GC-MS [104] 
+142 (Z,E)-farnesyl acetate Seed MD, HD GC-MS [99] 
+143 (E,E)-farnesyl acetate Seed MD, HD GC-MS [99] 
+144 β -bisabolol Seed MD, HD GC-MS [99] 
+145 α-zingiberene Seed MD, HD GC-MS [99] 
+(continued on next page) 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+16
+Streptococcus pneumonia shows resistance to various antibiotics and is 
+responsible for bacterial pneumonia, meningitis, bloodstream in-
+fections, and ear and sinus infections. NS essential oil and other phy-
+tochemicals (TQ, p-cymene, carvacrol) can modify the resistance 
+potentiality of AMR bacteria and become sensitive. NS could be an 
+excellent source of new antibacterial agents to achieve AMR 
+stewardship. 
+6.1.1. Mode of actions against bacteria 
+Gram-positive and Gram-negative bacteria have multidrug efflux 
+pumps (EPs), which assist bacterial populations to enhance their im-
+munity and survive when exposed to antimicrobial substances. The 
+leading cause of MDR bacteria is EPs, a transporter of proteins involved 
+in the removal of drugs and toxic substances to the external environment 
+from the interior of the cell (Fig. 5a) [150,151]. In Listeria mono-
+cytogenes, two efflux pumps have been identified [152]. One efflux pump 
+called MdrL extrudes macrolides, cefotaxime, heavy metals, and EtBr. 
+The other, Lde, extrudes fluoroquinolone, acridine orange, and EtBr 
+[153,154]. NS oil, TQ, carvacrol, and its active compounds are efficient 
+modulators of antibiotic resistance in L. monocytogenes. TQ and essential 
+oil inhibit efflux pumps, increase the accumulation of antibiotics in the 
+bacterial cells, and at lower doses, enhance their effectiveness [23]. TQ 
+also intervenes in its antibacterial effect by producing ROS, prompting 
+oxidative stress and cell apoptosis (Fig. 5b) [22]. On the other hand, 
+p-cymene has no antimicrobial activity. However, it increases the 
+membrane permeability, thereby promoting the influx of antimicrobial 
+substances [23]. 
+6.2. Antiviral and potential anti-SARS-CoV-2 effects with the mode of 
+actions 
+NS increases the helper T cell (T4 and T8) suppressor ratio and 
+natural killer cells (NK) cell activity. It results in improved immunity, so 
+shows a suppressing effect against human immune deficiency virus 
+protease [44]. NS exhibits anti-influenza virus activity. It plays a pivotal 
+role in diminishing the pathogenic effects by inducing efficient immune 
+Table 5 (continued ) 
+No. Compound Plant part Solvent used/Method Isolation and Identification Reference 
+146 β -bisabolene Seed MD, HD GC-MS [99] 
+147 6-methyl- α-(E)-ionone Seed MD, HD GC-MS [99] 
+148 δ-cadinene Seed MD, HD GC-MS [99] 
+149 γ-himachalene Seed MD, HD GC-MS [99] 
+150 α-humulene Seed MD, HD GC-MS [99] 
+151 α-himachalene Seed MD, HD GC-MS [99] 
+Others 
+152 Eugenol Seed MD, HD GC-MS [99] 
+153 Methyl eugenol Seed MD, HD GC-MS [99] 
+154 (E)-cinnamaldehyde Seed MD, HD GC-MS [99] 
+155 n-nonane Seed n-hexane GC-MS [99] 
+156 3-methyl nonane Seed n-hexane GC-MS [98] 
+157 Dodecanal Seed MD, HD GC-MS [99] 
+158 Iso-longifolol Seed MD, HD GC-MS [99] 
+159 n-decane Seed n-hexane GC-MS [98] 
+160 1-methyl-3-propyl benzene Seed n-hexane GC-MS [98] 
+161 1-ethyl-2,3-dimethyl benzene Seed n-hexane GC-MS [98] 
+162 n-tetradecane Seed n-hexane GC-MS [98] 
+163 n-hexadecane Seed n-hexane GC-MS [98] 
+164 2-undecanone Seed Sup-CO2 GC-MS [104] 
+165 Benzaldehyde Seed MD, HD GC-MS [99] 
+166 Coumarin Seed MD, HD GC-MS [99] 
+167 Citronellyl n-butyrate Seed MD, HD GC-MS [99] 
+168 (Z)-isoeugenol acetate Seed MD, HD GC-MS [99] 
+169 Tetradecanal Seed MD, HD GC-MS [99] 
+170 Methyl linoleate Seed MD, HD GC-MS [99] 
+171 α-hederin Seed Ethyl acetate CC5 [105] 
+CC: Column chromatography, HPLC: High performance liquid chromatography; GC-MS: Gas Chromatography-Mass Spectrometry, MD: Microwave distillation, HD: 
+Hydro-distillation, TLC: Thin layer chromatography, Sup-CO2: Super critical carbon dioxide, IR: Infrared spectroscopy, NMR: Nuclear magnetic resonance, MS: Mass 
+Spectrometry, UHPLC/MS-MS: Ultra HPLC/MS-MS, RP-HPLC: Reversed-phase HPLC. 
+Table 6 
+Antimicrobial phytoconstituents of Nigella sativa.  
+No. Compound Antimicrobial activity Other pharmacological 
+activities 
+1. Thymoquinone Antibacterial [106,107], 
+Antidermatophytic 
+activity [108,109], 
+Antifungal [110], Act as 
+putative efflux pump 
+inhibitors in Listeria 
+monocytogenes [111] 
+Antiinflammatory [112, 
+113], anticancer, 
+antitumor [114], 
+Anticonvulsant effect 
+[115], antileishmanial 
+effects [116], 
+anti-proliferative effect  
+[117], Effective against 
+HEp-2 laryngeal cancer 
+cells [85], 
+anti-inflammatory 
+activities of TQ in PDA 
+(pancreatic ductal 
+adenocarcinoma) cells, 
+[118], TQ as an inducer 
+of cell cycle arrest and 
+apoptosis in human 
+colon cancer HCT-116 
+cells [119], 
+Antioxidation activity 
+[120], Antinociceptive 
+effects [121] 
+2. α-pinene Bactericides [122] Insect repellents [90] 
+3. p-cymene Antimicrobial [123], 
+Bactericides [122] 
+Insect repellents [90] 
+4. Longifolene  Insect repellents [90] 
+5. Thymol Antifungal [110] Anti-inflammatory 
+[113] 
+6. Carvacrol Act as putative efflux 
+pump inhibitors in 
+Listeria monocytogenes 
+[111] 
+- 
+7. Thymohydroquinone Antibacterial activity 
+[107], Antifungal 
+activity [110] 
+-  
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+17
+responses [155]. Patients suffering from hepatitis C virus (HCV) infec-
+tion exhibited notable improvement in HCV viral load using oil extrac-
+ted from NS seed [69]. Regaining and seroreversion of HIV-positive 
+patients can be achieved by using NS seeds [156]. NS oil potentially 
+binds with murine cytomegalovirus that showed inhibition of viral 
+growth in a rat model [157]. The ethanolic extracts of NS successfully 
+reduced the viral load and death in embryonic chicken eggs against the 
+Newcastle disease virus [158]. Recent studies revealed that NS has a 
+high potential as a herbal antiviral agent against novel coronavirus 
+[159]. DL-Arabinose is an important phytochemical found in NS with 
+effective antiviral activity [160]. 
+A recent study suggested that NS could be considered a natural 
+substitute for chloroquine because it contains several bioactive compo-
+nents such as TQ, dithymoquinone, thymohydroquinone, and nigelli-
+mine activity, augmented by a Zn supplement [161]. Another in-silico 
+study by molecular docking suggested that nigerlidine and α-hederin are 
+the main compounds from NS that can prevent COVID-19 with the same 
+or better score than drugs under clinical trials [162]. In another in-silico 
+study, nigellidine showed the highest binding affinity to N terminus 
+protease (− 7.61) and nucleocapsid and the main protease necessary for 
+viral maturation in protein structures, RNA packaging, and other func-
+tions. Moreover, binding to IL1 and TNF-α receptors may reduce cyto-
+kine storm after viral infection [24]. α-hederin (− 6.265 kcal/mol) and 
+thymohydroquinone (− 5.466 kcal/mol) are identified as suitable bind-
+ing ligands to ACE2 receptors in the human system responsible for virus 
+entry [25]. Among other compounds, dithymoquinone (DTQ), also 
+known as nigellone, shows a binding affinity of − 8.6 kcal/mol 
+compared to a positive control (chloroquine, − 7.2 kcal/mol), and has 
+the promising ability of binding at the SARS-CoV-2:ACE2 interface to 
+disrupt viral host interaction [159]. 
+Oral administration of honey with NS reduced the severity of clinical 
+symptoms, earlier viral clearance, and reduced mortality in COVID-19 
+patients [163]. Taibah University started a novel evidence-based 
+approach, “TaibUVID”, for COVID-19 treatment. A single TaibUVID 
+dose includes one large spoonful of Nigella sativa oil (or 2 g of Nigella 
+sativa seeds) mixed with one gram of ground anthemis hyaline and one 
+large spoonful of natural honey. This mixture is to be chewed in the 
+mouth and swallowed orally for COVID-19 close contacts and patients. It 
+Fig. 4. Phytoconstituents of Nigella sativa. (a) shows different parts of N. sativa that are used for the isolation of compounds, (b) shows types of identified compounds 
+(IC) and the percent value of each type of identified compound. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+18
+Table 7 
+In vitro antibacterial activity of Nigella sativa extracts.  
+Plant part Extract No. 
+test 
+MOs 
+Inhibited MOs Type MEIC MIC ZOI (mm 
+or %) 
+Remarks Reference 
+Seed n-H 24 A. hydrophila ATCC 
+7965* 
+-ve 2% ND 37.5 mm  [131] 
+B. cereus FMC 19 +ve 29.5 mm 
+B. subtilis IMG 22 +ve 27 mm 
+Corynebacterium xerosis 
+UC 9165 
++ve 32.5 mm 
+Enterobacter aerogenes 
+CCM 2531 
+-ve 23.6 mm 
+Enterococcus faecalis 
+ATCC 15753 
++ve 19.5 mm 
+E. coli DM -ve 19.3 mm 
+E. coli O157:H7 KUEN 
+1461 
+-ve 24 mm 
+K. pneumoniae FMC 5 -ve 18.8 mm 
+Listeria monocytogenes 
+Scott A 
++ve 21.5 mm 
+Mycobacterium 
+smegmatis RUT 
++ve 32.2 mm 
+Proteus vulgaris FMC 1 -ve 35 mm 
+P. aeruginosa ATCC 
+27853 
+-ve 21.2 mm 
+Pseudomonas fluorescens 
+EU 
+-ve 21.4 mm 
+S. typhimurium -ve 24.4 mm 
+S. aureus Cowan 1 -ve 29.5 mm 
+Y. enterocolitica EU +ve 16.5 mm 
+Streptococcus salivarius +ve 24 mm 
+Lactobacillus delbrueckii +ve 24.5 mm 
+Lb. casei ssp. casei K64 +ve 20.8 mm 
+Lactobacillus. Paracasei +ve 21 mm 
+Leu. 
+pseudomesenteroides 
+E83 
++ve 19.3 mm 
+Leuconostoc gelidum E26 +ve 19.6 mm 
+Weissella 
+paramesenteroides E95 
++ve 23.3 mm 
+Seed E 8 S. epidermidis* +ve 6 mg/ml ND 15 mm NoA against P. aerogenosa and 
+E. aerogens 
+[132] 
+K. pneumonia -ve ND 
+B. cereus +ve 8.0 mm 
+B. subtilis +ve 7.0 mm 
+E. coli -ve ND 
+S. typhimurium -ve 9.0 mm 
+n-H S. epidermidis +ve 19 mm NoA against P. aerogenosa, E. 
+aerogens, E. coli and S. 
+typhimurium 
+K. pneumonia -ve ND 
+B. cereus +ve 11 mm 
+B. subtilis +ve 26 mm 
+Seed CHCl3, 
+M 
+99 S. aureus +ve 4 mg/disc 0.2–0.5 mg/ml > 12 
+mm  
+[133] 
+Seed M 2 S. mutans +ve ND ND 12.7 mm  [134] 
+S. mitis +ve 10.4 mm 
+Seed EO 1 S. enetrica -ve ND > 1000±322.7 μg/ 
+ml 
+20–14 
+mm  
+[135] 
+M S. enetrica -ve ND ≥ 562.5 μg/ml 35–17 
+mm 
+Seed M 5 S. aureus* +ve 100 mg/ml ND 25 mm NoA againstE. coli, K. 
+pneumonia and B. cereus 
+[136] 
+P. aeruginosa -ve 21 mm 
+Seed CHCl3 6 S. aureus ATCC 103207 +ve 18 mg/ml ND 19 mm NoA againstV. cholerae El Tor 
+and K. pneumoniae ATCC 13883 
+[137]  
+B. cereus ATCC 6623 +ve 16 mm  
+B. subtilis ATCC 27853 +ve 26 mm  
+Vibrio cholerae El Tor -ve 20 mm  
+S. aureus ATCC 103207 +ve 26 mm  
+B. cereus ATCC 6623 +ve 25 mm  
+E B. subtilis ATCC 27853 +ve 28 mm NoA against K. pneumoniae 
+ATCC 13883  E. coli ATCC 12079 -ve 21 mm  
+V. cholerae El Tor -ve 24 mm   
+Seed E 4 B. subtilis +ve ND 12.5 mg/ml 18 mm  [29]  
+S. aureus +ve 16 mm  
+E. coli -ve 20 mm  
+P. aeruginosa -ve 16 mm 
+Seed M 2 S. mutans* +ve ND 0.2 mg /ml 22.3 mm  [138] 
+(continued on next page) 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+19
+is a promising evidence-based approach to decrease fatalities and 
+rapidly end the COVID-19 pandemic [164]. 
+6.3. Antifungal effects with the mode of actions 
+NS has an inhibitory effect against different pathogenic yeasts 
+(Table 8). The presence of β-sitosterol and oleic acid in the oil compo-
+sition of NS is considered to be responsible for its antifungal activity 
+[165]. In addition, S. Gupta [166] stated that different components of 
+NS oil, such as stigmasterol and β-sitosterol, show antifungal properties 
+against some pathogenic yeasts such as Candida tropicalis, Candida 
+albicans, and Geotrichum candidum. An in vivo study in mice showed an 
+antifungal activity of NS seeds’ aqueous extract against Candida albicans 
+responsible for candidiasis [167]. Another study [168] showed that the 
+candidacidal pathway in mice neutrophils is nitric oxide (NO)-depend-
+ent. There is a possibility that the active ingredient(s) of the plant extract 
+may stimulate granulocytes and monocytes to form nitric oxide, leading 
+to excellent antifungal activity, which in turn kills C. albicans [169]. The 
+Table 7 (continued ) 
+Plant part Extract No. 
+test 
+MOs 
+Inhibited MOs Type MEIC MIC ZOI (mm 
+or %) 
+Remarks Reference  
+Lactobacillus acidophilus +ve 05 mg/ml 18.6 mm  
+H2O S. mutans* +ve 0.3 mg /ml 15.3 mm  
+L. acidophilus +ve 0.3 mg/ml 12.3 mm 
+Seed EA 2 S. aureus* +ve ND 62.5 μg/ml 10.6 mm  [139]  
+Propionibacterium acnes +ve ND 9.0 mm 
+Seed EO 1 Chlamydia trachomatis D -ve ND 6.25 and 3.12 μM ND MIC of carvacro, thymol was 
+6.25 and p-cymene, TQ was 
+3.12 µM 
+[140] 
+Seed DEE 4 S. aureus +ve 25–400 μg 
+/disc 
+ND 21 mm S. typhimurium was resistant [141]  
+E. coli -ve 25 mm  
+P. aeruginosa -ve 25 mm 
+Seed M 2 E. coli -ve 1.2 g/kg ND 100 %  [142]  
+S. aureus +ve 2.14 g/kg 87.5 %  
+CHCl₃ E. coli -ve 2.6 mg/kg 100 %  
+S. aureus +ve 2.6 mg/kg 100 %  
+EO E. coli -ve 0.3 g/kg 100 %  
+S. aureus +ve 0.3 g/kg 100 % 
+Seed, fruit cH2O 5 E. coli* -ve ND ND 23 mm  [143] 
+P. aeruginosa -ve   23 mm 
+Salmonella typhi -ve   23 mm 
+E. faecalis +ve   23 mm 
+hH2O E. coli* -ve   22 mm 
+P. aeruginosa -ve   22 mm 
+Salmonella typhae -ve   22 mm 
+E. faecalis +ve   22 mm 
+M E. coli* -ve   23 mm NoA against S. aureus 
+P. aeruginosa -ve   23 mm 
+Salmonella typhae -ve   23 mm  
+E. faecalis +ve   23 mm 
+Seed M 6 E. coli* -ve ND 1.125 mg/ml ND NoA against B. cereus [144]  
+P. aeruginosa -ve 1.125 mg/ml  
+S. aureus* +ve 0.56 mg/ml  
+S. typhi -ve 1.125 mg/ml  
+B. subtilis +ve 1.125 mg/ml  
+E P. aurigenisa -ve 1.125 mg/m NoA against E. coli   
+S. aureus +ve 0.56 mg/ml   
+S. typhi* -ve 1.125 mg/ml   
+B. cereus +ve 1.125 mg/ml   
+B. subtilis +ve 1.125 mg/ml 
+TQ DMSO, 
+H2O 
+4 Clostridium difficile* +ve 160 μg/ml 10–40 μg/ml ND  [145]  
+Clostridium perfringens +ve 80–160 μg/ml  
+Bacteroides fragilis -ve 80–160 μg/ml  
+Bacteroides 
+thetaiotaomicron 
+-ve 80–160 μg/ml 
+Seed M 2 Porphyromonas 
+gingivalis 
+-ve 50 mg/ml 25 mg/ml 5.4 mm  [146]  
+Prevotella intermedia -ve 25 mg/ml 10.1 mm 
+Seed E 1 Streptococcus pyogenes +ve ND 12.5 mg/ml 6.33 mm  [30] 
+Plant powder E 3 K. pneumoniae -ve 50 mg/100 
+ml 
+ND 14 mm  [32]  
+Acinetobacter 
+baumannii* 
+-ve 17 mm  
+P. aeruginosa -ve 11 mm 
+Seed M 4 S. pyogenes* +ve 50 mg/ml ND 19 mm  [147]  
+P. aeruginosa -ve 15 mm  
+K. pneumoniae -ve 15 mm  
+P. vulgaris -ve 15 mm 
+*Antibiotic resistant species, ǂIndirect immunofluorescence assay. Other test assays were disc diffusion method; MEIC: Most effective inhibitory concentration; MIC: 
+Minimum inhibitory concentration; MOs: Number of test microorganisms; ND: Not determined; ZOI: Zone of Inhibition, DMSO: Dimethylsulfoxide, EO: Essential Oil, 
+EA: Ethyl acetate, TQ: Thymoquinone, CHCl3: Chloroform, cH2O: Cold water, hH2O: Hot water, M: Methanol, E: Ethanol, DEE: Diethyl ether, NoA: No activity, +ve: 
+Positive bacteria, -ve: Negative bacteria. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+20
+anti-yeast activity of NS seed extract is maximised at pH 7 and 30 ◦C 
+[170]. 
+The essential oil of NS possesses higher antidermatophytic activity 
+[175]. Furthermore, an ether extract of NS seed and its active compo-
+nent TQ showed some antifungal activity against dermatophytes: four 
+species of Trichophyton rubrum and one each of T. interdigitale, 
+T. mentagrophytes, Microsporum cani, and Epidermophyton floccosum. The 
+minimum inhibitory concentration (MIC) of the ether extract of NS was 
+between 10 and 40 mg/ml, while that of TQ was 0.125 and 0.25 mg/ml, 
+inhibiting 80–100% fungal growth. [176]. NS oil exhibited significant 
+effectiveness against non-dermatophytic filamentous fungi such as 
+Drechslera hawiinesis, Alternaria alternate, and F. moniliforme, which were 
+Fig. 5. Mechanism of antibiotic resistance modulation by Nigella sativa. A) L. monocytogenes extrude macrolides, cefotaxime, heavy metals, EtBr and MdrL and 
+fluoroquinolone, acridine orange, EtBr by Lde efflux pump on the bacterial cell surface. B) EO, TQ, Car modulate MdrL and Lde efflux pump and inhibit to extrude 
+antibiotics. TQ also increases ROS generation, which prompts oxidative stress and cell demise. P-cymene increases the membrane permeability and increasing the 
+influx of antimicrobial substances. EtBr: Ethidium Bromide, EO: Essential oil, TQ: thymoquinone, Car: carvacrol. 
+Table 8 
+Antifungal activity of Nigella sativa.   
+Fungus Extract Method MIC Reference 
+Pathogenic yeasts C. albicans Essential oil BM 2300 μg/ml [171] 
+Essential oil BM IC90: 4.916 mg/ml [165] 
+C. dubliniensis Essential oil BM IC90: 5.183 mg/ml [165] 
+C. glabrata Essential oil BM IC90: 5.992 mg/ml [165] 
+C. krusei Essential oil BM IC90: 4.939 mg/ml [165] 
+Dermatophytes Trichophyton mentagrophytes Essential oil BM 2 ± 0.6 mg/ml [172] 
+Ether ADD 40 mg/ml [173] 
+Methanol BM 8 mg/ml [108,123] 
+Aqueous BM IC50: 16 mg/ml [108] 
+Trichophyton rubrum Essential oil BM 4 ± 1.1 mg/ml [172] 
+Ether ADD 40 mg/ml [173] 
+Epidermophyton floccosum Essential oil BM 2 ± 0.6 mg/ml [172] 
+Ether ADD 40 mg/ml [173] 
+Microsporum gypseum Essential oil BM 2 ± 0.6 mg/ml [172] 
+Methanol BM IC50: 4 mg/ml [108] 
+Aqueous BM IC50: 8 mg/ml [108] 
+Microsporum canis Essential oil BM 4 ± 1.1 mg/ml [172] 
+Methanol BM IC50: 4 mg/ml [108] 
+Aqueous BM IC50: 8 mg/ml [108] 
+Ether ADD 10 mg/ml [173] 
+Trichophyton interdigitale Ether ADD 40 mg/ml [173] 
+Non-dermatophyte filamentous fungi Aspergillus fumigatus Essential oil BM IC90: 1.5 mg/ml [174] 
+BM IC90: 1.5 mg/ml 
+A. flavus Essential oil BM IC90: 1.5 mg/ml [174] 
+BM IC90: 2 mg/ml 
+BM: Broth-Macrodilution, ADD: Agar Disk Diffusion, MIC: Minimum Inhibitory Concentration, IC50: Half-maximal inhibitory concentration, IC90: Ninety percent- 
+maximal inhibitory concentration. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+21
+inhibited entirely at 0.1% and 0.15% concentration [177]. 
+In a study, NS showed maximum inhibition (76.1%) at 10% con-
+centration against Macrophomina phaseolina, one of the most damaging 
+phytopathogenic fungi causing charcoal rot disease (Iqbal et al., 2014). 
+Ns-D1 and Ns-D2 are two novel antifungal defensins, isolated from seeds 
+of NS, that exhibit intense divergent antifungal activity towards several 
+phytopathogenic fungi [178]. 
+The essential oil of NS (1.5 mg/ml) inhibits the production of 
+mycelia (67.4%) and aflatoxin in Aspergillus parasiticus [26]. A study by 
+Khosravi indicated that when Aspergillus flavus and Aspergillus fumigates 
+were exposed to NS oils (2 mg/ml), they exhibited detachment of the 
+fibrilar layer of the cell wall. The researcher also observed that the 
+plasma membrane was separated from the cell wall, the cytoplasm was 
+disrupted, and subsequently the cytoplasm was vacuolated, before the 
+vacuole fused. Overall, oil from NS showed moderate to weak activity 
+against aflatoxin-producing fungi [179]. 
+6.4. Anti-parasitic activity with the mode of actions 
+Studies have indicated that NS possesses significant anti-parasitic 
+(anti-helminths, anticestodals, and anti-schistosomal) properties. NS 
+seeds showed significant anticestodal activities. These easy-to-grow and 
+affordable indigenous plant-based drugs are safe agents for treating 
+children with roundworm and tapeworm infestations. The most effective 
+oral doses were 40 and 50 mg per kg of body weight with no serious 
+adverse effects [180]. The methanolic extract of NS seeds (1250 mg/kg) 
+suppressed Plasmodium yoelii infection at a suppression rate of 94%, 
+whereas the most effective synthetic drug, chloroquinone, had an 86% 
+suppression rate. A 400 mg/kg of aqueous suspensions and oil emulsions 
+of NS seeds were used to treat coccidiosis in rabbits. The emulsion has 
+higher concentrations of alkaloid nigellicine that has a deadly influence 
+on parasites [181]. NS oil effectively reduced the number of Schistosoma 
+mansoni worms in the liver and reduced the total number of ova that 
+accumulated in both the intestine and the liver. It has also been shown to 
+be effective against other helminths such as Hymenolepis nana [182]. NS 
+was tested against cercariae, miracidia, and adult worms of Schistosoma 
+mansoni. It has demonstrated strong biocidal activity against all the 
+stages of the parasite as well as an effect on the egg-laying activity of the 
+adult female worms [28]. However, the molecular mechanisms of 
+biocidal action of NS against parasites are yet be investigated. 
+7. Safety and toxicity 
+TQ is the main constituent of the volatile oil of NS seeds. Its seed 
+extract and its constituents appear to have a low level of toxicity [31]. 
+After oral administration of TQ, the demonstrated toxicity level was 
+negligible. Oral TQ is bio-transformed into more minor toxic metabolites 
+in the gastrointestinal tract or metabolized in the liver into 
+dihydro-thymoquinone. After administration, the toxicity increases due 
+to the complete absorption of TQ into the systemic circulation [183]. 
+The treatment of male albino rats with an intraperitoneal administration 
+of phosphate-buffered saline (PBS) or 200 mg/kg cyclophosphamide 
+and then intragastric administration of NS oil or TQ on alternate days for 
+12 days, initiated 6 h before or after a cyclophosphamide injection, 
+showed that the treatment with cyclophosphamide induced significant 
+toxicity while treatment with NS oil or TQ induced a significant reduc-
+tion in overall toxicity [184]. The high values of oral and intraperitoneal 
+lethal doses of NS fixed oil at 28.8 ml/kg of body weight show its low 
+acute toxicity [185]. No toxicity was observed when NS oil was 
+administered in different doses up to 10 ml/kg of body weight [186]. 
+The acute toxicity of TQ is relatively low, and it is well-tolerated, 
+generally, when given sub-chronically in drinking water at doses that 
+are about 12 times the cytoprotective dose [187]. Another study 
+involved oral administration of the aqueous, chloroform, and methanol 
+extracts of NS seeds, in 6, 9, 14, and 21 g/kg. The methanol extracts in 
+all four doses and chloroform extract at 21 g/kg significantly decreased 
+animals’ weight. The study of the hepatic toxicity of the extracts at 
+6 g/kg/day for 14 consecutive days, as well as a hepatic histological 
+study, revealed no abnormal activity of ALP, SGPT, and SGOT in blood 
+[188]. The supplementation of NS up to 1 g/kg for 28 days produced no 
+changes in liver enzyme level and no toxicity effect on liver function 
+[189]. TQ is beneficial for the prevention and protection of cisplatin 
+nephrotoxicity in rodents. The oral administration of TQ (50 mg/L in 
+drinking water) for five days before and five days after a single injection 
+of cisplatin (5 mg/L in rats and 7 or 14 mg/l in mice) also greatly 
+improved cisplatin-induced nephrotoxicity [190]. The subacute toxicity 
+evaluations of the aqueous, chloroform and methanol extracts of NS at 
+6 g/kg showed no toxicity. However, the chronic toxicity study found 
+slightly toxic 2 ml/kg NS fixed oil [191]. The high antioxidant potential 
+of TQ is responsible for the reduction in related nephropathy toxicity 
+[184]. 
+8. Challenges and future directions 
+NS has shown promising results against numerous chronic IDs, yet 
+further investigation should be conducted using human clinical trials 
+with standardized preparation and verification for its full therapeutic 
+potency. Further in silico studies, preclinical, experimental evidence, and 
+prospective studies are proposed to evaluate the phytotherapy potential 
+of NS, particularly for emerging and novel diseases such as COVID-19. 
+NS oil and essential oils for topical anti-ageing skincare formulations 
+are also recommended due to their various pharmacological activities 
+such as antioxidant, anti-ageing, antibacterial, anti-inflammatory, anti- 
+carcinogenic, anti-allergy, and moisturizing properties. Other novel 
+extraction techniques, such as natural deep eutectic solvents, could be 
+explored to identify new compounds from the various parts of NS plants, 
+especially the seed. 
+9. Conclusion 
+This review presents a succinct summary of the antimicrobial effects 
+of NS, a medieval armamentarium worth further clinical exploration in 
+modern medicine. Various crude extracts from different solvents have 
+been reportedly established as antibacterial, antifungal, antiviral, and 
+anti-parasitic agents. NS oil, TQ, carvacrol, and other active compounds 
+are efficient modulators of AMR bacteria. NS oil and TQ inhibited efflux 
+pumps, resulting in the high accumulation of antibiotics in bacterial 
+cells. Ultimately bacteria become sensitive and die. This action can be 
+valid even at lower doses. TQ facilitates the production of ROS, pro-
+motes oxidative stress, and thereby occurs cell apoptosis. Another potent 
+compound of NS, p-cymene increases the bacterial membrane perme-
+ability, thereby promoting the influx of antimicrobial substances. NS oil, 
+TQ, carvacrol and p-cymene could be potential antibacterial agents. 
+Phytochemicals, nutritionally vital constituents, PUFA as well as highly 
+active volatile compounds such as p-cymene, TQ, α-thujene, carvacrol, 
+β-pinene, limonene, methyl linoleate, sabinene, D-limonene, 4,5-epoxy- 
+1-isopropyl-4- methyl-1-cyclohexene, and 4-terpineol found in NS 
+could exert a medicinal value when processed and used correctly. 
+Funding 
+This research received no external funding. 
+Institutional review board statement 
+Not applicable. 
+Informed consent statement 
+Not applicable. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+22
+Data availability statement 
+Data is contained within the article. 
+CRediT authorship contribution statement 
+MSH, AS, AD, MAM, AA, IAA, and ZU prepared the manuscript. MSH, 
+LCM, BHG and MMRS critically edited the draft. AS, AD, MAM, and AA 
+prepared chemical structure. MSH and LCM supervised and critically 
+evaluated the manuscript for scientific quality. MSH conceptualized, 
+designed the diagrams, and project administration. All authors read the 
+manuscript and approved it. 
+Conflict of interest statement 
+The authors declare no conflict of interest. 
+Data availability 
+Data is contained within the article. 
+Acknowledgments 
+Authors are grateful to Rabyea Jahan Mukti for her artwork (Fig. 1) 
+included in this study which added a great value in understanding the 
+Nigella sativa’s anatomy. 
+References 
+[1] WHO, Antimicrobial resistance, 2020. https://www.who.int/news-room/fact 
+-sheets/detail/antimicrobial-resistance. (Accessed 9 August 2020. 
+[2] H. Karuniawati, M.A.A. Hassali, S. Suryawati, W.I. Ismail, T. Taufik, M. 
+S. Hossain, Assessment of knowledge, attitude, and practice of antibiotic use 
+among the population of boyolali, Indonesia: a cross-sectional study, Int. J. 
+Environ. Res. Public Health 18 (16) (2021) 8258. 
+[3] Z. Urbi, N.S. Azmi, M.S. Hossain, Antimicrobial Role of Glycosaminoglycans: 
+Beyond Bacterial Adhesion to Host Cell, The 1st International Electronic 
+Conference on Antibiotics, MDPI, Basel, Switzerland, 2021. 
+[4] D.A. Gray, M. Wenzel, Multitarget approaches against multiresistant superbugs, 
+ACS Infect. Dis. 6 (6) (2020) 1346–1365. 
+[5] M.A. Hannan, M.A. Rahman, A.A.M. Sohag, M.J. Uddin, R. Dash, M.H. Sikder, M. 
+S. Rahman, B. Timalsina, Y.A. Munni, P.P. Sarker, M. Alam, M. Mohibbullah, M. 
+N. Haque, I. Jahan, M.T. Hossain, T. Afrin, M.M. Rahman, M. Tahjib-Ul-Arif, 
+S. Mitra, D.F. Oktaviani, M.K. Khan, H.J. Choi, I.S. Moon, B. Kim, Black cumin 
+(Nigella sativa L.): a comprehensive review on phytochemistry, health benefits, 
+molecular pharmacology, and safety, Nutrients 13 (6) (2021). 
+[6] W.F. Taylor, M. Yanez, S.E. Moghadam, M. Moridi Farimani, S. Soroury, S. 
+N. Ebrahimi, M. Tabefam, E. Jabbarzadeh, 7-epi-clusianone, a multi-targeting 
+natural product with potential chemotherapeutic, immune-modulating, and anti- 
+angiogenic properties, Molecules 24 (23) (2019). 
+[7] S. Hossain, Z. Urbi, H. Karuniawati, R.B. Mohiuddin, A. Moh Qrimida, A.M. 
+M. Allzrag, L.C. Ming, E. Pagano, R. Capasso, Andrographis paniculata (Burm. f.) 
+Wall. ex Nees: An Updated Review of Phytochemistry, Antimicrobial 
+Pharmacology, and Clinical Safety and Efficacy, Life 11 (4) (2021), 348, https:// 
+doi.org/10.3390/life11040348. 
+[8] Z. Urbi, Z. Zainuddin, Standardization of surface sterilization protocol of field 
+grown Stevia rebaudiana prior to in vitro clonal propagation, J. Teknol. 77 (24) 
+(2015). 
+[9] U. Farooq, T. Khan, S.A. Shah, M.S. Hossain, Y. Ali, R. Ullah, N. Raziq, M. Shahid, 
+R. Capasso, Isolation, characterization and neuroprotective activity of folecitin: 
+an in vivo study, Life 11 (8) (2021) 825. 
+[10] N.A. Ismail, M.S. Hossain, N.H. Mohd Mustafa, I. Chia, Phang, morpho- 
+physiological characteristics, selected macronutrient uptake, and oxidative stress 
+level of Andrographis paniculata under saline condition, J. Teknol. 77 (24) 
+(2015) 135–140. 
+[11] J.A. Duke, P.-A.K. Duke, J.L. duChellie, Duke’s Handbook of Medicinal Plants of 
+the Bible, CRC Press, New York, 2008. 
+[12] E. Yarnell, K. Abascal, Nigella sativa: holy herb of the middle east, Altern. 
+Complement. Ther. 17 (2) (2011) 99–105. 
+[13] M.R. Khazdair, Z. Gholamnezhad, R. Rezaee, M.H. Boskabady, A qualitative and 
+quantitative comparison of Crocus sativus and Nigella sativa immunomodulatory 
+effects, Biomed. Pharm. 140 (2021), 111774. 
+[14] H. Alkis, E. Demir, M.R. Taysi, S. Sagir, S. Taysi, Effects of Nigella sativa oil and 
+thymoquinone on radiation-induced oxidative stress in kidney tissue of rats, 
+Biomed. Pharm. 139 (2021), 111540. 
+[15] H. Omidi, S. Khorram, M. Mesgari, M. Asghari-Jafarabadi, A. Tarighat-Esfanjani, 
+Effects of separate and concurrent supplementation of nano-sized clinoptilolite 
+and Nigella sativa on oxidative stress, anti-oxidative parameters and body weight 
+in rats with type 2 diabetes, Biomed. Pharm. 96 (2017) 1335–1340. 
+[16] M.I. Alkhalaf, R.H. Hussein, A. Hamza, Green synthesis of silver nanoparticles by 
+Nigella sativa extract alleviates diabetic neuropathy through anti-inflammatory 
+and antioxidant effects, Saudi J. Biol. Sci. 27 (9) (2020) 2410–2419. 
+[17] Y. Kabir, Y. Akasaka-Hashimoto, K. Kubota, M. Komai, Volatile compounds of 
+black cumin (Nigella sativa L.) seeds cultivated in Bangladesh and India, Heliyon 
+6 (10) (2020), e05343. 
+[18] K. Leisegang, W. Almaghrawi, R. Henkel, The effect of Nigella sativa oil and 
+metformin on male seminal parameters and testosterone in Wistar rats exposed to 
+an obesogenic diet, Biomed. Pharm. 133 (2021), 111085. 
+[19] M. Esmail, S. Anwar, M. Kandeil, A.M. El-Zanaty, M. Abdel-Gabbar, Effect of 
+Nigella sativa, atorvastatin, or L-carnitine on high fat diet-induced obesity in 
+adult male Albino rats, Biomed. Pharm. 141 (2021), 111818. 
+[20] S.N. Goyal, C.P. Prajapati, P.R. Gore, C.R. Patil, U.B. Mahajan, C. Sharma, S. 
+P. Talla, S.K. Ojha, Therapeutic potential and pharmaceutical development of 
+thymoquinone: a multitargeted molecule of natural origin, Front Pharmacol. 8 
+(2017) 656. 
+[21] K. Chaieb, B. Kouidhi, H. Jrah, K. Mahdouani, A. Bakhrouf, Antibacterial activity 
+of thymoquinone, an active principle of Nigella sativa and its potency to prevent 
+bacterial biofilm formation, BMC Complement. Alter. Med. 11 (1) (2011) 29. 
+[22] S. Goel, P. Mishra, Thymoquinone inhibits biofilm formation and has selective 
+antibacterial activity due to ROS generation, Appl. Microbiol. Biotechnol. 102 (4) 
+(2018) 1955–1967. 
+[23] A. Mouwakeh, A. Telbisz, G. Spengler, C. Mohacsi-Farkas, G. Kisko, Antibacterial 
+and resistance modifying activities of nigella sativa essential oil and its active 
+compounds against listeria monocytogenes, Vivo 32 (4) (2018) 737–743. 
+[24] S. Maiti, A. Banerjee, A. Nazmeen, M. Kanwar, S. Das, Active-site molecular 
+docking of Nigellidine to nucleocapsid/Nsp2/Nsp3/MPro of COVID-19 and to 
+human IL1R and TNFR1/2 may stop viral-growth/cytokine-flood, and the drug 
+source Nigella sativa (black cumin) seeds show potent antioxidant role in 
+experimental rats, Res. Sq. (2020). 
+[25] R. Jakhmola Mani, N. Sehgal, N. Dogra, S. Saxena, D. Pande Katare, , Deciphering 
+underlying mechanism of Sars-CoV-2 infection in humans and revealing the 
+therapeutic potential of bioactive constituents from Nigella sativa to combat 
+COVID19: in-silico study, J. Biomol. Struct. Dyn. (2020) 1–13. 
+[26] A.R. Khosravi, H. Shokri, M. Minooeianhaghighi, Inhibition of aflatoxin 
+production and growth of Aspergillus parasiticus by cuminum cyminum, 
+Ziziphora clinopodioides, and Nigella sativa essential oils, Foodborne Pathog. Dis. 
+8 (12) (2011) 1275–1280. 
+[27] H. Almshawit, I. Macreadie, Fungicidal effect of thymoquinone involves 
+generation of oxidative stress in Candida glabrata, Microbiol. Res. 195 (2017) 
+81–88. 
+[28] S.H.M. Aljabre, O.M. Alakloby, M.A. Randhawa, Dermatological effects of Nigella 
+sativa, J. Dermatol. Dermatol. Surg. 19 (2) (2015) 92–98. 
+[29] S.K. Ahmed, I.G. Mohammed, E.O. El badri, M.D. Mahmoud, S.K. Waleed, 
+A. Nadir, In vitro antimicrobial activity of ethanolic seeds extract of Nigella sativa 
+(Linn) in Sudan, African, J. Microbiol. Res. 9 (11) (2015) 788–792. 
+[30] B.E.M. Alahmad, N.F. Mohamed Yusoff, N.S. Mustafa, P.K. Subramaniam, D. 
+S. Darnis, K.I. Mokhtar, Potential antibacterial effects of flaxseed and Nigella 
+sativa extracts on Streptococcus pyogenes, IIUM J. Orofac. Health Sci. 1 (1) 
+(2020) 11–16. 
+[31] B.H. Ali, G. Blunden, Pharmacological and toxicological properties of Nigella 
+sativa, Phytother. Res. PTR 17 (4) (2003) 299–305. 
+[32] E. Elariny, A. Amer, Y. El-senosy, S. Naaom, Antimicrobial activity of Nigella 
+sativa and Lawsonia inermis (Henna) against Gram negative bacteria isolated 
+from clinical samples, IOSR J. Biotechnol. Biochem. 6 (3) (2020) 32–37. 
+[33] E. Halawani, Antibacterial activity of thymoquinone and thymohydroquinone of 
+Nigella sativa L. and their interaction with some antibiotics, Adv. Biol. Res. 3 
+(5–6) (2009) 148–152. 
+[34] P.C.M. Jansen, Spices, Condiments and Medicinal Plants in Ethiopia, Their 
+Taxonomy and Agricultural Significance, Backhuys Publishers, Wageningen, 
+1981. 
+[35] A.P. Sommer, H.D. Forsterling, K.E. Sommer, Tutankhamun’s Antimalarial Drug 
+for Covid-19, Drug Res. 71 (1) (2021) 4–9. 
+[36] S.K. Malhotra, Nigella, in: K.V. Peter (Ed.), Handbook of Herbs and Spices, 
+Woodhead Publishing, 2012, pp. 391–416. 
+[37] K. Srinivasan, Cumin (Cuminum cyminum) and black cumin (Nigella sativa) 
+seeds: traditional uses, chemical constituents, and nutraceutical effects, Food 
+Qual. Saf. Oxf. 2 (1) (2018) 1–16. 
+[38] P.M. Paarakh, Nigella sativa Linn.–a comprehensive review, Indian J. Nat. Prod. 
+Resour. 1 (4) (2010) 409–429. 
+[39] ITIS, Nigella sativa L., 2021. www.itis.gov. https://doi.org/10.5066/F7KH0KBK. 
+(Accessed 12 June 2021). 
+[40] M.F. Ramadan, Black Cumin (Nigella sativa) Seeds: Chemistry, Technology, 
+Functionality, and Applications, Springer, Cham, Switzerland, 2021. 
+[41] A.M. Bendre, A. Kumar, A Text Book Of Practical Botany 2, Rastogi Publications, 
+Meerut-250002, India, 2009. 
+[42] J. Otieno, S. Abihudi, S. Veldman, M. Nahashon, T. van Andel, H.J. de Boer, 
+Vernacular dominance in folk taxonomy: a case study of ethnospecies in 
+medicinal plant trade in Tanzania, J. Ethnobiol. Ethnomed. 11 (1) (2015) 10. 
+[43] M.K. Sahak, N. Kabir, G. Abbas, S. Draman, N.H. Hashim, D.S. Hasan Adli, The 
+Role of Nigella sativa and its active constituents in learning and memory, Evid. 
+Based Complement. Altern. Med. 2016 (2016), 6075679. 
+[44] A. Mannan, S. Begum, A review on nigella sativa: a marvel herb, J. Drug Deliv. 
+Ther. 10 (2) (2020) 213–219. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+23
+[45] A.K. Datta, A. Saha, A. Bhattacharya, A. Mandal, R. Paul, S. Sengupta, Black 
+cumin (Nigella sativa L.)–a review, J. Plant Dev. Sci. 4 (1) (2012) 1–43. 
+[46] H. Melnyk, L. Stalyus, T. Kozak, The perspectives of Nigella sativa L. growing in 
+the climatic conditions of the precarpathian region, Pharma Innov. 4 (3, Part A) 
+(2015) 24. 
+[47] K. Giridhar, G. Reddy, S. Surya Kumari, L. Naram Naidu, Nigella: A Seed Spice of 
+Blessing, Spice India, 2015. 
+[48] H. Rouhi, A. Sepehri, F. Karimi, Study of dormancy-breaking of Black cumin seeds 
+(Nigella sativa L.), annals of biological research 3 (6) (2012) 2651–2655. 
+[49] J.A. Duke, Ecosystematic data on medicinal plants, Cultiv. Util. Med. Plants 
+(1982) 13–23. 
+[50] A. Bibi, M.A. Khan, M. Adil, Z.U.R. Mashwani, Production of callus biomass and 
+antioxidant secondary metabolites in black cumin, J. Anim. Plant Sci. 28 (5) 
+(2018) 1321–1328. 
+[51] S.I. Bhuyan, M.S. Hossain, M.M. Islam, S.N. Begum, Z. Urbi, M.S. Hossain, 
+Molecular assessment of genetic diversity and relationship in selected mungbean 
+germplasms, Biotechnology 13 (3) (2014) 126–134. 
+[52] M.S. Hossain, Z. Urbi, I.C. Phang, Auxin increased adventitious root development 
+in the medicinal plant Andrographis paniculata (Burm. f.) Wall. ex Nees, Agron. J. 
+113 (4) (2021) 3222–3231. 
+[53] M.S. Hossain, Z. Urbi, Effect of naphthalene acetic acid on the adventitious 
+rooting in shoot cuttings of andrographis paniculata(Burm.f.) Wall. ex nees: an 
+important therapeutical herb, Int. J. Agron. 2016 (2016) 1–6. 
+[54] M.S. Hossain, The effect of salinity stress on the morpho-physiology and protein 
+profile of andrographis paniculata, department of biotechnology, kulliyyah of 
+science, International Islamic University Malaysia, Kuantan, Pahang, Malaysia 
+(2016) 9. 
+[55] M.S. Hossain, Present scenario of global salt affected soils, its management and 
+importance of salinity research, Int Res J Biol Sci 1(1) (2019) 1–3. 
+[56] M.S. Hossain, Proteomic Studies, Contribution to understanding plant salinity 
+stress response, Glob. J. Bot. Sci. 8 (2020) 1–10. 
+[57] D. Talei, A. Valdiani, M. Maziah, S.R. Sagineedu, M.S. Saad, Analysis of the 
+anticancer phytochemicals in Andrographis paniculata Nees. under salinity stress, 
+Biomed. Res. Int. 2013 (2013), 319047. 
+[58] R. Verpoorte, R. van der Heijden, H.J.G. ten Hoopen, J. Memelink, Metabolic 
+engineering of plant secondary metabolite pathways for the production of fine 
+chemicals, Biotechnol. Lett. 21 (6) (1999) 467–479. 
+[59] M.S. Hossain, Role of Proteomics Analysis in Revealing the Molecular 
+Mechanisms of Altered Physiological Traits of Plant under Salinity Stress, in: 
+Murtaza Abid, M. M. Abid Ali Khan, Amber Hasan, Ratna Katiyar (Eds.), Plant 
+Proteomics: Concept and Applications, Discovery Publishing House Pvt. Ltd., New 
+Delhi, India, 2021, pp. 132–151. 
+[60] R. Nikolić, N. Mitić, R. Miletić, M. Nešković, Effects of cytokinins on in vitro seed 
+germination and early seedling morphogenesis in lotus corniculatus L, J. Plant 
+Growth Regul. 25 (3) (2006) 187–194. 
+[61] I. Botnick, W. Xue, E. Bar, M. Ibdah, A. Schwartz, D.M. Joel, E. Lev, A. Fait, 
+E. Lewinsohn, Distribution of primary and specialized metabolites in Nigella 
+sativa seeds, a spice with vast traditional and historical uses, Molecules 17 (9) 
+(2012) 10159–10177. 
+[62] N. Sharma, D. Ahirwar, D. Jhade, S. Gupta, Medicinal and phamacological 
+potential of Nigella sativa: a review, Ethnobot. Leafl. 2009 (7) (2009). 
+[63] M.F. Ramadan, Nutritional value, functional properties and nutraceutical 
+applications of black cumin (Nigella sativa L.): an overview, Int. J. Food Sci. 
+Technol. 42 (10) (2007) 1208–1218. 
+[64] A.-uh. Gilani, Q. Jabeen, M.A.U. Khan, A review of medicinal uses and 
+pharmacological activities of Nigella sativa, Pak. J. Biol. Sci. 7 (4) (2004) 
+441–451. 
+[65] M.S. Hossain, Z. Urbi, F.Z. Evamoni, F.T. Zohora, K.M.H. Rahman, A secondary 
+research on medicinal plants mentioned in the Holy Qur’an, J. Med. Plants 3 (59) 
+(2016) 81–97. 
+[66] Z. Urbi, M.S. Hossain, K.M.H. Rahman, T.M. Zayed, Grape: a medicinal fruit 
+species in the holy Qur’an and its ethnomedicinal importance, World Appl. Sci. J. 
+30 (3) (2014) 253–265. 
+[67] L.J. Musselman, Holy Pharmacy - Medicine from Plants of the Bible and Qu’ran 
+Holy Pharmacy Modern Medical Uses of Some Plants of the Qu’ran and the Bible 
+2000 , https://ww2.odu.edu/~lmusselm/plant/bible/holypharmacy.php. 
+(Accessed 12 December 2020. 
+[68] M. Tariq, Nigella sativa seeds: folklore treatment in modern day medicine, Saudi 
+J. Gastroenterol. 14 (3) (2008) 105–106. 
+[69] E.M. Yimer, K.B. Tuem, A. Karim, N. Ur-Rehman, F. Anwar, Nigella sativa L. 
+(Black Cumin): a promising natural remedy for wide range of illnesses, Evid. 
+Based Complement. Altern. Med. 2019 (2019), 1528635. 
+[70] A. Shabana, A. El-Menyar, M. Asim, H. Al-Azzeh, H. Al, Thani, cardiovascular 
+benefits of black cumin (Nigella sativa), Cardiovasc. Toxicol. 13 (1) (2013) 9–21. 
+[71] S.A. Ali, N. Parveen, A.S. Ali, Links between the Prophet Muhammad (PBUH) 
+recommended foods and disease management: a review in the light of modern 
+superfoods, Int. J. Health Sci. 12 (2) (2018) 61–69. 
+[72] S.A. Khan, K. Al-Balushi, Combating COVID-19: the role of drug repurposing and 
+medicinal plants, J. Infect. Public Health 14 (4) (2021) 495–503. 
+[73] A.P. Sommer, H.D. Forsterling, K.E. Sommer, Thymoquinone: shield and sword 
+against SARS-CoV-2, Precis Nanomed. 3 (3) (2020) 541–548. 
+[74] A.O. Bamosa, H. Kaatabi, F.M. Lebdaa, A.M. Elq, A. Al-Sultanb, Effect of Nigella 
+sativa seeds on the glycemic control of patients with type 2 diabetes mellitus, 
+Indian J. Physiol. Pharmacol. 54 (4) (2010) 344–354. 
+[75] M.S. Bin Sayeed, M. Asaduzzaman, H. Morshed, M.M. Hossain, M.F. Kadir, M. 
+R. Rahman, The effect of Nigella sativa Linn. seed on memory, attention and 
+cognition in healthy human volunteers, J. Ethnopharmacol. 148 (3) (2013) 
+780–786. 
+[76] U. Kalus, A. Pruss, J. Bystron, M. Jurecka, A. Smekalova, J.J. Lichius, 
+H. Kiesewetter, Effect of Nigella sativa (black seed) on subjective feeling in 
+patients with allergic diseases, Phytother. Res. PTR 17 (10) (2003) 1209–1214. 
+[77] S.S. Azimova, A.I. Glushenkova, V.I. Vinogradova. Lipids, lipophilic components 
+and essential oils from plant sources, Springer-Verlag, London, London, 2012. 
+[78] R. Tisserand, R. Young. Essential Oil Safety: A Guide for Health Care 
+Professionals, 2nd ed., Churchill Livingstone, London, United Kingdom, 2013. 
+[79] S. Cheikh-Rouhou, S. Besbes, B. Hentati, C. Blecker, C. Deroanne, H. Attia, Nigella 
+sativa L.: Chemical composition and physicochemical characteristics of lipid 
+fraction, Food Chem 101 (2) (2007) 673–681. 
+[80] H. Lutterodt, M. Luther, M. Slavin, J.-J. Yin, J. Parry, J.-M. Gao, L. Yu, Fatty acid 
+profile, thymoquinone content, oxidative stability, and antioxidant properties of 
+cold-pressed black cumin seed oils, LWT - Food Science and Technology 43 (9) 
+(2010) 1409–1413. 
+[81] B.L. Sampaio, R. Edrada-Ebel, F.B. Da Costa, Effect of the environment on the 
+secondary metabolic profile of Tithonia diversifolia: a model for environmental 
+metabolomics of plants, Sci. Rep. 6 (2016) 29265. 
+[82] A. Kessler, A. Kalske, Plant secondary metabolite diversity and species 
+interactions, Annu. Rev. Ecol. Evol. Syst. 49 (1) (2018) 115–138. 
+[83] M.S. Hossain, Z. Urbi, A. Sule, K.M. Hafizur Rahman, Andrographis paniculata 
+(Burm. f.) Wall. ex Nees: a review of ethnobotany, phytochemistry, and 
+pharmacology, Scientific World J. 2014 (2014), 274905. 
+[84] A. Adamska, J. Stefanowicz-Hajduk, J.R. Ochocka, Alpha-hederin, the active 
+saponin of nigella sativa, as an anticancer agent inducing apoptosis in the SKOV-3 
+cell line, Molecules 24 (16) (2019). 
+[85] S. Rooney, M.F. Ryan, Effects of alpha-hederin and thymoquinone, constituents of 
+Nigella sativa, on human cancer cell lines, Anticancer Res. 25 (3B) (2005) 
+2199–2204. 
+[86] S.S. Kumara, B.T. Huat, Extraction, isolation and characterisation of antitumor 
+principle, alpha-hederin, from the seeds of Nigella sativa, Planta Med. 67 (1) 
+(2001) 29–32. 
+[87] R. Keyhanmanesh, S. Saadat, M. Mohammadi, A.A. Shahbazfar, M. Fallahi, The 
+protective effect of alpha-hederin, the active constituent of Nigella sativa, on lung 
+inflammation and blood cytokines in ovalbumin sensitized guinea pigs, 
+Phytother. Res. PTR 29 (11) (2015) 1761–1767. 
+[88] Y.A. Mahmmoud, S.B. Christensen, Oleic and linoleic acids are active principles in 
+Nigella sativa and stabilize an E(2)P conformation of the Na,K-ATPase. Fatty 
+acids differentially regulate cardiac glycoside interaction with the pump, 
+Biochim. Biophys. Acta 1808 (10) (2011) 2413–2420. 
+[89] S. Maiti, A. Banerjee, A. Nazmeen, M. Kanwar, S. Das, Active-site molecular 
+docking of Nigellidine to nucleocapsid/Nsp2/Nsp3/MPro of COVID-19 and to 
+human IL1R and TNFR1/2 may stop viral-growth/cytokine-flood, and the drug 
+source Nigella sativa (black cumin) seeds show potent antioxidant role in 
+experimental rats, Res. Sq. (2020). 
+[90] E.G. Ndirangu, S. Opiyo, M.W. Ng’ang’a, Chemical composition and repellency of 
+Nigella sativa L. seed essential oil against Anopheles gambiae sensu stricto, 
+Trends in Phytochemical, Research 4 (2) (2020) 77–84. 
+[91] R. Atta ur, S. Malik, S.S. Hasan, M.I. Choudhary, C.-Z. Ni, J. Clardy, Nigellidine — 
+A new indazole alkaloid from the seeds of Nigella sativa, Tetrahedron Letters 36 
+(12) (1995) 1993–1996. 
+[92] Z. Ali, D. Ferreira, P. Carvalho, M.A. Avery, I.A. Khan, Nigellidine-4-O-sulfite, the 
+first sulfated indazole-type alkaloid from the seeds of Nigella sativa, J Nat Prod 71 
+(6) (2008) 1111–1112. 
+[93] R. Atta ur, S. Malik, H. Cun-heng, J. Clardy, Isolation and structure determination 
+of nigellicine, a novel alkaloid from the seeds of, Tetrahedron Letters 26 (23) 
+(1985) 2759–2762. 
+[94] R. Atta ur, S. Malik, K.Nigellimine Zaman, A New Isoquinoline Alkaloid from the 
+Seeds of Nigella sativa, Journal of Natural Products 55 (5) (2004) 676–678. 
+[95] T. Morikawa, F. Xu, Y. Kashima, H. Matsuda, K. Ninomiya, M. Yoshikawa, Novel 
+dolabellane-type diterpene alkaloids with lipid metabolism promoting activities 
+from the seeds of Nigella sativa, Org Lett 6 (6) (2004) 869–872. 
+[96] T. Morikawa, F. Xu, K. Ninomiya, H. Matsuda, M. Yoshikawa, Nigellamines A3, 
+A4, A5, and C, new dolabellane-type diterpene alkaloids, with lipid metabolism- 
+promoting activities from the Egyptian medicinal food black cumin, Chem Pharm 
+Bull (Tokyo) 52 (4) (2004) 494–497. 
+[97] B.K. Mehta, M. Verma, M. Gupta, Novel lipid constituents identified in seeds of 
+Nigella sativa (Linn), Journal of the Brazilian Chemical Society 19 (3) (2008) 
+458–462. 
+[98] B. Nickavar, F. Mojab, K. Javidnia, M.A. Amoli, Chemical composition of the fixed 
+and volatile oils of Nigella sativa L. from Iran, Z Naturforsch C J Biosci 58 (9–10) 
+(2003) 629–631. 
+[99] F. Benkaci–Ali, A. Baaliouamer, B.Y. Meklati, F. Chemat, Chemical composition of 
+seed essential oils from AlgerianNigella sativa extracted by microwave and 
+hydrodistillation, Flavour and Fragrance, Journal 22 (2) (2007) 148–153. 
+[100] S. Bourgou, R. Ksouri, A. Bellila, I. Skandrani, H. Falleh, B. Marzouk, Phenolic 
+composition and biological activities of Tunisian Nigella sativa L. shoots and 
+roots, C R Biol 331 (1) (2008) 48–55. 
+[101] A. Topcagic, S. Cavar Zeljkovic, E. Karalija, S. Galijasevic, E. Sofic, Evaluation of 
+phenolic profile, enzyme inhibitory and antimicrobial activities of Nigella sativa 
+L. seed extracts, Bosn J Basic Med Sci 17 (4) (2017) 286–294. 
+[102] S. Cheikh-Rouhou, S. Besbes, G. Lognay, C. Blecker, C. Deroanne, H. Attia, Sterol 
+composition of black cumin (Nigella sativa L.) and Aleppo pine (Pinus halepensis 
+Mill.) seed oils, Journal of Food Composition and Analysis 21 (2) (2008) 
+162–168. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+24
+[103] S.J. Gerige, M.K.Y. Gerige, M. Rao, Ramanjaneyulu, GC-MS analysis of Nigella 
+sativa seeds and antimicrobial activity of its volatile oil, Brazilian Archives of 
+Biology and Technology 52 (5) (2009) 1189–1192. 
+[104] S.K.T. Venkatachallam, H. Pattekhan, S. Divakar, U.S. Kadimi, Chemical 
+composition of Nigella sativa L. seed extracts obtained by supercritical carbon 
+dioxide, J Food Sci Technol 47 (6) (2010) 598–605. 
+[105] S.S. Muthu Kumara, B.T.K. Huat, Extraction, Isolation and Characterisation of 
+Antitumor Principle, α-Hederin, from the Seeds of Nigella sativa, Planta Med 67 
+(01) (2001) 29–32. 
+[106] L. Kokoska, J. Havlik, I. Valterova, H. Sovova, M. Sajfrtova, I. Jankovska, 
+Comparison of chemical composition and antibacterial activity of Nigella sativa 
+seed essential oils obtained by different extraction methods, J Food Prot 71 (12) 
+(2008) 2475–2480. 
+[107] E. Halawani, Antibacterial activity of thymoquinone and thymohydroquinone of 
+Nigella sativa L. and their interaction with some antibiotics, Advances in 
+Biological Research 3 (5–6) (2009) 148–152. 
+[108] H. Mahmoudvand, A. Sepahvand, S. Jahanbakhsh, B. Ezatpour, S.A. Ayatollahi 
+Mousavi, Evaluation of antifungal activities of the essential oil and various 
+extracts of Nigella sativa and its main component, thymoquinone against 
+pathogenic dermatophyte strains, J Mycol Med 24 (4) (2014) e155–61. 
+[109] H. Almshawit, I. Macreadie, Fungicidal effect of thymoquinone involves 
+generation of oxidative stress in Candida glabrata, Microbiol Res 195 (2017) 
+81–88. 
+[110] M. Taha, A. Azeiz, W. Saudi, Antifungal effect of thymol, thymoquinone and 
+thymohydroquinone against yeasts, dermatophytes and non-dermatophyte molds 
+isolated from skin and nails fungal infections, Egyptian Journal of Biochemistry & 
+Molecular Biology 28 (2) (2010) 109–126. 
+[111] A. Mouwakeh, A. Telbisz, G. Spengler, C. Mohacsi-Farkas, G. Kisko, Antibacterial 
+and Resistance Modifying Activities of Nigella sativa Essential Oil and its Active 
+Compounds Against Listeria monocytogenes, In, Vivo 32 (4) (2018) 737–743. 
+[112] A. Mutabagani, S.A. El-Mahdy, A study of the anti-inflammatory activity of 
+Nigella sativa L. and thymoquinone in rats, Saudi Pharmaceutical Journal 5 (2) 
+(1997) 110–113. 
+[113] P. Marsik, L. Kokoska, P. Landa, A. Nepovim, P. Soudek, T. Vanek, In vitro 
+inhibitory effects of thymol and quinones of Nigella sativa seeds on 
+cyclooxygenase-1- and -2-catalyzed prostaglandin E2 biosyntheses, Planta Med 71 
+(8) (2005) 739–742. 
+[114] C.C. Woo, S.Y. Loo, V. Gee, C.W. Yap, G. Sethi, A.P. Kumar, K.H. Tan, Anticancer 
+activity of thymoquinone in breast cancer cells: possible involvement of PPAR- 
+gamma pathway, Biochem Pharmacol 82 (5) (2011) 464–475. 
+[115] H. Hosseinzadeh, S. Parvardeh, Anticonvulsant effects of thymoquinone, the 
+major constituent of Nigella sativa seeds, in mice, Phytomedicine 11 (1) (2004) 
+56–64. 
+[116] H. Mahmoudvand, R. Tavakoli, F. Sharififar, K. Minaie, B. Ezatpour, 
+S. Jahanbakhsh, I. Sharifi, Leishmanicidal and cytotoxic activities of Nigella 
+sativa and its active principle, thymoquinone, Pharm Biol 53 (7) (2015) 
+1052–1057. 
+[117] A.S. Butt, N. Nisar, N. Ghani, I. Altaf, T.A. Mughal, Isolation of thymoquinone 
+from Nigella sativa L. and Thymus vulgaris L., and its anti-proliferative effect on 
+HeLa cancer cell lines, Trop. J. Pharm. Res. 18 (1) (2019) 37–42. 
+[118] N. Chehl, G. Chipitsyna, Q. Gong, C.J. Yeo, H.A. Arafat, Anti-inflammatory effects 
+of the Nigella sativa seed extract, thymoquinone, in pancreatic cancer cells, HPB 
+(Oxford) 11 (5) (2009) 373–381. 
+[119] H. Gali-Muhtasib, M. Diab-Assaf, C. Boltze, J. Al-Hmaira, R. Hartig, A. Roessner, 
+R. Schneider-Stock, Thymoquinone extracted from black seed triggers apoptotic 
+cell death in human colorectal cancer cells via a p53-dependent mechanism, Int J 
+Oncol 25 (4) (2004) 857–866. 
+[120] S. Dinagaran, S. Sridhar, P. Eganathan, Chemical Composition and Antioxidant 
+Activities of Black Seed Oil (Nigella Sativa L.), Int J Pharm Sci Res 7 (11) (2016) 
+4473–4479. 
+[121] A.M. Abdel-Fattah, K. Matsumoto, H. Watanabe, Antinociceptive effects of Nigella 
+sativa oil and its major component, thymoquinone, in mice, Eur J Pharmacol 400 
+(1) (2000) 89–97. 
+[122] H.J. Harzallah, B. Kouidhi, G. Flamini, A. Bakhrouf, T. Mahjoub, Chemical 
+composition, antimicrobial potential against cariogenic bacteria and cytotoxic 
+activity of Tunisian Nigella sativa essential oil and thymoquinone, Food Chem 
+129 (4) (2011) 1469–1474. 
+[123] A.J. Walker, D.R. Bassett Jr., W.J. Duey, E.T. Howley, V. Bond, D.J. Torok, 
+P. Mancuso, Cardiovascular and plasma catecholamine responses to exercise in 
+blacks and whites, Hypertension 20 (4) (1992) 542–548. 
+[124] T. Morikawa, F. Xu, Y. Kashima, H. Matsuda, K. Ninomiya, M. Yoshikawa, Novel 
+dolabellane-type diterpene alkaloids with lipid metabolism promoting activities 
+from the seeds of Nigella sativa, Org. Lett. 6 (6) (2004) 869–882. 
+[125] T. Morikawa, F. Xu, K. Ninomiya, H. Matsuda, M. Yoshikawa, Nigellamines A3, 
+A4, A5, and C, new dolabellane-type diterpene alkaloids, with lipid metabolism- 
+promoting activities from the Egyptian medicinal food black cumin, Chem. 
+Pharm. Bull. 52 (4) (2004) 494–497. 
+[126] Y. Niu, L. Zhou, L. Meng, S. Chen, C. Ma, Z. Liu, W. Kang, Recent progress on 
+chemical constituents and pharmacological effects of the Genus Nigella, Evid. 
+Based Complement Altern. Med. 2020 (2020), 6756835. 
+[127] V.K. Babayan, D. Koottungal, G.A. Halaby, Proximate analysis, fatty acid and 
+amino acid composition of Nigella sativa L. seeds, J. Food Sci. 43 (4) (1978) 
+1314–1315. 
+[128] A. Topcagic, S. Cavar Zeljkovic, E. Karalija, S. Galijasevic, E. Sofic, Evaluation of 
+phenolic profile, enzyme inhibitory and antimicrobial activities of Nigella sativa 
+L. seed extracts, Bosn. J. Basic Med. Sci. 17 (4) (2017) 286–294. 
+[129] S. Bourgou, R. Ksouri, A. Bellila, I. Skandrani, H. Falleh, B. Marzouk, Phenolic 
+composition and biological activities of Tunisian Nigella sativa L. shoots and 
+roots, C. R. Biol. 331 (1) (2008) 48–55. 
+[130] M.M.Ö. Bertrand, Matthaus fatty acids, tocopherol, and sterol contents of some 
+nigella species seed oil, Czech J. Food Sci. 29 (2) (2011) 145–150. 
+[131] M. Arici, O. Sagdic, U. Gecgel, Antibacterial effect of Turkish black cumin (Nigella 
+sativa L.) oils, Grasas Aceites 56 (4) (2007) 259–262. 
+[132] A.R. Khan, K. Kour, Wide spectrum antibacterial activity of Nigella sativa L. seeds, 
+IOSR J. Pharm. 7 (6) (2016) 12–16. 
+[133] A. Hannan, S. Saleem, S. Chaudhary, M. Barkaat, M.U. Arshad, Anti bacterial 
+activity of Nigella sativa against clinical isolates of methicillin resistant 
+Staphylococcus aureus, J. Ayub Med. Coll. Abbottabad 20 (3) (2008) 72–74. 
+[134] N.A. Mohammed, Effect of Nigella sativa L. extracts against Streptococcus mutans 
+and Streptococcus mitis in Vitro, J. Baghdad Coll. Dent. 24 (3) (2012) 154–157. 
+[135] S. Ashraf, A.A. Anjum, A. Ahmad, S. Firyal, S. Sana, A.A. Latif, In vitro activity of 
+Nigella sativa against antibiotic resistant Salmonella enterica, Environ. Toxicol. 
+Pharmacol. 58 (2018) 54–58. 
+[136] H. Zuridah, A. Fairuz, A. Zakri, M. Rahim, In vitroantibacterial activity of Nigella 
+sativa against Staphylococcus aureus,Pseudomonas aeruginosa, Klebsiella 
+pneumoniae, Escherichia coli and Bacilluscereus, Asian J. Plant Sci. 7 (3) (2008) 
+331–333. 
+[137] M.M. Alam, M. Yasmin, J. Nessa, C.R. Ahsan, Antibacterial activity of chloroform 
+and ethanolextracts of black cumin seeds (Nigella sativa) against multi-drug 
+resistanthuman pathogens under laboratory conditions, J. Med. Plants Res. 4 (18) 
+(2010) 1901–1905. 
+[138] M. Besra, V. Kumar, In vitro investigation ofantimicrobial activities of 
+ethnomedicinal plants against dental cariespathogens, 3 Biotech 8(5) (2018) 257. 
+[139] N.W. Nawarathne, K. Wijesekera, W. Wijayaratne, M. Napagoda, Development of 
+Novel Topical Cosmeceutical Formulationsfrom Nigella sativa L. with 
+Antimicrobial Activity against Acne-Causing Microorganisms, Scientific World 
+Journal 2019 (2019), 5985207. 
+[140] T. Mosolygo, A. Mouwakeh, M. Hussein Ali, A. Kincses, C. Mohacsi-Farkas, 
+G. Kisko, G. Spengler, Bioactive Compounds of Nigella Sativa Essential Oil 
+asAntibacterial Agents against Chlamydia Trachomatis D, Microorganisms 7 (9) 
+(2019) 370. 
+[141] M.S. Hanafy, M.E. Hatem, Studies on the antimicrobial activity of Nigella 
+sativaseed (black cumin), J. Ethnopharmacol 34 (2-3) (1991) 275–278. 
+[142] H. Hosseinzadeh, M.M. Haghi, Antibacterial activity of total extracts and 
+essentialoil of Nigella sativa L. seeds in mice, Pharmacologyonline 2 (2007) 
+429–435. 
+[143] A.U. Khan, S. Ali, Antibacterial Activity of Nigella sativa and Piper nigrum, Asian 
+Journal of Natural and Applied Sciences 2 (4) (2013) 173–179. 
+[144] M. Rahman, M. Wadud, T. Islam, M. Hussain, E. Bristy, A. Tuhin, Evaluation of 
+Antibacterial Activity of Piper betel Leaves and Nigella sativa Seeds against 
+Multidrug Resistant Food and Water Borne Pathogenic Bacteria: An in vitro Study 
+Model, Microbiology Research Journal International 22 (4) (2018) 1–11. 
+[145] M.A. Randhawa,, A.K. Alenazy, M.G. Alrowaili, J. Basha, An active principle of 
+Nigella sativa L., thymoquinone, showing significant antimicrobial activity 
+against anaerobic bacteria, J. Intercult. Ethnopharmacol. 6 (1) (2017) 97–101. 
+[146] P. Ilango, K. Senthilnathan, T. Abirami, V. Vummidi, A. Mahalingam, V. Reddy, 
+Evaluation of antibacterial activity of Nigella sativa seed extract against 
+Porphyromonas gingivalis and Prevotella intermedia, Journal of Interdisciplinary 
+Dentistry 10 (2) (2020) 51–55. 
+[147] N.A. Hasan, M.Z. Nawahwi, H. Ab Malek, Antimicrobial Activity of Nigella sativa 
+Seed Extract, Sains Malays 42 (2) (2013) 143–147. 
+[148] CDC, Antibiotic Resistance Threats in the United States, 2019, p. 2019. www.cdc. 
+gov/DrugResistance/Biggest-Threats.html. 
+[149] Y. Habboush, M.D. Benham, T. Louie, A. Noor, R.M. Sprague, New York State 
+Infection Control, StatPearls, StatPearls Publishing, Treasure Island (FL), 2021. 
+[150] F. Van Bambeke, J.M. Pages, V.J. Lee, Inhibitors of bacterial efflux pumps as 
+adjuvants in antibiotic treatments and diagnostic tools for detection of resistance 
+by efflux, Recent Pat. Antiinfect Drug Disco 1 (2) (2006) 157–175. 
+[151] J.E. Kristiansen, V.F. Thomsen, A. Martins, M. Viveiros, L. Amaral, Non- 
+antibiotics reverse resistance of bacteria to antibiotics, Vivo 24 (5) (2010) 
+751–754. 
+[152] N.A. Romanova, P.F. Wolffs, L.Y. Brovko, M.W. Griffiths, Role of efflux pumps in 
+adaptation and resistance of Listeria monocytogenes to benzalkonium chloride, 
+Appl. Environ. Microbiol. 72 (5) (2006) 3498–3503. 
+[153] M.T. Mata, F. Baquero, J.C. Perez-Diaz, A multidrug efflux transporter in Listeria 
+monocytogenes, FEMS Microbiol. Lett. 187 (2) (2000) 185–188. 
+[154] S. Godreuil, M. Galimand, G. Gerbaud, C. Jacquet, P. Courvalin, Efflux pump Lde 
+is associated with fluoroquinolone resistance in Listeria monocytogenes, 
+Antimicrob. Agents Chemother. 47 (2) (2003) 704–708. 
+[155] S. Umar, M.T. Munir, S. Subhan, T. Azam, Q. un Nisa, M.I. Khan, W. Umar, Z. ur 
+Rehman, A.S. Saqib, M.A. Shah, Withdrawn: Protective and antiviral activities of 
+Nigella sativa against avian influenza (H9N2) in Turkeys, J. Saudi Soc. Agric. Sci. 
+(2016). 
+[156] A.A. Onifade, A.P. Jewell, W.A. Adedeji, Nigella sativa concoction induced 
+sustained seroreversion in HIV patient, Afr. J. Tradit. Complement. Alter. Med. 10 
+(5) (2013) 332–335. 
+[157] M.L. Salem, M.S. Hossain, Protective effect of black seed oil from Nigella sativa 
+against murine cytomegalovirus infection, Int. J. Immunopharmacol. 22 (9) 
+(2000) 729–740. 
+[158] A.U. Khan, In-ovo antiviral effect of Nigella sativa extract against newcastle 
+disease virus in experimentally infected chicken embryonated eggs, Pak. Vet. J. 
+38 (04) (2018) 434–437. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            
+Biomedicine & Pharmacotherapy 143 (2021) 112182
+25
+[159] S. Ahmad, H.W. Abbasi, S. Shahid, S. Gul, S.W. Abbasi, Molecular docking, 
+simulation and MM-PBSA studies of Nigella sativa compounds: a computational 
+quest to identify potential natural antiviral for COVID-19 treatment, J. Biomol. 
+Struct. Dyn. 39 (12) (2021) 4225–4233. 
+[160] Y.H. Mohammed, J.M. Ghaidaa, H.H. Imad, Analysis of bioactive chemical 
+compounds of Nigella sativa using gas chromatography-mass spectrometry, 
+J. Pharmacogn. Phytother. 8 (2) (2016) 8–24. 
+[161] M.T. Rahman, Potential benefits of combination of Nigella sativa and Zn 
+supplements to treat COVID-19, J. Herb. Med. 23 (2020), 100382. 
+[162] S. Bouchentouf, N. Missoum, Identification of compounds from Nigella sativa as 
+new potential inhibitors of 2019 novel coronasvirus (Covid-19): molecular 
+docking study, Preprints (2020). 
+[163] S. Ashraf, S. Ashraf, M. Ashraf, M.A. Imran, L. Kalsoom, U.N. Siddiqui, I. Farooq, 
+Z. Habib, S. Ashraf, M. Ghufran, M.K. Akram, N. Majeed, A. Zain ul, R. Akmal, 
+S. Rafique, K. Nawaz, M.I.K. Yousaf, S. Ahmad, M.S. Shahab, M.F. Nadeem, 
+M. Azam, H. Zheng, A. Malik, M. Ayyaz, T. Mahmud, Q.A. Saboor, A. Ahmad, 
+M. Ashraf, M. Izhar, A. Hilal, A. Muhammad, Z. Shaukat, A. Khaqan, K. Hayat, 
+S. Arshad, M. Hassan, A. Abeer bin, A. Ahmad, T. Mughal, A.R. Virk, M. Umer, 
+M. Suhail, S. Zulfiqar, S. Sarfraz, M.I. Anwar, A. Humayun, R.A. Khokhar, 
+S. Siddique, Therapeutic efficacy of Honey and Nigella sativa against COVID-19: a 
+multi-center randomized controlled clinical trial (HNS-COVID-PK), medRxiv 
+(2020). 
+[164] S.M.E. Sayed, H.H. Almaramhy, Y.T. Aljehani, A.M. Okashah, M.E. El-Anzi, M. 
+B. AlHarbi, R. El-Tahlawi, M.M.H. Nabo, M.S. Aboonq, O. Hamouda, 
+O. Alhadramy, The evidence-based TaibUVID nutritional treatment for 
+minimizing COVID-19 fatalities and morbidity and eradicating COVID-19 
+pandemic: a novel approach for better outcomes (a treatment protocol), Am. J. 
+Public Health Res. 8 (2) (2020) 54–60. 
+[165] A. Asdadi, H. Harhar, S. Gharby, Z. Bouzoubaâ, Chemical composition and 
+antifungal activity of Nigella sativa L. oil seed cultivated in Morocco, Int. J. 
+Pharm. Sci. Invent. 3 (11) (2014) 09–15. 
+[166] M.N.S.S. Gupta, B. Duraiswamy, S. Das, M. Chhajed, Potential herbs and its 
+phytoconstituents against fungal infection: a systematic review, World J. Pharm. 
+Res. 1 (1) (2012) 01–20. 
+[167] M.A. Khan, M.K. Ashfaq, H.S. Zuberi, M.S. Mahmood, A.H. Gilani, The in vivo 
+antifungal activity of the aqueous extract from Nigella sativa seeds, Phytother. 
+Res. PTR 17 (2) (2003) 183–186. 
+[168] I.M. Fierro, C. Barja-Fidalgo, F.Q. Cunha, S.H. Ferreira, The involvement of nitric 
+oxide in the anti-Candida albicans activity of rat neutrophils, Immunology 89 (2) 
+(1996) 295–300. 
+[169] H. Shokri, A review on the inhibitory potential of Nigella sativa against 
+pathogenic and toxigenic fungi, Avicenna J. Phytomed. 6 (1) (2016) 21–33. 
+[170] N.H. Nadaf, S.S. Gawade, A.S. Muniv, S.R. Waghmare, D.B. Jadhav, K. 
+D. Sonawane, Exploring anti-yeast activity of Nigella sativa seed extracts, Ind. 
+Crop Prod. 77 (2015) 624–630. 
+[171] A. Naeini, A.R. Khosravi, M. Chitsaz, H. Shokri, M. Kamlnejad, Anti- Candida 
+albicans activity of some Iranian plants used in traditional medicine, Journal de 
+Mycologie Médicale 19 (3) (2009) 168–172. 
+[172] A.R. Khosravi, H. Shokri, Z. Farahnejat, R. Chalangari, M. Katalin, Antimycotic 
+efficacy of Iranian medicinal plants towards dermatophytes obtained from 
+patients with dermatophytosis, Chin J Nat Medicines 11 (1) (2013) 43–48. 
+[173] S.H. Aljabre, M.A. Randhawa, N. Akhtar, O.M. Alakloby, A.M. Alqurashi, 
+A. Aldossary, Antidermatophyte activity of ether extract of Nigella sativa and its 
+active principle, thymoquinone, J Ethnopharmacol 101 (1–3) (2005) 116–119. 
+[174] A.R. Khosravi, M.H. Minooeianhaghighi, H. Shokri, S.A. Emami, S.M. Alavi, 
+J. Asili, The potential inhibitory effect of cuminum cyminum, ziziphora 
+clinopodioides and nigella sativa essential oils on the growth of Aspergillus 
+fumigatus and Aspergillus flavus, Braz J Microbiol 42 (1) (2011) 216–224. 
+[175] H. Mahmoudvand, I. Sharifi, M.F. Harandi, M. Shakibaie, Anti-leishmania effects 
+of methotrexate (MTX) alone and in combination with meglumine antimoniate 
+(MA) against Iranian, Asian Pac. J. Trop. Med. 412 (2014) 420. 
+[176] S.H. Aljabre, M.A. Randhawa, N. Akhtar, O.M. Alakloby, A.M. Alqurashi, 
+A. Aldossary, Antidermatophyte activity of ether extract of Nigella sativa and its 
+active principle, thymoquinone, J. Ethnopharmacol. 101 (1–3) (2005) 116–119. 
+[177] U. Sitara, I. Niaz, J. Naseem, N. Sultana, Antifungal effect of essential oils on In 
+vitro growth of pathogenic fungi, Pak. J. Bot. 40 (1) (2008) 409–414. 
+[178] E.A. Rogozhin, Y.I. Oshchepkova, T.I. Odintsova, N.V. Khadeeva, O. 
+N. Veshkurova, T.A. Egorov, E.V. Grishin, S.I. Salikhov, Novel antifungal 
+defensins from Nigella sativa L. seeds, Plant Physiol. Biochem. 49 (2) (2011) 
+131–137. 
+[179] A.R. Khosravi, M.H. Minooeianhaghighi, H. Shokri, S.A. Emami, S.M. Alavi, 
+J. Asili, The potential inhibitory effect of Cuminum cyminum, ziziphora 
+clinopodioides and Nigella sativa essential oils on the growth of Aspergillus 
+fumigatus and Aspergillus flavus, Braz. J. Microbiol. 42 (1) (2011) 216–224. 
+[180] M.S. Akhtar, S. Riffat, Field trial of Saussurea lappa roots against nematodes and 
+Nigella sativa seeds against cestodes in children, J. Pak. Med. Assoc. 41 (8) (1991) 
+185–187. 
+[181] F. Forouzanfar, B.S. Bazzaz, H. Hosseinzadeh, Black cumin (Nigella sativa) and its 
+constituent (thymoquinone): a review on antimicrobial effects, Iran. J. Basic Med. 
+Sci. 17 (12) (2014) 929–938. 
+[182] S. V.T, S. F, B. H.M, D. M.S, A review on therapeutic potential of Nigella sativa 
+(kalonji) seeds, J. Med. Plants Res. 8 (3) (2014) 167–177. 
+[183] M.A. Mansour, O.T. Ginawi, T. El-Hadiyah, A.S. El-Khatib, O.A. Al-Shabanah, H. 
+A. Al-Sawaf, Effects of volatile oil constituents of Nigella sativa on carbon 
+tetrachloride-induced hepatotoxicity in mice: evidence for antioxidant effects of 
+thymoquinone, Res. Commun. Mol. Pathol. Pharmacol. 110 (3–4) (2001) 
+239–251. 
+[184] F.Q. Alenzi, S. El-Bolkiny Yel, M.L. Salem, Protective effects of Nigella sativa oil 
+and thymoquinone against toxicity induced by the anticancer drug 
+cyclophosphamide, Br. J. Biomed. Sci. 67 (1) (2010) 20–28. 
+[185] A. Zaoui, Y. Cherrah, N. Mahassini, K. Alaoui, H. Amarouch, M. Hassar, Acute and 
+chronic toxicity of Nigella sativa fixed oil, Phytomedicine 9 (1) (2002) 69–74. 
+[186] T. Khanna, F. Zaidi, P. Dandiya, CNS and analgesic studies on Nigella sativa, 
+Fitoter. Milano 64 (1993) 407. 
+[187] O.A. Badary, O.A. Al-Shabanah, M.N. Nagi, A.M. Al-Bekairi, M.M.A. Elmazar, 
+Acute and subchronic toxicity of thymoquinone in mice, Drug Dev. Res. 44 (2–3) 
+(1998) 56–61. 
+[188] N. Vahdati-Mashhadian, H. Rakhshandeh, A. Omidi, An investigation on LD50 
+and subacute hepatic toxicity of Nigella sativa seed extracts in mice, Pharmazie 
+60 (7) (2005) 544–547. 
+[189] M.A. Dollah, S. Parhizkar, L.A. Latiff, M.H. Bin Hassan, Toxicity effect of Nigella 
+sativa on the liver function of rats, Adv. Pharm. Bull. 3 (1) (2013) 97–102. 
+[190] O.A. Badary, M.N. Nagi, O.A. al-Shabanah, H.A. al-Sawaf, M.O. al-Sohaibani, A. 
+M. al-Bekairi, Thymoquinone ameliorates the nephrotoxicity induced by cisplatin 
+in rodents and potentiates its antitumor activity, Can. J. Physiol. Pharmacol. 75 
+(12) (1997) 1356–1361. 
+[191] H. Mashayekhi-Sardoo, R. Rezaee, G. Karimi, Nigella sativa (black seed) safety: an 
+overview, Asian Biomed. 14 (4) (2020) 127–137. 
+Md.S. Hossain et al.                                                                                                                                                                                                                            

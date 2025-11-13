@@ -1,0 +1,2928 @@
+  1     
+ 
+Securidaca longipedunculata Fresen (Polygalaceae): A review of its 
+ethnomedicinal uses, phytochemistry, pharmacological properties and 
+toxicology 
+ 
+N.I. Mongaloa,b, L.J. McGawb, J.F. Finnieb, J. Van Stadenb* 
+ 
+aUniversity of South Africa, College of Agriculture and Environmental Sciences, 
+Private Bag X6, Florida 1710, South Africa. 
+bResearch Centre for Plant Growth and Development, School of Life Sciences, 
+University of KwaZulu-Natal, Pietermaritzburg, Private Bag X01, Scottsville 3209, 
+South Africa. 
+*Corresponding author: rcpgd@ukzn.ac.za  Tel: +2733 260 5130 
+ 
+ABSTRACT 
+Ethnopharmacological relevance: Securidaca longipedunculata Fresen 
+(Polygalaceae) is a multi-purpose plant with a long history of use in African 
+traditional medicine to treat various sexually transmitted infections, hernias, coughs, 
+fever, ascariasis, constipation, headaches, rheumatism, stomach ache, malaria, 
+tuberculosis, pain, epilepsy, pneumonia, skin infections, and it is also used as an 
+aphrodisiac for men. The current paper provides an overview of the present 
+phytochemistry, toxicology, ethnomedicinal uses and pharmacological properties of 
+S. longipedunculata.  
+Materials and methods: The information reported in this paper was collected from a 
+literature search using various computerised databases including ScienceDirect, 
+  2     
+ 
+Scopus, Scielo, PubMed and Google Scholar. The extra information was sourced 
+from various academic dissertations, theses and botanical books. 
+Results: Phytochemically, extracts from various parts of S. longipedunculata, 
+especially the root bark, contain numerous valuable compounds including 
+xanthones, some benzyl benzoates and triterpene saponins amongst others. Toxicity 
+studies, both in vivo and in vitro, revealed that extracts are only toxic at relatively 
+high concentrations. Furthermore, extracts have antimicrobial, antioxidant, 
+antiparasitic, anti-diabetic, anti-inflammatory, antimalarial, insecticidal, pesticidal, and 
+anticonvulsant properties.  
+Conclusions: S. longipedunculata is an important plant species with potential 
+benefits in the treatment of transmissible and infectious diseases, including malaria, 
+tuberculosis, and those caused by community acquired microorganisms. Although 
+extracts from this species generally have little toxicity at low concentrations, further 
+efforts are required to investigate the potential toxicity of S. longipedunculata. The 
+antimicrobial properties of extracts and purified compounds against microorganisms 
+causing sexually transmitted infections is also deserving of further research. 
+Moreover, the pharmacokinetic properties of extracts and compounds of the species 
+need to be explored as there is insufficient data available on these aspects. 
+ 
+Key words: Securidaca longipedunculata, Polygalaceae, xanthones, pharmacology, 
+toxicology 
+ 
+Abbreviations: ABTS, 2,2-azino-bis (3-ethylbenzothiazoline-6-sulfonic acid) 
+diammonium salt; AChE, acetylcholinesterase; DPPH, 2,2-diphenyl-1-picryl-hydrazyl; 
+IC50, 50% inhibitory concentration; LD50, 50% lethal dose concentration; LPS/IFN-
+  3     
+ 
+gamma, lipopolysaccharide/interferon gamma; MIC, minimum inhibitory 
+concentration; MBC, minimum bactericidal concentration; MFC, minimum fungicidal 
+concentration; NO, nitric oxide; XO, xanthine oxidase; ZI, zone of inhibition 
+ 
+Contents 
+ 
+1. Introduction         4 
+2. Materials and Methods        5 
+3. Description and ethnomedicinal uses      5 
+3.1 Botanical description and distribution     5 
+     3.2 Local names         6 
+3.3 Ethnomedicinal uses       6 
+3.3.1 Roots         8 
+3.3.2 Leaves         9 
+3.3.3 Whole plant        9 
+3.3.4 Stem bark        10 
+4. Phytochemistry         10 
+5. Toxicology         18 
+6. Pharmacology         20 
+6.1 Antibacterial activity       20 
+6.2 Antifungal activity        29 
+6.3 Antiparasitic activity       30 
+6.4 Antioxidant activity        31 
+6.5 Antiplasmodial activity       31  
+6.6 Anti-inflammatory properties      32 
+  4     
+ 
+6.7 Insecticidal, molluscicidal and pesticidal properties   32 
+6.8 Enzyme inhibition activity       33 
+6.9 Anticonvulsant, sedative and anxiolytic properties   34 
+6.10 Hypoglycemic activity and histopathological effects   34 
+7. Conclusions         35 
+Acknowledgements         37 
+References          37 
+ 
+1. Introduction 
+Medicinal plants serve as a source of medicines in a variety of communities for the 
+treatment of numerous pathogenic infections, tonics for general wellbeing, as spices 
+and condiments and for magical purposes. Some African medicinal plants have been 
+ethnobotanically and scientifically implicated in the treatment of a variety of human 
+infections (Van Wyk and Albrecht, 2008; Ojewole et al., 2010; Mongalo and Mafoko, 
+2013; Mongalo 2013; Zongo et al., 2013). The pharmacology of these plants may be 
+attributed to various classes of compounds occurring within these plants.  
+ 
+The genus Securidaca comprises about 80 species, characterised by 
+papillionaceous purplish flowers and mostly scandent shrubs and lianas, which 
+produce compounds known as securixanthones with antimicrobial and antioxidant 
+properties (Wallnӧfer, 1998; Yang et al., 2001, Yang et al., 2003, Da Costa et al., 
+2013). Although protected under provincial and national legislation, S. 
+longipedunculata stem bark and roots are still found amongst the most traded 
+medicinal plants in Africa (Moeng, 2010; Tabuti et al., 2012). The species is 
+threatened by various anthropogenic and environmental conditions including 
+  5     
+ 
+seasonal fires, droughts, and debarking (Oni et al., 2014).  The current paper is 
+aimed at highlighting the phytochemical constituents, pharmacology, indigenous 
+ethnobotanical uses, and toxicity of S. longipedunculata – an important multipurpose 
+African medicinal plant.  
+ 
+2. Materials and Methods 
+The information reported in this paper was collected from a literature search using 
+various computerised databases including ScienceDirect, Scopus, Scielo, PubMed 
+and Google Scholar. Additional information was retrieved from various academic 
+dissertations, theses and botanical books. Key words such as Securidaca 
+longipedunculata, ethnomedicinal uses, antimicrobial activity, pharmacological 
+properties, cytotoxicity, phytochemistry, anti-inflammatory, antioxidant properties, 
+anti-diabetic, antimalarial, pesticidal effect, antiparasitic, anthelmintic, anti-convulsant 
+and insecticidal effect were used. 
+ 
+3. Description and ethnomedical uses 
+3.1 Botanical description and distribution 
+Securidaca longipedunculata Fresen (synonyms Securidaca longipedunculata var. 
+longipedunculata or Elsota longipedunculata, family Polygalaceae) is a small tree up 
+to 6 meters high with a pale grey, smooth bark and oblong, more or less hairless 
+alternate leaves that are variable in size and shape and crowded towards the stem 
+tips (Van Wyk et al., 2009). Clustered flowers are small, pink to lilac or purple in 
+colour, sweet scented and are produced in early summer (Van Wyk et al., 2005). 
+Fruits are a round nut, heavily veined, occasionally smooth, oblong, purplish green 
+when young and possess a membranous wing of about 4 cm long (Coates-Palgrave, 
+  6     
+ 
+2005). The species is mostly distributed in various tropical African countries, 
+including Angola, Benin, Botswana, Burundi, Cameroon, Chad, Cote d'Ivoire, 
+Democratic Republic of Congo, Eritrea, Ethiopia, Gambia, Ghana, Guinea, Kenya, 
+Malawi, Mali, Mozambique, Namibia, Niger, Nigeria, Rwanda, Senegal, Sierra 
+Leone, South Africa, Sudan, Tanzania, Uganda, Zambia, Zimbabwe, Mozambique, 
+as well as in the North West and Limpopo Provinces of South Africa (Baloyi and 
+Tshisikhawe, 2009; Tshisikhawe et al., 2012). 
+ 
+3.2 Local names 
+In South African languages, the plant species is called violet tree, fiber tree, or 
+Rhodesian violet (English), krinkhout (Afrikaans), umfufu (Ndebele), mupesu 
+(TshiVenda) and mmaba in both Sotho and Tswana. In other African countries, 
+various names in different cultural and ethnic groups have been used: es a manahi 
+(Amharic); saggat, alali (Arabic); mwinda (Lozi); mutata (Lunda); mwinda, mpuluka 
+(Nyanja); mupapi (Bemba); lilo (Luganda); uwar magunguna, sanya (Hausa); yodo, 
+juto, jodo (Mandinka); mufufu (Shona); muteya, mzigi, Chipvufana, mufufu, 
+munyapunyapu, munyazvirombo, mutangeni, umfufu (Swahili); shotora (Tigrigna); 
+njefu, bwazi, mufufuma (Tongan); fouf (Wolof); ipeta (Yoruba) (Orwa et al., 2009). 
+ 
+3.3 Ethnomedicinal uses 
+The major ethnomedicinal uses of S. longipedunculata in different countries are 
+documented in Table 1. These suggest that the most commonly used plant part is 
+the root and that the species is used in the treatment of a variety of ailments 
+including coughs, fever, malaria, tuberculosis and sexually transmitted diseases in 
+  7     
+ 
+different geographical areas. This provides support for a pharmacological basis of 
+the use of the plant species in the treatment of such ailments. 
+ 
+Table 1. Ethnomedicinal uses of S. longipedunculata in different countries. 
+Country Plant part Uses Reference 
+ 
+Zimbabwe 
+ 
+Nigeria 
+ 
+South Africa 
+ 
+ 
+Kenya 
+ 
+ 
+Burkina Faso 
+ 
+Uganda 
+Nigeria 
+ 
+ 
+Nigeria 
+ 
+Nigeria 
+ 
+Botswana 
+ 
+Roots 
+ 
+Leaves 
+ 
+Roots 
+ 
+ 
+Whole plant 
+ 
+ 
+Roots 
+Stem bark 
+Roots 
+Roots 
+ 
+ 
+Stem bark 
+and roots 
+Stem bark 
+ 
+Roots 
+ 
+Venereal diseases, syphilis, pains, fever, 
+epilepsy, pneumonia, tuberculosis. 
+Dislocated jaw, headaches, skin cancer, 
+skin infections, contraceptive purposes 
+Flu, blood purifier, aphrodisiac, 
+psychoactive purposes 
+ 
+Malaria, tick prevention in animals 
+ 
+ 
+Malaria 
+Skin diseases 
+Fever, malaria, ascariasis 
+Abortion, constipation, coughs, fever, 
+pneumonia, sexual boost, toothache, 
+tuberculosis, rheumatism 
+Treat infections related to nervous and 
+circulatory system 
+Dysentery, malaria, typhoid and frequent 
+stomach ache 
+Coughs and as an aphrodisiac 
+ 
+Maroyi, 2013; Mustapha, 
+2013a; Viol, 2009 
+Mustapha, 2013a; Mustapha, 
+2013b 
+Semenya and Potgieter, 
+2013; Sobiecki, 2008; 
+Moeng, 2010; Mabogo 1990 
+Wanzala et al., 2012; Nguta 
+et al., 2010a; Nguta et al., 
+2010b 
+Nadembega et al., 2011 
+Nadembega et al., 2011 
+Hamill et al., 2003 
+Mustapha, 2013a; 
+Ogunmefun and Gbile, 2012 
+ 
+ 
+Borikini et al., 2013 
+ 
+Mustapha, 2013a 
+Motlhanka and Nthoiwa, 
+2013 
+  8     
+ 
+ 
+3.3.1 Roots 
+ 
+The smoke resulting from burning the root of S. longipedunculata, combined with 
+that of Zanthoxylum zanthoxyloides, is inhaled to treat malaria and fever (Hamill et 
+al., 2003). A root decoction may also be drunk to treat fever, malaria, hernias, 
+gonorrhoea, palpitations, headaches, oedema, rheumatism, diabetes, sexual 
+impotence, toothache, fungal infections and malaria (Maroyi, 2013; Ogunmefun and 
+Gbile, 2012; Chhabra et al., 1991; Moshi et al., 2007). 
+ 
+An infusion of the soaked root bark may be drunk as an aphrodisiac or mixed with 
+other medicines and used as an emetic (Mabogo, 1990). Alternatively, a root 
+decoction may be drunk in beer as an aphrodisiac (Motlhanka and Nthoiwa, 2013). 
+The root bark is pulverised in water and the resulting mixture is inhaled or used to 
+wash the head, treating excessive headache (Nordeng et al., 2013). A handful of 
+roots are combined with the roots of Sphedamnocarpus pruriens subsp. pruriens for 
+treating people believed to be possessed by evil spirits while the powdered root is 
+mixed with porridge and eaten to treat epilepsy and convulsions (Sobiecki, 2008). 
+The decoction from the root is drunk or applied topically to treat cancer (Ashidi et al., 
+2010). 
+ 
+Roots may also be ground into powder form, dissolved in water and taken orally for 
+constipation, pneumonia, back ache, blood purification, sexually transmitted 
+infections and as an aphrodisiac (Viol, 2009). Dried roots are soaked in water, along 
+with Citrus aurantifolia and the resulting juice is taken orally for three days to treat 
+  9     
+ 
+constipation while the dried root is boiled in distilled water along with that of Annona 
+senegalensis and used to treat pneumonia (Mustapha, 2013a). Moreover, the dried 
+root is ground into powder, along with that of Parkia biglobosa and then taken with 
+cow’s milk as a sexual boost. The pounded root may be mixed with that of 
+Zanthoxylum humile and taken with soft porridge to treat erectile dysfunction 
+(Semenya and Potgieter, 2013). 
+ 
+3.3.2 Leaves 
+Fresh leaves are made into paste with little or no water along with the bark of 
+Gardenia erubescens and applied externally twice a day for sixty-three days to treat 
+skin cancer (Mustapha, 2013a). Moreover, fresh leaves are made into paste with 
+little or no water along with leaves of Jussiaea suffruticosa and shea butter and the 
+resulting mixture is applied externally, twice a day to treat a variety of skin infections.  
+Dry leaves are also ground into powder and put into the fire and the resulting smoke 
+is inhaled to treat headaches while the boiled leaves are taken orally for 
+contraceptive purposes (Mustapha, 2013b). The leaves are either chewed fresh or 
+both orally and nasally administered to treat epilepsy, headaches, stomach ache, 
+infertility, snakebite, toothache and to expel the placenta (Augustino et al., 2011). 
+ 
+3.3.3 Whole plant 
+One cup from a whole plant decoction may be taken orally three times a day for 
+three to four days to treat malaria (Nguta et al., 2010a; Nguta et al., 2010b). The 
+decoction of the whole plant may either be drunk or used to wash the mouth and 
+treat infections which include oral candidiasis, excessive coughing and other 
+opportunistic infections associated with HIV/AIDS (Chinsembu and Hedimbi, 2010). 
+  10     
+ 
+ 
+3.3.4 Stem bark 
+A spoonful of powdered stem bark is mixed with Mondia whitei (stem bark), Uvaria 
+afzelii (root bark), Allium ascalonicum (bulb) and Parkia biglobosa (seeds) and then 
+taken with hot porridge to treat a variety of viral infections (Borikini et al., 2013). The 
+dried bark is ground into a powder and taken orally with cow’s milk or porridge for 
+fourteen days to treat dysentery (Mustapha, 2013a). A decoction from the stem bark 
+may be taken orally to treat stomach ache, headaches, inflammation, chest 
+complaints, abortion, jaundice, ritual suicide, constipation, snake bites, infertility 
+problems, epilepsy and venereal diseases (Das, 2009; Bruschi et al., 2011; 
+Oladunmoye and Kehinde, 2011; Kadiri et al., 2013). The powdered stem bark is 
+also mixed with hot water and taken orally to treat syphilis and gonorrhoea (Hedimbi 
+and Chinsembu, 2012). 
+ 
+4. Phytochemistry 
+Some of the compounds isolated from S. longipedunculata are shown in Fig. 1. The 
+volatile oil of the roots contains large amounts of methyl salicylate (Van Wyk et al, 
+2005). The report agrees with those of Jayasakara et al. (2002) and Lognay et al. 
+(2000), which revealed that the major component (over 90%) of the volatile material 
+from the root bark is methyl-2-hydroxybenzoate (methyl salicylate). Furthermore, 
+securinine, presenegenin, 2-hydroxybenzoate esters such as methyl 2-hydroxy-6-
+methoxybenzoate and its benzyl analogue were also reported. In general, most 
+classes of compounds have been isolated from the roots, using a variety of solvents 
+(Table 2). This may well explain the ethnomedicinal uses and hence the biological 
+activity of the plant species.  
+ 
+ 
+ 
+Be
+Be
+nzyl-3-hyd
+nzyl-2-hyd
+2-Metho
+Met
+Me
+R1 O
+O
+R2
+roxy-2-me
+roxy-6-me
+xy-3,4-me
+OH
+hyl-2-hydr
+11
+thyl salicy
+O
+CH3
+thoxybenz
+thoxybenz
+O
+thylenedio
+OC
+O
+oxy-6-met
+late 
+oate (R1 =
+oate (R1 =
+OCH3
+xybenzop
+H3
+OCH3
+hoxybenzo
+ 
+ H, R2 = O
+ OH, R2 =
+O
+O
+ 
+henone 
+ate 
+H) 
+ H) 
+ 
+  12     
+ 
+ 
+4-Methoxy-benzo [1, 3] dioxol-5-yl-phenylmethanone 
+O
+H3CO
+HO
+O
+OCH3
+OCH3
+OCH3
+OHOH
+ 
+ 
+1,6,8-Trihydroxy-2,3,4,7-tetramethoxyxanthone 
+ 
+ 
+5-O-prenyl-1-hydroxy-2,3, 6, 7, 8-pentamethoxyxanthone 
+ 
+  13     
+ 
+N
+O O
+H
+ 
+Securinine 
+ 
+OCH3
+O
+OOH
+ 
+Benzyl-2-hydroxy-6-methoxybenzoate 
+O
+O OH
+HO
+OCH3
+ 
+1,7-Dihydroxy-4-methoxyxanthone 
+  14     
+ 
+CH2OH
+COOHH
+HO
+HO
+HOOC  
+Presenegenin 
+ 
+H
+HO
+H
+HH
+ 
+β-Sitosterol 
+OH
+O
+OH
+HO
+ 
+Caffeic acid 
+  15     
+ 
+H3CO
+HO
+OCH3
+OH
+O
+ 
+Sinapic acid 
+HO
+OH
+O
+ 
+p-Coumaric acid 
+OH
+O
+ 
+Cinnamic acid 
+Fig.1. Compounds isolated from Securidaca longipedunculata. 
+ 
+  
+  16     
+ 
+Table 2. Classes of compounds, plant parts investigated and isolated compounds 
+from S. longipedunculata.  
+Classes of compounds Part of  plant Solvent used References
+Saponins 
+Securidacaside A and securidacaside B 
+ 
+3-O-β-D-glucopyranosylpresenegenin-28-O-β-D-
+apiofuranosyl-(1,3)-β-D-xylopyranosyl-(1,4)-[β-D-
+apiofuranosyl-(1,3)]-α-L-rhamnopyranosyl-(1,2)-{4-O-
+[(E)-3,4,5-trimethoxycinnamoyl]}-β-D-fucopyranosyl ester 
+ 
+ 
+Presenegenin 
+ 
+Root bark 
+ 
+Roots 
+ 
+Roots 
+ 
+Methanol 
+ 
+70 % Methanol  
+ 
+Water 
+ 
+Stevenson et al. 
+(2009). 
+Mitaine-Offer et al. 
+(2010) 
+Van Wyk et al. 
+(2005) 
+Flavonoids 
+1,7-dihydroxy-4- methoxyxanthone. 
+ 
+Rutin 
+ 
+Root bark 
+Roots 
+ 
+Dichloromethane 
+and ethyl acetate. 
+Aqueous methanol 
+ 
+ 
+Joseph et al. (2006), 
+Meli et al. (2007) 
+Muanda et al. 
+(2010) 
+Alkaloids 
+Securinine 
+ 
+Roots 
+ 
+ 
+Water 
+ 
+Van Wyk et al. 
+(2005) 
+Steroids 
+β-Sitosterol 
+ 
+Roots 
+ 
+ 
+Ethyl acetate 
+ 
+Meli et al. (2007) 
+Glycosides 
+ 
+Quercetin-3-O--D-xyloside 
+∆-Stigmasterol-3-O-D-glucopyranoside 
+ 
+ 
+ 
+ 
+Leaves 
+Stem bark 
+ 
+ 
+Methanol 
+Methanol 
+ 
+ 
+Debella et al. (2000) 
+Debella et al. (2000) 
+Sucrose derivatives 
+β-D-(3,4-disinapoyl)fructofuranosyl-α-D(6-
+sinapoy1)glucopyranoside and β-D-(3-
+sinapoyl)fructofuranosyl-α-D(6-
+sinapoylyl)glucopyranoside 
+ 
+Stem bark 
+ 
+Methanol 
+ 
+De Tommasi et al. 
+(1993) 
+Phenolic acids 
+Sinapic acid, 4,5-dicaffeoyl-D-quinic acid, caffeic acid 
+and 3,4,5-tricaffeoyl-D-quinic acid  
+ 
+Quercetin, p-coumaric acid, cinnamic acid, caffeic acid 
+and chlorogenic acid 
+ 
+Stem bark 
+ 
+Root 
+ 
+Methanol 
+ 
+Aqueous methanol 
+and water 
+ 
+De Tommasi et al. 
+(1993) 
+Muanda et al. 
+(2010) 
+Fatty acids and Triacylglycerol
+13-hydroxyoctadeca-cis-9-trans-11-dienoic acid, 11-
+hydroxyhexadeca-cis-7-trans-9-dienoic acid and 9-
+hydroxytetradeca-cis-5-trans-7-dienoic acid 
+ 
+Seeds 
+ 
+Light petroleum 
+ 
+Smith et al. (1979), 
+Okoli et al. (2005) 
+Volatile oil 
+Methyl salicylate 
+ 
+Root bark 
+ 
+Water 
+(Hydrodistillation) 
+ 
+Van Wyk et al. 
+(2005), Jayasakara 
+et al. (2002, Lognay 
+et al. (2000) 
+ 
+The aqueous root and ethanol extracts yielded alkaloids, cardiac glycosides, 
+flavonoids, saponins, tannins, volatile oils, terpenoids and some steroids (Junaid et 
+  17     
+ 
+al., 2008; Haruna et al., 2013a; Auwal et al., 2012; Gbadamosi, 2012) while 
+chloroform and ethanol extracts indicated flavonoids, saponins, coumarins, tannins 
+and alkaloids (Adebayo and Osman, 2012). The ethyl acetate fraction of the root 
+contained compounds such as 1,5-dihydroxy-3,4,6,7,8-pentamethoxyxanthone, 1,7-
+dihydroxyxanthone, 5-Ο-prenyl-1-hydroxy-2,3,6,7,8-pentamethoxyxathanthone, 2-
+hydroxy-1, 7-dimethoxyxanthone, β-sitosterol, 1,7-dihyroxy-4-methoxyxanthone, 
+quercetin-3-O-β-galacto-pyranoside and 3-hydroxy-6-methoxysalicylic acid (Meli et 
+al., 2007). The compounds 1,3,6,8-tetrahydroxy-2,5-dimethoxyxanthone and 1,6,8-
+trihydroxy-2,3,4,7-tetra-methoxyxanthone were also isolated from the acetone 
+extract of the fresh root bark (Meyer et al., 2008). Moreover, the hexane extract of 
+the root indicated the presence of 1,5-dihydroxy-2,3,6,7,8-pentamethoxyxanthone, 2-
+hydroxy-l, 7-dimethoxyxanthone and 1,6-dihydroxyxanthone (Lannang et al., 2006). 
+ 
+The water and aqueous methanol extracts from the root yielded a variety of 
+compounds in varying amounts, including gallic acid, chlorogenic acid, caffeic acid, 
+epicatechic acid, rutin, p-coumaric acid, cinnamic acid, apigenin, quercetin glucosyl 
+and quercetin dihydrate (Muanda et al., 2010). Four highly oxygenated xanthones, 
+muchimangins A-D, with a diphenylmethyl substituent have also been isolated from 
+the root as minor constituents (Dibwe et al., 2012). The dichloromethane extract of 
+the root bark yielded 4-methoxy-benzo[1,3]dioxol-5-yl-phenyl methanone and three 
+other known compounds namely 1,7-dihydroxy-4-methoxyxanthone, benzyl-2-
+hydroxy-6-methoxybenzoate and methyl-2-hydroxy-6-methoxybenzoate (Joseph et 
+al., 2006). The chloroform extract of the root contained compounds such as 2-
+methoxy-3,4-methylenedioxybenzophenone, benzyl 2-hydroxy-6-methoxybenzoate, 
+6-hydroxy-2-methoxy benzoic acid, 1,6,8-trihydroxy-2,3,4,5-tetramethoxyxanthone, 
+  18     
+ 
+1,6-dihydroxy-2,3,4,5,8-pentamethoxyxanthone, 8-hydroxy-1,4,5,6-tetramethoxy-2,3-
+methylenedioxyxanthone-4,6,8-trihydroxy,1,2,3,5-tetramethoxyxanthone, 4,8-
+dihydroxy-1,2,3,5,6-pentamethoxyxanthone, benzyl 3-hydroxy-2-methoxybenzoate 
+and some other xanthones (Dibwe et al., 2013).  
+ 
+Triterpene saponins such as 3-Ο-β-D-glucopyranosyl presenegenin 28-Ο-β-D-
+apiofuranosyl-(1→3)-β-D-xylopyranosyl-(1→4)-[β-D-apiofuranosyl-(1→3)]-α-L-
+rhamnopyranosyl-(1→2)-{4-Ο-[(E)-3,4,5-trimethoxycinnamoyl]}-β-D-fucopyrano ester 
+and three other related esters have been isolated from the 70% aqueous methanol 
+root extract (Mitaine-Offer et al., 2010).  
+ 
+Besides sinapoic acid, caffeic acid, 4,5-dicaffeoyl-D-quinic acid, 3,4,5-tricaffeoyl-D-
+quinic acid and a considerable number of monosaccharide and polysaccharide 
+conjugates, the methanol extract of the stem bark revealed the two bitter principles 
+β-D-(3,4-disinapoyl)(fructofuranosyl-α-D-(6-sinapoyl)glucopyranoside and β-D-(3-
+sinapoyl)(fructofuranosyl-α-D-(6-sinapoyl)glucopyranoside (De Tommasi et al., 
+1993). Although many compounds have been isolated from the root and root bark, 
+there is a need to further explore the phytochemistry of the stem bark and leaves of 
+the species.  
+ 
+5. Toxicology 
+The aqueous root bark extract was slightly toxic to albino rats with an LD50 of 0.771 
+g/kg (Auwal et al., 2012), while Agbaje and Adekoya (2012) reported an LD50 of 3.16 
+g/kg when administered orally to rats. Moreover, acute toxicity studies of the 
+aqueous whole root extract on mice revealed LD50 values of 1.740 g/kg and 0.020 
+  19     
+ 
+g/kg for the oral and intraperitoneal application routes respectively (Adeyemi et al., 
+2010), while Dapar et al. (2007) reported an LD50 of 0.037 g/kg when aqueous root 
+extracts were administered orally to albino rats (Sprague Dawley strain). Elsewhere, 
+the 80% ethanol extract of the root bark exhibited an LD50 of 0.547 g/kg against 
+albino mice (Keshebo et al., 2014).These findings may well suggest that the root 
+bark extract has greater acute toxicity than the whole root extract following oral 
+administration. In a repeated dose toxicity study, there was no mortality observed 
+when varying doses of 0.3, 0.9 and 2.7 g/kg of the aqueous root extract were 
+administered orally on a daily basis for a period of 28 days to Swiss albino mice 
+(Etuk et al., 2006). Besides the method of preparation of the extracts, the difference 
+in LD50 may be due to differences in collection site, geographical area and the 
+season of collection. However, there is no data in the literature on the administration 
+of various isolated compounds from S. longipedunculata to mice or rats. 
+ 
+In the brine shrimp bioassay, the 70% methanol extract of the root exhibited a 100% 
+mortality rate at a concentration of 1000 µg/ml (Adiele et al., 2013), while the 80% 
+methanol root extract exhibited an LC50 of 77.1 µg/ml (Moshi et al., 2007), 
+suggesting that these extracts are relatively toxic. However, the brine shrimp assays 
+have some problems as the counting of the viable larvae is performed while the live 
+larvae are continually moving around the petri dish. 
+ 
+The aqueous root bark extract was toxic to Ehrlich ascites tumor cells with a 
+mortality rate of 82.5 % at 1000 µg/ml and an IC50 of 67 µg/ml (Lawal et al., 2012). 
+Compounds such as 1,6,8-trihydroxy-2,3,4,5-tetramethoxyxanthone and 1,6-
+dihydroxy-2,3,4,5,8-pentamethoxyxanthone showed potent cytotoxicity with IC50 
+  20     
+ 
+values of 22.8 and 17.4 µM respectively against human pancreatic cancer cells 
+(Dibwe et al., 2013) while the 70% methanol extract of the root bark exhibited 
+average inhibition of cell proliferation of 22.6 % at a concentration of 1 µg/ml against 
+HeLa cells (Runyoro et al., 2005). However, this is not a useful result, when 
+compared to the IC50 which will explain the overall average concentration at which 
+50% of the cells will be inhibited by the test plant extract. In summary, S. 
+longipedunculata extracts have been investigated for cytotoxicity against human 
+pancreatic cell lines, brine shrimp larvae, Ehrlich ascites tumor cells, Hela cells and 
+both albino rats and mice. However, there is a need to investigate the cytotoxicity of 
+various extracts and some compounds isolated from this species against normal 
+human cell lines. 
+ 
+6. Pharmacology 
+The pharmacological properties of S. longipedunculata extracts are summarized 
+briefly in Table 3.  
+ 
+6.1 Antibacterial activity 
+In a recent disc diffusion study, the aqueous leaf extract yielded zones of inhibition 
+(ZI) of 15 mm against both Escherichia coli and Salmonella typhi, while the 
+chloroform leaf extracts exhibited a ZI of 18 mm against Pseudomonas aeruginosa 
+at a concentration of 7.5 mg/disc (Ndamitso et al., 2013). The methanol extracts and 
+the chloroform fraction of the root bark exhibited ZI of 28 mm against methicillin 
+resistant Staphylococcus aureus, while hexane and ethyl acetate fractions exhibited 
+ZI ranging from 14 to 19 mm against Streptococcus pyogenes, Pseudomonas 
+fluorescens and Klebsiella pneumoniae (Musa et al., 2013). Adebayo and Osman 
+  21     
+ 
+(2012) reported a ZI of 15.10 mm by the ethanol extracts of the root bark at a 
+concentration of 100 mg/ml. The disc diffusion assay is not a good method in 
+comparing the antibacterial activity of the plant extracts as it is dependent upon a 
+number of factors, including the concentration of the bacterial inoculum, the type of 
+agar used and the diffusion rate of the plant extract. These factors may well affect 
+the activity of the extracts. However, it may be used as a starting point in comparing 
+the antibacterial activity of various plant extracts. 
+ 
+ 
+ 
+ 
+  22     
+ 
+Table 3. Pharmacological properties of extracts from Securidaca longipedunculata Fresen 
+Activity 
+investigated 
+Tested material Model used  Tested doses Controls Activity and 
+results 
+Experimental 
+evidence 
+assessment 
+Reference 
+Antiparasitic 
+activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Antioxidant 
+activity 
+ 
+ 
+ 
+ 
+ 
+Anti-plasmodial
+activity 
+ 
+ 
+Roots, water 
+extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roots, 70 % 
+aqueous 
+methanol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Root bark, 50 % 
+aqueous 
+methanol extract 
+ 
+ 
+ 
+ 
+Leaves and 
+roots, 
+successively 
+extracted with 
+In vitro studies 
+using 
+trichomonads 
+grown in 
+modified 
+Diamonds 
+medium 
+ 
+ 
+Larvae directly 
+exposed to plant 
+extracts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DPPH and 
+ABTS free 
+radical  assays 
+ 
+ 
+ 
+ 
+In vitro 
+antiplasmodial 
+activity against 
+chloroquinone 
+50 mg/ml, 
+serially diluted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.02,0.10,0.50, 
+2.50 mg/ml 
+extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 to  5 mg/ml 
+plant extract  
+ 
+ 
+ 
+ 
+ 
+3.13 ,6.25, 
+12.5, 25, 50, 
+100 µg/ml  
+ 
+Metronidazole used as 
+a positive control 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive control:1 mg/ml 
+of levamisole 
+Negative control: 
+distilled water 
+ 
+ 
+ 
+ 
+ 
+ 
+Negative control: 50% 
+methanol and test free 
+radical 
+ 
+ 
+ 
+ 
+Positive control: 
+chloroquine 
+ 
+ 
+MIC of 0.10 
+mg/ml after 24 
+hrs of incubation 
+ 
+ 
+ 
+ 
+ 
+ 
+Larvicidal effect 
+of 75 and 70% at 
+1000 µg/ml 
+against 
+Heligmosomoides 
+contortus and H. 
+polygyrus 
+respectively 
+ 
+IC50 of 1.351 and 
+9.48 µg/ml 
+against ABTS 
+and DPPH 
+respectively 
+ 
+ 
+Dichloromethane 
+extract exhibited 
+IC50 of 6.9  µg/ml 
+ 
+ 
+Positive 
+evidence 
+base 
+ 
+ 
+ 
+ 
+ 
+ 
+Dose 
+dependent, 
+positive 
+evidence 
+based 
+ 
+ 
+ 
+ 
+ 
+Dose 
+dependent, 
+positive 
+evidence 
+based 
+ 
+ 
+Dose 
+dependent, 
+positive 
+evidence 
+Fernandes 
+et al. 
+(2008) 
+ 
+ 
+ 
+ 
+ 
+ 
+Adiele et 
+al. (2013) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Muanda et 
+al. (2010) 
+ 
+ 
+ 
+ 
+ 
+Bah et al. 
+(2007) 
+ 
+ 
+  23     
+ 
+ 
+ 
+ 
+ 
+ 
+Anti-
+inflammatory 
+ 
+ 
+ 
+ 
+ 
+Antibacterial 
+activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+dichloromethane 
+and methanol 
+ 
+ 
+ 
+Root bark, 
+methanol extract, 
+fractions of 
+petroleum ether 
+and methanol 
+ 
+ 
+Roots, n-hexane 
+extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Root, acetone 
+soluble portion of 
+ethanol extract 
+and other various 
+fraction 
+ 
+ 
+ 
+ 
+ 
+sensitive 
+Plasmodium 
+falciparum 
+(AD7) 
+ 
+Xylene-induced 
+ear edema in 
+mice 
+ 
+ 
+ 
+ 
+Micro plate broth 
+dilution assay. 
+Species: 
+Mycobacterium 
+tuberculosis 
+(H37Rv) and 
+(H37Ra)  , M. 
+avium DSM, M. 
+bovis BCG and 
+M. smegmatis 
+ 
+ 
+ 
+Cup agar 
+diffusion method 
+and 
+microdilution 
+assay. 
+Species:Bacillus 
+subtilis, 
+Escherichia coli, 
+Salmonella typhi 
+and 
+ 
+ 
+ 
+ 
+ 
+5 mg/ear 
+ 
+ 
+ 
+ 
+ 
+ 
+MIC assay: 
+serial dilutions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.04 ml of the 
+two fold 
+dilutions in 
+disc diffusion; 
+MIC obtained 
+from intercepts 
+of log 
+concentration 
+axis of graph 
+of IZD2 against 
+ 
+ 
+ 
+ 
+ 
+Left ears were left 
+untreated and served 
+as controls 
+ 
+ 
+ 
+ 
+Positive controls: 
+rifampicin, isoniazid, 
+kanamycin and 
+puromycin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive controls: 
+nystatin and 
+chloramphenicol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Petroleum ether 
+fraction exhibited 
+65.63 % inhibition 
+ 
+ 
+ 
+ 
+The n-hexane 
+extract exhibited  
+MIC of 31.2 and 
+62.5 µg/ml 
+against M. bovis 
+and M. 
+tuberculosis 
+H37Ra 
+respectively 
+ 
+ 
+ 
+ 
+The acetone 
+soluble fraction 
+from the ethanol 
+extract exhibited 
+zone of inhibition 
+of 30 mm against 
+B. subtilis and 
+MIC of 0.010 
+against both 
+Pseudomonas 
+based 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based, dose 
+dependent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Okoli et al. 
+(2005) 
+ 
+ 
+ 
+ 
+ 
+Luo et al. 
+(2011) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ajali and 
+Chukwurah 
+(2004) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  24     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roots, aqueous, 
+ethanol and 
+acetone crude 
+extracts. 
+Dichloromethane, 
+hexane, ethyl 
+acetate and n-
+butanol fractions 
+ 
+ 
+ 
+ 
+ 
+ 
+Roots and 
+leaves, 
+chloroform, 
+methanol and 
+aqueous crude 
+extracts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roots and 
+leaves, aqueous, 
+Pseudomonas 
+aeruginosa 
+ 
+ 
+ 
+Agar well 
+diffusion 
+method, 
+microdilution for 
+both MIC and 
+MBC. Species: 
+Escherichia coli, 
+Staphylococcus 
+aureus and 
+Pseudomonas 
+aeruginosa.  
+ 
+ 
+ 
+Disc diffusion 
+method, 
+microdilution 
+assay for both 
+MIC and MBC. 
+Species: 
+Escherichia coli, 
+Salmonella typhi 
+and 
+Pseudomonas 
+aeruginosa.  
+ 
+ 
+ 
+Agar gel 
+diffusion 
+log 
+concentration. 
+ 
+ 
+ 
+Not recorded 
+for Agar well 
+and two fold 
+dilutions for 
+MIC and MBC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7.5 mg/disc in 
+disc diffusion 
+and  two fold 
+dilutions for 
+MIC and MBC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+50, 100, 150, 
+200 mg/ml 
+ 
+ 
+ 
+ 
+ 
+Negative control: 
+acetone 
+Positive 
+control:chloramphenicol 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive control: 
+ampiclox  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive 
+control:gentamicin 
+aeruginosa and 
+Escherichia coli 
+ 
+ 
+ 
+n-butanol fraction 
+and acetone 
+extract exhibited 
+MIC of 0.313 
+against 
+Escherichia coli 
+and 
+Staphylococcus 
+aureus 
+respectively 
+ 
+ 
+ 
+ 
+Chloroform and 
+methanol extracts 
+of the leaves 
+exhibited ZI of 15 
+to 19 mm. Similar 
+extract exhibited 
+MIC of 0.591 
+mg/ml and MBC 
+of 5.91 against S. 
+typhi. 
+ 
+ 
+ 
+ 
+Aqueous root 
+extract exhibited 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based, no 
+dose 
+dependence 
+reported in 
+disc diffusion 
+assay 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+ 
+ 
+ 
+ 
+ 
+Ngonda et 
+al. (2012) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ndamitso 
+et al. 
+(2013) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Junaid et 
+al. (2008). 
+  25     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Antifungal 
+activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hypoglycemic 
+activity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ethanol crude 
+extracts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roots, essential 
+oil (sample 
+containing variety 
+of compounds) 
+ 
+ 
+ 
+Leaves, 70 % 
+methanol extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Root bark, 96 % 
+ethanol extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+method.  
+Species used: 
+Escherichia coli, 
+Salmonella typhi 
+and Salmonella 
+spp 
+ 
+ 
+ 
+microdilution. 
+Species used: 
+Candida 
+albicans 
+ 
+ 
+ 
+Micro plate broth 
+dilution. Species 
+used: Rhizopus 
+nigricans, 
+Fusarium 
+oxysporum and 
+Mucor rouxi 
+ 
+ 
+ 
+Male mice, 
+diabetes 
+induced 
+intraperitoneally 
+with a solution 
+containing 
+streptozotocin, 
+sodim citrate 
+and dH2O at pH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Two fold 
+dilutions for 
+MIC 
+ 
+ 
+ 
+ 
+Two fold 
+dilutions for 
+MIC 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+200 mg/kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Negative control: 
+Distilled water 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive control not 
+reported 
+ 
+ 
+ 
+ 
+ 
+Positive control not 
+reported 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive control: 
+glibenclamide 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ZI of 14, 19 and 
+21 mm against S. 
+spp, S. typhi and 
+E. coli. 
+ 
+ 
+ 
+ 
+ 
+Essential oil 
+revealed MIC of 
+0.40 mg/ml 
+ 
+ 
+ 
+ 
+70 % methanol 
+extract exhibited 
+MIC of 1.2 mg/ml 
+against M. rouxi, 
+F. oxysporum 
+and Rhizopus 
+nigrigans. 
+ 
+ 
+ 
+Ethanol extract 
+lowered blood 
+glucose level 
+better at 4 hr 
+compared to 
+control drug but 
+not at 1hr 
+ 
+ 
+based. 
+dose 
+dependence 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inconclusive 
+evidence, not 
+dose 
+dependent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alitonou et 
+al. (2013) 
+ 
+ 
+ 
+ 
+ 
+Karou et al. 
+(2012). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Keshebo et 
+al. (2014) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  26     
+ 
+ 
+ 
+Enzyme 
+inhibition 
+ 
+ 
+ 
+ 
+ 
+ 
+Anticonvulsant,
+anxiolytic and 
+sedative effect 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Insecticidal, 
+molluscidal and 
+pesticidal effect
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Root, methanol 
+extract 
+ 
+ 
+ 
+ 
+ 
+ 
+Root, aqueous 
+extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Roots, powder 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5. 
+ 
+AChE, CES and 
+XO 
+ 
+ 
+ 
+ 
+ 
+ 
+Mice, strychnine 
+and picrotoxin-
+induced seizure 
+model; Elevated 
+plus maze and Y 
+maze; and 
+hexobarbitone 
+induced sleep 
+and hole board 
+models 
+respectively 
+ 
+Insect toxicity 
+bioassay, direct 
+contact with the 
+insects of known 
+age  
+Species: 
+Callosobrunchus 
+maluculutus, 
+Sitophilus 
+zeamais, 
+Prostephanus 
+truncatus, 
+Rhyzopertha 
+ 
+ 
+100 µl of 100 
+µg/ml 
+ 
+ 
+ 
+ 
+ 
+ 
+100, 200, 400 
+mg/kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.5, 1 and 5% 
+w/w 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive control: 
+galanthamine, ascorbic 
+acid and allopurinol 
+were used in AChE, 
+CES and XO assay 
+respectively 
+ 
+ 
+Positive control: 
+phenobarbitone, 
+diazepam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Not reported 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Methanol extract 
+exhibited 7.73 % 
+inhibitionof CES. 
+ 
+ 
+ 
+ 
+ 
+The effect of the 
+extract delayed 
+onset of seizures 
+comparable to 
+phenobarbitone 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5% of the roots 
+exhibited 75% 
+inhibition against 
+R. dominica 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inconclusive 
+evidence, not 
+dose 
+dependent 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based, dose 
+dependent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based, dose 
+dependent 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bangou et 
+al. (2011) 
+ 
+ 
+ 
+ 
+ 
+ 
+Adeyemi et 
+al. (2010), 
+Okomolo et 
+al, 2011) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Belmain et 
+al. (2001) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  27     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Histopathologic 
+effect 
+ 
+ 
+Roots, methanol 
+extract 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Stem bark, roots 
+and leaves, 
+methanol and 
+ethanol extracts 
+ 
+ 
+ 
+Roots, aqueous 
+extract 
+dominica 
+ 
+Insect toxicity 
+bioassay, topical 
+application 
+Species: S. 
+zeamays, C. 
+maculatus 
+ 
+ 
+ 
+Direct contact 
+Species: Balinus 
+globusus 
+ 
+ 
+ 
+ 
+Intra-peritoneal 
+injection of 
+aqueous extract 
+to rats daily for 
+fourteen 
+consecutive 
+days 
+ 
+ 
+0.02; 0.04; 
+0.06; 0.08 and 
+0.1 g/ml 
+ 
+ 
+ 
+ 
+ 
+ 
+0.1, 0.2, 0.5, 
+1.0, 2.0, 3.0, 
+5.0, 7.5 
+and 10.0 ppm 
+ 
+ 
+ 
+Initially rats 
+were given 2 
+mg/ml for 
+histopathologic 
+effect. Later, 
+10, 30, 45, 60, 
+1000 mg/kg 
+respectively 
+administered 
+to one animal 
+per group to 
+determine 
+LD50 
+ 
+ 
+Positive control: 0.08 
+g/ml of Z. 
+xanthoxyloides 
+ 
+ 
+ 
+ 
+ 
+ 
+Not reported 
+ 
+ 
+ 
+ 
+ 
+ 
+Negative control: 
+distilled water 
+ 
+ 
+After 72 hrs, 
+methanol extract 
+revealed 81.07 
+and 83.54 % 
+inhibition against 
+S.zeamays and 
+C. maculatus 
+respectively. 
+ 
+LC50 of 0.15 to 
+0.60 ppm was 
+reported by both 
+methanol and 
+ethanol extracts  
+ 
+ 
+Extract exhibited 
+LD50 value of 37 
+mg/kg 
+ 
+ 
+Positive 
+evidence 
+based, dose 
+dependent 
+ 
+ 
+ 
+ 
+ 
+Positive 
+evidence 
+based, dose 
+dependent 
+ 
+ 
+ 
+Positive 
+evidence 
+based 
+ 
+ 
+Afful et al. 
+(2012) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Olofintoye 
+(2010) 
+ 
+ 
+ 
+ 
+ 
+Dapar et 
+al. (2007) 
+  28     
+ 
+In the broth microdilution assay, the chloroform extracts of the leaf had a minimum 
+inhibitory concentration (MIC) of 0.591 mg/ml against both S. typhi and P. 
+aeruginosa while the aqueous extracts of the leaf revealed MIC of 6.25 mg/ml and 
+minimum bactericidal concentration (MBC) of 62.5 mg/ml against S. typhi. Besides 
+exhibiting a MIC of 0.313 and MBC of 0.625 mg/ml against both Staphylococcus 
+aureus and Pseudomonas aeruginosa, the acetone extract of the root had a total 
+activity of 19 200 ml/g against these bacterial strains (Ndamitso et al., 2012), 
+suggesting that the extract may be a good source of antibacterial compounds. The 
+units of total activity are ml/g and indicate the degree to which the active compounds 
+in one g of plant material can be diluted and still inhibit the growth of the tested 
+microorganism (Eloff, 2000). The extract of the acetone soluble portion of the root 
+exhibited a potent MIC of 0.02 mg/ml against Bacillus subtilis and S. typhi (Ajali and 
+Chukwurah, 2004). Moreover, a similar extract exhibited MIC of 0.10 mg/ml against 
+both E. coli and P. aeruginosa.   
+ 
+In other reports, the essential oil from S. longipedunculata had MIC of 12.79 mg/ml 
+against E. coli (Alitonou et al., 2012), while the 70% methanol extract of the leaves 
+exhibited a MIC of 0.45 mg/ml and 0.23 mg/ml against Serratia marcescens and 
+Shigella flexneri respectively (Karou et al., 2012).  
+ 
+The n-hexane extract of the root exhibited MIC values ranging from 0.0312 to ˃0.250 
+mg/ml against Mycobacterium species such as M. smegmatis, M. tuberculosis, M. 
+bovis and M. avium (Luo et al., 2011; Ferreira et al., 2012). Moreover, an acetone 
+extract of the leaf was reportedly less active against two Mycobacterium tuberculosis 
+strains, with MIC of ˃0.1 mg/ml compared to the reference drug (isoniazid) which 
+  29     
+ 
+exhibited a MIC of 0.0001 and 0.005 mg/ml (Green et al., 2010). The result of ˃0.1 
+mg/ml is not useful information as it cannot be compared to information from other 
+authors. In general, it is difficult to assess the biological activity of S. 
+longipedunculata against M. tuberculosis as there is sparse information available. 
+Moreover, there is a need to further investigate the biological activity of the various 
+extracts of these species and some of the individual isolated compounds against M. 
+tuberculosis. Elsewhere, water extracts of the root bark exhibited MIC of 1000 mg/ml 
+against S. aureus, E. coli and P. aeruginosa using the cylinder plate technique (Lino 
+and Deogracious, 2006). Although there are differences in methods, the antibacterial 
+activity of the aqueous root extract is not comparable to those of the organic extracts 
+as Ngonda et al (2012) reported a MIC of 3.13 mg/ml of the aqueous extract against 
+both S. aureus and P. aeruginosa. Some of the active compounds in the aqueous 
+extract might have been destroyed by the freeze drying process. In general, crude 
+extracts with MIC values of 0.1 mg/ml and below are held to be potent and worthy of 
+further studies (Eloff, 1998). In the current work, various extracts from S. 
+longipedunculata revealed potent antibacterial activity against E. coli, P. aeruginosa, 
+M. smegmatis, M. tuberculosis, M. bovis and M. avium. These pathogens are 
+important causative agents of various human infections. 
+ 
+6.2 Antifungal activity 
+Recently, it was reported that the 70% methanol extract of the leaf exhibited a MIC of 
+1.2 mg/ml against Mucor rouxi, Fusarium oxysporum and Rhizopus nigricans (Karou 
+et al., 2012). Furthermore, both an acetone extract of the root and the n-butanol 
+fraction exhibited a MIC and minimum fungicidal concentration (MFC) of 1.25 and 
+2.5 mg/ml respectively against Candida albicans (Ngonda et al., 2012), while the 
+  30     
+ 
+80% methanol extract of the root bark exhibited ZI of <4 mm against C. albicans 
+(Runyoro et al., 2006). Moreover, the essential oils from the root bark revealed a 
+MIC of 0.40 mg/ml against C. albicans (Alitonou et al., 2012). The acetone extracts 
+of the root exhibited a MIC of 3.75 mg/ml against Fusarium verticillioides and 
+Fusarium oxysporum while the hexane extract of the root exhibited a MFC of 3.75 
+mg/ml against F. verticillioides, F. nygamai, F. proliferatum and F. graminearum 
+(Samie and Mashau, 2013). Although the extracts from S. longipedunculata revealed 
+potent antibacterial and antifungal activity, the mode of action remains unknown.  
+ 
+6.3 Antiparasitic activity 
+According to Fernandes et al. (2008), the water extract from the root exhibited a 
+potent MIC of 0.10 mg/ml against Trichomonas vaginalis, a causative agent of the 
+urogenital infection known as vaginal trichomoniasis, suggesting that the plant may 
+serve as an alternative source of treatment for sexually transmitted infections in 
+humans.  
+ 
+The methanol extract from the root inhibited motility of Trypanosoma brucei brucei 
+and Trypanosoma congolense in 50 and 30 min respectively at a concentration of 
+0.4 mg/ml (Atawodi et al., 2003), while the petroleum ether extract from the stem 
+bark inhibited motility of Trypanosoma  brucei in 55 min at a concentration of 2 
+mg/ml (Atawodi, 2005). The aqueous root extract caused a gradual decrease in 
+parasitemia in rats infected with T. brucei for seven days at 100 and 200 mg/kg 
+(Haruna et al., 2013a). Moreover, 5, 10 and 20% fractions from the ethyl acetate 
+fraction of the root revealed a LD50 of 0.14, 0.28 and 0.56 mg/kg respectively against 
+Wistar rats infected with T. brucei (Haruna et al., 2013b). Water and methanol 
+  31     
+ 
+extracts of the root bark exhibited antitrypanosomal activity yielding a MIC of 56 
+µg/ml against Trypanosoma brucei rhodesiense (Freiburghaus et al., 1996). The 
+70% aqueous methanol extracts of the root exhibited a larvicidal effect of 75 and 
+70% at 1000 µg/ml against Heligmosomoides contortus and Heligmosomoides 
+polygyrus at the L3 stage (Adiele et al., 2013).  
+ 
+6.4 Antioxidant activity 
+A 70% methanol extract of the leaf exhibited an IC50 of 79.35 µg/ml against 2,2-
+diphenyl-1-picryl-hydrazyl (DPPH), a stable free radical (Karou et al., 2012), while 
+the essential oil of the root bark exhibited an IC50 of 500 mg/L (Alitonou et al., 2012). 
+The aqueous methanol extract (50%) of the root bark exhibited an IC50 of 1.351 and 
+9.48 µg/ml against ABTS and DPPH respectively (Muanda et al., 2010). Although the 
+extraction methods of the leaf and root bark were slightly different, these results may 
+well suggest that the root bark extract quenches DPPH much better than the leaf 
+extract.  
+ 
+6.5 Antiplasmodial activity 
+The dichloromethane extract of the leaves showed antiplasmodial activity with an 
+IC50 of 6.9 µg/ml against Plasmodium falciparum (Bah et al., 2007), while the 
+methanol extract of the root suppressed Plasmodium berghei by 82% at a dose of 
+0.56 mg/kg (Haruna et al., 2013c). Furthermore, the methanol and chloroform 
+extracts of the root exhibited an IC50 of ˃250 µg/ml against the chloroquinone 
+resistant P. falciparum strain (Ancolio et al., 2002). Elsewhere, extracts from seeds 
+of S. longipedunculata did not show any activity at 50 µg/ml against P. falciparum 
+  32     
+ 
+FCA-2 from Ethiopia (Kassa et al., 1998), suggesting that the antimalarial 
+compounds may only be present in the leaves and roots. 
+ 
+6.6 Anti-inflammatory properties. 
+The 50% aqueous methanol extract showed good anti-inflammatory activity in a 
+dose dependent manner by exhibiting reduction of NO production in macrophages 
+stimulated with LPS/IFN-gamma yielding 51.3% inhibition at a concentration of 150 
+µl (Muanda et al., 2010). The methanol extracts, petroleum ether and methanol 
+fractions obtained from solvent extraction of the root bark were also investigated for 
+anti-inflammatory properties using topical edema of the mouse ear model (Okoli et 
+al., 2005). The petroleum ether fraction, methanol fraction and methanol extract 
+revealed 65.63, 53.13 and 40.63% inhibition respectively. The extracts of these 
+species exhibited good anti-inflammatory activity in different models. Interestingly, 
+the water extracts, namely decoctions and infusions, are commonly applied in 
+African indigenous medicine for treating various infections.  
+ 
+6.7 Insecticidal, molluscicidal and pesticidal properties 
+The methanol extracts of the root exhibited mean repellence of 60 and 80% against 
+Prostephanus truncatus and Tribolium casteneum respectively at concentrations of 1 
+and 2 g/ml (Eziah et al., 2013). The methanol extract of the roots revealed mean % 
+repellency of 70.1 and 60.3 at 0.10 g/ml against Callosobruchus maculatus and 
+Sitophilus zeamais respectively (Afful et al., 2012). Moreover, the extract revealed 
+mean adult emergence of 1.0 on pupae of both C. maculatus and S. zeamais at 0.10 
+g/ml. Furthermore, the extract exhibited mean adult emergence ranging from 1.0 to 
+  33     
+ 
+2.0 against both the eggs and larvae of C. maculatus and S. zeamais. In both 
+studies, the extract inhibited the selected insects in a dose dependent manner. 
+ 
+Leaf powders from S. longipedunculata collected from two different geographical 
+areas, Atacora and Borgou in Benin (West Africa), exhibited percentage mortality 
+rates of 18.9 and 77.2 respectively against Callosobruchus maculatus (Boeke et al., 
+2004). Besides considering the collection times, climatic conditions and the age of 
+the leaves, these results may well suggest that the phytochemistry of the species in 
+two localities is different. The methanol extract of the root exhibited contact toxicity of 
+95 and 100% against Tribolium casteneum and Prostephanus truncatus respectively 
+(Eziah et al., 2013). The root powder of S. longipedunculata revealed a mean 
+percentage mortality rate ranging from 25.1 to 75.4 against four storage insect pests, 
+namely Rhyzopertha dominica, Sitophilus zeamais, Callosobruchus maculatus and 
+Prostephanus truncatus (Belmain et al., 2001). The methanol extract of the leaf 
+showed a 50% mortality rate at 1.0, 2.0 and 3 ppm, while the ethanol extracts of both 
+the stem bark and leaf resulted in a 70% mortality rate against juvenile snails of 
+Balinus globusus (Olofintoye, 2010). Moreover, the ethanol and methanol extracts of 
+the root, leaf and stem bark exhibited high toxicity causing a 70-100% mortality rate 
+at a concentration of 10.0 ppm against B. globosus. Generally, the species revealed 
+high pesticidal effects against the eggs, pupae, larvae and adult species of C. 
+maculatus and S. zeamais. The ethanol extracts showed good molluscidal activity 
+compared to the methanol extracts.  
+ 
+6.8 Enzyme inhibition activity 
+ 
+  34     
+ 
+The methanol extract of the root exhibited enzyme inhibition percentages of 6.95, 
+7.73 and 5.93% against acetylcholinesterase (AChE), carboxylesterase (CES) and 
+xanthine oxidase (XO) respectively (Bangou et al., 2011). Allopurinol exhibited 
+96.38% inhibition against XO while galanthamine and ascorbic acid exhibited 50.76 
+and 56.72 % against AChE and CES respectively. According to Niño et al. (2006), 
+AChE is an attractive target for the rational drug design and discovery of 
+mechanism-based inhibitors because of its role in the hydrolysis of the 
+neurotransmitter acetylcholine. Moreover, AChE inhibitors are most active in the 
+treatment of a variety of diseases, including Alzheimer’s disease, Parkinson’s 
+disease, ataxia and senile dementia. XO catalyses the oxidation of xanthine and 
+hypoxanthine into uric acid, which may lead to a disease known as gout (Kong et al., 
+2000). Some drugs and plant-derived extracts which serve as XO inhibitors may 
+block uric acid biosynthesis, lower the plasma uric acid concentration and are used 
+to treat gout (Nguyen et al., 2004). The tested S. longipedunculata extracts revealed 
+negligible inhibition of AChE, CES and XO. However, future research may target 
+activity of other solvent extracts and other enzyme systems.  
+ 
+6.9 Anticonvulsant, sedative and anxiolytic properties 
+The aqueous extract of the root exhibited anticonvulsant, anxiolytic and sedative 
+activities against mice in a dose dependent manner (Adeyemi et al., 2010; Okomolo 
+et al., 2011), suggesting that the plant extract may be used in the management of 
+convulsion and psychosis.  
+ 
+6.10 Hypoglycemic activity and histopathological effects 
+ 
+  35     
+ 
+The aqueous extract of the leaves lowered the blood glucose concentration from 
+96.3 to 71.6 mg/dL after 8 h in rats treated with 2100 mg/kg plant extract (Onyeche 
+and Kolawole, 2005). This is a high concentration and the effect may not be useful in 
+practice. The 96% ethanol extract of the root bark had no hypoglycemic effect on 
+mice when administered at 200 mg/kg (Keshebo et al., 2014). The 200 mg/kg 
+concentration is also relatively high, limiting the extract’s practicality.  The buffer 
+extract (0.5 g of the plant material dissolved in 2.5 ml buffer at room temperature for 
+20 min) from the root had some antidiabetic activity through exhibiting 20 to 45% 
+inhibition of α-amylase (Funke and Melzig, 2006). This inhibition is relatively low so 
+probably does not justify further research although other mechanisms of action may 
+be applicable. No information was found on the bioavailability or pharmacokinetic 
+parameters of the extract. 
+ 
+The aqueous root extracts reportedly affect the tissue morphology of rats, resulting in 
+irreversible cellular injury affecting the epithelial parenchyma and endothelial cells 
+when administered at 2 mg/kg using intra-peritoneal injection for 14 consecutive 
+days (Dapar et al, 2007). The extract histopathologically resulted in acute tubular 
+necrosis in the kidneys, diffused alveolar and alveolar capillary damage in the lungs 
+and severe ballooning degeneration with early steatohepatitis in some foci of the 
+liver. It is difficult to conclude the effect of S. longipedunculata on various tissues due 
+to the lack of information reported.  
+ 
+7. Conclusions 
+It is evident that S. longipedunculata is a very important medicinal plant used 
+extensively for various purposes within African traditional culture. Studies on the 
+  36     
+ 
+toxicology, both in vivo and in vitro revealed that various extracts, particularly the 
+aqueous root bark, may be toxic especially at high concentrations. This finding is 
+concerning as some people from poor communities rely heavily on plants sold by 
+traders without accurate prescriptions or directions for use. The extracts have been 
+investigated for toxicity against mice and rats, brine shrimps, Hela cells, human 
+pancreatic cancer cells and Ehrlich ascites tumor cells. There is a need to 
+investigate the cytotoxicity of these extracts against normal human cell lines. The 
+histopathological and hypoglycemic effects of the species, as well as many other 
+aspects, also need to be further explored. 
+ 
+Phytochemically, salicylic acid, a variety of xanthones and esters form an integral 
+part of this plant. These phytochemicals may well explain the antimicrobial, 
+anthelmintic, antimalarial and other biological activities of this plant as highlighted in 
+the current paper. However, these phytochemicals were reported from the root 
+extract and the removal of the roots may be detrimental to plant life. The 
+conservation status of this plant is also of great concern because the roots are 
+mostly used for medicinal purposes and are traded between communities and 
+neighbouring countries.  
+ 
+Interestingly, the use of the plant species has been validated for treatment of 
+malaria, erectile dysfunction, pain, sexually transmitted infections and other 
+infections. Various extracts from the species exhibited anthelmintic, antioxidant, 
+molluscicidal, pesticidal, various enzyme inhibitory and anti-inflammatory properties. 
+Extracts from S. longipedunculata revealed potent antimicrobial activity against 
+Candida albicans and Trichomonas vaginalis, validating to an extent the use of the 
+  37     
+ 
+plant species in the treatment of sexually transmitted infections. However there is a 
+need to explore the biological activity of various extracts from the species against 
+microorganisms such as Neisseria gonorrhoeae, Klebsiella granulomatis, 
+Mycoplasma hominis, Mobiluncus spp. and Mycoplasma genitalium as the most 
+common causative agents of gonorrhoea, bacterial vaginitis, donovanosis and other 
+urogenital infections. There is also a need to investigate the biological activity of the 
+other compounds occurring in the plant extracts. Moreover, the anti-diabetic, 
+hypoglycemic and histopathologic effects of the species also need to be explored as 
+there are few reports in the literature regarding these aspects. 
+ 
+Acknowledgements 
+Authors are grateful to University of Zululand (KwaDlangezwa campus), University of 
+South Africa (Florida Campus) and University of KwaZulu-Natal (Pietermaritzburg 
+Campus) Library staff for their assistance.  
+ 
+References 
+Adebayo, O.L., Osman, K., 2012. A comparative evaluation of in vitro growth 
+inhibitory activities of different solvent extracts of some medicinal plants in 
+Northern Ghana against selected human pathogens. IOSR Journal of Pharmacy. 
+2, 199-206. 
+Adeyemi, O.O., Akindele, A.J., Yemitan, O.K., Aigbe, F.R., Fagbo, F.I., 2010. 
+Anticonvulsant, anxiolytic and sedative activities of the aqueous root extract of 
+Securidaca longepedunculata Fresen. Journal of Ethnopharmacology. 130, 191-
+195. 
+  38     
+ 
+Adiele, R.C., Fakae, B.B., Isuzu, I.U., 2013. Anthelmintic activity of Securidaca 
+longepedunculata (Family: Polygalaceae) root extract in mice, in vitro and in vivo. 
+Asian Pacific Journal of Tropical Medicine. 6, 841-846. 
+Afful, E., Owusu, E.O., Obeng-Ofori, D., 2012. Bioactivity of Securidaca 
+longepedunculata Fres. against Callosobruchus maculatus Fab. (Coleoptera: 
+Bruchidae) and Sitophilus zeamais Motsch (Coleoptera: Curculionidae). 
+International Journal of Agricultural Science Research. 1, 046-054. 
+Agbaje, E.O., Adekoya, M.E., 2012. Toxicological profile of aqueous root extract of 
+Securidaca longepedunculata Fresen (Polygalaceae) after 90-day treatment in 
+rats. International Journal of Toxicology and Pharmacology Research. 4, 5-11. 
+Ajali, U., Chukwurah, B.K.C., 2004. Antimicrobial activity of Securidaca 
+longipedunculata. Phytomedicine. 11, 701-703. 
+Alitonou, G.A., Koudoro, A.Y., Dangou, J.S., Yehouenou, B., Avlessi, F., Adeoti, S., 
+Menut, C., Sohounhloue, C.K., 2012. Volatile constituents and biological activities 
+of essential oil from Securidaca longepedunculata Fresen. growing in Benin. 
+Scientific Study and Research. 13, 033-042. 
+Ancolio, C., Azas, N., Mahiou, V., Ollivier, V., Di Giorgio, C., Keita, A., Timon-David, 
+P., Balansard, G., 2002. Antimalarial activity of extracts and alkaloids isolated 
+from six plants used in traditional medicine in Mali and Sao Tome. Phytotherapy 
+Research. 16, 646-649. 
+Ashidi, J.S., Houghton, P.J., Hylands, P.J., Efferth, T., 2010. Ethnobotanical survey 
+and cytotoxicity testing of plants of South-western Nigeria used to treat cancer, 
+with isolation of cytotoxic constituents from Cajanus cajan Millsp leaves. Journal 
+of Ethnopharmacology. 128, 501-512. 
+  39     
+ 
+Atawodi, S.E. 2005. Comparative in vitro trypanocidal activities of petroleum ether, 
+chloroform, methanol and aqueous extracts of some Nigerian savannah plants. 
+African Journal of Biotechnology. 4, 177-182. 
+Atawodi, S.E., Bulus, T., Ibrahim, S., Ameh, D.A., Nok, A.J., Mamman, M., 
+Galadima, M., 2003. In vitro trypanocidal effect of methanolic extract of some 
+Nigerian savannah plants. African Journal of Biotechnology. 2, 317-321. 
+Augustino, S., Hall, J.B., Makonda, F.B.S., Ishengoma, R.C., 2011. Medicinal 
+resources of the Miombo woodlands of Urumva, Tanzania: plants and its use. 
+Journal of Medicinal Plants Research. 5, 6352-6372. 
+Auwal, S.M., Atiku, M.K., Wudil, A.M., Sule, M.S., 2012. Phytochemical composition 
+and acute toxicity evaluation of aqueous root bark extract of Securidaca 
+longepedunculata (Linn). Bajopas. 5, 67-72. 
+Bah, S., Jäger, A.K., Adsersen, A., Diallo, D., Paulsen, B.S. 2007. Antiplasmodial 
+and GABA A-benzodiazepine receptor binding activities of five plants used in 
+traditional medicine in Mali, West Africa. Journal of Ethnopharmacology. 110, 451-
+457. 
+Baloyi, O., Tshisikhawe, M.P., 2009. The population ecology of Securidaca 
+longepedunculata Fresen. in Nylsvlei Nature Reserve, Limpopo Province, RSA. 
+South African Journal of Botany. 75, 430. 
+Bangou, M.J., Kiendrebeogo, M., Meda, N.T.R., Coulibaly, A.Y., Compaoré, M., 
+Zeba, B., Millogo-Rasolodimby, J., Nacoulma, O.G., 2011. Evaluation of enzymes 
+inhibition activities of medicinal plant from Burkina Faso. Pakistan Journal of 
+Biological Science. 14, 99-105. 
+  40     
+ 
+Belmain, S.R., Neal, G.E., Ray, D.E., Golob, P., 2001. Insecticidal and vertebrate 
+cytotoxicity associated with ethnobotanicals used as post-harvest protectants in 
+Ghana. Food Chemistry and Toxicology. 39, 287-291. 
+Boeke, S.J., Baumgart, I.R., Van Loon, J.J.A., Van Huis, A., Dicke, M., Kossou, D.K., 
+2004. Toxicity and repellence of African plants traditionally used for the protection 
+of stored cowpea against Callosobruchus maculatus. Journal of Stored Products 
+Research. 40, 423-439. 
+Borokini, T.I., Clement, M., Dickson, N.J., Edagbo, D.E., 2013. Ethnobiological 
+survey of traditional medicine practice for circulatory and nervous system related 
+diseases in Oyo State, Nigeria. Topclass Journal of Herbal Medicine. 2, 111-120. 
+Bruschi, P., Morganti, M., Mancini, M., Signorini, M.A., 2011. Traditional healers and 
+laypeople: A qualitative and quantitative approach to local knowledge on 
+medicinal plants in Muda (Mozambique). Journal of Ethnopharmacology. 138, 
+543-563. 
+Chinsembu, K.C., Hedimbi, M., 2010. An ethnobotanical survey of plants used to 
+manage HIV/AIDS opportunistic infections in Katima Mulilo, Caprivi region, 
+Namibia. Journal of Ethnobiology and Ethnomedicine. 6, 25 
+http:www.ethnobiomed.com/content/6/1/25. 
+Chhabra, S.C., Mahunnah, R.L.A., Mshiu, E.N., 1991. Plants used in traditional 
+medicine in Eastern Tanzania. V. Angiosperms (Passiflorae to Sapindaceae). 
+Journal of Ethnopharmacology. 33, 143-157. 
+Coates-Palgrave, M., 2005. Keith Coates Palgrave Trees of Southern Africa, Third 
+Edition, Struik Publishers, Cape Town, pp. 458-459. 
+Da Costa, C.S., De Aguiar-Dias, A.C.A., Simões, A.O., 2013. Securidaca marajoara 
+(Polygalaceae), a new species from the Brazilian Amazon. Phytotaxa. 137, 53-56. 
+  41     
+ 
+Dapar, L.P.X., Aguiyi, C.J., Wannang, N.N., Gyang, S.S., Tanko, M.N., 2007. The 
+histopathologic effects of Securidaca longepedunculata on heart, liver, kidney and 
+and lungs of rats. African Journal of Biotechnology. 6, 591-595. 
+Das, K., 2009. Medicinal plants for snake bite treatment- future focus. Ethnobotanical 
+Leaflets. 13, 508-521. 
+Debella, A., Kunert, O., Schmid, M.G., Michl, G., Bucar, F., Abebe, D., Hasliinger, E., 
+2000. A diterpene, a flavonol glycoside, and a phytosterol glycoside from 
+Securidaca longipedunculata and Entada abyssinica. Monatshefte für Chemie 
+131, 401-408. 
+De Tommasi, N., Placente, S., De Simone, F., Pizza, C., 1993. New sucrose 
+derivatives from the bark of Securidaca longipedunculata. Journal of Natural 
+Products. 56, 134-137. 
+Dibwe, D.F., Awale, S., Kadota, S., Tezuka, Y., 2012. Muchimangins A-D: novel 
+diphenylmethyl-substituted xanthones from Securidaca longepedunculata. 
+Tetrahedron Letters. 53, 6186-6190.  
+Dibwe, D.F., Awale, S., Kadota, S., Morita, H., Tezuka, Y., 2013. Hepatoxygenated 
+xanthones as anti-austerity agents from Securidaca longepedunculata. Bioorganic 
+and Medicinal Chemistry. 21, 7663-7668. 
+Eloff, J.N., 1998. A sensitive and quick microplate method to determine the minimum 
+inhibitory concentration of plant extracts for bacteria. Planta Medica. 64, 711-714. 
+Eloff, J.N., 2000. A proposal on expressing the antibacterial activity of plant extracts 
+– a small first step in applying scientific knowledge to rural primary health care in 
+South Africa. South African Journal of Science. 96, 116–118. 
+Etuk, E.U., Adebiyi, R.A., Elsa, A.T., Agaie, B.M., 2006. Acute and subchronic (28 
+days) oral toxicity studies of the aqueous root extract of Securidaca 
+  42     
+ 
+longepedunculata Fresen (Polygalaceae) in mice. International Journal of 
+Pharmacology. 2, 421-425. 
+Eziah, V.Y., Buxton, T., Owusu, E.O., 2013. Bioefficiency of Zanthoxylum 
+xanthoxyloides and Securidaca longepedunculata against Prostephanus truncatus 
+(Horn) (Coleoptera: Bostrichidae) and Tribolium castaneum (Herbst) (Coleoptera: 
+Tenebrionidae). Journal of Biopesticides. 6, 54-62. 
+Fernandes, L., Hoosen, A.A., van Rensburg, C.E.J., Steenkamp, V., 2008. In vitro 
+activity of medicinal plants of the Venda region, South Africa, against 
+Trichomonas vaginalis. South African Journal of Epidemiology and Infections. 23, 
+26-28. 
+Ferreira, M.U., Luo, X., Pires, D., Aínsa, J.A., Gracia, B., Duarte, N., Mulhovo, S., 
+Anes, E., 2012. Searching for natural antituberculars from Mozambican medicinal 
+plants. Atas Do Congresso Internacional Saber Tropical Em Mozambique: Histόria 
+Memόria Ciéncia. 22-26 Outubro 2012. 
+Freiburghaus, F., Kaminsky, R., Nkunya, M.H.H., Brun, R., 1996. Evaluation of 
+African medicinal plants for their in vitro trypanocidal activity. Journal of 
+Ethnopharmacology. 55, 1-11. 
+Funke, I., Melzig, M., 2006. Traditionally used plants in diabetes therapy- 
+phytotherapeutics as inhibitors of α-amylase activity. Brazilian Journal of 
+Pharmacognosy. 16, 1-5. 
+Gbadamosi, I.T., 2012. Evaluation of antibacterial activity of six ethnobotanicals used 
+in the treatment of infectious diseases in Nigeria. Botany Research International. 
+5, 83-89. 
+  43     
+ 
+Green, E., Samie, A., Obi, C.L., Bessong, P.O., Ndip, R.N., 2010. Inhibitory 
+properties of selected South African medicinal plants against Mycobacterium 
+tuberculosis. Journal of Ethnopharmacology. 130, 151-157. 
+Hamill, F.A., Apio, S., Mubiru, N.K., Bukenya-Ziraba, R., Mosango, M., Maganyi, 
+O.W., Soejarto, D.D., 2003. Traditional herbal drugs of Southern Uganda, II: 
+literature analysis and antimicrobial assays. Journal of Ethnopharmacology. 84, 
+57-78. 
+Haruna, Y., Elinge, C.M., Peni, I.J., Dauda, D., Aiki, F., 2013a. In vivo trypanocidal 
+effect of aqueous root extracts of Securidaca longepedunculata and its 
+phytochemical analysis. African Journal of Pharmacy and Pharmacology. 7, 2838-
+2842. 
+Haruna, Y., Kwanashie, H.O., Anuka, J.A., Atawodi, S.E., Hussaini, I.M., 2013b. 
+Bioassay guided fractionations and crude methanol root extracts of Securidaca 
+longepedunculata in mice and rats. International Journal of Modern Biochemistry. 
+2, 1-14. 
+Haruna, Y., Kwanashie, H.O., Anuka, J.A., Atawodi, S.E., Hussaini, I.M., 2013c. In 
+vivo anti-malarial activity of methanol root extract of Securidaca longepedunculata 
+in mice infected with Plasmodium bergei. International Journal of Modern Biology. 
+3, 7-16. 
+Hedimbi, M., Chinsembu, K.C., 2012. An ethnomedicinal study of plants used to 
+manage HIV/AIDS-related disease conditions in the Ohangwena region, Namibia. 
+International Journal of Medicinal Plants Research. 1, 4-11. 
+Jayasakara, T.K., Stevenson, P.C., Belmain, S.R., Farman, D.I., Hall, D.R., 2002. 
+Identification of methyl salicylate as the principal volatile component in the 
+  44     
+ 
+methanol extract of root bark of Securidaca longepedunculata Fresen. Journal of 
+Mass Spectrometry. 37, 577-580. 
+Joseph, C.C., Moshi, M.J., Sempombe, J., Nkunya, M.H.H., 2006. 4-Methoxy-benzo 
+[1,3]dioxol-5-yl-phenylmethanone: An antibacterial benzophenone from 
+Securidaca longepedunculata. African Journal of Traditional Complementary and 
+Alternative Medicine. 3, 80-86. 
+Junaid, S.A., Abubakar, A., Ofodile, A.C., Echeonwu, G.O.N., Okwori, A.E.J., 
+Ajetunji, J.A., 2008. Evaluation of Securidaca longipedunculata leaf and root 
+extracts for antimicrobial activities. African Journal of Microbiology Research. 2, 
+322-325. 
+Kassa, M., Mshana, R., Regassa, A., Assefa, G., 1998. In vitro test of five Ethopian 
+medicinal plants for antimalarial activity against Plasmodium falciparum. Ethiopian 
+Journal of Science. 21, 81-89. 
+Kadiri, A.B., Agboola, O.M., Fashina, F.O., 2013. Ethnobotanical survey and phyto-
+anatomical studies of some common plants used for the treatment of epilepsy in 
+some rural areas of South West Nigeria. Journal of Pharmacy and 
+Phytochemistry. 2, 175-182.  
+Karou, S.D., Tchacondo, T., Tchibozo, M.A.D., Anani, K., Ouattara, L., Simpore, J., 
+de Sousa, C., 2012. Screening of Togolese medicinal plants for few 
+pharmacological properties. Pharmacognosy Research. 4, 116-122. 
+Keshebo, D.L., Choundhury, M.K., Dekebo, A.H., 2014. Investigation on toxicity, 
+hypoglycemic effect of the root bark of Securidaca longipedunculata Fresen 
+(Polygalaceae) and determination of heavy metals. Annals of Biological Research. 
+5, 15-19. 
+  45     
+ 
+Kong, L.D., Cai, Y., Huang, W.W., Cheng, C.H., Tan, R.X., 2000. Inhibition of 
+xanthine oxidase by some Chinese medicinal plants used to treat gout. Journal of 
+Ethnopharmacology. 73, 199-207. 
+Lannang, A.M., Lontsi, D., Ngounou, F.N., Sondengam, B.L., Nkengfack, A.E., van 
+Heerden, F.R., Assob, J.C.N., 2006. Securidacaxanthone A, a hepatooxygenated 
+xanthone from Securidaca longepedunculata. Fitoterapia. 77, 199-202. 
+Lawal, R.A., Ozaslan, M.D., Odesanmi, O.S., Karagoz, I.D., Lilic, I.H., Ebuehi, 
+O.A.T., 2012. Cytotoxic antiproliferative activity of Securidaca longepedunculata 
+aqueous extract on Ehrlich ascites carcinoma cells in Swiss albino mice. 
+International Journal of Applied Research in Natural Products. 5, 19-27. 
+Lino, A., Deogracious, O., 2006. The in-vitro antibacterial activity of Annona 
+senegalensis, Securidaca longipedunculata and Steganotaenia araliacea- 
+Ugandan medicinal plants. African Health Sciences. 6, 31-35. 
+Lognay, G., Marlier, M., Seck, D., Haubruge, É., 2000. The occurrence of 2-hydroxy-
+6-methoxybenzoic acid methyl ester in Securidaca longipedunculata Fresen root 
+bark. Biotechnology and Agronomy Society Environment. 4, 107-110. 
+Luo, X., Pires, D., Aínsa, J.A., Gracia, B., Mulhovo, S., Duarte, A., Anes, E., Ferreira, 
+M.U., 2011. Antimycobacterial evaluation and preliminary phytochemical 
+investigation of selected medicinal plants traditionally used in Mozambique. 
+Journal of Ethnopharmacology. 137, 114-120. 
+Mabogo, D.E.N., 1990. The ethnobotany of the Vhavenda. MSc thesis, University of 
+Pretoria. 
+Maroyi, A., 2013. Traditional use of medicinal plants in South-central Zimbabwe: 
+Review and perspectives. Journal of Ethnobiology and Ethnomedicine. 9, 31 
+http://www.ethnobiomed.com/content/9/1/31. 
+  46     
+ 
+Meli, A.L., Ngninzeko, F.N., Castilho, P.C., Kuete, V., Lontsi, D., Beng, V.P., 
+Choudhary, M.I., 2007. Securidacaxanthones from Securidaca longepedunculata 
+(Polygalaceae). Planta Medica. 73, 411. 
+Meyer, J.M.M., Rakuambo, N.C., Hussein, A.A., 2008. Novel xanthones from 
+Securidaca longepedunculata with activity against erectile dysfunction. Journal of 
+Ethnopharmacology. 119, 599-603. 
+Mitaine-Offer, A.C., Pénez, N., Miyamoto, T., Delaude, C., Mirjolet, J.F., Duchamp, 
+O., Lucaille-Dubois, M.A., 2010. Acylated triterpene saponins isolated from the 
+roots of Securidaca longepedunculata. Phytochemistry. 71, 90-94. 
+Moeng, T.E., 2010. An investigation into the trade of medicinal plants by muthi shops 
+and street vendors in the Limpopo Province, South Africa. Master of Science 
+Dissertation, University of Limpopo, South Africa. 
+Mongalo, N.I., 2013. Peltophorum africanum Sond [Mosetlha]: A review of its 
+ethnomedicinal uses, toxicology, phytochemistry and pharmacological activities. 
+Journal of Medicinal Plants Research. 7, 3484-3491. 
+Mongalo, N.I., Mafoko, B.J., 2013. Cassia abbreviata Oliv. A review of its 
+ethnomedicinal uses, toxicology, phytochemistry, possible propagation techniques 
+and pharmacology. African Journal of Pharmacy and Pharmacology. 7, 2901-
+2906. 
+Moshi, M.J., van der Beukel, C.J.P., Hamza, O.J.M., Mbwambo, Z.H., Nondo, 
+R.O.S., Masimba, P.J., Matee, M.I.N., Kapingu, M.C., Mikx, F., Verweij, P.E., van 
+der Ven, A.J.A.M., 2007. Brine shrimp toxicity evaluation of some Tanzanian 
+plants used traditionally for the treatment of fungal infections. African Journal of 
+Complementary and Alternative Medicine. 4, 219-225. 
+  47     
+ 
+Motlhanka, D.M.T., Nthoiwa, G.P., 2013. Ethnobotanical survey of medicinal plants 
+of Tswapong North, in Eastern Botswana: A case of plants from Mosweu and 
+Seolwane villages. European Journal of Medicinal Plants. 3, 10-24.  
+Muanda, F.N., Dicko, A., Soulimani, R., 2010. Assessment of polyphenolic 
+compounds, in vitro antioxidant and anti-inflammation properties of Securidaca 
+longepedunculata root barks. C. R. Biologies. 333, 663-669. 
+Musa, A.A., Oyewale, A.O., Ndukwe, I.G., Yakubu, S.E., Abdullahi, M.S., 2013. 
+Phytochemical screening and antimicrobial activity of solvent fractions of 
+Securidaca longepedunculata (Fresen) root bark methanol extract. Journal of 
+Chemical and Pharmaceutical Research. 5, 28-33. 
+Mustapha, A.A., 2013a. Ethno-medico-botanical uses of Securidaca 
+longepedunculata (Fresen) (Family Polygalaceae) from Keffi local government, 
+Nasarawa State, Nigeria. Journal of Natural Remedies. 13, 133-137. 
+Mustapha, A.A., 2013b. Ethno-medicinal field study of anti-fertility medicinal plants 
+used by the local people in Keffi local government, Nasarawa State, Nigeria. 
+International Journal of Medicinal Plants Research. 2, 215-218. 
+Nadembega, P., Boussim, J.I., Nikiema, J.B., Poli, F., Antognoni, F., 2011. Medicinal 
+plants in Baskoure, Kourittenga Province, Burkina Faso: An ethnobotanical study. 
+Journal of Ethnopharmacology. 133, 378-395. 
+Ndamitso, M.M., Mohammed, A., Jimoh, T.O., Idris, S., Oyeleke, S.B., Etsuyangkpa, 
+M.B., 2013. Phytochemical and antibacterial activity of Securidaca 
+longepedunculata on selected pathogens. Africa Journal of Microbiology 
+Research. 7, 5652-5656. 
+Ngonda, F., Magombo, Z., Mpeketula, P., Mwatseteza, J., 2012. Evaluation of 
+Malawian Vernonia glabra (Steetz) Vatke leaf and Securidaca longepedunculata 
+  48     
+ 
+(Fresen) root extracts for antimicrobial activities. Journal of Applied 
+Pharmaceutical Science. 2, 026-033. 
+Nguta, J.M., Mbaria, J.M., Gakuya, D.W., Gathumbi, P.K., Kiama, S.G., 2010a. 
+Antimalarial herbal remedies of Msambweni, Kenya. Journal of 
+Ethnopharmacology. 128, 424-432.  
+Nguta, J.M., Mbaria, J.M., Gakuya, D.W., Gathumbi, P.K., Kiama, S.G., 2010b. 
+Traditional antimalarial phytotherapy remedies used by the South Coast 
+community, Kenya. Journal of Ethnopharmacology. 131, 256-267. 
+Nguyen, M.T.T., Awale, S., Tezuka, Y., Le Tran, Q., Watanabe, H., Kadota, S., 2004. 
+Xanthine oxidase inhibitory activity of Vietnamese medicinal plants. Biological and 
+Pharmaceutical Bulletin. 27, 1414-1421. 
+Niño, J., Hernȧndez, J.A., Correa, Y.M., Mosquera, O.M., 2006. In vitro inhibition of 
+acetylcholonesterase by crude plant extracts from Columbian flora. Memorias do 
+Instituto Oswaldo Cruz. 101, 783-785. 
+Nordeng, H., Al-Zayadi, W., Diallo, D., Ballo, N., Paulsen, B.S., 2013. Traditional 
+medicine practitioners knowledge and views on treatment of pregnant women in 
+three regions of Mali. Journal of Ethnobiology and Ethnomedicine. 9, 67 
+http://www.ethnobiomed.com/content/9/1/67. 
+Ogunmefun, O.T., Gbile, Z.O., 2012. An ethnobotanical study of anti-rheumatic 
+plants in South Western States of Nigeria. Asian Journal of Science and 
+Technology. 4, 63-66. 
+Ojewole, J.A.O., Mawoza, T., Chiwororo, W.D.H., Owira, P.M.O., 2010. Sclerocarya 
+birrea (A. Rich) Hochst. [Marula] (Anacardiaceae): A review of its phytochemistry, 
+pharmacology and toxicology and its ethnomedicinal uses. Phytotherapy 
+Research. 24, 633-639. 
+  49     
+ 
+Okoli, C.O., Akah, P.A., Ezugworie, U., 2005. Anti-inflammatory activity of extracts of 
+root bark of Securidaca longipedunculata Fres (Polygalaceae). African Journal of 
+Traditional Complementary and Alternative Medicine. 2, 54-63. 
+Okomolo, F.C.M., Mbafor, J.T., Ngo Bum, E., Kouemou, N., Kandeda, A.K., Talla, E., 
+Dimo, T., Rakotonirira, S.V., 2011. Evaluation of the sedative and anticonvulsant 
+properties of three Cameroonian plants. African Journal of Traditional 
+Complementary and Alternative Medicine. 8, 181-190. 
+Oladunmoye, M.K., Kehinde, F.Y., 2011. Ethnobotanical survey of medicinal plants 
+used in treating viral infections among Yoruba tribe of South Western Nigeria. 
+African Journal of Microbiology Research. 5, 2991-3004. 
+Olofintoye, L.K., 2010. Comparative evaluation of molluscicidal effects of Securidaca 
+longepedunculata (Fres.) and Tephrosia bracteolata (Guilland Perr) on Bullinus 
+globosus. Journal of Parasitology and Vector Biology. 2, 44-47. 
+Oni, P.I., Jimoh, S.O., Adebisi, L.A., 2014. Management of indigenous medicinal 
+plants in Nigeria using phonological information. Journal of Medicinal Plant 
+Research. 8, 619-631. 
+Onyeche, O.C., Kolawole, J.A., 2005. Preliminary screening of aqueous extract of 
+the leaves of Securidaca longepedunculata Linn for anti-hyperglycemic property. 
+Nigerian Journal of Pharmaceutical Research. 4, 18-21.  
+Orwa, C., Mutua, A., Kindt, R., Jamnadass, R., Simons, A., 2009. Agroforestree 
+Database: A tree reference and selection guide, version 4.0 
+(http://www.worldagroforestry.org/af/treedb/). Accessed 26 January 2015. 
+Runyoro, D.K.B., Kamuhabwa, A., Ngassapa, O.D., de Witte, P., 2005. Cytotoxic 
+activity of some Tanzanian medicinal plants. East Central African Journal of 
+Pharmaceutical Sciences. 8, 35-39. 
+  50     
+ 
+Runyoro, D.K.B., Matee, M.I.N., Ngassapa, O.D., Joseph, C.C., Mbwambo, Z.H., 
+2006. Screening of Tanzanian medicinal plants for anti-Candida activity. BMC 
+Complementary and Alternative Medicine. 6, 11. doi: 10.1186/1472-6882-6-11. 
+Samie, A., Mashau, F., 2013. Antifungal activity of fifteen Southern African medicinal 
+plants against five Fusarium species. Journal of Medicinal Plants Research. 7, 
+1839-1848. 
+Semenya, S.S., Potgieter, M.J., 2013. Ethnobotanical survey of medicinal plants 
+used by Bapedi traditional healers to treat erectile dysfunction in the Limpopo 
+Province, South Africa. Journal of Medicinal Plants Research. 7, 349-357. 
+Smith, C.R, Madrigal, R.V., Plattner, R.D., 1979. New conjugated hydroxydienoic 
+fatty acids and acetotriacylglycerols from Securidaca longipedunculata seed oil. 
+Biochimica et Biophysica Acta. 572, 314-324.  
+Sobiecki, J.F., 2008. A review of plants used in divination in Southern Africa and 
+their psychoactive effects. Southern African Humanities. 20, 333-351. 
+Stevenson, P.C., Dayarathna, T.K., Belmain S.R., Veitch, N.C., 2009. Bisdesmosidic 
+saponins from Securidaca longepedunculata roots: evaluation of deterrency and 
+toxicity to Coleopteran storage pests. Journal of Agricultural and Food Chemistry, 
+57, 8860-8867. 
+Tabuti, J.R.S., Kukunda, C.B., Kaweesi, D., Kasilo, O.M.J., 2012. Herbal medicine 
+use in the districts of Nakapiripirit, Pallisa, Kanungu and Mukono in Uganda. 
+Journal of Ethnobiology and Ethnomedicine. 8. 
+http://www.ethnobiomed.com/content/8/1/35. 
+Tshisikhawe, M.P., van Rooyen, M.W., Bhat, R.B., 2012. An evaluation of the extent 
+and threat of bark harvesting of medicinal plant species in the Venda region, 
+Limpopo Province, South Africa. Phyton. 81, 89-100. 
+  51     
+ 
+Van Wyk, B.E., Van Oudtshoorn, B., Gericke, N., 2005. Medicinal plants of South 
+Africa, First Ed. Briza Publications, Pretoria. pg 236. 
+Van Wyk, B.E., Albrecht, C., 2008. A review of taxonomy, ethnobotany, chemistry 
+and pharmacology of Sutherlandia frutescens (Fabaceae). Journal of 
+Ethnopharmacology. 119, 620-629. 
+Van Wyk, B.E., Van Oudtshoorn, B., Gericke, N., 2009. Medicinal plants of South 
+Africa, Second Ed. Briza Publications, Pretoria. pg 268. 
+Viol, D.I., 2009. Screening of traditional medicinal plants from Zimbabwe for 
+phytochemistry, antioxidant, antimicrobial, antiviral and toxicological activities. 
+M.Phil. Dissertation. University of Zimbabwe.  
+Wanzala, W., Takken, W., Mukabana, W.R., Pala, A.O., Hassanali, A., 2012. 
+Ethnoknowledge of Busuku community on livestock tick prevention and control in 
+Bungoma district, Western Kenya. Journal of Ethnopharmacology. 140, 298-324. 
+Wallnӧfer, B., 1998. A new species of Securidaca L. (Polygalaceae) from Peru. 
+Annalen des Naturhistorischen Museums in Wien. 100B, 709-714. 
+Yang, X.D., Xu, L.Z., Yang, S.L., 2001. Xanthones from the stems of Securidaca 
+longepedunculata. Phytochemistry. 58, 1245-1249. 
+Yang, X.D., Xu, L.Z., Yang, S.L., 2003. Two new xanthones from stems of 
+Securidaca longepedunculata. Acta Botanica Sinica. 45, 365-368. 
+Zongo, F., Ribout, C., Boumendjel, A., Guissou, I., 2013. Botany, traditional uses, 
+phytochemistry and pharmacology of Waltheria indica L. (syn. Waltheria 
+americana): A review. Journal of Ethnopharmacology. 148, 14-26. 
+ 
+ 
+ 

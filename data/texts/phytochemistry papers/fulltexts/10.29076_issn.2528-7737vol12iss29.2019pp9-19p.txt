@@ -1,0 +1,821 @@
+│ 9 
+Fitoquímica De Lippia Citriodora K cultivada en 
+Ecuador y su actividad biológica
+Phytochemistry of Lippia citriodora K grown in 
+Ecuador and its biological activity
+Resumen
+Se realizó un estudio fitoquímico de metabolitos secundarios, actividad antimicrobiana y letal del extracto metanólico de las partes 
+botánicas de Lippia citriodora K (cedrón). Se detectó la presencia taninos, polifenoles, triterpenos y esteroles insaturados para las 
+hojas, flores y tallo; fenilpropanoides y catequinas para tallos y flores; alcaloides para hojas y flores; saponinas para  hojas y tallos. 
+Además, las flores exhibieron la presencia de cumarinas y metilencetonas. Todos los extractos metanólicos mostraron una acción 
+bactericida alta contra cepas de Escherichia coli, Staphylococcus aureus y Pseudomonas aeruginosa, a excepción del extracto de 
+las flores que exhibió una actividad antibacteriana moderada o mediana contra cepas de S. aureus. Además, se observó un efecto 
+antifúngico moderado del extracto de las hojas, y una actividad alta de los extractos del tallo y flores, contra la cepa del hongo Can-
+dida albicans. Todos los extractos mostraron letalidad significativa (<1000 µg/ml) frente a nauplios de Artemia salina a las 24 h de 
+exposición (168,77, 82,19 y 172,76 µg/ml para las hojas, tallo y flores, respectivamente); donde el extracto del tallo presentó mayor 
+letalidad con CL50 de 82,19 µg/ml, considerado altamente tóxico según CYTED. Se puede inferir que la especie L. citriodora es una 
+fuente promisoria de metabolitos secundarios bioactivos con actividad farmacológica.
+Palabras Clave: actividad tóxica, actividad antimicrobiana, Artemia salina, cedrón, metabolito secundario.
+Abstract
+This research was based on a phytochemical study of secondary metabolites, lethal and antimicrobial activity of methanolic extract 
+of botanical organs Lippia citriodora K (lemon verbena). It was detected the presence of tannins, polyphenols, triterpenes and 
+unsaturated sterols for leaves, flowers and stem; phenylpropanoids and catechins for stems and flowers; alkaloids for leaves and 
+flowers; saponins for leaves and stems. In addition, the flowers exhibited the presence of coumarins and methylenketones. Methanolic 
+extracts showed high bactericidal action against strains of Escherichia coli, Staphylococcus aureus and Pseudomonas aeruginosa, in 
+the antimicrobial bioassay, except for the flowers which exhibited moderate activity against S. aureus strains. Furthermore, moderate 
+antifungal effect was observed for leaves extract and high activity for stem and flowers extracts against the strain of Candida albicans 
+fungus. All extracts showed significant lethality (<1000 μg/ml) against A. salina nauplii at 24 h of exposure (168.77, 82.19 and 172.76 
+μg/mL for leaves, stems and flowers, respectively); where the methanolic extract of the stem showed the highest lethality with LC50 
+value of 82.19 μg/ml, considered highly toxic according to CYTED. It can be inferred that L. citriodora is a promising source of 
+bioactive secondary metabolites with pharmacological activity.
+Keywords: Arima models; delinquency rate; early warning; risk of default; time series.
+Recibido: 21 de Agosto de 2018
+Aceptado: 03 de Diciembre de 2018
+Elington, Vélez1; Haydelba, D’Armas2*; Carmita, Jaramillo-Jaramillo3; Ana, Echavarría-Vélez4; 
+Chinwe Christy, Isitua5
+1 BQF en Bioquímica y Farmacia; Universidad Técnica de Machala; Provincia del Oro, Ecuador; elingtonvelezparraga@gmail.com
+2 PhD en Química; Universidad Estatal de Milagro (UNEMI); Docente Ocasional; Milagro, Provincia de Guayas, Ecuador; Investigador, 
+Universidad de Oriente (UDO); Cumaná 6101, Sucre, Venezuela; hdarmasr@unemi.edu.ec;  http://orcid.org/0000-0001-9301-3801.
+3 MSc en Fitofármacos; Universidad Técnica de Machala (UTMACH); Docente Titular; Provincia del Oro, Ecuador; cjaramillo@utmachala.
+edu.ec
+4 PhD en Ing. De Alimentos; Universidad Estatal de Milagro (UNEMI); Docente Ocasional; Milagro, Provincia de Guayas, Ecuador; 
+aechavarriav@unemi.edu.ec
+5 PhD en Microbiología; Afe Babalola University; Docente e Investigador; Ado-Ekiti, Ekiti State, Nigeria; christykings@yahoo.com
+*Autor para correspondencia: hdarmasr@unemi.edu.ec
+Revista Ciencia UNEMI 
+Vol. 12, N° 29, Enero-Abril 2019, pp. 09 -  19  
+ISSN 1390-4272 Impreso
+ISSN 2528-7737 Electrónico
+http://dx.doi.org/10.29076/issn.2528-7737vol12iss29.2019pp09-19p
+10  │
+Volumen 12, Número 29,  Enero-Abril 2019, pp. 09 - 19
+I. INTRODUCCIÓN
+Lippia es un género de plantas con flores perteneciente 
+a la familia Verbenaceae. Contiene alrededor 
+de 220 especies con diversas aplicaciones etno-
+farmacológicas. Una miríada de fitoconstituyentes 
+biológicamente activos abunda en Lippia (Okhale et 
+al, 2016).
+Las plantas pertenecientes a este género han sido 
+ampliamente utilizadas en etnobotánica en América 
+del Sur y Central y en África tropical como alimentos, 
+medicinas, edulcorantes y saborizantes de bebidas 
+(Funari et al., 2012). Las especies de Lippia tienen 
+una larga historia de uso en aplicaciones medicinales 
+tradicionales, algunas de las cuales tienen sido 
+científicamente validado Se usan principalmente 
+en el tratamiento de trastornos respiratorios y 
+gastrointestinales. Además, exhiben actividades 
+antipalúdicas, espasmolíticas, sedantes, hipotensivas 
+y antiinflamatorias (Abena et al., 2001; Jigam et al, 
+2009).
+Las composiciones químicas de los aceites esenciales 
+de las especies Lippia varían notablemente dando 
+lugar a quimiotipos. Estos dependen de factores 
+geográficos, factores genéticos, condiciones 
+ambientales, estado nutricional y los efectos 
+del daño mecánico o herbivoría. En términos 
+generales, el limoneno, el p-cimeno y el β-cariofileno 
+desprendieron los aceites esenciales de las especies 
+conocidas de dicho género y podrían considerarse 
+marcadores quimiotaxonómicos (Okhale et al., 2016).
+Lippia citriodora Kunth (cedrón) o  su sinónimo 
+científico Aloysia triphylla  es una planta perenne 
+del tipo arbusto que está ampliamente distribuida 
+en zonas tropicales, subtropicales, centrales de 
+Sudamérica y en África. La planta, que florece en 
+suelo arcilloso, se cría a partir de semillas y esquejes. 
+Las hojas se usan para dar sabor a bebidas, postres, 
+ensaladas y jaleas de frutas y para condimentar los 
+alimentos. Una decocción hecha con hojas y flores se 
+da como febrífugo, sedante y antiflatulento (Omollo-
+Ombito et al, 2014).
+Herranz-López et al. (2015) mencionan que las 
+hojas, flores y las partes aéreas de L. citriodora, se 
+usaron en medicina popular para el tratamiento 
+de enfermedades respiratorias y enfermedades 
+del sistema digestivo. Además, en su investigación 
+observaron que los polifenoles identificados en 
+los extractos disminuyeron la acumulación de los 
+triglicéridos (TG) y la generación de especies reactivas 
+de oxígeno (ROS) que fomentan la formación de 
+radicales libres.
+Hace casi dos décadas, Ávila et al. (1999) reportaron 
+en la literatura aspectos sobre la bioactividad y 
+fitoquimica de la especie L. citriodora, indicando 
+que los verbascósidos (derivados fenilpropanoides) 
+aislados de la misma y de otras especies del género 
+Lippia parecían ejercer una actividad antimicrobiana 
+más potente contra bacterias Gram-positivas que 
+contra bacterias Gram-negativas. 
+En otro estudio más reciente, se aislaron tres 
+compuestos fenólicos a partir del extracto en acetato 
+de etilo de hojas de L. citriodora. Los tres compuestos 
+se analizaron para actividades analgésicas, 
+antipiréticas, antioxidantes y antiinflamatorias tanto 
+en ratones como en ratas y mostraron una buena 
+actividad (El-Hawary et al., 2012). Adicionalmente, 
+otros investigadores reportaron que cedrón contiene 
+cantidades considerables de polifenoles, es decir de 
+flavonoides y ácidos fenólicos (Zamorano et al., 2006; 
+Álvarez, 2012).
+Recientemente, ha sido publicado un estudio sobre la 
+identificación de cinco nuevos compuestos, junto con 
+26 conocidos, a partir del extracto de etanol al 95% 
+de partes aéreas de Lippia triphylla recolectada en 
+Ruanda (África). Sus estructuras fueron elucidadas 
+por métodos químicos y espectroscópicos. Todos 
+los compuestos fueron probados por sus efectos 
+de inhibición de la acumulación de antioxidantes 
+y triglicéridos en células L6 y células HepG2, 
+respectivamente. Este estudio proporcionó respaldo 
+científico parcial para el desarrollo y la utilización de 
+partes aéreas de L. triphylla (Zhang et al., 2015).
+El aumento de la confianza en el uso de plantas 
+medicinales y productos derivados se ve reflejado 
+por su empleo mayoritario tanto en países en vías de 
+desarrollo, como en los países desarrollados, y esta 
+realidad es muy notable en Ecuador al poseer una 
+enorme biodiversidad (Oliveira et al., 2005). 
+│ 11 
+D’Armas et al. Fitoquímica de Lippia citriodora K cultivada en Ecuador y su actividad biológica.
+En Ecuador se comercializan varias plantas 
+medicinales, a las cuales  se les da diversos usos 
+además del terapéutico, pero aún no existen estudios 
+científicos para la gran cantidad de especies vegetales 
+que cuantifiquen cuan valiosas son en cuanto a las 
+alternativas terapéuticas que se les puede dar. El 
+cedrón es una de las especies vegetales más utilizadas 
+en Latinoamérica, debido a sus propiedades 
+farmacológicas, habitualmente para tratar dolores 
+abdominales. 
+En el país existen también muchas plantas con falta 
+de estudio en cuanto a la actividad antimicrobiana o 
+letal que puedan generar, y que estas podría ser muy 
+útiles en el tratamiento de las infecciones microbianas 
+que en la actualidad están apareciendo y que son 
+cada vez más difíciles de combatir, tal es el caso de 
+la especie en estudio, que al poseer metabolitos 
+secundarios de diversas familias dependiendo del 
+hábitat, depredadores etc., éstos podrían actuar como 
+mecanismo de defensa ante factores patógenos como 
+hongos, bacterias, parásitos, etc. (Kummerer, 2004).
+Por otra parte, el aumento de microorganismos 
+resistentes a los agentes antimicrobianos es uno 
+de los principales problemas al que se enfrenta la 
+ciencia médica en el tratamiento de las enfermedades 
+infecciosas. La búsqueda de nuevos agentes 
+antimicrobianos potentes con mecanismos de acción 
+que actúen contra bacterias u hongos resistentes a 
+los antimicrobianos disponibles en la actualidad, 
+es de vital importancia. Por tanto, es necesario 
+realizar investigaciones que permitan evaluar plantas 
+medicinales, de amplio uso etnobotánico en una o 
+varias zonas del Ecuador, como fuentes de nuevos 
+fármacos (Kummerer, 2004).
+En el presente trabajo de investigación, se evaluó el 
+potencial farmacognóstico (composición química de 
+L. citriodora mediante ensayos cualitativos) de los 
+órganos botánicos de la planta (flores, tallos y hojas), 
+y se determinó su bioactividad a través de bioensayos 
+de actividad antimicrobial y letalitad o toxicidad con 
+larvas de Artemia salina.
+II. MATERIALES Y MÉTODOS
+Recolección de las muestras
+Los ejemplares de la especie vegetal L. citriodora 
+fueron  adquiridos en agosto del 2014 en el mercado 
+central de la ciudad de Machala (Provincia del Oro: 
+coordenadas 3°16′00″ S 79°58′00″ O; 65-85 % de 
+humedad relativa; temperatura y altitud promedio de 26 
+°C y 12 m respectivamente), Ecuador. Según su calidad 
+organoléptica, se seleccionaron los órganos botánicos 
+sanos (hojas, tallo y flores) para realización de los análisis, 
+siendo procesados en el laboratorio de Farmacia de la 
+Universidad Técnica de Machala, sin almacenamiento 
+previo. La identificación de la especie fue realizada por 
+el Botánico Jesús Inca del Herbario de Quito, Ecuador.
+Obtención de los extractos
+De cada planta se utilizaron las hojas, tallo y flores, 
+éstas se lavaron con agua destilada y secadas al aire por 
+24 horas y posteriormente en una estufa (Memmert SNB 
+400 con flujo de aire) a 37 °C por 24 horas. Luego, se 
+trituraron con un molino (Lab. Mill serial No. 56969, 
+Type AR 400 Erweka®, Alemania) y se pesaron. Los 
+extractos se obtuvieron por maceración de 200 g de las 
+partes trituradas con metanol 100% puro por 72 h. Los 
+extractos fluidos se filtraron y el residuo se re-extrajo 
+con metanol por 48h; los filtrados combinados fueron 
+concentrados a presión reducida (aprox. 11 mbar) y 
+40 ºC en un rotaevaporador marca Heidolph (Modelo 
+Hei-VAP Valor, Alemania) obteniéndose el extracto 
+metanólico crudo por especie. Se determinó la masa de 
+cada uno de los extractos de las plantas estudiadas.
+Análisis fitoquímico
+Para detectar las familias de compuestos presentes en 
+los extractos estudiados se realizaron pruebas químicas 
+específicas, las cuales permitieron apreciar la posible 
+presencia o ausencia de cumarinas y fenilpropanoides 
+(Murillo y Méndez, 2007); alcaloides, saponinas, 
+glicósidos cardiotónicos, glicósidos cianogénicos, 
+esteroles insaturados y triterpenos pentacíclicos, taninos 
+y polifenoles, antraquinonas y metilencetonas, siguiendo 
+la metodología de Marcano y Hasegawa (2002).
+Actividad antimicrobiana 
+Para determinar la actividad antibacteriana se utilizó 
+la técnica de difusión en agar, según la metodología descrita 
+por Bauer et al. (1966), empleándose cepas de bacterias 
+certificadas: una Gram positiva (Staphylococcus aureus) 
+y dos Gram negativas  (Escherichia coli y Pseudomonas 
+aeruginosa), pertenecientes a la Colección Americana de 
+Cultivos Tipo (ATCC). La misma consistió en impregnar 
+12  │
+Volumen 12, Número 29,  Enero-Abril 2019, pp. 09 - 19
+discos estériles de papel de filtro Whatman Nº 3 de 5 
+mm de diámetro con 10 µl de una solución preparada 
+(20 y 40 mg. ml-1)  del extracto a analizar. Estos discos 
+se colocaron dentro de cápsulas de Petri que contenían 
+agar Mueller-Hinton, inoculadas con una suspensión 
+bacteriana de concentración conocida (108 bacterias. ml-
+1), preparada por comparación con un patrón comercial 
+estándar Nº 0,5 de McFarland. Posteriormente, las 
+cápsulas se preincubaron a 5ºC durante 12 h, para 
+permitir la difusión del extracto, y luego, se incubaron 
+a 37ºC durante 48 h, para permitir el crecimiento 
+bacteriano. Las zonas claras que se formaron alrededor 
+de los discos, se consideraron halos de inhibición, los 
+cuales fueron medidos, registrando para cada caso el 
+diámetro  en milímetros de los halos de inhibición del 
+crecimiento bacteriano.
+Para evaluar la actividad antimicótica se siguió la 
+técnica descrita por Madubunyi (1995), utilizando cepas 
+de un hongo patógeno (Candida albicans) de origen 
+clínico. Dicha cepa se incubó por un periodo de 5 a 7 
+días a temperatura ambiente en un tubo con Agar Papa 
+Dextrosa (PDA). Al cabo de este tiempo, se añadió 10 ml 
+de agua destilada estéril al tubo, se agitó vigorosamente 
+y se filtró  a través de un embudo con gasa previamente 
+estéril, para así obtener una suspensión de esporas. La 
+cepa de C. albicans se trató siguiendo la metodología 
+de la comparación con un estándar de turbidez 0,5 
+McFarland. La solución espongorial obtenida se colocó 
+sobre cápsulas de Petri, previamente preparadas con 
+PDA, empleando hisopos estériles. Posteriormente, se 
+colocaron los discos de papel Whatman Nº 3  de 5 mm 
+de diámetro impregnados previamente con el extracto, y 
+luego, se incubaron por dos días a temperatura ambiente. 
+La aparición de halos de inhibición alrededor del disco 
+indicó la actividad fúngica del extracto, los cuales se 
+verificaron tomando en cuenta el diámetro (mm) de los 
+mismos.
+Los experimentos de análisis del efecto 
+antimicrobiano de los extractos, se realizaron por 
+triplicado para cada una de las partes botánicas 
+estudiadas. Para establecer los diferentes grados de 
+inhibición del crecimiento bacteriano, se consideraron 
+los rangos de los diámetros de inhibición, como los 
+sugieren Rios et al (2009), aplicados a los extractos de 
+las  especies empleadas en este estudio, estableciéndose 
+posteriormente rangos de la actividad antimicrobial. 
+Actividad tóxica o letalidad contra Artemia 
+salina: 
+Este bioensayo es un indicador de la actividad 
+antitumoral de extractos vegetales y/o compuestos 
+químicos presentes en los mismos. Inicialmente, se 
+determinó que existe una correlación positiva entre la 
+mortalidad de las larvas de Artemia y la citotoxicidad 
+frente a las células cancerígenas. De este modo, es posible 
+detectar extractos con actividad citotóxica, utilizando el 
+ensayo de mortalidad de larvas, más que otros ensayos 
+antitumorales in vivo o in vitro que resultan más 
+tediosos y costosos (Pino y Lazo, 2010).
+Se preparó una solución de 10 000 µg. ml-1 del 
+extracto, en una mezcla H2O/DMSO según la solubilidad 
+de éste y, a partir de ésta, se prepararon soluciones de 1 
+000 - 0,01 µg. ml-1 mediante diluciones sucesivas con agua 
+de mar bifiltrada, en viales que contenían  10 nauplios 
+de A. salina, eclosionados con 24 h de anticipación. Por 
+concentración, se realizaron tres réplicas y un control 
+con igual número de réplicas. La cuantificación de la 
+mortalidad de los nauplios se realizó pasadas las 24 y 48 
+h de haber montado dicho ensayo. Los datos obtenidos 
+se utilizaron para calcular la concentración letal media 
+de los extractos y fracciones ensayadas, mediante la 
+aplicación del software LC50 V2.5 diseñado para tal fin, 
+que considera los análisis estadísticos computarizados 
+(Probit, Binomial, Logit y Moving Average) con límites 
+de confianza de 95 % (Stephan, 1977; Meyer et al., 1982).
+III. RESULTADOS Y DISCUSIÓN
+Obtención de los extractos
+Obtenidos todos los extractos metanólicos de las 
+hojas, tallo y flores del cedrón, se determinó la masa de 
+los diversos extractos, así como también, su porcentaje 
+de rendimiento. En la Tabla 1 se encuentran reflejados 
+todos estos resultados, tomando como referencia la masa 
+inicial de las partes botánicas de dicha especie vegetal y 
+la masa del extracto crudo de las mismas, los cuales se 
+usaron luego para realizar el tamizaje fitoquímico y 
+analizar el efecto antimicrobiano y letal contra Artemia 
+salina de dichos extractos. 
+En la Tabla 1 se observan los porcentajes de 
+rendimientos de extracción de hojas, tallos y flores secas, 
+pudiéndose notar que el extracto de las flores presentó 
+el rendimiento de extracción más alto con 11,81% y el 
+del tallo mostró el rendimiento más bajo con respecto a 
+todos los extractos obtenidos, porcentaje de extracción 
+│ 13 
+D’Armas et al. Fitoquímica de Lippia citriodora K cultivada en Ecuador y su actividad biológica.
+de 3,78%. Tomando en consideración que el disolvente 
+utilizado fue el metanol, se puede considerar que en 
+las flores y hojas se encuentra la mayor cantidad de 
+metabolitos secundarios (taninos, polifenoles, esteroles, 
+triterpenos, fenilpropanoides con polaridades de media 
+Análisis Fitoquímico 
+La Tabla 2 muestra los resultados obtenidos 
+en el tamizaje fitoquímico realizado a los extractos 
+metanólicos de las partes botánicas de L. citriodora.
+En dicha tabla, se puede observar  que todos los 
+extractos metanólicos analizados de las distintas 
+partes botánicas, mostraron la presencia de taninos, 
+polifenoles, esteroles insaturados y triterpenos 
+pentaciclicos. Adicionalmente, los extractos del tallo 
+y flores exhibieron la presencia de fenilpropanoides y 
+catequinas; sin embargo, los metabolitos cumarinas 
+y metilencetonas fueron detectados solamente en el 
+extracto de las flores, y glicósidos cardiotónicos  y 
+quinonas en el extracto del tallo. Tanto las hojas como el 
+tallo, mostraron la presencia de saponinas, y las hojas y 
+las flores la presencia de alcaloides. En ningún extracto 
+analizado se detectaron flavonoides, a excepción de las 
+hojas. 
+Estos resultados están en concordancia con los 
+reportados por Argyropoulou et al (2010) quienes 
+mediante estudios histoquímicos determinaron la 
+a alta fundamentalmente, siendo las flores las más ricas 
+en metabolitos secundarios polares. Es posible entonces 
+que en el tallo se encuentren metabolitos de baja 
+polaridad o apolares. (Henao et al., 2009)
+Tabla 1. Porcentajes de rendimiento de los extractos metanólicos de las partes botánicas de L. citriodora.
+Tabla 2. Tamizaje fitoquímico de los extractos metanólicos de las partes
+botánicas de L. citriodora.
+Parte botánica
+Masa (g) Rendimiento
+(%)INICIAL EXTRACTO
+Hojas 12,00 0,8611 7,18
+Flores 12,00 1,4173 11,81
+Tallo 12,00 0,8316 3,78
+composición de los metabolitos secundarios de las hojas 
+de cedrón como fenoles, alcaloides, terpenos, taninos y 
+flavonoides.
+Al realizarse una comparación de la riqueza de 
+metabolitos secundarios del extracto metanólico de las 
+partes botánicas de L. citriodora, se puede argumentar 
+que tanto el tallo como las flores son portadoras de la 
+mayor cantidad de familias de metabolitos secundarios 
+en la planta, en relación a las demás partes botánicas, 
+debido a que se puede apreciar en la Tabla 2 un 
+%MPE (porcentaje de metabolitos presentes para cada 
+extracto de la especie) igual a 64,29% para ambas; sin 
+embargo, las hojas mostraron un 42,86% de metabolitos 
+secundarios. Además, se puede apreciar que todos 
+los extractos metanólicos (de hojas, tallo y flores) 
+exhibieron la presencia de un 100% de metabolitos 
+pertenecientes a las mismas familias químicas (%MPF): 
+taninos, polifenoles, esteroles insaturados y triterpenos 
+pentacíclicos, siendo estas las familias predominantes en 
+esta especie vegetal.
+Partes botánicas de la planta
+Familias de 
+metabolitos 
+secundarios
+Hojas Tallos Flores %MPF
+Saponinas + + - 66,67
+Taninos + + + 100
+Polifenoles + + + 100
+Glicósidos cardiotónicos    - + - 33,33
+Glicósidos cianogénicos - - - 0
+Alcaloides + - + 66,67
+14  │
+Volumen 12, Número 29,  Enero-Abril 2019, pp. 09 - 19
+En otro estudio realizado previamente por 
+Argyropoulou et al. (2007) sobre la composición 
+química de aceites esenciales de las hojas de cedrón 
+por GC–MS, encontrándose que los principales 
+constituyentes (66.3%) fueron los terpenos 
+geranial, neral y limoneno. El género Lippia, tiene 
+un gran valor farmacológico, contiene cantidades 
+apreciables de metabolitos algunos de los cuales 
+han mostrado tener  actividades biológicas 
+valorables. Omollo et al. (2014) realizaron 
+tamizajes fitoquímicos sobre este género, 
+demostrando la presencia de varios compuestos 
+como triterpenoides, fenoles, flavonoides, 
+fenilpropanoides y esteroides.
+Como se mencionó, los polifenoles resultaron 
+positivo en los extractos metanólicos de todas las 
+partes botánicas de la planta L. citriodora. Seham 
+et al. (2012) realizaron una investigación sobre 
+bioactividades y potencial medicinal de los extractos 
+acuosos y alcohólico de la misma especie cultivada 
+en Egypto, también como composición fenólica del 
+extracto más bioactivo. Ellos reportaron que los 
+compuestos fenólicos (principalmente flavonoides, 
+ácidos fenólicos y fenilpropanoides) detectados 
+eran los responsables de su actividad farmacológica, 
+tales como efectos analgésico, antiinflamatoria y 
+antioxidante. 
+Actividad antimicrobiana (sensibilidad 
+microbiana)
+Los extractos metanólicos fueron probados 
+frente a E. coli, S. aureus y P. aeruginosa, 
+y mostraron inactividad contra estas cepas 
+bacterianas. Sin embargo, esto no implica que 
+Cumarinas - - + 33,33
+Metilencetonas - - + 33,33
+Flavonoides + - - 33,33
+Esteroles insaturados + + + 100
+Triterpenos pentaciclicos + + + 100
+Fenilpropanoides - + + 66,67
+Quinonas - + - 33,33
+Catequinas - + + 66,67
+%MPE 42,86 64,29 64,29
+Continuación Tabla 2. 
+(+): Detectado;  (-): No detectado; %MPF: porcentaje de extractos de las partes botánicas con metabolitos pertenecientes a la misma familia química; %MPE: 
+porcentaje de metabolitos presentes para cada extracto de la especie.
+frente a otros microrganismos no puedan presentar 
+cierta actividad inhibitoria (Mora et al., 2008). 
+En la Tabla 3 se representan los resultados de la 
+sensibilidad microbiana de los extractos metanólicos 
+de las hojas, tallo y flores de L. citriodora frente 
+a cepas de las bacterias Staphylococcus aureus 
+(Gram-positiva), Escherichia coli (Gram negativa) 
+y Pseudomonas aeruginosa (Gram negativa) a 
+distintas concentraciones del extracto a ensayar, 
+cuyos halos de  inhibición se expresan utilizando 
+la metodología de cruces y criterios expuestos para 
+extractos (Rios et al., 2009).
+El extracto metanólico de todas las partes 
+botánicas de L. citriodora  demostró una alta o 
+muy alta actividad antibacteriana contra E.coli, P. 
+aeruginosa y S. aureus, a excepción de los extractos 
+de las hojas y  flores que exhibieron una actividad 
+antibacteriana moderada y baja respectivamente 
+contra E. coli y S. aureus, a una concentración del 
+20 mg. ml-1; sin embargo, la sensibilidad bacteriana 
+de ambas cepas se incrementó al ser expuestas a 
+soluciones de 40 mg. ml-1 de ambos extractos.
+A una concentración de  20 mg. ml-1, el extracto 
+del tallo fue el que la mayor actividad antibacteriana 
+contra todas las cepas ensayadas, al presentar halos 
+de inhibición superior a los 15 mm, seguido por los 
+extractos de las hojas y las flores. Se observó una 
+mayor efectividad de los extractos contra todas 
+las bacterias al duplicarse la concentración de 
+los mismos a 40 mg. ml-1. En general, se puede 
+inferir que tanto la cepa Gram positiva como las 
+Gram negativas mostraron una alta sensibilidad 
+bacteriana frente a los extractos metanólicos 
+D’Armas et al. Fitoquímica de Lippia citriodora K cultivada en Ecuador y su actividad biológica.
+de todas las partes botánicas estudiadas de L. 
+citriodora, y con valores de halos de inhibición 
+muy cercanos a los de los patrones: antibiótico 
+Diámetros de los halos de inhibición: (-) <6 
+mm ninguna actividad antimicrobiana; (1+) 6-8 
+mm poca actividad antimicrobiana; (2+) 8-10 mm 
+mediana actividad antimicrobiana; (3+) 10-15 mm 
+alta actividad antimicrobiana; (4+) >15 mm muy 
+alta actividad antimicrobiana. a: media de valores 
+de tres réplicas de halos de inhibición, expresados 
+con metodología de cruces; b: antibiótico 
+(ciprofloxacino) o antifúngico de referencia 
+(cloranfenicol); EMH: extracto de metanol de 
+hojas; EMT: extracto de metanol de tallos; EMF: 
+extracto de metanol de flores de cedrón.
+Los resultados encontrados en esta 
+investigación coinciden con los de Silva et al. 
+(2016), donde los investigadores encontraron que 
+los aceites esenciales de las hojas de L. thymoides 
+tenían selectividad antimicrobiana contra las 
+bacterias Gram-positivas Staphylococcus aureus y 
+Micrococcus luteus, y además establecieron la base 
+farmacológica para el uso tradicional de la misma 
+especie (Silva et al., 2015). Otro estudio realizado en 
+Bostwana, indica que la planta mostró propiedades 
+antimicrobianas, y que se usa tradicionalmente 
+para tratar el hongo Candida en las comunidades 
+africanas (Omollo et al., 2014). 
+Diversos estudios realizados sobre la 
+composición química y actividad biológica de las 
+hojas de L. citriodora han demostrado la presencia 
+de metabolitos bioactivos como los fenilpropanoides 
+y polifenoles a los cuales se le atribuyen las 
+(ciprofloxacino) y antifúngico de referencia 
+(cloranfenicol) ensayados.
+Tabla 3. Actividad antimicrobianaa mostrada por extractos metanólicos de L. citriodora a distintas 
+concentraciones frente a las cepas utilizadas.
+Microorganismos
+Concentraciones del extracto (mg.ml-1)
+20 40
+EMH EMT EMF Patrónb EMH EMT EMF Patrónb
+Bacterias
+S. aureus 3+ 4+ 1+ 4+ 4+ 4+ 4+ 4+
+E. coli 2+ 4+ 3+ 4+ 4+ 4+ 3+ 4+
+P. aeruginosa 3+ 4+ 3+ 4+ 4+ 4+ 3+ 4+
+Hongo
+C.  albicans 1+ 2+ 3+ 4+ +2 3+ 3+ 4+
+propiedades antioxidantes, antitumorales, 
+inmunosupresivas y antimicrobianas que posee 
+esta especie (Venkateswara et al., 2013; Herranz-
+López et al., 2015).
+Estudios reportados en la literatura, 
+demuestran que las bioactividades del extracto de 
+la planta L. citriodora se deben no a un solo tipo 
+de compuesto, ya que varias investigaciones han 
+mostrado interacciones entre compuestos fenólicos, 
+principalmente efectos sinérgicos y antagonistas. 
+A su vez, los investigadores aislaron flavonoides y 
+otros compuestos fenólicos de cedrón recolectada 
+en diferentes localidades (Skaltsa, 1988; Ono et al., 
+2008).
+Actividad tóxica o letalidad
+La concentración letal media (CL50) es de 
+vital importancia para medir la letalidad, porque 
+proporciona una medida de cuan tóxica resulta 
+ser la especie vegetal L. citriodora, y si estas 
+propiedades pueden causar un efecto negativo en el 
+organismo, o por el contrario pueden usarse dichas 
+propiedades tóxicas en contra de patógenos, lo cual 
+se realiza por medio de larvas de experimentación 
+como la Artemia (Parra et al., 2001).  
+En la Tabla 4, se puede observar que el 
+porcentaje de mortalidad que ocasiona los extractos 
+de las hojas y el tallo, en las larvas de A. salina 
+es del 100% a la máxima concentración (1000 
+mg.ml-1); sin embargo, tan solo el extracto del 
+16  │
+Volumen 12, Número 29,  Enero-Abril 2019, pp. 09 - 19
+Se puede apreciar en la Tabla 5 una 
+concentración letal media (CL50 < 200 µg.ml
+-1) o 
+sea una letalidad o toxicidad significativa, según el 
+método Moving Average para los extractos de las 
+hojas y flores, y método Binomial para el extracto 
+del tallo, con valores más confiables de límites 
+de confianza del 95%, por lo que los extractos 
+podrían poseer compuestos bioactivos (Meyer 
+et al, 1982).  Además, se observa que el extracto 
+metanólico del tallo mostró una toxicidad de 82,19 
+µg.ml-1 en contra de las larvas ensayadas, a las 24 
+h,  por lo que se puede inferir que todas las partes 
+botánicas de L. citriodora, y especialmente el tallo, 
+constituyen una fuente de compuestos bioactivos. 
+De acuerdo a las categorías de toxicidad del 
+Programa Iberoamericano de Ciencia y Tecnología 
+para el Desarrollo- CYTED (1995), tanto el extracto 
+de hojas como el de las flores son considerados 
+moderadamente tóxicos, y el del tallo altamente 
+IV. CONCLUSIONES
+Todas la partes botánicas estudiadas de L. 
+citriodora exhibieron efecto antibacteriano y 
+antifúngico significativo contra las cepas de 
+bacterias Gram (+) y Gram (-), y hongo ensayado 
+(C. albicans).
+tallo mata 60% de los nauplios ensayados a menor 
+concentración, lo que da indicio de su buena acción 
+tóxica. Se podría presumir que dicho extracto posee 
+una letalidad muy significativa, mostrando una 
+toxicidad indicativa de la presencia de compuestos 
+antitumorales de gran valor farmacológico en el 
+extracto (Pino y Lazo, 2010).
+Tabla 4. Porcentaje de mortalidad (%) correspondiente al ensayo de Artemia salina en  los diferentes extractos de 
+L. citriodora.
+Tabla 5. Concentración letal media (µg.ml-1) contra A. salina, de los extractos de las partes botánicas de L. 
+citriodora
+Extractos
+Concentraciones de disoluciones del extracto (µg.ml-1)
+1000 100 10 1 control
+EMHC 100 23,3 10,0 6,7 3,3
+EMTC 100 60,0 3,3 0,0 0,0
+EMFC 86,6 42,9 13,3 7,1 3,3
+EMH: Extracto metanólico de hojas; EMT: Extracto metanólico de tallo; EMF: Extracto metanólico de flores. Control: solución de dimetilsulfóxido (500µl) en 3,6ml 
+de agua de mar bifiltrada.
+EMH: Extracto metanólico de hojas; EMT: Extracto metanólico de tallo; EMF: Extracto metanólico de flores. a: Límite de confianza del 95%. b: Programa 
+Iberoamericano de Ciencia y Tecnología para el Desarrollo (CYTED).
+tóxico, y por ende el más promisorio como fuente 
+de metabolitos con posible actividad antitumoral.
+ 
+Se puede inferir que probablemente, este 
+efecto letal o tóxico observado en los extractos 
+metanólicos de las distintas  partes botánicas 
+de la planta, se deba a la presencia de algunas 
+familias de metabolitos detectados en los ensayos 
+químicos preliminares realizados, o a la acción 
+sinérgica de ellos (taninos, alcaloides, triterpenos, 
+esteroles, polifenoles, flavonoides, metilencetonas, 
+fenilpropanoides y/o cumarinas). Adicionalmente, 
+la actividad tóxica muy significativa o altamente 
+tóxica encontrada para el tallo, se podría atribuir a 
+la presencia de glicósidos cardiotónicos y quinonas, 
+metabolitos ausentes en las hojas y flores de L. 
+citriodora, o al efecto sinérgico de éstos con los 
+otros compuestos presentes en el tallo (Sepúlveda 
+et al. 2003;  Avello y Cisternas, 2010).
+Extractos CL50 (24 h) Método Intervaloa
+Categorías CYTEDb 
+de toxicidad
+EMH 168,77 Moving Average 113,42-262,17 moderadamente tóxico
+EMT 82,19 Binomial 10,00-100,00 altamente tóxico
+EMF 172,76 Moving Average 93,27-355,78 moderadamente tóxico
+Cedrón mostró actividad letal o tóxica 
+significativa, siendo el extracto metanólico del 
+tallo el considerado altamente tóxico, debido a que 
+presentó una concentración letal media inferior a 
+100 µg.ml-1.
+│ 17 
+D’Armas et al. Fitoquímica de Lippia citriodora K cultivada en Ecuador y su actividad biológica.
+El análisis fitoquímico reveló la presencia de 
+compuestos químicos comunes para las hojas, 
+flores y tallo (taninos, polifenoles, triterpenos 
+y esteroles insaturados), por lo que dichas 
+familias de metabolitos detectados, podrían ser 
+responsables de la antibiosis observada para la 
+especie estudiada. 
+A partir de los resultados obtenidos, se puede 
+inferir que la planta L. citriodora es una fuente 
+promisoria de metabolitos secundarios bioactivos 
+con actividad farmacológica (antimicrobianos y 
+citotóxicos), lo que sugiere su importancia como 
+agente de uso terapéutico en Ecuador.
+AGRADECIMIENTOS
+Los autores expresan su agradecimiento al 
+Proyecto Prometeo de la  Secretaría Nacional 
+de Educación Superior, Ciencia y Tecnología 
+de la República de Ecuador (SENESCYT) por el 
+financiamiento de esta investigación. 
+V. REFERENCIAS
+Abena, A., Atipo-Ebata, J., Hondi, A., y Diatewa, M. 
+(2001). Psychopharmacological properties of 
+crude extract and essential oil of Lippia multiflora. 
+Encephale, 27(4), 360-364.
+Álvarez, X. (2012). Identificación, historia, características 
+y aplicaciones culinarias de cinco plantas aromáticas 
+endémicas de América (tesis de pregrado). 
+Universidad de Cuenca, Cuenca, Ecuador. 
+Argyropoulou, C., Daferera, D., Petros, A.,  Fasseas, C., 
+y Polissiou, M. (2007). Chemical composition of 
+the essential oil from leaves of Lippia citriodora 
+H.B.K. (Verbenaceae) at two developmental stages. 
+Biochemical Systematics and Ecology, 35 (12), 831-
+837.
+Argyropoulou, C., Akoumianaki-Ioannidou, A., 
+Christodoulakis, N., y Costas, A. (2010). Leaf 
+anatomy and histochemistry of Lippia citriodora 
+(Verbenaceae).  Australian Journal of Botany, 58 
+(5), 398-09. 
+Argyropoulou, C., Akoumianaki-Ioannidou, A., Nikolaos, 
+S., Christodoulakis, C., y Costas, A. (2010). Leaf 
+anatomy and histochemistry of Lippia citriodora 
+(Verbenaceae). Australian Journal of Botany, 58 
+(5), 398-09.  
+Avello, M., y Cisternas, I. (2010). Fitoterapia, sus 
+orígenes, características y situación en Chile. Rev 
+Med Chile, 138, 1288-1293.
+Avila, J., De Liverant, J., Martínez, A., Martínez, 
+G., Muñoz, J. y Arciniegas, A. (1999). Mode 
+of action of Buddleja cordata verbascoside 
+against Staphylococcus aureus. Journal of 
+Ethnopharmacology, 66, 75-78.
+Bauer, A., Kirby, A., Sherries, J., y Turk, M. (1966). 
+Antibiotic susceptibility testing by standardized 
+single disk method. American Journal of Clinical 
+Pathology, 45 (4), 493-496.
+CYTED. (1995). Programa Iberoamericano de Ciencia y 
+Tecnología para el Desarrollo. Manual de Técnicas 
+de Investigación. España: Editorial Pinzón.
+El-Hawary, S., Miriam, F., Yousif, M., Abdel, A., y 
+Abd-Hameed, L. (2012). Bioactivities, phenolic 
+compounds and in-vitro propagation of Lippia 
+citriodora Kunth cultivated in Egypt. Bulletin of 
+Faculty of Pharmacy, 50, 1-6.
+Funari, C., Eugster, P., Martel, S., Carrupt, P., Wolfender, 
+J., y Silva, D. (2012). High resolution ultra-high 
+pressure liquid chromatography-time-of-flight 
+mass spectrometry dereplication strategy for the 
+metabolite profiling of Brazilian Lippia species. J 
+Chromatogr A., 1259, 167-178.
+Henao, J., Muñoz, L., Ríos, E., Padilla, L., y Giraldo, G. 
+(2009). Evaluación de la actividad antimicrobiana de 
+los extractos de la planta Lippia origanoides h.b.k. 
+cultivada en el Departamento del Quindío. Rev. 
+Invest. Univ. Quindio, 19, 159- 164. 
+Herranz-López, M., Barrajón-Catalán, E., Segura-
+Carretero, A., Menéndez, J., Joven, J., y Micol, 
+V. (2015). Lemon verbena (Lippia citriodora) 
+polyphenols alleviate obesity-related disturbances in 
+18  │
+Volumen 12, Número 29,  Enero-Abril 2019, pp. 09 - 19
+hypertrophic adipocytes through AMPK-dependent 
+mechanisms. Phytomedicine, 22, 605-614.
+Jigam, A., Akanya, H., Ogbadoyi, E., Dauda, B., y Egwim, 
+C. (2009). In vivo antiplasmodial, analgesic and 
+antiinflammatory activities of the leaf extract of 
+Lippia multiflora Mold. Journal of Medicinal Plants 
+Research, 3 (3), 148-154.
+Kummerer, K. (2004). Resistance in the environment. 
+The Journal of Antimicrobial Chemotherapy, 54, 
+311-314.
+Madubunyi, I. (1995). Antimicrobial activities of the 
+constituents of Garcinia kola seeds. Intern. J. 
+Pharm., 33 (3), 232-237.
+Marcano, D., y Hasegawa, M. (2002). Fitoquímica 
+Orgánica. Venezuela: Universidad Central de 
+Venezuela-Torino.
+Meyer, B., Ferrigni, N., Putnam, J., Jacobsen, L., 
+Nichols, D., y McLaughlin, J. (1982). Brine shrimp: 
+A convenient general bioassay for active plant 
+constituents. Planta Médica, 45 (1), 31-34.
+Mora, J., Newmark, F., Santos, M., y Sánchez, J. (2008). 
+Evaluación de extractos de esponjas marinas como 
+nuevas fuentes de sustancias antimicrobianas. Rev. 
+Esp. Quimioter., 21 (3), 174-179.
+Murillo, E., y Méndez, J. (2011). Guía metodológica 
+para la detección rápida de algunos metabolitos 
+secundarios y caracterización de una droga cruda. 
+Colombia: Universidad de Tolima.
+Okhale, E., Michael-Nwanosike, E., Temitope Fatokun, 
+O., y Folashade-Kunle, O. (2016). Phytochemistry and 
+ethnopharmacology of Lippia genus with a statement 
+on chemotaxonomy and essential oil chemotypes. 
+International Journal of Pharmacognosy IJP, 3 (5), 
+201-211.
+Oliveira, M., Velázquez, D., y Bermúdez, A. (2005). 
+La investigación etnobotánica sobre plantas 
+medicinales. Revista de Ciencia y Tecnología de 
+América, 30 (8), 453-459. 
+Omollo-Ombito, J., Nyangweso-Salano, E., Kipkirui-
+Yegon, P., Kipkirui-Ngetich,W.,  y Muthoni-Mwangi., 
+E. (2014). A review on the chemistry of some species 
+of genus Lippia (Verbenaceae family). Journal of 
+Scientific and Innovative Research, 3 (4), 460-466.
+Ono, M., Oda, E., Tanaka, T., Iida, Y., Yamasaki, T., 
+Masuoka, C., et al. (2008). DPPH radical-scavenging 
+effect on some constituents from the aerial parts of 
+Lippia triphylla. J Nat Med., 62 (1), 101-106.
+Parra, L., Silva, Y., Iglesias, B., y Guerra, S. (2001). 
+Comparative study of the assay of Artemia salina 
+L. and the estimate of the medium lethal dose (LD50 
+value) in mice, to determine oral acute toxicity of 
+plant extracts. Phytomedicine, 8 (5), 395-400.
+Pino, O., y Lazo, J. (2010). Ensayo de Artemia: útil 
+herramienta de trabajo para ecotoxicólogos y 
+químicos de productos naturales. Revista de 
+Protección Vegetal, 22 (1), 35-36.
+Ríos, N., Medina, G., Jiménez, J., Yañez, C., García, M., 
+Di Bernardo, M., y Guaitia, M.  (2009). Actividad 
+antibacteriana y antifúngica de extractos de algas 
+venezolanas. Rev. Perú Biol., 16 (1), 097-100.
+El-Hawary, S., Yousif, M., Abdel, A., y Abd-Hameed, 
+L. (2012). Bioactivities, phenolic compounds and 
+in-vitro propagation of Lippia citriodora Kunth 
+cultivated in Egypt. Bulletin of Faculty of Pharmacy, 
+Cairo University, 50, 1-6.
+Sepúlveda, G., Porta, H., y Rocha, M. (2003). La 
+participación de los metabolitos secundarios en 
+la defensa de las plantas. Revista Mexicana de 
+Fitopatología, 21 (3), 355-363.
+Silva, F., Menezes, P., de Sá, P., Oliveira, A., Souza, E., 
+Bamberg, V., de Oliveira, H., de Oliveira, S., Araújo, 
+R., Uetanabaro, A., et al. (2015). Pharmacological 
+basis for traditional use of the Lippia thymoides. 
+Evid. Based Complement. Altern. Med., 20 (12), 
+21946-21959.
+Silva, F., Menezes, P., de Sá, P., Oliveira, A., Souza, E., 
+Almeida, J., Lima, J., Uetanabaro, A., Silva, T., 
+Peralta, E., et al. (2016). Chemical composition 
+│ 19 
+D’Armas et al. Fitoquímica de Lippia citriodora K cultivada en Ecuador y su actividad biológica.
+and pharmacological properties of the essential oils 
+obtained seasonally from Lippia thymoides. Pharm. 
+Biol., 54 (1), 25-34.
+Skaltsa, H., y Shammas, G. (1988). Flavonoids from 
+Lippia citriodora. Planta Med., 58 (5), 465.
+Stephan, C.E. (1977). Methods for calculating an LC50. 
+In: Mayer FL, Hamelink J. (Editors). Aquatic 
+Toxicology and Hazard Evaluation: ASTM STP 634. 
+Philadelphia: American Society for Testing and 
+Material.
+Venkateswara, R., Gopalakrishnan, M., y Mukhopadhyay, 
+T. (2013). Secondary metabolites from the leaves of 
+Lippia citriodora H. B. & K. Der Pharmacia Lettre, 
+5 (3), 492-495. 
+ 
+Zamorano, E., Morales, C., Ramos, D., Sepúlveda, C., 
+Cares, S.,  Rivera, P.,  Fernández, J., y Carballo, M. 
+(2006). Anti-genotoxic effect of Aloysia triphylla 
+infusion against acrylamide-induced DNA damage 
+as shown by the comet assay technique. Mutation 
+Research/Genetic Toxicology and Environmental 
+Mutagenesis, 603 (2), 145-150.
+Zhang, Y., Chen, Y., Wang, S., Dong, Y., Wang, T., Qu, 
+L., Li, N., y Wang, T. (2015). Bioactive constituents 
+from the aerial parts of Lippia triphylla. Molecules, 
+20, 21946-21959.

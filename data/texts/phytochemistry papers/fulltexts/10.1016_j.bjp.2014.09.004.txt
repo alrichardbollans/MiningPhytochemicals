@@ -1,0 +1,694 @@
+Rev Bras Farmacogn 24(2014): 538-544
+* Corresponding author. 
+ E-mail: walbertoma@unisanta.br (W. Toma).
+0102-695X/$ - see front matter © 2014 Sociedade Brasileira de Farmacognosia. Published by Elsevier Editora Ltda. All rights reserved.
+http://dx.doi.org/10.1016/j.bjp.2014.09.004
+Original article
+Safflower oil: an integrated assessment of phytochemistry, 
+antiulcerogenic activity, and rodent and environmental toxicity
+Walber Tomaa,*, Luciana L. Guimarãesa, Alba R.M.S. Britob, Aldo R. Santosc, 
+Fernando S. Cortezc, Fábio H. Puscedduc, Augusto Cesard, Landulfo S. Júniore, 
+Marcos T.T. Pachecoa,e, Camilo D.S. Pereiraa,d
+aLaboratório de Pesquisa em Produtos Naturais, Mestrado em Ecologia, Programa de Pós-graduação em Sustentabilidade de Ecossistemas 
+Costeiros e Marinhos, Universidade Santa Cecília, Santos, SP, Brazil
+bLaboratório de Produtos Naturais, Departamento de Fisiologia e Biofísica, Universidade Estadual de Campinas, Campinas, SP, Brazil
+cLaboratório de Ecotoxicologia, Universidade Santa Cecília, Santos, SP, Brazil
+dInstituto do Mar, Campus Baixada Santista, Universidade Federal de São Paulo, Santos, SP, Brazil
+eInstituto de Engenharia Biomédica, Universidade Camilo Castelo Branco, São Paulo, SP, Brazil
+ARTICLE INFO
+Article history:
+Received 5 June 2014
+Accepted 18 September 2014
+Keywords:
+Antiulcerogenic activity
+Ecotoxicology
+Raman spectroscopy
+Safflower oil
+Toxicology
+A B S T R A C T
+Gastric ulcers are a significant medical problem and the development of complications 
+lead to significant mortality rates worldwide. In Brazil, Carthamus tinctorius L., Asteraceae, 
+seeds essential oil, the safflower oil, is currently used as a thermogenic compound and as 
+treatment for problems related to the cardiovascular system. In this study, by Raman spec-
+troscopy, it was shown that oleic and linoleic acids are the compounds present in higher 
+concentrations in the safflower oil. We demonstrated that safflower oil (750 mg/kg, p.o.) de-
+crease the ulcerogenic lesions in mice after the administration of hydrochloric acid-ethanol. 
+The gastric ulcers induced by non-steroidal anti-inflammatory drug (NSAID) in mice treated 
+with cholinomimetics were treated with four different doses of safflower oil, of which, the 
+dose of 187.5 mg/kg (p.o.) showed significant antiulcerogenic properties (**p < 0.01). More-
+over, the safflower oil at doses of 187.5 mg/kg (i.d.) increased the pH levels, gastric volume 
+(**p < 0.01) and gastric mucus production (***p < 0.001), and decreased the total gastric acid 
+secretion (***p < 0.001). The acute toxicity tests showed that safflower oil (5.000 mg/kg, p.o.) 
+had no effect on mortality or any other physiological parameter. Ecotoxicological tests per-
+formed using Daphnia similis showed an EC50 at 223.17 mg/l, and therefore safflower oil can 
+be considered “non-toxic” based on the directive 93/67/EEC on risk assessment for new noti-
+fied substances by European legislation. These results indicate that the antiulcer activity of 
+Safflower oil may be due to cytoprotective effects, which serve as support for new scientific 
+studies related to this pathology.
+© 2014 Sociedade Brasileira de Farmacognosia. Published by Elsevier Editora Ltda. All rights reserved.
+ Walber Toma et al. / Rev Bras Farmacogn 24(2014): 538-544 539
+Introduction
+The development of peptic ulcers is one of the world’s major 
+gastro-intestinal disorders, including both gastric and duodenal 
+ulcers, which affects 10% of the global population (Zapata-
+Colindres et al., 2006). The pathophysiology of peptic disease is 
+attributed to an imbalance between aggressive factors like acid, 
+pepsin, and an Helicobacter infection, and local mucosal defenses 
+like bicarbonate, mucus and prostaglandin secretion (Jain et al., 
+2007). Helicobacter pylori infection, the use of non-steroidal anti-
+inflammatory drugs (NSAID), emotional stress, alcohol abuse, 
+and smoking are the principal etiological factors associated with 
+peptic ulcer development (Malfertheiner et al., 2009).
+There are several drug treatments used to treat gastric ulcer. 
+These include gastric acid neutralizing therapeutic drugs (e.g. 
+aluminum hydroxide and magnesium), H2 receptor antagonists 
+(e.g. ranitidine), and proton pump inhibitors (e.g. omeprazole). 
+However, despite the large range of treatments gastric ulcer 
+recurrence has long been thought to be an unavoidable feature 
+of peptic ulcer disease, and therefore, maintenance treatment 
+has been necessary to prevent recurrence (Arakawa et al., 2012).
+During the past decade, complementary and alternative 
+medicines have become a topic of global importance. Current 
+estimates suggest that in many developing countries, a 
+large portion of the population relies heavily on traditional 
+practitioners and medicinal plants to meet primary healthcare 
+needs. Although modern medicine may be available in these 
+countries, herbal medicines (phytomedicines) have often 
+maintained their popularity for historical and cultural reasons 
+(Saraf and Saraf, 2012).
+Carthamus tinctorius L. is a member of the family Asteraceae, it 
+possibly originated in Southern Asia and is known to have been 
+cultivated in China, India, Iran and Egypt almost from prehistoric 
+times. During the middle ages it was grown in Italy, France, and 
+Spain, and afterwards it was introduced into North and South 
+America from the Mediterranean region (Bae et al., 2002). 
+Carthamus tinctorius seeds are rich in edible oil (safflower 
+oil), with similar content to olive, sunflower, and peanut oils 
+(40% dry matter weight). This oil is composed of typically 
+linoleic acid (63-72%), oleic acid (16-25%) and linolenic acid 
+(1-6%) (Kim et al., 2000). 
+The oral administration of safflower oil at doses of 750 mg/
+kg in rodents has been proven to have thermogenic properties 
+and may thus contribute to the treatment of obesity (Takeuchi 
+et al., 1995). Other reports show that this oil has the capacity to 
+relieve constipation and ease rheumatic pains, and that it has 
+laxative and antifungal activities (Pintão and da Silva, 2008). 
+However, despite the widespread use of safflower flowers for 
+their pharmaceutical, cosmetic, and medicinal properties; 
+there have been no studies regarding the use of this oil for the 
+treatment of gastric ulcers, or tests to determine its rodent 
+toxicity (side effects) and environmental risks of this oil.
+Medicinal plant species that are being used to treat 
+particular diseases on a large scale can have serious side 
+effects (George, 2011). The likelihood of side effects increases 
+when the production and sale of such products are largely 
+uncontrolled and/or unregulated and the consumer is not 
+adequately informed about their proper uses. Regulatory 
+controls are therefore considered necessary to safeguard drug 
+interactions with herbal drugs (WHO, 1997; 2002).
+The monitoring of pharmaceutical compounds in 
+environmental matrices has been addressed in several 
+studies since the late 1990s. Drugs excreted by patients can 
+contaminate rivers, even after treatment in wastewater-
+processing facilities. In addition, there is mounting evidence 
+that effluents from pharmaceutical factories could also be 
+carrying drugs into the rivers (Gilbert, 2012). The effects are 
+already evident: they include the feminization of fish by 
+residues of contraceptive pills, and the death of millions of 
+vultures on the Indian subcontinent following the ingestion of 
+the anti-inflammatory drug diclofenac. Antibiotic overuse has 
+led to the emergence of resistant pathogenic bacteria in the 
+environment, and not just in medical settings (Deplege, 2011).
+Given the need for new therapeutic approaches to treat 
+gastric ulcer with a low probability of toxicological effects; 
+added to concerns regarding the ecological risks of chemical 
+compounds with therapeutic properties, this study aimed to 
+evaluate the phytochemistry, antiulcer activity, and rodent 
+and environmental toxicity of safflower oil. Our results will 
+serve as the basis for new pharmacological assays involving 
+the Safflower oil treatment for the gastric ulcer diseases.
+Material and methods
+Drugs and reagents
+Carboxymethylcellulose (CMC), lansoprazole and safflower oil 
+from Carthamus tinctorius L. Asteraceae, seed were purchased 
+from Sigma-Aldrich, USA. Safflower oil (test substance) was 
+used at doses of 93.75; 187.5; 375 and 750 mg/kg; whereas 
+lansoprazole (positive control) was administered at a dose of 
+30 mg/kg. Both substances were diluted in 0.5% CMC and the 
+resulting solutions were administered at a concentration of 10 
+ml/kg by the oral route (p.o.).
+Analysis of safflower oil by dispersive Raman spectroscopy
+Safflower oil has been evaluated using dispersive Raman 
+spectroscopy. For that, a portable near-infrared, dispersive 
+Raman system (Dimension P-1 Raman system, Lambda 
+Solutions, Inc., MA, USA), with an 830 nm excitation, adjustable 
+laser of 230 mW, and spectral resolution of about 2 cm-1 in 
+the range of 400 to 1800 cm-1 was used. The spectrometer was 
+connected to a Raman probe (Vector probe, Lambda Solutions, 
+Inc. MA, USA) of about 3 m long, with band pass and rejection 
+pass filters. The 1320×100 pixel, back-thinned, deep-depleted 
+CCD detector was cooled down (Peltier) to -75°C to decrease 
+thermal noise. For spectral collection, the safflower oil sample 
+was placed in an aluminum sample holder with wells of 5 mm 
+in diameter and 100 μl capacity; then the probe was placed at 
+a 10 mm distance perpendicular to the sample surface (probe’s 
+focal length). The sample spectra of oleic and linoleic acids 
+(Sigma-Aldrich) were also obtained. The signal scattered by 
+each sample was then collected by the probe and coupled to 
+the signal port of the Raman spectrometer for dispersion and 
+detection. The Raman signal was collected in 5 and 10 s scans 
+540 Walber Toma et al. / Rev Bras Farmacogn 24(2014): 538-544
+for all samples. Finally, the gross spectra were calibrated, 
+pre-processed and stored for further analysis using Microsoft 
+Excel software (Microsoft Office 2003). For calibration a Raman 
+spectrum of naphthalene was measured and the known Raman 
+shift of selected bands were compared with the respective 
+Raman shifts found in the measurement. When needed, the 
+x-axis was displaced to match the correct band shift. For 
+pre-processing, cosmic rays spikes were manually removed 
+and the background fluorescence was removed by fitting and 
+subtracting a 5th order polynomial to the gross spectrum. No 
+normalization was applied to the data.
+Animals
+We used male albino Swiss mice with an average weight of 
+30-45 g. They were obtained from the Animal Facility of the 
+Federal University of São Paulo. The animals were acclimated 
+to the vivarium conditions of Santa Cecília University at a 
+temperature of 23 ± 2ºC and a 12 h light-dark cycle. Mice had 
+access to Nuvital and water ad libitum. The animals were kept 
+in cages with raised floors of wide mesh to prevent coprophagy. 
+All protocols employed were approved by the Unisanta 
+Institutional Animal Care and Use Committee, following the 
+recommendations of the Canadian Council on Animal Care 
+(Olfert et al., 1993) under reference number 001/2012.
+Hydrochloric acid (HCl)/ethanol-induced gastric ulcer
+The methodology used was as previously described by Mizui 
+and Doteuchi (1983). After a 12 h fasting the different groups 
+of mice were treated orally with 0.5% CMC (10 ml/kg, p.o.) 
+(negative control) (n = 5), lansoprazole 30 mg/kg (10 ml/kg, p.o.) 
+(positive control) (n = 5), or safflower oil at a dose of 750 mg/
+kg (10 ml/kg, p.o.) (n = 5). One hour after administration of the 
+treatments, gastric damage was induced in animals by oral 
+administration (0.1 ml/20 g body weight) of a solution of 150 mM 
+HCl in 98% ethanol. After one hour the animals were sacrificed 
+and the stomachs removed for s lesion counts, according to 
+Szelenyi and Thiemer (1978). The number of gastric lesions 
+after administration of HCl-ethanol was expressed as mean 
+± standard deviation (SD). Statistical differences between 
+experimental groups were detected by analysis of variance 
+(ANOVA) followed by Dunnet’s test, with a significance level 
+of p < 0.05 for all analyses. Statistical analyses were performed 
+using the Graph Pad Prism Software 3.0®.
+NSAID-Induced gastric ulcers in cholinomimetic-treated mice 
+These experiments were performed in accordance with the 
+method proposed by Rainsford (1978). In this model, a gastric 
+ulcer was induced by indomethacin (30 mg/kg, s.c.) and 
+bethanechol (5 mg/kg, i.p.) administration to mice after a 24 h 
+fast. Safflower oil at four doses (93.75, 187.5, 375 and 750 mg/kg, 
+p.o.), Lansoprazole (30 mg/kg, p.o.) or 0.5% CMC (10 ml/kg, p.o.) 
+were administered orally 30 min before the induction of gastric 
+ulcer. The animals were killed 4 h after treatment with the 
+ulcerogenic agents; the stomachs were removed and inflated 
+with 4% formalin in buffered saline, and the gastric damage 
+was determined using the methodology of Szelenyi and 
+Thiemer (1978). Statistical differences between experimental 
+groups were determined by analysis of variance (ANOVA) 
+followed by Dunnet’s and Tukey’s tests, with a significance 
+level of p < 0.05 for all analyses.
+Determination of gastric secretion
+The assay was performed by the method of Shay (1945). All 
+groups of mice fasted for 24 h, with free access to water. 
+Immediately after pylorus ligature, safflower oil at a dose of 
+187.5 mg/kg (10 ml/kg, p.o.) (n = 8); Lansoprazole 30 mg/kg (10 
+ml/kg, p.o.) (n = 8) as positive control or 0.5% CMC (10 ml/kg, p.o.) 
+(negative control) (n = 8) were administered intraduodenally. 
+The animals were killed 4 h later; the abdomen was opened 
+and another ligature was placed around the esophagus, close 
+to the diaphragm. The stomachs were removed and the gastric 
+content collected to determine the total amount of gastric acid 
+(ml) and pH values. Distilled water (5 ml) was added, and the 
+solution obtained was centrifuged at 2000× g for 10 min. Total 
+acid in the gastric secretion was determined in the supernatant 
+volume by titration to pH 7.0 with 0.01 N NaOH.
+Determination of mucus in gastric content
+This assay was performed following the methodology 
+described previously by Sun et al. (1991). Mice fasted for 24 h, 
+under anesthesia, the abdomen incised and the pylorus ligated. 
+The safflower oil at a dose of 187.5 mg/kg (10 ml/kg, p.o.) (n = 8); 
+Lansoprazole 30 mg/kg (10 ml/kg, p.o.) (n = 8) as positive control 
+or 0.5% CMC (10 ml/kg, p.o.) (negative control) (n = 8) were 
+administered intraduodenally (i.d.) after the pylorus ligature. 
+The animals were killed 4 h after the drug treatments. The 
+stomach content was immersed in 10 ml 0.02% alcian blue in 
+0.16 M sucrose  0.05 M sodium acetate, pH 5.8, and incubated 
+for 24 h at 20°C. The alcian blue binding extract was centrifuged 
+at 2000× g for 10 min. The absorbance of the supernatant was 
+measured at 615 nm using a light spectrophotometer U/2000 
+(Hitachi, Japan). The free mucous in the gastric content was 
+calculated from the amount of alcian blue binding (mg/wet 
+tissue [g]).
+Acute toxicity assay
+For an acute toxicity test by single dose, the animals were 
+divided into two groups with n = 10 for each group. The 
+negative control group received 0.5% CMC (10 ml/kg, p.o.) and 
+the test group received safflower oil at a dose of 5 g/kg, p.o. 
+diluted in 0.5% CMC at a concentration of 10 ml/kg. Water 
+and food consumption, the mass of waste products (feces and 
+urine), and the body weight of the animals were assessed daily 
+for seven days. At the end of the experimental protocol, the 
+animals were sacrificed and their organs (heart, lung, liver and 
+kidney) were macroscopically analysis (Brito, 1994).
+Ecotoxicity assays with Daphnia simillis
+This assay was performed according to US EPA (2002) guideline, 
+with adaptations proposed by the Brazilian standardization 
+protocol (ABNT, 2004). According to this protocol, neonates 
+ Walber Toma et al. / Rev Bras Farmacogn 24(2014): 538-544 541
+Figure 1 – Raman spectra obtained from linoleic acid, oleic 
+acid authentic standards and safflower analysis. The peaks 
+observed at 1655 cm-1 and 1265 cm-1 are consistent with 
+the presence of C=C alkyl stretching and C-H ethylene, 
+respectively. The four peaks observed in the region of 800-
+980 cm-1 exhibit a pattern consistent with the Raman spectra 
+profile of linoleic acid (Baeten et al., 2001; Silveira et al., 2010; 
+2012). Together, these observations indicate the presence 
+of the unsaturated fatty acid linoleic acid, consistent with 
+previously published data.
+Figure 2 – Raman spectra obtained from the safflower oil 
+analysis and a mixture of oleic and linoleic acid, suggesting 
+that these two compounds are the main constituents 
+of safflower oil in the concentrations shown in the plot. 
+The arrows indicate the peaks at 1655 cm-1 and 1265 cm-1 
+attributed to the unsaturated fatty acids. The Raman peaks 
+marked with stars in the region between 800-1000 cm-1 
+represent the characteristic peaks of linoleic acid.
+According to Rudolphi et al. (2012), the seed oil of safflower 
+(Carthamus tinctorius L., Asteraceae) has a high content of 
+monounsaturated oleic and polyunsaturated linoleic acids, and 
+is produced for nutritional as well as medicinal uses, due to its 
+pharmacological properties. Linoleic acid is not synthesized by 
+the human body and should therefore be consumed in the diet. 
+In this study, the high concentrations of linoleic and oleic acids 
+could be verified by the coincidence of the Raman peaks of these 
+compounds found in the spectrum of safflower oil (Fig. 2).
+Currently, there are several pharmacological options for the 
+treatment of gastric ulcer disease. Some classes of therapeutic 
+drugs include those that neutralize gastric acid (e.g. aluminum 
+hydroxide and magnesium), H2 receptor antagonists (e.g. 
+ranitidine, famotidine, nizatidine) and proton pump inhibitors 
+(PPIs) (e.g. omeprazole, lansoprazole, pantoprazole). However, 
+the use of acid-suppressing medications (H2 antagonists or 
+proton pump inhibitors) was associated with an increased risk 
+of hip fracture in a large, general population (Corley et al., 2010). 
+In addition, Madanick (2011) reported that the US Food and 
+Drug Administration has issued alerts mentioning that PPI may 
+increase the rate of osteoporosis-related fractures, as well as 
+decrease the effectiveness of clopidogrel for preventing serious 
+cardiovascular events. Other concerns include increased rates 
+of pneumonia, Clostridium difficile infection, and others. These 
+data reinforce the need for ongoing studies that concern the 
+development of new molecules that promote improvement in 
+patients with gastric ulcer.
+The classical model of gastric ulcer induced by the 
+administration of an ethanol-HCl solution in mice is often 
+used as the initial source for the study of probable substances 
+with gastric mucosal protective properties. It is known 
+that this experimental protocol is capable of reducing the 
+cytoprotection of the gastric mucosa, particularly by reducing 
+the concentration of prostaglandins (PGE2), which facilitates 
+damage by hydrochloric acid, thereby promoting ulcerogenesis 
+(Amandeep et al., 2012).
+The results obtained following the administration of safflower 
+oil (750 mg/kg, p.o.) in the ulcerogenic HCl-ethanol model showed 
+a reduced ulcerogenic lesion index (ILU) (**p < 0.01) in comparison 
+to the negative control group (0.5% CMC) (Fig. 3). 
+of Daphnia similis were exposed to several concentrations of 
+safflower oil diluted in 0.5% CMC for a period of 48 h. Four 
+replicates for each concentration and controls were employed, 
+with five organisms being added to each replicate, giving a 
+total of twenty organisms per test concentration. In order to 
+assess the possible effects of the solvent on the test organisms, 
+the highest CMC concentration used for each experiment was 
+simultaneously tested as the solvent control. At the end of 48 
+h of exposure, immobility and mortality were analyzed and the 
+maximal effective concentration (EC50) was calculated using 
+the Trimmed Spearman-Karber statistical method.
+Results and discussion
+Dispersive Raman spectroscopy was employed for chemical 
+composition analysis of safflower oil, as this analytical 
+methodology allows a rapid and direct analysis without 
+previous preparation of the samples, and with less waste 
+generation when compared with conventional analytical 
+techniques. The Raman spectra (Fig. 1) showed peak 
+intensities at 1265 and 1655 cm-1 attributed to in-plane C-H 
+ethylene deformation and C=C alkyl stretching, respectively, 
+characteristic bands of unsaturated fatty acids, and a band with 
+peak at 1300 cm-1  attributed to in-phase methylene twisting 
+deformation vibration of fatty acids (Baeten et al., 2001). The 
+band at 1442 cm-1 is attributed to C-H deformation of CH2 of 
+lipids. The ratio of peaks at 1265 and 1301 cm-1 and at 1442 and 
+1655 cm-1 also show a strong relationship with double bond 
+content (Baeten et al., 2001; Silveira et al., 2010), which can 
+be used to characterize the level of unsaturation of vegetable 
+oils. Figure 2 shows a mixture of oleic and linoleic acids in 
+a proportion that match the spectral features of these two 
+compounds and the spectra of safflower oil (35% of oleic acid 
+and 65% of linoleic acid). Moreover, the four peaks observed 
+in the Raman spectral region of 800-1000 cm-1 clearly showed 
+the presence of linoleic acid in the safflower oil.
+542 Walber Toma et al. / Rev Bras Farmacogn 24(2014): 538-544
+Treatments (i.d.) Dose (mg/kg) n pH (units) Volume gastric juice (ml) Total gastric acid (m Eq/4 h)
+CMC 0.5 % 10 ml/kg 08 2.8 ± 0.4 1.44 ± 0.17 6.0 ± 0.6
+Lansoprazole 30 08 4.8 ± 0.95*** 0.85 ± 0.18*** 1.5 ± 0.2***
+Safflower oil 187.5 08 4.4 ± 1.2** 1.78 ± 0.26** 2.0 ± 0.25***
+The results are expressed as mean ± SD. ANOVA for pH Units, Volume gastric juice and Total acid gastric with Dunnett’s test: **p < 0.01 and  
+***p < 0.001 compared to the negative control group.
+Table 1
+Effects of safflower oil and lansoprazole administered intraduodenally (i.d.) on the biochemical parameters of gastric juice 
+obtained from pylorus–ligature mice.
+Figure 3 – The activity of antiulcerogenic safflower oil (750 mg/
+kg) after oral administration in the model of gastric lesions 
+induced by administration of HCl-ethanol in mice. Data are 
+expressed as mean ± S.D. ANOVA followed by Dunnet´s test 
+with *p < 0.01 and **p < 0.05.
+Figure 4 – Effects of vehicle, safflower oil and lansoprazole 
+on non-steroidal anti-inflammatory drug (NSAID) – 
+induced gastric ulcers in cholinomimetic-treated mice. 
+Data are expressed as mean ± S.D. ANOVA followed by 
+Dunnett´s test. **p < 0.01; ***p < 0.001 compared to the 
+0.5% CMC Control Group. The horizontal bars indicate 
+comparisons between different pre-treatments (Safflower 
+oil at dose of 187.5 mg/kg and 750 mg/kg), ANOVA followed 
+by Tukey´s test with ns: no significant difference with 
+p > 0.05.
+The results of this experimental protocol served as an 
+important evidence to establish  gastric ulcer induction of 
+cholinomimetic-treated mice with anti-inflammatory drugs 
+(NSAID)-treatment with four different doses (93.75, 187.5, 
+375 and 750 mg/kg, p.o.) of safflower oil. In this protocol the 
+safflower oil at doses of 187.5, 350 and 750 mg/kg demonstrated 
+to significantly reduce damage to the gastric lesions when 
+compared to the respective control. Statistical analyzes also 
+show no significant differences between the doses of 750 
+and 187.5 mg/kg (Fig. 4), a fact crucial to use the dose of 187.5 
+following the pharmacological tests.
+According to Stachowska et al. (2009), unsaturated fatty 
+acids such as linoleic acid can be incorporated into cellular 
+membranes in the form of phospholipids, free fatty acids 
+or cholesterol esters. These are hydrolyzed by the enzyme 
+phospholipase A2, which contributes to the synthesis of 
+eicosanoids such as prostaglandins (PGE2). These PGE2 
+in turn stimulate the secretion of mucus and mucosal 
+bicarbonate, accelerate cell proliferation, enhance mucosal 
+blood flow, and increase sulfhydryl groups in the mucosa, 
+promoting lysosomal stability as well as the formation of 
+mucosal phospholipids (Amandeep et al., 2012). All these 
+cellular events mean that PGE2 are a large endogenous 
+cytoprotective component of the gastric mucosa. We 
+observed in the pylorus ligature protocols significant 
+effects after administration of Safflower oil (187.5 mg/kg, 
+i.d.), such as the increases of pH values (**p < 0.01), gastric 
+juice volume (**p < 0.01) and reduction of total gastric acid 
+(***p < 0.001), when compared to the negative control value 
+group (Table 1). 
+Moreover ,  the  saf f lower  o i l  (187 .5  mg/kg,  i .d . ) 
+administration promotes the increase of mucous (***p < 
+0.001) when compared to the negative control group (Fig. 
+5). Since safflower contains large amounts of linoleic acid, 
+it is therefore hypothesized that this is the cytoprotective 
+mechanism involved in the pharmacological response 
+observed in the pharmacological assays.
+As important as the pharmacological evaluations 
+are, it is also of great importance the evaluation of the 
+toxicological properties of new compounds. Given the 
+positive results obtained following the use of safflower 
+oil in the experimental protocol to induce ulcerogenic 
+lesions, an acute toxicity assay (single dose) was performed 
+to determine the probable toxicological activity of the 
+substance in question, thus providing information about 
+the health risks resulting from short-term exposure through 
+a chosen route. The acute toxicity assay may also provide 
+initial information about the modes of action of a toxic 
+substance (Brito, 1994). In this case, the oral administration 
+of safflower oil at a dose of 5 g/kg (p.o.) did not have any 
+effect on mortality, body weight, water consumption, 
+feeding or excreta volume, when compared to the control 
+group (CMC 0.5%).
+50
+40
+30
+20
+10
+0
+15
+10
+5
+0
+ns
+***
+** ******
+U
+lc
+er
+og
+en
+ie
+ L
+es
+io
+n 
+In
+de
+x
+(U
+LI
+) m
+m
+2
+U
+lc
+er
+og
+en
+ie
+ L
+es
+io
+n 
+In
+de
+x
+(U
+LI
+) m
+m
+2
+CMC 0.5%
+Lansoprazole 30 mg/kg
+CMC 0.5%
+Lansoprazole 30 mg/kg
+*
+**
+ Walber Toma et al. / Rev Bras Farmacogn 24(2014): 538-544 543
+The presence of pharmaceuticals in the environment is 
+now being reported worldwide. New data on the source, fate 
+and effects of pharmaceuticals in the environment seem 
+to indicate the possibility of a negative impact on different 
+ecosystems, and also implies a threat to public health. As a 
+result, data from acute and chronic toxicity tests on species 
+belonging to different trophic levels such as bacteria, algae, 
+crustaceans and fish, among others, are required in order 
+to illustrate the adverse effects of environmental exposure 
+to measured concentrations of these contaminants (Santos 
+et al., 2010). Several drugs are detectable in aquatic systems 
+at concentrations in the order of ng/l up to μg/l, and these 
+values may vary under treatment practice, market basis and 
+prevalence of disease (Isidori et al., 2009).
+Taking into account the potential environmental risk of 
+safflower oil discharges into aquatic environments, a toxicity 
+assay was performed using the freshwater cladoceran Daphnia 
+similis. The EC50 calculated by Trimmed Spearman Karber was 
+223.17 mg/l (confidence limits 180.19 - 276.41) (Fig. 6). 
+The European directive 93/67/EEC on risk assessment for 
+new notified substances classifies the substances according 
+to accurate results of toxicity (values of EC50, IC50), namely, 
+substances with EC50 < 0.1 mg/l are classified as “extremely 
+toxic”; between 0.1 and 1 mg/l are classified as “very toxic”; 
+between 1 and 10 mg/l are classified as “toxic”; between 10 
+and 100 mg/l are classified as “harmful”; and higher than 100 
+mg.l-1 are considered to be “non-toxic” (CEC, 1996). Based on 
+this directive, safflower oil can be classified as a “non-toxic” 
+substance.
+Antiulcerogenic compounds may have environmental 
+toxicity. Ranitidine (an antiulcerogenic, antagonist of H2 
+receptors) is in the top fifteen of prescribed drugs in various 
+European countries (Fent et al., 2006), and the toxicological 
+and eco-toxicological data of ranitidine and its photoproducts 
+are known. Webb (2001), assessed the toxicity of ranitidine on 
+Daphnia magna and reported an EC50 value for ranitidine of 650 
+mg/l. Isidori et al. (2009) showed that ranitidine did not show 
+any acute toxicity at the highest concentration tested (100 
+mg/l) for B. calyciflorus and C. dubia. However, overall ranitidine 
+toxicity could be linked to its photoproducts. In fact, the EC50 
+of the two photoproducts for Brachionus calyciflorus were 0.248 
+and 0.830 mg/l, while for Ceriodaphnia dubia, the EC50 values 
+were 0.007 and 0.510 mg/l (Isidori et al., 2009). 
+Based on the data reported herein, we can conclude 
+that safflower oil shows significant antiulcer activity 
+when administered at a dose of 187.5 mg/kg orally and 
+intraduodenally. Its antiulcerogenic activity may be attributed 
+to the presence of linoleic acid, and the probable mechanism 
+might involve its cytoprotective activity in the gastric mucosa. 
+Likewise, safflower oil at a dose of 5 g/kg had no toxic effects 
+on rodent models and according EC50 obtained from Daphinia 
+similis protocols The European directive 93/67/EEC classified 
+the safflower oil as “non-toxic” substance. We conclude that 
+this study provided important data regarding the biochemical, 
+pharmacological, toxicological and environmental effects of 
+safflower oil.
+Authors’ contributions
+WT, LLG, ARMSB and CDSP designed the study, supervised 
+the laboratory work and contributed to critical reading of 
+the manuscript. WT, LLG and ARMSB contributed in the 
+pharmacological and toxicological assays on rodents. ARS, FSC, 
+FHP, AC and CDSP contributed to the ecotoxicological studies. 
+LSJr and MTTP contributed to the Raman spectral analyses. 
+All the authors have read the final manuscript and approved 
+the submission.
+Conflicts of interest
+The authors declare no conflicts of interest.
+Acknowledgments
+LSJr acknowledges FAPESP for partial financial support (Grant. 
+no. 2009/01788-5).
+Figure 5 – Effects of vehicle, safflower oil and carbenoxolone on 
+adherent gastric mucous after pylorus ligature in rats. Data are 
+expressed as mean ± S.D. ANOVA followed by Dunnett´s test. 
+***p < 0.001 compared to the 0.5% CMC Control Group.
+Figure 6 – Results of acute ecotoxicity assay on Daphnia 
+similis (means and standard deviation). At the end of 48 h of 
+exposure, immobility and mortality were analyzed and the 
+maximal effective concentration (EC50) was calculated using 
+the Trimmed Spearman Karber statistical method.
+544 Walber Toma et al. / Rev Bras Farmacogn 24(2014): 538-544
+R E F E R E N C E S
+ABNT, 2004. Ecotoxicologia aquática: toxicidade aguda - método 
+de ensaio com Daphnia spp (Cladocera, Crustacea). NBR 
+12713, Rio de Janeiro, 21 p.
+Amandeep, K., Robin, S., Ramica, S., Sunil, K., 2012. Peptic ulcer: a 
+review of etiology and pathogenesis. Int. J. Clin. Pharm. 3, 34-38.
+Arakawa, T., Watanabe, T., Tanigawa, T., Tominaga, K., 
+Fujiwara, Y., Morimoto, K., 2012. Quality of ulcer healing 
+in gastrointestinal tract: Its pathophysiology and clinical 
+relevance. World J. Gastroenterol. 18, 4811-4822.
+Bae, C.S., Park, C.H., Cho, H.J., Han, H.J., Kang, S.S., Choi, S.H., 
+Uhm, C.S., 2002. Therapeutic effects of safflower (Carthamus 
+tinctorius L.) seed powder on osteoporosis. Korean J. Electron. 
+Microscopy, 32: 285-290.
+Baeten V, Dardenne P, Aparicio R., 2001. Interpretation of Fourier 
+transform Raman spectra of the unsaponifiable matter in a 
+selection of edible oils. J. Agric. Food Chem. 49, 5098-5107.
+Brito, A.R.M.S., 1994. Manual de ensaios toxicológicos in vivo. 1ª 
+ed., Campinas, Editora Unicamp. 116 p.
+CEC, 1996. Technical guidance document in support of 
+commission directive 93/67/EEC on risk assessment for new 
+notified substances. Part II, environmental risk assessment. 
+Commission of the European Communities, Luxembourg: 
+Office for official publication of the European Communities.
+Corley, D.A., Kubo, A., Zhao, W., Quesenberry, C., 2010. Proton 
+pump inhibitors and histamine-2 receptor antagonists 
+are associated with hip fractures among at-risk patients. 
+Gastroenterol. 139, 93-101.
+Deplege, M., 2011. Pharmaceuticals: Reduce drug waste in the 
+environment. Nature 36, 478.
+Fent, K., Weston, A.A., Caminada D., 2006. Ecotoxicology of 
+human pharmaceuticals. Aquat. Toxicol. 76, 122-159.
+George, P., 2011. Concerns regarding the safety and toxicity of 
+medicinal plants - An overview. J. Appl. Pharm. Sci. 1, 40-44.
+Gilbert, N., 2012. Drug-pollution law all washed up. Nature 491, 
+503-504.
+Isidori, M., Parrella, A., Pistillo, P., Temussi, F., 2009. Effects 
+of ranitidine and its photoderivatives in the aquatic 
+environment. Environ. Intern. 35, 821-825.
+Jain, K.S., Shah, A.K., Bariwal, J., Shelke, S.M., Kale, A.P., Jagtap, 
+J.R., Bhosale, A.V., 2007. Recent advances in proton pump 
+inhibitors and management of acid-peptic disorders. Bioorg. 
+Med. Chem. 15, 1181-1205.
+Kim, S.K., Cha, J.Y., Jeong, S.J., Chung, C.H., Choi, Y.R., Cho, Y.S., 
+2000. Properties of the chemical composition of safflower 
+(Carthamus tinctorius L.) sprout. Korean J. Life Sci. 10, 68-73.
+Madanick, R.D., 2011. Proton pump inhibitor side effects and drug 
+interactions: Much ado about nothing? Cleve. Clin. J. Med. 78, 
+39-49.
+Malfertheiner, P., Chan, F.K.L., Mccoll, K.E.L., 2009. Peptic ulcer 
+disease. Lancet 374, 1449-1461.
+Mizui, T., Doteuchi, M., 1983. Effect of polyamines on acidified 
+ethanol-induced gastric lesion in rats. Jpn. J. Pharmacol. 33, 
+939-945.
+Olfert, D., Cross, B.M., Mcwilliam, A.A., 1993. Guide to the Care 
+and Use of Experimental Animal. Canadian Council on 
+Animal Care, Ontario, p. 213.
+Pintão, A.M., Da Silva, I.F., 2008. A verdade sobre o açafrão. 
+Workshop Plantas Medicinais e Fitoterapêuticas nos 
+Trópicos. IICT /CCCM, 29, 30 e 31 de Outubro, 1-19.
+Rainsford, K.D., 1978. The effects of aspirin and other non-steroid 
+anti-inflammatory/analgesic drugs on gastro-intestinal 
+mucus glycoprotein biosynthesis in vivo: relationship to 
+ulcerogenic actions. Biochem. Pharmacol. 27, 877-885.
+Rudolphi, S., Becker, H.C., Schierholt, A., Witzke-Ehbrecht, S.V., 
+2012. Improved estimation of oil, linoleic and oleic acid and 
+seed hull fractions in safflower by NIRS. J. Am. Oil Chem. Soc. 
+89, 363-369.
+Santos, L.H.L.M., Araújo, A.N., Fachinia, A., Pena, A., Delerue-
+Matos, C., Montenegro, M.C.B.S.M., 2010. Ecotoxicological 
+aspects related to the presence of pharmaceuticals in the 
+aquatic environment. J. Hazard Mater. 175, 45-95.
+Saraf, A., Saraf,  S., 2012. Legal regulations of complementary and 
+alternative medicines in different countries. Pharmacogn. 
+Rev. 6, 154-160.
+Shay, H., Komarov, S.A., Fels, S.S., Meranze, D., Gruenstein, M., 
+Siplet, H. 1945. A simple method for the uniform production 
+of gastric ulceration in the rat. Gastroenterol. 5, 43-61.
+Silveira, F.L., Silveira Jr., L., Villaverde, A.B., Pacheco, MT.T., 
+Pasqualucci, C.A., 2010. Use of dispersive Raman 
+Spectroscopy in the determination of unsaturated fat in 
+commercial edible oil- and fat-containing industrialized 
+foods. Instrum. Sci. Technol. 38, 107-123.
+Silveira, L., Silveira, F.L., Bodanese, B., Zângaro, R.A., Pacheco, 
+M.T.T., 2012. Discriminating model for diagnosis of basal 
+cell carcinoma and melanoma in vitro based on the Raman 
+spectra of selected biochemicals. J. Biomed. Opt. 17, 077003.
+Stachowska, E., Dolegowska, B., Dziedziejk, V., Rybicka, M., 
+Kaczmarczyh, M., Bober, J., Rac, M., Machalinski, B., Chlubek, 
+D., 2009. Prostaglandin E2 (PGE2) and thromboxane A2 (TXA2) 
+synthesis is regulated by conjugate linoleic acids (CLA) in 
+human macrophages. J. Physiol. Pharmacol. 60, 77-85.
+Sun, X.B., Matsumoto, T., Yamada, H., 1991. Effects of a 
+polysaccharide fraction from the root of Bupleurum falcatum 
+L. on experimental gastric ulcer models in rats and mice. J. 
+Pharm. Pharmacol., 43, 669-704.
+Szelenyi, I., Thiemer, K., 1978. Distention ulcer as a model for testing 
+of drugs for ulcerogenic side effects. Arch. Toxicol. 41, 99-105.
+Takeuchi, H., Matsuo, T., Tokuyama, K., Shimomura, Y., Suzuki, 
+M., 1995. Diet-induced thermogenesis is lower in rats fed a 
+lard diet than in those fed a high oleic acid safflower oil diet, 
+a safflower oil diet or a linseed oil diet. J. Nutr. 125, 920-925.
+US EPA, 2002. Methods for Measuring the Acute Toxicity of Effluents 
+and Receiving Waters to Freshwater and Marine Organisms. 5th 
+ed. United States Environmental Protection Agency, EPA-
+821-R-02-012. 266 p.
+Webb, S., 2001. A data-based perspective on the environmental 
+risk assessment of human pharmaceuticals I. collation 
+of available ecotoxicity data and II. aquatic risk 
+characterisation. In: Kümmerer K editor. Pharmaceuticals 
+in the environment sources, fate, effects and risks. 1st ed. 
+Heidelberg, Germany: Springer-Verlag p. 175-230.
+WHO, 1997. Adverse Drug Reaction Database. World Health 
+Organization, Uppsala Sweden. 36. Institute of Safe Medication 
+Practices Medication Safety Alert. June 4, V 01.2 No. ll.
+WHO, 2002. Monographs on the Evaluation of Carcinogenic Risks 
+to Humans. (Some Traditional Herbal Medicines), World 
+Health Organization Vol. 82, IARC Press Lyon, France.
+Zapata-Colindres, J.C., Zepeda-Gomez, S., Montano-Loza, A., 
+Jesus-Villalobos, J.E., Valdovinos-Andraca, F., 2006. The 
+association of Helicobacter pylori infection and nonsteroidal 
+anti-inflammatory drugs in peptic ulcer disease. Can. J. 
+Gastroenterol. 20, 277-280.

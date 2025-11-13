@@ -1,0 +1,733 @@
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  ISSN 1981-3163 
+ 
+1 
+ 
+ 
+ 
+Thanyarat NAKSING1 , Jantima TEEKA2 , Wutti RATTANAVICHAI3 ,  
+Prapaporn PONGTHAI2 , Dolnapa KAEWPA2 , Atsadawut AREESIRISUK2  
+ 
+1 Postgraduate program in Applied Biology, Division of Biology, Faculty of Science and Technology, Rajamangala University of Technology 
+Thanyaburi, Khlong Luang, Pathum Thani, Thailand. 
+2 Division of Biology, Faculty of Science and Technology, Rajamangala University of Technology Thanyaburi, Khlong Luang, Pathum Thani, 
+Thailand. 
+3 Department of Fisheries Technology, Faculty of Agricultural Technology, Kalasin University, Mueang Kalasin, Kalasin, Thailand. 
+ 
+Corresponding author: 
+Atsadawut Areesirisuk 
+Email: atsadawut_a@rmutt.ac.th 
+ 
+How to cite: NAKSING, T., et al. Determination of bioactive compounds, antimicrobial activity, and the phytochemistry of the organic banana 
+peel in Thailand. Bioscience Journal. 2021, 37, e37024. https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+Abstract 
+Banana fruit is enriched with phytonutrients, minerals, and its peel, which is mostly discarded as waste. This 
+research aimed to study its bioactive compound properties, antimicrobial activity, and identify and 
+characterize the constituents of organic banana peel extract (BPE), composed of six species (i.e., Kluai 
+Homthong, Kluai Namwa, Kluai Kai, Kluai Hukmook, Kluai Lebmuernang, and Kluai Homtaiwan). Total 
+phenolic content (TPC), antioxidant content, and ferric-reducing antioxidant power (FRAP) were important 
+in BPE of Kluai Kai. BPE of Kluai Hukmook could inhibit Aeromonas hydrophila and Staphylococcus aureus. 
+The Fourier-transform infrared spectroscopy (FTIR) spectrum exposed diverse compounds of primary and 
+secondary phytochemicals. Four main constituents, including acetic acid, formic acid, 1,2-benzenediol,3-
+methyl-, and 4-hydroxy-2-methylacetophone derived from gas chromatography-mass spectroscopy (GC-
+MS), demonstrated their antioxidant properties and antimicrobial activity. This result suggests that organic 
+banana peel can both be applied as an antioxidant and antimicrobial substance. BPE increases the value of 
+banana peels (BPs) and reduces the burden of its waste disposal in the environment. 
+ 
+Keywords: Antioxidant. Antimicrobial Activity. Banana Peel Extract. Gas Chromatography-Mass 
+Spectrometry (GC-MS). Phytochemical Components. 
+ 
+1. Introduction 
+Presently, the natural compound from herbs and plants are widely used as growth-stimulating 
+compounds, antimicrobial substances, and nutrients (Sulaiman et al. 2011). They are enriched in bioactive 
+compounds that include fiber and phenolic compounds, which are related to antioxidant capacity. They are 
+better than synthetic antibiotics in treating infectious disease, as they limit many of the adverse effects. 
+Moreover, the plant extract is used as an additive in animal feed, which may provide an inexpensive agent 
+in aquaculture, promoting survival rate, stimulating immunity, and offering greater reliability than 
+chemotherapeutic agents. However, the side-effects and consumed doses of plant extract should be 
+considered before utilization. 
+Banana, belonging to the family Musaceae, is a very prevalent fruit around the world, and is eaten in 
+many regions as a staple food (Singh et al. 2016). It is grown extensively and comprises the fifth largest 
+agricultural food crop in terms of world trade, ranking alongside rice, wheat, and maize. It is a rich source of 
+DETERMINATION OF BIOACTIVE COMPOUNDS, 
+ANTIMICROBIAL ACTIVITY, AND THE PHYTOCHEMISTRY OF 
+THE ORGANIC BANANA PEEL IN THAILAND 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+2 
+Determination of bioactive compounds, antimicrobial activity, and the phytochemistry of the organic banana peel in Thailand 
+significant phytonutrients, including vitamins and phenolic compounds. It is also notably enriched with 
+minerals such as sodium phosphorus, magnesium, potassium, calcium, iron, copper, zinc, and manganese. It 
+contains many bioactive components, such as phenolic, carotenoids, biogenic amines, and phytosterols, 
+which are highly beneficial in the diet, as they have positive effects on human health and well-being (Singh 
+et al. 2016). In the past, banana was effectively used in the treatment of various diseases, such as reducing 
+the risk of chronic degenerative disorders. Phenolic compounds, secondary metabolites in banana, are 
+known for their antioxidant properties in protecting the body against various oxidative stress (Amri and 
+Hossain 2018). Total phenolic aspects of a banana are reported to be more abundant in the peel, consistent 
+with its antioxidant activity. The banana peel (BP) is the major by-product obtained during banana 
+processing. BP is a good source of polyphenol, carotenoids, and other bioactive compounds which process 
+its beneficial effects on human health. Different components have antimicrobial, antioxidant, anti-
+inflammatory, and anticancer activities. BP contains high levels of phytochemical compounds, mainly 
+antioxidants. Phenolic compounds in BP (Musa acuminata Colla AAA) range from 0.90 to 3.0 g/100 g dry 
+weight (Singh et al. 2016). The antioxidant capacity of banana is increased during flesh maturity, with a 
+higher capacity than some berries, herbs, and vegetables (Ummarat et al. 2011). In the banana processing 
+industry, significant quantities of BP, equivalent to 40% of the total weight of a fresh banana, are generated 
+as waste up to 0.3 million tons (MT) per year, posing a disposal problem (Housagul et al. 2014).  
+In the present study, BP varieties were extracted with 50% methanol. Bioactive compounds of BPE 
+were analyzed by the DPPH and FRAP methods. Aeromonas hydrophila, Staphylococcus aureus, and Vibrio 
+parahaemolyticus were used as indicators for antimicrobial activity determination. Phytochemicals 
+contained in BPE were examined by Fourier-transform infrared spectroscopy (FTIR) and gas 
+chromatography-mass spectrometry (GC-MS). 
+ 
+2. Material and Methods 
+Location of organic banana farm and harvesting 
+The organic banana was cultured with a process as well as farming at Fungkajorn Garden Organic 
+Farm, Nong Suea, Pathum Thani Province, Thailand, at GPS: 14°10'12.6"N 100°48'00.4"E. 
+ 
+Preparation of banana peel 
+The six most common banana strains found in Thailand include: Kluai Kai, Kluai Homthong, Kluai 
+Homtaiwan, Kluai Lebmuernang, Kluai Hukmook, and Kluai Namwa, were collected in the raw stage. The raw 
+banana was matured in a plastic box until the peel color index (PCI) reached a level of 7, yellow with brown 
+speckles (Soltani et al. 2010). Matured banana fruits were cleaned with tap water, rinsed twice to remove 
+dust, and other extraneous materials adhering to them, and soaked in soda water for 5 min (Rattanavichai 
+and Cheng 2014). The washed BP was separated, cut into small pieces, and dried in hot-air oven at 50°C until 
+moisture content decreased to approximately 10%. The dried BP was ground into a powder with an 
+electronic grinder and stored at 4°C for further experiments. 
+ 
+Extraction of banana peel 
+Ten grams of dried BP powder was added to 100 mL of 50%v/v methanol. The mixture was extracted 
+in a water bath at 55°C for 120 min and continuously stirred. The mixture was left and precipitated at room 
+temperature. The sample was centrifuged to collect the supernatant at 5,000 rpm for 20 min. The methanol 
+portion in obtained supernatant was removed with a vacuum rotary evaporator until completely 
+evaporated. The sticky crude extracted was collected from the extraction bottle by redissolved with H2O and 
+kept at -20°C for the next experiments. 
+  
+Bioactive compound properties assay 
+The amount of total phenolic content in crude BPE was measured by modifying the method of 
+Singleton and Rossi (Singleton and  Rossi 1965). The antioxidant activity was determined by the DPPH 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+ 
+3 
+NAKSING, T., et al. 
+method according to Blios (1958). The ferric-reducing antioxidant power (FRAP) was evaluated following 
+the method of Benzie and Strain (Benzie and Strain 1996). 
+ 
+Antimicrobial activity 
+Antimicrobial activity of crude BPE was analyzed by the disc diffusion method (Rattanavichai and 
+Cheng 2014) in the following pathogens: A. hydrophila, S. aureus and V. parahaemolyticus. The pathogen 
+was spread on nutrient agar (NA). The sterilized paper disc was soaked in BPE and placed on the NA plate, 
+smeared with a pathogen. The water and methanol were utilized as controls and incubated at 37°C for 24 
+h. The antimicrobial activity of BPE will be shown by clear zone and reported as positive (+) or negative (-) 
+results. 
+ 
+Phytochemical analysis: FTIR 
+The FTIR (iD7ATR Thermo Scientific, Waltham, MA, USA) was used to specify the functional groups of 
+phytochemicals of different crude BPE. The translucent sample discs were prepared by mixing 10 mg KBr salt 
+and 1 mg freeze-dried powder of different extracts of plant material. The mixtures were packed in a FTIR 
+spectroscopy  (Shimadzu Corp., Kyoto, Japan)  (4 cm-1 resolution) with a frequency  range of 4,000 to 400 
+cm-1. 
+ 
+Phytochemical analysis: GC-MS 
+The phytochemical components were detected by gas chromatography-mass spectroscopy (GC-MS) 
+(GC-MSQP2010 SE, Shimadzu Corp., Kyoto, Japan). The chromatography column was DB-5MS (30 m x 0.25 
+mm i.d., 0.25 µm film thickness). The injector temperature was operated at 220°C. The oven temperature 
+was programmed at 45°C, held for 5 min, increased to 60°C at 2°C/min, increased to 220°C at 3°C/min, and 
+held for 10 min. The carrier gas was helium and analyzed by mass spectrometry (MS). 
+ 
+Statistical analysis 
+The results were presented as the mean and standard deviation (SD) of triplicate experiments. 
+Significant differences were determined by one-way analysis of variances (ANOVA) and by comparing the 
+experiment by Duncan's Multiple Range Test (DMR) at α < 0.05 and performed by SPSS v. 15.0 (IBM, Armonk, 
+NY, USA). 
+ 
+3. Results and Discussion 
+Extraction of BP 
+The characteristics of fresh, hot air-dried, and powdered BP were illustrated in figures 1A-1C. The 
+color of fresh BP changed from yellow to black and brown after hot air-drying, and powdering processes, 
+respectively. Table 1 indicates the weight of BP before and after hot air-drying in the oven at 50°C for 48 h. 
+The moisture content of dried BP ranged from 5.2 to 7.3% (wet basis), which depended on the thickness of 
+each type. The moisture decreased from the surface of samples through capillary action. The unbound water 
+was transported from the surface via material capillaries (Rahman et al. 2015). Next, the BP powder was 
+extracted by 50% v/v of methanol. Results showed that the maximum extraction, for 3.50 g /10 g DM, yield 
+was obtained from the BP of Kluai Homthong.  
+ 
+ 
+ 
+ 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+4 
+Determination of bioactive compounds, antimicrobial activity, and the phytochemistry of the organic banana peel in Thailand 
+ 
+Figure 1. The characteristics of: A – fresh BP; B – hot air-dried BP; and C – powdered BP. 
+ 
+Table 1. The weight of BP, moisture content, and extraction yield. 
+Type of banana 
+Weight (g) Moisture content 
+(%) 
+Extraction yield 
+(g/10 g DM) Fresh peel Dry peel 
+Kluai Kai 1,035.72 228.40 6.98 2.05bc 
+Kluai Homthong 2,756.71 506.53 5.29 3.50a 
+Kluai Homtaiwan 3,736.36 111.08 6.91 1.73cd 
+Kluai Lebmuernang 1,027.68 120.21 4.99 2.09b 
+Kluai Hukmook 5,902.21 615.22 7.30 1.49de 
+Kluai Namwa 1,418.13 179.04 7.31 1.32e 
+The letters are significantly different at α ≤ 0.05. 
+ 
+Antioxidant assay of BPE: Total phenolic content (TPC) 
+The TPC of obtained crude BPE is presented in figure 2A. The results showed that Kluai Kai provided 
+the highest TPC of 7.82 ± 0.64 mg GAE/g DM, followed by Kluai Homthong, Kluai Homtaiwan, Kluai 
+Lebmuernang, and Kluai Hukmook (5.58 ± 0.60, 3.42 ± 0.50, 2.47 ± 0.05 and 2.12 ± 0.07 mg GAE/g DM), 
+respectively, while Kluai Namwa gave the lowest TPC of 1.38 ± 0.31 mg GAE/g DM. These results 
+demonstrated that the TPC depended on the type of banana. González-Montelongo et al. (2010) measured 
+the total phenolic content of BPE, extracted by 50%v/v of methanol at 55°C for 120 min. Two different 
+varieties, Gruesa and Grande Naine (M. acuminata Colla AAA) provided the TPC of 16.0 and 17.0 mg GAE/g 
+DM, respectively. This result suggests that the quantity and quality of phenolic compounds from plants are 
+influenced by geographical origin, plant genetics, cultivar, soil composition, growing conditions, state of 
+maturity, post-harvest processing, drying, and extraction methods (Jeffery et al. 2003; Mallavadhani et al. 
+2006). 
+ 
+Antioxidant assay of BPE: Antioxidant content 
+The amount of antioxidant content was measured by the DPPH radical method, according to Blios 
+(1958). The maximum amount of antioxidant content of BPE was detected in Kluai Kai (7.15 ± 1.30 mg TE/g 
+DM), followed by Kluai Homthong, Kluai Homtaiwan, Kluai Namwa, and Kluai Lebmuernang (5.52 ± 0.05, 
+1.94 ± 0.17, 1.22 ± 0.24, and 1.02 ± 0.12 mg TE/g DM), respectively (Figure 2B), while the minimum 
+antioxidant content was seen in Kluai Hukmook (0.97 ± 0.07 mg TE/g DM). The antioxidant content of BPE in 
+this study was lower than that of Gruesa and Grande Naine (9.4 and 8.8 mg TE/g DM, respectively) due to 
+the difference in species and extraction method (González-Montelongo et al. 2010). The antioxidant 
+compounds were widely known to prevent or inhibit the oxidative reduction in the human body. Moreover, 
+antioxidants can retard aging, prevent coronary heart disease, cancer, and neurodegenerative disorders 
+related to oxidative stress, caused by reactive oxygen species (ROS) (Singh et al. 2016). Polyphenols are 
+antioxidant compounds in a plant’s innate defense system; the antioxidant content is synthesized under 
+stress conditions, such as temperature alterations, UV exposure, and pathogenic attacks (Dixon and Paiva 
+1995).  
+ 
+ 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+ 
+5 
+NAKSING, T., et al. 
+Antioxidant assay of BPE: Ferric reducing antioxidant power (FRAP) 
+Figure 2C presents the amount of FRAP of BPE, analyzed with the method used by Benzie and Strain 
+(1996). The maximum FRAP was found in BPE of Kluai Kai for 2.74 ± 0.13 mg GAE/g DM, followed by Kluai 
+Homthong and Kluai Homtaiwan. However, the FRAP of Kluai Lebmuernang, Kluai Hukmook, and Kluai 
+Namwa was not significantly different. Moreover, the FRAP of BPE allows reductants to be electron donors, 
+which is able to convert them into more stable constituents and terminate the free radical reaction (Aboul 
+et al. 2016). 
+ 
+ 
+Figure 2. A – total phenolic content; B – antioxidant content; C – ferric reducing antioxidant power of BPE. 
+Mean values with different superscripts (a, b, c, d, and e) made a significant difference (α < 0.05) with the 
+error bar ± SD. 
+ 
+Antimicrobial activity 
+Three pathogens of aquatic animals were chosen to indicate the antimicrobial activity in this study. 
+The nhibition zone of a pathogen by BPE is presented in table 2. The results demonstrated that A. hydrophila 
+was inhibited by all BPE except that of Kluai Kai. In addition, the BPE of Kluai Hukmook could also inhibit S. 
+aureus, while V. parahaemolyticus could not be inhibited by any BPE. It has been suggested that the 
+antimicrobial activity of BPE is related to the type of banana. The previous study reported on the 
+antibacterial activity of BP (Musa, AAA cv. Cavendish), which shows that the BP used ethyl acetate to extract 
+the inhibited Bacillus subtilis, Bacillus cereus, Salmonella enteritidis, Escherichia coli, and S. aureus (Mokbel 
+and Hashinaga 2005). Normally, plant extracts have antioxidant and antibacterial properties. The hydroxyl 
+group of the phenolic compound can have an inhibitory effect on target bacteria. Gram-negative bacteria 
+are more sensitive than gram-positive bacteria, with differences in their cell wall structures. The gram-
+positive bacteria have a thick multilayer peptidoglycan cell wall, which is an obstacle to environmental 
+materials, including natural matter and antibiotics. In contrast, the cells of gram-negative bacteria have 
+single peptidoglycan in the outer layer. As such, gram-negative bacteria have a penetrability barrier lower 
+than gram-positive bacteria (Saleem and Saeed 2020). 
+Types of banana
+ Kai
+Hom
+thon
+g
+ Hom
+taiw
+an
+ Leb
+mue
+rnan
+g
+ Huk
+moo
+k
+Nam
+wa
+To
+ta
+l p
+h
+en
+o
+lic
+ c
+o
+n
+te
+n
+t 
+(m
+g 
+G
+A
+E/
+g 
+D
+M
+)
+0
+2
+4
+6
+8
+10
+Type of  babana
+ Kai
+Hom
+thon
+g
+ Hom
+taiw
+an
+ Leb
+mue
+rnan
+g
+ Huk
+moo
+k
+Nam
+wa
+A
+n
+ti
+o
+xi
+d
+an
+t 
+co
+n
+te
+n
+t 
+(m
+g 
+TE
+/g
+ D
+M
+)
+0
+2
+4
+6
+8
+10
+Types of banana
+ Kai
+Hom
+thon
+g
+ Hom
+taiw
+an
+ Leb
+mue
+rnan
+g
+ Huk
+moo
+k
+Nam
+wa
+Fe
+rr
+ic
+ r
+ed
+u
+ci
+n
+g 
+an
+ti
+o
+xi
+d
+an
+t 
+p
+o
+w
+er
+ 
+(m
+g 
+G
+A
+E/
+g 
+D
+M
+)
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+a
+b
+c
+c c
+c
+A
+f
+e
+d
+c
+b
+a B
+C
+a
+dd
+c
+b
+d
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+6 
+Determination of bioactive compounds, antimicrobial activity, and the phytochemistry of the organic banana peel in Thailand 
+Furthermore, gram-negative bacteria have a low resistance to physical disruption due to a weak cell 
+wall structure. In a previous study, the extract of pomegranate peels, yellow lemon peels, orange peels, and 
+banana peel containing phenolic compounds was responsible for excellent antimicrobial activities (Al-zoreky 
+2009; Mehrotra et al. 2017; Saleem and Saeed 2020). However, the modification of outer membrane 
+permeability and porin mutation increases the resistance ability in gram-negative bacteria. On the other 
+hand, this important layer is absent in gram-positive bacteria. Thereby, gram-negative bacteria can be more 
+resistant to antibiotics and cause health problems than gram-positive ones (Breijyeh et al. 2020). 
+ 
+Table 2. The antimicrobial inhibition of BPE. 
+Type of banana 
+Pathogen inhibition 
+A. hydrophila S. aureus V. parahaemolyticus 
+Kluai Kai Negative Negative Negative 
+Kluai Homthong Positive Negative Negative 
+Kluai Homtaiwan Positive Negative Negative 
+Kluai Lebmuernang Positive Negative Negative 
+Kluai Hukmook Positive Positive Negative 
+Kluai Namwa Positive Negative Negative 
+ 
+Phytochemicals in BPE: FTIR analysis 
+FTIR measurements were taken to identify the major functional groups of the BPE. The infrared 
+spectra of Kluai Kai, Kluai Homthong, Kluai Homtaiwan, Kluai Lebmuernang, Kluai Hukmook, and Kluai 
+Namwa were similar to each other, conveying that they contained similar functional groups (Figure 3 and 
+Table 3). The strong peaks, at frequencies between 3,328 and 3,344 cm-1, were assigned to O–H stretching, 
+which represents the free hydroxyl group of the polymer: lignins and BP pectins (Deshmukh et al. 2017), 
+phenols,  González-Cabrera et al. 2018) and polysaccharides (Nogales et al. 2017). At these frequencies, it 
+was attributed to the presence of O–H stretching of a carboxylic group from the two main constituents of 
+GC-MS: acetic acid and formic acid. The distinctive peak at around 1,636 cm-1 was assigned to the stretching 
+C=C ring and the COO- antisymmetric stretching of aromatic and carboxylate ions, ( González-Cabrera et al. 
+2018) and amides’ C=C stretching present in phytoconstituents of BPE (Thomas and Johney 2017). 
+Gnanasambandam and Proctor (2000) found the stronger bands between 1,640 and 1,620 cm-1 to be an 
+important region that identified and quantified pectin samples. The prominent peak of ester linkage of the 
+carboxylic group from lignin or hemicellulose appears at around 1,730 cm-1, normally found in BPE; this 
+disappeared, which might be due to the chemical treatment of BPs (Alemdar and Sain 2008). The weak 
+absorption band between 1,395 to 1,412 cm-1 was characteristic of C=C in aromatic rings and COO- 
+symmetric stretching of carboxylate ions (Kamsonlian et al. 2011;  González-Cabrera et al. 2018; 
+Gnanasambandam and Proctor 2000). The IR spectrum of BPE of Kluai Kai, Kluai Homthong, and Kluai 
+Lebmuernang exhibited C-O stretching and C-C stretching between 1,058 to 1,061 cm-1, indicating the 
+existence of cellulose and phenol ( González-Cabrera et al. 2018; Patial et al. 2019). Lu et al. (2011) specified 
+the wavenumber between 950 and 1,200 cm-1 as the main functional group of carbohydrates, whereas 
+Khamsucharit et al. (2018) found that the pectin of BP was the “fingerprint” region between 800 to 1,300 
+cm-1.  The FTIR absorption peak of six BPE indicates the existence of functional groups, like hydroxyl and 
+carboxyl, in agreement with BPE of other studies (Memon et al. 2009; Alejandra et al. 2015; El-nafaty et al. 
+2013; Thomas and Johney 2017).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+ 
+7 
+NAKSING, T., et al. 
+Table 3. Phytochemistry of BPE as analyzed by FTIR and GC-MS. 
+Type of banana Functional groupa 
+Phytochemicalb,c 
+Area 
+(%) 
+Biological activities 
+Common name IUPAC 
+Kluai Kai OH stretching Ethanoic acid Acetic acid 43.61 Antimicrobial and 
+preservative in food 
+(C=C) stretching 
+and (N-H) bending 
+Methanoic acid Formic acid 3.57 Antibacterial agent in 
+livestock feed and 
+retain the nutritive 
+value longer 
+ COO-symmetric 
+stretching and CHC 
+bending 
+    
+ Alcohol C-O 
+stretching, C-C 
+stretching and  C-N 
+stretching 
+    
+Kluai Homthong OH stretching Ethanoic acid Acetic acid 49.94 Antimicrobial and 
+preservative in food 
+(C=C) stretching 
+and (N-H) bending 
+Methanoic acid Formic acid 7.73 Antibacterial agent in 
+livestock feed and 
+retain the nutritive 
+value longer 
+COO-symmetric 
+stretching and CHC 
+bending 
+ 
+3-methylcatechol 1,2- benzenediol,3-
+methyl- 
+1.28 Degrade nitroaromatic 
+compound and 
+antioxidant 
+ Alcohol C-O 
+stretching, C-C 
+stretching and  C-N 
+stretching 
+    
+Kluai Homtaiwan OH stretching Ethanoic acid Acetic acid 38.78 Antimicrobial and 
+preservative in food  
+ (C=C) stretching 
+and (N-H) bending 
+    
+ COO-symmetric 
+stretching and CHC 
+bending 
+    
+Kluai 
+Lebmuernang 
+OH stretching Ethanoic acid Acetic acid 48.25 Antimicrobial and 
+preservative in food 
+(C=C) stretching 
+and (N-H) bending 
+3-methylcatechol 1,2- benzenediol,3-
+methyl- 
+1.00 Degrade nitroaromatic 
+compound and 
+antioxidant 
+ COO-symmetric 
+stretching and CHC 
+bending 
+    
+ Alcohol C-O 
+stretching, C-C 
+stretching and  C-N 
+stretching 
+    
+Kluai Hukmook OH stretching Ethanoic acid Acetic acid 5.66 Antimicrobial and 
+preservative in food  
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+8 
+Determination of bioactive compounds, antimicrobial activity, and the phytochemistry of the organic banana peel in Thailand 
+Type of banana Functional groupa 
+Phytochemicalb,c 
+Area 
+(%) 
+Biological activities 
+Common name IUPAC 
+(C=C) stretching 
+and (N-H) bending 
+2-methyl-5-(1-
+methylethyl) phenol 
+4-hydroxy-2-
+methylacetophone 
+3.79 Inhibit the growth of 
+several bacterial strains, 
+antiseptic, antibacterial, 
+and antifungal agent 
+ C-C aromatic, 
+Asymmetric bend 
+methyl   (C-H) and 
+CH2 scissoring 
+    
+Kluai Namwa OH stretching Ethanoic acid Acetic acid 25.64 Antimicrobial and 
+preservative in food  
+ (C=C) stretching 
+and (N-H) bending 
+    
+ C-C aromatic, 
+Asymmetric bend 
+methyl   (C-H) and 
+CH2 scissoring 
+    
+aFTIR, bGC-MS, and conly phytochemical constituents present biological activities were reported.  
+ 
+Phytochemicals in BPE: GC-MS analysis 
+GC-MS was used to investigate the phytochemical composition in crude BPE of six banana types. The 
+results of numerous BPE by GC-MS contained 1 to 3 main chemical constituents. The different components 
+of BPE would be affected by the species of banana and cultivation conditions, maturity, and extraction 
+method (Vu et al. 2018). The main constituents were identified from the data of various BPE and shown in 
+table 3 and figure 4. The major compounds were acetic acid, formic acid, 1,2-benzenediol,3-methyl-, and 4-
+hydroxy-2-methylacetophone. These major compounds have various biological activities, such as 
+antibacterial, antifungal, and antioxidant properties. The acetic acid, formic acid, and 4-hydroxy-2-
+methylacetophone were the antibacterial and antifungal properties (Fraise et al. 2013; Cheremisinoff and 
+Rosenfeld 2010; Mordi et al. 2016). The 4-hydroxy-2-methylacetophone in Musa acuminata Colla 
+demonstrated the inhibition on several bacterial strains: Bacillus spp., Staphylococcus aureus, Pseudomonas 
+spp., E. coli, Streptococcus spp., Klebsiella spp., and Proteus spp. (Mordi et al. 2016). Acetic acid was shown 
+to have good antibacterial activity against microorganisms, while formic acid functioned as an important 
+intermediate in chemical synthesis, and an antibacterial and preservative agent in livestock feed. The 1,2- 
+benzenediol,3-methyl- is one of the phenolic compounds in the flavan-3-ol group, which also has antioxidant 
+activity (Fraise et al. 2013; Cheremisinoff and Rosenfeld 2010).  
+ 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+ 
+9 
+NAKSING, T., et al. 
+ 
+Figure 3. FTIR-Spectrum of different crude BPE of: A – Kluai Kai; B – Kluai Homthong; C – Kluai Homtaiwan; 
+D – Kluai Lebmuernang; E – Kluai Hukmook; F – Kluai Namwa. 
+ 
+ 
+Figure 4. Structure of compounds identified from BP extracts of GC-MS. A – acetic acid; B – formic acid; C – 
+1,2-benzenediol,3-methyl-; D – 4-hydroxy-2-methylacetophone. 
+ 
+4. Conclusions 
+In summary, the present study exposed bioactive compound properties and identified the 
+phytochemical aspect of the most popular banana from a local organic farm in Thailand. BPE showed a 
+difference in TPC, antioxidant activity, and FRAP. Moreover, antimicrobial activity was affected by the type 
+of banana. The acetic acid, formic acid, 1,2-benzenediol,3-methyl-, and 4-hydroxy-2-methylacetophone 
+were phytochemicals found in BPE and represent antioxidant activity and antimicrobial activity. There is the 
+possibility of applying BPE to supplement animal and aquatic feed to improve growth and immunity. 
+ 
+ 
+ 
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+10 
+Determination of bioactive compounds, antimicrobial activity, and the phytochemistry of the organic banana peel in Thailand 
+Authors' Contributions: NAKSING, T.: conception and design, acquisition of data, interpretation of data, drafting the manuscript; TEEKA, J.: 
+conception and design, interpretation of data; RATTANAVICHAI, W.: conception and design, interpretation of data; PONGTHAI, P.: interpretation 
+of data; KAEWPA, D.: interpretation of data; AREESISIRUK, A.: conception and design, acquisition of data, analysis and interpretation of data, 
+drafting the manuscript. All authors have read and approved the final version of the manuscript. 
+ 
+Conflicts of Interest: The authors declare no conflicts of interest. 
+ 
+Ethics Approval: Not applicable. 
+ 
+Acknowledgments: This study was fully supported by grants from the Rajamangala University of Technology Thanyaburi (RMUTT) Research 
+Foundation Scholarship 2019, Finance Code DRF 04066206. We would like to thank the research team of the Bioprocess Engineering Laboratory 
+in the Division of Biology, Faculty of Science and Technology (RMUTT, Thailand), for their invaluable assistance. We also thank Assistant Prof. Dr. 
+Voranuch Thongpool (Division of Applied Physics, Faculty of Science and Technology, RMUTT), for providing the FTIR. 
+ 
+References 
+ABOUL-ENEIN, A.M.S., et al. Identification of phenolic compounds from banana peel (Musa paradaisica L.) as antioxidant and antimicrobial 
+agents. Journal of Chemical and Pharmaceutical Research. 2016, 8(4), 46–55. 
+ALEJANDRA, G.C., et al. An integrated analysis of the Musa paradisiaca peel, using UHPLC-ESI, FTIR and confocal microscopy techniques. 
+Annals of Chromatography and Separation Techniques. 2015, 1(1), 1–5. https://doi.org/10.36876/acst.1005  
+ALEMDAR, A. and SAIN, M. Isolation and characterization of nanofibers from agricultural residues – wheat straw and soy hulls. Bioresource 
+Technology. 2008, 99(6), 1664–1671. https://doi.org/10.1016/j.biortech.2007.04.029  
+AL-ZOREKY, N.S. Antimicrobial activity of pomegranate (Punica granatum L.) fruit peels. International Journal of Food Microbiology. 2009, 
+132(3), 244-248. https://doi.org/10.1016/j.ijfoodmicro.2009.07.002  
+AMRI, F.S.A. and HOSSAIN, M.A. Comparison of total phenols, flavonoids and antioxidant potential of local and imported ripe bananas. 
+Egyptian Journal of Basic and Applied Sciences. 2018, 5(4), 245-251. https://doi.org/10.1016/j.ejbas.2018.09.002  
+BENZIE, I.F.F. and STRAIN, J.J. The ferric reducing ability of plasma (FRAP) as a measure of “antioxidant power”: The FRAP assay. Analytical 
+Biochemistry. 1996, 239(1), 70–76. https://doi.org/10.1006/abio.1996.0292  
+BLIOS, M.S. 1958. Antioxidant determination by the use of a stable free radical. Nature. 1958, 26, 1199−1200. 
+BREIJYEH, Z., JUBEH, B. and KARAMAN, R. Resistance of gram-negative bacteria to current antibacterial agents and approaches to resolve it. 
+Molecules. 2020, 25(6), 1-23. https://doi.org/10.3390/molecules25061340  
+CHEREMISINOFF, N.P. and ROSENFELD, P.E. Sources of air emissions from pulp and paper mills. In: N.P. Cheremisinoff and P.E. Rosenfeld, eds. 
+Handbook of Pollution Prevention and Cleaner Production. Oxford: William Andrew Publishing, pp. 179–259. 
+DESHMUKH, P.D., et al. Cadmium removal from aqueous solutions using dried banana peels as an adsorbent: kinetics and equilibrium 
+modeling. Journal of Bioremediation & Biodegradation. 2017, 8(3), 1-7. https://doi.org/10.4172/2155-6199.1000395  
+DIXON, R. A. and PAIVA, N. L. Stress-induced phenylpropanoid metabolism. The Plant Cell. 1995, 7, 1085–1097. 
+https://doi.org/10.1105/tpc.7.7.1085  
+EL-NAFATY, U.A., MUHAMMAD, I.M. and ABDULSALAM, S. Biosorption and kinetic studies on oil removal from produced water using banana 
+peel. Civil and Environmental Research. 2013, 3(7), 125-136. https://doi.org/10.1016/j.ejbas.2018.09.002  
+FRAISE, A.P., et al. The antibacterial activity and stability of acetic acid. Journal of Hospital Infection. 2013, 84(4), 329–331. 
+https://doi.org/10.1016/j.jhin.2013.05.001  
+GNANASAMBANDAM, R. and PROCTOR, A. Determination of pectin degree of esterification by diffuse reflectance fourier transform infrared 
+spectroscopy. Food Chemistry. 2000, 68(3), 327-332. https://doi.org/10.1016/S0308-8146(99)00191-0  
+GONZÁLEZ-CABRERA, M., DOMÍNGUEZ-VIDAL, A. and AYORA-CAÑADA, M.J. Hyperspectral FTIR imaging of olive fruit for understanding 
+ripening processes. Postharvest Biology and Technology. 2018, 145, 74–82. https://doi.org/10.1016/j.postharvbio.2018.06.008  
+GONZÁLEZ-MONTELONGO, R., GLORIA LOBO, M. and GONZÁLEZ, M. Antioxidant activity in banana peel extracts: Testing extraction conditions 
+and related bioactive compounds. Food Chemistry. 2010, 119(3), 1030–1039. https://doi.org/10.1016/j.foodchem.2009.08.012  
+HOUSAGUL, S., et al. Biomethane production from co-digestion of banana peel and waste glycerol. Energy Procedia. 2014, 61, 2219–2223. 
+https://doi.org/10.1016/j.egypro.2014.12.113  
+JEFFERY, E.H., et al. Variation in content of bioactive components in broccoli. Journal of Food Composition and Analysis. 2003, 16(3), 323–330. 
+https://doi.org/10.1016/S0889-1575(03)00045-0  
+KAMSONLIAN, S., et al. Characterization of banana and orange peels: biosorption mechanism. International Journal of Science Technology & 
+Management. 2011, 2(4), 1-7 
+KHAMSUCHARIT, P., et al. Characterization of pectin extracted from banana peels of different varieties. Food Science and Biotechnology. 2018, 
+27(3), 623–629. https://doi.org/10.1007/s10068-017-0302-0  
+Bioscience Journal  |  2021  |  vol. 37, e37024  |  https://doi.org/10.14393/BJ-v37n0a2021-56306 
+ 
+ 
+ 
+11 
+NAKSING, T., et al. 
+LU, X. et al. Determination of total phenolic content and antioxidant capacity of onion (Allium cepa) and shallot (Allium oschaninii) using 
+infrared spectroscopy. Food Chemistry. 2011, 129(2), 637–644. https://doi.org/10.1016/j.foodchem.2011.04.105  
+MALLAVADHANI, U.V., et al. Chemical and analytical screening of some edible mushrooms. Food Chemistry. 2006, 95(1), 58–64. 
+https://doi.org/10.1016/j.foodchem.2004.12.018  
+MEHROTRA V., et al. Antioxidant and antimicrobial activities of aqueous extract of Withania somnifera against methicillin-resistant 
+Staphylococcus aureus. J. Microbial Biotechnology. 2017, 1(1), 40-45. 
+MEMON, J.R., et al. Banana peel: A green and economical sorbent for the selective removal of Cr(VI) from industrial wastewater. Colloids and 
+Surfaces B: Biointerfaces. 2009, 70(2), 232–237. https://doi.org/10.1016/j.colsurfb.2008.12.032  
+MOKBEL, M.S. and HASHINAGA, F. Antibacterial and antioxidant activities of banana (Musa, AAA cv. Cavendish) fruits peel. American Journal of 
+Biochemistry and Biotechnology. 2005, 1(3), 125–131. 
+MORDI, R.C., et al. Identification by GC-MS of the components of oils of banana peels extract, phytochemical and antimicrobial analyses. 
+Research Journal of Phytochemistry. 2016, 10(1), 39–44. https://doi.org/10.3923/rjphyto.2016.39.44  
+NOGALES-BUENO, J., et al. Study of phenolic extractability in grape seeds by means of ATR-FTIR and Raman spectroscopy. Food Chemistry. 
+2017, 232, 602–609. https://doi.org/10.1016/j.foodchem.2017.04.049  
+PATIAL, P.K., et al. Correlation study among the extraction techniques, phytochemicals, and antioxidant activity of Nepeta spicata aerial part. 
+Biocatalysis and Agricultural Biotechnology. 2019, 20, 1-14. https://doi.org/10.1016/j.bcab.2019.101275  
+RAHMAN, S.N.F.S.A., WAHID, R. and RAHMAN, N.A. Drying kinetics of Nephelium lappaceum (rambutan) in a drying oven. Procedia - Social and 
+Behavioral Sciences. 2015, 195, 2734–2741. https://doi.org/10.1016/j.sbspro.2015.06.383  
+RATTANAVICHAI, W. and CHENG, W. Effects of hot-water extract of banana (Musa acuminata) fruit’s peel on the antibacterial activity, and 
+anti-hypothermal stress, immune responses and disease resistance of the giant freshwater prawn, Macrobrachium rosenbegii. Fish & Shellfish 
+Immunology. 2014, 39(2), 326–335. https://doi.org/10.1016/j.fsi.2014.05.031  
+SALEEM, M. and SAEED, M.T. 2020. Potential application of waste fruit peels (orange, yellow lemon and banana) as wide range natural 
+antimicrobial agent. Journal of King Saud University - Science. 2020, 32(1), 805–810. https://doi.org/10.1016/j.jksus.2019.02.013  
+SINGH, B., et al. Bioactive compounds in banana and their associated health benefits – A review. Food Chemistry. 2016, 206, 1–11. 
+https://doi.org/10.1016/j.foodchem.2016.03.033  
+SINGLETON, V.L. and ROSSI, J.A. Colorimetry of total phenolics with phosphomolybdic-phosphotungstic acid reagents. American Journal of 
+Enology and Viticulture. 1965. 16(3), 144–158.  
+SOLTANI, M., ALIMARDANI, R. and OMID, M. Prediction of banana quality during ripening stage using capacitance sensing system. Australian 
+Journal of Crop Science. 2010, 4(6), 443-447. 
+SULAIMAN, S.F., SAJAK, A.A.B. and OOI, K.L.S.; SEOW, E.M. Effect of solvents in extracting polyphenols and antioxidants of selected raw 
+vegetables. Journal of Food Composition and Analysis. 2011, 24(4), 506–515. https://doi.org/10.1016/j.jfca.2011.01.020  
+THOMAS, S.K. and JOHNEY, J. Eco-friendly synthesis of silver nanaparticle using banana (Musa acuminata colla) peel, its phytochemical, 
+antimicrobial and anticancer activity. International Journal of Recent Scientific Research. 2017, 8(10), 21098-21106. 
+UMMARAT, N., et al. Changes in antioxidants and fruit quality in hot water-treated ‘Hom Thong’ banana fruit during storage. Scientia 
+Horticulturae. 2011, 130(4), 801–807. https://doi.org/10.1016/j.scienta.2011.09.006  
+VU, H.T., SCARLETT, C.J. and VUONG, Q.V. Phenolic compounds within banana peel and their potential uses: A review. Journal of Functional 
+Foods. 2018, 40, 238–248. https://doi.org/10.1016/j.jff.2017.11.006  
+ 
+Received: 25 July 2020 | Accepted: 23 December 2020 | Published: 12 May 2021 
+ 
+ 
+  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, 
+distribution, and reproduction in any medium, provided the original work is properly cited. 

@@ -1,0 +1,601 @@
+Sessou et al. DOI:
+Submitted to:
+International Journal of Phytomedicine
+RESEARCH ARTICLE
+Phytochemistry and antibacterial activity
+of plants extracts compared with two
+commercial antibiotics against E coli
+responsible for avian colibacillosis in
+Benin
+Philippe Sessou1,2*, Bruno Ayaovi Yaovi1, Mahudro Yovo2, Judicaël Gamedjo1, François Dossa1, Os-
+car Nestor Aguidissou1, Kadoeito Cyrille Boko1, Guy Alitonou2, Souaïbou Farougou1 and Dominique
+Sohounhloue2
+Abstract
+Despite its prominent place in development strategies, poultry breeding faces many constraints, including pathological ones.
+Among pathologies that affect poultry, colibacillosis is one of the most diseases that are communicable to humans and associated
+with heavy economic losses. To fight efficiently against avian colibacillosis, the work aimed to evaluate antimicrobial potential
+evaluation of non-volatile extracts of Euphorbia hirta and Psidium guajava, as well as the essential oils of Clausena anisata and
+Aeollanthus pubescens extracts and two commercial antibiotics namely tetracolivit and Oxytetracyclin against Escherichia coli. To
+achieve this goal, susceptibility tests were performed on a strain of E. coli using agar diffusion and microdilution methods. Results
+obtained showed that essential oils from Clausena anisata and non-volatile extracts tested were not active on E coli. However, the
+essential oils extracted from Aeollanthus pubescens were active on the E. coli with MIC of 0.44 ± 0.21 mg/ml and MBC of 0.87 ±
+0.41mg / ml for the oil of the whole part, followed respectively by flower oil (MBC = 0.99 mg/ml) and leaf stem oil (MBC= 1.62 mg /
+ml). Comparing the activity of the essential oils of Aeollanthus with antibiotics tested, we noticed that tetracolivit was more active
+with MBC =0.15±0.07mg/ml on E. coli than these extracts which were more active than Oxytetracyclin (MBC=2.34±1.11mg/ml).
+In sum, the study showed that for a better management of avian collibacillosis in Benin, the tetracolivit is suitable as antibiotic
+which can be substituted by Aeollanthus pubescens essential oils.
+Keywords: Avian colibacillosis; plant extracts; E coli; antibacterial activity
+*Correspondence: philippe.sessou@epac.uac.bj
+1Laboratory of Research in Applied Biology/ Unit of Research in
+Biotechnology of Animal Health and Production, Polytechnic School of
+Abomey-Calavi,, University of Abomey-Calavi, 01 BP 2009, Cotonou,
+Republic of Benin
+Full list of author information is available at the end of the article.
+Introduction
+Benin poultry farming has made great progress in recent
+decades. The number of poultry, all species combined, increased
+from 13 million in 2001 to more than 16 million in 2005 [1].
+Today, the numbers have increased as a result of increased food
+needs and the growth of peri-urban poultry farming [2]. Ac-
+cording to livestock management statistics, poultry is the second
+largest source of meat consumption after cattle (58% for cat-
+©2018 Advanced Research Journals
+Sessou et al. Submitted to International Journal of Phytomedicine Page 2 of 7
+tle, 21% for poultry, 13% for sheep / goats and 7% for pork)
+in Benin [3]. However, the intensification of poultry rearing
+does not evolve without problems, because it is accompanied by
+many constraints, including pathological ones (viral, bacterial,
+parasitic, etc.) which seriously affect the budget of livestock
+farmers [4]. Among the main bacterial pathologies occurring
+in laying hen farms, we have avian colibacillosis [5], which,
+due to strains of Escherichia coli, causes significant economic
+losses (estimated about 6 million euros per year in England) due
+to stunting, septicemia, associated chronic respiratory condi-
+tions and conditions such as salpingitis, ovaritis, aerosacculitis,
+pericarditis and severe peri-hepatitis [6,7]. To control this avian
+pathology, the current treatment is based on the use of synthetic
+antibiotics including colistin, oxytetracyclin, second-generation
+fluoroquinolones, beta-lactams, etc. However, the misuse of
+these synthetic molecules, the high cost and inaccessibility of
+antibiotics, the non-knowledge of the disease by breeders and
+the lack of a quality control structure for pharmaceuticals have
+led to a worrying increase in the number of multi-resistant
+pathogenic strains. For example, strains of E. coli isolated from
+chickens showed high levels of resistance to oxytetracyclin
+(100%), amoxicillin (90.9%), trimethoprim + sulphamethoxa-
+zole (82.2%), enrofloxacin (75.9%) and florfenicol (61.5%) [8].
+Regarding the increasing of resistance of E coli to conventional
+antibiotics, the emergence of new pathogens in both humans
+and animals, the increase in treatment costs, the decline in their
+effectiveness, antibiotics do not always guarantee a favorable
+response [9]. It is therefore clear that the search for alternative
+solutions to ensure a satisfactory succession of antibiotics in
+terms of zootechnical effects becomes an emergency. Fortu-
+nately, medicinal plants are a significant source of new drugs,
+especially since they have fewer side effects [10]. To remedy this
+problem of resistance and preserve animal and public health, the
+present work was undertaken to evaluate the antibacterial activi-
+ties of extracts from medecinal plants whose traditional uses and
+therapeutic properties have been widely demonstrated in view of
+their uses to the detriment of antibiotics. Thus, the present work
+has objective to evaluate antibacterial activity of non-volatile
+extracts of the whole part of Euphorbia hirta and the leaves
+of Psidium guajava, as well as the essential oils of Clausena
+anisata and Aeollanthus pubescens on a strain of Escherichia
+coli isolated in poultry.
+Material and Methods
+Collect and identification of plant material
+The studied plant material is consisted of four plants, includ-
+ing Psidium guajava leaves harvested in Lokossa municipal-
+ity and the whole Euphorbia hirta plant harvested in Abomey-
+Calavi identified respectively as AA 6718 /HNB and AA 6719 /
+HNB at the National Herbarium of Benin (HNB). The leaves of
+Clausena anisata harvested by Adjalian et al. [11] and the organs
+(whole plant, flowers and leafy stem) of Aeollanthus pubescens
+harvested at Dassa (Benin) and previously studied by Alitonou
+et al. [12] and identified by the National Herbarium of Benin
+(HNB) during other projects are parts of our plant material.
+Microorganism tested and antibiotics assayed
+The Escherichia coli tested in the present was isolated from
+fresh diarrhea of poultry suffering for colibacillosis. The isolate
+was identified according to standard method using Mac Con-
+key agar medium and API 20E Kit. Two commercial antibiotics
+namely Tetracolivit and Oxytetracylin were purchased in veteri-
+nary pharmacy in Benin. They are in powder form.
+MethodsExtraction of essential oils from plants
+The essential oils were extracted from the leaves of Clausena
+anisata and flowers, leafy stem and whole part of Aeollanthus
+pubescens. Extraction of the essential oils was carried out by
+hydrodistillation using a Clevenger type apparatus according to
+protocol reported by Yovo et al. (2016). The essential oils ob-
+tained were collected in a sterile dark is kept in the refrigerator at
+4◦C and protected from light until use. Oils from the same plants
+were previously extracted and analyzed chemically respectively
+by Adjalian et al. [11] and Alitonou et al. [12].
+Preparation of non-volatile extracts
+The crude extracts were prepared from the whole part of E. hirta
+and P. guajava leaves. The technique used is that of maceration.
+50 g of powder of each sample were macerated in 500 ml of
+extraction solvent, filtrated and evaporated for drying in an oven
+at 50 ◦ C according to protocol reported by Yovo et al. [13].
+Phytochemical Screening
+The identification of metabolites such as saponosides, tannins,
+flavonoids, alkaloids, coumarins, anthocyanins, leucoantho-
+cyanins, reducing compounds, mucilages, and sterols and ter-
+penes was made by staining and / or precipitation specific for
+most families of secondary metabolites according to the meth-
+ods reported by Yovo et al. [13]. The identification of these
+secondary metabolites concerned only extracts of E. hirta and P.
+guajava.
+Sessou et al. Submitted to International Journal of Phytomedicine Page 3 of 7
+Quantitative Analysis of Phenolic Compounds of E.
+hirta and P. guajava extracts
+Total phenols content of extracts
+The determination of total phenols was carried out with the
+Folin-Ciocalteu reagent according to the method described by
+Wong et al. [14]. This method consists of mixing 3 mL of dis-
+tilled water with 50 µL of extract followed by 250 µL of Folin-
+ciocalteu reagent and 750 µL of 7% Na2CO3. After 8 min,
+950 µL of distilled water was added to the mixture and the
+absorbance was measured at 765 nm after 2 hours against a
+blank without extract taken as reference. The quantification of
+the polyphenols is determined by the calibration line made with
+gallic acid at different concentrations under the same conditions
+as the sample. The results are expressed in mg of gallic acid per
+gram of dry material (mg GAE/g dry material).
+Total flavonoids content of extracts
+The aluminum trichloride (AlCl3) method described by Enuji-
+ugha [15] reported by Yovo et al. [13] was used to quantify the
+flavonoids in the extracts. 2.5 mL of distilled water were mixed
+with 500 µL of extract, 300 µL of NaNO2 and 300 µl of 10%
+AlCl3 in ethanol. After 5 min, 1 mL of molar NaOH and 400
+µL of distilled water were added and the absorbance was read
+with spectrophotometer at 510 nm against a blank without ex-
+tract taken as reference. Quantification of total flavonoids was
+performed using the standard curve made with catechin at differ-
+ent concentrations. The results were expressed in mg equivalent
+of catechin per gram of dry matter (mgEC / gMS).
+Evaluation of the antibacterial activities of the extracts of the
+studied plants
+The antibacterial properties of the extracts were determined by
+two methods, namely the Mueller Hinton disk diffusion and well
+diffusion method, to preselect the extracts having effective an-
+tibacterial activity and the liquid microdilution method using
+the 96-well microplates to determine minimum inhibitory (MIC)
+and bactericidal (CMB) concentrations, as well as antibiotic po-
+tency [16].
+Disc and well diffusion methods
+The evaluation of the antibacterial activity of the various ex-
+tracts was previously carried out by the disk diffusion method
+and wells on the Mueller-Hinton agar medium, in order to iden-
+tify the active extracts on which subsequent studies will be con-
+ducted [16]. The test solutions were prepared at the concentra-
+tion of 100 mg / mL with sterile distilled water for the aque-
+ous extracts and ethanol / water (4/6) for the semi-ethanolic and
+ethanolic extracts. For essential oils, the pure extracts have been
+tested. Microbial suspensions in the exponential growth phase
+(0.5 on the Mc Farland scale, ie approximately 1.5 × 106 cells /
+mL) were inoculated on sterile MHA agar. Sterile disks impreg-
+nated with 1, 2, 3, 4, 5 and 10 µL of essential oil were deposited
+on the previously inoculated MHA agar. For the non-volatile ex-
+tracts, 25 µL of extract were introduced into the 6 mm diameter
+wells in the center of the previously inoculated MHA agar. After
+pre-diffusion for 30 min at room temperature, the Petri dishes
+were incubated for 18-24 hours at 37 ◦ C. The test was done in
+duplicate. The diameters of the inhibition zones were measured
+and the averages were calculated. Non-volatile extracts with an
+inhibition diameter greater than or equal to 12 mm [17] and es-
+sential oils having a diameter greater than 14 mm at 10 µL [16],
+were selected for the determination of MIC, MBC and antibiotic
+potency. In addition, the sensitivity of the E. coli strain to two
+commercial antibiotics, namely Tetracolivit and Oxytetracyclin
+were treated under the same conditions as the non-volatile ex-
+tracts.
+Microdilution method in a liquid medium
+MIC and MBC were determined using the liquid microdilu-
+tion method using 96-well microplates as reported by Mamadou
+Sadou et al. [17] and Yovo et al. [13]. From a stock solution at
+100 mg / mL for the non-volatile extracts and a suspension pre-
+pared from 40 µL of the pure essential oil diluted in 2000 µL of
+MHB, a successive dilution was performed well per well with
+Mueller-Hinton Broth and microbial suspension broth at 1.5 x
+106 cells / mL. The extract solution diluted in MHB alone is
+taken as a negative control and the microbial suspension with
+MHB alone is considered as a positive control. The microplates
+thus seeded are coated with paraffin oil and incubated at 37 ◦
+C for 24 hours. The MIC of the extract on the strain is the low-
+est concentration corresponding to the well for which turbidity is
+not observed. From the MIC, wells showing no visible microbial
+growth were re-isolated on Mueller-Hinton Agar and incubated
+at 37 ◦ C for 24 hours. The lowest concentration for which no
+microbial colonies (99.99% killed) is observed is the Minimal
+Bactericidal Concentration (MBC) of the extract on the strain
+tested [17].
+Antibiotic potency
+To better appreciate the antimicrobial properties of the tested
+samples, the ratio MBC/MIC was calculated for each extract was
+calculated to indicate a bactericidal (MBC/MIC≤4) or bacterio-
+static (MBC/MIC>4) activity [18].
+Statistical analysis
+The results obtained from two independent tests were processed
+using the Excel spreadsheet to calculate averages. The latter
+Sessou et al. Submitted to International Journal of Phytomedicine Page 4 of 7
+were compared two by two by the student’s t-test using the
+Statistica software. The level of significance retained is 5% (p
+<0.05).
+Results and discussion
+Main metabolites of non-volatile extracts studied
+The secondary metabolites identified in the extracts of the plants
+studied are shown in Table 1. The analysis of this table shows
+that the extracts of the four plants all contain flavonoids, cate-
+chin tannins, sterols and terpenes. However, gallic tannins are
+present in the extracts of E. hirta. As for the saponosides and
+anthocyanins, they are contained in the extracts of P. guajava.
+Leucoanthocyanans are present in extracts of P. guajava; reduc-
+ing compounds and mucilages are present in extracts of E. hirta.
+The extracts of P. guajava also contain mucilages. Coumarins
+are absent in all plants. Regarding these secondary metabolites
+identified in the extracts, the presence of flavonoids, tannins, ter-
+penes and sterols in our semi-ethanolic extract of E. hirta sam-
+ple is in agreement with the results obtained by Ayéna et al. [19]
+and Sadou Nassirou et al. [20] respectively with samples har-
+vested in the Municipality of Aplahoué in southern Benin and
+with the aerial part of E. hirta harvested in Niger. However, we
+note the presence of alkaloids in the samples of the Municipality
+of Aplahoué and Niger, unlike our sample that does not. Regard-
+ing the leaf extracts of P. guajava, the secondary metabolites
+identified in our sample are also present in the hydroethanolic
+extract of P. guajava leaves studied in India by Gurpreet et al.
+[21]. These secondary metabolites are present in the leaves of
+P. guajava studied in Mali by Maïga [22], but the anthocyanins
+present in our sample, are absent in that of Mali and the alka-
+loids, coumarins and gallic tannins present in the sample from
+Mali, are absent in our case. This variation of secondary metabo-
+lites observed in our samples compared to previous work, could
+be related to various factors namely the geographical origin, the
+nature of the soil, the mode of extraction, the fresh or dry plant
+material, the organ of the plant used and the conditions of anal-
+ysis [23, 24].
+Levels of phenolic compounds in the extracts of the plants
+studied
+Based on the absorbance values of the various extract solu-
+tions and referring to the calibration curves, the total phenol
+and flavonoid contents were calculated. The analysis in Table
+2 reveals that all plants are richer in total phenols than in total
+flavonoids. The ethanolic extract of P. guajava leaves has the
+highest content of total phenols with an average of 3.39x105±
+126.26 mg GAE /g of dry material and the aqueous extract of
+E. hirta, the lowest content that is equal at 5.5x104± 757.61 mg
+Table 1 Secondary Metabolites identified in the extracts of the plants
+studied
+Secondary
+metabolites
+Euphorbia hirta Psidium guajava
+EE ESE EA EE ESE EA
+Flavonoids + + + + + +
+Catechic tanins + + + + + +
+Gallic Tanins + + + - - -
+Saponosides - - - + + +
+Sterols et terpens + + + + + +
+Leucoanthocyans - - - + + +
+Anthocyans - - - + + +
+Alkaloids - - - - - -
+Reducing compounds + + + - - -
+Mucilages + + + + + +
+Coumarins - - - - - -
++: Presence; -: Absence; EE: Ethanolic extract;ESE: Semi ethanolic ex-
+tract; EA: Aqueous extract
+GAE/g of dry material. As for the total flavonoid contents, the
+highest content is noted in the ethanolic extract of P. guajava
+with a value of 400.84 ± 13.98 mg CE/g of dry material.
+Table 2 Phenolic compound content of extracts
+Extracts E. hirta P. guajava
+Total Phenols
+(mg GAE/g
+dry
+material)
+EE 1.67x105±252.53bA 3.39x105±126.26aA
+ESE 1.53x105±631.34B 2.83x105±126.26aB
+EA 5.51x104±757.61bC 2.15x105±126.26aC
+Total
+flavonoids
+(mg CE/g of
+dry
+material)
+EE 146.94±7.77bB 400.84±13.98aA
+ESE 162.70
+±17.09bAB
+373.74±27.97aA
+EA 165.52±8.54bA 275.98±18.65aB
+EE: Ethanolic Extract, ESE: Semi-Ethanolic Extract, EA: Aqueous Ex-
+tract;The average values of the same line followed by different letters in
+lower caseare significantly different at the 5% threshold. The average
+values of the samecolumn followed by different letters in capital letter are
+significantlydifferent at the 5% threshold
+Sensitivity of the E. coli strain to extracts and antibiotics
+The table 3 shows the averages of the diameters of the inhibition
+zones of the various extracts on E. coli strain. Analysis of this
+table indicates that extracts of E. hirta and P. guajava are not
+active on E. coli strain at (100 mg/mL). As for the diameters of
+inhibition of essential oils and antibiotics presented in Table 3,
+we note that up to 10 µL, the essential oils of Clausena anisata
+showed no inhibitory activity on the two strain of E. coli. On the
+other hand, the essential oils of the organs of A. pubescens, as
+well as the antibiotics tested, showed a good inhibitory activity
+on the two strains. Indeed, on the E. coli strain, the largest inhibi-
+tion diameter equal to 25.50 ± 2.1 mm, is noted with the essen-
+tial oil of the whole plant of A. pubescens. Also, the inhibition
+Sessou et al. Submitted to International Journal of Phytomedicine Page 5 of 7
+diameter is function of the quantity of oil tested, the more the
+quantity increases, the greater the diameter is important. With
+respect to the two antibiotics tested, Tetracolivit further inhib-
+ited (17 ± 0.0 mm) the strain of E. coli isolated from chickens
+than Oxytetracyclin (15.25 ± 1.7 mm).
+Minimal inhibitory concentrations (MIC), bactericidal (MBC)
+and antibiotic potency of extracts and antibiotics
+The results regarding Minimal Inhibitory Concentration, bacte-
+ricidal (MBC) and antibiotic potency of the plant extracts and
+antibiotics are shown in Table 4. This reveals that on the strain
+E. coli, Tetracolivit has the lowest MIC equal to 0.07 ± 0.03
+mg / mL and Oxytetracyclin, the highest MIC which is equal to
+1.17 ± 0.55 mg / mL. The same trend was noted at the level of
+MBC with an average of 0.15 ± 0.07 mg / mL for Tetracolivit
+and 2.34 ± 1.11 mg / mL for Oxytetracyclin. This shows that
+Tetracolivit is more active on this strain than the essential oils of
+A. pubescens which are more active on this strain than Oxyte-
+tracyclin. Regarding antibiotic potency, A. pubescens essential
+oils and both antibiotics have a bactericidal effect on the E. coli
+tested. From the analysis of the results of the sensitivity of the E.
+coli strain to the extracts, it appears that the essential oils of the
+various organs of A. pubescens are active on the strain of E. coli.
+These same results were obtained by Yovo [24], which showed
+that these same oils have good antibacterial activity on the refer-
+ence strain E. coli ATCC 25922 with MICs of 0.40 mg / ml for
+the whole part, 0. , 40 mg / mL for flowers and 0.27 mg / mL for
+leafy stem and MBC of 0.80 mg / mL, 0.80 mg / mL and 0.54
+mg / mL respectively. We therefore note that these MICs and
+MBC are slightly lower than those found in our study, except for
+the oil of the stem with the MICs and MBC being three times
+lower than those obtained on the E. coli strain used in this study.
+our case (0.81 ± 0.38 mg / mL for MIC and 1.62 ± 0.76 mg /
+mL for MBC); which shows that the strain of E. coli studied by
+Yovo [24] is more sensitive to the essential oils of A. pubescens
+than the strain of E. coli used in our study. The antibacterial ac-
+tivity of these oils could be attributed to the action of the thymol
+they contain or the synergistic action of thymol and other major
+compounds such as thymyl acetate, p-cymene, γ-terpinene and
+carvacrol [12].
+As for E. hirta extracts, no inhibitory activity was observed
+on the E. coli strain. However, Ayena et al. [19], have shown
+that the hydroethanolic extract of E. hirta has good antibacterial
+activity on an E. coli strain isolated from the offending foods
+during gastroenteritis, with a minimum inhibitory concentration
+of 1.25 mg / mL. Similarly, Nikunj and Kaushik [25] showed that
+the aqueous extract of E. hirta has moderate inhibitory activity
+on an isolated E. coli strain in patients with a MIC of 50 µg
+/ µL. This result obtained in our case, could be related to the
+absence of the alkaloids in our sample contrary to that of Ayéna
+et al. [19]. Indeed, alkaloids are known to have antimicrobial
+properties. The mechanism of action of alkaloids is attributed to
+their ability to intercalate with bacterial DNA [26]. With regard
+to P. guajava leaves, the inactivity of the extracts of this plant
+observed on the E. coli strain in this study is in agreement with
+the results obtained by Biswas et al. [27], which showed that the
+ethanolic and aqueous extracts of the same plant are not active
+on the E. coli strain. However, these results contrast with those
+obtained by Suresh et al. [28], which showed that the aqueous
+leaf extract of Psidium guajava significantly inhibited E. coli
+strain.
+With regard to the essential oil of Clausena anisata, our re-
+sults are contrary to those obtained by Osei-Safo et al. [29], who
+showed that the essential oil of with estragole as chemotype, has
+a good antibacterial activity on the strain of E. coli. This dif-
+ference in results could be explained by the estragole content.
+Indeed, the essential oil of C. anisata used by Osei-Safo et al.
+[29] contains estragole at 98.76% and that used in this study [11]
+at 69.9%. The antibacterial activity of Tetracolivit consisting of
+oxytetracyclin, colistin and vitamins as active ingredients, would
+be more related to the action of colistin. Indeed, Rahmatallah et
+al. [8] showed that strains of E. coli isolated from broilers had
+low levels of resistance to colistin (2.94%), unlike oxytetracy-
+clin, for which these strains showed 100% resistance.
+Conclusion
+Phytochemical analysis revealed that extracts of E. hirta and P.
+guajava are rich in flavonoids, catechin tannins, sterols and ter-
+penes. With respect to the antibacterial activities of plant extracts
+and antibiotics, the study showed that A. pubescens HEs and the
+two commercial antibiotics tested had bactericidal activity on
+the E. coli isolated from poultry. These oils and antibiotics had
+bactericidal activity against the isolate investigated. Extracts of
+E. hirta and P. guajava and C. anisata essential oil showed no
+antibacterial activity on E. coli isolated from poultry.
+Acknowledgments
+The authors are very grateful to Polytechnic School of Univer-
+sity of Abomey-Calavi for support. They are also thankful to
+Professor Dougnon Tossou Jacques for scientific contribution.
+Declaration of interest
+The authors declare that there is no conflict of interest. The au-
+thors alone are responsible for the content of the paper.
+Sessou et al. Submitted to International Journal of Phytomedicine Page 6 of 7
+Table 3 Averages of the diameters of the inhibition zones of the various extracts on E. coli
+Conc/qty Diameters of inhibition zones of essential oils and antibiotics (mm)
+100 mg/mL 1 µL 2 µL 3 µL 4 µL 5 µL 10 µL
+HE C. anisata - 6,0±0,0Ca 6,0±0,0Ca 6,0±0,0 aD 6,0±0,0 aC 6,0±0,0 aC 6,0±0,0 aC
+HE APE - 9,0±1,4BA 10,5±3,5dB 18,0±0,0cB 19,0±1,4bcB 22,5±2,1abA 25,50±2,1Aa
+HE APF - 11,0±1,4Aa 18,0±0,0dA 20,0±0,0cA 22±0,0bA 23,0±0,0aA 23,50±0,7aA
+HE APTF - 6,0±0,0Cb 10,0±0,0dB 14,5±0,7cC 17,5±0,7bB 17,5±0,7bB 21,50±0,7aB
+Oxytetracyclin 15,25±1,7A - - - - - -
+Tetracolivit 17±0,0B - - - - - -
+The average values of the sameline followed by different letters in lower case are significantly different atthe 5% threshold. The
+average values of the same column followed by differentletters in capital letter are significantly different at the 5% threshold;Conc/qty:
+concentration/quantity
+Table 4 Minimum Inhibitory Concentration (MIC), Bactericides (MBC)
+and antibiotic potency of extracts and antibiotics
+Ex-
+tracts/antibiotics
+MIC
+(mg/mL)
+MBC
+(mg/mL)
+MBC/
+MIC
+E. coli
+APE 0.44±0.21b 0.87±0.41b 2.00
+APF 0.49±0.00b 0.99±0.00b 2.02
+APTF 0.81±0.38ab 1.62±0.76ab 2.00
+Oxytetracyclin 1.17±0.55a 2.34±1.11a 2.00
+Tetracolivit 0.07±0.03c 0.15±0.07c 2.01
+APE: Essential oil from wholepart of Aeollanthus pubescens; APF:Essential
+oil from flowers of Aeollanthuspubescens, APTF: Essential oil from leaf stem
+of Aeollanthus pubescens; The averagevalues of the same column followed by
+different letters in lower case aresignificantly different at the 5% threshold.
+Authors’ contributions
+Philippe Sessou conceived the study and wrote the protocol; he
+performed antibacterial assay and wrote the manuscript. Yaovi
+and Yovo performed the plant collection and extracts prepartion
+and did together phytochemical analysis with the supervision
+of Alitonou and Professor Sohounhloue. Dossa has conducted
+on the supervision of Philippe Sessou and Boko Cyrille, the fe-
+cal sample collection and identification of E coli isolates. Os-
+car Aguidissou and Boko helped Philippe Sessou for antibacte-
+rial assay and results interpretation. Farougou had supervise the
+work. All authors had corrected and approved the final paper.
+References
+[1] Boko MA, Dougnon TV, Bankole SH, Dougnon TJ,
+Ahouangninou C, Cledjo P, Soumanou M. Pratiques d’élevage
+avicole au Sud-Bénin (Afrique de l’Ouest) et impacts sur
+l’hygiène des fumiers produits. Int. J. Biol. Chem. Sci. 2015
+; 9(6): 2740-2753.
+[2] Batonon-Alavo DI, Bastianelli D, Chrysostome CAAM,
+Duteurtre G, Lescoat P. Securing the flows of feed ingredient
+supplies and commercialization of products in the poultry sector:
+Case of the egg value chain in Benin [in French]. Rev. Elev. Med.
+Vet. Pays Trop. 2015 ; 68 (1): 3-18.
+[3] FAO. Secteur Avicole Bénin. Revues nationales de
+l’élevage de la division de la production et de la santé animales
+de la FAO, 2015.
+[4] Abdel-Aziz A. Contribution à la lutte Contre la maladie
+de Gumboro : détermination du meilleur protocole vaccination à
+partir des vaccins disponibles sur le marché de Dakar. Thèse de
+Médecine Vétérinaire de l’EISMV Dakar, Senegal, 2007.
+[5] Zerbo LH. Etude préliminaire sur l’utilisation des antibi-
+otiques dans les élevages de poules pondeuses et la présence
+de résidus d’antibiotiques dans les œufs commercialisés à Oua-
+gadougou (Burkina-Faso). Mémoire de diplôme de Master qual-
+ité des aliments de l’homme. Thèse de Médecine Vétérinaire de
+l’EISMV Dakar, Sénégal, 2014.
+[6] Soumaila Garba A. Caractérisation phénotypique et géné-
+tique des Escherichia coli isolés des cas de colibacilloses avi-
+aires au Sénégal. Thèse de Médecine Vétérinaire de l’EISMV
+Dakar, Sénégal, 2012.
+[7] Stordeur P, Mainil J. La colibacillose aviaire. Ann.
+Méd.Vét. 2002 ; 146 : 11-18.
+[8] Rahmatallah N, Nassik S, El-Rhaffouli H, Lahlou
+AI, El-Houadfi M. Détection de souches multi-résistantes
+d’Escherichia coli d’origine aviaire dans la région de Rabat-
+Salé-Zemmour-Zaer.Rev. Mar. Sci. Agron. Vét. 2017 ; 5 (2) :
+96-102.
+[9] Abdallah NB. Isolement et caractérisation de bactéries à
+fort potentiel probiotique à partir du tractus gastro-intestinal de
+volaille. Mémoire, Université Laval, 2010.
+[10] Sonago R. Le Rôle des Plantes Médicinales en Médecine
+Traditionnelle. Développement, Environnement et Santé. 10me
+école d’été de l’IEPF et SIFEE du 06 au 10 juin, 2006.
+[11] Adjalian E, Sessou P, Alitonou GA, Noudogbessi JP,
+Kossou D, Menut C, Sohounhloue D. Ovicide and Larvicide Ac-
+tivities of the Essential Oils Extracted from Polyalthia longifolia
+and Clausena anisata on Sitotroga cerealella. Online J. Biol. Sci.
+2017 ; 17(3):193-200.
+Sessou et al. Submitted to International Journal of Phytomedicine Page 7 of 7
+[12] Alitonou G, Tchobo F, Avlessi F, Sohounhloue KD,
+Menut C. Aeollanthus pubescens Benth. from Benin: A Potential
+Source of Essential Oil with High Antiradical Efficiency. JEOP.
+2013 ; 16 : 308-314.
+[13] Yovo M, Alitonou GA, Yedomonhan H, Tchobo F, De-
+dome O, Sessou P, Avlessi F, Menut C, Sohounhloué D. First
+report on chemical composition and antimicrobial activity of
+Artabotrys velutinus Scott-Elliot extracts against Some Clinical
+Strains in Benin. Am. J. Appl. Chem. 2016 ; 4(3): 71-76.
+[14] Wong CC, Li HB, Cheng KW, Chen F. A systematic sur-
+vey of antioxidant activity of 30 Chinese medicinal plants using
+the ferric reducing antioxidant power assay. Food Chem. 2006;
+97: 705-711.
+[15] Enujiugha VN. The Antioxidant and Free Radical- Scav-
+enging Capacity of Phenolics from African Locust Bean Seeds
+(Parkia biglobosa). Adv. Food Sci. 2010; 32 (2): 88-93.
+[16] Lakhdar L. Evaluation de l’activité antibactérienne
+d’huiles essentielles marocaines sur Aggregatibacter actino-
+mycetemcomitans : Etude in vitro. Thèse de l’Université Mo-
+hammed V de Rabat, 2015.
+[17] Mamadou Sadou R, Moussa I, Sessou P, Yehoue-
+nou B, Agbangnan PDC, Illagouma AT, Abdoulaye A, So-
+hounhloué DCK, Ikhiri K. Etude phytochimique, activités anti-
+radicalaire, antibactérienne et antifongique d’extraits de Sebas-
+tiania chamaelea (L.) Müll. Arg. J. Soc. Ouest-Afr. Chim. 2014
+; 037: 10-17.
+[18] Kpadonou-Kpoviessi HGB, Yayi Ladekan E, Kpoviessi
+SDS, Gbaguidi F, Yehouenou B, Quetin-Leclerq J, Figueredo J,
+Moudachirou M, Accrombessi CG. Chemical variation of essen-
+tial oil constituents of Ocimum gratissimum L. from Benin, and
+impact on antimicrobial properties and toxicity against Artemia
+salina Leach. Biodiversity &Chemistry. 2012 ; 9 : 139-150.
+[19] Ayéna AC, Agassounon DTM, Adoukonou-Sagbadja H,
+Mensah GA, Agbangla C, Baba-Moussa L, Ahanhanzo C. Po-
+tentiels antimicrobiens de Euphorbia hirta L. et de Phyllanthus
+amarus Schumach & Thonn, deux Euphorbiaceae utilisées dans
+le traitement des gastroentérites au Sud du Bénin. REMISE. 2017
+; 11(1) : 1-15.
+[20] Sadou Nassirou R, Ibrahim ML, Moussa I, Mahamadou
+B, Ilagouma AT, Abdoulaye A, Ouwe MO, Ikhiri K. Evaluation
+in vitro de l’activité antiplasmodiale d’extraits de plantes issues
+de la pharmacopée traditionnelle du Niger: Sebastiania chamae-
+lea (L.) Müll. Arg., Euphorbia hirta L.,Cassia occidentalis L. et
+Cassia nigricans (Vahl) Greene. IJIAS. 2015 ; 10(2) : 498-505.
+[21] Gurpreet K, Satnam S, Shubham G, Bhartendu S, Sid-
+diqui A, Ravinesh M. Phytochemical investigation and evalua-
+tion of antianxiety activity on Psidium guajava Linn. leaf. World
+J Pharm Pharm Sci. 2017 ; 6(1) : 1332-1341.
+[22] Maïga MA. Etude de la chimie et des activités bi-
+ologiques de six (6) plantes utilisées dans le traitement tradition-
+nel du diabète : Allium cepa; Allium sativum; Daucus carota;
+Eucalyptus globulus; Psidium guajava et Solanum melongena.
+Thèse de l’U.S.T.T-B Mali, 2014.
+[23] Chenni M. Etude comparative de la composition chim-
+ique et de l’activité biologique de l’huile essentielle des feuilles
+du basilic ‘’Ocimum basilicum L.” extraite par hydro-distillation
+et par micro-ondes. Thèse de doctorat, Université d’Iran 1
+Ahmed BenBella, 2016.
+[24] Yovo M. Etude phytochimique et activités biologiques
+des extraits de plantes médicinales utilisées au Bénin dans le
+traitement des infections cutanées, urinaires et les septicémies.
+Thèse de doctorat, Université d’Abomey-Calavi, 2017.
+[25] Nikunj BP, Kaushik CP. Antibacterial activity of Euphor-
+bia hirta L. Ethanomedicinal Plant against Gram Negative UTI
+Pathogens. Int. J. Pharma Res. Allied Sci. 2014 ; 3 (2) :24-29.
+[26] Dongmo MCR. Evaluation des activités antidermatophi-
+tiques des extraits au méthanol et fractions d’Acalyphamanniana
+(Euphorbiacées) et Tristemma hirtum (Mélastomatacées). Mé-
+moire de Master de l’Université de Dschang, Cameroun, 2009.
+[27] Biswas B, Kimberly R, Fredrick M, Dwayne D, Anand
+Y. Antimicrobial activities of leaf extracts of guava (Psidium
+guajava L.) on two gram-negative and gram-positive bacteria.
+Int. J. Microbiol. 2013 ; Article ID746165.
+[28] Suresh K, Deepa P, Harisaranraj R, Vaira AV. Antimicro-
+bial and phytochemical investigation of the leaves of Carica pa-
+paya L., Cynodon dactylon (L.) Pers., Euphorbia hirta L., Melia
+azedarach L. and Psidium guajava L. Ethnobotanical Leaflets,
+2008 ; 12: 1184-91.
+[29] Osei-Safo D, Addae-Mensah I, Garneau FX, Kossi
+Koumaglo H. A comparative study of the antimicrobial activ-
+ity of the leaf essential oils of chemo-varieties of Clausena
+anisata (Willd.) Hook. f. ex Benth. Ind. Crops Prod. 2010 ; 32
+:634–638.
+Author details
+1Laboratory of Research in Applied Biology/ Unit of Research
+in Biotechnology of Animal Health and Production, Polytech-
+nic School of Abomey-Calavi,, University of Abomey-Calavi,
+01 BP 2009, Cotonou, Republic of Benin. 2Laboratory of Study
+and Research in Applied Chemistry/ Unit of Research on Vegetal
+Extracts and Natural Products, Polytechnic School of Abomey-
+Calavi, University of Abomey-Calavi, 01 BP 2009, Cotonou,
+Republic of Benin.

@@ -1,0 +1,1082 @@
+ORIGINAL ARTICLE
+Discovery Phytomedicine 2019, Volume 6, Number 4: 157-171
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 157
+CrossMark
+ABSTRAT
+The aim of this review was to provide knowledge on Phytochemistry 
+and Pharmacology of Justicia secunda Vahl. and Justicia species from 
+various electronic databases (Science Direct, PubMed Central, PubMed 
+and Google scholar). The scientific names of those plants species were 
+used as akeyword for the search, along with the terms phytochemistry 
+and pharmacology. The chemical structures of the Justicia species 
+naturally occurring compounds were drawn using ChemBioDraw Ultra 
+12.0 software package. Results revealed those plants are traditionally 
+used for the treatment of respiratory and gastrointestinal diseases 
+and as well as inflammation. Those plants are also utilized for their 
+effects on the central nervous system as hallucinogens, somniferous 
+agents, sedatives, depressors and treatments for epilepsy and other 
+mental disorders. Other species are popularly used in the treatment of 
+headache and fever, sedative, analgesic properties, cancer, diabetes, 
+and HIV. Those plants are reported to possess various biological 
+properties like antitumoral activity against different cancer cell 
+lines, anticancer activity against P388 lymphocytic leukemia in 
+mice, inhibitory activity in vivo against P-388 lymphocytic leukemia 
+growth and in vitro cytotoxicity in the 9-KB (human nasopharyngeal 
+carcinoma) an cell lines (Justicia spicigera Schltdl.), antioxidant, 
+antibacterial, antifungal, antiangiogenic, anthelmintic, and 
+hepatoprotective activities, human ovarian cancer cell line (Justicia 
+rhodoptera Baker), as well as prevention of some tumoral cell growth 
+(Justicia patentiflora Hemsl), bronchitis, arthritis, vaginal discharges, 
+dyspepsia and eye disease. These properties are due to the presence of 
+numerous naturally occurring phytochemicals like phenols, flavonoids, 
+alkaloids, tannins, glycosides, saponins, coumarins, terpenes and 
+Phytochemical studies on leaves from J. gendarussa revealed the 
+presence of flavonoids, alkaloids, triterpenes, amino acids, aromatic 
+amines, stigmasterol, lupeol and steroids. The results of the present 
+review of literature makes an interesting candidate for advanced 
+antisickling pharmacological investigations such as Justicia secunda 
+Vahl antisickling, anti-hemolytic and membrane stabilizing effects of 
+this plant.
+Keyword : Sickle cell Disease, phytochemistry, pharmacology, Justicia secunda Vahl.
+INTRODUCTION
+The World Health Organization (WHO) recog-
+nizes that traditional and complementary 
+medicines (TCM) are a vital part of the global 
+health care system.1 In Africa, it is estimated 
+that over 80% of the population continues to 
+rely on medicinal plant species to meet their 
+basic health care needs.2 Justicia is the largest 
+genus of Acanthaceae. Its species are widespread 
+in tropical regions of the world3 and are poorly 
+represented in temperate regions.4 Justicia this 
+genus of Acanthaceae, its species are found in 
+Asia, America and Africa. They are cultivated in 
+Democratic Republic of the Congo (DRC). Many 
+parts of those plants are used in traditional medi-
+cine to treat several diseases include, diabetes, 
+cancers, respiratory and gastrointestinal diseases 
+and as well as inflammation, central nervous 
+system as hallucinogens, somniferous agents, 
+sedatives, depressors and treatments for epilepsy 
+and other mental disorders. Other species are 
+used in the treatment of headache and fever, 
+sedative, analgesic, bronchitis, arthritis, vaginal 
+discharges, dyspepsia, and eye disease. Biological 
+activities of different extracts of Justicia are 
+well documented and a considerable amount of 
+phytochemicals was isolate from different parts 
+of those plants.
+Botany description and Geographical 
+Distribution
+The Acanthaceae family, order Scrophulariales, 
+superorder Lamiflorae (sensu Dahlgren), comprises 
+almost 250 genus with 2500 species. These plants 
+are distributed over the tropical and sub-tropical 
+regions3 and are poorly represented in temperate 
+regions.4 Justicia secunda Vahl. (Acanthaceae), 
+a native tropical herbaceous plant originating 
+1Département de chimie, Faculté des Sciences, Université de Kinshasa, B.P. 190 Kinshasa XI, République Démocratique du Congo
+2Département de Biologie, Faculté des Sciences, Université de Kinshasa, B.P. 190 Kinshasa XI, République Démocratique du Congo
+*Correspondence to:  
+Pius T. Mpiana, Département 
+de chimie, Faculté des Sciences, 
+Université de Kinshasa, B.P. 
+190 Kinshasa XI, République 
+Démocratique du Congo 
+ptmpiana@gmail.com
+Cite This Article: Kitadi, J.M., 
+Lengbiye, E.M., Gbolo, B.Z., 
+Inkoto, C.L., Muanyishay, C.L., 
+Lufuluabo, G.L., Tshibangu, D.S.T., 
+Tshilanda, D.D., Mbala, B.M., 
+Ngbolua, K., Mpiana, P.T. 2019. 
+Justicia secunda Vahl species : 
+Phytochemistry, Pharmacology and 
+Future Directions: A mini-re-
+view. Discovery Phytomedicine 
+6(4): 157-171. DOI:10.15562/
+phytomedicine.2019.93
+Volume No.: 6
+Issue: 4
+First page No.: 157
+RH_Author: XXX
+Doi: Discovery Phytomedicine.2019.93
+Original Article
+Justicia secunda Vahl species : Phytochemistry, 
+Pharmacology and Future Directions: A mini-review
+Jules M. Kitadi,1 Emmanuel M. Lengbiye,2 Benjamin Z. Gbolo,2  
+Clement L. Inkoto,2 Christophe L. Muanyishay,2 Georges L. Lufuluabo,2  
+Damien S.T. Tshibangu,1 Dorothée D. Tshilanda,1 Blaise M. Mbala,1  
+Koto-te-Nyiwa Ngbolua,2 Pius T. Mpiana1*
+158 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+from South America, is nowadays grown in other 
+tropical or subtropical African countries such as 
+Democratic Republic of the Congo. Justicia is the 
+largest genus of Acanthaceae, with approximately 
+600 species that are found in pantropical and trop-
+ical regions. The species of Justicia are described 
+as erect or scandent perennial herbs or subshrubs. 
+Leaves present cystoliths and are petiolate with a 
+leaf margin that is usually entire. Infl orescences 
+are in spikes or panicles cimas, and the species 
+rarely has solitary, terminal, or axillary fl owers. 
+The bracts and bracteoles are usually conspicuous 
+and imbricate. The species of Justicia can be easily 
+recognized by their bilabial corolla, with a posterior 
+lip that is generally two-lobed, an anterior lip that is 
+threelobed, two stamens, a capsule with four seeds, 
+and a basal sterile portion.5
+Ethnobotany
+Justicia secunda Vahl (Acanthaceae), a native 
+tropical herbaceous plant originating from South 
+America, is nowadays grown in other tropical or 
+subtropical African countries such as Democratic 
+Republic of the Congo. In the past, this plant was 
+grown in the local sur-roundings as an ornamental 
+until locals discovered its medicinal properties. The 
+leaves of this plant were subsequently used to cure-
+various illnesses such as anemia or hypertension 
+and are now widely used for many other medicinal 
+applications. The phytochemical composition of 
+various cultivar leaf extracts revealed the pres-
+ence of polyphenols such as flavonoids, tannins, 
+leuco-anthocyanins and anthocyanins.6 Flavonoids 
+were the largest class of phenolic compound found. 
+Several species of Justicia are widely used in folk 
+medicine (as shown in Table 1) for the treatment of 
+respiratory and gastrointestinal diseases as well as 
+inflammation. The plants are also utilized for their 
+effects on the central nervous system as hallucino-
+gens, somniferous agents, sedatives, depressors, and 
+treatments for epilepsy and other mental disorders, 
+with eleven occurrences. Other species are popu-
+larly used in the treatment of headache fever, anal-
+gesic properties, cancer, diabetes, and HIV. Whole 
+plant and aerial parts are used in folk medicine. 
+Extracts made from only the leaves are the most 
+used, followed by those extracts made from only the 
+roots. Some species are used as mixtures. For exam-
+ple, traditional physicians around Kotagiri village 
+near Ootacamund use a mixture of the powdered 
+roots of Cassia occidentalis L., Caesalpineae, Derris 
+brevipes var. Coriacea, Papillionaceae, and Justicia 
+simplex D. Don, Acanthaceae, to control fertility. 
+Administration of this mixture for a few days after 
+menstruation prevents conception without any 
+toxic effects. The number of pregnancies among 
+treated women was significantly less than that of 
+the control group. These results indicate the abor-
+tifacient nature of the roots of these plants.7 The 
+species Justicia pectoralis Jacq. is used as the major 
+component in a mixture to treat various diseases. 
+Moreover, Justicia insularis T. Anderson is used 
+as an infusion mixed with the leaves of Ambrosia 
+maritime L., Compositae. 
+METHODOLOGY
+A literature search was conducted to obtain infor-
+mation about the phytochemistry and pharmacog-
+nosy of Justicia species and Justicia secunda Vahl. 
+from various electronic databases (PubMed Central, 
+PubMed, Science Direct and Google scholar). The 
+scientific name of this plant species was used as 
+the keyword for the search, along with the terms 
+phytochemistry and pharmacognosy. The chemical 
+structures of the Justicia species naturally occurring 
+compound were drawn using ChemBioDraw Ultra 
+12.0 software package.
+RESULTS AND DISCUSSION
+Phytochemical Screening and 
+Pharmacology
+The phytocheistry screening of Justicia species 
+revealed the presence of various secondary 
+metabolites including the phenols, flavonoids,7,8 
+alkaloids,8,9 terpenes, tannins, glycosides,10,11 sapo-
+nins, coumarins, saponins, amino acids, aromatic 
+amines, stigmasterol, and lupeol. Lignans also show 
+antifeedant,11 antiangiogenic, antileishmanial, 
+antifungal, hypolipidemic, cardiotonic, antide-
+pressant,12 analgesic, hepatoprotective activities,13 
+antiplatelet,14 antiasthmatic, antiviral,15 antineo-
+plastic,16 insecticidal, and anti-inflammatory.
+Different chemical structures of various 
+compounds isolated from the Justicia genus 
+(Acanthaceae) are given in Figure 1. 
+Nur-Aqidah et  al.84 in Malaysia repported the 
+concentration of mineral nutrients in the selected 
+medicinal plants, the mean concentration level 
+of iron (Fe) varied between 0.14 and 0.21 mg/kg. 
+Fe is important for the formation of haemoglobin 
+and plays an essential role oxygen and electron 
+transfer in a human body.85 In cellular respira-
+tion, it functions as an important component of 
+enzymes involved in biological oxidation.86 Mn is 
+an important element as a structural component 
+of some enzymes as stated by.95 Mn is an essential 
+trace element for the growth of plants and animals. 
+Specifically, it is important in normal reproductive 
+functions and normal functioning of the central 
+nervous system.95 Justicia gendarussa and S. crispa 
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 159
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+Table 1  Geography Distribution, Part used, Popular use, Preparation/Adminstration, etnopharmacology activities 
+from Justicia genus
+Species Part used
+Preparation/ 
+adminstration Etnopharmacology activities Geography Distribution Reference
+J. adhatoda Root Teaspoonful of root
+Paste
+Bronchitis Nepal, India, and Pakistan 17,18
+Flower, fruit, 
+and root 
+Juice Cold, whooping cough, asthma,
+and helminthic
+India 17,19
+Leaf Juice Diarrhoea, dysentery, and
+glandular tumor
+India 17
+Leaf and 
+root
+Expectorant, tuberculosis,
+abortificient, antimicrobial,
+antitussive, and anticancer
+20
+J. albobracteata L. Guatemala 21
+J. anselliana Tropical Africa (Mali,
+Guinea, Liberia, Ghana,
+Nigeria, Togo, and Benin)
+22
+J. aurea Schltdl. Guatemala 21
+J. betonica MeOH - Northeast of Thailand 23, 24, 26 
+J. calycina Nees Whole plant Deconction Stimulant Suriname 27
+J. cataractae Venezuela 28
+J. ciliata Whole plant Deconction Fever and pain Taiwan, China 29
+J. comata L. Peru 30
+J. diffusa Willd Leaf Paste Skin disease India 26
+J. dumetorum Leaf and 
+flower
+Juice Eye infection Bolivia 15
+J. extensa Whole plant Crushed bark, leaf,
+and fruit
+Ichthyotoxic (affect the fish
+respiratory system by paralysis)
+Gabon 33
+J. flava Vahl Seed Powder Smeared on gingival, teeth
+pain, and nausea
+Tropical and Southern
+Africa
+34
+Leaf and 
+flower
+Haemorrhoids and stomach
+Disorders
+Ghana 35
+Leaf HIV/AIDS Uganda 36
+J. gendarussa
+Burm F
+Leaf Deconction Fever, hemiplegia, rheumatism, 
+arthritis, headache, earache, muscle 
+pain, respiratory disorders, and 
+digestive troubles
+China, India, Sri Lanka,
+and Malaysia
+18, 37, 38 
+Paste warmed 
+applied
+on the affected area
+Muscle pain and treatment of
+fractured bone
+Malaysia 39
+Poultice Rheumatism and arthritis Vietnam 39
+Deconction Analgesic to treat hemiplegia,
+rheumatism, arthritis, headache,
+and earache
+Srilanka 20
+Twig Deconction Herbal bath during childbirth Malaysia 39
+J.ghiesbreghtiana Leaf Deconction Stimulant and dysentery Mexico 40
+J. ideogenes Whole plant Warm decoctions Treatment of limb trembling Brazil 7
+J. insularis Leaf Cooked as soup Tooth ache, digestive, weaning
+agent, and laxative
+Nigeria 41
+J. neesii
+Ramamoorthy
+Whole plant Ethanolic extract Anticancer India 42
+160 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+Table 1  Continue
+Species Part used
+Preparation/ 
+adminstration Etnopharmacology activities Geography Distribution Reference
+J. patentiflora
+Hemsl.
+EtOAc North Vietnam 58
+J. pectoralis Jacq. Leaf Syrup Asthmas, cough, bronchitis, and
+Expectorant
+Tropical America 43, 44
+Leaf Aqueous infusion Menstruation pain, diuretic,
+cold, and cough
+Ecuador 45
+Aerial part Infusion, major
+component of
+mixtures
+Catarrh, allergic eruptions,
+somniferous, nervousness,
+sedative, and hypotensive
+Cuba 44
+Leaf and 
+Stem
+Diabetes, smooth muscle relaxant in 
+respiratory diseases, prostate diseases, 
+antibacterial, and sedative
+Colombia 46
+J. plectrantus Leaf Bath Headache Brazil 47
+J. procumbens L. Leaf Deconction Asthmas Taiwan and India 48
+Whole plant Juice Fever, pain due to
+pharyngolaryngeal swelling,
+and cancer
+Taiwan 14
+J. purpurea L. Root  - Insanity and other mental
+Disorders
+India 25
+J. reptans Swatz Leaf Infusion Colic Brazil 49
+J. schimperiana Leaf Juice of crushed 
+fresh
+Leaf
+Diarrhoea, dysentery, and other
+stomach disorders
+Ethiopia 50
+J. secunda Leaf Infusion Depression and anaemia Ghana 51
+Whole plant Decoction Anaemia Suriname and Congo 52
+J. sericea Aerial part  - Vaginitis and inflammation Peru 20
+J. simplex Root Mixture of 
+powdered
+roots of different
+plants
+Control fertility and
+Abortifacient
+India 53
+J. spicigera Leaf Deconctio Stimulant, colic, inflammation,
+acabies (skin infection
+caused by the itch mite),
+gastrointestinal disorders, and
+source of blue dye
+Mexico 30
+Aerial part Deconction Kidney infection, stimulant,
+dysentery, menstruation, uterine
+cancer and diabetes
+Mexico 9,54
+J. valida Taiwan 55
+Table 2  Biological activity of coumarin (1), flavonoids (2-5), alkaloids (6-13), triterpenes (14-21) and Lignans (22-63) 
+isolated from the species of Justicia
+Species Extract Compound Bioactivity Reference
+J. pectoralis EtOH Umbeliferone (1) Anti-inflammatory, antinociceptive, and bronchodilator 56
+J. cataractae EtOH 3´,4´Dihydroxyflavonol (2) Antioxidant, prevents diabetes, and vasodilator  57 
+J. gendarussa EtOH Apigenin (3) Anti-inflammatory and antitumor 58
+J. spicigera CHCl3 Kaempferitrin (4) Antimicrobial, anti-inflammatory, regulators of 
+macrophages, and reduce the blood glucose level
+59
+J. gendarussa EtOH Vitexin (5) Anti-inflammatory and antinociceptive 60
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 161
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+Table 2 Continue
+Species Extract Compound Bioactivity Reference
+J. betonica EtOAc 5H,6H Quinindolin-11-one 
+(6)
+- 61
+J. betonica EtOAc 10H-Quindoline (7) Antitumor 61
+J. betonica MeOH Jusbetonin (8) Antitumor 61
+J. adhatoda EtOH Vasicine (9) Bronchodilator, uterotonic, and anti-inflammatory 62
+J. adhatoda EtOH Vasicinone (10) Bronchodilator 62
+J. spicigera - Allantoin (11) Anti-inflammatory and anti-ulcer 63
+J. betonica EtOAc 6H-Quinindoline (12) - 61
+J. adhatoda EtOH Vasicinol (13) Bronchodilator 62
+J. betonica EtOH/H2O Justicioside A (14) - 64
+J. betonica EtOH/H2O Justicioside B (15) - 64
+J. betonica EtOH/H2O Justicioside C (16) - 64
+J. betonica EtOH/H2O Justicioside D (17) - 64
+J. betonica EtOH/H2O Justicioside E (18) - 64
+J. betonica EtOH/H2O Justicioside F (19) - 64
+J. betonica EtOH/H2O Justicioside G (20) - 64
+J. simplex MeOH Justicisaponin (21) Antifertility 65
+J. neesii EtOH Jusmicranthin (22) - 66
+J. neesii EtOH Jusmicranthin methyl ether 
+(23)
+- 66
+J. flava EtOH Helioxanthin (24) Inhibition human hepatitis B viral replication and 
+antitumor
+67
+J. procumbens EtOH Taiwanin E (25) Antiplatelet aggregation and antitumor 68
+J. purpurea MeOH Taiwanin E methyl ether (26) Antiplatelet aggregation 69
+J. procumbens MeOH Justicidin E (27) Inhibition of leukotriene biosynthesis by human 
+leukocytes
+70
+J. procumbens EtOH and
+MeOH
+Neojusticin A (28) Antiplatelet aggregation 71
+J. purpurea MeOH Justicidin B (29) Anti-inflammatory, antiplatelet aggregation, cytotoxycity, 
+antiviral, fungicidal, antiprotozoal against T. cruzi, 
+antimalarial, and antirheumatic
+72
+J. extensa EtOH Diphyllin (30) Cytotoxycity and antiviral 73
+J. extensa Justicidin A (31) Cytotoxycity, antiviral, ‘fish killing’properties, and 
+induced apoptosis in human hepatoma cells
+73
+J. purpurea MeOH Cleistanthin B (32) Antitumor 69
+J. neesii MeOH Neesiinoside A (33) - 61
+J. patentiflora EtOAc 4´´-O-Acetylpatentiflorin B 
+(34)
+- 74
+J. patentiflora EtOAc Patentiflorin A (35) Cytotoxicity against human carcinoma cells 74
+J. patentiflora EtOAc Patentiflorin B (36) Cytotoxicity against human carcinoma cells 74
+J.ciliata MeOH Tuberculatin (37) Antitumor 75
+J. ciliata CH2Cl2 Chinensinaphthol methyl 
+ether (38).
+Antiplatelet aggregation 76
+J. ciliata CH2Cl2 4´-Dimethyl 
+chinensinaphthol methyl 
+ether (40)
+Antiplatelet aggregation 76
+162 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+contained the highest zinc (Zn) concentration level 
+of 0.03 mg/kg followed by M. koenigii (0.02 mg/kg) 
+and C. asiatica (0.01 mg/kg). Zinc is essential to all 
+organisms and has an important role in metabo-
+lism, growth, development and general well-being, 
+as well as become a crucial co-factor for numerous 
+enzymes in the body.85 
+Insecticidal, anti-inflammatory and 
+antiviral activities
+Some species show antiviral activity (Justicia extensa 
+T. Anderson, Justicia gendarussa Burm f, J. procum-
+bens, Justicia reptans Sw., and Justicia valida Ridl.) 
+against in vitro HIV type 1 reverse transcriptase, 
+HIV replication, and vesicular stomatitis virus. 
+Table 2 Continue
+Species Extract Compound Bioactivity Reference
+J. betonica MeOH Chinensinaphthol (41) - 76
+J. hyssopifolia EtOAc Elenoside (42) Sedative, muscle relaxant, cytotoxic, antiviral, insecticidal, 
+cardiotonic, analgesic, inhibition of lipid peroxidation, 
+anti-inflammatory, and stimulant
+77
+J. ciliata CH2Cl2 Neojusticin B (43 Antiplatelet aggregation 76
+J. procumbens MeOH Justicidinoside A (44) Antiviral 78
+J. procumbens MeOH Justicidinoside C (45) Antiviral 78
+J. procumbens MeOH Justicidinoside B (46) Antiviral 78
+J. extensa EtOH Justicidin P (47) - 73
+J. patentiflora EtOAc Justicinol (48) Mild effect on the CNS 74  
+J. ciliata MeOH Ciliatoside A (49) Anti-inflammatory 71
+J. procumbens MeOH Procumbenoside A (50) Antitumor 75
+J. betonica MeOH Cilinaphthalide A (51) Antitumor 75
+J. betonica MeOH Cilinaphthalide B (52) Antiplatelet aggregation induced by adrenaline l
+76
+J. procumbens MeOH Diphylin apioside (53) Cytotoxycity and antiviral 78
+J. procumbens MeOH Diphyllin apioside-5-acetate 
+(54)
+Cytotoxycity and antiviral 78
+J. purpurea MeOH Juspurpurin (55) - 69
+J. patentiflora EtOAc Carinatone (56) - 71
+J. patentiflora EtOAc Justiflorinol (57) 71
+J. flava EtOH (+)-Isolariciresinol (58) Anti-inflammatory 65
+J. purpurea MeOH Sesamin (59) Angiogenic 82
+J. glauca EtOAc Justiciresinol (60) Cytotoxicity 66
+J. purpurea MeOH Xanthoxylol (61) Antitumor effect on mouse, skin, and pulmonary 
+carcinogenesis
+03
+67
+J. flava EtOH Podophyllotoxin (62) Cancer chemotherapy
+J. ciliata CH2Cl2 Heliobuphthalmin (63)  Antineoplasic 83  [
+Table 3  Concentration levels of mineral nutrients (mg/kg) in the selected medicinal plants.
+Plants
+Element (mg/kg) Murraya koenigii Strobilantes crispa Justicia gendarussa Centella Asiatica
+Ca 5.16 ± 0.00 5.76 ± 0.00 5.26 ± 0.00 5.71 ± 0.00
+Cu 0.01 ± 0.00 0.01 ± 0.00 0.01 ± 0.00 0.01 ± 0.00
+Fe 0.15 ± 0.00 0.14 ± 0.00 0.15 ± 0.00 0.21 ± 0.00
+Mg 1.37 ± 0.02 1.13 ± 0.00 1.72 ± 0.00 1.49 ± 0.02
+Mn 0.00 ± 0.00 0.00± 0.00 0.00± 0.02 0.00± 0.00
+Mo 0.0 0± 0.00 ND 0.01 ± 0.00 0.01 ± 0.00
+Zn 0.02 ± 0.00 0.03 ± 0.00 0.03 ± 0.00 0.01 ± 0.00
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 163
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+164 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 165
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+166 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+However, the species popularly used as antiviral 
+agents, Justicia betonica L. and Justicia flava (Vahl) 
+Vahl, were either not included in pharmacological 
+studies, or were tested but did not show antiviral 
+activity. Crude water extracts of the aerial parts of 
+J. gendarussa proved to be strongly active against 
+in vitro HIV type 1 reverse transcriptase. Based on 
+these observations, this species might be further 
+explored for its antiviral indications. Moreover, this 
+species shows positive antimosquito tests, which 
+were observed on the growth and development of 
+IV-stage larvae of Aedes aegypti mosquitoes. A brief 
+exposure to concentrations of 0.05 to 0.50 mg/mL of 
+the plant extract is required to produce 100% larvi-
+cidal activity. The extracts of J. pectoralis were found 
+to be the most toxic larvicide among the species of 
+Justicia extracts tested. Extracts of J. pectoralis have 
+estrogenic, progestagenic, and anti-inflammatory,87 
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 167
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+effects, explaining the plants traditional use in 
+menopause and PMS therapies.
+In Uganda. Lignans Justicidin B, Diphyllin, 
+Justicidin A, Justicidinoside A, Justicidinoside 
+C,  Justicidinoside B, Diphylin apioside, and 
+Diphyllin apioside-5-acetate show antiviral activi-
+ties. These compounds were isolated from J. extensa, 
+J.  betonica, and J. procumbens, and also show the 
+same biological activities. Conversely, lignans 
+Justicidin B, Diphyllin, Justicidin A, Patentiflorin 
+A, Patentiflorin B, and Elenoside show antiviral 
+activity, but were isolated from species that did 
+not show this activity. A larger investigation of the 
+extracts of these species is required to explore their 
+antiviral activities.88
+Cytotoxicy and Antibacterial activity
+In Malaysia a total of 300 endophytes were isolated 
+from various parts of plants (Justicia spp) from the 
+National Park, Pahang. 3.3% of extracts showed 
+potent (IC50 < 0.01 μg/ml) cytotoxic activity 
+against the murine leukemic P388 cell line and 
+1.7% against a human chronic myeloid leukemic 
+cell line K562.Sporothrix sp. (KK29FL1) isolated 
+from Costus speciosus showed strong cytotoxicity 
+against colorectal carcinoma (HCT116) and human 
+breast adenocarcinoma (MCF7) cell lines with IC50 
+values of 0.05 μg/ml and 0.02 μg/ml, respectively. 
+Antibacterial activity has been demonstrated for 
+8% of the extracts. J. pectoralis showed high anti-
+bacterial activity against E. coli, E. faecalis, and 
+S. epidermidis.89
+The antimicrobial activity of biosynthe-sized 
+AgNP were evaluated against foodborne bacteria 
+(Bacillus cereus, Klebsiella pneumoniae andEnt-
+erobacter aerogenes) and phytopathogenic fungi 
+(Colletotrichum sp., Fusarium solani, Alternaria 
+alternata and Macrophomina phaseolina). The 
+elemental profile of synthesized nano-particles 
+using J. spicigera shows higher counts at 3 keV due to 
+silver, confirming the formationof silver nanoparti-
+cles. Scanning electron microscopy (SEM) analysis 
+showed a particle sizebetween 86 and 100 nm with 
+spherical morphology. AgNP showed effective anti-
+bacterial andantifungal activity against the tested 
+organisms principally with B.  cereus, K. pneumo-
+niae, E. aerogenes, A. alternata and M. phaseolina. 
+Therefore, further studies are needed to confirm 
+thepotential of AgNP from J. spicigera in the control 
+of indicator organisms under field conditions.90
+Anticancer activity
+An ethanol extract of Justicia neesii Ramamoorthy 
+(Acanthaceae) exhibited anticancer activity against 
+P388 lymphocytic leukemia in mice. A methanol 
+extract of the whole plant of Justicia procumbens L. 
+showed significant inhibitory activity in vivo 
+against P-388 lymphocytic leukemia growth and in 
+vitro cytotoxicity in the 9-KB (human nasopharyn-
+geal carcinoma) cell culture assay.91 Some species 
+also showed inhibition of human cancer cell lines, 
+mainly toward human cervical carcinoma (Justicia 
+ciliata Jaqc.), T 47D and HeLa human cell lines 
+(Justicia spicigera Schltdl.), and human ovarian 
+cancer cell line (Justicia rhodoptera Baker), as well 
+as prevention of some tumoral cell growth (Justicia 
+patentiflora Hemsl.). The activity of popularly used 
+whole-plant extracts of J. procumbens and J.  nesii 
+and leaf extracts of J. specigera as anticancer agents 
+was confirmed by employing the same parts of 
+the plant. However, the anticancer properties of 
+Justicia adhatoda L. have not yet been confirmed 
+pharmacologically.92
+Zahidah et  al. 2014,13 report them the metha-
+nolic leaf extracts of the Justicia gendarussa from 
+five different locations in the Southern region of 
+Peninsular Malaysia and two flavonoids, kaemp-
+ferol and naringenin, were tested for cytotoxic 
+activity. Kaempferol and naringenin were two 
+flavonoids detected in leaf extracts using gas chro-
+matography-flame ionization detection (GC-FID). 
+The results indicated that highest concentrations 
+of kaempferol and naringenin were detected in 
+leaves extracted from Mersing with 1591.80mg/
+kg and 444.35mg/kg, respectively. Positive 
+correlationswere observed between kaempferol 
+and naringenin concentrations in all leaf extracts 
+analysedwith the Pearson method. The effects of 
+kaempferol and naringenin from leaf extracts were 
+examined on breast cancer cell lines (MDA-MB-
+231 and MDA-MB-468) using MTT assay. Leaf 
+extract from Mersing showed high cytotoxicity 
+against MDA-MB-468 and MDA-MB-231 with 
+IC50 values of 23 𝜇g/mL and 40 𝜇g/mL, respec-
+tively, compared to other leaf extracts. Kaempferol 
+possessed high cytotoxicity against MDA-MB-468 
+andMDA-MB-231 with IC50 values of 23 𝜇g/mL and 
+34 𝜇g/mL, respectively. These findings suggest that 
+the presence of kaempferol in Mersing leaf extract 
+contributed to high cytotoxicity of both MDA-MB-
+231 and MDA-MB-468 cancer cell lines.
+Antiepileptic and anxiolytic activities.
+The popular use of J. pectoralis in the treatment of 
+epilepsy and anxiety has been confirmed with the 
+ethanol extract of the leaves. The ethanol extracts 
+of J. pectoralis, Justicia aurea Schltdl., and Justicia 
+albobracteata Leonard were tested in vitro for their 
+ability to inhibit GABAtransaminase (GABA-T) or 
+to bind to the GABA Abenzodiazepine receptor, 
+two principal drug targets in epilepsy and anxiety. 
+A significant positive correlation between GABA-T 
+168 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+inhibition and the relative frequency of use for 
+epilepsy was observed. Moreover, an even stronger 
+correlation between GABA Abinding and the rela-
+tive frequency of use for shock was observed. Thus 
+the Q’eqchi’ traditional knowledge of J. pectoralis, 
+J. aurea, and J. albobracteata is associated with the 
+plants antiepileptic and anxiolytic activities.92
+Anti-sickling activity
+Anthocyanins from Justicia secunda were found 
+to possess anti-sickling activity. Treated SS red 
+blood cells recovered a normal, classical biconcave 
+form with a radius of 3.3±0.3μm, similar to that of 
+normal erythrocytes.93 The results obtained indicate 
+that all these three collected species from Kisangani 
+and its surrounding, located at the North-East of 
+the D.R. CONGO, showed an antisickling activity. 
+The chemical screening performed on these plants 
+showed in these three species the presence of poly-
+phenols of which anthocyanins. The tests carried 
+out with anthocyanins extracts showed a significant 
+activity of these metabolites with a normalization 
+rate of the form of the sickle cells of 87% for Justicia 
+gendarussa, 92% for Justicia insularis and 80% for 
+Justicia tenella. The minimal concentrations in 
+anthocyanins necessary to have maximal normal-
+ization are respectively of 7.2 μg/mL for Justicia 
+insularis, 7.6 μg/mL for Justicia gendarussa and 
+7.7 μg/mL for Justicia tenella.6
+The acute toxicity was performed with up and 
+down method and the highest dose used was 2 g/kg. 
+The anti-inflammatory activity was evaluated using 
+the carrageenan and formalin-induced paw edema 
+models, and antinociceptive activity was evaluated 
+using acetic acid-induced writhing reflex and tail flick 
+test models while the antioxidant activity was evalu-
+ated using 2,2-diphenyl-2- picryl hydrazyl (DPPH) 
+and ferric reducing antioxidant power (FRAP) 
+photometric assay. The extract was well tolerated 
+as no signs of toxicity or death were noticed during 
+the period of observation. The extract produced a 
+concentration dependent increase in antioxidant 
+activities in both DPPH and FRAP models. The 
+extract produced its optimum activity at 400 lg/ml 
+in both DPPH (54.07%) assay and FRAP (1.58 lM) 
+assay. The extract produced significant (P < 0.05) 
+dose-dependent increase in both anti-inflammatory 
+and antinociceptive activities. The antinociceptive 
+and anti-inflammatory activities of the extract (0.4 g/
+kg) were comparable with the reference drugs (aspi-
+rin and pentazocine) used in the study.94
+CONCLUSION
+The present mini-review was undertaken with the 
+aim of providing highlight and updated information 
+on the medically and scientific evidence supporting 
+the multiple uses of Justicia secunda Vahl. species 
+in Traditional Medicine. Medicinal plant species 
+are rich in secondary metabolites of pharmaceu-
+tical relevance. The advantages of their therapeutic 
+uses in various ailments are their safety besides 
+being economical, effective and available. Justicia 
+species are pharmacologically and chemically 
+much studied but limited to only some activities, 
+although the diversity of secondary metabolites 
+present in the plants species especially alkaloids, 
+saponins tannins, flavonoids, terpenoids, amino 
+acids, aromatic amines, stigmasterol, lupeol, 
+coumarin, steroids, glycosides have already been 
+isolated from there. Justicia secunda Vahl. is a good 
+candidate for Tropical Plants Screening Research 
+program for the development of lead compounds 
+against genetic and parasitic diseases such as the 
+antisickling, anti-hemolytic and membrane stabi-
+lizing effects.
+ACKNOWLEDGEMENT
+The authors gratefully acknowledge and thank the 
+TWAS and the Swedish International Development 
+Agency (SIDA) for the grant
+REFERENCES
+1. Burton A, Smith M and Falkenberg T. Building WHO’s 
+global Strategy for Traditional Medicine. European Journal 
+of Integrative Medicine 2015 ; 7 : 13–15.
+2. Ngbolua KN, Rafatro H, Rakotoarimanana H, 
+Urverg  RS, Mudogo V, Mpiana PT and Tshibangu DST. 
+Pharmacological screening of some traditionally-used 
+antimalarial plants from the Democratic Republic of 
+Congo compared to its ecological taxonomic equiva-
+lence in Madagascar. Int. J. Biol. Chem. Sci. 2011a ; 5 (5) : 
+1797-1804.
+3. Wasshausen DC and Wood JRI. Acanthaceae of Bolivia. 
+Contr U S Natl Herb 2004 ; 49 : 1-152.
+4. Mabberley DJ. The plant-book : a portable dictionary of the 
+vascular plants. Cambridge : Cambridge University Press 
+1997.
+5. Braz DM, Carvalho-Okano RM and Kameyama C. 
+Acanthaceae da Reserva Florestal Mata do Paraíso, Viçosa 
+Minas Gerais. Rev Brasil Bot 2002 ; 25 : 495-504.
+6. Mpiana PT, Bokota MT, Ndjele MBL, Mudogo V, 
+Tshibangu DST, Ngbolua KN, Atibu EK, Kwembe JTK 
+and Makelele  LK. Antisickling activity of three species 
+of Justicia from Kisangani (D.R. Congo) : J. tenella, J. 
+gendarussa and J. insularis. Int. J. Biol. Chem. Sci. 2010  ; 
+4(6) : 1953-1961. ISSN 1991-8631. 
+7. Adams M, Gmunder F and Hamburger M. Plants tradi-
+tionally used in age related brain disorders – a survey of 
+ethnobotanical literature. J Ethnopharmacol. 2007  ; 113 : 
+363-381.
+8. Agra FM, Freitas PF and Barbosa-Filho JM. Synopsis of the 
+plants known as medicinal and poisonous in Northeast of 
+Brazil. Rev Bras Farmacogn 2007 ; 17 : 114-140.
+9. Alonso SJ, Navarro E, Trujillo J, Jorge E and Pérez C. 
+Profile of activity and cytotoxic screening of elenoside. 
+Method Find Exp Clin Pharmacol 1997 ; 19 : 186-187.
+10. Amin AH and Mehta DR. Bronchodilator alkaloid from 
+Adhatoda vasica. Nature 1959 ; 184 : 1317-1318.
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 169
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+11. Bedoya LM, Alvarez A, Bermejo M, Gonzalez N, 
+Beltran  M, Sanchez-Palomino S, Cruz SM, Gaitán I, Del 
+Olmo E, Escarcena R, Garcia PA, Cáceres A, Feliciano 
+AS and Alcamí J. Guatemalan plants extracts as virucides 
+against HIV-1 infection. Phytomedicine 2008 ; 15 : 520-524.
+12. Ghosal S, Banerjee S and Frahm AW. Prostalidins A, B, 
+C and retrochinensin : a new antidepressant : 4-aryl-2,3- 
+naphthalide lignans from Justicia prostrata. Chem Ind 
+1979 ; 23 : 854-855.
+13. Zahidah A, Siti Pauliena MB, Azman Abd S and 
+Shajarahtunnur J. Cytotoxic Activities against Breast 
+Cancer Cells of Local Justicia gendarussa Crude Extracts. 
+Evidence-Based Complementary and Alternative 
+Medicine, 2014 :12. htt.://dx.doi.org/10.1155/2014/732980.
+14. Chen CC, Hsin WW, Ko FN, Huang YL, Ou JC and 
+Teng  CM. Antiplatelet arylnaphthalide lignans from 
+Justicia procumbens. J Nat Prod 1996 ; 59 : 1149-1150.
+15. Asano J, Chiba K, Tada M and Yoshii T. Antiviral activity 
+of lignans and their glycosides from Justicia procumbens. 
+Phytochemistry 1996 ; 42 : 713-717.
+16. Gordaliza M, Castro MA, Del Corral JMM and San 
+Feliciano A. Antitumor properties of podophyllotoxin 
+and related compounds. Curr Pharm Design 2000  ; 6 : 
+1811- 1839.
+17. Kumar A, Ram J, Samarth RM and Kumar M. Modulatory 
+influence of Adhatoda vasica Nees leaf extract against 
+gamma irradiation in Swiss albino mice. Phytomedicine 
+2005 ; 12 : 285-293.
+18. Rajakumar N and Shivanna MB. Ethno-medicinal appli-
+cation of plants in the eastern region of Shimoga district, 
+Karnataka, India. J Ethnopharmacol 2009 ; 126 : 64-73. 
+19. Joshi AR and Joshi K. Indigenous knowledge and uses of 
+medicinal plants by local communities of the Kali Gandaki 
+Watershed Area, Nepal. J Ethnopharmacol 2000  ; 73 : 
+175-183.
+20. Roja G, Vikrant BH, Sandur SK, Sharma A and Pushpa 
+KK. Accumulation of vasicine and vasicinone in tissue 
+cultures of Adhatoda vasica and evaluation of the free 
+ radical-scavenging activities of the various crude extracts. 
+Food Chem 2011 ; 126 : 1033-1038.
+21. Awad R, Ahmed F, Bourbonnais-Spear N, Mullally  M, 
+Ta CA, Tang A, Merali Z, Maquin P, Caal F, Cal V, 
+Poveda L, Vindas PS, Trudeau VL and Arnason JT. 
+Ethnopharmacology of Q’eqchi’ Maya antiepileptic and 
+anxiolytic plants: effects on the GABAergic system. J 
+Ethnopharmacol 2009 ; 125 : 257-264.
+22. Kpoviessi S, Gbaguidi F, Gbenou J, Accrombessi G, 
+Haddad  M, Moudachirou M and Quetin-Leclercq J. 
+Allelopathic effects on cowpea (Vigna unguiculata (L.) 
+Walp) plant and cytotoxic activities of sterols and triter-
+penes isolated from Justicia anselliana (NEES) T. Anders. 
+Electron J Nat Subs 2006 ; 1 : 12-19.
+23. Day S, Chiu N, Won S and Lin C. Cytotoxic lignans of 
+Justicia ciliata. J Nat Prod 1999 ; 62 : 1056-1058.
+24. Kanchanapoom T, Noiarsa P, Ruchirawat S, Kasai R and 
+Otsuka H. Triterpenoidal glycosides from Justicia betonica. 
+Phytochemistry 2004 ; 65 : 2613-2618.
+25. Kavitha J, Gopalaiah K, Rajasekhar DG and Subbaraju V. 
+Juspurpurin, an unusual secolignan glycoside from Justicia 
+purpurea. J Nat Prod 2003 ; 66 : 1113-1115.
+26. Subbaraju GV, Kavitha JDR, Rajasekhar D and Jimenez JI. 
+Jusbetonin, the first indolo [3,2-b] quinoline alkaloid 
+glycoside, from Justicia betonica. J Nat Prod 2004  ; 67 : 
+461-462.
+27. Ruysschaert S, Van Andel T, Van de Putte K and Van 
+Damme P. Bathe the baby to make it strong and healthy: 
+plant use and child care among Saramaccan Maroons in 
+Suriname. J Ethnopharmacol 2009 ; 121 : 148-170.
+28. Jiménez G, Hasegawa M, Rodríguez M, Estrada O, 
+Méndez  J, Castillo A, Gonzalez-Mujica F, Motta N, 
+Vásquez J and Romero-Vecchione E. Biological screening 
+of plants of the Venezuelan Amazons. J Ethnopharmacol 
+2001 ; 77 : 77-83.
+29. Day SH, Chiu NY, Tsao LT, Wang JP and Lin CN. New 
+lignan glycosides with potent antiinflammatory effect, iso-
+lated from Justicia ciliata. J Nat Prod 2000 ; 63 : 1560-1562.
+30. Meckes M, David-Rivera AD, Nava-Aguilar V and 
+Jimenez A (2004). Activity of some Mexican medicinal 
+plant extracts on carrageenan-induced rat paw edema. 
+Phytomedicine 11: 446-451.
+31. Ignacimuthu S, Ayyanar M and Sankarasivaraman K. 
+Ethnobotanical study of medicinal plants used by Paliyar 
+tribals in Theni district of Tamil Nadu, India. Fitoterapia 
+2008 ; 79 : 562-568.
+32. Bourdy G, Michel LRC and Roca-Coulthard A. 
+Pharmacopoeia in a shamanistic society : the Izoceño- 
+Guaraní (Bolivian Chaco). J Ethnopharmacol 2004  ; 91 : 
+189-208.
+33. Ibrahim B, M’batchi B, Mounzeo H and Bourobou H. 
+Effect of Tephrosia vogelii and Justicia extensa on Tilapia 
+nilotica in vivo. J Ethnopharmacol 2000 ; 69 : 99-104.
+34. El-Kamali HH. Ethnopharmacology of Medicinal Plants 
+used in North Kordofan (Western Sudan). Ethnobot 
+Leaflets 2009 ; 13 : 203-210.
+35. Agbovie T, Ofusohene-Djan W, Crentsil OR, Dennis F, 
+Odamtten GT and Amponsah K. Conservation and sus-
+tainable use of medicinal plants in Ghana ethnobotanical 
+survey.2002  ; http://www.unep-wcmc.org/ species/plants/
+ghana, access in March 2011.
+36. Lamorde M, Tabuti JRS, Obua C, Kukunda-Byobona  C, 
+Lanyero H, Byakika-Kibwika P, Bbosa GS, Lubega A, 
+Ogwal-Okeng J, Ryan M, Waako PJ and Merry C. Medicinal 
+plants used by traditional medicine practitioners for the 
+treatment of HIV/AIDS and related conditions in Uganda. 
+J Ethnopharmacol 2010 ; 130 : 43-53.
+37. Hadi S and Bremner JB. Initial studies on alkaloids from 
+Lombok medicinal plants. Molecules 2001 ; 6 : 117-129.
+38. Sridhar C, Krishnaraju AV and Subbaraju GV. 
+Antiinflammatory constituents of Teramnus labialis. 
+Indian J Pharm Sci 2006 ; 68 : 111-114.
+39. Ahmad FB and Holdsworth DK. Medicinal plants of Sabah, 
+East Malaysia - Part I. Pharm Biol 2003 ; 41 : 340-346.
+40. Ismail LD, Lorenz P and Stermitz FR. Isolation and syn-
+thesis of an α-malamic acid derivative from Justicia ghies-
+breghtiana. J Nat Prod 1998 ; 61 : 1174-1176.
+41. Ajibesin KK, Ekpo BA, Bala DN, Essien EE and 
+Adesanya SA. Ethnobotanical survey of Akwa Ibom State 
+of Nigeria. J Ethnopharmacol 2008 ; 115 : 387-408.
+42. Rajasekhar D and Subbaraju GV. Jusmicranthin, a new 
+arylnaphthalide lignan from Justicia neesii. Fitoterapia 
+2000 ; 71 : 598-599. 
+43. Leal LKAM, Ferreira AAG, Bezerra GA, Matos FJA and 
+Viana GSB. Antinociceptive, anti-inflammatory and bron-
+chodilator activities of Brazilian medicinal plants contain-
+ing coumarin : a comparative study. J Ethnopharmacol 
+2000 ; 70 : 151-159.
+44. Cano JH and Volpato G. Herbal mixtures in the traditional 
+medicine of Eastern Cuba. J Ethnopharmacol 2004  ; 90 : 
+293- 316.
+45. Tene V, Malagón O, Finzi PV, Vidari G, Armijos C and 
+Zaragoza T. An ethnobotanical survey of medicinal 
+plants used in Loja and Zamora-Chinchipe, Ecuador. J 
+Ethnopharmacol 2007 ; 111 : 63-81.
+46. Lizcano LJ, Bakkali F, Ruiz-Larrea MB and Ruiz-Sanz JI. 
+Antioxidant activity and polyphenol content of aqueous 
+extracts from Colombian Amazonian plants with medic-
+inal use. Food Chem 2010 ; 119 : 1566-1570.
+47. Leão R, Ferreira MRC and Jardim MAG. Levantamento de 
+plantas de uso terapêutico no município de Santa Bárbara 
+do Pará, Estado do Pará, Brasil. Rev Bras Farmacogn 2000 ; 
+88 : 21-25.
+48. Savithramma N, Sulochana C and Rao KN. Ethnobotanical 
+survey of plants used to treat asthma in Andhra Pradesh, 
+India. J Ethnopharmacol 2007 ; 113 : 54-61. 
+49. Rodrigues E, Duarte-Almeida JM and Pires JM. Perfil 
+farmacológicoe fitoquímico de plantas indicadas pelos 
+caboclos do Parque Nacional do Jaú (AM) como poten-
+ciais analgésicas. Parte I. Rev Bras Farmacogn 2010  ; 20 : 
+981-991.
+50. Umer S, Asres K and Veeresham C. Hepatoprotective 
+activities of two Ethiopian medicinal. Plant Pharm Biol 
+2010 ; 48 : 461-468.
+170 Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 www.phytomedicine.ejournals.ca
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+51. N’Guessan K, Kouassi KH and Ouattara K. Plants used 
+to treat anaemia, in traditional medicine, by Abbey and 
+Krobou populations, in the South of Côte-d’Ivoire. J Appl 
+Sci Res 2010 ; 6 : 1291-1297.
+52. Teklehaymanot T. Ethnobotanical study of knowledge 
+and medicinal plants use by the people in Dek Island in 
+Ethiopia. J Ethnopharmacol 2000 ; 124 : 69-78.
+53. Badami S, Aneesh R, Sankar S, Sathishkumar MN, 
+Suresh B and Rajan S. Antifertility activity of Derris brevi-
+pes variety coriacea. J Ethnopharmacol 2003 ; 84 : 99-104.
+54. Vega-Avila E, Espejo-Serna A, Alarcon-Aguilar F and 
+Velazco- Lesama R. Cytotoxic activity of four Mexican 
+medicinal plants. P W Pharmacol Soc 2009 ; 52 : 78-82.
+55. Woradulayapinij W, Soonthornchareonnon N and 
+Wiwa C. In vitro HIV type 1 reverse transcriptase inhibi-
+tory activities of Thai medicinal plants and Canna indica L. 
+Rhizomes. J Ethnopharmacol 2005 ; 101 : 84-89.
+56. Leal LKAM, Ferreira AAG, Bezerra GA, Matos FJA and 
+Viana GSB Antinociceptive, anti-inflammatory and bron-
+chodilator activities of Brazilian medicinal plants contain-
+ing coumarin : a comparative study. J Ethnopharmacol 
+2000 ; 70 : 151-159.
+57. Woodman OL and Malakul W. 3′,4′-Dihydroxyflavonol 
+prevents diabetes-induced endothelial dysfunction in rat 
+aorta. Life Sci 2009 ; 85 : 54-59.
+58. Cai J, Zhao XL, Liu AW, Nian H and Zhang SH. Apigenin 
+inhibits hepatoma cell growth through alteration of gene 
+expression patterns. Phytomedicine 2011 ; 18 : 366-373.
+59. Cazarolli LH, Zanatta L, Jorge AP, De Sousa E, Horst H, 
+Woehl VM, Pizzolatti MG, Szpoganicz B and Silva FR. 
+Follow-up studies on glycosylated flavonoids and their 
+complexes with vanadium : their anti- hyperglycemic 
+potential role in diabetes. Chem-Biol Interact 2006 ; 163 : 
+177-191.
+60. Gorzalczany S, Marrassini C, Miño J, Acevedo C and 
+Ferraro G. Antinociceptive activity of ethanolic extract and 
+isolated compounds of Urtica circularis. J Ethnopharmacol 
+2011 ; 134 : 733-738.
+61. Subbaraju GV, Kavitha JDR, Rajasekhar D and Jimenez JI. 
+Jusbetonin, the first indolo [3,2-b] quinoline alkaloid 
+glycoside, from Justicia betonica. J Nat Prod 2004  ; 67 : 
+461-462.
+62. Rachana, Sujata B, Mamta P, Manoj KP and Sonam S. 
+Review and future perspectives of using vasicine, and 
+related compounds. IGJPS 2011 ; 1 : 85-98.
+63. Niu CS, Chen W, Wu HT, Cheng KC, Wen YJ, Lin KC 
+and Cheng JT. Decrease of plasma glucose by allantoin, 
+an active principle of yam (Dioscorea spp.), in streptozo-
+tocin- Induced Diabetic Rats. J Agr Food Chem 2010 ; 58 : 
+12031-12035.
+64. Kanchanapoom T, Noiarsa P, Ruchirawat S, Kasai R and 
+Otsuka H. Triterpenoidal glycosides from Justicia betonica. 
+Phytochemistry 2004 ; 65 : 2613-2618.
+65. Badami S, Aneesh R, Sankar S, Sathishkumar MN, Suresh 
+B and Rajan S. Antifertility activity of Derris brevipes vari-
+ety coriacea. J Ethnopharmacol 2003 ; 84 : 99-104.
+66. Rajasekhar D, Subbaraju GV. Jusmicranthin, a new aryl-
+naphthalide lignan from Justicia neesii. Fitoterapia 2000  ; 
+71 : 598-599.
+67. Tseng YP, Kuo YH, Hu CP, Jeng KS, Janmanchi D, Lin CH, 
+Chou CK and Yeh SF. The role of helioxanthin in inhibiting 
+human hepatitis B viral replication and gene expression by 
+interfering with the host transcriptional machinery of viral 
+promoters. Antivir Res 2008 ; 77 : 206-214.
+68. Chang ST, Wang DSY, Wu CL, Shiah SG, Kuo YH and 
+Chang CJ Cytotoxicity of extractives from Taiwania 
+cryptomerioides heartwood. Phytochemistry 2000  ; 55 : 
+227-232.
+69. Kavitha J, Gopalaiah K, Rajasekhar DG and Subbaraju V. 
+Juspurpurin, an unusual secolignan glycoside from Justicia 
+purpurea. J Nat Prod 2003 ; 66 : 1113-1115. 
+70. Thérien M, Fitzsimmons BJ, Scheigets J, Macdonald 
+D, Choo LY, Guay J, Falgueyret JP and Riendeau D. 
+Justicidin  E. A new leukotriene biosynthesis inhibitor. 
+Bioorg Med Chem Lett 1993 ; 3 : 2063-2066.
+71. Wu CM, Wu SC, Chung WJ, Lin HC, Chen KT, Chen YC, 
+Hsu MF, Yang JM, Wang JP and Lin CN (2007). Antiplatelet 
+effect and selective binding to cyclooxygenase (COX) by 
+molecular docking analysis of flavonoids and lignans. Int J 
+Mol Sci 8 : 830-841.
+72. Kaur K, Jain M, Kaur T and Jain R. Antimalarials from 
+nature. Bioorg Med Chem 2009, 17 : 3229 -3256.
+73. Wang CLJ and Ripka WC. Total synthesis of justikidin P. 
+A new lignan lactone from Justicia extensa. J Org Chem 
+1983 ; 48 : 2555-2557.
+74. Susplugas S, Van Hung N, Bignon J, Thoison O, 
+Kruczynski  A, Sévenet T and Guéritte F. Cytotoxic aryl-
+naphthalene lignans from a Vietnamese acanthaceae, 
+Justicia patentiflora. J Nat Prod 2005 ; 68 : 734-738.
+75. Lu YH, Wei BL, Ko HH and Lin CN. DNA strand-scission 
+by phloroglucinols and lignans from heartwood of Garcinia 
+subelliptica Merr. and Justicia plants. Phytochemistry 2008 ; 
+69 : 225-233.
+76. Day S, Chiu N, Won S and Lin C. Cytotoxic lignans of 
+Justicia ciliata. J Nat Prod 1999 ; 62 : 1056-1058.
+77. Navarro E, Alonso SJ, Trujillo J, Jorge E and Pérez. C 
+Pharmacological effects of elenoside, an arylnaphthalene 
+lignan. Biol Pharm Bull 2001b ; 24 : 254-258.
+78. Asano J, Chiba K, Tada M and Yoshii T. Antiviral activity 
+of lignans and their glycosides from Justicia procumbens. 
+Phytochemistry 1996 ; 42 : 713-717.
+79. Küpeli E, Erdemoglu N, Yesilada E and Sener B. Anti- 
+inflammatory and antinociceptive activity of taxoids 
+and lignans from the heartwood of Taxus baccata L. J 
+Ethnopharmacol 2003 ; 89 : 265-270.
+80. Subbaraju GV, Kumar KK, Raju BL, Pillai KR and 
+Reddy  MC. Justiciresinol, a new furanoid lignan from 
+Justicia glauca. J Nat Prod 1991 ; 6 : 1639-1641.
+81. Meckes M, David-Rivera AD, Nava-Aguilar V and 
+Jimenez  A. Activity of some Mexican medicinal plant 
+extracts on carrageenan-induced rat paw edema. 
+Phytomedicine 2004 ; 11 : 446-451.
+82. Samuel OO, Maxwell IE, Yusuf NO and Beatrice CO. 
+Antioxidant, anti-inflammatory and antinociceptive activ-
+ities of methanolic extract of Justicia secunda Vahl leaf. 
+Alexandria Journal of Medicine 2017 ; 53, 207–213.
+83. Duarte N, Lage H, Abrantes M and Ferreira MJU. Phenolic 
+compounds as selective antineoplasic agents against mul-
+tidrug-resistant human cancer cells. Planta Med 2010 ; 76 : 
+975-980.
+84. Nur-Aqidah AA, Mardiana IA and Darlina M. Species 
+Identification Based on trnH-psbA and ITS2 Genes and 
+Analysis of Mineral Nutrients of Selected Medicinal Plants 
+from Malaysia. Jordan Journal of Biological Sciences 2017 ; 
+Vol. 10 :117 – 125, ISSN : 1995-6673. 
+85. Omokehide A, Lajide L, Hammed O and Babatunde O. 
+Trace elements and major Minerals evaluation in Fluerya 
+aestuans Linn. Int J Pharm Sci 2013 ; 3 : 328- 332.
+86. Soetan KO, Olaiya CO and Oyewole OE. The importance 
+of mineral elements for humans, domestic animals and 
+plants : A review. Afr J Food Sci 2010 ; 4 : 200-222.
+87. Navarro E, Alonso SJ, Trujillo J, Jorge E and Pérez C. 
+Central nervous activity of elenoside Phytomedicine 2004 ; 
+11 : 498-503.
+88. Geone M, Corrêa, Antônio F and de C Alcântara. Chemical 
+constituents and biological activities of species of Justicia - 
+a review. Revista Brasileira de Farmacognosia Brazilian 
+Journal of Pharmacognosy 2012 ; 22(1) : 220-238.
+89. Nurul AMNH, Kalavathy R, Siong ML, Ibtisam AW, 
+Anthony LJ Cole and Abu Bakar AM Cytotoxic and 
+antibacterial activities of endophytic fungi isolated from 
+plants at the National Park, Pahang, Malaysia BMC 
+Complementary and Alternative Medicine 2009  ; 9  :46. 
+Doi :10.1186/1472-6882-9-46.
+90. Bernardo-Mazariegos, Benjamín V, Daniel GM, Ali A, 
+Olivia TC, Carlos CD and Federico GM. Silver nanopar-
+ticles from Justicia spicigera and theirantimicrobial 
+potentialities in the biocontrolof foodborne bacteria and 
+phytopathogenic fungi. Rev Argent Microbiol. 2018  ; 7. 
+https://doi.org/10.1016/j.ram.2018.05.002.
+www.phytomedicine.ejournals.ca Discovery Phytomedicine 2019; 6(4): 157-171. doi: 10.15562/phytomedicine.2019.93 171
+Justicia secunda Vahl species ... Jules M. Kitadi, et al.
+91. Chen CC, Lin CF, Huang YL, Ko FN and Teng CM. 
+Bioactive constituents from the flower buds and peduncles 
+of Lindera megaphylla. J Nat Prod 1995 ; 58 : 1423-1425.
+92. Geone M, Corrêa, Antônio F and de C Alcântara. Chemical 
+constituents and biological activities of species of Justicia - 
+a review. Revista Brasileira de Farmacognosia Brazilian 
+Journal of Pharmacognosy 2012 ; 22(1) : 220-238.
+93. Mpiana PT, Ngbolua KN, Bokota MT, Kasonga TK, Atibu 
+EK, Tshibangu DST and Mudogo V. In vitro effects of 
+anthocyanin extracts from Justicia secunda Vahl on the 
+solubility of haemoglobin S and membrane stability of 
+sickle erythrocytesBlood Transfus 2010  ; 8 : 248-54. DOI 
+10.2450/2009.0120-09.
+94. Samuel OO, Maxwell IE, Yusuf NO and Beatrice CO. 
+Antioxidant, anti-inflammatory and antinociceptive activ-
+ities of methanolic extract of Justicia secunda Vahl leaf. 
+Alexandria Journal of Medicine 2017 ; 53, 207–213.
+95. Devi RK and Sarma HNK. Profile of trace elements in 
+selected medicinal plants of North East India. IOSR J Appl 
+Phys 2013 ; 4 : 47-51.
+This work is licensed under a Creative Commons Attribution-Non Commercial-No 
+Derivatives 4.0 International License. To view a copy of this license,  
+visit http://creativecommons.org/licenses/by-nc-nd/4.0/
