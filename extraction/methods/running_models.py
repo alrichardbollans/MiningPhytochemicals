@@ -82,8 +82,9 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
     output = []
 
     for extraction in extractions:
-        if extraction.taxa is not None:
-            output.extend(extraction.taxa)
+        if extraction is not None:
+            if extraction.taxa is not None:
+                output.extend(extraction.taxa)
 
     deduplicated_extractions = deduplicate_and_standardise_output_taxa_lists(output)
     add_all_extra_info_to_output(deduplicated_extractions)

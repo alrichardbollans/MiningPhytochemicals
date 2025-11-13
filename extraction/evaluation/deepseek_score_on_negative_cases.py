@@ -24,7 +24,7 @@ def get_errors_from_result(result):
             taxon_errors.append([taxon.scientific_name, sanitised_doi])
             if len(taxon.compounds) == 0:
                 taxa_without_compounds_errors.append([taxon.scientific_name, sanitised_doi])
-    print(pair_errors)
+    print(f'pair_errors:{pair_errors}')
     print(taxon_errors)
     print(taxa_without_compounds_errors)
 
@@ -58,13 +58,13 @@ def medplant_cases():
     relevant_data = relevant_data.drop_duplicates(subset=['DOI'])
     relevant_data = relevant_data[
         ['DOI', 'title', 'sanitised_dois', 'plant_species_binomials_unique_total', 'plant_species_binomials_counts']]
-    print(relevant_data)
+    # print(relevant_data)
     assert len(relevant_data[relevant_data['plant_species_binomials_unique_total'] > 0]) == len(relevant_data)
     relevant_data.to_csv(os.path.join('outputs', 'medplant_data_info.csv'))
 
 
 def main():
-    random_cases()
+    # random_cases()
     medplant_cases()
 
 
