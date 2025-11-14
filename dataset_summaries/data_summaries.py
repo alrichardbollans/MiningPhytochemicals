@@ -227,6 +227,11 @@ def output_geographic_plots(df, outpath: str):
                                       outpath,
                                       'Region')
 
+def summarise_underlying_text_data(dois, out_tag):
+    df = pd.DataFrame()
+    df['refDOI'] = dois
+    print(df)
+    df.to_csv(os.path.join('summaries', out_tag, 'underlying_text_data.csv'))
 
 def main():
     # get_underlying_sp_distributions()
@@ -234,10 +239,12 @@ def main():
     summarise(pd.read_csv(knapsack_plantae_compounds_csv, index_col=0), 'knapsack')
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
+    summarise_underlying_text_data(dois, 'deepseek_validaton')
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
     summarise(deepseek_df, 'deepseek_validaton', output_data=True)
 
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
     summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
 
 
