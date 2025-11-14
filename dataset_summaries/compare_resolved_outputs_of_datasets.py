@@ -92,7 +92,7 @@ def main():
     deepseek_df['pairs'] = deepseek_df['accepted_name'] + deepseek_df['InChIKey_simp']
     only_in_deepseek = deepseek_df[
         deepseek_df['pairs'].isin(only_in_deepseek_merge_info['pairs'].values)]
-    summarise(only_in_deepseek, 'deepseek_phytochem_papers_not_in_other_sources')
+    summarise(only_in_deepseek, 'deepseek_phytochem_papers_not_in_other_sources', output_data=True)
 
     # With validation data
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)

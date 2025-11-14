@@ -155,11 +155,14 @@ def plot_dist_of_metric(df_with_region_data, metric, out_path: str = None, color
     plt.clf()
 
 
-def summarise(df: pd.DataFrame, out_tag, do_regression=True):
+def summarise(df: pd.DataFrame, out_tag, output_data=False):
     outpath = os.path.join('summaries', out_tag)
     pathlib.Path(outpath).mkdir(parents=True, exist_ok=True)
     df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
     df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
+
+    if output_data:
+        df.to_csv(os.path.join(outpath, 'occurrences.csv'))
 
     output_geographic_plots(df, outpath)
 
@@ -232,10 +235,10 @@ def main():
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
-    summarise(deepseek_df, 'deepseek_validaton', do_regression=False)
+    summarise(deepseek_df, 'deepseek_validaton', output_data=True)
 
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers')
+    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
 
 
 if __name__ == '__main__':
