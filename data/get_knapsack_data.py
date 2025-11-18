@@ -10,7 +10,7 @@ import sys
 # Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
 # (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)
 tqdm.pandas()
-from extraction.methods.extending_model_outputs import resolve_name_to_inchi
+from extraction.methods.extending_model_outputs import resolve_name_to_inchi, resolve_name_to_smiles
 
 sys.path.append('..')
 from data.get_wikidata import family_pkl_file, data_path, WCVP_VERSION, tidy_final_output
@@ -44,12 +44,22 @@ def tidy_knapsack_output(knapsack_results: pd.DataFrame, output_csv: str):
     knapsack_results = add_CAS_ID_translations_to_df(knapsack_results, 'CAS ID', os.path.join(knapsack_data_path, 'cirpycache'))
     problems = knapsack_results[knapsack_results['InChIKey']=='']
     assert len(problems)==0
-    unresolved = knapsack_results[knapsack_results['InChIKey'].isna()][['example_compound_name']].drop_duplicates(subset=['example_compound_name'])
-    unresolved['InChIKey_from_name'] = unresolved['example_compound_name'].progress_apply(resolve_name_to_inchi)
-    knapsack_results = pd.merge(knapsack_results, unresolved, on='example_compound_name', how='left')
+    unresolved_inchikey = knapsack_results[knapsack_results['InChIKey'].isna()][['example_compound_name']].drop_duplicates(subset=['example_compound_name'])
+    unresolved_inchikey['InChIKey_from_name'] = unresolved_inchikey['example_compound_name'].progress_apply(resolve_name_to_inchi)
+    knapsack_results = pd.merge(knapsack_results, unresolved_inchikey, on='example_compound_name', how='left')
     knapsack_results['InChIKey'] = np.where(knapsack_results['InChIKey'].isna(),
                                             knapsack_results['InChIKey_from_name'], knapsack_results['InChIKey'])
     knapsack_results = knapsack_results.drop(columns=['InChIKey_from_name'])
+
+    unresolved_smiles = knapsack_results[knapsack_results['SMILES'].isna()][['example_compound_name']].drop_duplicates(
+        subset=['example_compound_name'])
+    unresolved_smiles['SMILES_from_name'] = unresolved_smiles['example_compound_name'].progress_apply(resolve_name_to_smiles)
+    knapsack_results = pd.merge(knapsack_results, unresolved_smiles, on='example_compound_name', how='left')
+    knapsack_results['SMILES'] = np.where(knapsack_results['SMILES'].isna(),
+                                            knapsack_results['SMILES_from_name'], knapsack_results['SMILES'])
+    knapsack_results = knapsack_results.drop(columns=['SMILES_from_name'])
+
+
     tidy_final_output(knapsack_results, output_csv)
 
 

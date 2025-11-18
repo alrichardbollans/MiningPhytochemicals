@@ -7,6 +7,7 @@ import pandas as pd
 import pydantic_core
 from tqdm import tqdm
 
+from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_wikidata import data_path
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
@@ -170,10 +171,21 @@ def main():
     #     print(result_)
 
     ### Phytochem paper examples
-    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    for i in tqdm(range(len(result))):
-        sanitised_doi = result[i]
-        fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
+    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    # for i in tqdm(range(len(result))):
+    #     sanitised_doi = result[i]
+    #     fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
+    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
+    #                             models[example_model_name][1],
+    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+    #                             rerun_inchi_resolution=False)
+    #
+    #     print(result_)
+
+    ### colombian paper examples
+    colombian_dois = get_sanitised_dois_for_colombian_papers()
+    for sanitised_doi in colombian_dois:
+        fulltextpath = os.path.join(colombian_dois[sanitised_doi], f'{sanitised_doi}.txt')
         result_ = query_a_model(models[example_model_name][0], fulltextpath,
                                 models[example_model_name][1],
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,

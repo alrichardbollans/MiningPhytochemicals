@@ -10,7 +10,7 @@ from wcvpy.wcvp_download import get_all_taxa
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column, get_genus_from_full_name
 from pubchempy import get_compounds
 
-from data.get_wikidata import data_path, inchi_translation_cache
+from data.get_wikidata import data_path, inchi_translation_cache, smiles_translation_cache
 from extraction.methods.string_cleaning_methods import clean_compound_strings
 from extraction.methods.structured_output_schema import TaxaData, Taxon
 
@@ -19,9 +19,14 @@ try:
 except FileNotFoundError:
     pkled_inchi_translation_result = {}
 
+try:
+    pkled_smiles_translation_result = pickle.load(open(smiles_translation_cache, 'rb'))
+except FileNotFoundError:
+    pkled_smiles_translation_result = {}
+
 _original_timeout = 0.34
 _timeout = [0.3]
-_wcvp_taxa = get_all_taxa()
+# _wcvp_taxa = get_all_taxa()
 
 
 def add_accepted_info(deepseek_output: TaxaData):
@@ -82,6 +87,46 @@ def resolve_name_to_inchi(name: str):
                 pickle.dump(pkled_inchi_translation_result, pfile)
     return pkled_inchi_translation_result[standard_name]
 
+
+def resolve_name_to_smiles(name:str):
+    """
+
+        """
+    standard_name = clean_compound_strings(name)
+    standard_name = standard_name.replace('β', 'beta')
+    standard_name = standard_name.replace('α', 'alpha')
+    standard_name = standard_name.replace('ψ', 'psi')
+    standard_name = standard_name.replace('γ', 'gamma')
+    standard_name = standard_name.replace('δ', 'delta')
+    failed_search = False
+    if standard_name not in pkled_smiles_translation_result:
+        out = None
+        if standard_name is not None and standard_name != '':
+
+            try:
+
+                time.sleep(_timeout[0])
+                compounds = get_compounds(standard_name, 'name')
+                if compounds is not None and len(compounds) > 0:
+                    out = compounds[0].smiles  # Take first result
+                else:
+                    # print(f"Name not found in PubChem: {standard_name}")
+
+                    out = cirpy.resolve(standard_name, 'smiles')
+
+                _timeout[0] = _original_timeout
+            except (urllib.error.HTTPError, urllib.error.URLError):
+                out = None
+                failed_search = True
+                print(f'WARNING: not resolved: {name}')
+                _timeout[0] = _timeout[0] * 2
+        if out is not None:
+            assert is_valid_inchikey(out)
+        pkled_smiles_translation_result[standard_name] = out
+        if not failed_search:
+            with  open(inchi_translation_cache, 'wb') as pfile:
+                pickle.dump(pkled_smiles_translation_result, pfile)
+    return pkled_smiles_translation_result[standard_name]
 
 def add_inchi_keys(deepseek_output: TaxaData):
     for taxon in deepseek_output.taxa:

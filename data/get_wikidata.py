@@ -126,7 +126,7 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
         wikidata_results = fill_match_ids(wikidata_results, c_id)
     wikidata_results['InChIKey_simp'] = wikidata_results['InChIKey'].apply(simplify_inchi_key)
 
-    wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp'])
+    wikidata_results = wikidata_results.dropna(subset=['InChIKey_simp', 'Standard_SMILES', 'CAS ID'], how='all')
 
     if for_paper_analysis:
         wikidata_results = wikidata_results.drop_duplicates(subset=['organism_name', 'example_compound_name', 'refDOI'],
@@ -161,7 +161,7 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
         outcols.append('refDOI')
     acc_df = acc_df[outcols]
 
-    acc_df = acc_df.dropna(subset=['InChIKey', 'organism_name', wcvp_accepted_columns['name']], how='any')
+    acc_df = acc_df.dropna(subset=[wcvp_accepted_columns['name']], how='any')
     acc_df = acc_df.sort_values(by=[wcvp_accepted_columns['name'], 'example_compound_name'])
     acc_df.to_csv(output_csv)
     acc_df.describe(include='all').to_csv(output_csv.replace('.csv', '_summary.csv'))

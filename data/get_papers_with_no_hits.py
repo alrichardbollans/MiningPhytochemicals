@@ -72,7 +72,6 @@ def get_sanitised_dois_for_papers(dir_name: str):
 
     return random_txt_dir, result
 
-
 def main():
     # get_random_fulltexts()
     get_med_plant_full_texts()
