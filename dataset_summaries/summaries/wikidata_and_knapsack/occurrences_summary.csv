@@ -1,0 +1,5 @@
+,example_compound_name,InChIKey,InChIKey_simp,organism_name,accepted_name,accepted_name_w_author,accepted_species,accepted_family,refDOI,pairs
+count,531606,531606,531606,531606,531606,531606,517957,531606,421755,531606
+unique,170906,159490,100496,37429,28372,28372,25976,366,54949,364312
+top,beta-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,KZJWDPNRJALLNS,Arabidopsis thaliana,Arabidopsis thaliana,Arabidopsis thaliana (L.) Heynh.,Citrus × aurantium,Asteraceae,10.1002/FFJ.2730100605,Delphinium ajacisBMZNJVXOLCBDPZ
+freq,2482,3051,4192,1786,1786,1786,2042,72637,901,18

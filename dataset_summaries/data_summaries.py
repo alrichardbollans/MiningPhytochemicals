@@ -235,8 +235,11 @@ def summarise_underlying_text_data(dois, out_tag):
 
 def main():
     # get_underlying_sp_distributions()
-    summarise(pd.read_csv(wikidata_plantae_compounds_csv, index_col=0), 'wikidata')
-    summarise(pd.read_csv(knapsack_plantae_compounds_csv, index_col=0), 'knapsack')
+    wikidata = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
+    knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
+    summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack')
+    summarise(wikidata, 'wikidata')
+    summarise(knapsack, 'knapsack')
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
     summarise_underlying_text_data(dois, 'deepseek_validaton')
