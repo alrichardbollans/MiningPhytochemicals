@@ -2,7 +2,11 @@ import os
 import pickle
 
 import pandas as pd
-from phytochempy.compound_properties import simplify_inchi_key, fill_match_ids
+from tqdm import tqdm
+# Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
+# (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)
+tqdm.pandas()
+from phytochempy.compound_properties import simplify_inchi_key, fill_match_ids, standardise_SMILES
 from phytochempy.wikidata_searches import get_wikidata_id_for_taxon, generate_wikidata_search_query, submit_query
 from wcvpy.wcvp_download import get_all_taxa, wcvp_columns, wcvp_accepted_columns
 from wcvpy.wcvp_name_matching import get_accepted_wcvp_info_from_ipni_ids_in_column, output_record_col_names, \
@@ -15,6 +19,7 @@ tracheophyte = 'Q27133'
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
 data_path = os.path.join(repo_path, 'data')
 inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
+smiles_translation_cache = os.path.join(data_path, 'smiles_translation_cache.pkl')
 compound_occurence_path = os.path.join(data_path, 'wikidata')
 _temp_path = os.path.join(compound_occurence_path, 'temp')
 model_data_path = os.path.join(compound_occurence_path, 'model_data')
@@ -116,8 +121,8 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
 
     :return:
     '''
-
-    for c_id in ['InChIKey']:
+    wikidata_results['Standard_SMILES'] = wikidata_results['SMILES'].progress_apply(standardise_SMILES)
+    for c_id in ['InChIKey', 'Standard_SMILES', 'CAS ID']:
         wikidata_results = fill_match_ids(wikidata_results, c_id)
     wikidata_results['InChIKey_simp'] = wikidata_results['InChIKey'].apply(simplify_inchi_key)
 
@@ -149,7 +154,7 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
     else:
         acc_df = get_accepted_info_from_names_in_column(wikidata_results, 'organism_name', wcvp_version=WCVP_VERSION)
 
-    outcols = ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'organism_name', wcvp_accepted_columns['name'],
+    outcols = ['example_compound_name', 'InChIKey', 'InChIKey_simp', 'SMILES', 'Standard_SMILES', 'CAS ID', 'organism_name', wcvp_accepted_columns['name'],
                wcvp_accepted_columns['name_w_author'],
                wcvp_accepted_columns['species'], 'accepted_family']
     if 'refDOI' in acc_df.columns:
