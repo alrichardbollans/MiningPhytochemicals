@@ -132,7 +132,6 @@ def get_sanitised_dois_for_colombian_papers():
 def main():
     # get_species_to_collect()
     iterate_over_all_missing_species()
-    # get_all_colombian_fulltexts()
 
 
 if __name__ == '__main__':
