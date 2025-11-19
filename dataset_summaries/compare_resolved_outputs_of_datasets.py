@@ -3,6 +3,7 @@ import pathlib
 
 import pandas as pd
 
+from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
@@ -94,6 +95,18 @@ def main():
         deepseek_df['pairs'].isin(only_in_deepseek_merge_info['pairs'].values)]
     summarise(only_in_deepseek, 'deepseek_phytochem_papers_not_in_other_sources', output_data=True)
 
+
+    ## Colombian data
+    colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
+    colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
+    species_to_collect = \
+        pd.read_csv(os.path.join('..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
+            'accepted_species'].tolist()
+    colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
+    compare_two_outputs_accepted(pd.concat([wikidata, knapsack_data]), colombian_data,
+                                 'deepseek_on_colombian_papers_vs_all_wikidata_knapsack',
+                                 'WikiData and KNApSAcK',
+                                 'DeepSeek')
     # With validation data
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
