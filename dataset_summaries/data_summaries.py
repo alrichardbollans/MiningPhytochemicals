@@ -12,6 +12,7 @@ from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distrib
 import statsmodels.api as sm
 from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name, get_accepted_info_from_names_in_column
 
+from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
@@ -228,6 +229,8 @@ def output_geographic_plots(df, outpath: str):
                                       'Region')
 
 def summarise_underlying_text_data(dois, out_tag):
+    pathlib.Path(os.path.join('summaries', out_tag)).mkdir(parents=True, exist_ok=True)
+
     df = pd.DataFrame()
     df['refDOI'] = dois
     print(df)
@@ -249,6 +252,10 @@ def main():
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
     summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
     summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
+
+    colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
+    summarise_underlying_text_data(colombian_dois, 'colombian_papers')
+    summarise(get_deepseek_accepted_output_as_df(colombian_dois), 'colombian_papers', output_data=True)
 
 
 if __name__ == '__main__':

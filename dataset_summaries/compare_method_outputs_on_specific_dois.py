@@ -18,9 +18,11 @@ def get_wikidata_examples_to_check(dois: list):
         verbatim_results, accepted_results = check_records_for_doi(doi)
         for taxa in accepted_results[3].taxa:
             for compound in taxa.inchi_key_simps:
-                wikidata_potentially_bad_examples.append([taxa.accepted_name, str(taxa.matched_names),compound,taxa.inchi_key_simps[compound], doi, 'wikidata'])
-    out_df = pd.DataFrame(wikidata_potentially_bad_examples, columns=['accepted_name', 'matched_names', 'compound', 'inchi_key_simps','doi', 'source'])
-    out_df.to_csv(os.path.join('wikidata_deepseek_comparison_on_validation_data', 'wikidata_potentially_bad_examples.csv'))
+                wikidata_potentially_bad_examples.append(
+                    [taxa.accepted_name, str(taxa.matched_names), compound, taxa.inchi_key_simps[compound], doi, 'wikidata'])
+    out_df = pd.DataFrame(wikidata_potentially_bad_examples,
+                          columns=['accepted_name', 'matched_names', 'compound', 'inchi_key_simps', 'doi', 'source'])
+    out_df.to_csv(os.path.join('comparisons', 'wikidata_deepseek_comparison_on_validation_data', 'wikidata_potentially_bad_examples.csv'))
 
 
 def count_unresolved_compound_names(taxadata: TaxaData):
@@ -28,7 +30,8 @@ def count_unresolved_compound_names(taxadata: TaxaData):
     unresolved = 0
     for taxon in taxadata.taxa:
         for name in taxon.compounds:
-            if name in pkled_inchi_translation_result and pkled_inchi_translation_result[name] is not None and pkled_inchi_translation_result[name] != '':
+            if name in pkled_inchi_translation_result and pkled_inchi_translation_result[name] is not None and pkled_inchi_translation_result[
+                name] != '':
                 resolved += 1
             else:
                 unresolved += 1
@@ -100,9 +103,6 @@ def get_counts_for_dois(dois: list, verbatim=True):
             'deepseek_unresolved_compound_names': deepseek_unresolved_compound_names}
 
 
-
-
-
 def main():
     ## Validation Data
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
@@ -112,31 +112,20 @@ def main():
 
     results = get_counts_for_dois(dois)
     pd.DataFrame.from_dict(results, orient='index').to_csv(
-        os.path.join('wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_counts.csv'))
+        os.path.join('comparisons', 'wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_counts.csv'))
     result_venn_diagram(results['found_in_wikidata_but_not_deepseek'],
-                   results['found_in_deepseek_but_not_wikidata'],
-                   results['agreements'], os.path.join('wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_venn.jpg'), 'WikiData', 'DeepSeek')
-    results = get_counts_for_dois(dois, verbatim=False)
-    pd.DataFrame.from_dict(results, orient='index').to_csv(os.path.join('wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_counts.csv'))
-    result_venn_diagram(results['found_in_wikidata_but_not_deepseek'],
-                   results['found_in_deepseek_but_not_wikidata'],
-                   results['agreements'], os.path.join('wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_venn.jpg'), 'WikiData', 'DeepSeek')
-
-    ## Test Data
-    doi_data_table = pd.read_csv(test_data_csv, index_col=0)
-    dois = doi_data_table['refDOI'].unique().tolist()
-    results = get_counts_for_dois(dois)
-    pd.DataFrame.from_dict(results, orient='index').to_csv(
-        os.path.join(outpath, 'verbatim_test_data_counts.csv'))
-    result_venn_diagram(results['found_in_wikidata_but_not_deepseek'],
-                   results['found_in_deepseek_but_not_wikidata'],
-                   results['agreements'], os.path.join(outpath, 'verbatim_test_data_venn.jpg'))
+                        results['found_in_deepseek_but_not_wikidata'],
+                        results['agreements'],
+                        os.path.join('comparisons', 'wikidata_deepseek_comparison_on_validation_data', 'verbatim_validation_data_venn.jpg'),
+                        'WikiData', 'DeepSeek')
     results = get_counts_for_dois(dois, verbatim=False)
     pd.DataFrame.from_dict(results, orient='index').to_csv(
-        os.path.join(outpath, 'resolved_test_data_counts.csv'))
+        os.path.join('comparisons', 'wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_counts.csv'))
     result_venn_diagram(results['found_in_wikidata_but_not_deepseek'],
-                   results['found_in_deepseek_but_not_wikidata'],
-                   results['agreements'], os.path.join(outpath, 'resolved_test_data_venn.jpg'))
+                        results['found_in_deepseek_but_not_wikidata'],
+                        results['agreements'],
+                        os.path.join('comparisons', 'wikidata_deepseek_comparison_on_validation_data', 'resolved_validation_data_venn.jpg'),
+                        'WikiData', 'DeepSeek')
 
 
 if __name__ == '__main__':
