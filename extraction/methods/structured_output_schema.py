@@ -27,7 +27,7 @@ class Taxon(BaseModel, extra=Extra.allow):
     )
 
 
-class TaxaData(BaseModel):
+class TaxaData(BaseModel, extra=Extra.allow):
     """Extracted data about taxa."""
 
     # Creates a model so that we can extract multiple entities.

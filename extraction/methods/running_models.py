@@ -11,8 +11,8 @@ from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_wikidata import data_path
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
-from data.parse_refs import fulltext_dir, sanitise_doi
-from extraction.methods.loading_files import read_file_and_chunk
+from data.parse_refs import wikidatafulltext_dir, sanitise_doi
+from extraction.methods.loading_files import read_file_and_chunk, get_txt_from_file
 from extraction.methods.prompting import standard_prompt
 from extraction.methods.structured_output_schema import TaxaData, deduplicate_and_standardise_output_taxa_lists
 
@@ -89,6 +89,10 @@ def query_a_model(model, text_file: str, context_window: int, pkl_dump: str = No
 
     deduplicated_extractions = deduplicate_and_standardise_output_taxa_lists(output)
     add_all_extra_info_to_output(deduplicated_extractions)
+
+    text = get_txt_from_file(text_file)
+    deduplicated_extractions.text = text
+
     if pkl_dump:
         with open(pkl_dump, "wb") as file_:
             pickle.dump(deduplicated_extractions, file_)
@@ -135,52 +139,52 @@ def main():
     example_model_name = 'deepseek-chat'
 
     ## Validation data examples
-    # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-    # for doi in doi_data_table['refDOI'].unique().tolist():
-    #     print('###########')
-    #     print(doi)
-    #     sanitised_doi = sanitise_doi(doi)
-    #     fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
-    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
-    #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
-    #
-    #     print(result_)
-    #
-    # ### Negative examples
-    # random_txt_dir, result = get_sanitised_dois_for_papers('random papers')
-    # for sanitised_doi in result:
-    #     print('###########')
-    #     print(sanitised_doi)
-    #     fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
-    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
-    #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
-    #
-    #     print(result_)
-    #
-    # medplant_txt_dir, result = get_sanitised_dois_for_papers('medplant papers')
-    # for sanitised_doi in result:
-    #     print('###########')
-    #     print(sanitised_doi)
-    #     fulltextpath = os.path.join(medplant_txt_dir, f'{sanitised_doi}.txt')
-    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
-    #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
-    #
-    #     print(result_)
+    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    for doi in doi_data_table['refDOI'].unique().tolist():
+        print('###########')
+        print(doi)
+        sanitised_doi = sanitise_doi(doi)
+        fulltextpath = os.path.join(wikidatafulltext_dir, f'{sanitised_doi}.txt')
+        result_ = query_a_model(models[example_model_name][0], fulltextpath,
+                                models[example_model_name][1],
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
 
-    ### Phytochem paper examples
-    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    # for i in tqdm(range(len(result))):
-    #     sanitised_doi = result[i]
-    #     fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
-    #     result_ = query_a_model(models[example_model_name][0], fulltextpath,
-    #                             models[example_model_name][1],
-    #                             pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
-    #                             rerun_inchi_resolution=False)
-    #
-    #     print(result_)
+        print(result_)
+
+    ### Negative examples
+    random_txt_dir, result = get_sanitised_dois_for_papers('random papers')
+    for sanitised_doi in result:
+        print('###########')
+        print(sanitised_doi)
+        fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
+        result_ = query_a_model(models[example_model_name][0], fulltextpath,
+                                models[example_model_name][1],
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
+
+        print(result_)
+
+    medplant_txt_dir, result = get_sanitised_dois_for_papers('medplant papers')
+    for sanitised_doi in result:
+        print('###########')
+        print(sanitised_doi)
+        fulltextpath = os.path.join(medplant_txt_dir, f'{sanitised_doi}.txt')
+        result_ = query_a_model(models[example_model_name][0], fulltextpath,
+                                models[example_model_name][1],
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
+
+        print(result_)
+
+    ## Phytochem paper examples
+    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    for i in tqdm(range(len(result))):
+        sanitised_doi = result[i]
+        fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
+        result_ = query_a_model(models[example_model_name][0], fulltextpath,
+                                models[example_model_name][1],
+                                pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                rerun_inchi_resolution=False)
+
+        print(result_)
 
     ### colombian paper examples
     colombian_dois = get_sanitised_dois_for_colombian_papers()
