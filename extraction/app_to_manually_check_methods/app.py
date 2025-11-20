@@ -6,33 +6,20 @@ from shiny import App, reactive, render, ui
 import sys
 
 sys.path.append(os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals'))
-from data.get_data_with_full_texts import validation_data_csv
-from extraction.app_to_manually_check_methods.helper_functions import highlight_text, \
-    get_name_compound_pairs_for_doi, get_text
+from extraction.app_to_manually_check_methods.helper_functions import highlight_text
 
-# Global results dictionary
-result = {"found_pairs": [], "not_found_pairs": []}
-doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-dois = doi_data_table['refDOI'].unique().tolist()
-
-found_cache_pkl = os.path.join('outputs', 'found_pairs.pkl')
-try:
-    found_cache = pickle.load(open(found_cache_pkl, 'rb'))
-except FileNotFoundError:
-    found_cache = []
-    pickle.dump(found_cache, open(found_cache_pkl, 'wb'))
-not_found_cache_pkl = os.path.join('outputs', 'not_found_pairs.pkl')
-
-try:
-    not_found_cache = pickle.load(open(not_found_cache_pkl, 'rb'))
-except FileNotFoundError:
-    not_found_cache = []
-    pickle.dump(not_found_cache, open(not_found_cache_pkl, 'wb'))
-
-# Define the Shiny app
 app_ui = ui.page_fluid(
     ui.row(
-        # Left column: Highlighted text display
+        ui.column(
+            12,
+            ui.h2("Upload Files to Begin"),
+            ui.input_file("pkl_files", "Upload Annotation Files", multiple=True, accept=[".pkl"]),
+            ui.input_file("previous_result_files", "Import Existing Results for pkls", multiple=False, accept=[".csv"]),
+            ui.input_action_button("process_files", "Process Files", class_="btn btn-primary"),
+            ui.hr()
+        )
+    ),
+    ui.row(
         ui.column(
             8,
             ui.h2("Highlighted Text Viewer"),
@@ -51,13 +38,14 @@ app_ui = ui.page_fluid(
             )
                          )
         ),
-        # Right column: Names in the name list/compound list and buttons
         ui.column(
             4,
             ui.div(
                 ui.h3("Details Panel"),
                 ui.HTML(
-                    f"Is compound: <b>{ui.output_text("compound_text")}</b> found in organism: <b><i>{ui.output_text("name_text")}</i></b> according to the text?"),
+                    f"Is compound: <b>{ui.output_text('compound_text')}</b> found in organism: "
+                    f"<b><i>{ui.output_text('name_text')}</i></b> according to the text?"
+                ),
                 ui.p('Parts of possibly relevant organism names are highlighted in ',
                      ui.HTML('<span style="color: red; font-weight:bold;">Red</span>')),
 
@@ -71,11 +59,9 @@ app_ui = ui.page_fluid(
                     style="margin-top: 20px;"
                 ),
                 style="background-color: #f8f9fa; padding: 10px; border: 1px solid #ccc;"
-                      "position: sticky; "  # Sticky positioning
-                      "top: 20px; "  # Space from the top of the viewport
+                      "position: sticky; "
+                      "top: 20px; "
                       "z-index: 1000; "
-                ,
-
             ),
         ),
     )
@@ -83,130 +69,227 @@ app_ui = ui.page_fluid(
 
 
 def server(input, output, session):
-    # Reactive values to store status of found/not found names
-    # Reactive values for indices of the current DOI and pair
-    reactive_current_pair_index = reactive.Value(0)
-    reactive_current_doi_index = reactive.Value(0)
-    reactive_current_model = reactive.Value('deepseek')
+    reactive_current_pkl_index = reactive.Value(0)
+    reactive_current_taxon_index = reactive.Value(0)
+    reactive_current_compound_index = reactive.Value(0)
+    reactive_TaxaData_annotations = reactive.Value({})
+    saved_results = reactive.Value([])
+    reactive_finished = reactive.Value(False)
+    reactive_previous_results = reactive.Value(None)
 
-    # Reactive expression for the current text based on the DOI and pair index
-    @reactive.Calc
-    def current_text():
-        current_doi_index = reactive_current_doi_index.get()
-        doi = dois[current_doi_index]
-        text = get_text(doi)
-        pairs_for_doi = get_name_compound_pairs_for_doi(doi, reactive_current_model.get())
-        if len(pairs_for_doi) == 0:
-            skip()
-            return current_text()
-        else:
-            name, compound = pairs_for_doi[reactive_current_pair_index.get()]
-            if [name, compound, doi] in found_cache:
+    @reactive.Effect
+    @reactive.event(input.process_files)
+    def handle_file_uploads():
+        """Processes the uploaded files."""
+        # Process Annotation Files
+        pkl_files = input.pkl_files()
+        uploaded_dicts = {}
+        for pkl_file in pkl_files:
+            with open(pkl_file['datapath'], "rb") as pkl_data:
+                loaded_pkl = pickle.load(pkl_data)
+                if len(loaded_pkl.taxa) == 0:
+                    print(f'No taxa for {pkl_file}')
+                    continue
+                elif loaded_pkl.text is None:
+                    print(f'No text for {pkl_file}')
+                    continue
+                else:
+                    uploaded_dicts[pkl_file["name"]] = loaded_pkl
 
-                result["found_pairs"].append((name, compound, doi))
-                skip()
-                return current_text()
-            elif [name, compound, doi] in not_found_cache:
-                result["not_found_pairs"].append((name, compound, doi))
-                skip()
-                return current_text()
-            else:
-                return doi, text, name, compound
+        reactive_TaxaData_annotations.set(uploaded_dicts)
 
-    # Highlighted text output
+        previous_result_files = input.previous_result_files()
+        if previous_result_files is not None:
+            print(previous_result_files)
+            result_data = pd.read_csv(previous_result_files[0]['datapath'])
+            reactive_previous_results.set(result_data)
+
     @output
     @render.ui
     def output_text():
-        doi, text, name, compound = current_text()
-        highlighted_text = highlight_text(
-            text, name, compound
-        )
-        return ui.HTML(highlighted_text)
+        """Render highlighted text for the uploaded content."""
+        annotations = reactive_TaxaData_annotations.get()
+        if not annotations:
+            return ui.p("No annotation files uploaded. Please upload annotation files to continue.")
+        taxadata = list(annotations.values())[reactive_current_pkl_index.get()]
 
-    # Name status panel
+        text = taxadata.text
+
+        taxon = taxadata.taxa[reactive_current_taxon_index.get()]
+
+        highlighted = highlight_text(text, taxon.scientific_name,
+                                     taxon.compounds[reactive_current_compound_index.get()])
+        return ui.HTML(highlighted)
+
+    def update_indices():
+        """
+        Update indices to move to the next compound, taxon, or taxadata object.
+        """
+        annotations = reactive_TaxaData_annotations.get()
+        if not annotations:
+            return
+
+        # Get current objects
+        taxadata_list = list(annotations.values())
+        current_pkl_index = reactive_current_pkl_index.get()
+        current_taxon_index = reactive_current_taxon_index.get()
+        current_compound_index = reactive_current_compound_index.get()
+
+        current_taxadata = taxadata_list[current_pkl_index]
+
+        current_taxon = current_taxadata.taxa[current_taxon_index]
+
+        # Move to the next compound
+        if current_compound_index + 1 < len(current_taxon.compounds):
+            reactive_current_compound_index.set(current_compound_index + 1)
+        # No more compounds, move to the next taxon
+        elif current_taxon_index + 1 < len(current_taxadata.taxa):
+            reactive_current_compound_index.set(0)  # Reset compound index
+            reactive_current_taxon_index.set(current_taxon_index + 1)
+            # If next taxon dopesn't have compounds, move on
+            if len(current_taxadata.taxa[current_taxon_index + 1].compounds) == 0:
+                update_indices()
+        # No more taxa, move to the next TaxaData object
+        elif current_pkl_index + 1 < len(taxadata_list):
+            reactive_current_compound_index.set(0)
+            reactive_current_taxon_index.set(0)
+            reactive_current_pkl_index.set(current_pkl_index + 1)
+        else:
+            # End of all data, do nothing
+            print("No more items to process.")
+            save_function()
+            reactive_finished.set(True)
+            return
+        previous_results = reactive_previous_results.get()
+        if previous_results is not None:
+            current_pkl_index = reactive_current_pkl_index.get()
+            current_taxon_index = reactive_current_taxon_index.get()
+            current_compound_index = reactive_current_compound_index.get()
+
+            current_taxadata = taxadata_list[current_pkl_index]
+            current_taxon = current_taxadata.taxa[current_taxon_index]
+            current_compound = current_taxon.compounds[current_compound_index]
+
+            matching_row = previous_results[previous_results['taxon_name'] == current_taxon.scientific_name]
+            matching_row = matching_row[matching_row['compound_name'] == current_compound]
+
+            pkl_file = list(annotations.keys())[current_pkl_index]
+            matching_row = matching_row[matching_row['pkl_file'] == pkl_file]
+            if len(matching_row.index) > 0:
+                update_indices()
+
     @output
     @render.text
     def name_text():
-        doi, text, name, compound = current_text()
-        return name
+        """Render current name being displayed."""
+        annotations = reactive_TaxaData_annotations.get()
+        if annotations:
+            taxadata = list(annotations.values())[reactive_current_pkl_index.get()]
+            taxon = taxadata.taxa[reactive_current_taxon_index.get()]
+            return taxon.scientific_name
+        return "No annotation loaded."
 
-    # Name status panel
     @output
     @render.text
     def compound_text():
-        doi, text, name, compound = current_text()
-        return compound
+        """Render current compound being highlighted."""
+        annotations = reactive_TaxaData_annotations.get()
+        if annotations:
+            taxadata = list(annotations.values())[reactive_current_pkl_index.get()]
 
-    @reactive.Calc
-    def update_text():
-        current_doi_index = reactive_current_doi_index.get()
-        pairs_for_doi = get_name_compound_pairs_for_doi(dois[current_doi_index], reactive_current_model.get())
-        # Move to the next pair
-        new_pair_index = reactive_current_pair_index.get() + 1
+            taxon = taxadata.taxa[reactive_current_taxon_index.get()]
 
-        # Reset if we're beyond available pairs for the current DOI
-        if new_pair_index >= len(pairs_for_doi):
-            new_pair_index = 0
-            new_doi_index = reactive_current_doi_index.get() + 1
+            return taxon.compounds[reactive_current_compound_index.get()]
+        return "No annotation loaded."
 
-            # Move to new model if we're at the end.
-            if new_doi_index >= len(dois):
-                if reactive_current_model.get() == 'deepseek':
-                    save()
-                    reactive_current_model.set('wikidata')
-                    new_doi_index = 0
-                    result["found_pairs"] = []
-                    result["not_found_pairs"] = []
-                else:
-                    save()
-                    raise Exception("No more DOIs or models to check.")
-            print(f'Current doi: {dois[new_doi_index]}')
-            reactive_current_doi_index.set(new_doi_index)
-
-        reactive_current_pair_index.set(new_pair_index)
-
-    @reactive.Calc
-    def skip():
-        update_text()
-
-    # Handle Submit button click
     @reactive.Effect
     @reactive.event(input.submit_button)
-    def submit_found_pair():
-        doi, text, name, compound = current_text()
+    def on_yes_click():
+        """
+        Handle the user clicking "Yes".
+        """
+        if reactive_finished.get():
+            return
+        annotations = reactive_TaxaData_annotations.get()
+        if not annotations:
+            return
+        pkl_file_name = list(annotations.keys())[reactive_current_pkl_index.get()]
+        # Extract current context
+        taxadata_list = list(annotations.values())
+        current_pkl_index = reactive_current_pkl_index.get()
+        current_taxon_index = reactive_current_taxon_index.get()
+        current_compound_index = reactive_current_compound_index.get()
 
-        # Update results
+        current_taxadata = taxadata_list[current_pkl_index]
+        current_taxon = current_taxadata.taxa[current_taxon_index]
+        current_compound = current_taxon.compounds[current_compound_index]
 
-        result["found_pairs"].append((name, compound, doi))
-        if [name, compound, doi] not in found_cache:
-            found_cache.append([name, compound, doi])
-            pickle.dump(found_cache, open(found_cache_pkl, 'wb'))
-        update_text()
+        # Append result
+        results = saved_results.get()
+        results.append({
+            "pkl_file": pkl_file_name,
+            "taxon_name": current_taxon.scientific_name,
+            "compound_name": current_compound,
+            "decision": "Yes"
+        })
+        saved_results.set(results)  # Update reactive storage
+
+        update_indices()
 
     @reactive.Effect
     @reactive.event(input.pass_button)
-    def submit_not_found_pair():
-        doi, text, name, compound = current_text()
+    def on_no_click():
+        """
+        Handle the user clicking "No".
+        """
+        if reactive_finished.get():
+            return
+        annotations = reactive_TaxaData_annotations.get()
+        if not annotations:
+            return
+        pkl_file_name = list(annotations.keys())[reactive_current_pkl_index.get()]
 
-        result["not_found_pairs"].append((name, compound, doi))
-        if [name, compound, doi] not in not_found_cache:
-            not_found_cache.append([name, compound, doi])
-            pickle.dump(not_found_cache, open(not_found_cache_pkl, 'wb'))
+        # Extract current context
+        taxadata_list = list(annotations.values())
+        current_pkl_index = reactive_current_pkl_index.get()
+        current_taxon_index = reactive_current_taxon_index.get()
+        current_compound_index = reactive_current_compound_index.get()
 
-        update_text()
+        current_taxadata = taxadata_list[current_pkl_index]
+        current_taxon = current_taxadata.taxa[current_taxon_index]
+        current_compound = current_taxon.compounds[current_compound_index]
 
-    @reactive.Calc
-    def save():
-        print(f'Saving')
-        df = pd.DataFrame(result["found_pairs"], columns=['name', 'compound', 'doi'])
-        df.to_csv(os.path.join('outputs', reactive_current_model.get(), 'found_pairs.csv'), index=False)
+        # Append result
+        results = saved_results.get()
+        results.append({
+            "pkl_file": pkl_file_name,
+            "taxon_name": current_taxon.scientific_name,
+            "compound_name": current_compound,
+            "decision": "No"
+        })
+        saved_results.set(results)  # Update reactive storage
 
-        df = pd.DataFrame(result["not_found_pairs"], columns=['name', 'compound', 'doi'])
-        df.to_csv(os.path.join('outputs', reactive_current_model.get(), 'not_found_pairs.csv'), index=False)
+        update_indices()
+
+    def save_function():
+        results = saved_results.get()
+
+        if not results:
+            print("No results to save.")
+            return
+        previous_results = reactive_previous_results.get()
+        df = pd.DataFrame(results)
+        output_path = os.path.join("outputs", "results.csv")
+        pd.concat([previous_results, df]).to_csv(output_path, index=False)
+        print(f"Saved results to {output_path}")
 
     @reactive.Effect
     @reactive.event(input.save_button)
     def save_results():
-        save()
+        """
+            Save all decisions to a CSV file.
+            """
+        save_function()
+
 
 app = App(app_ui, server)

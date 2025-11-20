@@ -1,20 +1,9 @@
-import os
 import re
 from html import escape
 
-from wcvpy.wcvp_name_matching import get_genus_from_full_name, get_species_binomial_from_full_name, \
+from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name, \
     get_species_from_full_name
 
-from data.parse_refs import fulltext_dir, sanitise_doi
-from extraction.methods.get_agreements_and_disagreements import check_records_for_doi
-from extraction.methods.loading_files import get_txt_from_file
-
-
-def get_text(doi):
-    sanitised_doi = sanitise_doi(doi)
-    fulltextpath = os.path.join(fulltext_dir, f'{sanitised_doi}.txt')
-    text = get_txt_from_file(fulltextpath)
-    return text
 
 def get_first_two_words(text):
     words = text.split()
@@ -62,20 +51,3 @@ def highlight_text(text, name, compound_name):
         )
 
     return escaped_text
-
-
-def get_name_compound_pairs_for_doi(doi: str, model: str):
-    verbatim_results, accepted_results = check_records_for_doi(doi)
-    if model == 'wikidata':
-        model_results = verbatim_results[0]
-    elif model == 'deepseek':
-        model_results = verbatim_results[1]
-    else:
-        raise ValueError(f'Model {model} not recognised')
-    pairs = []
-    for taxon in model_results.taxa:
-        for compound in taxon.compounds:
-            pairs.append([taxon.scientific_name, compound])
-    # print(f'Number of pairs for DOI {doi}: {len(pairs)}')
-    # print(pairs)
-    return pairs
