@@ -253,9 +253,9 @@ def main():
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
     summarise(deepseek_df, 'deepseek_validaton', output_data=True)
     #
-    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    # summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
-    # summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
+    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
+    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
 
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
     summarise_underlying_text_data(colombian_dois, 'colombian_papers')

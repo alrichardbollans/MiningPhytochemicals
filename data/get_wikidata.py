@@ -3,6 +3,7 @@ import pickle
 
 import pandas as pd
 from tqdm import tqdm
+
 # Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
 # (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)
 tqdm.pandas()
@@ -113,6 +114,21 @@ def get_compounds_for_families():
                 print(f'{family} already in path')
 
 
+def is_valid_inchikey(inchikey: str):
+    """
+    Check if an InChIKey has a valid format.
+    """
+    return inchikey and len(inchikey) == 27 and "-" in inchikey
+
+
+def is_probably_valid_organic_smiles(smiles: str):
+    """
+    Check if an InChIKey has a valid format.
+    """
+    return 'C' in smiles and "-" not in smiles
+
+
+
 def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_col=None,
                       for_paper_analysis: bool = False):
     '''
@@ -121,6 +137,14 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
 
     :return:
     '''
+    for smiles in wikidata_results['SMILES'].dropna().unique():
+        try:
+            assert is_probably_valid_organic_smiles(smiles)
+        except AssertionError:
+            print(smiles)
+    for ink in wikidata_results['InChIKey'].dropna().unique():
+        assert is_valid_inchikey(ink)
+
     wikidata_results['Standard_SMILES'] = wikidata_results['SMILES'].progress_apply(standardise_SMILES)
     for c_id in ['InChIKey', 'Standard_SMILES', 'CAS ID']:
         wikidata_results = fill_match_ids(wikidata_results, c_id)
@@ -135,7 +159,8 @@ def tidy_final_output(wikidata_results: pd.DataFrame, output_csv: str, ipniid_co
         wikidata_results = wikidata_results.drop_duplicates(
             subset=['organism_name', 'example_compound_name'],
             keep='first')
-        wikidata_results.drop(columns=['refDOI'])
+        if 'refDOI' in wikidata_results.columns:
+            wikidata_results.drop(columns=['refDOI'])
 
     if ipniid_col is not None:
         all_taxa = get_all_taxa(version=WCVP_VERSION)

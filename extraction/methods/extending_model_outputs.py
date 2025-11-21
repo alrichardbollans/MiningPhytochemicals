@@ -10,7 +10,7 @@ from wcvpy.wcvp_download import get_all_taxa
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column, get_genus_from_full_name
 from pubchempy import get_compounds
 
-from data.get_wikidata import data_path, inchi_translation_cache, smiles_translation_cache
+from data.get_wikidata import data_path, inchi_translation_cache, smiles_translation_cache, is_valid_inchikey, is_probably_valid_organic_smiles
 from extraction.methods.string_cleaning_methods import clean_compound_strings
 from extraction.methods.structured_output_schema import TaxaData, Taxon
 
@@ -26,6 +26,8 @@ except FileNotFoundError:
 
 _original_timeout = 0.34
 _timeout = [0.3]
+
+
 # _wcvp_taxa = get_all_taxa()
 
 
@@ -38,12 +40,6 @@ def add_accepted_info(deepseek_output: TaxaData):
         taxon.accepted_species = acc_deepseek_names.loc[taxon.scientific_name, 'accepted_species']
         taxon.accepted_genus = get_genus_from_full_name(taxon.accepted_species)
 
-
-def is_valid_inchikey(inchikey: str):
-    """
-    Check if an InChIKey has a valid format.
-    """
-    return inchikey and len(inchikey) == 27 and "-" in inchikey
 
 
 def resolve_name_to_inchi(name: str):
@@ -85,10 +81,12 @@ def resolve_name_to_inchi(name: str):
         if not failed_search:
             with  open(inchi_translation_cache, 'wb') as pfile:
                 pickle.dump(pkled_inchi_translation_result, pfile)
+    if pkled_inchi_translation_result[standard_name] is not None:
+        assert is_valid_inchikey(pkled_inchi_translation_result[standard_name])
     return pkled_inchi_translation_result[standard_name]
 
 
-def resolve_name_to_smiles(name:str):
+def resolve_name_to_smiles(name: str):
     """
 
         """
@@ -120,13 +118,14 @@ def resolve_name_to_smiles(name:str):
                 failed_search = True
                 print(f'WARNING: not resolved: {name}')
                 _timeout[0] = _timeout[0] * 2
-        if out is not None:
-            assert is_valid_inchikey(out)
+
         pkled_smiles_translation_result[standard_name] = out
         if not failed_search:
-            with  open(inchi_translation_cache, 'wb') as pfile:
+            with  open(smiles_translation_cache, 'wb') as pfile:
                 pickle.dump(pkled_smiles_translation_result, pfile)
+
     return pkled_smiles_translation_result[standard_name]
+
 
 def add_inchi_keys(deepseek_output: TaxaData):
     for taxon in deepseek_output.taxa:
@@ -151,17 +150,24 @@ def add_all_extra_info_to_output(deepseek_output: TaxaData):
 
 if __name__ == '__main__':
     pkled_result = pickle.load(open(inchi_translation_cache, 'rb'))
-    print(pkled_result)
-    example = TaxaData(taxa=[Taxon(scientific_name='acanthochlamys bracteata p. c. kao',
-                                   compounds=['tetracosanoic acid', 'stigmasterol', 'demethyl coniferin',
-                                              'kaempferol 3-o-(3",6"-di-o-e-p-coumaroyl)-β-d-glcopyranoside',
-                                              'palmitic acid', 'acanthochlamic acid',
-                                              '28-feruloxyloctacosanoyl 1-glyceride', 'ayanin', 'ethyl caffeate',
-                                              'stigmasta-5,22-dien-3β,7α-diol',
-                                              'isorhamnetin 3-o-(6"-di-o-e-p-coumaroyl)-β-d-glucopyranoside',
-                                              'euscaphic acid', 'heptacosan-1-ol', 'liquiritin',
-                                              'isorhamnetin 3-o-(3",6"-di-o-e-p-coumaroyl)-β-d-glucopyranoside',
-                                              'stigmasterol 3-o-β-d-glucopyranoside', 'isoliquiritigenin',
-                                              'stigmasta-5,22-dien-3β,7β-diol', 'tiliroside', 'liquiritigenin'])]
-                       )
-    add_all_extra_info_to_output(example)
+    for c in pkled_result:
+        if pkled_result[c] is not None:
+            assert is_valid_inchikey(pkled_result[c])
+    pkled_result = pickle.load(open(smiles_translation_cache, 'rb'))
+    for c in pkled_result:
+        if pkled_result[c] is not None:
+            assert is_probably_valid_organic_smiles(pkled_result[c])
+
+    # example = TaxaData(taxa=[Taxon(scientific_name='acanthochlamys bracteata p. c. kao',
+    #                                compounds=['tetracosanoic acid', 'stigmasterol', 'demethyl coniferin',
+    #                                           'kaempferol 3-o-(3",6"-di-o-e-p-coumaroyl)-β-d-glcopyranoside',
+    #                                           'palmitic acid', 'acanthochlamic acid',
+    #                                           '28-feruloxyloctacosanoyl 1-glyceride', 'ayanin', 'ethyl caffeate',
+    #                                           'stigmasta-5,22-dien-3β,7α-diol',
+    #                                           'isorhamnetin 3-o-(6"-di-o-e-p-coumaroyl)-β-d-glucopyranoside',
+    #                                           'euscaphic acid', 'heptacosan-1-ol', 'liquiritin',
+    #                                           'isorhamnetin 3-o-(3",6"-di-o-e-p-coumaroyl)-β-d-glucopyranoside',
+    #                                           'stigmasterol 3-o-β-d-glucopyranoside', 'isoliquiritigenin',
+    #                                           'stigmasta-5,22-dien-3β,7β-diol', 'tiliroside', 'liquiritigenin'])]
+    #                    )
+    # add_all_extra_info_to_output(example)

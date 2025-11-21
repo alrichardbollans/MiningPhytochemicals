@@ -149,7 +149,7 @@ def main():
                                 models[example_model_name][1],
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
 
-        print(result_)
+
 
     ### Negative examples
     random_txt_dir, result = get_sanitised_dois_for_papers('random papers')
@@ -161,7 +161,7 @@ def main():
                                 models[example_model_name][1],
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
 
-        print(result_)
+
 
     medplant_txt_dir, result = get_sanitised_dois_for_papers('medplant papers')
     for sanitised_doi in result:
@@ -172,7 +172,7 @@ def main():
                                 models[example_model_name][1],
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False, rerun_inchi_resolution=False)
 
-        print(result_)
+
 
     ## Phytochem paper examples
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
@@ -184,7 +184,7 @@ def main():
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
                                 rerun_inchi_resolution=False)
 
-        print(result_)
+
 
     ### colombian paper examples
     colombian_dois = get_sanitised_dois_for_colombian_papers()
@@ -195,7 +195,7 @@ def main():
                                 pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
                                 rerun_inchi_resolution=False)
 
-        print(result_)
+
     #
     # messages = [
     #     ("system", "You are a helpful translator. Translate the user sentence to French."),

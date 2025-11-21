@@ -1,5 +1,5 @@
 ,InChIKey_simp,refDOI,accepted_ipni_id,accepted_name,accepted_name_w_author,accepted_family,accepted_rank,accepted_species,accepted_species_w_author,accepted_species_ipni_id,accepted_parent,plant_name_id,taxon_status,matched_by,matched_name,pairs
-count,5145,5145,5143,5145,5145,5145,5145,4998,4998,4998,4998,5145,5145,5145,5145,5145
-unique,2006,210,574,575,575,95,4,544,544,544,286,575,2,2,575,4834
-top,REFJWTPEDVJJIY,10.30495_tpr.2022.694114,300106-2,Artemisia absinthium,Artemisia absinthium L.,Asteraceae,Species,Artemisia absinthium,Artemisia absinthium L.,300106-2,Artemisia,2909600,Accepted,direct_wcvp_unique,Artemisia absinthium,Astragalus mongholicusWQZGKKKJIJFFOK
-freq,62,244,151,151,151,642,4826,151,151,151,157,151,5123,4851,151,6
+count,5142,5142,5140,5142,5142,5142,5142,4994,4994,4994,4994,5142,5142,5142,5142,5142
+unique,2007,210,575,576,576,95,4,545,545,545,286,576,2,2,576,4832
+top,REFJWTPEDVJJIY,10.30495_tpr.2022.694114,300106-2,Artemisia absinthium,Artemisia absinthium L.,Asteraceae,Species,Artemisia absinthium,Artemisia absinthium L.,300106-2,Micromeria,2909600,Accepted,direct_wcvp_unique,Artemisia absinthium,Astragalus mongholicusWQZGKKKJIJFFOK
+freq,62,244,150,150,150,635,4822,150,150,150,156,150,5120,4849,150,6
