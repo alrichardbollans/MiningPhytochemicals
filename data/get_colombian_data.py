@@ -131,6 +131,12 @@ def get_sanitised_dois_for_colombian_papers():
 
 def main():
     # get_species_to_collect()
+    # Check
+    wikidata = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
+    knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
+    all_data = pd.concat([wikidata, knapsack])
+    assert len(set(all_data['accepted_species'].tolist()).intersection(set(species_to_collect))) == 0
+
     iterate_over_all_missing_species()
 
 
