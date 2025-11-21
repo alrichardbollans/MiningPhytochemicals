@@ -57,7 +57,8 @@ def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_ann
     data = get_regression_outputs(data, x_var, y_var, outpath)
 
     if 'Region' in data.columns:
-        plot_dist_of_metric(data, 'Species in Data_residuals',os.path.join(outpath, f'{x_var}_and_{y_var}_residuals_plot.jpg'))
+        plot_dist_of_metric(data, 'Species in Data_residuals',
+                            os.path.join(outpath, f'{x_var}_and_{y_var}_residuals_plot.jpg'))
 
     data['color'] = np.where((data[f'{y_var}_highlight_high'] == True), '#d12020', 'grey')
     data['color'] = np.where((data[f'{y_var}_highlight_low'] == True), '#5920ff', data['color'])
@@ -191,9 +192,10 @@ def get_deepseek_accepted_output_as_df(dois: list):
         df['refDOI'] = doi
         deepseek_df = pd.concat([deepseek_df, df])
 
-    deepseek_df = deepseek_df.rename(columns={'accepted_name':'name'})
-    acc_deepseek_df  =get_accepted_info_from_names_in_column(deepseek_df, 'name', wcvp_version=WCVP_VERSION)
-    pd.testing.assert_series_equal(acc_deepseek_df['accepted_name'], acc_deepseek_df['name'], check_index=False, check_names=False)
+    deepseek_df = deepseek_df.rename(columns={'accepted_name': 'name'})
+    acc_deepseek_df = get_accepted_info_from_names_in_column(deepseek_df, 'name', wcvp_version=WCVP_VERSION)
+    pd.testing.assert_series_equal(acc_deepseek_df['accepted_name'], acc_deepseek_df['name'], check_index=False,
+                                   check_names=False)
     acc_deepseek_df = acc_deepseek_df.drop(columns=['name'])
     return acc_deepseek_df
 
@@ -228,6 +230,7 @@ def output_geographic_plots(df, outpath: str):
                                       outpath,
                                       'Region')
 
+
 def summarise_underlying_text_data(dois, out_tag):
     pathlib.Path(os.path.join('summaries', out_tag)).mkdir(parents=True, exist_ok=True)
 
@@ -235,6 +238,7 @@ def summarise_underlying_text_data(dois, out_tag):
     df['refDOI'] = dois
     print(df)
     df.to_csv(os.path.join('summaries', out_tag, 'underlying_text_data.csv'))
+
 
 def main():
     # get_underlying_sp_distributions()
@@ -248,14 +252,19 @@ def main():
     summarise_underlying_text_data(dois, 'deepseek_validaton')
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
     summarise(deepseek_df, 'deepseek_validaton', output_data=True)
-
-    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
-    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
+    #
+    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    # summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
+    # summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
 
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
     summarise_underlying_text_data(colombian_dois, 'colombian_papers')
-    summarise(get_deepseek_accepted_output_as_df(colombian_dois), 'colombian_papers', output_data=True)
+    colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
+    species_to_collect = \
+        pd.read_csv(os.path.join('..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
+            'accepted_species'].tolist()
+    colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
+    summarise(colombian_data, 'colombian_papers', output_data=True)
 
 
 if __name__ == '__main__':

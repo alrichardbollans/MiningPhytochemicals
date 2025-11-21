@@ -4,7 +4,7 @@ import os
 import pandas as pd
 
 from data.get_wikidata import data_path, wikidata_plantae_reference_data_csv
-from data.parse_refs import fulltext_dir, sanitise_doi
+from data.parse_refs import wikidatafulltext_dir, sanitise_doi
 
 _data_with_full_texts_dir = os.path.join(data_path, 'wikidata', 'compound_data_with_full_texts')
 data_with_full_texts_csv = os.path.join(data_path, 'wikidata', 'compound_data_with_full_texts', 'data_with_full_texts.csv')
@@ -17,7 +17,7 @@ def summarise_data_with_full_texts():
     df = pd.read_csv(wikidata_plantae_reference_data_csv, index_col=0)
 
     extension = 'txt'
-    os.chdir(fulltext_dir)
+    os.chdir(wikidatafulltext_dir)
     result = glob.glob('*.{}'.format(extension))
 
     result = [c[:-4] for c in result[:]]

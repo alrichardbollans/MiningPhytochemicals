@@ -13,7 +13,7 @@ from data.get_wikidata import data_path, wikidata_plantae_reference_data_csv
 
 api_endpoint = "https://api.core.ac.uk/v3/"
 
-fulltext_dir = os.path.join(data_path, 'wikidata_fulltexts')
+wikidatafulltext_dir = os.path.join(data_path,'texts', 'wikidata_fulltexts')
 pdf_dir = os.path.join(data_path, 'pdfs')
 
 # Some pkls to store info about previous searches
@@ -125,7 +125,7 @@ def sanitise_doi(doi: str) -> str:
     return doi.replace('/', '_')
 
 
-def build_text_data(dois: list[str], outfolder: str = fulltext_dir) -> None:
+def build_text_data(dois: list[str], outfolder: str = wikidatafulltext_dir) -> None:
     """
     Processes a list of Digital Object Identifiers (DOIs) to retrieve full text data
     and saves them to text files. Skips DOIs for which the corresponding text file
