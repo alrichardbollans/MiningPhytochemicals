@@ -6,6 +6,7 @@ import numpy as np
 import pandas as pd
 import sklearn
 from matplotlib import pyplot as plt
+from phytochempy.compound_properties import simplify_inchi_key
 from sklearn.linear_model import LinearRegression
 from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
     plot_native_number_accepted_taxa_in_regions
@@ -18,6 +19,8 @@ from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv, WCVP_VERSION
 from data.parse_refs import sanitise_doi
+from extraction.manual_matching_results.post_processing_method import get_standardised_correct_results
+from extraction.methods.extending_model_outputs import resolve_name_to_inchi, resolve_name_to_smiles
 from extraction.methods.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
 from extraction.methods.running_models import deepseek_pkls_path
 
@@ -252,19 +255,34 @@ def main():
     summarise_underlying_text_data(dois, 'deepseek_validaton')
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
     summarise(deepseek_df, 'deepseek_validaton', output_data=True)
+    validation_manually_checked_results = get_standardised_correct_results(
+        os.path.join('..', 'extraction', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
+    summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
     #
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
     summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
     summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
 
+
+
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
-    summarise_underlying_text_data(colombian_dois, 'colombian_papers')
+    summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
     colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
     species_to_collect = \
         pd.read_csv(os.path.join('..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
             'accepted_species'].tolist()
     colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
-    summarise(colombian_data, 'colombian_papers', output_data=True)
+    summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
+
+    colombian_manually_checked_results = get_standardised_correct_results(
+        os.path.join('..', 'extraction', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
+    colombian_manually_checked_results = colombian_manually_checked_results[
+        colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
+    summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
+    for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
+    summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
+    for_lotus = for_lotus[['organism_name', 'accepted_name_w_author', 'compound_name', 'InChIKey', 'SMILES', 'DOI']]
+    for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
 
 
 if __name__ == '__main__':
