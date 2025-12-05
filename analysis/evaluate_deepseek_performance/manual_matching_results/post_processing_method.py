@@ -3,7 +3,7 @@ from phytochempy.compound_properties import simplify_inchi_key
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column
 
 from data.get_wikidata import WCVP_VERSION
-from extraction.methods.extending_model_outputs import resolve_name_to_inchi, resolve_name_to_smiles
+from phytochemMiner import resolve_name_to_inchi, resolve_name_to_smiles
 
 
 def get_standardised_correct_results(result_csv_file):

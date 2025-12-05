@@ -3,10 +3,10 @@ import pathlib
 
 import pandas as pd
 
+from analysis.extraction.running_extraction import deepseek_pkls_path
 from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
 from data.parse_refs import sanitise_doi
-from extraction.methods.running_models import deepseek_pkls_path
 import shutil
 
 
