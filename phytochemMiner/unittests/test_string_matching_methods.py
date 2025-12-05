@@ -1,7 +1,6 @@
 import unittest
 
-from extraction.methods.string_matching_methods import abbreviate_sci_name, check_organism_names_match, \
-    check_compound_names_match
+from phytochemMiner import abbreviate_sci_name, check_compound_names_match, check_organism_names_match
 
 
 class TestAbbreviateSciName(unittest.TestCase):
@@ -29,6 +28,8 @@ class TestAbbreviateSciName(unittest.TestCase):
 
     def test_name_with_no_split_characters(self):
         self.assertEqual("HybridPlantName", abbreviate_sci_name("HybridPlantName"))
+
+
 class TestCheckCompoundNamesMatch(unittest.TestCase):
 
     def test_exact_match(self):
@@ -51,6 +52,7 @@ class TestCheckCompoundNamesMatch(unittest.TestCase):
 
     def test_both_empty_strings(self):
         self.assertTrue(check_compound_names_match("", ""))
+
 
 class TestCheckOrganismNamesMatch(unittest.TestCase):
 

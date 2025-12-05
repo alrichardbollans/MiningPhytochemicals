@@ -2,6 +2,16 @@
 
 A repo to build data linking compounds, the plants they occur in and the scientific papers reporting this.
 
+## Installation
+
+Install requires requires wcvpy>=1.3.2, to install see https://github.com/alrichardbollans/wcvpy
+
+and `phytochempy`, see https://github.com/alrichardbollans/phytochempy
+
+then to install, run:
+
+`pip install git+https://github.com/alrichardbollans/MiningPhytochemicals`
+
 ### References & Acknowledgements
 Petr Knoth et al., ‘CORE: A Global Aggregation Service for Open Access Papers’, Scientific Data 10, no. 1 (2023): 366, https://doi.org/10.1038/s41597-023-02208-w.
 

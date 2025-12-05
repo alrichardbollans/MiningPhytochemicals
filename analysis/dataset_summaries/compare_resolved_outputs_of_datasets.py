@@ -3,12 +3,12 @@ import pathlib
 
 import pandas as pd
 
+from analysis.dataset_summaries.data_summaries import get_deepseek_accepted_output_as_df, summarise
 from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv, wikidata_plantae_reference_data_csv
-from dataset_summaries.data_summaries import get_deepseek_accepted_output_as_df, summarise
 
 
 def compare_two_outputs_accepted(df1, df2, out_tag: str, label1: str, label2: str):

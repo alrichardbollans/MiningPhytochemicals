@@ -1,7 +1,7 @@
 from wcvpy.wcvp_download import hybrid_characters
 from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name
 
-from extraction.methods.string_cleaning_methods import clean_taxon_strings, clean_compound_strings
+from phytochemMiner import clean_taxon_strings, clean_compound_strings
 
 
 def abbreviate_sci_name(name1: str) -> str:

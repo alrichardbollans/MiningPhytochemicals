@@ -2,7 +2,7 @@
 
 import unittest
 
-from extraction.methods.string_cleaning_methods import clean_taxon_strings, clean_compound_strings
+from phytochemMiner import clean_taxon_strings, clean_compound_strings
 
 
 class TestCleanTaxonStrings(unittest.TestCase):

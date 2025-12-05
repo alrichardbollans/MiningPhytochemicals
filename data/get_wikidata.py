@@ -4,6 +4,8 @@ import pickle
 import pandas as pd
 from tqdm import tqdm
 
+from phytochemMiner import is_probably_valid_organic_smiles, is_valid_inchikey
+
 # Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
 # (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)
 tqdm.pandas()
@@ -19,8 +21,7 @@ tracheophyte = 'Q27133'
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
 data_path = os.path.join(repo_path, 'data')
-inchi_translation_cache = os.path.join(data_path, 'inchi_translation_cache.pkl')
-smiles_translation_cache = os.path.join(data_path, 'smiles_translation_cache.pkl')
+
 compound_occurence_path = os.path.join(data_path, 'wikidata')
 _temp_path = os.path.join(compound_occurence_path, 'temp')
 model_data_path = os.path.join(compound_occurence_path, 'model_data')
@@ -112,20 +113,6 @@ def get_compounds_for_families():
                 submit_query(my_query, temp_output_csv, 1000000)
             else:
                 print(f'{family} already in path')
-
-
-def is_valid_inchikey(inchikey: str):
-    """
-    Check if an InChIKey has a valid format.
-    """
-    return inchikey and len(inchikey) == 27 and "-" in inchikey
-
-
-def is_probably_valid_organic_smiles(smiles: str):
-    """
-    Check if an InChIKey has a valid format.
-    """
-    return 'C' in smiles and "-" not in smiles
 
 
 

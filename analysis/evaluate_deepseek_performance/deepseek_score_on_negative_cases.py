@@ -3,11 +3,11 @@ import pickle
 
 import pandas as pd
 
+from analysis.dataset_summaries.get_agreements_and_disagreements import get_verbatim_matches
+from analysis.extraction.running_extraction import deepseek_pkls_path
 from data.get_wikidata import data_path
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.parse_refs import sanitise_doi
-from extraction.methods.get_agreements_and_disagreements import get_verbatim_matches
-from extraction.methods.running_models import deepseek_pkls_path
 
 
 def get_errors_from_result(result):

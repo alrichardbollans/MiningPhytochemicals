@@ -7,11 +7,13 @@ from phytochempy.compound_properties import add_CAS_ID_translations_to_df
 from phytochempy.knapsack_searches import get_knapsack_compounds_in_family
 from tqdm import tqdm
 import sys
+
+from phytochemMiner import resolve_name_to_smiles, resolve_name_to_inchi
+
 sys.path.append('..')
 # Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
 # (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)
 tqdm.pandas()
-from extraction.methods.extending_model_outputs import resolve_name_to_inchi, resolve_name_to_smiles
 
 from data.get_wikidata import family_pkl_file, data_path, WCVP_VERSION, tidy_final_output
 

@@ -5,9 +5,7 @@ import pandas as pd
 
 from data.get_data_with_full_texts import data_with_full_texts_csv
 from data.parse_refs import sanitise_doi
-from extraction.methods.running_models import deepseek_pkls_path
-from extraction.methods.string_matching_methods import check_organism_names_match, check_compound_names_match
-from extraction.methods.structured_output_schema import Taxon, TaxaData
+from phytochemMiner import TaxaData, check_organism_names_match, Taxon, check_compound_names_match
 
 
 def get_verbatim_matches(wikidata_taxadata1: TaxaData, deepseek_taxadata2: TaxaData):

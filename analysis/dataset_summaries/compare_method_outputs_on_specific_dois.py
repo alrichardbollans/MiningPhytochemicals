@@ -3,11 +3,10 @@ import pickle
 
 import pandas as pd
 
-from data.get_wikidata import inchi_translation_cache
+from analysis.dataset_summaries.compare_resolved_outputs_of_datasets import result_venn_diagram
+from analysis.dataset_summaries.get_agreements_and_disagreements import check_records_for_doi
 from data.get_data_with_full_texts import data_with_full_texts_csv, validation_data_csv, test_data_csv
-from dataset_summaries.compare_resolved_outputs_of_datasets import result_venn_diagram
-from extraction.methods.get_agreements_and_disagreements import check_records_for_doi
-from extraction.methods.structured_output_schema import TaxaData
+from phytochemMiner import inchi_translation_cache, TaxaData
 
 pkled_inchi_translation_result = pickle.load(open(inchi_translation_cache, 'rb'))
 

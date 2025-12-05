@@ -19,10 +19,6 @@ from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv, WCVP_VERSION
 from data.parse_refs import sanitise_doi
-from extraction.manual_matching_results.post_processing_method import get_standardised_correct_results
-from extraction.methods.extending_model_outputs import resolve_name_to_inchi, resolve_name_to_smiles
-from extraction.methods.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
-from extraction.methods.running_models import deepseek_pkls_path
 
 
 def get_regression_outputs(data, x_var, y_var, outpath):

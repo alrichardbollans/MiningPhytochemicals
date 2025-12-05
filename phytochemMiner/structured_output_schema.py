@@ -1,12 +1,8 @@
-import os
 from typing import Optional, List
 
 from pydantic import BaseModel, Field, Extra
 
-from extraction.methods.string_cleaning_methods import clean_taxon_strings, clean_compound_strings
-
-repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
-data_path = os.path.join(repo_path, 'data')
+from phytochemMiner import clean_taxon_strings, clean_compound_strings
 
 
 class Taxon(BaseModel, extra=Extra.allow):
@@ -60,7 +56,3 @@ def deduplicate_and_standardise_output_taxa_lists(taxa: List[Taxon], ) -> TaxaDa
 
         new_taxa_list.append(new_taxon)
     return TaxaData(taxa=new_taxa_list)
-
-
-def summarise_annotations(out_path: str):
-    pass

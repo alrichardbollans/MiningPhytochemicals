@@ -1,5 +1,3 @@
-## these methods just provide some simple tidying of human and model annotations
-
 def remove_double_spaces_and_break_characters(given_text: str) -> str:
     '''
     This will simplify a text by removing double spaces and all whitespace characters (e.g. space, tab, newline, return, formfeed).

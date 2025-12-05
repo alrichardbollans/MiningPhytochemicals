@@ -1,9 +1,9 @@
 # extraction\methods\unittests\test_get_agreements_and_disagreements.py
 import unittest
 
-from extraction.methods.get_agreements_and_disagreements import deduplicate_taxa_list_on_scientific_name, \
+from analysis.dataset_summaries.get_agreements_and_disagreements import deduplicate_taxa_list_on_scientific_name, \
     deduplicate_taxa_list_on_accepted_name
-from extraction.methods.structured_output_schema import Taxon, TaxaData
+from phytochemMiner import Taxon, TaxaData
 
 
 class TestDeduplicateTaxaListOnScientificName(unittest.TestCase):

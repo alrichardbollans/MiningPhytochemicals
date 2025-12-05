@@ -1,6 +1,6 @@
 from langchain_text_splitters import TokenTextSplitter
 
-from extraction.methods.string_cleaning_methods import remove_double_spaces_and_break_characters
+from phytochemMiner import remove_double_spaces_and_break_characters
 
 
 def get_txt_from_file(txt_file: str):
@@ -45,8 +45,8 @@ def split_text_chunks(text_chunks, overlap=500):
     split_chunks = []
     for chunk in text_chunks:
         chunk_length = len(chunk)
-        split_point = int(chunk_length/2)
-        first_half = chunk[:split_point + int(overlap/2)]
-        second_half = chunk[split_point-int(overlap/2):]
+        split_point = int(chunk_length / 2)
+        first_half = chunk[:split_point + int(overlap / 2)]
+        second_half = chunk[split_point - int(overlap / 2):]
         split_chunks.extend([first_half, second_half])
     return split_chunks
