@@ -1,12 +1,13 @@
+import json
 import os
-import pickle
 
 import pandas as pd
+from phytochemMiner import TaxaData
 
 from analysis.dataset_summaries.get_agreements_and_disagreements import get_verbatim_matches
-from analysis.extraction.running_extraction import deepseek_pkls_path
-from data.get_wikidata import data_path
+from analysis.extraction.running_extraction import deepseek_jsons_path
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
+from data.get_wikidata import data_path
 from data.parse_refs import sanitise_doi
 
 
@@ -15,7 +16,8 @@ def get_errors_from_result(result):
     taxon_errors = []
     taxa_without_compounds_errors = []
     for sanitised_doi in result:
-        deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), 'rb'))
+        json_dict = json.load(open(os.path.join(deepseek_jsons_path, sanitised_doi + '.json'), 'r'))
+        deepseek_output = TaxaData.model_validate(json_dict)
         verbatim_cases = get_verbatim_matches(deepseek_output, deepseek_output)
         deduplicated_output = verbatim_cases[0]
         for taxon in deduplicated_output.taxa:

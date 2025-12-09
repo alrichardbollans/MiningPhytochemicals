@@ -1,8 +1,10 @@
+import json
 import os
 import pickle
 
 import pandas as pd
 
+from analysis.extraction.running_extraction import deepseek_jsons_path
 from data.get_data_with_full_texts import data_with_full_texts_csv
 from data.parse_refs import sanitise_doi
 from phytochemMiner import TaxaData, check_organism_names_match, Taxon, check_compound_names_match
@@ -179,7 +181,8 @@ def deduplicate_taxa_list_on_accepted_name(taxadat: TaxaData):
 
 
 def check_records_for_doi(doi: str):
-    deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
+    json_dict = json.load(open(os.path.join(deepseek_jsons_path, sanitise_doi(doi) + '.json'), 'r'))
+    deepseek_output = TaxaData.model_validate(json_dict)
     doi_data_table = pd.read_csv(data_with_full_texts_csv, index_col=0)
     doi_data_table = doi_data_table[doi_data_table['refDOI'] == doi]
 

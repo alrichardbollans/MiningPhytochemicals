@@ -10,7 +10,7 @@ from data.parse_refs import wikidatafulltext_dir, sanitise_doi
 from phytochemMiner import get_phytochem_model, run_phytochem_model
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
-deepseek_pkls_path = os.path.join(repo_path, 'analysis', 'extraction', 'deepseek_pkls')
+deepseek_jsons_path = os.path.join(repo_path, 'analysis', 'extraction', 'deepseek_jsons')
 
 
 def main():
@@ -25,7 +25,7 @@ def main():
         fulltextpath = os.path.join(wikidatafulltext_dir, f'{sanitised_doi}.txt')
         result_ = run_phytochem_model(model, fulltextpath,
                                       limit,
-                                      pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                      json_dump=os.path.join(deepseek_jsons_path, sanitised_doi + '.json'), rerun=False,
                                       rerun_inchi_resolution=False)
 
     ### Negative examples
@@ -36,7 +36,7 @@ def main():
         fulltextpath = os.path.join(random_txt_dir, f'{sanitised_doi}.txt')
         result_ = run_phytochem_model(model, fulltextpath,
                                       limit,
-                                      pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                      json_dump=os.path.join(deepseek_jsons_path, sanitised_doi + '.json'), rerun=False,
                                       rerun_inchi_resolution=False)
 
     medplant_txt_dir, result = get_sanitised_dois_for_papers('medplant papers')
@@ -46,7 +46,7 @@ def main():
         fulltextpath = os.path.join(medplant_txt_dir, f'{sanitised_doi}.txt')
         result_ = run_phytochem_model(model, fulltextpath,
                                       limit,
-                                      pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                      json_dump=os.path.join(deepseek_jsons_path, sanitised_doi + '.json'), rerun=False,
                                       rerun_inchi_resolution=False)
 
     ## Phytochem paper examples
@@ -56,7 +56,7 @@ def main():
         fulltextpath = os.path.join(phytochem_txt_dir, f'{sanitised_doi}.txt')
         result_ = run_phytochem_model(model, fulltextpath,
                                       limit,
-                                      pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                      json_dump=os.path.join(deepseek_jsons_path, sanitised_doi + '.json'), rerun=False,
                                       rerun_inchi_resolution=False)
 
     ### colombian paper examples
@@ -65,7 +65,7 @@ def main():
         fulltextpath = os.path.join(colombian_dois[sanitised_doi], f'{sanitised_doi}.txt')
         result_ = run_phytochem_model(model, fulltextpath,
                                       limit,
-                                      pkl_dump=os.path.join(deepseek_pkls_path, sanitised_doi + '.pkl'), rerun=False,
+                                      json_dump=os.path.join(deepseek_jsons_path, sanitised_doi + '.json'), rerun=False,
                                       rerun_inchi_resolution=False)
 
 

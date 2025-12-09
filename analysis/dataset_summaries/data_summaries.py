@@ -1,18 +1,21 @@
+import json
 import os
 import pathlib
-import pickle
 
 import numpy as np
 import pandas as pd
-import sklearn
+
 from matplotlib import pyplot as plt
-from phytochempy.compound_properties import simplify_inchi_key
+from phytochemMiner import TaxaData
+
 from sklearn.linear_model import LinearRegression
 from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
     plot_native_number_accepted_taxa_in_regions
 import statsmodels.api as sm
-from wcvpy.wcvp_name_matching import get_species_binomial_from_full_name, get_accepted_info_from_names_in_column
 
+from analysis.dataset_summaries.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
+from analysis.evaluate_deepseek_performance.manual_matching_results.post_processing_method import get_standardised_correct_results
+from analysis.extraction.running_extraction import deepseek_jsons_path
 from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
@@ -186,7 +189,8 @@ def summarise(df: pd.DataFrame, out_tag, output_data=False):
 def get_deepseek_accepted_output_as_df(dois: list):
     deepseek_df = pd.DataFrame()
     for doi in dois:
-        deepseek_output = pickle.load(open(os.path.join(deepseek_pkls_path, sanitise_doi(doi) + '.pkl'), 'rb'))
+        json_dict = json.load(open(os.path.join(deepseek_jsons_path, sanitise_doi(doi) + '.json'), 'r'))
+        deepseek_output = TaxaData.model_validate(json_dict)
         df = convert_taxadata_to_accepted_dataframe(deepseek_output)
         df['refDOI'] = doi
         deepseek_df = pd.concat([deepseek_df, df])
@@ -252,7 +256,7 @@ def main():
     deepseek_df = get_deepseek_accepted_output_as_df(dois)
     summarise(deepseek_df, 'deepseek_validaton', output_data=True)
     validation_manually_checked_results = get_standardised_correct_results(
-        os.path.join('..', 'extraction', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
+        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
     summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
     #
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
@@ -265,13 +269,13 @@ def main():
     summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
     colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
     species_to_collect = \
-        pd.read_csv(os.path.join('..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
+        pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
             'accepted_species'].tolist()
     colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
     summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
 
     colombian_manually_checked_results = get_standardised_correct_results(
-        os.path.join('..', 'extraction', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
+        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
     colombian_manually_checked_results = colombian_manually_checked_results[
         colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
     summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)

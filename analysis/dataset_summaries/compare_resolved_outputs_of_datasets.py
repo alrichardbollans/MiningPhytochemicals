@@ -100,7 +100,7 @@ def main():
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
     colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
     species_to_collect = \
-        pd.read_csv(os.path.join('..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
+        pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
             'accepted_species'].tolist()
     colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
     compare_two_outputs_accepted(pd.concat([wikidata, knapsack_data]), colombian_data,
