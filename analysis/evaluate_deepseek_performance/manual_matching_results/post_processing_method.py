@@ -15,7 +15,7 @@ def get_standardised_correct_results(result_csv_file):
     acc_deepseek_df['InChIKey'] = acc_deepseek_df['compound_name'].apply(resolve_name_to_inchi)
     acc_deepseek_df['InChIKey_simp'] = acc_deepseek_df['InChIKey'].apply(simplify_inchi_key)
     acc_deepseek_df['SMILES'] = acc_deepseek_df['compound_name'].apply(resolve_name_to_smiles)
-    acc_deepseek_df['DOI'] = acc_deepseek_df['pkl_file'].apply(lambda x: x.replace('_', '/').strip('.pkl'))
+    acc_deepseek_df['DOI'] = acc_deepseek_df['json_file'].apply(lambda x: x.replace('_', '/').strip('.json'))
     return acc_deepseek_df
 
 if __name__ == '__main__':

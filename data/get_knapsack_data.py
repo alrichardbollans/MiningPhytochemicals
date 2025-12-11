@@ -3,12 +3,12 @@ import pickle
 
 import numpy as np
 import pandas as pd
+from phytochemMiner.extending_model_outputs import resolve_name_to_smiles, resolve_name_to_inchi
 from phytochempy.compound_properties import add_CAS_ID_translations_to_df
 from phytochempy.knapsack_searches import get_knapsack_compounds_in_family
 from tqdm import tqdm
 import sys
 
-from phytochemMiner import resolve_name_to_smiles, resolve_name_to_inchi
 
 sys.path.append('..')
 # Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`

@@ -1,138 +1,48 @@
-pkl_file,taxon_name,compound_name,decision
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,2 - tetradecene (e) -,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,1 - bromo-octadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,2 - bromo dodecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,squalene,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,11-decyl-tetracosanoic,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,tetracosanoic,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"heptadecane, 3-methyl-",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,hexadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,heneicosano,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,tritetracontano,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"2, 6, 10, - trimethyl-pentadecane",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,acetyl lupeol,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"3 - octadecane, (e) -",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,α-caryophyllene,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,epi lupeol,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,1-chloro-heptadecosano,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,nonadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,hentriacontane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,1-iodo-hexadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,eicosane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"naphthalene, 1, 2, 3, 5, 6, 8a-hexahydro-4, 7-dimethyl-1-(1-methylethyl)",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"naphthalene, 1, 2, 4a, 5, 6, 8a-hexahydro-4, 7-dimethyl-1-(1-methylethyl) - [1s-(1.α, 4a.β., 8a.α)]",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,(e) -3 - eicosane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"napthalene, 1, 2, 3, 4, 4a, 5, 6, 8a-octahydro-7-methyl-4-methylene-1-(1-methylethyl) - (1α., 4a.α, 8a.α)",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"naphthalene, 1, 2, 4a, 5, 6, 8a-hexahydro-4, 7-dimethyl-1-(1-methylethyl)",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"2,6,11-trimetil-dodecano",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,4-methyl-heptadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"5,14-dibutyl-octadecane",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,9-octyl-heptadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,octadeciloxy –2-ethanol,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,octadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,lupeol,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,"2,6,11-trimethyl-dodecane",Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,heptadecane,Yes
-10.5772_28961.pkl,vernonanthura patens (kunth) h. rob,docosenoic,Yes
-10.9734_jocamr_2019_v8i430130.pkl,annona muricata l,saponins,No
-10.9734_jocamr_2019_v8i430130.pkl,annona muricata l,alkaloids,No
-10.9734_jocamr_2019_v8i430130.pkl,annona muricata l,tannins,No
-10.9734_jocamr_2019_v8i430130.pkl,annona muricata l,flavonoids,No
-10.9734_jocamr_2019_v8i430130.pkl,persea americana mill,saponins,No
-10.9734_jocamr_2019_v8i430130.pkl,persea americana mill,alkaloids,No
-10.9734_jocamr_2019_v8i430130.pkl,persea americana mill,tannins,No
-10.9734_jocamr_2019_v8i430130.pkl,persea americana mill,flavonoids,No
-10.9734_jocamr_2019_v8i430130.pkl,montrichardia arborescens l. schott,saponins,No
-10.9734_jocamr_2019_v8i430130.pkl,montrichardia arborescens l. schott,alkaloids,No
-10.9734_jocamr_2019_v8i430130.pkl,montrichardia arborescens l. schott,tannins,No
-10.9734_jocamr_2019_v8i430130.pkl,montrichardia arborescens l. schott,flavonoids,No
-10.11144_javeriana.sc19-3.mlab.pkl,montrichardia linifera,p-hydroxybenzaldehyde,Yes
-10.11144_javeriana.sc19-3.mlab.pkl,montrichardia linifera,steroids,No
-10.17169_refubium-47555.pkl,cecropia peltata,euscaphic acid (isomer 1),Yes
-10.17169_refubium-47555.pkl,cecropia peltata,niga-ichigoside f2,Yes
-10.17169_refubium-47555.pkl,cecropia peltata,euscaphic acid (isomer 2),Yes
-10.17169_refubium-47555.pkl,cecropia peltata,buergericic acid (isomer 1),Yes
-10.17169_refubium-47555.pkl,cecropia peltata,buergericic acid (isomer 2),Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,α-amirina,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,amirina,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,β-cariofileno,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,β-amirina,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,quercetina,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,sabineno,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,procianidina,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,catequina,Yes
-10.20873_jbb.uft.cemaf.v9n1.menezesfilho.pkl,protium spruceanum (benth.) engl,linoleato de metila,Yes
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,flavonoids,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,non-reducing sugars,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,hemolytic saponins,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,organic acids,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,catechins,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,depsides and depsidones,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,double olefins,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,reducing sugars,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,resins,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,sesquiterpenolactones,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,phenols,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,alkaloids,No
-10.20873_jbb.uft.cemaf.v10n1.menezes.pkl,protium spruceanum,purines,No
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,kaempferol 3-o-β-d-glucopyranoside,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,132-s-hydroxypheophytin a,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,"5,7-dihydroxy-3,8,4'-trimethoxyflavone",Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,stigmasterol-3-o-β-d-glucopyranoside,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,pheophytin b,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,sitosterol-3-o-β-d-glucopyranoside,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,methyl-4-hydroxycinnamate,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,"3,5,7,3',4'-pentahydroxyflavone",Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,kaempferol 3-o-β-d-(6''-e-p-coumaroyl) glucoside,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,lupeol,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,pheophytin a,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,"3,5,7,4'-tetrahydroxyflavone",Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,"5,8-dihydroxy-7,4'-dimethoxyflavone",Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,α-amyrin,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,decanol,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,β-amyrin,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,β-sitosterol,Yes
-10.21577_0100-4042.20250134.pkl,pavonia malacophylla (link & otto) garcke,132-s-hydroxy-173-ethoxypheophorbide a,Yes
-10.24377_jnpd.article871.pkl,erigeron floribundus (kunth) sch.bip,alkaloids,No
-10.24377_jnpd.article871.pkl,erigeron floribundus (kunth) sch.bip,tannins,No
-10.24377_jnpd.article871.pkl,erigeron floribundus (kunth) sch.bip,terpenoids,No
-10.24377_jnpd.article871.pkl,erigeron floribundus (kunth) sch.bip,flavonoids,No
-10.24377_jnpd.article871.pkl,erigeron floribundus (kunth) sch.bip,polyphenols,No
-10.24377_jnpd.article871.pkl,erigeron floribundus (kunth) sch.bip,saponins,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea cochleata,coumarins,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea cochleata,steroids,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea cochleata,alkaloids,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea cochleata,triterpenes,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea cochleata,flavonoids,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea cochleata,saponins,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea livida,coumarins,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea livida,steroids,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea livida,alkaloids,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea livida,triterpenes,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea livida,flavonoids,No
-10.25081_jmhe.2020.v6.6431.pkl,prosthechea livida,saponins,No
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina-3-o-α-l-ramnosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina-3-β-glucopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina-3-glucosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,caempferol,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,β-amirina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,catequina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina-3-o-galactopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina galactoarabinosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,4'-o-metil-catequina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,epicatequina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina-3-o-arabinopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina-3-α-ramnopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,4'-o-metil-catequina-3-o-galato,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,procianidina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,apigenina-7-o-β-glucopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,foeniculina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,lupeol,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,ácido gálico,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,caempferol-3-o-(2''-o-e-p-couraroil)-β-d-glucopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,ácido betulínico,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,caempferol-4-β-glucopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,caempferol-3-o-(6''-o-e-p-coumaroil)-β-d-glucopiranosídeo,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,epi-catequina-3-o-galato,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,quercetina,Yes
-10.29327_269504.3.1-28.pkl,curatella americana,avicularina,Yes
+json_file,taxon_name,compound_name,inchikey,decision
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,1 - bromo-octadecane,WSULSMOGMLRGKU-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,2 - bromo dodecane,GIUUCQVKMWBSRT-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,squalene,YYGNTYWPHWGJRM-AAJYLUCBSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,"heptadecane, 3-methyl-",HPDKJRSKBCPMIY-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,hexadecane,DCAYPVUWAIABOU-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,α-caryophyllene,FAMPSKZZVDUYOS-HRGUGZIWSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,nonadecane,LQERIDTXQFOHKA-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,hentriacontane,IUJAMGNYPWYUPM-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,1-iodo-hexadecane,KMWHQYDMBYABKL-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,eicosane,CBFCDTFDPHXCNY-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,4-methyl-heptadecane,YPPNOYRCEQRCHY-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,"5,14-dibutyl-octadecane",VZZCEMBCJSFMMD-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,9-octyl-heptadecane,ZLIOPNROBPMBFI-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,octadecane,RZJRJXONCZWCBN-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,lupeol,MQYXUWHLBZFQQO-QGTGJCAVSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,"2,6,11-trimethyl-dodecane",FONXOARHSFUBAN-UHFFFAOYSA-N,Yes
+10.5772_28961.json,vernonanthura patens (kunth) h. rob,heptadecane,NDJKXXJCMXVBJW-UHFFFAOYSA-N,Yes
+10.9734_jocamr_2019_v8i430130.json,annona muricata l,saponins,AXNVHPCVMSNXNP-ZELRDNAQSA-N,No
+10.9734_jocamr_2019_v8i430130.json,persea americana mill,saponins,AXNVHPCVMSNXNP-ZELRDNAQSA-N,No
+10.9734_jocamr_2019_v8i430130.json,montrichardia arborescens l. schott,saponins,AXNVHPCVMSNXNP-ZELRDNAQSA-N,No
+10.11144_javeriana.sc19-3.mlab.json,montrichardia linifera,p-hydroxybenzaldehyde,RGHHSNMVTDWUBI-UHFFFAOYSA-N,Yes
+10.11144_javeriana.sc19-3.mlab.json,montrichardia linifera,steroids,DNVZSDMHLPWULM-PFJMVCNFSA-N,No
+10.20873_jbb.uft.cemaf.v10n1.menezes.json,protium spruceanum,catechins,PFTAWBLQPZVEMU-UHFFFAOYSA-N,No
+10.20873_jbb.uft.cemaf.v10n1.menezes.json,protium spruceanum,resins,ZLGIYFNHBLSMPS-ATJNOEHPSA-N,No
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,kaempferol 3-o-β-d-glucopyranoside,JPUKWEQWGBDDQB-QSOFNFLRSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,"5,7-dihydroxy-3,8,4'-trimethoxyflavone",RXQVMRRNRHSOTC-UHFFFAOYSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,pheophytin b,AMVFDCTXPYHACR-KMFDAVQUSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,methyl-4-hydroxycinnamate,NITWSHWHQAQBAW-UHFFFAOYSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,"3,5,7,3',4'-pentahydroxyflavone",REFJWTPEDVJJIY-UHFFFAOYSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,lupeol,MQYXUWHLBZFQQO-QGTGJCAVSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,pheophytin a,FDHFJXKRMIVNCQ-OSIZZBRKSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,"3,5,7,4'-tetrahydroxyflavone",IYRMWMYZSQPJKC-UHFFFAOYSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,"5,8-dihydroxy-7,4'-dimethoxyflavone",OVFDXRVXQRNNCT-UHFFFAOYSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,α-amyrin,FSLPMRQHCOLESF-SFMCKYFRSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,decanol,MWKFXSUHUHTGQN-UHFFFAOYSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,β-amyrin,JFSHUTJDVKUMTJ-QHPUVITPSA-N,Yes
+10.21577_0100-4042.20250134.json,pavonia malacophylla (link & otto) garcke,β-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,Yes
+10.24377_jnpd.article871.json,erigeron floribundus (kunth) sch.bip,saponins,AXNVHPCVMSNXNP-ZELRDNAQSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea cochleata,coumarins,PJVWKTKQMONHTI-UHFFFAOYSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea cochleata,steroids,DNVZSDMHLPWULM-PFJMVCNFSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea cochleata,triterpenes,XBZYWSMVVKYHQN-MYPRUECHSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea cochleata,saponins,AXNVHPCVMSNXNP-ZELRDNAQSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea livida,coumarins,PJVWKTKQMONHTI-UHFFFAOYSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea livida,steroids,DNVZSDMHLPWULM-PFJMVCNFSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea livida,triterpenes,XBZYWSMVVKYHQN-MYPRUECHSA-N,No
+10.25081_jmhe.2020.v6.6431.json,prosthechea livida,saponins,AXNVHPCVMSNXNP-ZELRDNAQSA-N,No
+10.29327_269504.3.1-28.json,curatella americana,lupeol,MQYXUWHLBZFQQO-QGTGJCAVSA-N,Yes

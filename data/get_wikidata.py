@@ -2,9 +2,9 @@ import os
 import pickle
 
 import pandas as pd
+from phytochemMiner.extending_model_outputs import is_valid_inchikey, is_probably_valid_organic_smiles
 from tqdm import tqdm
 
-from phytochemMiner import is_probably_valid_organic_smiles, is_valid_inchikey
 
 # Register `pandas.progress_apply` and `pandas.Series.map_apply` with `tqdm`
 # (can use `tqdm.gui.tqdm`, `tqdm.notebook.tqdm`, optional kwargs, etc.)

@@ -1,7 +1,5 @@
 ,family,Species per Family in Data,Species per Family,Species per Family in Data_prediction,Species per Family in Data_residuals,Species per Family in Data_highlight_high,Species per Family in Data_highlight_low,R2
 0,Araceae,1,4593,1.0,0.0,False,False,
 1,Asteraceae,1,35217,1.0,0.0,False,False,
-2,Burseraceae,1,770,1.0,0.0,False,False,
-3,Dilleniaceae,1,616,1.0,0.0,False,False,
-4,Malvaceae,1,5572,1.0,0.0,False,False,
-5,Urticaceae,1,2119,1.0,0.0,False,False,
+2,Dilleniaceae,1,616,1.0,0.0,False,False,
+3,Malvaceae,1,5572,1.0,0.0,False,False,

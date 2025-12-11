@@ -1,2 +1,2 @@
-,model,precision,Notes
-0,deepseek,0.6788321167883211,
+,model,precision,total extracted pairs,true_positives,false_positives,problem_compounds,Notes
+0,deepseek,0.7111111111111111,45,32,13,"['saponins', 'steroids', 'catechins', 'resins', 'coumarins', 'triterpenes']",

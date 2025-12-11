@@ -66,7 +66,7 @@ def medplant_cases():
 
 
 def main():
-    # random_cases()
+    random_cases()
     medplant_cases()
 
 

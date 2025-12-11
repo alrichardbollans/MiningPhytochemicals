@@ -4,14 +4,11 @@ import pathlib
 
 import numpy as np
 import pandas as pd
-
 from matplotlib import pyplot as plt
 from phytochemMiner import TaxaData
-
 from sklearn.linear_model import LinearRegression
 from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
     plot_native_number_accepted_taxa_in_regions
-import statsmodels.api as sm
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column
 
 from analysis.dataset_summaries.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
@@ -201,6 +198,7 @@ def get_deepseek_accepted_output_as_df(dois: list):
     pd.testing.assert_series_equal(acc_deepseek_df['accepted_name'], acc_deepseek_df['name'], check_index=False,
                                    check_names=False)
     acc_deepseek_df = acc_deepseek_df.drop(columns=['name'])
+    acc_deepseek_df = acc_deepseek_df.dropna(subset=['accepted_name'])
     return acc_deepseek_df
 
 

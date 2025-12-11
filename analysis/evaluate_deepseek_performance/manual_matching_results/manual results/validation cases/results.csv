@@ -1,104 +1,69 @@
-pkl_file,taxon_name,compound_name,decision
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"30-methoxy-3-(6-o-α-l-rhamnopyranosyl-β-d-glucopyranosyloxy)-40,5,7-trihydroxyflavone [isorhamnetin 3-o-rutinoside]",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3-(2-o-[6-o-(p-coumaroyl)-β-d-glucopyranosyl]-α-l-rhamnopyranosyloxy)-30,40,5,7-tetrahydroxyflavone",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3-(6-o-α-l-rhamnopyranosyl-β-d-glucopyranosyloxy)-30,40,5,7-tetrahydroxyflavone [quercetin 3-o-rutinoside, rutin]",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,ginkgolides j,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,ginkgolides a,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,shikimic acid,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3-(6-o-α-l-rhamnopyranosyl-β-d-glucopyranosyloxy)-40,5,7-trihydroxyflavone [kaempferol 3-o-rutinoside]",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,ginkgolides c,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3-(2-o-β-d-glucopyranosyl-α-l-rhamnopyranosyloxy)-30,40,5,7-tetrahydroxyflavone",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,bilobalide,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"30,40,5,7-tetrahydroxyflavonol [quercetin]",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3-(2-o-β-d-glucopyranosyl-α-l-rhamnopyranosyloxy)-40,5,7-trihydroxyflavone",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,δ8-15:1-anacardic acid,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3,4-dihydroxybenzoic acid",Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,ginkgolides b,Yes
-10.1007_S11306-009-0195-X.pkl,ginkgo biloba,"3-(2-o-[6-o-(p-coumaroyl)-β-d-glucopyranosyl]-α-l-rhamnopyranosyloxy)-40,5,7-trihydroxyflavone",Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,katuranin,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,arachidin 2,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,arachidin 4,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,(-)-epialboctalol,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,alboctalol,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,moracin m,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,6-o-methyl-moracin n,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,moracin p,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,6-o-methyl-moracin m,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,steppogenin,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,dihydromorin,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,artogomezianol,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,trans-resveratrol,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,trans-oxyresveratrol,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,moracin z,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,moracin n,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,β-sitosterol,Yes
-10.1016_J.PHYTOCHEM.2010.06.020.pkl,bagassa guianensis aubl,resorcinol,Yes
-10.1080_14786410903052399.pkl,elaeodendron croceum,naringenin,Yes
-10.1080_14786410903052399.pkl,elaeodendron croceum,tingenine b,Yes
-10.1080_14786410903052399.pkl,elaeodendron croceum,11α-hydroxy-β-amyrin,Yes
-10.1080_14786410903052399.pkl,elaeodendron croceum,tingenone,Yes
-10.1080_14786410903052399.pkl,elaeodendron croceum,20-hydroxy-20-epi-tingenone,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,β-eudesmol,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,linoleic acid,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,atractylon,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,atractylenolide ii,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,hinesol,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,β-caryophyllene,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,palmitic acid,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,β-selinene,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,γ-selinene,Yes
-10.1093_ECAM_NEQ006.pkl,atractylodes ovata de candolle,atractylenolide iii,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,syringic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,vanillic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,"labda-8(17),13e-dien-15,18-dioic acid 15-methyl ester",Yes
-10.1155_2014_304830.pkl,forsythia suspensa,3β-acetoxy-20α-hydroxyursan-28-oic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,benzoic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,trans-ferulic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,3β-hydroxyanticopalic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,trans-coumaric acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,betulinic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,taraxasterol acetate,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,p-hydroxyphenylacetic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,β-sitosterol,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,hydroxytyrosol,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,"3β-acetyl-20,25-epoxy-dammarane-24α-ol",Yes
-10.1155_2014_304830.pkl,forsythia suspensa,agatholic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,ψ-taraxasterol,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,"3,4-dimethoxybenzoic acid",Yes
-10.1155_2014_304830.pkl,forsythia suspensa,β-amyrin acetate,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,phillyrin,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,adoxosidic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,protocatechualdehyde,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,p-hydroxybenzoic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,quercetin,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,caffeic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,esculetin,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,acetyl oleanolic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,"(6s,9r)-roseoside",Yes
-10.1155_2014_304830.pkl,forsythia suspensa,p-tyrosol,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,stigmasterol,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,forsythoside d,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,2-furancarboxylic acid,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,salidroside,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,methyl-α-d-glucopyranoside,Yes
-10.1155_2014_304830.pkl,forsythia suspensa,p-hydroxyphenylacetic acid methyl ester,Yes
-10.1186_1742-6405-2-12.pkl,scutellaria baicalensis,wogon,Yes
-10.1186_1742-6405-2-12.pkl,scutellaria baicalensis,skullcapflavone i,Yes
-10.1186_1742-6405-2-12.pkl,scutellaria baicalensis,skullcapflavone ii,Yes
-10.1186_1742-6405-2-12.pkl,scutellaria baicalensis,baicalein,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,3β-o-tetradecanoylolean-12-en-28-oic acid,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,3β-o-hexadecanoylolean-12-en-28-oic acid,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,3β-o-β-d-glycopyranosylstigmasterol,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,3β-o-β-d-glycopyranosyl sitosterol,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,3β-o-pentadecanoylolean-12-en-28-oic acid,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,stigmasterol,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,ent-kaur-16-en-19-oic acid,Yes
-10.1590_S0100-40422001000100006.pkl,wedelia paludosa d. c,"ent-kaur-9(11),16-dien-19-oic acid",Yes
-10.1590_S0103-50532011000700013.pkl,colubrina greggii var. yucatanensis,discarine b,Yes
-10.1590_S0103-50532011000700013.pkl,colubrina greggii var. yucatanensis,betulinic acid,Yes
-10.1590_S0103-50532011000700013.pkl,colubrina greggii var. yucatanensis,cenothenic acid,Yes
-10.1590_S0103-50532011000700013.pkl,colubrina greggii var. yucatanensis,chrysophanein,Yes
-10.1590_S0103-50532011000700013.pkl,colubrina greggii var. yucatanensis,ceanothic acid,Yes
-10.1590_S0103-50532011000700013.pkl,colubrina greggii var. yucatanensis,3-o-acetyl ceanothic acid,Yes
-10.3892_IJO.2015.2946.pkl,citrus depressa,nobiletin,Yes
-10.3892_IJO.2015.2946.pkl,citrus reticulate,nobiletin,Yes
+json_file,taxon_name,compound_name,inchikey,decision
+10.1007_S11306-009-0195-X.json,ginkgo biloba,shikimic acid,JXOHGGNKMLTUBP-HSUXUTPPSA-N,Yes
+10.1007_S11306-009-0195-X.json,ginkgo biloba,bilobalide,MOLPUWBMSBJXER-YDGSQGCISA-N,Yes
+10.1007_S11306-009-0195-X.json,ginkgo biloba,"3,4-dihydroxybenzoic acid",YQUVCSBJEUQKSH-UHFFFAOYSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,katuranin,PADQINQHPQKXNL-LSDHHAIUSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,arachidin 2,WWFOQQIWOKJBSJ-SNAWJCMRSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,alboctalol,QQGGCAFWTCETPD-UHFFFAOYSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,moracin m,LHPRYOJTASOZGJ-UHFFFAOYSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,moracin p,QFUCSEIKNTUPPA-GOSISDBHSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,steppogenin,QBLQLKNOKUHRCH-UHFFFAOYSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,dihydromorin,QIWOFDHUQPJCJF-LSDHHAIUSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,artogomezianol,JABUEXRBDJUPEK-OWOJBTEDSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,trans-resveratrol,LUKBXSAWLPMMSZ-OWOJBTEDSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,trans-oxyresveratrol,PDHAOJSHSJQANO-OWOJBTEDSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,moracin n,WBSCSIABHGPAMC-UHFFFAOYSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,β-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,Yes
+10.1016_J.PHYTOCHEM.2010.06.020.json,bagassa guianensis aubl,resorcinol,GHMLBKRAJCXXBS-UHFFFAOYSA-N,Yes
+10.1080_14786410903052399.json,elaeodendron croceum,naringenin,FTVWIRXFELQLPI-ZDUSSCGKSA-N,Yes
+10.1080_14786410903052399.json,elaeodendron croceum,11α-hydroxy-β-amyrin,UBUHIKQRNDOKCZ-JABDUKPASA-N,Yes
+10.1080_14786410903052399.json,elaeodendron croceum,tingenone,WSTYNZDAOAEEKG-GWJSGULQSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,β-eudesmol,BOPIMTNSYWYZOC-VNHYZAJKSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,atractylon,TYPSVDGIQAOBAD-DZGCQCFKSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,atractylenolide ii,OQYBLUDOOFOBPO-KCQAQPDRSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,hinesol,ICWHTQRTTHCUHW-GZBFAFLISA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,β-caryophyllene,NPNUFJAVOOONJE-GFUGXAQUSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,palmitic acid,IPCSVZSSVZVIGE-UHFFFAOYSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,β-selinene,YOVSPTNQHMDJAG-QLFBSQMISA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,γ-selinene,RMZHSBMIZBMVMN-UHFFFAOYSA-N,Yes
+10.1093_ECAM_NEQ006.json,atractylodes ovata de candolle,atractylenolide iii,FBMORZZOJSDNRQ-GLQYFDAESA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,syringic acid,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,vanillic acid,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,benzoic acid,WPYMKLBDIGXBTP-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,trans-ferulic acid,KSEBMYQBYZTDHS-HWKANZROSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,betulinic acid,QGJZLNKBHJESQX-FZFNOLFKSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,taraxasterol acetate,SFEUTIOWNUGQMZ-ZHLOSDGBSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,p-hydroxyphenylacetic acid,XQXPVVBIMDBYFF-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,β-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,hydroxytyrosol,JUUBCHWRXWPFFH-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,ψ-taraxasterol,NGFFRJBGMSPDMS-VPUBHQHASA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,"3,4-dimethoxybenzoic acid",DAUAQNGYDSHRET-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,β-amyrin acetate,UMRPOGLIBDXFNK-ZYGITSNFSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,phillyrin,KFFCKOBAHMGTMW-LGQRSHAYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,adoxosidic acid,XJOPDXRZTFGTIW-PKUPRILXSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,protocatechualdehyde,IBGBGRVKPALMCQ-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,p-hydroxybenzoic acid,FJKROLUGYXJWQN-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,quercetin,REFJWTPEDVJJIY-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,caffeic acid,QAIPRVGONGVQAS-DUXPYHPUSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,esculetin,ILEDWLMCKZNDJK-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,acetyl oleanolic acid,RIXNFYQZWDGQAE-DFHVBEEKSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,"(6s,9r)-roseoside",SWYRVCGNMNAFEK-MHXFFUGFSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,p-tyrosol,YCCILVSKPBXVIP-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,stigmasterol,HCXVJBMSMIARIN-PHZDYDNGSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,forsythoside d,PESJTXLXMMWKDK-QBASSBPSSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,2-furancarboxylic acid,SMNDYUVBFMFKNZ-UHFFFAOYSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,salidroside,ILRCGYURZSFMEG-RKQHYHRCSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,methyl-α-d-glucopyranoside,HOVAGTYPODGVJG-ZFYZTMLRSA-N,Yes
+10.1155_2014_304830.json,forsythia suspensa,p-hydroxyphenylacetic acid methyl ester,XGDZEDRBLVIUMX-UHFFFAOYSA-N,Yes
+10.1186_1742-6405-2-12.json,scutellaria baicalensis,skullcapflavone i,CZRGNFVQUYWGKP-UHFFFAOYSA-N,Yes
+10.1186_1742-6405-2-12.json,scutellaria baicalensis,skullcapflavone ii,GMQFOKBGMKVUQZ-UHFFFAOYSA-N,Yes
+10.1186_1742-6405-2-12.json,scutellaria baicalensis,baicalein,FXNFHKRTJBSTCS-UHFFFAOYSA-N,Yes
+10.1590_S0100-40422001000100006.json,wedelia paludosa d. c,stigmasterol,HCXVJBMSMIARIN-PHZDYDNGSA-N,Yes
+10.1590_S0100-40422001000100006.json,wedelia paludosa d. c,ent-kaur-16-en-19-oic acid,NIKHGUQULKYIGE-OTCXFQBHSA-N,Yes
+10.1590_S0103-50532011000700013.json,colubrina greggii var. yucatanensis,discarine b,SCJZVYYNGPHJMK-MSUUIHNZSA-N,Yes
+10.1590_S0103-50532011000700013.json,colubrina greggii var. yucatanensis,betulinic acid,QGJZLNKBHJESQX-FZFNOLFKSA-N,Yes
+10.1590_S0103-50532011000700013.json,colubrina greggii var. yucatanensis,chrysophanein,QKPDYSSHOSPOKH-JNHRPPPUSA-N,Yes
+10.1590_S0103-50532011000700013.json,colubrina greggii var. yucatanensis,ceanothic acid,WLCHQSHZHFLMJH-VILVJDKQSA-N,Yes
+10.3892_IJO.2015.2946.json,citrus depressa,nobiletin,MRIAQLRQZPPODS-UHFFFAOYSA-N,Yes
+10.3892_IJO.2015.2946.json,citrus reticulate,nobiletin,MRIAQLRQZPPODS-UHFFFAOYSA-N,Yes
