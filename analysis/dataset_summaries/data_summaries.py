@@ -12,6 +12,7 @@ from sklearn.linear_model import LinearRegression
 from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
     plot_native_number_accepted_taxa_in_regions
 import statsmodels.api as sm
+from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column
 
 from analysis.dataset_summaries.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
 from analysis.evaluate_deepseek_performance.manual_matching_results.post_processing_method import get_standardised_correct_results
@@ -281,7 +282,11 @@ def main():
     summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
     for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
     summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
-    for_lotus = for_lotus[['organism_name', 'accepted_name_w_author', 'compound_name', 'InChIKey', 'SMILES', 'DOI']]
+    for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
+
+    # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
+    for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES':'chemical_entity_smiles',
+                                          'accepted_name':'taxon_name', 'DOI':'reference_doi'})
     for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
 
 
