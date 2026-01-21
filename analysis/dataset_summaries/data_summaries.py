@@ -1,6 +1,7 @@
 import json
 import os
 import pathlib
+from collections import defaultdict
 
 import numpy as np
 import pandas as pd
@@ -49,7 +50,7 @@ def get_regression_outputs(data, x_var, y_var, outpath):
     return data
 
 
-def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_annotate: str,
+def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_annotate: str, shifting_dict: dict,
                                       extras_to_annotate: list = None):
     # Set up the plot
     import seaborn as sns
@@ -69,14 +70,18 @@ def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_ann
 
     highlighted_data = data[(data[f'{y_var}_highlight_high'] == True) | (data[f'{y_var}_highlight_low'] == True)]
     to_annotate = highlighted_data[column_to_annotate].unique().tolist()
-
+    shifting = {'Melastomataceae': [-100, 10000]}
     if extras_to_annotate is not None:
         to_annotate += extras_to_annotate
     for _, row in data.iterrows():
-        if row[column_to_annotate] in to_annotate:
-            upshift = 0
-            rightshift = -0.1
-            plt.annotate(row[column_to_annotate], (row[x_var] + rightshift, row[y_var] + upshift), ha='right',
+        region_name = row[column_to_annotate]
+        if region_name in to_annotate:
+
+            if region_name in shifting_dict.keys():
+                upshift, rightshift = shifting_dict[region_name]
+            else:
+                upshift, rightshift = shifting_dict['default']
+            plt.annotate(region_name, (row[x_var] + rightshift, row[y_var] + upshift), ha='right',
                          color='black')
 
     # Line plot for expected_diversity vs xvar
@@ -157,7 +162,11 @@ def plot_dist_of_metric(df_with_region_data, metric, out_path: str = None, color
     plt.clf()
 
 
-def summarise(df: pd.DataFrame, out_tag, output_data=False):
+def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict=None, family_shifting_dict=None):
+    if family_shifting_dict is None:
+        family_shifting_dict = {'default': [1, -300]}
+    if region_shifting_dict is None:
+        region_shifting_dict = {'default': [0, -0.1]}
     outpath = os.path.join('summaries', out_tag)
     pathlib.Path(outpath).mkdir(parents=True, exist_ok=True)
     df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
@@ -166,7 +175,7 @@ def summarise(df: pd.DataFrame, out_tag, output_data=False):
     if output_data:
         df.to_csv(os.path.join(outpath, 'occurrences.csv'))
 
-    output_geographic_plots(df, outpath)
+    output_geographic_plots(df, outpath, shifting_dict=region_shifting_dict)
 
     phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
     reg_data = pd.DataFrame(
@@ -181,7 +190,7 @@ def summarise(df: pd.DataFrame, out_tag, output_data=False):
     reg_data = pd.merge(reg_data, fam_df, on='family', how='left')
 
     plot_2d_annotated_regression_data(reg_data, 'Species per Family', 'Species per Family in Data',
-                                      outpath, 'family')
+                                      outpath, 'family', shifting_dict=family_shifting_dict)
 
 
 def get_deepseek_accepted_output_as_df(dois: list):
@@ -210,7 +219,7 @@ def get_underlying_sp_distributions():
                                                 colormap='inferno')
 
 
-def output_geographic_plots(df, outpath: str):
+def output_geographic_plots(df, outpath: str, shifting_dict):
     df = df.dropna(subset=['accepted_species']).drop_duplicates(subset=['accepted_species'])
     df_with_dists = get_distributions_for_accepted_taxa(
         df, 'accepted_species', include_extinct=True,
@@ -230,7 +239,7 @@ def output_geographic_plots(df, outpath: str):
 
     plot_2d_annotated_regression_data(analysis_df, 'Species in Underlying Population', 'Species in Data',
                                       outpath,
-                                      'Region')
+                                      'Region', shifting_dict=shifting_dict)
 
 
 def summarise_underlying_text_data(dois, out_tag):
@@ -246,46 +255,47 @@ def main():
     # get_underlying_sp_distributions()
     wikidata = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
     knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
-    summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack')
-    summarise(wikidata, 'wikidata')
-    summarise(knapsack, 'knapsack')
-    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-    dois = doi_data_table['refDOI'].unique().tolist()
-    summarise_underlying_text_data(dois, 'deepseek_validaton')
-    deepseek_df = get_deepseek_accepted_output_as_df(dois)
-    summarise(deepseek_df, 'deepseek_validaton', output_data=True)
-    validation_manually_checked_results = get_standardised_correct_results(
-        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
-    summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
+    summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack', region_shifting_dict={'default': [0, -300]},
+              family_shifting_dict={'Melastomataceae': [-100, 10000], 'default': [1, -300]})
+    # summarise(wikidata, 'wikidata')
+    # summarise(knapsack, 'knapsack')
+    # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    # dois = doi_data_table['refDOI'].unique().tolist()
+    # summarise_underlying_text_data(dois, 'deepseek_validaton')
+    # deepseek_df = get_deepseek_accepted_output_as_df(dois)
+    # summarise(deepseek_df, 'deepseek_validaton', output_data=True)
+    # validation_manually_checked_results = get_standardised_correct_results(
+    #     os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
+    # summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
+    # #
+    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    # summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
+    # summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
     #
-    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
-    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
-
-
-
-    colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
-    summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
-    colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
-    species_to_collect = \
-        pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
-            'accepted_species'].tolist()
-    colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
-    summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
-
-    colombian_manually_checked_results = get_standardised_correct_results(
-        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
-    colombian_manually_checked_results = colombian_manually_checked_results[
-        colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
-    summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
-    for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
-    summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
-    for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
-
-    # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
-    for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES':'chemical_entity_smiles',
-                                          'accepted_name':'taxon_name', 'DOI':'reference_doi'})
-    for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
+    #
+    #
+    # colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
+    # summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
+    # colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
+    # species_to_collect = \
+    #     pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
+    #         'accepted_species'].tolist()
+    # colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
+    # summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
+    #
+    # colombian_manually_checked_results = get_standardised_correct_results(
+    #     os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
+    # colombian_manually_checked_results = colombian_manually_checked_results[
+    #     colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
+    # summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
+    # for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
+    # summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
+    # for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
+    #
+    # # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
+    # for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES':'chemical_entity_smiles',
+    #                                       'accepted_name':'taxon_name', 'DOI':'reference_doi'})
+    # for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
 
 
 if __name__ == '__main__':

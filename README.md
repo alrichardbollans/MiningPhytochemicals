@@ -1,6 +1,8 @@
 ## 
 
-A repo to build data linking compounds, the plants they occur in and the scientific papers reporting this.
+A repo to analyse data linking compounds, the plants they occur in and the scientific papers reporting phytochemicals.
+
+The LLM extraction methods are provided in https://github.com/alrichardbollans/phytochemMiner
 
 ### References & Acknowledgements
 Petr Knoth et al., ‘CORE: A Global Aggregation Service for Open Access Papers’, Scientific Data 10, no. 1 (2023): 366, https://doi.org/10.1038/s41597-023-02208-w.

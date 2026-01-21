@@ -33,7 +33,7 @@ wikidata_plantae_compounds_csv = os.path.join(compound_occurence_path, 'wikidata
 # A version which keeps duplicates if found across different DOIs
 wikidata_plantae_reference_data_csv = os.path.join(compound_occurence_path, 'wikidata_compound_doi.csv')
 
-WCVP_VERSION = None
+WCVP_VERSION = '14'
 
 
 def get_all_families(rerun=False):
