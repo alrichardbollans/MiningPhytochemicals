@@ -1,7 +1,7 @@
 import json
 import os
 import pathlib
-from collections import defaultdict
+import seaborn as sns
 
 import numpy as np
 import pandas as pd
@@ -47,6 +47,10 @@ def get_regression_outputs(data, x_var, y_var, outpath):
     data[f'{y_var}_highlight_low'] = data[f'{y_var}_residuals'] < (mean_residual - (2 * std_residual))
     data['R2'] = r_squared
     data.to_csv(os.path.join(outpath, f'{x_var}_and_{y_var}_regression_outputs.csv'))
+
+    sns.displot(data[f'{y_var}_residuals'], kde=True)
+    plt.show()
+
     return data
 
 
@@ -257,45 +261,45 @@ def main():
     knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
     summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack', region_shifting_dict={'default': [0, -300]},
               family_shifting_dict={'Melastomataceae': [-100, 10000], 'default': [1, -300]})
-    # summarise(wikidata, 'wikidata')
-    # summarise(knapsack, 'knapsack')
-    # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-    # dois = doi_data_table['refDOI'].unique().tolist()
-    # summarise_underlying_text_data(dois, 'deepseek_validaton')
-    # deepseek_df = get_deepseek_accepted_output_as_df(dois)
-    # summarise(deepseek_df, 'deepseek_validaton', output_data=True)
-    # validation_manually_checked_results = get_standardised_correct_results(
-    #     os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
-    # summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
-    # #
-    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    # summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
-    # summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
+    summarise(wikidata, 'wikidata')
+    summarise(knapsack, 'knapsack')
+    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    dois = doi_data_table['refDOI'].unique().tolist()
+    summarise_underlying_text_data(dois, 'deepseek_validaton')
+    deepseek_df = get_deepseek_accepted_output_as_df(dois)
+    summarise(deepseek_df, 'deepseek_validaton', output_data=True)
+    validation_manually_checked_results = get_standardised_correct_results(
+        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
+    summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
     #
-    #
-    #
-    # colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
-    # summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
-    # colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
-    # species_to_collect = \
-    #     pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
-    #         'accepted_species'].tolist()
-    # colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
-    # summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
-    #
-    # colombian_manually_checked_results = get_standardised_correct_results(
-    #     os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
-    # colombian_manually_checked_results = colombian_manually_checked_results[
-    #     colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
-    # summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
-    # for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
-    # summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
-    # for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
-    #
-    # # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
-    # for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES':'chemical_entity_smiles',
-    #                                       'accepted_name':'taxon_name', 'DOI':'reference_doi'})
-    # for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
+    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
+    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
+
+
+
+    colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
+    summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
+    colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
+    species_to_collect = \
+        pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
+            'accepted_species'].tolist()
+    colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
+    summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
+
+    colombian_manually_checked_results = get_standardised_correct_results(
+        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
+    colombian_manually_checked_results = colombian_manually_checked_results[
+        colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
+    summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
+    for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
+    summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
+    for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
+
+    # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
+    for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES':'chemical_entity_smiles',
+                                          'accepted_name':'taxon_name', 'DOI':'reference_doi'})
+    for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
 
 
 if __name__ == '__main__':

@@ -112,9 +112,9 @@ def convert_taxadata_to_accepted_dataframe(taxa_data) -> pd.DataFrame:
     out=[]
     for taxon in taxa_data.taxa:
         for i in taxon.inchi_key_simps:
-            out.append([taxon.accepted_name, taxon.inchi_key_simps[i]])
+            out.append([taxon.accepted_name, taxon.inchi_key_simps[i], taxon.scientific_name, i])
 
-    return pd.DataFrame(out, columns=['accepted_name','InChIKey_simp'])
+    return pd.DataFrame(out, columns=['accepted_name','InChIKey_simp', 'extracted_organism_name','extracted_compound_name'])
 
 def convert_taxadata_to_verbatim_dataframe(taxa_data) -> pd.DataFrame:
     out=[]

@@ -16,9 +16,9 @@ def compare_two_outputs_accepted(df1, df2, out_tag: str, label1: str, label2: st
     pathlib.Path(out_dir).mkdir(parents=True, exist_ok=True)
     df1 = df1.dropna(subset=['accepted_name', 'InChIKey_simp'], how='any')
     df2 = df2.dropna(subset=['accepted_name', 'InChIKey_simp'], how='any')
-    df1['pairs'] = df1['accepted_name'] + df1['InChIKey_simp']
+    df1['pairs'] = df1['accepted_name'] + '_' + df1['InChIKey_simp']
     df1 = df1.drop_duplicates(subset=['pairs'], keep='first')[['pairs']]
-    df2['pairs'] = df2['accepted_name'] + df2['InChIKey_simp']
+    df2['pairs'] = df2['accepted_name'] + '_' + df2['InChIKey_simp']
     df2 = df2.drop_duplicates(subset=['pairs'], keep='first')[['pairs']]
 
     merged = pd.merge(df1, df2, on=['pairs'], how='outer', indicator=True)
@@ -90,11 +90,10 @@ def main():
                                                'WikiData and KNApSAcK',
                                                'DeepSeek')
     only_in_deepseek_merge_info = merged_data[merged_data['_merge'] == 'right_only']
-    deepseek_df['pairs'] = deepseek_df['accepted_name'] + deepseek_df['InChIKey_simp']
+    deepseek_df['pairs'] = deepseek_df['accepted_name'] + '_' + deepseek_df['InChIKey_simp']
     only_in_deepseek = deepseek_df[
         deepseek_df['pairs'].isin(only_in_deepseek_merge_info['pairs'].values)]
     summarise(only_in_deepseek, 'deepseek_phytochem_papers_not_in_other_sources', output_data=True)
-
 
     ## Colombian data
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())

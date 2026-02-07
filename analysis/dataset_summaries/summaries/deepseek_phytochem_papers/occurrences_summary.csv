@@ -1,5 +1,5 @@
-,InChIKey_simp,refDOI,accepted_ipni_id,accepted_name,accepted_name_w_author,accepted_family,accepted_rank,accepted_species,accepted_species_w_author,accepted_species_ipni_id,accepted_parent,plant_name_id,taxon_status,matched_by,matched_name,pairs
-count,8213,8213,8211,8213,8213,8213,8213,7998,7998,7998,7998,8213,8213,8213,8213,8213
-unique,2857,226,672,673,673,100,4,641,641,641,318,673,2,2,673,7447
-top,KZJWDPNRJALLNS,10.30495_tpr.2022.694114,600841-1,Psidium guajava,Psidium guajava L.,Asteraceae,Species,Psidium guajava,Psidium guajava L.,600841-1,Psidium,166741,Accepted,direct_wcvp_unique,Psidium guajava,Moringa oleiferaCWVRJTMFETXNAD
-freq,108,295,249,249,249,931,7809,249,249,249,249,249,8191,7760,249,8
+,InChIKey_simp,extracted_organism_name,extracted_compound_name,refDOI,accepted_ipni_id,accepted_name,accepted_name_w_author,accepted_family,accepted_rank,accepted_species,accepted_species_w_author,accepted_species_ipni_id,accepted_parent,plant_name_id,taxon_status,matched_by,matched_name,pairs
+count,8213,8213,8213,8213,8211,8213,8213,8213,8213,7998,7998,7998,7998,8213,8213,8213,8213,8213
+unique,2857,724,3677,226,672,673,673,100,4,641,641,641,318,673,2,2,673,7447
+top,KZJWDPNRJALLNS,psidium guajava l,quercetin,10.30495_tpr.2022.694114,600841-1,Psidium guajava,Psidium guajava L.,Asteraceae,Species,Psidium guajava,Psidium guajava L.,600841-1,Psidium,166741,Accepted,direct_wcvp_unique,Psidium guajava,Moringa oleiferaCWVRJTMFETXNAD
+freq,108,247,99,295,249,249,249,931,7809,249,249,249,249,249,8191,7760,249,8
