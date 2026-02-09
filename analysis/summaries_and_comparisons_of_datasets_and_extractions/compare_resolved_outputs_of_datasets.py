@@ -9,6 +9,7 @@ from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv, wikidata_plantae_reference_data_csv
+from data.parse_refs import sanitise_doi
 
 
 def compare_two_outputs_accepted(df1, df2, out_tag: str, label1: str, label2: str):
@@ -110,7 +111,8 @@ def main():
     doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     dois = doi_data_table['refDOI'].unique().tolist()
     wikidata = pd.read_csv(wikidata_plantae_reference_data_csv)
-    deepseek_df = get_deepseek_accepted_output_as_df(dois)
+    sanitised_dois = [sanitise_doi(d) for d in dois]
+    deepseek_df = get_deepseek_accepted_output_as_df(sanitised_dois)
     compare_two_outputs_accepted(wikidata[wikidata['refDOI'].isin(dois)], deepseek_df,
                                  'wikidata_deepseek_comparison_on_validation_data', 'WikiData',
                                  'DeepSeek')

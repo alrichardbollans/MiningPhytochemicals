@@ -20,7 +20,7 @@ from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import wikidata_plantae_compounds_csv, WCVP_VERSION
-from data.parse_refs import sanitise_doi
+from data.parse_refs import sanitise_doi, desanitise_doi
 
 
 def get_regression_outputs(data, x_var, y_var, outpath):
@@ -48,8 +48,8 @@ def get_regression_outputs(data, x_var, y_var, outpath):
     data['R2'] = r_squared
     data.to_csv(os.path.join(outpath, f'{x_var}_and_{y_var}_regression_outputs.csv'))
 
-    sns.displot(data[f'{y_var}_residuals'], kde=True)
-    plt.show()
+    # sns.displot(data[f'{y_var}_residuals'], kde=True)
+    # plt.show()
 
     return data
 
@@ -173,13 +173,20 @@ def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict
         region_shifting_dict = {'default': [0, -0.1]}
     outpath = os.path.join('summaries', out_tag)
     pathlib.Path(outpath).mkdir(parents=True, exist_ok=True)
-    df['pairs'] = df['accepted_name'] + df['InChIKey_simp']
+    df['pairs'] = df['accepted_name'] + '_' + df['InChIKey_simp']
     df.describe(include='all').to_csv(os.path.join(outpath, 'occurrences_summary.csv'))
 
     if output_data:
-        df.to_csv(os.path.join(outpath, 'occurrences.csv'))
+        if 'extracted_organism_name' in df.columns:
+            df['refDOI'] = df['refDOI'].apply(desanitise_doi)
 
-    output_geographic_plots(df, outpath, shifting_dict=region_shifting_dict)
+            df[['extracted_organism_name', 'extracted_compound_name', 'accepted_name', 'accepted_name_w_author', 'InChIKey_simp', 'refDOI']].to_csv(
+                os.path.join(outpath, 'occurrences.csv'))
+        else:
+            df.to_csv(
+                os.path.join(outpath, 'occurrences.csv'))
+
+    # output_geographic_plots(df, outpath, shifting_dict=region_shifting_dict)
 
     phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
     reg_data = pd.DataFrame(
@@ -197,10 +204,10 @@ def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict
                                       outpath, 'family', shifting_dict=family_shifting_dict)
 
 
-def get_deepseek_accepted_output_as_df(dois: list):
+def get_deepseek_accepted_output_as_df(sanitised_dois: list):
     deepseek_df = pd.DataFrame()
-    for doi in dois:
-        json_dict = json.load(open(os.path.join(deepseek_jsons_path, sanitise_doi(doi) + '.json'), 'r'))
+    for doi in sanitised_dois:
+        json_dict = json.load(open(os.path.join(deepseek_jsons_path, doi + '.json'), 'r'))
         deepseek_output = TaxaData.model_validate(json_dict)
         df = convert_taxadata_to_accepted_dataframe(deepseek_output)
         df['refDOI'] = doi
@@ -259,15 +266,16 @@ def main():
     # get_underlying_sp_distributions()
     wikidata = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
     knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
-    summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack', region_shifting_dict={'default': [0, -300]},
-              family_shifting_dict={'Melastomataceae': [-100, 10000], 'default': [1, -300]})
-    summarise(wikidata, 'wikidata')
-    summarise(knapsack, 'knapsack')
-    doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
-    dois = doi_data_table['refDOI'].unique().tolist()
-    summarise_underlying_text_data(dois, 'deepseek_validaton')
-    deepseek_df = get_deepseek_accepted_output_as_df(dois)
-    summarise(deepseek_df, 'deepseek_validaton', output_data=True)
+    # summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack', region_shifting_dict={'default': [0, -300]},
+    #           family_shifting_dict={'Melastomataceae': [-100, 10000], 'default': [1, -300]})
+    # summarise(wikidata, 'wikidata')
+    # summarise(knapsack, 'knapsack')
+    # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
+    # dois = doi_data_table['refDOI'].unique().tolist()
+    # summarise_underlying_text_data(dois, 'deepseek_validaton')
+    # sanitised_dois = [sanitise_doi(d) for d in dois]
+    # deepseek_df = get_deepseek_accepted_output_as_df(sanitised_dois)
+    # summarise(deepseek_df, 'deepseek_validaton', output_data=True)
     validation_manually_checked_results = get_standardised_correct_results(
         os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
     summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
@@ -275,8 +283,6 @@ def main():
     phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
     summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
     summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
-
-
 
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
     summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
@@ -297,8 +303,8 @@ def main():
     for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
 
     # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
-    for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES':'chemical_entity_smiles',
-                                          'accepted_name':'taxon_name', 'DOI':'reference_doi'})
+    for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES': 'chemical_entity_smiles',
+                                          'accepted_name': 'taxon_name', 'DOI': 'reference_doi'})
     for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
 
 

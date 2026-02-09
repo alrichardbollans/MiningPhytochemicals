@@ -2,6 +2,7 @@ import os
 import pathlib
 import pickle
 import time
+import urllib.parse
 from collections import defaultdict
 
 import pandas as pd
@@ -113,7 +114,7 @@ def sanitise_doi(doi: str) -> str:
     """
     Sanitises a given DOI (Digital Object Identifier) by replacing forward slashes
     ('/') with underscores ('_'). This ensures the DOI is formatted in a way
-    suitable for systems or scenarios where forward slashes may be problematic.
+    suitable for systems or scenarios where forward slashes may be problematic like file paths.
 
     :param doi: A digital object identifier (DOI) string that may contain forward
         slashes ('/').
@@ -122,7 +123,12 @@ def sanitise_doi(doi: str) -> str:
         with underscores.
     :rtype: str
     """
-    return doi.replace('/', '_')
+    if '%' in doi:
+        raise ValueError(f'DOI {doi} contains invalid characters')
+    return urllib.parse.quote_plus(doi, safe="")
+
+def desanitise_doi(sanitised: str) -> str:
+    return urllib.parse.unquote_plus(sanitised)
 
 
 def build_text_data(dois: list[str], outfolder: str = wikidatafulltext_dir) -> None:
@@ -192,6 +198,10 @@ def main():
     compounds = pd.read_csv(wikidata_plantae_reference_data_csv)
     dois = compounds['refDOI'].unique().tolist()
     assert len(dois) == len(set([sanitise_doi(c) for c in dois]))
+
+    for doi in dois:
+        assert doi == desanitise_doi(sanitise_doi(doi))
+
     build_text_data(dois)
 
 
