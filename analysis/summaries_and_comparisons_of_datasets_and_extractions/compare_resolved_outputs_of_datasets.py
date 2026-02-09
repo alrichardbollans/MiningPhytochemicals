@@ -3,7 +3,7 @@ import pathlib
 
 import pandas as pd
 
-from analysis.dataset_summaries.data_summaries import get_deepseek_accepted_output_as_df, summarise
+from analysis.summaries_and_comparisons_of_datasets_and_extractions.data_summaries import get_deepseek_accepted_output_as_df, summarise
 from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
 from data.get_knapsack_data import knapsack_plantae_compounds_csv

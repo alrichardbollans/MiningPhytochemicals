@@ -3,8 +3,8 @@ import pickle
 
 import pandas as pd
 
-from analysis.dataset_summaries.compare_resolved_outputs_of_datasets import result_venn_diagram
-from analysis.dataset_summaries.get_agreements_and_disagreements import check_records_for_doi
+from analysis.summaries_and_comparisons_of_datasets_and_extractions.compare_resolved_outputs_of_datasets import result_venn_diagram
+from analysis.summaries_and_comparisons_of_datasets_and_extractions.get_agreements_and_disagreements import check_records_for_doi
 from data.get_data_with_full_texts import data_with_full_texts_csv, validation_data_csv, test_data_csv
 from phytochemMiner import inchi_translation_cache, TaxaData
 

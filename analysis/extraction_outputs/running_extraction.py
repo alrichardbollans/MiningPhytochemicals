@@ -10,7 +10,7 @@ from data.parse_refs import wikidatafulltext_dir, sanitise_doi
 from phytochemMiner import get_phytochem_model, run_phytochem_model
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
-deepseek_jsons_path = os.path.join(repo_path, 'analysis', 'extraction', 'deepseek_jsons')
+deepseek_jsons_path = os.path.join(repo_path, 'analysis', 'extraction_outputs', 'deepseek_jsons')
 
 
 def main():

@@ -4,8 +4,8 @@ import os
 import pandas as pd
 from phytochemMiner import TaxaData
 
-from analysis.dataset_summaries.get_agreements_and_disagreements import get_verbatim_matches
-from analysis.extraction.running_extraction import deepseek_jsons_path
+from analysis.summaries_and_comparisons_of_datasets_and_extractions.get_agreements_and_disagreements import get_verbatim_matches
+from analysis.extraction_outputs.running_extraction import deepseek_jsons_path
 from data.get_papers_with_no_hits import get_sanitised_dois_for_papers
 from data.get_wikidata import data_path
 from data.parse_refs import sanitise_doi

@@ -4,7 +4,7 @@ import pickle
 
 import pandas as pd
 
-from analysis.extraction.running_extraction import deepseek_jsons_path
+from analysis.extraction_outputs.running_extraction import deepseek_jsons_path
 from data.get_data_with_full_texts import data_with_full_texts_csv
 from data.parse_refs import sanitise_doi
 from phytochemMiner import TaxaData, check_organism_names_match, Taxon, check_compound_names_match
