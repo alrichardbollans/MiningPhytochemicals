@@ -1,0 +1,643 @@
+Plant Physiol. (1988) 86, 0176-0181
+0032-0889/88/86/0 176/06/$0 1.00/0
+Elicitation of Diacetylenic Compounds in Suspension Cultured
+Cells of Eggplant
+Received for publication June 8, 1987 and in revised form October 2, 1987
+SETSUKO IMOTO* AND YOSHIMOTO OHTA
+Suntory Institutefor Bioorganic Research, 1-1-1,
+Osaka 618 Japan
+ABSTRACr
+Induction of stress metabolites in the suspension cultured cells of
+eglant (Solanum melongena L.) was exmine. When autoclaved
+RNase A or nigeran, both of which are nonspecific phytoalexin elicitors
+in bean cells, were added to the cell culture of eggplant, greatly enhanced
+levels of three compounds were observed. One ofthem was cis-pentadeca-
+6-ene-1,3-diyne-5,15-diol, a novel diacetylenic compound. This compound
+has considerable futoxic activity. Also identified was falindiol,
+another fungitoxic diacetylenic compound previously reported as one of
+the phytoalexins in infected tomato fruits and leaves. Elicited compounds
+preferentially accumulated in the culture medium rather than in the cells
+and deceased to oinal levels during prolonged culturing. The elicitation
+of these compounds was closely correlated with cellular damage in terms
+of the decrease of growth rate and was inhibited by 10 micromolar
+cycloheximide.
+Production oflow-mol antimicrobial stress metabolites knowvn
+as phytoalexins is a well documented response of plants to
+infection by microorganisms. Despite the chemical diversity of
+phytoalexins in the plant kingdom, a general similarity ofchem-
+ical types within a family has been observed. Plants of the
+Leguminosae, Solanaceae, Compositae, and Convolvulaceae
+produce predominantly isoflavonoids, carbocyclic-sesquiterpen-
+oids, polyacetylenes, and furanosesquiterpenoids, respectively, as
+characteristic phytoalexins (14). Formation of isoflavonoid-re-
+lated phytoalexins in leguminous plants and in suspension cul-
+tured cells can be stimulated by treatment with various elicitors.
+The combination of cultured cells and abiotic elicitors, such as
+autoclaved RNase A, has been shown to be a suitable experi-
+mental system for investigating the mechanism of induction of
+phytoalexin formation in leguminous plants (7, 8).
+In the case of solanaceous plants, only biotic elicitation of
+phytoalexins in suspension cultured cells of potato has been
+examined. Brindle et al. (4) reported the accumulation of ses-
+quiterpenoid phytoalexins, rishitin, lubimin, and solavetivone,
+upon inoculation with the fungal pathogen Phytophthora infes-
+tans. However, subsequent studies by Zacharius and Kalan (22)
+failed to report such compounds in potato cells responding to
+infection with the same fungus or fungal elicitors. Sesquiterpen-
+oid phytoalexins have also been reported from infected fruits of
+eggplant (19, 21).
+In addition to the sesquiterpenoid phytoalexins, diacetylenic
+compounds have been found in tomato fruits and leaves infected
+with fungi (6). It has not been clearly established whether diace-
+tylenic compounds are phytoalexins common to solanaceous
+plants. Thus, it is worthwhile examining whether cultured cells
+Wakayamadai, Shimamoto-cho, Mishima-gun,
+of solanaceous plants other than potato produce sesquiterpenoid
+and/or diacetylenic phytoalexins upon interaction with biotic
+and/or abiotic elicitors. It is also important to know whether the
+induction ofthe two different types ofphytoalexins are regulated
+in the same manner.
+In this paper, we describe the production of diacetylenic com-
+pounds in cultured cells of eggplant upon treatment with abiotic
+elicitor.
+MATERIALS AND METHODS
+Chemicals. Bovine pancreatic RNase A (Type II-A) was pur-
+chased from Sigma. Nigeran was a product ofCalbiochem Corp.
+Cycloheximide was obtained from Boehringer Mannheim.
+Cell Cultures. Callus ofeggplant (Solanum melongena L.) was
+induced from the young stem on the Murashige-Skoog agar
+medium (16) containing 3% sucrose, 1 mg/L of 2,4-D and 0.1
+mg/L of kinetin in 1981. The callus was transferred into liquid
+Murashige-Skoog medium supplemented with 3% sucrose and 1
+mg/L 2,4-D, and the resulting cell suspension was subcultured
+every 2 weeks for about 5 years. The cells were grown in 500-ml
+Sakaguchi flasks containing 100 ml of the culture medium and
+incubated on a reciprocal shaker (1 10 strokes/min) illuminated
+continuously (30 ,E/m2. s) from the bottom ofthe flask at 25°C.
+Cell growth was determined by measuring the cell dry weight as
+previously reported (18).
+Treatment with Elicitors and Analysis of Metabolites by GC.
+RNase A and nigeran suspended in distilled water were auto-
+claved at 120°C for 15 min. Immediately after suspension cells
+in the stationary phase (10 ml) were inoculated into fresh me-
+dium (100 ml), 5 ml of elicitor solutions were added to the
+culture flasks to give a final concentration of 1 mg/ml of RNase
+A or 0.2 mg/ml of nigeran. In a control experiment, 5 ml of
+autoclaved distilled water was added to the culture instead of the
+elicitor solutions. After 3 d of incubation, the cells and medium
+were separated by filtration. The cells obtained from one flask
+were extracted three times with 20 ml of methanol. The aqueous
+residue obtained by evaporation of methanol under reduced
+pressure was extracted three times with 20 ml of diethyl ether.
+Water was removed from the ether extract with anhydrous
+sodium sulfate, and the extract was then evaporated to dryness.
+The residue was dissolved in 0.3 ml of ethyl acetate, and an
+aliquot of the solution was analyzed by GC and GC-MS. The
+culture medium was extracted directly with diethyl ether, and
+the ether extract was analyzed in the same way as the cell extracts.
+GC was performed on a Hitachi model 163 Gas Chromato-
+graph fitted with a 5 mm (i.d.) x 1 m glass column packed with
+3% OV-1 on Gas-Chrom Q (80-100 mesh, Shimadzu) with N2
+as carrier gas at a flow rate of 60 ml/min, and a flame ionization
+detector. Column temperature was elevated from 100 to 250°C
+at a rate of 5°C/min. GC-MS was performed on a Hitachi M-80
+mass spectrometer under fundamentally the same GC condi-
+176  www.plantphysiol.orgon May 12, 2019 - Published by Downloaded from Copyright © 1988 American Society of Plant Biologists. All rights reserved.
+ELICITATION OF DIACETYLENES IN EGGPLANT CELLS
+tions, except that He was used as the carmer gas.
+Isolation and Determination of Stress Compounds. Three com-
+pounds which were proved to increase in the medium upon the
+treatment with elicitors were designated Sol-l, Sol-2, and Sol-3
+in the order of elution time on GC and isolated as follows. The
+extract (40 mg) obtained from 2 L of the elicitor-treated culture
+medium was applied to a silica gel column (Kiesel gel 60, 230-
+400 mesh, Merck) and eluted step-wise with increasing concen-
+trations of methanol in chloroform from zero to 5%, monitoring
+by TLC and GC. Fractions containing Sol-l, -2, -3 were com-
+bined separately, and each compound was further purified by
+HPLC on a reversed phase column (Partisil 10 ODS-II, 8 mm
+(i.d.) x 50 cm, Sumitomo Chemicals, Osaka, Japan) eluted with
+methanol:water (4:1 v/v), and monitored by absorbance at 205
+nm. UV spectra were measured on a Shimadzu UV-2 1OA spec-
+trophotometer. Infrred spectra were recorded on a Nicolet 7000
+FT-IR. Proton and carbon NMR spectra were recorded on a
+Nicolet Model NT-360 spectrometer and on a JEOL FX-100 (25
+MHz) spectrometer, respectively. High resolution mass spectra
+(HI-MS) were obtained on a JEOL JMS 01SG-2 mass spectrom-
+eter. Chemical ionization mass spectra (CI-MS) were obtained
+with a Hitachi M-80 mass spectrometer using isobutane as the
+reactant gas (70 eV).
+Bioassay of Fungitoxicity of Sol-1. Fungitoxicity of Sol-l was
+determined by inhibition of spore germination and/or subse-
+quent mycelial growth of Monilinia fructicola (Wint.) Honey.
+The absolute concentration ofthe Sol-l solution was determined
+from its absorbance at X.. 241 nm using the molar extinction
+coefficient of cis-tetradeca-6-ene-1,3-diyne-5,8-diol (e = 400),
+which has a very similar structural environment around the
+conjugated acetylenic group to that of Sol-l (6).
+Fungal cultures were maintained at 25°C on slants of potato
+dextrose agar. The conidial suspension was obtained by washing
+the surface of sporulating colonies with sterile distilled water.
+Twenty gl of this suspension was pipetted onto sterile plastic
+dishes, Cell Wells (well diameter 6.4 mm, Corning, NY), filled
+with 100 Ml of the culture medium described previously (6). The
+methanol solution of purified Sol-l was added to each well to
+give a series of concentrations (0-27 Mg/ml). Methanol added to
+the media at the same concentration used did not inhibit fungal
+growth. These dishes were incubated for a week in a box with
+moist filter paper at 25°C in the dark. The growth of fungus was
+assessed on the basis of the dry weight of the contents in the
+wells.
+Quantitative Determination of Diacetylenic Compounds. The
+amounts of Sol-l, -2, and -3 accumulated in the cells and culture
+medium were quantitatively determined. Five ml of culture were
+harvested at 3 and 6 d after the addition of RNase A (1 mg/ml
+ofmedium), and the cells and medium were separately extracted
+as follows. The cells were extracted two times with 2 ml of
+methanol, and the aqueous residue obtained by evaporation of
+the solvent was extracted two times with 2 ml of diethyl ether.
+The medium was directly extracted two times with 2 ml of
+diethyl ether. After replacement of the solvent with 0.2 ml of
+methanol, these extracts were analyzed by HPLC on a reversed
+phase column (YMC-A 312,6 mm [i.d.] x 150 mm, Yamamura
+Chemical Laboratories Co., Ltd., Kyoto). The elution was carried
+out with a linear gradient of acetonitrile in water 40 to 90% at a
+flow rate of 1 ml/min, monitoring by absorbance at 205 nm.
+In other experiments to determine the pattern ofaccumulation
+of diacetylenic compounds (a time course during the culture
+period, a dependency on elicitor concentration, and an inhibition
+by cycloheximide), the amount of Sol-l in the culture medium
+was determined selectively. The extracts from samples (1.5-5
+ml) of culture medium were prepared and analyzed in the same
+manner as described above except that 50% acetonitrile in water
+was employed as eluting solvent for HPLC analysis. The absolute
+amount of Sol-l was determined by comparing the peak height
+with that of standard sample whose concentration was derived
+from its absorbance at 241 nm and a known e value ofthe related
+compound as mentioned above.
+Time Course of Sol-l Accumulation. The cells in the stationary
+phase were inoculated into the fresh medium (100 ml) containing
+RNase A or nigeran at a concentration of 1 mg/ml or 0.2 mg/
+ml, respectively. Instead of these reagents, distilled water was
+added in a control culture. During culturing for 2 weeks, portions
+of culture were harvested at appropriate times, and cellular dry
+weight and Sol-l content in the medium were determined.
+Relationship between the Concentration of RNase A and Sol-
+1 Accumulation. Cells in the stationary phase were transferred
+into 5 ml of fresh medium containing various concentrations of
+RNase A (0-10 mg/ml of medium) to give dry cell content of
+1.1 mg/ml and incubated in test tubes (10 ml) on an angled
+rotator (60 rpm). After 3 d, the cell dry weight and Sol-l content
+in the culture medium were determined.
+Effect of Cycloheximide on Sol-i Accumulation. Effects of
+various concentrations of cycloheximide on Sol-l accumulation
+and cell viability were determined using the cells which were
+growing exponentially at d 4. Cell suspensions (3.6 ml) were
+delivered into test tubes to which were added 0.4 ml of RNase
+A and 40 Ml of cycloheximide to give final concentrations of 3
+mg/ml and a series of concentrations 0 to 100 AM, respectively.
+Cycloheximide solutions were sterilized by filtration (Millex-GS,
+0.22 Mm pore size, Millipore Corp.). After incubation of these
+cells on an angled rotator for 24 h, cell dry weight, Sol-l content
+in culture media and cell viability were measured. In a separate
+experiment, where the cells were incubated in the presence of 10
+AM cycloheximide, the time courses of these parameters were
+examined by analyzing samples of the culture at 0, 3, 6, and 9 h
+after treatment.
+Cell viability was assessed by measuring the ability of viable
+cells to reduce 2,3,5-triphenyltetrazolium chloride (TTC) follow-
+ing the method of Towill and Mazur (20). The cells from 1 ml
+of the culture were collected by centrifugation, washed with 50
+mm sodium phosphate buffer (pH 7.5), and resuspended in 2 ml
+of the same buffer containing 0.5% (w/v) 2,3,5-triphenyltetra-
+zolium chloride. After standing for 1 h in the dark at 25°C, the
+cells were pelleted and washed once with distilled water. For-
+mazan formed in the cells was extracted three times with 2 ml
+of ethanol. The absorbance at 485 nm of combined ethanol
+extracts was measured.
+RESULTS
+When the suspension cells of eggplant were treated with ni-
+geran, a fungal wall glucan, a considerable change was observed
+in the GC pattern of the ether extract of the culture medium
+compared to that of the control culture (Fig. 1). Three peaks
+which eluted between 16 and 22 min were markedly enhanced.
+These compounds were designated Sol-l, Sol-2, and Sol-3, in the
+order of elution. A similar change was also observed in the
+extract of the culture medium when autoclaved RNase A was
+used as an elicitor. By contrast, other compounds were not
+noticeably increased in cell extracts upon treatment with these
+elicitors. These responses of the cells to the elicitors were very
+reproducible.
+Approximately 1 mg of pure Sol-l, 0.2 mg of Sol-2, and a
+lesser amount of Sol-3 were isolated from 2 L of the elicitor-
+treated culture medium by chromatography on a silica gel col-
+umn followed by purification on HPLC using a reversed phase
+column. Spectrl data of Sol-l and Sol-2 are as follows:
+Sol-1
+UV X` H: 229, 241, 254, 264, 280 nm, IR vim: 3360 (OH),
+3300 (HCC), 2056 (C)C), 1655 cm-' (HC=CH), IH-NMR
+(360 MHz, CDC13): 6 1.87 (1H, d, J = 5.5 Hz, OH), 2.12 (2H,
+177
+ www.plantphysiol.orgon May 12, 2019 - Published by Downloaded from 
+Copyright © 1988 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 86, 1988
+Sot-i
+Sol-2Sll3 t + Nigeran
+Control
+0 10 20 30 min
+FIG. 1. Gas chromatogram ofthe extract ofthe culture medium when
+eggplant cells were incubated with (upper) or without (lower) elicitor, 0.2
+mg/ml of nigeran. After incubation for 3 d, the medium was separated
+from the cells, extracted with diethylether, and subjected to analysis by
+GC.
+Sol-1
+H H
+C C CH2 CH2 OH2 CH20H
+HC=C-C=C-CH CH2 CH2 CH2 CH2
+OH
+Sol-2
+H H
+CH,C=C CH2 CH2 CH2
+H2C CH-C=C-C=C-CH CH2 CH2 CH2 CH3
+OH OH
+FIG. 2. Structures of Sol- I and Sol-2 (falcarindiol).
+m, H-8), 2.21 (1H, d, J = 1.0 Hz, H-1), 3.64 (2H, m, H-15), 5.18
+(1H, dd, J = 8.5, 5.5 Hz, H-5), 5.52 (1H, ddt, J = 10.5, 8.5, 1.0
+Hz, H-6), 5.62 (1H, ddt, J = 10.5, 1.0, 7.0 Hz, H-7), '3C-NMR
+(25 MHz, C6D6): 6 26.0, 27.7, 29.2, 29.4, 29.6(x2), 33.0 (C-
+8,9,10,11,12,13, and 14), 58.5 (C-5), 62.7 (C-15), 68.0, 77.4, 84.7
+(C-2,3, and 4), 69.1 (C-1), 128.7, 133.6 (C-6 and -7), Cl-MS m/
+z (rel. int.): 235 [M + H]+ (8%), 217 [M + H - H20]+ (68), 185
+[M - H20 - CH20H]+ (100), HI-MS: 234.1593 [M]+; calculated
+for C15H2202: 234.1619
+Sol-2
+UV Xme°H: 233, 246, 260 nm, IR vP'n: 3300(OH), 2240, 2140
+(O2C), 1660 cm-' (HC=CH), 'H-NMR (360 MHz, CDC13):
+0.89 (3H, t, J = 7.0 Hz, H-17), 1.81 (d, J = 5.0 Hz, OH-8), 1.91
+(d, J = 6.0 Hz, OH-3), 2.11 (2H, m, H-I 1), 4.94 (ddd, J = 6.0,
+6.0, 1.0 Hz, H-3), 5.21 (ddd, J = 8.0, 5.0, 1.0 Hz, H-8), 5.26
+(ddd, J = 10.0, 1.0, 1.0 Hz, H-1), 5.48 (ddd, J = 17.0, 1.0, 1.0
+Hz, H-1), 5.52 (ddt, J = 11.0, 8.0, 1.0 Hz, H-9), 5.62 (ddt, J =
+11.0, 1.0, 7.0 Hz, H-10), 5.94 (ddd, J = 17.0, 10.0, 6.0 Hz, H-
+2), Cl-MS m/z (rel. int.): 261 [M + 1]' (4%), 243 [M + 1 -
+H20+ (89), 225 [M + 1 - 2H20+ (15).
+On the basis of these spectal data, the structure of Sol-I was
+elucidated to be cis-pentadeca-6-ene-1,3-diyne-5,15-diol, a novel
+diacetylenic compound (Fig. 2). Sol-2 was identified as cis-
+heptadeca-1,9-diene-4,6-diyne-3,8-diol, falcarindiol. Falcarindiol
+has been isolated from healthy tissue ofFalcaria vulgaris (3) and
+Daucus carota (1), and it was subsequently characterized as one
+of the phytoalexins in tomato (6). Sol-3 was considered to be a
+hydroxy derivative of Sol-2 on the basis of its MS and 'H-NMR
+spectrum (data not shown). However, its structure has not been
+confirmed because of the small quantity of material obtained.
+Sesquiterpenoids, such as lubimin, which have been docu-
+mented in infected fiuits of eggplant (19, 21), were examined on
+GC-MS. The mass fragmentation pattern of the GC peaks in
+both the cell extracts and medium extracts were compared with
+those of sesquiterpenoid phytoalexins of eggplant. No peaks in
+the treated or untreated culture gave the pattern characteristic of
+such compounds.
+The fungitoxicity of Sol-l, a novel compound with a structure
+similar to that of the antifungal compound falcarindiol (6, 10,
+13), was assayed by examining the development of hyphae from
+conidia of M. fructicola in the presence of Sol-l. The ED5o of
+Sol-l was estimated to be about 1.5 ,ug/ml (Fig. 3). Conidial
+germination and/or germ tube elongation were completely in-
+hibited by Sol-l at a concentration of 27 jg/ml.
+Table I shows the ratio of distribution of the diacetylenic
+compounds, Sol-1, -2, and -3, between the culture medium and
+cells. All of these compounds were found predominantly in the
+culture medium. The ratio of distribution of Sol-l was constant
+regardless ofthe total amount present. In the absence of elicitors,
+these compounds were either present in trace quantities or were
+undetected both in the medium and cells. These data suggested
+that amount of Sol-1 in the medium represents the extent of
+induction of diacetylenic compounds in the cultured cells of
+eggplant.
+The time course of the cellular growth on a dry weight basis
+and Sol- I content in the medium during culturing in the presence
+of elicitors is shown in Figure 4. The elicitors, nigeran, or
+autoclaved RNase A, were separately added to the culture at the
+same time as inoculation of the cells into fresh medium. After
+addition of RNase A, the Sol-1 level increased and reached a
+maximum value on d 5. The maximum level of Sol-l content
+was 3 Ag/ml of medium, which was 30-fold greater than that of
+the control. However, Sol-l was apparently metabolized by the
+cells, since its amount decreased gradually after d 7 to nearly
+zero. This was confirmed by the following separate experiments.
+When the culture medium was separated from cells by centrifu-
+E
+E1.0 .
+0
+=0.5
+0~~~~~~~~~~
+0.1 1 10
+Concentration of Sol-l ( jglml)
+FIG. 3. Inhibition of growth ofM. fructicola by the addition of Sol- 1.
+The conidial suspension was incubated in the presence of a series of
+concentrations of Sol- 1 for a week, and the dry weights of the developed
+mycelia were measured.
+Table I. Distribution ofSol-, 2, and 3 between the Medium and Cells
+The eggplant cells were cultured in the presence of 1 mg/ml ofRNase
+A. On d 3 and d 6, 5 ml of the culture were taken out, and three
+diacetylenic compounds (Sol-l, -2, and -3) in the medium and cells were
+analyzed using HPLC. Their levels in terms of peak height at 205 nm
+and the percentage are shown. Each value is the mean of two samples.
+Sol-l Sol-2 Sol-3
+mm % mm % mm %
+D 3
+Medium 199.5 90.7 12.5 62.5 7.0 87.5
+Cells 20.5 9.3 7.5 37.5 1.0 12.5
+D6
+Medium 23.0 88.5 Trace NDO
+Cells 3.0 11.5 ND ND
+a Not detected.
+178 IMOTO AND OHTA
+ www.plantphysiol.orgon May 12, 2019 - Published by Downloaded from 
+Copyright © 1988 American Society of Plant Biologists. All rights reserved.
+ELICITATION OF DIACETYLENES IN EGGPLANT CELLS
+E3
+E
+12
+C
+c
+2
+1-
+0 5 10
+Days
+FIG. 4. Cellular growth (A) and accumulation of Sol- I in the medium
+(B) when cells were cultured with either 1 mg/ml of RNase A (0) or 0.2
+mg/ml of nigeran (A), and without elicitor (0). Each point is the mean
+of two samples.
+gation at 5 d after RNase A addition, the amount of Sol-l
+remained unchanged during incubation for another week (data
+not shown). In addition, Sol-l exogenously supplied to the cells
+at d 7 (5 mg dry cell/ml) at a concentration of 1 ,g/ml, disap-
+peared within 1 d. These results indicated that the diacetylenic
+compounds biosynthesized by suspension cells in response to
+elicitation were metabolized by the cells during prolonged incu-
+bation.
+The pattern for Sol-I accumulation in response to nigeran was
+different from that induced by RNase A. The maximum amount
+of Sol-I observed was 1.1 g/ml of medium on d 3. It should be
+noted that a slight increase in the Sol-1 level was observed on d
+1 even in the control without elicitor. This indicates that transfer
+ofthe cells into fresh medium may also be a factor which induces
+the formation of diacetylenic compounds. The changes in Sol-2
+and -3 content were almost parallel to that in Sol-1.
+Treatment ofsuspension cells with elicitors affected the growth
+ofthe cells. RNase A reduced the maximum growth rate to about
+50% of the control. However, by 11 d, dry matter accumulation
+was similar between control and RNase A-treated cells. In the
+case of nigeran addition, the growth rate from d 1 to d 3 was
+slower than that of the control.
+The relationship between accumulation of diacetylenic com-
+pounds and cellular growth in response to elicitor was also
+revealed by the following experiment where a dependency of Sol-
+1 accumulation on the concentration ofRNase A was examined.
+When suspension cells were treated with increasing amounts of
+RNase A, accumulation of Sol-l during 3 d incubation was
+stimulated depending on the concentration of RNase A up to 2
+mg/ml to attain to a maximum (Fig. 5). The cellular growth
+based on dry weight was suppressed by the increases in the
+elicitor concentration up to 2 mg/ml. These results indicated
+that formation of diacetylenic compounds may be accompanied
+by cellular damage exhibited by the suppression of growth rate.
+However, higher than 2 mg/ml of RNase A decreased rather
+than increased Sol-l accumulation, probably due to extreme
+damage for the cells.
+It was shown that de novo protein synthesis is essential for the
+elicitation of diacetylenic compounds from the following exper-
+iments with cycloheximide. Table II shows the effect of various
+concentrations of cycloheximide on Sol-1 accumulation during
+6 3
+E ~~~~~~~~~~~~~~E
+0 2
+C*I
+2
+0
+0
+Concentration of RNase A ( mg/ml)
+FIG. 5. Dependendy of Sol-l accumulation and cellular growth on
+the concentration of RNase A. The cells in the stationary phase were
+inoculated into fresh medium containing various concentrations of
+RNase A (0-10 mg/ml) to give a cell density of 1.1 mg dry weight/ml.
+After incubation for 3 d, Sol-l amounts in the culture medium (@) and
+cell dry weight (0) were measured. Each point is the mean of two
+samples.
+Table II. Effects ofCycloheximide on Sol-] Accumulation Induced by
+RNase A and on Cell Viability
+To the suspension cells at d 4, solution ofRNase A and cycloheximide
+were added to give final concentrations of 3 mg/ml and 0 to 100 AM,
+respectively. The cell suspension before and after the addition ofreagents
+and subsequent incubation for 24 h were harvested and analyzed for Sol-
+1 accumulation, cell dry weight, and cell viability based on the reduction
+ofTTC. Each value is the mean of three samples with standard error.
+Cycloheximide SOl-i Ce11 Dry Cell Viabilitywt
+MM ng/ml medium mg/ml OD/mg dry w
+0 381 ± 18 3.60±0.12 0.326±0.015
+0.1 551 ± 133 3.97 ± 0.20 0.306 ± 0.035
+1 617±35 3.87±0.15 0.338±0.024
+10 101 ± 5 3.07 ± 0.23 0.242 ± 0.013
+100 30 ± 2 3.00 ± 0.06 0.180 ± 0.006
+Before incuba-
+tiOna 60 2.83 0.210
+a Values before the incubation with RNase A.
+a 24-h incubation with RNase A. At the same time, the cell
+viability assessed by measuring the ability of the cells to reduce
+TTC was examined in order to determine whether the decrease
+of Sol-1 accumulation by the inhibitor was due to death of cells.
+Incubation of the cells without cycloheximide resulted in the
+increase in cell viability and cell dry weight, compared with the
+values before incubation. Addition of cycloheximide at concen-
+trations of 0.1 or 1 gM did not affect these increases, and the
+cells were still able to produce a large quantity of Sol-I during
+incubation with RNase A. At 10 Mm cycloheximide the growth
+and viability of the cells remained at the same level before
+incubation, and the formation of Sol-l was simultaneously in-
+hibited.
+This was also examined by following Sol-l accumulation
+during the first 9 h of incubation with RNase A (Fig. 6). In the
+presence of 10 Mm cycloheximide, the celular viability was not
+decreased for 9 h. However, Sol-i accumulation, which started
+within 6 h after treatment, was completely inhibited. These
+results clearly demonstrate that induction of diacetylenic com-
+pounds in suspension cells ofeggplant requires de novo synthesis
+of some proteins.
+DISCUSSION
+Autoclaved RNase A and nigeran are known to be potent
+elicitors of isoflavonoid phytoalexins and the related enzymes in
+179
+ www.plantphysiol.orgon May 12, 2019 - Published by Downloaded from 
+Copyright © 1988 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 86, 1988
+- so
+C"
+c
+2
+c
+0
+U25
+0
+1.0 ,,
+-4
+0
+0.5>
+=40
+I 0
+0 3
+Hr
+6 9Hr
+FIG. 6. Inhibition of the induction of Sol-l accumulation by the
+addition of cycloheximide. The cells at d 4 (2.0 mg/ml) were treated
+with 3 mg/ml of RNase A in the presence of 10 AM of cycloheximide
+(open symbols) or without the inhibitor (solid symbols). During incuba-
+tion, portions of these culture were taken out at every 3 h and analyzed
+for Sol-l content in the medium (0, 0) and cell viability based on the
+ability to reduce TTC (A, A). Each point is the mean of three samples
+with standard error.
+leguminous plants (7, 9). We demonstrated that these elicitors
+could also induce the formation of antifungal diacetylenic com-
+pounds such as Sol- and falcarindiol in the cultured cells of
+eggplant. These elicitors are considered to lack specificity with
+regard to plant species and chemical types of phytoalexins in-
+duced. This is consistent with the existing concept that such
+elicitors induce a persistent, low level stress or injury, whereas
+the actual direct elicitors of phytoalexins are endogenous and
+nonphytotoxic metabolites (14).
+Falcarindiol (Sol-2) has been reported to accumulate in tomato
+fruits and leaves inoculated with Cladosporium fulvum together
+with rishitin, a typical sesquiterpenoid phytoalexin in solana-
+ceous plants (6). In addition, two other diacetylenic compounds,
+falcarinol and cis-tetradeca-6-ene-1,3-diyne-5,8-diol, have also
+been isolated as phytoalexins (6). All of these diacetylenic com-
+pounds including Sol-l have closely related structures, namely,
+conjugated triple bonds and hydroxyl groups allylic to a double
+bond. We suspect that such diacetylenic compounds are phyto-
+alexins common to plants of the Solanaceae and that intact
+eggplant may produce Sol-l, -2, and -3 in response to physiolog-
+ical stresses or infection by microorganisms. If this is the case,
+this would be the first example of the isolation of phytoalexins
+from cultured cells prior to their detection in the mother plant.
+The characteristics of the accumulation pattern of the dia-
+cetylenic compounds in suspension cultured cells of eggplant are:
+(a) A large portion of these compounds was released from the
+cells and accumulated in the culture medium. Similar phenom-
+ena have been observed for cyclic sesquiterpenoid and furano-
+sesquiterpenoid phytoalexins produced by cultured cells of po-
+tato and sweet potato, respectively (4, 17). This is consistent with
+the general concept that phytoalexins move into the necrotic
+tissue from the sites of synthesis in surrounding healthy cell
+layers. (b) Once accumulated in the medium, the products were
+metabolized by the cells to as yet undetected compounds. In the
+absence of the cells, Sol- remained unchanged in the medium.
+Such metabolism of phytoalexins by cultured cells has been
+reported for phaseollin in Phaseolus vulgaris (12), 6-methoxy-
+mellein in carrot (1 5), and dianthalexin in Dianthus caryophyllus
+( 11). We propose that phytoalexins, including diacetylenic com-
+pounds in eggplant cells, generally are not end products of plant
+metabolism and that high levels of accumulation do not persist
+when the cells are alive. Phytoalexins seem to exhibit a different
+accumulation pattern than that usually observed for secondary
+metabolites such as phenolic compounds, which often accumu-
+late in cellular vacuoles of old cells.
+It has been clearly shown in suspension cultured cells of P.
+vulgaris that the synthesis of messenger RNAs encoding the
+enzymes of phenylpropanoid metabolism involved in the pro-
+duction of phaseollin were induced by a fungal elicitor (5). This
+indicates that in leguminous plants specific changes in gene
+expression may occur during the early stages of phytoalexin
+formation. In the case of cell cultures of eggplant, the involve-
+ment of de novo protein synthesis is based upon the experiments
+using cycloheximide.
+Although Bohlmann et al. (2) proposed that falcarindiol is
+biosynthesized from oleic acid via crepenynic acid and its decar-
+boxylated intermediate, this metabolic pathway remains obscure
+and none of the enzymes involved in this pathway has been
+identified. Thus, the biosynthetic pathway of diacetylenic stress
+metabolites and the key enzyme involved must be determined
+in order to elucidate whether this group of compounds is induced
+in a manner similar to that of isoflavonoid phytoalexins. The
+cell suspension culture of eggplant is a convenient and promising
+experimental system for studying the mechanism of elicitation
+of diacetylenic phytoalexins in solanaceous plants.
+Failure to induce sesquiterpenoid stress metabolites in our
+experiment strongly suggests that production of sesquiterpenoids
+and diacetylenic compounds are regulated differently. In general,
+formation of sesquiterpenoid phytoalexins in the Solanaceae
+requires the interaction of the plant with biotic elicitors, such as
+pathogenic fungi or their components. Kuc (14) suggested that
+the induction of sesquiterpenoid compounds in solanaceous
+plants is under tighter metabolic regulation than that of theisoflavonoid-related phytoalexins in the Leguminosae, which are
+induced by interaction with a wide variety of biotic and abiotic
+elicitors. Induction of diacetylenic stress metabolites is similar to
+induction of isoflavonoid phytoalexins in that abiotic agents may
+induce both.
+LITERATURE CllTD
+1. BENTLEY RK, D BHATTACHARJEE, ERH JONES, V THALLER 1969 Natural
+Acetylenes. Part XXVIII. CirPolyacetylenic alcohols from the umbellifer
+Daucus carota L. (carrot): Alkylation of benzene by acetylenyl (vinyl) car-
+binols in the presence of toluene-p-sulphonic acid. J Chem Soc (C) 685-688
+2. BOHLMANN F, T BURKHARDT, C ZDERO 1973 Naturally Occurring Acetylenes.
+Academic Press, New York
+3. BOHLMANN F, U NIEDBALLA, KM RODE 1966 Polyacetyleneverbindungen, C
+XVIII,Uber neue Polyine mit CirKette. Chem Ber 99: 3552-3558
+4. BRINDLE PA, PJ KUHN, DR THRELFALL 1983 Accumulation of phytoalexins
+in potato-cell suspension cultures. Phytochemistry 22: 2719-2721
+5. CRAMER CL, TB RYDER, JN BELL, CJ LAMB 1985 Rapid switching of plant
+gene expression induced by fungal elicitor. Science 227: 1240-1243
+6. DEWfT PJGM, E KODDE 1981 Induction of polyacetylenic phytoalexins in
+Lycopersicon esculentum after inoculation with Cladosporium fulvum (syn
+Fulviafulva). Physiol Plant Pathol 18: 143-148
+7. DiXON RA, DS BENDALL 1978 Changes in phenolic compounds associated
+with phaseollin production in cell suspension cultures of Phaseolus vulgaris.
+Physiol Plant Pathol 13: 283-294
+8. DixoN RA, PM DEY, MA LAWTON, CJ LAMB 1983 Phytoalexin induction in
+French bean. Intercellular transmission of elicitation in cell suspension
+cultures and hypocotyl sections of Phaseolus vulgaris.Plant Physiol 71: 251-
+256
+9. EBEL J, AR AYERS, P ALBERSHEIM 1976 Host-pathogen interactions XII.
+Response of suspension-cultured soybean celis to the elicitor isolated from
+Phytophthora megasperma var sojae, a fungal pathogen of soybeans. Plant
+Physiol 57: 775-779
+10. GARROD B, BG LEWIS, DTCOXON 1978 cis-heptadeca-l,9-diene-4,6-diyne-
+3,8-diol, an antifungal polyacetylene from carrot root tissue. Physiol Plant
+Pathol 13: 241-246
+1 1. GAY L 1985 Phytoalexin formation in cell cultures of Dianthus caryophyllus
+treated by an extract from the culture medium of Phytophthora parasitica.
+Physiol Plant Pathol 26: 143-150
+12. HARGREAVES JA, C SELBY 1978 Phytoalexin formation in cell suspensions of
+Phaseolus vulgaris in response to an extract of bean hypocotyls. Phytochem-
+istry 17: 1099-1 102
+13. KEMP MS 1978 Falcarindiol; An antifungalpolyacetylene from Aegopodium
+podagraria. Phytochemistry 17: 1002
+180 IMOTO AND OHTA
+A
+ www.plantphysiol.orgon May 12, 2019 - Published by Downloaded from 
+Copyright © 1988 American Society of Plant Biologists. All rights reserved.
+ELICITATION OF DIACETYLENES IN EGGPLANT CELLS
+14. Kut J, JS RUSH 1985 Phytoalexins. Arch Biochem Biophys 236: 455-472
+15. KUROSAKI F, A NISHI 1983 Isolation and antimicrobial activity of the phyto-
+alexin 6-methoxymellein from cultured carrot cells. Phytochemistry 22: 669-
+672
+16. MURASHIGE T, F SKooG 1962 A revised medium for rapid growth and bioassay
+with tobacco tissue cultures. Physiol Plant 15: 473-497
+17. OBA K, I URITANI 1979 Biosynthesis of furano-terpenes by sweet potato cell
+culture. Plant Cell Physiol 20: 819-826
+18. OHTA Y, K KATOH, K MIYAKE 1977 Establishment and growth characteristics
+of a cell suspension culture of Marchantia polymorpha L with high chloro-
+phyll content. Planta 136: 229-232
+19. STOESSL A, JB STOTHERS, EWB WARD 1975 The structure of some stress
+metabolites from Solanum melongena. Can J Chem 53: 3351-3358
+20. TOWILL LE, P MAZUR 1975 Studies on the reduction of 2,3,5-triphenyl
+tetrazolium chloride as a viability assay for plant tissue cultures. Can J Bot
+53: 1097-1102
+21. WARD EWB, CH UNWIN, J HILL, A STOESSL 1975 Sesquiterpenoid phytoalex-
+ins from fruits of eggplants. Phytopathology 65: 859-863
+22. ZACHARIUS RM, EB KALAN 1984 Biotransformation of the potato stress
+metabolite, solavetivone, by cell suspension cultures oftwo solanaceous and
+three non-solanaceous species. Plant Cell Rep 3: 189-192
+181
+ www.plantphysiol.orgon May 12, 2019 - Published by Downloaded from 
+Copyright © 1988 American Society of Plant Biologists. All rights reserved.

@@ -1,0 +1,401 @@
+Plant Physiol. (1989) 89, 74-77
+0032-0889/89/89/0074/04/$01 .00/0
+Received for publication January 19, 1988
+and in revised form July 8, 1988
+Quantification of Cytokinin O-Glucosides by Negative Ion
+Mass Spectrometry
+David S. Letham* and Santokh Singh
+Plant Cell Biology Group, Research School of Biological Sciences, The Australian National University, P. 0. Box
+475, Canberra City, ACT, 2601, Australia
+ABSTRACT
+Pulsed positive ion-negative ion chemical ionization mass
+spectra of 0-glucosyl-zeatin and -dihydrozeatin, their ribosides,
+and their N-9 2-cyanoethyl and 2-chloro-2-cyanoethyl derivafives
+are reported. By methods based on these spectra, the levels of
+the glucosides were determined in soybean (Glycine max) leaves.
+The first mass spectrometric quantifications of the endog-
+enous O-glucosides, OGZ', OGDZ, OGZR, and OGDZR,
+were based on El mass spectrometry of TMS derivatives of
+the intact glucosides, the samples being introduced into the
+mass spectrometer via the direct inlet probe (8). Subsequently,
+a number of workers have purified an O-glucoside fraction,
+hydrolyzed this with fl-glucosidase, and quantified the released
+bases and ribosides by GC-MS. The assumption has been
+made that these are derived from the known glucosides OGZ,
+OGDZ, OGZR, and OGDZR (3, 9). However, for reasons
+already presented (6) this assumption is not valid. It is impor-
+tant to quantify these glucosides per se, and not as aglycones
+formed by enzymic cleavage. The procedures used to achieve
+this with soybean leaf extracts are detailed herein.
+The techniques employed are based on negative ion CI
+mass spectrometry. To facilitate determination of OGZ and
+OGDZ, a new selective derivatization procedure was devel-
+oped which yields a stable chlorine-containing derivative of
+these glucosides. The chlorine atom greatly facilitates detec-
+tion of the glucosides by mass spectrometry. The derivative
+has other advantages over per-TMS and permethyl derivatives
+for direct inlet probe analysis. With cytokinin glucosides,
+multiple product formation tends to accompany preparation
+of per-TMS derivatives (1, 4). Per-TMS derivatives are also
+very rapidly hydrolyzed by traces of water. While permethyl
+derivatives of OGZ and OGDZ can be subjected to GC (5)
+and are stable, the preparation of the necessary reagents and
+the derivatization procedure are inconvenient and the con-
+centration ofthe methylsulfinyl carbanion must be controlled
+carefully (1, 4). Because derivatized cytokinin glucosides yield
+'Abbreviations: DZ, dihydrozeatin; OGZ, O-fl-i-glucopyranosyl-
+zeatin; OGDZ, O-3-D-glucopyranosyl-DZ; OGZR, O-fl-i-glucopyra-
+nosylzeatin riboside; OGDZR, O-,3-D-glucopyranosyldihydrozeatin
+riboside; El, electron impact; TMS, trimethylsilyl; CI, chemical ion-
+ization; PPINICI, pulsed positive ion-negative ion chemical ioniza-
+tion; CCE, 2-chloro-2-cyanoethyl; CyE, 2-cyanoethyl; iP, N6-isopen-
+tenyladenine; HPTLC, high performance-TLC; D5, pentadeuterium
+labeled; BAP, 6-benzylaminopurine; RIA, radioimmunoassay.
+complex El spectra with weak molecular ions, CI mass spec-
+trometry has clear advantages for quantification of these
+compounds.
+MATERIALS AND METHODS
+Mass Spectrometry
+All spectra were determined with a Finnigan 4530 mass
+spectrometer. PPINICI spectra were determined at 140 eV
+(source temperature of 120C) by the desorption method. The
+sample was applied to a rhenium wire mounted at the end of
+the direct inlet probe which was inserted into the plasma of
+the CI source. Unless stated otherwise, the wire was heated at
+the rate of 20 mA s-'. The reagent gas was ammonia at 1 torr.
+EI spectra were determined at 70 eV and a source temperature
+of 150°C. Samples were applied to a rhenium wire at the
+probe tip.
+Preparation of Derivatives
+N-9 CCE derivatives of OGZ, OGDZ, iP, and DZ were
+prepared by heating the sample with anhydrous n-butanol (50
+I,L), triethylamine (3 ,uL), and 2-chloroacrylonitrile (10 ,uL:
+source: Fluka AG, Switzerland) for 30 min at 80°. To prepare
+the N-9 CyE derivatives, the 2-chloroacrylonitrile was re-
+placed with acrylonitrile. The reaction solutions were evapo-
+rated under vacuum at 40°C, and the residues were chromat-
+ographed on Merck HPTLC reverse phase plates (RP-2, 10 x
+10 cm) using 40% (v/v) ethanol as solvent. Prior to use, the
+plates were washed with 80% (v/v) ethanol, and after chro-
+matography, the spots of derivatives were eluted by stirring
+with this solvent (60 ,tL). An aliquot of the supematant
+obtained by centrifugation was used for mass spectrometry.
+The CCE derivative of OGDZ was hydrolyzed with f,-
+glucosidase (6) and the aglycone was partitioned into n-
+butanol and purified by HPTLC as above.
+Purification of Glucoside Fraction for Mass Spectrometry
+To the glucoside fraction prepared previously from soybean
+(Glycine max) leaf blades (6), D5 OGZ, OGDZ, OGZR, and
+OGDZR (5 ,ug of each) were added. These D5 glucosides
+(labeled in the methyl and adjacent methylene group of the
+isoprenoid sidechain) were prepared according to Summons
+et al. (7). A solution of the glucoside fraction in acetic acid
+(1%, v/v) was passed through a Baker 10 SPE C18 column
+(0.5 g packing; J. T. Baker, Phillipsburg, NJ) which was
+washed with 1% acetic acid and then eluted with 25% (v/v)
+74
+ www.plantphysiol.orgon January 13, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+QUANTIFICATION OF CYTOKININ O-GLUCOSIDES
+Table 1. PPINICI Mass Spectra of Cytokinin O-Glucosides
+Relative intensities of ions are given in parentheses.
+Mass Spectrum
+Glucoside (D5) Mol Wt
+Positive ions Negative ions
+m/z
+Underivatized
+OGZ 386 387 (100), 225 (8), 209 (19) 385 (100), 207 (9), 206
+(12),179 (30)
+OGDZ 388 389 (100), 227 (2) 387 (100), 225 (2)
+OGZR 518 519 (52), 485 (12), 387 518 (100), 385 (17),
+(100), 357 (8), 268 (11), 226 (4),179 (16)
+225 (24)
+OGDZR 520 521 (90), 487 (34), 389 520 (100), 387 (28)
+(100), 359 (15), 282 (7),
+227 (12)
+Derivatized
+CyE-OGZ 439 440 (100), 387 (3), 262 (6), 386 (43), 385 (72),187
+189 (20) (20),179 (100)
+CyE-OGDZ 441 442 (100), 389 (3), 280 (6), 387 (100), 278 (12), 225
+189 (6) (7),187 (3) 179 (3)
+CCE-OGZ 473 474 (1 oor, 440 (65), 439 473 (1 00),a 438 (7),
+(54), 438 (47), 387 (48), 437 (10), 385 (9)
+262 (12), 223 (16r, 189
+(71)
+CCE- 475 476 (49),a 442 (100), 441 475 (1 00),a 439 (22),
+OGDZ (43), 440 (28), 389 (62), 387 (15)
+280 (12), 227 (11),189
+(52)
+a A chlorine isotope peak was present at +2 mass units.
+-CH2*CH-CN
+CI
+I
+SCHEME 1
+methanol containing acetic acid (1%, v/v). The eluate was
+subjected to TLC on cellulose (6; layer washed with 65% v/v
+methanol) using n-butanol- 14 N ammonia-water (6:1:2, upper
+phase) as solvent. Two UV-absorbing zones were clearly evi-
+dent on the layer at RF 0.15 (OGZ plus OGZR) and RF 0.22
+(OGDZ plus OGDZR). These were eluted with 65% (v/v)
+methanol and rechromatographed on Merck HPTLC reverse
+phase plates (RP-2) as described above for derivatives. Elution
+with 80% (v/v) ethanol (50-70 gL) yielded the four 0-gluco-
+sides for PPINICI mass spectra; RF values observed were:
+OGZ, 0.71; OGDZ, 0.62; OGZR, 0.87; OGDZR, 0.82.
+RESULTS AND DISCUSSION
+PPINICI mass spectra were first determined for D5 OGZ,
+OGDZ, OGZR, and OGDZR (Table I). The heating rate of
+the probe tip greatly influenced the spectra of OGZR and
+OGDZR. A rapid rate ofheating favored quasi-molecular and
+molecular ions (MH+ and M-), while a slow rate of heating
+enhanced the intensity of the fragment ions caused by deri-
+bosylation (-R ions). This is illustrated by the negative spectra
+OGDZR. Thus, when the rhenium wire at the tip ofthe probe
+was heated at the rate of 5 and 20 mamp s-', the intensity of
+Table II. UV Spectral Characteristics of CCE and Other Derivatives
+of Cytokinin Bases
+CCE and CyE derivatives exhibited very similar spectra. A shoulder
+is denoted by sh.
+Xmax
+Compound 0.1 N HCI in 0.3 N NH40HCompound70° ethanol in 75%
+ethanol
+nm
+Chlorocyanoethyl deriva-
+tives
+CCE iP 265 268.5
+CCE DZ 264 267.5
+CCE OGZ 265 268
+Other derivatives for com-
+parison
+9-CyE BAP8 266 271 (266 sh)
+OGZR 266 268.5
+BAP 9-glucoside 265.5 268.5b
+BAP 7-glucoside 283.5 276.5b
+BAP 3-glucoside 289.5 297
+OGZ 276 275 (285 sh)
+a Prepared according to Letham et al. (2). b Center of plateau.
+the -R ion (m/z 387) was 1.3 and 0.28 times, respectively,
+that due to the M- ion (m/z 520). However, at 100 mamp
+s-', only the M- ion was definitely evident. In the spectra
+given (Table I), a heating rate of 20 mamp s-' was used which
+corresponds approximately to 20° s-'.
+In the positive ion spectra of OGZ and OGDZ, the MH+
+-CH2 CH2-CN
+75
+ www.plantphysiol.orgon January 13, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+Plant Physiol. Vol. 89,1989
+Table IlIl. Levels of Cytokinin 0-glucosides in Soybean Leaf Blades
+Determined by Negative Ion MS and by RIA
+Glucoside
+Method of Analysis
+OGZ OGDZ OGZR OGDZR
+pmol g-'
+MS of underivatized glu- 19.8 40.1 <2.0 <1.0
+coside
+MS of CCE derivative 19.0 37.7
+MS of CCE aglycone NDa 38.1
+RIA 22.4 44.1 0.56 0.53
+a Not determined.
+ions predominated, while [M-H]- ions were dominant in the
+negative ion spectra. The ratio of summed ion currents for
+[M-H]-/MH' was 6 and 8 for OGZ and OGDZ, respectively.
+In the positive ion spectra of OGZR and OGDZR, the base
+peak was due to the -R ions (m/z 387 and 389, respectively),
+while M- ions predominated in the negative ion spectra. As
+in the cases of OGZ and OGDZ, the summed ion currents
+due to the base peaks of the negative ion spectra greatly
+exceeded those ofthe positive spectra. Thus, the current ratios
+for m/z 518 (negative)/m/z 387 (positive) of OGZR, and m/
+z 520 (negative)/m/z 389 (positive) ofOGDZR, were 35 and
+21, respectively. Because ofthis great difference in sensitivity,
+negative ion mass spectrometry has clear advantages over
+positive ion spectrometry for detection and quantification of
+cytokinin O-glucosides. This was further substantiated in
+work with actual samples from soybean leaves.
+Quantification oforganic compounds by mass spectrometry
+using stable isotope labeled internal standards should be based
+on at least two ion pairs. By selection of a suitable heating
+rate, it is possible to fragment OGZR and OGDZR to obtain
+prominent -R fragment ions as well as MH+ and M- ions.
+Hence, suitable ion pairs can be readily obtained for quanti-
+fication. In contrast, the O-glucoside bases, OGZ and OGDZ,
+yield pronounced quasi-molecular ions with little fragmenta-
+tion. Hence, for quantification of these compounds by CI
+mass spectrometry, formation of stable derivatives suitable
+for liquid chromatography is desirable. These glucosides could
+then be quantified per se and again after derivatization and
+chromatography of the remaining sample. Agreement be-
+tween the two analyses would validate the results. A deriva-
+tization procedure which would exhibit specificity for 0-
+glucoside bases was developed and involved Michael-type
+additions of acrylonitrile or 2-chloroacrylonitrile to the N-9
+position of the purine ring to yield compounds with CyE
+(Scheme I, I) or CCE (Scheme I, II) moieties. BAP has been
+converted to a CyE derivative for use as a synthetic interme-
+diate (2); however, the reaction method was not adaptable to
+the ,ug level required in the present study. Under the condi-
+tions now used, cyanoethylation of the glucose hydroxyl
+groups did not occur. PPINICI spectra ofthese derivatives are
+given in Table I.
+All spectra ofthe derivatives showed intense molecular ions
+or quasi-molecular ions with two exceptions. In the negative
+ion spectra of the CyE derivatives of OGZ and OGDZ, M-
+and [M-H]- ions were not detected, and intense fragment
+A 100%
+387 (0')
+370 375 380 385 390 395 400
+100%
+50
+loo)
+382
+ll
+II
+_387 (D5)
+II..1- I I,i I I ilJftI t
+370 375 380 385
+m/z
+390 395 oul
+50
+tn
+0)
+01)
+0z(13
+C 100%
+475
+(0S)
+465 470 475 480 485
+100%
+50 475
+(05) I
+470 (0O)
+Ii
+465 470 47 5
+477
+480 485
+m/z
+Figure 1. Negative ion mass spectra used for the quantification of OGDZ in soybean leaf blades. The spectra were scanned over a m/z range
+of 30. A, Underivatized D5 OGDZ; B, underivatized mixture of D5 OGDZ and endogenous (Do) OGDZ purified from blade extract; C, CCE
+derivative of D5 OGDZ; D, CCE derivative of D5 plus Do mixture purified from blade extract.
+50
+ci
+ai)
+cr
+B
+IIIIIIIIIiiiiiiiiiiIIItIII
+LETHAM AND SINGH76
+A
+AA
+ www.plantphysiol.orgon January 13, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.
+QUANTIFICATION OF CYTOKININ O-GLUCOSIDES
+ions formed by cleavage of the CyE group were the ions of
+highest mass. The intensities of the positive and negative ion
+spectra were compared. Ion current for the most intense ion
+suitable for quantification in the negative spectrum was al-
+ways greater than that in the positive spectrum, and this was
+especially so with CCE derivatives. Ion current ratios were as
+follows for Ds glucosides:
+CyE OGZ 385 (-)/440 (+) = 15
+CyE OGDZ 387 (-)/442 (+) = 7.1
+CCE OGZ 473 (-)/474 (+)> 300
+CCE OGDZ 475 (-)/442 (+)> 100
+The above ratios for CCE derivatives were determined with
+50 to 100 ng of sample. However, when the amount of CCE-
+OGDZ was reduced to below 10 ng, no ion peaks were
+detectable in the positive spectrum (scanned m/z 150-650),
+but the M- ion was still pronounced in the negative spectrum.
+Hence, the negative ion spectra are clearly preferable for
+quantification ofthese derivatives, especially CCE derivatives,
+because of the much greater sensitivity. The negative ion
+spectra ofOGZ and CyE-OGZ exhibit prominent ions at m/
+z 179 attributable to a glucosyloxy fragment ion.
+Three types of evidence indicated that the CyE and CCE
+moieties were attached to the purine ring at N-9 and not to
+the sugar moiety. First, the UV spectra of the derivatives
+differed from those ofN6-monosubstituted adenines and were
+characteristic of N6,9-disubstituted adenines (Table II). Sec-
+ond, ions in the mass spectra were indicative of cleavage to a
+CyE-adenine or CCE-adenine, fragment ion. Thus, in the CI
+spectra ofCyE OGZ and CyE OGDZ, ions are present at m/
+z 189 (positive) and 187 (negative). The positive spectrum of
+CCE OGZ shows a chlorine-containing fragment ion at m/z
+223 (Table I). Third, when the CCE derivative ofOGDZ was
+treated with ,3-glucosidase (6), it yielded an aglycone which
+cochromatographed with the CCE derivative prepared directly
+from DZ. This was identified as 9-CCE-DZ (see below). Both
+compounds exhibited the same CI mass spectrum, which was
+as follows: negative ion 308* (100, M-), 272 (30), 271 (25),
+and 220 (11); positive ion 309* (100, MH+); an asterisk
+denotes the presence of a chlorine isotope peak. The ion
+current for the M- ion was 87 times that of the MH+ ion.
+The CCE derivative ofDZ exhibited the following El mass
+spectrum: m/z 308 (M+, 10), 291 (10), 277 (10), 249 (53),
+235 (100), 222 (35), 199 (13), 186 (8), 179 (12), 161 (18), 160
+(20), 149 (35), 148 (21), 135 (49). This establishes that the
+CCE group is attached to the purine ring, and the UV spectra
+indicate that this was N-9 (Table II).
+Soybean leaf extracts were purified as a described before (6)
+to yield an O-glucoside fraction. An aliquot (10%) was treated
+with gB-glucosidase and the released Z, DZ, ZR, and DZR
+were quantified by RIA (6). Ds O-glucosides were added to
+the remaining 90% of the sample which was then further
+purified (see "Materials and Methods") to separate the four
+O-glucosides. By methods based on the mass spectra detailed
+above, the endogenous intact O-glucosides were determined
+by short scan PPINICI mass spectrometry using the negative
+scans. OGDZ was quantified by three methods: directly, as
+the CCE derivative, and as the CCE aglycone derived by ,B-
+glucosidase hydrolysis (Table III; Fig. 1). The contents of
+OGZ and OGDZ were very similar to those determined by
+RIA. However, the levels of OGZR and OGDZR were too
+low to permit an accurate comparison of the two methods
+(Table III).
+Negative ion mass spectrometry is a highly sensitive tech-
+nique for quantification of cytokinin O-glucosides. For quan-
+tification of the O-glucoside bases, OGZ and OGDZ, two
+derivatives have been devised, namely CyE and CCE deriva-
+tives. The latter with a chlorine atom is preferable as it yields,
+by resonance capture ionization, an extremely intense molec-
+ular ion allowing ready quantification of ng amounts by short
+scan methods.
+ACKNOWLEDGMENT
+Thanks are due to Dr. 0. C. Wong who determined the mass
+spectra.
+LITERATURE CITED
+1. Horgan R, Scott IM (1988) Cytokinins. In A Crozier, L Rivier,
+eds, Principles and Practice of Plant Hormone Analysis. Aca-
+demic Press, London (in press)
+2. Letham DS, Palni LMS, Tao GQ, Golinow BI, Bates CM (1983)
+Regulators ofcell division in plant tissues. XXIX. The activities
+of cytokinin glucosides and alanine conjugates in cytokinin
+bioassays. J Plant Growth Regul 2: 103-115
+3. Palmer MV, Horgan R, Wareing PF (1981) Variations in cyto-
+kinin levels in leaves of decapitated plants in relation to lateral
+bud outgrowth. J Exp Bot 32: 1231-1241
+4. Palni LMS, Tay SAB, MacLeod JK (1986) GC-MS methods for
+cytokinins and metabolites. In HF Linskins, JF Jackson, eds,
+Modern Methods of Plant Analysis, Vol 3, Springer Verlag,
+Heidelberg, pp 214-253
+5. Scott IM, Martin GC, Horgan R, Heald JK (1982) Mass spectro-
+metric measurement of zeatin glycoside levels in Vinca rosea
+L. crown gall tissue. Planta 154: 273-276
+6. Singh S, Letham DS, Jameson PE, Zhang R, Parker CW,
+Badenoch-Jones J, Nooden LD (1988) Cytokinin biochemistry
+in relation to leaf senescence IV. Cytokinin metabolism in
+soybean explants. Plant Physiol 88: 788-794
+7. Summons RE, Duke CC, Eichholzer JV, Entsch B, Letham DS,
+MacLeod JK, Parker CW (1979) Mass spectrometric analyses
+of cytokinins in plant tissues II. Quantitation of cytokinins in
+Zea mays kernels using deuterium labelled standards. Biomed
+Mass Spectrom 6: 407-413
+8. Summons RE, Entsch B, Parker CW, Letham DS (1979) Mass
+spectrometric analysis of cytokinins in plant tissues III. Quan-
+titation of the cytokinin glycoside complex of lupin pods by
+stable isotope dilution. FEBS Lett 107: 21-25
+9. Tay SAB, Palni LMS, MacLeod JK (1987) Identification of
+cytokinin glucosides in a seaweed extract. J Plant Growth
+Regul5: 133-138
+77
+ www.plantphysiol.orgon January 13, 2020 - Published by Downloaded from 
+Copyright © 1989 American Society of Plant Biologists. All rights reserved.

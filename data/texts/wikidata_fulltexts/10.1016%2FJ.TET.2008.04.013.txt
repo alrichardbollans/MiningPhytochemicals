@@ -1,0 +1,478 @@
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+Author's personal copy
+Unusual cytotoxic sulfated cadinene-type sesquiterpene
+glycosides from cottonseed (Gossypium hirsutum)
+Anna Lisa Piccinelli a, Cinzia Lotti a, Lorella Severino b, Diomira Luongo b, Luca Rastrelli a,*
+aUniversita` degli Studi di Salerno, Dipartimento di Scienze Farmaceutiche, Via Ponte don Melillo, 84084 Fisciano (SA), Italy
+bUniversita` degli Studi di Napoli Federico II, Dipartimento di Patologia e Sanita` Animale, Sezione di Tossicologia, Napoli, Italy
+a r t i c l e i n f o
+Article history:
+Received 22 January 2008
+Received in revised form 17 March 2008
+Accepted 3 April 2008
+Available online 8 April 2008
+Keywords:
+Cotton
+Whole cottonseed
+Gossypium hirsutum
+Sesquiterpenes
+Desoxyhemigossypol
+Sulfate
+Cytotoxic
+Jurkat cells
+a b s t r a c t
+Two new sulfated cadinene-type sesquiterpene glycosides, 13-hydroxy-7-O-(60-O-sulfate-b-D-glucopyra-
+nosyl)-desoxyhemigossypol (1) and 13,15-dihydroxy-7-O-(60-O-sulfate-b-D-glucopyranosyl)-desoxy-
+hemigossypol (2), have been isolated from whole cottonseed (Gossypium hirsutum). Their structures,
+which possess an unusual 6-O-sulfate-glucopyranosyl moiety, were determined through the in-
+terpretation of 2D NMR spectral data and H/D exchange ESI-MS experiments. Compounds 1 and 2 were
+screened for their toxicity on Jurkat cells. Both compounds inhibited cellular proliferationwith IC50 values
+of 8.1 and 4.2 mg, respectively.
+ 2008 Elsevier Ltd. All rights reserved.
+1. Introduction
+Cotton (Gossypium spp.) produces a large group of sesquiter-
+penes with the cadinane carbon skeleton that includes desoxy-
+hemigossypol (dHG), hemigossypol (HG), gossypol (G),
+hemigossypolone (HGQ),1 and the heliocides H1, H2, H3, and H4
+(Fig. 1).2 Unstressed Gossypium plants accumulate many of these
+compounds in subepidermal glands of all green tissues, which
+deter herbivores, and in epidermal cells of roots, probably as de-
+fense against soilborne pathogens.3 Various sesquiterpenoid cadi-
+nanes are also elicited by fungal and bacterial infection, by toxic
+chemicals, and by cold stress.4,5 Of the phytoalexins, which accu-
+mulate in stem stele of Verticilliumwilt-resistant cotton in response
+to Verticillium dahliae infection, Mace et al. have shown that dHG
+has the highest antifungal activity.6 Recently, however, it has been
+reported that gossypol and its metabolite, gossypolone, have anti-
+cancer effects in animal models.7,8
+Whole cottonseed (WCS) is the unprocessed and unadulterated
+oilseed, which has been separated from the cotton ﬁber. Cotton-
+seeds are fed to high-producing dairy cows as a source of fat and
+highly digestible ﬁber. They are also used as a forage replacer.
+Secondary metabolites in WCS have been studied because some
+components have been blamed for anti-nutritive or toxic effects:9,10
+gossypol is the main anti-nutrient limiting the use of cottonseed in
+monogastric animals and humans, where it acts by reducing the
+oxygen-carrying capacity of the blood and results in shortness of
+breath and of edema of the lungs.11 Also, ﬂavonoids have recently
+been reported in WCS.12,13 The occurrence of this type of secondary
+metabolite in food and feed is highly desirable because they con-
+tribute to their nutritional value.
+In the course of our continuing search for novel secondary
+metabolites of biomedical and ecological importance we in-
+vestigated the terpenoids of whole cottonseed. Two new com-
+pounds,1 and 2, with an unusual 6-O-sulfate-glucopyranosyl group
+were isolated as minor components (Fig. 2). The structures of these
+compounds were elucidated by extensive spectroscopic methods
+including 1D (1H and 13C) and 2D NMR experiments (DQF-COSY,
+HSQC, HMBC, NOESY) as well as ESI-MS analysis and H/D exchange
+MS experiments. Compounds 1 and 2 were tested for cytotoxicity
+against Jurkat cells a human lymphoblastoid T cell line usually
+utilized for studies of immunotoxicity in vitro.
+To the best of our knowledge this is the ﬁrst report of the oc-
+currence of glycosylated cadinene-type sesquiterpene in Gossipium.
+Compounds 1 and 2 are structurally related to desoxyhemigossypol
+(dHG), a key intermediate in the biosynthesis of cotton terpenoid,1
+and are probably derived through the same biosynthetic pathway.
+* Corresponding author. Tel.: þ39 89 969766; fax: þ39 89 969602.
+E-mail address: rastrelli@unisa.it (L. Rastrelli).
+Contents lists available at ScienceDirect
+Tetrahedron
+journal homepage: www.elsevier .com/locate/ tet
+Tetrahedron 64 (2008) 5449–5453
+0040-4020/$ – see front matter  2008 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.tet.2008.04.013
+Author's personal copy
+There has been only two publications with reference to the struc-
+tural characterization of dHG and these two studies did not report
+13C NMR data for dHG.14,15 Compounds 1 and 2, which, respectively,
+bear one and two oxygenated methylene substituent on naphtha-
+lene ring, instead of methyl groups present in dHG, were fully
+characterized by NMR and spectral data reported herein could be
+useful for the future NMR assessment of cotton terpenoids.
+2. Results and discussion
+2.1. NMR structure elucidation of 1 and 2
+Compound 1 showed absorption bands for hydroxyl
+(3390 cm1), aromatic (1681 cm1), and sulfate (1211 cm1) groups
+in its IR spectrum. The ()-ESI-MS spectrum of 1 showed as base
+peak the pseudomolecular ion [MH] at m/z 501 and its MS/MS
+spectrum gave ions at m/z 421 [MH80] and m/z 259
+[MH80162], which indicated the presence of a sulfate
+(–OSO3H) or phosphate (–OPO3H2) group and a hexose. The HRESI-
+MS of compound 1 showed an [MH] ion peak at m/z 501.1100,
+consistent with the molecular formula C21H26O12S.
+The 13C NMR spectrum of 1 showed 21 carbon signals (Table 1),
+6 of which could be assigned to a hexose moiety. Aglycon signals
+including 10 carbons in the range dC 101–163 ppm, ascribable to
+a naphthalene ring with two directly attached hydrogen atoms,
+according to HSQC and HMBC spectra, an oxygenatedmethylene (dC
+77.19 ppm), a methyne (dC 36.87 ppm), and a tertiary and a sec-
+ondary methyl group. All the information mentioned above was in
+support of compound 1 being a sesquiterpene glycoside. Inspection
+of the 1H NMR spectrum of 1 led to the identiﬁcation of the fol-
+lowing representative signals: a methyl doublet signal protons at
+d 1.46 (d, J¼6.9 Hz), a methyl singlet protons at d 2.84, a methyne
+proton at d 3.73 (m), two oxymethylene protons at d 4.03 (m), two
+protons of a further oxymethylene groups linked directly at the
+naphthalene ring (d 5.82 and 5.90; J¼15.3 Hz), and two meta-re-
+lated doublets (d 6.34 and 7.06; J¼1.5 Hz). The 1H NMR spectrum
+O
+HO
+HO
+Desoxyhemigossypol (HG)
+OH
+HO
+HO
+Hemigossypol (HG)
+O H
+HO
+HO
+Hemigossypolone (HGQ)
+O H O
+O
+HO
+HO
+Gossypol (G)
+O OHOH
+OH
+OH
+O
+HO
+HO
+Heliocide H1
+O H O
+O
+HO
+HO
+Heliocide H4
+O H O
+O
+HO
+HO
+Heliocide H2
+O H O
+O
+HO
+HO
+Heliocide H3
+O H O
+O
+H H
+Figure 1. Sesquiterpenes with the cadinane carbon skeleton found in cotton tissue.
+1
+CH2R
+OH
+O
+HO
+35
+7 9
+10
+11
+12
+15
+O
+1    R = H
+2    R = OH
+O
+HO
+HO OH
+OSO3H
+Figure 2. Cadinene-type sesquiterpene 1 and 2 from cottonseed.
+Table 1
+1H and 13C NMR (600 MHz) data for compounds 1 and 2 in CD3OD
+a
+Position 1 2
+d 1H (JHH in Hz) d
+13C d 1H (JHH in Hz) d
+13C
+1 163.29 163.30
+2 6.34 (d, 1.5) 101.20 6.52 (d, 1.5) 98.70
+3 139.96 143.6
+4 7.06 (d, 1.5) 112.44 7.28 (d, 1.5) 111.30
+5 138.12 130.10
+6 138.13 138.74
+7 150.10 150.11
+8 126.09 125.90
+9 123.21 124.39
+10 121.83 122.64
+11a 5.90 (d, 15.3) 77.19 5.86 (d, 15.3) 77.28
+11b 5.82 (d, 15.3) 5.94 (d, 15.3)
+12 3.73 (br s) 36.87 3.75 (br s) 36.92
+13a 4.03 (m) 66.47 4.05 (m) 66.46
+13b 3.98 (m) 4.00 (m)
+14 1.46 (d, 6.9) 15.77 1.53 (d, 6.9) 15.78
+15 2.84 (s) 23.15 4.69 (s) 66.49
+10 4.71 (d, 7.5) 105.90 4.74 (d, 7.5) 105.85
+20 3.61 (dd, 9.5, 7.5) 74.80 3.61 (dd, 9.5, 7.5) 74.80
+30 3.59 (t, 9.5) 77.32 3.58 (t, 9.5) 77.32
+40 3.54 (t 9.5) 71.13 3.53 (t, 9.5) 71.13
+50 3.70 (m) 76.61 3.71 (m) 76.61
+600a 4.43 (dd, 12.2, 4.5) 68.18 4.44 (dd, 12.2, 4.5) 68.12
+600b 4.21 (dd, 12.2, 4.5) 4.21 (dd, 12.2, 4.5)
+a Chemical shift values are in parts per million from TMS, and values in hertz are
+presented in parentheses. All signals were assigned by DQF-COSY, HSQC, and HMBC
+experiments.
+A.L. Piccinelli et al. / Tetrahedron 64 (2008) 5449–54535450
+Author's personal copy
+also indicated an anomeric proton at d 4.71 (1H, d, J¼7.5 Hz) and
+signals in the d 3.54–4.43 region attributable to a sugar moiety. The
+1H and 13C NMR data of the key hydrogens and carbons (C-20, C-30,
+and C-50) indicated a b-conﬁguration at the anomeric position
+(JH-10–H-20¼7.5 Hz). The sugar substituent was identiﬁed as b-
+glucopyranosyl from the 1D-TOCSY, DQF-COSY, and HSQC spectra.
+The 13C NMR signal of C-60 (d 68.18) of the glucopyranosyl group
+was downﬁeld with respect to those in unsubstituted glucose
+(DdC-60¼ca.þ6 ppm) as expected for a 6-O-substituted glucosyl
+moiety. The inorganic nature of this substituent was deduced from
+the lack of further carbon resonances. The IR, MS, and NMR (ab-
+sence of 31P–13C coupling in 13C NMR spectra) data strongly sug-
+gested that this substituent is a sulfate ester of OH-60. A further
+conﬁrmation of C-60–OSO3H substitution was obtained with H/D
+exchange ESI-MS experiments (see Section 2.2).
+The 1H–1H COSY spectrum of 1 showed proton correlations
+between dH 1.46 (Me-14) and dH 3.73 (H-12), between H-12
+and protons at dH 3.98 and 4.03 (H2-13), indicating the presence of
+a –CH3–CH–CH2OH chain together with the spin system belonging
+to the glucose moiety. The HSQC spectrum of 1 indicated all of the
+protonated carbon correlations, thereby leading to the elucidation
+of the structural skeleton. These results clearly showed that 1 was
+closely related to desoxyhemigossypol, except for the oxidation of
+isopropyl group and the presence of the sugar residue. HMBC cor-
+relations (H-12/C-6 and C-10, H2-11/C-1, C-7 and C-9, H-4/C-2, C-5
+and C-9, Me-15/C-4 and C-2 and H-10/C-7) conﬁrmed the position
+of the isopropanol group at C-5 and the glycosidic linkage at the C-7
+position of the naphthalene ring and indicated that the methylene
+C-11 was connected via oxygen at C-1 position. In addition, the
+correlation of H-4 with H-12 in the ROESY spectrum showed them
+to be in the peri position and allowed us to discriminate between
+the two meta coupled protons, in consequence, the remaining
+proton at dH 6.34 could be assigned as H-2. On the basis of these
+spectral data, the structure of 1 was identiﬁed as 13-hydroxy-7-O-
+(60-O-sulfate-b-D-glucopyranosyl)-desoxyhemigossypol (Fig. 2).
+Compound 2 showed similar IR absorption bands and ESI-MS
+behavior ([MH] at m/z 517 and fragment ions at m/z 437
+[MH80] andm/z 275 [MH80162]) of compound 1. It was
+assigned a molecular formula of C21H26O13S as deduced by HRESI-
+MS ([MH] ion peak a m/z 517.1057) and 13C NMR and DEPT
+analysis. In the 1H and 13C NMR spectra, all of the proton and carbon
+signals of 2 were almost superimposable on those of 1 (Table 1),
+except for the appearance of a further oxymethylene group (d 4.69
+and 66.49 in the 1H and 13C NMR spectra, respectively) and loss of
+one methyl group. The 13C NMR signals of C-4 and C-2 were shifted
+upﬁeld by 1.14 and 2.50 ppm, respectively, and C-3 was shifted
+downﬁeld by 3.64 ppm, taking into account 1 as reference com-
+pound. These data suggested that the oxymethylene group is lo-
+cated at C-3. The sugar moiety of compound 2 exhibited a good
+coincidence with those of 1 in the 1H and 13C NMR spectra. From all
+these data compound 2 was identiﬁed as 13,15-dihydroxy-7-O-(60-
+O-sulfate-b-D-glucopyranosyl)-desoxyhemigossypol (Fig. 2).
+Compounds 1 and 2 appeared to be the ﬁrst example of sulfated
+cadinene-type sesquiterpene glycosides in Gossipium.
+2.2. H/D exchange ESI-MS experiments on 1 and 2
+Some natural products and metabolites contain one or more
+sulfate or phosphate groups. Sulfo compounds have been identiﬁed
+from high-resolution mass spectrometry (HRMS). Recently, many
+reports have conﬁrmed the presence of the sulfate ester only from
+the results of hydrolysis by sulfatase and low-resolution mass
+spectrometry (LRMS) analysis with a fragment loss of 80 mass
+units.16 However, phosphate esters also give the same fragment
+loss and the difference between sulfate and phosphate in their
+exact masses is only 0.009 mass units, which is in the range of
+technical errors (m/z0.01) of conventional high-resolution mass
+spectrometer.
+Kanakubo et al. reported that daidzein-7-O-phosphate and
+genistein-7-O-phosphate were surprisingly hydrolyzed by sulfa-
+tase,17 they developed a method to distinguish phosphate from
+sulfate group by H/D exchange MS with a low-resolution mass
+spectrometer (FABMS and Q-TOF).18 This method was based on the
+different numbers of exchangeable protons between sulfate and
+phosphate groups. After these protons are exchanged for deuterium
+atoms, the mass difference between phosphate and sulfate should
+shift from 0.009 to 1.016 mass units,18 and, in the negative ion
+mode, anionic phosphate species should have one deuterium atom
+but sulfate none. The difference of 1 nominal mass unit is very easy
+to distinguish by LRMS.
+We applied this method to distinguish between sulfate and
+phosphate by LRMS using ion trap mass spectrometers. Compounds
+1 and 2with sulfate as substituent contain ﬁve and six exchangeable
+protons and should give a 5 and 6 mass units increase, respectively,
+with a neutral loss of 80 mass units, while, the same compounds
+with a phosphate group (six and seven exchangeable protons)
+should give a 6 and7mass units increase, respectively, and a 81 mass
+units loss. When compounds 1 and 2 were analyzed in the deute-
+rium-exchange, they showed the [MD] peaks atm/z 506 and 523,
+respectively (Fig. 3). The ()-ESI-MS spectra displayed also peaks at
+m/z 505 and 504, for 1, and atm/z 522, 521 and 520 for 2, whichwere
+due to the fact that the H/D exchange was not completed. This data
+suggested the presence of a sulfate group, which was conﬁrmed by
+fragment ions in the MS/MS spectra of peaks at m/z 506 and 523
+corresponding at neutral loss of 80 mass units (Fig. 3). Thus, in ac-
+cordance with the spectroscopic data reported above, the C-60–
+OSO3H substitution of compounds 1 and 2was ulteriorly conﬁrmed.
+These results demonstrate that H/D exchange MS with a low-
+resolution mass spectrometer is a convenient method to distin-
+guish betweenphosphate and sulfate at the picomole level andmay
+provide an alternative to classical and not rigorous hydrolysis by
+sulfatase.
+2.3. Cell proliferation assay
+In our study, we assessed the effects of compounds 1 and 2 on
+the proliferation of Jurkat T cells. We incubated cells with different
+doses (from 0.5 to 420 mg/ml) of both compounds and we found
+that both compounds were cytotoxic at highest doses. To assess the
+effects of methanol, in which compounds 1 and 2 were dissolved,
+on cellular proliferation, we incubated Jurkat cells with different
+concentrations of alcohol (0.5–420 mg/ml). We also calculated
+the IC50 values for both compounds and we found that IC50 of
+compound 1 was 8.1 mg while the IC50 of compound 2 was 4.2 mg.
+3. Experimental
+3.1. General methods
+Unless speciﬁed, solvents were reagent grade. They were pur-
+chased from Aldrich or Fluka or Carlo Erba and were used without
+further puriﬁcation. Optical rotations were measured on a Jasco
+DIP-370 polarimeter equipped with a sodium lamp (589 nm) and
+a 10 cm microcell. UV spectra were obtained with a Beckman DU
+670 spectrophotometer and IR spectra with a Biorad FTS 155 FT-IR
+spectrophotometer. A Bruker DRX-600 spectrometer, operating at
+599.19 MHz for 1H and 150.858 MHz for 13C, using the UXNMR
+software package was used for NMR experiments in CDCl3.
+1H–1H
+DQF-COSY (Double Quantum Filtered COSY), 1H–13C HSQC, HMBC,
+and ROESY experiments were obtained using conventional pulse
+sequences. Electrospray ionization mass spectrometry (ESI-MS)
+was performed using a LCQ Advantage ion trap mass spectrometer
+A.L. Piccinelli et al. / Tetrahedron 64 (2008) 5449–5453 5451
+Author's personal copy
+(Thermo Finnigan, San Jose, CA) equipped with Xcalibur 3.1 soft-
+ware. Samples were dissolved in MeOH/H2O 1:1 and infused in the
+ESI source by using a syringe pump at a ﬂow rate of 3 mL/min. The
+ionization conditions were optimized, and the parameters were
+maintained as follows: capillary temperature 160 C, capillary
+voltage36 V, spray voltage 5.0 kV, tube lens voltage65 V, sheath
+gas ﬂow rate 30 (arbitrary units), scan range ofm/z 150–1000 amu.
+N2 was used as the sheath and auxiliary gas. Data were acquired in
+the full MS and MS/MS scan modes. Exact masses were measured
+by a Q-TOF premier (Waters, Maniford, MA, USA) high-resolution
+mass spectrometer. Column chromatographies were performed
+over Sephadex LH-20 (1 m3 cm i.d; Pharmacia, Uppsala, Sweden).
+HPLC separations were performed on a Waters 590 series pumping
+system equipped with a Waters R401 refractive index detector and
+a Kromasil C18 10 mm (30010 mm) column.
+3.2. Plant material
+Unstressed Gossypium hirsutumwas grown in the ﬁeld at Cereal
+Comm Feed Company (Brescia, Italy). Whole cottonseed is a by-
+product of cotton production and acreage is expanding in the North
+Italy. Whole cottonseed (WCS) was furnished by Cereal Comm Feed
+Company.
+3.3. Extraction and isolation procedure
+The dried and powdered WCS (405 g) were defatted with hex-
+ane and CHCl3 and then extracted with MeOH to give 19 g of resi-
+due. The MeOH extract was partitioned between n-BuOH and H2O
+to afford an n-BuOH soluble portion (5.8 g), which was chromato-
+graphed twice on a Sephadex LH-20. The fraction with the
+Figure 3. H/D exchange IT-ESI-MS spectra of compounds 1 and 2. Above are reported the ()-ESI-MS spectra and below the ()-ESI-MS/MS spectra acquired in zoom scan mode.
+A.L. Piccinelli et al. / Tetrahedron 64 (2008) 5449–54535452
+Author's personal copy
+sesquiterpene mixture was puriﬁed by RP-HPLC (ﬂow rate 2.5 ml/
+min) using MeOH/H2O (40:60) as the eluent to yield pure com-
+pounds 1 (3.7 mg, tR¼8 min) and 2 (4.4 mg, tR¼12 min).
+3.3.1. 13-Hydroxy-7-O-(60-O-sulfate-b-D-glucopyranosyl)-
+desoxyhemigossypol (1)
+Yellow sticky solid; [a]D
+24 57.6 (c 1.3, MeOH); UV (MeOH) lmax
+(log 3) 256 nm (5.1); IR (ﬁlm) nmax: 3390, 2930, 1681, 1211 cm
+1; 1H
+NMRand13CNMR(CD3OD,600 MHz), seeTable1; ()-HRESI-MS,m/z
+501.1100 [MH], calcd for C21H25O12S 501.1067 (3.3 mDa); ESI-MS
+(negative mode)m/z 501.1 [MH]; MS/MSm/z 421.1, 259.1, 241.1.
+3.3.2. 13,15-Dihydroxy-7-O-(60-O-sulfate-b-D-glucopyranosyl)-
+desoxyhemigossypol (2)
+Yellow sticky solid; [a]D
+24 49.1 (c 1.5, MeOH); UV (MeOH) lmax
+(log 3) 258 nm (4.8); IR (ﬁlm) nmax: 3366, 2927, 1651, 1213 cm
+1; 1H
+NMRand13CNMR(CD3OD,600 MHz), seeTable1; ()-HRESI-MS,m/z
+517.1057 [MH], calcd for C21H25O13S 517.1016 (4.1 mDa); ESI-MS
+(negative mode)m/z 517.1 [MH]; MS/MSm/z 437.1, 275.1, 241.1.
+3.4. H/D exchange MS of 1 and 2
+Compounds 1 and 2 were dissolved in deuterium oxide (D2O)
+and kept at 20 C for 4 h and lyophilized. This process was repeated
+two times. The samples for MS experiments were dissolved in D2O
+(5 mg/ml) and directly sprayed at 3 ml/min. An ion trap mass spec-
+trometer equipped with an ESI source was used for H/D exchange
+experiments and the ionization conditions were the same reported
+in the general methods. Before analysis the mass spectrometer was
+conditioned with D2O.
+3.5. Cells proliferation assay
+3.5.1. Reagents
+RPMI-1640 medium, L-glutamine, streptomycin, penicillin, fetal
+bovine serum (FBS), and non-essential aminoacids were purchased
+from Cambrex Bioproducts Europe (Verviers, Belgium).
+3.5.2. Cell culture
+Jurkat T cells (ATCC, Manassas, VA) were grown at 37 C in
+a humidiﬁed atmosphere consisting of 5% CO2/95% air in RPMI-
+1640 medium supplemented with 10% (v/v) heat-inactivated FBS,
+2 mM L-glutamine, 100 units/ml penicillin, 100 mg/ml streptomycin,
+and 1% (w/v) non-essential aminoacids. Cells were kept in the
+exponential growth phase by passages at 2–3 days interval.
+3.5.3. Cell proliferation assay
+Cells were cultured in ﬂat bottom 96-well plates (4104/well)
+for 72 h in the presence of different concentrations of two com-
+pounds 1 and 2. The compounds are both dissolved in methanol.
+Eighteen hours prior to harvesting, cells were pulsed with 1 mCi/
+well [3H]-thymidine. Cultures were harvested on ﬁlters using
+a semiautomatic cell harvester (Filtermate, Packard, Danvers, MA).
+[3H]-Thymidine incorporation was assessed by a microplate liquid
+scintillator (Top Count NXT, Packard, Danvers, MA). Results were
+expressed as cpm (counts per minute).
+3.5.4. Statistical analysis
+Student’s t-test was used to compare results from three different
+experiments. Results were expressed as meanSD. Statistical
+signiﬁcance between treated and non-treated cells with gossypol
+derivates was reached when P values were 0.05.
+References and notes
+1. Wang, Y.; Davila-Huerta, G.; Essenberg, M. Phytochemistry 2003, 64, 219.
+2. Stipanovic, R. D.; Bell, A. A.; O0Brien, D. H.; Lukefahr, M. J. J. Agric. Food Chem.
+1978, 26, 115.
+3. Liu, J.; Benedict, C. R.; Stipanovic, R. D.; Bell, A. A. Plant Physiol. 1999, 121, 1017.
+4. Bell, A. A. Cotton Physiology; Mauney, J. R., Stewart, J. M., Eds.; The Cotton
+Foundation: Memphis, TN, 1986.
+5. Essenberg, M.; Grover, P. B., Jr.; Cover, E. C. Phytochemistry 1990, 29, 3107.
+6. Mace, M. E.; Stipanovic, R. D.; Bell, A. A. Physiol. Plant Pathol. 1985, 26, 209.
+7. Gilbert, N. E.; O’Reilly, J. E.; Chang, C. J. G.; Lin, Y. C.; Brueggemeier, R. W. Life Sci.
+1995, 57, 61.
+8. Shelley, M. D.; Hartley, L.; Fish, R. G.; Groundwater, P.; Morgan, J. J. G.; Mort, D.;
+Mason, M.; Evans, A. Cancer Lett. 1999, 135, 171.
+9. Gambill, M. D.; Humphrey, W. D. Theriogenology 1993, 40, 585.
+10. Skutches, C. L.; Herman, D. L.; Smith, F. H. J. Nutr. 1974, 104, 415.
+11. Alford, B. B.; Liepa, G. U.; Vanbeber, A. D. Plant Foods Hum. Nutr. 1996, 49, 1.
+12. Zhang, Q.; Yang, M.; Zhao, Y.; Luan, X.; Ke, Y. Yaoxue Xuebao 2001, 36, 827.
+13. Piccinelli, A. L.; Veneziano, A.; Passi, S.; De Simone, F.; Rastrelli, L. Food Chem.
+2007, 100, 344.
+14. Bell, A. A.; Stipanovic, R. D.; Howell, C. R.; Fryxell, P. A. Phytochemistry 1975, 14,
+225.
+15. Stipanovic, R. D.; Bell, A. A.; Howell, C. R. Phytochemistry 1975, 14, 1809.
+16. (a) Robert, S.; Goodwin, K.-.H. A.; Rosler, T. J. M.; Shambhu, D. V. J. Nat. Prod.
+1984, 47, 711; (b) Yasuda, T.; Kano, Y.; Saito, K.; Ohsawa, K. Biol. Pharm. Bull.
+1994, 1369; (c) Yasuda, T.; Kano, Y.; Saito, K.; Ohsawa, K. Biol. Pharm. Bull. 1995,
+18, 300; (d) Yasuda, T.; Mizunuma, S.; Kano, Y.; Saito, K.; Ohshima, K. Biol.
+Pharm. Bull. 1996, 19, 413; (e) Uno, M.; Ohta, S.; Ohta, E.; Ikegami, S. J. Nat. Prod.
+1996, 59, 1146; (f) Mann, P.; Tofern, B.; Kaloga, M.; Eich, E. Phytochemistry 1999,
+50, 267; (g) Feng, Y.; Carroll, A. R.; Addepalli, R.; Fechner, G. A.; Avery, V. M.;
+Quinn, R. J. J. Nat. Prod. 2007, 70, 1790; (h) Grube, A.; Assmann, M.; Lichte, E.;
+Sasse, F.; Pawlik, J. R.; Kock, M. J. Nat. Prod. 2007, 70, 504.
+17. Kanakubo, A.; Koga, K.; Isobe, M.; Fusimi, T.; Saitoh, T.; Ohshima, Y.; Tsukamoto,
+Y. Tetrahedron 2001, 57, 8801.
+18. Kanakubo, A.; Isobe, M. J. Mass Spectrom. 2004, 39, 1260.
+A.L. Piccinelli et al. / Tetrahedron 64 (2008) 5449–5453 5453

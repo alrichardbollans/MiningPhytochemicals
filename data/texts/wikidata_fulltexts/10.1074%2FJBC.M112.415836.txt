@@ -1,0 +1,2027 @@
+Genetics, Development and Cell Biology
+Publications Genetics, Development and Cell Biology
+2013
+Functional Identification of Valerena-1,10-diene
+Synthase, a Terpene Synthase Catalyzing a Unique
+Chemical Cascade in the Biosynthesis of
+Biologically Active Sesquiterpenes in Valeriana
+officinalis
+Yun-Soo Yeo
+University of Kentucky
+S. Eric Nybo
+University of Kentucky
+Amar G. Chittiboyina
+University of Mississippi
+Aruna D. Weerasooriya
+University of Mississippi
+Yan-Hong Wang
+University of Mississippi
+This Article is brought to you for free and open access by the Genetics, Development and Cell Biology at Iowa State University Digital Repository. It
+has been accepted for inclusion in Genetics, Development and Cell Biology Publications by an authorized administrator of Iowa State University
+Digital Repository. For more information, please contact digirep@iastate.edu.
+See next page for additional authors
+Follow this and additional works at: http://lib.dr.iastate.edu/gdcb_las_pubs
+Part of the Botany Commons, Cell and Developmental Biology Commons, and the Genetics and
+Genomics Commons
+The complete bibliographic information for this item can be found at http://lib.dr.iastate.edu/
+gdcb_las_pubs/61. For information on how to cite this item, please visit http://lib.dr.iastate.edu/
+howtocite.html.
+Authors
+Yun-Soo Yeo, S. Eric Nybo, Amar G. Chittiboyina, Aruna D. Weerasooriya, Yan-Hong Wang, Elsa Góngora-
+Castillo, Brieanne Vaillancourt, C. Robin Buell, Dean DellaPenna, Mary Dawn Celiz, A. Daniel Jones, Eve S.
+Wurtele, Nick Ransom, Natalia Dudareva, Khaled A. Shaaban, Nidhi Tibrewal, Suman Chandra, Troy Smillie,
+Ikhlas A. Khan, Robert M. Coates, David S. Watt, and Joe Chappell
+This article is available at Iowa State University Digital Repository: http://lib.dr.iastate.edu/gdcb_las_pubs/61
+Functional Identification of Valerena-1,10-diene Synthase, a
+Terpene Synthase Catalyzing a Unique Chemical Cascade in
+the Biosynthesis of Biologically Active Sesquiterpenes in
+Valeriana officinalis*□S
+Received for publication, September 3, 2012, and in revised form, December 12, 2012 Published, JBC Papers in Press,December 14, 2012, DOI 10.1074/jbc.M112.415836
+Yun-Soo Yeo,a S. Eric Nybo,a Amar G. Chittiboyina,b Aruna D. Weerasooriya,b Yan-HongWang,b
+Elsa Góngora-Castillo,c Brieanne Vaillancourt,c C. Robin Buell,c Dean DellaPenna,dMary Dawn Celiz,d
+A. Daniel Jones,d,e Eve Syrkin Wurtele,f Nick Ransom,f Natalia Dudareva,g Khaled A. Shaaban,h Nidhi Tibrewal,h
+Suman Chandra,b Troy Smillie,b Ikhlas A. Khan,b Robert M. Coates,i David S. Watt,j and Joe Chappella1
+From the aPlant Biology Program, University of Kentucky, Lexington, Kentucky 40503, bNational Center for Natural Products
+Research, School of Pharmacy, University of Mississippi, University, Mississippi 38677, cDepartment of Plant Biology, dDepartment
+of Biochemistry andMolecular Biology, and eDepartment of Chemistry, Michigan State University, East Lansing, Michigan 48824,
+fDepartment of Genetics, Development and Cell Biology, Iowa State University, Ames, Iowa 50011, gDepartment of Horticulture
+and Landscape Architecture, Purdue University, West Lafayette, Indiana 47907, hDepartment of Pharmaceutical Sciences and
+jDepartment of Cellular andMolecular Biochemistry, University of Kentucky, Lexington, Kentucky 40536, and iDepartment of
+Chemistry, University of Illinois, Urbana, Illinois 61801
+Background: Therapeutic values of Valeriana officinalis have been associated with sesquiterpenes whose biosynthetic
+origins have remained enigmatic.
+Results: A cyclobutenyl intermediate in the catalytic cascade of valerena-1,10-diene synthase is reported.
+Conclusion: A new class of sesquiterpene synthases for the biosynthesis of sesquiterpenes harboring isobutenyl functional
+groups is proposed.
+Significance: Similar catalytic mechanisms from evolutionarily diverse organisms are proposed and portend sources for ses-
+quiterpene diversity.
+Valerian is an herbal preparation from the roots of Valeriana
+officinalis used as an anxiolytic and sedative and in the treat-
+ment of insomnia. The biological activities of valerian are attrib-
+uted to valerenic acid and its putative biosynthetic precursor
+valerenadiene, sesquiterpenes, found in V. officinalis roots.
+These sesquiterpenes retain an isobutenyl side chain whose ori-
+gin has been long recognized as enigmatic because a chemical
+rationalization for their biosynthesis has not been obvious.
+Using recently developed metabolomic and transcriptomic
+resources, we identified seven V. officinalis terpene synthase
+genes (VoTPSs), two that were functionally characterized as
+monoterpene synthases and three that preferred farnesyl
+diphosphate, the substrate for sesquiterpene synthases. The
+reaction products for two of the sesquiterpene synthases exhib-
+iting root-specific expression were characterized by a combina-
+tion of GC-MS and NMR in comparison to the terpenes accu-
+mulating in planta. VoTPS7 encodes for a synthase that
+biosynthesizes predominately germacrene C, whereas VoTPS1
+catalyzes the conversion of farnesyl diphosphate to valerena-
+1,10-diene. Using a yeast expression system, specific labeled
+[13C]acetate, and NMR, we investigated the catalytic mecha-
+nism for VoTPS1 and provide evidence for the involvement of a
+caryophyllenyl carbocation, a cyclobutyl intermediate, in the
+biosynthesis of valerena-1,10-diene.We suggest a similarmech-
+anism for the biosynthesis of several other biologically related
+isobutenyl-containing sesquiterpenes.
+Valerian is a nutraceutical preparation from the roots ofVal-
+eriana officinalis and related species that is recommended for
+relief of tension, anxiety, and insomnia (1–3). V. officinalis
+grows as a wild herb in very diverse habitats around the globe,
+and valerian has been used for hundreds of years as a herbal
+remedy (4, 5). For example, it was used as a treatment to relieve
+the stress of air raids in England duringWWII (6). The greatest
+biological efficacy of valerian has been correlated with freshly
+harvested and carefully dried root preparations and with the
+iridoid alkaloid and sesquiterpene content of these prepara-
+tions (7). The valepotriates are epoxyiridoid esters with the
+dominant species being valtrate (8). Because of putative insta-
+bility and water insolubility of the valepotriates, some investi-
+gations have suggested that the sesquiterpene compounds are
+more important for the sedative activity of valerian (8). The
+sesquiterpene derivatives valerenic acid and valeranone have
+both been shown to possess potent biological activities (9).
+Valerenic acid is thought to be derived from valerena-1,10-
+diene, whereas valeranonemight be derived from a germacrene
+precursor (Fig. 1). However, valerenadiene has been of particu-
+lar interest to others studying related biologically active ses-
+quiterpene compounds like tamariscol (10), tamariscene (11),
+and pacifigorgiol (12) (Fig. 1) because the biogenic origin of the
+* Thisworkwas supported, inwholeor inpart, byNational Institutes ofHealth
+Grant 1RC2GM092521 (to the Medicinal Plant Consortium).
+□S This article contains supplemental Table S1 and Figs. S1—S8.
+1 To whom correspondence should be addressed. Tel.: 859-218-0775; Fax:
+859-257-7125; E-mail: chappell@uky.edu.
+THE JOURNAL OF BIOLOGICAL CHEMISTRY VOL. 288, NO. 5, pp. 3163–3173, February 1, 2013
+© 2013 by The American Society for Biochemistry and Molecular Biology, Inc. Published in the U.S.A.
+FEBRUARY 1, 2013•VOLUME 288•NUMBER 5 JOURNAL OF BIOLOGICAL CHEMISTRY 3163
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+isobutenyl substituent group common to these molecules has
+remained enigmatic. To investigate possible mechanisms for
+the biosynthesis of the unique valerenadiene scaffold (11), we
+have leveraged our recent assembly of transcriptomic (see
+Medicinal Plant Genomics Resource Internet website) and
+metabolomic (see Medicinal Plant Metabolomic Resource
+Internet website) resources for 14 different medicinal plant
+species including V. officinalis. Using these resources, we iden-
+tified seven possible terpene synthase gene candidates, exam-
+ined their tissue-specific expression profiles, and correlated
+these with the accumulation of sesquiterpenes, then function-
+ally characterized the terpene synthase enzymes encoded by
+these genes in vitro and in vivo. During the course of this work,
+Pyle et al. (13) also reported a similar effort to identify sesquit-
+erpene synthases from V. officinalis and described the charac-
+terization of a valerena-1,10-diene synthase. However, in the
+current work we have exploited the valerenadiene synthase
+to probe and validate an unusual catalytic cascade for the
+generation of isobutenyl constellations on a unique class of
+biologically active sesquiterpenes.
+EXPERIMENTAL PROCEDURES
+Plant Material—Authenticated V. officinalis L. (Valeri-
+anaceae) seeds were purchased from Richters Herbs (Ontario,
+Canada). The seeds were germinated in germination trays with
+Promix potting mixture in an environmentally controlled
+greenhouse at the University of Mississippi Medicinal Plant
+Garden. The average temperature and humidity in the green-
+house were maintained at 70 °F and 60%, respectively, and nat-
+ural light and fluorescent grow lights were used to maintain a
+minimumof 16 h of light per 24-h period. Two-week-old plant-
+letswere transferred into larger potswith Promixpottingmix-
+ture. Theywere hand-watered and fertilized twice amonthwith
+Miracle Grow all-purpose plant food. Three separate popula-
+tions were maintained from three different seed accessions.
+The tissue harvesting was done from 1-year-old plants selected
+randomly. Young leaves (25% expanded), mature leaves (fully
+expanded), petioles, and lateral roots were harvested for both
+reference and experiment samples with three replicates, frozen
+immediately in liquid nitrogen, and subsequently stored at
+80 °C. The weight and photographic record of all samples
+were obtained.
+Young leaves (5.0–15.0 mm) of Valeriana officinalis were
+used as explants for callus culture induction. Explants were sur-
+face-sterilized with 0.5% NaOCl (15% v/v bleach) and 0.1%
+Tween 20 for 20 min then washed extensively with sterile dis-
+tilled water before inoculation onto Murashige and Skoog
+medium containing 3% (w/v) sucrose, 0.8% (w/v) Type E agar
+(Sigma) supplemented with 4.0 mg/liter napthalene acetic acid
+(NAA) in combination with 0.2 mg/liter thidiazuron for callus
+induction. The medium was adjusted to pH 5.7. The cultures
+FIGURE 1. Proposed pathways for the biosynthesis of the sesquiterpene valeranone (3) and valerenic acid (4) in V. officinalis and structural compar-
+ison to related hydrindane-type sesquiterpenes found in association with liverworts (Frullania tamarisci) and gorgonian sponges (Pacifigoria cf.
+adamsii). A, multistep pathways are depicted, the first step catalyzed by a sesquiterpene synthase (TPS) cyclizing FPP to either germacrene C (1) or valerena-
+1,10-diene (2) followed by internal ring formation and hydroxylation/reduction (valeranone) or successive hydroxylation/oxidation at one of the terminal
+methyls of the isobutenyl side chain (valerenic acid). B, tamariscene (5), tamarisol (6), and pacifigorgiol (7) appear to share a valerenadiene-like scaffold in
+common with valerenic acid and hence may share a similar biosynthetic origin as suggested by Paul et al. (11).
+SesquiterpeneMetabolism of Valeriana officinalis
+3164 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 288•NUMBER 5•FEBRUARY 1, 2013
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+were incubated at 25  2 °C with a 16-h photoperiod under
+fluorescent light with 52  5 mol m2 s1 photon flux den-
+sity. Thirty 5-day-old calli were collected formetabolomics and
+RNAseq analysis.
+Metabolomics—One gram of freeze-dried tissue sample pul-
+verized in liquid N2 was extracted for 3 h by shaking in 10 ml of
+chloroform:methanol (1:1 v/v) containing external standard
+propyl 4-hydroxybenzoate (10 M) and antioxidant butylated
+hydroxytoluene (1 mg/ml). The mixture was filtered through
+pre-weighedWhatman filter paper, and the filtratewas used for
+time-of-flight mass spectrometry (LC-TOFMS) analysis. Filter
+paper containing plant residue was air-dried for 24 h, oven-
+dried at 40 °C for an additional 24 h, thenweighed to determine
+dry weight of the plant tissue extracted.
+Aliquots of the extracts were then analyzed using a nontar-
+geted metabolomic approach based on ultrahigh performance
+liquid chromatography/TOFMS), electrospray ionization, and
+nonselective multiplexed collision-induced dissociation (14)
+that generates global accurate molecular and fragment mass
+information. Automated peak detection, alignment, and inte-
+gration were performed using Waters MarkerLynx software,
+and peak areas were exported to a Microsoft Excel spread-
+sheet (for qualitative and quantitative assessments). Metab-
+olite identities were confirmed by comparison of retention
+times and molecular and fragment masses to available
+authentic standards.
+The spreadsheet data were incorporated into an extendable
+database linked to a search and display software interface, pub-
+lically available atMedicinal PlantMetabolomic Resource. This
+interface enables metabolite searches by species, molecular
+mass ranges, and/or key terms. Analysis includes scatterplots
+for assessing replicability, means and standard errors of
+selected compound across multiple samples, and comparison
+of differences in metabolite levels across two samples with p
+values calculated according to the number of replicates via vol-
+cano plots and ratio plots.
+Chemical Profiling of the Plant Tissues—The metabolite
+extracts were prepared from 300mg of each tissue sample pow-
+dered in liquid nitrogen, then extracted with 5 ml of n-hexanes
+with shaking at room temperature for 2 h. The filtrate was then
+passed through a 0.25  2-cm silica column, concentrated to
+100 l under nitrogen gas, and then analyzed by GC-MS.
+Transcriptome—RNAwas isolated from callus, young leaves,
+mature leaves, lateral roots, and stem/petioles from three
+V. officinalis populations as described previously (15). cDNA
+libraries were constructed using the mRNA-Seq kit (Illumina,
+San Diego, CA) and sequenced to 35 bp in the single end mode
+or 76 bp in the paired end mode on the Illumina Genome Ana-
+lyzer IIx platform at the Michigan State University Research
+Technology Support Facility. Reads were cleaned and assem-
+bled as described previously (15). Transcript assemblies were
+annotated for function using a combination of BLAST (16)
+sequence similarity results to UniRef100 (17) and Pfam (18)
+domain composition in ESTScan-predicted (19) peptide
+sequences. Custom perl scripts were used to remove low com-
+plexity sequences and potential contaminants in the transcrip-
+tome assembly based on sequence similarity to UniRef100
+entries in the bacterial, fungal, virus, and viroid kingdoms as
+well as Arthropoda, Stramenopiles and human sequences.
+Expression abundances were estimated by mapping single end
+reads from each library to the reference transcriptome using
+TopHat (20) and Cufflinks (21) as described previously (15).
+Raw sequences are available in the NCBI Sequence Read
+Archive under accession number SRP005998. Assembled tran-
+scripts are available at Medicinal Plant Genomics Resource.
+A total of 223,381,692 readswere generated fromall libraries,
+and 138,222,300 (61.8%) were incorporated into the final de
+novo assembly. After removal of contaminants and low com-
+plexity sequences (1594), the assembly contained a total of
+75,326 transcripts with an N50 (the contig size such that all
+contigs larger than that have 50% the bases of the assembly) of
+1060 bp. Single and multiple isoform transcripts were present
+within the assembly, and a set of 35,556 unique transcripts (uni-
+genes) was used for expression abundance estimations using
+TopHat (20) and Cufflinks (21).
+DNA sequences described here are deposited in GenBankTM
+with the following accession numbers: VoTPS1,2 JX494699;
+VoTPS2, JX494700; VoTPS3, JX494701; VoTPS4, JX494702;
+VoTPS5, JX494703; VoTPS6, JX494704; VoTPS7, JX494705.
+RT-PCR—Total RNA was isolated from Valeriana tissues
+using the RNeasy Plant Mini kit (Qiagen). First-strand cDNA
+was synthesized from 1 g of total RNA using superscript II
+reverse transcriptase (Invitrogen) under conditions recom-
+mended by the manufacturer and used as a template for RT-
+PCR. To perform the PCR, the 50-l reaction mixture con-
+tained 1.0l of the first-strand cDNA, 200M dNTPs, 1 unit of
+Ex Taq polymerase (TaKaRa), and 10 pmol of each specific
+primer sets. Primer pairs are given in supplemental Table S1.
+Forward and reverse primers included restriction sites for Bam-
+HII and NotI, respectively. These restriction sites were subse-
+quently used to introduce the amplicons into the pET 28a
+expression vector (Novagen). The PCR protocol used was an
+initial denaturation at 98 °C for 3 min, then a cycling regime of
+20–30 cycles at 98 °C for 10 s, 55 °C for 30 s, and 72 °C for 1min.
+After completion of the PCR, aliquots of the reactions were
+examined by agarose gel electrophoresis.
+Bacterial Expression/Enzyme Assays—The various RT-PCR
+amplification productswere ligated into the pET28a vector and
+transformed to Escherichia coli BL21 (DE). Cultures initiated
+from single colonies were cultured at 37 °C until an optical den-
+sity of 0.7, then 0.5mM isopropyl 1-thio--D-galactopyranoside
+was added, and the cultures were incubated for an additional
+10 h at room temperature with shaking. Cells were then col-
+lected by centrifugation at 4,000 g for 10min, resuspended in
+lysis buffer of 50 mM NaH2PO4, pH 7.8, 300 mM NaCl, 10 mM
+imidazole, 1 mM MgCl2, 1 mM PMSF, 1% glycerol (v/v), and
+sonicated 5 times for 20 s, and the cleared supernatants
+(16,000 g for 10min at 4 °C)were stored at80 °C before use.
+Enzyme assays were initiated by mixing aliquots of the
+cleared supernatants with 250 mM Tris-HCl, pH 7.0, 50 mM
+2 Theabbreviationsusedare: VoTPS,V. officinalis terpene synthase (TPS); GPP,
+geranyl diphosphate; HPS, Hyoscyamus muticus premnaspirodiene syn-
+thase: HSQC, heteronuclear single quantum correlation; HMBC, heteronu-
+clear multiple bond coherence; FPP, farnesyl diphosphate; gCOSY, gradi-
+ent COSY.
+SesquiterpeneMetabolism of Valeriana officinalis
+FEBRUARY 1, 2013•VOLUME 288•NUMBER 5 JOURNAL OF BIOLOGICAL CHEMISTRY 3165
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+MgCl2, and 30 M geranyl diphosphate (0.5 Ci of [1-3H]GPP
+(20 Ci mmol1, American Radiolabeled Chemicals) or 30 M
+farnesyl diphosphate (0.5 Ci of [1-3H]FPP ( 20 Ci mmol1,
+American Radiolabeled Chemicals) in a total reaction volume
+of 50 l. Reactions were incubated at room temperature for 15
+min and extracted with 150 l of hexanes, unreacted prenyl
+diphosphates and prenyl alcohols were removed with silica gel,
+and incorporation of radioactivity was measured by scintilla-
+tion counting.
+For GC-MS profiling of the enzyme reaction products, 50 l
+of cleared supernatant (0.8–1.0 g protein/l) was incubated
+in 250mMTris-HCl, pH7.0, 50mMMgCl2with 10g of FPP for
+2 h at room temperature, and the reaction mixture was then
+extracted twice with an equal volume of hexanes, concentrated
+10-fold under nitrogen gas, and analyzed by GC-MS. GC con-
+ditions consisted of a Varian CP-3800 GC couple to a Varian
+Saturn 2200MS/MS using a Supelco SLB-5ms fused silica cap-
+illary column (30 m  0.25 mm  0.25 m film thickness).
+Initial oven temperature was set at 70 °C for 1 min followed by
+an 8 °C/min gradient to 200 °C, then 20 °C/min to 300 °C.
+For enzyme kinetic studies, bacterial expressed enzymes
+were purified by their carboxyl-terminal hexahistidine tags
+using His-Select Cobalt affinity gel (Sigma) columns following
+the manufacturer’s recommendations. The purified protein
+fractions were concentrated usingAmiconUltra centrifugation
+filter units and stored in 300mMNaCl, 20mMTris-HCl, pH 7.5,
+5 mM dithiothreitol, 2 mMMgCl2, 50% glycerol (v/v) at80 °C.
+Protein concentrations were estimated by the Bradford assay
+(Bio-Rad) using bovine serum albumin as the standard.
+NMR Studies—For yeast expression vector construction, the
+VoTPS1 and VoTPS7 genes were inserted into a pESC plasmid
+(Agilent Technologies) behind the constitutive GPD promoter.
+Yeast strain ZX178–08 was used for all the expression studies
+reported here. This strain was selected for its ability to meet its
+sterol needs by taking up exogenous sterols under aerobic con-
+ditions and further engineered to have a dispensable meval-
+onate biosynthetic pathway that can be redirected to sesquiter-
+pene biosynthesis.3 40-ml seed train cultures of yeast harboring
+pESC-VoTPS1 or pESC-VoTPS7 were grown in SCE liquid
+medium (22) lacking leucine for 4 days then inoculated at 3%
+v/v of the seed train cultures into multiple 1-liter cultures and
+grown at 28 °C. When sesquiterpene production became satu-
+rated, approximately after 6 days, the fermentation broth was
+first incubated with an equal volume of acetone with shaking
+for 12 h at 28 °C then extracted with an equal volume of
+hexanes, and the hexanes extract were dried under nitrogen to
+a volume of200 ml. The extract was then passed over a silica
+gel G60 column (20  160 mm), and the flow-through was
+collected. The flow-through of VoTPS1 afforded 6 mg of puri-
+fied 2, whereas VoTPS7 required additional purification via an
+HPLC separation system (Develosil Packed Column, 20 250
+mm, Nomura Chemical Co., Ltd.). Preparative scale separation
+of sesquiterpenes was conducted on a Waters Alliance 2695
+system with an attached photodiode array in an isocratic mix-
+ture of 1:4000 methyl tert-butyl ether:hexanes.
+For the isolation of sesquiterpenes from plant material,
+V. officinalis roots (78.85 g) were frozen and powdered in liquid
+nitrogen. The powdered material was distributed among eight
+50-ml centrifuge tubes, and each sample wasmixed thoroughly
+with 30 ml of n-hexane. The samples were then sonicated at
+room temperature for 30 min followed by centrifugation at
+4000 rpm for 10 min, and the supernatants were collected and
+combined. The sonication extraction was repeated, and the
+combined supernatant was concentrated to 1ml by a combina-
+tion of rotoevaporation at 35 °C and drying under nitrogen gas.
+The sesquiterpenes were separated by silica chromatography
+(200–300 mesh, 21- 1.5-cm inner diameter) using n-hexane
+as the solvent. Fractions of 3–4mlwere collected and evaluated
+by TLC and GC-MS. Compound 2, valerena-1,10-diene, was
+characterized from fractions 9–11, whereas compound 1, ger-
+macrene C, from fractions 21–23 was used for identification.
+NMR spectra were measured either on a Bruker 500MHz or
+Varian Vnmr 500 (1H, 500 MHz; 13C, 125MHz) spectrometer
+using hexane-d14 and CDCl3 as solvent.
+Labeling Studies—To prepare 13C-labeled valerena-1,10-
+diene, six cultures of 0.5 liters of SCE-Leu liquid media were
+inoculated with seed train cultures as before and grown for 4
+days. On the fourth day, 3.0 g of [1-13C]sodium acetate (Sigma)
+was added, and incubation was continued for an additional
+48 h. The cultures were then harvested and extracted with ace-
+tone and hexane, and the hexane phase was fractionated over
+silica gel to isolate 6.5 mg of labeled 2. The labeled sample and
+6.5 mg of unlabeled 2 were analyzed by 13C NMR under iden-
+tical experimental conditions (standard s2pul pulse sequence
+with 340 scans and the delay and pulse width set to the manu-
+facturer’s default values). Enrichment values were determined
+by comparing the ratios of the peak heights between the two
+samples, then multiplying by 1.1% to give the percent enrich-
+ment relative to that occurring from the natural abundance of
+13C (23, 24). For C-10 and C-11, which demonstrated Jc-c cou-
+pling in the labeled sample, the peak intensity at c 126.391 ppm
+and c 129.986 (for C-10 and C-11, respectively) were com-
+pared with the identical peak intensities corresponding to C-10
+and C-11 in the unlabeled sample (see supplemental Fig. S8).
+RESULTS
+Computational andMolecular Screens for Terpene Synthases—
+To identify metabolic intermediates and the genes/enzymes
+that are required for their synthesis, it is useful to evaluate the
+site(s) of synthesis, which may be distinct from the site of accu-
+mulation.When considering the location of sesquiterpene bio-
+synthesis versus accumulation of V. officinalis, we first sought
+to determine if the valerenadiene scaffold might accumulate in
+root tissue, thus suggesting that its site of synthesis might also
+be in this tissue. To do this, we searched the Medicinal Plant
+Metabolomics Resource, which contains metabolomics data
+and metadata, analysis, and visualization for 14 medicinal spe-
+cies including V. officinalis. The site provides a variety of link-
+ages and methods for statistical analysis, visualization, and
+comparison amongmetabolite data, chemical information, and
+metadata. When the LC-TOF MS profile for eight different
+tissue types of V. officinalis, including leaves, flowers, develop-
+ing and mature leaves, roots and callus cultures were screened3 X. Zhuang and J. Chappell, unpublished data
+SesquiterpeneMetabolism of Valeriana officinalis
+3166 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 288•NUMBER 5•FEBRUARY 1, 2013
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+for metabolites that yielded ions in the narrow range of m/z
+203.1 to 203.2 (corresponding to a fragment ion of elemental
+formula C15H23, derived from a downstream oxidized
+metabolite of valerenadiene), several metabolites meeting this
+criterion were found exclusively in the root samples, including
+one corresponding to an acetylated sesquiterpenoid diol that
+yielded multiple fragment ions supportive of this annotation
+(supplemental Fig. S1).
+This was suggestive that the terpene synthase(s) responsible
+for the biosynthesis of the valerenadiene scaffold could in fact
+be localized to the root tissue. To evaluate this possibility, we
+next queried the V. officinalis de novo assembly transcriptome
+for type I sesquiterpene synthases using the well characterized
+premnaspirodiene synthase from Hyoscyamus muticus (HPS)
+(25) as the search query. Seven distinct contigs with sequence
+identity and similarity to HPS in excess of 29 and 46%, respec-
+tively, and appearing to represent full-length mRNAs encoding
+for proteins with greater than 490 amino acids were recovered
+(supplemental Fig. S2). These sequences were designated as
+VoTPS1 through -7. When the conceptual translations of each
+were aligned together with the HPS protein, several regions
+diagnostic for class I or clade “a” terpene synthases, TPS-a, like
+the DDXXD domain associated with the binding of a divalent
+cation co-factor (26, 27), were readily apparent (supplemental
+Fig. S2). In addition, VoTPS3 contained an extended amino-
+terminal sequence suggestive that this synthase might be tar-
+geted to the chloroplast compartment, consistent with a pre-
+diction score of 0.581 for the amino-terminal 88 amino acids
+serving as a chloroplast signal sequence peptide by the ChloroP
+1.1 algorithm. Also important to note, due to the algorithm
+used in assembling the DNA sequence reads into contigs
+from RNA samples pooled from several reference plant tis-
+sue types, a second TPS, VoTPS4, nearly identical to VoTPS3
+was identified. VoTPS4 is predicted to initiate translation at
+a second methionine 46 codons 3 to the initiating methio-
+nine predicted for VoTPS3. Given the absolute sequence
+identity of these genes, we suspect these TPSs to be one and
+the same and henceforth designate the combined contig as
+VoTPS3/4.
+If valerenadiene biosynthesis occurs in the roots of V. offici-
+nalis, then one would expect the mRNA encoding for the puta-
+tive valerenadiene synthase to be represented, perhaps exclu-
+sively, in root tissue. The VoTPSs mRNA levels were thus
+examined in two ways. First, because of the quantitative nature
+of the RNA-seq methodology used to generate the tissue-spe-
+cific transcriptomes, the relative abundance of each VoTPS
+transcripts can be quantified in each of the tissue types as the
+number of sequenced fragments mapping to a contig per kilo-
+base of sequence per million reads (FRPM) (21) (Fig. 2).
+VoTPS3, its likely truncated form VoTPS4, and VoTPS6 all
+appear to be constitutively expressed across the various tissue
+types with VoTPS 3 expression being 10–20-fold greater than
+VoTPS6. In contrast, VoTPS1, -2, -5, and -7 exhibited expres-
+sion patterns more specific to root tissue with the expression
+levels of VoTPS2 and -5 being3–10-fold lower, respectively,
+than for VoTPS1 and -7.
+The quantitative RNA-seq transcript compilation was also
+validated by a more traditional quantitative RT-PCR assay as
+FIGURE 2. Expression profiles of VoTPS1 through 7 in the major tissue types of V. officinalis. In the upper table, the measure of terpene synthase gene
+expression is basedon thenumberof sequenced fragments found for aparticular contigper kilobaseof sequencepermillion reads (FRPM) (21) (VoTPS1, contig
+16506; VoTPS2, contig75367; VoTPS3, contig5803; VoTPS5, contig13291; VoTPS6, contig24,652; VoTPS7, contig31,253).Orangehighlighting indicatesVoTPSs
+exhibiting constitutive expression, and green indicates VoTPSs showing preferential expression in root tissues. Color intensity is proportional to expression
+level. Independent biological replicates for tissue types are indicated as sample 1 or 2. In the lower panel, RNA was extracted from young leaves (YL), mature
+leaves (L), stems (S), and roots (R), converted to first strand cDNA, then utilized as the template for PCR reactions specific for each of the VoTPS genes (V1-V7)
+within the linear amplification range for each amplicon. PCR reactions with primers specific for actin mRNA were performed to judge the qualitative and
+quantitative quality of the RNA templates used.
+SesquiterpeneMetabolism of Valeriana officinalis
+FEBRUARY 1, 2013•VOLUME 288•NUMBER 5 JOURNAL OF BIOLOGICAL CHEMISTRY 3167
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+well (Fig. 2). In these analyses, RNAwas isolated for the various
+tissue types, converted to first strand cDNA, and then used as a
+template with specific PCR primer pairs for each VoTPS tran-
+script under PCR conditions determined to be within a linear
+amplification range for all the amplicons (i.e. 20–26 cycles).
+Although the levels of VPS1–4 transcripts were consistent with
+the quantitative RNA-seq comparisons, transcript amounts for
+VoTPS5 and -7 were much more evident in stem and mature
+leaf tissue and directly comparable with those observed in
+roots.
+Functional Characterization of VoTPS1 and VoTPS7—Al-
+though sequence alignments are generally sufficient to classify
+theVoTPS genes as terpene synthases, direct biochemical char-
+acterization is necessary to determine if these genes code for
+monoterpene or sesquiterpene synthases and certainly to
+ascribe a particular biochemical reaction to these enzymes.
+Thus, we first prepared cell-free extracts fromE. coli expressing
+each of the VoTPS cDNAs and used these extracts for monot-
+erpene and sesquiterpene synthase enzyme assays. In these
+assays the E. coli extracts were incubated with radiolabeled
+allylic diphosphate substrates, [1-3H]GPP or [1-3H]FPP, and
+the conversion of these substrates to hexane extractable prod-
+ucts was determined (Fig. 3). The activities of these putative
+terpene synthases were examined relative to a negative (an
+extract prepared from E. coli harboring the expression plasmid
+without an insertedTPS gene) andpositive (an extract prepared
+from E. coli expressing the previously characterized sesquiter-
+penes synthase gene encoding for HPS (25)) control. As evident
+in Fig. 3, very littlemonoterpene synthase activity was recorded
+for the negative control, but the HPS-positive control did yield
+somemonoterpene product. This has been observed previously
+and attributed to the sesquiterpene synthases having larger
+activity site pockets that can accommodate smaller substrates.
+VoTPS1, -5, and -7 appear to have similar low level activities
+withGPP, whereas VoTPS3 and -4were clearly capable of turn-
+ing over significant amounts ofGPP to hydrophobic extractable
+products. This information suggested that VoTPS3 and -4,
+although different by only 32 amino acids at the amino termi-
+nus of VoTPS3, might in fact be monoterpene synthases. In
+contrast, relative to the HPS positive control, VoTPS 1, 5, and 7
+all exhibited very substantial sesquiterpene synthase activities
+with typical kinetic properties (supplemental Fig. S3).
+When the reaction products of these in vitro assays were
+profiled by GC-MS, three distinct compounds were observed
+for theVoTPS1 reaction, andonemajor compoundwith several
+possible minor, closely migrating compounds was observed for
+the VoTPS7-mediated reaction (Fig. 4 and supplemental Fig.
+S4). The reaction products of both these enzymes were also
+found in commonwith constituents found in extracts prepared
+from roots (Fig. 4D) but not from leaves or stems (Fig. 4, A–C).
+Although the mass spectra for each of the TPS reaction com-
+pounds exhibited signature ion patterns consistent with ses-
+quiterpenes (supplemental Fig. S4), theseMS patterns were not
+sufficient to determine the absolute compound identities.
+Hence, we overexpressed the VoTPS1 and -7 genes in a yeast
+line developed for high level accumulation of FPP and sesquit-
+erpene biosynthesis to obtain sufficient amounts of the respec-
+tive compounds for NMR analysis (supplemental Fig. S5).
+FIGURE 3. Substrate specificity of six VoTPSs. Cell-free extracts prepared
+from E. coli cells overexpressing the indicated terpene synthase genes were
+incubatedwith30M [3H]GPP (A) or [3H]FPP (B) for 15minbeforedetermining
+the amount of radiolabel incorporated into the hexanes extractable reaction
+products. pET corresponds to bacteria harboring a vector only negative con-
+trol; HPS, bacteria expressing the Hyoscyamus premnaspirodiene synthase
+gene (25) as a positive sesquiterpene synthase control.
+FIGURE4.Comparisonofhexane-extractablehydrocarbons thataccumu-
+late in various plant tissues to the reaction products generated by
+VoTPS1 and -7. GC traces of the terpenes extracted from V. officinalis young
+leaves (A), mature leaves (B), stems (C), and roots (D) in comparison to the
+extractable reaction products generated by VoTPS1 (E) and VoTPS7 (F) are
+shown. TheVoTPS1 and7geneswere expressed inbacteria, and thebacterial
+lysates were then incubated with FPP before profiling the reaction products
+by GC-MS. The chromatograms are annotated for the elution behavior of
+germacrene C (1), valerena-1,10-diene (2), and an unknown sesquiterpene
+compound (3).
+SesquiterpeneMetabolism of Valeriana officinalis
+3168 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 288•NUMBER 5•FEBRUARY 1, 2013
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+Structural Elucidation of Sesquiterpene Products from
+VoTPS1 and VoTPS7—Six-liter fermentations of recombinant
+yeast overexpressing the respective TPS genes were lysed in
+acetone, and then the hydrocarbon fractionwas extracted three
+timeswith hexanes to isolate terpene components. The extracts
+were fractionated via silica gel chromatography to afford 20mg
+of the sesquiterpene products produced by VoTPS7. Four ses-
+quiterpenes were identified in the mixture based on GC-MS
+analyses, whereas the dominant peak constituted 90% of the
+total mixture, the second peak was 7%, and the third and fourth
+compoundswere less than 3%. The twomajor compoundswere
+further purified via HPLC to afford 12 and 1 mg, respectively.
+The identity of the VoTPS7 products as germacrenes was
+supported by their degradation to elemenes via a characteristic
+Cope rearrangement in the GC-MS at high temperatures (28,
+29). One of theminor compoundswas identified as germacrene
+A based on identical retention time and mass spectral charac-
+teristics to a germacrene A standard provided by Robert M.
+Coates (University of Illinois) (30). Compound 1 isolated from
+root material was identified as germacrene C based on a com-
+bination of 1H,13C, 1H,1H gCOSY, 13C,1H HSQC, and 13C,1H
+HMBC spectral analyses (Fig. 5, Table 1). 1H NMR analyses
+revealed three olefinic protons, (H 4.96, 5.26, 6.28), two singlet
+olefinic methyl groups (H 1.20 and 1.61), and two geminal
+couplingmethyl groups (H 1.12 and 1.14). 1H,1H gCOSY anal-
+ysis revealed four spin systems stretching fromH-1 to H-2, H-4
+to H-6, H-8 to H-9, H-11 to CH3-12 and CH3-13. 13C and
+13C,1H HMBC correlations established the E-configuration of
+double bonds between C-2 and C-3 and between C-1 and C-10
+(Fig. 5). Altogether, compound 1 isolate from plant tissue was
+identified as germacrene C, whichwas identical to compound 1
+produced by yeast overexpressing the VoTPS7 gene based on
+GC retention time and the MS fragmentation pattern (supple-
+mental Fig. S4). Minor amounts of germacrene A and lesser
+amounts of two other putative germacrenes, B and D, are also
+based on GC-MS assessments (30).
+Compound 2was produced by overexpression of VoTPS1 in
+a 6-liter yeast fermentation then extracted with acetone and
+hexane. Silica gel fractionation of the hexane extract afforded 6
+mg of pure compound 2. Compound 2 was subjected to one-
+and two-dimensional NMR spectroscopic analyses, including
+1H,1H gCOSY, 13C,1HHSQC, and 13C,1HHMBC analyses (Fig.
+5, Table 1). A single olefinic proton (H 5.46, d, J  9 Hz) and
+three olefinic methyl singlets were evident from the 1H-NMR
+spectrum (H 1.62, 1.66, 1.68). An additional aliphatic methyl
+group was found at H 0.75 (H 0.75, d, J  7). The 1H,1H
+gCOSY revealed two spin systems, one stretching fromH-15 to
+H-10 and another from H-6-to H-8. This indicated the possi-
+bility of a bicyclic terpenoid skeleton. The 13C NMR revealed
+three quarternary olefinic (C 128.6, 129.9, 136.2) and one
+methine olefinic carbon (C 126.4).
+The 13C,1HHMBCspectrum illuminated the unusual carbon
+skeleton of compound 2. Correlations between the methyl
+groups at C-12 and C-13 and the H-10 olefinic proton revealed
+an unusual isobutenyl constellation attached at C-2. The posi-
+tion of the other olefinic methyl at 9-C could be established by
+a weak HMBC correlations between H-2 and C-9 and between
+the H-14 methyl protons and C-1 and C-9. Correlations
+between the H-15methyl protons and C-4, C-5, and C-6 estab-
+lished the connectivity of themethyl group at C-5 (Fig. 5). Alto-
+gether, the one- and two-dimensional NMRdata elucidated the
+structure of 2 as being valerena-1,10-diene. This assignment
+was further verified by comparison to published spectral data of
+valerena-1,10-diene fromPaul et al. (11). Additionally, the one-
+and two-dimensionalNMRdata obtained for compound 2 (val-
+erena-1,10-diene) isolated from V. officinalis root tissue, the
+VoTPS1 yeast-produced compound, and that prepared syn-
+thetically by Kitayama et al. (31) were identical, as were the GC
+FIGURE5.Selected1H,1HgCOSYand13C,1HHMBCcorrelations forgerma-
+crene C (1) and valerena-1,10-diene (2).
+TABLE 1
+1H and 13C NMR assignments of germacrene C (1) and valerena-1,10-
+diene (2)
+Compound 1was purified from root tissue, whereas compound 2was purified from
+yeast cultures overexpressing the VoTPS1 gene.
+Position
+Germacrene C (1)a Valerena 1,10 diene (2)b
+C
+(125 MHz)
+H
+(500 MHz)
+C
+(125 MHz)
+H
+(500 MHz)
+1 123.6 6.28 (d, J 9.2; 1H) 136.2
+2 131.5 5.26 (d, J 9.3; 1H) 33.8 3.39 (dd, J 9.7;
+5.4; 1H)
+3a 127.9 24.8 1.50 1.60 (m,
+overlap, 1H)
+3b 1.70 1.86 (m,
+overlap, 1H)
+4a 41.4 2.22 (dt, J 12.1,
+3.3; 1H)
+28.9 1.30 1.40 (m,
+overlap, 1H)
+4b 1.78 (td, J 12.3,
+5.2; 1H)
+1.70 1.80 (m,
+overlap, 1H)
+5a 29.1 2.14 2.18 (m,
+overlap, 1H)
+33.8 1.93 (m, 1H)
+5b 2.05 (ddd, J 24.3,
+12.4, 3.9; 1H)
+6 126.6 4.96 (br dd, J
+11.4, 4.6; 1H)
+47.6 2.91 (br s, 1H)
+7a 142.3 26.8 1.30 1.40 (m,
+overlap, 1H)
+7b 1.30 1.40 (m,
+overlap, 1H)
+8a 41.6 2.55 2.62 (m, 1H) 37.7 2.16 2.25 (m,
+overlap, 1H)
+8b 1.95 (td, J 12.8,
+4.8; 1H)
+2.16 2.25 (m,
+overlap, 1H)
+9a 33.2 2.38 2.50 (m,
+overlap, 1H)
+128.6
+9b 2.12 2.13 (m,
+overlap, 1H)
+10 145.3 126.4 5.46 (dd, J 9.2;
+1H)
+11 38.4 2.38 2.50 (m,
+overlap, 1H)
+129.9
+12 23.6 1.14 (d, J 3.5; 3H) 26.3 1.68 (s, 3H)
+13 23.3 1.12 (d, J 3.6; 3H) 17.9 1.66 (s, 3H)
+14 17.8 1.61 (s, 3H) 13.6 1.62 (s, 3H)
+15 21.8 1.20 (s, 3H) 12.3 0.75 (d, J 7; 3H)
+a Recorded on Bruker 500 MHz spectrometer in hexane d14, J in Hz.
+b Recorded on a Varian J NMR 500 MHz spectrometer in CDCl3, J in Hz.
+SesquiterpeneMetabolism of Valeriana officinalis
+FEBRUARY 1, 2013•VOLUME 288•NUMBER 5 JOURNAL OF BIOLOGICAL CHEMISTRY 3169
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+retention time and MS fragmentation pattern (supplemental
+Figs. S4 and S6).
+Elucidating a Catalytic Mechanism for Valerenadiene
+Synthase—The biogenic origin of valerenadiene and other
+related sesquiterpenes has remained enigmatic due to the con-
+ceptual difficulties in chemically rationalizing the generation of
+an isobutenyl side chain at C-2 of 2. The isobutenyl side chain
+could be hypothesized to simply stem from the unreacted “tail”
+end of FPP, but this view is complicated by the formation of the
+atypical 5,6-bicyclic ring system. Connolly et al. (10) addressed
+this mechanistic uncertainty in part by suggesting the possible
+involvement of a caryophyllene intermediate, and Paul et al.
+(11) proposed the possible involvement of a cyclopropyl inter-
+mediate. We have expanded on these possibilities by envision-
+ing the formation of the isobutenyl side chain as arising from a
+ring opening of a caryophyllenyl carbocation intermediate fol-
+lowed by internal ring formation and migration of the isobute-
+nyl substituent via either 1) a 1,2 isobutenyl migration or 2)
+through a cyclopropyl intermediate (Fig. 6).
+To test this model, we have taken advantage of the yeast
+heterologous expression system, noting that [1-13C]acetate
+would be preferentially incorporated into six positions of FPP
+as a result of the mevalonate biosynthetic pathway operating in
+yeast. It is well characterized that [1-13C]acetate can feed into
+the mevalonate pathway and become incorporated at positions
+1 and 3 of the intermediate isopentenyl diphosphate (32). By
+following this biosynthetic logic, we envisage that feeding
+[1-13C]acetate to VoTPS1-expressing yeast would result in the
+predicted incorporation of 13C into the FPP substrate and the
+subsequent labeling of 2 at carbons 3, 5, 7, 9, 10, and 11 (Fig. 6).
+A 3-liter fermentation of yeast overexpressing VoTPS1 was
+grown in six 2-liter shake flasks to rapid growth phase before
+500 mg of [1-13C]acetate was added to each flask. The yeast
+were grown for an additional 48 h, and the labeled valerena-
+1,10-diene hydrocarbon was purified from the culture. 6.5 mg
+of labeled 2 was isolated, and the measurement of its 13C NMR
+spectrumwas compared with 6.5 mg of unlabeled 2 run under an
+identical set of spectroscopic conditions. Because control yeast
+(yeast that donot harbor any of theVoTPSgenes) donot accumu-
+late any sesquiterpenes (supplemental Fig. S5), parallel labeling
+and purification efforts with control yeast were not performed.
+The 13C-labeled sample demonstrated enrichments of 3.2 to
+8.0% for six carbons at positions C-3, C-5, C-7, C-9, C-10, and
+C-11 without any enrichment at other carbons as compared
+FIGURE 6. Proposed reaction mechanisms for the biosynthesis of valerena-1,10-diene catalyzed by VoTPS1 and the predicted labeling pattern that
+would arise from [1-13C]acetate being utilized by yeast overexpressing the VoTPS1 gene (blue spheres).
+SesquiterpeneMetabolism of Valeriana officinalis
+3170 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 288•NUMBER 5•FEBRUARY 1, 2013
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+with the unlabeled control (Table 2). Most notably, the C-10-
+and C-11-labeled carbons evinced an additional J 35 Hz cou-
+pling due to the 13C enrichment (supplemental Fig. S8). This
+suggests that the C-2 isobutenyl moiety of 2 does not arise
+“intact” from FPP but rather from some sort of caryophyllene
+rearrangement as proposed. This observation agrees with the
+predicted enrichment patterns envisaged in the hypothetical
+pathway.
+The apparent differential enrichment of 2.5-fold is not
+uncommon in such labeling experiments (33), and the same
+enrichment pattern (C-3, -5, and -7 showing greater enrich-
+ment than C-9, -10, and -11) was observed in an independent,
+replicated experiment. Although it is difficult to envision a bio-
+chemical mechanism to account for the differential incorpora-
+tion of 13C at these positions from 1-13C acetate, a possible
+explanation relates to the physical environment of these labeled
+carbons themselves. C-3, -5, and -7 are hybridized to neighboring
+atoms via sp3 orbitals, whereas C-9, -10, and -11 are associated
+with sp2 orbitals. It is also not difficult to envision that the relax-
+ation rates of these carbons in the different bond configurations
+could also be affected, and hence the relative intensity of their
+NMR signals could be dampened or enhanced accordingly.
+DISCUSSION
+Although the work presented here was initiated in large part
+to unravel the catalytic mechanism for valerenadiene, progress
+was greatly facilitated by the availability of transcriptomic and
+metabolomics datasets from the Medicinal Plant Consortium
+efforts (Medicinal Plant Metabolomic Resource, Medicinal
+Plant Genomics Resource). These resources allowed us to
+determine that at least one sesquiterpene hydrocarbon accu-
+mulated exclusively in root tissue, thus implicating roots as a
+primary site for sesquiterpene biosynthesis, a notion consistent
+with previous reports of diverse sesquiterpenoids found in
+association with roots of Valeriana and related plant species
+(11, 34, 35). Independent analysis of the hydrocarbon profile of
+leaves, stems, and roots (Fig. 4) confirmed and extended these
+observations. Three major sesquiterpenes hydrocarbons,
+including germacrene C and valerenadiene, and at least five
+minor sesquiterpene hydrocarbons accumulate specifically in
+root tissue. Screening of the V. officinalis transcriptome,
+assembled by combining the RNA-seq data generated from
+individual tissue types, revealed seven terpene synthase-like
+contigs that were all confirmed by independent RT-PCR exper-
+imentation. The contig pair VoTPS3/4 appears to represent a
+single gene highly expressed in all tissue types examined that
+encodes for a monoterpene synthase-like enzyme targeted to
+the chloroplast compartment. A second gene, VoTPS6, also
+exhibited a more constitutive expression profile based on the
+detection of sequence reads within the individual tissue-spe-
+cific transcriptomes, albeit 10–20-fold lower than that for
+TPS3/4. Unfortunately, we were unable to functionally charac-
+terize the VoTPS6 enzyme because the heterologous expres-
+sion conditions have yet to yield catalytically competent protein
+capable of utilizing GPP or FPP as a substrate. In contrast,
+VoTPS5 mRNA is present in all tissue types examined except
+young leaf and appears to encode for a sesquiterpene synthase
+activity based on a 5-fold greater activity with saturating
+amounts of FPP rather than GPP as substrate.
+VoTPS1, -2, and -7 were of particular interest because the
+expression profiles of these mRNAs were 18–40-fold more
+specific to root tissue, the putative site of valerenadiene and
+valerenic acid biosynthesis, than to any other tissue. We have
+not been able to functional characterize the VoTPS2 enzyme
+activity because of insufficient expression of the corresponding
+cDNA in bacteria or yeast. In contrast, VoTPS7 was function-
+ally characterized as a germacrene C synthase, which may be
+important for the biosynthesis and accumulation of valeranone
+(Fig. 1). Confirmation of such a suggestion, however, must
+await additional efforts tomeasure valeranone levels in roots of
+plants overexpressing or suppressing VoTPS7 gene expression.
+Most importantly, we identified VoTPS1 as encoding for a
+functional valerana-1,10-diene synthase, as has Pyle et al. (13),
+which provided us with a means for probing the mechanistic
+features of this enigmatic reaction. The conversion of FPP to
+valerianadiene was recognized much earlier by Connolly et al.
+(10) and Paul et al. (11) as not likely occurring by mechanisms
+typically employed in the biosynthesis of many of the other
+classes of sesquiterpenes.More specifically, there is not an obvi-
+ous mechanism for how the FPP molecule might be cyclized to
+yield the isobutenyl side chain. The precedence for bond for-
+mation between C10 or C11 (see FPP (4) numbering system,
+Fig. 6), which share a double bond, and the carbocation gener-
+ated at C1 upon ionization of the diphosphate substituent
+group is well established (36). However, formation of a bond
+between the carbocation at C1 and C9 to yield an isobutenyl
+side chain has not been observed and is difficult, if not impos-
+sible, to envision chemically because C9 does not have a Pi
+orbital nor an electron available for formation of a new carbon-
+carbon bond. As an alternative, Pyle et al. (13) suggested that
+valerenadienemight arise from amacrocyclic germacene inter-
+mediate via a ring contraction mechanism. In this mechanism
+the initial germacrenyl ring arises when a bond between C10
+and the carbocation at C1 forms, shifting the carbocation to the
+tertiary carbon of the isopropyl side chain. A 1,3 hydride shift to
+TABLE 2
+13C NMR chemical shifts and relative percent enrichment of [1-13C]ac-
+etate incorporated into valerena 1,10 diene (2)
+Enrichment calculations were determined by comparing peak heights of unlabeled
+authentic 2with [1-13C]acetate incorporated into 2 run under identical spectromet-
+ric conditions. The ratio of labeled peak height to unlabeled peak height at each C
+was multiplied by 1.1 to express the relative percent enrichment above the natural
+abundance of 13C at that position according to Hirai et al. (23) and Takahashi and
+Tomita (24).
+Position
+Valerena-1,10-diene (2)
+C
+(125 MHz)
+Relative %
+enrichment
+1 136.2 1.2
+2 33.8 1.0
+3 24.8 8.0
+4 28.9 1.6
+5 33.8 7.0
+6 47.6 1.3
+7 26.8 8.0
+8 37.7 1.3
+9 128.6 4.4
+10 126.4 4.7
+11 129.9 3.2
+12 26.3 1.0
+13 17.9 1.0
+14 13.6 1.4
+15 12.3 1.2
+SesquiterpeneMetabolism of Valeriana officinalis
+FEBRUARY 1, 2013•VOLUME 288•NUMBER 5 JOURNAL OF BIOLOGICAL CHEMISTRY 3171
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+reposition the carbocation to C1 could then allow for a meth-
+ylenemigration of the bond between C9 and C10 to yield a new
+C9-C1 bond and formation of the isobutenyl side chain
+appended fromC1. Besides considerable physical and energetic
+difficulties (i.e. hydride shift from the tertiary to secondary car-
+bon), this mechanism is unlikely based on the [13C]acetate
+labeling experiments presented here. If the macrocyclic rear-
+rangement occurred as proposed by Pyle et al. (13), C1 in the
+six-membered ring and the carbon bound to themethyl groups
+of the isobutenyl side chain should be enriched for 13C.
+Although the carbon bound to the methyl substituents was
+labeled, no label was incorporated into what would be C1
+according the germacrene rearrangement model. Instead, the
+first and second carbons of the isobutenyl side chain were
+equally enriched with the 13C label. Based on the suggestion of
+Connolly et al. (10) for a possible involvement of a caryophyl-
+lene intermediate, a mechanism consistent with the observed
+labeling pattern has been developed (Fig. 6). In this mechanism
+C1 forms a bond with C11 of the originating FPP molecule in
+the formation of a caryophyllenyl carbocation followed by
+opening of the cyclobutyl ring to yield the desired isobutenyl
+side chain. Important to note, the twomethylene carbons of the
+isobutenyl side are predicted to arise from C1 and C11 of the
+originating FPP and hence should become labeled when
+[1-13C]acetate is incorporated into FPP by the mevalonate bio-
+synthetic pathway operating in yeast (32). This labeling pattern
+is indeed observed and consistentwith the proposed caryophyl-
+lene reaction mechanism for valerena-1,10-diene synthase.
+The proposed caryophyllenyl mechanism is also sufficient to
+account for the biosynthesis of pacifigorgiane sesquiterpenes
+(D) in sponges and tarmariscene sesquiterpenes (8) in liver-
+worts (Fig. 6). The only difference is which carbons, C10 versus
+C2, participate in the formation of the fused, 5- and 6-membered
+ring system and the development of the cyclopropyl ring between
+carbons 1, 2, and 10 on theway to tamariscene formation. Confir-
+mation of these predictions awaits the isolation and functional
+characterization of the corresponding liverwort and sponge ter-
+pene synthases, which should also provide new mechanistic
+insights into the evolution of these unique biochemical processes
+in very diverse and evolutionarily distant organisms.
+REFERENCES
+1. Bent, S., Padula, A., Moore, D., Patterson, M., and Mehling, W. (2006)
+Valerian for sleep. A systematic review and meta-analysis. Am. J. Med.
+119, 1005–1012
+2. Murphy, K., Kubin, Z. J., Shepherd, J. N., and Ettinger, R. H. (2010) Val-
+eriana officinalis root extracts have potent anxiolytic effects in laboratory
+rats. Phytomedicine 17, 674–678
+3. Weeks, B. S. (2009) Formulations of dietary supplements and herbal ex-
+tracts for relaxation and anxiolytic action. Relarian (tm).Med. Sci. Monit.
+15, RA256–RA262
+4. Houghton, P. (1997) Valerian: The Genus Valeriana, Harwood Academic
+Publishers, Amsterdam, The Netherlands
+5. Lefebvre, T., Foster, B. C., Drouin, C. E., Krantis, A., Livesey, J. F., and
+Jordan, S. A. (2004) In vitro activity of commercial valerian root extracts
+against human cytochrome p450 3a4. J. Pharm. Pharm. Sci. 7, 265–273
+6. Grieve, M. (1974) A Modern Herbal, pp. 824–830, Hafner Press, New
+York
+7. Bos, R., Woerdenbag, H. J., Hendriks, H., Zwaving, J. H., DeSmet,
+P. A. G. M., Tittel, G., Wikstrom, H. V., and Scheffer, J. J. C. (1996) Ana-
+lytical aspects of phytotherapeutic valerian preparations. Phytochem.
+Anal. 7, 143–151
+8. Houghton, P. J. (1999) The scientific basis for the reputed activity of vale-
+rian. J. Pharm. Pharmacol. 51, 505–512
+9. Takemoto, H., Yagura, T., and Ito, M. (2009) Evaluation of volatile com-
+ponents from spikenard. Valerena-4,7(11)-diene is a highly active sedative
+compound. J. Nat. Med. 63, 380–385
+10. Connolly, J. D., Harrison, L. J., and Rycroft, D. S. (1984) The structure of
+tamariscol, a new pacifigorgiane sesquiterpenoid alcohol from the liver-
+wort Frullania tamarisci. Tetrahedron Lett. 25, 1401–1402
+11. Paul, C., König, W. A., and Muhle, H. (2001) Pacifigorgianes and tamar-
+iscene as constituents of Frullania tamarisci and Valeriana officinalis.
+Phytochemistry 57, 307–313
+12. Izac, R. R., Poet, S. E., Fenical, W., Vanengen, D., and Clardy, J. (1982) The
+structure of pacifigorgiol, an ichthyotoxic sesquiterpenoid from the pa-
+cific gorgonian coral Pacifigorgia-cf-adamsii. Tetrahedron Lett. 23,
+3743–3746
+13. Pyle, B. W., Tran, H. T., Pickel, B., Haslam, T. M., Gao, Z., MacNevin, G.,
+Vederas, J. C., Kim, S. U., and Ro, D. K. (2012) Enzymatic synthesis of
+valerena-4,7(11)-diene by a unique sesquiterpene synthase from the vale-
+rian plant (Valeriana officinalis). FEBS J. 279, 3136–3146
+14. Gu, L., Jones, A. D., and Last, R. L. (2010) Broad connections in the Ara-
+bidopsis seed metabolic network revealed by metabolite profiling of an
+amino acid catabolism mutant. Plant J. 61, 579–590
+15. Góngora-Castillo, E., Fedewa, G., Yeo, Y., Chappell, J., DellaPenna, D., and
+Buell, C. (2012) Genomic approaches for interrogating the biochemistry
+of medicinal plant species.Methods Enzymol. 517, 139–159
+16. Altschul, S. F., Madden, T. L., Schäffer, A. A., Zhang, J., Zhang, Z., Miller,
+W., and Lipman, D. J. (1997) Gapped blast and psi-blast. A new generation
+of protein database search programs. Nucleic Acids Res. 25, 3389–3402
+17. Suzek, B. E., Huang, H., McGarvey, P., Mazumder, R., and Wu, C. H.
+(2007) Uniref. Comprehensive and non-redundant uniprot reference
+clusters. Bioinformatics 23, 1282–1288
+18. Punta, M., Coggill, P. C., Eberhardt, R. Y., Mistry, J., Tate, J., Boursnell, C.,
+Pang, N., Forslund, K., Ceric, G., Clements, J., Heger, A., Holm, L., Sonn-
+hammer, E. L., Eddy, S. R., Bateman, A., and Finn, R. D. (2012) The pfam
+protein families database. Nucleic Acids Res. 40, D290–D301
+19. Iseli, C., Jongeneel, C. V., and Bucher, P. (1999) Estscan. A program for
+detecting, evaluating, and reconstructing potential coding regions in est
+sequences. Proc. Int. Conf. Intell. Syst. Mol. Biol. 138–148
+20. Trapnell, C., Pachter, L., and Salzberg, S. L. (2009) Tophat. Discovering
+splice junctions with rna-seq. Bioinformatics 25, 1105–1111
+21. Trapnell, C., Roberts, A., Goff, L., Pertea, G., Kim, D., Kelley, D. R., Pimen-
+tel, H., Salzberg, S. L., Rinn, J. L., and Pachter, L. (2012) Differential gene
+and transcript expression analysis of rna-seq experiments with tophat and
+cufflinks. Nat. Protoc. 7, 562–578
+22. Takahashi, S., Yeo, Y., Greenhagen, B. T., McMullin, T., Song, L., Maurina-
+Brunker, J., Rosson, R., Noel, J. P., andChappell, J. (2007)Metabolic engineer-
+ing of sesquiterpene metabolism in yeast. Biotechnol. Bioeng. 97, 170–181
+23. Hirai, N., Yoshida, R., Todoroki, Y., and Ohigashi, H. (2000) Biosynthesis
+of abscisic acid by the non-mevalonate pathway in plants, and by the
+mevalonate pathway in fungi. Biosci. Biotechnol. Biochem. 64, 1448–1458
+24. Takahashi, K., and Tomita, F. (1983) Gilvocarcins, new antitumor antibi-
+otics. 5. Biosynthesis of gilvocarcins. Incorporation of 13c-labeled com-
+pounds into gilvocarcin aglycones. J. Antibiot. 36, 1531–1535
+25. Back, K., and Chappell, J. (1995) Cloning and bacterial expression of a
+sesquiterpene cyclase from hyoscyamus-muticus and its molecular com-
+parison to related terpene cyclases. J. Biol. Chem. 270, 7375–7381
+26. Cao, R., Zhang, Y.,Mann, F.M.,Huang, C.,Mukkamala, D.,Hudock,M. P.,
+Mead, M. E., Prisic, S., Wang, K., Lin, F.-Y., Chang, T.-K., Peters, R. J., and
+Oldfield, E. (2010) Diterpene cyclases and the nature of the isoprene fold.
+Proteins 78, 2417–2432
+27. Chen, F., Tholl, D., Bohlmann, J., and Pichersky, E. (2011) The family of
+terpene synthases in plants. A mid-size family of genes for specialized
+metabolism that is highly diversified throughout the kingdom. Plant J. 66,
+212–229
+28. Bowers, W. S., Nishino, C., Montgomery, M. E., and Nault, L. R., and
+Nielson, M. W. (1977) Sesquiterpene progenitor, germacrene-a - alarm
+pheromone in aphids. Science 196, 680–681
+SesquiterpeneMetabolism of Valeriana officinalis
+3172 JOURNAL OF BIOLOGICAL CHEMISTRY VOLUME 288•NUMBER 5•FEBRUARY 1, 2013
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+29. Weinheimer, A. J., Youngblood, W. W., Washecheck, P. H., Karns,
+T. K. B., and Ciereszko, L. S. (1970) Isolation of the elusive ()-germa-
+crene A from the gorgonian eunicea-mammosa chemistry of coelenter-
+ates. Tetrahedron Lett. 7, 497–500
+30. Rising, K. A., Starks, C. M., Noel, J. P., and Chappell, J. (2000) Demonstra-
+tion of germacrene A as an intermediate in 5-epi-aristolochene synthase
+catalysis. J. Am. Chem. Soc. 122, 6526–6526
+31. Kitayama, T., Kawabata, G., and Ito, M. (2010) Concise synthesis of valer-
+ena-4,7(11)-diene, a highly active sedative, from valerenic acid. Biosci.
+Biotechnol. Biochem. 74, 1963–1964
+32. Disch, A., and Rohmer, M. (1998) On the absence of the glyceraldehyde
+3-phosphate pyruvate pathway for isoprenoid biosynthesis in fungi and
+yeasts. FEMS Microbiol. Lett. 168, 201–208
+33. Wu, S., Schalk, M., Clark, A., Miles, R. B., Coates, R., and Chappell, J.
+(2006) Redirection of cytosolic or plastidic isoprenoid precursors elevates
+terpene production in plants. Nat. Biotechnol. 24, 1441–1447
+34. Bos, R., Hendriks, H., Kloosterman, J., and Sipma, G. (1986) Isolation of
+the sesquiterpene alcohol ()-pacifigorgiol from Valeriana officinalis.
+Phytochemistry 25, 1234–1235
+35. Tanaka, K., and Komatsu, K. (2008) Comparative study on volatile com-
+ponents of nardostachys rhizome. J. Nat. Med. 62, 112–116
+36. Chappell, J., and Coates, R.M. (2010). inComprehensive Natural Products
+II-Chemistry and Biology (Ebizuka, Y. ed.) pp. 609–641, Elsevier Ltd.,
+Oxford, England
+SesquiterpeneMetabolism of Valeriana officinalis
+FEBRUARY 1, 2013•VOLUME 288•NUMBER 5 JOURNAL OF BIOLOGICAL CHEMISTRY 3173
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 
+ 1 
+Supplementary Tables and Figures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A
+ 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE S1. (A) Screenshots of the Medicinal Plant Metabolomics Resource website 
+focused on Valeriana officinalis and the specific search window for metabolites 
+detected as ions within a particular molecular mass (m/z) range (upper panels). 
+Search for metabolites detected as fragment ions with masses between m/z 203.1 
+and m/z 203.2 whose relative abundance in the indicated tissue samples is shown in 
+the lower panel.  (B) This particular metabolite is tentatively annotated as a 
+sesquiterpene diol acetate consistent with downstream metabolism of valerena-1,10-
+diene, and yields a fragment ion at m/z 203 (corresponding to fragmentation by loss 
+of water and acetic acid), another fragment at m/z 263 (corresponding to loss of 
+water), and a pseudomolecular ion at m/z 281, all with matching tissue profiles and 
+retention time of 18.76 min.  The accurate masses of these ions are all consistent 
+with the proposed elemental formulas for this metabolite.  
+ 
+H3C
+CH3
+CH3
+O
+O
+CH3
+HO
+Chemical Formula: C17H28O3
+Retention time 18.76 min
+LC/ESI MS (+)
+H3C
+CH3
+CH3
+O
+O
+CH3
+H2O
+[M+H]+
+Theoretical m/z: 281.2111
+Observed m/z: 281.214
+H3C
+CH3
+CH3
+O
+O
+CH3
+[M+H-H2O]+
+Theoretical m/z: 263.2006
+Observed m/z: 263.201
+H3C
+CH3
+CH3
+[M+H-H2O-acetic acid]+
+Theoretical m/z: 203.1794
+Observed m/z: 203.178
+-H2O
+-acetic acid
+B 
+ 3 
+ 
+ 
+ 
+ 
+FIGURE S2. Amino acid alignment of the seven terpene synthase genes from V. 
+officinalis (VoTPS) in comparison to that of premnaspirodiene synthase (HPS). The 
+VoTPS genes were initially identified in blast screens of the Valeriana officinalis 
+transcriptome found at www.medicinalplantgenomics and subsequently confirmed by 
+isolation of the corresponding cDNAs from V. officinalis root mRNA by RT-PCR. The 
+aligned sequences are highlighted for highly conserved sequences like the RR(X8)W 
+box (blue) associated with overall catalytic activity (1,2), the DDXXD motif (red) 
+associated with coordinating a divalent metal cofactor (1,2), and the 88 amino acids 
+of VoTPS3 (red overline) predicted to target this synthase to the chloroplast 
+compartment as determined by the ChloroP 1.1 algorithm.      
+ 
+Formatted Alignments
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+10 20 30 40 50 60 70
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M E S C L S F S S P P P - T K K N I Q E P V R P N A K F H K S V W G N H F L K Y A S N
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M E V V R R F S N Y K P S L W T H T Y L N S L T -
+M I S S S S S V R S L C C P K T S I I S G K L L P S L L V T N V I N V S N G T S S R A C V S M S S L P V S K S T A S S I A A P L V R D N G S A L N F F
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M S S L P V S K S T A S S I A A P L V R D N G S A L N F F
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M D F Y I Q A S G G P L S P E Q R V P Q P I R R T A N Y H P S I W G N Y F L K Y A S -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M A I S T P L S - - - T E N Q T I V R R D A N Y H P S I W K D E Y L Q S I P -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M E S C L S V S S A P P - P K K N I Q E P V R P N G N F H K S V W G D H F V K Y A S N
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - M A P A I V M S N Y E E - - - - - - E E I V R P V A D F S P S L W G D H F H S F S V -
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+80 90 100 110 120 130 140 150
+P E Q I D Y D A D E Q H E Q L K E E L R K K L V V N V T N E R V E E Q L K L I D A I Q R L G V A Y H F Q R E I D A V L N N L L L F R S N K - - - - - -
+- - S I Y G E N I Y K E R A E K L K G N I K I M L K E A N G - T L N Q L E L I D N I Q R L G V C Y H F E D E T D E I L K G I F V N F N S T K N K R S -
+P Q A P Q V E I D E S S R I M E L V E A T R R T L R N E S S D S T E K M R L I D S L Q R L G L N H H F E Q D I K E M L Q D F A N E H K N T N - - - - -
+P Q A P Q V E I D E S S R I M E L V E A T R R T L R N E S S D S T E K M R L I D S L Q R L G L N H H F E Q D I K E M L Q D F A N E H K N T N - - - - -
+T D C V Q I G D H D G A E E L - E E V R R K L V A D G N D D R V D E Q L K L I D A I Q R L G V A Y H F E S E I D V V L N R Q L L K L S D S F G N T N P
+- - T Q F Q G D T Y K A R A D R L K E E V R N L V N I G D D D V L S K L E L I D T L E R L G I Y Y H F E D E I H N I L Q N I H N H G Y M D K N Q - - -
+S E Q I N D G V D K Q H K Q L K E E L R K K L V V N V N I E R A E E Q L K L I D A I Q R L G V A Y H F R T E I A S V L N N Q L E F W N N K V - - - - -
+D N Q V A E K Y A Q E I E T L K E Q T S T M L S A A C G - T T L T E K L N L I D I I E R L G I A Y H F E K Q I E D M L D H I Y R A D P Y F E A H - - -
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+160 170 180 190 200 210 220
+- - D N D D I Y M V S L R F R L L R Q Q G - H D V S C S V F E K F K N I D G R F K D S L R D D V R - G L L S L Y E A T H M R V H K E D I L E E A L E F
+- - E N I S L Y A A S L Q F R L L R Q H G Y L V L P Q D A F K D F I D D - G T F K T K P S D D T T K G I L N L Y E A S F L A I Q G E N I L D V A Q D F
+- - - - Q D L F T T S L R F R L L R H N G - F N V T P D V F N K F T E E N G K F K E S L G E D T I - G I L S L Y E A S Y L G G K G E E I L S E A M K F
+- - - - Q D L F T T S L R F R L L R H N G - F N V T P D V F N K F T E E N G K F K E S L G E D T I - G I L S L Y E A S Y L G G K G E E I L S E A M K F
+N V E D D D L Y M V S L R F R L L R Q Q G - H P V S C G V F S K F T D N E G R F K E S I V S D V R - G M L S L Y E A A H M R V R E E D I L E E A L N F
+- - - - - D L Y T T S L K F I Y L R Q H G - F D V P Q D I F K T F M D D Q G K F K G E L S K D I N - A M L Y L Y E A S Y L S T P K D D I M D E A R D F
+- - D D D D L Y M T S L R F R L L R Q Q G - Y N V S C A V F E K F K N I D G R F N E C L T D D V R - G L L S L Y E S T H M R V H K E D I L E E A L E F
+- - E Y N D L N T S S V Q F R L L R Q H G - Y N V S P N I F S R F Q D A N G K F K E S L R S D I R - G L L N L Y E A S H V R T H K E D I L E E A L V F
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+230 240 250 260 270 280 290 300
+T I Y E L E Q V V K L S S N D T - L L A S E V I H A L N M P I R K G L T R I E A R - H F I S V Y Q H D K S H D E T L L K F S K I D F N M L Q K L H Q R
+A I K Y L N E N L E L T T A D D P T L G E H I R H A L E L P F H W R M P R V E V R - W Y I P I Y Q S T L H M N P V L L E F A K L D F N I V Q A L Y I E
+S E S K L R E S S G H V A P - - - H I R R Q I F Q S L E L P R H L R M A R L E S R R Y I E E D Y S N E I G A D S S L L E L A K L D F N S V Q A L H Q M
+S E S K L R E S S G H V A P - - - H I R R Q I F Q S L E L P R H L R M A R L E S R R Y I E E D Y S N E I G A D S S L L E L A K L D F N S V Q A L H Q M
+S T T H L K Q V V N K S L R D H - A L I S Q V V H A L N W P I R K T L A R L E A R - N Y M Q I Y E Q E K S H D E T L L K F A K L D F N M L Q K V H Q R
+S T K Y L K E Y A E K N N D N N E F L K K L V I H S L Q L P L R W K V V S L E A R - W F I D M Y E N K Q D M N P T L L Q F A K L D Y N I L Q A I H L E
+T V A Q L E Q V I K S S L S D K - V L L S Q V V H A L N I P I R K S L T R L E A R - Y F I S V Y E Q D K S C N E T L L K F S K L D F N I L Q K L H Q Q
+S V G H L E S A A P H L K S - - - P L S K Q V T H A L E Q S L H K S I P R V E I R - Y F I S I Y E E E E F K N D L L L R F A K L D Y N L L Q M L H K H
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+310 320 330 340 350 360 370
+E L A D L T I W W E K L N V A E K M P Y A R D R F V E C Y F W G L G V Y F E P Q Y S R A R K M F V K V I N L T S L I D D T Y D S Y G T F D E L D L F T
+E I K D L S R W N T S T K L T E K M S F A R D R I V E C Y F WM L G L T F E L Q F G Y T R E I I T K L G F F V N V I D D A Y D T Y A T L D E V R L F T
+E L T E I S R W W K Q L G L S D K L P F A R D R P L E C F L W T V G L L P E P K Y S G C R I E L A K T I A V L L V I D D I F D T Y G S Y D Q L I L F T
+E L T E I S R W W K Q L G L S D K L P F A R D R P L E C F L W T V G L L P E P K Y S G C R I E L A K T I A V L L V I D D I F D T Y G S Y D Q L I L F T
+E L G V I T R W W S E F N V A E K L P F A R D R L V E C Y I W I L G V Y F E P H Y R L A R S I L T K V I V L A S V I D D I Y D V Y G T I E E L L L F T
+D L K Y T S R W W K S T S L V E K L S F A R D R L V E N Y I W S L G V T F E P H L Q Y S R R V N T K V N A L I T V I D D V Y D V Y G T L D E L N L F T
+E V A D L T L W W K N L N V S E K V P Y A R D R L V E C Y F W A L A E Y F E P Q Y S R A R K M S G K I T A L I S L I D D T Y D S Y G T F E E L A L F T
+E L S E V S R W W K D L D F V T T L P Y A R D R A V E C Y F W T M G V Y A E P Q Y S Q A R V M L A K T I A M I S I V D D T F D A Y G I V K E L E V Y T
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+380 390 400 410 420 430 440 450
+D A V K R W N V N E T D K L P E Y M R P L F M E L L N V Y N A M E E E L K E E G V S Y R V E Y A K Q S M I Q I V T A Y N D E A I W Y H N G Y V P T F D
+Q A I E R W D V K E I E Q L P S Y M R V C F L V V F N L I N E L V F N A L K E Q D I D I G P P L R K A L L D Y C K S G E V E A K W Y H S G Y K P A L D
+N A I R R W D L D A M D E L P E Y M K I C Y M A L Y N T T N E I C Y K V L K E N G W S V L P Y L K R T W I D M V E G F M L E A K W L N S G E Q P N L E
+N A I R R W D L D A M D E L P E Y M K I C Y M A L Y N T T N E I C Y K V L K E N G W S V L P Y L K R T W I D M V E G F M L E A K W L N S G E Q P N L E
+D A I Q R W D I D D K N E M P E Y M S H I Y G T L L A V Y S E M E E E L S K Q E A S F R V D Y A K Q A M K E L T K A Y F D E A N L Y D K S N V P K V E
+D I V E R W D V N A I D E L P E Y M K I C F L T L F N S V N D M G Y D A L K N H N L N I I H Y L R N T W V V L C K A Y L K E S I W Y N N G Y I P T L D
+D A A Q R W D I N A I D Q L P E Y M R P I F R E L I Y L Y N A M E E E L L N D G I S Y R V E Y A K Q S V I Q M I T A Y N D E A I W Y H N N Y V P T F E
+D A I Q R W D I S Q I D R L P E Y M K I S Y K A L L D L Y D D Y E K E L S K D G R S D V V H Y A K E R M K E I V G N Y F I E G K W F I E G Y M P S V S
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+460 470 480 490 500 510 520
+E Y L K V A L I S C G Y M L L S T I S F V G M G V T T V T K P A F D W V T N N P L I L I A S C T I N R L A D D K V G H E L E Q E R G H V A S G V E C Y
+E Y L E C S L I T V S T P F L I I C A Y F I T A S P I T - K Q A I Q S L D Q Y P S I V R W S N M V V R L A D D L A T S Y D E I K R G D V P K L I Q C Y
+A Y I E N G V T T A G S Y M A L V H L F F L I G D G V N D E N V K L L L D P Y P K L F S S A G R I L R L W D D L G T A K E E Q E R G D V S S S I Q L Y
+A Y I E N G V T T A G S Y M A L V H L F F L I G D G V N D E N V K L L L D P Y P K L F S S A G R I L R L W D D L G T A K E E Q E R G D V S S S I Q L Y
+E Y M K V A L V S S G Y M M L A T T S L V G M G V L A S - E D A F E W V S G T P L I V R A S C T I A R L M D D M V G H E S E Q E R G D V A S I V E C Y
+E Y L E N A C N S I A D P T M L I H A Y A S Y S N P L T - T E A F E Y L E T N P N I V R F S S M I L R L S D D L G T S S D E L K R G D N P K S I Q C Y
+E Y L K V A L V S S G Y R M L P T N S F V G M G K T E V P H Q A F D W V S N N P L M V K A S T I I A R L D N D K V G H E H E Q D R G H V A S G V E C Y
+E Y L S N A L A T S T Y Y L L T T T S Y L G M K S A T K - - E H F E W L A T N P K I L E A N A T L C R V V D D I A T Y E V E K G R G Q I A T G I E C Y
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+530 540 550 560 570 580 590 600
+M K H N N A T K Q - E V V I E F N K R I S N A W K D I N Q E C L H P L P V P L H L V V R P L Y L A C F M N V F Y K - D E D W Y T H S N T Q M K E C I N
+M H E K G A S E E - E A R A H V N H L I S E S W K K I N N N L Y V E S P F S K T Y I P I A M N L A R V S Q C V Y Q - T C D G N G Y P T P E S K E Q V A
+M K E K N V R S E S E G R Q G I V E I I Y N L W K D M N G E L I G S N A L P Q A I I E T S F N M A R T S Q V V Y Q H E D D T Y F S S V D N - - - Y V Q
+M K E K N V R S E S E G R Q G I V E I I Y N L W K D M N G E L I G S N A L P Q A I I E T S F N M A R T S Q V V Y Q H E D D T Y F S S V D N - - - Y V Q
+M K E H G A T K E - E T Y V E L N T R I A D A W K D I N Q E C L C P T A V P M V L L D R I L N Q A R V I Y L L Y K - D E D C Y T N S K T R A K D I V T
+M H E K G V S E E - K A R E Y I S - L F S E - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+M K Q Y G A T K E - E V V V E F N K R I S S A W K D I N Q E C L H P L P V P M H L L E R V L N L V R F V T L F Y K - N G D M Y T N S N T H M K E F I S
+M R D Y G V S T E - V A M E K F Q E M A D I A W K D V N E E I L R P T P V S S E I L T R I L N L A R I I D V T Y K H N Q D G Y T H P E K V L K P H I I
+VoTPS1
+VoTPS2
+VoTPS3
+VoTPS4
+VoTPS5
+VoTPS6
+VoTPS7
+HPS
+610 620 630 640 650 660 670
+S L L V E S V P Y
+S L L V H P I P I
+S L F F T P V S -
+S L F F T P V S -
+S L L I E R V P I
+- - - - - - - - -
+S L L V E S I P S
+A L V V D S I D I
+ 4 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE S3. Determination of the Michaelis-Menten kinetic constants for VoTPS1. 
+The kinetic constants were determined by incubating purified VoTPS1 enzyme with 
+various concentrations of 1 to 50 µM 3H-FPP under standard assay conditions (50 ng 
+of enzyme, 50 µl final reaction volume) of a 15 min incubation at 30oC. The reactions 
+were stopped by extraction with hexanes and the amount of radioactivity 
+incorporated into the hexanes extractable products determined by liquid scintillation 
+counter. Data were analyzed using EnzymeKinetics V1.5 (Trinity Software) yielding 
+kinetic values for Km = 7.2 µM, Vmax = 311.9 pmol/µg protein•hr, and kcat = 0.0057 s-1.   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FPP (µM)
+0 10 20 30 40 50 60
+pm
+ol
+/µ
+g/
+hr
+0
+50
+100
+150
+200
+250
+300
+350
+ Vmax = 311.9
+ Km = 7.2
+ 
+ 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FIGURE S4. GC-MS analysis of the reaction products generated by VoTPS1 (A) and 
+VoTPS7(B). Lysate from bacteria over-expressing the VoTPS1 and 7 genes were 
+incubated with 77 µM FPP for 2 hr prior to extraction and profiling by GC-MS. The 
+mass spectra for peaks 1 (C), 2 (D) and 3 (E) are also provided.  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Time(min)
+To
+ta
+l  
+Io
+n 
+C
+ou
+nt
+s(
+10
+3 )
+ 
+peak 2 
+peak 1 
+C D 
+Peak 3 
+E 
+ 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure S5. GC comparisons of the hexane extractable hydrocarbons from control 
+yeast (harboring “empty” expressing vector)(A), or yeast expressing the VoTPS1 (B) 
+or VoTPS7 (C) genes. The chromatograms are annotated for the elution behavior of 
+germacrene C (1), valerena-1,10-diene (2) and an unidentified sesquiterpene 
+compound (3), as well as the external standard cedrene (ced) and a yeast 
+associated compound (unk), a non-terpene chemical as defined by MS inspection. 
+ 
+ 
+Print Date:  26 Nov 2012 09:34:31
+Chromatogram Plots
+10.5 11.0 11.5 12.0 12.5 13.0
+minutes
+0.0
+2.5
+5.0
+7.5
+10.0
+kCounts
+0.0
+2.5
+5.0
+7.5
+kCounts
+0.0
+2.5
+5.0
+7.5
+kCounts
+1 2 3 ced unk 
+A. 
+B. 
+C. 
+ 7 
+Figure-S6a: 1H NMR Spectrum (Hexane-d14, 500MHz) of Germacrene-C (1) 
+Figure-S6b: 13C NMR Spectrum (Hexane-d14, 125MHz) of Germacrene-C (1) 
+ 
+ 
+ 
+ 8 
+Figure-S6c: 1H-1H DQFCOSY NMR Spectrum of Germacrene-C (1) 
+Figure-S6d: HMQC Spectrum of Germacrene-C (1)  
+ 
+ 
+ 9 
+Figure-S6e: HMBC Spectrum of Germacrene-C (1)  
+ 
+Figure-S6f: NOESY Spectrum of Germacrene-C (1)  
+FIGURE S6. NMR spectra (a-f) of germacrene-C (1) isolated from plant material on a 
+Bruker 500MHz spectrometer using hexane-d14 as a solvent.  
+ 
+ 
+ 10 
+Figure-S7a: 1H NMR Spectrum (CDCl3, 500MHz) of Valerena-1,10-diene (2) 
+Figure-S7b: 13C NMR Spectrum (CDCl3, 125MHz) of Valerena-1,10-diene (2) 
+ 
+ 
+ 11 
+ 
+Figure-S7c: 1H-1H DQFCOSY Spectrum of Valerena-1,10-diene (2) 
+ 
+Figure-S7d: HMQC Spectrum of Valerena-1,10-diene (2) 
+ 
+ 
+ 
+ 12 
+ 
+Figure-S7d: HMBC Spectrum of Valerena-1,10-diene (2) 
+ 
+FIGURE S7. NMR spectra (a-d) of Valerena-1,10-diene (2) isolated from plant 
+material on a Bruker 500MHz spectrometer using CDCl3 as a solvent. 
+ 
+  
+ 
+ 13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure S8. The 13C-NMR spectra for valerena-1,10-diene isolated from yeast 
+expressing the VoTPS1 gene and the cultures fed 1-13C acetate (panel B) or not 
+(panel A). The red box highlights the signals pertaining to C-10 and C-11.  These 
+signals evince 35 Hz splittings due to the JC-C couplings of 13C enrichment at C-10 
+and C-11. The mesitylene external standard signal (127.113 ppm) is also evident in 
+this region of the spectra.   
+ 14 
+ 
+Table S1 
+ 
+Primer pairs used for cloning the corresponding V. officinalis terpene synthases and 
+measuring the corresponding mRNA levels in tissue RNA preparations 
+ 
+VoTPS1 For CGGGATCCATGGAGAGTGCCTTAGTTTTTCAAGCCCT Rev AAGGAAAAAAGCGGCCGCTTAATACGGAACACTTTCTACTAGAAG 
+VoTPS2 For CGGGATCCATGGAAGTGGTGAGGAGGTTTTCAAACTAC Rev AAGGAAAAAAGCGGCCGCTCAAATAGGAATGGGGTGAACCAGTAG 
+VoTPS3 For CGGGATCCATGATATCTTCATCGTCGTCCGTTCGATCT Rev AAGGAAAAAAGCGGCCGCTTAAGAAACAGGAGTGAAGAAGAGAGA 
+VoTPS4 For CGGGATCCATGTCGTCTTTACCGGTTTCCAAGTCCACTGC Rev AAGGAAAAAAGCGGCCGCTTAAGAAACAGGAGTGAAGAAGAGAGA 
+VoTPS5 For CGGGATCCATGGATTTTTACATTCAAGCTTCAGGTGGT Rev AAGGAAAAAAGCGGCCGCTTAAATCGGTACCCTTTCAATAAGAAG 
+VoTPS6 For CGGGATCCATGGCTATTTCAACTCCTCTTAGTACTGAA Rev AAGGAAAAAAGCGGCCGCTCACTCACTAAATAACGAAATGTATTC 
+VoTPS7 For CGGGATCCATGGAGAGCTGCCTTAGTGTATCAAGTGCT Rev AAGGAAAAAAGCGGCCGCTTAACTCGGGATGCTCTCTACTAGAAG 
+ 
+ 
+References cited 
+ 
+1. Cao, R., Zhang, Y., Mann, F. M., Huang, C., Mukkamala, D., Hudock, M. 
+P., . . . Oldfield, E. (2010) Diterpene cyclases and the nature of the isoprene 
+fold. Proteins-Structure Function and Bioinformatics 78, 2417-2432 
+ 2. Chen, F., Tholl, D., Bohlmann, J., and Pichersky, E. (2011) The family of 
+terpene synthases in plants: A mid-size family of genes for specialized 
+metabolism that is highly diversified throughout the kingdom. Plant J. 66, 212-
+229 
+ 
+ 
+Khan, Robert M. Coates, David S. Watt and Joe Chappell
+Dudareva, Khaled A. Shaaban, Nidhi Tibrewal, Suman Chandra, Troy Smillie, Ikhlas A.
+Mary Dawn Celiz, A. Daniel Jones, Eve Syrkin Wurtele, Nick Ransom, Natalia 
+DellaPenna,Wang, Elsa Góngora-Castillo, Brieanne Vaillancourt, C. Robin Buell, Dean 
+Yun-Soo Yeo, S. Eric Nybo, Amar G. Chittiboyina, Aruna D. Weerasooriya, Yan-Hong
+Valeriana officinalisSesquiterpenes in 
+Catalyzing a Unique Chemical Cascade in the Biosynthesis of Biologically Active 
+Functional Identification of Valerena-1,10-diene Synthase, a Terpene Synthase
+doi: 10.1074/jbc.M112.415836 originally published online December 14, 2012
+2013, 288:3163-3173.J. Biol. Chem. 
+  
+ 10.1074/jbc.M112.415836Access the most updated version of this article at doi: 
+ Alerts: 
+  
+ When a correction for this article is posted•  
+ When this article is cited•  
+ to choose from all of JBC's e-mail alertsClick here
+Supplemental material:
+  
+ http://www.jbc.org/content/suppl/2012/12/14/M112.415836.DC1
+  
+ http://www.jbc.org/content/288/5/3163.full.html#ref-list-1
+This article cites 32 references, 6 of which can be accessed free at
+ at IO
+W
+A
+ STA
+TE U
+N
+IV
+ on February 1, 2017
+http://w
+w
+w
+.jbc.org/
+D
+ow
+nloaded from
+ 

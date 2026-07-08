@@ -1,0 +1,1129 @@
+Hindawi Publishing Corporation
+Evidence-Based Complementaryand Alternative Medicine
+Volume 2011, Article ID 179890, 10 pages
+doi:10.1155/2011/179890
+Research Article
+Aleuritesmoluccana (L.)Willd.Leaves:Mechanical
+AntinociceptiveProperties ofa StandardizedDried Extractand
+ItsChemicalMarkers
+Nara L. M. Quint˜ ao,ChristianeMeyre-Silva, GislaineF. Silva,
+CarlaS.Antonialli,LilianW. Rocha,RuthM. Lucinda-Silva,Angela Malheiros,
+M´ arcia M. Souza,ValdirCechinel Filho,and TaniaM. B. Bresolin
+Programa de Mestrado em Ciˆ encias Farmacˆ euticas, N´ ucleo de Investigac ¸˜ oes Qu´ ımico-Farmacˆ euticas (NIQFAR),
+Universidade do Vale do Itaja´ ı (UNIVALI), Rua Uruguai 458, 88302-202 Itaja´ ı, SC, Brazil
+Correspondence should be addressed to Tania M. B. Bresolin, tbresolin@univali.br
+Received 20 December 2010; Accepted 31 January 2011
+Copyright © 2011 Nara L. M. Quint˜ ao et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+Seeking to develop a new analgesic phytomedicine, a spray-dried extract (SDE) of Aleurites moluccana (L.) Willd. leaves was
+developed in scale up (5kg). The SDE was standardized at 3%w/w in relation to the ﬂavonoid 2  -O-rhamnosylswertisin.
+The SDE batches were evaluated in relation to their physical, physiochemical, and pharmacological characteristics. The results
+demonstrated the reproducibility of the scale up SDE process which, when dosed orally, reduced carrageenan-induced mechanical
+hypernociception, with an ID50% of 443mg/kg. Similar results were obtained with animals injected with complete Freund’s
+adjuvant (CFA), in which SDE caused inhibition of 48 ± 4%. SDE was eﬀective in preventing prostaglandin E2 (PGE2)-induced
+mechanical hypernociception (inhibition of 26 ± 10% and 33 ± 3%, at 250 and 500mg/kg, respectively). Swertisin and 2  -
+O-rhamnosylswertisin isolated from the own extract were eﬀective in inhibiting the hypernociceptive response induced by
+carrageenan (70 ± 2% and 50 ± 5%, resp.). Furthermore, 2  -O-rhamnosylswertisin was capable of signiﬁcantly inhibiting the
+mechanical sensitization induced by CFA or PGE2, with inhibitions of 25 ± 3% and 94 ± 6%, respectively. These results suggest
+that the eﬀects of SDE are related, at least in part, to the presence of these ﬂavonoids.
+1.Introduction
+Aleurites moluccana (L.) Willd., Euphorbiaceae, popularly
+known as “Candlenut tree” or “Indian Walnut”, among other
+names, is a native plant to Malaysia, Polynesia, and the
+South Sea Islands, with wide distribution throughout the
+tropics. It is a medium-sized tree, up to 10m tall, which
+grows abundantly throughout the south and southeast of
+Brazil (S˜ ao Paulo to Rio Grande do Sul). It is used in folk
+medicine for the treatment of fever, inﬂammation, asthma,
+hepatitis, headache, gastric ulcer, and so forth. Its seeds are
+used as an antirheumatic and as a fertilizer [1, 2]. Previous
+studieshavedemonstratedthatthedichloromethanefraction
+obtained from the leaves and bark of A. moluccana presents
+antiviral activity [3], as well as antibacterial eﬀects against
+Staphylococcus aureus and Pseudomonas aeruginosa [4]. The
+methanol extract from the leaves of this plant exhibited
+hypolipidemic eﬀects [5].
+A. moluccana was introduced to Brazil in the 1980s as an
+ornamental tree and is an important source of the oil used
+in tannery [6] .T h e r ei sal a r g ea r e ai nS a n t aC a t a r i n aS t a t e
+(Brazil)withmorethan6,000treesthatcanfurnishsuﬃcient
+raw material for the pharmaceutical industry, and the
+culture of domesticated species has already begun. Studies
+conducted by our research group have demonstrated the
+performance of the tree after some types of cutting and have
+found that it develops well, requiring three to four months
+to germinate. The purpose of these studies is to assure the
+vegetable raw material source without interfering in the
+growthofthetree,therebyensuring sustainablemanagement
+of the biodiversity that culminates in the development of
+a herbal medicine [7]. These results are in agreement with2 Evidence-Based Complementary and Alternative Medicine
+previous studies, which observe that it can withstand both
+high and low pH values, poor soils, slopes, and annual
+rainfall of 6.4 to 42.9dm [6].
+Previous experimental studiesconductedby our research
+grouphavealsodemonstratedthatthehydroalcoholicextract
+ofA.moluccana leaves and its hexane fraction exhibitantino-
+ciceptive eﬀects, inhibiting acetic-acid-induced abdominal
+writhing in mice [8]. This activity may be related to the
+presence of2  -O-rhamnosylswertisin, a ﬂavone C-glycoside,
+which caused92±4%inhibitionwhen evaluatedin thesame
+model [9]. However, a more friendly technological extract
+needs to be developed, with a view to enabling industrial
+production of a herbal medicinal product, which must be
+obtained on a large scale and standardized in relation to a
+chemical marker, with stability, safety, and proven eﬃcacy
+in preclinical and clinical studies, for further licensing by
+the regulatory agencies for marketing and purposes, under
+patent [7].
+The aim of this work, therefore, is to obtain a repro-
+ducible spray-dried extract (SDE) in the scaleup, standard-
+ized in relation to a chemical marker, the ﬂavonoid 2  -
+O-rhamnosylswertisin (MW=592g), the major compound
+evidenced in the selected extract of A. moluccana leaves,
+and to evaluate the antinociceptive eﬀect of the techno-
+logical product, SDE, and two puriﬁed substances, 2  -O-
+rhamnosylswertisin and swertisin, on diﬀerent experimental
+models of pain in mice.
+2.Materialsand Methods
+2.1. Collection of Plant Materials. Leaves of A. moluccana
+Willd. were collected in July 2007 in Tijucas, in the State of
+Santa Catarina, Brazil, and identiﬁed by Professor Dr.
+Ademir Reis (Department of Botany/UFSC, Florian´ opolis,
+SC,Brazil).AvoucherspecimenwasdepositedattheBarbosa
+Rodrigues Herbarium (Itaja´ ı, SC, Brazil) under number VC
+Filho 001.
+2.2.Preparation of Standardized Dried Extract. Three batches
+of dried extracts were prepared at Centroﬂora (Botucatu,
+SP, Brazil) on a pilot scale (5kg) using extractive conditions
+optimized in previous works carried out by our group.
+70kg of dried herbal drug was macerated in a reactor
+for 5 days without stirring, with 700L of 70:30 (v/v)
+ethanol:water solution at room temperature. The solution
+was then percolated, passed through a ﬁlter wheel (40mm)
+then passed through Nutshell ﬁlter with ﬁlter paper. The
+solution was concentrated in Bernauer concentrator at
+70◦C under vacuum (400mmHg), to obtain total solids of
+approximately 40%. The concentrate was mixed with about
+25% (w/w total solids of concentrate) of colloidal silicon
+dioxide and dried in an industrial spray dryer (GEA Niro,
+Søborg, Denmark) with an inlet temperature of 165–180◦C
+and an outlet temperature of 70–80◦C.
+The dried extracts were analyzed: morphological aspect
+by scaning electron microscopy (SEM)with magniﬁcation of
+60x, color, taste/odor, moisture, pH (10% solution in water),
+aqueoussolubility (concentration of 10%), and bulk density,
+according to the methodology described in the United States
+Pharmacopeia [10].
+T h ee x t r a c t sw e r es t a n d a r d i z e db yh i g h - p e r f o r m a n c el i q -
+uid chromatography (HPLC), based on the marker content,
+2  -O-rhamnosylswertisin, using the methodology described
+below.
+2.2.1. Isolation, Identiﬁcation and Purity Determination of
+Swertisin and 2-O-Rhamnosylswertisin. Milled air-dried
+leaves of A. moluccana (600g) were extracted with methanol
+at room temperature for 7 days. The solution was then
+evaporated in a vacuum to obtain methanol crude extract
+(yield of 8.5%). Puriﬁcation procedures (chromatographic
+column—CC) were conducted with crude methanol extract
+using silica gel 60 (70–230mesh) and elution with increasing
+concentrations of methanol in dichloromethane to give
+nine fractions (I–IX). Fractions I and II were grouped
+and submitted to silica gel CC eluted with a mixture of
+dichloromethane and methanol in step-gradient mode,
+to yield swertisin (1) (Figure 1)i nt h ef o r mo fay e l l o w ,
+amorphous powder (20mg), mp 242.6 to 243.4◦C. The
+chemical structure was conﬁrmed by NMR-1Ha n d13C, as
+previously reported [11, 12]. Similarly, fractions III and IV
+were grouped and submitted to silica gel CC eluted with a
+mixture of dichloromethane and methanol as eluent, with
+increasing polarity, followed by ﬂash chromatography eluted
+with a mixture of dichloromethane and methanol (8:3) to
+yield 2  -O-rhamnosylswertisin (2) (Figure 1)i nt h ef o r m
+of a yellow powder (490mg). The chemical structure was
+conﬁrmed by NMR-1Ha n d13C as previously reported
+[11, 13].
+Swertisin (1) is an amorphous powder, mp 242.6–
+243.4◦C. The isolated compound was conﬁrmed by NMR
+spectroscopy using a Bruker AC-300 instrument, operating
+at 300MHz for 1H and 75.5MHz for 13Ca n du s i n gC D 3OD
+as solvent. 1H NMR: 3.15–3.90 (m, 6H, of Glc), 3.94 (3H,
+s, OCH3), 4.40 (1H, m, H1  ), 6.63 (1H, s, H3), 6.71 (1H, s,
+H8), 6.90 (2H, d, j = 8.8, H3 ,H 5  ), 7.80 (2H, d, j = 8.8,
+H2 ,H 6  ). 13C NMR: 55.9 (OCH3), 63.3 (C6  ), 71.4 (C4  ),
+72.1 (C1  ), 74.6 (C3  ), 80.9 (C2  ), 83.2 (C5  ), 96.9 (C3),
+101.4 (C8), 101.5 (C10), 111.8 (C6), 116.8 (C3 ,C 5  ), 121.8
+(C1 ), 128.7 (C2 ,C 6  ), 157.5 (C5), 161.6 (C4 ), 162.5 (C9),
+164.4 (C1), 164.5 (C7), and 182.8 (C4).
+2  -O-rhamnosylswertisin (2)anamorphouspowder,mp
+260.5–261.0◦C. NMR spectroscopy (CD3OD). 1HN M R :
+0.65 (3H, d, J = 6.0, H6   ), 3.10–3.90 (m, 6H, of Glc,
+5Hrham) 3.96 (3H, s, OCH3), 4.55 (1H, m, H1  ), 5.11 (1H,
+m, H1   ), 6.67 (1H, s, H3), 6.76 (1H, s, H8), 6.93 (2H, d,
+j = 9.0, H3 ,H 5  ), 7.89 (2H, d, j = 9, H2 ,H 6  ). 13CN M R :
+18.0 (C6   ), 55.9 (OCH3), 62.4 (C6  ), 64.4 (C5   ), 70.0
+(C4  ), 72.1 (C2   ), 72.2 (C3   ), 72.5 (C4   ), 73.6 (C1  ),
+76.9(C3  ),79.0(C2  ),81.8(C5  ),102.3(C3),103.1(C1   ),
+103.7 (C8), 103.9 (C10), 111.1 (C6), 117.8 (C3 ,C 5  ), 121.9
+(C1 ), 129.7 (C2 ,C 6  ), 159.2 (C5), 159.5 (C4 ), 165.5 (C9),
+165.0 (C1), 167.0 (C7), and 184.0 (C4).
+MS analysis was performed in the LC-MS/MS system:
+SCL-10AVP system controller (Shimadzu), LC-10ADVP sol-
+vent delivery system and an FCV-10ALVP valve (Shimadzu
+Corp., Kyoto, Japan) with a Micromass Quattro LC massEvidence-Based Complementary and Alternative Medicine 3
+O
+OH O
+OH
+O
+HO
+HO
+HO
+HO
+H3CO
+(1) Swertisin
+(a)
+O
+OH O
+OH
+O
+O
+HO
+HO
+HO
+O
+HO
+HO
+HO
+H3CO
+(2)2 -O-rhamnosylswertisin
+(b)
+Figure 1: Chemical structure of (1) Swertisin and (2)2   -O-rhamnosylswertisin.
+(minutes)
+0 5 10 15 20 25 30 35 40
+m
+A
+U
+0
+50
+100
+150
+200
+1
+2
+3
+4
+5
+67
+8
+9
+10 11
+(a)
+(minutes)
+0 5 10 15 20 25 30 35 40
+m
+A
+U
+0
+50
+100
+150
+200
+1
+(b)
+Figure 2: (a) Typical chromatogram of A. moluccana dried extract;
+(b) 2  -O-rhamnosylswertisin chromatogram.
+spectrometer (Waters Corp., Milford, MA) in tandem) by
+infusion of the compound added to a solvent ﬂow of
+0.6mL/min, split 1:3, acetonitrile:50mM ammonium
+acetate (90:10, v/v). This was brought into the MS via
+an ESI source and measured in the negative ion mode.
+Nebulization was achieved using nitrogen gas at a pressure
+of 50L/h. The capillary temperature was set at 350◦C. The
+ESI-MS spectrum recorded in the negative ion mode showed
+a [M-H]+peak at m/z 591, which was in agreement with
+the expected molecular weight of 592 (C28H32O14)f o r2   -
+O-rhamnosylswertisin. MS/MS analysis showed a loss of 146
+mass units (peak at m/z 445), corresponding to the loss of
+rhamnosyl moiety. Peaks were also observed at m/z 427 and
+m/z 324. It should be pointed out that this is the ﬁrst report
+on the MS analysis of this compound.
+2.2.2. Quantitative Analysis of 2  -O-Rhamnosylswertisin Fla-
+vonoid in Dried Extract. The HPLC system consisted of a
+Waters 600 pump (Milford, Mass, USA); 2996 PDA detector,
+automatic 717 plus injector, in line degasser AF, and
+Millennium Empower software. The injections (20μL) were
+carried out on a C8 X-Bridge 150 × 4,6mm (5um) (Waters,
+Taunton, Mass, USA). The mobile phase consisted of a
+gradient A (acetonitrile) and B (acidiﬁed water pH 3.54 with
+acetic acid) of 10:90 (A:B) (0min), 25:75 (20min), and
+10:90 (30min), maintaining this composition until 40min,
+and a ﬂow rate of 0.5mL·min−1. The analysis was monitored
+at 338nm and the column oven ﬁt to 30◦C.
+All solvents were HPLC grade (Tedia, Fairﬁeld, Ohio,
+USA) and were degassed by ultrasonic bath (Unique, Santo
+Amaro, S˜ ao Paulo, Brazil). The water was puriﬁed using a
+Milli-Q system (Millipore, Billerica, Mass, USA). All solu-
+tions were ﬁltered through 0.45μm membranes (Millipore,
+Billerica, Mass, USA).
+2.2.3. Pharmacological Studies
+Animals. Female Swiss mice (25–30g), obtained from the
+University of Vale do Itaja´ ı (UNIVALI, Itaja´ ı, Brazil), were
+used throughout this study. Female mice were chosen to
+investigate mechanical hypernociception based on the liter-
+ature data, which indicates that females are more susceptible
+todevelopingchronicnociception[14,15].Theanimalswere
+housed under conditions of optimum light, temperature,
+and humidity (12h light-dark cycle, 22±1◦C, 60 to 80%
+humidity), with food and water provided ad libitum.A l l
+proceduresused in thepresentstudyfollowed the“Principles
+of Laboratory Animal Care” from NIH publication no. 85-
+23 and were approved by the Animal Ethics Committee
+of UNIVALI (Protocol numbers 416/2008 UNIVALI). The
+number of animals and the intensity of noxious stimuli4 Evidence-Based Complementary and Alternative Medicine
+Acc.V
+10kV
+Spot Magn
+4.5 60x
+Det WD
+SE 10
+200µm
+(a)
+Acc.V
+10kV
+Spot Magn
+4.5 60x
+Det WD
+SE 10
+200µm
+(b)
+Acc.V
+10kV
+Spot Magn
+4.5 60x
+Det WD
+SE 10
+200µm
+(c)
+Figure 3: Scanning electronic microscopy of dried extracts of A.
+moluccanaproduced in pilotscale. (a)batch 1; (b)batch 2;(c) batch
+3.
+used were the minimum necessary todemonstrate consistent
+eﬀects. The number of animals per group was 5–8.
+Carrageenan-Induced Mechanical Hypernociception. To in-
+duce inﬂammatory pain, the mice received an i.d. injection
+of 50μL of carrageenan (300μg/paw) under the surface of
+the right hindpaw [14]. To assess the systemic eﬀect of the
+drug treatment, the mice received A. moluccana SDE (batch
+1, 2, or 3; 125–500mg/kg, p.o.), 2  -O-rhamnosylswer-
+tisin (30mg/kg; 50.6μmol/kg, p.o.), swertisin (30mg/kg,
+67.2μmol/kg, p.o.), indomethacin (0.1–5mg/kg, p.o.), or
+vehicle (10mL/kg, 0.9% NaCl solution), 1h before car-
+rageenan injection. The mechanical hypernociception of all
+the groups was assessed by means of von Frey ﬁlaments
+(VFH), for up to 48h after carrageenan administration, as
+described below.
+CFA-Induced Mechanical Hypernociception. In an attempt
+to evaluate the preventive eﬀect, the mice were pretreated
+orally with A. moluccana SDE (batch 1; 125–500mg/kg),
+2  -O-rhamnosylswertisin (10mg/kg; 16.86μmol/kg, p.o.),
+indomethacin (10mg/kg, p.o.), or vehicle (10mL/kg, 0.9%
+NaCl solution). 1h afterwards, they received an i.d. injec-
+tion of complete Freund’s adjuvant (CFA) (1mg/mL heat-
+killed and dried Mycobacterium tuberculosis;e a c hm Lo f
+vehicle contained 0.85mL paraﬃn oil plus 0.15mL mannide
+monooleate; 20μL/paw) in the right hindpaw [16]. Mechan-
+ical hypernociception was evaluated for up to 48h after CFA
+injection.
+Mechanical Hypernociception Induced by PGE2. To evalu-
+ate the mechanical hypernociception, mice were treated
+with A. moluccana SDE (batch 1; 125–250mg/kg, i.p.),
+2  -O-rhamnosylswertisin (10mg/kg; 16.86μmol/kg, p.o.),
+morphine (5mg/kg, s.c), or vehicle (10mL/kg, 0.9% NaCl
+solution),30min beforethei.d.injection ofprostaglandin E2
+(PGE2) (0.1nmol/paw) [16]. The mechanical hypernocicep-
+tionwasmeasured with VFH,asdescribed below,at diﬀerent
+time points after the i.d. injection of PGE2.
+Von Frey Hair-Induced Hindpaw Withdrawal Response. To
+evaluate mechanical hypernociception, the mice were indi-
+vidually placed in clear Plexiglas boxes (9 × 7 × 11cm) on
+elevated wire mesh platforms, to allow access to the ventral
+surface of the right hindpaw. The withdrawal response
+frequency was measured following 10 applications (duration
+of 1s each) of von Frey hairs (VFH, Stoelting, Chicago, Il,
+USA). The stimuli were delivered from below to the plantar
+surface of the right hindpaw. The animals were acclimatized
+for 30min before behavioural testing, and mechanical
+hypernociception was evaluated at several time points. A
+VFH of 0.6g produces a mean withdrawal frequency of
+about 15%, which is considered to be an adequate value for
+the measurement of mechanical hypernociception [14, 17].
+Therefore, 0.6g VFH was used throughout this study. To
+determine the basal mechanical thresholds, all the groups
+were evaluated before the test.
+Drugs and Reagents. The following drugs and reagents were
+used: CFA (Sigma Chemical Company, St. Louis, Mo
+USA); carrageenan, PGE2 (Fluka Riedel-de Ha¨ en, Seelze,
+Germany); indomethacin (DEG Importac ¸˜ ao de Produtos
+Qu´ ımicos Ltda). All the other reagents and solvents used
+were of analytical grade.Evidence-Based Complementary and Alternative Medicine 5
+Statistical Analysis. T h er e s u l t sa r ep r e s e n t e da st h e
+mean±S.E.M. of 5 to 7 animals, except for the ID50 values
+(i.e., the dose of A. moluccana DE that reduced the
+hypernociceptive responses by 50% relative to the control
+values), which are presented as means accompanied by
+their respective 95% conﬁdence limits. The ID50 values
+and the percentages of inhibition were based on AUC
+(area under curve), calculated using the entire time course
+of each experiment and reported as mean±S.E.M. of
+inhibitions obtained for each individual experiment.
+Statisticalcomparison ofthe datawas performed by two-way
+analysis of variance (ANOVA), followed by Bonferroni’s post
+hoc test and by one-way ANOVA and Dunnett’s post hoc test.
+P-values lower than 0.05 (P<0.05 or less) were considered
+signiﬁcant.
+3.Results
+3.1. Isolation, Identiﬁcation, and Purity Determination of
+Flavonoids. The phytochemical procedures conducted with
+the crude methanol extract obtained from A. moluccana
+leaves using silica gel CC and ﬂash chromatography led
+to the isolation and identiﬁcation of two main ﬂavone C-
+glycosides, swertisin (1)a n d2   -O-rhamnosylswertisin (2)
+(Figure 1). Although the spectral data has been previously
+published [13], this is the ﬁrst report on the MS analysis of
+this compound.
+Purity analysis was performed by means of HPLC, and
+at 338nm, 2  -O-rhamnosylswertisin was identiﬁed with
+a 24.5min retention time and swertisin with a 25.5min
+retention time Figure 2(a). After integration of all the peaks
+at 338nm, a purity >95% of ﬂavonoids was calculated,
+Figure 2(a).
+3.2.Preparation ofStandardized Dried Extract. TheA.moluc-
+cana dried extract batches obtained in pilot scale by spray
+drier showed similar physical and chemical characteristics,
+Table 1. The dried extracts are characterized as ﬁne and
+hygroscopic powder, spherical particles with a smooth
+surface, greenish brown in color, with approximately 3%
+moisture (Figure 3). The 2  -O-rhamnosylswertisin content
+of the extracts was similar, and the physical and chemical
+results were in agreement with the data obtained in previous
+studies to optimize the extraction process and biological
+activity in vivo.
+The chromatographic proﬁle of dried extract by HPLC
+showed the presence of various ﬂavonoid compounds
+including 2  -O-rhamnosylswertisin (the major component,
+peak 8) and swertisin (peak 9), Figure 2(a).
+3.3. Pharmacological Studies. Figures 4(a) and 4(b) demon-
+strate that i.d. injection of carrageenan (300μg/paw) signif-
+icantly reduced the mechanical sensitivity threshold (P<
+0.05), when compared to the response rate of the con-
+trol group with animals injected with saline solution and
+basal thresholds. The oral treatment with A. moluccana
+(500mg/kg) was able to reduce the mechanical hyper-
+nociception induced by i.d. injection of carrageenan, with
+inhibition of 36±4% and ID50% of 443 (400–490)mg/kg.
+Indomethacin, a non steroidal antiinﬂammatory drug used
+as a positive control, was also capable of inhibiting the
+mechanical sensitization induced by carrageenan, with inhi-
+bition of 38±5%.
+Signiﬁcant results were obtained with animals injected
+with CFA, where A. moluccana SDE (batch 1; 500mg/kg,
+p.o.) reduced the hypernociceptive threshold for up to 6h
+after CFApaw injection, with inhibition of 48±4% at a dose
+of500mg/kg,see Figures4(c)and 4(d).The nonsteroid anti-
+inﬂammatory drug indomethacin (10mg/kg, p.o.), dosed
+orally, did not interfere with the hypernociceptive threshold
+induced by CFA in mice.
+As illustrated in Figures 4(e) and 4(f), i.d. injection of
+PGE2 (0.1nmol/paw) into the mouse hindpaw produced
+prominent mechanical hypernociceptive eﬀects lasting for
+up to 24h, as indicated by a marked increase in baseline
+values in response to 0.6g VFH stimulation. A. moluccana
+DE (batch 1; 125 to 500mg/kg, p.o., 1h) proved to be eﬀec-
+tive in signiﬁcantly preventing PGE2-induced mechanical
+hypernociception up to 1h after the irritant agent injection,
+Figures 4(e) and 4(f). The percentages of reduction were
+26±10% and 33±3%, for 250 and 500mg/kg, respectively.
+Morphine (5mg/kg, s.c.), the drug used as positive control,
+reduced the hypernociceptive response induced by PGE2,
+with inhibition of 48±6%, Figure 4(f).
+The antinociceptive eﬀect of the isolated markers,
+swertisin and 2  -O-rhamnosylswertisin (30mg/kg, p.o., 1h
+before), was also investigated in the carrageenan-induced
+mechanical hypernociception model in mice. Figures 5(a)
+and 5(b) demonstrate that both swertisin and 2  -O-
+rhamnosylswertisin were eﬀective in inhibiting the hyper-
+nociceptive response, when compared with the control
+group, with inhibitions of 70±2% and 50±5%, respec-
+tively. Furthermore, 2  -O-rhamnosylswertisin was capa-
+ble of signiﬁcantly inhibiting the mechanical sensitization
+induced by CFA or PGE2, with inhibitions of 25±3%
+and 94±6%, respectively, see Figures 5(c) and 5(d).2   -
+O-rhamnosylswertisin accounts for 3% of the dried extract
+obtained from A. moluccana,a se v i d e n c e db yH P L C ,s e e
+Figure 2.
+Finally, when the dried extract produced in the scaleup
+was tested, all three batches had the same eﬀect when
+compared with the previous studies, Figures 6(a) and 6(b).
+It is important to mention that the results obtained with the
+dose of 250mg/kg presented in Figure 4(a) are signiﬁcantly
+diﬀerent from the control group, although the AUC repre-
+sentation did not demonstrate the same.
+4.Discussion
+This paper describes the isolation, puriﬁcation, characteriza-
+tion, and pharmacological eﬀectsofthe chemical marker 2  -
+O-rhamnosylswertisin andswertisin from leavesofA.moluc-
+cana. Although these ﬂavonoids have been found in other
+plants, they are considered rare in higher plants and have
+not been described for plants belonging to the Euphorbiaceae
+family.Thesemarkersareimportantforthequalityassurance6 Evidence-Based Complementary and Alternative Medicine
+B1 34 6 2 4 4 8
+0
+25
+50
+75
+100
+Carrageenan (300µg/paw)
++ A. moluccana (125mg/kg, p.o.)
++ A. moluccana (250mg/kg, p.o.)
++ A. moluccana (500mg/kg, p.o.)
+Saline (50µL/paw)
+Time (h)
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
++ Indomethacin (5µkg, p.o.)
+(a)
+Carrageenan (300µg/paw)
+A
+U
+C
+S C 125 250 500 5
+0
+150
+300
+450
+600
+750 #
+∗∗ ∗∗
+A. moluccana DE
+Indomethacin (mg/kg, p.o.)
+(mg/kg, p.o.)
+(b)
+B13 4 6 2 4
+0
+25
+50
+75
+100
+Time (h)
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
+Saline (20µL/paw)
+CFA (20µL/paw)
++ A. moluccana (125mg/kg, p.o.)
++ A. moluccana (250mg/kg, p.o.)
++ A. moluccana (500mg/kg, p.o.)
++ Indomethacin (10µkg, p.o.)
+(c)
+A
+U
+C
+S C 125 250 500 10
+0
+100
+200
+300
+400
+500
+600
+700
+CFA (20µL/paw)
+#
+∗
+A. moluccana DE
+Indomethacin (mg/kg, p.o.)
+(mg/kg, p.o.)
+(d)
+B1 0.5 3 4 6 24
+0
+25
+50
+75
+100
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
+Time (h)
+PGE2(0.1nmol/paw)
+Saline (20µL/paw)
++ morphine (5mg/kg, s.c.) + A. moluccana (125mg/kg, p.o.)
++ A. moluccana (250mg/kg, p.o.)
++ A. moluccana (500mg/kg, p.o.)
+(e)
+A
+U
+C
+S C 125 250 500 5
+PGE2(0.1nmol/paw)
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550 #
+∗
+∗∗
+∗∗
+A. moluccana DE
+Morphine (mg/kg, s.c.)
+(mg/kg, p.o.)
+(f)
+Figure4:EﬀectsofA.moluccanaDE(batch1;125–500mg/kg,p.o.)inmechanicalhypernociception inducedbyi.d.injectionof((a)and(b))
+carrageenan (300μg/paw), ((c) and (d)) CFA (20μL/paw), or ((e) and (f)) PGE2 (0.1nmol/paw) in mice. Each group represents the mean
+of5 to 8 animals,and the vertical lines indicate the SEM.Signiﬁcantlydiﬀerent from the control values ∗P< 0.05 andsigniﬁcantlydiﬀerent
+from saline group #P<0.001 (two-way ANOVA followed by Bonﬀerroni’s post hoc test and one-way ANOVA followed by Dunnett’s post hoc
+test).Evidence-Based Complementary and Alternative Medicine 7
+Carrageenan (300µg/paw)
+(30mg/kg, p.o.)
+Swertisin (30mg/kg, p.o.)
+B1 34 6 2 4 4 8
+Time (h)
+0
+25
+50
+75
+100
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
+2-O-rhamnosylswertisin
+(a)
+0
+250
+500
+750
+SC
+2-O-rhamnosylswertisin (10mg/kg, p.o.)
+Swertisin (30mg/kg, p.o.)
+Carrageenan (300µg/paw)
+#
+∗∗
+∗∗
+A
+U
+C
+(b)
+CFA (20µL/paw)
+2-O-rhamnosylswertisin (10mg/kg, p.o.)
+B1 34 6 2 4 4 8
+Time (h)
+0
+25
+50
+75
+100
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
+(c)
+SC
+CFA (20µL/paw)
+#
+∗∗
+0
+250
+500
+750
+A
+U
+C
+2-O-rhamnosylswertisin (10mg/kg, p.o.)
+(d)
+(20µL/paw) PGE2
+2-O-rhamnosylswertisin (10mg/kg, p.o.)
+B1 34 6
+Time (h)
+0
+25
+50
+75
+100
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
+(e)
+SC
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+#
+∗∗
+A
+U
+C
+PGE2 (0.1nmol/paw)
+2-O-rhamnosylswertisin (10mg/kg, p.o.)
+(f)
+Figure 5: ((a) and (b)) Eﬀects of the isolated compounds 2  -O-rhamnosylswertisin and swertisin, administered orally (30 or 10mg/kg, 1h
+before) in mechanical hypernociception induced by i.d. injection of ((a) and (b)) carrageenan (300μg/paw), ((c) and (d)) CFA (20μL/paw)
+or ((e) and (f)) PGE2 (0.1nmol/paw) in mice. Each group represents the mean of 5 to 8 animals, and the vertical lines indicate the SEM.
+Signiﬁcantlydiﬀerent fromthecontrolvalues ∗P<0.05and ∗∗P<0.01andsigniﬁcantlydiﬀerentfromthesalinegroup #P<0.001(two-way
+ANOVA followed by Bonﬀerroni’s post hoc test and one-way ANOVA followed by Dunnett’s post hoc test).8 Evidence-Based Complementary and Alternative Medicine
+Table 1: Physical and chemical characteristics of dried extracts of Aleurites moluccana produced in pilot scale.
+Parameters Dried extract batch
+123
+Aspect Fine, hygroscopic powder Fine, hygroscopic powder Fine, hygroscopic powder
+Color greenish brown greenish brown greenish brown
+Taste/odor characteristic characteristic characteristic
+Moisture (%) 2.6 3.0 3.4
+Average size (μm) 120.54 151.12 112.69
+pH 4.95 4.76 4.77
+Bulk density (g/mL) 0.6386 0.5757 0.6152
+2  -O-rhamnosylswertisin content (% w/w) 3.01 2.76 2.91
+B 1 3 4 62 4
+0
+25
+50
+75
+100
+Time (s)
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+%
+)
+Carrageenan (300µg/paw)
++ silicon dioxide (6.25mg/mL)
++ Batch 1 (250mg/kg, v.o.)
++ Batch 2 (250mg/kg, v.o.)
++ Batch 3 (250mg/kg, v.o.)
+(a)
+S C Batch 1 Batch 2 Batch 3
+0
+100
+200
+300
+400
+500
+600
+A. moluccana extract
+(250 mg/kg, p.o.)
+Carrageenna (300µg/paw)
+#
+∗∗
+∗∗
+∗∗
+R
+e
+s
+p
+o
+n
+s
+e
+f
+r
+e
+q
+u
+e
+n
+c
+y
+(
+A
+U
+C
+)
+(b)
+Figure 6: ((a) and (b)) Eﬀects of the A. moluccana extract batch 1, 2, or 3, administered orally (250mg/kg, 1h before), in the mechanical
+hypernociception induced by i.d. injection of carrageenan (300μg/paw) in mice. Each group represents the mean of 5 to 8 animals, and the
+vertical lines indicate the SEM. Signiﬁcantly diﬀerent from the control values ∗∗P<0.01 and signiﬁcantly diﬀerent from the saline group
+#P<0.001 (two-way ANOVA followed by Bonﬀerroni’s post-hoc test and one-way ANOVA followed by Dunnett’s post-hoc test).
+of each step in the phytomedicines development and also to
+elucidate its pharmacological activity.
+The methodology of SDE preparation in the pilot scale
+shows reproducibility and feasibility for use in extract
+productiononanindustrial scale.Also,the HPLC-developed
+method allowed the standardization of the extract for the
+future developmentof a phytomedicine.
+The drugs used to treat chronic inﬂammatory conditions
+are not as eﬀective and display pharmacological eﬀect acting
+only on the inhibition of production of prostanoids but not
+interfering with other important elements of the cascade of
+inﬂammation. Thus, the pharmacological validation of nat-
+ural products with established use in folk medicine in these
+types of conditions is very important. The pharmacologic
+eﬀect of SDE and the markers was evaluated in a model of
+mechanical hypernociception induced by important ﬂogistic
+agents such as carrageenan, PGE2,a n dC F A .O u rs t u d y
+initially demonstrated the eﬀect of SDE in the mechanical
+hypernociception induced by i.d. injection of carrageenan in
+mice. Carrageenan is an inﬂammatory agent that is largely
+used as pharmacological tool for investigating inﬂammatory
+hyperalgesia in rats and mice [18]. When injected intrader-
+mally on the plantar surface of animal’s hindpaw, it induces
+an inﬂammatory process associated with hyperalgesia [19].
+Tissue injury originating after the injection of carrageenan
+involves the release of diﬀerent chemical mediators such as
+PGE2 [20],mast cells productshistamine and serotonin [21],
+neuropeptides [22], and cytokines (TNFα and IL-1β)[ 23],
+among others [23]. This eﬀect was similar when compared
+with animals treated with indomethacin. This result suggests
+that SDE of A. moluccana may be interfering with diﬀerent
+pathways involved in inﬂammatory pain signaling.
+The eﬀect of SDE against inﬂammatory hypernocicep-
+tion induced by i.d. injection of CFA and PGE2 was also
+investigated. The CFA model has signiﬁcant proximity
+with chronic inﬂammatory diseases in humans, such as
+rheumatoidarthritis. Theinﬂammatory response inducedby
+CFA develops rapidly and can persist for several weeks orEvidence-Based Complementary and Alternative Medicine 9
+months [14]. The hypernociceptive response is mediated by
+local sensitization of nociceptors and also involves immune
+response and changes in the central nervous system [24]. It
+is now well established that inﬂammatory hypernociception,
+such as that induced by PGE2, depends on the activation
+of signalling pathways, which require neuronal activation
+of PKA in neurons, downstream of the second messenger
+cAMP [25]. Moreover, there many studies suggesting that
+the PKC pathway also participates in nociceptor sensitiza-
+tion, induced by nociceptive mediators, such as adrenaline,
+endothelins, and bradykinin, as well as by more general
+inﬂammation.
+These pharmacological data reinforce the fact that part
+of the antihypernocicepive eﬀect observed with dried extract
+obtained from A. moluccana is probably due to the action
+of the isolated compounds 2  -O-rhamnosylswertisin and
+swertisin. The role of ﬂavonoids in the eﬀects of A.
+moluccana, modulating the nociceptive threshold, can be
+hypothesized, since it has been extensively reported that this
+class of compounds is responsible for the antiinﬂammatory
+and anti-nociceptive eﬀects of several herbal products, such
+as rutin, quercetin, and myricitrin, among others in animal
+modelsofpain and acuteinﬂammation [26–28].Inaddition,
+several ﬂavonoids, including quercetin and myricitrin are
+also eﬀective in reducing hypernociception in models of
+chronic inﬂammatory pain [29–31].
+Previous studies conducted with the ﬂavonoid swertisin
+revealed its potential as an agent that stimulates insulin
+secretion presenting antihyperglycemic eﬀect [32], but no
+analgesic studies with this ﬂavonoid have yet been con-
+ducted; except for tge work in [33]d o n eo nt h eﬂ a v o n o i d -
+enriched fraction from Cayaponia tayuya roots which
+included swertisin.
+Recent studies conducted at our laboratories have indi-
+catedtheabsenceoftoxicologicaleﬀectsofthisextract intwo
+diﬀerent animal species (unpublished results). In addition,
+no cases of intoxication by this Aleurites species were found
+in the literature [34].
+It is also suggested that dried extract of A. moluc-
+cana, dosed systemically, may be acting on the periph-
+eral and/or on the central pathways of pain control. The
+mechanisms through which A. Moluccana,a n di t sm a r k e r
+2  -O-rhamnosylswertisin, exert their anti-hypernociceptive
+actions are currently unclear and require further investiga-
+tion; however, this could well constitute a new and attractive
+alternative for the management of inﬂammatory pain in
+humans using natural product. In view of the need for new
+safe and eﬀective therapies, and taking into account the
+adverse eﬀects associated with the drugs currently used, A.
+moluccana represents an important and promising source of
+herbal medicine for the treatment of pathologies for which
+no eﬃcacious treatment exists, such as chronic pain.
+5.Conclusion
+The standardized dried extract of A. moluccana with 3%
+of the marker 2  -O-rhamnosylswertisin was obtained in a
+reproducibility scaleup method. Furthermore, the extract
+showed potential antinociceptive eﬀects in an experimental
+model of inﬂammatory mechanical sensitization, using dif-
+ferent inductor agent, such as λ-carrageenan, CFA, or PGE2
+inmice.Thebiologicaleﬀectoftheextractmaybeattributed,
+at least in part, to the marker 2  -O-rhamnosylswertisin and
+to the other ﬂavonoid, swertisin, present in minor amounts.
+These promising results support further studies aimed at
+developing a new herbal medicine based on a tree used in
+traditional folk medicine, contributing to the treatment of
+painful processes.
+Acknowledgments
+The authors wish to thank the Laborat´ orio Farmacˆ eutico
+Eurofarma (S˜ ao Paulo, Brazil), FINEP/MCT (Financiadora
+de Estudos e Projetos/Minist´ erio da Ciˆ encia e Tecnologia)
+(no. 01.05.0812.00), CNPq (Conselho Nacional de Ciˆ encia
+e Tecnologia), MS/DECIT (Minist´ erio da Sa´ ude/Departa-
+mento de Ciˆ encia e Tecnologia da Secretaria de Ciˆ encia,
+Tecnologia e Insumos Estrat´ egicos), CT-BIOTEC (Fundos
+Setoriais de Biotecnologia), and CT-Sa´ ude (Fundos Setoriais
+de Sa´ ude (Edital Bioinova no. 551023/2007-4) for their
+ﬁnancial support during this study. C. S. Antonialli and G. F.
+Silva are M.S. students in pharmaceutical Science supported
+by grants from the CNPq.
+References
+[1] P. M. Corrˆ ea, Dicion´ ario das plantas ´ uteis do Brasil e das
+ex´ oticas cultivadas, Imprensa Nacional Rio de Janeiro, Rio de
+Janeiro, Brazil, 1984.
+[ 2 ]J .A .D u k e ,Handbook of Medicinal Herbs,C R CP r e s s ,B o c a
+Raton, Fla, USA, 1990.
+[ 3 ]C .P .L o c h e r ,M .W i t v r o u w ,M .P .D eB e t h u n ee ta l . ,“ A n t i v i r a l
+activity of Hawaiian medicinal plants against human immun-
+odeﬁciency virustype-1 (HIV-1),”Phytomedicine,v ol.2,no .3,
+pp. 259–264, 1996.
+[4] C. P. Locher, M. T. Burch, H. F. Mower et al., “Anti-
+microbial activity and anti-complement activity of extracts
+obtained from selected Hawaiian medicinal plants,” Journal of
+Ethnopharmacology, vol. 49, no. 1, pp. 23–32, 1995.
+[5] R. C. Pedrosa, C. Meyre-Silva, V. Cechinel-Filho et al.,
+“Hypolipidaemic activity of methanol extract of Aleurites
+moluccana,” PhytotherapyResearch,vol.16,no.8,pp.765–768,
+2002.
+[ 6 ] J .A .D u k e ,“ T h eq u e s tf o rt o l e r a n tg e r m p l a s m , ”i nCrop Toler-
+ance to Suboptimal Land Conditions, ASA Special Symposium
+32, pp. 1–61, American Society of Agronomy, Madison, WI,
+USA, 1978.
+[7] V. Cechinel Filho, T. M. B. Bresolin, C. M. S. Bittencourt et
+al., “Pedreira M The process of obtaining an extract, obtained
+extract, pharmaceutical composition, method of treatment
+and use of this extract,” Patente PI 0804525-9 A2 (22), 2008.
+[8] C. Meyre-Silva, T. C. Mora, M. W. Biavatti et al., “Prelimi-
+nary phytochemical and pharmacological studies of Aleurites
+moluccana leaves [L.] Willd,” Phytomedicine,v o l .5 ,n o .2 ,p p .
+109–113, 1998.
+[ 9 ]C .M e y r e - S i l v a ,R .A .Y u n e s ,A .R .S .S a n t o s ,J .D a lM a g r o ,
+F. Delle-Monache, and V. Cechinel-Filho, “Isolation of a C-
+glycoside ﬂavonoid with antinociceptive action from Aleurites10 Evidence-Based Complementary and Alternative Medicine
+moluccana leaves,” Planta Medica, vol. 65, no. 3, pp. 293–294,
+1999.
+[10] United States Pharmacopeia 32th edn, NF 27, United States
+Pharmacopeial Convention, Rockville, Md, USA, 2009.
+[11] S. Shirane, S. Ohya, T. Matsuo et al., “C-glycosyl compounds
+in the leaves of Gemmingia chinensis O. Kuntze,” Agricultural
+and Biological Chemistry, vol.46, no. 10, pp. 2595–2597, 1982.
+[12] M. Komatsu, T. Tomimori, and M. Ito, “Studies on the con-
+stituents of Swertia japonica. I. On the structures of swertisin
+and isoswertisin,” Chemical and Pharmaceutical Bulletin,v o l .
+15, no. 3, pp. 263–269, 1967.
+[ 1 3 ]R .A .H i l s e n b e c ka n dT .J .M a b r y ,“ F l a v o n o i dc h e m i s t r yo f
+Siphonoglossa,”Phytochemistry, vol. 29, no. 7, pp. 2181–2185,
+1990.
+[14] N.L.M.Quint˜ ao,R.Medeiros,A.R.S.Santos,M.M.Campos,
+and J. B. Calixto, “The eﬀects of diacerhein on mechanical
+allodynia in inﬂammatory and neuropathic models of noci-
+ception in mice,” Anesthesia and Analgesia, vol. 101, no. 6, pp.
+1763–1769, 2005.
+[15] J. S. Mogil, J. Ritchie, S. G. Sotocinal et al., “Screening for
+pain phenotypes: analysis of three congenic mouse strains on
+a battery of nine nociceptive assays,” Pain, vol. 126, no. 1–3,
+pp. 24–34, 2006.
+[16] C. A. L. Kassuya, J. Ferreira, R. F. Claudino, and J. B.
+Calixto, “Intraplantar PGE causes nociceptive behaviour and
+mechanical allodynia: the role of prostanoid e receptors and
+protein kinases,” British Journal of Pharmacology, vol. 150, no.
+6, pp. 727–737, 2007.
+[17] L.B.Bortalanza,J.Ferreira,S.C.Hess,F.Delle Monache,R.A.
+Yunes, and J. B. Calixto, “Anti-allodynic action of the tormen-
+tic acid, a triterpene isolated from plant, against neuropathic
+and inﬂammatory persistent pain in mice,” European Journal
+of Pharmacology, vol. 453, no. 2-3, pp. 203–208, 2002.
+[18] M. L. Vale, V. M. Benevides, D. Sachs et al., “Antihyperalgesic
+eﬀect of pentoxifylline on experimental inﬂammatory pain,”
+British Journal of Pharmacology, vol. 143, no. 7, pp. 833–844,
+2004.
+[ 1 9 ]D .S a l v e m i n i ,Z .Q .W a n g ,D .M .B o u r d o n ,M .K .S t e r n ,M .
+G. Currie, and P. T. Manning, “Evidence of peroxynitrite
+involvement in the carrageenan-induced rat paw edema,”
+European Journal of Pharmacology, vol. 303, no. 3, pp. 217–
+220, 1996.
+[20] S. Oh-Ishi, “Regulation of biological functions by the
+kallikrein-kinin system,” Yakugaku Zasshi, vol. 117, no. 10-11,
+pp. 739–748, 1997.
+[21] L. Kocher, F. Anton, and P. W. Reeh, “The eﬀect of
+carrageenan-induced inﬂammation on the sensitivity of
+unmyelinated skin nociceptors in the rat,” Pain,v o l .2 9 ,n o .
+3, pp. 363–373, 1987.
+[22] T. J. Coderre and R. Melzack, “Central neural mediators of
+secondary hyperalgesia following heat injury in rats: neu-
+ropeptides and excitatory amino acids,” Neuroscience Letters,
+vol. 131, no. 1, pp. 71–74, 1991.
+[23] T .M.C u nha,W .A .V e rri,J .S.Sil v a,S.P oole ,F .Q.C u nha,and
+S. H. Ferreira, “A cascade of cytokines mediates mechanical
+inﬂammatory hypernociception in mice,” Proceedings of the
+National Academy of Sciences of the United States of America,
+vol. 102, no. 5, pp. 1755–1760, 2005.
+[24] T. A. Samad, K. A. Moore, A. Sapirstein et al., “Interleukin-
+1 β-mediated induction of Cox-2 in the CNS contributes
+to inﬂammatory pain hypersensitivity,” Nature, vol. 410, no.
+6827, pp. 471–475, 2001.
+[25] C. A. L. Kassuya, J. Ferreira, R. F. Claudino, and J. B.
+Calixto, “Intraplantar PGE causes nociceptive behaviour and
+mechanical allodynia: the role of prostanoid e receptors and
+protein kinases,” British Journal of Pharmacology, vol. 150, no.
+6, pp. 727–737, 2007.
+[26] J. M. Tall and S. N. Raja, “Dietary Constituents as Novel
+Therapies for Pain,” Clinical Journal of Pain,v o l .2 0 ,n o .1 ,p p .
+19–26, 2004.
+[ 2 7 ]A .W .F i l h o ,V .C .F i l h o ,L .O l i n g e r ,a n dM .M .d eS o u z a ,
+“Quercetin: further investigation of its antinociceptive prop-
+erties and mechanisms of action,” Archives of Pharmacal
+Research, vol. 31, no. 6, pp. 713–721, 2008.
+[ 2 8 ]F .D .R .L a p a ,V .M .G a d o t t i ,F .C .M i s s a ue ta l . ,“ A n t i n o c i c e p -
+tive properties of the hydroalcoholic extract and the ﬂavonoid
+rutin obtained from Polygala paniculata L. in Mice,” Basic and
+Clinical Pharmacology and Toxicology, vol. 104,no. 4, pp. 306–
+315, 2009.
+[ 2 9 ]F .C .M e o t t i ,F .C .M i s s a u ,J .F e r r e i r ae ta l . ,“ A n t i - a l l o d y n i c
+property of ﬂavonoid myricitrin in models of persistent
+inﬂammatory and neuropathic pain in mice,” Biochemical
+Pharmacology, vol. 72, no. 12, pp. 1707–1713, 2006.
+[ 3 0 ]F .C .M e o t t i ,A .P .L u i z ,M .G .P i z z o l a t t i ,C .A .L .K a s s u y a ,J .
+B. Calixto,andA. R. S.Santos,“Analysis ofthe antinociceptive
+eﬀect of the ﬂavonoid myricitrin: evidence for a role of the L-
+arginine-nitric oxide and protein kinase C pathways,” Journal
+of Pharmacology and Experimental Therapeutics, vol. 316, no.
+2, pp. 789–796, 2006.
+[31] D. A. Val´ erio, S. R. Georgetti, D. A. Magro et al., “Quercetin
+reduces inﬂammatory pain: inhibition of oxidative stress and
+cytokine production,” Journal of Natural Products, vol. 72, no.
+11, pp. 1975–1979, 2009.
+[32] P. Folador, L. H. Cazarolli, A. C. Gazola, F. H. Reginatto, E. P.
+Schenkel, and F. R. M. B. Silva, “Potential insulinsecretagogue
+eﬀects of isovitexin and swertisin isolated from Wilbrandia
+ebracteata roots in non-diabetic rats,” Fitoterapia, vol. 81, no.
+8, pp. 1180–1187, 2010.
+[ 3 3 ]S .A q u i l a ,R .M .G i n e r ,M .C .R e c i o ,E .D .S p e g a z z i n i ,a n d
+J. L. R´ ıos, “Anti-inﬂammatory activity of ﬂavonoids from
+Cayaponia tayuya roots,” Journal of Ethnopharmacology,v o l .
+121, no. 2, pp. 333–337, 2009.
+[34] M. A. Pinillos, C. Beamount, C. Jean Louis, C. Rubio, J. J.
+Martinez, and N. Velilla, “Intoxicaci´ on por “Nuez de la India”
+(Alleurites moluccana),” Critical Reviews in Toxicology,v o l .2 4 ,
+p. 83, 2007.

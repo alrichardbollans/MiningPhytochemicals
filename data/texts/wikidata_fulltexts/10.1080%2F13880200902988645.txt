@@ -1,0 +1,988 @@
+Food Science and Human Nutrition Publications Food Science and Human Nutrition
+8-2009
+Hypericum in infection: Identification of anti-viral
+and anti-inflammatory constituents
+Diane F. Birt
+Iowa State University, dbirt@iastate.edu
+Mark P. Widrlechner
+United States Department of Agriculture, isumw@iastate.edu
+Kimberly D.P. Hammer
+Iowa State University
+Matthew L. Hillwig
+Iowa State University
+Jingqiang Wei
+Iowa State University
+See next page for additional authors
+Follow this and additional works at: http://lib.dr.iastate.edu/fshn_ag_pubs
+Part of the Agricultural Science Commons, Agriculture Commons, Agronomy and Crop
+Sciences Commons, Food Science Commons, Genetics Commons, Horticulture Commons, Human
+and Clinical Nutrition Commons, Medicinal-Pharmaceutical Chemistry Commons, and the
+Microbiology Commons
+The complete bibliographic information for this item can be found at http://lib.dr.iastate.edu/
+fshn_ag_pubs/36. For information on how to cite this item, please visit http://lib.dr.iastate.edu/
+howtocite.html.
+This Article is brought to you for free and open access by the Food Science and Human Nutrition at Digital Repository @ Iowa State University. It has
+been accepted for inclusion in Food Science and Human Nutrition Publications by an authorized administrator of Digital Repository @ Iowa State
+University. For more information, please contact digirep@iastate.edu.
+Authors
+Diane F. Birt, Mark P. Widrlechner, Kimberly D.P. Hammer, Matthew L. Hillwig, Jingqiang Wei, George A.
+Kraus, Patricia A. Murphy, Joe-Ann McCoy, Eve S. Wurtele, Jeffrey D. Neighbors, David F. Wiemer, Wendy J.
+Maury, and Jason P. Price
+This article is available at Digital Repository @ Iowa State University: http://lib.dr.iastate.edu/fshn_ag_pubs/36
+Pharmaceutical Biology, 2009; 47(8): 774–782
+R E S E A R C H  A R T I C L E
+Hypericum in infection: Identification of anti-viral and 
+anti-inflammatory constituents
+Diane F. Birt1,2, Mark P. Widrlechner1,3,7, Kimberly D. P. Hammer 1,2,4, Matthew L. Hillwig1,5, 
+Jingqiang Wei1,6, George A. Kraus1,6, Patricia A. Murphy1,2, Joe-Ann McCoy1,7,10, Eve S. Wurtele1,5, 
+Jeffrey D. Neighbors1,8, David F. Wiemer1,8, Wendy J. Maury1,9, and Jason P. Price1,9
+1The Center for Research on Botanical Dietary Supplements, 2Department of Food Science and Human Nutrition, 
+3Departments of Horticulture and Agronomy, 4Interdepartmental Genetics Graduate Program, 5Department of 
+Genetics, Development, and Cell Biology, 6Department of Chemistry, Iowa State University, Ames, IA, USA,  
+7US Department of Agriculture-Agricultural Research Service, North Central Regional Plant Introduction Station, 
+Ames, IA, USA, 8Department of Chemistry, University of Iowa, Iowa City, IA, USA, 9Department of Microbiology, 
+University of Iowa, Iowa City, IA, USA, and 10current address: Bent Creek Institute, The North Carolina Arboretum, 
+Asheville, NC, USA
+Address for Correspondence: Diane F. Birt, Department of Food Science and Human Nutrition, Iowa State University, 215 MacKay Hall, Ames, IA 50011, 
+USA. Tel: 515-294-9873. Fax: 515-294-6193. E-mail: dbirt@iastate.edu
+(Received 17 April 2009; accepted 21 April 2009)
+Introduction: center organization
+The Iowa Botanical Center is unique among Office of 
+Dietary Supplements (ODS) Botanical Supplements 
+Research Centers in that we have demonstrated the 
+capacity to harness interdisciplinary research on the 
+genetic, developmental, and biochemical diversity of 
+Echinacea, Hypericum, and Prunella species to improve 
+our understanding of the key constituents that contrib-
+ute to their bioactivity. The range of variation in these 
+plants, when systematically analyzed, provides a strong 
+foundation on which to develop the strategies and tools 
+ISSN 1388-0209 print/ISSN 1744-5116 online © 2009 Informa UK Ltd
+DOI: 10.1080/13880200902988645
+Abstract
+The Iowa Center for Research on Botanical Dietary Supplements seeks to optimize Echinacea, Hypericum, 
+and Prunella botanical supplements for human-health benefit, emphasizing anti-viral, anti-inflammatory, 
+and anti-pain activities. This mini-review reports on ongoing studies on Hypericum. The Center uses the 
+genetically diverse, well-documented Hypericum populations collected and maintained at the USDA-ARS 
+North Central Regional Plant Introduction Station (NCRPIS), and the strength of research in synthetic chem-
+istry at Iowa State University to tap natural diversity, to help discover key constituents and interactions 
+among constituents that impact bioactivity and toxicity. The NCRPIS has acquired more than 180 distinct 
+populations of Hypericum, with a focus on Hypericum perforatum L. (Hypericaceae), representing about 
+13% of currently recognized taxa. Center chemists have developed novel synthetic pathways for key fla-
+vones, acyl phloroglucinols, hyperolactones, and a tetralin that have been found in Hypericum, and these 
+compounds are used as standards and for bioactivity studies. Both light-dependent and light-independent 
+anti-viral activities have been identified by using bioactivity-guided fractionation of H. perforatum and a 
+HIV-1 infection test system. Our Center has focused on light-independent activity, potentially due to novel 
+chemicals, and polar fractions are undergoing further fractionation. Anti-inflammatory activity has been 
+found to be light-independent, and fractionation of a flavonoid-rich extract revealed four compounds 
+(amentoflavone, chlorogenic acid, pseudohypericin, and quercetin) that interacted in the light to inhibit 
+lipopolysaccharide-induced prostaglandin E2 activity. The Center continues to explore novel populations 
+of H. perforatum and related species to identify constituents and interactions of constituents that contrib-
+ute to potential health benefits related to infection.
+Keywords: Hypericum; infection; anti-viral; anti-inflammatory; phloroglucinols; flavonoids
+http://www.informapharmascience.com/phb
+Hypericum in infection  775
+needed to produce the most efficacious products for a 
+growing body of consumers. This mini-review will focus 
+on some of our work with Hypericum.
+Our general approach is to identify chemical pro-
+files and the key compounds that define these plants’ 
+bioactivity, and to provide a context that can be used to 
+reinterpret past studies and, in turn, serve as the basis 
+for future research. The primary goal of our Center is to 
+improve our understanding of the characteristics that 
+contribute to health benefits and optimize these sup-
+plements for study in future clinical trials. Our Center 
+comprises three projects focused on anti-viral, anti-
+inflammatory, and anti-pain activities, respectively, 
+and three cores that provide key services in support 
+of these projects: Germplasm and Phytochemical 
+Profiling; Separations/Structure/Bioavailability; and 
+Administration, Data Management, Statistics, and 
+Bioinformatics.
+The overarching objectives of our Center are to:
+identify the compounds that contribute to the anti-•	
+viral, anti-inflammatory, and pain-control effects, 
+and those contributing to their toxicity;
+assess the influence of plant species and population •	
+on the bioactive constituents in these genera;
+understand the mechanisms of action of bioactive •	
+constituents – in particular the cellular-signaling 
+pathways and receptors that are critical for their 
+bioactivity – and the effects of their interactions;
+assess the bioavailability of key constituents of these •	
+supplements and the effects of their complex chemi-
+cal profiles on bioavailability.
+Given the long and diverse history of traditional 
+ medicinal uses of H. perforatum in Europe, including 
+its use as an agent to reduce inflammation and promote 
+healing (Bombardelli & Morazzoni, 1995), this species 
+fits especially well with our ongoing research.
+Genetic resources and production of  
+well-characterized plant material
+A unique resource of the Center is our collection of 
+a genetically diverse set of well-documented plant 
+populations of Echinacea, Hypericum, and Prunella 
+being conserved at the US Department of Agriculture-
+Agricultural Research Service (USDA-ARS) North 
+Central Regional Plant Introduction Station (NCRPIS). 
+The NCRPIS, located at Iowa State University, is one 
+of the main active genebanks in the US National Plant 
+Germplasm System (NPGS) (McCoy, 2007), with sig-
+nificant collections of medicinal-plant germplasm. 
+Efforts to assemble the NCRPIS Echinacea collection 
+were described by Widrlechner and McKeown (2002), 
+and a recent overview of this important collection and 
+its relationship to the Center was presented by Birt 
+et al. (2008). The NCRPIS Prunella collection is a recent 
+development, resulting from the inclusion of this genus 
+in research projects incorporated into the Center’s 2007 
+Project Renewal, while the more extensive NCRPIS 
+Hypericum collection is described in detail below. These 
+resources provide Center researchers with control over 
+the production of known-source plant materials and 
+a common basis for studies in genomic analysis and 
+broad-based plant metabolic profiling, enhancing our 
+ability to integrate complex datasets by using bioinfor-
+matics and other statistical tools.
+Since the late 1990s, the NCRPIS has acquired 
+more than 180 distinct populations (or accessions) of 
+Hypericum, currently representing about 60 taxa, or 
+~13% of currently recognized taxa (Robson, 2003), with 
+an emphasis on H. perforatum and its close relatives. 
+Because representation of the 400+ species of Hypericum 
+(Robson, 2003) is currently incomplete, efforts will 
+be taken to improve coverage, both for those species 
+most closely related to H. perforatum and for a broad, 
+stratified sample of other taxonomic sections within 
+the genus. Dr. Norman Robson, an expert in Hypericum 
+ systematics, has agreed to serve as an advisor on both 
+our acquisition and characterization efforts. New collec-
+tions are being obtained both through exchange relation-
+ships with other institutions and through targeted field 
+collections. For example, an NPGS-funded collection 
+trip to the Republic of Georgia focusing on medicinal 
+plants was conducted in August–September 2007. The 
+Republic of Georgia was selected due to the high degree 
+of Hypericum biodiversity represented in the region.
+The genetic integrity of each Hypericum accession is 
+preserved by regenerating seed samples under control-
+led conditions (systems described by Widrlechner et al., 
+1997 and Brenner & Widrlechner, 1998) in screened 
+field cages with insect pollinators or, in the greenhouse, 
+in mesh tents under controlled-temperature conditions 
+to reduce the possibility of infection by the debilitat-
+ing fungal pathogen, Colletotrichum gloeosporioides 
+(Hildebrand & Jensen, 1991). Because this destruc-
+tive anthracnose pathogen can be seedborne, we have 
+developed a Colletotrichum blotter test to screen germi-
+nating seeds for fungal contamination, with 61% of our 
+Hypericum collection now screened. All germination 
+and pathogen data collected have been entered in the 
+Germplasm Resources Information Network (GRIN) 
+database (US Department of Agriculture, 2007).
+During seed regeneration, taxonomic identities are 
+verified and populations are being characterized for 
+phenotypic traits following a standardized descriptor 
+list. Detailed passport data describing each accession 
+are available from the GRIN database. Phenotypic 
+776  Diane F . Birt et al.
+descriptors along with images of the accessions are cur-
+rently being assembled. Seeds of all available accessions 
+are distributed for research and educational purposes 
+at no cost to the user and can be accessed via the GRIN 
+database.
+Hypericum samples used by Center researchers have 
+typically been produced from NCRPIS accessions col-
+lected from a variety of sources, including both wild 
+populations and commercial varieties. By using these 
+accessions produced under known conditions, we 
+minimize both the genetic and environmental compo-
+nents of biochemical variation in the resulting products, 
+which increases the overall repeatability of bioassays 
+in our Center’s projects. Replicated field plantings of 
+four accessions of H. perforatum were established in 
+2003 and expanded the following year to include three 
+more accessions by Center researchers, Drs. Kathleen 
+Delate and Fredy Romero, to optimize production of 
+ above-ground vegetative material. These plots were 
+maintained through 2005, when a Colletotrichum 
+ infection was identified.
+Fifty-six Hypericum accessions representing 11 spe-
+cies were supplied to Dr. Jonathan Wendel’s laboratory 
+for genetic-diversity studies and to identify species-
+ specific amplified fragment length polymorphism 
+(AFLP) markers for taxonomic identification (Percifield 
+et al., 2007). Similarly, 76 Hypericum samples were sup-
+plied to Dr. Eve Wurtele’s laboratory to develop chemical 
+fingerprints for various accessions and identify bioactive 
+compounds of interest. Percifield et al. (2007) recently 
+identified 17 AFLP markers present in all 42 H. perfora-
+tum accessions evaluated; of these, two were unique to 
+H. perforatum. The unique markers may be valuable for 
+raw-material verification. All of the materials provided 
+for these two projects were collected,  taxonomically 
+verified, and propagated by Center researchers, Drs. 
+Joe-Ann McCoy and Mark Widrlechner. After  production 
+and processing, all plant samples for Center use are 
+inventoried with a standardized coding system, and 
+unextracted dried plant materials are packaged in nitro-
+gen and stored frozen at −20°C.
+Chemical synthesis of key phytochemicals
+As part of a multidisciplinary effort to identify new bio-
+active constituents from Echinacea and Hypericum, we 
+required flexible synthetic routes to produce the key 
+flavones and acyl phloroglucinols present in Hypericum. 
+Access to highly pure standards is important for both 
+chemical profiling among species and for biological 
+evaluation. Although synthetic routes to individual 
+flavones have been reported (Marais et al., 2005), no 
+synthesis of flavones or acyl phloroglucinols from ben-
+zodioxinones had been reported.
+Apigenin is a natural antioxidant flavone that occurs 
+in a number of Hypericum species (Kartnig et al., 1996). 
+It has been shown to promote cell-cycle arrest and 
+apoptosis in various malignant cell lines and is also a 
+potent inhibitor of glucosyltransferase activity (Viola 
+et al., 1995). Our methodology has been applied to a 
+direct synthesis of apigenin. Unexpectedly, the reac-
+tion of the enolate of para-methoxyacetophenone 
+returned starting materials. As shown in Figure 1, the 
+lithium diisopropylamide-derived enolate of para-
+benzenesulfonyloxyacetophenone reacted efficiently 
+with the benzodioxinone to produce the -diketone, 
+which was cyclized and deprotected to provide api-
+genin in 40% overall yield. The proton and 13C nuclear 
+magnetic resonance (NMR) spectra of our synthetic 
+material matched the spectra of an authentic sample 
+(Kraus & Wei, 2004).
+Acyl phloroglucinols, a diverse class of natural prod-
+ucts that exhibit antibacterial activity, anticancer activ-
+ity, and antitubercular activity, are broadly distributed 
+among plant families. Several species of Hypericum 
+ contain biologically active acyl phloroglucinols 
+(Gibbons et al., 2005). We recently synthesized the acyl 
+ phloroglucinol shown in Figure 1 from the benzodioxi-
+none. This compound can serve as an intermediate to 
+more complex acyl phloroglucinols.
+The hyperolactones constitute a growing class of novel 
+metabolites found in Hypericum species (Aramaki et al., 
+1995). The structure of hyperolactone C is depicted in 
+Figure 1. In the context of a study of Hypericum metabo-
+lites through bioassay-guided fractionation, we required 
+an authentic sample of hyperolactone C, whose extended 
+conjugation and resemblance to known antiviral agents 
+made it a metabolite of interest. Kinoshita and cowork-
+ers reported interesting syntheses of hyperolactone C 
+from chiral precursors (Ichinari et al., 1997). Although 
+their synthesis defined the absolute stereochemistry, a 
+more direct synthetic approach was needed to support 
+biological studies. We synthesized hyperolactone C in 
+O
+O
+Ph
+O
+O
+1. LDA,
+aldehyde
+2. PTSA
+3. K2CO3
+MeOH
+O
+O
+HO
+OH
+OH
+Me
+Me Me
+Me
+OH
+O
+O
+O
+BsO
+OBs
+Me
+Me
+Apigenin
+OH
+O
+HO
+OH
+Hyperolactone C TetralinAcyl phloroglucinol
+Benzodioxinone
+OH
+Figure 1. Chemical standards from Hypericum.
+Hypericum in infection  777
+four steps from commercially available starting materi-
+als (Kraus & Wei, 2004), via a tandem Claisen/lactoniza-
+tion reaction.
+A novel tetralin (Figure 1) was isolated from H. elo-
+deoides Choisy (Mathela et al., 1984). We prepared this 
+tetralin from 3-methylcatechol by way of a stereoselec-
+tive electrophilic cyclization onto a protected catechol 
+(Kraus & Jeon, 2006).
+Anti-viral screening using HIV-1
+Light-dependent antiviral activities of H. perforatum 
+have been extensively explored by others (Hudson 
+et al., 1991; Jacobson et al., 2001; Laurent et al., 2005; 
+Naesens et al., 2006). This light-dependent, anti-viral 
+activity against various enveloped viruses, but not 
+non- enveloped viruses, has been ascribed to the 
+H. perforatum naphthodianthrones, hypericin and 
+ pseudohypericin (Kraus et al., 1990; Lopez-Bazzocchi 
+et al., 1991; Degar et al., 1992; Carpenter et al., 1994; 
+Lavie et al., 1995; Vyas, 1995; Farnet et al., 1998; Park 
+et al., 1998). Hypericin, when exposed to light, displays 
+multiple modes of anti-viral activity, including inhibi-
+tion of budding of new virions (Meruelo et al., 1988), 
+cross-linking of capsids preventing viral uncoating 
+(Degar et al., 1992), and inhibition of protein kinase 
+activity required for replication of a number of viruses 
+(De Witte et al., 1993; Agostinis et al., 1995). The obser-
+vation that hypericin specifically inhibits enveloped 
+viruses strongly implicates membrane-associated 
+events as central to the inhibition. Consistent with this, 
+light-sensitized hypericin is directly viricidal to these 
+viruses (Kuhn, 1995; Lavie et al., 1995; Vyas, 1995). 
+We evaluated the ability of hypericin to inhibit human 
+immunodeficiency virus-1 (HIV-1) replication in a short 
+term infectivity assay. Consistent with other reports, 
+a dose-dependent inhibition of HIV-1 expression was 
+observed when hypericin was added at the time of 
+infection under ambient light conditions (Figure 2). 
+However, the light-dependent nature of the anti-viral 
+activity of hypericin reduces the potential applicability 
+of this compound for in vivo studies.
+Additional anti-viral studies performed at the Iowa 
+Center for Research on Botanical Dietary Supplements 
+found that H. perforatum extracts also contain light-
+independent anti-HIV-1 activity. Chloroform extracts of 
+H. perforatum that lacked detectable levels of naphthodi-
+anthrones were used as the starting material in bioassay-
+guided fractionation studies to identify light-independent 
+anti-HIV-1 activity. Extracts were fractionated through a 
+series of three successive column  chromatography experi-
+ments, and the fractions obtained were assayed for anti-
+HIV-1 activity (Figure 3A). At each step, the most polar 
+fractions were found to contain constituents that inhibited 
+HIV infection in a dose-dependent, but light-independent 
+manner. As early as the initial fractionation, material eluted 
+in methanol had significant anti-HIV-1 activity in both 
+light and dark conditions (Figure 3B). Further purification 
+provided evidence of anti-HIV-1 activity in the absence of 
+cell cytotoxicity (Figure 3C). Continued fractionation of 
+the most advanced active fractions (E4.7 and E4.8) must 
+be conducted to identify the botanical constituents that 
+confer this novel antiviral activity.
+Anti-inflammatory screening using 
+RAW264.7 macrophages
+The primary approach taken to assess the anti-
+ inflammatory activity of Hypericum was to measure the 
+influence of accessions of H. perforatum on lipopoly-
+saccharide (LPS)-induced prostaglandin E
+2
+ (PGE
+2
+) 
+production by RAW264.7 mouse macrophages. Anti-
+inflammatory activity of different accessions of H. per-
+foratum was studied in Soxhlet chloroform and Soxhlet 
+ethanol extracts at the highest concentrations, and all 
+accessions inhibited PGE
+2
+ production in LPS-induced 
+RAW264.7 macrophages (Hammer et al., 2007). Dilution 
+studies suggest that the constituents that account for the 
+anti-inflammatory activity of H. perforatum accessions 
+are extracted by either chloroform or ethanol, indicating 
+that hypericin and related compounds that would only be 
+0%
+50%
+100%
+150%
+10 100 1000 10000
+nM hypericin added
+%
+ c
+on
+tro
+l
+cell viability
+HIV replication
+Figure 2. Ability of hypericin to inhibit HIV-1 infection. The HIV-1 
+molecular clone, pNL4-3 (multiplicity of infection (MOI) = 0.005), 
+was incubated with permissive HeLa37 cells that express CD4 and 
+CXCR4. Three-fold serial dilutions of hypericin were added to the 
+infections. The mixture was incubated under ambient light conditions 
+within the laboratory for 10 min prior to incubation at 37°C in a tis-
+sue culture incubator. Cells were fixed at 40 h following infection and 
+immunostained for HIV-1 antigens as previously described (Reed-
+Inderbitzin & Maury, 2003). HIV antigen-positive cells were enumer-
+ated. The number of HIV-1 positive cells observed in the presence of 
+hypericin was divided by the number of HIV-1 positive cells found in 
+the absence of hypericin, shown as % control values. In parallel, the 
+cytotoxicity of the extract was evaluated in HeLa37 cells in an ATP 
+Lite assay (Packard Instruments) and those values are shown as the 
+number of cells that are viable in the presence of hypericin divided by 
+the number of viable cells in the presence of vehicle alone.
+778  Diane F . Birt et al.
+present in the ethanol extract do not account for this bioac-
+tivity. The most active accession, Ames 27452 ‘Medizinal’ , 
+marketed under the name Elixir™, was developed using 
+conventional plant breeding for higher concentrations of 
+putative bioactive compounds, which was reflected in its 
+relatively high concentration of total flavonoids in a multi-
+accession evaluation (Gaudin et al., 2003), and its more 
+potent anti-inflammatory activity as reported by Hammer 
+et al. (2007), supporting the success of this strategy.
+Several constituents of Hypericum, including hyper-
+forin, hypericin, pseudohypericin, quercetin, quercitrin, 
+isoquercitrin, rutin, amentoflavone, and chlorogenic 
+acid, were studied for their impact on LPS-induced PGE
+2
+ 
+production (Hammer et al., 2007). Based on the concen-
+trations of these chemicals in the extracts and fractions, 
+none of these constituents alone could account for the 
+anti-inflammatory activity. However, it is possible that 
+concentrations of specific flavonoids, such as amento-
+flavone, that would not inhibit PGE
+2
+ production in their 
+pure forms, were effective in the fractions and extracts in 
+the presence of other compounds.
+Because of published evidence that flavonoids pos-
+sess anti-inflammatory activity (Middleton Jr et al., 
+2000), and from the similar anti-inflammatory activity 
+of the ethanol and chloroform extracts, which would 
+both contain flavonoids, H. perforatum was fractionated 
+to generate flavonoid-rich fractions (sequential hexane, 
+ethanol, then chloroform extracts). The fraction with 
+the greatest concentrations of flavonoids from the first 
+round of fractionation was the most anti-inflammatory. 
+Further fractionation by column chromatography with a 
+gradient from chloroform to 50:50 acetonitrile/ methanol 
+yielded a fraction with similar anti- inflammatory activ-
+ity. Subsequently, subfractionation of this second-round 
+active fraction yielded fraction 3A where four constitu-
+ents (amentoflavone, chlorogenic acid, pseudohyper-
+icin, and quercetin) were identified and quantified by 
+liquid chromatography-mass spectrometry (Figure 4) 
+(Hammer et al., 2008). A proportional combination 
+of these constituents was then used for assessment 
+in the LPS-induced PGE
+2
+ assay. In the light, the 1 × 4 
+component system that contained the four identified 
+0 
+20 
+40 
+60 
+80 
+100 
+120 
+1%
+ D
+M
+SO
+ 
+%
+ v
+iru
+s 
+re
+du
+ct
+io
+n
+%
+ v
+iru
+s 
+re
+du
+ct
+io
+n
+%
+ c
+on
+tr
+ol
+ v
+al
+ue
+s 
+- c
+el
+l 
+vi
+ab
+ili
+ty
+ 
+light 
+dark 
+A. B.  
+C. 
+Filtered to remove solids 
+100% hexanes 
+discarded 
+10/90 50/50 
+Sample E3 Sample E4 
+0% 
+50% 
+100% 
+0 10 20 30 
+H. perforatum E4.8 (ug/ml) 
+0% 
+50% 
+100% 
+cell viability 
+% virus reduction 
+Crude Extract 
+(23.56g) 
+CHCl3
+activated charcoal
+Silica gel column 
+chromatograhy on CHCl3 solution 
+Silica gel column 
+chromatograhy 
+Silica gel column 
+chromatograhy 
+100% CHCl3 
+Sample D 
+100% CH3OH 
+Sample E(7.07g) 
+50/50 CH3CN/ 
+CHCl3 
+Sample E1 
+100% CH3CN 
+Sample E2 
+CH3OH/CH3CN 
+100% 
+E4.8 
+60% 
+E4.7 
+50% 
+E4.6 
+40% 
+E4.5 
+30% 
+E4.4 
+20% 
+E4.3 
+10% 
+E4.2 
+5% 
+E4.1 
+(%CH3OH/CH3CN) 
+H
+yp
+er
+ic
+in
+ 
+(5
+ u
+g/
+m
+l) 
+M
+et
+ha
+no
+l 
+(3
+33
+ u
+g/
+m
+l) 
+M
+et
+ha
+no
+l 
+(3
+3 
+ug
+/m
+l) 
+Figure 3. Fractionation of light-independent anti-HIV-1 activity of H. perforatum extracts. (A) Bioactivity-guided fractionation protocol. 
+(B) Methanol extracted fractions had equivalent ability to inhibit HIV infection in light and dark. Chloroform extracts of H. perforatum were 
+extracted with hexane, chloroform, or methanol and the methanol fraction was analyzed for anti-HIV activity. The HIV-1 molecular clone, 
+pNL4-3, was incubated with HeLa37 cells in the presence of 10-fold dilutions of the methanol fraction under ambient light or low light conditions 
+for 10 min. Hypericin was evaluated in parallel and served as the light-dependent control. At 40 h following infection, cells were fixed and immu-
+nostained for HIV antigens. Shown is the percent reduction of HIV positive cells in the presence of hypericin or extract compared to the number 
+of HIV positive cells in the presence of vehicle alone. (C) The ability of increasing concentrations of subfraction E4.8 to inhibit HIV infectivity. 
+Subfraction concentrations were incubated with HIV-1 and HeLa37 cells over a 40 h period. Cells were acetone fixed and evaluated for HIV posi-
+tivity. The cytotoxicity of increasing concentrations of the subfraction to HeLa37 cells is also shown as the cell viability relative to control.
+Hypericum in infection  779
+constituents in the amounts found in fraction 3A inhib-
+ited LPS-induced production of PGE
+2
+ by nearly as much 
+as fraction 3A (Figure 5). However, it was clear that no 
+one constituent was present at a high enough concen-
+tration to account for this degree of inhibition (Table 1). 
+For example, amentoflavone was found at 0.08 M in 
+fraction 3A while pure amentoflavone was only effective 
+at concentrations of ≥10 M. However, these data also 
+highlight the possibility that unknown and/or uniden-
+tified compounds significantly contribute to the light-
+independent activity of fraction 3A.
+Further studies of the four constituents identified 
+in the four-component system showed that amen-
+toflavone, chlorogenic acid, pseudohypericin, and 
+quercetin were effective in inhibiting LPS-induced 
+PGE
+2
+  primarily with light activation and only when 
+combined in groups of two or three chemicals if pseu-
+dohypericin was present. Further, the combinations of 
+pseudohypericin with amentoflavone or quercetin, or 
+all three of these constituents, were generally the most 
+effective (Figure 6). Current investigations are assess-
+ing the impact of these known constituents on gene 
+0 5 10 15 20 25 30 Time [min]
+0
+1
+2
+3
+× 106
+Intens.
+pseudohypericin
+28.4 min, 519 m/z 
+amentoflavone
+22.7 min, 537 m/z
+quercetin 
+19.9 min, 301 m/z
+chlorogenic acid
+2.3 min, 353 m/z
+Fraction 3A EIC(−)
+Figure 4. Extracted ion chromatographs (EIC) from liquid chromatography-mass spectrometry analysis (negative ion mode) of fraction 3A 
+showed that chlorogenic acid, quercetin, amentoflavone, and pseudohypericin were present, based on matching retention times and mass-to-
+charge ratios (from data published in Hammer et al., 2008). The fractions were analyzed with an Agilent Technologies Ion Trap 1100 LC-ESI-MS 
+(Ganzera et al., 2002).
+5 
+4 
+Light-activated Dark
+3 
+LP
+S-
+in
+du
+ce
+d 
+PG
+E 2
+ 
+le
+ve
+l (n
+g/m
+l) 
+2 
+1 
+0 
+media media + 
+DMSO 
+Fraction 3A 
+* 
+* 
+* 
+* 
+** 
+* 
+$ 
+$ 
+$ 
+4 
+Component 
+System 
+10 × 4
+Component
+System
+100 × 4 
+Component 
+System 
+Figure 5. Fraction 3A was compared with 1, 10, and 100× dilutions (four-component system) of the four identifiable constituents (amentofla-
+vone, chlorogenic acid, pseudohypericin, and quercetin) in fraction 3A (from data published in Hammer et al., 2008). Data are presented as 
+LPS-induced PGE
+2
+ production (ng/mL) as mean + standard error; *p < 0.05 as compared to media + dimethylsulfoxide (DMSO) control using the 
+Tukey–Kramer test for multiple comparisons. n = 4 for each treatment. Each fraction/four-component system was assayed in both light-activated 
+and dark treatments and differences between light and dark treatments in PGE
+2
+ levels are noted by $ (p < 0.05).
+780  Diane F . Birt et al.
+Table 1. Comparison of concentration of chlorogenic acid, quercetin, amentoflavone, and pseudohypericin in fraction 3A with the concentrations 
+of pure chemicals that inhibit LPS-induced PGE
+2
+.
+Constituent
+Amount detected in fraction 3A  
+            (M)
+Amount of pure constituent used  
+in assay (M)
+% Inhibition of LPS-induced PGE
+2
+ 
+by constituenta
+Chlorogenic acid 0.1 0.1, 1, 5, 10, 20, 40 0
+Quercetin 0.07 0.07, 0.2, 2 0
+  5 66*
+  10 87*
+  20 93*
+  40 96*
+Amentoflavone 0.08 0.08 0
+  1 38
+  5 53
+  10 77*
+Pseudohypericin (light-activated) 0.03 0.02, 0.03 0
+  0.2 2
+  0.5 3
+  1 53*
+  2 61*
+Anti-inflammatory activity (amean % inhibition of LPS-induced PGE2 levels as compared to media + LPS + DMSO control (95% confidence 
+intervals published in Hammer et al., 2007)) of pure compounds identified within H. perforatum extracts on RAW264.7 macrophage cells. Data 
+represent light-activated and dark treatments combined, except for pseudohypericin which is just presented under light-activated conditions, as 
+there was no significant difference between light-activated and dark treatments for the other constituents. n = 8 for chlorogenic acid, quercetin, 
+and amentoflavone treatments; n = 4 for pseudohypericin treatments. *p-value < 0.05 as compared to control.
+0
+1
+2
+LP
+S-
+in
+du
+ce
+d 
+PG
+E 2
+ le
+ve
+l (
+ng
+/m
+l)
+3
+4
+5
+6
+7
+8
+media media +
+DMSO
+Fraction
+3A
+PH,CA PH,A PH,Q CA,A,PH CA,Q,PH Q,A,PH
+Light-activated Dark
+ *
+ *  *
+ *
+ *
+ *
+ *
+ $
+ $ $
+Figure 6. Fraction 3A was compared with the four known constituents (amentoflavone, chlorogenic acid, pseudohypericin, and quercetin) com-
+bined in groups of two or three compounds at the concentrations detected in fraction 3A (from data published in Hammer et al., 2008). Data 
+are presented as LPS-induced PGE
+2
+ production (ng/mL) as mean + standard error; *p < 0.05 as compared to media + DMSO control using the 
+Tukey–Kramer test for multiple comparisons. n = 4 for each treatment. Combinations without pseudohypericin did not inhibit PGE
+2
+ production 
+and are not shown. Each sample was assayed in both light-activated and dark treatments and differences between light and dark treatments in 
+PGE
+2
+ levels are noted by $ (p < 0.05).
+Hypericum in infection  781
+expression and cellular-signaling pathways important 
+in mediating inflammation in RAW264.7 mouse mac-
+rophages. In addition, studies on other mediators of 
+inflammation suggest that distinct constituents of 
+H. perforatum may alter mediators of inflammation 
+beyond PGE
+2
+.
+Research directions
+Center scientists continue to screen populations of 
+H. perforatum and related species to identify anti-viral 
+and anti-inflammatory activities. Bioactivity-guided 
+fractionation of active extracts is anticipated to yield 
+novel compounds. We plan structural-elucidation 
+studies and syntheses of identified key constituents 
+with the objective of improving our understanding of 
+those constituents of Hypericum with potential health 
+benefits. As key bioactive constituents are identified, 
+molecular and cellular mechanisms of action are being 
+probed.
+Acknowledgements
+This publication was made possible by grant number P01 
+ES012020 from the National Institute of Environmental 
+Health Sciences (NIEHS) and the Office of Dietary 
+Supplements (ODS), and by grant 95P50AT004155 from 
+the National Center of Complementary and Alternative 
+Medicine (NCCAM) and ODS, NIH. Portions of this 
+paper were also supported by the Iowa Agriculture and 
+Home Economics Experiment Station, Ames, Iowa, with 
+funding from the Hatch Act and State of Iowa.
+This article was presented at the Symposium: “Plants 
+in the Service of Human Health: Continuing Search for 
+Plant-based Therapies” – Society for Economic Botany 
+48th Annual Meeting in Chicago at Lake Forest College, 
+June 4, 2007.
+Declaration of interest: Mention of commercial brand 
+names does not constitute an endorsement of any prod-
+uct by the US Department of Agriculture or cooperating 
+agencies. The contents of this paper are the responsibil-
+ity of the authors and do not necessarily represent the 
+views of the funding agencies.
+References
+Agostinis P, Vandenbogaerde A, Donella-Deana A, Pinna LA, Lee KT, 
+Goris J, Merlevede W, Vandenheede JR, De Witte P (1995): 
+Photosensitized inhibition of growth factor-regulated protein 
+kinases by hypericin. Biochem Pharmacol 49: 1615–1622.
+Aramaki Y, Chiba K, Tada M (1995): Spiro-lactones, hyperolactone 
+A-D from Hypericum chinense. Phytochemistry 38: 1419–1421.
+Birt DF, Widrlechner MP, LaLone CA, Wu L, Bae J, Solco AKS, 
+Kraus GA, Murphy PA, Wurtele ES, Leng Q, Hebert SC, Maury WJ, 
+Price JP (2008): Echinacea in infection. Am J Clin Nutr 87(Suppl.): 
+488S–492S.
+Bombardelli E, Morazzoni P (1995): Hypericum perforatum. 
+Fitoterapia 66: 43–68.
+Brenner DM, Widrlechner MP (1998): Amaranthus seed regeneration 
+in plastic tents in greenhouses. Plant Genet Resour Newsl 116: 
+1–4.
+Carpenter S, Fehr MJ, Kraus GA, Petrich JW (1994): Chemiluminescent 
+activation of the antiviral activity of hypericin: a molecular flash-
+light. Proc Natl Acad Sci USA 91: 12273–12277.
+De Witte P, Agostinis P, Van Lint J, Merlevede W, Vandenheede JR 
+(1993): Inhibition of epidermal growth factor receptor tyro-
+sine kinase activity by hypericin. Biochem Pharmacol 46: 
+1929–1936.
+Degar S, Prince AM, Pascual D, Lavie G, Levin B, Mazur Y, Lavie D, 
+Ehrlich LS, Carter C, Meruelo D (1992): Inactivation of the 
+human immunodeficiency virus by hypericin: evidence for pho-
+tochemical alterations of p24 and a block in uncoating. AIDS Res 
+Hum Retrovir 8: 1929–1936.
+Farnet CM, Wang B, Hansen M, Lipford JR, Zalkow L, Robinson WE Jr, 
+Siegel J, Bushman F (1998): Human immunodeficiency virus 
+type 1 cDNA integration: new aromatic hydroxylated inhibitors 
+and studies of the inhibition mechanism. Antimicrob Agents 
+Chemother 42: 2245–2253.
+Ganzera M, Zhao J, Khan IA (2002): Hypericum perforatum – Chemical 
+profiling and quantitative results of St. John’s wort products by 
+an improved high-performance liquid chromatography method. 
+J Pharmaco Sci 91: 623–630.
+Gaudin M, Simonnet X, Debrunner N (2003): Colletotrichum gloe-
+osporioides as the cause of St. John’s wort (Hypericum perfora-
+tum) dieback in Switzerland and breeding for a tolerant variety. 
+In: Ernst E, ed., Hypericum: The Genus Hypericum. London, 
+Taylor & Francis, pp. 23–42.
+Gibbons S, Moser E, Hausmann S, Stavri M, Smith E, Clennett C 
+(2005): An anti-staphylococcal acylphloroglucinol from 
+Hypericum foliosum. Phytochemistry 66: 1472–1475.
+Hammer KDP, Hillwig ML, Solco AKS, Dixon PM, Delate K, 
+Murphy PA, Wurtele ES, Birt DF (2007): Inhibition of PGE
+2
+ pro-
+duction by anti-inflammatory Hypericum perforatum extracts 
+and constituents in RAW264.7 mouse macrophage cells. J Agric 
+Food Chem 55: 7323–7331.
+Hammer KDP, Hillwig ML, Neighbors JD, Sim YJ, Kohut ML, 
+Wiemer DF, Wurtele ES, Birt DF (2008): Pseudohypericin is nec-
+essary for the light-activated inhibition of prostaglandin E2 by 
+Hypericum perforatum. Phytochemistry 69: 2354–2362.
+Hildebrand PD, Jensen KIN (1991): Potential for the biological con-
+trol of St. John’s-wort (Hypericum perforatum) with an endemic 
+strain of Colletotrichum gloeosporioides. Can J Plant Pathol 13: 
+60–70.
+Hudson JB, Lopez-Bazzocchi I, Towers GH (1991): Antiviral activities 
+of hypericin. Antiviral Res 15: 101–112.
+Ichinari D, Ueki T, Yoshihara K, Kinoshita T (1997): First total syn-
+thesis of ()-hyperolactone A. Chem Commun (Camb) 18: 
+1743–1744.
+Jacobson JM, Feinman L, Liebes L, Ostrow N, Koslowski V, 
+Tobia A, Cabana BE, Lee D, Spritzler J, Prince AM (2001): 
+Pharmacokinetics, safety, and antiviral effects of hypericin, 
+a derivative of St. John’s Wort plant, in patients with chronic 
+hepatitis C virus infection. Antimicrob Agents Chemother 45: 
+517–524.
+Kartnig T, Goebel I, Heydel B (1996): Production of hypericin, pseu-
+dohypericin and flavonoids in cell cultures of various Hypericum 
+species and their chemotypes. Planta Med 62: 51–53.
+Kraus GA, Jeon I (2006): Use of allylic strain to enforce stereochem-
+istry. A direct synthesis of calamenenes from Hypericum elode-
+oides. Org Lett 8: 5315–5316.
+Kraus GA, Pratt D, Tossberg J, Carpenter S (1990): Antiretroviral activ-
+ity of synthetic hypericin and related analogs. Biochem Biophys 
+Res Commun 172: 149–153.
+Kraus GA, Wei J (2004): A direct synthesis of hyperolactone C. J Nat 
+Prod 67: 1039–1040.
+782  Diane F . Birt et al.
+Kuhn D (1995): Hypericin: An answer for safer blood? Common 
+Factor 10: 36.
+Laurent D, Baumann F, Benoit AG, Mortelecqe A, Nitatpattana N, 
+Desvignes I, Debitus C, Laille M, Gonzalez JP, Chungue E (2005): 
+Structure-activity relationships of dengue antiviral polycyclic 
+quinines. Southeast Asian J Trop Med Public Health 36: 901–905.
+Lavie G, Mazur Y, Lavie D, Prince AM, Pascual D, Liebes L, Levin B, 
+Meruelo D (1995): Hypericin as an inactivator of infectious 
+viruses in blood components. Transfusion 35: 392–400.
+Lopez-Bazzocchi I, Hudson JB, Towers GH (1991): Antiviral activity of 
+the photoactive plant pigment hypericin. Photochem Photobiol 
+54: 95–98.
+Marais JPJ, Ferreira D, Slade D (2005): Stereoselective synthesis of 
+monomeric flavonoids. Phytochemistry 66: 2145–2176.
+Mathela DK, Mathela CS, Dev V (1984): Volatile constituents of 
+Hypericum elodeoides Chois. J Indian Chem Soc 61: 792–793.
+McCoy J (2007): Utilizing the national plant germplasm system for 
+medicinal plant research. In: Janick J, Whipkey A, eds., Issues 
+in New Crops and New Uses. Alexandria, VA, ASHS Press, pp. 
+258–260.
+Meruelo D, Lavie G, Lavie D (1988): Therapeutic agents with dra-
+matic antiretroviral activity and little toxicity at effective doses: 
+Aromatic polycyclic diones hypericin and pseudohypericin. 
+Proc Natl Acad Sci USA 85: 5230–5234.
+Middleton E Jr, Kandaswami C, Theoharides TC (2000): The effects 
+of plant flavonoids on mammalian cells: Implications for 
+inflammation, heart disease, and cancer. Pharmacol Rev 52: 
+673–751.
+Naesens L, Bonnafous P, Agut H, De Clercq E (2006): Antiviral activity 
+of diverse classes of broad-acting agents and natural compounds 
+in HHV-6-infected lymphoblasts. J Clin Virol 37 (Suppl. 1):  
+S69–S75.
+Park J, English DS, Wannemuehler Y, Carpenter S, Petrich JW (1998): 
+The role of oxygen in the antiviral activity of hypericin and hypo-
+crellin. Photochem Photobiol 68: 593–597.
+Percifield RJ, Hawkins JS, McCoy J, Widrlechner MP, Wendel JF 
+(2007): Genetic diversity in Hypericum and AFLP markers for 
+species-specific identification of H. perforatum L. Planta Med 
+73: 1614–1621.
+Reed-Inderbitzin E, Maury W (2003): Cellular specificity of HIV-1 
+replication can be controlled by LTR sequences. Virology 314: 
+680–695.
+Robson NKB (2003): Hypericum botany. In: Ernst E, ed., Hypericum: 
+The Genus Hypericum. London, Taylor & Francis, pp. 1–22.
+US Department of Agriculture (2007): Germplasm Resources 
+Information Network Database. Accessed on the Internet at 
+http://www.ars-grin.gov/npgs, on 27 August 2007.
+Viola H, Wasowski C, Levi de Stein M, Wolfman C, Silveira R, Dajas F, 
+Medina JH, Paladini AC (1995): Apigenin, a component of 
+Matricaria recutita flowers, is a central benzodiazepine recep-
+tors-ligand with anxiolytic effects. Planta Med 61: 213–216.
+Vyas GN (1995): Inactivation and removal of blood-borne viruses. 
+Transfusion 35: 367–370.
+Widrlechner MP, Abel CA, Wilson RL (1997): Ornamental seed pro-
+duction in field cages with insect pollination. Comb Proc IPPS 
+46: 512–516.
+Widrlechner MP, McKeown KA (2002): Assembling and character-
+izing a comprehensive Echinacea germplasm collection. In: 
+Janick J, Whipkey A, eds., Trends in New Crops and New Uses. 
+Alexandria, VA, ASHS Press, pp. 506–508.
+

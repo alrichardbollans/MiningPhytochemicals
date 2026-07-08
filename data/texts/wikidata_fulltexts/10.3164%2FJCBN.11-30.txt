@@ -1,0 +1,537 @@
+Original Article
+ J. Clin. Biochem. Nutr. | January 2012 | vol. 50 | no. 1 | 53–58 doi: 10.3164/jcbn.11 30
+©2012 JCBN
+JCBN Journal of Clinical Biochemistry and Nutrition 0912-0009 1880-5086 the Society for Free Radical Research Japan Kyoto, Japan jcbn11-30 10.3164/jcbn.11-30 Original Article Okanin, a chalcone found in the genus Bidens, 
+and 3 penten 2 one inhibit inducible nitric oxide 
+synthase expression via heme oxygenase 1 
+induction in RAW264.7 macrophages activated 
+with lipopolysaccharide
+Jin Sang Kil,1 Young Son,2 Yong Kwan Cheong,2 Nam Ho Kim,3 Hee Jong Jeong,4 Ji Wung Kwon,5 Eoh Jin Lee,5 
+Tae Oh Kwon,5 Hun Taeg Chung6 and Hyun Ock Pae7,*
+1Department of Neurosurgery, 2Department of Anesthesiology and Pain Medicine, 4Department of Urology, 5College of Life Science and Natural Resources 
+and 7Department of Microbiology and Immunology, Wonkwang University School of Medicine, 344 2 Shinyong dong, Iksan 570 749, Republic of Korea
+3Department of Cardiovascular Medicine, Wonkwang University Hospital, Iksan 570 711, Republic of Korea
+6Department of Biological Science, University of Ulsan, Ulsan 680 749, Republic of Korea
+*To whom correspondence should be addressed.    
+E mail: hopae@wonkwang.ac.kr
+?? (Received 21 February, 2011; Accepted 28 March, 2011; Published online 15 December, 2011)
+Copyright © 200? JCBN 200? This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unre- stricted use, distribution, and reproduction in any medium, pro- vided the original work is properly cited. Excess production of nitric oxide by activated macrophages via
+inducible nitric oxide synthase leads to the development of
+various inflammatory diseases. Heme oxygenase 1 expression via
+activation of nuclear factor erythroid 2 related factor 2 inhibits
+nitric oxide production and inducible nitric oxide synthase expres 
+sion in activated macrophages. Okanin is one of the most abundant
+chalcones found in the genus Bidens (Asteraceae) that is used as
+various folk medications in Korea and China for treating inflam 
+mation. Here, we found that okanin (possessing the α β unsatu 
+rated carbonyl group) induced heme oxygenase 1 expression via
+nuclear factor erythroid 2 related factor 2 activation in RAW264.7
+macrophages. 3 Penten 2 one, of which structure, as in okanin,
+possesses the α β unsaturated carbonyl group, also induced
+nuclear factor erythroid 2 related factor 2 dependent heme
+oxygenase 1 expression, while both 2 pentanone (lacking a
+double bond) and 2 pentene (lacking a carbonyl group) were
+virtually inactive. In lipopolysaccharide activated RAW264.7 macro 
+phages, both okanin and 3 penten 2 one inhibited nitric oxide
+production and inducible nitric oxide synthase expression via
+heme oxygenase 1 expression. Collectively, our findings suggest
+that by virtue of its α β unsaturated carbonyl functional group,
+okanin can inhibit nitric oxide production and inducible nitric
+oxide synthase expression via nuclear factor erythroid 2 related
+factor 2 dependent heme oxygenase 1 expression in lipopolysac 
+charide activated macrophages.
+Key Words: okanin, heme oxygenase 1, inducible nitric oxide 
+synthase, nuclear factor erythroid 2 related factor 2, 
+α β unsaturated carbonyl group
+Introduction Okanin (chemical structure shown in Fig. 1) is one of the most
+abundant chalcone [1,3-diaryl-2-propen-1-one] compounds
+found in the genus Bidens (Asteraceae) that has been used as
+various folk medications in Korea and China for treating inflam-
+mation, malaria, hypertension, diabetes, peptic ulcer, snake bite
+and smallpox.(1–3) Although ethnopharmacological studies carried
+out with plants of the genus Bidens have demonstrated anti-
+inflammatory activity,(4–10) whether okanin would also have
+anti-inflammatory activity is not yet investigated.
+Activated macrophages play a pivotal role in a variety of
+inflammatory diseases via the excess production of pro-
+inflammatory cytokines and the prolonged expression of inducible
+pro-inflammatory enzymes, such as inducible nitric oxide synthase
+(iNOS).(11,12) The inflammatory enzyme iNOS, once expressed in
+activated macrophages, can generate a large amount of nitric oxide
+(NO) for a long period.(11,12) The free radical NO has been
+implicated as an important inflammatory mediator in the process
+of macrophage-mediated inflammation.(12) However, uncontrolled/
+excess NO production by activated macrophages leads to the
+development of various inflammatory diseases.(12,13) Hence,
+pharmacological inhibition of NO production and/or iNOS
+expression is a promising strategy for reducing the potentially
+harmful pro-inflammatory activity of macrophages.(13)
+Heme oxygenase-1 (HO-1) is an inducible enzyme that
+catalyzes the rate-limiting step in the conversion of free heme into
+carbon monoxide, free iron, and biliverdin, which is subsequently
+catabolized into bilirubin by biliverdin reductase.(14) In addition
+to its primary role in heme degradation, HO-1 has been also
+recognized to play other important roles in resolution of inflam-
+mation, which has been demonstrated in HO-1 knockout mice and
+a human case of genetic HO-1 deficiency.(15,16) Particularly, HO-1
+and its enzymatic metabolites are the critical regulators of
+inflammation, with activated macrophages acting as the critical
+targets.(14–16) Nuclear factor-erythroid 2-related factor 2 (Nrf2) is a
+redox sensitive transcription factor that is critical for induction of
+the gene encoding HO-1.(17) Under normal conditions, Nrf2 is
+sequestered in the cytoplasm by forming a complex with the
+negative regulator of Nrf2, Klech-like ECH-associated protein 1
+(Keap1).(17) This complex is disrupted by several naturally occurring
+compounds, and Nrf2 is liberated and translocated to the nucleus
+where it binds to antioxidant response element (ARE) sequences
+in the ho-1 gene promoter.(18,19)
+Recently, a series of naturally occurring compounds from
+medicinal plants have been reported to induce HO-1 expression in
+different cell types, and in some of these studies, HO-1 has been
+shown to mediate their anti-inflammatory properties through
+inhibition of NO production and iNOS expression.(20–24) In the
+present study, we have also reported that okanin inhibited NO
+production and iNOS expression through Nrf2-dependent HO-1
+Odoi: 10.3164/jcbn.11 30
+©2012 JCBN
+54
+expression in RAW264.7 macrophages activated with the endo-
+toxin lipopolysaccharide (LPS).
+Materials and Methods
+Chemicals and reagents. Previously, we had isolated okanin
+from the ethanol extract of the flowers of Bidens bipinnata L.(25)
+and this compound was used in this study. 3-Penten-2-one, 2-
+pentanone, 2-pentene, Dulbecco’s modified Eagle’s medium
+(DMEM), hemin, LPS (Escherichia coli 055:B5), 3-(4,5-dimethyl-
+2-thiazolyl)-2,5-diphenyltetrazolium bromide (MTT), N-acetyl-L-
+cysteine (NAC) were purchased from Sigma-Aldrich (St. Louis,
+MO). Antibodies against iNOS, HO-1, Nrf2, lamin B and β-actin
+and small interfering RNA (siRNA) products against Nrf2 and
+HO-1 were obtained from Santa Cruz Biotechnology (Santa Cruz,
+CA). All other reagents used were of analytical grade.
+Cell culture. RAW264.7 macrophages were obtained from
+the American Type Culture Collection (Manassas, VA). The cells
+were cultured in DMEM supplemented with 2 mM glutamine,
+antibiotics (100 U/ml of penicillin A and 100 U/ml of strepto-
+mycin) and 10% heat-inactivated fetal bovine serum (Gibco/BRL,
+Rockville, MD) and maintained at 37°C in a humidified incubator
+containing 5% CO2.
+Cell viability assay. Cell viability was determined by a
+modified MTT reduction assay. MTT is a pale yellow substance
+that is reduced by living cells to yield a dark blue formazan
+product. This process requires active mitochondria, and even fresh
+dead cells do not reduce significant amounts of MTT. RAW264.7
+macrophages were cultured in a 96-well flat-bottom plate at
+concentration of 5 × 105 cells/ml. After 12 h of preconditioning,
+the cells were treated with various concentrations of okanin for
+24 h. Thereafter, culture medium was aspirated and 100 μl of
+MTT dye (1 mg/ml in phosphate-buffered saline) was added; the
+cultures were incubated for 4 h at 37°C. The formazan crystals
+produced through dye reduction by viable cells were dissolved
+using acidified isopropanol (0.1 N HCl). Index of cell viability
+was calculated by measuring the optical density of color produced
+by MTT dye reduction at 570 nm.
+Nitrite assay. The nitrite concentration in the medium was
+measured as an indicator of NO production according to the Griess
+reaction. One hundred microliters of each supernatant was mixed
+with the same volume of Griess reagent (1% sulfanilamide in 5%
+phosphoric acid and 0.1% naphthylethylenediamine dihydro-
+chloride in water); absorbance of the mixture at 550 nm was
+determined with an ELISA plate reader.
+Western blot analysis. RAW264.7 macrophages were incu-
+bated with or without reagents. They were harvested, washed ice-
+cold phosphate-buffered saline (PBS) and kept on ice for 1 min.
+The suspension was mixed with buffer A (10 mM HEPES, pH 7.5,
+10 mM KCl, 0.1 mM EGTA, 0.1 mM EDTA, 1 mM DTT,
+0.5 mM PMSF, 5 μg/ml aprotinin, 5 μ/ml pepstatin, and 10 μg/ml
+leupeptin) and lysed by three freeze-thaw cycles. Cytosolic frac-
+tion was obtained by centrifugation at 12,000 × g for 20 min at
+4°C. The pellets were re-suspended in buffer C (20 mM HEPES,
+pH 7.5, 0.4 M NaCl, 1 mM EGTA, 1 mM EDTA, 1 mM DTT,
+1 mM PMSF, 5 μg/ml aprotinin, 5 μg/ml pepstatin, and 10 μg/ml
+leupeptin) on ice for 40 min and centrifuged at 14,000 × g for
+20 min at 4°C. The resulting supernatant was used as soluble
+nuclear fraction. Protein content was determined with BCA pro-
+tein assay reagent (Pierce, Rockford, IL). Total cellular or nuclear
+fractions were separated on 10% SDS-polyacrylamide gels, and
+transferred to the nitrocellulose membranes (Amersham Bio-
+sciences, Inc., Piscataway, NJ). The membrane was then blocked
+in blocking buffer containing 20 mM sodium phosphate buffer,
+pH 7.6, 150 mM NaCl, 0.1% Tween 20, and 5% nonfat dry milk
+for 1 h at room temperature. Thereafter, the membrane was
+incubated with antibodies against HO-1 (1:1000 dilution), Nrf2
+(1:500 dilution), iNOS (1:1000 dilution), lamin B (1:1000 dilution)
+or β-actin (1:1000 dilution) at 4°C overnight. The membrane was
+then washed four times with PBS-Tween 20 buffer and further
+incubated with secondary antibodies for 1 h at room temperature.
+Specific bands were detected using enhanced chemiluminescence
+detection system (Amersham Biosciences), and the membrane
+was exposed to X-ray film.
+Transfection of siRNA. RAW264.7 macrophages were
+grown in 6- or 12-well plates and transiently transfected with Nrf2
+siRNA or HO-1 siRNA mixed with siRNA transfection reagent
+(Santa Cruz Biotechnology) according to the manufacturer’s
+instructions. After incubation at 37°C and 5% CO2 for 30 h, cells
+were treated with reagents. The samples were then prepared for
+Western blot analysis.
+Nrf2 ARE binding assay. The amount of Nrf2 available in
+the nucleus to bind to AREs was determined using the ELISA-
+based TransAMTM Nrf2 Kit (Active Motif, Carlsbad, CA). Briefly,
+nuclear extracts were added to wells containing the immobilized
+consensus ARE oligonucleotide. A primary antibody against Nrf2
+was added to each well. Then a secondary antibody conjugated to
+horseradish peroxidase that binds to the primary antibody was
+added to each well. The signal was detected at 450 nm, and Nrf2-
+ARE binding was reported as optical density (OD) units at
+450 nm.
+Statistical analysis. Data are expressed as means ± SE. One-
+way analysis of variance procedures were used to assess signifi-
+cant differences among treatment groups. For each treatment
+showing a statistically significant effect, the Newman-Keuls test
+was used for comparisons of multiple group means. The criterion
+for statistical significance was set at p<0.05 or 0.01.
+Results
+Okanin and 3 penten 2 one, but not 2 pentanone and 2 
+pentene, can induce HO 1 expression. The chemical struc-
+tures of okanin and other three synthetic compounds tested in this
+study are shown in Fig. 1. Both okanin and 3-penten-2-one contain
+an  α-β unsaturated carbonyl group in the central five-carbon
+chain. In comparison with 3-penten-2-one, 2-pentanone and 2-
+pentene lack a double bond and a carbonyl group, respectively. 3-
+penten-2-one, 2-pentanone and 2-pentene were used to explore a
+possible mechanism of action of okanin. In RAW264.7 macro-
+phages, okanin and 3-penten-2-one, but not 2-pentanone and 2-
+pentene, exhibited cytotoxicity at more than 40 μM (data not
+shown).
+Treatment of RAW264.7 macrophages with non-cytotoxic
+concentrations of okanin (0.5–10 μM) for 6 h resulted in a
+Fig. 1. Chemical structures of okanin, 3 penten 2 one, 2 pentanone
+and 2 pentene. In comparison with 3 penten 2 one, 2 pentanone and
+2 pentene lack a double bond and a carbonyl group, respectively. The
+α β unsaturated carbonyl group is marked with dotted circles. J. Clin. Biochem. Nutr. | January 2012 | vol. 50 | no. 1 | 55
+©2012 JCBN
+J. S. Kil et al.
+concentration-dependent increase in HO-1 protein levels, as
+confirmed by Western blot analysis (Fig. 2A). Induction of HO-1
+expression by okanin was robust at 6 h and slightly decreased over
+time (Fig. 2B). Similarly, treatment with 3-penten-2-one for 6 h
+resulted in a marked increase in HO-1 protein levels (Fig. 2C). In
+contrast, neither 2-pentanone nor 2-pentene induced HO-1 expres-
+sion (Fig. 2C).
+Okanin and 3 penten 2 one can induce Nrf2 activation
+that mediates HO 1 expression. A time-dependent increase
+in Nrf2 protein in the nucleus, along with a significant decrease in
+Nrf2 protein in the cytoplasm, was observed when RAW264.7
+macrophages were incubated with 10 μM okanin (Fig. 3A).
+Similarly, 3-penten-2-one also increased levels of nucleus Nrf2
+protein (not shown). To study Nrf2 activation, the nuclear extracts
+of RAW264.7 macrophages were isolated and the binding of Nrf2
+to ARE was quantified by using a TransAMTM assay. Both okanin
+and 3-penten-2-one increased Nrf2 activation, whereas 2-pentanone
+and 2-pentene had no significant effect on Nrf2 activation
+(Fig. 3B). We next conducted the experiments of Nrf2 knockdown
+by using siRNA to investigate whether HO-1 expression would be
+inhibited. HO-1 expression by okanin and 3-penten-2-one was
+prevented by siRNA against Nrf2 (Fig. 3C).
+Nrf2 activation and HO-1 expression in RAW264.7 macro-
+phages observed with okanin and 3-penten-2-one may be attribut-
+able to changes in the production of reactive oxygen species and
+the redox environment, and/or to direct thiol modification of
+Keap1 and other proteins.(26) To better characterize Nrf2 activation
+and HO-1 expression, we treated normal RAW264.7 macrophages
+Fig. 2. Effects of okanin, 3 penten 2 one, 2 pentanone and 2 pentene
+on HO 1 expression. (A) RAW264.7 macrophages were incubated for 6 h
+without or with 10 μM of hemin, a well known inducer of HO 1, or
+indicated concentrations of okanin. (B) RAW264.7 macrophages were
+incubated without or with 10 μM of okanin for indicated time periods.
+(C) RAW264.7 macrophages were incubated for 6 h without or with
+10 μM of okanin, 3 penten 2 one, 2 pentanone, or 2 pentene. Western
+blot analysis for HO 1 expression was performed as described under
+Materials and Methods. Blots shown are representative of three
+independent experiments.
+Fig. 3. Effects of okanin and 3 penten 2 one on Nrf2 activation. (A)
+RAW264.7 macrophages were incubated without or with 10 μM of
+okanin for indicated time periods. Cytosolic and nuclear extracts were
+isolated, and the levels of Nrf2 protein were determined by Western
+blot analysis. (B) RAW264.7 macrophages were incubated for 2 h
+without or with 10 μM of okanin, 3 penten 2 one, 2 pentanone, or 2 
+pentene. Nrf2 activation was assessed in nuclear extracts by analysis of
+Nrf2 binding to ARE. Data are expressed as mean ± SE from 3 to 4
+experiments. *p<0.05 with respect to untreated control group. (C)
+RAW264.7 macrophages were transiently transfected with Nrf2 siRNA,
+and then exposed to 10 μM of okanin or 3 penten 2 one for 6 h.
+Western blot analysis for HO 1 expression was performed as described
+under Materials and Methods. Blots shown are representative of three
+independent experiments.doi: 10.3164/jcbn.11 30
+©2012 JCBN
+56
+with high concentrations of NAC, a thiol donor, along with okanin
+and 3-penten-2-one. The NAC treatment partially inhibited Nrf2
+activation (Fig. 4A) and HO-1 expression (Fig. 4B) by okanin and
+3-penten-2-one.
+Okanin and 3 penten 2 one inhibit LPS induced NO
+production and iNOS expression via HO 1 expression.
+RAW264.7 macrophages were pre-incubated for 6 h with okanin
+and activated with LPS. Okanin inhibited LPS-induced NO
+production (Fig. 5A) and iNOS expression (Fig. 5B) in a dose-
+dependent manner. Similarly, 3-penten-2-one also inhibited LPS-
+induced NO production (Fig. 5C) and iNOS expression (Fig. 5D).
+Unlike 3-penten-2-one, 2-pentanone and 2-pentene had no effect
+on LPS-induced NO production and iNOS expression (not
+shown). To explore a potential involvement of HO-1 expression in
+the observed inhibitory effects of okanin and 3-penten-2-one on
+LPS-induced NO production and iNOS expression, siRNA against
+HO-1 was used to inhibit cellular synthesis of HO-1 protein. As
+shown in Fig. 6, inhibition of HO-1 expression by siRNA signifi-
+cantly reversed the inhibitory effects of okanin and 3-penten-2-
+one on LPS-induced NO production and iNOS expression.
+Discussion
+The present study demonstrates that okanin, one of the most
+abundant chalcones found in the genus Bidens (Asteraceae),
+induced the expression of the anti-inflammatory HO-1 in
+RAW264.7 macrophages and that HO-1 expression by okanin was
+associated with its inhibition of LPS-induced NO production and
+iNOS expression. We have also studied a possible mechanism
+behind the HO-1 expression by okanin, and demonstrated that
+HO-1 expression was dependent on Nrf2 activation.
+From a chemical viewpoint, okanin consists of two hydroxy-
+phenyl rings linked by a three-carbon unit forming an α-β
+unsaturated carbonyl moiety (see Fig. 1). The α-β unsaturated
+carbonyl group (also known as classical Michael acceptor) has
+been shown to be a crucial structure of okanin, because both 2-
+pentanone (lacking a double bond) and 2-pentene (lacking a
+carbonyl group) were virtually inactive in inducing HO-1 expres-
+sion; on the contrary, 3-penten-2-one (possessing an α-β unsatu-
+rated carbonyl group) had an ability to induce HO-1 expression
+(Fig. 2C). In fact, some phytochemicals carrying this reactive
+functional group, such as avicins,(27) curcumin,(28) costunolide,(29)
+Fig. 4. Effects of NAC on Nrf2 activation and HO 1 expression by
+okanin and 3 penten 2 one. (A) RAW264.7 macrophages were treated
+with 10 μM of okanin or 3 penten 2 one together with 1 mM NAC for
+2 h. Nrf2 activation was assessed in nuclear extracts by analysis of Nrf2
+binding to ARE. Data are expressed as mean ± SE from 3 to 4 experi 
+ments. *p<0.05 with respect to untreated control group. #p<0.05. (A)
+RAW264.7 macrophages were treated with 10 μM of okanin or 3 
+penten 2 one together with 1 mM NAC for 6 h. Western blot analysis
+for HO 1 expression was performed as described under Materials and
+Methods. Blots shown are representative of three independent experi 
+ments.
+Fig. 5. Effects of okanin and 3 penten 2 one on NO production and
+iNOS expression. RAW264.7 macrophages were pre incubated for 6 h
+without or with indicated concentrations of okanin or 3 penten 2 one,
+and then exposed to 1 μg/ml of LPS for 6 h (B, D) or 18 h (A, B). Nitrite
+assay for NO production (A, C) and Western blot analysis for iNOS
+expression (B, D) were performed as described under Materials and
+Methods. Blots shown are representative of three independent experi 
+ments. Data are expressed as mean ± SE from 3 to 4 experiments.
+*p<0.05. J. Clin. Biochem. Nutr. | January 2012 | vol. 50 | no. 1 | 57
+©2012 JCBN
+J. S. Kil et al.
+and dehydrocostus lactone,(30) have been reported to induce HO-1
+expression. Moreover, 2'-hydroxychalcone, of which chemical
+structure is similar to that of okanin with the exception of four
+hydroxyl substituents on two aromatic rings, has been previously
+reported to induce HO-1 expression in RAW264.7 macro-
+phages,(31) implying that okanin would have a chemical property
+resembling that of 2'-hydroxychalcone. Thus, we speculate that
+okanin may be effective in inducing HO-1 expression, at least in
+part, because it bears the α-β unsaturated carbonyl group.
+At present, the mechanism(s) by which the α-β unsaturated
+carbonyl group of okanin is capable of inducing HO-1 expression
+is not clear. It has been hypothesized that compounds containing
+the α-β unsaturated carbonyl group may cause the disruption of
+the Keap1-Nrf2 complex, most likely through interaction with the
+thiols present on Keap1, thereby resulting in Nrf2 activation.(32–34)
+This hypothesis is further supported by our observation that Nrf2
+activation by okanin was partially abrogated by high concentra-
+tions of NAC (Fig. 4A). Presumably, the reaction of okanin with a
+large excess of NAC may result in reversible formation of the
+thiol-okanin product, allowing for a limited amount of free okanin
+to be available for interaction with Keap1. Additionally, there are
+many experimental studies showing that α-β unsaturated carbonyl-
+containing compounds are capable of inducing HO-1 expression
+through Nrf2 nuclear translocation.(27,29,30,32) Thus, the present
+study examined whether okanin would also activate Nrf2 nuclear
+translocation in RAW264.7 macrophages. Indeed, both okanin
+and its core component (i.e., 3-penten-2-one) induced Nrf2
+nuclear translocation, and in turn increased Nrf2-ARE biding
+activity. Moreover, Nrf2 activation by okanin was associated with
+HO-1 expression, because RAW264.7 macrophages in which the
+cellular synthesis of Nrf2 was suppressed by siRNA did not
+display any change in HO-1 expression following exposure to
+okanin (Fig. 3C). Our results, therefore, suggest that HO-1 expres-
+sion by okanin may occur through the Nrf2-dependent pathway.
+HO-1 represents a major protective factor because of its anti-
+oxidant and anti-inflammatory properties.(14–16) It has been shown
+that HO-1 expression has anti-inflammatory effects that are
+presumably mediated by its enzymatic metabolites, such as carbon
+monoxide and biliverdin/bilirubin.(35,36) In activated macrophages,
+HO-1 expression has been shown to inhibit the release of pro-
+inflammatory cytokines and the expression of pro-inflammatory
+enzymes, including iNOS.(36) Our data shows that knocking down
+HO-1 largely blocked the inhibition of okanin and its core
+component (i.e., 3-penten-2-one) on NO production and iNOS
+expression in LPS-activated RAW264.7 macrophages (Fig. 6),
+suggesting that the inhibitory effect of okanin on LPS-induced NO
+production and iNOS expression may be, at least in part, mediated
+through HO-1 expression. Our data are in agreement with other
+studies demonstrating that HO-1 expression in activated macro-
+phages has anti-inflammatory effects(37–40) and, therefore, provide
+one of possible mechanisms that could explain the anti-
+inflammatory effects of medicinal plants of the genus Bidens.(1–10)
+In summary, the results of the present study demonstrate that:
+(i) okanin, one of the most abundant chalcones found in medicinal
+plants of the genus Bidens, induces HO-1 expression through
+Nrf2-dependent pathway in RAW264.7 macrophages; (ii) the α-β
+unsaturated carbonyl functional group of okanin is crucial for
+Nrf2-dependent HO-1 expression; and (iii) okanin and its core
+component (i.e., 3-penten-2-one) inhibit LPS-induced NO produc-
+tion and iNOS expression by inducing HO-1 expression.
+Conflicts of Interests
+This paper was supported by Wonkwang University in 2010.
+Abbreviations
+ARE antioxidant response element
+DMEM Dulbecco’s modified Eagle’s medium
+HO-1 heme oxygenase-1
+iNOS inducible nitric oxide synthase
+Keap1 Klech-like ECH-associated protein 1
+LPS lipopolysaccharide
+MTT 3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyltetrazolium
+bromide
+NAC N-acetyl-L-cysteine
+NO nitric oxide
+Nrf2 nuclear factor-erythroid 2-related factor 2
+OD optical density
+PBS phosphate-buffered saline
+SE standard error
+siRNA small interfering RNA
+References
+1 Yuan LP, Chen FH, Ling L, et al. Protective effects of total flavonoids of
+Bidens bipinnata L. against carbon tetrachloride-induced liver fibrosis in rats.
+J Pharm Pharmacol 2008; 60: 1393–1402.
+2 Li S, Kuang HX, Okada Y, Okuyama T. New flavanone and chalcone
+glucosides from Bidens bipinnata Linn. J Asian Nat Prod Res 2005; 7: 67–70.
+3 Hoffmann B, Hölzl J. New chalcones from Bidens pilosa. Planta Med 1988;
+54: 52–54.
+4 Pozharitskaya ON, Shikov AN, Makarova MN, et al. Anti-inflammatory
+Fig. 6. Effect of HO 1 siRNA on the inhibitory actions of okanin and 3 
+penten 2 one in NO production and iNOS expression. RAW264.7 macro 
+phages transiently transfected with HO 1 siRNA were pre incubated for
+6 h without or with 10 μM of okanin or 3 penten 2 one, and then
+activated for 6 h (B) or 18 h (A) with 1 μg/ml of LPS. Nitrite assay for NO
+production (A) and Western blot analysis for iNOS expression (B) were
+performed as described under Materials and Methods. Blots shown are
+representative of three independent experiments. Data are expressed
+as mean ± SE from 3 to 4 experiments. *p<0.05.doi: 10.3164/jcbn.11 30
+©2012 JCBN
+58
+activity of a HPLC-fingerprinted aqueous infusion of aerial part of Bidens
+tripartita L. Phytomedicine 2010; 17: 463–468.
+5 Chang CL, Kuo HK, Chang SL, et al. The distinct effects of a butanol
+fraction of Bidens pilosa plant extract on the development of Th1-mediated
+diabetes and Th2-mediated airway inflammation in mice. J Biomed Sci 2005;
+12: 79–89.
+6 Abajo C, Boffill MA, del Campo J, et al. In vitro study of the antioxidant and
+immunomodulatory activity of aqueous infusion of Bidens pilosa. J Ethno-
+pharmacol 2004; 93: 319–323.
+7 Tan PV, Dimo T, Dongo E. Effects of methanol, cyclohexane and methylene
+chloride extracts of Bidens pilosa on various gastric ulcer models in rats. J
+Ethnopharmacol 2000; 73: 415–421.
+8 Pereira RL, Ibrahim T, Lucchetti L, da Silva AJ, Gonçalves de Moraes
+VL. Immunosuppressive and anti-inflammatory effects of methanolic extract
+and the polyacetylene isolated from Bidens pilosa L. Immunopharmacology
+1999; 43: 31–37.
+9 Chih HW, Lin CC, Tang KS. Anti-inflammatory activity of Taiwan folk
+medicine “ham-hong-chho” in rats. Am J Chin Med 1995; 23: 273–278.
+10 Redl K, Breu W, Davis B, Bauer R. Anti-inflammatory active polyacetylenes
+from Bidens campylotheca. Planta Med 1994; 60: 58–62.
+11 Fujiwara N, Kobayashi K. Macrophages in inflammation. Curr Drug Targets
+Inflamm Allergy 2005; 4: 281–286.
+12 Tripathi P, Tripathi P, Kashyap L, Singh V. The role of nitric oxide in
+inflammatory reactions. FEMS Immunol Med Microbiol 2007; 51: 443–452.
+13 Murakami A. Chemoprevention with phytochemicals targeting inducible
+nitric oxide synthase. Forum Nutr 2009; 61: 193–203.
+14 Pae HO, Lee YC, Jo EK, Chung HT. Subtle interplay of endogenous bio-
+active gases (NO, CO and H2S) in inflammation. Arch Pharm Res 2009; 32:
+1155–1162.
+15 Pae HO, Chung HT. Heme oxygenase-1: its therapeutic roles in inflammatory
+diseases. Immune Netw 2009; 9: 12–19.
+16 Pae HO, Lee YC, Chung HT. Heme oxygenase-1 and carbon monoxide:
+emerging therapeutic targets in inflammation and allergy. Recent Pat Inflamm
+Allergy Drug Discov 2008; 2: 159–165.
+17 Kim YM, Pae HO, Park JE, et al. Heme oxygenase in the regulation of
+vascular biology: from molecular mechanisms to therapeutic opportunities.
+Antioxid Redox Signal 2011; 14: 137–167.
+18 Zhao CR, Gao ZH, Qu XJ. Nrf2-ARE signaling pathway and natural products
+for cancer chemoprevention. Cancer Epidemiol 2010; 34: 523–533.
+19 Serafini M, Peluso I, Raguzzini A. Flavonoids as anti-inflammatory agents.
+Proc Nutr Soc 2010; 69: 273–278.
+20 Jeong GS, Lee DS, Li B, Lee HJ, Kim EC, Kim YC. Effects of sappanchal-
+cone on the cytoprotection and anti-inflammation via heme oxygenase-1 in
+human pulp and periodontal ligament cells. Eur J Pharmacol 2010; 644: 230–
+237.
+21 Lee DS, Jeong GS, Li B, Park H, Kim YC. Anti-inflammatory effects of
+sulfuretin from Rhus verniciflua Stokes via the induction of heme oxygenase-
+1 expression in murine macrophages. Int Immunopharmacol 2010; 10: 850–
+858.
+22 Jeong GS, Lee SH, Jeong SN, Kim YC, Kim EC. Anti-inflammatory effects
+of apigenin on nicotine- and lipopolysaccharide-stimulated human periodontal
+ligament cells via heme oxygenase-1. Int Immunopharmacol 2009; 9: 1374–
+1380.
+23 Sorrenti V, Mazza F, Campisi A, et al. Heme oxygenase induction by
+cyanidin-3-O-beta-glucoside in cultured human endothelial cells. Mol Nutr
+Food Res 2007; 51: 580–586.
+24 Lin HY, Juan SH, Shen SC, Hsu FL, Chen YC. Inhibition of lipopoly-
+saccharide-induced nitric oxide production by flavonoids in RAW264.7
+macrophages involves heme oxygenase-1. Biochem Pharmacol 2003; 66:
+1821–1832.
+25 Kwon JW, Byun E, Lee EJ, et al. Antioxidative and hepatoprotective effect
+of compounds from the flowers of Bidens bipinnata L. Kor J Pharmacogn
+2009; 40: 345–350.
+26 Motohashi H, Yamamoto M. Nrf2-Keap1 defines a physiologically important
+stress response mechanism. Trends Mol Med 2004; 10: 549–557.
+27 Haridas V, Hanausek M, Nishimura G, et al. Triterpenoid electrophiles
+(avicins) activate the innate stress response by redox regulation of a gene
+battery. J Clin Invest 2004; 113: 65–73.
+28 Kim KM, Pae HO, Zhung M, et al. Involvement of anti-inflammatory heme
+oxygenase-1 in the inhibitory effect of curcumin on the expression of pro-
+inflammatory inducible nitric oxide synthase in RAW264.7 macrophages.
+Biomed Pharmacother 2008; 62: 630–636.
+29 Pae HO, Jeong GS, Kim HS, et al. Costunolide inhibits production of tumor
+necrosis factor-alpha and interleukin-6 by inducing heme oxygenase-1 in
+RAW264.7 macrophages. Inflamm Res 2007; 56: 520–526.
+30 Jeong GS, Pae HO, Jeong SO, et al. The alpha-methylene-gamma-
+butyrolactone moiety in dehydrocostus lactone is responsible for cyto-
+protective heme oxygenase-1 expression through activation of the nuclear
+factor E2-related factor 2 in HepG2 cells. Eur J Pharmacol 2007; 565: 37–44.
+31 Abuarqoub H, Foresti R, Green CJ, Motterlini R. Heme oxygenase-1
+mediates the anti-inflammatory actions of 2'-hydroxychalcone in RAW264.7
+murine macrophages. Am J Physiol Cell Physiol 2006; 290: C1092–C1099.
+32 Wu RP, Hayashi T, Cottam HB, et al. Nrf2 responses and the therapeutic
+selectivity of electrophilic compounds in chronic lymphocytic leukemia. Proc
+Natl Acad Sci USA 2010; 107: 7479–7484.
+33 Koenitzer JR, Freeman BA. Redox signaling in inflammation: interactions of
+endogenous electrophiles and mitochondria in cardiovascular disease. Ann N
+Y Acad Sci 2010; 1203: 45–52.
+34 Kim EH, Surh YJ. 15-deoxy-Δ12,14-prostaglandin J2 as a potential endogenous
+regulator of redox-sensitive transcription factors. Biochem Pharmacol 2006;
+72: 1516–1528.
+35 Ryter SW, Choi AM. Heme oxygenase-1/carbon monoxide: from metabo-
+lism to molecular therapy. Am J Respir Cell Mol Biol 2009; 41: 251–260.
+36 Alcaraz MJ, Fernández P, Guillén MI. Anti-inflammatory actions of the
+heme oxygenase-1 pathway. Curr Pharm Des 2003; 9: 2541–2551.
+37 Son Y, Lee JH, Kim NH, et al. Dilinoleoylphosphatidylcholine induces the
+expression of the anti-inflammatory heme oxygenase-1 in RAW264.7 macro-
+phages. Biofactors 2010; 36: 210–215.
+38 Pae HO, Jeong SO, Koo BS, Ha HY, Lee KM, Chung HT. Tranilast, an orally
+active anti-allergic drug, up-regulates the anti-inflammatory heme oxygenase-
+1 expression but down-regulates the pro-inflammatory cyclooxygenase-2 and
+inducible nitric oxide synthase expression in RAW264.7 macrophages.
+Biochem Biophys Res Commun 2008; 371: 361–365.
+39 Hong HY, Jeon WK, Kim BC. Up-regulation of heme oxygenase-1 expres-
+sion through the Rac1/NADPH oxidase/ROS/p38 signaling cascade mediates
+the anti-inflammatory effect of 15-deoxy-Δ12,14-prostaglandin J2 in murine
+macrophages. FEBS Lett 2008; 582: 861–868.
+40 Lin HY, Shen SC, Chen YC. Anti-inflammatory effect of heme oxygenase 1:
+glycosylation and nitric oxide inhibition in macrophages. J Cell Physiol 2005;
+202: 579–590.

@@ -1,0 +1,605 @@
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2197  
+ 
+Tropical Journal of Pharmaceutical Research September 2017; 16 (9): 2197-2205 
+ISSN: 1596-5996 (print); 1596-9827 (electronic) 
+© Pharmacotherapy Group, Faculty of Pharmacy, University of Benin, Benin City, 300001 Nigeria.  
+All rights reserved. 
+ 
+Available online at http://www.tjpr.org 
+http://dx.doi.org/10.4314/tjpr.v16i9.22 
+Original Research Article 
+ 
+ 
+Tetramethyl-O-scutellarin isolated from peels of immature 
+Shiranuhi fruit exhibits anti-inflammatory effects on LPS-
+induced RAW264.7 cells 
+ 
+Ju Mi Hyun1, Yeon Jeong Jo1, Jung Eun Kim1, Hyun Joo An2, Young Hun Choi2, 
+Chang-Gu Hyun1 and Nam Ho Lee1* 
+1Cosmetic Science Center, Department of Chemistry and Cosmetics, Jeju National University, Jeju 63243, 2Citrus Research 
+Institute, National Institute of Horticultural & Herbal Science, RDA, Seogwipo 63607, Korea 
+ 
+*For correspondence: Email: namho@jejunu.ac.kr, Tel: +82 64 754 3548 
+ 
+Sent for review: 16 March 2017        Revised accepted: 18 August 2017 
+ 
+Abstract 
+Purpose: To investigate the anti-inflammatory activity of the ethanol extract of the immature fruit of a 
+citrus, Shiranuhi, and to identify the active ingredient. 
+Methods: The immature Shiranuhi peel was extracted with 80 % ethanol, and the extract was 
+fractionated with solvents (n-hexane, ethyl acetate and n-butanol) to afford the corresponding fractions 
+and water residue. Among them, the EtOAc-soluble portion was subjected to medium pressure liquid 
+chromatography (MPLC) over a reversed-phase SiO2 column to give compound 1. The isolated 
+compound was identified based on the proton and carbon nuclear magnetic resonance (NMR) spectra. 
+The release of nitric oxide, prostaglandin (PG)E2, tumor necrosis factor (TNF)-α, interleukin (IL)-1β, and 
+IL-6 secreted by mouse macrophages was measured using RAW264.7 cell culture supernatant.  
+Results: Shiranuhi (Korean name, Hallabong) is an important citrus species cultivated in Jeju Island, 
+Korea. A polymethoxyflavonoid (PMF), tetramethyl-O-scutellarin (1), was isolated from the peels of 
+immature Shiranuhi fruit. Upon the evaluation of anti-inflammatory effects, the flavonoid 1 decreased the 
+nitric oxide production in macrophage cells with high efficiency, viz, 50 % inhibition concentration, IC50 
+of 57.4 μM. Subsequent studies demonstrated that PMF 1 effectively inhibited the generation of PGE2, 
+TNF-α, IL-1β, and IL-6 cytokine in a dose-dependent manner.  
+Conclusion: Tetramethyl-O-scutellarin (1) has been successfully isolated from Shiranuhi species for 
+the first time. Thus, Shiranuhi fruit peel extract containing PMF 1 can potentially be applied as an anti-
+inflammatory ingredient in food or cosmetic industries. 
+ 
+Keywords: Shiranuhi fruit, Nitric oxide, Tetramethyl-O-scutellarin, Anti-inflammatory 
+ 
+Tropical Journal  of Pharmaceutical Research is indexed by Science Citation Index (SciSearch), Scopus, 
+International Pharmaceutical Abstract, Chemical Abstracts, Embase, Index Copernicus, EBSCO, African 
+Index Medicus, JournalSeek, Journal Citation Reports/Science Edition, Directory of Open Access Journals 
+(DOAJ), African Journal Online, Bioline International, Open-J-Gate and Pharmacy Abstracts 
+ 
+INTRODUCTION 
+ 
+Citrus is a genus of trees producing important 
+fruits such as oranges, lemons, grapefruit, and 
+limes. Mandarine oranges (C. reticulata) are 
+widely cultivated in subtropical areas of China, 
+Japan, and Korea. The dried peels of Citrus fruits 
+have been used in Chinese medicine for the cure 
+of stomachache, skin inflammation, muscle pain, 
+cough, and high blood pressure [1]. 
+Phytochemical studies of Citrus peels have led to 
+identifying some metabolites including flavonoids 
+[2,3], limonoids [4,5], and coumarins [6]. 
+Polymethoxyflavones (PMFs) have attracted 
+considerable attention as bioactive constituents 
+in Citrus peels [2,7] owing to their anti-
+inflammatory [8], anticarcinogenic [9], and 
+antiatherogenic properties [10]. Besides, 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2198  
+ 
+antioxidant [11,12] and antitumor properties [13] 
+were also identified from the flavonoids of Citrus 
+genus.  
+ 
+Shiranuhi is the generic name of a hybrid Citrus 
+species [(Citrus unshiu Marc. × C. sinensis 
+Osbeck) × C. Reticulata Blanco)], and its fruit is 
+large size with a characteristic sweet taste. 
+Shiranuhi fruit (Korean name, Hallabong) is 
+produced in large quantities from orchards in 
+Jeju Island, Korea [14]. Within the Citrus species, 
+Shiranuhi is relatively unexplored as the source 
+of phytochemical studies searching for 
+cosmeceutical or functional food ingredients. In 
+the process of our investigation to develop 
+bioactive ingredients from the plants available in 
+Jeju Island, the ethanol extracts prepared from 
+the peels of immature Shiranuhi fruit exhibited 
+anti-inflammatory activities. Therefore, we 
+decided to identify the chemical constituents 
+responsible for the activities.  
+ 
+Polymethoxyflavonoid compounds have been 
+isolated from various Citrus plants including C. 
+sinensis and C. reticulata [15,16]. Essential oil 
+from the peels of Shiranuhi exhibited high radical 
+scavenging and anti-bacterial activities [17]. So 
+far, there is no report on the ingredients 
+responsible for the anti-inflammatory activity from 
+Shiranuhi plant. The anti-inflammatory activities 
+of the extracts and the isolated compound were 
+determined by LPS-induced RAW264.7 murine 
+macrophage cells.  
+ 
+EXPERIMENTAL 
+ 
+Plant material 
+ 
+Immature Shiranuhi peels were collected from 
+the Citrus Research Institute (RDA) in Jeju 
+Island, South Korea. An authenticated voucher 
+specimen (no. 463) was deposited at the 
+herbarium of Natural Product Chemistry, 
+Department of Chemistry and Cosmetics, Jeju 
+National University. 
+ 
+Extraction and isolation 
+ 
+Immature Shiranuhi peels (1,085 g) were dried in 
+the shade and extracted with 80% ethanol three 
+times by stirring using a mechanical stirrer at 
+room temperature for 24 h. The combined 
+ethanol extract was filtered, and the filtrate was 
+concentrated using a vacuum evaporator to give 
+a gummy extract (146.8 g). A part of the citrus 
+extract (60.0 g) was suspended in distilled water 
+(3 L) and fractionated with three solvents (n-
+hexane, ethyl acetate, and n-butanol), affording 
+the corresponding solvent fractions and water 
+residue. Among the fractions, the EtOAc-soluble 
+fraction (5.0 g) was purified by medium-pressure 
+liquid chromatography (MPLC, Biotage co.) 
+instrument equipped with a C18 SiO2 column (KP-
+C18-HS, Biotage Co.). Elution of the fraction with 
+H2O–MeOH (10 – 100 %) solvent gradient 
+provided 39 subfractions. Among them, 
+subfraction 31 (126.8 mg) was identified as the 
+pure compound. Analytical grade solvents were 
+used in this experiment. 1H and 13C nuclear 
+magnetic resonance spectra (1H NMR, 500 MHz; 
+13C NMR, 125 MHz) were obtained using an 
+AVANCE III (FT-NMR system, Bruker co.) 
+instrument, and the chemical shift (δ) data are 
+reported in ppm relative to the NMR solvent 
+used. Electrospray ionization (ESI) mass 
+analyses were performed on a Waters Quattro 
+micro Tandem mass system (Waters, USA). 
+ 
+Cell culture  
+ 
+Murine macrophage RAW264.7 cell line was 
+purchased from American Type Cell Culture 
+(Rockville, MD, USA). The cell (RAW264.7) 
+culture was prepared in Dulbecco’s modified 
+Eagle’s medium (GIBCO Inc., NY, USA) 
+supplemented with streptomycin (100 μg/mL), 
+penicillin (100 U/mL), and 10% fetal bovine 
+serum (GIBCO Inc., NY, USA). The cells were 
+incubated in 5 % CO2 atmosphere at 37 °C. 
+ 
+WST-1 assay for cell viability 
+ 
+Tetrazolium salt WST-1 [2-(4-iodophenyl)-3-(4-
+nitrophenyl)-5-(2,4-disulfophenyl)-2H-tetrazolium] 
+(Roche, Germany) was employed for the cell 
+viability assays. The assay was performed 
+following the manufacturer protocol. Murine 
+RAW264.7 macrophage cells (1.5 × 105 cells/mL) 
+were cultured in 24-well plate for 18 h, followed 
+by treatment with 1 μg/mL of LPS in the 
+presence of various samples. After 24 h cell 
+incubation, WST-1 was added to the medium 
+and it was allowed to stand for 1 h. The 
+supernatant was measured at 440 nm with 
+reference 600 nm. Cell viability was determined 
+as the ratio of the sample absorbance to that of 
+control. 
+ 
+Measurement of nitric oxide concentration  
+ 
+The NO production was determined by the 
+Griess reagent (Sigma, USA). In this assay, the 
+accumulated nitrite ion originated from the NO in 
+the culture medium was monitored by a 
+colorimetric method. Briefly, after RAW264.7 
+macrophage cells (1.5 × 105 cells/mL) were 
+incubated for 18 h, the cells were treated with 
+LPS and various concentrations of samples (total 
+volume, 1 μg/mL) for 24 h. Then, the equal 
+volume of Griess reagent was added to the 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2199  
+ 
+supernatant, and incubated at room temperature 
+for 10 min. The produced nitrite ion was 
+determined using a microplate reader (Sunrise™, 
+Tecan Group Ltd., Switzerland) at a wavelength 
+of 540 nm. The percent inhibition for each 
+sample was calculated as. 
+ 
+Inhibition (%) = [(Control – Sample) / Control] × 
+100 
+ 
+Measurement of prostaglandin E2 (PGE2) and 
+cytokines  
+ 
+The production of PGE2 and pro-inflammatory 
+cytokines (TNF-α, IL-1β, and IL-6) was 
+determined in the culture supernatant of 
+RAW264.7 cells. In a 24-well cell culture plate, 
+the macrophage cells were placed at an 
+appropriate density (1.5 × 105 cells/mL) with 
+culture medium (1 mL) and incubated for 18 h. 
+Then, the cells were treated with a sample 
+(specified concentration) and LPS (1 μg/mL) and 
+incubated for an additional 24 h. The amount of 
+PGE2, TNF-α, IL-1β, and IL-6 produced by the 
+cells was measured using an ELISA kit (PGE2, 
+IL-1β; R&D systems, TNF-α, IL-6; Invitrogen) and 
+a microplate reader according to the 
+manufacturer’s instructions. 
+ 
+Statistical analysis 
+ 
+Means (± standard error of the mean) of the data 
+are presented, and statistical analysis of the 
+results was carried out by Student's t-test using 
+Microsoft Excel 2013 (Microsoft Corporation, 
+USA) for independent samples. Values of p 
+<0.05 and p <0.01 were considered significant as 
+appropriate. 
+ 
+RESULTS 
+ 
+At first, the ethanol extracts were examined for 
+the anti-inflammatory activities using RAW 264.7 
+cells. The extract (100 μg/mL) prepared from the 
+immature Shiranuhi peels inhibited LPS-induced 
+NO production in the macrophage cells by 8 % 
+(Figure 1). The ultimate goal of this study was to 
+determine the anti-inflammatory chemical 
+constituents in the extracts. Thus, the extract 
+was partitioned in the order of polarity using  
+ 
+ 
+ 
+ 
+ 
+Figure 1: Effect of extract and solvent fractions from immature Shiranuhi peel on NO production (A) and cell 
+viability (B) in LPS-induced RAW264.7 cells. The cells were stimulated with 1 μg/mL of LPS only, or with LPS 
+plus sample (100 μg/mL) for 24 h. Values are the mean ± SEM of triplicate experiments; *p < 0.05; **p < 0.01 
+versus LPS alone 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2200  
+ 
+ 
+ 
+ 
+ 
+Figure 2: Effect of ethyl acetate (EtOAc) fractions on NO production (A) and cell viability (B) in LPS-induced 
+RAW264.7 cells. The cells were stimulated with 1 μg/mL of LPS only, or with LPS plus various concentrations 
+(25, 50, and 100 μg/mL) of samples for 24 h. Values are the mean ± SEM of triplicate experiments; *p < 0.05; **p 
+< 0.01 versus LPS alone 
+ 
+solvents (n-hexane, EtOAc, and n-butanol) to 
+afford corresponding fractions as well as the 
+remaining water residue. Each solvent fraction 
+was again subjected to the activity test for the 
+generation of NO. Figure 1A shows that both the 
+n-hexane and EtOAc fractions possess strong 
+NO inhibition activities. However, the WST-1 
+assay indicated that the n-hexane fraction have 
+considerable cell toxicity. In contrast, the EtOAc 
+fraction mostly maintained cell viability at a 
+concentration up to 100 μg/mL, indicating that 
+the cell-destruction effect is rarely involved in the 
+observed NO inhibition. Figure 2 shows the NO 
+inhibition and cell toxicity data of the EtOAc 
+fraction under various concentrations (25 – 100 
+μg/mL), indicating that the EtOAc fraction 
+decreased the NO generation in a dose-
+dependent manner. The EtOAc fraction was 
+selected for further purification to isolate the 
+active ingredient, because it strongly inhibited 
+NO synthesis without causing cell toxicity at 100 
+μg/mL (Figure 2B). 
+ 
+EtOAc fraction was separated by MPLC and 
+silica gel column chromatography, leading to the 
+isolation of compound 1. The chemical structure 
+of compound 1 was elucidated by the 
+interpretation of the 1H and 13C NMR spectra. 
+Compound 1 showed 13 carbon peaks in the 13C 
+NMR spectrum, a characteristic indication of the 
+presence of a flavone skeleton. The signal at δ 
+177.4 ppm in the 13C NMR spectrum indicates 
+the presence of a carbonyl group at C-4 position. 
+The 13C signals at δ 62.4, 61.7, 56.4, and 55.6 
+ppm correspond to the four methoxy groups at 
+the C-5, C-6, C-7, and C-4′ positions, 
+respectively. 
+ 
+The 1H NMR spectrum of compound 1 revealed 
+that it has an A2B2 system (H-2′/H-6′ and H-3′/H-
+5′), as demonstrated by the coupling constant 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2201  
+ 
+signals at δ 7.81 (d, H-2′, H-6′) and δ 6.99 (d, H-
+3′, H-5′), and one methoxy group at position C-4′. 
+The aromatic proton singlet signals at δ 6.56 and 
+6.77 ppm were assigned to the H-3 and H-8 in 
+the structure. Four proton signals for the methoxy 
+groups at the H-5, H-6, H-7 and H-4′ were 
+observed at δH 3.86, 3.89, 3.95, and 3.96, 
+respectively. 
+ 
+O
+OCH3O
+CH3O
+CH3O
+OCH3
+1  
+ 
+Figure 3: Structure of tetramethyl-O-scutellarin (1) 
+isolated from immature Shiranuhi peel  
+ 
+By careful examination of the NMR data 
+discussed above, compound 1 was identified as 
+a polymethoxyflavone, tetramethyl-O-scutellarin 
+(Figure 3). The 1H NMR and 13C NMR data are 
+as follows: 1H NMR (500 MHz, CDCl3) δ 7.81 
+(2H, d, J = 9.0, H-2′, 6′), 6.99 (2H, d, J = 9.0, H-
+3′, 5′), 6.77 (1H, s, H-8), 6.56 (1H, s, H-3), 3.96 
+(3H, s, 4′-OCH3), 3.95 (3H, s, 7′-OCH3), 3.89 
+(3H, s, 6-OCH3), 3.86 (3H, s, 5-OCH3); 13C NMR 
+(125 MHz, CDCl3) δ 177.4 (C-4), 162.3 (C-2), 
+161.3 (C-4′), 157.8 (C-7), 154.6 (C-5), 152.7 (C-
+9), 140.4 (C-6), 127.8 (C-2′, 6′), 124.0 (C-1′), 
+114.5 (C-3′, 5′), 113.0 (C-10), 107.2 (C-3), 96.4 
+(C-8), 62.4 (5-OCH3), 61.7 (6-OCH3), 56.4 (7-
+OCH3), 55.6 (4′-OCH3). ESIMS (positive-ion 
+mode): m/z 343 (M+H)+. The suggested structure 
+was finally confirmed by the comparison of the 
+observed data to the literature values [18]. As far 
+as we know, tetramethyl-O-scutellarin (1) was 
+isolated for the first time from Shiranuhi fruit. 
+ 
+The bioactivity test flavonoid 1 was also tested 
+using RAW 264.7 cells under under varying 
+concentrations (25, 50, and 100 μM). When 
+activated by LPS, RAW 264.7 cells increased the 
+nitric oxide (NO) production by 12 fold (Figure 
+4A). The treatment of tetramethyl-O-scutellarin 
+(1) to the activated macrophage cells decreased
+ 
+ 
+ 
+ 
+Figure 4: Effect of tetramethyl-O-scutellarin (1) on NO production (A) and cell viability (B) in LPS-induced 
+RAW264.7 macrophage cells. The cells were stimulated with 1 μg/mL of LPS only, or with LPS plus various 
+concentrations (25, 50, and 100 μM) of samples for 24 h. Values are the mean ± SEM of triplicate experiments *p 
+< 0.05; **p < 0.01 versus LPS alone 
+A 
+B 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2202  
+ 
+the NO production with high efficiency (IC50 = 
+57.4 μM)) in a dose dependent manner. The 
+potential cytotoxicity of the isolate 1 was 
+determined by the WST-1 assay, where the cells 
+were incubated for 24 h with or without LPS 
+(Figure 4B). In this test, cell viability mostly 
+unchanged at the employed concentrations (25, 
+50, and 100 μM), suggesting that the NO 
+inhibitory effect of isolate 1 had nothing to do 
+with its cell toxicity. To further elucidate the anti-
+inflammatory mechanism of PMF 1, 
+inflammation-related substances such as PGE2, 
+IL-6, IL-1β, and TNF-α were monitored in culture 
+supernatants by ELISA. As shown in Figure 5, 
+LPS-activated RAW 264.7 cells significantly 
+produced the inflammatory cytokines (Figure 5). 
+This experiment clearly revealed that flavonoid 1 
+reduced the production of the cytokines (PGE2, 
+TNF-α, IL-1β, and IL-6) with high to medium 
+degree in a concentration dependent manner 
+(Figure 5 and Figure 6). 
+ 
+DISCUSSION 
+ 
+If body tissue is exposed to a variety of stimuli, 
+inflammation occurs as a biological response. 
+Inflammation is commonly characterized by 
+blood flow increase to the damaged tissue 
+inducing temperature rise, redness, swelling and 
+pain. It is mediated by different types of signaling 
+molecules produced by various cells. 
+Macrophages play an important role in 
+inflammation-related disease through the 
+secretion of molecular mediators such as NO, 
+PGE2 as well as relevant cytokines including 
+tumor necrosis factor (TNF)-α, interleukin (IL)-1β, 
+and IL-6 [19]. 
+ 
+Polymethoxyflavones (PMFs) are a class of 
+compounds, with flavones as a base structure 
+and methoxy substituents in different positions. 
+Interestingly, PMFs exist mainly in Citrus genus 
+in the plant kingdom. More than 30 PMFs have 
+ 
+ 
+ 
+ 
+ 
+Figure 5: Effect of tetramethyl-O-scutellarin (1) on PGE2 (A) and TNF-α (B). The cells were stimulated with 1 
+μg/mL of LPS only, or with LPS plus various concentrations (25, 50, and 100 μM) of samples for 24 h. Values are 
+the mean ± SEM (n = 3); *p <0.05; **p <0.01 versus LPS alone 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2203  
+ 
+(A) 
+ 
+ 
+(B) 
+ 
+ 
+Figure 6: Effect of tetramethyl-O-scutellarin (1) on IL-1β (A) and IL-6 (B) production in LPS-induced RAW264.7 
+macrophage cells. The cells were stimulated with 1 μg/mL of LPS only, or with LPS plus various concentrations 
+(25, 50, and 100 μM) of samples for 24 h. Values are the mean ± SEM (n = 3); *p <0.05; **p <0.01 versus LPS 
+alone 
+ 
+been isolated from different parts of the citrus 
+species including mandarin (C. reticulata 
+Blanco)and sweet orange (C. sinensis) [20]. The 
+structural types and ingredient contents of PMFs 
+vary between different varieties of citrus plants. 
+Among those isolated PMF derivatives, nobiletin 
+and tangeretin have been intensively explored 
+owing to their availability and interesting 
+pharmacological activities. Numerous studies 
+suggest that PMF compounds isolated from 
+citrus display a broad spectrum of biological 
+activity [21]. 
+ 
+In this study, we isolated a polymethoxy-
+flavonoid, tetramethyl-O-scutellarin (1) as an 
+active constituent from immature Shiranuhi peel 
+and examined its anti-inflammatory activities. 
+Shiranuhi is a hybrid Citrus species, and its fruit 
+is produced in large quantities in Jeju Island of 
+Korea. The isolated PMF 1 strongly inhibited the 
+NO production with a high efficiency (IC50 57.4 
+μM). The subsequent studies demonstrated that 
+the flavonoid 1 effectively reduced the secretion 
+of prostaglandin E2 as well as the production of 
+pro-inflammatory cytokines such as tumor 
+necrosis factor-alpha, interleukin (IL)-1β, and IL-
+6 in a dose dependent manner.  
+ 
+CONCLUSION 
+ 
+Tetramethyl-O-scutellarin (1) has successfully 
+been isolated for the first time from Shiranuhi 
+citrus species. PMF compound 1 possesses anti-
+inflammatory properties as indicated by the 
+suppression of NO, PGE2, IL-6, IL-1β, and TNF-α 
+production in LPS-triggered macrophage RAW 
+264.7 cells. The control of pro-inflammatory 
+mediators (NO, TNF-α, and IL-6) has been an 
+effective strategy for the development of novel 
+anti-inflammatory materials. Thus, the results 
+suggest that tetramethyl-O-scutellarin (1) derived 
+from a citrus might be a potential agent for the 
+treatment of inflammation-associated human 
+health problems. 
+ 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2204  
+ 
+DECLARATIONS 
+ 
+Acknowledgement 
+ 
+This work was carried out with the support of 
+Cooperative Research Program for Agriculture 
+Science & Technology Development (Project no. 
+PJ010934072016), Rural Development Admini-
+stration, Republic of Korea. 
+ 
+Conflict of Interest 
+ 
+No conflict of interest associated with this work. 
+ 
+Contribution of Authors 
+ 
+The authors declare that this work was done by 
+the authors named in this article and all liabilities 
+pertaining to claims relating to the content of this 
+article will be borne by them.  
+ 
+Open Access  
+ 
+This is an Open Access article that uses a fund-
+ing model which does not charge readers or their 
+institutions for access and distributed under the 
+terms of the Creative Commons Attribution 
+License (http://creativecommons.org/licenses/by/ 
+4.0) and the Budapest Open Access Initiative 
+(http://www.budapestopenaccessinitiative.org/rea
+d), which permit unrestricted use, distribution, 
+and reproduction in any medium, provided the 
+original work is properly credited.  
+ 
+REFERENCES 
+ 
+1. Li S, Pan MH, Lo CY, Tan D, Wang Y, Shahidi F, Ho CT. 
+Chemistry and health effects of polymethoxyflavones 
+and hydroxylated polymethoxyflavones. J Funct Foods 
+2009; 1: 2-12. 
+2. Tatum JH, Berry RE. Six new flavonoids from Cirus. 
+Phytochem 1972; 11: 2283-2288. 
+3. Horie T, Tsukayama M, Yamada T, Miura I, Nakayama 
+M. Three flavone glycosides from Citrus sudachi. 
+Phytochem 1986; 25: 2621-2624. 
+4. Hasegawa S, Raymond DB, Zareb H. A limonoid from 
+young calamondin seedlings. Phytochem 1986; 25: 
+1984-1985. 
+5. Raymond DB, Miyake M, Ozaki Y, Hasegawa S. 
+Limonoid glucosides in Citrus aurantium. Phytochem 
+1991; 30: 3803-3805. 
+6. Tatum JH, Berry RE. Coumarins and psoralens in 
+grapefruit peel oil. Phytochem 1979; 18: 500-502. 
+7. Maris AA, Panagiotis K, Eugenios K, Andreana NA, 
+Vassilios PP. Analysis of antioxidant compounds in 
+sweet orange peel by HPLC-diode array detection-
+electrospray ionization mass spectrometry. Biomed 
+Chromatog 2005; 19: 138-148. 
+8. Murakami A, Shigemori T, Ohigashi H. Zingiberaceous 
+and citrus constituents, 10-acetoxychavicol acetate, 
+zerumbone, auraptene, and nobiletin, suppress 
+lipopolysaccharide-induced cyclooxygenase-2 
+expression in RAW 264.7 murine macrophages through 
+different modes of action. J Nutr 2005; 135: 2987-2992. 
+9. Lai CS, Li S, Chai CY, Lo CY, Ho CT, Wang YJ, Pan MH. 
+Inhibitory effect of citrus 5-hydroxy-3,6,7,8,30,40-
+hexamethoxyflavone on 12-O-tetradecanoylphorbol 13-
+acetate-induced skin inflammation and tumor promotion 
+in mice. Carcinogenesis 2007; 28: 2581-2588. 
+10. Kurowska EM, Manthey JA. Hypolipidemic effects and 
+absorption of citrus polymethoxylated flavones in 
+hamsters with diet-induced hypercholesterolemia. J 
+Agric Food Chem 2004; 52: 2879-2886. 
+11. Jeong WS, Park SW, Chung SK. The antioxidative 
+activity of Korean Citrus unshiu peels. Food Biotechnol 
+1997; 6: 292-296. 
+12. Su MS, Shyu YT, Chien PJ. Antioxidant activities of citrus 
+herbal product extracts. Food Chem 2008; 111: 892-
+896. 
+13. Yoshiki M, Takashi S, Keisuke I, Akira D, Masamichi Y, 
+Akira I. A citrus polymethoxyflavonoid, nobiletin, is a 
+novel MEK inhibitor that exhibits antitumor metastasis in 
+human fibrosarcoma HT-1080 cells. Biochem Biophys 
+Res Commun 2008; 366: 168-173. 
+14. Oh SI. Citrus. Korea Rural Economic Institute, 2010; 317: 
+6-8. 
+15. Ortuñ o A, Bá idez A, Gó mez P, Arcas MC, Porras I, 
+García A, Río JA. Citrus paradisi and Citrus sinensis 
+flavonoids: Their influence in the defence mechanism 
+against Penicillium digitatum. Food Chem 2006; 98: 
+351-358. 
+16. Qizhen D, Hui C. The methoxyflavones in Citrus 
+reticulata Blanco cv. ponkan and their antiproliferative 
+activity against cancer cells. Food Chem 2013; 119: 
+567-572. 
+17. Kim SS, Hyun JM, Kim KS, Park KJ, Park SM, Choi YH. 
+Influence of Essential Oil in 'Shiranuhi' Immature Fruit 
+on Antioxidant and Antimicrobial Activities. Korea J 
+Medicinal Crop Sci 2013; 261: 493-497. 
+18. Miyazawa M, Okuno Y, Fukuyama M, Nakamura S, 
+Kosaka H. Anti-mutagenic Activity of 
+Polymethoxyflavonoids from Citrus aurantium. J Agric 
+Food Chem 1999; 47: 5239-5244. 
+19. Guastadisegni C, Nicolini A, Balduzzi M, Ajmone-Cat MA, 
+Minghetti L. Modulation of PGE2 and TNF-α by nitric 
+oxide in resting and LPS-activated RAW 264.7 cells. 
+Cytokine 2002; 19: 175-180. 
+20. Jayaprakasha GK, Negi PS, Sikder S, Rao LJ, Sakariah 
+KK. Antibacterial activity of Citrus reticulata peel 
+extracts. Z Naturforsch C 2000; 55: 1030-1034. 
+21. Chen J, Montanari AM. Isolation and identification of new 
+polymethoxyflavonoids from dancy tangerine leaves. J 
+Agric Food Chem 1998; 46: 1235-1238. 
+22. Li S, Pan MH, Lai CS, Lo CY, Dushenkov S, Ho CT. 
+Isolation and syntheses of polymethoxyflavones and 
+Hyun et al 
+Trop J Pharm Res, September 2017; 16(9): 2205  
+ 
+hydroxylated polymethoxyflavones as inhibitors of HL-60 cell lines. Bioorg Med Chem 2007; 15: 3381-338 
+ 

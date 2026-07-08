@@ -1,0 +1,1865 @@
+Genetics, Development and Cell Biology
+Publications Genetics, Development and Cell Biology
+9-2008
+Pseudohypericin is necessary for the Light-
+Activated Inhibition of Prostaglandin E2 pathways
+by a 4 component system mimicking an
+Hypericum perforatum fraction
+Kimberly D. P. Hammer
+Iowa State University
+Matthew L. Hillwig
+Iowa State University
+Jeffrey D. Neighbors
+University of Iowa
+Young-Je Sim
+Iowa State University
+Marian L. Kohut
+Iowa State University, mkohut@iastate.edu
+See next page for additional authors
+Follow this and additional works at: http://lib.dr.iastate.edu/gdcb_las_pubs
+Part of the Cell and Developmental Biology Commons, Food Science Commons, Genetics and
+Genomics Commons, and the Kinesiology Commons
+The complete bibliographic information for this item can be found at http://lib.dr.iastate.edu/
+gdcb_las_pubs/76. For information on how to cite this item, please visit http://lib.dr.iastate.edu/
+howtocite.html.
+This Article is brought to you for free and open access by the Genetics, Development and Cell Biology at Iowa State University Digital Repository. It
+has been accepted for inclusion in Genetics, Development and Cell Biology Publications by an authorized administrator of Iowa State University
+Digital Repository. For more information, please contact digirep@iastate.edu.
+Authors
+Kimberly D. P. Hammer, Matthew L. Hillwig, Jeffrey D. Neighbors, Young-Je Sim, Marian L. Kohut, David F.
+Wiemer, Eve S. Wurtele, and Diane F. Birt
+This article is available at Iowa State University Digital Repository: http://lib.dr.iastate.edu/gdcb_las_pubs/76
+Pseudohypericin is necessary for the Light-Activated Inhibition of
+Prostaglandin E2 pathways by a 4 component system mimicking
+an Hypericum perforatum fraction
+Kimberly D. P. Hammera,b,c, Matthew L. Hillwiga,d, Jeffrey D. Neighborsa,e, Young-Je
+Sima,f, Marian L. Kohuta,f, David F. Wiemera,e, Eve S. Wurtelea,b,d, and Diane F. Birta,b,c,*
+aThe Center for Research on Botanical Dietary Supplements, 215 MacKay Hall; Ames, Iowa, 50011
+bInterdepartmental Genetics Graduate Program at Iowa State University, 2102 Molecular Biology Building;
+Ames, Iowa, 50011
+cDepartment of Food Science and Human Nutrition at Iowa State University, 2312 Food Sciences Building;
+Ames, Iowa, 50011
+dDepartment of Genetics, Development and Cell Biology at Iowa State University, 1210 Molecular Biology
+Building; Ames, Iowa, 50011
+eDepartment of Chemistry at the University of Iowa, 305 Chemistry Building at the University of Iowa; Iowa
+City, Iowa, 52242
+fDepartment of Kinesiology at Iowa State University, 246 Forker Building; Ames, Iowa, 50011
+Abstract
+Hypericum perforatum (Hp) has been used medicinally to treat a variety of conditions including
+mild-to-moderate depression. Recently, several anti-inflammatory activities of Hp have been
+reported. An ethanol extract of Hp was fractionated with the guidance of an anti-inflammatory
+bioassay (lipopolysaccharide (LPS)-induced prostaglandin E2 production (PGE2)), and four
+constituents were identified. When combined together at concentrations detected in the Hp fraction
+to make a 4 component system, these constituents (0.1 µM chlorogenic acid, 0.08 µM amentoflavone,
+0.07 µM quercetin, and 0.03 µM pseudohypericin) explained the majority of the activity of the
+fraction when activated by light, but only partially explained the activity of this Hp fraction in dark
+conditions. One of the constituents, light-activated pseudohypericin, was necessary, but not sufficient
+to explain the reduction in LPS-induced PGE2 of the 4 component system. The Hp fraction and the
+4 component system inhibited lipoxygenase and cytosolic phospholipase A2, two enzymes in the
+PGE2-mediated inflammatory response. The 4 component system inhibited the production of the
+pro-inflammatory cytokine tumor necrosis factor-α (TNF-α), and the Hp fraction inhibited the anti-
+inflammatory cytokine interleukin-10 (IL-10). Thus, the Hp fraction and selected constituents from
+this fraction showed evidence of blocking pro-inflammatory mediators but not enhancing
+inflammation-suppressing mediators.
+*To whom correspondence should be addressed: Diane F. Birt, Tel: (515) 294-9873 Email: dbirt@iastate.edu Fax: (515) 294-6193.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers
+we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting
+proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could
+affect the content, and all legal disclaimers that apply to the journal pertain.
+NIH Public Access
+Author Manuscript
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+Published in final edited form as:
+Phytochemistry. 2008 September ; 69(12): 2354–2362. doi:10.1016/j.phytochem.2008.06.010.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Keywords
+Hypericum perforatum; anti-inflammatory; Prostaglandin E2; RAW 264.7; pseudohypericin;
+flavonoids
+5) Introduction
+The synthesis of prostaglandins plays a critical role in normal physiological processes as well
+as acute and chronic inflammatory states (Dubois et al., 1998; Portanova et al., 1996) and the
+key enzymes involved in prostaglandin biosynthesis are prostaglandin endoperoxide synthases,
+also known as cyclooxygenases. Cyclooxygenase-1 (COX-1) is responsible for housekeeping
+functions such as maintenance of gastric mucosa (Smith et al., 1996). Cyclooxygenase-2
+(COX-2) is induced by lipopolysaccharide (LPS) to produce prostaglandins, of which
+prostaglandin E2 (PGE2) is one of the main mediators of inflammation (Minghetti et al.,
+1999; O’Sullivan et al., 1992). Cytosolic phospholipase A2 (cPLA2) releases arachidonic acid,
+the substrate for COX and lipoxygenase (LOX) enzymes, from membrane phospholipids.
+Cytokines mediate the inflammatory response in a complex manner, during its early, middle,
+and late stages. Tumor necrosis factor-α (TNF-α), an early pro-inflammatory cytokine, is
+involved in the pathogenesis of many inflammatory diseases and can regulate the growth,
+proliferation, and viability of leukocytes (Aggarwal, 2000; Calamia, 2003). Interleukin-10
+(IL-10), an anti-inflammatory cytokine predominant in the later phases of inflammation, is a
+potent inhibitor of macrophage function, and IL-10 can block the synthesis of TNF-α and can
+inhibit COX-2 induction (Niiro et al., 1995; de Waal-Malefyt et al., 1991). Preparations that
+can modulate one or many of the mediators of inflammation may be useful for the treatment
+of inflammatory diseases.
+Hypericum perforatum (Hp) contains unusual compounds such as hypericin, pseudohypericin,
+and hyperforin, as well as compounds present throughout the plant kingdom (Bilia et al.,
+2002). Raso et al. (2002) found that giving 100 mg/kg of Hp extract by gavage to mice two
+times daily significantly reduced COX-2 protein levels in peritoneal macrophages. Hp extracts
+and many of the constituents in these extracts (light-activated pseudohypericin, flavonoid
+compounds, hyperforin) reduced LPS-induced PGE2 production in RAW 264.7 macrophages
+(Hammer et al., 2007). Furthermore, Hp extracts exhibited light-independent reductions in
+LPS-induced PGE2, but pseudohypericin significantly decreased LPS-induced PGE2 at 1 and
+2 µM only in light-activated conditions and 20 µM hypericin increased PGE2 with and without
+LPS only in light-activated conditions. This data established that although individual
+constituents like pseudohypericin and hypericin needed activation by light to produce an effect
+on PGE2, confirming previously reported light-activated bioactivities of hypericin (Bilia et al.,
+2002; Carpenter et al., 1991), Hp extracts did not differ in light-activated and dark conditions,
+contrary to previously reported bioactivities (Bilia et al., 2002; Schmitt et al., 2006a; Schmitt
+et al., 2006b). Other compounds like the flavonoids and caffeic acid derivatives did not differ
+in light-activated and dark treatments (Hammer et al., 2007). It is vital to understand the effects
+of isolated active constituents as well as combinations of active constituents to relate the
+bioactivity of the constituents to the bioactivity of extracts (Spinella, 2002). Of 10 potentially
+bioactive constituents tested, only the concentration of pseudohypericin detected in the Hp
+extracts (0.2 to 1 µM) was above the level of pure constituent (1 µM) needed to observe a
+significant reduction in PGE2 production in RAW 264.7 mouse macrophages (Hammer et al.,
+2007). However, pseudohypericin’s presence in the extracts did not appear to account for the
+activity of the extracts, suggesting that the interactions of the constituents may be important
+(Hammer et al., 2007).
+Hammer et al. Page 2
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Bioactivity-guided fractionation was used to identify constituents present in an Hp ethanol
+extract that may be responsible for anti-inflammatory activity of the extract. Our hypothesis
+was that flavonoid compounds were contributing to the anti-inflammatory activity of the Hp
+extracts, along with other constituents that may interact with the flavonoids. To test this
+hypothesis, we used a strategy intended to enrich the fractions in flavonoids, and evaluated the
+fractions for a reduction in LPS-induced PGE2 production. To compare our anti-inflammatory
+results to a known compound, we used concentrations of quercetin exceeding the levels found
+in Hp extracts and that have previously been shown to inhibit inflammatory endpoints of
+interest as a positive control.
+6) Results/Discussion
+The bioactivities of Hp fractions from four rounds of iterative fractionations are presented in
+Table 1. The original Hp ethanolic extract significantly inhibited LPS-induced PGE2
+production in RAW 264.7 mouse macrophages at both 10 and 20 µg/ml. There was a significant
+reduction in cell viability associated with the 20 µg/ml dose of the Hp extract, although the
+reduction in PGE2 (46% of PGE2 control) could not be fully explained by this decreased cell
+viability data (58% of cell viability control). This original Hp extract was fractionated using
+ethanol, chloroform, or hexane into three fractions (1A: ethanol, 1B: hexane, and 1C:
+chloroform). The most active fraction from the first round of fractionation at 10 µg/ml was
+fraction 1C when compared with other fractions; 36% of the PGE2 production compared to
+control and 74% of cell viability compared to control. Subfractionation of fraction 1C by
+column chromatography with a solvent series of chloroform (CHCl3), acetonitrile (CH3CN),
+and methanol (MeOH) led to 4 fractions (2A, 2B, 2C, 2D), of which, 10 µg/ml of fraction 2C
+most significantly decreased PGE2 as compared to control (44% of PGE2 control, 96% of cell
+viability control) and was the most active of the second round fractions at 10 µg/ml. Fraction
+2C was further sub-fractionated using column chromatography with 1:1 CH3CN:CHCl3 to 1:1
+MeOH: CH3CN (3A, 3B, 3C, 3D, 3E, 3F). Of the third round fractions, fraction 3A significantly
+decreased PGE2 (22% of PGE2 control, 85% of cell viability control) at a concentration as low
+as 10 µg/ml. Fraction 3A was further sub-fractionated using column chromatography with a
+step gradient from 10% CH3CN:CHCl3 to 100% MeOH into 7 fractions (4A, 4B, 4C, 4D, 4E,
+4F, 4G). The most active fraction from the last round of fractionation was fraction 4F (58% of
+PGE2 control, 101% of cell viability control) at 2 µg/ml; however, the reduction in PGE2 was
+not statistically significant.
+The concentrations of 10 constituents were quantified in the original Hp extract and the four
+most active fractions (1C, 2C, 3A, 4F) are shown in Table 2. The most abundant constituents
+in the original Hp extract were hyperforin (12.5 µM), chlorogenic acid (6.1 µM), rutin (2.7
+µM), and hyperoside (1.6 µM) (Table 2). After the first round of fractionation, the
+concentrations of all the constituents in fraction 1C were at or below 1 µM. It is possible that
+agents that suppressed the inhibition of PGE2 production were removed in the earlier stages
+of fractionation since the concentration of putative active constituents decreased successively
+from the extract to fraction 1C and then to fraction 2C. In addition, unknowns comprised a
+larger portion of the later subfractions because the concentration of constituents decreased as
+the fractionation progressed, although activity remained about the same and was even greater
+from fraction 2C to 3A. The ratios of the 4 putative bioactive constituents in the fraction seemed
+to follow the pattern: greatest amount of chlorogenic acid, followed by roughly equal amounts
+of quercetin and amentoflavone, and the least amount of pseudohypericin (Table 2 figure
+legend). Ratio analysis of the levels of the four constituents in the extract and active fractions
+suggested that the greatest activity was obtained when the levels of chlorogenic acid, quercetin,
+and amentoflavone were approximately the same and that these concentrations were two to
+three times higher than pseudohypericin, as seen with fraction 3A. Additionally, the lowest
+activity was seen when only chlorogenic acid and pseudohypericin were detected, as seen with
+Hammer et al. Page 3
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+fraction 4F. Although compounds such as hypericin may have non-reversibly adsorbed to the
+silica gel column, results from the PGE2 assay confirmed that at least one fraction was active
+from each round as the fractionation progressed. Additionally, flavonoids were compounds of
+particular interest in this fractionation and in previous studies, hypericin was shown to increase
+PGE2 production in LPS-induced RAW 264.7 mouse macrophages (Hammer et al., 2007).
+Since fraction 3A was significantly active in the PGE2 assay and from the later rounds of
+fractionation, experiments were conducted to determine if combining its putative bioactive
+constituents (chlorogenic acid, amentoflavone, quercetin, and pseudohypericin) into a 4
+component system at the amount detected in fraction 3A could explain the reduction in
+PGE2 by fraction 3A. These constituents were also studied together as a 4 component system
+at ten times and one hundred times the amount detected in fraction 3A. None of the four
+constituents alone reduced PGE2 in light-activated or dark conditions (Table 3). Combinations
+of the four constituents revealed that combinations without pseudohypericin were not effective
+at reducing PGE2. Two-way and three-way combinations with pseudohypericin seemed to
+explain some of the light-activated activity of the Hp fraction, however; not to as great of an
+extent as the 4 component system. The combination of all four constituents (34% of PGE2
+control, 101% of cell viability control) was sufficient to explain the anti-inflammatory activity
+of fraction 3A (12% of PGE2 control, 85% of cell viability control) in light-activated
+conditions. Furthermore, this combination of constituents was even more effective at reducing
+PGE2 in light-activated than dark conditions. Hyperforin and hypericin were not added to the
+4 component system because they were only detected in the fraction and were not able to be
+quantified using standard curves of the pure compound. However, later experiments
+determined that adding 0.01 µM or 0.001 µM hyperforin to the 4 component system did not
+change the reduction in PGE2 associated with the system (data not shown) and hypericin
+increased the production of PGE2 and had significant cytotoxicity associated with low doses
+in the RAW 264.7 macrophage cells (Hammer et al., 2007). Thus, the 4 component system
+explained the light-activated activity of the Hp fraction but not the dark activity and
+pseudohypericin was necessary for the light-activated activity.
+Since the four constituents together seemed to best account for the reductions in PGE2 of the
+fraction, further explorations compared only the 4 component system with the Hp fraction to
+determine if comparable synergy existed in other endpoints. To assess the reduction in PGE2
+associated with fraction 3A and the 4 component system, COX-1 and COX-2 protein levels
+(Figure 1) and enzyme activities (Figure 2) were examined. LPS-treated groups are shown in
+Figure 1 and treatments without LPS are described in the legend for COX-1 and COX-2 protein
+levels. No change in COX-1 protein level was detected among treatments without the addition
+of LPS and COX-1 protein levels were indistinguishable in the LPS and non-LPS treated
+controls. No change in COX-1 protein level was detected with the fractions or 4 component
+system when LPS was added (Figures 1a and 1b). COX-2 protein level was increased with the
+addition of LPS to the culture media and there was no change in COX-2 protein level when
+the treatments were added without LPS (Figure 1). The positive control, 100 µM quercetin,
+significantly decreased the LPS-induced COX-2 protein level, as described in the Figure 1
+legend. COX-2 protein was reduced when fraction 3A and 100x the 4 component system were
+included in light-activated conditions (Figured 1a and 1c), but not in dark treatment conditions
+(Figure 1 legend). Fractions 1C and 2C did not reduce LPS-induced COX-2 protein levels in
+light-activated conditions (Figures 1a and 1c), further confirming the PGE2 data showing that
+fraction 3A was the most anti-inflammatory among the active fractions.
+Consistent with the lack of induction of COX-1 protein, no change in COX-1 activity was
+detected with fraction 3A or the 4 component system (Figure 2a). In contrast, fraction 3A
+significantly decreased COX-2 activity as compared to media + LPS + DMSO control in both
+light-activated and dark conditions, whereas the 4 component system significantly decreased
+Hammer et al. Page 4
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+COX-2 activity only in light-activated conditions (Figure 2b). The positive control, 25 µM
+quercetin, significantly reduced COX-2 activity (Figure 2b). COX-2 activity was similar
+among treatments without LPS (Figure 2b).
+To further assess the breadth of anti-inflammatory capabilities of fraction 3A and to compare
+the activity of the Hp fraction with the activity of the 4 component system, we examined
+cPLA2 activity and lipoxygenase inhibition, as well as TNF-α and IL-10 production in the
+RAW 264.7 macrophage cells. The positive control, 25 µM quercetin, significantly reduced
+LPS-induced cPLA2 and lipoxygenase activity (Figures 3a and 3b). Fraction 3A decreased
+LPS-induced cPLA2 activity as compared to the control in both light-activated and dark
+conditions, but the 4 component system significantly decreased LPS-induced cPLA2 activity
+only in light-activated conditions (Figure 3a). The light-activated 4 component system
+displayed similar lipoxygenase inhibitory activity as fraction 3A, and there was no significant
+difference between light-activated and dark conditions for either treatment (Figure 3b).
+Fraction 3A did not reduce the pro-inflammatory cytokine TNF-α at either 8 or 24 hours, nor
+did the 4 component system at 8 hours (Figures 4a and 4b). The 4 component system
+significantly reduced TNF-α at 24 hours in the light (Figure 4b). The levels of the anti-
+inflammatory cytokine IL-10 were reduced by fraction 3A at both 8 and 24 hours in light-
+activated and dark conditions (Figure 5a and 5b). Only the light-activated 4 component system
+did not significantly inhibit the anti-inflammatory cytokine IL-10 at 8 and 24 hours, although
+the level of IL-10 was not sustained at the level of the media + LPS + DMSO control. The
+complexity of this data suggests that perhaps the 4 component system and fraction 3A affect
+prostaglandin biosynthesis pathways in similar ways, but not the production of IL-10 and TNF-
+α, two cytokines important in inflammation.
+The most intriguing observations from these experiments are that the combination of
+chlorogenic acid, amentoflavone, quercetin, and pseudohypericin, at their respective
+concentrations in fraction 3A, explained the light-activated inhibition of LPS-induced PGE2
+production by fraction 3A and that pseudohypericin was necessary for the activity of 4
+component system. However, 1 µM light-activated pure pseudohypericin was required to
+significantly reduce PGE2 (Hammer et al., 2007) and pure pseudohypericin at 0.03 µM did not
+reduce PGE2. In previous studies, greater than 5 µM quercetin and 10 µM amentoflavone were
+required to significantly reduce PGE2, and chlorogenic acid up to 40 µM did not reduce
+PGE2 by itself (Hammer et al, 2007). Since one or more of these constituents were needed in
+addition to pseudohypericin in combination experiments to effectively reduce PGE2, we
+postulated that the synergistic interactions among these constituents were important in the
+RAW 264.7 macrophages and that pseudohypericin was necessary, but not sufficient for the
+light-activated anti-inflammatory activity. Notably, the 4 component system did not explain
+the activity of fraction 3A in the dark.
+Synergistic interactions have previously been described for the anti-depressant activities of
+constituents present in Hp extracts, although light conditions were not controlled. In the forced
+swimming test model of anti-depressant activity, a fraction of procyanidins was not active
+alone, but was significantly active when pseudohypericin and hypericin were added
+(Butterweck et al., 1998). Interestingly, procyanidins increased the water solubility of hypericin
+up to 400 fold (Juergenliemk, 2003a). When the flavonoid rutin, which was inactive in the
+forced swimming test alone, was combined with inactive Hp extracts, there was a strong anti-
+depressant effect (Noeldner and Schotz, 2002). The present report is perhaps the first
+identification of interactions of constituents in Hp necessary for an anti-inflammatory activity
+of an Hp extract.
+The reduction by Hp of PGE2 and COX-2 protein levels confirms that the eicosanoid pathway
+may be an important pathway for the anti-inflammatory activity of Hp. The Hp fraction 3A
+Hammer et al. Page 5
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+and the 4 component system inhibited cPLA2 activity, which could limit the amount of
+arachidonic acid available to the COX-2 enzyme. Both the Hp fraction and 4 component system
+also inhibited lipoxygenase activity. Limiting arachidonic acid would also limit the availability
+of the substrate to the lipoxygenase enzymes. Future studies could explore if products of
+lipoxygenases such as lipoxins or leukotrienes are also affected by these treatments.
+The light-activated 4 component system reduced the pro-inflammatory cytokine TNF-α at 24
+hours and the 4 component system in the dark treatment condition inhibited the anti-
+inflammatory cytokine IL-10 at both 8 and 24 hours. The Hp fraction inhibited IL-10
+production at both time points examined, but not TNF-α production. Since TNF-α would be
+produced early in the inflammatory process and perhaps at the same time as PGE2, select
+bioactive constituents may act in the early phases of inflammation. Therefore, Hp or select
+constituents may decrease pro-inflammatory mediators, but not increase mediators involved
+in suppressing inflammation at later stages. Also, the light-activated 4 component system did
+not significantly inhibit IL-10, but the IL-10 level was not sustained at the level of the control,
+suggesting that the bioactive constituents may impact pro-inflammatory mediators more than
+anti-inflammatory mediators. However, the modulation of cytokines and other mediators in
+inflammation is complex.
+Data on the bioavailability of constituents shown to be responsible for a given bioactivity is
+also critical for predicting in vivo effects and the synergistic interactions of the constituents
+might be important for bioavailability. Murota et al. (2000) showed that quercetin glucosides
+were capable of passing through the Caco-2 epithelial cell monolayer, but their efficiency was
+lower than the aglycone quercetin. The bioavailability of pseudohypericin might be increased
+by the presence of the flavonoid quercetin and/or biflavonoid amentoflavone, since the oral
+bioavailability of hypericin, which has a structure very similar to pseudohypericin, was
+increased by 34% with the addition of the flavonoid hyperoside in rats (Butterweck et al.,
+2003). Hyperoside increased the water solubility of hypericin by 58% in vitro using the octanol/
+water partition coefficient (Juergenliemk, 2003a). Further, a metabolite of orally ingested
+quercetin, miquelianin, was able to cross small intestine and central nervous system barriers
+in vitro (Juergenliemk et al., 2003b), suggesting that quercetin metabolites might not only
+enhance bioavailability of other compounds, but might have considerable bioactivity alone.
+Besides increased bioavailability, other plausible explanations to consider are that compounds
+from the 4 component system may alter the production of reactive oxygen species (ROS),
+reduce the light-activation of pseudohypericin, or affect electron transport, all processes which
+may affect the light-activated cytotoxicity of hypericin or pseudohypericin. Data concerning
+these processes are very limited for pseudohypericin, however, the light-activation and
+subsequent effects of hypericin have been well documented. There is also data available
+concerning other compounds found in Hp. Quercetin has been shown to be a strong singlet
+oxygen quencher and have anti-oxidant properties (Tournaire et al., 1993; Korkina and
+Afanasev, 1997). Quercetin (10 µM) had a significant protective effect against cytotoxicity of
+10 µM hypericin in HL-60 promyelocytic cells, most likely by reducing ROS (Mirossay et al.,
+2001). Chlorogenic acid (10 µM) attenuated the cytotoxicity of 20 µM hypericin in HaCat
+human keratinocytes (Schmitt et al, 2007b). Couladis et al. (2002) tested an Hypericum
+triquetrifolium Turra extract for anti-oxidant activity. Interestingly, four constituents were
+identified that were present within the extract; quercetin, rutin, chlorogenic acid, and
+amentoflavone, and each constituent possessed anti-oxidant activity. The antioxidant activity
+of amentoflavone was similar to the α-tocopherol positive control, whereas the other
+constituents possessed less anti-oxidant activity. It is plausible that quercetin, chlorogenic acid,
+and amentoflavone may play a role in lessening ROS damage from pseudohypericin. Perhaps
+a combination of enhanced bioavailability and other mechanisms like decreased ROS
+production or reduced light-activation or electron transfer may aid the synergistic interactions
+Hammer et al. Page 6
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+of constituents to produce a 4 component system with comparable light-activated anti-
+inflammatory activity to the Hp fraction.
+7) Conclusions and Concluding Remarks
+An anti-inflammatory bioactivity-guided fractionation of an Hp extract led to the identification
+of four constituents (chlorogenic acid, amentoflavone, quercetin, and pseudohypericin) that in
+concert explained the reduction in LPS-induced PGE2 of an Hp subfraction in light-activated
+conditions. Pseudohypericin was necessary but not sufficient for the reduction in LPS-induced
+PGE2. The data presented here and current literature supports that the Hp fraction exerts effects
+on COX-2 and upstream mediators. These data highlight the possibility that unknown and/or
+unidentified compounds contribute significantly to the activity of fraction 3A in the dark. These
+experiments verify the need for more data on the synergistic interactions of constituents present
+in botanical extracts and their interactive roles in bioactivity.
+8) Experimental
+General Experimental procedures
+Cell culture—RAW 264.7 mouse macrophages were purchased from the American Type
+Culture Collections (ATCC; Manassas, VA) and cultured as previously described (Hammer et
+al., 2007). Treatments for the PGE2 and cell viability assays were performed as previously
+described (Hammer et al., 2007). The assays were always performed in both light-activated
+and dark conditions, because the naphthodianthrones present within Hp extracts display well-
+described light-activated properties. Details on the light-activation and dark treatments were
+previously published in Schmitt et al. (2006a).
+PGE2 and Cytotoxicity Assays—Samples were assayed with a Prostaglandin E2 EIA kit
+(GE Biosciences, Piscataway, NJ) or CellTiter96® Aqueous One Solution cell proliferation
+assay (Promega Corporation, Madison, WI) as previously described (Hammer et al., 2007).
+COX activity assay—The COX activity assay was used according to manufacturer’s
+instructions (Cayman Chemicals; Ann Arbor, MI). The kit measures the peroxidase activity of
+cyclooxygenase colorimetrically by addition of arachidonic acid and monitoring the
+appearance of oxidized N’, N’, N’, N’-tetramethyl-p-phenylenediamine (TMPD) at 590 nm.
+Quercetin (25 µM) was used as a positive control to demonstrate inhibition of COX-2 activity
+because Al-Fayez showed the 50% inhibitory dose of quercetin was 5 µM (Al-Fayez et al.,
+2006).
+cPLA2 and Lipoxygenase Inhibitory Assays—Cells were plated in petri dishes and
+allowed to attach for 24 hours. Cells were treated with or without fraction or constituent and
+with or without LPS for 8 hours and further processed as described by the manufacturer.
+Activity was measured using the cPLA2 assay kit or the lipoxygenase inhibitor screening assay
+kit (both Cayman Chemical Company; Ann Arbor, MI). Quercetin (25 µM) was used as a
+positive control to demonstrate inhibition of cPLA2 and lipoxygenase because Lindahl and
+Tagesson (1993) showed quercetin less than 100 µM inhibited cPLA2 activity and Deng et al.
+(2007) showed that quercetin inhibited 50% of 5-LO and 15-LO at 5.9 and 0.52 µM,
+respectively.
+TNF-α and IL-10 Assays—Cells were treated as previously described (Hammer et al.,
+2007) and supernatants were collected on ice and frozen at −70° C until assayed using a TNF-
+α and IL-10 mouse ELISA plate (BD Biosciences Pharmingen, San Diego, CA) with methods
+described by the manufacturer and similar to Senchina et al. (2007). Quercetin (25 µM) was
+used as a positive control to demonstrate inhibition of TNF-α and increase in IL-10 because
+Hammer et al. Page 7
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Comalada et al. (2006) showed that quercetin decreased TNF-α production (50% inhibitory
+dose was 20 µM) and 25 quercetin increased IL-10 production in bone marrow-derived
+macrophages.
+Western Blotting—After an 8 hour treatment, cells were rinsed twice with cold 1X
+phosphate buffered saline (PBS). Lysis buffer (50 mM Tris-hydrochloride, 2 mM
+ethylenediamine tetraacetic acid, 2 mM ethylene glycol tetraacetic acid, 150 mM sodium
+chloride, 2 mM phenylmethanesulphonylfluoride, 25 mM leupeptin, 10 mM aprotinin, 10 mM
+sodium fluoride, 10 mM sodium orthovanadate, 10 mM sodium pyrophosphate, 0.5% Triton
+X-100) was added to the dishes on ice and the cells were dissociated from the plate by scraping.
+The lysate was centrifuged at 4° C, and the supernatant was removed. The protein concentration
+in each lysate was determined using the bicinchonic acid and copper sulfate protein assay
+(Sigma; St. Louis, MO). Western blot separation and detection was used as previously
+described (Przybyszewski et al., 2001). COX-1 and COX-2 rabbit polyclonal antibodies (Santa
+Cruz Biotechnology; Santa Cruz, CA) were diluted 1:1000 in 5% milk Tris buffered saline
+with 0.5% Tween-20. Semi-quantitative representation was achieved by using the
+ImageQuaNT program. Three replicates of each treatment were analyzed on separate blots.
+Blots were normalized for consistency by using a repeat control present on each blot. Quercetin
+(100 µM) was used as a positive control to demonstrate reduction in COX-2 protein level
+because Raso et al. (2002) showed 50 µM quercetin decreased COX-2 protein in J774A.1
+macrophages. Quercetin was not shown on the blots to facilitate comparisons among the
+graphs, however; the values for quercetin are given in the figure legend.
+Compound Identification and Quantification using LC-MS-UV Analysis—An
+Agilent Technologies 100 Ion Trap Liquid Chromatography- Electron Spray Ionization-Mass
+Spectrometer, with a coupled UV absorption detector (LC-MS-UV) was used for quantification
+of compounds, as previously described (Hammer et al., 2007). Specifically, ten compounds
+were identified based on the availability of standards and identification in a previous
+publication (Hammer et al., 2007). Compounds identified were: chlorogenic acid, rutin,
+hyperoside, isoquercitrin, quercitrin, quercetin, amentoflavone, pseudohypericin, hypericin,
+and hyperforin (Juergenliemk and Nahrstedt, 2001; Williams et al., 2006). Each standard was
+run on the LC-MS. The peaks from the Hp fractions were confirmed by evaluating the retention
+time and mass spectra of each peak with the retention time and mass spectra for the standard
+of interest. Stock solutions of each extract or subfraction were: 20 mg/ml for extract, 10 mg/
+ml for fraction 1C, 40 mg/ml for fraction 2C, 10 mg/ml for fraction 3A, and 0.7 mg/ml for
+fraction 4F.
+Statistical Analysis—The COX activity, cPLA2, lipoxygenase, TNF-α, IL-10, and protein
+data were logarithmically transformed to eliminate unequal variances and skewed distribution
+and an F-protected two-way ANOVA was used followed by a Tukey-Kramer test for multiple
+comparisons for all samples (Snedecor and Cochran, 1989). The PGE2, cytotoxicity, light
+versus dark treatments, and LC-MS-UV data were analyzed as previously described (Hammer
+et al., 2007). P-values < 0.05 were considered statistically significant.
+Documentation of plants
+One accession of Hp, the commercial variety Common, was provided by the North Central
+Regional Plant Introduction Station (NCRPIS; Ames, IA). Plant material was harvested in July
+2004 from plants cultivated on site and processed as previously described (Schmitt et al.,
+2006). Dried Hp plant material (108 grams; aerial parts) was extracted by Soxhlet extraction
+for 6 hours with 95% ethanol and yielded 38 grams of dry residue. Two grams of dry residue
+was dissolved in 10 mls dimethylsulfoxide (DMSO) (Sigma; St. Louis, MO) for the PGE2
+screening of the original extract.
+Hammer et al. Page 8
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+For fractionation, the residue from an ethanol extract of Hp (36 g) was dissolved in 10%
+aqueous ethanol (1100 mL) and extracted with hexanes (300 mL). After the ethanol solution
+was extracted with CHCl3 (500 mL), all three fractions (1A, 1B, 1C) were concentrated in
+vacuo. Samples of the resulting residues were tested for activity, and only the CHCl3 fraction
+(1C) displayed significant reduction in PGE2.
+The residue from fraction 1C (3.1 g) was dissolved in a minimum volume of CHCl3 and further
+purified by normal phase column chromatography on silica gel. Silica gel was chosen as a
+support for column chromatography to maximize the separation efficiency, even though the
+potential for non-reversible adsorption was recognized. Elution with a solvent series consisting
+of CHCl3 (375 mL), a 1:1 mixture of CHCl3:CH3CN (475 mL), CH3CN (450 mL), and finally
+a 1:1 mixture of CH3CN:MeOH (500 mL) afforded four fractions (2A, 132 mg; 2B, 1.01 mg;
+2C, 158 mg; and 2D, 951 mg; respectively) for a total recovery of 73%. After concentration
+in vacuo, bioassays of the four fractions identified fraction 2C as the most active and 2C was
+further purified by column chromatography on silica gel. A solvent step gradient from 1:1
+CH3CN:CHCl3 to 1:1 MeOH:CH3CN afforded 6 fractions, (3A, 1:1 CH3CN:CHCl3, 70 mL,
+35.4 mg; 3B, 1:1 CH3CN:CHCl3, 70 mL, 61.5 mg; 3C, 1.5:1 CH3CN:CHCl3, 135 mL, 16.1
+mg; 3D, 3:1 CH3CN:CHCl3, 100 mL, then 100% CH3CN, 100 mL, 5.2 mg; 3E, 1:9
+MeOH:CH3CN, 100 mL, then 1:5 MeOH:CH3CN, 100 mL, 21.6 mg; and finally 3F, 1:1
+MeOH:CH3CN, 100 mL, 7.7 mg, respectively, representing 99% recovery). The fraction that
+displayed the most significant activity, fraction 3A, was finally purified by column
+chromatography on silica gel. This fraction (34 mg) was placed on a column of silica gel (0.5
+by 14 cm) and eluted with a step gradient from 10% CH3CN:CHCl3 to 100% MeOH to give
+the final 7 fractions 4A–G (4A, 1:9 CH3CN:CHCl3, 100 mL, 6.2 mg; 4B, 1:9
+CH3CN:CHCl3, 75 mL, 8.7 mg; 4C, 1:3 CH3CN:CHCl3, 75 mL, 12.6 mg; 4D, 1:1
+CH3CN:CHCl3, 75 mL, then 3:1 CH3CN:CHCl3, 75 mL, 4.9 mg; 4E, 1:5 CH3CN:CHCl3, 20
+mL, 3.8 mg; 4F, 1:5 MeOH:CH3CN, 50 mL, 1.4 mg; and 4G, 100% MeOH, 100 mL, 3.4 mg).
+Endotoxin levels of the extracts were assayed as previously described (Hammer et al., 2007)
+to confirm that endotoxin present in the extracts did not affect PGE2 levels. The range of
+endotoxin levels present was 0.000003 to 0.0001 endotoxin units/milliliter (EU/ml). Endotoxin
+up to 5 EU/ml did not significantly increase the RAW 264.7 cells’ production of PGE2 in the
+assay (Hammer et al., 2007).
+Acknowledgement
+The authors would like to thank members of the Iowa Center for Research on Botanical Dietary Supplements. This
+publication was made possible by grant number 9P50AT004155-06 from the National Center for Complementary and
+Alternative Medicine (NCCAM) and Office of Dietary Supplements (ODS), National Institutes of Health (NIH) and
+P01 ES012020 from the National Institute of Environmental Health Sciences (NIEHS) and ODS, NIH. Its contents
+are solely the responsibility of the authors and do not necessarily represent the official views of the NIEHS, NCCAM,
+or NIH.
+Literature Cited
+Aggarwal BB. Tumour necrosis factor receptor associated signaling molecules and their role in the
+activation of apoptosis: JNK and NF-kappa β. Ann Rheum. Dis 2000;59:6–16.
+Al-Fayez M, Cai H, Tunstall R, Steward WP, Gescher AJ. Differential modulation of cyclooxygenase-
+mediated prostaglandin production by the putative cancer chemopreventive flavonoids tricin, apigenin,
+and quercetin. Cancer Chemother. Pharmacol 2006;58(6):816–825. [PubMed: 16552572]
+Bilia AR, Gallori S, Vincieri FF. St. John’s wort and depression: Efficacy, safety and tolerability-an
+update. Life Sci 2002;70:3077–3096. [PubMed: 12008092]
+Butterweck V, Petereit F, Winterhoff H, Nahrstedt A. Solubilized hypericin and pseudohypericin from
+Hypericum perforatum exert antidepressant activity in the forced swimming test. Planta Med
+1998;64:291–294. [PubMed: 9619107]
+Hammer et al. Page 9
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Butterweck V, Lieflander-Wulf U, Winterhoff H, Nahrstedt A. Plasma levels of hypericin in presence of
+procyanidin B2 and hyperoside: a pharmacokinetic study in rats. Planta Med 2003;69:189–192.
+[PubMed: 12677519]
+Calamia KT. Current and future use of anti-TNF agents in the treatment of autoimmune, inflammatory
+disorders. Adv. Exp. Med. Biol 2003;528:545–549. [PubMed: 12918761]
+Carpenter S, Kraus GA. Photosensitization is required for inactiation of equine infectious anemia virus
+by hypericin. Photochem. Photobiol 1991;53:169–174. [PubMed: 1707176]
+Comalada M, Ballester I, Bailon E, Sierra S, Xaus J, Galvez J, Sanchez de Medina F, Zarzuelo A.
+Inhibition of pro-inflammatory markers in primary bone marrow-derived mouse macrophages by
+naturally occurring flavonoids: Analysis of the structure-activity relationship. Biochem. Pharmacol
+2006;72:1010–1021. [PubMed: 16934226]
+Couladis M, Baziou P, Verykokidou E, Loukis A. Antioxidant activity of polyphenols from Hypericum
+triquetrifolium Turra. Phytother. Res 2002;16:769–770. [PubMed: 12458485]
+Deng S, Palu AK, West BJ, Su CX, Zhou B-N, Jensen JC. Lipoxygenase inhibitory constituents of the
+fruits of Noni (Morinda citrifolia) collected in Tahiti. J. Nat. Prod 2007;70:859–862. [PubMed:
+17378609]
+de Waal-Malefyt R, Abrams J, Bennett B, Figdor CG, de Vries JE. Interleukin-10 inhibits cytokine
+synthesis by human monocytes: an auto-regulatory role of Il-10 produced by monocytes. J. Exp. Med
+1991;174:1209–1220. [PubMed: 1940799]
+Dubois RN, Abramson SB, Crofford L, Gupta RA, Simon LS, Van De Putte LB, Lipsky PE.
+Cyclooxygenase in biology and disease. FASEB J 1998;12:1063–1073. [PubMed: 9737710]
+Hammer KDP, Hillwig ML, Solco AKS, Dixon PM, Delate K, Murphy PA, Wurtele ES, Birt DF.
+Inhibition of PGE2 production by anti-inflammatory Hypericum perforatum extracts and constituents
+in RAW 264.7 mouse macrophage cells. J. Agric. Food Chem 2007;55:7323–7331. [PubMed:
+17696442]
+Juergenliemk G, Nahrstedt A. Phenolic compounds from Hypericum perforatum. Planta Med
+2001;68:88–91.
+Juergenliemk G, Nahrstedt A. Dissolution, solubility and cooperativity of phenolic compounds from
+Hypericum perforaum L. in aqueous systems. Pharmazie 2003a;58:200–203.
+Juergenliemk G, Boje K, Huewel S, Lohmann C, Galla H-J, Nahrstedt A. In vitro studies indicate that
+miquelianin (quercetin 3-O-β-d-glucuropyranoside) is able to reach the CNS from the small intestine.
+Planta Med 2003b;69:1013–1017. [PubMed: 14735439]
+Korkina LG, Afanasev IB. Antioxidant and chelating properties of flavonoids. Adv. Pharmacol
+1997;38:151–163. [PubMed: 8895808]
+Lindahl M, Tagesson C. Selective inhibition of group II phospholipase A2 by quercetin. Inflammation
+1993;17:573–582. [PubMed: 8225564]
+Minghetti L, Walsh DT, Levi G, Perry VH. In vivo expression of cyclooxygenase-2 in rat brain following
+intraparenchymal injection of bacterial endotoxin and inflammatory cytokines. J. Neuropathol. Exp.
+Neurol 1999;58:1184. [PubMed: 10560661]
+Miroassay A, Onderkova H, Miroassay L, Sarissky M, Mojzis J. The effect of quercetin on light-induced
+cytotoxicity of hypericin. Physiol. Res 2001;50:635–647. [PubMed: 11829327]
+Murota K, Shimizu S, Chujo H, Moon J-H, Terao J. Efficiency of absorption and metabolic conversion
+of quercetin and its glucosides in human intestinal cell line Caco-2. Biochem. Biophys 2000;384:391–
+397.
+Niiro H, Otsuka T, Tanabe T, Hara S, Kuga S, Nemoto Y, Tanaka Y, Nakashima H, Kitajima S, Abe M,
+et al. Inhibition of interleukin-10 of inducible cyclooxygenase expression in lipopolysaccharide-
+stimulated monocytes: its underlying mechanism in comparison with interleukin-4. Blood
+1995;85:3736–3745. [PubMed: 7780157]
+Noeldner M, Schotz K. Rutin is essential for the antidepressant activity of Hypericum perforatum extracts
+in the forced swimming test. Planta Med 2002;68:577–580. [PubMed: 12142988]
+O’Sullivan MG, Huggins EM, Meade EA, DeWitt DL, McCall CE. Lipopolysaccharide induces
+prostaglandin H synthase-2 in alveolar macrophages. Biochem. Biophys. Res. Commun
+1992;187:1123–1127. [PubMed: 1382414]
+Hammer et al. Page 10
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Portanova JP, Zhang Y, Anderson GD, Hauser SD, Masferrer JL, Seibert K, Gregory SA, Isakson PC.
+Selective neutralization of prostaglandin E2 blocks inflammation, hyperalgesia, and interleukin 6
+production in vivo. J. Exp.Med 1996;184:883–891. [PubMed: 9064348]
+Przybyszewski J, Yaktine AL, Duysen E, Blackwood D, Wang W, Au A, Birt DF. Inhibition of phorbol
+ester-induced AP-1-DNA binding, c-Jun protein and c-jun mRNA by dietary energy restriction is
+reversed by adrenalectomy in SENCAR mouse epidermis. Carcinogenesis 2001;22:1421–1427.
+[PubMed: 11532864]
+Raso GM, Pacilio M, Di Carlo G, Esposito E, Pinto L, Meli R. In-vivo and in-vitro anti-inflammatory
+effects of Echinacea purpurea and Hypericum perforatum. J. Pharm. Pharmacol 2002;54(10):1379–
+1383. [PubMed: 12396300]
+Schmitt LA, Liu Y, Murphy PA, Birt DF. Evaluation of the light-sensitive cytotoxicity of Hypericum
+perforatum extracts, fractions, and pure compounds. J Agric. Food Chem 2006;54:2681–2890.
+Schmitt LA, Liu Y, Murphy PA, Petrich JW, Dixon PM, Birt DF. Reduction in hypericin-induced
+phototoxicity by Hypericum perforatum extracts and pure compounds. J. Photochem. Photobiol. B
+2006;85(2):118–130. [PubMed: 16859921]
+Senchina DS, McCann DA, Asp JM, Johnson JA, Cunnick JE, Kaiser MS, Kohut ML. Changes in
+immunomodulatory properties of Echinacea spp. Root infusions and tinctures stored at 4° C for four
+days. Clin. Chim Acta 2005;355:67–82. [PubMed: 15820480]
+Smith WL, Garavito RM, DeWitt DL. Prostaglandin endoperoxide H synthases (cyclooxygenases)-1 and
+-2. J. Biol. Chem 1996;271:33157–33160. [PubMed: 8969167]
+Snedecor, GW.; Cochran, WG. Statistical Methods. Vol. Edition 8. Ames, Iowa: Iowa State University
+Press; 1989.
+Spinella M. The importance of pharmacological synergy in psychoactive herbal medicines. Alt. Med.
+Rev 2002;7(2):130–137.
+Tournaire C, Croux S, Maurette MT, Beck I, Hocquaux M, Braun AM, Oliveros E. Antioxidant activity
+of flavonoids: efficiency of singlet oxygen quenching. J. Photochem. Photobiol. B 1993;19:205–215.
+[PubMed: 8229463]
+Williams FB, Sander LC, Wise SA, Girard J. Development and evaluation of methods for determination
+of naphthodianthrones and flavonoids in St. John’s wort. J Chrom A 2006;1115:93–102.
+Hammer et al. Page 11
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 1.
+Representative western blots (Figure 1a) and semi-quantitative representation (Figure 1b) of
+the effect of light-activated Hp fractions (10 µg/ml) and 4 component systems on LPS-induced
+COX-1 and COX-2 protein levels in RAW 264.7 mouse macrophages. The 4 component
+system is composed of: 0.07 µM quercetin, 0.08 µM amentoflavone, 0.2 µM chlorogenic acid,
+0.03 µM pseudohypericin. Data is represented as mean percent of media + DMSO + LPS
+control ± standard error. n=4 for each. Treatments without LPS did not significantly affect
+either COX-1 or COX-2 protein as compared to media + DMSO control (average 98 ± 12%
+of control). LPS increased the expression of COX-2 protein (29 ± 16 % of control for media
++ DMSO, 100 ± 17 for media + LPS + DMSO) but not COX-1 protein (100 ± 15 % of control
+for media + DMSO). Dark treatments did not significantly affect LPS-induced COX-1 or
+COX-2 protein levels (average 99 ±15% of control). Quercetin (100 µM) used as a positive
+control for reduction in LPS-induced COX-2 protein (27 ± 22 % of control). Quercetin did not
+affect LPS-induced COX-1 protein (103 ± 18% of control). * p-value < 0.05 as compared to
+media + LPS + DMSO control.
+Hammer et al. Page 12
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 2.
+The effect of fraction 3A and 4 component system on enzyme activity of COX-1 (Figure 2a)
+and COX-2 (Figure 2b) in RAW 264.7 mouse macrophages. Q=0.07 µM quercetin, A= 0.08
+µM amentoflavone, CA= 0.2 µM chlorogenic acid, PH= 0.03 µM pseudohypericin. Data is
+presented as mean COX-1 or COX-2 activity ± standard error (nmol/min/ml). n=4 for each.
+Quercetin (25 µM) was used as positive control. * p-value < 0.05 as compared to media + LPS
++ DMSO control. $ significant difference between light-activated and dark treatments.
+Hammer et al. Page 13
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 3.
+Inhibition of LPS-induced cPLA2 (Figure 3a) and lipoxygenase (Figure 3b) enzyme activity
+by fraction 3A and 4 component system in RAW 264.7 mouse macrophages (mean cPLA2
+activity in µmol/min/ml ± standard error, and mean lipoxygenase activity ± standard error as
+percent of media + LPS + DMSO control). n=4-6 for each. Q=0.07 µM quercetin, A= 0.08 µM
+amentoflavone, CA= 0.2 µM chlorogenic acid, PH= 0.03 µM pseudohypericin. Quercetin (25
+µM) was used as positive control for cPLA2 and lipoxygenase. * p-value < 0.05 as compared
+to media + LPS + DMSO control. ** p-value < 0.001 as compared to media + LPS + DMSO
+control. $ significant difference between light-activated and dark treatments.
+Hammer et al. Page 14
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 4.
+The effect of fraction 3A and 4 component system on TNF-α production at 8 hours (Figure 4a)
+and 24 hours (Figure 4b) of treatment in RAW 264.7 mouse macrophages (mean level in pg/
+ml ± standard error). n=3 for each. Q=0.07 µM quercetin, A= 0.08 µM amentoflavone, CA=
+0.2 µM chlorogenic acid, PH= 0.03 µM pseudohypericin. Quercetin (25 µM) used as positive
+control. * p-value < 0.05 as compared to media + LPS + DMSO control.
+Hammer et al. Page 15
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Figure 5.
+The effect of fraction 3A and 4 component system on IL-10 levels (mean level in pg/ml ±
+standard error) of RAW 264.7 mouse macrophages treated for 8 hours (Figure 5a) and 24
+(Figure 5b) hours. n=3 for each. Q=0.07 µM quercetin, A= 0.08 µM amentoflavone, CA= 0.2
+µM chlorogenic acid, PH= 0.03 µM pseudohypericin. Quercetin (25 µM) used as positive
+control. * p-value < 0.05 as compared to media + LPS + DMSO control. ** p-value < 0.001
+as compared to media + LPS + DMSO control. $ significant difference between light-activated
+and dark treatments.
+Hammer et al. Page 16
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Hammer et al. Page 17
+Table 1
+Reduction in LPS-induced PGE2 and cell viability of Hp fractions and subfractions in RAW 264.7 mouse macrophages.
+Mean percent of LPS-induced PGE2 level as compared to media + LPS + DMSO control (95% confidence intervals)
+and mean percent of cell viability as compared to media + DMSO control-treated cells ± standard error of Hp fractions
+n=8 for treatments. PGE2 and cell viability data represents light-activated and dark treatments combined as there was
+no significant difference between the treatments. The concentration of 10 µg/ml was chosen to compare fractions from
+each round of fractionation; fractions from rounds 3 and 4 were assayed at the highest concentration possible based on
+the amount of DMSO that can be added onto the cells. Fractions in the culture media without LPS did not significantly
+affect the concentration of PGE2 as compared to the media + DMSO control. Addition of LPS to the culture media +
+DMSO control increased the level of PGE2 20–38 fold over media + DMSO control alone (0.1 ±0.05 ng/ml for media
++ DMSO, 2.7 ± 0.5 ng/ml for media + DMSO + LPS). Quercetin (10 µM) positive control significantly inhibited
+PGE2 production (11(8–16) % of PGE2 control)
+Fractionation Treatment (µg/ml) PGE2 Percent of
+Control
+Cell Viability
+Percent of
+Control
+Original Ethanol Extract Extract 20 43 (28–67)* 58 ± 14*
+10 46 (21–98)* 97 ± 16
+Fractionation Round 1 Fraction 1A 24 25 (25–53)* 55 ± 18*
+Extract into 1A–1C 10 63 (63–100) 80 ± 17
+Fraction 1B 22 16 (7–93)* 74 ± 13
+10 76 (21–97) 108 ± 28
+Fraction 1C 10 36 (23–27)* 74 ± 17
+Fractionation Round 2 Fraction 2A 40 40 (37–100) 46 ± 20*
+Fraction 1C into subfractions 2A–
+2D
+10 59 (80–100) 96 ± 12
+Fraction 2B 76 14 (6–29)* 46 ± 20*
+40 42 (40–100)* 67 ± 15
+10 100 (87–108) 113 ± 21
+Fraction 2C 40 8 (4–18)** 40 ± 11*
+10 44 (27–71)* 96 ± 2
+Fraction 2D 40 17 (7–40)* 36 ± 3*
+10 49 (20–100) 71 ± 6
+Fractionation Round 3 Fraction 3A 10 22 (10–51)** 85 ± 1
+Subfraction 2C into subfraction
+3A–3F
+Fraction 3B 13 82 (34–100) 99 ± 3
+Fraction 3C 5 89 (40–100) 93 ± 5
+Fraction 3D 4 80 (33–100) 101 ± 5
+Fraction 3E 4 97 (90–115) 88 ± 2
+Fraction 3F 4 36 (24–100) 99 ± 6
+Fractionation Round 4 Fraction 4A 2 100 (74–100) 109 ± 8
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Hammer et al. Page 18
+Fractionation Treatment (µg/ml) PGE2 Percent of
+Control
+Cell Viability
+Percent of
+Control
+Subfraction 3A into subfractions
+4A–4F
+Fraction 4B 4 100 (51–100) 104 ± 11
+Fraction 4C 3 100 (64–100) 115 ± 21
+Fraction 4D 1 100 (45–100) 93 ± 23
+Fraction 4E 0.8 100 (50–100) 107 ± 15
+Fraction 4F 0.7 58 (20–100) 101 ± 7
+Fraction 4G 0.8 63 (43–100) 98 ± 5
+*
+p-value < 0.05 as compared to control.
+**
+p-value < 0.001 as compared to control.
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Hammer et al. Page 19
+Ta
+bl
+e 
+2
+C
+on
+st
+itu
+en
+ts
+ id
+en
+tif
+ie
+d 
+an
+d 
+qu
+an
+tif
+ie
+d 
+(µ
+M
+) i
+n 
+10
+ µ
+g/
+m
+l o
+f H
+p 
+ex
+tra
+ct
+s, 
+fr
+ac
+tio
+ns
+ an
+d 
+su
+bf
+ra
+ct
+io
+ns
+. C
+on
+st
+itu
+en
+ts
+ id
+en
+tif
+ie
+d 
+an
+d 
+qu
+an
+tif
+ie
+d
+by
+ L
+C
+-M
+S-
+U
+V
+ a
+na
+ly
+si
+s.
+E
+xt
+ra
+ct
+Fr
+ac
+tio
+n 
+1C
+Fr
+ac
+tio
+n 
+2C
+Fr
+ac
+tio
+n 
+3A
+a
+Fr
+ac
+tio
+n 
+4F
+C
+hl
+or
+og
+en
+ic
+ A
+ci
+d
+6.
+1 
+± 
+0.
+34
+d
+1.
+0 
+± 
+0.
+1c
+0.
+3 
+± 
+0.
+01
+c
+0.
+1 
+± 
+0.
+11
+b
+1.
+4 
+± 
+0.
+00
+3b
+R
+ut
+in
+2.
+7 
+± 
+1.
+7c
+D
+et
+ec
+te
+d
+D
+et
+ec
+te
+d
+-
+-
+H
+yp
+er
+os
+id
+e
+1.
+6 
+± 
+1.
+5c
+0.
+2 
+± 
+0.
+00
+2b
+0.
+03
+ ±
+ 0
+.0
+1b
+-
+-
+Is
+oq
+ue
+rc
+itr
+in
+0.
+3 
+± 
+0.
+1b
+D
+et
+ec
+te
+d
+D
+et
+ec
+te
+d
+-
+-
+Q
+ue
+rc
+itr
+in
+0.
+03
+ ±
+ 0
+.0
+1a
+0.
+1 
+± 
+0.
+01
+b
+0.
+02
+ ±
+ 0
+.0
+4b
+-
+-
+Q
+ue
+rc
+et
+in
+0.
+2 
+± 
+0.
+00
+9b
+0.
+1 
+± 
+0.
+00
+9b
+0.
+02
+ ±
+ 0
+.3
+b
+0.
+07
+ ±
+ 0
+.2
+a
+-
+A
+m
+en
+to
+fla
+vo
+ne
+0.
+2 
+± 
+0.
+05
+b
+0.
+09
+ ±
+ 0
+.2
+ab
+0.
+02
+ ±
+ 0
+.4
+ab
+0.
+08
+ ±
+ 0
+.2
+ab
+-
+Ps
+eu
+do
+hy
+pe
+ri
+ci
+n
+0.
+2 
+± 
+0.
+28
+b
+0.
+04
+ ±
+ 0
+.0
+08
+a
+0.
+00
+1 
+± 
+0.
+06
+a
+0.
+03
+ ±
+ 0
+.0
+4a
+0.
+01
+ ±
+ 0
+.0
+01
+a
+H
+yp
+er
+ic
+in
+0.
+1 
+± 
+0.
+03
+a
+D
+et
+ec
+te
+d
+D
+et
+ec
+te
+d
+D
+et
+ec
+te
+d
+-
+H
+yp
+er
+fo
+ri
+n
+12
+.5
+ ±
+ 0
+.5
+e
+0.
+02
+ ±
+ 0
+.0
+03
+a
+D
+et
+ec
+te
+d
+D
+et
+ec
+te
+d
+-
+a I
+de
+nt
+ifi
+ed
+ c
+om
+po
+un
+ds
+ fr
+om
+ fr
+ac
+tio
+n 
+3A
+ p
+ro
+vi
+de
+d 
+th
+e 
+ba
+si
+s f
+or
+ th
+e 
+4 
+co
+m
+po
+ne
+nt
+ sy
+st
+em
+. T
+en
+ m
+et
+ab
+ol
+ite
+s w
+er
+e 
+qu
+an
+tif
+ie
+d 
+fo
+r t
+he
+ o
+rig
+in
+al
+ e
+xt
+ra
+ct
+ a
+nd
+ e
+ac
+h 
+of
+ th
+e 
+ac
+tiv
+e 
+fr
+ac
+tio
+ns
+ a
+nd
+ su
+bf
+ra
+ct
+io
+ns
+. n
+=3
+fo
+r e
+ac
+h.
+ T
+he
+ d
+at
+a 
+is
+ re
+pr
+es
+en
+te
+d 
+as
+ m
+ea
+n 
+co
+nc
+en
+tra
+tio
+n 
+of
+ c
+on
+st
+itu
+en
+ts
+ d
+et
+ec
+te
+d 
+in
+ 1
+0 
+µg
+/m
+l e
+xt
+ra
+ct
+ o
+r f
+ra
+ct
+io
+n 
+± 
+st
+an
+da
+rd
+ e
+rr
+or
+. T
+hi
+s c
+on
+ce
+nt
+ra
+tio
+n 
+w
+as
+ c
+ho
+se
+n 
+to
+ fa
+ci
+lit
+at
+e 
+co
+m
+pa
+ris
+on
+ o
+f l
+ev
+el
+s o
+f
+co
+ns
+tit
+ue
+nt
+s b
+et
+w
+ee
+n 
+ex
+tra
+ct
+s a
+nd
+ fr
+ac
+tio
+ns
+. “
+D
+et
+ec
+te
+d”
+ in
+di
+ca
+te
+s d
+et
+ec
+tio
+n 
+by
+ th
+e 
+M
+S;
+ h
+ow
+ev
+er
+ th
+e 
+am
+ou
+nt
+ w
+as
+ to
+o 
+lo
+w
+ fo
+r q
+ua
+nt
+ifi
+ca
+tio
+n 
+w
+ith
+ st
+an
+da
+rd
+ c
+ur
+ve
+s g
+en
+er
+at
+ed
+ b
+y 
+th
+e 
+U
+V
+ a
+bs
+or
+pt
+io
+n.
+ “
+-“
+re
+pr
+es
+en
+ts
+ c
+on
+st
+itu
+en
+ts
+ n
+ot
+ d
+et
+ec
+te
+d 
+by
+ th
+e 
+M
+S.
+M
+ea
+n 
+va
+lu
+es
+ w
+ith
+in
+ e
+ac
+h 
+co
+lu
+m
+n 
+w
+ith
+ d
+iff
+er
+en
+t s
+up
+er
+sc
+rip
+t l
+et
+te
+rs
+ w
+er
+e 
+si
+gn
+ifi
+ca
+nt
+ly
+ d
+iff
+er
+en
+ta
+<
+b<
+c<
+d<
+e  
+(p
+<0
+.0
+5)
+ a
+nd
+ v
+al
+ue
+s w
+ith
+ m
+or
+e 
+th
+an
+ o
+ne
+ le
+tte
+r w
+er
+e 
+no
+t s
+ig
+ni
+fic
+an
+tly
+ d
+iff
+er
+en
+t t
+ha
+n 
+m
+ea
+ns
+sh
+ar
+in
+g 
+ei
+th
+er
+ o
+f t
+he
+ le
+tte
+rs
+. R
+at
+io
+s o
+f c
+hl
+or
+og
+en
+ic
+ a
+ci
+d:
+ q
+ue
+rc
+et
+in
+: a
+m
+en
+to
+fla
+vo
+ne
+: p
+se
+ud
+oh
+yp
+er
+ic
+in
+ in
+ th
+e 
+ex
+tra
+ct
+ a
+nd
+ fr
+ac
+tio
+ns
+ a
+re
+: e
+xt
+ra
+ct
+, 3
+0.
+5:
+1:
+1:
+1;
+ fr
+ac
+tio
+n 
+1C
+, 2
+5:
+2.
+5:
+2.
+3:
+1;
+ fr
+ac
+tio
+n 
+2C
+, 3
+00
+:2
+0:
+20
+:1
+,
+fr
+ac
+tio
+n 
+3A
+, 3
+.3
+:2
+.3
+:2
+.7
+:1
+; f
+ra
+ct
+io
+n 
+4F
+, 1
+40
+:0
+:0
+:1
+.
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+N
+IH
+-PA Author M
+anuscript
+Hammer et al. Page 20
+Table 3
+Reduction in PGE2 and cell viability by combinations of the putative bioactive constituents identified in Fraction 3A.
+Mean percent of LPS-induced PGE2 level as compared to media + LPS + DMSO control (95% confidence intervals)
+and mean percent of cell viability as compared to media + DMSO control-treated cells ± standard error of constituents
+identified in fraction 3A. n=8 for anti-inflammatory treatments; n=8 for cytotoxicity treatments. Q=0.07 µM quercetin,
+A= 0.08 µM amentoflavone, CA= 0.2 µM chlorogenic acid, PH= 0.03 µM pseudohypericin. Cytotoxicity data
+represents light-activated and dark treatments combined as there was no difference between light-activated versus dark
+treatments. Constituents in the culture media without LPS did not affect the concentration of PGE2 as compared to the
+media + DMSO control. Addition of LPS to the culture media + DMSO control increased the level of PGE2 10–34
+fold over the media + DMSO control alone (0.07 ±0.03 ng/ml for media + DMSO, 1.6 ± 0.4 ng/ml for media + DMSO
++ LPS). Quercetin (10 µM) positive control significantly inhibited PGE2 production (11 (8–16) % of control)
+PGE2
+Percent of light-activated
+control
+PGE2
+Percent of dark control
+Cell Viability
+Percent of Control
+Fraction 3A 12 (7–18)* 32 (3–48)* 85 ± 4
+Q 100 (98–100) 99 (96–105) 86 ± 16
+A 103 (96–106) 104 (99–110) 92 ± 8
+CA 115 (100–127) 122 (104–128) 103 ± 18
+PH 103 (98–109) 100 (98–114) 76 ± 11
+Q + A 90 (78–100) 92 (86–98) 116 ± 22
+CA + Q 100 (71–100) 100 (91–104) 112 ± 16
+CA + A 88 (80–99) 100 (76–108) 99 ± 7
+PH + Q 61 (39–85)* 98 (79–104)$ 87 ± 5
+PH + A 51 (16–84)* 83 (84–100)$ 96 ± 13
+PH + CA 93 (71–100) 102 (96–108) 104 ± 15
+CA + Q + A 95 (86–100) 99 (79–114) 80 ± 24
+Q + A + PH 50 (17–80)* 78 (85–99)$ 113 ± 17
+CA + Q+ PH 69 (35–89)* 78 (50–98) 94 ± 13
+CA + A + PH 65 (36–96)* 74 (69–197) 101 ± 8
+CA, A, Q, PH 34 (29–36)* 78 (49–86)$ 101 ± 10
+10x CA, A, Q, PH 31 (24–35)* 68 (38–79)$ 102 ± 7
+100x CA, A, Q, PH 11 (5–17)* 53 (31–59)*$ 95 ± 12
+*
+p-value < 0.05 as compared to control.
+$
+significant difference between light-activated and dark treatments.
+Phytochemistry. Author manuscript; available in PMC 2009 September 1.

@@ -1,0 +1,358 @@
+SHORT REPORT Open Access
+Methyl salicylate 2-O-b-D-lactoside, a novel
+salicylic acid analogue, acts as an anti-
+inflammatory agent on microglia and astrocytes
+Xi Lan, Rui Liu, Lan Sun, Tiantai Zhang
+* and Guanhua Du
+*
+Abstract
+Background: Neuroinflammation has been known to play a critical role in the pathogenesis of Alzheimer’s disease
+(AD). Activation of microglia and astrocytes is a characteristic of brain inflammation. Epidemiological studies have
+shown that long-term use of non-steroidal anti-inflammatory drugs (NSAIDs) delays the onset of AD and
+suppresses its progression. Methyl salicylate-2-O-b-D-lactoside (DL0309) is a new molecule chemically related to
+salicylic acid. The present study aimed to evaluate the anti-inflammatory effects of DL0309.
+Findings: Our studies show that DL0309 significantly inhibits lipopolysaccharide (LPS)-induced release of the pro-
+inflammatory cytokines IL-6, IL-1b, and TNF-a; and the expression of the inflammation-related proteins iNOS, COX-
+1, and COX-2 by microglia and astrocytes. At a concentration of 10 μM, DL0309 prominently inhibited LPS-induced
+activation of NF-B in glial cells by blocking phosphorylation of IKK and p65, and by blocking IB degradation.
+Conclusions: We demonstrate here for the first time that DL0309 exerts anti-inflammatory effects in glial cells by
+suppressing different pro-inflammatory cytokines and iNOS/NO. Furthermore, it also regulates the NF-B signaling
+pathway by blocking IKK and p65 activation and IB degradation. DL0309 also acts as a non-selective COX
+inhibitor in glial cells. These studies suggest that DL0309 may be effective in the treatment of neuroinflammatory
+disorders, including AD.
+Findings
+Alzheimer’s disease (AD) is a progressive neurodegenera-
+tive disorder of the elderly characterized by global deficits
+in cognition ranging from loss of memory to impaired
+judgment. It has been hypothesized that early microglial
+activation in AD delays disease progression by promoting
+clearance of beta amyloid peptide (Ab) before formation
+of senile plaques [1-3]. Microglia are antigen-presenting
+cells that, upon activation, are capable of phagocytosis
+and the production of various pro-inflammatory mole-
+cules such as nitric oxide (NO) and interleukin-1b (IL-
+1b) [4]. These molecules are able to destroy pathogens,
+but can also induce toxicity in neurons, which are com-
+promised in AD. Furthermore, in aged human brain,
+many microglia are dystrophic, showing morphological
+features indicative of senescence such as fragmented
+cytoplasmic processes [5]. Like microglia, chronically
+activated astrocytes are believed to contribute to AD
+through production of NO and of various pro-inflamma-
+tory cytokines and chemokines. Apart from this, astro-
+cytes become activated around plaques to take up Ab
+and neuronal debris [6]. Not only that, activated astro-
+cytes are also involved in plaque formation. Therefore,
+agents that block the activation of microglia and astro-
+cytes may be effective in the treatment of AD.
+A recent study showed that the administration of non-
+steroidal anti-inflammatory drugs (NSAIDs) could delay
+progression of AD, most likely because of their ability to
+reduce microglial activation and cytokine release. The
+presence of inflammatory processes in AD brains sug-
+gests that anti-inflammatory agents like ibuprofen may
+be beneficial in this disease [7]. NSAIDs have been well
+studied, both in vitro and in vivo, and have been observed
+to ameliorate inflammation related to Ab deposition in
+AD. Several in vitro studies have shown that NSAIDs like
+* Correspondence: ttzhang@imm.ac.cn; dugh@imm.ac.cn
+Beijing Key Laboratory of Drug Target and Screening Research, Institute of
+Materia Medica, Chinese Academy of Medical Sciences & Peking Union
+Medical College, No.1 Xiannongtan Street, Xicheng District, Beijing 100050, P.
+R. China
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+JOURNAL OF 
+NEUROINFLAMMATION
+© 2011 Lan et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.aspirin might have anti-aggregation activity for Ab by
+blocking the NF-B signaling pathway [8].
+Methyl salicylate 2-O-b-D-lactoside (DL0309, Figure 1)
+was isolated from Gaultheria yunnanensis (FRANCH) )
+REHDER (G yunnanensis), which is a traditional Chinese
+herbal medicine. G yunnanensis is widely used for the
+treatment of rheumatoid arthritis, swelling, and pain [9].
+Interestingly, DL0309 contains a chemical structure
+similar to salicylic acid. Therefore, it is a natural salicylic
+derivative, and belongs to the NSAIDs group. An anti-
+inflammatory effect of Gaultheria has been demon-
+strated in a croton oil-induced ear edema model in mice
+[10]. Therefore, we investigated the capacity of DL0309
+to suppress the production of pro-inflammatory cyto-
+kines (IL-6, IL-1b,a n dT N F - a)a n dt h ee x p r e s s i o no f
+inflammation-related proteins (iNOS, COX-1, and
+COX-2) in LPS-activated microglia and astrocytes, and
+we explored the association of these effects with activa-
+tion of the NF-B pathway.
+Primary rat glia cells were obtained through a modifica-
+tion of McCarthy and deVellis’s protocol [11]. Primary
+cells were cultured in DMEM/F12 medium containing 10%
+FBS (Gibco), 1.4 M L-glutamine, 100 U/mL penicillin, and
+0.1 mg/ml streptomycin; and were found to be of 95% pur-
+ity as determined by immunocytochemical staining with
+ox42 and anti-glial fibrillary acidic protein (GFAP)
+antibody.
+To investigate the anti-inflammatory actions of DL0309,
+microglia and astrocytes were incubated with DL0309 (0.1,
+1.0 or 10 μM) in the presence or absence of LPS (0.5 μg/
+ml) for 24 h. Pro-inflammatory cytokines (IL-6, IL-1b and
+TNF-a) levels in the culture medium were measured by
+ELISA. The production of NO-derivative nitrite was deter-
+mined by the Griess reaction as described previously [12].
+Western blot analysis was carried out evaluating the
+expression of iNOS, COX-1, COX-2, and NF-Bp a t h w a y -
+relevant proteins such as IB-a, total/phosphorylated IKK
+and NF-B-p65. Cells were plated overnight in 100 mm
+dishes and pre-treated with DL0309 at concentrations of
+0.1, 1.0 or 10 μM for 1 h. After exposing the cells to LPS
+(0.5 μg/ml) for either 10 min or 45 min, cytosolic protein
+extracts were prepared. COX-1 and COX-2 antibodies
+were obtained from Abcam (Cambridge, UK). Other anti-
+bodies were purchased from Cell Signaling Technology
+(Beverly, MA, USA). Western blotting results were quanti-
+fied using Quantity One software (Bio-Rad).
+To determine the direct inhibitory effects of DL0309
+on COX-1 and COX-2 enzymatic activities, primary rat
+glial cells were pre-incubated with LPS (0.5 μg/ml) for
+24 h. Medium was then removed, and DL0309 (0.1, 1.0
+or 10 μM) was added for 1 h. Cells were treated with
+arachidonic acid, 30 μM, for another 20 min, and PGE2
+levels in the medium were then measured by ELISA
+[13,14]. To investigate the effect of DL0309 on COX-1
+enzymatic activity, cells were not treated with LPS in
+order to express only the COX-1 isoform [15]. Thus,
+measured PGE2 levels represent COX-1 activity alone.
+At least three independent experiments were used for
+data analysis. All data are presented as mean ± S.E.M.
+Values were compared using a t-test (two groups) or
+one-way ANOVA with post-hoc Student-Newman-Keuls
+test (multiple comparisons).
+Cell viability was determined by an MTT reduction assay
+as described previously [12]. DL0309 did not show toxicity
+to the cells at the concentrations examined (Figure 2A). As
+shown by Griess assay, incubation with LPS alone mark-
+edly increased (about 8-fold) NO production in the cells,
+compared to that generated in control cells; DL0309 inhib-
+ited LPS-induced NO release in microglia and astrocytes,
+both in a dose-dependent manner (Figure 2B). Further-
+more, LPS increased the protein expression of iNOS both
+in microglia (Figure 2C) and astrocytes (Figure 2D), while
+pretreatment with DL0309 significantly decreased iNOS
+expression at a concentration of 10 μM. These results
+demonstrate that DL0309 inhibits NO release, at least in
+part by suppressing iNOS expression.
+Neuroinflammation, represented by activated microglia
+and astrocytes, is a prominent pathological feature that
+c o n t r i b u t e st on e u r o d e g e n e r a t i o ni nA D .I nA Db r a i n ,
+activated microglia release a variety of neurotoxic com-
+pounds and pro-inflammatory mediators, including IL-6,
+IL-1b and TNF-a. As shown in Figure 3, IL-6 (A), IL-1b
+(B) and TNF-a (C) levels were increased in culture med-
+ium of LPS-stimulated glial cells. Our results show that
+DL0309 significantly inhibits production of these proin-
+flammatory cytokines, which may modulate AD.
+Sustained up-regulation of pro-inflammatory media-
+tors such as COX-1 and COX-2 in microglia and astro-
+cytes contributes to the progressive character of AD.
+LPS treatment significantly increased protein expression
+of COX-1 and COX-2 in both microglia (Figure 4A)
+Figure 1 Chemical structure of compound DL0309 (methyl
+salicylate 2-O-b-D-lactoside).
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+Page 2 of 7and astrocytes (Figure 4B). Pre-treatment with DL0309
+reduced this protein expression in a dose-dependent
+manner in microglia. Additionally, DL0309 also directly
+inhibited total COX (COX-1/2, Figure 4C) and COX-1
+(Figure 4D) activity in a dose-dependent manner. These
+results show that DL0309 acts as a non-selective COX
+inhibitor both in microglia and in astrocytes. These stu-
+dies suggest that DL0309 may be effective in the treat-
+ment of these disorders.
+NF-B is known as an important regulator of various
+genes involved in the production of many pro-inflamma-
+tory cytokines and enzymes related to the inflammatory
+process. Activation of NF-B is critical for the expression
+of various cytokines, iNOS, COX-1 and COX-2 in micro-
+glia in response to LPS [16]. Normally NF-B remains
+inactivated by an inhibitory protein, IB. Once activated,
+NF-B enters the nucleus to increase transcription of dif-
+ferent inflammatory mediators. The phosphorylation of
+IB is regulated by IKK. Thus, we studied the effects of
+DL0309 on NF-B activation. LPS strongly increased
+phosphorylated IKK (Figure 5) and NF-B-p65 (Figure 6),
+while simultaneously decreasing IB expression (Figure 7)
+in primary microglia (A) and astrocytes (B). Our studies
+demonstrate that DL0309 regulates the NF-B pathway by
+suppressing LPS induction of pIKK and pNF-B-p65
+activity in glial cells. We further demonstrated that
+DL0309 blocks LPS-induced degradation of IB, which
+blocks the nuclear translocation of NF-B.
+In recent years, a number of mechanisms have been
+proposed to account for the protective effects of aspirin
+[17,18], ibuprofen [19] and other anti-inflammatory
+agents in AD. Studies have shown various degrees (risk
+reductions of up to 50%) of benefit from the use of
+NSAIDs on onset of disease and on dementia, with
+increased duration of NSAIDs use having increased pro-
+tective effect against AD [20]. The best characterized
+action of these anti-inflammatory agents is to suppress
+neuroinflammation, primarily through their ability to
+inhibit COX, leading to reduced biosynthesis of pro-
+inflammatory molecules in glial cells. Several studies
+Figure 2 The inhibitory effect of DL0309 on NO/iNOS induced by LPS in glial cells. Cells were pre-treated for 1 h with the indicated
+concentrations (μM) of DL0309, and then stimulated by LPS (0.5 μg/ml) for 24 h. Cell viability was determined by MTT assay (A). The level of
+nitrite in the culture medium was determined by the Griess reaction (B). iNOS protein levels in microglia (C) and astrocytes(D) were measured by
+western blotting. Data represent the means ± S.E.M. of three independent experiments.
+###p < 0.001 vs. control; *p < 0.05, **p < 0.01 and ***p <
+0.001 vs. LPS-treated cultures.
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+Page 3 of 7Figure 3 DL0309 inhibits LPS-induced cytokine release in glial cells. Cells were pre-treated for 1 h with the indicated concentrations of
+DL0309, and then stimulated by LPS (0.5 μg/ml) for 24 h. IL-6 (A), IL-1b (B), and TNF-a (C) levels were measured in the culture medium by
+ELISA. Data represent the means ± S.E.M. of three independent experiments.
+#p < 0.05,
+##p < 0.01 and
+###p < 0.001 vs. control; *p < 0.05, **p <
+0.01 and ***p < 0.001 vs. LPS-treated cultures.
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+Page 4 of 7Figure 4 DL0309 inhibits COX-1/2 expression and enzymatic activity in LPS- induced glial cells. Microglia (A) and astrocytes (B) were pre-
+treated for 1 h with the indicated concentrations of DL0309, and continuously incubated with LPS (0.5 μg/ml) for 24 h. Levels of COX-1 and COX-1
+were measured by western blotting. To measure total COX activity (COX-1/2) (C), cells were stimulated with LPS (0.5 μg/ml) for 24 h. After changing
+the medium, cells were treated with various concentrations of DL0309 for 1 h. Cells were then treated with arachidonic acid, 30 μM, for another 20
+min, and PGE2 levels in the medium were then measured by ELISA. For the COX-1 activity assay (D), cells were pre-treated with various concentrations
+of DL0309 for 1 h. After 30 μM of arachidonic acid was added for 20 min, PGE2 levels in the cell medium were measured. Data represent the means ±
+S.E.M. of three independent experiments.
+#p < 0.05,
+##p < 0.01 and
+###p < 0.001 vs. control; *p < 0.05 and **p < 0.01 vs. LPS-treated cultures.
+Figure 5 DL0309 decreases phosphorylated IKK levels in LPS-activated glial cells. Microglia (A) and astrocytes (B) were pre-treated for 1 h
+with the indicated concentrations of DL0309. LPS (0.5 μg/ml) was added and, 10 min later, proteins were isolated and the levels of
+phosphorylated IKKa/b, IKKa and IKKb were measured by western blotting. Data represent the means ± S.E.M. of three independent
+experiments.
+#p < 0.05 vs. control; *p < 0.05 vs. LPS-treated cultures.
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+Page 5 of 7have shown that the onset of AD may be apparently
+suppressed or delayed by mixed COX-1 and COX-2
+inhibitors [21].
+In summary, we demonstrate that DL0309 is capable
+of acting as a non-selective inhibitor of COX-1 and
+COX-2. DL0309 also regulates the NF-B signaling
+pathway not only by blocking degradation of IB, but
+also by restraining pIKK and pNF-B-p65 activity.
+Therefore, this agent can suppress proteins that are
+regulated by the NF-B pathway, including iNOS, NO
+and the cytokines IL-1b, IL-6 and TNF-a. These studies
+suggest that DL0309 may be an effective agent in the
+treatment of neuroinflammatory disorders, including
+AD.
+Acknowledgements
+This work was supported by National Scientific & Technological Major
+Project for “Significant New Drugs Creation” (No.2009ZX09102-034), the
+International S&T Cooperation Projects (No.2009DFA32010) and National
+Natural Science Foundation (No. 81073120) by China government. We
+are grateful to Dr. Xin Wang (Manchester University, UK) and Prof.
+Humphrey Rang (London College University, UK) for the revision of
+manuscript.
+Figure 6 DL0309 reduces phosphorylated NF-B-p65 levels in LPS-activated glial cells. Microglia (A) and astrocytes (B) were pre-treated for
+1 h with the indicated concentrations of DL0309. LPS (0.5 μg/ml) was added and, 10 min later, proteins were isolated and the levels of
+phosphorylated NF-B-p65 and total p65 were measured by western blotting. Data represent the means ± S.E.M. of three independent
+experiments.
+#p < 0.05 vs. control; *p < 0.05 vs. LPS-treated cultures.
+Figure 7 DL0309 blocks degradation of IB by LPS-activated glial cells. Microglia (A) and astrocytes (B) were pre-treated for 1 h with the
+indicated concentrations of DL0309. LPS (0.5 μg/ml) was added and, 45 min later, proteins were isolated and levels of IB-a were measured by
+western blotting. Data represent the means ± S.E.M. of three independent experiments.
+###p < 0.001 vs. control; *p < 0.05, **p < 0.01 and ***p <
+0.001 vs. LPS-treated cultures.
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+Page 6 of 7Authors’ contributions
+TZ and GD directed the work, contributed to design the study, reviewed the
+data and wrote the manuscript; XL performed cell culture, western blot
+analysis, ELISA assay and NO measurements; RL and LS helped in performing
+NO measurements. All authors read and approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 7 April 2011 Accepted: 11 August 2011
+Published: 11 August 2011
+References
+1. Maragakis NJ, Rothstein JD: Mechanisms of Disease: astrocytes in
+neurodegenerative disease. Nat Clin Pract Neurol 2006, 2:679-689.
+2. Wyss-Coray T, Loike JD, Brionne TC, Lu E, Anankov R, Yan F, Silverstein SC,
+Husemann J: Adult mouse astrocytes degrade amyloid-beta in vitro and
+in situ. Nat Med 2003, 9:453-457.
+3. Wyss-Coray T: Inflammation in Alzheimer disease: driving force,
+bystander or beneficial response? Nat Med 2006, 12:1005-1015.
+4. Benveniste EN: Cytokines: influence on glial cell gene expression and
+function. Chem Immunol 1997, 69:31-75.
+5. Streit WJ, Sammons NW, Kuhns AJ, Sparks DL: Dystrophic microglia in the
+aging human brain. Glia 2004, 45:208-212.
+6. Allaman I, Belanger M, Magistretti PJ: Astrocyte-neuron metabolic
+relationships: for better and for worse. Trends Neurosci 2011, 34:76-87.
+7. Pinnen F, Sozio P, Cacciatore I, Cornacchia C, Mollica A, Iannitelli DAE,
+Cataldi A, Zara S, Nasuti C, Di Stefano A: Ibuprofen and Glutathione
+Conjugate as a Potential Therapeutic Agent for Treating Alzheimer’s
+Disease. Arch Pharm (Weinheim) 2010.
+8. Ray B, Lahiri DK: Neuroinflammation in Alzheimer’s disease: different
+molecular targets and potential therapeutic agents including curcumin.
+Curr Opin Pharmacol 2009, 9:434-444.
+9. Zhang D, Liu R, Sun L, Huang C, Wang C, Zhang DM, Zhang TT, Du GH:
+Anti-inflammatory activity of methyl salicylate glycosides isolated from
+Gaultheria yunnanensis (Franch.) Rehder. Molecules 2011, 16:3875-3884.
+10. Zhang B, He XL, Ding Y, Du GH: Gaultherin, a natural salicylate derivative
+from Gaultheria yunnanensis: towards a better non-steroidal anti-
+inflammatory drug. Eur J Pharmacol 2006, 530:166-171.
+11. McCarthy KD, de Vellis J: Preparation of separate astroglial and
+oligodendroglial cell cultures from rat cerebral tissue. J Cell Biol 1980,
+85:890-902.
+12. Drew PD, Chavis JA: The cyclopentone prostaglandin 15-deoxy-Delta
+(12,14) prostaglandin J2 represses nitric oxide, TNF-alpha, and IL-12
+production by microglial cells. J Neuroimmunol 2001, 115:28-35.
+13. Fiebich BL, Lieb K, Kammerer N, Hull M: Synergistic inhibitory effect of
+ascorbic acid and acetylsalicylic acid on prostaglandin E2 release in
+primary rat microglia. J Neurochem 2003, 86:173-178.
+14. Candelario-Jalil E, de Oliveira AC, Graf S, Bhatia HS, Hull M, Munoz E,
+Fiebich BL: Resveratrol potently reduces prostaglandin E2 production
+and free radical formation in lipopolysaccharide-activated primary rat
+microglia. J Neuroinflammation 2007, 4:25.
+15. Akundi RS, Candelario-Jalil E, Hess S, Hull M, Lieb K, Gebicke-Haerter PJ,
+Fiebich BL: Signal transduction pathways regulating cyclooxygenase-2 in
+lipopolysaccharide-activated primary rat microglia. Glia 2005, 51:199-208.
+16. Brambilla R, Bracchi-Ricard V, Hu WH, Frydel B, Bramwell A, Karmally S,
+Green EJ, Bethea JR: Inhibition of astroglial nuclear factor kappaB reduces
+inflammation and improves functional recovery after spinal cord injury.
+J Exp Med 2005, 202:145-156.
+17. Thomas T, Nadackal TG, Thomas K: Aspirin and non-steroidal anti-
+inflammatory drugs inhibit amyloid-beta aggregation. Neuroreport 2001,
+12:3263-3267.
+18. Cornelius C, Fastbom J, Winblad B, Viitanen M: Aspirin, NSAIDs, risk of
+dementia, and influence of the apolipoprotein E epsilon 4 allele in an
+elderly population. Neuroepidemiology 2004, 23:35-143.
+19. Iwata Y, Nicole O, Zurakowski D, Okamura T, Jonas RA: Ibuprofen for
+neuroprotection after cerebral ischemia. J Thorac Cardiovasc Surg 2010,
+139:489-493.
+20. Zandi PP, Breitner JC, Anthony JC: Is pharmacological prevention of
+Alzheimer’s a realistic goal? Expert Opin Pharmacother 2002, 3:365-380.
+21. Ferrera P, Arias C: Differential effects of COX inhibitors against beta-
+amyloid-induced neurotoxicity in human neuroblastoma cells.
+Neurochem Int 2005, 47:589-596.
+doi:10.1186/1742-2094-8-98
+Cite this article as: Lan et al.: Methyl salicylate 2-O-b-D-lactoside, a novel
+salicylic acid analogue, acts as an anti-inflammatory agent on microglia
+and astrocytes. Journal of Neuroinflammation 2011 8:98.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Lan et al. Journal of Neuroinflammation 2011, 8:98
+http://www.jneuroinflammation.com/content/8/1/98
+Page 7 of 7

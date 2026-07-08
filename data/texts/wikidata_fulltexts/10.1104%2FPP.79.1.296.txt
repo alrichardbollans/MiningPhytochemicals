@@ -1,0 +1,317 @@
+Plant Physiol. (1985) 79, 296-298
+0032-0889/85/79/0296/03/$01.00/0
+Short Communication
+Identification of Cytokinins from Xylem Exudate of Phaseolus
+vulgaris L.
+Received for publication February 26, 1985 and in revised form May 29, 1985
+MARTIN V. PALMER* AND 0. CHOON WONG
+State Chemistry Laboratory, Melbourne 3002, Australia (M.V.P.); and Research School ofBiological
+Sciences, Australian National University, Canberra 2601, Australia (O.C.W.)
+ABSTRACT
+The principal biologically active cytokinins in xylem exudate of young
+Phaseolus valgaris L. plants were identified by bioassay, high-perform-
+ance liquid chromatography, enzymic degradation and combined gas
+chromatography-mass spectrometry (selected ion monitoring) a zeatin
+riboside, zeatin nucleotide, dihydrozeatin riboside, dihydrozeatin nucleo-
+tide, O-glucosyl zeatin, O-glycosyl dihydrozeatin, O-glucosyl dihydrozea-
+tin riboside, and O-glucosyl dihydrozeatin nucleotide. Trace amounts of
+O-glucosyl zeatin riboside and O-glucosyl zeatin nucleotide were also
+detected.
+The major cytokinins in leaves, stems and roots of Phaseolus
+vulgaris L. have been rigorously identified by physicochemical
+methods (10, 14, 21, 22), and there exists a wealth ofinformation
+on cytokinin metabolism in this species as a result of studies
+using quantitative MS (9), bioassay (e.g. 1, 4, 7, 19), and radio-
+labeled cytokinins (e.g. 10, 11, 15). The nature and distribution
+of cytokinin-active ribonucleosides in P. vulgaris tRNA has been
+determined (2, 3) and this species has also been used as a model
+system to study cytokinin biosynthesis (8). Although the design
+and interpretation of these and other physiological experiments
+would benefit greatly from knowing the identity of translocated
+bean cytokinins, to date such analyses have provided only limited
+bioassay data (4, 7, 19). The present study seeks to identify the
+biologically active cytokinins in bean xylem exudate through
+high resolution chromatography and mass spectroscopic analysis.
+MATERIALS AND METHODS
+Bean plants (P. vulgaris cv Hawkesbury Wonder) were grown
+in 2-L plastic pots containing sterilized garden soil, in a glass-
+house, under full sunlight, 16 h days, and a temperature range
+of 18 to 32°C. Every 2 d, starting I week after germination, each
+plant received 100 ml of Hewitt's complete nutrient solution
+containing 12 mm nitrate (6). Plants were harvested 20 d after
+germination, at a stage ofdevelopment which has been correlated
+with high root system conductance (5), by decapitatingjust above
+the cotyledonary node. Exudate was removed continually for 1
+h from the cut surfaces using a microsyringe, and transferred to
+a beaker containing 50 ml extraction solvent (methanol/chloro-
+form/formic acid/water, 12:5:1:2), chilled to -5°C. A total of
+24.6 ml exudate was collected from 120 plants.
+Exudate was stored in extraction solvent overnight at -5°C,
+then purified as described previously (10), by cation-exchange
+on cellulose phosphate, followed by alkaline phosphatase treat-
+ment of the acidic/neutral fraction, and partitioning of both the
+basic fraction (containing cytokinin bases and glycosides) and
+phosphatased fraction (containing nucleotide-derived cytokinins)
+against butan- 1-ol at pH 8.0. The two butanol-soluble fractions
+were then purified by reversed-phase HPLC, as described previ-
+ously (17). Initially, a Waters uBondapak C-18 column (7.8 mm
+x 30 cm) was used to effect a preparative separation ofcytokinin
+bases, ribosides, and glucosides (Fig. 1; Table I). All HPLC
+solvents contained a constant concentration (0.1 M) of acetic
+acid. Samples were injected in 10% methanol (0.5 ml) and eluted
+with a concave gradient (Waters Gradient 9) of 10 to 30%
+methanol for 10 min, followed by 30% methanol isocratically
+for 20 min, at 2 ml min-'. The first 20 ml was discarded, and
+the next 40 ml collected as ten 4 ml fractions (Fig. 1). One-eighth
+of each fraction was removed and tested for cytokinin activity
+using the soybean cotyledon callus assay (12).
+The four fractions showing biological activity were then puri-
+fied separately by analytical reversed phase HPLC and analyzed
+by GC-MS. To improve recovery and assist in identification, 2.0
+Ag ofan appropriate pentadeuterated internal standard was added
+to each biologically active fraction before analytical HPLC.
+Standards used were: (2H5)ZR,' (2H5)DZR, and (2H5)OGDZ
+synthesized as described by Summons et al. (16). Since these
+cytokinin analogs are also biologically active, they were not added
+to the extract until after the bioassay.
+The cytokinin glucoside-like fractions 1 and 3 (Fig. 1) were
+each diluted with (2H5)OGDZ and analyzed using a Waters C8
+radial compression column (8 x 100 mm), eluted with a linear
+gradient of 10 to 40% methanol in 15 min, at 3 ml min-' (system
+A). The cytokinin riboside-like fractions 2 and 4 (Fig. 1) were
+each diluted with both (2H5)ZR and (2H5)DZR and analyzed on
+the same column, using a linear gradient of 30 to 40% methanol
+in 20 min, at 3 ml min-' (system B). The resolution of systems
+A and B is shown in Table I. Fractions were collected every 30
+s, or according to peaks ofUV absorbance (280 nm). Glucoside-
+like fractions were first treated with ,6-glucosidase, as described
+previously (12), then purified as their aglycones on HPLC system
+B before derivatization.
+The TMS derivatives ofcytokinin ribosides (12), and tBuDMS
+derivatives of cytokinin bases (13) were prepared as described
+previously. Chemical ionization GC-MS was performed on a
+Finnigan 4500 instrument, interfaced to a Nova 4 computer,
+'Abbreviations: ZR, zeatin ribosides; DZ, dihydrozeatin; DZR, dihy-
+drozeatin riboside; OGDZ, O-glucosyl dihydrozeatin; OGDZR, O-glu-
+cosyl dihydrozeatin riboside; OGZ, O-glucosyl zeatin; OGZR, O-glucosyl
+zeatin riboside; tBuDMS, tertiary-butyl dimethylsilyl; TMS, per-trimeth-
+ylsilyl; Z, zeatin; SIM, selected ion monitoring.
+296
+ www.plantphysiol.orgon January 18, 2020 - Published by Downloaded from 
+Copyright © 1985 American Society of Plant Biologists. All rights reserved.
+CYTOKININS IN BEAN XYLEM EXUDATE
+2
+10 20 30 10 20 30
+Elution time (minutes)
+FIG. 1. Soybean callus bioassay ofpreparative HPLC-purified extracts
+of bean xylem exudate. Fractions in (a) were derived from the basic
+eluate after cation-exchange, and could contain cytokinin bases and/or
+glycosides, occurring as such in the crude extract. Those in (b) were
+isolated from the phosphatase-treated acidic/neutral eluate, and comprise
+cytokinin glycosides, derived from nucleotides in the crude extract.
+Pentadeuterated internal standards were added to the putative glucoside
+(1 and 3) and riboside (2 and 4) fractions, which were then purified by
+analytical HPLC and analyzed by GC-MS.
+Table I. Chromatographic Resolution ofCytokinins
+GC data are retention times ofTMS (ZR, DZR) or tBuDMS (Z, DZ)
+derivatives.
+Retention Time
+Cytokinin Preparative Analytical Analytical
+HPLC HPLC HPLC GIC
+system A system B
+min
+OGZ 15.7 7.5
+OGDZ 16.8 9.8
+OGZR 17.3 12.6
+OGDZR 18.3 15.1
+Z 18.5 18.0 18.8 6.3
+DZ 19.5 21.2 22.8 5.3
+ZR 20.1 8.2 6.5
+DZR 21.4 10.5 5.5
+and SIM was done using the Incos data system. Samples were
+introduced via a Hewlett Packard high performance fused silica
+capillary column (25 m x 2 mm), operated isothermally at 280°C.
+Mass spectra were recorded in ammonia reagent gas at 1 torr,
+140 ev, and a source temperature of 120°C. Each sample was
+scanned for the presence and intensity ofthe following diagnostic
+(MH+) ion masses along the GC elution profile: 448 (tBuDMS-
+Z), 450 (tBuDMS-DZ), 455 (tBuDMS)(2H5)DZ), 640 (TMS-
+ZR), 642 (TMS-DZR), 645 (TMS-(2H5)ZR), 647 (TMS-
+(2H5)DZR).
+RESULTS AND DISCUSSION
+Bioassay of samples following preparative HPLC revealed
+cytokinin activity in four broad fractions. Comparison of bioas-
+say profiles (Fig. 1) with HPLC retention times of authentic
+standards (Table I) indicated that both basic and nucleotide-
+derived extracts contained a mixture of cytokinin ribosides,
+bases, and/or glucosides. Further purification of these fractions
+by analytical HPLC showed large peaks of UV-absorption co-
+chromatographing with ZR, DZR, and OGDZ (attributable to a
+combination of deuterated internal standards and endogenous
+compounds), and smaller peaks co-chromatographing with OGZ,
+4-5 50 5.5
+GC retention time (mins)
+FIG. 2. Ion-current traces resulting from GC-MS analysis of putative
+tBuDMS-DZ containing tBuDMS-(2H5)-DZ internal standard. The en-
+dogenous compound was derived from a cytokinin-active fraction co-
+chromatographing with OGDZ on HPLC. After addition of(Hs)-OGDZ
+as an internal standard, the unknown fraction was treated with j3-
+glucosidase and purified as the putative aglycone, DZ, by HPLC. The
+major UV-absorbing fraction, assumed to be a mixture of deuterated
+and nondeuterated DHZ, was collected, derivatized, and analyzed by
+GC-MS and SIM as a mixture of tBuDMS derivatives. Final identifica-
+tion of the aglycone of the endogenous cytokinin glucoside as DZ was
+based on the coincidence of ion-current peaks due to m/e 450 (MH+ for
+tBuDMS-DZ) and m/e 455 (MH+ for tBuDMS_(2H5)-DZ) at the GC
+retention time of authentic tBuDMS-DZ (see also Table I).
+Table II. Endogenous Cytokinins ofP. vulgaris L.
+Plant Part Cytokinins Present Reference
+Primary leaves DZR,aOGDZ 21, 22
+Stem ZR, Z-nucleotide, DZR, 10
+DZ-nucleotide,
+OGDZ,' OGZ-nu-
+cleotidea
+Xylem sap ZR, Z-nucleotide, DZR, This studyb
+DZ-nucleotide, OGZ,
+OGDZ, OGDZR,
+OGDZ-nucleotide,
+OGZR", OGZ-nu-
+cleotidea
+Roots OGZ, Z,a ZR,' OGZR' 14
+a Minor components. b Identification based on co-chromatography
+with authentic standards in two (C8 and C,8) reversed phase HPLC
+systems (see Table I), followed by GCMS analysis using SIM and deuter-
+ated internal standards (see Fig. 2 for example). Glucosides were analyzed
+indirectly by GC-MS identification of the aglycones following enzymic
+hydrolysis of glucoside-like HPLC fractions.
+OGZR, and OGDZR. Neither basic nor nucleotide-derived frac-
+tions contained UV-absorbing material which co-chromato-
+graphed with Z or DZ. After treatment with ,B-glucosidase, the
+majority of UV-absorbing compounds co-chromatographed
+either Z, DZ, ZR, or DZR.
+Analysis by GC-MS of samples tentatively identified by HPLC
+indicated the presence of high-intensity molecular ions for the
+following derivatized cytokinins, all at the exact GC retention
+times of authentic standards: ZR, DZR and their deuterated
+analogs, from both basic and nucleotide-derived fractions; Z,
+DZ,DZR and deuterated DZ, derived from basic glucosides; and
+DZR derived from an acidic glucoside fraction. Low-intensity
+molecular ions were detected for derivatized ZR, from both basic
+and acidic glucoside fractions. An example of such an analysis is
+shown in Figure 2.
+(b)(a)
+0-
+*13~
+-2
+0
+V
+297
+ www.plantphysiol.orgon January 18, 2020 - Published by Downloaded from 
+Copyright © 1985 American Society of Plant Biologists. All rights reserved.
+PALMER AND WONG
+Thus, eight major cytokinins were identified from bean exu-
+date: ZR, DZR, OGZ, OGDZ, OGDZR and the nucleotides of
+Z, DZ, and OGDZ. In addition OGZR and OGZ nucelotide
+were identified as minor components. In relation to known
+patterns of cytokinin metabolism in P. vulgaris (9-11, 14, 21,
+22), it seems reasonable to assume that the glucosides of ZR,
+DZR, Z-nucleotide, and DZ-nucleotide isolated from bean xylem
+exudate are O-f3-i.-glucosyl side-chain conjugates. However, in a
+recent analysis of cytokinins from Pinus radiata buds (18), a
+novel ZR glycoside was isolated and tentatively identified by
+GC-MS as 9-(glucosyl-f3-D-ribofuranosyl) zeatin. This compound
+has not been isolated from P. vulgaris, but it should be noted
+that if it does occur here, and as in the present study, the
+cytokinin glucoside fractions are analyzed indirectly after en-
+zymic hydrolysis, it may well be indistinguishable from OGZR.
+In this experiment, to avoid interference in the bioassay,
+deuterated cytokinin standards were added to samples only after
+thorough purification by ion-exchange, solvent partition, and
+HPLC. Although data such as those shown in Figure 2 permit
+the quantification of cytokinins present in certain HPLC frac-
+tions, they do not take into account the losses that may have
+occurred prior to HPLC. Limited evidence from bioassay, UV-
+absorbance, and relative ion intensities indicated that the most
+abundant cytokinins were Z- and DZ-nucleotides, but it is not
+possible to calculate actual concentrations of cytokinins in the
+exudate other than to state that their levels appear to fall within
+the range 10 to 100 ng ml-'. A summary of these results, and
+those from other analyses of the same species is given in Table
+II.
+The distribution of endogenous cytokinins in P. vulgaris (Ta-
+ble II), and in particular the remarkable accumulation of very
+high levels ofOGDZ in the primary leaves of decapitated plants
+(9), has been suggested to be due to the translocation ofZR and
+Z-nucleotide from the roots, partial or complete metabolism of
+these compounds to DZR and DZ-nucleotide (more stable
+forms) in the stem, and finally glucosylation to OGDZ, appar-
+ently the most stable bean cytokinin, in the leaves (10). Results
+of the present study appear to support the hypothesis that DHZ-
+derivatives originate in shoot tissues, since these compounds
+were present in exudate from the base of the stem, whereas they
+are reported to be absent from root tissues (14). However, with
+the demonstration in this study of the presence of cytokinin 0-
+glucosides in xylem exudate, it now seems likely that although
+bean leaf tissue is known to be able to glucosylate Z and DZ
+(I 1), OGDZ accumulation in the leaves could also be a result of
+the import of the glucoside per se (Table II).
+Acknowledgments-We thank Dr. D. S. Letham for his generous gift ofcytokinin
+standards, and for advice on GC-MS.
+LITERATURE CITED
+1. CARMI A, J VAN STADEN 1983 Role of roots in regulating the growth rate and
+cytokinin content of leaves. Plant Physiol 73: 76-78
+2. EDWARDS CA, DJ ARMSTRONG, RW KAISS-CHAPMAN, RO MORRIS 1981
+Cytokinin-active ribonucleosides in Phaseolus RNA I. Plant Physiol 67:
+1181-1184
+3. EDWARDS CA, DJ ARMSTRONG 1981 Cytokinin-active ribonucleosides in Phas-
+eolus RNA II. Plant Physiol 67: 1185-1189
+4. ENGELBRECHT L 1972 Cytokinins in leaf-uttings of Phaseolus vulgaris L.
+during their development. Biochem Physiol Pflanzen 163: 335-343
+5. Fiscus EL, AH MARKHART 1979 Relationship between root system water
+transport properties and plant size in Phaseolus. Plant Physiol 63: 770-773
+6. HEWITT EJ, TA SMITH 1975 Plant Mineral Nutrition. The English University
+Press, London
+7. ITAI C, A BEN-ZIONI, L ORDIN 1973 Correlative changes in endogenous
+hormone levels and shoot growth induced by heat treatments to the root.
+Physiol Plant 29: 355-360
+8. MAAS H, D KLAMBT 1981 On the biogenesis ofcytokinins in roots ofPhaseolus
+vulgaris. Planta 151: 353-358
+9. PALMER MV, R HORGAN, PF WAREING 1981 Cytokinin metabolism in Phas-
+eolus vulgaris L. I. Variations in cytokinin levels in leaves of decapitated
+plants in relation to lateral bud outgrowth. J Expt Bot 32: 1231-1241
+10. PALMER MV, R HORGAN, PF WAREING 1981 Cytokinin metabolism in Phas-
+eolus vulgaris L. III. Identification ofendogenous cytokinins and metabolism
+of dihydrozeatin stems ofdecapitated plants. Plarta 153: 297-302
+1 1. PALMER MV, IM ScoTT, R HORGAN 1981 Cytokinin metabolism in Phaseolus
+vulgaris L. II. Comparative metabolism ofexogenous cytokinins by detached
+leaves. Plant Sci Lett 22: 187-195
+12. PALNI LMS, MV PALMER, DS LETHAM 1984 The stability and biological
+activity of cytokinin metabolites in soybean callus tissue. Planta 160: 242-
+249
+13. PALNI LMS, SAB TAY, SK NANDI, DJ PIANCA, GM DEKLERK, OC WONG, DS
+LETHAM, JK MACLEOD 1985 Cytokinin biosynthesis in plant tumour tissues.
+Biol Plant. In press
+14. ScoTT IM, R HORGAN 1984 Root cytokinins of Phaseolus vulgaris L. Plant
+Sci Lett 34: 81-87
+15. SONDHEIMER R, DS Tzou 1971 Metabolism of hormones during seed germi-
+nation and dormancy. Plant Physiol 47: 5 16-520
+16. SUMMONS RE, CC DUKE, JV EICHHOLZER, B ENTSCH, DS LETHAM, JK MAC-
+LEOD, CW PARKER 1979 Mass spectrometric analysis of cytokinins in plant
+tissues. Biomed Mass Spectrom 6: 407-413
+17. SUMMONS RE, B ENTSCH, DS LETHAM, BI GOLLNOW, JK MACLEOD 1980
+Metabolites of zeatin in sweetcorn kernels. Planta 147: 422434
+18. TAYLOR JS, M KOSHIOKA, RP PHARIS, GB SWEET 1984 Changes in cytokinins
+and gibberellin-like substances in Pinus radiata buds during lateral shoot
+initiation and the characterization ofribosyl zeatin and a novel ribosyl zeatin
+glycoside. Plant Physiol 74: 626431
+19. VAN STADEN J, JE DAVEY 1976 Cytokinin translocaton in xylem sap of
+herbaceous plants. Z Pflanzenphysiol 77: 377-382
+20. VAN STADEN J, JE DAVEY 1979 The synthesis, transport and metabolism of
+endogenous cytokinins. Plant Cell Environ 2: 93-106
+21. WANG TL, R HORGAN 1978 Dihydrozeatin riboside, a minor cytokinin from
+the leaves of Phaseolus vulgaris L. Planta 140: 151-153
+22. WANT TL, AG THOMPSON, R HORGAN 1977 A cytokinin glucoside from the
+leaves of Phaseolus vulgaris L. Planta 135: 285-288
+298 Plant Physiol. Vol. 79, 1985
+ www.plantphysiol.orgon January 18, 2020 - Published by Downloaded from 
+Copyright © 1985 American Society of Plant Biologists. All rights reserved.

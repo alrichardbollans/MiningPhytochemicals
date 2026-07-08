@@ -1,0 +1,560 @@
+Article 
+J. Braz. Chem. Soc., Vol. 20, No. 6, 1103-1109, 2009.
+Printed in Brazil - ©2009  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: mello@uem.br
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae)
+Gisely C. Lopes,a Juliana C. B. Rocha,a Glalber C. de Almeidab and João C. P. de Mello*,a
+aPrograma de Pós-graduação em Ciências Farmacêuticas, Universidade Estadual de Maringá, 
+Av. Colombo, 5790, 87020-900 Maringá-PR, Brazil
+bAcadêmico de Farmácia, Universidade Estadual de Maringá, Av. Colombo, 5790, 87020-900 Maringá-PR, Brazil
+Das cascas de Guazuma ulmifolia Lam. (Sterculiaceae) foram isolados e identificados nove 
+compostos: ent-catequina, epicatequina, ent-galocatequina, epigalocatequina, epiafzelequina-
+(4β→8)-epicatequina, epicatequina-(4β→8)-catequina (procianidina B1), epicatequina-(4β→8)-
+epicatequina (procianidina B2), epicatequina-(4β→8)-epigalocatequina, e a nova substância 
+4’-O-metil-epiafzelequina. Suas estruturas foram elucidadas com base nos dados espectrais e 
+da literatura. A “impressão digital” de um extrato semipurificado por cromatografia líquida de 
+alta eficiência foi realizada em coluna C18, com uma mistura de acetonitrila (0,05% de ácido 
+trifluoroacético):água (0,05% de ácido trifluoroacético) (v/v) com vazão de 0,8 mL min-1. O volume 
+injetado da amostra foi de 100 µL e o comprimento de onda 210 nm.
+From the bark of Guazuma ulmifolia Lam. (Sterculiaceae), nine compounds were isolated and 
+identified: ent-catechin, epicatechin, ent-gallocatechin, epigallocatechin, epiafzelechin-(4β→8)-
+epicatechin, epicatechin-(4β→8)-catechin (procyanidin B1), epicatechin-(4β→8)-epicatechin 
+(procyanidin B2), epicatechin-(4β→8)-epigallocatechin, and the new compound 4’-O-methyl-
+epiafzelechin. Their structures were elucidated on the basis of spectral and literature data. HPLC 
+fingerprint analysis of the semipurified extract was performed on a C18 column, with a mixture 
+of acetonitrile (0.05% trifluoroacetic acid):water (0.05% trifluoroacetic acid) (v/v) with a flow 
+rate of 0.8 mL min-1. The sample injection volume was 100 µL and the wavelength was 210 nm.
+Keywords: Guazuma ulmifolia, condensed tannins, HPLC, fingerprint
+Introduction
+Despite extensive destruction, it is believed that the 
+rainforests still preserve 30 million individual species, 
+roughly half of all life forms on earth and 2/3 of all plants, 
+without mentioning the importance of these forests to the 
+earth’s weather and atmosphere. In South America, the 
+Amazon tropical forest covers approximately 665 million 
+hectares, of which 60% lies within Brazil, covering 59% 
+of the country’s territory, in nine states: Acre, Amapá, 
+Amazonas, Maranhão, Mato Grosso, Pará, Rondônia, 
+Roraima and Tocantins.1
+The importance of conserving the Amazon tropical 
+forest is not limited only to the animal and plant species 
+themselves, but also to the rich knowledge of the local 
+people about the use of medicinal plants. Their knowledge 
+stems as much from the necessity for alternative treatments 
+because of low purchasing power and the difficulty of 
+access to medical assistance, as from the profound cultural 
+influence of the indigenous peoples of the region.
+It is known that rapid social, cultural and economic 
+changes strongly affect local knowledge of how to use 
+natural resources. The problems stemming from this 
+cultural loss are irreversible, and this loss reduces the 
+possibilities of sustainably developing a region based on 
+local experience.2
+The discussion of alternatives for development and their 
+relationship with the productive use of biodiversity is recent 
+in Brazil. A proposal for sustainable development seeks to 
+ally the need to protect the environment with the principal 
+of equity with present and future human generations, 
+through effective inclusion of the environment in socio-
+economic decisions. However, it is no simple matter to 
+develop a strategy that requires many solutions acting in 
+parallel, including the demarcation of forest preserves, 
+projects for renewable forest harvesting, and domestication 
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae) J. Braz. Chem. Soc.1104
+of local species of economic importance, envisaging local 
+productive networks. Thus, surrounding the interest in 
+biodiversity are many economic, ecological, ethical and 
+heritage factors.3
+In this context, many endemic and non-native plant 
+species in Amazonia have been studied scientifically, taking 
+into consideration the knowledge of the local population, 
+with a view toward obtaining new phytotherapeutic and 
+cosmetic pharmaceuticals.4-9
+Guazuma ulmifolia Lam. is a middle-sized tree, 
+belonging to the family Sterculiaceae, which occurs 
+naturally throughout Latin America.10 In Brazil, where it 
+is popularly known as mutamba, this species extends from 
+the Amazon region to the state of Paraná.11 It is pantropical, 
+semideciduous, heliophytic, a pioneer, and is characteristic 
+of second-growth broad-leaf forests. In Brazil, G. ulmifolia 
+has been studied for its important role for the recovery of 
+degraded areas.10,11
+In popular medicine, G. ulmifolia is traditionally used in 
+several countries including Brazil,12 Guatemala,13-15 Haiti,16 
+Mexico,17-19 and Belize20 to treat bronchitis, burns, diarrhea, 
+asthma, inflammations, and alopecia.
+Previous investigations of the chemical composition of 
+G. ulmifolia have indicated the occurrence of flavan-3-ols, 
+procyanidins,21 and the nitrile glucoside menisdaurin.22 The 
+anti-diabetic properties,23 hypotensive and vasorelaxant 
+activity,24 antiulcer,25,26 anti-bacterial activities,20,27 and 
+antiviral activity28 of the bark, aerial parts, fruits, crude 
+extract, and fractions were attributed to the presence of 
+proanthocyanidins.
+The aim of the present study was to investigate the 
+chemical profile of the bark of Guazuma ulmifolia Lam., to 
+develop a HPLC-UV fingerprint and characterize its major 
+active chemical constituents.
+Results and Discussion
+The ethyl acetate-soluble fraction obtained from 
+the aqueous acetone extract of the air-dried bark was 
+chromatographed on a Sephadex LH-20 column. Fractions 
+containing proanthocyanidins were further purified by 
+multi-layer-coil counter-chromatography (MLCCC) 
+to give known and some rare compounds including 
+ent-catechin (1), epicatechin (2), ent-gallocatechin (3), 
+epigallocatechin (4), epiafzelechin-(4β→8)-epicatechin 
+(5), epicatechin-(4β→8)-catechin (PB1) (6), epicatechin-
+(4β→8)-epicatechin (PB2) (7) and epicatechin-(4β→8)-
+epigallocatechin (8). These were readily identified by 
+comparison of spectroscopic data of the peracetates 
+(1H NMR, ESI-MS, [a]D20) with authentic material.29-37 
+The new compound 4’-O-methyl-epiafzelechin (9), 
+discussed below, was established by physical properties 
+[1H NMR, ESI-MS, [a]D20] of the corresponding peracetate 
+derivative.
+Compound (9a) was visualized as a blue spot by 
+spraying with FeCl3 reagent and showed a parent ion 
+at m/z 437.5 [M+Na]+ in the ESI-mass spectrum of the 
+corresponding peracetate, suggesting a monomeric flavan-
+3-ol. The 1H NMR spectral (CDCl3) data showed one 
+three-proton singlet at d 3.89, indicating a methoxyl group. 
+All heterocyclic protons could readily be assigned from the 
+1H-1H-COSY spectrum. The compound showed a specific 
+rotation of −30°, and showed the typical spin systems of 
+a 4',5,7-trihydroxyflavan-3-ol framework, i.e., a two-spin 
+AB-system for the A-ring, a four-spin AA1BB1-system 
+for the B-ring, and a four-spin AMXY-system for the 
+protons of the heterocyclic ring. The 2,3-cis relative 
+configuration was evident from the 3J2,3 value of ca. 1.0 Hz 
+for the broadened 2-H resonance at d 5.12. The circular 
+dichroism (CD) spectrum in methanol exhibited a high-
+amplitude negative Cotton effect at 280 nm for the 1Lb 
+transition and a positive Cotton effect at 240 nm for the 
+1L
+a
+ transition, hence unequivocally indicating a 2R,3R 
+absolute configuration and confirming the structure of 
+compound (9) as 4’–O-methyl-epiafzelechin from the 
+natural source. This compound is described here for the 
+first time.
+An HPLC fingerprint method developed for Guazuma 
+ulmifolia can be conveniently employed for quality-control 
+analysis. The experimental conditions chosen were those 
+giving the most chemical information about the herbal 
+medicine in the chromatograms. The column, mobile phase, 
+detection wavelength, and conditions for gradient elution 
+were all investigated.
+The chromatographic separations were performed on a 
+C18 analytical column, according to published methods.38,39 
+To obtain good separation, acetonitrile-water and methanol-
+water, both containing acid, were investigated as mobile 
+phases. With methanol-water the peaks of compounds 6 
+and 7 always coeluted. More compounds were separated 
+by the use of acetonitrile-water containing 0.05% 
+trifluoroacetic acid. To obtain chromatograms with good 
+Lopes et al. 1105Vol. 20, No. 6, 2009
+resolution of adjacent peaks, different flow rates (0.6, 0.8, 
+and 0.9 mL min-1) were also investigated. Good separation 
+was obtained by a flow rate of 0.8 mL min-1.
+The elimination of high-molar-mass phenolic 
+compounds from the plant extract is critically important, 
+because of the interaction of these compounds with the 
+stationary phase. This interaction can seriously damage the 
+analytical column, interfering with the chromatographic 
+process. Currently, the most widely employed sample-
+preparation methodologies are solid-phase extraction 
+and liquid-liquid extraction. Therefore, in this study, 
+the extraction of proanthocyanidin compounds from G. 
+ulmifolia was optimized by using a mixture of water:ethyl 
+acetate. The utilization of the simple one-step liquid-liquid 
+extraction method should completely extract the target 
+constituents from the matrix. The extraction efficiency 
+was evaluated by HPLC, and the results demonstrated the 
+reliability of the process.
+The choice of detection wavelength is a crucial step 
+in developing a reliable fingerprint. A UV detector was 
+used in the current study. The spectra of all the main 
+peaks were investigated by use of the diode-array detector, 
+and 210 nm was selected as the detection wavelength to 
+obtain a sufficiently large number of detectable peaks in 
+the chromatograms. Figure 1 shows the chromatograms 
+of the sample solution at 210 and 280 nm. Comparing the 
+absorbances at the two wavelengths, the absorbances at 
+210 nm were higher than those at 280 nm for all compounds 
+in the system. Thus, chromatograms recorded at 210 nm 
+showed considerable improvement in the signal-to-noise 
+ratio.
+The total analysis time for each run was 32 min. Good 
+separations with a short run time were observed (Figure 2). 
+The system suitability results are given in Table 1.
+Method precision was based on replicated analyses of 
+samples, with reported relative standard deviations (RSD) 
+less than 5% for relative retention times (RRT) and relative 
+peak areas (RPA) of all peaks. The reproducibility of the 
+method was assessed by means of six replicated sample 
+solutions extracted from a single batch of G. ulmifolia. 
+The corresponding RSD of RRT and RPA were less than 
+5% over the investigation. The stability test was performed 
+with a sample solution left to stand for 24 h. The results 
+obtained in the study of the solution (both time zero and 
+the sample solution after 24 h) indicated that the solutions 
+were stable for 24 h, because during this time the areas of 
+the peaks did not decrease below a minimum percentage 
+of 90% of the initial area. The data were assessed by 
+Student’s t test and ANOVA, and showed no significant 
+differences (p < 0.05%). The results showed that the 
+method developed is a straightforward, sensitive, and 
+selective tool with good accuracy and reproducibility, 
+which can be readily utilized as a suitable method for 
+quality control of G. ulmifolia.
+Figure 1. Chromatograms of G. ulmifolia with different extract UV detection methods at 210 and 280 nm.
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae) J. Braz. Chem. Soc.1106
+Experimental
+Plant material
+Bark of Guazuma ulmifolia Lam., Sterculiaceae, was 
+collected in December 2004, in the city of Ibiporã, State 
+of Paraná, Brazil (S 23°18′15.2″; W 050°58′ 32.7″; 396 m 
+altitude; Garmin v.2.24). The species was identified by 
+Prof. Dr. Cássia Mônica Sakuragui. Voucher specimens are 
+deposited in the Herbarium of the Department of Biology 
+of the State University of Maringá under number HUM 
+10.491. This species occurs in the Amazonian region.
+Isolation and purification
+Air-dried stem bark (2000 g) was exhaustively 
+extracted with Me2CO-H2O (7:3; 20 L) by turbo-extraction 
+(Ultra-turrax UTC115KT; 20 min; t ≤ 40 °C), and the 
+combined extracts were filtered and evaporated under 
+reduced pressure to 1.0 L and lyophilized (229.6 g, CE). 
+Table 1. System suitability test results (n=12)
+Peak RSD of RT 
+(%)
+RSD of area 
+(%)
+Retention Factor 
+(k)
+Separation Factor 
+(a)
+Peak Resolution Plates Peak Asymmetry
+1 2.72 4.54 1.76 1.76 4.170 9329 2.07
+2 1.95 4.91 2.13 1.21 0.72 7320 0.68
+3 2.97 1.72 2.22 1.04 2.85 4447 1.88
+4 2.47 4.60 2.70 1.22 1.53 7706 1.86
+5 2.03 4.28 2.92 1.08 0.56 19335 0.33
+6 2.25 3.75 2.99 1.02 1.16 12357 1.01
+7 2.14 4.94 3.19 1.07 1.38 10462 1.09
+8 2.01 1.62 3.44 1.08 1.93 19282 1.12
+9 2.15 2.11 3.79 1.10 0.88 18695 1.12
+10 1.59 3.27 3.93 1.04 1.31 20501 1.55
+11 1.47 1.28 4.16 1.10 1.37 8643 0.59
+12 1.75 3.64 4.44 1.07 1.14 22725 1.19
+13 1.72 4.37 4.62 1.04 1.83 30473 1.00
+14 1.57 4.84 4.92 1.06 4.91 22312 1.14
+Reference ICH40 - - > 2 > 1 > 2 > 2000 ≤ 2
+Figure 2. Standardized chromatographic fingerprint. Column: Phenomenex Gemini RP C-18; flow rate: 0.8 mL min-1; detection: 210 nm; temperature: 28 °C.
+Lopes et al. 1107Vol. 20, No. 6, 2009
+200 g of this fraction was redissolved in 2.5 L H2O and 
+extracted with EtOAc (35 L). After evaporation of solvents, 
+the EtOAc fraction (GU) and the remaining H2O phase (GU-1) 
+gave dark-brown solids of 24 and 174 g, respectively. 
+A portion (19 g) of the GU fraction was subjected to CC 
+on Sephadex LH-20 [710×50 mm; eluents: 20% EtOH 
+(3.2 L), 30% EtOH (1.8 L), 40% EtOH (4.8 L), 50% 
+EtOH (3.9 L), 100% EtOH (1.6 L), 50% MeOH (2.3 L), 
+and 70% Me2CO (6 L); 10 mL fractions] afforded 29 
+fractions (indicated with Roman numerals). Fraction XII 
+(706 mg) was separated by MLCCC, with the solvent system 
+EtOAc-n-PrOH-H2O (35:2:2) on a P.C. Inc. ITO Multi-
+layer Coil Separator-Extractor, flow rate 1.0 mL min-1, 
+using the upper layer as mobile phase, giving rise to 
+5 subfractions. A portion of subfraction XII-4 (31 mg) 
+was acetylated and purified by preparative TLC to yield 
+the peracetate resulting in epigallocatechin (1.4 mg) and 
+ent-gallocatechin (2.2 mg) (these subfractions are indicated 
+below by ordinal numbers). Fraction XIII (376 mg) was 
+submitted to the MLCCC as mentioned above, giving rise 
+to 5 subfractions. A portion of subfraction XIII-1 (47.8 mg) 
+was acetylated and purified by preparative TLC to yield the 
+peracetate of 4’-O-methyl-epiafzelechin (2.2 mg) (9a). A 
+portion of subfraction XIII-2 (123.1 mg) was acetylated 
+and purified by preparative TLC to yield the peracetates of 
+ent-catechin (14.2 mg) and epicatechin (13.1 mg). Fraction 
+XIV (1156.5 mg) was separated on MLCCC as mentioned 
+above, giving 5 subfractions. Subfraction XIV-1 (8.1 mg) 
+was acetylated and purified by preparative TLC to yield 
+the peracetate of epicatechin-(4β→8)-epigallocatechin 
+(4.9 mg). Subfraction XIV-2 (198.1 mg) was acetylated 
+and yielded epiafzelechin-(4β→8)-epicatechin. Subfraction 
+XIV-3 (711.2 mg) was acetylated and yielded epicatechin-
+(4β→8)-epicatechin (PB2). A portion of subfraction XIV-4 
+(41 mg) was acetylated and purified by preparative TLC 
+to yield the peracetate of epicatechin-(4β→8)-catechin 
+(PB1) (4.8 mg).
+General
+1H NMR spectra were recorded in CDCl3 on a Varian 
+Mercury 300BB (300 MHz) and Varian Inova (500 MHz) at 
+ambient temperature with TMS as the internal standard. CD 
+data were obtained in MeOH on a Jasco J-815. Polarimetry 
+was measured with a Perkin-Elmer 241. An ESI-MS mass 
+spectrometer, Quattro LCZ from Waters, was used in the 
+positive-ion mode. Compounds were revealed by spraying 
+with vanillin-HCl reagent and 1% ethanolic FeCl3 solution 
+on TLC. Analytical TLC was carried out on precoated 
+aluminum sheets (Kieselgel 60 F254, 0.2 mm, Merck) 
+using EtOAc:HCOOH:H2O (90:5:5). Preparative TLC was 
+performed on silica-gel plates (Kieselgel 60 F254, 0.5 mm, 
+Merck) using toluene:Me2CO (60:40). Acetylation was 
+performed in pyridine-Ac2O (1:1.2) at ambient temperature 
+for 24 h.
+Compound identification
+ent-Catechin (1): ESI-MS m/z 313.1 [M+Na]+; 
+[a]D20 −20.1º (c 0.02, MeOH); 1H NMR (300 MHz; CDCl3): 
+d 1.25-2.30 (5xOAc, m); 2.66 [1H, dd, J 16.8, 6.6, H-4β 
+(C)]; 2.87 [1H, dd, J 16.8, 5.1, H-4a (C)]; 5.15 [1H, d, J 
+8.9, H-2 (C)]; 5.25 [1H, ddd, J 8.9, 6.6, 5.1, H-3 (C)]; 6.59 
+[1H, d, J 2.1, H-6 (A)]; 6.66 [1H, d, J 2.1, H-8 (A)]; 7.17 
+[1H, d, J 8.1, H-5’ (B)]; 7.28 [1H, dd, J 8.1, 2.1, H-6’ (B)]; 
+7.28 [1H, d, J 2.1, H-2’ (B)].
+Epicatechin (2): ESI-MS m/z 313.2 [M+Na]+; 
+[a]D20 −42º (c 0.004, MeOH); 1H NMR (300 MHz; CDCl3): 
+d 1.25-2.30 (5xOAc, m); 2.87 [1H, dd, J 17.7, 2.1, H-4β 
+(C)]; 2.98 [1H, dd, J 17.7, 4.2, H-4a (C)]; 5.11 [1H, s, 
+J < 1, H-2 (C)]; 5.39 [1H, m, J < 1, H-3 (C)]; 6.57 [1H, d, 
+J 2.1, H-6 (A)]; 6.67 [1H, d, J 2.1, H-8 (A)]; 7.20 [1H, d, 
+J 8.4, H-5’ (B)]; 7.27 [1H, dd, J 8.4, 1.8, H-6’ (B)]; 7.36 
+[1H, d, J 1.8, H-2’ (B)]. 
+ent-Gallocatechin (3): ESI-MS m/z 329.3 [M+Na]+; 
+[a]D20 −16.8º (c 0.005, MeOH); 1H NMR (300 MHz; CDCl3): 
+d 1.25-2.30 (6xOAc, m); 2.66 [1H, dd, J 16.8, 6.6, H-4β 
+(C)]; 2.91 [1H, dd, J 16.8, 5.1, H-4a (C)]; 5.12 [1H, d, J 
+6.3, H-2 (C)]; 5.21 [1H, ddd, J 6.6, 6.3, 5.1, H-3 (C)]; 6.60 
+[1H, d, J 2.1, H-6 (A)]; 6.66 [1H, d, J 2.1, H-8 (A)]; 7.12 
+[1H, s, H-2’/H-6’ (B)].
+Epigallocatechin (4): ESI-MS m/z 329.1 [M+Na]+; 
+[a]D20 −30º (c 0.02, MeOH); 1H NMR (300 MHz; CDCl3): d 
+1.25-2.30 (6xOAc, m); 2.89-3.04 [1H, m, H-4β (C)/H-4a 
+(C)]; 5.09 [1H, s, H-2 (C)]; 5.38 [1H, m, H-3 (C)]; 6.57 
+[1H, d, J 2.1, H-6 (A)]; 6.67 [1H, d, J 2.1, H-8 (A)]; 7.23 
+[1H, s, H-2/H-6’ (B)].
+Epiafzelechin-(4β→8)-epicatechin (5): ESI-MS 
+m/z 963.2 [M+Na]+; CD (MeOH): [Θ]240 = +13,000 
+[Θ]280 = −6,500; [a]D20 +12º (c 0.001, MeOH); 1H NMR 
+(500 MHz; CDCl3): d 1.25-2.30 (9xOAc, m); 2.87-2.91 
+[1H, m, H-4β (F)]; 2.87-2.91 [1H, m, H-4a (F)]; 4.57 
+[1H, s, H-2 (F)]; 4.44 [1H, d, H-4 (C)]; 5.17 [1H, m, 
+H-3 (F)]; 5.19 [1H, m, H-3 (C)]; 5.60 [1H, s, H-2 (C)]; 
+6.00 [1H, d, J 2.1, H-6 (A)]; 6.22 [1H, d, J 2.1, H-8 (A)]; 
+6.62 [1H, s, H-6 (D)]; 6.90-7.40- [2H, m, H2’/H5’/H6’ 
+(E)]; 7.42 [2H, d, J 8.7, H-2/H-6’ (B)]; 7.14 [2H, d, J 
+8.7, H-3/H-5’ (B)].
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae) J. Braz. Chem. Soc.1108
+Epicatechin-(4β→8)-catechin (PB1) (6): ESI-MS 
+[M+Na+]+ m/z 1021.5; [M-H+]− m/z 997.5; [a]D20 +2.2º 
+(c 0.002, MeOH); 1H NMR (300 MHz; CDCl3): d 1.25-
+2.33 (10xOAc, m); 2.56 [1H, dd, J 16.8, 9.3, H-4β (F)]; 
+3.21 [1H, dd, J 16.8, 6.6, H-4a (F)]; 4.42 [1H, s, H-4 (C)]; 
+4.33 [1H, d, J 9.9, H-2 (F)]; 5.05 [1H, ddd, J 9.9, 9.3, 6.6, 
+H-3 (F)]; 5.15 [1H, m, H-3 (C)]; 5.45 [1H, s, H-2 (C)]; 
+5.99 [1H, d, J 2.1, H-6 (A)]; 6.29 [1H, d, J 2.1, H-8 (A)]; 
+6.68 [1H, s, H-6 (D)]; 7.16 [1H, d, J 8.4, H-5 (B)]; 
+7.25 [1H, dd, J 8.4, 1.8, H-6’ (B)]; 6.88 [1H, d, J 1.8, H-2’ 
+(B)]; 6.95 [1H, d, J 8.4, H-5’ (E)].
+Epicatechin-(4β→8)-epicatechin (PB2) (7): ESI-MS 
+[M+Na+]+ m/z 1021.5; [M–H+]− m/z 997.5; [a]D20 +4.5º 
+(c 0.002, MeOH); 1H NMR (500 MHz; CDCl3): d 1.25-2.33 
+(10xOAc, m); 2.79-2.97 [1H, m, H-4β (F)/H-4a (F)]; 4.42 
+[1H, s, H-4 (C)]; 4.51 [1H, s, H-2 (F)]; 5.07 [1H, m, H-3 
+(F)]; 5.13 [1H, m, H-3 (C)]; 5.54 [1H, s, H-2 (C)]; 5.95 [1H, 
+d, J 1.5, H-6 (A)]; 6.19 [1H, d, J 1.5, H-8 (A)]; 6.62 [1H, 
+s, H-6 (D)]; 6.85 [1H, dd, J 8.5, 2.0, H-6’ (E)]; 6.98 [1H, 
+d, J 2.0, H-2’ (E)]; 6.99 [1H, d, J 8.5, H-5’ (E)]; 7.14 [1H, 
+d, J 8.5, H-5’ (B)]; 7.32 [1H, d, J 2.0, H-2’ (B)].
+Epicatechin-(4β→8)-epigallocatechin (8): ESI-MS 
+[M+Na+]+ m/z 1079.4; [M-H+]− m/z 997.5; [a]D20 +22º 
+(c 0.002, MeOH); 1H NMR (300 MHz; CDCl3): d 1.25-2.33 
+(11xOAc, m); 2.90 [1H, m, H-4β (F)/H-4a (F)]; 4.47 [1H, m, 
+H-4 (C)]; 4.51 [1H, s, H-2 (F)]; 5.10 [1H, m, H-3 (F)]; 5.14 
+[1H, m, H-3 (C)]; 5.57 [1H, s, H-2 (C)]; 6.06 [1H, d, J 2.4, 
+H-6 (A)]; 6.25 [1H, d, J 2.4, H-8 (A)]; 6.65 [1H, s, H-6 (D)]; 
+7.36 [1H, d, J 1.8, H-2’ (B)]; 7.17 [1H, d, J 8.4, H-5’ (B)]; 
+7.25 [1H, dd, J 8.4, 1.8, H-6’ (B)]; 6.89 [1H, s, H-2/H-6’ (E)].
+4´-O-Methyl-epiafzelechin (9a): ESI-MS m/z 437.5 
+[M+Na]+; CD (MeOH): [Θ]240 = +13,000 and [Θ]280 = −8,800; 
+[a]D20 +22º (c 0.002, MeOH); 1H NMR (300 MHz; CDCl3): 
+d 1.25-2.30 (3xOAc, m); 2.87 [1H, dd, J 17.7, 2.1, H-4β 
+(C)]; 2.98 [1H, dd, J 17.7, 4.2, H-4a (C)]; 5.11 [1H, s, 
+J < 1, H-2 (C)]; 5.39 [1H, m, J < 1, H-3 (C)]; 6.57 [1H, 
+d, J 2.1, H-6 (A)]; 6.67 [1H, d, J 2.1, H-8 (A)]; 7.20 [1H, 
+d, J 8.4, H-5’ (B)]; 7.27 [1H, dd, J 8.4, 1.8, H-6’ (B)]; 
+7.36 [1H, d, J 1.8, H-2’ (B)].
+HPLC characterization
+Chemicals and reagents
+All reagents and solvents were analytical or HPLC 
+grade, including the ethyl acetate and trifluoroacetic acid 
+(TFA) (Merck, Germany). Ultra-pure water obtained using 
+a Milli-Q UF-Plus apparatus (Millipore, USA) was used 
+in all experiments.
+Instrumentation and chromatographic conditions
+The analyses were carried out using a HPLC system 
+(Gilson, USA) consisting of a solvent delivery pump (Model 
+321), a variable wavelength UV/Vis detector (Model 156), 
+a manual injection valve (Rheodyne, USA) with a 20 µL 
+loop, degasser (Model 184), and a thermostatted column 
+compartment (Model 831). Data collection and analyses 
+were performed using UniPoint LC System Software 
+(Gilson, France). Gradient elution was performed on a 
+Phenomenex Gemini RP C-18 column (250 mm x 4.6 mm) 
+(Phenomenex International, USA), 5 µm particle size 
+with a Phenomenex SecurityGuard (RP C-18 cartridge) 
+(20 mm x 4.6 mm). The mobile phase consisted of water 
+(0.05% TFA) as solvent A and acetonitrile (0.05% TFA) as 
+solvent B, and both were degassed and filtered through a 
+0.45 µm pore-size filter (Millipore, USA). Separations were 
+effected by a linear gradient as follows: 0 min 13% B; 10 min 
+17% B; 16 min 19.35% B; 20 min 22.65% B; 23 min 29.81% 
+B; 25 min 65% B; 28 min 13% B; and 32 min 13% B. The 
+mobile-phase flow rate was 0.8 mL min-1 and the injection 
+volume was 100 µL. The chromatographic runs were carried 
+out at 28 °C. UV detection was performed at 210 nm.
+For the determination of peak purity, the Varian ProStar 
+module (Varian, USA) with ProStar 210 Solvent Delivery 
+and a ProStar 335 HPLC-DAD was used.
+Sample preparation and purification
+An accurately weighed portion of 50 mg of the CE was 
+dissolved in 500 µL water, mixed in a tube shaker, and 
+extracted with 500 µL ethyl acetate, in a microtiter shaker 
+at 1800 rpm (IKA, MS1 Minishaker) for 3 min (n=6). The 
+tubes were then placed in a refrigerated microcentrifuge 
+(Eppendorf, Centrifuge 5415R), at 4,000 rpm, for the 
+total separation of the phases, for 4 min at 5 °C. The ethyl 
+acetate phase was separated. After evaporation of solvents, 
+and drying under air flow, the residue was reconstituted to 
+10 mL with methanol:water (1:1; v/v) (Solution test–SS). 
+The sample was filtered through a 0.5 µm membrane 
+filter (Millipore, USA). The sample injection volume was 
+100 µL.
+Acknowledgements
+The authors are grateful for financial support from 
+CAPES, FINEP and CNPq. We gratefully acknowledge the 
+recording of NMR spectra by Dr. Ivânia Terezinha Albrecht 
+Schuquel (Department of Chemistry, State University of 
+Maringá). Dr. Heinrich Luftmann (Institute of Organic 
+Chemistry, Münster, Germany) recorded the ESI-mass 
+spectra. We are also grateful to Dr. Janet W. Reid for 
+revising the English text.
+Lopes et al. 1109Vol. 20, No. 6, 2009
+Supplementary Information
+NMR spectral data of compounds 1-9 are available free 
+of charge at http://jbcs.sbq.org.br, as PDF file.
+References
+ 1. Becker, B. K.; Estud. av. 2005, 19, 71.
+ 2. Begossi, A.; Econ. Bot. 1996, 50, 280.
+ 3. Lévêque, C.; A Biodiversidade, 1a ed., EDUSC: São Paulo, 
+Brasil, 1999.
+ 4. Arruda, A. C.; T&C Amazon. 2008, 14, 23.
+ 5. Macari, P. A. T.; Portela, C. N.; Pohlit, A. M.; Acta Amaz. 2006, 
+36, 513.
+ 6. Veiga Junior, V. F.; Andrade Junior, M. A.; Ferraz, I. D. K.; 
+Christo, H. B.; Pinto, A. C.; Acta Amaz. 2007, 37, 123.
+ 7. Yamaguti-Sasaki, E.; Ito, L. A.; Canteli, V. C. D.; Ushirobira, 
+T. M. A.; Ueda-Nakamura, T.; Dias Filho, B. P.; Nakamura, C. 
+V.; Mello, J. C. P.; Molecules 2007, 12, 1950.
+ 8. Veiga Junior, V. F.; Rosas, E. C.; Carvalho, M. V.; Henriques, M. 
+G. M. O.; Pinto, A. C.; J. Ethnopharmacol. 2007, 112, 248.
+ 9. Mendes, F. R.; Carlini, E. A.; J. Ethnopharmacol. 2007, 109, 
+493.
+ 10. Barbosa, J. M.; Macedo, A. C.; Instituto de Botânica e Fundação 
+Florestal, São Paulo, Brasil, 1993, p. 125.
+ 11. Lorenzi, H.; Árvores Brasileiras: Manual de Identificação 
+e Cultivo de Plantas Arbóreas Nativas do Brasil, Instituto 
+Plantarum, Nova Odessa, São Paulo, Brasil, 1992.
+ 12. Rodrigues, E.; J. Ethnopharmacol. 2007, 111, 295.
+ 13. Cáceres, A.; Giron, L. M.; Martinez, A. M.; J. Ethnopharmacol. 
+1987, 19, 233.
+ 14. Cáceres, A.; Cano, O.; Samayoa, B.;  Aguilar,  L.; 
+J. Ethnopharmacol. 1990, 30, 55.
+ 15. Cáceres, A.; Torres, M. F.; Ortiz, S.; Cano, F.; Jauregui, E.; 
+J. Ethnopharmacol. 1993, 39, 77.
+ 16. Weniger, B.; Rouzier, M.; Daguilh, R.; Henrys, D.; Henrys, J. 
+H.; Anton, R.; J. Ethnopharmacol. 1986, 17, 13.
+ 17. Domínguez, X. A.; Alcorn, J. B.; J. Ethnopharmacol. 1985, 13, 
+139. 
+ 18. Heinrich, M.; Rimpler, H.; Barrera, N. A.; J. Ethnopharmacol. 
+1992, 36, 63.
+ 19. Heinrich, M.; Curr. Top. Med. Chem. 2003, 3, 141.
+ 20. Camporese, A.; Balick, M. J.; Arvigo, R.; Esposito, R. G.; 
+Morsellino, N.; De Simone, F.; Tubaro, A.; J. Ethnopharmacol. 
+2003, 87, 103.
+ 21. Hör, M.; Heinrich, M.; Rimpler, H.; Phytochemistry 1996, 42, 
+109.
+ 22. Seigler, D. S.; Pauli, G. F.; Fröhlich, R.; Wegelius, E.; Nahrstedt, 
+A.; Glander, K. E.; Ebinger, J. E.; Phytochemistry 2005, 66, 
+1567.
+ 23. Alarcon-Aguilara, F. J.; Romam-Ramos, R.; Perez-Gutierrez, S.; 
+Aguilar-Contreras, A.; Contreras-Weber, C. C.; Flores-Saenz, 
+J. L.; J. Ethnopharmacol. 1998, 61, 101.
+ 24. Caballero-George, C.; Vanderheyden, P. A.; De Bruyne, T.; 
+Shahat, A. A.; Van Den Heuvel, H.; Solis, P. N.; Gupta, M. P.; 
+Claeys, M.; Pieters, L.; Vauqueli, G.; Vlietinck, A. J.; Planta 
+Med. 2002, 68, 1066.
+ 25. Hör, M.; Rimpler, H.; Heinrich, M.; Planta Med. 1995, 61, 
+208.
+ 26. Berenguer, B.; Trabadela, C.; Sánchez-Fidalgo, S.; Quílez, 
+A.; Miño, P.; De la Puerta, R.; Martín-Calero, M. J.; 
+J. Ethnopharmacol. 2007, 114, 153.
+ 27. Navarro, M. C.; Montilla, M. P.; Cabo, M. M.; Galisteo, M.; 
+Cáceres, A.; Morales, C.; Berger, I.; Phytother. Res. 2003, 17, 
+325.
+ 28. Felipe, A. M. M.; Rincão, V. P.; Benati, F. J.; Linhares, R. E.; 
+Galina, K. J.; Toledo, C. E. M.; Lopes, G. C.; Mello, J. C. P.; 
+Nozawa, C.; Biol. Pharm. Bull. 2006, 29, 1092.
+ 29. Weinges, K.; Göritz, K.; Nader, F.; Liebigs Ann. Chem. 1968, 
+715, 164.
+ 30. Thompson, R. S.; Jacques, D.; Haslam, E.; Tanner, R. J. N.; 
+J. Chem. Soc. Perkin Trans. I 1972, 1387.
+ 31. Fletcher, A. C.; Porter, L. J.; Haslam, E.; Gupta, R. K.; J. Chem. 
+Soc. Perkin Trans. I 1977, 1628.
+ 32. Kolodziej, H.; Phytochemistry 1986, 25, 1209.
+ 33. Kolodziej, H.; Farm. Tijdschr. Belg. 1989, 66, 44.
+ 34. Outtrup, H.; Schaumburg, K.; Carlsberg Res. Commun. 1981, 
+46, 3.
+ 35. Petereit, F.; Kolodziej, H.; Nahrstedt, A.; Phytochemistry 1991, 
+30, 981.
+ 36. Mello, J. C. P.; Petereit, F.; Nahrstedt, A.; Phytochemistry 1996, 
+41, 807.
+ 37. Foo, L. Y.; Lu, Y.; Howell, A. B.; Vorsa, N.; Phytochemistry 
+2000, 54, 173.
+ 38. Dalluge, J. J.; Nelson, B. C.; Thomas, J. B.; Sander, L. C.; 
+J. Chromatogr. A 1998, 793, 265.
+ 39. Zhu, Q. Y.; Zhang, A.; Tsang, D.; Huang, Y.; Chen, Y. Z.; 
+J. Agric. Food Chem. 1997, 45, 4624.
+ 40. ICH. Analytical Validation Q2(R1), 2005. http://www.ich.org, 
+accessed in June 2007.
+Received: February 3, 2009
+Web Release Date: June 26, 2009
+Supplem
+entary Inform
+ation
+J. Braz. Chem. Soc., Vol. 20, No. 6, S1-S5, 2009.
+Printed in Brazil - ©2009  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: mello@uem.br
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae)
+Gisely C. Lopes,a Juliana C. B. Rocha,a Glalber C. de Almeidab and João C. P. de Mello*,a
+aPrograma de Pós-graduação em Ciências Farmacêuticas, Universidade Estadual de Maringá, 
+Av. Colombo, 5790, 87020-900 Maringá-PR, Brazil
+bAcadêmico de Farmácia, Universidade Estadual de Maringá, Av. Colombo, 5790, 87020-900 Maringá-PR, Brazil
+Figure S1. 1H NMR spectrum of ent-catechin.
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae) J. Braz. Chem. Soc.S2
+Figure S2. 1H NMR spectrum of epicatechin.
+Figure S3. 1H NMR spectrum of ent-gallocatechin.
+Lopes et al. S3Vol. 20, No. 6, 2009
+Figure S4. 1H NMR spectrum of epigallocatechin.
+Figure S5. 1H NMR spectrum of epiafzelechin-(4β→8)-epicatechin.
+Condensed Tannins from the Bark of Guazuma ulmifolia Lam. (Sterculiaceae) J. Braz. Chem. Soc.S4
+Figure S6. 1H NMR spectrum of epicatechin-(4β→8)-catechin.
+Figure S7. 1H NMR spectrum of epicatechin-(4β→8)-epicatechin.
+Lopes et al. S5Vol. 20, No. 6, 2009
+Figure S8. 1H NMR spectrum of epicatechin-(4β→8)-epigallocatechin.
+Figure S9. 1H NMR spectrum of 4'-O-methyl-epiafzelechin.

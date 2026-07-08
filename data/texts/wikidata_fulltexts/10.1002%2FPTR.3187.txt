@@ -1,0 +1,2037 @@
+HAL Id: hal-00589443
+https://hal.archives-ouvertes.fr/hal-00589443
+Submitted on 29 Apr 2011
+HAL is a multi-disciplinary open access
+archive for the deposit and dissemination of sci-
+entific research documents, whether they are pub-
+lished or not. The documents may come from
+teaching and research institutions in France or
+abroad, or from public or private research centers.
+L’archive ouverte pluridisciplinaire HAL, est
+destinée au dépôt et à la diffusion de documents
+scientifiques de niveau recherche, publiés ou non,
+émanant des établissements d’enseignement et de
+recherche français ou étrangers, des laboratoires
+publics ou privés.
+Bioactivity-guided isolation of antiproliferative
+compounds from Centaurea arenaria
+Bence Csapi, Zsuzsanna Hajdú, Istvan Zupko, Ágnes Berényi, Peter Forgo,
+Pál Tam’S Szabó, Judit Hohmann
+To cite this version:
+Bence Csapi, Zsuzsanna Hajdú, Istvan Zupko, Ágnes Berényi, Peter Forgo, et al.. Bioactivity-guided
+isolation of antiproliferative compounds from Centaurea arenaria. Phytotherapy Research, Wiley,
+2010, 24 (11), pp.1664. ￿10.1002/ptr.3187￿. ￿hal-00589443￿
+For Peer Review
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bioactivity-guided isolation of antiproliferative compounds 
+from Centaurea arenaria 
+ 
+ 
+Journal: Phytotherapy Research 
+Manuscript ID: PTR-09-1223.R1 
+Wiley - Manuscript type: Full Paper 
+Date Submitted by the 
+Author: 
+15-Mar-2010 
+Complete List of Authors: Csapi, Bence; University of Szeged, Department of Pharmacognosy 
+Hajdú, Zsuzsanna; University of Szeged, Department of 
+Pharmacognosy 
+Zupko, Istvan; University of Szeged, Department of 
+Pharmacodynamics and Biopharmacy 
+Berényi, Ágnes; University of Szeged, Department of 
+Pharmacodynamics and Biopharmacy 
+Forgo, Peter; University of Szeged, Department of Pharmacognosy 
+Szabó, Pál; Chemical Research Centre, Hungarian Academy of 
+Sciences, Institute of Chemistry 
+Hohmann, Judit; University of Szeged, Dept. of Pharmacognosy 
+Keyword: 
+Centaurea arenaria, Asteraceae, lignans, flavonoids, feruloyl-
+serotonin, antiproliferative activity 
+  
+ 
+ 
+ 
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+For Peer Review
+ 
+ 
+ 
+Bioactivity-guided isolation of antiproliferative compounds from 
+Centaurea arenaria 
+ 
+Antiproliferative compounds from Centaurea arenaria  
+ 
+Bence Csapi,a Zsuzsanna Hajdú,a István Zupkó,b Ágnes Berényi,b Peter Forgo,a Pál 
+Szabó,c Judit Hohmanna,* 
+ 
+a Department of Pharmacognosy, University of Szeged, Eötvös u. 6, H-6720 Szeged, 
+Hungary 
+b Department of Pharmacodynamics and Biopharmacy, University of Szeged, Eötvös u. 
+6, H-6720 Szeged, Hungary  
+c Institute of Chemistry, Chemical Research Centre, Hungarian Academy of Sciences, 
+H-1525 Budapest, Hungary 
+ 
+                                                 
+*
+ Corresponding author. Tel.: +36 62 546453; fax: +36 62 545704.  
+  E-mail: hohmann@pharm.u-szeged.hu (J. Hohmann) 
+Page 1 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 1 
+Abstract 
+The antiproliferative effects of n-hexane, chloroform and aqueous methanol extracts 
+prepared from the whole plant of Centaurea arenaria M.B. ex Willd. were investigated 
+against cervix adenocarcinoma (HeLa), breast adenocarcinoma (MCF7) and skin 
+epidermoid carcinoma (A431) cells, using the MTT assay. The chloroform extract 
+displayed high tumour cell proliferation inhibitory activity (higher than 85% at 10 
+µg/ml concentration), and was therefore subjected to a bioassay-guided multistep 
+separation procedure. Flavonoids (eupatilin, eupatorin, 3’-methyleupatorin, apigenin 
+and isokaempferid), lignans (arctigenin, arctiin and matairesinol), the sesquiterpene 
+cnicin, serotonin conjugates (moschamine and cis-moschamine), β-amyrin and β-
+sitosterin-β-D-glycopyranoside, identified by means of UV, MS and NMR 
+spectroscopy, were obtained for the first time from this species. The isolated 
+compounds were also evaluated for their tumour cell growth inhibitory activites on 
+HeLa, MCF7 and A431 cells, and different types of secondary metabolites were found 
+to be responsible for the antitumour effects of the extracts; in addition to moderately 
+active compounds (isokaempferid and moschamine), especially apigenin, eupatorin, 
+arctigenin, arctiin, matairesinol and cnicin exert marked antitumour effects against these 
+cell lines. 
+ 
+Keywords: Centaurea arenaria; Asteraceae; lignans; flavonoids; feruloyl-serotonin; antiproliferative 
+activity  
+ 
+Page 2 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 2 
+INTRODUCTION 
+ 
+Due to the ever-increasing number of tumourous diseases, there is a great need 
+worldwide to develop new drugs with antitumour activity, either by synthetizing new 
+molecules or through isolation from plants. Since the majority of drugs used in 
+anticancer therapy are isolated from plants, or are modifications of natural molecules, or 
+designed on templates of natural origin, it is crucial to maintain the search for plants 
+with antitumour activity (Cragg et al., 2009). 
+As part of our ongoing research into antiproliferative compounds from 
+Hungarian species of Asteraceae family, extracts of several Centaurea species (C. 
+biebersteini, C. jacea and C. spinulosa) native to Middle and Eastern Europe were 
+earlier tested against human tumour cell lines (Csupor-Löffler et al., 2009). High cell 
+proliferation inhibitory activity was recorded for many extracts, which drew our 
+attention to the investigation of other, not well-known species of the Centaurea genus. 
+The aim of the present study was an investigation of the antiproliferative effects of 
+active compounds in C. arenaria M.B. ex Willd. 
+ The genus Centaurea from the tribe Cynereae comprises about 500 species, and 
+has been the object of numerous chemical studies, leading to the isolation of acetylenes, 
+sesquiterpene lactones, flavonoids and lignans as the main characteristic secondary 
+metabolites (Hegnauer 1989). C. arenaria M.B. ex Willd. is a 30-120 cm high biennial 
+or perennial herb, mostly found on sandy ground, indigenous to Middle-eastern and 
+South-eastern Europe. Previous investigations revealed the toxicity of the methanol 
+extract of C. arenaria in the brine shrimp lethality test (Janackovic et al., 2008), but 
+without the identification of any compound. With the aim of determining the potency of 
+Page 3 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 3 
+the plant extracts against human tumour cells, the n-hexane, chloroform and aqueous 
+MeOH extracts were assayed in vitro on cervix epithelial adenocarcinoma (HeLa), 
+breast epithelial adenocarcinoma (MCF7) and skin epidermoid carcinoma (A431) cell 
+lines. The most active CHCl3 extract was subjected to detailed phytochemical study 
+with guidance of antiproliferative assays. The flavonoids eupatilin (1), eupatorin (2) and 
+apigenin (4), the sesquiterpene cnicin (6), and the lignans arctigenin (7), arctiin (8) and 
+matairesinol (9) were obtained as antitumour constituents of the active fractions. The 
+preparative work also resulted in the isolation of 3’-methyleupatorin (3), isokaempferid 
+(5), moschamine (11), cis-moschamine (12), β-amyrin (13) and β-sitosterin-β-D-
+glycopyranoside (14), which proved to be inactive or exerted only a limited effects 
+against the tested tumour cells.  
+ 
+MATERIALS AND METHODS 
+ 
+General. Melting points are uncorrected. Optical rotation was determined with a 
+Perkin-Elmer 341 polarimeter. UV spectra were recorded in MeOH on a Shimadzu UV-
+2101 PC UV-VIS spectrophotometer. NMR spectra on solutions in CDCl3 were 
+recorded on a Bruker Avance DRX 500 spectrometer at 500 MHz (1H) or 125 MHz 
+(13C); the signals of the deuterated solvent were taken as reference (7.26 ppm in 1H-
+NMR, and 77.0 ppm in 13C-NMR). Two-dimensional (2D) experiments (1H,1H-COSY, 
+HSQC, HMBC and NOESY) were set up, performed and processed with the standard 
+Bruker protocol. Silica gel plates were applied for analytical and preparative TLC 
+(Merck 5717 and 5715). ESIMS was performed on an Applied Biosystems 3200 QTrap 
+instrument in ion trap mode. For vacuum liquid chromatography (VLC), SiO2 (Silica 
+Page 4 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 4 
+gel 60G, 15 µm, Merck 11677) was applied. Centrifugal planar chromatography (CPC) 
+was performed with a Chromatotron instrument (Model 8924, Harrison Research) on 
+manually prepared SiO2 (Silica gel 60GF254, Merck 7730) plates of 2 and 4 mm 
+thickness, at a flow rate of 4 and 10 ml/min, respectively. Preparative layer 
+chromatography (PLC) was carried out on SiO2 plates (20×20 cm Silica gel 60F254, 
+Merck 5715). Separation was monitored in UV light at 254 nm. HPLC was carried out 
+on a Waters instrument on a LiChrospher RP-18 (5 µm, 250 x 4 mm, Merck) column.  
+ 
+Plant material. C. arenaria was gathered in August 2006 in Budapest-Rákosrendezı, 
+Hungary, and was identified by Dr. Tamás Rédei (Hungarian Academy of Sciences, 
+Institute of Ecology and Botany, Vácrátót, Hungary). A voucher specimen (No. 761) 
+has been deposited at the Department of Pharmacognosy, University of Szeged. 
+ 
+Extraction and isolation. Extracts for the preliminary assay were prepared from 10 g 
+air-dried, ground plant material with 3x100 ml MeOH, using an ultrasonic bed. After 
+filtration and evaporation, the residue was dissolved in 50 ml 50% aqueous MeOH, and 
+subjected to solvent-solvent partition between n-hexane (3x50 ml) and CHCl3 (3x50 
+ml), affording extracts with the yields presented in Table 1.  
+Dried and ground C. arenaria (3 kg) was extracted with 5 1 MeOH for the 
+isolation of the pure compounds. The concentrated extract was dissolved in 2 l 50% 
+aqueous MeOH, and extracted first with 3×2 l n-hexane, and then with 3×2 l CHCl3. 
+After evaporation, the CHCl3 phase (33.13 g) was fractionated by CC on silica gel, 
+using a gradient system of cyclohexane/EtOAc/MeOH [1:0:0 (600 ml), 95:5:0 (5400 
+ml), 9:1:0 (16800 ml), 85:15:0 (6300 ml), 75:25 (6600 ml), 6:4:0 (2700 ml), 5:5:0 (6000 
+Page 5 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 5 
+ml), 5:5:0.5 (9000 ml), 5:5:1 (10800 ml), 5:5:2 (5400 ml), 1:1:1 (4500 ml), 0:1:1 (2400 
+ml), 0:1:4 (45000 ml) and 0:0:1 (10200 ml)]. Fractions with similar compositions 
+according to TLC monitoring were combined, affording fractions F1-F36, which were 
+tested for their antiproliferative effects. From the marginally active fraction F6, eluted 
+with cyclohexane/EtOAc 9:1, β-amyrin (13) (7.0 mg) was crystallized. Crystallization 
+of fractions F21 and F22, which were eluted with cyclohexane/EtOAc 75:25, resulted in 
+the isolation of apigenin (2) (36.2 mg) and 3’-methyleupatorin (3) (48.5 mg). In the 
+bioassay, F21 exhibited a pronounced growth inhibitory effect (67.9%) against HeLa 
+cells.  
+Fractions F25, F26 (eluted with n-hexane/EtOAc 3:2) and F28 (eluted with n-
+hexane/EtOAc 1:1) were found to exert marked antiproliferative activity, and were 
+analysed in detail. All of these fractions were separated by OCC on polyamide, using a 
+gradient system of MeOH/H2O (1:4, 2:3, 3:2, 4:1, 1:0). The material obtained from the 
+chromatography of F25 [cell proliferation inhibition 37.6% (A431), 4.0% (MCF7) and 
+55.7% (HeLa)] with MeOH/H2O 3:2 was further fractionated by preparative TLC on 
+silica gel, using a mobile phase of CHCl3/MeOH 24:1, which led to the isolation of 
+isokaempferid (5) (15.2 mg).  
+ Fractions F26/3 and F26/4, obtained by polyamide CC of F26 [cell proliferation 
+inhibition 61.5% (A431), 41.3% (MCF7) and 76.2% (HeLa)] with MeOH/H2O 1:4 and 
+2:3, respectively, were purified by preparative TLC, using n-hexane/CHCl3/MeOH 
+5:4:2 as developing system on silica gel, resulting in the isolation of arctigenin (7) (69.5 
+mg) and, after preparative TLC purification (silica gel, cyclohexane/CHCl3/MeOH 
+5:4:2), matairesinol (9) (31.3 mg). From fraction F26/5, eluted with MeOH/H2O 3:2, 
+pure eupatilin (1) was crystallized (8.1 mg).  
+Page 6 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 6 
+The subfraction obtained from the active fraction F28 [cell proliferation 
+inhibition 76.4% (A431), 44.8% (MCF7) and 42.0% (HeLa)] with MeOH/H2O 3:2 was 
+chromatographed by preparative TLC with the solvent system CHCl3/MeOH 49:1, 
+resulting in the isolation of eupatorin (4) (30.1 mg). 
+ Fraction F30, which was eluted with cyclohexane/EtOAc/MeOH 10:10:1, and 
+which exerted cell proliferation inhibition of 33.2% on A431, 34.5% on MCF7 and 
+26.5% on HeLa cells,  was separated by VLC on silica gel with a gradient system of 
+CHCl3/MeOH into 8 subfractions. Subfraction 2, obtained with CHCl3 and 
+CHCl3/MeOH 99:1, was purified on RP-TLC with MeOH/H2O 7:3 as eluent, yielding 
+(±)-syringaresinol (10) (2.3 mg). 
+ Analogous VLC of fraction F31 [cell proliferation inhibition of 23.8% (A431), 
+35.8% (MCF7) and 21.7% (HeLa)] yielded 10 subfractions, of which subfraction 6 was 
+separated by CPC with a gradient system of n-hexane/acetone 3:2, 5:5 and 2:3, to give 
+cnicin (6) (16.4 mg) and a subfraction, which, after preparative TLC (silica gel, solvent 
+system: CH2Cl2/MeOH 95:5), afforded a mixture of isomeric compounds. This mixture 
+was separated by RP-HPLC, using the mobile phase MeOH/H2O 9:11, to yield 
+moschamine (11) (17.9 mg) and cis-moschamine (12) (4.5 mg). Furthermore, 
+crystallization of fraction F31 before VLC chromatography resulted in the isolation of 
+β-sitosterin-β-D-glucopyranoside (14) (12.8 mg).  
+Fraction F33, eluted with cyclohexane/EtOAc/MeOH 5:5:1, exhibited good 
+activity against HeLa cells [cell proliferation inhibition 64.3% (HeLa), 16.8% (A431) 
+and 26.2% (MCF7)]. It was submitted to CPC, using a gradient system of 
+cyclohexane/EtOAc/MeOH; the subfraction eluted with cyclohexane/EtOAc/MeOH 
+Page 7 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 7 
+5:5:3 was rechromatographed by preparative TLC with CHCl3/MeOH 9:1, to give pure 
+arctiin (8) (42.0 mg). 
+ Eupatilin (1): a yellow powder; mp. 231-233 °C; UV and 1H-NMR: data 
+identical with those published by Gonzalez et al. (1988). 13C-NMR: Table 1. 
+Eupatorin (2): yellow crystals; mp. 184-190 °C; UV, 1H- and 13C-NMR data 
+identical with those published by Nagao et al. (2002). 
+3’-Methyleupatorin (3): yellow crystals; mp. 191-193 °C; UV and 1H-NMR: 
+data identical with those published by Nacer et al. (2006). 13C-NMR: Table 1. 
+ Apigenin (4): mp. 332-335 °C; identified by co-TLC with authentic sample, and 
+via 1H- and 13C-NMR spectroscopy. 
+Isokaempferid (5): yellow crystals; Mp. 259-266 °C; 1H-NMR data identical 
+with published data (Nakatani et al., 1991); 13C-NMR: Table 2. 
+Cnicin (6): white crystals; mp. 144-148 °C; 1H-NMR (500 MHz, CD3OD, δ 
+ppm): 5.10 (1H, m, H-1), 2.33 (1H, m, H-2a), 2.20 (1H, brd, J = 14.1 Hz, H-2b), 2.04 
+(1H, m, H-3a), 2.63 (1H, m, H-3b), 4.95 (1H, d, J = 9.5 Hz, H-5), 5.21 (1H, t, J = 9.5 
+Hz, H-6), 3.28 (1H, m, H-7), 5.10 (1H, m, H-8), 2.57 (1H, m, H-9a), 2.50 (1H, dd, J = 
+12.0 and 6.6 Hz, H-9b), 6.19 (1H, d, J = 2.7 Hz, H-13a), 5.81 (1H, d, J = 2.7 Hz, H-
+13b), 1.54 (3H, s, H-14), 4.26 (1H, d, J = 13.6 Hz, H-15a), 4.02 (1H, d, J = 13.6 Hz, H-
+15b), 4.52 dd (1H, dd, J = 5.9 and 3.7 Hz, H-3’), 3.72 (1H, dd, J = 11.3, 3.7 Hz, H-4’a), 
+3.49 (1H, dd, J = 11.3 and 6.1 Hz, H-4’b), 6.39 (1H, s, H-5’a), 6.09 (1H, s, H-5’b), 4.57 
+(1H, s, 4’-OH); 13C-NMR (125 MHz, CD3OD, δ ppm): 130.9 (C-1), 26.9 (C-2), 35.2 (C-
+3), 145.5 (C-4), 129.7 (C-5), 78.7 (C-6), 54.1 (C-7), 74.5 (C-8), 49.0 (C-9), 133.2 (C-
+10), 137.4 (C-11), 172.1 (C-12), 125.3 (C-13), 17.0 (C-14), 60.7 (C-15), 166.6 (C-1’), 
+142.3 (C-2’), 71.9 (C-3’), 66.7 (C-4’), 127.0 (C-5’). 
+Page 8 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 8 
+Arctigenin (7): an amorphous solid; 1H- and 13C-NMR data identical with those 
+published by Rahman et al. (1990). 
+Arctiin (8):  an amorphous solid; 1H-NMR (500 MHz, CDCl3, δ ppm): 6.48 (1H, 
+s, H-2), 6.59 (1H, s, H-2’), 6.74 (1H, d, J = 8.1 Hz, H-5), 6.90 (1H, d, J = 8.1 Hz, H-5’), 
+6.54 (1H, d, J = 8.2 Hz, H-6), 6.57 (1H, d, J = 8.2 Hz, H-6’), 2.81 (2H, m, H-7’), 4.10 
+(1H, t, J = 7.9 Hz, H-9’a), 3.69 (1H, dd, J = 8.9 and 2.0 Hz, H-9’b), 4.82 (1H, d, J = 6.3 
+Hz, H-1”), 3.82 – 3.38 (overlapped signals, H-2”–H-6”), 3.80 (3H, s, OCH3), 3.77 (3H, 
+s, OCH3), 3.65 (3H, s, OCH3); 13C-NMR: data identical with literature data (Rahman et 
+al., 1990). 
+Matairesinol (9): an amorphous solid; 1H- and 13C-NMR data identical with 
+those published by Rahman et al. (1990). 
+(±)-Syringaresinol (10): colourless needles; mp. 172-4 ºC; [α]D28 = -5 (c 0.1, 
+CHCl3); 1H- and 13C-NMR data identical with those previously published (Zhuang et 
+al., 1982; Min et al., 2006). ESIMS: m/z 418. 
+Moschamine (11): an amorphous solid; 1H- and 13C-NMR data in good 
+agreement with those published by Zhang et al. (1997). 
+cis-Moschamine (12): an amorphous solid; 1H- and 13C-NMR spectral data 
+identical to the published values (Sarker et al., 1997). 
+β-Amyrin (13): identified by co-TLC with an authentic sample, and via the 1H- 
+and 13C-NMR spectra. 
+β-Sitosterol-β-D-glucopyranoside (14): mp. 288-290 ºC, identified by co-TLC 
+with an authentic sample, and via the 1H and 13C-NMR spectra.  
+ 
+Page 9 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 9 
+Antiproliferative assays. Antiproliferative effects were measured in vitro on three 
+human cell lines (HeLa, MCF-7 and A431) with the MTT ([3-(4,5-dimethylthiazol-2-
+yl)-2,5-diphenyltetrazolium bromide]) assay (Mosmann, 1983). Briefly, a limited 
+number of human cancer cells (5000/well) were seeded onto a 96-well microplate and 
+became attached to the bottom of the well overnight. On the second day of the 
+procedure, the original medium was removed and 200 µl new medium containing the 
+test substances was added. After an incubation period of 72 hours, the living cells were 
+assayed by the addition of 20 µl 5 mg/ml MTT solution. MTT was converted by intact 
+mitochondrial reductase and precipitated as blue formazan crystals during a 4-hour 
+contact period. The medium was then removed and the precipitated crystals were 
+dissolved in 100 µl DMSO during a 60-minute period of shaking. Finally, the reduced 
+MTT was assayed at 545 nm using a microplate reader, wells with untreated cells being 
+taken as control. All in vitro experiments were carried out on two microplates with at 
+least 5 parallel wells. Doxorubicin and cisplatin were used as positive controls. Stock 
+solutions of 10 mg/ml of the tested compounds and extracts were prepared with DMSO. 
+The highest DMSO concentration (0.3%) of the medium did not have any significant 
+effect on cell proliferation. The dose-response curves of the compounds were fitted by 
+means of the computer program GraphPad Prism 4.0 (GraphPad Software, San Diego, 
+CA, USA), and IC50 values (the concentration at which the cell proliferation is 50% of 
+the untreated control) were calculated.  
+ 
+RESULTS AND DISCUSSION 
+ 
+Page 10 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 10 
+In a preliminary study, the antiproliferative effects of the extracts prepared from the 
+whole plant of C. arenaria were evaluated on the HeLa, A431 and MCF7 cell lines, 
+using the MTT assay. The dried plant material was extracted with MeOH, and this 
+extract was subjected to solvent–solvent partitioning, yielding n-hexane-, CHCl3- and 
+aqueous MeOH-soluble phases. The CHCl3 extract exerted substantial tumour cell 
+growth inhibitory activity at 10 µg/ml concentration against all three cell lines (Table 
+1), and accordingly it was selected for a detailed phytochemical-pharmacological 
+analysis in order to identify the antiproliferative constituents.  
+In the preparative experiment, C. arenaria was extracted by the same method, 
+and the effective CHCl3 extract was subjected to OCC using gradient elution. Fourteen 
+compounds (1-14) were isolated from the highly and moderate active fractions through 
+the use of VLC, CPC, preparative TLC and HPLC techniques. The compounds were 
+identified by means of UV, ESIMS and NMR spectroscopy (1H-NMR and JMOD) and 
+comparison of the spectral data with literature values. For compounds 1, 3, 5, 6 and 8, 
+2D NMR measurements (1H-1H COSY, NOESY, HSQC and HMBC) were also carried 
+out, which allowed complete 1H- and 13C-NMR assignments, and therefore the 
+supplementation of previously published data (see Table 2 and in the Materials and 
+Methods). 
+All isolated compounds were identified for the first time from C. arenaria, but 
+the compounds represent mainly the characteristic secondary metabolites of the genus. 
+Methoxylated flavones, such as eupatilin (1), eupatorin (2), 3’-methyleupatorin (3) and 
+apigenin (4) and a flavonol [isokaempferid (5)] were described previously from 
+different Centaurea species (Hegnauer 1989). Similarly, the germacranolide cnicin (6) 
+was detected in some Centaurea species (Tesevic et al., 2007). The 
+Page 11 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 11 
+dibenzylbutyrolactone-type lignans, such as arctigenin (7), arctiin (8) and matairesinol 
+(9), often occur in Centaurea species (Ferguson et al., 2003; Janackovic et al., 2004, 
+2008; Marco et al., 2005), but sesamin-type lignans [such as (+)-syringaresinol (10)] 
+were previously unknown in this genus. N-Feruloylserotonins (11 and 12) had been 
+found earlier only in two species of the genus (C. moschata and C. nigra) (Sarker et al. 
+1997; Kumarasamy et al., 2003); the serotonin conjugates were reported to accumulate 
+in the seeds. In agreement with Sarker’s group, we obtained a 1:2 mixture of cis and 
+trans isomers, and observed that, after successful RP-HPLC separation, the compounds 
+readily formed the mixture again. 
+The isolated compounds were evaluated for their inhibitory activity on HeLa, 
+MCF7 and A431 cells (Table 3), and it emerged that flavone, sesquiterpene and lignan-
+type compounds and a serotonin conjugate exerted pronounced concentration-dependent 
+effects. The highest activity was demonstrated by the lignan arctigenin (7), with IC50 
+values of 0.73 µM (HeLa), 3.47 µM (MCF7) and 4.47 µM (A431). Apigenin (4), cnicin 
+(6) and matairesinol (9) inhibited the proliferation of all three tumour cell lines 
+significantly. Arctiin (8) and eupatorin (2) were also active against the HeLa and A431 
+tumour cells. Eupatilin (1) and moschamine (11) exerted high or moderate potency 
+selectively against the A431 cell line. 
+The lignans exhibited an interesting character of activity, involving relatively 
+low calculated IC50 values, which were comparable to those of reference compounds 
+[arctigenin (7): Hela 0.271 µM, MCF7 3.47 µM and A431 4.47 µM; matairesinol (9): 
+HeLa 7.51 µM, MCF7 36.23 µM and A431 19.92 µM], and a limited maximal effect, 
+which was typically around 75% inhibition of the cell proliferation (Fig 1). 
+Isokaempferid (5) displayed unique activity: it caused a concentration-dependent 
+Page 12 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 12 
+inhibition of the cytotoxicity of the Hela cells, but increases in proliferation of the A431 
+and MCF7 cells (Fig 1). These results relate to cancerous cell lines and therefore do not 
+permit direct conclusions concerning normal cells. However, extracts prepared from 
+related Centaurea species have been reported to exert wound-healing activity, which 
+can be explained by a stimulation of normal epidermic tissue proliferation (Csupor et 
+al., 2009; Koca et al., 2009). The results allow the speculation that isokaempferid (5) 
+may play a crucial role in the advantageous action exerted by similar plants on tissue 
+regeneration. 
+In summary, our bioactivity-guided isolations led to the conclusion that the 
+strong inhibitory effect of the CHCl3 extract of C. arenaria on the proliferation of 
+cultured human tumour cell lines (HeLa, MCF7 and A431) may be attributed mainly to 
+flavones, lignans and sesquiterpenoids, other compounds [isokaempferid (5) and 
+moschamine (11)] exerting additional effects. 
+ 
+Acknowledgements  
+Financial support of the Hungarian Scientific Research Fund (grant OTKA K72771) 
+and the New Hungary Development Plan TÁMOP-4.2.2-08/1-2008-0013 are gratefully 
+acknowledged. The authors thank Dr. Tamás Rédei (Hungarian Academy of Sciences, 
+Institute of Ecology and Botany, Vácrátót, Hungary) for the identification of the plant 
+material.  
+ 
+Page 13 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 13 
+REFERENCES 
+ 
+Beutler JA, Hamel E, Vlietinck AJ, Haemers A, Rajan P, Roitman JN, Cardellina JH, 
+Boyd MR. 1998. Structure-activity requirements for flavone cytotoxicity and 
+binding to tubulin. J Med Chem 41: 2333-2338. 
+Cragg GM, Grothaus PG, Newman DJ. 2009. Impact of natural products on developing 
+new anticancer agents. Chem Rev 109: 3012-3043. 
+Csupor D, Blazsó G, Balogh Á, Hohmann J. 2009. In vivo investigation of the wound 
+healing effect of the traditional Hungarian medicinal plant Centaurea sadleriana. 
+Planta Med 75: 921.   
+Csupor-Löffler B, Hajdú Z, Zupkó I, Réthy B, Falkay G, Forgo P, Hohmann J. 2009. 
+Antiproliferative effect of flavonoids and sesquiterpenoids from Achillea 
+millefolium s.l. on cultured human tumour cell lines. Phytother Res 23: 672-676. 
+Ferguson CA, Nahar L, Finnie D, Kumarasamy Y, Reid R, Mir-Babayev NF, Sarker 
+SD. 2003. Centaurea scabiosa: a source of dibenzylbutyrolactone lignans. Biochem 
+Syst Ecol 31: 303-305. 
+Gonzalez AG, Herrera JR, Luis JG, Ravelo AG, Ferro EA. 1988. Terpenes and flavones 
+of Salvia cardiophylla. Phytochemistry 27: 1540-1541. 
+Hegnauer R. 1989. Chemotaxonomie der Pflanzen. VIII, Birkhäuser-Verlag: Basel 
+Boston Berlin.  
+Janackovic P, Tesevic V, Marin PD, Milosljevic S, Duletic-Lausevic S, Janackovic S, 
+Veljic M. 2008. Brine shrimp lethality bioassay of selected Centaurea L. species 
+(Asteraceae). Arch Biol Sci 60: 681-685. 
+Page 14 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 14 
+Janackovic P, Tesevic V, Milosavljevic S, Vajs V, Marin PD. 2004. Sesquiterpene 
+lactones, lignans and flavones of Centaurea affilis. Biochem Syst Ecol 32: 355-357. 
+Koca U, Süntar IP, Keles H, Yesilada E, Akkol EK. 2009. In vivo anti-inflammatory 
+and wound healing activities of Centaurea iberica Trev. ex Spreng. J 
+Ethnopharmacol 126: 551-556. 
+Kumarasamy Y, Middleton M, Reid RG, Nahar L, Sarker SD. 2003. Biological activity 
+of serotonin conjugates from the seeds of Centaurea nigra. Fitoterapia 74: 609-612. 
+Marco JA, Sanz-Cervera JF, Yuste A, Sancenón F, Carda M. 2005. Sesquiterpenes from 
+Centaurea aspera. Phytochemistry 66: 1644-1650. 
+Min YD, Choi SU, Lee KR. 2006. Aporphine alkaloids and their reversal activity of 
+multidrug resistance (MDR) from the stems and rhizomes of Sinomenium acutum. 
+Arch Pharm Res 29: 627-632. 
+Mosmann T. 1983. Rapid colorimetric assay for cellular growth and survival application 
+to proliferation and cytotoxicity assays. J Immunol Methods 65: 55-63. 
+Nacer A, Bernard A, Boustie J, Touzani R, Kabouche Z. 2006. Aglycone flavonoids of 
+Centaurea tougourensis from Algeria. Chem Nat Compd 42: 230-231. 
+Nagao T, Abe F, Kinjo J, Okabe H. 2002. Antiproliferative constituents in plants 10. 
+Flavones from the leaves of Lantana montevidensis Briq. and consideration of 
+structure-activity relationship. Bio. Pharm Bull 25: 875-879. 
+Nakatani N, Jitoe A, Masuda T, Yonemori S. 1991. Flavonoid constituents of Zingiber 
+zerumbet Smith. Agric Biol Chem 55: 455-460. 
+Rahman MMA, Dewick PM, Jackson DE, Lucas JA. 1990. Lignans of Forsythia 
+intermedia. Phytochemistry 29: 1971-1980. 
+Page 15 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 15 
+Réthy B, Zupkó I, Csupor-Löffler B, Hajdú Z, Máthé I, Hohmann J, Rédei T, Falkay G. 
+2007. Antiproliferative activity of the Hungarian Asteraceae species against human 
+cell lines. Part I. Phytother Res 21: 1200-1208. 
+Sarker SD, Savchenko T, Whiting P, Sik V, Binan LN. 1997. Moschamine, cis-
+moschamine, moschamindole and moschamindolol: Four novel indole alkaloids 
+from Centaurea moschata. Nat Prod Lett 9: 189-199. 
+Tesevic V, Milosavljevic S, Vajs V, Janackovic P, Dordevic I, Jadranin M, Vuckovic I. 
+2007. Quantitative analysis of sesquiterpene lactone cnicin in seven Centaurea 
+species wild-growing in Serbia and Montenegro using 1H-NMR spectroscopy. J 
+Serb Chem Soc 72: 1275-1280.  
+Zhang HL, Nagatsu A, Watanabe T, Sakakibara J, Okuyama H. 1997. Antioxidative 
+compounds isolated from safflower (Carthamus tinctorius L.) oil cake. Chem 
+Pharm Bull 45: 1910-1914. 
+Zhuang LG, Seligmann O, Jurcic K, Wagner H. 1982. Inhaltsstoffe von Daphne 
+tangutica, Planta Med 45: 172-176. 
+ 
+ 
+Page 16 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 16 
+Table 1. Antiproliferative effects and yields of the extracts from Centaurea 
+arenaria 
+Inhibition of cell proliferation at 10 µg/ml  
+Extract 
+Yield  
+(%) HeLa MCF-7 A-431 
+n-Hexane extract 0.24 24.97 8.33 -4.82 
+Chloroform extract 1.64 94.08 86.29 98.85 
+Aqueous methanolic extract 1.00 33.24 25.89 8.69 
+ 
+Page 17 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 17 
+Table 2. 13C-NMR data on eupatilin (1), 3’-methyleupatorin (3) and isokaempferid 
+(5) (125 MHz, δ ppm) 
+C 1a 3b  5c  
+2 163.4 164.0 158.5 
+3 103.3 104.5 139.4 
+4 182.2 182.6 n.d. 
+5 152.4+ 153.2 163.0 
+6 131.3 132.0 99.9 
+7 157.3 158.7 166.3 
+8 94.4 90.6 94.9 
+9 152.7+ 153.1 158.0 
+10 104.1 106.2 105.8 
+1’ 122.9 123.8 122.6 
+2’ 109.3 108.8 131.4 
+3’ 149.0 149.4 116.6 
+4’ 152.0 152.3 161.7 
+5’ 111.6 111.2 116.6 
+6’ 120.0 120.1 131.4 
+OCH3 60.0 60.9 60.5 
+ 55.8 56.3  
+ 55.7 56.1  
+  56.1  
+a DMSO-d6; c CDCl3; b MeOH-d4; + interchangeable assignments; n.d. not detected 
+Page 18 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 18 
+Table 3. Antiproliferative effects (IC50) of the isolated compounds on different 
+human tumour cell lines 
+ 
+Compound HeLa MCF7 A431 
+ µM µg/ml µM µg/ml µM µg/ml 
+eupatilin (1) inactive inactive 24.16 8.31 
+eupatorin (2)  29.79 9.89 inactive 52.50 17.43 
+3’-methyleupatorin (3) inactive inactive inactive 
+apigenin (4) 10.64 2.87 13.88 3.75 12.34 3.33 
+isokaempferid (5) 15.05 4.52 negative negative 
+cnicin (6) 34.50 13.04 16.84 6.37 17.86 6.75 
+arctigenin (7) 0.73 0.27 3.47 1.29 4.47 1.66 
+arctiin (8) 1.80 0.96 inactive 19.53 10.43 
+matairesinol (9) 7.51 2.69 36.23 12.97 19.92 7.13 
+ (±)-syringaresinol (10) inactive inactive inactive 
+moschamine (11) inactive inactive 58.54 20.61 
+cis-moschamine (12) inactive inactive inactive 
+β-amyrin (13) inactive inactive inactive 
+β-sitosterin-glucoside (14) inactive inactive inactive 
+doxorubicin 0.15 0.089 0.28 0.158 0.15 0.086 
+cisplatin 12.43 3.73 9.63 2.89 2.84 0.852 
+*Inactive indicates < 50% inhibition of cell proliferation at 75 µM. 
+Page 19 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 19 
+ 
+O
+OH
+H3CO
+R1O
+OCH3
+OR2
+O
+2
+3
+45
+6
+7
+8
+9
+10
+1'
+2'
+3'
+4'
+5'
+6'
+ 
+O
+OH
+HO
+OH
+O
+R
+  
+2
+3
+4 5
+6
+7
+8
+9
+10
+1' 2' 3'
+4'
+5'
+O
+O
+HO
+O
+O OH
+OH
+1
+14
+15 12
+1311
+ 
+  
+ 
+  R1 R2   R 
+1 H CH3      4 H         6 
+2 CH3 H      5 OCH3 
+3 CH3 CH3 
+ 
+ 
+ 
+2
+3
+4
+5
+6
+7
+8
+9
+1'
+2'
+3'
+4'
+5'
+6'
+7'
+8'
+9'
+1
+O
+OH
+H
+OR2
+H3CO
+H3CO
+R1O
+    
+O
+O
+H H
+HO
+H3CO
+OCH3
+OH
+OCH3
+OCH3
+ 
+ 
+  R1 R2 
+   7 CH3 H     10  
+   8 CH3  glu  
+   9  H H 
+ 
+ 
+ 
+   
+N
+H
+H
+N
+OH
+O
+OH
+OCH3
+       
+N
+H
+H
+N
+OH
+O
+HO
+H3CO
+ 
+ 
+11           12   
+ 
+Page 20 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+For Peer Review
+ 20 
+Hela
+-1.0 -0.5 0.0 0.5 1.0 1.5
+0
+25
+50
+75
+100
+Log concentration  ( µg/ml)
+In
+hi
+bi
+tio
+n
+ 
+(%
+) ±± ±±
+ 
+SE
+M
+MCF7
+-1.0 -0.5 0.0 0.5 1.0 1.5
+-50
+-25
+0
+25
+50
+75
+100
+Log concentration  ( µg/ml)
+In
+hi
+bi
+tio
+n
+ 
+(%
+) ±± ±±
+ 
+SE
+M
+A431
+-1.0 -0.5 0.0 0.5 1.0 1.5
+-50
+-25
+0
+25
+50
+75
+100
+Log concentration  ( µg/ml)
+In
+hi
+bi
+tio
+n
+ 
+(%
+) ±± ±±
+ 
+SE
+M
+ 
+Figure 1. Concentration – inhibitory response curves of representative constituents 
+of C. arenaria on the utilized cell lines. 
+■: cnicin (6); □: isokaempferid (5); ○: arctiin (8) 
+Page 21 of 21
+http://mc.manuscriptcentral.com/ptr
+Phytotherapy Research
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60

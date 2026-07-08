@@ -1,0 +1,946 @@
+Article 
+J. Braz. Chem. Soc., Vol. 22, No. 12, 2371-2382, 2011.
+Printed in Brazil - ©2011  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00 A
+*e-mail: majokato@iq.usp.br
+Chemometric Analysis of ESIMS and NMR Data from Piper Species
+Lydia F. Yamaguchi,a Giovana C. Freitas,a Nidia C. Yoshida,a Renata A. Silva,a Anderson M. Gaia,a 
+Adalberto M. Silva,a Marcus T. Scotti,b Vicente de P. Emerenciano,a Elsie F. Guimarães,c  
+Eny I. S. Floh,d Carlos A. Colombo,e Walter J. Siqueirae and Massuo J. Kato*,a
+aDepartamento de Química Fundamental, Instituto de Química, Universidade de São Paulo,  
+05508-000 São Paulo-SP, Brazil
+bCentro de Ciências Aplicadas e Educação (Campus IV), Universidade Federal da Paraíba,  
+58297-000 Rio Tinto-PB, Brazil
+cInstituto de Pesquisas Jardim Botânico do Rio de Janeiro, Rua Jardim Botânico, 1008,  
+22460-070 Rio de Janeiro-RJ, Brazil
+dDepartamento de Botânica, Instituto de Biociências, Rua do Matão, 277,  
+05422-970 São Paulo-SP, Brazil
+eCentro de Genética Biologia Molecular e Fitoquímica, Instituto Agronômico de Campinas,  
+Av. Barão de Itapura, 1481, 13001-970 Campinas-SP, Brazil
+O perfil metabólito baseado na aplicação de análises multivariadas (análise de componentes 
+principais, PCA) dos dados de espectrometria de massas com ionização electrospray (ESIMS) no 
+modo positivo e de ressonância magnética nuclear (RMN) do 1H de extratos brutos de espécies de Piper 
+destacou algumas espécies caracterizadas pela produção de lignanas (P. solmsianum, P. truncatum 
+e P. cernuum), neolignanas (P. regnellii) e cromenos (P. gaudichaudianum). Análises específicas 
+em conjunto de espécies caracterizadas morfologicamente por apresentarem inflorescências 
+pêndulas e globosas (P. caldense, P. carniconnectivum, P. bowiei e P. permucronatum) ou  
+em espécies que produzem amidas indicaram o potencial mais significativo para tais análises como 
+critério para estudos fitoquímicos posteriores. Análises intraespecíficas de plântulas das espécies 
+P. solmsianum, P. regnellii e P. gaudichaudianum indicaram uma composição química nas folhas 
+baseada na presença dos fenilpropanóides dilapiol e apiol, diferentemente do que produzem 
+as plantas adultas. No caso das espécies que produzem amidas, a composição apresentou-se 
+relativamente constante independentemente do estágio de desenvolvimento.
+The metabolomic profiling based on the application of multivariate analysis (principal 
+component analysis, PCA) of positive mode electrospray ionization mass spectrometric 
+(ESIMS) and 1H nuclear magnetic resonance (NMR) data of crude extracts highlighted some 
+species characterized by lignans (P. solmsianum, P. truncatum and P. cernuum), neolignans 
+(P. regnellii) and chromenes (P. gaudichaudianum). A specific analysis focusing on species 
+having pendant and globular inflorescences (P. caldense, P. carniconnectivum, P. bowiei and 
+P. permucronatum) or amides-producing species indicated higher potential of the methodology in 
+determining similarities and establishing priorities for further phytochemical investigation. Such 
+intraspecific analysis applied to analyzed seedling leaves of the P. solmsianum, P. regnellii and 
+P. gaudichaudianum species revealed the production of dillapiole and apiole instead of lignans, 
+neolignans or prenylated benzoic acid, produced by the adult leaves, respectively. In case of 
+amides-producing species, a similar profile was observed regardless the developmental stage.
+Keywords: Piperaceae, principal component analysis, secondary metabolites, fingerprinting
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.2372
+Introduction
+The knowledge on secondary chemistry of tropical 
+plant species is limited to approximately 5-10% of the 
+total species described so far. In fact, this limited study 
+indicates the potential for finding novel lead compounds 
+from tropical biodiversity. Despite the availability of 
+high throughput technology platforms to detect bioactive 
+compounds, the process of cataloguing their composition 
+possesses a significant challenge since it still involves 
+largely the isolation and spectroscopic characterization of 
+individual components. Additionally, the determination of 
+a more complete profile in terms of secondary compounds 
+in a given species is not a simple task since it should also 
+be considered all organs, tissues, different developmental 
+stages and populational analysis of species as potential 
+sources of material to be further analyses. To make the 
+process even more complex, further variability of chemical 
+composition can be caused by stress and/or responses 
+resulting from interaction of plants with associated 
+flora and fauna or other types of stimuli.1
+The metabolome represents the collection of all 
+metabolites in a given level of organization of an 
+organism, which are the products of cellular processes. 
+The metabolomic analysis has become an increasingly 
+important approach due to its potential applications in drug 
+discovery, functional genomics of plants, food science and 
+human nutrition.2-5 In addition, the metabolomic analysis 
+at specific times throughout the development of tissues or 
+organs can provide information on biosynthetic sites and 
+dynamics of the metabolites. Currently, various experimental 
+techniques have been routinely applied to metabolomic 
+analysis including gas chromatography-mass spectroscopy 
+(GCMS), 1H nuclear magnetic resonance (NMR), 
+electrospray ionization mass spectrometry (ESIMS), high 
+performance liquid chromatography-mass spectrometry 
+(HPLCMS), center for environmental mass spectrometry 
+(CEMS) or a combination of them.6-12 Since the generated 
+data are very large and complex for interpreting, the 
+principal component analysis (PCA) has been frequently 
+used to analyze all types of matrices because the method 
+is capable of extracting relevant information from large 
+collection of samples having large number of variables 
+which together make the manual analysis virtually 
+impossible.13-15
+Piperaceae species are very common in the tropics with 
+ca. 3000 species among which Peperomia and Piper are 
+the most abundant. Some of them, such as P. nigrum L. 
+(black pepper) and P. methysticum G. Forst (kava-kava) are 
+well-known for their commercial and sociocultural uses. 
+Peperomia species are well-known as ornamental plants, 
+although several of them are mentioned as medicinal. In 
+terms of ecological importance, Piper species have been 
+considered as model due to the richness of species and 
+diversity of interactions with herbivores.16-21 In general, 
+Piperaceae species can be easily propagated and the 
+availability of data on taxonomy, molecular phylogeny, 
+ecology and chemical composition provides the basis for 
+multidisciplinary studies.
+Most of the phytochemical investigation has been 
+addressed to determine major bioactive secondary 
+metabolites and thus, Piperaceae species have shown to 
+produce amides, pyrones, chromenes and lignoids.22-28 
+Several Piper species are pioneer, and can be found in 
+forest borders and for such reason they are also under risk 
+of depletion by anthropic activities. Thus, the preservation 
+of germplasm is highly desirable but the development of 
+methodology for analyzing and recording the chemical 
+profile of large number of species is also urgently 
+required. So far, the methodology based on GCMS was 
+applied to analyze Piperaceae species for determining the 
+composition of essential oils29-33 and amides.34 Besides, 
+HPLC and LCMS were applied for isolating and identifying 
+unsaturated amides.35 Thus, the primary aim of this work 
+was to explore the application of ESIMS and NMR 
+combined with PCA to analyze crude extracts of Piper 
+species in order to determine chemical variability among 
+species and also to establish priorities for phytochemical 
+investigations.
+Results and Discussion
+Secondary metabolite profiling
+The Piper species for the chemical profiling studies 
+have been collected in the past five years in different sites 
+(Table 1). The analysis of constituents in crude extracts 
+was initially performed on 1H NMR (300 MHz) (Figure S1 
+from Supplementary Information, SI) and ESIMS data 
+(Schemes 1-3). The analysis of a set of samples by 1H NMR 
+considered the region between d 9.0-3.0, excluding the 
+intense peaks resulting from the ubiquitous presence of 
+fatty material. Initial score plot (PC1 vs. PC2) of 1H NMR 
+data revealed a remarkable differentiation of Piper 
+solmsianum C. DC. individuals (K-487A-F) as outliers 
+of the remaining species, which clustered in the center of 
+the score plot (Figure 1). The corresponding loading plot 
+(Figure 2) revealed that the major contribution for such 
+leverage was due to the high intensity of methoxyl signals 
+(d 3.88 and 3.84) resulting from the lignan grandisin (5).36 
+In this particular case, the 1H NMR spectrum indicated that 
+the crude extracts of K-487D contained almost exclusively 
+Yamaguchi et al. 2373Vol. 22, No. 12, 2011
+Table 1. Piper species analyzed by 1H NMR, ESIMS and PCA
+Species Voucher Abbreviations Site Compound(references)
+P. aduncum L. K-876
+K-057
+Padun
+PadunB
+Guaraqueçaba-PR
+São Paulo-SP
+11a, 11b,37 1938
+P. amalago L. K-826
+K-110
+Pamal
+PamalB
+Encantado-ES
+São Paulo-SP
+23b,34 2839
+P. arboreum Aubl. K-680
+K-683
+K-688
+K-053
+ParbA
+ParbB
+ParbC
+ParbD
+Mateiros-TO
+Ponte Alta do Tocantins-TO
+Barreiras-BA
+São Paulo-SP
+2640
+P. bowiei Yunck. K-364 Pbow São Paulo-SP 18
+P. caldense C. DC. K-480
+K-842
+K-484
+K-869
+K-951
+Pcald
+PcaldA
+PcaldB
+PcaldC
+PcaldD
+Ubatuba-SP
+Ubatuba-SP
+Ubatuba-SP
+Guaraqueçaba-PR
+Ubatuba-SP
+1541
+P. carniconnectivum C. DC. K-963
+K-976
+K-991
+K-978
+PcarnA
+PcarnB
+PcarnC
+PcarnD
+Carajás-PA
+Carajás-PA
+Carajás-PA
+Carajás-PA
+Nd
+P. cernuum Vell. K-137
+K-1004
+PcernA
+PcernB
+Carajás-PA
+São Paulo-SP
+7a42
+P. corcovadensis (Miq.) C .DC. K-569 Pcorc São Paulo-SP 2543
+P. crassinervium Kunth K-091 Pcrass São Paulo-SP 14,44 16,45 17a, 17b42
+P. cubataonum C.DC. K-198
+K-327
+K-469
+PcubA
+PcubB
+PcubC
+Itatiaia-RJ
+Cunha-SP
+Ilha Grande-RJ
+Nd
+P. dilatatum Rich. K-465
+K-490
+K-499
+K-998
+PdilA
+PdilB
+PdilC
+PdilD
+São Paulo-SP
+Ubatuba-SP
+São Paulo-SP
+Parauapebas-PA
+11d46
+P. diospyrifolium Kunth. K-431 Pdios São Paulo-SP Nd
+P. fuligineum Kunth. K-676 Pful Mateiros-TO Nd
+P. gaudichaudianum Kunth. K-031
+K-489
+K-953
+PgauA
+PgauB
+Pgau
+São Paulo-SP
+Ubatuba-SP
+Pedra Menina-ES
+1247
+P. hispidum Sw. K-672
+K-675
+K-742
+PhispA
+PhispB
+PhispC
+Alto Paraíso de Goiás-GO
+Pindorama de Tocantins-TO
+Ananindeua-PA
+22, 2748
+P. hostmannianum C. DC. K-983 Phost Carajás-PA 1349
+P. lhotzlkyanum (Miq.) Kunth. K-890
+K-1078
+PlhotzA
+PlhotzB
+Monte Verde-MG
+Monte Verde-MG
+11c, 17a50
+P. magnificum Trel. K-491 Pmag Manaus-AM Nd
+P. malacophylum C. DC. K-448 Pmall Intervales-SP 30a, 30b51
+P. marginatum Jacq. K-759
+K-969
+K-223
+PmargA
+PmargB
+PmargC
+Melgaço-PA
+Carajás-PA
+São Paulo-SP
+1a, 1b, 2, 17a, 17b52
+P. miquelianum C. DC. K-862 Pmiq Guaraqueçaba-PR Nd
+P. peltatum L. K-599 Ppelt Santa Teresa-ES Nd
+P. permucronatum Yunck. K-325
+K-397
+K-850
+K-310
+K-1022
+PpermA
+PpermB
+PpermC
+PpermD
+PpermE
+Cunha-SP
+Ubatuba-SP
+Ubatuba-SP
+São Paulo-SP
+Cubatão-SP
+17a
+P. pseudopothifolium C. DC. K-112 Ppseudo São Paulo-SP Nd
+P. regnellii (Miq.) C. DC. K-242 PregA São Paulo-SP 4a, 6, 753
+P. reticulatum L. K-970 Pret Carajás-PA 8c,54 23a,55 23b,34 2956
+P. richardiaefolium Kunth. K-253
+K-839
+K-290
+PrichardA
+PrichardB
+PrichardC
+São Paulo-SP
+São Paulo-SP
+São Paulo-SP
+9a-9c, 10a, 20a
+P. scutifolium Yunck. K-574
+K-923
+PscutA
+PscutB
+Cubatão-SP
+Ubatuba-SP
+2543
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.2374
+Species Voucher Abbreviations Site Compound(references)
+P. solmsianum C. DC. K-604
+K-487
+PsolmA
+PsolmB
+PsolmC
+PsolmD
+PsolmE
+PsolmF
+Santa Maria de Jetibá-ES
+São Paulo-SP
+3, 4a, 4b, 536
+P. truncatum Vell. K-211
+K-597
+K-616
+Ptrun
+PtrunA
+PtrunB
+São Paulo-SP
+Santa Maria de Jetibá-ES
+Santa Teresa-ES
+8a,52
+P. tuberculatum Jacq. K-169 Ptub São Paulo-SP 20a,43 21, 24,40
+Nd: not determined.
+Table 1. continuation
+Scheme 1.
+grandisin (Figure 1). Other specimens of P. solmsianum 
+(K-487A-C, E-F) differing from K-487D appeared 
+together P. truncatum Vell., P. hispidum Sw., P. regnellii 
+(Miq.) C. DC. and P. cernuum Vell. The inspection of 
+the 1H NMR spectra of the extracts from P. solmsianum 
+specimens (K-487A-C, E-F) revealed the presence of the 
+phenylpropanoid isoelemicin (3) in addition to grandisin, 
+as confirmed by HPLC-ESIMS analysis. Such chemical 
+variability within the P. solmsianum species suggested 
+more detailed investigation of the 1H NMR data. Thus, 
+samples of P. regnellii (with exception of sample D) 
+were characterized by the presence dihydrobenzofuran 
+neolignans conocarpan (6) and eupomatenoid (7).53 
+The set of species including P. richardiaefolium Kunth, 
+P. truncatum, P. pseudopothifolium C. DC. and P. cernuum 
+belonging to the clade Macrostachys57 is characterized by 
+the production of furofuran lignans, such as eudesmin (8a), 
+sesamin (8b), dibenzylbutyrolactone hinokinin (9a), 
+kusunokinin (9b), arctigenin (9c) and dibenzylbutyrolactols 
+derivatives (10a, 10b)42 (Table 1). Nevertheless, only few 
+accesses were differentiated out of the major clustering, 
+in the PCA score plot, indicating a possible chemical 
+variability in this clade and that some similarities of 
+signals corresponding to aromatic hydrogens and methoxyl 
+groups may have caused grouping with P. solmsianum, 
+P. hispidum and P. regnellii. Next, the attempt to get higher 
+resolution among species by removal of the outlier group 
+of species was hampered by the lack of clustering. In order 
+to examine the application of an alternative technique, the 
+ESIMS obtained by direct infusion was evaluated to analyze 
+Yamaguchi et al. 2375Vol. 22, No. 12, 2011
+Scheme 2.
+Scheme 3.
+Figure 1. Score plot (PC1 vs. PC2) of 1H NMR (3010 MHz) data of crude extracts from Piper species with 74% of the variance within the dataset. The 
+insert refers to the 1H NMR spectrum of the crude extracts of P. solmsianum (K-487D) showing the predominance of signals of the lignan grandisin.
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.2376
+the extracts from Piper species. All extracts were analyzed 
+under the positive mode (see Experimental section). The 
+score plot of ESIMS data provided similar results to the 
+case of using 1H NMR with differentiation of the same 
+outlier group of species. Preliminary conclusions regarding 
+the application of metabolome analysis to a large and 
+heterogeneous collection of Piper extracts indicated that 
+this kind of unsupervised analysis should be restricted to a 
+limited group of species or to analyze members of a given 
+population.
+Thus, based on the initial conclusion above mentioned, 
+the methodology was next applied to investigate a specific 
+set of samples of different organs belonging to the clade 
+Peltrobryon (Table 2), such as P. caldense C. DC. collected 
+in different sites (K-484, K-842 and K-951), and also 
+P. bowiei Yunck. (K-364), P. permucronatum Yunck. 
+(K-310 and K-1022) and P. carniconnectivum C. DC. 
+(K-963, K-976, K-978, K-991 and K-989). All these four 
+Piper species have in common relatively large and pendant 
+fruits. Previous chemical studies carried out on roots and 
+leaves of P. caldense revealed an aristolactam58 and a 
+prenylated benzoic acid (caldensinic acid 15)41 as major 
+compounds, while for P. carniconnectivum, the composition 
+of essential oil, a flavonoid and cyclopentenediones were 
+reported.59-61 The P. permucronatum species had only its 
+essential oil described,62 while P. bowiei has no previous 
+phytochemical study. The analysis carried out using ESIMS 
+of crude extracts combined with PCA provided better 
+differentiation among three groups of samples than using 
+the 1H NMR data (Figures 3 and S2 from SI). The P. bowiei 
+(K-364), P. permucronatum (K-310 and K-1022) species 
+were closely related but distinguished from P. caldense (K-
+484, K-842 and K-951), while P. carniconnectivum showed 
+some chemical variability in spite of few samples analyzed. 
+Table 2. Piper species belonging to the clade Peltrobryon analyzed by 
+PCA
+Species organ Voucher Site
+P. bowiei leaves K-364 L São Paulo-SP
+P. caldense leaves K-484 L Ubatuba-SP
+P. caldense leaves K-842 L Ubatuba-SP
+P. caldense twigs K-842 T Ubatuba-SP
+P. caldense fruits K-842 Fr Ubatuba-SP
+P. caldense seeds K-842 S Ubatuba-SP
+P. caldense leaves K-951 L Ubatuba-SP
+P. caldense twigs K-951 T Santa Tereza-ES
+P. caldense fruits K-951 Fr Santa Tereza-ES
+P. caldense seeds K-951 S Santa Tereza-ES
+P. caldense stems K-951St Santa Tereza-ES
+P. caldense roots K-951 R Santa Tereza-ES
+P. permucronatum leaves K-310 L São Paulo-SP
+P. permucronatum leaves K-1022 L Cubatão-SP 
+P. permucronatum twigs K-1022 T Cubatão-SP 
+P. carniconnectivum leaves K-963 L Carajás-PA
+P. carniconnectivum leaves K-976 L Carajás-PA
+P. carniconnectivum leaves K-978 L Carajás-PA
+P. carniconnectivum leaves K-991 L Carajás-PA
+P. carniconnectivum leaves K-989 L Carajás-PA
+Figure 2. Loading plot of 1H NMR (300 MHz) (d 8.0-3.0 ppm) of crude extracts from Piper species with 74% of the variance within the data set. The 
+signals far from the center are due to methoxyl groups.
+In order to characterize these groups of species, the major 
+compounds were isolated and spectroscopically analyzed 
+(see Experimental section). Thus, the two samples of P. 
+caldense (K-842 and K-951) were consistently characterized 
+by the caldensinic acid (15) as previously isolated. Samples 
+from P. carniconnectivum (K-991, K-976, K-978 and K-989) 
+were more distant from the first species due to the compound 
+Yamaguchi et al. 2377Vol. 22, No. 12, 2011
+Figure 3. Score plot (PC1 vs. PC2) of ESIMS data of crude extracts from selected Piper species with 70% of the variance within the dataset.
+with a quasi-molecular ion at [M + H]+ of 335 (Figure S2), 
+whose structure is under investigation. Finally, the P. bowiei 
+(K-364) and P. permucronatum (K-310 and K-1022) species 
+were characterized by the isomeric flavanones having the 
+same quasi-molecular ion at [M + H]+ 287 and corresponded 
+to dihydrowogonin (18) and sakuranetin (17a), respectively 
+(see Experimental section). The analysis of this set of samples 
+by HPLC-UV displayed distinct chromatographic profiles 
+(data not shown), and the visualization of some patterns 
+using PCA analysis should be expected if retention time is 
+used as variable. However, the two species (P. bowiei and 
+P. permucronatum) closely clustered in the score plot of 
+ESIMS data because of the same molecular ion that is 
+provided by the isomeric flavanones.
+Next, the application of PCA analysis based on the 
+ESIMS data was evaluated to examine the extracts from 
+amide-accumulating species including P. tuberculatum L., 
+P. peltatum L., P. scutifolium Yunck., P. reticulatum L. and 
+P. amalago L. The phylogenetic relationship is supported 
+by floral morphology or ITS (internal transcribed spacer) 
+sequences57,63 and partially by previous phytochemical data. 
+To date, the chemistry of P. amalago is represented by several 
+amides including nigrinodine (28)34,39 and terpenes,64-66 
+while for a specimen of P. reticulatum from Trinidad and 
+Tobago, two aliphatic pyrones and amide dihydrowisanidine 
+(23a) were described.57 The score plot (PC1 vs. PC2) of 
+ESIMS data characterizes the species according to the 
+presence of piplartine (20a) (P. tuberculatum)48 and 
+piperovatine (25) (P. scutifolium and P. peltatum)43 
+(Figures 4 and S3 from SI). The P. miquelianum C.DC. 
+species has no report on chemical composition and studies 
+for its detailed composition, being still required. The sample 
+of P. amalago contains the amide nigrinodine (28), as 
+previously described.61 The pyrones previously described 
+Figure 4. Score plot (PC1 vs. PC2) of ESIMS data of crude extracts from amide-producing Piper species (K-574 and K-923 P. scutifolium, K-870 P. 
+reticulatum, K-169 P. tuberculatum, K-826 P. amalago, K-862 P. miquelianum and K-599 P. peltatum) with 83% of the variance within the dataset.
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.2378
+for P. reticulatum were not detected in an attempt to 
+dereplicate the extracts from a specimen collected in Carajás 
+City (Pará State, Brazil) using ESIMS data. Nevertheless, 
+the analysis of loading plot of ESIMS data indicated the 
+fragmentary ions at m/z 165 and 135 instead of those 
+accounted for pyrones in the previous analysis. In order to 
+characterize the compounds responsible for such ions, part 
+of the leaves that were extracted from P. reticulatum was 
+fractionated leading to the isolation and characterization of 
+the amides dihydrowisanidine (23a) and wisanidine (23b), 
+the compounds yielding the two fragmentary ions, 
+respectively. In spite of the chemical variability noticed 
+for P. reticulatum, such type of comparison should involve 
+more detailed and appropriate samplings, not to mention the 
+genetic variability studies to account for these differences.
+Seedling chemistry in Piper species
+In general, the phytochemical investigation has been 
+carried out on adult plants, especially in bioprospecting 
+studies which often require significant amount of 
+material and pure compounds. Comparatively, seedling 
+chemistry is essentially unknown and only few reports 
+were addressed to determine major compounds such as 
+in seedlings of Betula,67 Virola,68 Piper69 and Pilocarpus70 
+species. Based on such scarcity of data and considering 
+the implication of seedling chemistry in successional 
+ecology and restoration process, four Piper species 
+(P. regnellii, P. solmsianum, P. gaudichaudianum, 
+P. tuberculatum and P. amalago) were examined as 
+compared to adult plants. The seedlings were cultivated 
+under greenhouse and maintained under the same 
+substrate and conditions. Seedling leaves at approximate 
+age of 6 months were analyzed by ESIMS in order to 
+compare with the adult leaves. The score plot of ESIMS 
+data revealed a remarkable difference between leaves from 
+adult plants and seedlings of P. solmsianum, P. regnellii and 
+P. gaudichaudianum (Figure 5). Further analysis using 
+1H NMR and HPLC characterized the phenylpropanoids 
+dillapiole (4a) and apiole (4b) as major constituents. 
+This profile is quite contrasting with the adult organs of 
+respective species, which consistently contain the lignan 
+grandisin (4),36 neolignan conocarpan and derivatives 
+(6, 7)53 and chromenes (11a-11b),49 respectively. The 
+phenylpropanoids dillapiole and apiole are the major 
+constituents in essential oil from leaves of P. aduncum L.,71 
+but further compounds also include chromenes37,72 and 
+chalcones.73 In this specific case, its seedlings also 
+contain dillapiole and apiole as major compounds. On 
+the other hand, the adults and seedling leaves of amide-
+containing P. tuberculatum and P. amalago species were not 
+distinguished between different developmental stages and 
+their composition were based on amides piplartine (20a)48 and 
+nigrinodine (28),61 respectively. The ESIMS analysis of 
+seedling extracts of P. reticulatum indicated differences 
+among leaves from samples collected at Carajás City, 
+cultivated at Instituto de Química (Universidade de São 
+Paulo (USP), São Paulo City) and also from P. amalago. 
+Figure 5. Score plot (PC1 vs. PC2) of ESIMS data of crude extracts of adult and seedlings from Piper species with 65% of variance within the dataset. 
+Dashed line: dillapiol (plus apiole) in seedling leaves of P. regnellii, P. solmsianum and P. gaudichaudianum.
+Yamaguchi et al. 2379Vol. 22, No. 12, 2011
+Although the seedlings of P. reticulatum contained the 
+amides wisanidine (23b) and dihydrowisanidine (23a). Thus, 
+this compound was isolated and fully characterized by the 
+interpretation of 2D NMR as the benzonitrile benzoate (29). 
+This cyanohydrin was previously isolated from Malania 
+oleifera Chun & Lee (Olacaceae)74 and was also described 
+as constituent of defensive secretions of various millipedes 
+species,75 but as far as we known this is the first report for 
+Piperaceae species.
+Conclusions
+The non-targeted profiling of secondary metabolites 
+for Piper species was carried out in order to determine the 
+major classes of compounds by means of 1H NMR and 
+ESIMS data of crude extracts. The PCA score plot based 
+on 1H NMR or ESIMS data showed a distinction of some 
+lignoid-containing species including the varieties of 
+P. solmsianum, P. truncatum and P. regnellii and also a 
+chromene-containing P. hispidum species. The sequential 
+removal of these outlier species still allowed some 
+differentiation in some extent using 1H NMR data but 
+was not enough to provide visible clustering or to clarify 
+chemical similarities among the samples. Nevertheless, 
+the methodology was proven to be valuable when applied 
+to analyze selected set of plant species with specific 
+morphological characteristics such as those having 
+pendant inflorescences (P. caldense, P. carniconnectivum, 
+P. bowiei and P. permucronatum) belonging to the clade 
+Peltrobryon or to individuals, varieties, organs or different 
+developmental stages as in case of seedlings. Analysis of 
+set of samples by HPLC-UV was also proven to be useful 
+but when combined with ESIMS provides robustness for 
+identification of compounds overcoming the reproducibility 
+limitations based solely on retention time.
+The overall analysis of a collection of plant species 
+has only been possible due to the capacity of handling 
+a large number of samples and the corresponding data 
+set generated. Nevertheless, even with the use of high 
+resolution mass spectrometers or high field NMR 
+techniques, the precise determination of structures of 
+secondary compounds in an organism remains one of the 
+major challenges when a complete characterization of the 
+species based on secondary metabolites is concerned.
+Experimental
+Plant material
+Piper species (Table 1) were collected in different 
+sites between 2005-2010. The sampling of plant species 
+was carried out under the permit from Instituto Florestal 
+(SMA No. 40.272/2006), Sisbio/MMA (No. 15780-1) and 
+Instituto Brasileiro do Meio Ambiente e dos Recursos 
+Naturais Renováveis (IBAMA, 06/08). The botanical 
+classification was carried out by Dra. Elsie Franklin 
+Guimarães (Instituto de Pesquisas Jardim Botânico do 
+Rio de Janeiro, Brazil) and the vouchers were deposited 
+in this Herbarium (Table 1).
+Extract preparations for PCA analysis
+For the PCA analysis, dried and powdered leaves 
+(2.0 g) of the species were successively extracted with 
+MeOH (2 × 10 mL) at room temperature. The extracts 
+were filtered and concentrated in vacuum to afford the 
+crude MeOH extracts. 
+ESIMS analysis for PCA analysis
+The ESIMS analyses were performed in a Quattro II 
+triple quadrupole equipment (Micromass, Manchester, 
+UK). The samples were prepared using the crude extract 
+dissolved in MeOH in a concentration of 1 mg mL-1. The 
+electrospray positive ionization mode was employed with 
+capillary voltage of 4.5 kV, skimmer 50 V and the nitrogen 
+gas flows of 250 and 30 L h-1. Samples were directly 
+injected to MS using mobile phase flow of 50 mL min-1 
+(MeOH:H2O/1:1), data were processed by MassLynx 
+(Micromass) version 3.2 (1998). 
+1H NMR analysis for PCA analysis
+Samples for NMR analysis were prepared using 20 mg 
+of MeOH extract, dissolved in 800 µL of CDCl3 (99.8% 
+Cambridge Isotopes LaboratoriesTM) containing 0.05% 
+of TMS (tetramethylsilane). The 1H NMR spectra were 
+performed on a Bruker DPX 300 MHz operating at a 
+proton NMR frequency 300.13 MHz and a 5 mm probe. 
+Each spectrum consisted of 256 scans and 300 k data 
+point, with a pulse width of 8.0 µs (30o) and relaxation 
+delay of 2.0 s.
+Data analysis
+The spectra were automatically Fourier transformed 
+with a line broadening of 0.3 Hz by the program MestReC 
+(version 4.8.6.0, MestreLab, 1996), and referenced to 
+residual hydrogen signal CDCl3 at 7.26 ppm using TMS 
+as an internal standard. Spectra signals were integrated in 
+regions of equal width (0.04 ppm) corresponding to the 
+region d 3.00-9.00. The integrals were obtained for each of 
+the 221 regions and regions containing TMS (0 to 0.4 ppm), 
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.2380
+residues of chloroform (7.0 to 7.4 ppm) were excluded 
+from each spectrum. 
+Seedlings
+S e e d s  o f  P.  reg n e l l i i ,  P.  s o l m s i a n u m , 
+P. gaudichaudianum and P. tuberculatum were collected in 
+the greenhouse of Instituto de Química (USP) and germinated 
+at 27 ± 2 ºC under 16 h photoperiod (35 mmol m-2 s-1, 85 W 
+cool-white fluorescent lamps). Seedlings of approximately 
+6 months age had their leaves extracted and analyzed by 
+ESIMS. 
+Analysis by PCA
+The 1H NMR and ESIMS data were exported in ASCII 
+format to Microsoft Excel to produce a data matrix of 
+sample versus metabolite peak/mass with associated 
+peak/mass areas, prior to further principal component 
+analysis using the Unscrambler software version 9.5 (CAMO 
+Process AS, Norway, 1996-2007). The normalization 
+process of the raw data, which consisted of making the 
+area under each curve the same for all spectra, was carried 
+out to avoid possible lack of reproducibility associated to 
+dilution effects and responses of the mass detector.
+Isolation general experimental procedures
+Silica gel (Merck 230-400 mesh) and reversed phase 
+silica C18 (Waters, 125 Å, 55-105 mm) were used for column 
+chromatographic separation while silica gel 60 PF254 
+(Merck) was used for analytical (0.25 mm) and prep-thin 
+layer chromatograph (TLC) (1.0 mm). Analytical HPLC 
+was performed using a Shimadzu chromatograph model 
+SCL-10A with UV-Vis detector (model SPD-M10A) and 
+C18 column (250 mm × 5 mm, 5 mm), methanol (B) and 
+water (A) were used as mobile phase. Samples of extracts 
+were dissolved in MeOH:H2O (90%) at a concentration of 
+1 mg mL-1, cleaned up through Sep-pack C18 and submitted 
+to HPLC-PDA-ESIMS analysis.
+1H NMR spectra were recorded at 300 and 500 MHz and 
+13C NMR at 75 and 125 MHz in Bruker DPX-300 and 
+DPX-500 spectrometers. CDCl3 and CD3OD (Cambridge 
+Isotope) containing 0.05% of TMS as internal standard were 
+applied. Chemical shifts are reported in d units (ppm) and 
+coupling constants (J) in Hz. HREIMS were obtained on a 
+Bruker Daltonics MicroTOF mass spectrometer. LREIMS 
+(low resolution electron impact-mass spectrometry) data 
+were acquired in a HP 5990/5988A mass spectrometer, and 
+GCLREIMS (gas chromatography electron impact-mass 
+spectrometry) data were acquired in a Shimadzu GC-17A 
+chromatograph interfaced with a MS-QP-5050A mass 
+spectrometer.
+Extraction  and  isolation of  consti tuents from 
+P. richardiaefolium
+Dried leaves (68.0 g) were extracted three times for 
+24 h with EtOAc yielding 8.0 g of crude extract. The 
+extract of leaves was dissolved in MeOH:H2O (20%), 
+filtrated on a Celite bed and the filtered solution extracted 
+with dichloromethane. The organic fraction was dried 
+with anhydrous sodium sulfate and then, the solvents were 
+evaporated under vacuum to yield 2.5 g. This fraction was 
+subjected to a vacuum liquid chromatography (VLC) using 
+silica gel eluted with a gradient of hexane and EtOAc 
+resulting in 19 fractions. Fraction 5 was subjected to prep-
+TLC eluted with hexane:EtOAc (20%) yielding sesamin 
+(8b)76 and hinokinin (9a).77 Fractions 9-12 yielded kobusin 
+(8c, 23 mg),54 kusunokinin (9b, 11 mg)77 and cubebin (10a, 
+85 mg).68 Fractions 15-19 were submitted to prep-TLC 
+yielding 3’,4’-dimethoxy-3,4-demethylenedioxycubebin 
+(10b, 6 mg)76 and arctigenin (9c, 18 mg).78
+Extraction and isolation of constituents from P. reticulatum
+Dried and powdered leaves of P. reticulatum (100 g) 
+were extracted with EtOAc two times, during two days, at 
+room temperature. Part of the extract (3 g) was subjected 
+to flash silica gel column chromatography eluted with 
+n-hexane containing increasing amounts of EtOAc (up 
+to 100%), to give 11 fractions. Fraction 5 (126 mg) was 
+purified by silica gel preparative TLC (hexane-EtOAc, 7:3, 
+two elutions) affording cyanobenzyl benzoate (29, 8 mg). 
+Fraction 11 (250 mg) was fractionated by VLC reversed 
+phase eluted with water and increasing amounts of MeOH 
+(up to 100%), yielding 9 fractions. Fraction 1 (33 mg) was 
+purified by silica gel preparative TLC (CH2Cl2-MeOH, 
+9.5:0.5, two elutions) affording dihydrowisanidine (23a),79 
+which was the major compound. 
+Extraction and isolation of constituents from P. bowiei and 
+P. permucronatum
+Dried and powdered leaves of P. bowiei (12 g) and 
+P. permucronatum (10 g) were extracted with EtOAc 
+(2 × 500 mL) at room temperature. The extracts were 
+filtered and concentrated in vacuum to afford the crude 
+extracts. The P. bowiei extract (1.65 g) was subjected 
+to VLC on silica gel eluted with gradient mixtures of 
+n-hexane/EtOAc and EtOAc/MeOH to afford 14 fractions. 
+The fraction 5 (400 mg) was subjected to separation on 
+Yamaguchi et al. 2381Vol. 22, No. 12, 2011
+Sephadex LH-20 column chromatography eluted with 
+MeOH to afford a pure flavanone (18), identified as 
+dihydrowogonin (5,7-dihydroxy-8-methoxyflavanone), 
+the EIMS, 1H and 13C NMR data were identical to that 
+described.70
+The P. permucronatum extract (1.62 g) was subjected 
+to VLC on silica gel eluted with gradient mixtures of 
+n-hexane/EtOAc and EtOAc/MeOH to afford 16 fractions. 
+The fraction 9 (230 mg) was subjected to separation on 
+Sephadex LH-20 column chromatography eluted with 
+MeOH to afford a pure flavanone, identified as sakuranetin 
+(17a) (5,4'-dihydroxy-7-methoxyflavanone), the EIMS, 
+1H and 13C NMR data were identical to that described.70
+Acknowledgments
+The authors acknowledge IBAMA and Vale do 
+Rio Doce for permission to collect plant material 
+at Floresta Nacional (FLONA) de Carajás and to 
+Prof. Paolo Di Mascio for ESIMS facility and to Conselho 
+Nacional de Desenvolvimento Científico e Tecnológico 
+(CNPq), Coordenação de Aperfeiçoamento de Pessoal 
+de Nível Superior (CAPES) and Fundação de Amparo à 
+Pesquisa do Estado de São Paulo (FAPESP) for providing 
+research funding.
+References
+ 1. Fiehn, O.; Plant Mol. Biol. 2002, 48, 155.
+ 2. Rochfort, S.; J. Nat. Prod. 2005, 68, 1813.
+ 3. Shulaev, V.; Cortes, D.; Miller, G.; Mittler, R.; Plant Physiol. 
+2008, 132, 199.
+ 4. Wishart, D. S.; Drugs R&D 2008, 9, 307.
+ 5. Moco, S.; Schneider, B.; Vervoort, J.; J. Proteome Res. 2009, 
+8, 1694.
+ 6. t’Kindt, R.; Morreel, K.; Deforce, D.; Boerjan, W.; 
+Van Bocxlaer, J.; J. Chromatogr., B: Anal. Technol. Biomed. 
+Life Sci. 2009, 877, 3572.
+ 7. Ohashi, Y.; Hirayama, A.; Ishikawa, T.; Nakamura, S.; Shimizu, 
+K.; Ueno, Y.; Tomita, M.; Soga, T.; Mol. BioSyst. 2008, 4, 135.
+ 8. Hagel, J. M.; Weljie, A. M.; Vogel, H. J.; Facchini, P. J.; Plant 
+Physiol. 2008, 147, 1805.
+ 9. Rochfort, S. J.; Trenerry, V. C.; Imsic, M.; Panozzo, J.; Jones, 
+R.; Phytochemistry 2008, 69, 1671.
+ 10. Monton, M. R. N.; Soga, T.; J. Chromatogr., A 2007, 1168, 237.
+ 11. Zhao, J.; Avula, B.; Joshi, V. C.; Techen, N.; Wang, Y.-H.; 
+Smillie, T. J.; Khan, I. A.; Planta Med. 2011, 77, 851.
+ 12. Safer, S.; Cicek, S. S.; Pieri, V.; Schwaiger, S.; Schneider, P.; 
+Wissemann, V.; Stuppner, H., Phytochemistry 2011, 72, 1379.
+ 13. Yi, L. E.; Yuan, D. L.; Liang, Y. Z.; Xie, P. S.; Zhao, Y.; Anal. 
+Chim. Acta 2009, 649, 43.
+ 14. Kim, H. K.; Choi, Y. H.; Verpoorte, R.; Nat. Protoc. 2010, 5, 536.
+ 15. Lowe, R. G. T.; Allwood, J. W.; Galster, A. M.; Urban, M.; Daudi, 
+A.; Canning, G.; Ward, J. L.; Beale, M. H.; Hammond-Kosack, 
+K. E.; Mol. Plant-Microbe Interact. 2010, 23, 1605.
+ 16. Figueiredo, R. A.; Sazima, M.; Plant Biology 2007, 9, 136.
+ 17. Ramos, C.; Vanin, S.; Kato, M.; Chemoecology 2009, 19, 73.
+ 18. Ramos, C. S.; Vanin, S. A.; Kato, M. J.; Phytochemistry 2008, 
+69, 2157.
+ 19. Vanin, S. A.; Ramos, C. S.; Guimaraes, E. F.; Kato, M. J.; Rev. 
+Bras. Entomol. 2008, 52, 72.
+ 20. Dyer, L. A.; Letourneau, D. K.; Dodson, C. D.; Tobler, M. A.; 
+Stireman, J. O.; Hsu, A.; Ecology 2004, 85, 2795.
+ 21. Kitamura, R. O. S.; Romoff, P.; Young, M. C. M.; Kato, M. J.; 
+Lago, J. H. G.; Phytochemistry 2006, 67, 2398.
+ 22. Marques, J. V.; de Oliveira, A.; Raggi, L.; Young, M. C. M.; 
+Kato, M. J.; J. Braz. Chem. Soc. 2010, 21, 1807.
+ 23. Kato, M. J.; Furlan, M.; Pure Appl. Chem. 2007, 79, 529.
+ 24. Batista, J. M.; Lopes, A. A.; Ambrosio, D. L.; Regasini, L. O.; 
+Kato, M. J.; Bolzani, V. S.; Cicarelli, R. M. B.; Furlan, M.; Biol. 
+Pharm. Bull. 2008, 31, 538.
+ 25. Parmar, V. S.; Jain, S. C.; Bisht, K. S.; Jain, R.; Taneja, P.; Jha, 
+A.; Tyagi, O. D.; Prasad, A. K.; Wengel, J.; Olsen, C. E.; Boll, 
+P. M.; Phytochemistry 1997, 46, 597.
+ 26. Scott, I. M.; Jensen, H. R.; Philogène, B. J. R.; Arnason, J. T.; 
+Phytochem. Rev. 2008, 7, 65.
+ 27. Batista, J. M.; Batista, A. N. L.; Rinaldo, D.; Vilegas, W.; Cass, 
+Q. B.; Bolzani, V. S.; Kato, M. J.; Lopez, S. N.; Furlan, M.; 
+Nafie, L. A.; Tetrahedron: Asymmetry 2010, 21, 2402.
+ 28. Morandim-Giannetti, A. D.; Pin, A. R.; Pietro, N. A. S.; 
+de Oliveira, H. C.; Mendes-Giannini, M. J. S.; Alecio, A. C.; 
+Kato, M. J.; de Oliveira, J. E.; Furlan, M.; J. Med. Plants Res. 
+2010, 4, 1810.
+ 29. de Lira, P. N. B.; da Silva, J. K. R.; Andrade, E. H. A.; Sousa, 
+P. J. C.; Silva, N. N. S.; Maia, J. G. S.; Nat. Prod. Commun. 
+2009, 4, 427.
+ 30. de Lira, P. N. B.; da Silva, J. K. R.; Andrade, E. H. A.; Sousa, 
+P. J. C.; Silva, N. N. S.; Maia, J. G. S.; Nat. Prod. Commun. 
+2009, 4, 427.
+ 31. dos Santos, P. R. D.; Moreira, D. L.; Guimaraes, E. F.; Kaplan, 
+M. A. C.; Phytochemistry 2001, 58, 547.
+ 32. Lago, J. H. G.; de Oliveira, A.; Guimaraes, E. F.; Kato, M. J.; 
+J. Braz. Chem. Soc. 2007, 18, 638.
+ 33. Estrela, J. L. V.; Fazolin, M.; Catani, V.; Alecio, M. R.; de Lima, 
+M. S.; Pesq. Agropec. Bras. 2006, 41, 217.
+ 34. Achenbach, H.; Fietz, W.; Worth, J.; Waibel, R.; Portecop, J.; 
+Planta Med. 1986, 1, 12.
+ 35. Scott, I. M.; Puniani, E.; Jensen, H.; Livesey, J. F.; Poveda, L.; 
+Sanchez-Vindas, P.; Durst, T.; Arnason, J. T.; J. Agric. Food 
+Chem. 2005, 53, 1907.
+ 36. Martins, R. C. C.; Latorre, L. R.; Sartorelli, P.; Kato, M. J.; 
+Phytochemistry 2000, 55, 843.
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.2382
+ 37. Baldoqui, D. C.; Kato, M. J.; Cavalheiro, A. J.; Bolzani, V. S.; 
+Young, M. C. M.; Furlan, M.; Phytochemistry 1999, 51, 899.
+ 38. Orjala, J.; Erdelmeier, C. A. J.; Wright, A. D.; Rali, T.; Sticher, 
+O.; Phytochemistry 1993, 34, 813.
+ 39. Jacobs, H.; Seeram, N. P.; Nair, M. G.; Reynolds, W. F.; McLean, 
+S.; J. Indian Chem. Soc. 1999, 76, 713.
+ 40. Silva, R. V.; Navickiene, H. M. D.; Kato, M. J.; Bolzani, V. S.; 
+Meda, C. I.; Young, M. C. M.; Furlan, M.; Phytochemistry 
+2002, 59, 521.
+ 41. Freitas, G. C.; Kitamura, R. O. S.; Lago, J. H. G.; Young, 
+M. C. M.; Guimarães, E. F.; Kato, M. J.; Phytochem. Lett. 
+2009, 2, 119.
+ 42. Danelutte, A. P.; Costantin, M. B.; Delgado, G. E.; Braz-Filho, 
+R.; Kato, M. J.; J. Braz. Chem. Soc. 2005, 16, 1425.
+ 43. Marques, J. V.; Kitamura, R. O. S.; Lago, J. H. G.; Young, 
+M. C. M.; Guimaraes, E. F.; Kato, M. J.; J. Nat. Prod. 2007, 70, 2036.
+ 44. Yamaguchi, L. F.; Lago, J. H. G.; Tanizaki, T. M.; Di Mascio, 
+P.; Kato, M. J.; Phytochemistry 2006, 67, 1838.
+ 45. Danelutte, A. P.; Lago, J. H. G.; Young, M. C. M.; Kato, M. J.; 
+Phytochemistry 2003, 64, 555.
+ 46. Terreaux, C.; Gupta, M. P.; Hostettmann, K.; Phytochemistry 
+1998, 49, 461.
+ 47. Lopes, A. A.; Baldoqui, D. C.; Lopez, S. N.; Kato, M. J.; 
+Bolzani, V. S.; Furlan, M.; Phytochemistry 2007, 68, 2053.
+ 48. Navickiene, H. M. D.; Alecio, A. C.; Kato, M. J.; Bolzani, V. S.; 
+Young, M. C. M.; Cavalheiro, A. J.; Furlan, M.; Phytochemistry 
+2000, 55, 621.
+ 49. Lago, J. H. G.; Ramos, C. S.; Casanova, D. C. C.; Morandim, 
+A. D.; Bergamo, D. C. B.; Cavalheiro, A. J.; Bolzani, V. S.; 
+Furlan, M.; Guimaraes, E. F.; Young, M. C. M.; Kato, M. J.; 
+J. Nat. Prod. 2004, 67, 1783.
+ 50. Lago, J. H. G.; Young, M. C. M.; Reigada, J. B.; Soares, M. G.; 
+Roesler, B. P.; Kato, M. J.; Quim. Nova 2007, 30, 1222.
+ 51. de Oliveira, A.; Silva, C. A.; Silva, A. M.; Tavares, M. F. M.; 
+Kato, M. J.; Phytochem. Anal. 2010, 21, 428.
+ 52. Raimundo, J. M.; Trindade, A. P. F.; Velozo, L. S. M.; Kaplan, 
+M. A. C.; Sudo, R. T.; Zapata-Sudo, G.; Eur. J. Pharmacol. 
+2009, 606, 150.
+ 53. Benevides, P. J. C.; Sartorelli, P.; Kato, M. J.; Phytochemistry 
+1999, 52, 339.
+ 54. Leong, Y.-W.; Harrison, L. J.; Powell, A. D.; Phytochemistry 
+1999, 50, 1237.
+ 55. Maxwell, A.; Dabideen, D.; Reynolds, W. F.; McLean, S.; 
+J. Nat. Prod. 1998, 61, 815.
+ 56. Vinciguerra, V.; Luna, M.; Bistoni, A.; Zollo, F.; Phytochem. 
+Anal. 2003, 14, 371.
+ 57. Jaramillo, M. A.; Callejas, R.; Davidson, C.; Smith, J. F.; 
+Stevens, A. C.; Tepe, E. J.; Syst. Bot. 2008, 33, 647.
+ 58. Junior, E. L. C.; Chaves, M. C. D.; Pharm. Biol. 2003, 41, 216.
+ 59. Facundo, V. A.; Rezende, C. M.; Pinto, A. C.; J. Essent. Oil 
+Res. 2006, 18, 296.
+ 60. Facundo, V. A.; Braz-Filho, R.; Biochem. Syst. Ecol. 2004, 32, 
+1215.
+ 61. Alves, H. S.; de Oliveira, G. E.; Zoghbi, M. G.; Chaves, M. C. O.; 
+Braz. J. Pharmacog. 2010, 20, 160.
+ 62. de Morales, S. M.; Facundo, V. A.; Bertini, L. M.; Cavalcanti, 
+E. S. B.; dos Anjos, J. F.; Ferreira, S. A.; de Brito, E. S.; 
+de Souza Neto, M. A.; Biochem. Syst. Ecol. 2007, 35, 670.
+ 63. Jaramillo, M. A.; Manos, P. S.; Am. J. Bot. 2001, 88, 706.
+ 64. Setzer, W. N.; Park, G.; Agius, B. R.; Stokes, S. L.; Walker, 
+T. M.; Haber, W. A.; Nat. Prod. Commun. 2008, 3, 1367.
+ 65. Achenbach, H.; Gross, J.; Portecop, J.; Planta Med. 1984, 50, 
+528.
+ 66. Carrara, V. D.; de Souza, A.; Dias, B. P.; Nakamura, C. V.; 
+de Paulo, L. F.; Young, M. C. M.; Svidzinski, T. I. E.; Cortez, 
+D. A. G.; Lat. Am. J. Pharm. 2010, 29, 1459.
+ 67. Tiainen, M.; Pusenius, J.; Julkunen-Tiitto, R.; Roininen, H.; 
+J. Chem. Ecol. 2006, 32, 2287.
+ 68. Kato, M. J.; Yoshida, M.; Gottlieb, O. R.; Phytochemistry 1992, 
+31, 283.
+ 69. Navickiene, H. M. D.; Bolzani, V. S.; Kato, M. J.; Pereira, A. 
+M. S.; Bertoni, B. W.; Franca, S. C.; Furlan, M.; Phytochem. 
+Anal. 2003, 14, 281.
+ 70. Abreu, I. N.; Choi, Y. H.; Sawaya, A. C. H. F.; Eberlin, M. N.; 
+Mazzafera, P.; Verpoorte, R.; Planta Med. 2011, 77, 293.
+ 71. Maia, J. G. S.; Zohhbi, M. D. B.; Andrade, E. H. A.; Santos, 
+A. S.; da Silva, M. H. L.; Luz, A. I. R.; Bastos, C. N.; Flavour 
+Fragrance J. 1998, 13, 269.
+ 72. Moreira, D. D.; Guimaraes, E. F.; Kaplan, M. A. C.; 
+Phytochemistry 1998, 48, 1075.
+ 73. Torres-Santos, E. C.; Moreira, D. L.; Kaplan, M. A. C.; 
+Meirelles, M. N.; Rossi-Bergmann, B.; Antimicrob. Agents 
+Chemother. 1999, 43, 1234.
+ 74. Liu, X. M.; Li, W. G.; Li, P. Y.; Zhou, Y. H.; Yingyong Huaxue 
+2007, 24, 968.
+ 75. Darling, D. C.; Schroeder, F. C.; Meinwald, J.; Eisner, M.; 
+Eisner, T.; Naturwissenschaften 2001, 88, 306.
+ 76. Vidigal, M. C. S.; Cavalheiro, A. J.; Kato, M. J.; Yoshida, M.; 
+Phytochemistry 1995, 40, 1259.
+ 77. Kato, M. J.; Yoshida, M.; Gottlieb, O. R.; Phytochemistry 1990, 
+29, 1799.
+ 78. Koulman, A.; Kubbinga, M. E.; Batterman, S.; Woerdenbag, 
+H. J.; Pras, N.; Woolley, J. G.; Quax, W. J.; Planta Med. 2003, 
+69, 733.
+ 79. Sondengam, B. L.; Kimbu, S. F.; Connolly, J. D.; Phytochemistry 
+1977, 16, 1121.
+Submitted: September 5, 2011
+Published online: December 6, 2011
+FAPESP has sponsored the publication of this article.
+Supplementary Information SIJ. Braz. Chem. Soc., Vol. 00, No. 00, S1-S3, 2012.Printed in Brazil - ©2011  Sociedade Brasileira de Química0103 - 5053  $6.00+0.00
+*e-mail: majokato@iq.usp.br
+Chemometric Analysis of ESIMS and NMR Data from Piper Species
+Lydia F. Yamaguchi,a Giovana C. Freitas,a Nidia C. Yoshida,a Renata A. Silva,a Anderson M. Gaia,a 
+Adalberto M. Silva,a Marcus T. Scotti,b Vicente de P. Emerenciano,a Elsie F. Guimarães,c  
+Eny I. S. Floh,d Carlos A. Colombo,e Walter J. Siqueirae and Massuo J. Kato*,a
+aDepartamento de Química Fundamental, Instituto de Química, Universidade de São Paulo,  
+05508-000 São Paulo-SP, Brazil
+bCentro de Ciências Aplicadas e Educação (Campus IV), Universidade Federal da Paraíba,  
+58297-000 Rio Tinto-PB, Brazil
+cInstituto de Pesquisas Jardim Botânico do Rio de Janeiro, Rua Jardim Botânico, 1008,  
+22460-070 Rio de Janeiro-RJ, Brazil
+dDepartamento de Botânica, Instituto de Biociências, Rua do Matão, 277,  
+05422-970 São Paulo-SP, Brazil
+eCentro de Genética Biologia Molecular e Fitoquímica, Instituto Agronômico de Campinas,  
+Av. Barão de Itapura, 1481, 13001-970 Campinas-SP, Brazil
+Figure S1. 1H NMR (300 MHz, CDCl3) spectra of crude extracts from Piper species.
+Chemometric Analysis of ESIMS and NMR Data from Piper Species J. Braz. Chem. Soc.S2
+Figure S2. ESIMS data of crude extracts from selected Piper species.
+Yamaguchi et al. S3Vol. 00, No. 00, 2011
+Figure S5. Loading plot of ESIMS of crude extracts from amide-producing Piper species.
+Figure S4. Loading plot of ESIMS of crude extracts from selected Piper species with 70% of the variance within the data set.
+Figure S3. ESIMS spectra of crude extracts from amide-producing Piper species.

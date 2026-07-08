@@ -1,0 +1,889 @@
+http://wrap.warwick.ac.uk  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Original citation: 
+Gorka, Alexander P., Suberu, John O., Jacobs, Lauren, Roepe, Paul D., Sullivan, Neil, 
+Barker, Guy C. and Lapkin, Alexei A.. (2013) Anti-plasmodial polyvalent interactions in 
+Artemisia annua L. aqueous extract – possible synergistic and resistance mechanisms. 
+PLoS One, Volume 8 (Number 11). Article number e80790. ISSN 1932-6203 
+ 
+Permanent WRAP url: 
+http://wrap.warwick.ac.uk/57918                         
+       
+Copyright and reuse: 
+The Warwick Research Archive Portal (WRAP) makes this work of researchers of the 
+University of Warwick available open access under the following conditions. 
+ 
+This article is made available under the Creative Commons Attribution 3.0 (CC BY 3.0) 
+license and may be reused according to the conditions of the license.  For more details 
+see: http://creativecommons.org/licenses/by/3.0/   
+ 
+A note on versions: 
+The version presented in WRAP is the published version, or, version of record, and may 
+be cited as it appears here. 
+ 
+For more information, please contact the WRAP Team at: publications@warwick.ac.uk  
+Anti-Plasmodial Polyvalent Interactions in Artemisia
+annua L. Aqueous Extract – Possible Synergistic and
+Resistance Mechanisms
+John O. Suberu1, Alexander P. Gorka2, Lauren Jacobs2, Paul D. Roepe2, Neil Sullivan3, Guy C. Barker1*☯,
+Alexei A. Lapkin4☯
+1 School of Life Sciences, University of Warwick, Coventry, United Kingdom, 2 Centre for Infectious Disease, Department of Chemistry, Georgetown University,
+Washington, District of Columbia, United States of America, 3 Sensapharm Ltd, Business and Innovation Centre, Sunderland, United Kingdom, 4 Department of
+Chemical Engineering and Biotechnology, University of Cambridge, Cambridge, United Kingdom
+Abstract
+Artemisia annua hot water infusion (tea) has been used in in vitro experiments against P. falciparum malaria
+parasites to test potency relative to equivalent pure artemisinin. High performance liquid chromatography (HPLC) and
+mass spectrometric analyses were employed to determine the metabolite profile of tea including the concentrations
+of artemisinin (47.5±0.8 mg L-1), dihydroartemisinic acid (70.0±0.3 mg L-1), arteannuin B (1.3±0.0 mg L-1), isovitexin
+(105.0±7.2 mg L-1) and a range of polyphenolic acids. The tea extract, purified compounds from the extract, and the
+combination of artemisinin with the purified compounds were tested against chloroquine sensitive and chloroquine
+resistant strains of P. falciparum using the DNA-intercalative SYBR Green I assay. The results of these in vitro tests
+and of isobologram analyses of combination effects showed mild to strong antagonistic interactions between
+artemisinin and the compounds (9-epi-artemisinin and artemisitene) extracted from A. annua with significant (IC50 <1
+μM) anti-plasmodial activities for the combination range evaluated. Mono-caffeoylquinic acids, tri-caffeoylquinic acid,
+artemisinic acid and arteannuin B showed additive interaction while rosmarinic acid showed synergistic interaction
+with artemisinin in the chloroquine sensitive strain at a combination ratio of 1:3 (artemisinin to purified compound). In
+the chloroquine resistant parasite, using the same ratio, these compounds strongly antagonised artemisinin anti-
+plasmodial activity with the exception of arteannuin B, which was synergistic. This result would suggest a mechanism
+targeting parasite resistance defenses for arteannuin B’s potentiation of artemisinin.
+Citation: Suberu JO, Gorka AP, Jacobs L, Roepe PD, Sullivan N, et al. (2013) Anti-Plasmodial Polyvalent Interactions in Artemisia annua L. Aqueous
+Extract – Possible Synergistic and Resistance Mechanisms. PLoS ONE 8(11): e80790. doi:10.1371/journal.pone.0080790
+Editor: Gabriele Pradel, RWTH Aachen University, Germany
+Received June 28, 2013; Accepted October 7, 2013; Published November 14, 2013
+Copyright: © 2013 Suberu et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This study was funded by Engineering and Physical Sciences Research Council (EPSRC, UK) and SensaPharm Ltd via an Industrial CASE PhD
+studentship. The award was allocated competitively by Chemistry Innovation Knowledge Transfer Network (CIKTN, UK). The funders had no role in study
+design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing interests: The affiliation of Dr Sullivan with Sensapharm is eclared however this affiliation does not alter our adherence to all the PLOS ONE
+policies on sharing data and materials, as detailed online in your guide for authors. This does not alter our adherence to all the PLOS ONE policies on
+sharing data and materials.
+* E-mail: guy.barker@warwick.ac.uk
+☯ These authors contributed equally to this work.
+Introduction
+The use of Artemisia annua (Qing Hao) in traditional Chinese
+pharmacopeia includes the treatment of fevers and chills [1,2].
+In the 1970s, the active principle in the extract was isolated and
+identified as artemisinin (1), a sesquiterpene lactone. The
+effectiveness of artemisinin is structurally due to the trioxane
+pharmacophore and the activation of the compound occurs via
+the cleavage of the endoperoxide bridge [3]. The mechanism
+for the activation of artemisinins and their interaction with the
+parasite are not fully understood. Different but not mutually
+exclusive mechanistic models have been proposed with
+evidence for and against each model [4]. A number of studies
+[5,6] have suggested that artemisinins act by heme dependent
+activation of the trioxane bridge in the parasites’ food vacuole
+to produce free radicals which then disrupt heme detoxification
+and therefore lead to parasite toxicity. This hypothesis and
+other alternative mechanisms for the mode of action of
+artemisinins have been studied and reviewed by several
+authors [3,4,7–13]. Artemisinin and its derivatives have now
+been established in various combination therapies (ACTs) as
+effective anti-malarial treatments against multidrug-resistant P.
+falciparum infection [14,15].
+PLOS ONE | www.plosone.org 1 November 2013 | Volume 8 | Issue 11 | e80790
+In some parts of Asia and Africa, a hot water infusion (tea) of
+the plant is used as a self-medication for malaria. The use of
+tea in this way has raised concern of the possible development
+of parasite resistance as a result of un-standardised use of
+artemisinin in these tea preparations [16]. Consequently, the
+World Heath Organisation (WHO) in a position statement has
+called for “extensive fundamental and clinical research” which
+demonstrates both efficacy and safety for the use of tea and
+other non-pharmaceutical forms of A. annua extract before
+recommendation for treating malaria [17].
+The recipes in ancient Chinese texts for preparing Qing Hao
+extracts for the treatment of fevers include soaking, followed by
+wringing or pounding, followed by squeezing the fresh herb
+[1,2,18]. In their study, Rath et al. [19] found that adding boiling
+water to the leaves, stirring briefly and leaving covered for 10
+minutes, then filtering and gently squeezing the leaves to
+release residual water gave the best extraction efficiency (86%)
+for artemisinin in the preparation, relative to the total amount of
+the compound in leaves. In the literature, a range of aqueous
+extraction efficiencies (25-90%) has been reported for
+artemisinin [19–21]. Due to the differences in the content of
+artemisinin in tea preparation, Van der Kooy and Verpoorte [21]
+quantified artemisinin in tea prepared by different methods.
+They observed that the extraction efficiency is temperature-
+sensitive and that efficiencies of above 90% are attainable.
+In some studies evaluating the activity of A. annua extracts,
+the amount of artemisinin in these extracts cannot fully account
+for its effectiveness against Plasmodium parasites in vitro and
+in vivo [16,19]. Mouton et al. however did not find any evidence
+of improved potency for their extracts relative to the artemisinin
+content [22]. Apart from artemisinin, there are around 30 other
+sesquiterpenes and over 36 ﬂavonoids identified in the plant
+(Figure 1), some of which have shown limited anti-plasmodial
+properties [23]. Five flavonoids, including casticin (7), have
+been shown to potentiate the activity of artemisinin [24,25].
+Interestingly, the potentiating effect of these flavonoids was not
+observed with chloroquine (CQ). Billia et al. [26] observed that
+although these flavonoids have no effect on hemin
+(chloroferriprotoporphyrin IX) themselves, they do catalyse a
+reaction between artemisinin and hemin.
+Weathers and Towler [27] have shown that poly-
+methoxylated flavonoids like casticin are poorly extracted and
+unstable in the aqueous tea infusion. This suggests that
+compounds other than this class of flavonoids are likely to be
+responsible for the reported improvement in the potency of
+artemisinin in tea infusion. A recent analysis by Cabonara et al.
+[28] of tea prepared from A. annua leaves by infusion in hot
+water for 1, 24 and 48 hours, identified a series of caffeoyl and
+feruloyl-quinic acids as main components of the infusion,
+together with some flavonoids. Chlorogenic or caffeoylquinic
+acids (CQAs) are esters of caffeic and quinic acids (Figure 1).
+They possess a broad spectrum of pharmacological properties,
+including antioxidant, hepato-protectant, antibacterial, anti-
+histaminic, chemo-preventive and other biological effects
+[29–32].
+To our knowledge, only the interactions of artemisinin with
+the poorly extracted poly-methoxylated flavonoids found in
+Artemisia tea have been studied. This study therefore aims at
+understanding other possible interactions and mechanisms
+involved in artemisinin activity in the plant extract, and the
+effects of these interactions on parasite resistance to
+artemisinin.
+Materials and Methods
+2.1: Chemicals
+Reference standards of artemisinin (98%), rosmarinic acid,
+caffeic acid and casticin were obtained from Sigma-Aldrich
+(Dorset, UK). Dihydroartemisinic acid (> 96%) was purchased
+from Apin Chemicals (Oxfordshire, UK). 9-Epi-artemisinin
+(98%) was sourced from Sensapharm Ltd (Sunderland, UK).
+Artemisitene, artemisinic acid and arteannuin B were kindly
+provided by Walter Reed Army Institute of Research
+(Washington, DC, USA). The chlorogenic acids (>99%) and
+isovitexin (>99%) were obtained from Biopurify (China). LC-MS
+grade formic acid in water, acetonitrile and HPLC grade
+acetonitrile were obtained from Fisher Scientific (UK). Purified
+water (~18 MΩ cm-1) was dispensed from a Milli-Q system
+(Millipore, UK).
+2.2: Plant materials
+High yielding, dried A. annua biomass was obtained from
+BIONEXX Madagascar and stored under dark, cool conditions
+until use.
+2.3: Plant extracts
+A. annua tea was prepared according to published methods
+with slight modification [1,33]. Briefly, 1 L of boiling water was
+added to 5 g of dried plant material, stirred and stored in the
+dark for 1 hour. The extract was filtered in vacuo and
+lyophilised after freezing to obtain the dried tea extract which
+was used in the Plasmodium assays and in metabolite profiling.
+2.4: Sample preparation – solubility studies
+The solubility of artemisinin, artemisitene and 9-epi-
+artemisinin in aqueous solvent at room temperature (22 °C)
+was determined by the method employed by Wang et al. [34],
+with modifications. A saturated solution was prepared by
+dissolving excess amount of the pure (> 99.0%) standard of
+each material in 1 mL de-ionised water (MS grade, Brucker,
+UK) and vortexed. This suspension was allowed to settle and
+the supernatant filtered through a 0.1 µm syringe filter (Fisher
+Scientific, UK). Appropriate volume of the filtrate was diluted
+with the mobile phase for mass spectrometry (MS/MS)
+analysis.
+2.5: Mass spectrometry method for artemisinins
+The method by Suberu et al. [35] was employed. Briefly, the
+MS/MS system was operated with an ESI interface in positive
+ionisation mode (ESI+). The cone and desolvation gas flow
+rates were set at 45 L h-1 and 800 L h-1, respectively. The MS
+parameters were automatically defined using Waters
+IntelliStart® software for the tuning and calibration of the
+tandem quardrupole analyser (TQD) and subsequently
+manually optimized for all analytes. Capillary voltage was set at
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 2 November 2013 | Volume 8 | Issue 11 | e80790
+2.8 Kilovolts, collision voltage at 7 volts, source temperature
+was 150 °C and cone voltage was set at 24 volts. A multiple
+reaction-monitoring (MRM) transition of
+283→219+229+247+265, 283→209+219+247+265,
+Figure 1.  Structures of some artemisinin related compounds, flavonoids and acids identified in A. annua extract.  
+doi: 10.1371/journal.pone.0080790.g001
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 3 November 2013 | Volume 8 | Issue 11 | e80790
+281→217+227+245+263 for artemisinin, 9-epi-artemisinin and
+artemisitene was employed. Quantification was determined
+using MRM modes for the above transitions. The dwell time
+was automatically set at 0.161 seconds. Data were acquired by
+MassLynx v4.1 software and processed for quantification with
+QuanLynx v4.1 (Waters Corp., Milford, MA, USA).
+The high performance liquid chromatography (HPLC) system
+coupled to the mass spectrometer consisted of a binary pump,
+a cooling auto-sampler with an injection loop of 10 µL set at 10
+°C. The column heater was set at 30 °C and a Genesis® Lightn
+C18 column (100 × 2.1 mm; 4 μm) (Grace, IL, USA) protected
+by an Acquity-LC column in-line filter unit (0.2􏰁µm in-line frit)
+was used for separation of metabolites. The mobile phase
+consisted of A: 0.1% formic acid in water and B: 0.1% formic
+acid in acetonitrile used in the following gradient: 0–7.00 min,
+25-98% B; 7-9.5 min, 98% B; 9.5-10 min, 98-25% B; 10-15
+min, 25% B; at a flow rate of 0.4 mL min-1. Weak wash solvent
+was 10% acetonitrile, strong and needle wash solvent was a
+mixture of acetonitrile, propan-2-ol, methanol and water
+(30:30:30:10 v/v/v/v).
+2.6: HPLC method for acids and flavonoid
+Analysis of acids and flavonoid was performed on an Agilent
+1100 series HPLC equipped with a quaternary pump, auto-
+sampler, photodiode array (PDA) and a degasser. The
+chromatographic method by Carbonara et al. [28] was used in
+the analysis with slight modifications. Briefly, the solvent
+system consisted of A (0.1% acetic acid, brought to pH 4 with
+NaOH) and B (0.1% acetic acid in acetonitrile) using a gradient
+elusion of 0-60 min: 12-25% B, 60-80 min: 25-60% B, 80-85
+min: 60-100% B. The system was equilibrated back to 12% B
+for 5 minutes before the next run. Analytes were separated and
+resolved at a flow rate of 1 mL min-1 on a Phenomenex Luna
+C18 column (250 mm x 4.60 mm, 5 µm particle size) attached
+to a C18 guard column. Detection and quantification was at
+310 nm for caffeic acid, chlorogenic acids and isovitexin.
+Rosmarinic acid was analysed at 330 nm wavelength.
+2.7: Plasmodium assay
+Determination of 50% growth inhibitory concentration (IC50)
+values of extracts, compounds and combinations against CQ-
+sensitive (CQS; HB3) and CQ-resistant (CQR; Dd2) strains of
+P. falciparum was performed at Georgetown University,
+Washington, DC, USA, using a previously reported protocol
+[36] with minor modifications. Typically, test samples were
+dissolved in DMSO to give a stock solution, followed by serial
+dilution using complete media (RPMI 1640 supplemented with
+10% (v/v) type-O+ human serum, 25 mM HEPES (pH 7.4), 23
+mM NaHCO3, 11 mM glucose, 0.75 mM hypoxanthine and 20
+µg/L gentamicin) to generate working stocks. 100 μL of these
+stock solutions were transferred into pre-warmed (37 °C) 96-
+well plates. 100 μL of asynchronous parasite culture at 2%
+parasitemia, 4% hematocrit was transferred into each drug (A.
+annua plant extract) pre-loaded well, for a final 1% parasitemia,
+2% hematocrit. The final concentration of DMSO was 2.5%.
+Plates were transferred to a gassed (90% N2, 5% O2, 5% CO2)
+airtight chamber and incubated at 37 °C for 72 hours. Following
+this incubation, 50 μL of 10X SYBR Green I dye (diluted with
+complete media from a 10000X concentrate in DMSO) was
+added to each well and plates incubated for an additional 1
+hour at 37 °C to allow DNA intercalation. Fluorescence was
+measured at 530 nm (490 excitation) on a Spectra GeminiEM
+plate reader (Molecular Devices, USA). IC50 values were
+obtained from sigmoidal curves fit of parasite growth vs. drug
+concentration using SigmaPlot 10.0, and are the average of
+three replicates. CQ was included as a positive control in the
+assay.
+2.8: Combination analysis
+Interactions between compounds were evaluated by
+isobologram analysis [37,38]. Briefly, a master stock solution is
+prepared for each compound such that its concentration
+following four or five twofold dilutions approximates the IC50.
+These stock solutions were mixed at ratios of 0:4, 1:3, 1:1, 3:1
+and 4:0 (v/v) to give working combination stocks.
+Subsequently, the combination stocks were twofold serially
+diluted to generate a full dose concentration range for each v/v
+mixture, which were then analysed under standard growth
+inhibitory assay conditions (see above) to provide dose
+response curves and an IC50, for each component of each v/v
+mixture.
+2.9: Data analysis for in vitro combination studies
+IC50 values for each compound alone and in the combination
+were used to calculate FICs (fractional inhibition
+concentrations) as described elsewhere [39,40]. The FICs were
+summated to obtain the fractional inhibition concentration index
+(FICindex) for the combination as in the equation below:
+FICindex=FICA+FICB
+where:
+FICA=
+IC50 o f  Drug A in Combination
+IC50 o f  Drug A Alone
+FICB=
+IC50 o f  Drug B in Combination
+IC50 o f  Drug B Alone
+The following categorisation was used to determine the type
+of interactions between compounds evaluated: synergy (FICindex
+<0.9), additivity (0.9<FICindex<1.5) and antagonism (FICindex
+>1.5) [39,40].
+Result and Discussion
+3.1: Composition of A. annua tea
+Table 1 shows the metabolites in the aqueous extract
+analysed by both MS/MS and HPLC methods and their
+quantities in milligrams per litre of extract. The compounds
+analysed were based on the in extenso analysis by Carbonara
+et al. [28], who showed them to be among the major
+metabolites (quantitatively) in A. annua tea infusions. Some of
+these metabolites (like 3-caffeoylquinic acid) also have
+important dietary profiles [41,42]. In addition, artemisinin-
+related compounds, which we have previously detected in such
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 4 November 2013 | Volume 8 | Issue 11 | e80790
+extracts, were also analysed. The level of artemisinin reported
+[2,19,21,28,43] for tea extract is varied and the values obtained
+in this study (47.5 mg L-1) are within the reported range. These
+could be due to variation in biomass and the tea preparation
+method that was employed, but might also be due to
+differences in the biomass-to-solvent ratio used. Carbonara et
+al. [28] used a solvent to biomass ratio of 26:1 (v/w), while this
+study, as well as others [19,21], employed the therapeutically
+recommended ratio (200:1, v/w or 5 g L-1) [44].
+Dihydroartemisinic acid (4) (70 mg L-1) and arteannuin B (5)
+(1.3 mg L-1) are the only biosynthetic precursors of artemisinin
+detected in the tea extract using our method [35]. Therefore
+artemisinin is the only compound among the metabolites we
+analysed in the tea with significant (IC50 <1 μM) anti-plasmodial
+activity (Table 2).
+3-Caffeoylquinic acid (11) was found to be the most
+abundant (72 mg L-1) of the caffeic derivatives (11-17) in the
+analysed extract, followed by 3,5-di-caffeoylquinic acid (15) (57
+mg L-1). Caffeic acid (10) was the least abundant (0.8 mg L-1) of
+the evaluated acids. Isovitexin (8) was the only flavonoid
+analysed (105 mg L-1), being relatively abundant in the extract.
+Some classes of flavonoids have poor aqueous solubility and
+limited profiles of these compounds in aqueous extract have
+been reported [27,28]. Lower level of rosmarinic acid (9) (1.1
+mg L-1) was detected in our samples, compared to the levels
+found by De Magalhaes et al [43]. However, widely different
+concentrations of the acid were reported in the cultivars and
+samples they analysed. The acid was not detected in the
+analysis by Carbonara et al [28]. Van der Kooy and Verpoorte
+[21] have also shown that the method employed in preparing
+the hot water infusion does affect the amount of artemisinin
+and therefore other co-metabolites extracted. These
+differences in profiles and concentration levels of metabolites
+seem to suggest that composition of prepared tea infusions
+differ and is significantly influenced by method of preparation
+and the Artemisia cultivar used.
+Table 1. Metabolites in the aqueous A. annua extract
+analysed by both MS/MS and HPLC methods quantified as
+milligrams per litre of tea.
+Compound Amount (mg L-1 of tea)*
+Artemisinin 47.5±0.8
+Arteannuin B 1.3±0.0
+Dihydroartemisinic acid 70.0±0.3
+Caffeic acid 0.8±0.00
+3,5-Di-caffeoylquinic acid 57.0±1.7
+3-Caffeoylquinic acid 72.0±1.6
+4-Caffeoylquinic acid 20.4±1.6
+4,5-Di-caffeoylquinic acid 31.6±4.0
+5-Caffeoylquinic acid 9.0±0.7
+Isovitexin 105.0±7.2
+Rosmarinic acid 1.1±0.0
+*. Values are an average of triplicate determinations with ± S.E.M.
+doi: 10.1371/journal.pone.0080790.t001
+3.2: Anti-plasmodium extracts and bioactive
+compounds in A. annua
+Table 2 shows IC50 anti-plasmodial values for pure
+compounds and extracts of A. annua plant. Between three- and
+seven-fold potentiation of artemisinin activity was observed for
+A .annua aqueous (tea) extract in CQ-sensitive (HB3) and CQ-
+resistant (Dd2) strains respectively. Only artemisitene (3) (IC50,
+88.4±9.9/74.1±7.8 nM, HB3/Dd2) and 9-epi-artemisinin (2)
+(IC50, 59.2±1.7/62.2±1.0 nM, HB3/Dd2) showed significant anti-
+plasmodial activities (IC50 <1 µM) among the artemisinin
+biosynthetic precursors evaluated. 9-Epi-artemisinin and
+artemisitene respectively showed about one third and one
+fourth of the activity of artemisinin. Acton et al. [45] observed a
+similarly reduced activity for 9-epi-artemisinin and artemisitene,
+compared to artemisinin in D6 and W2 strains of P. falciparum.
+Artemisinin has a chiral molecular structure and the bioactivity
+of the molecule is influenced by its absolute configuration.
+To investigate if solubility of these artemisinin analogues
+could be partially responsible for the reduced activity, we
+determined the aqueous solubilities of artemisinin, artemisitene
+and 9-epi-artemisnin. Table 3 shows the solubility of these
+compounds at experimental conditions.
+Under these conditions, 9-epi-artemisinin has a higher
+solubility, about twice that of artemisinin or artemisitene. The
+lower bioactivity could not be explained based on the solubility
+Table 2. IC50 of extracts and components of A. annua in
+CQ-sensitive (HB3) and resistant (Dd2) strains.
+ IC50 (nM)a
+Compound/extracts HB3 strain Dd2 strain
+Chloroquine (CQ) 21.8 ± 2.4 202.9 ± 10.7
+Artemisinin 22.6 ± 0.7 21.2 ± 2.3
+Artesunate 8.8 ± 0.3 5.6 ± 0.6
+Artemisitene 88.4 ± 9.9 74.1 ± 7.8
+9-epi-artemisinin 59.2 ± 1.7 62.2 ± 1.0
+Artemisia aqueous extract (Tea)b 7.6 ± 3.4 2.9 ± 0.4
+ IC50 (µM)a
+Artemisinic acid 77.8 ± 1.5 61.6 ± 7.5
+Arteannuin B 3.2 ± 0.1 4.8 ± 0.4
+Dihydroartemisinic acid 21.1 ± 0.7 17.7 ± 4.2
+Caffeic acid 60.4 ± 4.3 47.5 ± 8.8
+3-Caffeoylquinic acid 69.4 ± 6.4 61.4 ± 4.3
+4-Caffeoylquinic acid 61.4 ± 4.3 53.6 ± 5.0
+5-Caffeoylquinic acid 84.8 ± 6.4 85.3 ± 4.2
+3,4-Caffeoylquinic acid 36.2 ± 1.0 49.0 ± 6.8
+4,5-Caffeoylquinic acid 29.3 ± 2.4 43.2 ± 4.2
+3,4,5-Caffeoylquinic acid 181.4 ± 2.1 88.2 ± 6.2
+Rosmarinic acid 65.1 ± 5.0 65.0 ± 7.0
+Isovitexin 72.5 ± 6.8 48.1 ± 4.5
+Casticin 17.9 ± 4.7 12.2 ± 1.8
+a IC50 values are an average of at least three independent measurements each
+performed in triplicate, and are shown ± S.E.M of the three independent
+experiments. b IC50 of extract determined based on the artemisinin content (i.e.
+ART IC50 of extract) see Table 2.
+doi: 10.1371/journal.pone.0080790.t002
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 5 November 2013 | Volume 8 | Issue 11 | e80790
+data alone, although the experimental data was obtained at 22
+°C (Table 3). We do not expect the pattern observed to change
+significantly at physiological conditions.
+Woerdenbag et al. [46] observed that the anti-cancer activity
+of 11-hydroxy-11-epi-artemisinin (C11 in older and C9 in newer
+references for the structure) was about threefold less than the
+conformer, which is the same threefold difference we observed
+in the anti-plasmodial activity for epimerisation at C9 (Table 2).
+If the threefold activity difference is consistent regardless of the
+differences in molecular targets and effect, this may suggest a
+common upstream differentiation point of molecule activation.
+The lower activity of 9-epi-artemisinin may therefore be due in
+part to a structural conformation that is relatively more difficult
+to activate compared to artemisinin.
+3.3: Antagonism of artemisinin with biosynthetic
+precursors
+Figure 2 shows the interaction of artemisitene and 9-epi-
+artemisinin with artemisinin and artesunate (6). These
+biosynthetic precursors of artemisinin have significant (IC50 <1
+µM) anti-plasmodial activities (Table 2). The interaction of
+artemisinin with 9-epi-artemisinin and artemisitene was
+antagonistic, but the interaction of these compounds with
+artesunate was additive in both chloroquine sensitive (HB3)
+and resistant (Dd2) strains.
+The reason for the observed antagonistic interaction with
+artemisinin at the combinations investigated is unclear.
+Structurally, artemisinin, 9-epi-artemisinin and artemisitene are
+differentiated at C9. The difference from artemisinin is
+epimerisation of the methyl group for 9-epi-artemisinin and a
+methylene group attached instead for artemisitene (Figure 1).
+Given the minor structural differences, it is likely that these
+compounds have identical molecular targets and therefore
+possibly compete for these when combined. Conversely, due to
+the relatively large difference in structure and mass of
+artesunate and 9-epi-artemisinin or artemisitene, these
+compounds, when combined, may act on the same targets as
+well as on different molecular targets with the possibility of
+positive polyvalent interaction. Similarly, Wagner [47–49] has
+reported an in vitro synergistic inhibitory effect upon combining
+ginkgolides A and B from Ginkgo biloba extract for PAF-
+induced thrombocyte-aggregation. The difference between
+ginkgolide A and B is an oxygen atom (16 Da).
+Table 3. Solubility of artemisinin, artemisitene and 9-epi-
+artemisinin in water at 22 °C and atmospheric pressure.
+Compound Solubility [mg L-1]* at 22 °C
+Artemisinin 74.27±2.10
+Artemisitene 74.21±2.99
+9-Epi-artemisinin 133.08±5.44
+*. Values are an average of triplicate determinations with ± S.E.M.
+doi: 10.1371/journal.pone.0080790.t003
+3.4: Analysis of other combinations
+Table 4 shows the interaction of co-metabolites in A. annua
+extracts with artemisinin. In the CQ-sensitive (HB3) strain, 3-
+caffeoylquinic acid (3CA) showed additive interaction at 1:3
+(v/v), which became synergistic at higher ratio of the acid to
+artemisinin (1:10, 1:100 v/v). For casticin, the interaction at 1:3
+(artemisinin to casticin, v/v) is antagonistic. Synergistic
+interaction is however reported [24,25] for combination ratios at
+the range of 1:10-1000 (artemisinin to casticin, v/v).
+Therefore, using the FIC index of casticin (1.9) as a
+benchmark for potential positive interactions, compounds like
+isovitexin, caffeic acid and dihydroartemisinic acid that show
+antagonistic interactions at 1:3 may also, like casticin, interact
+synergistically at a higher ratio. Rosmarinic acid was
+synergistic at a 1:3 combination with artemisinin (v/v) and some
+chlorogenic acids were additive at this combination also. These
+compounds showing positive interactions with artemisinin may
+collectively be responsible for the potentiation of artemisinin in
+the tea extract. However, arteannuin B and artemisinic acid are
+poorly extracted in the aqueous extract.
+Casticin and 3-caffeoylquinic acid (3CA) are polyphenolic
+compounds that are natural anti-oxidants. Anti-oxidants at
+cellular redox sites are considered a “double edged sword”
+able to act either as anti-oxidant or pro-oxidant depending on
+conditions, such as dosage levels and presence of metal ions
+[50,51]. This “double edged sword” characteristic of anti-
+oxidant polyphenols could help explain our observation. At a
+lower combination with artemisinin, casticin and 3CA were anti-
+oxidative towards the ROS and carbon-centred radicals formed
+from artemisinin activation and, as a result, countered
+artemisinin activity in vitro. Conversely, at a higher
+concentration ratio to artemisinin, casticin and 3CA were pro-
+oxidative, enhancing the oxidative stress resulting from
+artemisinin’s activation, leading to improvement in artemisinin’s
+potency. A schematic isobologram to describe the interaction
+between an active pharmaceutical ingredient (API) like
+artemisinin (A) and synergists like casticin and 3CA (B, non-
+API) is shown in Figure 3.
+3.5: Possible role of anti-oxidant defence network in
+resistance
+Rosmarinic acid at the combination ratio evaluated had a
+potentiating effect (FICindex 0.89) on artemisinin in the CQ-
+sensitive (HB3) strain (Table 4) but this effect was not
+reproduced in the resistant (Dd2) strain; rather a strong
+antagonistic effect (FICindex 4.95) was observed. The effect of
+rosmarinic acid on artemisinin’s ability to mitigate the
+resistance mechanism of the parasite could be partly explained
+by the finding of Cul et al. [52] and others [53] who observed
+that in vitro resistance in P. falciparum is associated with
+increased pfmdr-1 copy number and anti-oxidant activity. Some
+experiments with rosmarinic acid have reported strong anti-
+oxidant activity for the compound that is over three times that of
+trolox [54–56]. In the presence of rosmarinic acid, anti-oxidant
+activity may further be elevated thereby promoting increased
+resistance. A similar trend of activity in sensitive and resistant
+parasite strains in combination with artemisinin was observed
+for caffeic acid, 4-caffeoyl-quinic acid (12) and isovitexin with
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 6 November 2013 | Volume 8 | Issue 11 | e80790
+reported anti-oxidant properties [57–59]. This supports the
+possible role of the anti-oxidant defence network in parasite
+resistance to artemisinin [60]
+3.6: Arteannuin B selectively potentiates the activity of
+artemisinin against parasite defence system
+Arteannuin B at 3:1 (v/v) combination with artemisinin
+showed additive or no interaction (FICindex 1.25) in the CQ-
+sensitive strain and a synergistic interaction (FICindex 0.34) in
+the resistant parasite strain (Table 4). This is about a three-fold
+improvement in artemisinin’s potency against CQ-resistant P.
+falciparum. This is not reproduced in the CQ-sensitive strain.
+The potentiation of artemisinin by arteannuin B seems to be
+selectively directed at the parasites’ chloroquine resistance
+mechanism. This combination could therefore help to better
+understand the mechanism(s) involved in parasite defence
+network. Reproducing this three-fold improvement in potency
+with other artemisinin analogues could also help in the
+development of therapeutics effective against emerging drug-
+resistant strains.
+Arteannuin B is an unusual α-methylene-γ-lactone,
+transfused via a tertiary hydroxyl group [61]. This structure
+could account for its easy fragmentation/ionisation observed in
+mass spectrometry and reported facile rearrangement in acidic
+conditions [35,62].
+4: Conclusions
+In this study we examine interactions between artemisinin
+and co-metabolites found in A. annua plant extracts for
+chloroquine sensitive (CQS; HB3) and resistant (CQR; Dd2) P.
+falciparum malarial parasites. The aqueous extract (tea)
+showed about three to seven-fold potentiation in the parasite
+strains. When pure compounds were combined, 9-epi-
+Figure 2.  Isobologram showing the plot of fractional inhibitory concentration (FIC) of 9-epi-artemisinin (EPI) and
+artemisitene (ATENE) against FIC of artemisinin (ART) and artesunate (ATSU).  Panel A - interaction of EPI and ATENE with
+ART in chloroquine-sensitive (CQS) HB3 strain. Panel B – same as in A but in CQ-resistant (CQR) Dd2 strain. Panel C - interaction
+of EPI and ATENE with ATSU in HB3. Panel D – same as C but in Dd2 parasite.
+doi: 10.1371/journal.pone.0080790.g002
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 7 November 2013 | Volume 8 | Issue 11 | e80790
+artemisinin and artemisitene interacted antagonistically with
+artemisinin at the combinations evaluated. 9-epi-artemisinin
+Table 4. Anti-plasmodial interactions of co-metabolites with
+artemisinin in CQ-sensitive (HB3) and CQ-resistant (Dd2)
+strains.
+ HB3 Dd2
+Combination FICindex Interaction FICindex Interaction
+1:3 ART:CA 1.570 Antagonistic 4.046 Antagonistic
+1:3 ART:3CA 1.172 Additive 2.088 Antagonistic
+1:10 ART:3CA 0.685 Synergistic 1.087 Additive
+1:100 ART:3CA 0.781 Synergistic 1.177 Additive
+1:3 ART:4CA 1.088 Additive 4.266 Antagonistic
+1:3 ART:5CA 0.928 Additive 2.460 Antagonistic
+1:3 ART:34CA 2.253 Antagonistic 4.862 Antagonistic
+1:3 ART:35CA 2.312 Antagonistic 4.749 Antagonistic
+1:3 ART:45CA 2.315 Antagonistic 4.844 Antagonistic
+1:3 ART:TCA 1.220 Additive 3.041 Antagonistic
+1:3 ART:ISO 1.534 Antagonistic 4.829 Antagonistic
+1:3 ART:CAS 1.921 Antagonistic 3.034 Antagonistic
+1:3 ART:ATCID 1.467 Additive 4.152 Antagonistic
+1:3 ART:ARTB 1.250 Additive 0.342 Synergistic
+1:3 ART:RA 0.890 Synergistic 4.952 Antagonistic
+1:3 ART:DHAA 1.801 Antagonistic 2.861 Antagonistic
+1:3 ART:ATENE 3.480 Antagonistic 7.002 Antagonistic
+ART 1 - 1 -
+Art = artemisinin, CA = caffeic acid, 3CA = 3-caffeoylquinic acid, 4CA = 4-
+caffeoylquinic acid, 5CA = 5-caffeoylquinic acid, 3,4 CA = 3,4-di-caffeoylquinic
+acid, 3,5CA = 3,5-di-caffeoylquinic acid, 4,5CA = 4,5-di-caffeoylquinic acid, TCA =
+3,4,5-tri-caffeoylquinic acid, ISO = siovitexin, CAS = casticin, ATCID = artemisinic
+acid, ARTB = arteannuin B, RA = rosmarinic acid, DHAA = dihydroartemisinic acid,
+ATENE = artemisitene.
+doi: 10.1371/journal.pone.0080790.t004
+Figure 3.  A schematic isobologram of the interaction of
+artemisinin (API) with anti-oxidant synergist (Non-API).  
+doi: 10.1371/journal.pone.0080790.g003
+and artemisitene were the only artemisinin-related metabolites
+with significant anti-plasmodial activity (IC50 <1 μM) among
+those evaluated. In CQS parasites, caffeic acids and their
+chlorogenic acid derivatives showed additive interactions with
+artemisinin at the combination ratio evaluated. 3-Caffeoylquinic
+acid’s interaction with artemisinin turned synergistic with the
+increased ratio of the former in the combination. Rosmarinic
+acid showed synergistic interaction with artemisinin in the drug
+sensitive strain but the interaction with artemisinin in the drug
+resistant strain was strongly antagonistic at the same level of
+combination. This antagonistic interaction in CQR parasites
+was also observed for caffeic acid and some of its derivatives
+known to have anti-oxidant properties. The observation
+supports literature evidence [52,53] for a potential role of anti-
+oxidants in parasite drug resistance. Therefore the effect of
+dietary anti-oxidants on artemisinin combination therapies used
+in the management of drug resistant P. falciparium malaria may
+need to be further investigated.
+Arteannuin B was found to selectively potentiate the activity
+of artemisinin in Dd2 parasites, suggesting some interaction
+with the CQR mechanism, since the potentiation of artemisinin
+by arteannuin B was not reproduced in CQS parasites. As a
+result of this specificity, arteannuin B could potentially be used
+as a probe to better understand parasite drug resistance
+mechanisms and the combination might prove useful for
+treating CQR strains of malaria.
+Acknowledgements
+The authors would like to acknowledge earlier assistance with
+in vitro assay done in Prof. Steve Ward’s laboratory (Liverpool
+School of Tropical Medicine) by Mrs. Jill Davies, which
+provided a foundation for the current work. The authors also
+thank Ms. Katy Sherlach (Georgetown University, USA) for
+technical help and helpful discussions and are grateful to
+BIONEXX (Madagascar) and Charles Giblane for supply of A.
+annua biomass.
+Author Contributions
+Conceived and designed the experiments: JS GB AL PR.
+Performed the experiments: JS AG LJ. Analyzed the data: JS
+AG. Contributed reagents/materials/analysis tools: NS. Wrote
+the manuscript: JS GB AL.
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 8 November 2013 | Volume 8 | Issue 11 | e80790
+References
+1. Hsu E (2006) The history of qing hao in the Chinese materia medica.
+Trans R Soc Trop Med Hyg 100: 505-508. doi:10.1016/j.trstmh.
+2005.09.020. PubMed: 16566952.
+2. Wright CW, Linley PA, Brun R, Wittlin S, Hsu E (2010) Ancient Chinese
+methods are remarkably effective for the preparation of artemisinin-rich
+extracts of Qing Hao with potent antimalarial activity. Molecules 15:
+804-812. doi:10.3390/molecules15020804. PubMed: 20335947.
+3. O’Neill PM, Barton VE, Ward SA (2010) The molecular mechanism of
+action of artemisinin—the debate continues. Molecules 15: 1705-1721.
+doi:10.3390/molecules15031705. PubMed: 20336009.
+4. Ding XC, Beck H-P, Raso G (2011) Plasmodium sensitivity to
+artemisinins: magic bullets hit elusive targets. Trends Parasitol 27:
+73-81. doi:10.1016/j.pt.2010.11.006. PubMed: 21169061.
+5. Pandey AV, Tekwani BL, Singh RL, Chauhan VS (1999) Artemisinin,
+an endoperoxide antimalarial, disrupts the hemoglobin catabolism and
+heme detoxification systems in malarial parasite. J Biol Chem 274:
+19383-19388. doi:10.1074/jbc.274.27.19383. PubMed: 10383451.
+6. Jefford CW (2001) Why artemisinin and certain synthetic peroxides are
+potent antimalarials. Implications for the mode of action. Curr Med
+Chem 8: 1803-1826. doi:10.2174/0929867013371608. PubMed:
+11772352.
+7. Eckstein-Ludwig U, Webb RJ, Van Goethem ID, East JM, Lee AG et al.
+(2003) Artemisinins target the SERCA of Plasmodium falciparum.
+Nature 424: 957-961. doi:10.1038/nature01813. PubMed: 12931192.
+8. Wang J, Huang L, Li J, Fan Q, Long Y et al. (2010) Artemisinin Directly
+Targets Malarial Mitochondria through Its Specific Mitochondrial
+Activation. PLOS ONE 5: e9582. doi:10.1371/journal.pone.0009582.
+PubMed: 20221395.
+9. Li W, Mo W, Shen D, Sun L, Wang J et al. (2005) Yeast Model
+Uncovers Dual Roles of Mitochondria in the Action of Artemisinin.
+PLOS Genet 1: e36. doi:10.1371/journal.pgen.0010036. PubMed:
+16170412.
+10. Haynes RK, Monti D, Taramelli D, Basilico N, Parapini S et al. (2003)
+Artemisinin antimalarials do not inhibit hemozoin formation. Antimicrob
+Agents Chemother 47: 1175-1175. doi:10.1128/AAC.47.3.1175.2003.
+PubMed: 12604568.
+11. Golenser J, Waknine JH, Krugliak M, Hunt NH, Grau GE (2006)
+Current perspectives on the mechanism of action of artemisinins. Int J
+Parasitol 36: 1427-1441. doi:10.1016/j.ijpara.2006.07.011. PubMed:
+17005183.
+12. Eastman RT, Fidock DA (2009) Artemisinin-based combination
+therapies: a vital tool in efforts to eliminate malaria. Nat Rev Microbiol
+7: 864-874. PubMed: 19881520.
+13. Klonis N, Crespo-Ortiz MP, Bottova I, Abu-Bakar N, Kenny S et al.
+(2011) Artemisinin activity against Plasmodium falciparum requires
+hemoglobin uptake and digestion. Proc Natl Acad Sci USA 108:
+11405-11410. doi:10.1073/pnas.1104063108. PubMed: 21709259.
+14. Haynes RK (2006) From artemisinin to new artemisinin antimalarials:
+biosynthesis, extraction, old and new derivatives, stereochemistry and
+medicinal chemistry requirements. Curr Top Med Chem 6: 509-537.
+doi:10.2174/156802606776743129. PubMed: 16719805.
+15. Weina PJ (2008) Artemisinins from Folklore to Modern Medicine-
+Transforming an Herbal Extract to Life-Saving Drugs. Parassitologia
+50: 25–29. PubMed: 18693553.
+16. Jansen FH (2006) The herbal tea approach for artemisinin as a therapy
+for malaria? Trans R Soc Trop Med Hyg 100: 285–286. doi:10.1016/
+j.trstmh.2005.08.004. PubMed: 16274712.
+17. WHO Report (2012) WHO position statement on effectiveness of non-
+pharmaceutical forms of Artemisia annua L. against malaria. Available:
+http://www.who.int/malaria/
+position_statement_herbal_remedy_artemisia_annua_l.pdf.
+18. Hsu E (2006) Reflections on the discovery of the antimalarial qinghao.
+Br J Clin Pharmacol 61: 666-670. doi:10.1111/j.
+1365-2125.2006.02673.x. PubMed: 16722826.
+19. Rath K, Taxis K, Walz G, Gleiter CH, Li SM et al. (2004)
+Pharmacokinetic study of artemisinin after oral intake of a traditional
+preparation of Artemisia annua L.(annual wormwood). The American
+journal of tropical medicine and hygiene 70: 128-132.
+20. De Ridder S, Van der Kooy F, Verpoorte R (2008) Artemisia annua as
+a self-reliant treatment for malaria in developing countries. J
+Ethnopharmacol 120: 302-314. doi:10.1016/j.jep.2008.09.017.
+PubMed: 18977424.
+21. Van der Kooy F, Verpoorte R (2011) The Content of Artemisinin in the
+Artemisia annua Tea Infusion. Planta Medica-Natural Products and
+Medicinal. J Plant Res 77: 1754. doi:10.1055/s-0030-1271065.
+22. Mouton J, Jansen O, Frédérich M, van der Kooy F (2013) Is Artemisinin
+the Only Antiplasmodial Compound in the Artemisia annua Tea
+Infusion? An in Vitro Study. Planta Med 79: 468-470. doi:10.1055/
+s-0032-1328324. PubMed: 23512495.
+23. Willcox M, Bodeker G, Bourdy G, Dhingra V, Falquet J et al. (2004)
+Artemisia annua as a traditional herbal antimalarial. Tradit Med Plants
+Malar: 43-59.
+24. Liu K, Yang S-L, Roberts M, Elford B, Phillipson J (1992) Antimalarial
+activity of Artemisia annua flavonoids from whole plants and cell
+cultures. Plant Cell Rep 11: 637-640.
+25. Elford BC, Roberts MF, Phillipson JD, Wilson RJM (1987) Potentiation
+of the antimalarial activity of qinghaosu by methoxylated flavones.
+Trans R Soc Trop Med Hyg 81: 434–436. doi:
+10.1016/0035-9203(87)90161-1. PubMed: 3318019.
+26. Bilia AR, Lazari D, Messori L, Taglioli V, Temperini C et al. (2002)
+Simple and rapid physico-chemical methods to examine action of
+antimalarial drugs with hemin: its application to Artemisia annua
+constituents. Life Sci 70: 769-778. doi:10.1016/
+S0024-3205(01)01447-3. PubMed: 11833740.
+27. Weathers PJ, Towler MJ (2012) The flavonoids casticin and artemetin
+are poorly extracted and are unstable in an Artemisia annua tea
+infusion. Planta Med 78: 1024–1026. doi:10.1055/s-0032-1314949.
+PubMed: 22673829.
+28. Carbonara T, Pascale R, Argentieri MP, Papadia P, Fanizzi FP et al.
+(2012) Phytochemical analysis of a herbal tea from Artemisia annua L.
+J Pharm Biomed Anal 62: 79-86. doi:10.1016/j.jpba.2012.01.015.
+PubMed: 22305080.
+29. Zhang B, Yang R, Liu CZ (2008) Microwave-assisted extraction of
+chlorogenic acid from flower buds of Lonicera japonica Thunb. Sep
+Purif Technol 62: 480-483. doi:10.1016/j.seppur.2008.02.013.
+30. Feng R, Lu Y, Bowman LL, Qian Y, Castranova V et al. (2005)
+Inhibition of activator protein-1, NF-kappaB, and MAPKs and induction
+of phase 2 detoxifying enzyme activity by chlorogenic acid. J Biol Chem
+280: 27888-27895. doi:10.1074/jbc.M503347200. PubMed: 15944151.
+31. Miketova P, Schram KH, Whitney J, Kearns EH, Timmermann BN
+(1999) Mass spectrometry of 3,5- and 4,5-dicaffeoylquinic acids and
+selected derivatives. J Mass Spectrom 34: 1240-1252. doi:10.1002/
+(SICI)1096-9888(199912)34:12. PubMed: 10587617.
+32. Belkaid A, Currie J-C, Desgagnés J, Annabi B (2006) The
+chemopreventive properties of chlorogenic acid reveal a potential new
+role for the microsomal glucose-6-phosphate translocase in brain tumor
+progression. Cancer Cell Int 6: 7. doi:10.1186/1475-2867-6-7. PubMed:
+16566826.
+33. De Donno A, Grassi T, Idolo A, Guido M, Papadia P et al. (2012) First-
+time comparison of the in vitro antimalarial activity of Artemisia annua
+herbal tea and artemisinin. Trans R Soc Trop Med Hyg 106: 696-700.
+doi:10.1016/j.trstmh.2012.07.008. PubMed: 22986092.
+34. Wang L-H, Song Y-T, Chen Y, Cheng Y-Y (2007) Solubility of
+Artemisinin in Ethanol + Water from (278.2 to 343.2) K. J Chem Eng
+Data 52: 757-758. doi:10.1021/je0603426.
+35. Suberu J, Song L, Slade S, Sullivan N, Barker G et al. (2013) A rapid
+method for the determination of artemisinin and its biosynthetic
+precursors in Artemisia annua L. crude extracts. J Pharm Biomed Anal
+84: 269-277. doi:10.1016/j.jpba.2013.06.025. PubMed: 23867088.
+36. Bennett TN, Paguio M, Gligorijevic B, Seudieu C, Kosar AD et al.
+(2004) Novel, rapid, and inexpensive cell-based quantification of
+antimalarial drug efficacy. Antimicrob Agents Chemother 48:
+1807-1810. doi:10.1128/AAC.48.5.1807-1810.2004. PubMed:
+15105139.
+37. Bray PG, Deed S, Fox E, Kalkanidis M, Mungthin M et al. (2005)
+Primaquine synergises the activity of chloroquine against chloroquine-
+resistant P. falciparum. Biochem Pharmacol 70: 1158-1166. doi:
+10.1016/j.bcp.2005.07.021. PubMed: 16139253.
+38. Berenbaum MC (1978) A method for testing for synergy with any
+number of agents. J Infect Dis 137: 122-130. doi:10.1093/infdis/
+137.2.122. PubMed: 627734.
+39. Vivas L, Rattray L, Stewart LB, Robinson BL, Fugmann B et al. (2007)
+Antimalarial efficacy and drug interactions of the novel semi-synthetic
+endoperoxide artemisone in vitro and in vivo. J Antimicrob Chemother
+59: 658-665. doi:10.1093/jac/dkl563. PubMed: 17337512.
+40. Fivelman QL, Adagu IS, Warhurst DC (2004) Modified fixed-ratio
+isobologram method for studying in vitro interactions between
+atovaquone and proguanil or dihydroartemisinin against drug-resistant
+strains of Plasmodium falciparum. Antimicrob Agents Chemother 48:
+4097-4102. doi:10.1128/AAC.48.11.4097-4102.2004. PubMed:
+15504827.
+41. Friedman M (1997) Chemistry, biochemistry, and dietary role of potato
+polyphenols. A review. J Agric Food Chem 45: 1523-1540. doi:10.1021/
+jf960900s.
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 9 November 2013 | Volume 8 | Issue 11 | e80790
+42. Noratto G, Porter W, Byrne D, Cisneros-Zevallos L (2009) Identifying
+peach and plum polyphenols with chemopreventive potential against
+estrogen-independent breast cancer cells. J Agric Food Chem 57:
+5219-5226. doi:10.1021/jf900259m. PubMed: 19530711.
+43. De Magalhaes PM, Dupont I, Hendrickx A, Joly A, Raas T et al. (2012)
+Anti-inflammatory effect and modulation of cytochrome P450 activities
+by Artemisia annua tea infusions in human intestinal Caco-2 cells. Food
+Chem 134: 864-871. doi:10.1016/j.foodchem.2012.02.195. PubMed:
+23107701.
+44. Willcox M (2009) Artemisia species: from traditional medicines to
+modern antimalarials-and back again. J Altern Complement Med 15:
+101-109. doi:10.1089/acm.2008.0327. PubMed: 19236169.
+45. Acton N, Klayman DL (1987) Conversion of artemisinin (qinghaosu) to
+iso-artemisitene and to 9-epi-artemisinin1. Planta Med 53: 266–268.
+doi:10.1055/s-2006-962700. PubMed: 17269016.
+46. Woerdenbag HJ, Moskal TA, Pras N, Malingré TM, El-Feraly FS et al.
+(1993) Cytotoxicity of Artemisinin-Related Endoperoxides to Ehrlich
+Ascites Tumor Cells. J Nat Prod 56: 849-856. doi:10.1021/
+np50096a007. PubMed: 8350087.
+47. Wagner H, Ulrich-Merzenich G (2009) Synergy research: Approaching
+a new generation of phytopharmaceuticals. Phytomedicine 16: 97-110.
+doi:10.1016/j.phymed.2008.12.018. PubMed: 19211237.
+48. Wagner H (2011) Synergy research: Approaching a new generation of
+phytopharmaceuticals. Fitoterapia 82: 34-37. doi:10.1016/j.fitote.
+2010.11.016. PubMed: 21075177.
+49. Wagner H (2005) Natural products chemistry and phytomedicine in the
+21st century: new developments and challenges. Pure Appl Chem 77:
+1-6. doi:10.1351/pac200577010001.
+50. Yordi EG, Pérez EM, Matos MJ, Villares EU (2012) Antioxidant and
+Pro-Oxidant Effects of Polyphenolic Compounds and Structure-Activity
+Relationship Evidence. Nutrition, Well-Being and Health. Intech.
+51. Nemeikaitė-Čėnienė A, Imbrasaite A, Sergediene E, Čėnas N (2005)
+Quantitative structure–activity relationships in prooxidant cytotoxicity of
+polyphenols: role of potential of phenoxyl radical/phenol redox couple.
+Arch Biochem Biophys 441: 182-190. doi:10.1016/j.abb.2005.07.002.
+PubMed: 16111645.
+52. Cui L, Wang ZL, Miao J, Miao M, Chandra R et al. (2012) Mechanisms
+of in vitro resistance to dihydroartemisinin in Plasmodium falciparum.
+Mol Microbiol 86: 111-128. doi:10.1111/j.1365-2958.2012.08180.x.
+PubMed: 22812578.
+53. Sidhu ABS, Uhlemann A-C, Valderramos SG, Valderramos J-C,
+Krishna S et al. (2006) Decreasing pfmdr1 copy number in Plasmodium
+falciparum malaria heightens susceptibility to mefloquine, lumefantrine,
+halofantrine, quinine, and artemisinin. J Infect Dis 194: 528-535. doi:
+10.1086/507115. PubMed: 16845638.
+54. Erkan N, Ayranci G, Ayranci E (2008) Antioxidant activities of rosemary
+(Rosmarinus Officinalis L.) extract, blackseed (Nigella sativa L.)
+essential oil, carnosic acid, rosmarinic acid and sesamol. Food
+Chemistry 110: 76-82.
+55. Petersen M, Simmonds MSJ (2003) Rosmarinic acid. Phytochemistry
+62: 121-125. doi:10.1016/S0031-9422(02)00513-7. PubMed:
+12482446.
+56. Tepe B, Eminagaoglu O, Akpulat HA, Aydin E (2007) Antioxidant
+potentials and rosmarinic acid levels of the methanolic extracts of
+Salvia verticillata (L.) subsp. verticillata and S. verticillata (L.) subsp.
+amasiaca (Freyn &amp; Bornm.) Bornm. Food Chemistry 100:
+985-989..
+57. Gülçin İ (2006) Antioxidant activity of caffeic acid (3,4-
+dihydroxycinnamic acid). Toxicology 217: 213-220. doi:10.1016/j.tox.
+2005.09.011. PubMed: 16243424.
+58. Xu J-G, Hu Q-P, Liu Y (2012) Antioxidant and DNA-Protective Activities
+of Chlorogenic Acid Isomers. J Agric Food Chem 60: 11625-11630. doi:
+10.1021/jf303771s. PubMed: 23134416.
+59. Cao D, Li H, Yi J, Zhang J, Che H et al. (2011) Antioxidant Properties
+of the Mung Bean Flavonoids on Alleviating Heat Stress. PLOS ONE 6:
+e21071. doi:10.1371/journal.pone.0021071. PubMed: 21695166.
+60. Bozdech Z, Ginsburg H (2004) Antioxidant defense in Plasmodium
+falciparum–data mining of the transcriptome. Malar J 3: 23. doi:
+10.1186/1475-2875-3-23. PubMed: 15245577.
+61. Agrawal PK, Vishwakarma RA, Jain DC, Roy R (1991) High field NMR
+spectroscopic studies of arteannuin B and a reappraisal of the structure
+of arteannuin C. Phytochemistry 30: 3469-3471. doi:
+10.1016/0031-9422(91)83234-C.
+62. Lansbury PT, Mojica CA (1986) Total synthesis of (±)-arteannuin B.
+Tetrahedron Lett 27: 3967-3970. doi:10.1016/S0040-4039(00)84886-8.
+Anti-Plasmodial Polyvalent Interactions of A.Annua
+PLOS ONE | www.plosone.org 10 November 2013 | Volume 8 | Issue 11 | e80790

@@ -71,7 +71,10 @@ def get_results_for_doi(doi: str) -> list[dict]:
     """
 
     if doi in _request_dict_info:
-        return _request_dict_info[doi]
+        r = _request_dict_info[doi]
+        fulltexts = [c['fullText'] for c in r if c['fullText']]
+        if len(fulltexts) > 0:
+            return _request_dict_info[doi]
     # else:
     #     raise HTTPError(f'Error getting results for {doi}')
 

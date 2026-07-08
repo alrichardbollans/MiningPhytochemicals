@@ -1,0 +1,706 @@
+Plant Physiol. (1994) 106: 999-1005 
+Regulation of Oleoresinosis in Grand Fir (Abies grandis)' 
+Coordinate lnduction of Monoterpene and Diterpene Cyclases and 
+Two Cytochrome P450-Dependent Diterpenoid Hydroxylases by Stem Wounding 
+Christoph Funk', Efraim Lewinsohn, Brigitte Stofer Vogel, Christopher 1. Steele, and Rodney Croteau* 
+lnstitute of Biological Chemistry, Washington State University, Pullman, Washington 991 64-6340 
+Oleoresin (pitch) i s  a defensive secretion composed of monoter- 
+pene olefins (turpentine) and diterpene resin acids (rosin) that i s  
+produced in grand fir (Abies grandis Lindl.) stems in response to 
+wounding. Monoterpene and diterpene biosynthesis are coordi- 
+nately induced in wounded stems as determined by monitoring the 
+adivity of monoterpene and diterpene cyclases, as well as two 
+cytochrome P450-dependent diterpenoid hydroxylases involved in 
+the formation of (-)-abietic acid, the principal resin acid of this 
+species. l h e  adivity of these enzymes reaches maximum levels that 
+are 5- to 100-fold higher than those of nonwounded control stems 
+10 d after wounding and this i s  followed by a synchronous decline. 
+l h e  increase in biosynthetic adivity i s  consequently followed by 
+the accumulation of a viscous mass of resin acids, with the loss of 
+the volatile monoterpenes, at the site of injury. The observed 
+coordinate induction of monoterpene olefin and abietic acid bio- 
+synthesis and the results of oleoresin analysis are consistent with 
+the role of the volatile monoterpenes as a solvent for the mobili- 
+zation and deposition of resin acids at the wound site to seal the 
+injury with a rosin barrier after the evaporation of the turpentine. 
+l h e  last step of resin acid biosynthesis i s  catalyzed by an opera- 
+tionally soluble aldehyde dehydrogenase that i s  not inducible by 
+wounding but seemingly is expressed constitutively at a high level. 
+In vivo ["Clacetate feeding and resin analysis indicate that this 
+enzyme is  not efficiently coupled to the earlier steps of the 
+pathway. 
+Many conifer species secrete oleoresin, composed mainly 
+of monoterpene olefins (turpentine) and diterpenoid resin 
+acids (rosin), in response to wounding and attack by insects 
+and pathogens (Johnson and Croteau, 1987; Nebeker et al., 
+1993). This material represents an important defensive secre- 
+tion based on the antifungal properties and toxicity toward 
+bark beetles of oleoresin constituents (Raffa et al., 1985) and 
+on the ability to physically seal injuries by solidification of 
+the resin acids after evaporation of the turpentine (Croteau 
+and Johnson, 1985). Constitutive oleoresin is synthesized in 
+the epithelial cells of specialized secretory structures such as 
+resin blisters or ducts, whereas induced oleoresin appears to 
+Supported in part by U.S. Department of Agriculture grant 91- 
+37302-631 1 and by Project 0967 from the Agricultura1 Research 
+Center, Washington State University. 
+Present address: Botanical Institute, University of Basel, Hebel- 
+strasse 1, 4056 Basel, Switzerland. 
+* Corresuondine. author; fax 1-509-335-7643. 
+originate in nonspecialized cells, adjacent to the site of injury, 
+that are not normally associated with terpenoid production 
+(Cheniclet, 1987; Raffa, 1991; Yamada, 1992). In both in- 
+stances, analytical and microscopic evidence (Lieutier and 
+Benyman, 1987; Cheniclet et al., 1988) suggests that the 
+monoterpenes and diterpenoids are formed at about the same 
+time in the same location, consistent with the requirement 
+for an organic solvent (turpentine) in which the water-insol- 
+uble diterpene resin acids can be dissolved and translocated 
+(Croteau and Johnson, 1985). 
+Grand fir (Abies grandis Lindl.) has proved to be a useful 
+model for the study of induced oleoresin production (Lew- 
+insohn et al., 1992a; Gijzen et al., 1993). Formation of oleo- 
+resin monoterpenes in this species is catalyzed by a series of 
+synthases (cyclases) that transform the common Clo isopre- 
+noid precursor geranyl pyrophosphate to olefins of the var- 
+ious skeletal types (Fig. 1) (Gijzen et al., 1991). The principal 
+resin acid, (-)-abietic acid (Lewinsohn et ai., 1993b), is 
+formed by cyclization of the corresponding Cz0 isoprenoid 
+precursor geranylgeranyl pyrophosphate to (-)-abieta- 
+7(8),13(14)-diene (LaFever et al., 1994), followed by sequen- 
+tia1 oxidation of the A-ring a-methyl of the olefin to a 
+carboxyl function involving two distinct Cyt P450-dependent 
+hydroxylases and an aldehyde dehydrogenase (Fig. 1) (Funk 
+and Croteau, 1994). This oxidation sequence resembles that 
+involved in the conversion of (-)-kaurene to (-)-kaurenoic 
+acid en route to GAs (Dennis and West, 1967; Murphy and 
+West, 1969) and that involved in the production of 4-a- 
+carboxy phytosterols as intermediates of the C4-demethyla- 
+tion process (Pascal et al., 1993). 
+To better understand the mechanisms regulating induced 
+oleoresin formation, both oleoresin accumulation and the 
+induction pattems of the monoterpene cyclases as well as the 
+enzymes involved in abietic acid biosynthesis were examined 
+after stem wounding in grand fir. Coordinate induction of 
+the monoterpene cyclases, the diterpene cyclase, and the two 
+Cyt P450-dependent diterpene hydroxylases was observed, 
+consistent with the role of the monoterpenes as solvent for 
+the diterpenoid resin acids in their migration to the wound 
+site and their ultimate deposition to seal the injury. 
+MATERIALS AND METHODS 
+Plant Materiais, Substrates, and Standards 
+Two-year-old grand fir (Abies grandis Lindl.) saplings were 
+Durchased from the Forest Research Nurserv, Universitv of ., ,. 
+999 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+1 O00 Funk et al. Plant Physiol. Vol. 106, 1994 
+Figure 1. Outline of the biosynthesis of mon- 
+oterpene olefins and abietic acid, the principal 
+diterpenoid resin acid of grand fir oleoresin. 
+IPP, lsopentenyl pyrophosphate; DMAPP, di- 
+methylallyl pyrophosphate; GPP, geranyl py- 
+rophosphate; FPP, farnesyl pyrophosphate; 
+CCPP, geranylgeranyl pyrophosphate; 1 ,  mon- 
+oterpene cyclases; 2, abietadiene cyclase; 3, 
+abietadiene hydroxylase; 4, abietadienol hy- 
+droxylase; 5, abietadienal dehydrogenase. 
+O 
+3x A,,, 
+Acelyl-COA 
+f + 
+t HooCs 
+OH 
+Mevalonic acid DMAPP IPP 
+PP 
+1"' 
+6 8 $5 Q 
+a-Pinene p-Pinene 3-Carene p .Phelland!ene Limanene 
+FPP 
+GGPP 
+Idaho (Moscow, ID) and were grown in standard potting mix 
+(Sales Inc., Puyallup, WA) under controlled light (16 h day, 
+200-300 pE m-* s-') and temperature (26OC day/l5OC night) 
+conditions, and were watered daily and fertilized weekly 
+(15:30:15, N:P:K) (Lewinsohn et al., 1991b). The saplings 
+were allowed to grow under these conditions for at least 6 
+weeks to fully break dormancy and were wounded at the 
+indicated times prior to experimental use by making, with a 
+razor blade, a series of I-mm-deep cuts, approximately 3 mm 
+apart, along the entire stem on opposite sides (Lewinsohn et 
+al., 1991a). 
+The seed of these trees was collected from the wild (Sears 
+Creek, Clearwater drainage area, near Harpster, ID, elevation 
+1.1-1.4 km) and, over the course of many experiments, the 
+derived saplings were shown to vary in constitutive cyclase 
+levels and in the timing of onset and the maximum induci- 
+bility of these enzymes, as well as in severa1 morphological 
+characteristics. To " i z e  the effects of variation, the sa- 
+plings were grown under conditions that avoided stresses 
+known to influence the wound-induced response (Lewinsohn 
+et al., 1993a), and a11 five enzyme assays and the analysis of 
+oleoresin constituents were camed out for each time point 
+with the same set of trees from a visually matched population. 
+The preparations of [l-3H]geranyl pyrophosphate (122 Ci/ 
+mol) and [ l-3H]geranylgeranyl pyrophosphate (122 Ci/mol) 
+have been described (Croteau et al., 1994; LaFever et al., 
+1994), as have the preparations of (-)-[18-3H]abieta- 
+7(8),13( 14)-diene (1 17 Ci/mol), (-)-[ 18-3H]abieta- 
+7(8),13(14)-dien-18-01 (117 Ci/mol), and (-)-[3H]abieta- 
+7(8),13(14)-dien-18-a1 (Funk and Croteau, 1994). Sodium 
+[1(2)-14C]acetate (51 Ci/mol) was obtained from Amersham 
+and analytical silica gel sheets (0.2 mm) were purchased from 
+Eastman Kodak (Rochester, NY). Authentic (-)-abietic acid 
+was obtained from Helix Biotech Corp. (Richmond, British 
+Columbia, Canada) and was used to synthesize the corre- 
+sponding abietadiene, abietadienol, and abietadienal by pro- 
+Abietadiene Abietadienol Abietadlenal Abietic acid 
+cedures previously described (Funk and Croteau, 1994). All 
+other biochemicals and reagents were from Sigrrta or Aldrich 
+Chemical Co. (Milwaukee, WI) unless othenvise noted. 
+Conversion of ['4C]Acetic Acid to Oleoresin Components 
+by Crand Fir Stem Tissue 
+Grand fir saplings were harvested 9 d after wcxmding, the 
+stems were cut into 2-mm-long sections, and a randomized 
+sample (approximately 300 mg fresh weight, representing 
+three stem sections from each of five saplings) was incubated 
+for 12 h at 20°C in buffer containing 1 pCi of [1(2)-'4C]acetic 
+acid as described previously (Funk and Croteau, 1994). A 
+control incubation with stem sections from rionwounded 
+saplings was also camed out, and to examine localization of 
+oleoresin biosynthesis and attempt to " i z e  the adverse 
+effect of the oleoresin on precursor uptake, debarked stem 
+sections (containing principally xylem tissue) fram wounded 
+and control saplings were also tested. In each case, intemal 
+standards (20 pg each of abietadiene, abietadienol, abieta- 
+dienal, and abietic acid) were added to the sarnples at the 
+end of the incubation, the tissue was homogenized and 
+extracted, and the products were quantified by l~quid scintil- 
+lation spectrometry after separation by a conibmation of 
+column chromatography and TLC as before (Funk and Cro- 
+teau, 1994). 
+Enzyme lsolation and Assay 
+Saplings were harvested at the indicated times after 
+wounding and, after remova1 of needles and branches, the 
+stems were cut into 1-cm sections and homogenized in a 
+Waring blender using the conditions and extraction buffer 
+(approximately 4 mL/g tissue) previously described (Funk 
+and Croteau, 1994). To minimize the influence 01: tree-to-tree 
+variation, stem tissues from five individuals were pooled for 
+the preparation of each homogenate, which was filtered and 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+lnduced Oleoresinosis in Grand Fir 
+centrifuged (12,00Og, 20 min) to give a supematant used as 
+the enzyme source. Aliquots of this material were taken for 
+the determination of total monoterpene synthase activity (the 
+divalent cation-dependent conversion of [l-3H]geranyl py- 
+rophosphate to a-pinene, P-pinene, 3-carene, 8-phellan- 
+drene, limonene, and other olefins by a mixture of cyclases) 
+using an assay previously described (Lewinsohn et al., 1991b) 
+and for the determination of diterpene synthase activity (the 
+divalent cation-dependent conversion of [ 1 -3H]geranylge- 
+ranyl pyrophosphate to abietadiene [approximately 90%] and 
+sandaracopimaradiene [approximately 9%]), also employing 
+a previously described assay (LaFever et al., 1994). NAD- 
+dependent abietadienal dehydrogenase activity was also 
+measured with this preparation, as outlined previously, using 
+rHIabietadiena1 as substrate (Funk and Croteau, 1994). For 
+the detennination of Cyt P450-dependent abietadiene and 
+abietadienol hydroxylase activities, microsomes were pre- 
+pared from the above supematants by centrifugation at 
+195,0008 (90 min) and the pellets were resuspended in hy- 
+droxylase assay buffer for monitoring the conversion of 
+fH]abietadiene to abietadienol, and of rHlabietadieno1 to 
+abietadienal, by established methods (Funk and Croteau, 
+1994). Each of the above assays is based on the transforma- 
+tion of the appropriate substrate (tritium labeled on the A- 
+ring a-substituent) to the corresponding, chromatographi- 
+cally purified product, and involved duplicate measurements 
+using two independent preparations (i.e. four assays per time 
+point). Radioactivities were detennined by liquid scintillation 
+spectrometry (3H efficiency = 40%, with counting error 4 % )  
+and are reported, with SE values, on a protein basis. Protein 
+concentration was estimated by the method of Bradford 
+(1976) using the Bio-Rad dye-binding reagent and bovine 7- 
+giobulin as standard. 
+Oleoresin Analysis 
+Stem sections (1-2 g fresh weight) of the same five 
+wounded or control trees utilized for enzyme extraction at 
+each time point were employed for oleoresin analysis by 
+diethyl ether extraction and capillary GLC separation using 
+intemal standardization and a previously developed protocol 
+(Lewinsohn 'et al., 1993b). Monoterpene olefins, neutra1 di- 
+terpenoids (abietadiene, abietadienol, and abietadienal), and 
+resin acids (as methyl esters) were separated on the same 
+column (0.25 rnm X 30 m, Superox FA) using the same 
+conditions previously described for the combined analysis 
+(Lewinsohn et al., 1993b). The identity of each resin com- 
+ponent was verified by GLC-MS comparison of retention 
+time and mass spectrum to those of the authentic standard. 
+All determinations were made using two independent ex- 
+tracts from different sets of five trees at each time point and 
+are reported, with SE values, on a dry weight basis (subsample 
+dried at SOOC). 
+RESULTS AND DISCUSSION 
+Oleoresin Biosynthesis in Wounded Crand Fir Saplings 
+Upon wounding, a 25-fold increase in monoterpene s p -  
+thase activity was observed (Fig. 2A) relative to nonwounded 
+controls, in which-negligible change in cyclase activity oc- 
+o w 
+k 
+2 + o a 
+w 
+I 
+z w 
+LL 
+O 
+Z 
+O 
+i= o 
+3 n z 
+O 
+& 
+9 
+LL 
+TIME (days) 
+Figure 2. Changes in the activities of the enzymes of monoterpene 
+olefin and abietic acid biosynthesis in grand fir sapling stems in 
+response to wounding. Relative enzyme activities of (A) total mon- 
+oterpene cyclases (e) and abietadiene cyclase (O); (B) abietadiene 
+hydroxylase (V) and abietadienol hydroxylase (0); and (C) abieta- 
+dienal dehydrogenase (m) are plotted as a function of time after 
+wounding. Specific activities (protein basis) at the time of stem 
+wounding (O time = constitutive activities) were: monoterpene 
+cyclases (40 f 6 pkatlg), abietadiene cyclase (11  f 4 pkatlg), 
+abietadiene hydroxylase (1.3 f 0.2 pkatlg), abietadienol hydroxyl- 
+ase (0.33 f 0.08 pkatlg), and abietadienal dehydrogenase (220 f 
+40 pkatlg). 
+curred over the 20-d time course. Activity peaked 10 d after 
+wounding, then steadily declined. This induction in grand fir 
+represents an enhancement of constitutive activities (primar- 
+ily limonene cyclase) and the appearance of new cyclase 
+activities that catalyze the conversion of geranyl pyrophos- 
+phate to sabinene, 3-carene, a-pinene, j3-pinene, and other 
+monoterpenes (Gijzen et al., 1991; Lewinsohn et al., 1991a). 
+The major wound-inducible monoterpene cyclase of grand 
+fir produces both (-)-a-pinene and (-)-P-pinene (Wagschal 
+et al., 1991), and this enzyme is essentially absent in non- 
+wounded stems (Gijzen et al., 1991). The pinene cyclase has 
+been purified to homogeneity (Lewinsohn et al., 1992b) and 
+used to generate polyclonal antibodies that were employed 
+to demonstrate, by immunoblotting, that the wound-induced 
+increase in total cyclase activity was the result of an increase 
+in the corresponding cyclase proteins (Gijzen et al., 1992). 
+A dramatic increase (approximately 400-fold) in the diter- 
+pene synthase activity, catalyzing the cyclization of geranyl- 
+geranyl pyrophosphate to abietadiene and small amounts 
+(approximately 9%) of sandaracopimaradiene, was also ob- 
+served upon stem wounding of grand fir (Fig. 2A). The 
+pattem for the induction of diterpene (abietadiene) cyclase 
+activity and its subsequent decline was essentially superim- 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+1002 Funk et ai. Plant Physiol. Vol. 106, 1994 
+posable with that of the monoterpene cyclases, with a maxi- 
+mum reached after 10 d followed by a decline to near control 
+levels at 20 d after wounding. As with the monoterpene 
+cyclases, no significant change was observed in diterpene 
+cyclase activity in the nonwounded controls over the 20-d 
+time course. The constitutive level of diterpene cyclase activ- 
+ity is significantly lower than the level of monoterpene cy- 
+clase activity in this tissue. 
+The three sequential oxidation steps for the conversion of 
+abietadiene to abietic acid (Fig. 1) are catalyzed by two 
+microsomal Cyt P450 hydroxylases and a soluble aldehyde 
+dehydrogenase (Funk and Croteau, 1994), and both Cyt P450 
+hydroxylase activities were induced by wounding (Fig. 2B). 
+' f i e  induction pattem for both enzymes followed closely 
+those of the terpene cyclases, reaching a maximum at 10 d 
+,%fter wounding with about a 7-fold increase for the abi- 
+citadiene hydroxylase and about a 60-fold increase for the 
+abietadienol hydroxylase relative to the controls; the kinetics 
+of activity decline were also similar to those of the cyclases. 
+l'n contrast to the microsomal hydroxylases, the soluble abie- 
+tadienal dehydrogenase activity was not induced by stem 
+wounding, but was expressed constitutively at a relatively 
+high level (Fig. 2C). The slight decrease in dehydrogenase 
+specific activity over time may result from changes in protein 
+concentration in response to wounding; no significant change 
+in specific activity of the dehydrogenase, or of the two 
+hydroxylases, was observed in the nonwounded control 
+stems over this time period. 
+The nearly superimposable induction of activity for the 
+monoterpene cyclases, the diterpene cyclase, and the two Cyt 
+P450 diterpenoid hydroxylases in response to wounding in- 
+dicates that these enzymes are regulated in concerted fashion 
+in the process of induced oleoresin formation. Such coordi- 
+nate induction of monoterpene and resin acid biosynthesis is 
+of functional significance in this defense response in provid- 
+ing a solvent (turpentine) for the mobilization of the resin 
+acids. Thus, after physical injury, such as bark beetle pene- 
+tration of the stem, the co-induction of both classes of ter- 
+penoids pennits the flow of oleoresin to and the saturation 
+of the wound site, creating a most inhospitable environment 
+for both beetle and pathogenic funga1 symbiont vectored by 
+the beetle. In a sufficiently vigorous response, the oleoresin 
+will immobilize and kill the beetle and fungus and expel both 
+from the bore hoie (Gijzen et al., 1993; Nebeker et al., 1993). 
+Upon reaching the exterior of the stem, the volatile monoter- 
+pene olefins evaporate and the remaining resin acids crystal- 
+lize and undergo oxidative polymerization in the presence of 
+light and oxygen to generate an impermeable physical bamer 
+that seals the wound (Croteau and Johnson, 1985). The 
+operation of this nove1 defense strategy is clearly dependent 
+on the co-production of both turpentine and rosin compo- 
+nents of the oleoresin. The apparent, coordinated decline in 
+enzyme activity levels may indicate similar stabilities of these 
+biosynthetic catalysts or a more directed process of enzyme 
+deactivation once wound sealing is under way. 
+Biosynthesis of (-)-Abietic Acid from [14C]Acetate 
+Previous indications that the activities of abietadiene hy- 
+droxylase and abietadienol hydroxylase, as measured by in 
+vitro assay, were too low to account for the accumulation of 
+abietic acid in grand fii were attributed to the inefficient 
+extraction of these microsomal enzymes from woody tissue 
+and the poor stability of these Cyts P450 once isolated (Funk 
+and Croteau, 1994). Nevertheless, the low specif ~c activity of 
+these two hydroxylation steps relative to the initial cyclization 
+to abietadiene and the final oxidation catalyzetl by abieta- 
+dienal dehydrogenase (see legend to Fig. 2) suggested the 
+possibility that the intermediate hydroxylations vrere, in fact, 
+slow steps of the abietic acid biosynthesis pathway and of 
+potential regulatory significance. To gain a better imderstand- 
+ing of flux through the resin acid pathway that rnight reveal 
+rate-limiting steps, the incorporation of ['4C]ace;ic acid into 
+abietic acid and its precursors was examined in stem sections 
+from wounded and control saplings. 
+[I4C]Acetic acid (1 pCi) was administered to stem discs 
+from both wounded (9 d) and control grand fir ,japlings for 
+12 h and the relevant diterpenoid products were extracted 
+and chromatographically purified. Radiolabel was incorpo- 
+rated into a11 of the intermediates of the abietic acid pathway 
+in both wounded and control tissue, but the major interme- 
+diate accumulated was abietadienal (Table I) rather than 
+abietadiene and abietadienol, as anticipated from the in vitro 
+enzyme activity measurements. If it is assumed that the 
+labeled intermediates are in equilibrium with intemal pools, 
+the indicated pool sizes suggest that the in vitro assays 
+significantly underestimate the in vivo activities of the Cyt 
+P450 hydroxylases, and that while the cyclase and the hy- 
+droxylases seem closely coupled, the microsomiil enzymes 
+and the operationally soluble aldehyde dehydrogenase are 
+not, resulting in the accumulation of abietadienal. 
+The presence of oleoresin, particularly in the fissue from 
+wounded stems, can compromise the uptake of Iiibeled pre- 
+cursors (Croteau et al., 1987) such that incorporation rates 
+may not be a reliable indicator of resin biosynthesi:; measured 
+analytically. For this reason, and to examine the location of 
+the induced response, the above experiment was repeated 
+with stem discs from which the bark and phloem containing 
+Table 1. p4C]Acetate incorporation into resin diterpenohjs of whole 
+stems and debarked stems of control and wounded grand fir 
+saplings 9 d after mechanical injury 
+The diterpenoids were isolated 12 h after label adrninistration 
+and separated chromatographically and the level of radioactivity in 
+each product was determined as described in "Materials 
+and Methods." 
+lncorporation 
+Debarked stems Product Whole stems 
+(xylem) 
+Control Wounded Control Wounded 
+dpm/g fresh weight 
+Abietadiene 580 1,980 650 990 
+Abietadienol 1,830 2,290 610 6,850 
+Abietadienal 19,270 19,860 1,560 10,800 
+Abietic acid 400 9,560 340 6,800 
+Total diterpenoids 22,080 33,690 3,160 25,440 
+Wounded minus 11,610 22,280 control 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+lnduced Oleoresinosis in Grand Fir 
+2 -  
+3 -  
+2 -  
+1 -  
+1003 
+A 
+::*I 
+O '  
+B 
+0 ,  
+O 5 10 15 20 
+the resin blisters and much of the adhering resin had been 
+removed. In this instance, the distribution of intermediates 
+generated in wounded stem tissue and control was roughly 
+similar to that observed previously, but the overall incorpo- 
+ration was considerably lower in the debarked stem control 
+than in the whole stem control (Table I). Since the control 
+represents largely constitutive biosynthetic activity associated 
+with the multicellular resin blisters that are located in the 
+cortex, this result is not surprising because the cortex is 
+removed in the debarking process (Lewinsohn et al., 1991a). 
+That incorporation attributable to wounding increased signif- 
+icantly in debarked tissue (principally xylem) relative to con- 
+trol tissue indicated an adverse effect of the resin on precursor 
+incorporation and, moreover, suggested that the induced 
+response was in large part associated with the xylem in which 
+schizogenic resin cavities and traumatic resin ducts eventually 
+form after injury (Wong and Benyman, 1977; Blanchette, 
+1992). Increased incorporation of 14C02 into resin acids has 
+been demonstrated in wounded pines and is also accom- 
+panied by structural modification of the resin ducts (Walter 
+et al., 1989). 
+Oleoresin Analysis 
+To provide context for the foregoing in vitro and in vivo 
+measurements, the time course of oleoresin accumulation 
+following wounding was determined analytically by extrac- 
+tion, methylation of the resin acids, and separation and 
+quantification of the components by capillary GLC. The levels 
+of intermediates of abietic acid biosynthesis were also ex- 
+amined (Fig. 3). Monoterpene olefins did not accumulate in 
+wounded saplings but actually decreased in content through 
+the early time course, due to the rapid volatilization of these 
+turpentine components from the wound sites (Fig. 3B) as 
+previously demonstrated by headspace trapping experiments 
+(Lewinsohn et al., 1993a). Although considerable variation 
+was observed among individual trees in both total level and 
+composition of resin acids, the time course of accumulation 
+of these products after stem wounding was entirely consistent 
+with the time-dependent increase in abietic acid biosynthetic 
+capacity measured by in vitro assay of the relevant enzymes 
+(Fig. 2). A similar accumulation of resin acids at stem wound 
+sites has been observed in pine species (Walter et al., 1989). 
+The rosin fraction of grand fir oleoresin comprises roughly 
+equal amounts of abietic acid and the derived dehydroabietic 
+acid (Croteau et al., 1987), together totaling more than 80%, 
+with lesser amounts of neoabietic acid and levopimaric acid 
+(Lewinsohn et al., 1993b). Abietic acid and related dienoic 
+acids are most prone to autooxidative polymerization, 
+whereas dehydroabietic acid is the more viscous and highly 
+crystalline (Enoki, 1976). A flow of viscous, semi-solid resin 
+is considered most effective against bark beetle advancement 
+and aids entrapment (Hodges et al., 1979). This essential 
+property of oleoresin is imparted by solvation of the resin 
+acids in the co-produced turpentine that, on evaporation, also 
+serves to deposit the resin acids at the wound exterior to form 
+a hardened seal. 
+The two diterpenoid intermediates, abietadiene (25 & 5 pg/ 
+g) and abietadienal (39 f 4 pg/g), were readily detected in 
+control tissue (i.e. constitutive levels at time zero of Fig. 3); 
+Figure 3. Relative levels of monoterpene olefins and diterpenoid 
+resin acids accumulated in grand fir sapling stems in response to 
+wounding. The content of the intermediates of abietic acid biosyn- 
+thesis (A) abietadiene (O), abietadienol (m), and abietadienal (A), 
+and (B) total monoterpene olefins (+) and total resin acids (V), are 
+plotted as a function of time after wounding. lnitial levels (dry 
+weight basis) at the time of stem wounding (O time = constitutive 
+levels) were: abietadiene (25 f 5 pg/g), abietadienol (<1 pg/g; 
+because of this low level, d 8 [21 f 3 pg/g] was taken as the base), 
+abietadienal (39 f 4 pg/g), resin acids (1250 f 250 pg/g), and 
+monoterpene olefins (8800 f 900 pg/g). 
+however, the level of abietadienol was near the lower limit 
+of detectability (approximately 1 pg/g). These levels (about 
+5% of the rosin fraction) are consistent with the low levels of 
+resin acid intermediates generally found in conifer resin 
+(Norin, 1972; Rowe et al., 1972). After wounding, the levels 
+of a11 three intermediates began to increase at about d 7, at 
+the onset of resin acid accumulation, and a11 three exhibited 
+a similar time course (Fig. 3). That the absolute level of 
+abietadienal was the highest of the three biosynthetic inter- 
+mediates is consistent with the ['*C]acetate incorporation 
+experiments in suggesting that the final step of abietic acid 
+formation is not very efficiently coupled to the earlier steps 
+of the pathway, perhaps because of compartmentation ef- 
+fects. In any case, it is not clear from the data now available 
+why the operationally soluble abietadienal dehydrogenase, 
+which is seemingly expressed constitutively at a high level, 
+should behave differently than the other enzymes of mono- 
+terpene and diterpene biosynthesis, which are co-induced at 
+the site of injury in the process of oleoresin formation. 
+Interpretation of these latter observations could be compli- 
+cated by the possibility that the total aldehyde dehydrogenase 
+activity measured represents a mixture of enzymes, some of 
+which simply utilize abietadienal as an adventitious substrate. 
+An interesting feature of wound-induced oleoresinosis is 
+the slowness of the reaction relative to other inducible plant 
+defense responses, which often occur over the course of a 
+few days (Tallamy and Raupp, 1991) rather than a few weeks. 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+1004 Funk et al. Plant Physiol. Vol. 106, 1994 
+In considering the consequences of this delayed host re- 
+sponse, which is typical of conifers (Berryman, 1972), it is 
+important to note that conifers also possess constitutive de- 
+fenses in the form of resin ducts and blisters. That both types 
+of resin-based defense mechanisms seem to have been se- 
+lected for in this group of plants is also most unusual. In the 
+context of initiation of bark beetle attack in grand fir, the fir 
+engraver (Scolytus ventrulis Le Conte) is of greatest signifi- 
+cance as a forest pest (Struble, 1957). Under favorable con- 
+ditions, where constitutive defenses are avoided, pioneering 
+engraver females bore through the bark to the cambium- 
+sapwood interface, where they excavate a nuptial chamber 
+and initiate construction of egg galleries, a process that occurs 
+over severa1 weeks (Berryman and Ashraf, 1970). It is over 
+this 1- to 2-week period, when the induced production of the 
+toxic and viscous oleoresin is most intense, that most attacks 
+are, in fact, abandoned (Berryman and Ashraf, 1970). There- 
+fore, the extended time course of the induced response is 
+appropriate to the time scale of attack initiation and may 
+represent an adaptive strategy. Thus, the time invested in an 
+unsuccessful attempt at gallery construction constitutes a 
+significant fraction of the beetles' flight dispersa1 period, and 
+such delay in locating a suitable host could serve to disrupt 
+subsequent mate selection and synchronization of the mass 
+attacks often required to overcome the tree defenses. Berry- 
+man (1969) has noted that an even slower response has the 
+greatest impact on fir engraver populations via resin-based 
+killing of eggs and larvae after an apparently successful 
+colonization attempt. 
+ACKNOWLEDCMENTS 
+We thank Alfred Koepp for preparing the substrates, Greg Wich- 
+elns for raising the plants, Tom Savage for helpful editorial com- 
+ments, and Joyce Tamura-Brown for typing the manuscript. 
+Received May 20, 1994; accepted July 19, 1994. 
+Copyright Clearance Center: 0032-0889/94/106/0999/07. 
+LITERATURE ClTED 
+Berryman AA (1969) Responses of Abies grandis to attack by Scolytus 
+ventralis (Co1eoptera:Scolytidae). Can Entomol 101: 1033-1041 
+Berryman AA (1972) Resistance of conifers to invasion by bark 
+beetle fungus associations. BioScience 22: 598-602 
+Berryman AA, Ashraf M (1970) Effects of Abies grandis resin on the 
+attack behavior and brood survival of Scolytus ventralis (Coleop- 
+tera:Scolytidae). Can EntomollO2 1229-1236 
+Blanchette RA (1992) Anatomical responses of xylem to injury and 
+invasion by fungi. In RA Blanchette, AR Biggs, eds, Defense 
+Mechanisms of Woody Plants Against Fungi. Springer-Verlag, 
+Berlin, pp 76-95 
+Bradford MM (1976) A rapid and sensitive method for the quanti- 
+tation of nanogram quantities of protein using the principle of 
+protein-dye binding. Anal Biochem 7 2  248-254 
+Cheniclet C (1987) Effects of wounding and fungus inoculation 
+on terpene producing systems of maritime pine. J Exp Bot 3 8  
+Cheniclet C, Bernard-Dagan C, Pauly G (1988) Terpene biosyn- 
+thesis under pathological conditions. In WJ Mattson, J Levieux, C 
+Bemard-Dagan, eds, Mechanisms of Woody Plant Defenses 
+Against Insects. Search for Pattem. Springer-Verlag, New York, 
+Croteau R, Alonso WR, Koepp AE, Johnson MA (1994) Biosynthesis 
+of monoterpenes: partia1 purification, characterization, and mech- 
+1557-1572 
+pp 117-130 
+anism of action of 1,8-cineole synthase. Arch Biochem Biophys 
+Croteau R, Gurkewitz S, Johnson MA, Fisk HJ (1987) Biochemistry 
+of oleoresinosis: monoterpene and diterpene bi osynthesis in 
+lodgepole pine saplings infected with Ceratocystis clavigera or 
+treated with carbohydrate elicitors. Plant Physiol85: 1123-1128 
+Croteau R, Johnson MA (1985) Biosynthesis of terpenoid wood 
+extractives. In T Higuchi, ed, Biosynthesis and Biodegradation of 
+Wood Components. Academic Press, New York, pp 379-439 
+Dennis DT, West CA (1967) Biosynthesis of gibbeiellins. 11. The 
+conversion of (-)-kaurene to (-)-kauren-19-oic acid in endosperm 
+of Echinocystis macrocarpn Greene. J Biol Chem 242 3293-3300 
+Enoki A (1976) Isomerization and autooxidation of resin acids. Wood 
+Res 56/60: 49-57 
+Funk C, Croteau R (1994) Diterpenoid resin acid biosynthesis in 
+conifers: characterization of two cytochrome P450-dependent 
+monooxygenases and an aldehyde dehydrogenas 2 involved in 
+abietic acid biosynthesis. Arch Biochem Biophys 3011: 258-266 
+Gijzen M, Lewinsohn E, Croteau R (1991) Characterization of the 
+constitutive and wound-inducible monoterpene cyclases of grand 
+fir (Abies grandis). Arch Biochem Biophys 289 267-273 
+Gijzen M, Lewinsohn E, Croteau R (1992) Antigenic cross-reactivity 
+among monoterpene cyclases from grand fir and indiiction of these 
+enzymes upon stem wounding. Arch Biochem Biophys 294: 
+Gijzen M, Lewinsohn E, Savage TJ, Croteau RB (1993) Conifer 
+monoterpenes: biochemistry and bark beetle chemical ecology. In 
+R Teranishi, RG Buttery, H Sugisawa, eds, Bioactive Volatile Com- 
+pounds from Plants. ACS Symposium Series 525. Anierican Chem- 
+ical Society, Washington, DC, pp 8-22 
+Hodges JD, Elam WW, Watson WF, Nebeker TE (1979) Oleoresin 
+characteristics and susceptibility of four southem pines to southem 
+pine beetle (Co1eoptera:Scolytidae) attacks. Can Entomol 111: 
+Johnson M, Croteau R (1987) Biochemistry of conifei. resistance to 
+bark beetles and their funga1 symbionts. In G Fuller, WD Nes, eds, 
+Ecology and Metabolism of Plant Lipids. ACS Symposium Series 
+325. American Chemical Society, Washington, DC, pp 76-91 
+LaFever RE, Stofer-Vogel B, Croteau R (1994) Diterpenoid resin 
+aad biosynthesis in conifers: enzymatic cyclization of geranylger- 
+anyl pyrophosphate to abietadiene, the precursor of abietic acid. 
+Arch Biochem Biophys 313 139-149 
+Lewinsohn E, Gijzen M, Croteau R (1991a) Defensc mechanisms 
+of conifers: differences in constitutive and wound-induced mono- 
+terpene biosynthesis among species. Plant Physiol9ti: 44-49 
+Lewinsohn E, Gijzen M, Croteau R (1992a) Regulatioli of monoter- 
+pene biosynthesis in conifer defense. In WD Nes, ?J Parish, JM 
+Trzaskos, eds, Regulation of Isopentenoid Metabolisin. ACS Sym- 
+posium Series 497. American Chemical Society, Wa:hington, DC, 
+Lewinsohn E, Gijzen M, Croteau R (1992b) Wound inducible pi- 
+nene cyclase from grand f i r  purification, charactt2rization and 
+renaturation after SDS-PAGE. Arch Biochem Biophys 293 
+Lewinsohn E, Gijzen M, Muzika RM, Barton K, Croteau R (1993a) 
+Oleoresinosis in grand fir (Abies grandis) saplings and mature trees: 
+modulation of this wound response by light and ~ a t e r  stresses. 
+Plant Physiol 101: 1021-1028 
+Lewinsohn E, Gijzen M, Savage TJ, Croteau R (19'3lb) Defense 
+mechanisms of conifers: relationship of monoterpene cyclase ac- 
+tivity to anatomical specialization and oleoresin monoterpene con- 
+tent. Plant Physiol96 38-43 
+Lewinsohn E, Savage TJ, Gijzen M, Croteau R (1993b) Simulta- 
+neous analysis of monoterpenes and diterpenoids of conifer oleo- 
+resin. Phytochem Anal 4 220-225 
+Lieutier F, Berryman AA (1987) Histology of the defense reactions 
+of three pine species to Ceratocystis clavigera and two chemical 
+elicitors. Can J For Res 18 1243-1247 
+Murphy PJ, West CA (1969) The role of mixed function oxidases in 
+kaurene metabolism in Echinocystis macrocarpn Greeno endosperm. 
+Arch Biochem Biophys 133  395-407 
+Nebeker TE, Hodges JD, Blance CA (1993) Host response to bark 
+beetle and pathogen colonization. In TD Schowaltcr, GM Filip, 
+309 184-192 
+670-674 
+889-896 
+pp 8-17 
+167-173 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.
+lnduced Oleoresinosis in Grand Fir 1005 
+e&, Beetle-Pathogen Interactions in Conifer Forests. Academic 
+Press, London, pp 158-173 
+Norin T (1972) Some aspects of the chemistry of the order Pinales. 
+Phytochemistry 11: 1231-1242 
+Pascal S, Taton M, Rahier A (1993) Plant sterol biosynthesis. 
+Identification and characterization of two distinct microsomal ox- 
+idative enzymatic systems involved in sterol C4-demethylation. J 
+Biol Chem 268: 11639-11654 
+Raffa KF (1991) Induced defenses in conifer-bark beetle systems. In 
+DW Tallamy, MJ Raupp, eds, Phytochemical Induction by Herbi- 
+vores. Academic Press, New York, pp 245-276 
+Raffa KF, Berryman AA, Simasko J, Teal W, Wong BL (1985) 
+Effects of grand fir monoterpenes on the fir engraver, Scolytus 
+ventralis (Coleoptera:Scolytidae), and its symbiotic fungus. Environ 
+Entomoll4 552-556 
+Rowe JW, Ronald RC, Nagasampagi BA (1972) Terpenoids of 
+lodgepole pine bark. Phytochemistry 11: 356-369 
+Struble GR (1957) The fir engraver, a serious enemy of westem true 
+firs. US Dep Agric Prod Res Rep 11 
+Tallamy DW, Raupp MJ (1991) Phytochemical Induction by Her- 
+bivores. John Wiley, New York 
+Wagschal K, Savage TJ, Croteau R (1991) Isotopically sensitive 
+branching as a tool for evaluating multiple product fonnation by 
+monoterpene cyclases. Tetrahedron 47: 5933-5944 
+Walter J, Charon J, Marpeau A, Launay J (1989) Effects of wound- 
+ing on the terpene content of twigs of maritime pine (Pinus pinaster 
+Ait.). I. Changes in the concentration of diterpene resin acids and 
+ultrastructural modifications of the resin duct epithelial cells fol- 
+lowing injury. Trees 4 210-219 
+Wong BL, Berryman AA (1977) Host resistance to the fir engraver 
+beetle. 3. Lesion development and containment of infection by 
+resistant Abies grandis inoculated with Trichosporium symbioticum. 
+Can J Bot 5 5  2358-2365 
+Yamada T (1992) Biochemistry of gymnospenn xylem responses to 
+funga1 invasion. In RA Blanchette, AR Biggs, eds, Defense Mech- 
+anisms of Woody Plants against Fungi. Springer-Verlag, Berlin, pp 
+147-184 
+ www.plantphysiol.orgon January 28, 2020 - Published by Downloaded from 
+Copyright © 1994 American Society of Plant Biologists. All rights reserved.

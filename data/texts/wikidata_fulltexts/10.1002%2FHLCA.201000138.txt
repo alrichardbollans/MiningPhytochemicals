@@ -1,0 +1,231 @@
+Three NewEudesmanolactones (¼Eudesmanolides) fromCamchaya loloana
+by Chang-Song Lia)b), Hong-Wei Yua)b), Xiao-Zhen Chena), Xiao-Qing Wua), Guo-You Li*a), and
+Guo-Lin Zhang*a)
+a) Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, P. R. China
+(phone/fax: þ 86-28-85225401; e-mail: ligy@cib.ac.cn; zhanggl@cib.ac.cn)
+b) Graduate School of Chinese Academy of Sciences, Beijing 100039, P. R. China
+Three new eudesmanolactones (¼eudesmanolides), loloanolide A (1), loloanolide B (2), and 1-O-
+acetylloloanolide B (3), together with five known compounds, were isolated from the CHCl3 extract of
+the aerial parts of Camchaya loloana. Their structures were elucidated on the basis of spectroscopic
+analysis. This type of eudesmanolactones bearing a 2-(hydroxymethyl)acryloyloxy group at C(8) was
+discovered for the first time. Compounds 1 – 3 exhibited cytotoxicity against the HepG2 cell line, with
+GI50 values of 22.9, 18.1, and 12.8 nmol/ml, respectively.
+Introduction. – The large family Asteraceae contains 25000 to 30000 species
+belonging to ca. 1000 genera. Many species have been used as sources for medicines,
+edible oils, vegetables, pesticides, etc. [1]. The extensive chemical and biological
+investigations showed that this family is a rich source of sesquiterpenoids, especially
+sesquiterpene lactones [2 – 4]. Many compounds from this family possess biological
+activities including antitumor [5], cytotoxic [6], antimicrobial [7], and anti-inflamma-
+tory effects [8]. The genus Camchaya with four species is distributed in the Indo-China
+Peninsula. C. loloana Kerr is the only Chinese representative of this genus [9].
+Previous studies of C. calcarea have resulted in the isolation of antiplasmodial and
+antimycobacterial germacrolide sesquiterpenes [10]. However, there has been no other
+report on chemical compositions of C. loloana subsequently. The present study reports
+the presence of eudesmanolactones (¼eudesmanolides) in C. loloana, a rare kind of
+constituent in the genus Camchaya. On the basis of spectral data, the new compounds
+were determined to be (3b,6a,8a)-3-(acetyloxy)-8-{[2-(hydroxymethyl)acryloyl]
+oxy}eudesma-1,11(13)-dieno-12,6-lactone1) (¼ loloanolide A; 1), (1b,6a,8a)-1-hy-
+droxy-8-{[2-(hydroxymethyl)acryloyl]oxy}eudesma-2,4(14),11(13)-trieno-12,6-lactone1)
+(¼ loloanolide B; 2), and (1b,6a,8a)-1-acetyloxy)-8-{[2-(hydroxymethyl)acryloyl]oxy}-
+eudesma-2,4(14),11(13)-trieno-12,6-lactone1) (¼1-O-acetylloloanolide B; 3) (Fig. 1).
+The known compounds were characterized as b-sitosterol, b-daucosterol [11], lupenol,
+betulin [12], and caffeic acid [13]. To the best of our knowledge, compounds 1 – 3 are
+the first examples of eudesmanolactones with a 2-(hydroxymethyl)acryloyloxy group at
+C(8).
+Helvetica Chimica Acta – Vol. 94 (2011) 105
+ 2011 Verlag Helvetica Chimica Acta AG, Zrich
+1) Trivial atom numbering; for systematic names, see Exper. Part.
+Results and Discussion. – Loloanolide A (1) was obtained as a colorless gum. The
+HR-ESI-MS of 1 showed the quasi-molecular-ion peak at m/z 413.1569 ([MþNa]þ),
+corresponding to the molecular formula C21H26O7 with nine degrees of unsaturation.
+The IR spectrum of 1 exhibited absorption bands assigned to OH (3514 cm1), a,b-
+unsaturated ester (1731 cm1), and g-lactone C¼O groups (1747 cm1). The 1H- and
+13C-NMR spectra (Table) showed signals typical of an eudesmanolactone-like skeleton
+[4]. The 13C-NMR spectrum revealed the presence of 21 C-atoms, which were
+determined as three Me, two sp3 CH2 (one O-bearing at d(C) 62.0), six sp3 CH (three
+O-bearing at d(C) 70.7, 77.7, and 71.5), and three C¼O groups (d(C) 170.7, 169.8, and
+165.0), besides three C¼C bonds and a quaternary C-atom (Table), attributed on the
+basis of chemical shifts, DEPT, and HSQC spectra. The 1H-NMR spectrum of 1 showed
+one Me s (d(H) 1.06), one Me d (d(H)1.16 (d, J¼ 6.3 Hz)), two terminal olefinic H-
+atoms (d(H) 5.80 and 6.32 (each d, J¼ 2.0 Hz)), and two olefinic H-atoms (d(H) 5.66
+and 5.69 (each d, J¼ 9.6 Hz)). The HSQC and HMBC spectra led to the identification
+of two partial structures: CH(5)CH(6)CH(7)CH(8)CH2(9)C(10)Me(15) and
+CH(7)C(11)CH2(13) (Fig. 2). Moreover, the Me(14)CH(4)CH(5)C(10)
+CH(1)CH(2)CH(3)CH(4) structure was readily deduced by HMBC cross-peaks.
+Connection of these fragments established the framework of an eudesmano-
+lactone. The 1H-NMR signals at d(H) 5.88 (br. s, 1 H), 6.22 (br. s, 1 H), and 4.29 (s,
+2 H), as well as the 13C-NMR signals at d(C) 165.0 (C(1’)), 139.0 (C(2’)), 126.6 (C(3’)),
+and 62.0 (C(4’)), were undoubtedly assigned to a 2-(hydroxymethyl)acryloyloxy
+moiety, which was located at C(8) in view of the HMBC HC(8)/C(1’). In addition,
+1H-NMR signals at d(H) 2.03 (s, 3 H) and the 13C-NMR signals at d(C) 170.7 (C(1’’))
+were attributed to an AcO group which was attached to C(3) in view of the HMBC
+HC(3)/C(1’’). The lactone ring should be formed between C(6) and C(12) as
+suggested by the HMBC HC(6)/C(12). The relative configurations of the various
+groups were assigned on the basis of NOESYexperiments (Fig. 3) and 1H,1H-coupling-
+constant analysis. In the NOESY plot, Me(15) correlated with HC(4) (d(H) 2.08 –
+2.11), HC(6) (d(H) 4.59), and HC(8) (d(H) 5.44) suggesting that Me(15),
+HC(4), HC(6), and HC(8) were oriented to the same b side. The NOESY
+correlation of the HC(7) signal (d(H) 3.54 – 3.56) with HC(5) (d(H) 2.10) and the
+coupling constant J(7,8)¼ 8.4 Hz) indicated that HC(7) and HC(5) were a-oriented.
+HC(3) was also a-oriented based on the NOESY correlation HC(3)/HC(5).
+Helvetica Chimica Acta – Vol. 94 (2011)106
+Fig. 1. Isolated new compounds 1 – 3 from C. loloana
+Helvetica Chimica Acta – Vol. 94 (2011) 107
+Table. 1H- and 13C-NMRData (CDCl3; 600 and 150 MHz, resp.) of Compounds 1 – 3a). d in ppm, J in Hz.
+1a) 2a) 3a)
+d(H) d(C) d(H) d(C) d(H) d(C)
+HC(1) 5.66 (d, J¼ 9.6) 141.8 3.53 (d, J¼ 5.5) 71.8 4.76 (d, J¼ 5.5) 73.2
+HC(2) 5.69 (d, J¼ 9.6) 121.8 5.82 (dd,
+J¼ 9.3, 5.5)
+125.9 5.79 (dd,
+J¼ 9.6, 5.5)
+122.2
+HC(3) 5.15 (t, J¼ 3.1) 70.7 6.25 (d, J¼ 9.3) 133.0 6.31 (d, J¼ 9.6) 134.4
+HC(4)
+or C(4)
+2.08 – 2.11 (m) 42.0 – 134.7 – 134.8
+HC(5) 2.10 (d, J¼ 9.6) 32.9 2.69 (d, J¼ 9.4) 41.0 2.75 (d, J¼ 9.4) 41.7
+HC(6) 4.59 (dd,
+J¼ 9.6, 7.3)
+77.7 4.94 (t, J¼ 8.1) 76.7 4.92 (dd,
+J¼ 9.4, 7.6)
+76.7
+HC(7) 3.54 – 3.56 (m) 41.6 3.60 – 3.64 (m) 42.5 3.60 – 3.64 (m) 42.3
+HC(8) 5.44 (ddd,
+J¼ 8.4, 6.0, 4.0)
+71.5 5.45 – 5.48 (m) 70.7 5.41 (ddd,
+J¼ 9.0, 7.7, 4.2)
+70.6
+CH2(9) 1.84 (dd,
+J¼ 14.8, 4.0, Ha),
+40.5 1.56 (dd,
+J¼ 14.0, 4.2)
+34.1 1.60 (dd,
+J¼ 14.0, 4.2)
+34.2
+1.97 (dd,
+J¼ 14.8, 6.0, Hb)
+2.60 (dd,
+J¼ 14.0, 8.1)
+2.21 (dd,
+J¼ 14.0, 7.7)
+C(10) – 34.8 – 37.3 – 35.9
+C(11) – 135.4 – 140.6 – 140.3
+C(12) – 169.8 – 169.6 – 169.5
+CH2(13) 5.80 (d, J¼ 2.0), 123.6 5.92 (d, J¼ 2.6), 123.8 5.91 (d, J¼ 2.7), 123.7
+6.32 (d, J¼ 2.0) 6.36 (d, J¼ 2.6) 6.37 (d, J¼ 2.7)
+Me(14)
+or CH2(14)
+1.16 (d, J¼ 6.3) 15.1 5.44, 5.23 (2 br. s) 116.9 5.49, 5.28 (2 br. s) 117.8
+Me(15) 1.06 (s) 22.3 0.86 (s) 20.1 0.94 (s) 20.3
+C(1’) – 165.0 – 165.2 – 165.1
+C(2’) – 139.0 – 139.1 – 139.0
+CH2(3’) 5.88, 6.22 (2 br. s) 126.6 5.86, 6.23 (2 br. s) 127.1 5.92, 6.26 (2 br. s) 126.7
+CH2(4’) 4.29 (s) 62.0 4.26 – 4.34 (m) 62.3 4.32 (s) 62.1
+C(1’’) – 170.7 – – – 170.3
+Me(2’’) 2.03 (s) 20.7 – – 1.98 (s) 20.9
+a) Assignments based on HSQC and HMBC experiments.
+Fig. 2. Selected HMBCs (H!C) of 1 and 2
+Therefore, loloanolide A (1) could be characterized as (3b,6a,8a)-3-(acetyloxy)-8-{[2-
+(hydroxymethyl)acryloyl]oxy}eudesma-1,11(13)-dieno-12,6-lactone1).
+Loloanolide B (2) was isolated as a colorless gum. Its molecular formula C19H22O6
+was deduced from the quasi-molecular-ion peak at m/z 369.1298 ([MþNa]þ) in the
+HR-ESI-MS. The IR spectrum showed maxima at 3433 cm1 (OH), 1760 cm1 (g-
+lactone), 1715 cm1 (a,b-unsaturated ester), 1633 cm1 (C¼C bond), and 1160 cm1
+(~nCO of ester). Interpretation of the 1H- and 13C-NMR (DEPT) and HSQC revealed
+that compound 2 possessed one Me, two sp3 CH2 (an O-bearing at d(C) 62.3), five sp3
+CH (three O-bearing at d(C) 71.8, 76.7, and 70.7), and two C¼O groups (d(C) 169.6
+and 165.2), besides four C¼C bonds (Table). Careful study of the NMR spectra
+suggested that compound 2 was also an eudesmanolactone containing a 2-(hydroxy-
+methyl)acryloyloxy group at C(8). Compared to 1, one Me and one Ac group were
+absent, and one more C¼C bond was present in 2. The presence of conjugated C¼C
+bonds (d(H) 5.82 (dd, J¼ 9.3, 5.5 Hz, 1 H), 6.25 (d, J¼ 9.3 Hz, 1 H), 5.44 (br. s, 1 H),
+and 5.23 (br. s, 1 H)) was confirmed by the HMBCs CH2(14)/C(3) and C(4), and
+HC(3)/C(2) and C(4) (Fig. 2). In addition, the HMBCs Me(15)/C(1) and HC(2)/
+C(1) established the presence of a b-OH group at C(1), which was confirmed by the key
+NOESY correlation HC(1)/HC(5). The relative configurations of other groups were
+also assigned on the basis of NOESY experiments (Fig. 3). Thus, the structure of
+loloanolide B (2) was determined as (1b,6a,8a)-1-hydroxy-8-{[2-(hydroxymethyl)-
+acryloyl]oxy}eudesma-2,4(14),11(13)-trieno-12,6-lactone1).
+Compound 3 was a colorless gum. The molecular formula C21H24O7 was established
+from the quasi-molecular-ion peak at m/z 411.1427 ([MþNa]þ) in the HR-ESI-MS.
+The UV, IR, 1H- and 13C-NMR data were very similar to those of 2, except for the
+presence of one more Ac group (d(H) 1.98 (s, Me(2’’)); d(C) 20.9 (C(2’’)) and 170.3
+(C(1’’))). The 1b-AcO group was deduced from the HMBC HC(1) (d(H) 4.76 (d, J¼
+5.5 Hz))/C(1’’) and the NOESY correlation HC(5)/HC(1). The remaining structure
+and relative configuration of 3were the same as those of 2. Thus, the structure of 3was
+elucidated as (1b,6a,8a)-1-(acetyloxy)-8-{[2-(hydroxymethyl)acryloyl]oxy}eudesma-
+2,4(14),11(13)-trieno-12,6-lactone1) (¼1-O-acetylloloanolide B).
+Compounds 1, 2, and 3 showed cytotoxicity against the HepG2 cell line, with GI50
+values of 22.9, 18.1, and 12.8 nmol/ml, respectively.
+Helvetica Chimica Acta – Vol. 94 (2011)108
+Fig. 3. Selected NOESY correlations (H$H) of 1 and 2
+Experimental Part
+General. TLC: Merck 0.25 mm thick precoated silica gel (SiO2) 60 F 254 plates. HPLC: Perkin-
+Elmer-600 prep. HPLC instrument, with a Kromasil-100-10-C18 column (250 20 mm). Column
+chromatography (CC): SiO2 (200 – 300 mesh). Optical rotations: Perkin-Elmer-341 automatic polar-
+imeter. UV Spectra: Perkin-Elmer Lambda-35 spectrometer; lmax (log e) in nm. IR Spectra: Perkin-
+Elmer FT-IR spectrometer; KBr disk; in KBr pellets in cm1. 1D- and 2D-NMR Spectra: Bruker-
+Advance-600 spectrometer; at 295 K; d in ppm rel. to Me4Si, J in Hz. MS: Bruker-Daltonics-Bio-TOF-Q
+mass spectrometer; in m/z.
+Plant Material. The aerial parts of Camchaya loloana were collected from Xishuangbanna, Yunnan
+Province, China, in September 1998. The plant sample was identified by Prof. Jingyun Cui at
+Xishuangbanna Tropical Botanical Garden of the Chinese Academy of Sciences (CAS). A voucher
+specimen (Z-005) was deposited with the Herbarium of the Chengdu Institute of Biology, CAS.
+Extraction and Isolation. The 95%EtOH extract (80 g) of air-dried aerial parts ofC. loloana (2.1 kg)
+was suspended in H2O and extracted successively with petroleum ether, CHCl3, and BuOH. The CHCl3
+fraction (18 g) was separated by CC (SiO2 (600 g; 150 mm 330 mm), petroleum ether/acetone 5 :1, 4 :1,
+3 :1, 2 : 1, 1 : 1, 1 : 2 (each 3000 ml)): Fractions A –D. The separation of Fr. A (2.5 g) by CC (SiO2 (80 g;
+40 mm 250 mm), petroleum ether/AcOEt 10 :1) afforded b-sitosterol (0.8 g) and lupeol (0.4 g).
+Betulin (0.2 g) and caffeic acid (0.72 g) were obtained, resp., by crystallizing Fr. B from petroleum ether/
+acetone 1 :1 and Fr. C from acetone. The residue of the mother liquid (1.1 g) of the betulin crystallization
+was applied to CC (SiO2 (50 g; 30 mm 200 mm), CHCl3/acetone 4 :1): 1 (14 mg). Separation of the
+residue of the mother liquid (65 mg) of caffeic acid by semi-prep. HPLC (MeOH/H2O 55 :45) yielded 2
+(7 mg) and 3 (15 mg). Fr. D (4.0 g) was subjected to CC (SiO2 (150 g; 50 mm 30 mm), CHCl3/MeOH
+5 :1): b-daucosterol (2.7 g).
+Loloanolide A (¼ (3b,6a,8a)-3-(Acetyloxy)-8-{[2-(hydroxymethyl)acryloyl]oxy}eudesma-1,11(13)-
+dieno-12,6-lactone ¼ rel-(3aR,4S,5aS,8S,9S,9aS,9bR)-8-(Acetyloxy)-2,3,3a,4,5,5a,8,9,9a,9b-decahydro-
+5a,9-dimethyl-3-methylene-2-oxonaphto[1,2-b]furan-4-yl 2-(Hydroxymethyl)prop-2-enoate ; 1): Colorless
+gum. [a]25D ¼9.0 (c¼ 0.10, MeOH). UV (MeOH): 269 (3.34), 206 (4.14). IR: 3514, 2925, 1747, 1731,
+1644, 1378, 1337, 1239, 1165, 1130, 1059, 1016, 986, 968, 919. 1H- and 13C-NMR: Table. HR-ESI-MS (pos.):
+413.1569 ([MþNa]þ ; calc. 413.1571).
+Loloanolide B (¼ (1b,6a,8a)-1-Hydroxy-8-{[2-(hydroxymethyl)acryloyl]oxy}eudesma-2,4(14) ,
+11(13)-trieno-12,6-lactone ¼ rel-(3aR,4S,5aR,9aS,9bR)-2,3,3a,4,5,5a,6,9,9a,9b-Decahydro-6-hydroxy-5a-
+methyl-3,9-bis(methylene)-2-oxonaphtho[1,2-b]furan-4-yl 2-(Hydroxymethyl)prop-2-enoate ; 2): Color-
+less gum. [a]25D ¼þ141.0 (c¼ 0.10, MeOH). UV (MeOH): 266 (3.15), 213 (4.07). IR: 3433, 2924, 2855,
+1760, 1715, 1633, 1385, 1322, 1271, 1160, 1109, 1031, 817. 1H- and 13C-NMR: Table. HR-ESI-MS (pos.):
+369.1298 ([MþNa]þ ; calc. 369.1309).
+1-O-Acetylloloanolide B (¼ (1b,6a,8a)-1-(Acetyloxy)-8-{[2-(hydroxymethyl)acryloyl]oxy}eudesma-
+2,4(14),11(13)-trieno-12,6-lactone ¼ rel-(3aR,4S,5aR,9aS,9bR)-6-(Acetyloxy)-2,3,3a,4,5,5a,6,9,9a,9b-
+decahydro-5a-methyl-3,9-bis(methylene)-2-oxonaphtho[1,2-b]furan-4-yl 2-(Hydroxymethyl)prop-2-
+enoate ; 3): Colorless gum. [a]25D ¼þ46.0 (c¼ 0.12, MeOH). UV (MeOH): 268 (3.22), 218 (4.35). IR:
+3442, 2928, 1764, 1725, 1636, 1372, 1240, 1157, 1054, 1018, 990, 948, 817. 1H- and 13C-NMR: Table. HR-
+ESI-MS (pos.): 411.1427 ([MþNa]þ ; calc. 411.1414).
+Cytotoxicity Assays. Hepatoma cell line HepG2 was obtained from the American Type Culture
+Collection (ATCC) and cultured according to the suppliers instruction. The cells were seeded into 96-
+well plates, incubated for 16 h at 378, and treated with compounds 1, 2, and 3 at different concentrations
+for 48 h. Taxol was used as pos. control. The cytotoxic activity was examined by means of a colorimetric
+chemosentivity assay with SRB (sulforodhamine B). The GI50 value (the drug concentration required to
+inhibit the cell growth by 50%) was used as a parameter for cytotoxicity.
+REFERENCES
+[1] Delectis Florae Reipublicae Popularis Sinicae Agendae Academiae Sinicae Edita, in Flora
+Reipublicae Popularis Sinicae, Science Press, Beijing, 1985, Vol. 74, p. 1.
+Helvetica Chimica Acta – Vol. 94 (2011) 109
+[2] F. Bohlmann, J. Jakupovic, M. Ahmed, A. Schuster, Phytochemistry 1983, 22, 1623.
+[3] J. Jakupovic, L. Lehmann, F. Bohlmann, R. M. King, H. Robinson, Phytochemistry 1988, 27, 3831.
+[4] F. Bohlmann, J. Jakupovic, A. Schuster, Phytochemistry 1983, 22, 1637.
+[5] S. H. Lee, H. K. Kim, J. M. Seo, H. M. Kang, J. H. Kim, K. H. Son, H. Lee, B. M. Kwon, J. Shin, Y.
+Seo, J. Org. Chem. 2002, 67, 7670.
+[6] J. Triana, M. Lo´pez, F. J. Pe´rez, J. Gonza´lez-Platas, J. Quintana, F. Este´vez, F. Leo´n, J. Bermejo, J.
+Nat. Prod. 2003, 66, 943.
+[7] S. Djeddi, A. Karioti, M. Sokovic, D. Stojkovic, R. Seridi, H. Skaltsa, J. Nat. Prod. 2007, 70, 1796.
+[8] S. Mller, R. Murillo, V. Castro, V. Brecht, I. Merfort, J. Nat. Prod. 2004, 67, 622.
+[9] Delectis Florae Reipublicae Popularis Sinicae Agendae Academiae Sinicae Edita, in Flora
+Reipublicae Popularis Sinicae, Science Press, Beijing, 1985, Vol. 74, pp. 41 – 42.
+[10] N. Vongvanich, P. Kittakoop, P. Charoenchai, S. Intamas, K. Sriklung, Y. Thebtaranonth, PlantaMed.
+2006, 72, 1427.
+[11] H. Kojima, N. Sato, A. Hatano, H. Ogura, Phytochemistry 1990, 29, 2351.
+[12] M. Sholichin, K. Yamasaki, R. Kasai, O. Tanaka, Chem. Pharm. Bull. 1980, 28, 1006.
+[13] Z. J. Wu, M. A. Ouyang, C. R. Yang, Acta Bot. Yunnan. 1999, 21, 393.
+Received April 6, 2010
+Helvetica Chimica Acta – Vol. 94 (2011)110

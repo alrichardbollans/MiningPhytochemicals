@@ -1,0 +1,637 @@
+RESEARCH Open Access
+In Vitro inhibitory activity of Alpinia katsumadai
+extracts against influenza virus infection and
+hemagglutination
+Hyung-Jun Kwon
+1†, Ha-Hyun Kim
+1†, So Young Yoon
+1, Young Bae Ryu
+1, Jong Sun Chang
+1, Kyoung-Oh Cho
+2,
+Mun-Chual Rho
+1, Su-Jin Park
+1*, Woo Song Lee
+1*
+Abstract
+Background: Alpinia katsumadai (AK) extracts and fractions were tested for in vitro antiviral activities against
+influenza virus type A, specially human A/PR/8/34 (H1N1) and avian A/Chicken/Korea/MS96/96 (H9N2), by means of
+time-of-addition experiments; pre-treatment, simultaneous treatment, and post treatment.
+Results: In pre-treatment assay, the AK extracts and AK fractions did not show significant antiviral activity. During
+the simultaneous treatment assay, one AK extract and five AK fractions designated as AK-1 to AK-3, AK-5, AK-10,
+and AK-11 showed complete inhibition of virus infectivity against A/PR/8/34 (H1N1) and A/Chicken/Korea/MS96/96
+(H9N2). The 50% effective inhibitory concentrations (EC50) of these one AK extracts and five AK fractions with
+exception of the AK-9 were from 0.8 ± 1.4 to 16.4 ± 4.5 μg/mL against A/PR/8/34 (H1N1). The two AK extracts and
+three AK fractions had EC50 values ranging from <0.39 ± 0.4 to 2.3 ± 3.6 μg/mL against A/Chicken/Korea/MS96/96
+(H9N2). By the hemagglutination inhibition (HI) assay, the two AK extracts and five AK fractions completely
+inhibited viral adsorption onto chicken RBCs at less than 100 μg/mL against both A/PR/8/34 (H1N1) and A/
+Chicken/Korea/MS96/96 (H9N2). Interestingly, only AK-3 was found with inhibition for both viral attachment and
+viral replication after showing extended antiviral activity during the post treatment assay and quantitative real-time
+PCR.
+Conclusions: These results suggest that AK extracts and fractions had strong anti-influenza virus activity that can
+inhibit viral attachment and/or viral replication, and may be used as viral prophylaxis.
+Background
+Influenza viruses are enveloped RNA viruses that belong
+to the family Orthomyxoviridae, including influenza
+viruses A, B, and C, and two other genera [1,2].
+The viruses are responsible for seasonal flu epidemic and
+caused acute contagious respiratory infection. Particularly,
+young children, the old, and patients with chronic diseases
+are at high risk to develop severe complications of influ-
+enza virus infection that lead to high mortality rates [3,4].
+Among the five genera, type A viruses are the most viru-
+lent human pathogen which have caused three pandemics
+in the 20
+th century and are known to be transmitted to
+other species [1,2]. More recently, the human influenza
+outbreak of the swine-origin A/H1N1 strain in 2009 has
+become a serious public concern around the world [5,6].
+Up to present, there are only four antiviral agents,
+approved by the FDA to treat influenza virus infection
+and these can be divided into two groups. The group
+comprising of amantadine and rimantadine block the M2
+ion channel, which is essential for viral proliferation,
+thereby interfering with viral uncoating inside cells. The
+group of zanamivir and oseltamivir inhibit viral neurami-
+nidase which plays an important role in viral release
+[1,7]. The M2 inhibitors are effective only against influ-
+enza virus A and are associated with several toxic effects
+in the digestive and autonomic nervous systems, as well
+as with the emergence of drug-resistant variants through-
+out the 40 years of its use [8]. Although zanamivir and
+* Correspondence: sjpark@kribb.re.kr; wslee@kribb.re.kr
+† Contributed equally
+1Eco-Friendly Biomaterial Research Center and AI Control Material Research
+Center, Korea Research Institute of Bioscience and Biotechnology, Jeongeup
+580-185, Republic of Korea
+Full list of author information is available at the end of the article
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+© 2010 Kwon et al; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative Commons
+Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and reproduction in
+any medium, provided the original work is properly cited.oseltamivir have high antiviral activity, the bioavailability
+of zanamivir is low and it is excreted rapidly by the kid-
+neys. Nausea and vomiting are frequent among adults
+receiving oseltamivir [9,10]. Besides these two major
+groups of anti-influenza drugs, several other approaches
+including inhibition of viral RNA transcription (RNA
+polymerase), small interfering RNA, inhibition of virus-
+cell fusion and proteolytic processing of hemagglutinin
+(HA) are existing; however, all of these alternative meth-
+ods has not yet been licensed [7,11]. Hence, the need for
+a new drug and their market are greatly emphasized.
+Alpinia katsumadai Hayata (Zingiberaceae) (AK) has
+been utilized as a traditional Chinese herbal drug for an
+anti-emetic and stomachic [12]. It has been reported to
+contain a variety of diarylheptanoids, monoterpenes, ses-
+quiterpenoid, flavonoids, and chalcones as major consti-
+tuents [13-15]. Recently, compounds isolated from
+A. katsumadai showed in vitro neuraminidase inhibitory
+activities against human influenza virus A/PR/8/34 of
+subtype H1N1 and antiviral effects in plaque reduction
+assays of the four H1N1 swine influenza viruses [16].
+However, the antiviral mechanisms of AK is not clear.
+Therefore, in this study, we investigated the in vitro
+anti-influenza viral mechanism of AK extracts and AK
+fractions using time-of-addition and hemagglutination
+inhibition (HI) assays.
+Methods
+Preparation of Alpinia katsumadai extracts and fractions
+The dried seeds (4.8 kg) of AK were ground and macer-
+ated with ethanol (1.5 L × 20) for one week at room
+temperature, and then filtered and the clarified solvent
+was evaporated under reduced pressure to afford the
+ethanol extract (289 g, AK-1). The combined ethanol
+extract was dissolved in 2.0 L of a mixture of water and
+ethanol (1:9) and successively partitioned with EtOAc
+and water, yielding an EtOAc fraction (192 g, AK-2) and
+water fraction (70 g, AK-3). Then, the water soluble
+fraction AK-3 was subjected to diaion (HP-20) column
+chromatography, eluted with MeOH in water in a step-
+gradient manner from 20% to 100% to make five frac-
+tions [20% methanol (AK-4): 3.9 g, 40% methanol
+(AK-5): 11.9 g, 60% methanol (AK-6): 32.7 g, 80%
+methanol (AK-7): 3.8 g, and 100% methanol (AK-8): 1.1
+g]. To obtain polysaccharide fraction, we reexamined
+another procedure. The dried and pulverized seeds of
+AK (600 g) were mixed with 1.5 L of water and shaken
+at 80°C for 12 h. The water extract (98 g, AK-9) was fil-
+tered through a filter paper to remove debris, and then
+the solution was precipitated by the addition of ethanol
+in 1:4 ratio (v/v) at room temperature. After overnight
+precipitation, the precipitate was collected by centrifuga-
+tion (12,000 rpm, 30 min at 4°C) and washed with acet-
+one and freeze-dried. This fractionation procedure was
+repeated three times. The corresponding fraction (56 g,
+AK-10) was light brown powder (polysaccharide frac-
+tion). The remained supernatant was concentrated in a
+rotary evaporator under reduced pressure, yielding a
+supernatant fraction (28 g, AK-11).
+Cells and viruses
+M a d i n - D a r b yc a n i n ek i d n e y( M D C K )c e l l sw e r e
+obtained from the American Type Culture Collection
+(ATCC CCL-3; Manassas, VA, USA) and grown in
+Eagle’s minimum essential medium (EMEM) supple-
+mented with 10% fetal bovine serum (FBS), 100 U/mL
+penicillin, and 100 μg/mL streptomycin. The influenza
+strains A/PR/8/34 (H1N1) (ATCC VR-1469) and A/
+Chicken/Korea/MS96/96 (H9N2) were propagated in
+MDCK cells in the presence of 10 μg/mL trypsin (1:250;
+GIBCO Invitrogen Corporation, California).
+Cytotoxicity
+MDCK cells were grown in 96 well plates at 1 × 10
+5
+cells/well for 24 h. The media in plates were replaced
+with media containing serially diluted extracts and incu-
+bated for 72 h. The solution was replaced with only
+media and 5 μL MTT (3-[4,5-dimethylthiozol-2-yl]-
+2,5-diphenyltetrazolium bromide; Sigma, St. Louis, MO)
+solution was added to each well and incubated at 37°C
+for 4 h. The supernatant was removed, and 100 μL0 . 0 4
+M HCl-isopropanol was added to dissolve formazan
+crystals. Absorbance was measured at 540 nm with sub-
+traction of the background measurement at 655 nm in a
+microplate reader. The 50% cytotoxic concentration
+(CC50) was calculated by regression analysis.
+Antiviral assay
+Pre-treatment assay (Figure 1A): MDCK cells were
+g r o w ni n9 6w e l lp l a t e sa t1×1 0
+5 cells/well for 24 h.
+Before virus inoculation, non cytotoxic concentration
+(≤ CC50) of AK extracts were added to the cells and
+incubated for 12 h. Then two AK extracts and five AK
+fractions were removed and the MDCK cells were
+washed 2 times with PBS. Influenza virus at 100 TCID50
+(tissue culture infectious dose) were inoculated onto the
+MDCK cells for 1 h with occasional rocking. The virus
+was removed and the cells replaced with EMEM con-
+taining 10 μg/mL trypsin. The cultures were incubated
+f o r7 2ha t3 5 ° Cu n d e r5 %C O 2 atmosphere until the
+cells in the infected, untreated control well showed
+complete viral cytopathic effect (CPE) as observed by
+light microscopy. Each concentration of two AK extracts
+and five AK fractions was assayed in triplicate.
+Simultaneous treatment assay (Figure 1B): Various
+concentrations of two AK extracts and five AK fractions
+were mixed with virus and incubated at 4°C for 1 h.
+The mixture were inoculated onto near confluent
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 2 of 9MDCK cell monolayers (1 × 10
+5 cells/well) for 1 h with
+occasional rocking. The solution was removed and the
+media was replaced with EMEM containing 10 μg/mL
+trypsin. The cultures were incubated for 72 h at 35°C
+under 5% CO2 atmosphere until the cells in the infected,
+untreated control well showed complete CPE as
+observed by light microscopy. Each concentration of
+two AK extracts and five AK fractions was assayed in
+triplicate.
+Post treatment assay (Figure 1C): Influenza virus at
+100 TCID50 were inoculated onto near confluent
+MDCK cell monolayers (1 × 10
+5 cells/well) for 1 h with
+occasional rocking. The media was removed and
+replaced by EMEM containing 10 μg/mL trypsin and
+several two AK extracts and five AK fractions at differ-
+ent concentrations. The cultures were incubated for
+72 h at 35°C under 5% CO2 atmosphere until the cells
+in the infected, untreated control well showed complete
+viral CPE as observed by light microscopy. The two AK
+extracts and five AK fractions were assayed for virus
+inhibition in triplicate.
+After 72 h incubation in all antiviral assays, 0.034%
+neutral red was added to each well and incubated for
+2 h at 35°C in the dark. The neutral red solution was
+removed and the cells were washed with PBS (pH 7.4).
+Destaining solution (containing 1% glacial acetic acid,
+49% H2O, and 50% ethanol) was added to each well.
+The plates were incubated in the dark for 15 min at
+room temperature. Absorbance was read at 540 nm
+using a microplate reader.
+Hemagglutination inhibition (HI) assay
+The hemagglutination inhibition assay was performed to
+evaluate the effects of two AK extracts and five AK frac-
+tions on viral adsorption to target cells. Standardized
+chicken red blood cell (cRBC) solutions were prepared
+according to the WHO manual 2002 (WHO, 2002). The
+influenza virus solution (4 HAU/25 μL) was mixed with
+an equal volume of AK extracts (25 μL) in a two-fold serial
+dilution in PBS (pH 7.4) for 1 h at 4°C. Fifty μLo ft h e
+solution was mixed with an equal volume of a 1% cRBC
+suspension and incubated for 1 h at room temperature.
+Reverse Transcription and quantitative real-time PCR
+MDCK cells were grown to about 90% confluence,
+infected with influenza virus at 0.01 MOI, and cultured in
+t h ep r e s e n c eo fA K - 3( 2 0μg/mL) or tamiflu (10 μM).
+Medium was removed after 3 h and 18 h. Cells were
+scraped off, washed twice with PBS, and collected by cen-
+trifugation (500 g for 3 min). In order to determine the
+expression level of Matrix (M) gene mRNA of influenza
+virus, total RNA was isolated using Qiagen RNeasy mini
+kit (QIAGEN) according to manufacturer’s instruction.
+The primer sequences used for quantitative real-time
+PCR of viral RNA were 5’-CTTCTAACCGAGGTC-
+GAAAC GTA-3’ (sense) and 5’- GGTGACAGGATTG
+GTCTTGTCTTTA-3’ (antisense) [17]. The GAPDH was
+used as internal control of cellular RNAs, with primer
+sequences of 5’-CAACGGATTTGGCCGTATTGG-3’
+(sense) and Reverse: 5’- TGAAGGGGTCATTGAT
+GGCG-3 (antisense).
+The total RNA was reverse transcribed into cDNA
+using the High Capacity RNA-to-cDNA master mix
+(Applied Biosystems) according to the manufacturer’s
+protocol. Reverse transcription was performed at 42°C
+for 1 h. The enzyme was inactivated at 95°C for 5 min.
+The cDNA was stored at -20°C or directly used in quan-
+titative real-time PCR. Real-time PCR was conducted
+using 2 μL of cDNA and Power SYBR Green PCR 2 X
+master mix (Applied Biosystems). Cycling conditions for
+Figure 1 Antiviral assay strategies with AK extracts and AK fractions on different stages of virus infection.A t1 2hp r i o rt ov i r u s
+infection for pre-treatment assay (A), at the same time after virus incubation with AK extracts and AK fractions at 4°C for 1 h for simultaneous
+treatment assay (B), and at 1 h later of AK extracts after viral infection for post treatment assay (C).
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 3 of 9real-time PCR were as follows: 95°C for 1 min, followed
+by 40 cycles of 95°C for 15 s and 60°C for 15 s. Real-
+time PCR was conducted using the Step One Plus Real-
+time PCR system, and the data were analyzed with
+StepOne software v2.1 (Applied Biosystems).
+Neuraminidase (recombinant influenza A virus, rvH1N1)
+inhibition assay
+The neuraminidase (NA) inhibition assay was conducted
+using recombinant NA deduced from the 1918 Spanish
+flu virus (A/Bervig_Mission/1/18 [H1N1]). NA inhibition
+activities were determined by Enzyme-Linked Immuno-
+sorbent Assay (ELISA). All samples were dissolved in
+MeOH at 5 mM and diluted. Fifty μLo fs u b s t r a t e ,
+800 μM 4-methylumbelliferyl-a-D-N-acetylneuraminic
+acid sodium salt hydrate solution, was mixed with 80 μL
+of 50 mM Tris buffer (containing 5 mM CaCl2 and 200
+mM NaCl, pH 7.5) at room temperature. Twenty μL
+of the sample solution and 50 μLo fN A( 0 . 0 5p g / m Li n
+the same Tris buffer) were added to a well in a plate.
+The mixture was recorded at excitation and emission
+wavelengths of 365 nm and 445 nm. The inhibition ratio
+was obtained using the equation:
+Activity(%) [( ) /( ] =− −× SS CC 00 100
+Where C is the fluorescence of the control (enzyme,
+buffer, and substrate) after 20 min of incubation, C0 is
+the fluorescence of the control at zero time, S is the
+fluorescence of the tested samples (enzyme, sample
+solution, and substrate) after incubation, and S0 is the
+fluorescence of the tested samples at zero time. To
+allow for the quenching effect of the samples, the sam-
+ple solution was added to the reaction mixture C,a n d
+any reductions in fluorescence were assessed.
+Results
+Cytotoxicity of Alpinia katsumadai extracts in MDCK cells
+The cytotoxicity of two AK extracts and five AK fractions
+was evaluated by the MTT assay for 50% cytotoxic con-
+centration (CC50). Confluent MDCK cells were incubated
+with EMEM media in the absence or presence of two-fold
+diluted AK extracts (0.39-200 μg / m L )f o r7 2h ,a n dt h e
+MTT reagents were treated onto the cells. CC50 values of
+AK-1, AK-2, and AK-3 showed 8.9-27.1 μg/mL. CC50
+values of AK-5, AK-9, AK-10, and AK-11 showed 92.3-
+over 200 μg/mL (Table 1). Hence, experiments to evaluate
+the antiviral effect were carried out at AK extracts and AK
+fractions concentration below CC50 in this study.
+Inhibitory activity of Alpinia katsumadai on influenza virus
+binding to cell receptors
+In order to test the ability of the two AK extracts and five
+AK fractions in preventing the attachment of influenza
+virus to MDCK cells, we used and analyzed the pre-
+treatment and simultaneous treatment assays. In the pre-
+treatment assay, AK extracts and AK fractions were
+treated the MDCK cells and incubated for 12 h before
+virus infection. Cells were infected with virus and incu-
+bated for 72 h at 35°C under 5% CO2 atmosphere. The
+results showed that antiviral effects against A/PR/8/34
+(H1N1) and A/Chicken/Korea/MS96/96 (H9N2) were less
+than 50% inhibition in pre-treatment assay. (Figure 2). In
+the simultaneous treatment assay, after various concentra-
+tions of AK extracts or AK fractions and A/PR/8/34
+(H1N1) or A/Chicken/Korea/MS96/96 (H9N2) were
+mixed, and incubated at 4 °C for 1 h. Confluent MDCK
+cells were inoculated with the mixture for 1 h. Then, the
+mixture removed and cells replced with media and were
+incubated 72 h at 35 °C under 5% CO2 atmosphere. We
+found that AK-1 to AK-3 (EtOH extract, EtOAc fraction,
+H2O fraction), AK-5 (40% methanol fraction), AK-10
+(polysaccharide fraction), and AK-11 (supernatant frac-
+tion) exhibited inhibitory activities against A/PR/8/34
+(H1N1) with EC50 values ranging from 0.8 ± 1.4 to 16.4 ±
+4.5 μg/mL (Table 1). Against A/Chicken/Korea/MS96/96
+(H9N2), the two AK extracts and five AK fractions (AK-1
+to AK-3, AK-5, and AK-9 to AK-11) inhibited virus infec-
+tion with EC50 values ranging from <0.39 ± 0.4 to 2.3 ±
+3.6 μg/mL (Table 1). One AK extract and five AK fractions
+(AK-1 to AK-3, AK-5, AK-10, and AK-11) inhibited both
+A/PR/8/34 (H1N1) and A/Chicken/Korea/MS96/96
+(H9N2) influenza virus infection in MDCK cells. Interest-
+ingly, A/Chicken/Korea/MS96/96 (H9N2) strain
+was inhibited strongly demonstrating SI values of 45.2,
+55.9, > 95.2 and 71.1 in A/Chicken/Korea/MS96/96
+(H9N2) by AK-1, AK-3, AK-5 and AK-10 extracts, respec-
+tively (Table 1). Significantly, AK-5 showed the best inhi-
+bitory effect in the both A/PR/8/34 (H1N1) and A/
+Chicken/Korea/MS96/96 (H9N2).
+Hemagglutination inhibition activity
+The simultaneous treatment assay results indicated that
+treatment with AK extracts and AK fractions on virus
+entry completely abrogated virus infectivity. Hence, we
+evaluated whether AK extracts inhibit hemagglutination
+by influenza virus. The two AK extracts and five AK frac-
+tions completely inhibited viral attachment onto cRBCs in
+both A/PR/8/34 (H1N1) and A/Chicken/Korea/MS96/96
+(H9N2) at less than 100 μg/mL (Figure 3). The two AK
+extracts and five AK fractions showed a decreasing order
+o fH Ia c t i v i t y ,A K - 3( 1 . 0±0 . 3μg/mL) > AK-5 (1.3 ± 0.3
+μg/mL) > AK-1 (3.6 ± 1.4 μg/mL) > AK-10 (16.7 ± 4.2 μg/
+mL) > AK-11 (37.5 ± 12.5 μg/mL) > AK-9 (66.7 ± 16.7 μg/
+mL) > AK-2 (100 ± 0 μg/mL) against A/PR/8/34 (H1N1)
+and AK-3 (1.6 ± 0.3 μg/mL) > AK-5 (3.1 ± 0.5 μg/mL) >
+AK-1 (9.4 ± 3.1 μg/mL) > AK-10 (37.5 ± 12.5 μg/mL) >
+AK-11 (50 ± 0 μg/mL) > AK-2 (75 ± 25 μg/mL) > AK-9
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 4 of 9(100 ± 0 μg/mL) against A/Chicken/Korea/MS96/96
+(H9N2). Among them, AK-1, AK-3, and AK-5 particularly
+showed strong inhibition of HA with 1.04 ± 0.3 to 3.64 ±
+1.4 μg/mL against A/PR/8/34 (H1N1) and 1.56 ± 0.3 to
+9.37 ± 3.1 μg/mL against A/Chicken/Korea/MS96/96
+(H9N2). Results demonstrated strong interaction of AK
+extracts and AK fractions with hemagglutinin on the
+outer-layer proteins of influenza virus causing the block-
+age of viral attachment.
+Inhibitory activity of Alpinia katsumadai on influenza virus
+replication
+The post treatment assay was performed to evaluate
+whether the two AK extracts and five AK fractions are
+able to inhibit replication of influenza virus A/PR/8/34
+(H1N1) and A/Chicken/Korea/MS96/96 (H9N2) in
+MDCK cells. Two AK extracts and three AK fractions
+except AK-3 were showed no inhibitory effects against
+influenza viruses in the post treatment assay. However,
+AK-3 demonstrated a dose dependant antiviral activity
+against A/PR/8/34 (H1N1), and an effective antiviral
+activity against A/Chicken/Korea/MS96/96 (H9N2) at
+concentration below 12.5 μg/mL (Figure 4). Similarly in
+simultaneous assay, AK-3 showed a stronger antiviral
+effect against A/Chicken/Korea/MS96/96 (H9N2) than
+against A/PR/8/34 (H1N1).
+As influenza viral RNA synthesized in early and late-
+stage, their syntheses were compared between drug-
+Figure 2 Antiviral activity of AK extracts and AK fractions before virus attachment in pre-treatment assay. MDCK cells were pre-
+incubated with AK extracts and AK fractions 12 h prior to infection of influenza virus (A/PR/8/34 [H1N1] and A/Chicken/Korea/MS96/96 [H9N2]).
+Antiviral effects were determined by formation of cytopathic effect and plotted as a percentage of cell control (uninfected) and virus control
+(untreated). AK-1: EtOH extract; AK-2: EtOAc fraction; AK-3: H2O fraction; AK-5: 40% methanol fraction; AK-9: H2O extract; AK-10: Polysaccharide
+fraction; AK-11: Supernatant fraction.
+Table 1 Anti-influeza virus effects of AK extracts and AK fractions by simultaneous treatment assay
+Extract or Compound CC50 (μg/mL)
+a A/PR/8/34 (H1N1) A/Chicken/Korea/MS96/96 (H9N2)
+EC50 (μg/mL)
+b SI
+c EC50 (μg/mL)
+b SI
+c
+Tamiflu >200 <1.5 >133.3 3.5 ± 1.4 57.1
+EtOH extract (AK-1) 27.1 ± 0.4 2.6 ± 1.2 10.4 0.6 ± 1.5 45.2
+EtOAc fraction (AK-2) 8.9 ± 2.3 3.3 ± 2.3 2.3 1.2 ± 1.9 7.4
+H2O fraction (AK-3) 21.8 ± 4.2 0.8 ± 1.4 27.3 <0.39 ± 0.4 >55.9
+40% methanol fraction (AK-5) >200 2.0 ± 3.2 >100 2.1 ± 2.3 >95.2
+H2O extract (AK-9) 92.3 ± 4.6 - - 1.4 ± 0.6 65.9
+Polysaccharide fraction (AK-10) 163.5 ± 5.3 12.5 ± 1.1 13.1 2.3 ± 3.6 71.1
+Supernatant fraction (AK-11) 119.1 ± 2.4 16.4 ± 4.5 7.3 1.6 ± 0.8 9.3
+aCC50 : mean (50%) value of cytotoxic concentration.
+bEC50 : mean (50%) value of effective concentration.
+cSI: selective index, CC50/EC50.
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 5 of 9Figure 3 Inhibitory activity of AK extracts and AK fractions on agglutination with viral hemagglutinin and chichen RBC (cRBC).F o u r
+HAU of influenza virus (A/PR/8/34 [H1N1] and A/Chicken/Korea/MS96/96 [H9N2]) were mixed with an equal volume of 2-fold diluted two AK
+extracts and five AK fractions or PBS (negative control) and incubated for 1 h at 4°C. The hemagglutination activity was tested by incubation
+with 1% cRBC for 1 h at room temperature. We determined the minimum concentration of AK extracts and AK fractions inhibiting the viral
+hemagglutination completely.
+Figure 4 Antiviral effect of AK-3 after virus entry in post treatment assay. Influenza viruses at 100 TCID50 were inoculated in MDCK cells.
+After 1 h, viruses were removed and MDCK cells were treated with AK-3 at different concentration. The cultures were incubated for 72 h at 35°C
+under 5% CO2 atmosphere. Each concentration of AK-3 was assayed by two times in triplicate.
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 6 of 9treated (AK-3) and untreated infected cells. RNA extrac-
+tion was performed at 3 h and 18 h after influenza virus
+infection and the levels of intracellular influenza RNA
+were measured. Quantitative real-time PCR showed a
+reduction of influenza RNA from the AK-3 (20 μg/mL)
+treated cells comparison with the non-treated cells (05.%
+DMSO) in both A/PR/8/34 (H1N1) and A/Chicken/
+Korea/MS96/96 (H9N2) (Figure 5). Specially, influenza
+viral RNA inhibition of AK-3 (20 μg/mL) treated cells
+showed a stronger in late stage than in early stage. These
+results indicate that AK-3 exerts antiviral effects by two
+mechanisms, blockage of viral attachment and virus
+replication.
+Neuraminidase inhibition activity
+The biological activities of the two AK extracts and five
+AK fractions were assessed against NAs from recombi-
+nant influenza virus A (rvH1N1). We found that the IC50
+values of the two AK extracts and four AK fractions
+except AK-11 ranged from 13.2 to 153.1 μg/mL against
+rvH1N1 NA (Table 2) and these were dose-dependent,
+respectively.
+Discussion
+The influenza virus replication cycle can be divided into 5
+steps: 1) binding of viral HA to sialic acid (SA) receptor on
+host cell surface (adsorption step), 2) internalization of
+virus by receptor-mediated endocytosis and fusion of viral
+HA2 with endosomal membranes triggered by influx of
+protons through M2 channel (endocytosis and fusion
+step), 3) release of viral genes into the cytoplasm (uncoat-
+ing step), 4) packaging of viral proteins with viral genes
+after viral RNA replication, transcription and translation,
+and budding of new viruses (packaging and budding step),
+and 5) release of new viruses by sialidase cleaving SA
+receptors (release step) [1,18]. Recently, antiviral activity of
+Figure 5 Quantitive real-time PCR of influenza viral RNA levels normalized to GAPDH. MDCK cells were infected with 0.01 MOI influenza
+viruses. After 1 h, viruses were removed. MDCK cells were treated with DMSO (0.5%), AK-3 (20 μg/mL) and Tamiflu (10 μM). Total RNA extraction
+was performed at 3 h and 18 h after influenza virus infection and the levels of intracellular influenza viral RNA were measured. Influenza viral
+RNA levles normalized to GAPDH. (A) A/PR/8/34 (H1N1) (*** p < 0.01), (B) A/Chicken/Korea/MS96/96 (H9N2) (* p < 0.05).
+Table 2 Inhibitory effects of AK extracts and AK fractions
+on neuraminidase from recombinant influenza virus A
+(rvH1N1)
+Extracts and layers IC50 (μg/mL)
+a
+EtOH extract (AK-1) 153.1 ± 22.1
+EtOAc fraction (AK-2) 13.2 ± 2.0
+H2O fraction (AK-3) 25.0 ± 4.1
+40% methanol fraction (AK-5) 13.8 ± 2.4
+H2O extract (AK-9) 20.4 ± 0.7
+Polysaccharide fraction (AK-10) 62.6 ± 4.2
+Supernatant fraction (AK-11) -
+a All extracts and fractions were examined in a set of duplicated experiment;
+IC50 values of extracts and fractions represent the concentration that caused
+50% enzyme activity loss.
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 7 of 9AK has been reported to inhibit the release of new viruses
+via putative interaction in the NA binding site on human
+influenza virus A/PR/8/34 of subtype H1N1 and four
+H1N1 swine influenza viruses [16]. However, this informa-
+tion is still limited to elucidate the antiviral mechanisms of
+AK. Therefore, it is hypothesized that the antiviral effect
+of AK extracts and AK fractions works in two ways: 1)
+blockage of viral binding to cell receptor, and 2) inhibition
+of viral replication after entry. To determine the stage at
+which AK extracts and AK fractions exhibit inhibitory
+activities, time-of-addition assays at three distinct time
+points: 12 h prior to infection (pre-treatment), time after
+incubation and before virus infection (simultaneous treat-
+ment), and 1 h after virus entry (post treatment), were
+performed.
+The time-of-addition assays during the pre-treatment
+and simultaneous treatment were used to identify which
+extracts block the viral adsorption to cells. The pre-
+treatment assay did not show significant antiviral activity
+(Figure 2). AK-3 and AK-11 showed a weak inhibitory
+effect of A/PR/8/34 (H1N1) only. In simultaneous treat-
+ment assay, two AK extracts and five AK fractions
+completely abrogated virus infectivity by lowering the con-
+centration of both A/PR/8/34 (H1N1) and A/Chicken/
+Korea/MS96/96 (H9N2). AK-9 (H2Oe x t r a c t )s h o w e da n t i -
+viral effect against A/Chicken/Korea/MS96/96 (H9N2)
+only. These data suggest that two AK extracts and five AK
+fractions may directly interfere with viral envelope protein
+and not with the SA receptor at the cell surface. Therefore,
+we used HI assays to determine whether the two AK
+extracts and five AK fractions interacted with HA of influ-
+enza virus. Two AK extracts and five AK fractions exhib-
+ited complete inhibition of viral HA in both A/PR/8/34
+(H1N1) and A/Chicken/Korea/MS96/96 (H9N2), which
+agrees with the simultaneous treatment assay results.
+Overall, we strongly suggest that AK extracts and AK frac-
+tions could develop potent antiviral drug candidate via
+inhibition of viral HA protein.
+To evaluate the anti-influenza activity after virus infec-
+tion, we employed the post treatment assay and quanti-
+tative real-time RCR to test the in vitro effect of these
+extracts and fractions on viral replication. Grienke et al.
+[16] reported about the AK fractions of dichloro-
+methane, ethyl acetate, and n-butanol inhibited NA pro-
+tein. Therefore, we evaluated NA inhibition assay and
+confirmed that two AK extracts and four AK fractions
+except AK-11 inhibited NA protein of rvH1N1. We
+found that only AK-3 inhibited influenza virus infection
+suggesting two possible ways of viral inhibitions, 1)
+blockage of viral attachment by inhibition of viral HA
+protein, 2) blockage of viral replication and/or release
+by inhibition of NA. Interestingly, AK-3 showed greater
+inhibition of viral attachment than of replication, against
+both A/PR/8/34 (H1N1) and A/Chicken/Korea/MS96/96
+(H9N2). However, the other two AK extracts and four
+AK fractions showed only blockage of viral attachment
+of influenza virus to the cell.
+Conclusions
+This study has shown that AK extracts and AK fractions
+can inhibit both A/PR/8/34 (H1N1) and A/Chicken/
+Korea/MS96/96 (H9N2) influenza viruses by inhibiting
+viral HA binding to the SA receptors in the host cell.
+AK-3 offers a potential antiviral drug candidate by inhi-
+biting viral attachment step, replication and release step.
+These results lead to further investigation about charac-
+terization of active compounds and their specific
+mechanism against influenza virus.
+Acknowledgements
+This research was supported by a grant from the Technology Development
+Program for Agriculture and Forestry, Ministry of Agriculture and Forestry
+(No. 308025-05-1-SB010) and KRIBB Research Initiative Program, Republic of
+Korea.
+Author details
+1Eco-Friendly Biomaterial Research Center and AI Control Material Research
+Center, Korea Research Institute of Bioscience and Biotechnology, Jeongeup
+580-185, Republic of Korea.
+2Biotherapy Human Resources Center, College of
+Veterinary Medicine, Chonnam National University, Gwangju 500-757,
+Republic of Korea.
+Authors’ contributions
+HJK and HHK carried out most of the experiments, analyzed the data and
+participated in writing. SYY and JSC cellular studies and drafted the
+manuscript. YBR prepared extractions and fractions. KOC and MCR
+contributed to the data analysis. SJP and WSL conceived the study,
+participated in its design and coordination and accounted for the
+manuscript writing. All authors read and approved the final manuscript.
+Competing interests
+The authors declare that they have no competing interests.
+Received: 28 September 2010 Accepted: 10 November 2010
+Published: 10 November 2010
+References
+1. Palese P: Influenza: old and new threats. Nature Medicine 2004, 10(Suppl
+12):S82-S87.
+2. Palese P, Shaw ML: Orthomyxoviridae: the viruses and their replication. In
+Fields Virology. 5 edition. Edited by: Fields BN, Knipe DM, Howley PM.
+Wolters Kluwer Health/Lippincott Williams 2007:1647-1689.
+3. Hayden FG, Pavia AT: Antiviral management of seasonal and pandemic
+influenza. J Infect Dis 2006, 194(Suppl 2):S119-S126.
+4. Memoli MJ, Morens DM, Taubenberger JK: Pandemic and seasonal
+influenza: therapeutic challenges. Drug Discovery Today 2008, 13:590-595.
+5. Dawood FS, Jain S, Finelli L, Shaw MW, Lindstrom S, Garten RJ,
+Gubareva LV, Xu X, Bridges CB, Uyeki TM: Emergence of a novel swine-
+origin influenza A (H1N1) virus in humans. N Engl J Med 2009,
+360:2605-2615.
+6. Zimmer SM, Burke DS: Historical perspective-emergence of influenza A
+(H1N1) viruses. N Engl J Med 2009, 361:279-285.
+7. De Clercq E: Antiviral agents active against influenza A viruses. Nat Rev
+Drug Discov 2006, 5:1015-1025.
+8. Linhares RE, Wigg MD, Lagrota MH, Nozawa CM: The in vitro antiviral
+activity of isoprinosine on simian rotavirus (SA-11). Braz J Med Biol Res
+1989, 22:1095-1103.
+9. Kitching A, Roche A, Balasegaram S, Heathcock R, Maguire H: Oseltamivir
+adherence and side effects among children in three London schools
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 8 of 9affected by influenza A (H1N1)v, May 2009-an internet-based cross-
+sectional survey. Eurosurveillance 2009, 14:1-4.
+10. Dutkowski R: Oseltamivir in seasonal influenza: cumulative experience in
+low- and high-risk patients. J Antimicrob Chemother 2010, 65(Suppl 2):
+ii11-ii24.
+11. Lagoja IM, De Clercq E: Anti-influenza virus agents: synthesis and mode
+of action. Med Res Rev 2008, 28:1-38.
+12. Tang W, Eisenbrand G: “Chinese Drugs of Plant Origin”. Springer-Verlag.
+Berlin; 1992, 87.
+13. Kuroyanagi M, Noro T, Fukushima S, Aiyama R, Ikuta A, Itokawa H, Morita M:
+Studies on the constituents of the seeds of Alpinia katsumadai Hayata.
+Chem Pharm Bull 1983, 31:1544-1550.
+14. Ngo KS, Brow GD: Stilbenes, monoterpenes, diarylheptanoids, labdanes
+and chalcones from Alpinia katsumadai. Phytochemistry 1998,
+47:1117-1123.
+15. Yang Y, kinoshita K, Koyama K, Takahashi K, Tai T, Nunoura Y, Watanabe K:
+Anti-emetic principles of Alpinia katsumadai Hayata. Natural Product
+Sciences 1999, 5:20-24.
+16. Grienke U, Schmidtke M, Kirchmair J, Pfarr K, Wutzler P, Dürrwald R,
+Wolber G, Liedl KR, Stuppner H, Rollinger JM: Antiviral potential and
+molecular insight into neuraminidase inhibiting diarylheptanoids from
+Alpinia katsumadai. J Med Chem 2010, 53:778-786.
+17. Chidlow G, Harnett G, Williams S, Levy A, Speers D, Smith DW: Duplex real-
+time reverse transcriptase PCR assays for rapid detection and
+identification of pandemic (H1N1) 2009 and seasonal influenza A/H1, A/
+H3, and B viruses. J Clin Microbiol 2010, 48:862-866.
+18. Sugaya N, Nerome K, Ishida M, Matsumoto M, Mitamura K, Nirasawa M:
+Efficacy of inactivated vaccine in preventing antigenically drifted
+influenza type A and well-matched type B. JAMA 1994, 272:1122-1126.
+doi:10.1186/1743-422X-7-307
+Cite this article as: Kwon et al.: In Vitro inhibitory activity of Alpinia
+katsumadai extracts against influenza virus infection and
+hemagglutination. Virology Journal 2010 7:307.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color ﬁgure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Kwon et al. Virology Journal 2010, 7:307
+http://www.virologyj.com/content/7/1/307
+Page 9 of 9

@@ -1,0 +1,606 @@
+Overexpression and Small Molecule-Triggered
+Downregulation of CIP2A in Lung Cancer
+Liang Ma
+1,2, Zhe-Sheng Wen
+3, Zi Liu
+1, Zheng Hu
+4, Jun Ma
+3, Xiao-Qin Chen
+3, Yong-Qiang Liu
+1, Jian-Xin
+Pu
+5, Wei-Lie Xiao
+5, Han-Dong Sun
+5*, Guang-Biao Zhou
+1*
+1Division of Molecular Carcinogenesis and Targeted Therapy for Cancer, State Key Laboratory of Biomembrane and Membrane Biotechnology, Institute of Zoology,
+Chinese Academy of Sciences, Beijing, China, 2School of Life Sciences, University of Science and Technology of China, Hefei, China, 3The Cancer Hospital, Sun Yat-Sen
+University, Guangzhou, China, 4Guangzhou Institute of Biomedicine and Health, Chinese Academy of Sciences, Guangzhou, China, 5State Key Laboratory of
+Phytochemistry and Plant Resources in West China, Kunming Institute of Botany, Chinese Academy of Sciences, Kunming, China
+Abstract
+Background: Lung cancer is the leading cause of cancer deaths worldwide, with a five-year overall survival rate of only 15%.
+Cancerous inhibitor of PP2A (CIP2A) is a human oncoprotein inhibiting PP2A in many human malignancies. However,
+whether CIP2A can be a new drug target for lung cancer is largely unclear.
+Methodology/PrincipalFindings:Normal and malignantlungtissues werederivedfrom 60lungcancer patientsfrom southern
+China. RT-PCR, Western blotting and immunohistochemistry were used to evaluate the expression of CIP2A. We found that
+among the 60 patients, CIP2A was undetectable or very low in paratumor normal tissues, but was dramatically elevated in
+tumor samples in 38 (63.3%) patients. CIP2A overexpression was associated with cigarette smoking. Silencing CIP2A by siRNA
+inhibited theproliferationand clonogenicactivityoflungcancercells.Intriguingly, wefound anaturalcompound,rabdocoetsin
+B which is extracted from a Traditional Chinese Medicinal herb Rabdosia coetsa, could induce down-regulation of CIP2A and
+inactivation of Akt pathway, and inhibit proliferation and induce apoptosis in a variety of lung cancer cells.
+Conclusions/Significance: Our findings strongly indicate that CIP2A could be an effective target for lung cancer drug
+development, and the therapeutic potentials of CIP2A-targeting agents warrant further investigation.
+Citation: Ma L, Wen Z-S, Liu Z, Hu Z, Ma J, et al. (2011) Overexpression and Small Molecule-Triggered Downregulation of CIP2A in Lung Cancer. PLoS ONE 6(5):
+e20159. doi:10.1371/journal.pone.0020159
+Editor: John D. Minna, Univesity of Texas Southwestern Medical Center at Dallas, United States of America
+Received January 31, 2011; Accepted April 12, 2011; Published May 31, 2011
+Copyright:  2011 Ma et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported in part by the National Key Program for Basic Research (973, 2010CB529201), the Key Project of Knowledge Innovation
+Program of the Chinese Academy of Sciences (KSCX1-YW-R-26 and KSCX2-YW-R-235), the National Natural Science Foundation of China (81071930, 30871110), the
+National Major Scientific and Technological Program for Drug Discovery (2009ZX09103-101), and the Science and Technology Planning Project of Guangzhou
+(2009Y-C011-2). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: gbzhou@ioz.ac.cn (G-BZ); hdsun@mail.kib.ac.cn (H-DS)
+Introduction
+Nearly 1.5 million people were diagnosed with lung cancer and 1.4
+million people were estimated to die from it in 2007 [1]. The two major
+forms of lung cancer are non–small cell lung cancer (NSCLC) and
+small cell lung cancer (SCLC). About 85% of lung cancers are
+NSCLC, which can be divided into three major histological subtypes:
+squamous cell carcinoma, adenocarcinoma, and large-cell carcinoma.
+SCLC represents about 15% of lung cancers [2]. Smoking causes all
+types of lung cancer but is most strongly linked with SCLC and
+squamous-cell carcinoma; adenocarcinoma is the most common type
+in patients who have never smoked [2]. Current treatment is
+determined by the histologic type of lung cancer and stage at diagnosis,
+including surgery, platinum doublet therapy, radiation therapy and
+targeted therapy. Unfortunately, the prognosis of lung cancer is poor
+with a only 15% of five-year overall survival rate for all stages
+combined [1]. Therefore, there is an urgent need to identify more
+effective molecular targets and new targeted therapies for lung cancer.
+Cancerous Inhibitor of PP2A (CIP2A) is a human oncoprotein
+that stabilizes c-Myc by inhibiting protein phosphatase 2A (PP2A)-
+mediated dephosphorylationofMYCatserine62[3].Inadditionto
+inhibiting the degradation of c-Myc, CIP2A appears to be regulated
+in a positive feedback loop with c-Myc by promoting each other’s
+expression [4]. CIP2A is over-expressed in human neck and head
+carcinomas, colon, breast, and gastric cancer, and is inversely
+correlated with disease outcome in gastric cancer [3–7]. However,
+whether CIP2A could be a new drug target for cancers is not fully
+investigated, and the anti-tumor activity of CIP2A-targeting agents
+remains largely unknown. We studied the expression of CIP2A in
+lung cancer and screened for lead compounds that could target
+CIP2A [8]. Here we show that CIP2A is markedly upregulated in
+lung cancer tumors compared to patient-matched adjacent normal
+lung tissues, and report that a natural compound which triggers
+downregulation of CIP2A exhibits significant antitumor activity in
+NSCLC cell lines.
+Results
+CIP2A is over-expressed in lung cancer and is associated
+with cigarette smoking
+We tested the expression of CIP2A at protein level in
+nonmalignant and malignant cells, and found that CIP2A was
+PLoS ONE | www.plosone.org 1 May 2011 | Volume 6 | Issue 5 | e20159highly expressed in lung cancer cell lines (A549, H1975, 95D and
+L78) compared to normal human embryonic lung fibroblasts (HLF
+and MRC5) and normal human bronchial epithelial cells
+(HBEpiC) (Figure 1A). We then analyzed CIP2A in 60 lung
+cancer samples from patients came from southern China whose
+baseline characteristics were listed in Table 1. We showed that
+CIP2A was over-expressed in 38 (63.3%) tumor specimens assayed
+by western blotting (Figure 1B). However, in the 60 patient-
+matched adjacent normal lung tissues, CIP2A was undetectable in
+57 (95%) samples, and was weakly expressed in 3 (5%) specimens
+where its expression was much lower than that in tumor samples of
+the same patients. In samples from 2 patients with inflammatory
+pseudotumor, CIP2A was not detected in both the pseudotumor
+and adjacent lung tissues (Figure 1C). Immunohistochemistry
+Figure 1. CIP2A is over-expressed in human lung cancer. (A): Western blot analysis of CIP2A in human lung cancer cells (A549, H1975, 95D and
+L78), embryonic lung fibroblast cells (HLF and MRC-5), and normal human bronchial epithelial cells (HBEpiC). (B): Western blot analyses of CIP2A
+protein in primary lung tumors (T) and adjacent normal lung tissues (N). b-Actin is used as a loading control. Representative results are shown and
+numbers are referred to individual patients. (C): Western blot analyses of CIP2A protein in inflammatory pseudotumor (P) and adjacent normal lung
+tissues (N). b-Actin is used as a loading control. (D): Representative images (left panel) and score (right panel) of immunohistochemistry staining for
+CIP2A expression in primary lung tumors (T) and adjacent normal lung tissues (N). (E): RT-PCR analyses of CIP2A mRNA in primary lung tumors (T) and
+adjacent normal lung tissues (N). GAPDH is employed as a loading control. Representative results are shown and numbers are referred to individual
+patients.
+doi:10.1371/journal.pone.0020159.g001
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 2 May 2011 | Volume 6 | Issue 5 | e20159assay confirmed that CIP2A was dramatically elevated with a
+higher immunoreactivity score in tumor samples in 26 out of 39
+patients (66.7%) tested (Figure 1D). At mRNA level, CIP2A was
+also over-expressed in lung tumor tissues compared to normal lung
+tissues in 39 of 58 (67.2%) patients tested (Figure 1E). Taken
+together, CIP2A is dramatically elevated in lung cancer tumor
+samples compared to paired normal lung tissues.
+CIP2A overexpression is associated with cigarette
+smoking
+We analyzed the correlation between CIP2A overexpression and
+some clinicopathologic variables. The data demonstrated that CIP2A
+overexpression in lung cancer was significantly correlated with
+histologic type of squamous cell carcinoma (p=0.003) and male
+gender (p=0.008) (Table 1) that were shown to strongly link with
+cigarette smoking [2,9]. Moreover, our data clearly showed that the
+high expression of CIP2A was associated with smoker patients
+(p=0.004). No significant difference in the CIP2A status was
+observed according to the pathological stage (p=0.639) and age
+(0.082) (Table 1). In an attempt to clarify the most significant factors
+related to CIP2A overexpression, the multivariate analyses were
+performed, and the multivariate logistic regression analysis (Table 2)
+demonstrated that cigarette smoking was the only significant variable
+associated with CIP2A overexpression in lung cancer (p=0.008).
+The nitrosamine 4-(methylnitro-samino)-1-(3-pyridyl)-1-buta-
+none, or the nicotine-derived nitrosamine ketone (NNK), is a
+key ingredient of tobacco smoke carcinogen which systemically
+induces tumors of the lung in rats, mice, and hamsters and also
+plays a major role in lung carcinogenesis [10,11]. We then
+investigated whether NNK could directly induce upregulation of
+CIP2A or not. To do this, HBEpiC (Figure 2A) and BEAS-2B
+(Figure 2B) bronchial epithelial cells were exposed to NNK at
+indicated concentration for indicated time points, lysed, and
+western blot was performed to analyze the expression of CIP2A.
+The results showed that treatment with NNK at 0.1 to 10 mM for
+up to 18 days could not perturb CIP2A expression (Figure 2, A
+and B). In this study, we did not test the long-term effect of NNK
+on CIP2A expression in vitro or in vivo.
+CIP2A is required for lung cancer cells growth and
+transformation
+CIP2A specific siRNA was employed to evaluate its roles in lung
+cancer pathogenesis, and the results showed that as compared to
+negative control (NC), CIP2A silencing (Figure 3A) led to
+inhibition of clonogenic activity of A549 cells, detected by foci
+formation (Figure 3, B and C) and soft agar colony formation
+(Figure 3, D and E) assays [3]. These phenomena were confirmed
+by results of CIP2A silencing in L78 cells (Figure S1, A through E).
+Next, A549 cells were transfected with NC or CIP2A-specific
+siRNA (Figure 3F), and injected subcutaneously into the right and
+left flanks of 8 nude mice respectively, and tumor volumes were
+estimated every two days [12]. Interestingly, CIP2A-specific
+siRNA significantly inhibited tumor growth as compared to NC-
+siRNA (Figure 3, G through I). Together, these data indicate that
+CIP2A is essential to lung cancer proliferation and tumorigenesis,
+and could be an effective therapeutic target.
+Rabdocoetsin B is a CIP2A-targeting natural compound
+Our central goal was to identify new drug targets and provide
+lead compounds for drug development. We screened for CIP2A-
+targeting small molecules by analyzing their effects on CIP2A
+expression, and identified a natural compound extracted from a
+Chinese medicinal herbal Rabdosia coetsa, rabdocoetsin B [13,14]
+(Figure 4A), could downregulate CIP2A at protein level at 5 to
+20 mM in A549 cells (Figure 4B). In H1975 cells, Rabdocoetsin B
+also triggered downregulation of CIP2A at 5 to 10 mM (Figure 4C).
+We analyzed the mechanism of CIP2A down-regulation caused by
+Rabdocoetsin B, and found that rabdocoetsin B significantly
+inhibited the transcription of CIP2A in a dose-dependent manner
+(Figure 4D) assessed by real-time RT-PCR.
+Rabdocoetsin B inhibits CIP2A-modulated
+phosphorylated Akt
+In hepatocellular carcinoma cells, CIP2A up-regulates phospho-
+Akt (pAkt) and decreases Akt-related PP2A activity, whereas
+silencing CIP2A re-activates PP2A [15]. Since Akt is constitutively
+active in lung cancer cells and promotes cellular survival and
+resistance to chemotherapy and radiation [16,17], we examined
+Table 1. Baseline demographic characteristics of patients
+underwent western blot analysis of CIP2A.
+Characteristics Cases, n CIP2A-high, n (%) P* value
+Gender
+male 40 30 (75) 0.008
+female 20 8 (40)
+Age
+,65 44 25 (56.8) 0.082
+.=65 16 13 (81.2)
+Smoking
+smoker 36 28 (77.8) 0.004
+non-smoker 24 10 (41.7)
+Histology
+adenocarcinoma 35 17 (48.6) 0.003**
+squamous-cell carcinoma 19 17 (89.5)
+adenosquamouscarcinoma 5 3 (60)
+small cell lung cancer 1 1 (100)
+TNM stage
+IA 3 2 (66.7) 0.639
+IIB 22 11 (50)
+IIA 2 1 (50)
+IIB 6 5 (83.3)
+IIIA 19 12 (63.2)
+IIIB 1 1 (100)
+IV 3 3 (100)
+NA 4 3 (75)
+*Chi-Square Test;
+**Adenocarcinoma versus Squamous-cell carcinoma; NA, unknown.
+doi:10.1371/journal.pone.0020159.t001
+Table 2. Multivariate logistic analyses of the association
+between CIP2A high expression and clinic characteristics.
+Variable Odds ratio 95.0% Confidence Interval P value
+Smoking 5.330 1.537–18.487 0.008
+Histology 2.186 0.865–5.524 0.098
+TNM stage 1.349 0.958–1.899 0.087
+doi:10.1371/journal.pone.0020159.t002
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 3 May 2011 | Volume 6 | Issue 5 | e20159the effect of CIP2A on pAkt in lung cancer. We showed that
+CIP2A silencing by specific siRNA resulted in down-regulation of
+pAkt but not pERK, PCNA, b-catenin, EGFR or Src (Figure 5A).
+We then investigated whether rabdocoetsin B could modulate the
+expression of pAkt, and found that treatment with rabdocoetsin B
+at 5 to 10 mM also down-regulated pAkt in A549 (Figure 5B) and
+H1975 (Figure 5C) cells. We further showed that in H1975 cells
+upon rabdocoetsin B at 10 mM, CIP2A was markedly downreg-
+ulated in 6 to 12 h and became undetectable in 48 h (Figure 5D),
+while pAKT was decreased in 18 h (Figure 5D). These results
+were confirmed in A549 cells treated with rabdocoetsin B
+(Figure 5E), indicating that this compound can inhibit the
+CIP2A-Akt pathway in lung cancer.
+Effects of Rabdocoetsin B on lung cancer cells
+We evaluated the effects of rabdocoetsin B on lung cancer cells
+expressing wide-type (WT) or mutant EGFR. We showed that
+rabdocoetsin B exhibited significant cytotoxic effects on A549, NCI-
+H1975, HCC827, SPC-A-1, GLC-82, L78 and 95D lung cancer
+cell lines (Figure 6, A and B). Rabdocoetsin B induced apoptosis of
+A549 cells (Figure 6C) with activation of casp-8 and casp-9 and
+cleavage of PARP (Figure 6D). Rabdocoetsin B also caused
+activation of casp-8 and casp-9 and cleavage of PARP in NCI-
+H1975 cells (Figure 6E). These results indicate that rabdocoetsin B
+inhibits proliferation and induces apoptosis of lung cancer cells via
+activating the endogenous and exogenous apoptosis pathways.
+Discussion
+CIP2A is an auto-antigen [7] that is over-expressed in human
+neoplasms [3–7,18–21]. Peng [22] showed that in American-based
+patients, CIP2A is increased in 61 of the 72 (84.7%) lung cancer
+tissue specimens, which is significantly higher than in normal lung
+tissues (14.3%, 9/63). Recently, Dong et al [23] reported that in
+29 patients from Northern China, CIP2A is over-expressed at
+mRNA level in 24 cases (82.7%) in tumor samples compared with
+their corresponding normal tissues; CIP2A protein (detected by
+immunohistochemistry) is found to be over-expressed in 72.2% of
+90 lung cancer samples and correlated with poor survival. We test
+CIP2A expression in 60 patients from Southern China [8], and
+report that CIP2A is drastically increased in 63.3% (detected by
+western blotting) or 67.2% (at mRNA level) of tumor specimens
+compared to adjacent normal tissues (Figure 1).
+We show for the first time that CIP2A overexpression is
+associated with cigarette smoking. In the 60 lung cancer patients
+examined in this study, 28 of 36 (77.8%) smoker patients show
+increased expression of CIP2A in the tumor samples compared to
+their adjacent normal specimens, whereas 10 of 24 (41.7%)
+nonsmoker cases exhibit up-regulated CIP2A at protein level
+(p=0.004) (Table 1). Currently smoking continues to be more
+prevalent among men (63%) than women (3.8%) [24]. We report
+here that CIP2A is over-expressed in 30/40 (75%) and 8/20 (40%)
+in men and women patients (p=0.008) (Table 1), respectively. We
+also find that CIP2A is elevated in 17/19 (89.5%) patients with
+squamous cell carcinoma, whereas 17/35 (48.6%) patients with
+adenocarcinoma have over-expressed CIP2A (p=0.003) (Table 1).
+The multivariate logistic regression analysis clearly demonstrates
+that smoking is the only significant variable associated with CIP2A
+overexpression in lung cancer in our setting (p=0.008) (Table 2).
+While the overall smoking rate in the North and Northeast sectors is
+higher than that in the South and East of China, the prevalence of
+environmental tobacco smoke exposure among nonsmokers in
+Northern China is significantly higher than that in nonsmokers in
+Southern China [24,25]. These may contribute to the difference in
+CIP2A expression betweenpatients inour setting and Dong’sreport
+[23]. Tobacco smoke which causes approximately 5–6 million
+deaths per year and 31% and 6% of all lung cancer deaths in
+middle-aged men and women respectively [26], can induce genetic
+and epigenetic changes and reduce DNA repair capacity [2]. Zhao
+etal[27] recentlyshowedthatinhumangastriccell lines,Helicobacter
+pylori infection can induce CIP2A expression via bacterial
+oncoprotein CagA-caused activation of the Src and MEK/ERK
+signal pathways. Though NNK (0.1 to 50 mM) fails to upregulate
+CIP2A in HBEpiC and BEAS-2B cells in up to 18 days in our study
+(Figure 2),we cannot exclude the possibility that NNK may perturb
+the expression of the oncoprotein in a longer exposure time course,
+and this hypothesis warrants further investigation.
+CIP2A is critical for lung cancer cell growth, since CIP2A
+knockdown by specific siRNA results in significant inhibition of cell
+proliferation and transformation in vitro and in vivo (Figure 3 and
+Figure S1). These data indicate that CIP2A could be an attractive
+target for novel anti-lung cancer drugs. Interestingly, we identify a
+naturalcompoundrabdocoetsinB, candown-regulateCIP2Aprotein
+in lung cancer cells (Figure 4, A through C) by inhibiting its
+expression at mRNA level (Figure 4D). Studies show that CIP2A can
+up-regulate pAkt [15], and our results confirm that CIP2A silencing
+can decrease pAkt (Figure 5A). We further show that rabdocoetsin B
+alsoinhibits pAkt(Figure 5, B throughE). Rabdocoetsin B inhibits the
+growth and induces apoptosis of a variety of lung cancer cells
+(Figure 6, A through E). Our data thus provide a lead compound for
+CIP2A-targeting anti-tumor therapeutics.
+Materials and Methods
+Patient samples
+Use of the samples was approved by the Institutional Review
+Board of Institute of Zoology, Chinese Academy of Sciences and
+Figure 2. Effects of NNK on CIP2A expression. (A): HBEpiC cells
+were treated with NNK at various concentrations for indicated time
+points, and western blot was performed to analyze CIP2A expression.
+(B): BEAS-2B cells were treated with NNK at indicated concentrations for
+indicated time points, and western blot was conducted to analyze
+CIP2A expression. 0.05% and 0.1% DMSO were used as a solvent control
+corresponding to 5 mM and 10 mM NNK, respectively.
+doi:10.1371/journal.pone.0020159.g002
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 4 May 2011 | Volume 6 | Issue 5 | e20159Figure 3. CIP2A is required for lung cancer cells’ growth and transformation. (A): Western blot analysis of CIP2A protein expression in A549
+cells 72 h after transfection with negative control (NC) or CIP2A-specific siRNA. (B and C): Flat plate clone formation assay for the clonogenic activity
+of A549 cells 72 h after transfection with NC or CIP2A-specific siRNA. (B): representative light miscroscopy images. (C): Quantitation of foci counting.
+Shown is mean+SD of four independent experiments. (D and E): Soft-agar colony formation assay for A549 cells transfected with NC or CIP2A-specific
+siRNA. (D): representative light miscroscopy images. (E): Quantitation of foci counting. (F): Western blot analysis of CIP2A protein in A549 cells
+transfected with NC or CIP2A-specific siRNA for 72 h. (G): Nude mice injected subcutaneously with A549 cells transfected with NC or CIP2A-specific
+siRNA. (H): The tumor growth curve for the experiment shown in (G). Shown is mean+SD of the mean tumor volumes. (I) Image of xenograft tumors
+obtained from mice shown in (G). * p,0.01, Student’s t test.
+doi:10.1371/journal.pone.0020159.g003
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 5 May 2011 | Volume 6 | Issue 5 | e20159The Cancer Hospital, Sun Yat-Sen University. All tumor and
+adjacent normal tissue samples were obtained with written
+informed consent from patients at the Cancer Hospital, Sun
+Yat-Sen University. For RT-PCR analysis, tissue specimens were
+ground in liquid nitrogen-cooled mortar, RNA was extracted using
+the Trizol (Invitrogen), and RT-PCR experiments were performed
+using PrimeScriptH One Step RT-PCR Kit Ver.2 (TaKaRa)
+according to the manufacturer’s protocol. The sequences of
+primers used for CIP2A are as follows: forward 59-CCATATGCT-
+CACTCAGATGATGT-39,_reverse 59-GTGTATCATCTCCA-
+CAGAGAGTT-39 [5].
+For Western blot assay, tissue specimens were ground in liquid
+nitrogen-cooled mortar, tissue powder was suspended in lysis
+buffer (50 mM Tris-HCl (pH 7.4), 150 mM NaCl, 1% triton X-
+100, 1% sodium deoxycholate, 0.1% SDS, 1 mM Na3VO4,1m M
+NaF, 1 mM EDTA, 1 mM PMSF, complete protease inhibitor
+cocktail) and cleared by centrifugation. Equal amounts of samples
+were separated by SDS-PAGE, transferred to nitrocellulose and
+immunoblotted with anti-CIP2A or anti-b-actin antibody.
+Immunohistochemical assay and scoring of immunoreactivity
+were performed as described [28]. Formalin-fixed, paraffin-
+embedded lung cancer tissue specimens (5 mm) were deparaffi-
+nized and subjected to a heat-induced epitope retrieval step for
+2m i n . T h e H 2O2 (3%) was used to block endogenous
+peroxidase activity for 10 min. The sections were then washed
+with PBS. The rabbit polyclonal anti-CIP2A antibody was
+applied to the slides at a dilution of 1:500 at 4uCo v e r n i g h t .
+Detection was achieved with the Immunohistochemistry kit (pv-
+6001) (Zhongshan Golden Bridge Biotechnology Co., Ltd,
+Beijing, China) according to the manufacturer’s protocol.
+Sections were colored with 3, 39-diaminobenzidine (DAB) and
+counterstained with hematoxylin, dehydrated, treated with
+xylene, and mounted. CIP2A protein levels were scored as
+described [29].
+Agents
+Rabdocoetsin B was extracted from Rabdosia coetsa by Professor
+Han-Dong Sun. The 3-(4, 5)-dimethylthiahiazo (-z-y1)-3, 5-di-
+Figure 4. Rabdocoetsin B induces down-regulation of CIP2A. (A): Structure of rabdocoetsin B. (B): A549 cells were treated with rabdocoetsin B
+(RdB) at various concentrations for 48 h. Western blots were used to detect the expression of CIP2A protein (upper panel) and CIP2A protein
+expression were quantified and normalized against b-actin expression (lower panel) (C): H1975 cells were treated with rabdocoetsin B at various
+concentrations for 24 h. Western blots were used to detect the expression of CIP2A protein (upper panel) and CIP2A protein expression were
+quantified and normalized against b-actin expression (lower panel) (D): A549 cells were treated with rabdocoetsin B at various concentrations for
+48 h, and the mRNA expression of CIP2A was analyzed using real-time RT-PCR.
+doi:10.1371/journal.pone.0020159.g004
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 6 May 2011 | Volume 6 | Issue 5 | e20159phenytetrazoliumromide(MTT) was purchased from Amresco, Inc.
+(Solon, OH). PE Annexin V-7AAD Apoptosis Detection kit was
+obtained from BD Biosciences (San Jose, CA, USA).
+Antibodies
+The antibodies used in this study were as follows: anti-b-Actin
+(Sigma); anti-casp-9 (C9), anti-casp-8 (1C12); anti-PARP, anti-
+phospho-p44/42 MAPK, anti-EGFR, anti-Src and anti-b-catenin
+(Cell signaling), anti-CIP2A (2G10-3B5), anti-pAKT and ATK
+(Santa Cruz Biotechnology); anti-ERK2 (Abcam); anti-PCNA
+(Abmart); anti-rabbit or anti-mouse HRP-conjugated secondary
+antibody (Pierce); Rabbit Polyclonal anti-CIP2A (Novus Biologi-
+cals, Inc). Detection was performed by using a Chemiluminescent
+Western detection kit (Cell Signaling).
+Figure 5. Downregulation of CIP2A leads to decrease of phosphorylated Akt in lung cancer cells. (A): A549 cells were transfected
+with NC or CIP2A-specific siRNA for 72 h, and the expression of indicated proteins were detected using Western blots. (B and C): A549 (B) and
+H1975 cells (C) were treated with rabdocoetsin B (RdB) at indicated concentrations for 48 and 24 h, respectively, and Western blots were
+performed to analyze the expression of proteins indicated. (D and E): H1975 (D) and A549 (E) cells were treated with rabdocoetsin B (RdB) for
+indicated time points, and Western blot analysis was carried out with antibodies specific for the indicated proteins. b-actin is used as a loading
+control.
+doi:10.1371/journal.pone.0020159.g005
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 7 May 2011 | Volume 6 | Issue 5 | e20159Cell culture
+The lung cancer lines NCI-H1975 and A549 and human
+embryonic kidney HEK-293 cells were obtained from the
+American Tissue Culture Collection (ATCC) and human
+embryonic lung fibroblast MRC-5 cells were purchased from the
+Cell Resource Center, Chinese Academy of Medical Sciences
+(Beijing). Normal human bronchial epithelial cells (HBEpiC,
+Catalog Number: 3210) were purchased from ScienCell (ScienCell
+Research Laboratories, San Diego, California). Human lung
+squamous carcinoma cell lines L78 and highly metastatic large-cell
+lung cancer cell lines 95D were obtained from the Cell bank of
+Chinese Academy of Sciences (Shanghai), and human embryonic
+lung fibroblast HLF cells were purchased from Kenqiang
+Instrument Co., Ltd (Shanghai, China). BEAS-2B bronchial
+epithelial cells were provided by Professor Hongbin Ji at Shanghai
+Institute for Biological Sciences, Chinese Academy of Sciences.
+A549, HLF and BEAS-2B cells were cultured in Dulbecco
+modified Eagle medium (DMEM) containing 10% fetal bovine
+serum (FBS; Gibco/BRL, Grand Island, NY), 100 U/ml penicil-
+lin, 100 mg/ml streptomycin. HBEpiC cells were cultured in a
+serum-free Bronchial Epithelial Cell Medium (BECM, Cat.
+No. 3211, ScienCell Research Laboratories) containing essential
+and non-essential amino acids, vitamins, hormones, growth factors
+and trace minerals. L78, 95D and NCI-H1975 cells were cultured
+in RPMI 1640 supplemented with 10% fetal bovine serum (FBS;
+Gibco/BRL, Grand Island, NY), 100 U/ml penicillin, 100 mg/ml
+streptomycin. MRC-5 cells were cultured in MEM/EBSS medium
+supplemented with non-essential amino acids, 10% fetal bovine
+serum (FBS; Gibco/BRL, Grand Island, NY), 100 U/ml penicillin
+and 100 mg/ml streptomycin.
+Assessment of cell proliferation and apoptosis
+Cells were treated with Rabdocoetsin B for indicated concen-
+tration and time points. Cell proliferation was determined using
+MTT assay. Cell viability was estimated by trypan blue dye
+exclusion. Externalization of phosphatidylserine was tested using a
+Figure 6. Rabdocoetsin B exhibits anti-tumor activity in lung cancer cells. (A): Lung cancer cells were treated with increasing concentrations
+of Rabdocoetsin B (RdB) (from 1 mMt o1 0mM) and cell viability was measured 48 h by the MTT assay. (B): the IC50 of cells treated with rabdocoetsin
+B. (C): Rabdocoetsin B induces apoptosis of A549 cells, assayed by flow cytometry. (D and E): Western blots were performed to detect the expression
+of apoptosis regulators in A549 (D) and H1975 cells (E).
+doi:10.1371/journal.pone.0020159.g006
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 8 May 2011 | Volume 6 | Issue 5 | e20159PE Annexin V-7 AAD Apoptosis Detection kit (BD Biosciences,
+San Jose, CA) according to manufacturer’s instruction.
+Quantitative real-time PCR
+Quantitative real-time PCR was performed in CFX
+TM96 Real
+Time System (Bio-Rad) using SYBRH Premix Ex Taq
+TM(Perfect
+Real Time) (TaKaRa Code: DRR041) according to the manu-
+facturer’s instruction. Primers for CIP2A and Actin were as
+follows: CIP2A: forward sequence, 59-TGCGGCACTTGGAG-
+GTAATTTC-39, reverse sequence, 59-AGCTCTACAAGGCA-
+ACTCAAGC-39; Actin: forward sequence, 59-ATCGTCCA-
+CCGCAAATGCTTCTA-39, reverse sequence, 59-AGCCATGC-
+CAATCTCATCTTGTT-39. Levels of CIP2A mRNA were
+expressed as the ratio versus actin based on the CT values.
+siRNA assays
+Using HiPerFect Transfection Reagent (Qiagen, Crawley, UK)
+according to the manufacturer’s protocol, cells were transfected
+with 100 nM double-stranded siRNA oligonucleotides [3]. The
+siRNA sequences were 59-CUGUGGUUGUGUUUGCACUTT-
+39 (CIP2A siRNA1), 59-ACCAUUGAUAUCCUUAGAATT-39
+(CIP2A siRNA2) [3], and 59-UUCUCCGAACGUGUCAC-
+GUTT-39 (negative control (NC) siRNA).
+Clonogenic assay
+For foci formation, A549 or L78 cells transfected with negative
+control or CIP2A-specific siRNA were seeded in triplicate onto
+35 mm plates (300 cells per plate). After 14 days of culturing, cells
+were stained with Giemsa and clones containing more than 50
+cells were counted. For soft-agar colony formation assay, cells were
+suspended in 1 ml DMEM (for A549 cells) or RPMI 1640 (for L78
+cells) containing 0.3% low-melting-point agarose (Amresco, Solon,
+OH) and 10% FBS and plated on a bottom layer containing 0.6%
+agarose in 35 mm plat (1,000 cells/plate) in triplicate. After 2-3
+weeks culturing, plates were stained with Giemsa and colonies
+were counted using a light microscope.
+Murine models
+All animal studies were conducted according to protocols
+approved by the Animal Ethics Committee of the Institute of
+Zoology, Chinese Academy of Sciences, with the approval ID of
+AEC2010070202. All mice used in this study were bred and
+maintained in a specific pathogen-free environment. Nude mice
+(n=8) were injected subcutaneously with A549 cells (4610
+6)
+transfected with NC or CIP2A-specific siRNA into right and left
+flanks respectively, and tumor was calculated as described [12].
+Statistical analysis
+Differences between data groups were evaluated for significance
+using Student t-test of unpaired data, x
+2 test or one-way analysis of
+variance and Bonferroni post-test. The tumor volume was
+analyzed with one-way ANOVA and independent sample t test
+using the software SPSS 12.0 for Windows (Chicago, IL). The
+association between CIP2A high expression and clinicopatholog-
+ical feature was assessed using either x
+2 test or the Fisher exact test,
+and a backward stepwise multivariate logistic regression analysis
+was carried out to investigate the most significant variables related
+to CIP2A over-expression after adjustment. P values ,.05 were
+considered statistically significant. All experiments were repeated
+at least three times and the data were presented as the mean6SD
+unless noted otherwise.
+Supporting Information
+Figure S1 The effects of CIP2A depletion on the L78
+cells’ growth and trasnsformation. (A): Western blot analysis
+of CIP2A protein expression in L78 cells 72 h after transfection
+with NC or CIP2A-specific siRNA. (B and C): Flat plate clone
+formation assay for clonogenic activity of L78 cells 72 h after
+transfection with NC or CIP2A-specific siRNA. (B): Representa-
+tive light microscopy images. (C): Quantitation of foci counting.
+Shown is mean+SD of three independent experiments. (D and E):
+Soft-agar colony formation assay of L78 cells transfected with NC
+or CIP2A-specific siRNA. (D): Representative light microscopy
+images. (E): Quantitation of foci counting.
+(TIF)
+Acknowledgments
+We thank Professors Zhu Chen, Sai-Juan Chen and Zhen-Yi Wang at
+Shanghai Institute of Hematology for their long-term support. The authors
+thank Professor Jukka Westermarck at University of Turku, Finland for
+providing the pcDNA3.1-CIP2A construct, and Professor Hongbin Ji at
+Shanghai Institute for Biological Sciences, Chinese Academy of Sciences
+for providing the BEAS-2B cells.
+Author Contributions
+Conceived and designed the experiments: G-BZ. Performed the exper-
+iments: LM ZL ZH Y-QL J-XP W-LX. Analyzed the data: LM G-BZ.
+Contributed reagents/materials/analysis tools: H-DS. Wrote the paper:
+LM G-BZ. Clinical study: Z-SW JM X-QC.
+References
+1. GarciaM,JemalA,WardEM,CenterMM,HaoY,etal.(2007) GlobalCancerFacts
+& Figures 2007. Atlanta, GA: American Cancer Society, 2007. Available: http://
+www cancer org/docroot/STT/content/STT_1x_Global_Cancer_Facts_
+and_Figures_2007 asp.
+2. Herbst RS, Heymach JV, Lippman SM (2008) Lung Cancer. N Engl J Med 359:
+1367–1380.
+3. Junttila MR, Puustinen P, Niemela M, Ahola R, Arnold H, et al. (2007) CIP2A
+inhibits PP2A in human malignancies. Cell 130: 51–62.
+4. Khanna A, Bockelman C, Hemmes A, Junttila MR, Wiksten JP, et al. (2009)
+MYC-dependent regulation and prognostic role of CIP2A in gastric cancer.
+J Natl Cancer Inst 101: 793–805.
+5. Li W, Ge Z, Liu C, Liu Z, Bjorkholm M, et al. (2008) CIP2A is overexpressed in
+gastric cancer and its depletion leads to impaired clonogenicity, senescence, or
+differentiation of tumor cells. Clin Cancer Res 14: 3722–3728.
+6. Come C, Laine A, Chanrion M, Edgren H, Mattila E, et al. (2009) CIP2A is
+associated with human breast cancer aggressivity. Clin Cancer Res 15: 5092–5100.
+7. Soo HL, Zhang JY, Chan EK (2002) Cloning and characterization of a novel 90
+kDa ‘companion’ auto-antigen of p62 overexpressed in cancer. Oncogene 21:
+5006–5015.
+8. Zhou GB, Ma L, Wen ZS (2010) Cancerous inhibitor of phosphatase PP2A in
+lung cancer. AACR 101st Annual Meeting 2010 in Washington, DC Permanent
+Abstract Number. pp LB-45.
+9. Sharma SV, Bell DW, Settleman J, Haber DA (2007) Epidermal growth factor
+receptor mutations in lung cancer. Nat Rev Cancer 7: 169–181.
+10. Hecht SS (2002) Cigarette smoking and lung cancer: chemical mechanisms and
+approaches to prevention. Lancet Oncol 3: 461–469.
+11. Lin RK, Hsieh YS, Lin P, Hsu HS, Chen CY, et al. (2010) The tobacco-specific
+carcinogen NNK induces DNA methyltransferase 1 accumulation and tumor
+suppressor gene hypermethylation in mice and lung cancer patients. J Clin
+Invest 120: 521–532.
+12. Hu Z, Pan XF, Wu FQ, Ma LY, Liu DP, et al. (2009) Synergy between
+Proteasome Inhibitors and Imatinib Mesylate in Chronic Myeloid Leukemia.
+PLoS ONE 4: e6257.
+13. Feng T, Pu J, Hu Z, Liu D, Sun H, et al. (2009) Rabdocoetsin B, a diterpenoid
+isolated from Isodon coetsa, is a potential proteasome inhibitor and induced
+apoptosis of t(8;21) leukemia cells. Chin J Biotech 25: 1218–1224.
+14. Chen YP, Sun HD, Lin ZW (2011) Study on the diterpenoids of Rabdosia coetsa.
+Acta Bot Sin 32: 292–296.
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 9 May 2011 | Volume 6 | Issue 5 | e2015915. Chen KF, Liu CY, Lin YC, Yu HC, Liu TH, et al. (2010) CIP2A mediates
+effects of bortezomib on phospho-Akt and apoptosis in hepatocellular carcinoma
+cells. Oncogene 29: 6257–6266.
+16. Brognard J, Clark AS, Ni Y, Dennis PA (2001) Akt/protein kinase B is
+constitutively active in non-small cell lung cancer cells and promotes cellular
+survival and resistance to chemotherapy and radiation. Cancer Res 61:
+3986–3997.
+17. David O, Jett J, LeBeau H, Dy G, Hughes J, et al. (2004) Phospho-Akt
+overexpression in non-small cell lung cancer confers significant stage-
+independent survival disadvantage. Clin Cancer Res 10: 6865–6871.
+18. Basile JR, Czerninski R (2010) The role of CIP2A in oral squamous cell
+carcinoma. Cancer Biol Ther 10: 700–702.
+19. Vaarala M, Vaisanen MR, Ristimaki A (2010) CIP2A expression is increased in
+prostate cancer. Journal of Experimental & Clinical Cancer Research 29: 136.
+20. Qu W, Li W, Wei L, Xing L, Wang X, et al. (2010) CIP2A is overexpressed in
+esophageal squamous cell carcinoma. Medical Oncology. pp 1–6.
+21. Wang J, Li W, Li L, Yu X, Jia J, et al. (2011) CIP2A is over-expressed in acute
+myeloid leukaemia and associated with HL60 cells proliferation and differen-
+tiation. Int J Lab Hematol doi 10.1111/j.1751-553X.2010.01288.x. [Epub
+ahead of print].
+22. Peng B, Liu SS, Qian W, Chan EKL, Tan EM, et al. (2010) Immune response to
+a fetal oncoprotein p90/CIP2A in lung cancer. AACR 101 Annual Meeting
+Abstract Book Abstract # 4792.
+23. Dong QZ, Wang Y, Dong XJ, Li ZX, Tang ZP, et al. (2010) CIP2A is
+Overexpressed in Non-Small Cell Lung Cancer and Correlates with Poor
+Prognosis. Annals of Surgical Oncology. pp 1–9.
+24. Yang G, Fan L, Tan J, Qi G, Zhang Y, et al. (1999) Smoking in China. JAMA:
+The Journal of the American Medical Association 282: 1247–1253.
+25. Gu D, Kelly TN, Wu X, Chen J, Samet JM, et al. (2009) Mortality Attributable
+to Smoking in China. New England Journal of Medicine 360: 150–159.
+26. Jha P (2009) Avoidable global cancer deaths and total deaths from smoking.
+Nature Reviews Cancer 9: 655–664.
+27. Zhao D, Liu Z, Ding J, Li W, Sun Y, et al. (2010) Helicobacter pylori CagA
+upregulation of CIP2A is dependent on the Src and MEK/ERK pathways.
+J Med Microbiol 59: 259–265.
+28. Wang YY, Zhou GB, Yin T, Chen B, Shi JY, et al. (2005) AML1-ETO and C-
+KIT mutation/overexpression in t(8;21) leukemia: Implication in stepwise
+leukemogenesis and response to Gleevec. Proc Natl Acad Sci U S A 102:
+1104–1109.
+29. Remmele W, Stegner HE (1987) [Recommendation for uniform definition of an
+immunoreactive score (IRS) for immunohistochemical estrogen receptor
+detection (ER-ICA) in breast cancer tissue]. Pathologe 8: 138–140.
+CIP2A in Lung Cancer
+PLoS ONE | www.plosone.org 10 May 2011 | Volume 6 | Issue 5 | e20159

@@ -1,0 +1,800 @@
+                          Hammann, S., Korf, A., Bull, I. D., Hayen, H., & Cramp, L. J. E.
+(2019). Lipid profiling and analytical discrimination of seven cereals
+using high temperature gas chromatography coupled to high
+resolution quadrupole time-of-flight mass spectrometry. Food
+Chemistry, 282, 27-35.
+https://doi.org/10.1016/j.foodchem.2018.12.109
+Peer reviewed version
+License (if available):
+CC BY-NC-ND
+Link to published version (if available):
+10.1016/j.foodchem.2018.12.109
+Link to publication record in Explore Bristol Research
+PDF-document
+This is the author accepted manuscript (AAM). The final published version (version of record) is available online
+via Elsevier at https://www.sciencedirect.com/science/article/pii/S0308814619300184 Please refer to any
+applicable terms of use of the publisher.
+University of Bristol - Explore Bristol Research
+General rights
+This document is made available in accordance with publisher policies. Please cite only the
+published version using the reference above. Full terms of use are available:
+http://www.bristol.ac.uk/red/research-policy/pure/user-guides/ebr-terms/
+ 
+1 
+ 
+Lipid profiling and analytical discrimination of seven cereals using high 
+temperature gas chromatography coupled to high resolution quadrupole time-
+of-flight mass spectrometry 
+ 
+Simon Hammann1,2 *, Ansgar Korf3, Ian D. Bull2, Heiko Hayen3 and Lucy J. E. Cramp1  
+ 
+1 Department of Anthropology and Archaeology, University of Bristol, Bristol BS8 
+1UU, United Kingdom 
+2 Organic Geochemistry Unit, School of Chemistry, University of Bristol, Bristol BS8 
+1TS, United Kingdom 
+3 Institute of Inorganic and Analytical Chemistry, University of Münster, 
+Corrensstraße 30, 48149 Münster, Germany 
+ 
+* Corresponding author  
++44 (0) 117 954 6083 
+simon.hammann@bristol.ac.uk  
+Formatted
+ 
+2 
+ 
+Abstract 
+Minor lipids in cereals (such as phytosterols and alkylresorcinols) can be 
+important for human nutrition and/or be used as biomarkers for cereal intake. 
+However, the analysis of cereal lipids is very challenging due to the complex lipidome 
+comprising several hundred individual compounds present over a wide-range of 
+concentrations.  
+Here we present a method for the profiling of cereal lipids using high 
+temperature gas chromatography coupled to high resolution mass spectrometry 
+(GC/Q-TOF MS). The method was used to investigate the lipid profiles of 77 samples 
+of bread wheat, spelt, einkorn, emmer, barley, rye and oats. 
+Distinct differences in the patterns of alkylresorcinols, free and conjugated 
+sterols and tocopherols between the cereals could be observed. Furthermore, traces 
+of tocomonoenols and diunsaturated and methyl-alkylresorcinols (not previously 
+reported in cereals) could be detected. Finally, the lipid patterns in the cereals could 
+be used to separate the cereals by Principle Component Analysis. 
+ 
+ 
+Keywords: Cereal; Gas chromatography; Mass spectrometry; lipid; sterol; 
+alkylresorcinol; tocopherol; Principle Component Analysis 
+  
+ 
+3 
+ 
+1. Introduction 
+Although cereals have only been a part of human diet for roughly 10 000 years, 
+they nowadays are a staple in most parts of the world. In 2017, the global production 
+of cereals exceeded 2.5 billion tonnes, with wheat and rice comprising almost half 
+(Food and Agriculture Organisation of the United Nations, 2018). Cereals are usually 
+the primary dietary source of carbohydrates and therefore important for their calorific 
+value, but they also contain proteins and lipids at lower concentrations, as well as 
+several essential vitamins (McKevith, 2004).  
+Cereal lipids comprise a very complex mixture of compounds that are 
+distributed in the cereal grain. A common concept is their classification as either 
+“starch lipids” or “non-starch lipids” (Morrison, 1988) based on their association with 
+starch granules in the cereal. An alternative categorisation, based on molecular 
+structure, leads to classifications such as “polar” and “non-polar lipids”, with 
+glycerophospholipids or mono- and digalactosyldiacylglycerols being the most 
+prominent members of the former category. Non-polar lipids include triacylglycerols, 
+sterols and sterol esters and tocopherols. However, it should be noted that there are 
+no strict rules for classification.  
+Several minor compounds in the lipid fraction have attracted attention due to 
+the health benefits for humans associated with them. Plant sterols and their conjugates 
+(Figure 1a-d), as found in cereals, can lower the plasma cholesterol levels in humans 
+and thus lower the risk of cardiovascular diseases. Similarly, tocols (Vitamin E) (Figure 
+1e-g) and alkylresorcinols (Figure 1h) are considered to be valuable dietary 
+antioxidants and anticarcinogens that can help to prevent cell damage in vitro (Panfili, 
+ 
+4 
+ 
+Fratianni, & Irano, 2003; Piironen, Toivo, & Lampi, 2002; Ross, Shepherd, 
+Schüpphaus, Sinclair, Alfaro, Kamal-Eldin, et al., 2003).  
+The direct analysis of these minor compounds is often challenging due to their 
+low concentration in cereals (often less than 0.1 mg/g) and the complex mixture of 
+concomitant lipids potentially coeluting with them. Recently, Prinsen et al. analysed 
+lipids from wheat bran by gas chromatography coupled to flame ionisation detection 
+and mass spectrometry (GC-FID and GC-MS) using short and medium length columns 
+(5 and15 m). While a large number of compounds could be identified, many coelutions 
+resulting from sample complexity, could be observed (Prinsen, Gutierrez, Faulds, & 
+del Rio, 2014). To mitigate this issue, different approaches have been proposed. 
+Alkaline saponification of the lipids, as frequently employed for sterol analysis, can be 
+used to hydrolyse all ester bonds, leading to a simplification of the lipid spectrum (Cert, 
+Moreda, & Pérez-Camino, 2000). Subsequently, the free fatty acids can be easily 
+separated, effectively enriching unsaponifiable compounds such as sterols or aliphatic 
+alcohols (Cert, Moreda, & Pérez-Camino, 2000). However, this step is laborious and 
+leads to a loss of information about the native distribution of lipids; it can also result in 
+the degradation of lipids (e.g. tocols) or the formation of artefacts (Abidi, 2001; 
+Rupérez, Martıń, Herrera, & Barbas, 2001).  
+A second approach is the selective isolation of chosen lipid classes of interest 
+from the total lipid extract (TLE) by chromatographic methods prior to analysis (Ruiz-
+Gutierrez & Perez-Camino, 2000). While well-established and effective, these 
+methods similarly only allow for certain lipids to be investigated (loss of information). 
+By employing selective detection techniques, e.g. by coupling high performance liquid 
+chromatography to fluorescence detection (HPLC-FLD) or using LC-MS or GC-MS in 
+the selected ion monitoring or selective reaction monitoring modes, pre-selected 
+ 
+5 
+ 
+compounds can be detected with high sensitivity and selectivity, although again with 
+the caveat of being restricted to a few chosen targets. 
+One way to mitigate these drawbacks is through optimisation of the analytical system 
+to allow the separation, detection and identification of an increased number of 
+compounds. The two major strategies to achieve this are to extend the elution window 
+(e.g. through higher GC operation temperatures) or by increasing selectivity, 
+particularly through multidimensional chromatographic approaches. Comprehensive 
+LC x GC and GC x GC coupled to mass spectrometry were indeed used to great effect 
+for the detailed investigation of total lipid patterns and the parallel screening of multiple 
+classes of minor lipids (Janssen, de Koning, & Brinkman, 2004; Purcaro, Barp, 
+Beccaria, & Conte, 2016).  
+In this study we combined gas chromatography and high resolution quadrupole-
+time-of-flight mass spectrometry (GC/Q-TOF MS) for the profiling of GC-amenable 
+lipids in cereals. By extending the GC elution window to 350 ºC TLEs could be 
+analysed without any prior hydrolysis step, therefore preserving the original lipid 
+composition. Through the acquisition of high resolution full-scan mass spectrometry 
+data, information on multiple compound classes (with the increased selectivity and 
+certainty of identification provided by high mass accuracy) could be obtained 
+simultaneously thereby retaining the capability to retrospectively inspect data for other 
+novel compounds of interest. Recently, this method was used to profile cereal lipids to 
+detect and identify cereal lipid biomarkers to be used in archaeological research 
+(Hammann & Cramp, 2018). Here we use this new approach to analyse the lipids from 
+77 samples of bread wheat, spelt, einkorn, emmer, barley, rye and oats and compare 
+their lipid profiles with a particular focus on the lipids present at low concentration. In 
+addition, the study aimed to investigate whether the distributions of the GC-amenable 
+ 
+6 
+ 
+lipids could be used to discriminate between the seven cereal classes investigated in 
+this study and be used to test the authenticity of cereals. 
+ 
+2. Materials and Methods 
+ 
+2.1 Chemicals 
+n-Hexane, dichloromethane (DCM), chloroform and methanol (all HPLC grade) 
+were purchased from Rathburn Chemicals (Walkerburn, UK), while the silylating agent 
+BSTFA/TMCS 99:1 (v/v) was purchased from Supelco (Bellefonte, PA, USA). Pyridine 
+(>99%), palmitic acid, methyl heptadecanoate (17:0-ME), methyl stearate, stearic 
+acid, cholesterol, 1-palmitoyl-glycerol, dipalmitoyl-glycerol, trimyristate, tripalmitate, 
+tristearate (all >99%), tetratriacontane (n-C34, 98%), and silica were purchased from 
+Sigma-Aldrich (Irvine, UK). Cholesteryl oleate (97%) was purchased from Lancaster 
+Synthesis (Morecambe, UK) and an authentic standard of 5-n-docosylresorcinol (AR-
+22, >99%) was purchased from ReseaChem (Burgdorf, Switzerland). All glass 
+consumables (test tubes, pipettes, vials, chromatography columns) were heated in a 
+muffle furnace at 450 ºC for 4h prior to use. 
+ 
+2.2 Samples 
+Grain samples of bread wheat (Triticum aestivum, n=14), einkorn (Triticum 
+monococcum, n=11), emmer (Triticum dicoccum, n=14), spelt (Triticum spelta, n=10), 
+barley (Hordeum vulgare, n=11), oats (Avena sativa) and rye (Secale cereale, n=8) 
+were sourced from collections of collaborating researchers, the Max Rubner Institute 
+ 
+7 
+ 
+(Detmold, Germany), the John Innes Centre (Norwich, UK) (Horler, Turner, Fretter, & 
+Ambrose, 2018), and the Leibniz Institute of Plant Genetics and Crop Plant Research 
+(IPK, Gatersleben, Germany). The varieties chosen for analysis were predominantly 
+local landraces from Europe. A detailed sample list can be found in Table S1 
+(Supporting information). 
+ 
+2.3 Extraction of cereals 
+Lipid extraction was performed as described previously (Hammann & Cramp, 
+2018). In short, cereals were ground using a mortar and pestle and the lipids were 
+extracted using chloroform/methanol 2:1 (v/v) (2x10 mL) and n-hexane (10 mL). 
+Aliquots of the TLEs were cleaned on a small chromatography column (1 cm i. 
+d.) to remove GC-unamenable polar lipids such as glycerophospholipids. The column 
+was filled with 0.5 g activated silica and conditioned with 5 mL chloroform/methanol 
+2:1 (v/v) before sample solutions were applied and eluted with 5 mL 
+chloroform/methanol 2:1 (v/v). The eluate was pipetted into a 1.75 mL vial and the 
+solvent was removed under a gentle stream of nitrogen. Afterwards, the residue was 
+re-dissolved in 1 mL chloroform/methanol 2:1 (v/v). 
+ 
+2.4 Derivatisation 
+Pyridine (25 µL) and 50 µL of the silylating agent (BSTFA/TMCS 99:1, v/v) were 
+added to a dried aliquot of the silica-cleaned TLE (250 µL), the vial was tightly sealed 
+and heated at 70 ºC for 1h. After cooling, pyridine and excess derivatisation agent 
+were removed under a gentle stream of nitrogen, and the residue was re-dissolved in 
+ 
+8 
+ 
+0.5 mL of n-hexane. After addition of 6 µg of the second internal standard, methyl 
+heptadecanoate, this solution was analysed by GC-FID and GC/Q-TOF MS. 
+ 
+2.5 GC-FID analysis of trimethylsilylated lipid extracts 
+Trimethylsilylated TLEs were analysed using a 7890 GC-FID instrument 
+(Agilent, Santa Clara, CA/USA) as described previously (Hammann & Cramp, 2018). 
+A 15 m, 0.32 mm i.d., 0.1 µm film thickness DB-1HT column (100 % 
+dimethylpolysiloxane, Agilent, Santa Clara, CA/USA) was used for the separation, and 
+injections (1 µL) were made using a 7683B autosampler via a cool-on-column inlet. 
+Helium was used as the carrier gas at a constant flow rate of 4.0 mL/min. The GC 
+temperature program was as follows: After 2 minutes at 50 ºC, the temperature was 
+raised at a rate of 10 ºC/min to 350 ºC (held for 10 min). The temperature of the inlet 
+was set to track the oven temperature and the FID temperature was set to 350 ºC 
+while flow rates of hydrogen, air and nitrogen were set to 30, 400 and 27 mL/min, 
+respectively. 
+ 
+2.6 GC/Q-TOF MS analysis of trimethylsilylated lipid extracts 
+Subsequent to GC-FID analysis, TLEs were analysed by a 7890 GC coupled 
+to a 7200B GC/Q-TOF MS (Agilent, Santa Clara, CA, USA). Injections (1 µL) were 
+made using 7693 autosampler and a cool-on-column inlet, which was set to follow the 
+oven temperature. A 15 m, 0.25 mm i.d., 0.1 µm film thickness ZB-5HT Inferno column 
+(Phenomenex, Torrance, CA, USA) was installed in the GC oven. Helium was used 
+as the carrier gas at a flow rate of 1.5 mL/min and the GC oven was programmed as 
+ 
+9 
+ 
+follows: After 2 min at 55 ºC the temperature was increased to 220 ºC at a rate of 10 
+ºC/min followed by an increase to 350 ºC at 20 ºC/min (held for 13 minutes). 
+The temperatures of the ion source, quadrupole and transfer line were set to 
+300 ºC, 180 ºC and 350 ºC, respectively. Data were acquired, following a solvent delay 
+of six minutes, in full scan mode from m/z 50-1050 with a sample rate of 5 spectra/s 
+using the Extended Dynamic Range mode. A standard mix consisting of palmitic acid, 
+stearic acid, methyl heptadecanoate, methyl stearate, 1-palmitoyl-glycerol, 
+cholesterol, tetratriacontane, dipalmitoyl-glycerol, trimyristate, cholesteryl oleate, 
+tripalmitate, and tristearate was analysed (after silylation) with every standard batch 
+to ascertain chromatographic and mass spectrometric performance.  
+ GC/Q-TOF MS data were analysed using MassHunter Qual (Version B.07.00), 
+and MassProfiler Pro (Version B.14.5) (both Agilent, Santa Clara, CA, USA) and 
+further processed using a MZmine 2 workflow (see section 2.7). 
+ 
+2.7. Data processing workflow for statistical analysis 
+An optimized MZmine 2 (version 2.36) workflow has been developed to generate an 
+aligned feature list for statistical analysis (Pluskal, Castillo, Villar-Briones, & Orešič, 
+2010). A feature can be perceived as a row of a matrix, which describes a peak in 
+retention time dimension with a corresponding m/z value. This matrix is called a 
+feature list. An aligned feature list consists of multiple feature lists, whose features 
+have been compared and if found equal with respect to a certain m/z and retention 
+time window are aligned to the same matrix row. Prior to the data processing itself, 
+raw data conversion was applied to the open format mzML using MSConvert to enable 
+MZmine 2 compatibility (Chambers, Maclean, Burke, Amodei, Ruderman, Neumann, 
+ 
+10 
+ 
+et al., 2012). The MZmine 2 workflow contained the recursive threshold mass 
+detection algorithm, with a noise level set to 100 for the first 20 minutes and 500 for 
+the time window of 20 - 38.5 minutes. The minimum peak m/z width was set to 0.05 
+and the maximum peak m/z width was set to 1. The mass detection was separated in 
+two groups with different noise levels, due to a significantly higher baseline, starting at 
+approximately 20 min. The resulting mass lists were used for chromatogram building, 
+which included the parameter minimum time span, which was set to 0.02 minutes. The 
+value sets the minimum time for which the same ion must be observed to be 
+recognized as a chromatogram. A minimum peak intensity was set to 1000 and the 
+relative mass tolerance was set to 5 ppm. All chromatograms were smoothed over 13 
+data points. The next step was chromatogram deconvolution by applying the local 
+minimum search algorithm, including a chromatographic threshold of 90%, a minimum 
+peak top/edge ratio of 2, a minimum peak intensity set to 1000 and a maximum peak 
+duration of 2 minutes. To further reduce the size of the data, isotopic features were 
+removed by applying the isotopic peaks grouper algorithm. The parameters for the 
+algorithm were set to a relative mass accuracy of 5 ppm, a retention time tolerance of 
+0.05 minutes and the maximum allowed charge was set to 1. To deal with retention 
+time shifts occurring in the large data set, mainly caused by column maintenance 
+(trimming), retention time normalization was performed using the MZmine 2 retention 
+time normaliser algorithm with the parameters 20 ppm as m/z tolerance, 1 minute as 
+retention time tolerance and 1000 as minimum intensity of the peak selected for 
+normalisation. All feature lists were then aligned using the join aligner algorithm with 
+m/z tolerance set to 25 ppm and retention time tolerance was set to 0.5 min. To fill in 
+missing values of the aligned feature list, the “same m/z and RT range filler” gap filling 
+algorithm was applied with an m/z tolerance of 20 ppm. The resulting aligned feature 
+ 
+11 
+ 
+list was exported with the Export to MetaboAnalyst file method. The exported .csv file 
+was uploaded to the MetaboAnalyst 4.0 web server for further data processing 
+(Chong, Soufan, Li, Caraus, Li, Bourque, et al., 2018). The data was uploaded as Peak 
+intensity table with Samples in columns (unpaired) format and was normalized using 
+the generalized logarithm (glog) transformation. The final matrix was processed for 
+Principle Component Analysis (PCA) and Random Forest feature search using 
+MetaboAnalyst 4.0. 
+ 
+3. Results and discussion 
+3.1 Lipid analysis by GC-FID and GC/Q-TOF MS 
+3.1.1 Analysis of cereal lipid extracts by GC-FID and contents of GC-amenable lipids 
+in cereal samples 
+With our set-up we were able to analyse GC-amenable lipids without prior 
+hydrolysis. The first lipid compounds to elute were usually free fatty acids, followed by 
+monoacylglycerols, alkylresorcinols, tocols and free sterols. This was followed by the 
+elution of diacylglycerides and conjugated sterols (sterol fatty acid esters and sterol 
+glycosides) before finally triacylglycerols (TAGs, usually C48 to C56 and, rarely, C58) 
+eluted (. This means that compounds up to a molecular weight of about 900 Da could 
+be eluted and analysed at a maximum GC oven temperature of 350 ºC. This was 
+deemed appropriate since TAGs are generally the least volatile lipids of interest.  
+The highest lipid contents (as determined by GC-FID) were observed in oat 
+samples (median 38.2 mg/g dry matter), which was significantly higher than in the 
+other cereals (median values of 7.2 – 16.9 mg/g dry matter) (Table S2). It should be 
+noted that with this method we could only detect GC-amenable lipids, which excluded 
+ 
+12 
+ 
+some abundant polar lipids such as glycerophospholipids that were removed during 
+sample preparation (section 2.3). Furthermore, the lipid extracts also contained some 
+non-lipid compounds, i.e. peaks relating to saccharide structures. 
+3.1.2 Analysis of cereal lipid extracts by GC/Q-TOF MS 
+ 
+Despite the slightly higher polarity of the GC stationary phase in GC/Q-TOF MS 
+the general elution pattern was the same as in GC-FID analysis (Figure 2a) and mass 
+spectra for several hundred individual compounds in the samples could be acquired. 
+Furthermore, extracted ion chromatograms, using the accurate mass of individual 
+compounds (e.g. m/z 486.4257 for the molecular ion of trimethylsilylated sitosterol) or 
+compound classes (e.g. m/z 268.1315 for bis-trimethylsilylated alkylresorcinols) with 
+an extraction window of ± 10 ppm, facilitated searching and detecting compounds of 
+interest, and determining distributions of compounds that could then be compared 
+between samples. Importantly, non-targeted peak-picking and deconvolution 
+workflows could be used on the dataset to find unknown compounds and those not 
+readily detected due to co-elution (see sections 2.7 and 3.5). Although identification 
+without corresponding reference compounds can be difficult, the number of detected 
+(and potentially identifiable) compounds was greatly increased using this approach. In 
+the following sections we will specifically focus on the data on the patterns of sterols 
+(section 3.2), tocopherols, tocomonoenols, tocotrienols (section 3.3), and 
+alkylresorcinols (section 3.4) in the cereal samples. 
+ 
+3.2. Free and conjugated sterols detected by GC/Q-TOF MS in the cereal lipid 
+extracts 
+ 
+13 
+ 
+Cereals are an important source of dietary phytosterols in human nutrition 
+(Piironen, Toivo, & Lampi, 2002). Phytosterols have been attributed with cholesterol-
+lowering effects in humans and are therefore, in terms of nutrition, particularly 
+desirable components of cereals. Critically, the bioavailability and physiological effects 
+in humans can vary between free and conjugated sterols (Nyström, Moreau, Lampi, 
+Hicks, & Piironen, 2008).  
+Sterols could be detected as free sterols, esterified to fatty acids and ferulic 
+acid, and as steryl glucosides (Figure 1a-d). The first sterol compounds to elute from 
+the GC were the free sterols, followed by glucosides, and finally fatty acid (C16 and 
+C18) and ferulic acid esters (Figure 2b, Table 1). In the free sterol fraction, up to 10 
+sterols could be identified. The main sterols identified (See Table S3, supporting 
+information) were sitosterol and campesterol alongside their corresponding saturated 
+stanol analogues, i.e. stigmastanol and campestanol (Piironen, Toivo, & Lampi, 2002). 
+Further minor sterols included stigmasterol, Δ5-avenasterol and 24-methylene-
+cycloartanol. A few samples exhibited a prominent peak eluting shortly before 
+campesterol, which was identified as ergosterol. Ergosterol is the predominant sterol 
+in several fungi and the detection of ergosterol could mean that these particular 
+samples had been infected (Perkowski, Buśko, Stuper, Kostecki, Matysiak, & 
+Szwajkowska-Michałek, 2008; Varga, Bartók, & Mesterházy, 2006). This 
+demonstrates the added-value of this method as a quality screening tool for 
+contamination and spoilage. 
+In the conjugated sterol fraction, C16 and C18 fatty acid esters of campesterol, 
+campestanol, stigmasterol, sitosterol, stigmastanol, and Δ5-avenasterol were detected 
+in all samples, but in varying compositions. Whilst C18 esters dominated over C16 
+esters in most bread wheat samples, as well as einkorn, emmer and oats, they were 
+ 
+14 
+ 
+about the same intensity in rye; finally, barley and spelt samples contained higher 
+relative concentrations of the C16 esters (Table 1). Owing to the non-polar nature of 
+the stationary phase, no separation of the esters with degrees of fatty acid 
+unsaturation could be achieved and potential differences in the C18 fatty acid 
+composition could not be observed. In addition to fatty acid esters, ferulic acid esters 
+of campestanol and stigmastanol were also detectable at low concentrations in 
+samples of bread wheat, einkorn, emmer, spelt, and rye. Campestanol esters were 
+more abundant than the corresponding stigmastanol esters (Figure S1, supporting 
+Information). The esters eluted as two sets of peaks, with the earlier eluting cis-
+isomers being less abundant than the later eluting trans isomers. The relatively high 
+abundance of the cis-isomers was likely due to isomerisation from light during sample 
+preparation (Esche, Barnsteiner, Scholz, & Engel, 2012). 
+Finally, campesterol, campestanol, stigmasterol, sitosterol, stigmastanol, and 
+Δ5-avenasterol could also be detected as glycosides and identified based on their 
+mass spectra (Gutiérrez & del Río, 2001) (Table 1, Table S3, supporting information). 
+Furthermore, eluting very late, together with triacylglycerides, peaks tentatively 
+identified as acylated steryl glycosides were detected. However, due to their late 
+elution and low concentrations no unequivocal mass spectra could be gathered. 
+ 
+3.3 Tocopherols, tocotrienols and tocomonoenols detected by GC/Q-TOF MS in 
+bread wheat, einkorn, emmer, spelt, barley, rye, and oats 
+Tocopherols and tocotrienols, although only present at total levels of <0.1 mg/g 
+could be readily detected and identified from their characteristic mass spectra, which 
+enabled determination of the number of methyl groups on the 6-chromanol ring, as 
+ 
+15 
+ 
+well as the number of double bonds in the isoprenic side chain. For example, α-
+tocopherol (Figure 1e) yielded a molecular ion (as its TMS ester) at m/z 502.4195 (-
+2.2 ppm) and the chromanol ring-characteristic tropylium fragment-ion at m/z 
+237.1289 (- 9.3 ppm). In contrast, in the mass spectrum of α-tocotrienol the molecular 
+ion was detected at m/z 496.3715 (corresponding to a difference of 6 hydrogen atoms 
+or 3 double bonds, -4.4 ppm), whilst γ-tocopherol was identified by the molecular ion 
+at m/z 488.4037 (-2.6 ppm) and the tropylium fragment ion at m/z 223.1146 
+(corresponding to the substitution of one methyl group by a hydrogen, -4.0 ppm). It 
+should be noted that β- and γ- only differ in the substitution pattern and are not readily 
+resolved by the GC column used in this study. They also have very similar mass 
+spectra, but we noted a higher intensity of the fragment ion at m/z 222.1076 over m/z 
+223.1155 in the GC/Q-TOF mass spectra of β/γ-T in all cereals but not in barley. Of 
+all the investigated cereals, only barley has been reported to contain predominantly 
+the γ-isomer, while in the other cereals the β-isomer was dominant. This fragmentation 
+behaviour could be confirmed with authentic standards of β- and γ-tocopherol, and 
+while it does not allow to accurately quantify the contributions of β- and γ-isomers it 
+could potentially allow the qualitative estimation of the dominant isomer.   
+In total up to 6 distinct tocol peaks could be detected in the samples, but the 
+distributions differed for the cereal classes. While the tocol distribution in rye samples 
+was dominated by α-tocopherol, einkorn samples (as shown in Figure 2c) exhibited  
+β-/γ-tocotrienol as the most abundant isomer. The distributions in the cereals used for 
+this study were not fully consistent with previous literature reports (Panfili, Fratianni, & 
+Irano, 2003; Ryynänen, Lampi, Salo-Väänänen, Ollilainen, & Piironen, 2004). While 
+the ratios of α-tocopherol to β-/γ-tocopherol are consistent with literature reports, 
+markedly lower contributions of the corresponding tocotrienols were found in this 
+ 
+16 
+ 
+study. Tocotrienols are particularly liable to oxidation and degradation and the sample 
+preparation protocol used was not optimised to mitigate this (Rupérez, Martıń, Herrera, 
+& Barbas, 2001). The addition of antioxidants such as butylated hydroxytoluene to the 
+extraction solutions might be a way to fully retain the original vitamin E distribution in 
+future research. 
+ 
+In addition to tocopherols and tocotrienols α-and β-/γ-tocomonoenols (Figure 
+1f) were also detected at concentrations of about 1-2% of the corresponding 
+tocopherols (Figure 2c). These monounsaturated tocopherol-derivatives, having only 
+recently come into scientific focus, have been detected in a few matrices, but little is 
+yet known about their occurrence and physiological role (Butinar, Bucar-Miklavcic, 
+Mariani, & Raspor, 2011; Fiorentino, Mastellone, D’Abrosca, Pacifico, Scognamiglio, 
+Cefarelli, et al., 2009; Müller, Hammann, & Vetter, 2018). These minor compounds 
+eluted slightly after the corresponding tocopherols, and could be identified by their 
+mass spectra, i.e. the tropylium fragment ion at m/z 237.1328 (+7.2 ppm) and the 
+molecular ion at m/z 500.4024 (-5.0 ppm) for α-tocomonoenol. As far as can be 
+ascertained, this is the first report of the presence of these compounds in cereals. 
+ 
+3.4 Alkylresorcinol distributions in bread wheat, einkorn, emmer, spelt, barley, 
+rye, and oats 
+Alkylresorcinols (ARs) are a class of compounds that share a common 
+resorcinol backbone with an alkyl substituent at the meta-position Figure 1h). Through 
+alkyl chains of different carbon numbers several homologues are possible, and they 
+have been frequently detected in cereals such as bread wheat, spelt, rye or barley 
+ 
+17 
+ 
+(Landberg, Kamal-Eldin, Salmenkallio-Marttila, Rouau, & Åman, 2008; Ross, Åman, 
+Andersson, & Kamal-Eldin, 2004; Ross, Kamal-Eldin, Jung, Shepherd, & Åman, 2001; 
+Ross, et al., 2003; Ziegler, Steingass, Longin, Würschum, Carle, & Schweiggert, 
+2015).  
+Alkylresorcinols were detected at appreciable quantities in all cereals but oats, 
+which only contained traces (Figure 3). In general, ARs with chain-lengths of 15–27 
+carbon atoms (predominantly odd-numbered isomers) were detectable. In addition to 
+the alkylresorcinols the corresponding unsaturated alkenylresorcinols, with a double 
+bond in the alkyl chain, could be detected. These alkenylresorcinols eluted slightly 
+earlier from the GC than the corresponding saturated homologue and could be 
+identified by a combination of the base ion at m/z 268.1315 and the molecular ion 
+which was shifted to a lower mass by 2.0157 Da (corresponding to two hydrogens or 
+one double bond) compared to the respective saturated isomer (e.g. the molecular 
+ions for the bis-TMS derivatives of AR-21 and AR-21:1 were detected at m/z 548.4455 
+(+1.8 ppm) and 546.4263 (-4.7 ppm), respectively). The alkenylresorcinols were 
+particularly abundant in rye (about 10% of the corresponding saturated analogue) as 
+previously reported by Ross et al. and Suzuki et al. (Ross, et al., 2003; Suzuki, Esumi, 
+Uramoto, Kono, & Sakurai, 1997).  
+ The distribution and pattern of AR homologues differed markedly between the 
+different cereals (Table 2, Table S4). For example, barley samples exhibited AR-25 as 
+the major AR component; this was unique in the cereals investigated. In contrast, all 
+the Triticum species (bread wheat, spelt, einkorn and emmer) exhibited AR-21 as the 
+main component, whilst the most abundant AR in rye was AR-19. In oats, only minute 
+traces of AR-19 and AR-21 could be detected with this general absence of ARs being 
+in accordance with the literature (Ross, et al., 2003). It should be noted that AR 
+ 
+18 
+ 
+distributions did not only vary between cereal classes but also within one class. In 
+emmer the contributions of AR-19 and AR-25 to the total AR content varied between 
+5 and 25% and 2 and 10%, respectively (Table S4). This demonstrated that different 
+varieties and cultivation conditions could affect the concentration and relative 
+distribution of ARs (Andersson, Kamal-Eldin, & Åman, 2010).  
+In general, our results for the AR composition were in-line with previously 
+reported values for the cereals investigated here (Hengtrakul, Lorenz, & Mathias, 
+1991; Landberg, Kamal-Eldin, Salmenkallio-Marttila, Rouau, & Åman, 2008; Ross, 
+Kamal-Eldin, Jung, Shepherd, & Åman, 2001; Ross, et al., 2003; Żarnowski, Suzuki, 
+Yamaguchi, & Pietr, 2002; Ziegler, Steingass, Longin, Würschum, Carle, & 
+Schweiggert, 2015).  
+ 
+3.4.1 Further minor alkylresorcinols detected by GC/Q-TOF MS  
+In addition to the aforementioned monounsaturated alkenylresorcinols, further 
+minor compounds which contributed even less (<<0.1%) to the AR distribution were 
+also detected. Rye and spelt samples contained trace amounts of di-unsaturated 
+alkenylresorcinols which eluted slightly earlier than the respective monounsaturated 
+and saturated homologues (Figure S2a). Furthermore, traces of even-chain 
+alkylresorcinols (e.g. AR-20 or AR-22) were frequently detected in the samples, eluting 
+exactly between the more abundant odd-chain AR homologues (Figure S2b). These 
+compounds have not been reported in cereals before but have very recently been 
+detected by Ross et al. in quinoa (Ross, Svelander, Karlsson, & Savolainen, 2017). In 
+light of the results from this study, they appear not be restricted to this pseudocereal 
+but are likely more widely distributed. Finally, methyl-alkylresorcinols (mAR), which 
+ 
+19 
+ 
+feature an additional methyl group on the aromatic ring, were detected; these 
+compounds have also been detected previously in quinoa (Ross, Svelander, Karlsson, 
+& Savolainen, 2017). The mass spectra of these compounds featured a base ion at 
+m/z 282.1472 instead of m/z 268.1315 (i.e. shifted by the mass corresponding to one 
+methylene group compared to ARs). The mAR eluted slightly later than the respective 
+AR isomers with the same alkyl chain and could be identified through the presence of 
+m/z 282.1472 and the respective molecular ion (Figure S2b-d). Various mAR 
+homologues from mAR-19 to mAR-27 could be identified in spelt, bread wheat, barley 
+and emmer, but not in rye, einkorn and oats (which was very low in alkylresorcinols in 
+general). The detection of these compounds in several of the cereal samples (although 
+at minute concentrations) means that the use of these compounds as specific markers 
+for quinoa or – in human plasma – for dietary quinoa intake should be treated with 
+caution. 
+ 
+3.5 Analytical discrimination of bread wheat, spelt, einkorn, emmer, barley, rye 
+and oats by Principle Component Analysis  
+The lipids and their intensities obtained from the data mining workflow (section 
+2.7) for most samples (including analytical duplicates from extraction and GC-MS) 
+were compared by PCA . Some samples of bread wheat, barley, emmer and einkorn 
+had been analysed under slightly different conditions and had to be excluded from the 
+PCA (see Table S1, supporting information). With the PCA based on all mass features 
+a good separation of the lipid classes was achieved, particularly when PC1 was plotted 
+against PC3 (Figure S3, supporting information), but a slight overlap between cereals 
+(particularly emmer and einkorn) was observed. However, this separation could be 
+ 
+20 
+ 
+significantly improved by applying a Random Forest algorithm to identify the most 
+diagnostic mass features. PCA analysis of a dataset reduced to the 25 most impactful 
+classifiers showed a full separation of all seven cereal classes (Figure 4). The first two 
+principle components accounted for 64.7% and 15.8% of total variance, respectively. 
+Rye samples were separated from the other cereals by strongly negative scores in 
+PC1, followed by spelt samples (slightly negative). Oats samples were clearly 
+separated from the other cereals by their strong positive scores in PC1, while bread 
+wheat samples featured clearly more negative scores in PC2 than the other cereals. 
+Einkorn, emmer and barley samples plotted more closely together, but were fully 
+separated by slight differences in both PC1 and PC2 It has to be noted here, that our 
+samples included a high proportion of local landraces, which exhibit higher genetic 
+diversity than modern, inter-bred cereal varieties (Villa, Maxted, Scholten, & Ford-
+Lloyd, 2005). This diversity is likely expressed in a higher variation in their lipid patterns 
+and therefore in relatively high intra-group variation. The Loadings Plot supported the 
+findings described in the prior results sections (Figure S4, supporting information). 
+Alkylresorcinols (red circles) were found to have predominantly negative loadings on 
+PC1 and PC2, which explains the strongly negative values of rye (high in ARs) 
+samples in PC1 and positive values of oats (low in ARs in both PC1 and PC2. The 
+most negative loading on PC2 was found for a mass feature corresponding to AR-17, 
+and the higher proportions of AR17 in bread wheat compared to barley, emmer, and 
+einkorn explained the separation of these groups on PC2 
+A second cluster of compounds (blue circles) in the loadings plot was found 
+with slightly positive loadings on PC1 and mostly slightly negative loadings on PC2. 
+These mass features were found to correspond to triacylglycerols in the samples. In 
+addition to ARs and triacylglycerols, there were few compounds (green circles) which 
+ 
+21 
+ 
+could not readily be identified, but their corresponding mass spectra tentatively 
+suggested the presence of at least one carbohydrate moiety in their structure. 
+Ziegler et al. reported an analytical separation of Triticum ssp. by PCA based 
+on relative AR distribution, and were able to achieve a separation of einkorn (diploid) 
+from emmer and durum wheat (both tetraploid) and spelt and bread wheat (both 
+hexaploid), but the two hexaploid wheats were not separable (Ziegler, Steingass, 
+Longin, Würschum, Carle, & Schweiggert, 2015). Righetti et al. achieved a separation 
+of einkorn, emmer, and spelt as well as durum and bread wheat by PCA based on 
+non-targeted lipid profiles acquired by high resolution LC-MS (Righetti, Rubert, 
+Galaverna, Folloni, Ranieri, Stranska-Zachariasova, et al., 2016; Righetti, Rubert, 
+Galaverna, Hurkova, Dall'Asta, Hajslova, et al., 2018). As far as can be ascertained, 
+this study is the first to successfully discriminate seven cereals, including four closely 
+related Triticum species, based on their lipid profiles. Based on this, GC/Q-TOF MS-
+based lipid profiling could be used as an authenticity tool to distinguish cereal flours 
+or guide the selection of specific marker compounds and derived methods to be used 
+to detect mixtures. 
+ 
+3.6 Limitations of the approach 
+One drawback of our GC-based approach is the exclusion of polar lipids such 
+as glycerophospholipids or digalactosyldiacylglycerols, which represent important lipid 
+classes in cereals (Geng, Harnly, & Chen, 2015; Morrison, 1988). The analysis of 
+these compounds can be achieved by LC-MS, but this technique has inherent caveats 
+due to vastly different ionisation efficiencies of different analytes depending both on 
+ionisation technique (e.g. APCI or ESI) and polarity (positive or negative). In reference 
+ 
+22 
+ 
+experiments, LC-MS with ESI in positive mode was found to be very useful for the 
+analysis of phospholipids, but alkylresorcinols were not detectable using this approach 
+and required use of APCI or negative ionisation ESI (Knödler, Berardini, Kammerer, 
+Carle, & Schieber, 2007; Righetti, et al., 2016). Accordingly, lipid profiling by LC-MS 
+is not straightforward; both GC- and LC-based methods have their individual 
+advantages and weaknesses. 
+Compared with analytical approaches employing targeted sample preparation 
+steps, the approach used in this study could be slightly less sensitive because 
+dominant lipids (mostly TAGs) do not allow the same concentration factor for analysis. 
+Our instrumental limit of detection was about 1 pg on column (corresponding to about 
+50 ng/g cereal) for alkylresorcinols and free sterols, but slightly higher for later eluting 
+compounds such as the late eluting C54 TAGs (20 pg and 1 µg/g cereal, respectively). 
+Accordingly, we were only able to detect major compounds in the conjugated sterol 
+fraction (typically conjugates of sitosterol and campesterol), whilst other studies have 
+provided a more detailed analysis (Esche, Barnsteiner, Scholz, & Engel, 2012). 
+However, this analytical approach enabled individual detection of all these conjugates 
+in one analytical run without requiring dedicated sample preparation steps for each of 
+these fractions (Breinhölder, Mosca, & Lindner, 2002). Furthermore, novel minor 
+constituents of the vitamin E fraction (i.e. tocomonoenols) and minor alkylresorcinols 
+(i.e. even-chain ARs and mARs) which had not been described in cereals before were 
+detectable using this approach, demonstrating the sensitivity achievable with this non-
+targeted approach. 
+ 
+4. Conclusions 
+ 
+23 
+ 
+A new analytical approach for lipid profiling, based on high temperature gas 
+chromatography coupled to high resolution mass spectrometry, was successfully 
+applied to the analysis of cereal lipids. Whilst gathering analytical data on the several 
+hundred compounds of the complete GC-amenable lipidome the method proved to be 
+sensitive enough for the detection of nutritionally or analytically important minor 
+compounds, such as free and conjugated sterols and alkylresorcinols. Furthermore, 
+distinct differences in the distribution in the lipid patterns could be used to discriminate 
+all seven cereals by PCA, thus proving the value of this method as authenticity tool. 
+The method could be further developed and improved by using compound 
+class-specific standards to account for losses during sample preparation and to enable 
+quantitative determination of the lipid constituents. This could provide a valid 
+alternative to LC-MS based lipid-profiling methods, to be used for other matrices or as 
+an addition to an LC-MS assay of polar lipids.  
+ 
+Conflict of interests: 
+The authors have no conflicts of interests. 
+ 
+Acknowledgements: 
+The authors are grateful to A. Bogaard (University of Oxford, UK), F. Longin (University 
+of Hohenheim, Germany), the Max Rubner Institute (Detmold, Germany), the John 
+Innes Centre (Norwich, UK), and the Leibniz Institute of Plant Genetics and Crop Plant 
+Research (IPK, Gatersleben, Germany) for cereal samples. S.H. and L.J.E.C. were 
+supported by the Royal Society (RG150718) and NERC (NE/N011317/1). GC/Q-ToF 
+ 
+24 
+ 
+MS (CC010NERC capital grant awarded to IDB) analyses were performed at the 
+NERC Life Sciences Mass Spectrometry Facility (Bristol Node). The authors thank the 
+Natural Environment Research Council, UK for partial funding of the mass 
+spectrometry facilities at Bristol (Contract No. R8/H10/63; http://www.lsmsf.co.uk). 
+ 
+  
+ 
+25 
+ 
+References 
+Abidi, S. (2001). Chromatographic analysis of plant sterols in foods and vegetable oils. Journal of 
+Chromatography A, 935(1-2), 173-201. 
+Andersson, A. A., Kamal-Eldin, A., & Åman, P. (2010). Effects of environment and variety on 
+alkylresorcinols in wheat in the HEALTHGRAIN diversity screen. Journal of Agricultural and 
+Food Chemistry, 58(17), 9299-9305. 
+Breinhölder, P., Mosca, L., & Lindner, W. (2002). Concept of sequential analysis of free and conjugated 
+phytosterols in different plant matrices. Journal of Chromatography B, 777(1-2), 67-82. 
+Butinar, B., Bucar-Miklavcic, M., Mariani, C., & Raspor, P. (2011). New vitamin E isomers (gamma-
+tocomonoenol and alpha-tocomonoenol) in seeds, roasted seeds and roasted seed oil from 
+the Slovenian pumpkin variety 'Slovenska golica'. Food Chemistry, 128(2), 505-512. 
+Cert, A., Moreda, W., & Pérez-Camino, M. (2000). Chromatographic analysis of minor constituents in 
+vegetable oils. Journal of Chromatography A, 881(1-2), 131-148. 
+Chambers, M. C., Maclean, B., Burke, R., Amodei, D., Ruderman, D. L., Neumann, S., Gatto, L., Fischer, 
+B., Pratt, B., & Egertson, J. (2012). A cross-platform toolkit for mass spectrometry and 
+proteomics. Nature Biotechnology, 30(10), 918. 
+Chong, J., Soufan, O., Li, C., Caraus, I., Li, S., Bourque, G., Wishart, D. S., & Xia, J. (2018). MetaboAnalyst 
+4.0: towards more transparent and integrative metabolomics analysis. Nucleic Acids Research. 
+Esche, R., Barnsteiner, A., Scholz, B., & Engel, K.-H. (2012). Simultaneous analysis of free 
+phytosterols/phytostanols and intact phytosteryl/phytostanyl fatty acid and phenolic acid 
+esters in cereals. Journal of Agricultural and Food Chemistry, 60(21), 5330-5339. 
+Fiorentino, A., Mastellone, C., D’Abrosca, B., Pacifico, S., Scognamiglio, M., Cefarelli, G., Caputo, R., & 
+Monaco, P. (2009). δ-Tocomonoenol: A new vitamin E from kiwi (Actinidia chinensis) fruits. 
+Food Chemistry, 115(1), 187-192. 
+Food and Agriculture Organisation of the United Nations, 2018. Crop Prospects and Food Situation-
+No.2 - 06,  http://www.fao.org/giews/reports/crop-prospects/en/, accessed 05.07.2018 
+Geng, P., Harnly, J. M., & Chen, P. (2015). Differentiation of Whole Grain from Refined Wheat (T. 
+aestivum) Flour Using Lipid Profile of Wheat Bran, Germ, and Endosperm with UHPLC-HRAM 
+Mass Spectrometry. Journal of Agricultural and Food Chemistry, 63(27), 6189-6211. 
+Gutiérrez, A., & del Río, J. C. (2001). Gas chromatography/mass spectrometry demonstration of steryl 
+glycosides in eucalypt wood, kraft pulp and process liquids. Rapid Communications in Mass 
+Spectrometry, 15(24), 2515-2520. 
+Hammann, S., & Cramp, L. J. E. (2018). Towards the detection of dietary cereal processing through 
+absorbed lipid biomarkers in archaeological pottery. Journal of Archaeological Science, 93, 74-
+81. 
+Hengtrakul, P., Lorenz, K., & Mathias, M. (1991). Alkylresorcinol homologs in cereal grains. Journal of 
+Food Composition and Analysis, 4(1), 52-57. 
+Horler, R. S. P., Turner, A. S., Fretter, P., & Ambrose, M. (2018). SeedStor: A Germplasm Information 
+Management System and Public Database. Plant and Cell Physiology, 59(1), e5-e5. 
+Janssen, H. G., de Koning, S., & Brinkman, U. A. (2004). On-line LC-GC and comprehensive two-
+dimensional LCxGC-ToF MS for the analysis of complex samples. Analytical and Bioanalytical 
+Chemistry, 378(8), 1944-1947. 
+Knödler, M., Berardini, N., Kammerer, D. R., Carle, R., & Schieber, A. (2007). Characterization of major 
+and minor alk(en)ylresorcinols from mango (Mangifera indica L.) peels by high-performance 
+liquid chromatography/atmospheric pressure chemical ionization mass spectrometry. Rapid 
+Communications in Mass Spectrometry, 21(6), 945-951. 
+Landberg, R., Kamal-Eldin, A., Salmenkallio-Marttila, M., Rouau, X., & Åman, P. (2008). Localization of 
+alkylresorcinols in wheat, rye and barley kernels. Journal of Cereal Science, 48(2), 401-406. 
+McKevith, B. (2004). Nutritional aspects of cereals. Nutrition Bulletin, 29(2), 111-142. 
+Morrison, W. R. (1988). Lipids in cereal starches: A review. Journal of Cereal Science, 8(1), 1-15. 
+ 
+26 
+ 
+Müller, M., Hammann, S., & Vetter, W. (2018). Countercurrent chromatographic isolation and 
+purification of 11'-alpha-tocomonoenol from the vitamin E extract of palm oil. Food Chemistry, 
+256, 327-332. 
+Nyström, L., Moreau, R. A., Lampi, A.-M., Hicks, K. B., & Piironen, V. (2008). Enzymatic hydrolysis of 
+steryl ferulates and steryl glycosides. European Food Research and Technology, 227(3), 727. 
+Panfili, G., Fratianni, A., & Irano, M. (2003). Normal Phase High-Performance Liquid Chromatography 
+Method for the Determination of Tocopherols and Tocotrienols in Cereals. Journal of 
+Agricultural and Food Chemistry, 51(14), 3940-3944. 
+Perkowski, J., Buśko, M., Stuper, K., Kostecki, M., Matysiak, A., & Szwajkowska-Michałek, L. (2008). 
+Concentration of ergosterol in small-grained naturally contaminated and inoculated cereals. 
+Biologia, 63(4), 542-547. 
+Piironen, V., Toivo, J., & Lampi, A.-M. (2002). Plant sterols in cereals and cereal products. Cereal 
+Chemistry, 79(1), 148-154. 
+Pluskal, T., Castillo, S., Villar-Briones, A., & Orešič, M. (2010). MZmine 2: modular framework for 
+processing, visualizing, and analyzing mass spectrometry-based molecular profile data. BMC 
+Bioinformatics, 11(1), 395. 
+Prinsen, P., Gutierrez, A., Faulds, C. B., & del Rio, J. C. (2014). Comprehensive study of valuable 
+lipophilic phytochemicals in wheat bran. Journal of Agricultural and Food Chemistry, 62(7), 
+1664-1673. 
+Purcaro, G., Barp, L., Beccaria, M., & Conte, L. S. (2016). Characterisation of minor components in 
+vegetable oil by comprehensive gas chromatography with dual detection. Food Chemistry, 
+212, 730-738. 
+Righetti, L., Rubert, J., Galaverna, G., Folloni, S., Ranieri, R., Stranska-Zachariasova, M., Hajslova, J., & 
+Dall’Asta, C. (2016). Characterization and discrimination of ancient grains: a metabolomics 
+approach. International Journal of Molecular Sciences, 17(8), 1217. 
+Righetti, L., Rubert, J., Galaverna, G., Hurkova, K., Dall'Asta, C., Hajslova, J., & Stranska-Zachariasova, 
+M. (2018). A novel approach based on untargeted lipidomics reveals differences in the lipid 
+pattern among durum and common wheat. Food Chemistry, 240, 775-783. 
+Ross, A. B., Åman, P., Andersson, R., & Kamal-Eldin, A. (2004). Chromatographic analysis of 
+alkylresorcinols and their metabolites. Journal of Chromatography A, 1054(1-2), 157-164. 
+Ross, A. B., Kamal-Eldin, A., Jung, C., Shepherd, M. J., & Åman, P. (2001). Gas chromatographic analysis 
+of alkylresorcinols in rye (Secale cerealeL) grains. Journal of the Science of Food and 
+Agriculture, 81(14), 1405-1411. 
+Ross, A. B., Shepherd, M. J., Schüpphaus, M., Sinclair, V., Alfaro, B., Kamal-Eldin, A., & Åman, P. (2003). 
+Alkylresorcinols in cereals and cereal products. Journal of Agricultural and Food Chemistry, 
+51(14), 4111-4118. 
+Ross, A. B., Svelander, C., Karlsson, G., & Savolainen, O. I. (2017). Identification and quantification of 
+even and odd chained 5-n alkylresorcinols, branched chain-alkylresorcinols and 
+methylalkylresorcinols in Quinoa (Chenopodium quinoa). Food Chemistry, 220, 344-351. 
+Ruiz-Gutierrez, V., & Perez-Camino, M. (2000). Update on solid-phase extraction for the analysis of 
+lipid classes and related compounds. Journal of Chromatography A, 885(1-2), 321-341. 
+Rupérez, F. J., Martıń, D., Herrera, E., & Barbas, C. (2001). Chromatographic analysis of α-tocopherol 
+and related compounds in various matrices. Journal of Chromatography A, 935(1), 45-69. 
+Ryynänen, M., Lampi, A.-M., Salo-Väänänen, P., Ollilainen, V., & Piironen, V. (2004). A small-scale 
+sample preparation method with HPLC analysis for determination of tocopherols and 
+tocotrienols in cereals. Journal of Food Composition and Analysis, 17(6), 749-765. 
+Suzuki, Y., Esumi, Y., Uramoto, M., Kono, Y., & Sakurai, A. (1997). Structural analyses of carbon chains 
+in 5-alk (en) ylresorcinols of rye and wheat whole flour by tandem mass spectrometry. 
+Bioscience, Biotechnology, and Biochemistry, 61(3), 480-486. 
+ 
+27 
+ 
+Varga, M., Bartók, T., & Mesterházy, Á. (2006). Determination of ergosterol in Fusarium-infected 
+wheat by liquid chromatography–atmospheric pressure photoionization mass spectrometry. 
+Journal of Chromatography A, 1103(2), 278-283. 
+Villa, T. C. C., Maxted, N., Scholten, M., & Ford-Lloyd, B. (2005). Defining and identifying crop 
+landraces. Plant Genetic Resources, 3(3), 373-384. 
+Żarnowski, R., Suzuki, Y., Yamaguchi, I., & Pietr, S. J. (2002). Alkylresorcinols in barley (Hordeum 
+vulgare L. distichon) grains. Zeitschrift für Naturforschung C, 57(1-2), 57-62. 
+Ziegler, J. U., Steingass, C. B., Longin, C. F. H., Würschum, T., Carle, R., & Schweiggert, R. M. (2015). 
+Alkylresorcinol composition allows the differentiation of Triticum spp. having different 
+degrees of ploidy. Journal of Cereal Science, 65, 244-251. 
+ 
+  
+ 
+28 
+ 
+ 
+Captions to Figures: 
+Figure 1: Structures of a) sitosterol, b) sitosteryl palmitate, c) stigmastanyl ferulate, d) 
+sitosteryl glucoside, e) α-tocopherol, f) α-tocomonoenol, g) α-tocotrienol, and h) 5-n-
+nonadecyl resorcinol (AR-19). 
+ 
+Figure 2: a) GC/Q-TOF MS chromatogram of a representative lipid extract, after 
+trimethylsilylation, showing the elution of fatty acids, alkylresorcinols, tocols, free and 
+conjugated sterols as well as diacylglycerols (DAGs) and finally triacylglycerols 
+(TAGs). Peaks marked with asterisks are internal standards. b): Partial extracted ion 
+chromatograms of m/z 396.3756 (black), m/z 397.3834 (red), m/z 382.3600 (orange), 
+and m/z 383.3678 (blue) showing the elution of free sterols as well as steryl glycosides 
+and C16 and C18 fatty acid esters. c): Partial extracted ion chromatograms showing the 
+elution of β/γ-tocopherol (T, m/z 488.4050, dark blue), β/γ-tocomonoenol (T1, m/z 
+486.3894, green), β/γ-tocotrienol (T3, m/z 482.3581, red), α-tocopherol (m/z 
+502.4206, black), α-tocomonoenol (m/z 500.4050 orange), and α-tocotrienol (m/z 
+496.3737, light blue). The peaks marked with a plus are sitosterol and stigmastanol.  
+ 
+Figure 3: Partial extracted ion chromatograms of m/z 268.1315 showing the elution of 
+the major alkylresorcinols and alkenylresorcinols with chain lengths from 15–27 
+carbons in representative samples of rye, bread wheat, spelt, einkorn, emmer, barley 
+and oats. Please note: Individual chromatograms were slightly shifted on the x axis (≤ 
+0.2 min) to account for retention time shifts from column maintenance.  
+ 
+29 
+ 
+ 
+. 
+Figure 4: Score plot of the Principal Component Analysis of the cereal samples 
+(including duplicates) based on a reduced feature list showing the separation of bread 
+wheat (green), einkorn (blue), emmer (turquoise), spelt (grey), barley (red), rye 
+(yellow) and oats (pink). A Random Forest classification algorithm (Metaboanalyst) 
+was applied to the total lipid profiles extracted from the samples and the 25 most 
+impactful features were selected for the reduced feature list. 
+ 

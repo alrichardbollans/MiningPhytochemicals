@@ -1,0 +1,597 @@
+Int. J. Mol. Sci. 2012, 13, 5338-5347; doi:10.3390/ijms13055338 
+ 
+International Journal of 
+Molecular Sciences 
+ISSN 1422-0067 
+www.mdpi.com/journal/ijms 
+Article 
+Neurotrophic Effect of Citrus Auraptene: Neuritogenic Activity 
+in PC12 Cells 
+Yoshiko Furukawa *, Sono Watanabe, Satoshi Okuyama and Mitsunari Nakajima 
+Department of Pharmaceutical Pharmacology, College of Pharmaceutical Sciences, Matsuyama 
+University, 4-2 Bunkyo-cho, Matsuyama, Ehime 790-8578, Japan;  
+E-Mails: watanabe.sono.mm@ehime-u.ac.jp (S.W.); sokuyama@cc.matsuyama-u.ac.jp (S.O.); 
+mnakajim@cc.matsuyama-u.ac.jp (M.N.) 
+*  Author to whom correspondence should be addressed; E-Mail: furukawa@cc.matsuyama-u.ac.jp; 
+Tel.: +81-89-925-7111; Fax: +81-89-926-7162. 
+Received: 16 March 2012; in revised form: 9 April 2012 / Accepted: 23 April 2012 /  
+Published: 27 April 2012 
+ 
+Abstract: The activation of extracellular signal-regulated kinases (ERK) leads to a number 
+of cellular changes associated with the development of long-term memory. Using cultured 
+cortical neurons, we previously showed that the n-hexane extract prepared from the peels 
+of Citrus grandis (Kawachi bankan) induces the activation of ERK1/2 and that one of the 
+compounds with this ability in the extract is 3,5,6,7,8,3′,4′-heptamethoxyflavone (HMF), a 
+Citrus polymethoxyflavone. In fact, we found that HMF has the ability to rescue mice from 
+drug-induced  learning  impairment.  This  hexane  extract  contains  auraptene  (AUR),  a 
+coumarin derivative with a monoterpene unit, together with HMF. The present study was 
+designed to investigate the effect of AUR in vitro. Our results show that 1) AUR had the 
+ability to induce the activation of ERK1/2 in not only cortical neurons but also the rat 
+pheochromocytoma cell line (PC12 cells), which is a model system for studies on neuronal 
+proliferation and differentiation; and 2) AUR had the ability to promote neurite outgrowth 
+from PC12 cells. 
+Keywords: auraptene; ERK1/2; PC12 cells; neurons; Citrus grandis; neurite outgrowth 
+ 
+OPEN ACCESS Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5339 
+1. Introduction 
+Extracellular  signal-regulated  kinases  1/2  (ERK1/2)  are  components  of  the  mitogen-activated 
+protein kinase (MAPK) signaling cascade. Recent studies have shown that ERK1/2 are involved in 
+synaptic  plasticity  and  in  the  development  of  long-term  memory  in  the  central  nervous  system  
+(CNS) [1,2]. In order to search for Citrus compounds beneficial for the treatment of neurodegenerative 
+neurological  disorders,  we  previously  screened  some  Citrus  extracts  by  evaluating  their  ability  to 
+activate  ERK1/2 in  cultured cortical  neurons  [3]. Consequentially,  we  found that  1) the n-hexane 
+extract of Citrus grandis (Kawachi bankan) has the ability to activate ERK1/2; 2) this extract contains 3 
+polymethoxyflavones  (3,5,6,7,8,3′,4′-heptamethoxyflavone,  HMF;  nobiletin  [5,6,7,8,3′,4′-hexamethoxy 
+flavone],  NBT;  and  tangeretin  [5,6,7,8,4′-pentamethoxyflavone],  TGN)  and  1  coumarin  derivative 
+(auraptene, 7-geranyloxycoumarin; AUR); and 3) one of the active compounds is HMF. In that study 
+we also extensively investigated in vitro the ERK1/2-activating effect of HMF in comparison with that 
+of  NBT  and  TGN,  and  then  found  that  HMF  administered  to  mice  treated  with  NMDA  receptor 
+antagonist MK-801 restores the MK-801-induced deterioration of spatial learning performance in the 
+Morris water-maze task. On the other hand, there are few in vitro or in vivo studies about the effect of 
+AUR on the CNS. In the present study, we thus sought to determine whether AUR, like HMF, would 
+have the ability to activate ERK1/2 in neuronal cells. Here, we successfully showed that AUR could 
+activate  (namely  phosphorylate)  ERK1/2  in  not  only  cultured  cortical  neurons  but  also  rat  PC12 
+pheochromocytoma cells. 
+AUR is a simple coumarin bearing a geranyloxyl moiety at its C-7 (Figure 1). AUR is a major 
+coumarin of Citrus plants, and has been found in not only C. grandis (Kawachi bankan) but also 
+various Citrus fruits such as grapefruit (Citrus paradise) [4]. Numerous studies have indicated that 
+AUR  has  valuable  effects  on  various  biological  functions  in  the  peripheral  tissues,  including  
+anti-inflammatory  activity  [5,6],  anti-carcinogenic  activity  [7,8],  anti-helicobacter  activity  [9],  and 
+regulatory activity on hepatic lipid metabolism [10,11]. On the contrary, there has been only 1 report 
+describing  the  effect  of  AUR  on  the  CNS:  AUR  as  well  as  7-isopentenyloxycoumarin  exerts  a 
+protective  effect  against  NMDA-induced  excitatory  neurotoxicity  in  mixed  cortical  cell  cultures 
+(composed of neurons and astrocytes) [12]. Excitotoxicity is known to be correlated with various 
+neuronal disorders such as acute brain injury, chronic neurodegeneration (Parkinson’s and Alzheimer’s 
+diseases), epilepsy, spinal cord trauma, ischemic stroke, etc. [13], thus suggesting AUR is a novel 
+neuroprotective agent. 
+Figure 1. Chemical structure of auraptene (AUR). 
+O O O
+ 
+In the present study, we found that AUR effectively activated ERK1/2 in PC12 cells. These cells are 
+a useful model system for  the study of neuronal differentiation. The exposure of these cells to nerve 
+growth  factor  (NGF) ,  one  of  the  neurotrophic  factors,  triggers  their  differentiation  into  
+sympathetic-like neuronal cells [14]. PC12 cells express specific receptor tyrosine kinase (TrkA) on Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5340 
+their  surface.  NGF  induces  rapid  tyrosine  phophorylation  of  TrkA  and  consequent 
+phosphorylation/activation of signal transduction substrates including ERK1/2 [15,16]. NGF-mediated 
+ERK activation induces phosphorylation of cAMP response element-binding protein (CREB) [17]. 
+Activated  CREB  then  recruits  the  CREB  binding  protein  (CBP)  to  the  promoter  regions  of  
+cAMP-responsive  genes  associated  with  dendritic  spine  growth,  morphology  change,  synaptic 
+plasticity and long-term memory [17,18]. Namely, the activation of ERK1/2 by NGF can cause the 
+neurite outgrowth from PC12 cells. Similar to the effect of NGF, various other stimuli such as cyclic 
+AMP, calcium influx [15], depolarization [19], and some phytochemicals such as flavonoids [20] can 
+lead to neurite outgrowth via phosphorylation of ERK. We thus also examined whether or not AUR 
+could stimulate the neuronal differentiation of PC12 cells. Here, we successfully observed that AUR 
+promoted  neurite  outgrowth  from  PC12  cells.  It  is  noteworthy  that  this  is  the  first  report  on  the 
+neurotrophic action of AUR. 
+2. Materials and Methods 
+2.1. Cultures of Rat Neurons 
+Neurons  were  prepared  from  the  neocortices  of  Wistar  rats  (Nippon  SLC,  Shizuoka, Japan)  at 
+embryonic day 18, as previously described [3]. Neurobasal medium
+ (Invitrogen, Carlsbad, CA, USA) 
+containing B27 supplement (1/50 volume; Invitrogen), glutamine (2 mM; Gibco BRL, Grand Island, 
+NY, USA), penicillin (100 U/mL; Gibco BRL), and streptomycin (100 μg/mL; Gibco BRL) was used 
+for the neuronal cultures. Brain-derived neurotrophic factor (BDNF) was purchased from Pepro Tech. 
+(Rocky Hill, NJ, USA); and AUR, from LKT Lab (St. Paul, MN, USA). HMF was prepared from 
+commercial  orange  oil  (Wako,  Osaka,  Japan),  as  previously  described  [3].  AUR  and  HMF  were 
+dissolved  in  dimethyl  sulfoxide  (DMSO)  to  yield  100  mM  stock  solutions  and  diluted  to  a  final 
+concentration of 100 μM for use in the experiments. 
+2.2. Cultures of PC12 Cells 
+PC12 cells were obtained from Y. Hayashi (Asahikawa Medical College, Asahikawa, Japan). The 
+floating cells were maintained in minimum essential medium (MEM, Gibco BRL) supplemented with 
+10% horse serum (HS; Sigma-Aldrich, St. Louis, MO, USA), 5% fetal bovine serum (FBS, Gibco 
+BRL), penicillin (100 U/mL), and streptomycin  (100 μg/mL). For the experiments, the cells were 
+seeded into culture vessels precoated with poly-L-lysine (Sigma). For evaluation of the neurotrophic 
+effect of NGF and/or test compounds, the culture medium must be shifted to low serum-containing 
+medium to induce transition from the proliferation phase to the differentiation one. The medium was 
+thus shifted to low-serum medium (2% HS and 1% FBS) after an adequate incubation period. Mouse 
+NGF 2.5S (Grade I) was purchased from Alomone Labs Ltd. (Jerusalem, Israel). U0126 and H89 were 
+obtained from Calbiochem Biosciences (San Diego, CA, USA). 
+2.3. Immunoblot Analysis 
+The cells were seeded in 6-well plates (2 ×  10
+5 cells/well), cultured for 48 h in normal-serum 
+medium, and then for 48 h in low-serum medium. The cells were subsequently incubated with test Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5341 
+compounds for the desired times. The cell extracts were prepared as previously described [21], and 
+then equal amounts of protein (20 μg) were analyzed by immunoblotting. The antibodies and their 
+sources were the following: rabbit antibody against MAPK 1/2 (Erk1/2-CT), which recognizes the  
+C-terminal 35 amino acids of the rat 44-kDa MAPK1/ERK1 and 42-kDa MAPK2/ERK2, from Upstate 
+(Lake Placid, NY, USA); rabbit antibody against phospho-p44/42 MAPK (Thr202/Tyr204), which 
+recognizes phosphorylated ERK1/2 (pERK1/2), rabbit antibodies against CREB and phosphorylated 
+CREB (Ser-133),  from  Cell Signaling (Woburn, MA,  USA); horseradish  peroxidase (HRP)-linked 
+anti-rabbit IgG as a secondary antibody, from Cell Signaling. The blots were developed by use of the 
+chemiluminescence method with Plus Western Blotting Detection Reagents (Amersham, Piscataway, 
+NJ, USA). 
+2.4. Assessment of Process Formation 
+PC12 cells seeded into 24-well plates (1.5 ×  10
+4 cells/well) were cultured in normal-serum medium, 
+and then incubated for 24 h in low-serum medium containing test compounds. Neurite outgrowth was 
+determined  by  manually  tracing  the  length  of  the  longest  neurite  of  each  of  50  cells  in  a  field  
+(200×   magnification)  under  observation  with  a  phase-contrast  microscope  (Biozero,  Keyence,  
+Osaka, Japan). 
+3. Results and Discussion 
+3.1. AUR-Induced ERK Activation in Cortical Neurons 
+We previously showed that an n-hexane extract (225 mg) of Citrus grandis yields AUR (39 mg), 
+HMF (8.5 mg), TGN (2.7 mg), and NBT (1.1 mg) and that HMF, TGN, and NBT have the ability to 
+cause the phosphorylation of ERK1/2 in cultured cortical neurons [3]. Although AUR is the most 
+prevalent component of the n-hexane extract of C. grandis, its ability to activate ERK had not yet been 
+examined. Therefore, we first tested by immunoblot analysis whether AUR had the ability to promote 
+the phosphorylation of ERK1/2 in cultured neurons. When the cells were treated with 100 μM AUR 
+for 30 min, ERK1/2 were phosphorylated, as was the case with treatment with 100 μM HMF or BDNF 
+at 50 ng/mL (Figure 2A). These results show that AUR as well as HMF and BDNF had the ability to  
+phosphorylate ERK1/2. 
+We then treated the cells  with  100 μM  AUR for various  periods of times  (0, 10, 30, 60,  and  
+90  min).  As  shown  previously,  neurons  express  both  ERK1  and  ERK2,  both  of  which  are 
+phosphorylated in response to BDNF or Citrus compounds [3], but only the ERK2 isoform has been 
+suggested to be attributable to neurogenesis and cognitive function [1]. We therefore analyzed the ratio 
+of phosphorylated ERK2 (pERK2) to total ERK2 (ERK2). Figure 2B shows that the AUR-induced 
+phosphorylation  of  ERK2  in  neurons  occurred in a time-dependent manner.  Enhancement  began  at  
+10 min, and a maximal increase was observed at 30 min, which was then followed by a gradual decline 
+(closed circles). In contrast, when the cells were cultured in medium containing 100 μM HMF, the 
+signal was gradually strengthened until at least 90 min after the start of exposure (open squares). 
+BDNF caused rapid phosphorylation of ERK2 within 10 min (closed triangle). These observations 
+indicated  that  AUR  had  a  unique  time-course  of  ERK1/2-phosphorylation  compared  to  HMF  and Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5342 
+BDNF.  Significant  toxicity  of  AUR  was  not  detected  even  after  incubation  for  90  min  at  a  
+concentration of 100 μM. 
+Figure 2. Effects of AUR and 3,5,6,7,8,3′,4′-heptamethoxyflavone (HMF) on extracellular 
+signal-regulated kinases 1/2 (ERK1/2) activation in rat cortical neurons. (A) Cells were 
+treated with  100 μM  of each  Citrus  compound for 30 min or 50 ng/mL brain-derived 
+neurotrophic factor (BDNF) for 10 min; (B) Cells were treated with 100 μM AUR or HMF 
+for various times (0, 10, 30, 60, and 90 min) or with BDNF (50 ng/mL) for 10 min The 
+density ratio of pERK2 to total ERK2 in untreated cultures (time 0) was determined and 
+expressed as 1 arbitrary unit. Results represent mean ±  SEM (n = 4, different cultures). 
+Significant  difference  in  values  between  the  compound-treated  and  non-treated  cells:  
+* P < 0.05; ** P < 0.01; *** P < 0.001 (Student’s t test). 
+pERK1
+pERK2
+ERK1
+ERK2
+none           HMF        AUR BDNF A
+B
+0
+1
+2
+3
+4
+5
+6
+7
+8
+p
+E
+R
+K
+2
+/
+E
+R
+K
+0    10          30                  60                  90 
+time (min)
+● AUR
+□ HMF
+▲BDNF
+**
+**
+*
+** *
+***
+p
+E
+R
+K
+2
+/
+E
+R
+K
+2
+pERK1
+pERK2
+ERK1
+ERK2
+none           HMF        AUR BDNF
+pERK1
+pERK2
+ERK1
+ERK2
+none           HMF        AUR BDNF A
+B
+0
+1
+2
+3
+4
+5
+6
+7
+8
+p
+E
+R
+K
+2
+/
+E
+R
+K
+0    10          30                  60                  90 
+time (min)
+● AUR
+□ HMF
+▲BDNF
+**
+**
+*
+** *
+***
+0
+1
+2
+3
+4
+5
+6
+7
+8
+p
+E
+R
+K
+2
+/
+E
+R
+K
+0    10          30                  60                  90 
+time (min)
+● AUR
+□ HMF
+▲BDNF
+0
+1
+2
+3
+4
+5
+6
+7
+8
+p
+E
+R
+K
+2
+/
+E
+R
+K
+0    10          30                  60                  90 
+time (min)
+● AUR
+□ HMF
+▲BDNF
+**
+**
+*
+** *
+***
+p
+E
+R
+K
+2
+/
+E
+R
+K
+2
+ 
+3.2. AUR-Induced ERK Activation in PC12 Cells 
+We then examined the effect of AUR on the phosphorylation of ERK1/2 in PC12 cells, because 
+these cells are often used for studies on neuronal differentiation [22]. Cells were treated with 3 or  
+30 μM AUR for 30 min or with 50 ng/mL NGF for 10 min. As shown in Figure 3A, AUR increased 
+the phosphorylation of ERK1/2 in PC12 cells (at a concentration of 3 μM ERK1/2 phosphorylation 
+was slightly increased, and at 30 μM strongly increased). NGF, a positive control substance, markedly 
+increased the level of phosphorylated ERK1/2. 
+ERK1/2 activation is known to lead to a number of cellular changes, such as the expression of 
+CREB  before  any  morphological  change  [17].  We  thus  examined  the  effect  of  AUR  on  the 
+phosphorylation of CREB in PC12 cells. As shown in Figure 3B, AUR-induced phosphorylation of 
+CREB correlated well with that of ERK. Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5343 
+It is known that NGF induces the activation (phosphorylation) of MEK (MAPK kinase) 1/2, which 
+then phosphorylates ERK1/2 [22]. Therefore, the effect of a MEK inhibitor (U0126) on AUR-induced 
+phosphorylation of ERK1/2 was next evaluated. As shown in Figure 3C, pretreatment of PC12 cells for 
+30 min with U0126 abolished the AUR-induced phosphorylation of ERK1/2. U0126 itself had  no 
+effect on the basal of ERK1/2-phosphorylation (data not shown). This result indicates that AUR, as 
+well as NGF, could activate MEK1/2, resulting in the phosphorylation of ERK1/2. 
+Cross talk exists between cAMP-dependent protein kinase A (PKA) and ERK signaling pathways in 
+PC12 cells [23]. The effect of a PKA inhibitor (H89) on AUR-induced phosphorylation of ERK1/2 
+was next evaluated. As also shown in Figure 3C, the AUR-induced phosphorylation of ERK1/2 was 
+not  affected  by  H89,  suggesting  that  AUR  could  activate  ERK/CREB  via  a  MEK-dependent  and  
+PKA-independent pathway. 
+Figure  3.  Effects  of AUR on ERK1/2  activation  and cAMP response element-binding 
+protein  (CREB)  activation  in  PC12  cells.  (A,B)  Cells  were  treated  with  various 
+concentrations  (0,  3,  and  30  μM)  of  AUR  for  30  min  or  nerve  growth  factor  (NGF,  
+50 ng/mL) for 10 min, and cell lysates were then prepared and subjected to immunoblot 
+analysis; (C) Cells were left untreated or were pretreated for 30 min with 10 μM U0126, a 
+MEK inhibitor, or with 10 μM H89, a PKA inhibitor, and then incubated for 30 min with  
+30 μM AUR. Thereafter, cells were subjected to immunoblot analysis. 
+A
+B pCREB
+CREB
+none     3     30    NGF
+AUR (μM)
+pERK1
+pERK2
+ERK1
+ERK2
+A
+B pCREB
+CREB
+none     3     30    NGF
+AUR (μM)
+pERK1
+pERK2
+ERK1
+ERK2 C
+AUR
+U0126
+H89
+－ ＋ ＋ ＋
+－ － ＋ －
+－ － － ＋
+pERK1
+pERK2
+ERK1
+ERK2
+C
+AUR
+U0126
+H89
+－ ＋ ＋ ＋
+－ － ＋ －
+－ － － ＋
+pERK1
+pERK2
+ERK1
+ERK2
+ 
+3.3. Effect of AUR on Neuronal Differentiation of PC12 Cells 
+It  is  known  that  neurite  outgrowth  from  PC12  cells  is  induced  via  the  phosphorylation  of  
+ERK1/2 [23]. We thus determined whether AUR could induce the neurite outgrowth from these cells. 
+The  extent  of  PC12  differentiation  is  typically  evaluated  by  counting  the  number  of  cells  with 
+extending neurites or by measuring neurite length. 
+To  elucidate  the  effects  of  AUR  on  neurite  outgrowth,  we  incubated  PC12  cells  on  
+poly-L-lysine-coated culture vessels with various concentrations of AUR (0, 10, 30, and 50 μM) or 
+NGF (50 ng/mL) for 24 h or 48 h, and then measured the length of the longest neurite of each of  
+50 cells in a phase-contrast microscope field. Our preliminary study indicated that the addition of NGF 
+(30–50 ng/mL) for 24–96 h caused a robust outgrowth of neurite from PC12 cells in a time dependent 
+manner on collagen-coated culture vessels (data not shown) as previously indicated [24]. We used the Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5344 
+poly-L-lysine-coated  culture  vessels  in  the  present  study  because  the  PC12  cells  were  likely  to 
+aggregate  and  come  off  from  the  substrates  when  cells  were  cultured  on  collagen-coated  culture 
+vessels. When cells were cultured on poly-L-lysine-coated culture vessels, the cells could disperse and 
+attach well, but not extend long and robust neurites. 
+As shown in Figure 4, PC12 cells grown in normal medium were round in shape with few neurites 
+(Figure 4A-a and open bar of Figure 4B; 6.69 ±  0.213 μm). NGF treatment resulted in remarkable 
+neurite outgrowth (Figure 4A-b and shaded bar of Figure 4B; 15.6 ±  0.941 μm). Figure 4B shows that 
+AUR  treatment  for  24  h  induced  neurite  extensions  in  a  dose-dependent  manner  (closed  bars).  
+Figure 4A-c, which is a phase-contrast photomicrograph of PC12 cells after treatment with 30 μM 
+AUR, shows that AUR induced the formation of short neurites (8.74 ±  0.386 μm) by the cells. The 
+neurite  length  of  the  cells  treated  with  NGF  (50  ng/mL)  or  AUR  (30  μM)  for  48  h  was  
+17.0 ±  0.746 μm and 10.0 ±  0.562 μm, respectively, which were a little larger than the levels after  
+24 h of treatment. 
+Figure 4. Effects of AUR on neurite outgrowth from PC12 cells. Cells were treated with 
+various concentrations (0, 10, 30, and 50 μM) of AUR or NGF (50 ng/mL) for 24 h, after 
+which phase-contrast photomicrographs of the cells were taken (A): a, control; b, treatment 
+with NGF; c, treatment with 30 μM AUR. Scale bar = 20 μm. (B): The average radial 
+distance of the longest neurite, measured from the neurite tip to the soma, of 50 cells was 
+determined  after  24  h  treatment  with  test  drugs.  Results  represent  the  mean  ±   SEM. 
+Significant  difference  in  values  between  the  compound-treated  and  non-treated  cells:  
+** P < 0.01; *** P < 0.001 (Student’s t test). 
+A
+B
+L
+e
+n
+g
+t
+h
+ 
+o
+f
+ 
+n
+e
+u
+r
+i
+t
+e
+ 
+(
+μ
+m
+)
+none      NGF     10       30     50
+AUR (μM)
+b a c A
+B
+L
+e
+n
+g
+t
+h
+ 
+o
+f
+ 
+n
+e
+u
+r
+i
+t
+e
+ 
+(
+μ
+m
+)
+none      NGF     10       30     50
+AUR (μM)
+b b a a c c
+ Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5345 
+Recent studies on the mechanism of neurite outgrowth from PC12 cells have provided evidence for 
+the  roles  of  a  number  of  different  signaling  molecular  pathways  in  neuronal  differentiation.  For 
+example, NBT induces neurite outgrowth of PC12D cells, which were subcloned from the original 
+PC12 cells, by activating a cAMP/PKA/MEK/ERK-dependent pathway [25]. Selenium compounds 
+such as ebselen (2-phenyl-1,2-benzisoselenazol-3(2H)-one), which is artificially synthesized, stimulate 
+neurite  outgrowth  from  PC12  cells  via  activation  of  Akt  and  ERK  [26].  Scoparone  
+(6,7-dimethoxycoumarin),  which  is  frequently  produced  by  infected  plants,  can  induce  neurite 
+outgrowth from PC12 cells by stimulating the upstream steps of ERK, PKA, protein kinase C (PKC), 
+and  Ca
+2+/calmodulin  kinase  II  (CaMK  II)  [27].  Curcuminoids,  the  predominant  polyphenolic 
+compounds  in  the  rhizome  of  Curcuma  longa  Linn,  promote  neurite  outgrowth  from  PC12  cells 
+through ERK- and PKC-dependent pathways [28]. 5-Hydroxy-3,6,7,8,3′,4′-hexamethoxyflavone, an 
+hydroxylated polymethoxyflavone from Citrus plants, promotes neurite outgrowth from these cells via 
+the  cAMP/PKA/CREB  pathway  [29].  The  AUR-triggered  mechanism  that  underlies  the  ERK 
+activation in and neuronal differentiation of PC12 cells is not yet clearly understood. In the future, the 
+signaling  pathway  responsible  for  the  AUR-induced  neurite  outgrowth  from  PC12  cells  should  
+be investigated. 
+4. Conclusions 
+This study demonstrates that AUR from Citrus plants had the ability to induce activation of ERK1/2 
+and CREB in cultured neurons and PC12 cells. AUR also had the ability to induce neurite outgrowth 
+from  PC12  cells.  These  results  suggest  that  AUR  might  be  a  neurotrophic  agent  for  treating 
+neurodegenerative neurological disorders. 
+Acknowledgments 
+This study was supported by grants (14-011 and 14-0009) from Japan Science and Technology Agency. 
+References 
+1.  Samuels, I.S.; Karlo, J.C.; Faruzzi, A.N.; Pickering, K.; Herrup, K.; Sweatt, J.D.; Saitta, S.C.; 
+Landreth,  G.E.  Deletion  of  ERK2  mitogen-activated  protein  kinase  identifies  its  key  roles  in 
+cortical neurogenesis and cognitive function. J. Neurosci. 2008, 28, 6983–6995. 
+2.  Adams,  J.P.;  Sweatt, J.D.  Molecular  psychology:  Roles  for  the  ERK  MAP  kinase  cascade  in 
+memory. Annu. Rev. Pharmacol. Toxicol. 2002, 42, 135–163. 
+3.  Furukawa, Y.; Okuyama, S.; Amakura, Y.; Watanabe, S.; Fukata, T.; Nakajima, M.; Yoshimura, M.; 
+Yoshida, T. Isolation and characterization of activators of ERK/MAPK from Citrus plants. Int. J. 
+Mol. Sci. 2012, 13, 1832–1845. 
+4.  Ogawa, K.; Kawasaki, A.; Yoshida, T.; Nesumi, H.; Nakano, M.; Ikoma, Y.; Yano, M. Evaluation 
+of  auraptene  content  in  Citrus  fruits  and  their  products.  J.  Agric.  Food  Chem.  2000,  
+48, 1763–1769. Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5346 
+5.  Murakami, A.; Matsumoto, K.; Koshimizu, K.; Ohigashi, H. Effects of selected food factors with 
+chemopreventive  properties  on  combined  lipopolysaccharide-  and  interferon-γ-induced  IκB 
+degradation in RAW264.7 macrophages. Cancer Lett. 2003, 195, 17–25. 
+6.  Curini, M.; Carvotto, G.; Epifano, F.; Giannone, G. Chemistry and biological activity of natural 
+and synthetic prenyloxycoumarins. Curr. Med. Chem. 2006, 13, 199–222. 
+7.  Kawabata,  K.;  Murakami,  A.;  Ohigashi,  H.  Citrus  auraptene  targets  translation  of  MMP-7 
+(matrilysin)  via  ERK1/2-dependent  and  mTOR-independent  mechanism.  FEBS  Lett.  2006,  
+580, 5288–5294. 
+8.  Tanaka, T.; Yasui, Y.; Ishigamori-Suzuki, R.; Oyama, T. Citrus compounds inhibit inflammation- 
+and obesity-related colon carcinogenesis in mice. Nutr. Cancer 2008, 60, 70–80. 
+9.  Takeda, K.; Utsunomiya, H.; Kakiuchi, S.; Okuno, Y.; Oda, K.; Inada, K.; Tsutsumi, Y.; Tanaka, T.; 
+Kakudo,  K.  Citrus  auraptene  reduces  Helicobacter  pylori  colonization  of  glandular  stomach 
+lesions in Mongolian gerbils. J. Oleo Sci. 2007, 56, 253–260. 
+10.  Takahashi, N.; Kang, M.S.; Kuroyanagi, K.; Goto, T.; Hirai, S.; Ohyama, K.; Lee, J.Y.; Yano, M.; 
+Sasaki, T.; Murakami, S.; et al. Auraptene, a Citrus fruit compound, regulates gene expression as 
+a PPARα agonist in HepG2 hepatocytes. Biofactors 2008, 33, 25–32. 
+11.  Nagao, K.; Yamano, N.; Shirouchi, B.; Inoue, N.; Murakami, S.; Sasaki, T.; Yanagita, T. Effects of 
+Citrus  auraptene  (7-geranyloxycoumarin) on hepatic lipid  metabolism  in  vitro and in  vivo. J. 
+Agric. Food Chem. 2010, 58, 9028–9032. 
+12.  Epifano, F.; Molinaro, G.; Genovese, S.; Ngomba, R.T.; Nicoletti, F.; Curini, M. Neuroprotective 
+effect of prenyloxycoumarins from edible vegetables. Neurosci. Lett. 2008, 443, 57–60. 
+13.  Trist,  D.G.  Excitatory  amino  acid  agonists  and  antagonists:  Pharmacology  and  therapeutic 
+applications. Pharm. Acta Helv. 2000, 74, 221–229. 
+14.  Greene,  L.A.;  Tischler,  A.S.  Establishment  of  a  noradrenergic  clonal  line  of  rat  adrenal 
+pheochromocytoma cells which respond to nerve growth factor. Proc. Natl. Acad. Sci. USA. 1976, 
+73, 2424–2428. 
+15.  Traverse,  S.;  Gomez,  N.;  Paterson,  H.;  Marshall,  C.;  Cohen,  P.  Sustained  activation  of  the 
+mitogen-activated protein (MAP) kinase cascade may be required for differentiation of PC12 cells. 
+Biochem.J. 1992, 288, 351–355. 
+16.  Marshall,  C.J.  Specificity  of  receptor  tyrosine  kinase  signaling:  Transient  versus  sustained 
+extracellular signal-regulated kinase activation. Cell 1995, 80, 179–185. 
+17.  Boss, V.; Roback, J.D.; Young, A.N.; Weisenhorn, D.M.; Medina-Flores, R.; Wainer, B.H. Nerve 
+growth factor, but not epidermal growth factor, increase Fra-2 expression and alters Fra-2/JunD 
+binding to AP-1 and CREB binding elements in pheochromocytoma (PC12) cells. J. Neurosci. 
+2001, 21, 18–26. 
+18.  Spencer, J.P.E.; Vauzour, D.; Rendeiro, C. Flavonoids and cognition: The molecular mechanisms 
+underlying their behavioural effects. Arch. Biochem. Biophys. 2009, 492, 1–9. 
+19.  Banno, Y.; Nemoto, S.; Murakami, M.; Kimura, M.; Ueno, Y.; Ohguchi, K.; Hara, A.; Okano, Y.; 
+Kitade, Y.; Onozuka, M.; et al. Depolarization-induced differentiation of PC12 cells is mediated 
+by  phospholipase  D2  through  the  transcription  factor  CREB  pathway.  J.  Neurochem.  2008,  
+104, 1372–1386. Int. J. Mol. Sci. 2012, 13                       
+ 
+ 
+5347 
+20.  Sagara,  Y.;  Vanhnasy,  J.;  Maher,  P.  Induction  of  PC12  cell  differentiation  by  flavonoids  is 
+dependent upon extracellular signal-regulated kinase action. J. Neurochem. 2004, 90, 1144–1155. 
+21.  Okada,  M.;  Makino,  A.;  Nakajima,  M.;  Okuyama,  S.;  Furukawa,  S.;  Furukawa,  Y.  Estrogen 
+stimulates proliferation and differentiation of neural stem/progenitor cells through different signal 
+transduction pathways. Int. J. Mol. Sci. 2010, 11, 4114–4123. 
+22.  Liu, Y.Z.; Boxer, D.S.; Latchman, D.S. Activation of the Bcl-2 promoter by nerve growth factor 
+is mediated by the p42/p44 MAPK cascade. Nucleic Acids Res. 1999, 27, 2086–2090. 
+23.  Vossler, M.R.; Yao, H.; York, R.D.; Pan, M.G.; Rim, G.S.; Stork, P.J. cAMP activates MAP kinase 
+and Elk-1 through a B-Raf- and Rap1-dependent pathway. Cell 1997, 89, 73–82. 
+24.  Matta, S.G.; Yorke, G.; Roisen, F.J. Neuritogenic and metabolic effects of invididual gangliosides 
+and  their  interaction  with  nerve  growth  factor  in  cultures  of  neuroblastoma  and 
+pheochromocytoma. Dev. Brain Res. 1986, 27, 243–252. 
+25.  Nagase, H.; Yamakuni, T.; Matsuzaki, K.; Maruyama, Y.; Kasahara, J.; Hinohara, Y.; Kondo, S.; 
+Mimaki, Y.T.; Sashida, Y.; Tank, A.W.; et al. Mechanism of neurotrophic action of nobiletin in 
+PC12D cells. Biochemistry 2005, 44, 13683–13691. 
+26.  Nishina,  A.;  Sekiguchi,  A.;  Fukumoto,  R.;  Koketsu,  M;  Furukawa,  S.  Selenazoles  (selenium 
+compounds)  facilitate  survival  of  cultured  rat  pheochromocytoma  PC12  cells  after  
+serum-deprivation  and  stimulate  their  neuronal  differentiation  via  activation  of  Akt  and  
+mitogen-activated protein kinase. Biochem. Biophys. Res. Commun. 2007, 352, 360–365. 
+27.  Yang, Y.J.; Lee, H.J.; Choi, D.H.; Huang, H.S.; Lim, S.G.; Lee, M.K. Effect of scoparone on 
+neurite outgrowth in PC12 cell. Neurosci. Lett. 2008, 440, 14–18. 
+28.  Liao,  K.-K.;  Wu,  M.-J.;  Chen,  P.-Y.;  Huang,  S.-W.;  Chiu,  S.-J.;  Ho,  C.-T.;  Yen,  J.-H. 
+Curcuminoids  promote  neurite  outgrowth  in  PC12  cells  through  MAPK/ERK-  and  PKC- 
+dependent pathways. J. Agric. Food Chem. 2012, 60, 433–443. 
+29.  Lai, H.-C.; Wu, M.-J.; Chen, P.-Y.; Sheu, T.-T.; Chiu, S.-P.; Lin, M.-H.; Ho, C.-T.; Yen, J.-H. 
+Neurotrophic effect of Citrus 5-hydroxy-3,6,7,8,3′,4′-hexamethoxyflavone: Promotion of neurite 
+outgrowth  via  cAMP/PKA/CREB  pathway  in  PC12  cells.  PLoS  One  2011,  6,  
+doi: 10.1371/journal.pone.0028280. 
+© 2012 by the authors; licensee MDPI,  Basel,  Switzerland. This  article is  an open  access  article 
+distributed  under  the  terms  and  conditions  of  the  Creative  Commons  Attribution  license 
+(http://creativecommons.org/licenses/by/3.0/). 

@@ -1,0 +1,371 @@
+Article 
+J. Braz. Chem. Soc., Vol. 21, No. 6, 1121-1125, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: disabel@ubi.pt
+Iridoids from Hymenodictyon floribundum
+Cristina M. P. Borges,a Carlos Diakanawmab and Dina I. M. D. de Mendonça*,c
+aDepartamento de Química  and bDepartamento de Biologia, Universidade Agostinho Neto, 
+Av. 4 de Fevereiro, 71, 2º andar, CP 3244, Luanda, Angola
+cDepartamento de Química, Universidade da Beira Interior, Rua Marquês d’Ávila e Bolama, 
+6200-001 Covilhã, Portugal
+Das cascas do tronco e das folhas do Hymenodictyon floribundum B. L. Rob foram isolados dois 
+novos iridoides, floribundano A (1) e floribundano B (2), e três compostos conhecidos, lupenona 
+(3), escopoletina (4) e 4,5-di-hidroblumenol A (5). As estruturas de todos os compostos foram 
+estabelecidas com base nos seus dados espectroscópicos.
+Two new iridoids floribundane A (1) and floribundane B (2) and the known compounds 
+lupenone (3), scopoletin (4) and 4,5-dihydroblumenol A (5) were isolated from trunk bark and 
+leaves of Hymenodictyon floribundum B.L. Rob. The structures of all compounds were established 
+from their spectroscopic data.
+Keywords: Hymenodictyon floribundum, monoterpenes, secoiridoids, nitrogen-containing 
+iridoid, C-9 iridoid
+Introduction
+The Hymenodictyon genus comprises 22 species. Of 
+these, 11 are endemic to Madagascar, 4 to Asia and 7 to 
+Tropical Africa.1 Hymenodictyon floribundum B.L. Rob. 
+(Rubiaceae), endemic to Tropical Africa, is a small tree 
+that grows in the mountains of the Huíla province and its 
+traditional name is NDambi Yov`olwi, (omu)Lia-tyimeme. 
+Its trunk bark is used in Angola folk medicine to treat fever.2
+A previous study has shown that the trunk bark of this 
+tree contains scopoletin, hymeselsin, scopolin and 3-O-β-
+D-glucopyranosyl-β-sitosterol.3 An exhaustive literature 
+review revealed that, with the exception of an ongoing study 
+examining the trunk bark and dried leaves of Hymendictyon 
+floribundum (in the context of other medicinal plants of 
+Angola),4 other parts of the tree have not yet to be studied.
+In the aforementioned study, powdered trunk barks and 
+dried leaves were extracted by maceration with methanol. The 
+methanol extract was partitioned with hexane and chloroform. 
+The hexane extract from trunk barks yielded lupenone (3)5 
+and the chloroform extract yielded scopoletin (4).6 The 
+chloroform extract from dried leaves yielded floribundane 
+A (1), 4,5-dihydroblumenol A (5)7,8 and floribundane B (2).
+Results and Discussion
+Floribundane A (1) was obtained as a colourless oil 
+with [α]2D0 = +25.31º. The HR-TOF- EI-MS showed a 
+molecular ion peak at m/z 223.0843 [M]+(in agreement 
+with the molecular formula C11H13NO4) implying 6 
+degrees of unsaturation. The UV maximum at 234 nm and 
+the IR absorptions at 1724, 1633 and 1268 cm-1 suggested 
+the presence of the chromophore -OOCC=CHO.9 The 
+IR also showed the presence of a lactam ring: NH band 
+(3403 cm-1), and the amide band I (1690 cm-1) with an 
+absence of the amide II band.10 The 1H NMR spectrum of 
+compound (1) (Table 1) displayed signals of two vinylic 
+protons (H-3 dH 7.50, s and H-8 dH 6.85, q, J 7.2), a ABX 
+system [H-6α,β dH 2.11, dd, J 13.1 and 2.0; dH 2.06, dd, 
+J
+ 
+13.1 and 2.6 (AB part) and H-5 dH 3.94, m (X part)] 
+and a vinyl methyl group at dH 2.01 (d, J 7.2); typical 
+signals of a secoiridoid nucleus.11 A few iridoid alkaloids 
+have been isolated from natural sorces12-15 (gardenamide 
+class), and some were obtained as metabolites produced 
+by human16 and rat intestinal bacteria.17 Comparison with 
+the published data of known iridoid alkaloids, such as (6) 
+(Figure 1), and hemiacetal-secoiridoids11,18 like (7) (Figure 
+1) and compound (1), showed that the H-3 chemical shift 
+(dH 7.50 ppm), despite the presence of a nitrogen atom in 
+Iridoids from Hymenodictyon floribundum J. Braz. Chem. Soc.1122
+the molecule, was more compatible with the hemiacetal-
+secoiridoids (dH ca.7.5 ppm) than with the gardenamide 
+class and mor-117 (8) (Figure 1) (dH ca. 7.3 ppm). 
+Further, the upfield shift of H-1 (dH 5.46) relative to 
+the corresponding signal of mor-1 (dH 5.11 ppm),17 and 
+a downfield shift (dH 5.94 ppm) to the corresponding 
+hemicetals,11,18 showed that (1) it was neither a hemiacetal 
+nor a nitrogen-containing iridoid (N-2) but that it was 
+compatible with a C-1(N)O-2 substitution. This was 
+also supported by the presence of the 1H-1H COSY 
+correlation between H-1/NH, rather than the H-1/NH, 
+H-3/NH correlations expected in the iridoid alkaloids,17 
+and by UV and IR data indicating the presence of the 
+chromophore -OOCC=CHO.9 The 13C NMR spectrum 
+(Table 1) showed 11 carbons which were analysed as two 
+methyls (one vinylic and a methyl ester), one methylene, 
+four methines two of them vinylic, and four quaternary 
+carbons (two vinylic and two carbonylic) from its DEPT 
+spectrum. The 13C NMR chemical signals at dC 152.13 
+(C-3), 136.11 (C-8), 130.25 (C-9), the carbonyl group at 
+dC 166.56, the methoxy signal at dC 51.31 and the vinyl 
+methyl group at dC 13.96, were found to be consistent 
+with a secoiridoid skeleton.11 The unusual downfield shift 
+of C-1 to dC 76.97 was in agreement with the C-1(O)
+(N) substitution as observed on mor-1,17 but only the 
+presence of O in the position 2 of the iridoid skeleton 
+could explain the upfield shift of C-3 and C-4. The HMBC 
+correlation between H-1/C-7 established the presence 
+of the 1,7-d-lactam ring in the molecule. With the aid 
+of 1H – 1H COSY, HSQC and HMBC data (Table 1, 
+Figure 2) it was possible to establish the structure of (1) 
+as a 7,8-secoiridoid, with C-11 as a methyl ester, a C-1(N)
+O-2 substitution and a 1,7-d-lactam ring. The NOESY 
+correlations H
+α
+-5/ H
+α
+-6 and Hβ-6/Hβ-1 indicated that the 
+1,7-d-lactam ring is trans-fused. To our best knowledge, 
+this is the first time that a secoiridoid has presented as a 
+1,7-trans-d-lactam ring. A similar structure, isosweroside, 
+as a hemiacetal, was found in the roots of Sambucus ebulus 
+L.19 Compound (1) was named floribundane A.
+Floribundane B (2) was obtained as a colourless oil 
+with [α]2D0 = + 41.66º. The molecular formula C9H14O3 was 
+established by HR-TOF-MS-EI which showed a molecular 
+ion peak at m/z 170.0942 [M]+ (calculated for 170.2270), 
+implying 3 degrees of unsaturation. The IR showed OH 
+bands (3384 cm-1), an α,β-unsaturated lactone group 
+(1692 cm-1, 1620 cm-1); the UV spectrum a α,β-unsaturated 
+lactone system (230 nm). The 1H RMN spectrum (Table 1) 
+showed signals of one diastereotopic oxymethylene (H-3) 
+dH 4.23 (ddd, J1 11.3, J2 9.1, J3 4.4 Hz) and dH 4.42 (ddd, 
+J1 11.3, J2 9.5, J3 3.6 Hz) that presented 1H – 1H COSY 
+correlation with a diastereotopic methylene (H-4) dH 1.83 
+(m) and dH 2.12 (m); a oxymethylene multiplet dH 3.71 
+(H-7) that presented an 1H – 1H COSY correlation with 
+another methylene dH 1.74 (m, H-6); a methine dH 3.18 
+(m, H-5) that showed cross peaks with H-4 and H-6 and a 
+vinyl methine dH 7.02 (qd, J1 7.4, J2 1.2 Hz, H-8) coupled 
+with a methyl dH 1.86 (d, J 7.4 Hz, Me-10). This spectrum 
+presents some similarities to that of compound (1): the 
+presence of the vinyl double bond and the 1H – 1H COSY 
+correlations between H-5, H-6 and H-7. Thus, it appears 
+Table 1. 1H NMR and 13C NMR data (J in Hz) and HMBC correlations of compounds 1 and 2 (600 MHz, CDCl3)
+C
+1 2
+dC dH COSY HMBC dC dH COSY HMBC
+1 76.97 5.46, br s H-5, NH 3, 5, 7 167.38
+3 152.13 7.50, s 1, 4, 5, 11 65.35 4.23, ddd (11.3, 9.1, 4.4) a4.42, ddd (11.3, 9.5, 3.6) b
+H-3, H-4a, 
+H-4b 1, 4, 5
+4 109.36 27.51 1.83, m a2.12, m b
+H-3a, H-3b, 
+H-4a, H-4b, H-5 3, 5, 6, 9
+5 24.67 3.94, m H-1, H-6 1, 3, 4, 6, 7, 8, 9 28.93 3.18, m H4a, H-4b, H-5, H-6 1, 3, 4, 6, 8, 9
+6 26.76 2.06, dd (13.1, 2.6) 2.11, dd (13.1, 2.0) H-5, H-6 4, 5, 9 36.11 1.74, m H-5, H-7 4, 5, 9
+7 166.36 59.97 3.71, m H-6 5, 6
+8 136.11 6.85, q (7.2) H-10 5, 9, 10 140.67 7.02, qd (7.4, 1.2) H-5, H-10 1, 5, 9, 10
+9 130.25 131.16
+10 13.96 2.01, d (7.2) H-8 8, 9 14.18 1.86, d (7.4) H-8 8, 9
+11 166.56
+11-OCH3 51.31 3.69, s 11
+NH - 6.93, br s H-1
+Borges et al. 1123Vol. 21, No. 6, 2010
+methylenes (two of them oxymethylenes, dC 27.51, 36.11, 
+59.97, 65.35), two methines (one vinylic, dC 28.93, 140.67), 
+and two quaternary carbons (one vinilyc, dC 131.16, and 
+the other carbonylic, dC 167.38). The lack of the two 
+quaternary sp2 carbons belonging to the C-3 - C-4 double 
+bond of (1) and the methine C-1, and the presence of signals 
+characteristic of a methylene (dC 27.51), a oxymethylene 
+(dC 65.35) and a sp2 carbon (dC 167.38) belonging to the 
+α,β-unsaturated lactone group detected in the IR and UV 
+spectra, is indicative of a major transformation in the B 
+ring of (2). However, these new features of the B ring 
+are in good agreement with those of the d-lactone ring 
+of C-9 iridoid derivatives viteoid II,20,21 7-hidroxyviteoid 
+II22 and ovatolactone.23 The vinylic double bond can 
+unambiguously be assigned to C-8 and C-9 and the lactone 
+carbonyl to C-1, by means of 1H – 1H COSY, HSQC and 
+HMBC data (Table 1, Figure 2). Several C-9 iridoid and 
+secoiridoid (lactone ring opening) derivatives are known20-25 
+but to our best knowledge this is the first time that a C-9 
+7,8-secoiridoid derivative has been isolated. Thus, (2) was 
+identified as a new natural product for which we propose 
+the name floribundane B.
+Conclusions
+Although trunk bark components of H. floribundum 
+have been well studied, there has as yet been no study 
+which focuses solely on the leaves of this medicinal tree. 
+The major compound trunk bark extract is scopoletin. The 
+occurrence of iridoids has been observed for the first time 
+in this genus. A new secoiridoid alkaloid, floribundane A, 
+and a C-9 7,8-secoiridoid, floribundane B was isolated from 
+the leaves of this tree. 
+Experimental
+General experimental procedures 
+Opt i c a l  r o t a t i on s  we r e  ob t a i n ed  w i t h  a 
+Bellingham+Stanley Ltd ADP 220 polarimeter. HREIMS 
+measurements were carried out on a VG Autospec M 
+and recorded at 70 eV. FTIR and UV spectra were 
+measured in a Unicam Mattson 5000 FTIR and Unican 
+Helios α respectively. NMR spectra were recorded in a 
+Bruker Avance II, 600 MHz (1H NMR) and 150.9 MHz 
+(13C NMR), in CDCl3. Chemical shifts are given in d ppm 
+and are referenced to the residual CHCl3, 7.26 ppm for the 
+1H and 77.0 ppm for 13C. Two-dimensional experiments 
+were performed with standard Bruker software. Column 
+chromatography was carried out on silica gel (silica gel 60 
+(70-230 mesh), Merck, Darmstadt, Germany).
+Figure 2. Key HMBC correlations of compounds 1 and 2.
+Figure 1. Structures of selected examples of iridoid alkaloids13 (6), 
+hemiacetal-secoiridoids11 (7) and mor-1 (8).17
+that the A ring, as in (1), is open as a 7,8-secoiridoid 
+with a hydroxyl moiety at C-7. The 13C NMR spectrum 
+(Table 1) showed 9 carbons which were analysed, from 
+its DEPT spectrum, as one vinylic methyl (dC 14.18), four 
+Iridoids from Hymenodictyon floribundum J. Braz. Chem. Soc.1124
+Plant material 
+Leaves and bark of Hymenodictyon floribundum were 
+collected in the waterfall at the Comuna da Huíla, Huíla 
+province, Angola in July 2001. A voucher specimen (3668) 
+has been deposit at the Lubango Herbarium, Angola. 
+Extraction and isolation 
+Powdered trunk bark (3 kg) was extracted with methanol 
+for a week at room temperature. The methanol extract was 
+partitioned between MeOH-H2O (5:1) and hexane yielding 
+16.6 g of the hexane extract. The aq. methanolic fraction 
+was concentrated, H2O added and extracted with chloroform 
+to obtain the chloroform extract (36.8 g). A sample of the 
+hexane extract (4.7 g) was fractionated in silica gel column 
+with a hexane/EtOAc, EtOAc and EtOAc/MeOH gradients. 
+The fraction eluted with hexane/EtOAc (95:5) was separated 
+in silica gel column with a hexane/EtOAc gradient to yield 
+lupenone (3) (20.3 mg). From the chloroform extract and by 
+crystallization scopoletin (4) (30 g) was isolated. 
+Dried leaves (0.9 kg) were extracted with methanol 
+for a week at room temperature. The methanol extract 
+was partitioned between MeOH-H2O (5:1) and hexane 
+yielding 34.02 g of the hexane extract. The aq. methanolic 
+fraction was concentrated, H2O added and extracted with 
+chloroform to obtain the chloroform extract (5.2 g). A 
+sample of the chloroform extract (1.6 g) was fractionated 
+in silica gel column with a hexane/EtOAc, EtOAc/CHCl3 
+and EtOAc/MeOH gradients. Two fractions were eluted 
+with EtOAc/CHCl3 (7:3) (fraction I and II). Fraction I was 
+separated in silica gel column with CHCl3 and a CHCl3/
+MeOH gradient to yield floribundane A (1) (10.2 mg) 
+and 4,5-dihydroblumenol A (5) (5.6 mg). Fraction II was 
+separated in silica gel column with CHCl3 and a CHCl3/
+MeOH gradient to yield floribundane B (2) (7.8 mg). 
+Floribundane A (1) 
+Oil; [α]2D0 = +25.31º (CHCl3, c 0.079). FTIR (film) 
+ν
+max
+/cm-1: 3403, 2959, 2930, 1724, 1690, 1633, 1379, 
+1268, 1196, 1092, 943, 756; UV (MeOH) l
+max
+/nm (log e): 
+234 (4.00), 210.0 (4.15) 1H NMR (CDCl3, 600 MHz) and 
+13C NMR (CDCl3, 150.9 MHz): see Table 1; TOF-MS-EI 
+pos: m/z 223 [M]+ (15), 206 (77), 190 (100), 164 (62), 163 
+(12), 162 (11), 149 (28), 146 (22), 134 (11), 122 (23), 121 
+(82), 120 (13), 93 (13), 83 (13), 79 (10); HREIMS: m/z 
+223.0843 [M]+ (calc. for C11H13NO4, 223.0845).
+Floribundane B (2) 
+Oil; [α]2D0 = +41.66º (CHCl3, c 0.048). FTIR (film) 
+ν
+max
+/cm-1: 3384, 2962, 2926, 2866, 1692, 1620, 1262, 1154, 
+1094, 1060, 1026, 800, 760; UV (MeOH) l
+max
+/nm (log e): 
+230 (3.16), 219 (3.34). 1H NMR (CDCl3, 600 MHz) and 
+13C NMR (CDCl3, 150.9 MHz) see Table 1; TOF-MS-EI 
+pos: m/z 226 [M]+ (1), 168 (25), 137 (11), 135 (12), 128 
+(19), 126 (39), 125 (31), 124 (34), 123 (38), 122 (11), 121 
+(24), 111 (100), 110 (29), 109 (73), 108 (12), 107 (22), 99 
+(15), 98 (17), 97 (33), 96 (17), 95 (72), 93 (17), 91 (14), 
+85 (81), 84 (11), 83 (11), 83 (32), 82 (19), 81 (40), 79 (17), 
+77 (12), 71 (39), 69 (46), 67 (20); HREIMS: m/z 170.0942 
+[M]+ (calc. for C9H14O3, 170.2270).
+Supplementary Information
+1H NMR, 13C NMR, 1H-1H COSY, HSQC, HMBC, and 
+NOESY NMR spectra of compounds 1 and 2 are available 
+free of charge at http://jbcs.sbq.org.br, as PDF file.
+Acknowledgments
+This work was partially funded by the project POCTI/
+QUI/39380/2001 of Fundação para a Ciência e Tecnologia 
+(FCT) with FEDER funding and Textile and Paper 
+Materials Center. One of the authors (C.B.) gratefully 
+acknowledges a GRICES PhD scholarship and INABE 
+(Angola) for financial support.
+References
+ 1.  Razafimandimbison, S. G.; Bremer, B.; Bot. J. Linn. Soc. 2006, 
+152, 331.
+ 2.  Bossard, E.; Medicine Traditionnelle au Centre et a l’Ouest de 
+l’Angola, Vol. 1, Ministério da Ciência e Tecnologia, Instituto 
+de Investigação Científica Tropical: Lisbon, 1996.
+ 3.  Mitaine-Offer, A. C.; Tapondjou, L. A.; Djoukeng, J. D.; Bouda, 
+H.; Lacaille-Dubois, M. A.; Biochem. Syst. Ecol. 2003, 31, 227.
+ 4.  dos Santos, A. F.; Lopes, L. A.; Mata, R. C. S.; de Mendonça, D. 
+I. M. D.; Sant’Ana, A. E. G.; Bioresour. Technol. 2007, 98, 135.
+ 5.  Atta-Ur-Rahman; Pentacyclic Triterpenoids, Vol II, Elsevier 
+Science B.V.: Amsterdam, 1994.
+ 6.  Rao, P. S.; Asheervadam, Y; Khaleelullah, M.; Rao, N. S.; 
+Murray, R. D. H.; J. Nat. Prod. 1988, 51, 959. 
+ 7.  de Marino, S.; Borbone, N.; Zollo, N.; Ianaro, A.; Di Meglio, 
+P.; Iorizzi, M; J. Agric. Food Chem. 2004, 52, 7525.
+ 8.  Gonzalez, A. G.; Guillermo, J. A.; Ravelo, A. G.; Jiménez, I. 
+A.; Gupta, M. P.; J. Nat. Prod. 1994, 57, 400.
+ 9.  Zuleta, L. M. C.; Cavalheiro, A. J.; Silva, D. H. S.; Furlan, M.; 
+Young, M. C. M.; Albuquerque, S.; Castro-Gamboa, I.; Bolzani, 
+V. S.; Phytochemistry 2003, 64, 549.
+ 10.  Pretsch, E.; Seilb, J.; Simon, W.; Tablas para la Determinación 
+Estrutural por Métodos Espectroscópicos, Springer-Verlag 
+Ibérica:Madrid, 1998, p. I150.
+Borges et al. 1125Vol. 21, No. 6, 2010
+ 11.  Shen, Y. C.; Lin, S. L.; Chein, C. C.; Phytochemistry 1996, 42, 
+1629.
+ 12.  Machida, K.; Onodera, R.; Furuta, K.; Kikuchi, M.; Chem. 
+Pharm. Bull. 1998, 46, 1295.
+ 13.  Bringmann, G.; Hamm, A.; Kraus, J.; Ochse, M.; Noureldeen, 
+A.; Jumbam, D. N.; Eur. J. Org. Chem. 2001, 1983.
+ 14.  Juma, B. F.; Majinda, R. R. T.; Nat. Prod. Res. 2007, 21, 121.
+ 15.  Ono, M.; Ishimatsu, N.; Masouka, C.; Yoshimitsu, H.; 
+Tsuchihashi, R.; Okawa, M.; Kinjo, J.; Ikeda, T.; Nohara, T.; 
+Chem. Pharm. Bull. 2007, 55, 632.
+ 16.  Kawata, Y.; Hattori, M.; Akao, T.; Kobashi, K.; Namba, T.; 
+Planta Med. 1991, 57, 536.
+ 17.  Li, X.; Huo, C.; Wang, Q.; Zhang, X.; Sheng, X.; Zhang, L.; 
+J. Pharm. Biomed. Anal. 2007, 45, 268.
+ 18.  Tanahashi, T.; Takenaka, Y.; Nagakura, N.; J. Nat. Prod. 1997, 
+60, 514.
+ 19.  Gross, G. A.; Sticher, O.; Helv. Chim. Acta 1986, 69, 1113.
+ 20.  Ono, M.; Ito, Y.; Kubo, S.; Nohara, T.; Chem. Pharm. Bull. 
+1997, 45, 1094. 
+ 21.  dos Santos, T. C.; Schripsema, J.; Monache, F. D.; Leitão, S. 
+G.; J. Braz. Chem. Soc. 2001, 12, 763.
+ 22.  Gouda, Y. G.; Abdel-baky, A. M.; Darwish, F. M.; Mohamed, 
+K. M.; Kasai, R.; Yamasaki, K.; Phytochemistry 2003, 63, 887.
+ 23.  Machida, K.; Ando, M.; Yaoita, Y.; Kakuda, R.; Kikuchi, M.; 
+Chem. Pharm. Bull. 2001, 49, 732.
+ 24.  Marini-Bettolo, G. B.; Nicoletti, M.; Messana, I.; Patamia, 
+M.; Galeffi, G.; Oguakwa, J. U.; Portalone, G.; Vaciago, A.; 
+Tetrahedron 1983, 39, 323.
+ 25.  Valladares, M. G.; Rios, M. Y.; J. Nat. Prod. 2007, 70, 100.
+Received: February 25, 2009
+Web Release Date: March 22, 2010
+Supplem
+entary Inform
+ation
+J. Braz. Chem. Soc., Vol. 21, No. 6, S1-S7, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: disabel@ubi.pt
+Iridoids from Hymenodictyon floribundum
+Cristina M. P. Borges,a Carlos Diakanawmab and Dina I. M. D. de Mendonça*,c
+aDepartamento de Química  and bDepartamento de Biologia, Universidade Agostinho Neto, 
+Av. 4 de Fevereiro, 71, 2º andar, CP 3244, Luanda, Angola
+cDepartamento de Química, Universidade da Beira Interior, Rua Marquês d’Ávila e Bolama, 
+6200-001 Covilhã, Portugal
+Figure S1. 1H NMR spectrum (600MHz, CDCl3) of compound (1). 
+Iridoids from Hymenodictyon floribundum J. Braz. Chem. Soc.S2
+Figure S2. 13C NMR spectrum (150.9 MHz, CDCl3) of compound (1). 
+Figure S3. 1H – 1H COSY spectrum (600 MHz, CDCl3) of compound (1). 
+Borges et al. S3Vol. 21, No. 6, 2009
+Figure S4. HSQC spectrum (150.9 MHz, CDCl3) of compound (1). 
+Figure S5. HMBC spectrum (150.9 MHz, CDCl3) of compound (1). 
+Iridoids from Hymenodictyon floribundum J. Braz. Chem. Soc.S4
+Figure S6. NOESY spectrum (600 MHz, CDCl3) of compound (1). 
+Figure S7. 1H NMR spectrum (600 MHz, CDCl3) of compound (2). 
+Borges et al. S5Vol. 21, No. 6, 2009
+Figure S8. 13C NMR spectrum (150.9 MHz, CDCl3) of compound (2). 
+Figure S9. 1H – 1H COSY spectrum (600 MHz, CDCl3) of compound (2). 
+Iridoids from Hymenodictyon floribundum J. Braz. Chem. Soc.S6
+Figure S10.  HSQC spectrum (150.9 MHz, CDCl3) of compound (2). 
+Figure S11.  HMBC spectrum (150.9 MHz, CDCl3)  of compound (2). 
+Borges et al. S7Vol. 21, No. 6, 2009
+Figure S12. NOESY spectrum (600 MHz, CDCl3) of compound (2). 

@@ -1,0 +1,514 @@
+Further Triterpenes, Steroids and Furocoumarins from Brazilian
+Medicinal Plants of Dorstenia genus (Moraceae)
+Janete H. Y. Vilegasa, Fernando M. Lançasa*, Wagner Vilegasb,
+and Gilberto L. Pozettib
+aUniversidade de São Paulo, Instituto de Química de São Carlos, C.P. 780,
+13560-970 São Carlos - SP, Brazil
+bInstituto de Química, Universidade Estadual Paulista, C.P. 355,
+14800-900 Araraquara - SP, Brazil
+Received: November 19, 1996
+As frações solúveis em hexano dos rizomas ou das folhas de cinco espécies do gênero Dorstenia
+(Moraceae) (D. bahiensis Kl., D. bryoniifolia Mart ex. Miq., D. carautae C.C.Berg., D. cayapiaa
+Vell. e D. heringerii Car. & Val.) foram analisadas por HRGC-MS (cromatografia gasosa de alta
+resolução acoplada a espectrometria de massas). Foram identificados triterpenos pentacíclicos,
+esteróides e furocumarinas. HRGC-MS mostrou ser uma ferramenta valiosa para a análise dos
+terpenóides de Dorstenia spp. Estas substâncias podem estar ligadas à utilização tradicional de
+Dorstenia spp. como plantas anti-ofídicas.
+The hexane-soluble fractions from the rhizomes or from the leaves from five Dorstenia
+(Moraceae) species (D. bahiensis Kl., D. bryoniifolia Mart ex. Miq., D. carautae C.C.Berg, D.
+cayapiaa Vell. and D. heringerii Car. & Val) were analysed by HRGC-MS (high-resolution gas
+chromatography - mass spectrometry). Pentacyclic triterpenes, steroids and furocoumarins were
+identified. HRGC-MS is shown to be a valuable tool for the analysis of terpenoidal compounds from
+Dostenia species. These compounds may be related to the folk utilization of Dorstenia species as
+antiophidicals.
+Keywords: Dorstenia spp.(Moraceae), high resolution gas chromatography - mass spec-
+trometry, pentacyclic triterpenoids, furocoumarins
+Introduction
+The genus Dorstenia L. (Moraceae) includes several
+Brazilian species which are utilized in folk medicine due
+to their alleged medicinal properties, mainly in skin dis-
+eases and as antiophidics1. In these plants, furocoumarins
+are the most abundant compounds2 and these compounds
+support topical utilization of Dorstenia rhizome prepara-
+tions in the treatment of skin diseases such as psoriasis and
+vitiligo3.
+Despite the strong ethnobothanical indication concern-
+ing the antiophidical properties of some Dorstenia species,
+their pharmacological evaluation is still inconclusive.
+However, it should be pointed out that the antiophidical
+utilization of some other Brazilian medicinal plants may be
+associated to the presence of widespread terpenoids (triter-
+penoids and phytosterols) with venom-inactivating ac-
+tion4,5. The folk indication of triterpenoid-containing plants
+as “antiophidics” may also be explained by pharmacologi-
+cal action related to the relief of snake bite symptoms, such
+as analgesic and antiinflamatory effects. These effects may
+be related to the presence of triterpenoids, as these effects
+were found even in some triterpene-containing plants with
+no folk indication as antiophidics6.
+ln face of the above mentioned data, we have focused
+the present work on the analysis of further terpenoidal
+compounds from five Dorstenia species, using HRGC-MS.
+This technique may be an excellent alternative to the clas-
+Article
+J. Braz. Chem. Soc., Vol. 8, No. 5, 529-535, 1997. © 1997 Soc. Bras. Química
+Printed in Brazil. 0103 – 5053 $6.00 + 0.00
+sical phytochemical analysis procedures based on prepara-
+tive-scale chromatographic isolation combined with spec-
+troscopic identification, for the analysis of low-polarity
+plant extracts. HRGC-MS both avoids time-consuming and
+relatively expensive purification steps and gives relevant
+structural information about compounds not easily identi-
+fied by NMR, IR or UV7. However, in the study of medici-
+nal plants, HRGC-MS is still usually restricted to the
+analysis of low-polarity compounds of low molecular
+weight (MW 150-250 a.m.u.) such as monoterpenes from
+essential oils.
+Experimental
+Plant Material
+Dorstenia bahiensis KL. (Moraceae) was collected and
+classified by Dr. T.S. Santos, of Bahia state, Brazil. D.
+bryoniifolia Mart ex. Miq. was collected at Araraquara, SP,
+Brazil and classified by Dr. Jose P. Carauta, Jardim
+Botânico do Rio de Janeiro. D. carautae C.C.Berg was
+collected and classified by Dr. Gert Hatschbach, at Bocai-
+uva do Sul, PR, Brazil. D. cayapiaa Vell. was collected and
+classified by Dr. J.P.Carauta. D. heringerii Car. & Val was
+collected by J. Elias de Paula (University Federal of
+Brasilia, DF, Brazil) at the Reserva Ecológica- IBGE,
+Brazil.
+Extraction of plant material and fractionation of extracts
+General
+Plant material was dried at 40 °C, with forced ventila-
+tion, during 3 days, before being powdered and sieved.
+Only material between 0.210-0.350 mm size was utilized.
+Plant material (5 g) was macerated with the solvent indi-
+cated for each species, at the ratio of 1:10 (w/v), room
+temperature, during 7 days. When necessary, the extracts
+obtained were fractionated, as described as follows.
+The hexane (Hex) fraction was obtained from the crude
+extracts: the extract was filtered over active charcoal
+(Reagen, Rio de Janeiro, Brazil); the solvent was removed
+under vacuum; the residue was shaken with hexane
+(Merck), and the hexane-soluble fraction was filtrated,
+dried over anhydrous Na2SO4 (Merck) and analyzed by
+HRGC.
+The terpenoidal (Terp) fractions which contained
+mainly triterpenes and/or steroids were obtained by silica
+gel open-column preparative liquid chromatography (PLC)
+of the crude plant extracts and selected by NMR (1H- or
+13C-) analysis of the mixture. Since that the avaiable
+amount of each hexanic extract obtained as above was very
+reduced (between 10-100 mg), all the PLC procedure was
+performed in reduced scale, utilizing glass Pasteur pipettes
+containing around 500 mg silicagel, and around 5 mL of
+each solvent for elution.
+Experimental procedure for each species
+D. bahiensis - the leaves were macerated with EtOAc
+(Merck). The crude extract was cromatographed (PLC,
+charcoal, eluted with CH2Cl2 and EtOH, sucessively). The
+ethanolic fraction was further submitted to PLC (silica gel,
+0.063-0.200 mm, Merck, elution with toluene, toluene-
+EtOAc 1: 1 and EtOAc, sucessively).
+D. bryoniifolia - the rhizomes were macerated with
+hexane. The crude extract was directly analyzed by HRGC.
+D. carautae - the whole plant was macerated with
+EtOAc. The Hex fraction was obtained as described above
+(General)
+D. cayapiaa - the leaves were macerated with CHCl3-
+EtOH 1:1 (v/v). The Hex fraction was obtained as de-
+scribed above.
+D. heringerii - the leaves were macerated with hexane.
+The crude extract was chromatographed (PLC, silicagel,
+elution with hexane, hexane-EtOAc 1:1 and EtOAc, suces-
+sively).
+Chromatographic analysis
+HRGC-MS analysis were performed by using a HP
+5970 MSD, with electron impact ionization (70 eV) cou-
+pled to a HP 5890 GC. The column used was a cross-linked
+5% phenyl, 95% methylsilicone HP-5 (25 m x 0.2 mm x
+0.33 µm), furnished by Hewlett-Packard, U.S.A.. Samples
+were injected using the split mode (split ratio 1:30), with
+injector temperature and GC-MS interface temperature
+both at 280 °C. Column temperature was programmed from
+150 °C (2 min), at 8 °C/min to 290 °C (held during 20 min).
+Hydrogen was used as carrier gas. MS scan range was 50
+to 500 a.m.u.. Data were processed on a HP 7946/HP
+9000-300 CPU.
+HRGC-FID analysis were performed on a HP 5890 GC,
+using the same column with the same temperature pro-
+gramming utilized for HRGC-MS analysis. Detector tem-
+perature was 290 °C, and data were obtained on a HP
+3396A integrator. Hydrogen was utilized as carrier gas, at
+the average linear velocity of 40 cm/s.
+Analysis of fatty acids
+Fatty acids were identified by HRGC-MS as their
+methyl esters, after esterification with diazomethane of the
+fractions containing these compounds.
+ldentification of the chemical constituents
+Identifications were made by comparison of retention
+times, obtained at identical chromatographic conditions of
+the analyzed samples and authentic standards or by co-in-
+jection. In both cases, chromatographic data were consid-
+ered together with the comparison of MS data with those
+from authentic standards, obtained at similar ionization
+conditions (EI, 70 eV) in our laboratory. Tentative identi-
+530 Vilegas et al. J. Braz. Chem. Soc.
+fications were made by analysis of the fragmentation data,
+comparison with literature MS data8,9,10 and computer
+search in the NBS library.
+Results and Discussion
+HRGC-MS was applied both to the analysis of crude
+extracts and of fractions obtained from PLC. For the analy-
+sis of crude extracts, due to the presence of more polar
+compounds, only the hexane-soluble compounds were ana-
+lyzed, since this solvent can selectively extract compounds
+appropriate to GC analysis, including low-functionalized
+steroids and triterpenoids. Despite a relatively longer
+analysis time, preliminary work with standards showed that
+derivatization of the triterpene and steroid alcohols is not
+essential, with the advantage of allowing direct comparison
+with literature data of underivatized compounds9.
+Vol. 8, No. 5, 1997 Triterpenes, Steroids and Furocoumarins from Brazilian Medicinal Plants 531
+O O O
+R2
+R1
+1a
+1b
+1c
+1d
+R1
+H
+OMe
+OMe
+OC10H15O2
+R2
+H
+OMe
+OMe
+OMe
+psoralen
+bergapten
+isopimpinelin
+O O O
+OMe
+R
+2a
+2b
+R
+H
+OMe
+isobergapten
+pimpinelin
+R1
+R2
+R3
+3a
+3b
+3c
+3d
+3e
+3f
+R1
+H
+Me
+H
+Me
+H
+Me
+R2
+Me
+H
+Me
+H
+Me
+H
+R3
+H, OH
+H, OH
+H, OAc
+H, OAc
+O=
+O=
+α-amyrin
+β-amyrin
+α-amyrin acetate
+β amyrin acetate
+α-amyrone
+β-amirone
+AcO
+4    glutinol acetate
+AcO
+5     taraxerol acetate
+AcO
+6     lupeol acetate
+R
+7a
+7b
+R
+H, OH
+O=
+sitosterol
+sitosterone
+Figure 1. Chemical structure of the compounds detected by HRGC-MS in Dorstenia samples.
+The HRGC-MS -TIC profile of the Dorstenia crude
+extracts showed some similarity between the chemical
+pattern of leaves and rhizomes, even from different species:
+the furocoumarins are eluted first, followed by the steroids,
+while the triterpenes are eluted later. FID integration of the
+peaks indicated a predominance of the furocoumarins over
+the aliphatic compounds.
+HRGC-MS-TIC allowed identifying several com-
+pounds from Dorstenia samples (Table 1 and Fig. 1). The
+chemical composition of all Dorstenia samples herein ex-
+amined showed to be very similar (Table 1), and some of
+the identified compounds have already been reported from
+other Dorstenia species2. All the triterpenes were found in
+small amounts (yield from vegetal material: 0,1% or less).
+The procedure herein adopted limited the scope of the
+compounds analyzed to the less polar constituents. More
+highly funtionalized or polar molecules such as syriogenin,
+which was previously found in D. contrajerva11 might not
+be detected, due to the selective extraction of low-polarity
+compounds and also due to the lower volatility of the polar
+compounds; the knowledge of this limitation is important
+for the final option for HRGC-MS analysis. Therefore, we
+are studying the more polar compounds from Dorstenia
+hydroalcoholic extracts by using conventional procedures.
+Identification of the compounds
+The prenylated derivative of bergapten, 1d, was found
+only in D. bahiensis. Its identity was confirmed by com-
+parison of retention time and MS data with those of an
+authentic sample isolated from D. cayapiaa12.
+Using only MS data, it was not possible to identify the
+furocoumarins 1a-c and 2a-b, due to the similarity of the
+fragmentation patterns of the linear and angular isomers.
+Their identification also required comparison with tR data
+of authentic samples of some furocoumarins using the same
+chromatographic conditions as in this work.
+Most of the triterpenes found belong to the oleanane/ur-
+sane series, characterized by a base peak at m/z = 2189.
+Unequivocal differentiation between α and β-amyrin re-
+quired co-injection with authentic samples, since these
+triterpenes have very similar MS spectra (in the chroma-
+tographic conditions utilized, β-amyrin elutes first). In the
+operational conditions of the MSD system utilized in this
+work, α- and β-amyrin could be differentiated by exami-
+nation of the relative intensities of the peaks at m/z 189 and
+203: β-amyrin has a m/z 203 peak around twice the inten-
+sity of the m/z 189 peak, while α-amyrin spectra shows
+both peaks with similar intensity.
+ln the hexane extract of D. bryoniifolia, two triterpenes
+were found with base peaks at m/z 218, but both with a peak
+at m/z 424, supposed to be the molecular peak, instead of
+m/z = 426 as in the case of α- and β-amyrin. Exchange of
+an hydroxy group for a keto group leads to a decrease of
+molecular weight and polarity, which leads to a lower tR in
+the column utilized for the HRGC analysis of these com-
+pounds. Besides, MS spectra of these compounds shows a
+peak at m/z 205, due to the fragmentation of a 3-keto-sys-
+tem involving rings A to C, and at m/z= 203, corresponding
+to the fragment originating from methyl loss of the diene
+portion originated from retro Diels-Alder fragmentation of
+a ∆12-unsaturated oleanane or ursane9. With these data, they
+were tentatively identified as being α- or β-amyrone (3e-f).
+Final identification was made by using α- and β-amyrin
+fragmentation as models: in the keto compounds, a differ-
+ence was also observed in the relative intensity of the peaks
+at m/z = 189 and 203, which originate from further frag-
+mentation of the m/z = 218 ion, the latter indicating the
+C-ring opening of a D,C-unsubstituted ∆12-oleanene or
+ursene9. ln an analogous way to α- and β-amyrin, we have
+assigned the compound with the more intense m/z = 203
+peak as being β-amyrone (3f) and the α-amyrone structure
+(3e) was assigned to the compound with m/z = 189 and 203
+peaks with similar intensity. Chromatographic data also
+supports these assignments, since the peak corresponding
+to 3e in the TIC has a lower tR than 3f in the same elution
+sequence as for the 3-OH terpenes.
+532 Vilegas et al. J. Braz. Chem. Soc.
+Table 1. Compounds identified by HRGC-MS in Dorstenia samples (crude extracts or terpenoidal fractions).
+Species Compounds
+furocoumarins triterpenes steroids others
+D. bahiensis tBg α-Am, β-Am, α-Ac, β-Ac, GlAc Stn
+D. bryoniifolia Bg, iBg, Pi, iPi α-Am, β-Am
+D. carautae α-Am, β-Am
+D. cayapiaa α-Am, β-Am, α-Ac, β-Ac, TxAc, β-Ar Sit FA (C16 and C18)
+D. heringerii α-Ac, β-Ac, LpAc, GlAc a α-tocopherol
+a tentative identification
+Bg: bergapten; iBg: isobergapten; Pi: pimpinelin; iPi: isopimpinelin; α-Am: α-amyrin; β-Am: β-amyrin; α-Ac: α-amyrin acetate; β-Ac: β-amyrin
+acetate; β-Ar:, β-amyrone; GlAc: glutinol acetate; TxAc: taraxerol acetate; LpAc: lupeol acetate; Stn: sitosterone; Sit: sitosterol; FA: fatty acids.
+Glutinol acetate was identified by analysis of its frag-
+mentation data and comparison with an authentic sample
+of simiarenol, isolated from Dorstenia asaroides13. Despite
+the lupane-type ring E of the latter, which leads to some
+characteristic peaks related to the isopropyl group, both
+glutinol and simiarenol have great similarities in their MS
+spectra due to the similar structure of rings A to D14, the
+most important feature being the base peak at m/z 274,
+followed by a (274-Me) peak at m/z 259, which charac-
+terizes ∆5-unsaturated skeleta10.
+Taraxerol acetate was identified only by MS, mainly
+due to the base peak at m/z 204, which  originates from
+rings D and E of an ∆14-taraxerene. Another important peak
+is m/z 344, which originates from a retro Diels-Alder
+decomposition with ring-D opening and confirms both the
+unsaturation and the presence of an acetoxy group at C-39.
+The other triterpenes which are not discussed herein
+were identified by co-injection with authentic samples;
+other compounds were identified by direct comparison of
+MS and tR data with authentic standards (sitosterol, si-
+tosterone, α-tocopherol) or by chromatographic data, con-
+firmed by interpretation of MS fragmentation (fatty acids,
+analyzed as their methyl esters). Some significant MS data
+of the identified compounds from Dorstenia are listed in
+Table 2.
+A compound detected in D. heringerii, that was identi-
+fied tentatively as a steroid, requires further MS studies,
+possibly by using soft ionization techniques (not available
+Vol. 8, No. 5, 1997 Triterpenes, Steroids and Furocoumarins from Brazilian Medicinal Plants 533
+Table 2. Relevant MS data of the compounds identified from Dorstenia samples (EI, 70 eV).
+Furocoumarins
+Compound Fragments , m/z (relative abundance)
+psoralen, 1a 186 (M+,100), 158 ([M-CO]+,78),130 ([158-CO]+, 19), 102 ([130-CO]+, 30)
+bergapten, 1b 216 (M+, 100), 201 ([M-CH3]+, 38), 188([M-CO]+, 15), 173 ([188-CH3]+, 53), 145 ([173-CO]+, 18)
+isopimpinelin, 1c 246 (M+, 100), 231 ([M-CH3]+, 98), 203 ([231-CO]+, 13), 188 ([203-CH3]+, 18), 175 ([203-CO]+, 16),
+147 ([175-CO]+, 10)
+1d 368 (M+, 76), 201 ([M-C10H15O2]+, 23), 167 ([M-C11H504]+, 32), 139 ([167- C2H4]+, 100), 111 ([139-2
+CH2]+, 7)
+isobergapten, 2a 216 (M+, 100), 201 ([M-CH3]+, 24), 188 ([M-CO]+, 37), 173 ([188-CH3]+, 59), 145 ([173-CO]+, 17)
+pimpinelin, 2b 246 (M+,100), 231 ([M-CH3]+, 69), 203 ([231-CO)]+, 8), 175 ([203-CO]+, 21), 147 ([175-CO]+, 25)
+Terpenoids
+Compound Fragments , m/z (relative abundance)
+α-amyrin, 3a 426 (M+, 9), 218 (RDA, 100), 207 ([C14H23O]+, 28), 203 ([218-CH3]+, 29), 189 ([207-H2O]+, 31)
+β-amyrin, 3b 426 (M+, 6), 218 (RDA, 100), 207 ([C14H28O]+, 29), 203 ([218-CH3]+, 47), 189 ([207-H2O]+, 25)
+α-amyrin acetate, 3c 468 (M+, 11), 408 ([M-HOAc]+, 41), 365 (36), 249 ([C16H2502]+, 4), 218  (RDA,100), 203 ([218-CH3]+
+38), 189 ([249-HOAc]+, 54)
+β-amyrin acetate, 3d 468 (M+, 10), 408 ([M-HOAc]+, 19), 249 ([C16H25O2]+,10), 218 (RDA, 100), 203 ([218-CH3]+, 48),
+189 ([249-HOAc]+, 20).
+α-amyrone, 3e 424 (M+, 24), 409 ([M-CH3]+, 11), 218 (RDA, 100), 205 ([C14H21O]+, 24), 203 ([218-CH3]+, 29), 189
+([218-CH2CH3]+, 22)
+β-amyrone, 3f 424 (M+, 13), 409 ([M-CH3]+, 8), 218 (RDA, 100), 203 ([218-CH3]+, 53), 205([C14H210]+, 17), 189
+([218-CH2CH3]+, 18)
+glutinol acetate, 4 468 (M+, 5), 408 ([M-HOAc]+, 27), 393 ([408-CH3]+, 10), 274 (RDA, 100), 259 ([274-CH3]+, 81)
+taraxerol acetate, 5 468 (M+,16), 408 ([M-HOAc]+, 35), 393 ([408-CH3]+, 43), 344 (RDA, 53), 329 ([344-CH3]+, 30), 269
+([329-HOAc]+, 43), 204 ([C15H24]+, 100)
+lupeol acetate, 6 468 (M+,26), 408 ([M-H0Ac]+, 45), 365 ([M-HOAc-iPr]+, 67), 218 ([C16H16]+, 49), 189
+([C14H23O-H2O]+, 100)
+sitosterol, 7a 414 (M+, 100), 399 ([M-CH3]+, 39), 396 ([M-H2O)]+, 68), 329 (40), 303 (47), 255 (39), 145 (52), 81
+(53)
+sitostenone, 7b 412 (M+, 49), 313 (44), 285 (57), 229 (60), 124 (100), 55 (82)
+α-tocopherol, 8 430 (M+, 100), 205 (17), 165 (93), 164 (41)
+RDA: retro Diels-Alder.
+in our laboratory during the present work), since this com-
+pound is present at a very low level, which prevents its
+isolation through usual phytochemical procedures.
+Figure 2 shows a typical chromatographic profile from
+dechlorophyllated crude Dorstenia extracts. The extracts
+obtained from the leaves require a clean-up procedure for
+removal of the chlorophylls (filtration over active charcoal,
+described in Experimental), while the crude extracts ob-
+tained from the rhizomes could be directly analyzed by
+HRGC-MS. ln a previous work we have shown that SFE-
+CO2 (supercritical fluid extraction using CO2) also fur-
+nishes rhizome extracts suitable  for direct analysis15.
+The TIC-MS data obtained from the Hex-fraction and
+from the Terp-fractions were almost the same for the
+terpenoidal compounds (Fig. 3), and the identification of
+most of the triterpenes and steroids was possible even in
+Hex-fraction. As the Terp-fractions required more isola-
+tion steps (with greater consumption of solvents and silica
+gel adsorvent) than the Hex-fractions, the HRGC-MS
+analysis of a crude dechlorophyllated hexane extract from
+Dorstenia samples is sufficient to obtain  relevant informa-
+tion concerning their chemical composition. The utilization
+of small amounts of plant material is very important in the
+case of Dorstenia genus, since the analysis of the rhizomes
+(the most valuable part of these plants, according to folk
+medicine indications) leads to the destruction of the plant,
+and the native Dorstenia population is diminishing in Bra-
+zil.
+Conclusions
+Bergapten, as well as the triterpenes β-amyrin and
+sitosterol, have already been associated with the snake-
+venom inactivating action of some Brazilian medicinal
+plants5. Thus, the utilization of Dorstenia plants as anti-
+ophidicals may be inferred to be both due to a venom-inac-
+tivating action and to analgesic and antiinflamatory
+properties of the several triterpenes. These results also pose
+the question if biologically-guided fractionation is an ap-
+propriate procedure in the search for the active compounds
+of medicinal plants such as those of Dorstenia genus, since
+these active molecules may be minor compounds, with
+small and/or non-specific pharmacological actions when
+studied as isolated compounds.
+HRGC-MS has proved to be a very powerful tool
+affording both the separation and the individual charac-
+terization of isomers which could not to be separated by
+conventional PLC procedures. Further to the preliminar
+report of some of the data herein presented16, a paper
+concerning the analysis of triterpenes from Brazilian Poly-
+podiaceae was published, but with the aid of preparative
+purification steps and chemical transformations, for obten-
+tion of reference samples of some triterpenes not found
+commercially17.
+In the screening of medicinal plants from the same
+genus, which often requires the analysis of many species
+with similar chemical composition (as in the case of Dor-
+stenia genus), and specially in the particular case of the
+pentacyclic triterpenes, MS data furnish a fast differentia-
+tion among important skeleta, some of them with potential
+biological interest.
+Acknowledgments
+To CNPq, FAPESP and FUNDUNESP, for fellowships
+and research grants, and to the Centro de Pesquisas de
+Paulinia (Rhodia S.A.) for furnishing some standards used
+in this work.
+References
+1. Corrêa, M. Pio In Dicionário das plantas úteis do
+Brasil e das exóticas cultivadas; Ministério da
+Agricultura, Rio de Janeiro, 1926, vol. 2., p. 161.
+2. Vilegas, W.; Vilegas, J.H.Y.; Pozetti, G.L. Rev. Cienc.
+Farm. 1992, 14, 133.
+3. Martins, J.E.C.; Pozetti, G.L.; Sodré, M. Int. J. Der-
+matol. 1974, 13, 124.
+4. Mors, W.B.; Nascimento, M.C. do; Parente, J.P.;
+Silva, M.H. da; Melo, P.A.; Suarez-Kurtz, G. Toxicon
+1989, 27, 1003.
+534 Vilegas et al. J. Braz. Chem. Soc.
+Figure 2. HRGC-MS-TIC chromatogram of a typical crude Hex-fraction
+from Dorstenia cayapiaa rhizomes (#: ftalate; for identification of the
+other peaks see symbols in Table 1).
+Figure 3. HRGC-MS-TIC chromatogram of a typical Terp-fraction from
+Dorstenia heringerii leaves.
+5. Pereira, N.A.; Pereira, B.M.R.; Nascimento, M.C. do;
+Parente, J.P.; Mors, W. Planta Med. 1994, 60, 99.
+6. Freire, S.M.de; Ada, J.; Emin, S.; Lapa, A.J.; Souccar,
+C.; Torres, L.M.B. Phytother. Res. 1993, 7, 408.
+7. Vilegas, J.H.Y.; Lanças, F.M. J. High Resol. Chroma-
+togr. 1995, 18, 129.
+8. Budzikiewicz, H.; Djerassi, C.; Williams, D.H. In
+Structure elucidation of natural produtcs by mass
+spectrometry; Holden-Day, San Francisco, 1964
+vol. 2.
+9. Budzikiewicz, H.; Wilson, J.M.; Djerassi, C. J. Am.
+Chem. Soc. 1963, 85, 3688.
+10. Ogunkoya, L. Phytochemistry 1981, 20, 121.
+11. Casagrande, C.; Ronchetti, F.; Russo, G. Tetrahedron
+1974, 30, 3587.
+12. Llabrès, G.; Baiwir, M.; Vilegas, W.; Pozetti, G.L.;
+Vilegas, J.H.Y. Spectrochim. Acta 1992, 48A, 1347.
+13. Vilegas, W.; Vasoncelos, E. de C.; Pozetti, G.L.;
+Vilegas, J.H.Y. Rev. Ciênc. Farm. 1997, 18, 000.
+14. Aplin, R.T.; Arthur, H.R.; Hui, W.H. J. Chem. Soc.,
+Series C 1966, 1251.
+15. Vilegas, J.H.Y.; Lanças, F.M.; Vilegas, W.; Pozetti,
+G.L. Phytochem. Anal. 1993, 4, 230.
+16. Vilegas, J.H.Y.; Lanças, F.M.; Vilegas, W.; Pozetti,
+G.L. In Proceedings of the 16th International Sympo-
+sium on Capillary Chromatography; Sandra, P.; De-
+vos, G. Eds., Hüthig, Heidelberg, 1994, vol. 1., p. 935.
+17. Patitucci, M.L.; Pinto, A.C.; Cardoso, J.N. Phyto-
+chem. Anal. 1995, 6, 38.
+FAPESP helped in meeting the publication costs of this article
+Vol. 8, No. 5, 1997 Triterpenes, Steroids and Furocoumarins from Brazilian Medicinal Plants 535

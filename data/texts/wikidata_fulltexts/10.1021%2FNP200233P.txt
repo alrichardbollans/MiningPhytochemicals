@@ -1,0 +1,766 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+General rights 
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners 
+and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights. 
+ 
+• Users may download and print one copy of any publication from the public portal for the purpose of private study or research. 
+• You may not further distribute the material or use it for any profit-making activity or commercial gain 
+• You may freely distribute the URL identifying the publication in the public portal  
+ 
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately 
+and investigate your claim. 
+   
+ 
+Downloaded from orbit.dtu.dk on: Dec 18, 2017
+Iridoid and Phenylethanoid Glucosides from Veronica (sect. Hebe) lavaudiana
+Taskova, Rilka Mladenova; Kokubun, Tetsuo; Ryan, Ken G.; Garnock-Jones, Phil J.; Jensen, Søren
+Rosendal
+Published in:
+Journal of Natural Products
+Link to article, DOI:
+10.1021/np200233p
+Publication date:
+2011
+Document Version
+Early version, also known as pre-print
+Link back to DTU Orbit
+Citation (APA):
+Taskova, R. M., Kokubun, T., Ryan, K. G., Garnock-Jones, P. J., & Jensen, S. R. (2011). Iridoid and
+Phenylethanoid Glucosides from Veronica (sect. Hebe) lavaudiana. Journal of Natural Products, 74(6), 1477-
+1483. DOI: 10.1021/np200233p
+ 1 
+Iridoid and Phenylethanoid Glucosides from Veronica 
+lavaudiana 
+Rilka M. Taskova,† Tetsuo Kokubun,‡ Ken G. Ryan,† Phil J. Garnock-Jones,† and Søren R. Jensen*
+                                                 
+* To whom correspondence should be addressed. Tel.: +45 45252103. Fax: +45 45933968. E-mail: 
+, § 
+School of Biological Sciences, Victoria University of Wellington, PO Box 600, Wellington 6140, New 
+Zealand; Jodrell Laboratory, Royal Botanic Gardens, Kew, Richmond, Surrey TW9 3DS, UK; and 
+Department of Chemistry, Technical University of Denmark, DK-2800, Lyngby, Denmark. 
+srj@kemi.dtu.dk. 
+† Victoria University of Wellington 
+‡ Royal Botanic Gardens, Kew 
+§ Technical University of Denmark 
+ 2 
+From an extract of Veronica (sect. Hebe) lavaudiana we have identified mannitol and isolated 11 iridoid 
+glucosides, the carbohydrate ester hebitol II, and four phenylethanoid glycoside esters. Five of the 
+iridoid glycosides are new; of these, lavaudioside A, B, and C (2a, 3a, and 4) are 1-mannityl esters of 8-
+epiloganic acid while 7e and 7f are 6'-O-caffeoyl derivatives of catalpol. The new phenylethanoid 
+glycoside esters, helioside A, B, and C (8b-8d), are 6'-xylosyl derivatives of aragoside. The structures of 
+the new compounds were elucidated mainly by spectroscopic analysis, but also by chemical degradation. 
+We also demonstrated that the structures of the known glycosides globularitol as well as hebitols I and II 
+should be revised. These compounds are derivatives of mannitol and not glucitol as previously believed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3 
+ 
+Veronica (sect. Hebe) lavaudiana Raoul is an endemic subshrub that grows on basalt outcrops and 
+cliffs above 150 m altitude on Banks Peninsula on the east coast of the South Island of New Zealand.1 
+The peninsula, reaching an altitude of about 900 m, is formed from two extinct volcanoes and has at 
+times in the past been separated as an island. V. lavaudiana and its nearest relatives in the sect. Hebe 
+belong in the sun hebe clade.2 It has been formerly treated as the genus Heliohebe1 or as part of Hebe3 or 
+Parahebe,4 all of which are now included in a broad and monophyletic concept of Veronica.5  Little 
+chemical work has been undertaken on V. lavaudiana. Thus, this species was included in an early 
+chemotaxonomic survey of iridoids and flavonoids in Veronica and related genera,6 and in a recent 
+LC/MS investigation on the flavonoid chemistry of the five species of Heliohebe.7 
+ 
+Fresh plant material was blended with cold MeOH and the water-soluble part of the extract was 
+subjected to a series of chromatographic procedures. Seventeen compounds were isolated and identified 
+including the hexitol, mannitol (1), the carbohydrate ester hebitol II (5), 11 iridoid glucosides (2a, 3a, 4, 
+6, 7-7f), and four phenylethanoid glycoside esters (8, 8b-8d). Of these, the five iridoids 2a, 3a, 4, 7e, 7f 
+and the three phenylethanoids 8b-8d are new.  
+ 
+The composition of the sugar fraction was deduced by interpretation of the 13C NMR data only. 
+Structural elucidations of the new compounds were carried out by spectroscopic methods (1D and 2D 
+NMR, MS) and chemical degradation. Despite intensive purification, most of the compounds contained 
+minor concentrations of cis-caffeoyl or -feruloyl isomers. Compound 8d, contained 8% of the cis-form, 
+in accord with our previous experience that feruloyl esters readily isomerize. 
+ 
+Lavaudioside A (2a) was obtained as an amorphous solid [α]20D -30. The molecular formula was 
+C31H42O18, as deduced from the 13C NMR data and the quasimolecular ion obtained by LC-HRESIMS 
+(observed m/z 720.2713 [M + NH4]+). The 1H NMR spectrum (Table 1) in methanol-d4 showed five 
+ 4 
+resonances corresponding to the presence of a caffeoyl group (δH 7.51 to 6.24). An additional resonance 
+at δH 7.53 (s, H-3), as well as two more at δH 5.55 (d, H-1) and δH 4.68 (d, H-1') suggested that 2a was a 
+carboxylated iridoid glucoside. Furthermore, the three-proton doublet at δH 1.10 showed the presence of 
+a C-10 methyl group. In the 13C NMR spectrum, 30 resonances were observed of which one (δC 169.0) 
+was of double intensity. Nine of the resonances were consistent with the presence of a caffeoyl group. 
+Of the remaining resonances in the spectrum, 16 were similar to those reported for a 7-O-acyl derivative 
+of the iridoid glucoside epiloganic acid (2),8 including those from the 1-O-β-glucopyranosyl group. The 
+remaining six resonances were all in the δC 65-73 region, which suggested the presence of a hexityl 
+moiety. This was consistent with the 1H NMR spectrum, where the signals not accounted for were 
+observed in the shift interval δH 3.65-4.44. The HMBC spectrum allowed the carbons of attachment 
+between the iridoid moiety and the peripheral parts to be discerned. Thus, the position of the ester group 
+was confirmed by an HMBC correlation between H-7 (δH 4.9) and the carbonyl carbon of the caffeoyl 
+group (δC 169.0). The 1'''-CH2-resonances of the hexityl moiety at δH 4.44 and 4.21 showed correlations 
+with the carbonyl carbon (δC 169.0) of the iridoid core and to a carbinol signal (δC 70.5), which could 
+therefore be assigned as C-2'''. The HSQC spectrum designated the remaining resonances at δC 65.1, 
+72.8, 70.9 and 70.8, as one CH2OH and three CHOH groups, respectively, thereby fulfilling the 
+molecular formula determined by the MS. The first three shift values closely matched those of mannitol 
+(1). Confirmation that the hexitol was indeed mannitol was achieved by an in-NMR tube hydrolysis of 
+2a with ammonia in D2O. After 48 h at room temperature, 13C NMR resonances corresponding to 
+mannitol were observed at δC 64.5 (C-1 and 6), 72.1 (C-2 and 5), and 70.5 (C-3 and 4).9 These increased 
+in intensity following the addition of authentic mannitol (see Supporting Information).  
+ 
+Lavaudioside B (3a) was obtained as an amorphous solid [α]22D -24. The molecular formula was 
+C31H40O18, as deduced by the 13C NMR data and LC-HRESIMS (observed m/z 718.2558 [M + NH4]
++). 
+The NMR data (Table 1) in methanol-d4 was assigned as above. The 1H NMR spectrum was similar to 
+ 5 
+that of 2a, including a caffeoyl and a mannityl group, as well as the resonance at δH 7.62 (1H, s, H-3) 
+and others at δH 5.41 and 4.70, assigned to H-1 and H-1', respectively. The major differences were in the 
+iridoid moiety. Thus, additional resonances (δH 5.48 and 5.45) were present while those from a methyl 
+group were missing. In the 13C NMR spectrum of 3a, the expected 31 resonances were observed. When 
+compared with the spectrum of 2a, only the resonances for the iridoid aglucone differed. The two 
+resonances at δC 148.9 and 116.5 suggested an iridoid with an 8,10-double bond, in accordance with the 
+1H NMR data. A comparison with the data reported8 for a 7-O-acyl derivative of gardoside (3) showed a 
+satisfactory coincidence for the chemical shift values. 
+ 
+Lavaudioside C (4) was isolated as an amorphous solid [α]22D -48, and the molecular formula was 
+C46H58O26, deduced by the 13C NMR data and LC-HRESIMS (observed m/z 1027.3269 [M + H]+). The 
+1H NMR spectrum (Table 1) was similar to that of 2a, but resonances from two caffeoyl groups were 
+present. Also, two β-hexopyranosyl groups were considered present due to the two doublets at δH 4.69 
+and 4.36. In the 13C NMR spectrum (Table 1) of 4, 39 resonances were observed, of which five were of 
+double and one (δC 71.6) was of triple intensity, as also confirmed by the HSQC data. Eighteen of the 
+resonances could be assigned to the two caffeoyl groups and comparing with the data for 2a, a further 16 
+could be assigned to an epiloganyl moiety including its 1-O-glucosyl group. This left 12 13C NMR 
+resonances to be accounted for. That at δC 105.0 was assigned to an anomeric carbon atom and the 
+remaining 11, resonating at δC 64-78, suggested the presence of a hexopyranosyl and a hexityl moiety. 
+2D NMR data suggested that the hexopyranosyl moiety was an additional β-glucopyranosyl group but 
+the full structure of 4 could only be resolved in relation to that of hebitol II (5). 
+ 
+The sugar ester hebitol II (5), was considered to be composed of a 6-O-caffeoyl-β-D-glucopyranose 
+moiety with a 1-glucityl group as the aglucone.10 The structure of 5 was originally elucidated by 
+comparison of the NMR data of an analogue, the feruloyl ester globularitol (5b) isolated from 
+ 6 
+Globularia orientalis.11 The structure of 5b was in turn inferred by deacylation and comparison by TLC 
+of the resulting disaccharide with authentic β-D-glucopyranosyl-(1→6)-glucitol (5d), obtained by 
+NaBH4 reduction of gentiobiose.  However, because the corresponding 13C NMR shift values of 5 (for 
+C-1''' to C-3''' in Table 1) compared better with those of β-D-glucopyranosyl-(1→6)-mannitol (5c)12 than 
+with those of the glucitol derivative, we therefore decided to re-examine the structure of 5. Thus, 
+treatment of 5 with ammonia in D2O gave a disaccharide with a 13C NMR spectrum (see Supporting 
+Information) identical to that reported for 5c. The similar levorotatory activity of 5 and 5a-5c pointed to 
+the β-D-form of the glucose moiety in the four compounds (See Supporting Information). Consequently, 
+the structures of the three analogues hebitol II (5), hebitol I (5a),10 and globularitol (5b)11 must be 
+revised to the β-D-glucosylmannitol derivatives shown in the formula chart. 
+ 
+Returning to the structure of 4, the resonances of the caffeoyl and β-glucopyranosyl groups found in 4, 
+but not in 2a, were coincident with the corresponding resonances of 5. In addition, those from C-1''' 
+through C-3''' for 4 were almost coincident with the resonances of the corresponding carbon atoms of 2a, 
+and the resonances of C-4''' to C-6''' were coincident with those of 5. This provided the hypothetical 
+structure for 4. In the HMBC spectrum, correlations could be seen between the 1'''-CH2 group (δH 4.42 
+and 4.20) and C-2''' (δC 70.7) as well as C-11 of the iridoid core (δC 169.0) since a cross-peak with H-5 
+(δH 3.13) was also found at this shift value. Other correlations were seen between the 6'''-CH2 group (δH 
+4.14 and 3.76) and C-5''' (δC 71.6) as well as the anomeric carbon atom C-1'''' of the internal β-
+glucopyranosyl moiety (δC 105.0). Also, H-5'''' (δH 3.55) displayed a correlation with C-1'''', and 
+furthermore, cross-peaks could be found between 6''''-CH2 (δH 4.22 and 4.28) and C-5'''' (δC 75.5) as well 
+as one of the low field carbonyl carbon atoms (δC 169.1). Therefore, it was concluded that the latter 
+could be assigned to one of the caffeic acid moieties. The structure of lavaudioside C has therefore been 
+established as that shown by 4. 
+ 
+ 7 
+Compound 7e was obtained as an amorphous solid [α]D22 -70, and the molecular formula was 
+C24H28O13, determined by the 13C NMR data and LC-HRESIMS (observed m/z 523.1465 [M - H]-). The 
+1H NMR data (Table 2) were somewhat similar to those of verminoside (7b)13 both containing a 
+caffeoyl and a catalpol moiety. However, in 7e H-6 (δH 3.78) resonated 1.2 ppm upfield while the H-6' 
+signals (δH 4.41 and 4.49) were 0.6 and 1.1 ppm downfield compared to those of 7b. This indicated that 
+in 7e the caffeoyl moiety was located at the 6'-O-position. The conclusion was supported by the relative 
+changes observed in the 13C NMR data. In the HMBC spectrum, correlations between 6'-CH2 (δH 4.49 
+and 4.41) and the carbonyl carbon atom of the caffeoyl group (δC 169.0) confirmed that the structure of 
+7e was 6'-O-caffeoylcatalpol. 
+Compound 7f was also an amorphous solid [α]20D -20, with the molecular formula C33H34O16, 
+deduced by the 13C NMR data and LC-HRESIMS (observed m/z 709.1791 [M + Na]+). The 1H NMR 
+data (Table 2) showed that the molecule contained one catalpol and two caffeoyl units. Comparison with 
+the NMR data of 7b and 7e showed that in 7f, the resonances for the catalpol aglucone moiety were very 
+similar to those of the former, while the resonances of the β-D-glucopyranosyl unit were similar to those 
+of the latter. This suggested that the two caffeoyl groups were placed at the 6-O- and the 6'-O-positions 
+of catalpol. Analysis of the HMBC spectrum confirmed this. Thus, the positions of the ester groups were 
+confirmed by correlations between H-6 (δH 4.89) as well as by one of the 6'-CH2 protons (δH 4.47), and 
+the carbonyl carbon atoms of the caffeoyl groups (δC 169.0 and 168.9), respectively. The structure of 
+compound 7f was therefore 6,6'-di-O-caffeoylcatalpol. 
+Helioside A (8b), [α]20D -23, had a molecular formula C39H52O24, as deduced by the 13C NMR data 
+and LC-HRESIMS (observed m/z 922.3200 [M+NH4]+). The NMR data (Table 3) were assigned by 2D 
+NMR spectroscopy and by comparison with the model compounds aragoside (8)14 and its 6'-β-
+glucopyranosyl derivative chionoside D (8a) from V. thomsonii (Buchanan) Cheeseman.15 The 13C NMR 
+spectrum showed 37 resonances of which two (δC 115.3 and 77.8) were of double intensity. This 
+ 8 
+included four signals at δC 103-106 arising from anomeric carbon atoms showing correlations with 
+protons in the δΗ 4.2-4.7 region (HSQC). The NMR data (Table 2) were almost superimposable with 
+those of 8a, a 3,4-dihydroxyphenylethyl β-D-glucopyranoside esterified with a caffeoyl group at C-4' and 
+substituted with an α-arabinopyranosyl at C-2' and β-glucopyranosyl groups at C-3' and C-6'. However, 
+one of the peripheral glucosyl groups of 8a was replaced by a pentosyl moiety in 8b, identified as a β-
+xylopyranosyl group by the NMR data. The correlations in the HMBC spectrum confirmed the sites of 
+attachment of the peripheral units. Thus, a cross-peak between H-1' (δH 4.51) of the central glucosyl 
+moiety and C-8 (δC 72.2) proved the position of the aglycone. A correlation between H-4' (δH 4.96) and 
+the carbonyl carbon atom of the caffeoyl ester (δC 168.6) showed the position of the acyl moiety. Cross-
+peaks between H-1''' (δH 4.52) of the arabinosyl group and C-2' (δC 82.5), as well as between H-1'' (δH 
+4.63) of the peripheral glucosyl group and C-3' (δC 81.2), demonstrated the positions of these sugar 
+moieties. Finally, a correlation between H-1''''' of the xylosyl moiety (δH 4.24) and the 6'-CH2-group (δC 
+69.1), proved the structure as shown by 8b. 
+Helioside B (8c), [α]20D -25, had a molecular formula C48H58O27 as deduced by the 13C NMR data and 
+LC-HRESIMS (observed m/z 1084.3451 [M+NH4]+). The NMR data (Table 3) were assigned as above. 
+When the NMR and MS data were compared with those of 8b it became apparent that 8c was a caffeoyl 
+ester of the former. Beside the additional caffeoyl group, the 6''-CH2 resonances (δH 4.34, 4.27) of the 
+peripheral glucopyranosyl group were found 0.6 and 0.8 ppm, respectively, downfield in the 1H NMR 
+spectrum. Similarly, in the 13C NMR spectrum of 8c, C-6'' (δC 64.7) and C-5'' (75.1) of the peripheral β-
+glucopyranosyl group were found 1.6 ppm downfield and 2.7 ppm upfield, respectively, when compared 
+to the data for 8b. Therefore, the additional caffeoyl group was positioned at the C-6'' oxygen atom in 
+helioside B. The correlations in the HMBC spectrum were consistent with this, including the cross-peak 
+between one of the C-6'' protons (δH 4.27) and the ester carbonyl carbon atom assigned to the additional 
+caffeoyl group (δC 169.1). Helioside B is therefore the 6''-caffeoyl ester of helioside A. 
+ 9 
+ 
+Helioside C (8d), [α]20D -22, had the molecular formula C40H54O24, deduced by the 13C NMR data and 
+LC-HRESIMS (observed m/z 936.3333 [M+NH4]+). The NMR data (Table 3) were coincident with 
+those of 8b, except for the resonances of the aroyl moiety and for the presence of a methoxy group in 
+8d. The chemical shift values (δH 3.90; δC 56.5), as well as a cross-peak between the O-methyl protons 
+(δH 3.90) and C-3''''' (δC 149.4) were consistent with the presence of a feruloyl substituent in 8d. 
+Consequently, helioside C is the feruloyl analogue of helioside A. 
+ 
+Our study confirms the previous report6 of aucubin (6), catalpol (7), and the two catalpol esters 7a and 
+7b in V. lavaudiana. Epiloganic acid (2) and gardoside (3), and their methyl esters are often found in 
+plants containing 6 and 7 and have been reported from several Veronica species.10, 16-20 However, iridoid 
+11-carboxylic acids esterified with alditols like 2a, 3a, and 4, found in the present study, have not been 
+reported before. Hebitol II (5), isolated in the present work, adds to the variety of sugar esters found in 
+this Veronica  sect. Hebe.10, 18-21 
+ 
+Experimental Section 
+General Experimental Procedures. Optical rotations were measured on a Perkin-Elmer 241 
+polarimeter. One-dimensional 1H, 13C NMR and 2D DQF-COSY, gHSQC, gHMBC and NOESY NMR 
+spectra were recorded on a Varian Unity Inova 500 MHz spectrometer in methanol-d4 and the chemical 
+shifts are given as δ values with reference to the solvent peaks (δH 3.30 or δC 49.0, respectively). LC-
+HRESIMS was performed on an Agilent HP 1100 HPLC equipped with a BDS-C18 reversed-phase 
+column running a H2O-MeCN (50 ppm TFA in H2O) gradient. The LC was coupled to a LCT of a TOF 
+MS (Micromass, Manchester, UK) operated in the positive electrospray ion mode using 5-
+leucineenkephalin as lock mass. UV spectra were recorded on a Shimadzu UV-1601 instrument. 
+Preparative HPLC was performed on an Agilent 1100 Series LC System (Agilent, Santa Clara, CA, 
+USA) with a guarded Luna C18 column (10 × 250 mm, 5 μm, Phenomenex) kept at 40 °C and a Waters 
+ 10 
+system (Watford, UK) with Genesis C18 column (10 × 250 mm, 5 μm, Jones Chromatography, Mid 
+Glamorgan, UK) at 30 °C, with MeOH-H2O mixtures as eluents at a flow rate of 4 mL/min. The known 
+compounds were identified by NMR and compared with published data: mannitol (1);9 epiloganic acid 
+(2), gardoside (3), aucubin (6) and catalpol (7);22 verproside (7a);23 verminoside (7b) and minecoside 
+(7d);13 6-O-feruloylcatalpol (7c).24 
+ 
+Plant Material. Veronica lavaudiana Raoul was collected from plants cultivated in the grounds of 
+Landcare Research, Lincoln, New Zealand. A voucher specimen has been deposited at the Allan 
+Herbarium, Landcare Research (CHR). 
+Extraction and Isolation. Plant material (40 g, fresh wt.) was blended with MeOH and filtered. The 
+concentrated extract (14 g) was partitioned between Et2O–H2O and the aqueous phase loaded on a 4 × 
+45 cm Diaion HP-20 (Supelco, Bellefonte, US) column and eluted with H2O-MeOH mixtures. The 
+fraction eluted with H2O (5.5 g dry wt.) contained mainly mannitol (1). The fraction eluted with 10% 
+MeOH (780 mg) contained mainly aucubin (6) and catalpol (7).  
+ 
+The fraction eluted with 30% MeOH (250 mg) was separated on silica gel column eluted with 
+CHCl3-MeOH-H2O (60:15:4, 60:22:4) followed by HPLC (Luna C18, linear gradient from 25 to 40% 
+MeOH over 10 min) to give hebitol II (5, 4.2 mg). 
+ 
+The fraction eluted with 50% MeOH (2.2 g) was separated on a Sephadex LH-20 (Amersham 
+Biosciences, Uppsala, Sweden; 3 × 30 cm) column eluted with 90% MeOH to give: Fr. A (550 mg), 
+further separated by HPLC (Luna C18, 3 to 50% MeOH over 10 min) to give helioside A (8b, 191 mg) 
+and helioside C (8d, 25 mg). The final purification of these was performed by HPLC on Genesis C18 
+with 30% MeOH for 8b (135 mg) and 35% MeOH for 8d (4.1 mg). Fr. B (492 mg), further separated by 
+HPLC (Luna C18, 30 to 60% MeOH over 10 min) to give aragoside (8, 63.4 mg); lavaudioside B (3a, 
+ 11 
+12.6 mg); helioside B (8c, 24.0 mg); lavaudioside A (2a, 41.6 mg); and 6'-O-caffeoylcatalpol (7e, 2.7 
+mg), all additionally purified by HPLC (Genesis C18, 35% MeOH). Fr. C (545 mg), further separated by 
+HPLC (Luna C18, 30 to 50% MeOH over 10 min) to give 6'-O-caffeoylcatalpol (7e, 3.3 mg) and 
+verminoside (7b, 268 mg). 
+ 
+The fraction eluted with 60% MeOH (3.9 g) was separated on a Sephadex LH-20 column (3 × 40 cm) 
+eluted with 90% MeOH to give: Fr. D (215 mg), further separated by HPLC (Luna C18, 35 to 45% 
+MeOH over 15 min) to give aragoside (8, 11.0 mg), lavaudioside B (3a, 23.1 mg), verminoside (7b, 39.1 
+mg) and a fraction (35.6 mg), purified by HPLC (Genesis C18, 42% MeOH) to give lavaudioside A (2a, 
+17.1 mg). Fr. E (1.0 g), further separated on silica gel column (CHCl3-MeOH-H2O, 60:22:4) to give 
+verminoside (7b, 645 mg). 
+ 
+The fraction eluted with MeOH (1.8 g) was separated on Sephadex LH-20 column (2.5 × 50 cm) eluted 
+with MeOH: Fr. F (866 mg) was further separated by HPLC (Luna C18, 45% MeOH over 10 min) to 
+give verminoside (7b, 202 mg), 6-O-feruloylcatalpol (7c, 71.5 mg), minecoside (7d, 31 mg), and a 
+fraction (50.5 mg), separated on silica gel (CHCl3-MeOH-H2O, 60:22:4) and additionally purified by 
+HPLC (Genesis C18 with 45% MeOH) to give lavaudioside C (4, 2.0 mg). Fr. G (589 mg) was further 
+separated by HPLC (Luna C18, 40-50% MeOH over 20 min) to give verminoside (7b, 311 mg). Fr. H 
+(131 mg) was separated by HPLC on Luna C18 (35-60 % MeOH over 20 min) and additionally purified 
+on Genesis C18 (48% MeOH) to give 6,6'-di-O-caffeoylcatalpol (7f, 1.4 mg). 
+ 
+Lavaudioside A (2a). Colorless amorphous solid: [α]20 D -30 (c 0.4; MeOH); UV (MeOH) λmax (log 
+ε) 330 (4.24), 294 (4.10, sh), 239 (4.30); 1H and 13C NMR, Table 1; LC-HR ESIMS m/z 720.2713 [M + 
+NH4]
++ (calcd for C31H46NO18, 720.2715).  
+ 
+ 12 
+Lavaudioside B (3a). Colorless amorphous solid: [α]22D -24 (c 0.5; MeOH); UV (MeOH) λmax (log 
+ε) 330 (4.16), 293 (4.02, sh), 236 (4.22); 1H and 13C NMR, Table 1; LC-HR ESIMS m/z 718.2558 [M + 
+NH4]
++ (calcd for C31H44NO18, 718.2558). 
+ 
+Lavaudioside C (4). Colorless amorphous solid: [α]22D -48 (c 0.1; MeOH); UV (MeOH) λmax (log ε) 
+329 (4.26), 297 (4.14, sh), 240 (4.25); 1H and 13C NMR, Table 1; LC-HR ESIMS m/z 1027.3269 [M + 
+H]+ (calcd for C46H59O26, 1027.3289). 
+ 
+6'-O-Caffeoylcatalpol (7e). Colorless amorphous solid: [α]22D -70 (c 0.2; MeOH); UV (MeOH) λmax 
+(log ε) 332 (4.12), 300 (3.99, sh), 246 (3.89); 1H and 13C NMR, Table 2; LC-HR ESIMS m/z 523.1465 
+[M - H]- (calcd for C24H27O13, 523.1452). 
+ 
+6,6'-Di-O-caffeoylcatalpol (7f). Colorless amorphous solid: [α]20D -20 (c 0.2; MeOH); UV (MeOH) 
+λmax (log ε) 331 (4.43), 289 (4.33, sh), 246 (4.21); 1H and 13C NMR, Table 2; LC-HR ESIMS m/z 
+709.1791 [M + Na]+ (calcd for C33H34NaO16, 709.1741). 
+ 
+Helioside A (8b). Colorless amorphous solid: [α]20D -23 (c 0.5; MeOH); UV (MeOH) λmax (log ε) 
+332 (4.21), 292 (4.08), 249 (3.94, sh); 1H and 13C NMR, Table 3; LC-HR ESIMS m/z 922.3200 [M + 
+NH4]
++ (calcd for C39H56NO24, 922.3175). 
+ 
+Helioside B (8c). Colorless amorphous solid: [α]20D -25 (c 0.1; MeOH); UV (MeOH) λmax (log ε) 
+331 (4.14), 290 (4.00, sh), 247 (3.93, sh); 1H and 13C NMR, Table 3; LC-HR ESIMS m/z 1084.3451 [M 
++ NH4]
++ (calcd for C48H62NO27, 1084.3490). 
+ 13 
+ 
+Helioside C (8d). Colorless amorphous solid: [α]20D -22 (c 0.4; MeOH); UV (MeOH) λmax (log ε) 
+328 (4.25), 293 (4.08), 233 (4.09, sh); 1H and 13C NMR, Table 3; LC-HR ESIMS m/z 936.3333 [M + 
+NH4]
++ (calcd for C40H58NO24, 936.3331). 
+ 
+Treatment of 2a with Ammonium Hydroxide. Lavaudioside A (2a) (17 mg) was dissolved in D2O 
+(0.7 mL) in an NMR tube (5 mm) and 25 % ammonium hydroxide (70 µL) was added. After 48 h at 
+room temperature the 13C NMR spectrum was recorded (D2O, 75 MHz):  δC 64.5 (C-1 and 6), 72.1 (C-2 
+and 4), 70.5 (C-3 and 5); after addition of excess mannitol, the three relevant resonances increased in 
+size (see Supporting Info.).  
+ 
+Treatment of 5 with Ammonium Hydroxide. Hebitol II (5) (13 mg) was dissolved in D2O (0.7 mL) 
+in an NMR tube (5 mm) and 25 % ammonium hydroxide (70 µL) was added. After 72 h at room 
+temperature the 13C NMR spectrum was recorded (D2O, 75 MHz):  δC 64,5 (C-1), 72.1 (C-2), 70.3 (C-
+3), 70.9 (C-4), 70.9 (C-5), 73.1 (C-6), 104.2 (C-1'), 74.5 (C-2'), 76.9 (C-3'), 70.4 (C-4'), 77.3 (C-5'), 62.0 
+(C-6') (see Supporting Info.)  coinciding with that reported for 5c.12 
+ 14 
+Acknowledgement. We thank Dr. K. F. Nielsen, BioCentrum, DTU, DK, for providing high-resolution 
+ESI-MS data. The School of Chemical and Physical Sciences and the School of Psychology at VUW 
+provided access to some laboratory equipment. The research was supported by grants from Victoria 
+University of Wellington’s University Research Fund and from the New Zealand Foundation for 
+Research Science and Technology through the OBI “Defining New Zealand’s Land Biota“. We thank 
+Melissa Hutchison for permission to use her photograph of V. lavaudiana. 
+Supporting Information Available: NMR spectra (1H, 13C) of lavaudiosides A-C (2a, 3a, and 
+4), the catalpol esters (7d and 7e), heliosides A-C (8b-8d), and hydrolysis products of 2a and 5 are 
+available free of charge via the Internet at http://pubs.acs.org. 
+ 
+References and Notes  
+(1)  Garnock-Jones, P.J. New Zealand J. Bot. 1993, 31, 323–339. 
+(2)  Albach, D. C.; Meudt, H. M. Mol. Phylogenet. Evol. 2010, 54, 457–471. 
+(3)  Allan, H.H. Flora of New Zealand, vol. 1. Government Printer, Wellington, 1961. 
+(4)  Heads, M.J. Bot. J. Linn. Soc. 1994, 115, 65–89. 
+(5)  Garnock-Jones, P.; Albach, D.; Briggs, B. G. Taxon 2007, 56, 571–582. 
+(6)  Grayer-Barkmeijer, R. J. Chemosystematic Investigations in Veronica L. (Scrophulariaceae) and 
+Related Genera; PhD Thesis, Univ. of Leiden, The Netherlands; 1979. 
+(7)  Taskova, R. M.; Kokubun, T.; Grayer, R. J.; Ryan, K. G.; Garnock-Jones, P. J. Biochem. Syst. Ecol. 
+2008, 36, 110–116. 
+(8)  Lahloub, M.-F.; Zagloul, M. G.; Afifi, M. S.; Sticher, O. Phytochemistry 1992, 33, 401–405. 
+(9)  Bock, K.; Pedersen, C. Adv. Carbohydr. Chem. Biochem. 1983, 41, 27–66. 
+ 15 
+(10)  Pedersen, P.; Gotfredsen C. H.; Wagstaff S. J.; Jensen S. R. Biochem. Syst. Ecol. 2007, 35, 777–
+784 . 
+(11)  Calis, I.; Kirmizibekmez, H.; Tasdemir, D.; Sticher, O.; Ireland, C. M. Z. Naturforsch. 2002, 57c, 
+591–596. 
+(12)  Usov, A. I.; Chizhov, A. O. Izv. Akad. Nauk. Ser. Khim. 1993, 1817–1820. 
+(13)  Sticher, O.; Afifi-Yazar, F. U. Helv. Chim. Acta 1979, 62, 535–539.  
+(14)  Rønsted, N.; Bello, M. A.; Jensen S. R. Phytochemistry 2003, 64, 529–533.  
+(15)  Taskova, R. M.; Kokubun, T.; Ryan, K. G.; Garnock-Jones, P. J.; Jensen, S. R. Chem. Pharm. 
+Bull. 2010, 58, 703–711. 
+(16)  Jensen, S. R.; Albach, D. C.; Ohno, T., Grayer, R. J. Biochem. Syst. Ecol. 2005, 33, 1031–1047. 
+(17)  Taskova, R. M.; Gotfredsen, C. H.; Jensen S. R. Phytochemistry 2006, 67, 286–301. 
+(18)  Johansen, M.; Larsen, T. S.; Mattebjerg, M. A.; Gotfredsen, C. H.; Jensen S. R. Biochem. Syst. 
+Ecol. 2007, 35, 614–620. 
+(19)  Jensen, S. R.; Gotfredsen, C. H.; Grayer, R. J. Biochem. Syst. Ecol. 2008, 36, 207–215. 
+(20)  Maggi, A.; Taskova, R.M.; Gotfredsen, C.H.; Bianco, A.; Jensen, S.R. Biochem. Syst. Ecol. 2009, 
+37, 731–736. 
+(21)  Taskova, R. M.; Kokubun, T.; Ryan, K. G.; Garnock-Jones, P. J.; Jensen, S. R. Chem. Pharm. 
+Bull. 2010, 58, 703–711. 
+(22)  Rønsted, N.; Göbel, E.; Franzyk, H.; Jensen, S. R.; Olsen, C. E. Phytochemistry 2000, 55, 337–
+348. 
+(23)  Afifi-Yazar, F. U.; Sticher, O. Helv. Chim. Acta 1980, 63, 1905–1907. 
+ 16 
+(24)  Stuppner, H.; Wagner, H. Planta Med. 1989, 55, 467–469. 
+ 17 
+O
+OGlc
+R''O
+COOR'''
+3   R''=R'''=H; gardoside
+3a R''=caffeoyl; R'''=1-mannityl;
+            lavaudioside B
+O
+OGlc
+R''O
+COOR'''
+2   R''=R'''=H; epiloganic acid
+2a R''=caffeoyl; R'''=1-mannityl;
+              lavaudioside A
+7   R=R6'=H; catalpol
+7a R=3,4-di-OH-benzoyl; R6'=H; verproside
+7b R=caffeoyl; R6'=H; verminoside
+7c R=feruloyl; R6'=H
+7d R=isoferuloyl; R6'=H; minecoside
+7e R=H; R6'=caffeoyl
+7f R=R6'=caffeoyl
+O
+OGlc
+OH
+OH
+6 aucubin
+OH
+OH
+OH
+OH
+OH
+OH
+1 mannitol
+O
+R O
+OAra
+O
+ORO
+OH
+OH
+1''
+1' 1
+7
+8O
+R O
+OHOH
+OH
+O
+OGlc
+O
+CO
+4 lavaudioside C
+OO
+OH
+OH
+OH 1''''
+O
+OH
+OH
+OH
+OH
+O
+OH
+OH
+O
+OH
+OH
+O ORO
+OH
+OH
+OH
+OH
+OH
+OH
+OH
+OH
+O
+1
+1''
+1''
+1'''
+1'''
+1''''
+5   R=caffeoyl; hebitol II
+5a R= benzoyl; hebitol I
+5b R=feruloyl; globularitol
+8   R=caffeoyl; R1=R2=H; aragoside
+8a R=caffeoyl; R1=H; R2=Glc; chionoside D
+8b R=caffeoyl; R1=H; R2=Xyl; helioside A
+8c R=R1=caffeoyl; R2=Xyl; helioside B
+8d R=feruoyl; R1=H; R2=Xyl; helioside C
+OOH
+OH
+OH
+OH
+OH
+R
+OH
+OH
+OH
+O
+1'''
+1''''
+5c R=OH; R1=H
+5d R=H; R1=OH R1
+11
+2
+1
+O
+OGlc-ROH
+O
+RO
+6
+1
+3
+4
+57
+8 9
+10 6'
+ 
+ 
+ 18 
+ 
+SYNOPSIS TOC 
+O
+OGlc
+O
+CO
+4 lavaudioside C
+OO
+OH
+OH
+OH
+O
+OH
+OH
+OH
+OH
+O
+OH
+OH
+O
+OH
+OH
+O
+ 
+ 
+ 
+ 19 
+Table 1. 1H (500 MHz) and 13C NMR (125 MHz) Data of Lavaudiosides A-C and Model Compounds in Methanol-d4 (or D2O). 
+ 
+ 
+ 
+Lavaudioside A (2a) Lavaudioside B (3a) Lavaudioside C (4) Hebitol II (5) glu-mannitol (5c) 
+position δC δH (J in Hz) δC δH (J in Hz) δC δH (J in Hz) δC δH (J in Hz) δC (D2O)a 
+Irid. agluc          
+1 95.9 5.55, d (4.3) 96.3 5.41, d (5.6) 96.0 5.54, d (4.5)    
+3 152.9 7.53, s 154.2 7.62, s 152.9 7.52, s    
+4 113.7  111.2  113.6     
+5 31.4 3.14, br q (8) 33.2 3.28, obsc 31.5 3.13, br q (8)    
+6 39.0 2.27, ddd (14, 8, 3) 
+2.00, dt (14, 7) 
+38.6 2.23, dt (13, 6) 
+2.12, dt (13, 6) 
+39.0 2.26, ddd (14, 8, 3) 
+1.99, dt (14, 6.5) 
+   
+7 82.6 4.90, obsc 76.4 5.58, br t (5) 82.6 4.90, obsc    
+8 43.2 2.44, m 148.9  43.2 2.43, dq (14, 8)    
+9 43.1 2.62, dt (4.3, 8) 44.8 3.00, br t (6) 43.1 2.60, dt (8, 4.5)    
+10 14.3 1.10, d (7.3) 116.5 5.48, 5.45, br s's 14.3 1.09, d (7.4)    
+11 169.0  169.0*  169.0     
+Irid. Glc          
+1' 99.7 4.68, d (7.9) 99.9 4.70, d (7.9) 99.7 4.69, d (7.9)    
+2' 74.7 3.20, dd (9.2, 7.9) 74.8 3.23, dd (9.2, 7.9) 74.8 3.20, dd (9.2, 7.9)    
+3' 77.9 3.38, t (9.1) 78.0 3.38, t (9.0) 78.0 3.37, obsc    
+4' 71.6 3.25, t (9.1) 71.7 3.26, obsc 71.6 3.24, obsc    
+5' 78.3 3.32, obsc 78.5 3.32, obsc 78.4 3.32, obsc    
+6' 62.8 3.92, obsc 
+3.66, obsc 
+62.9 3.90, obsc 
+3.64, obsc 
+62.9 3.90, dd (11.9, 1.7) 
+3.64, dd (11.9, 6.4) 
+   
+Caffeoyl          
+CO'' 169.0  168.9*  169.0*/169.1*  169.1   
+α'' 115.3 6.24, d (15.9) 115.3 6.26, d (15.9) 115.3/114.8 6.24/6.29, d's (15.9) 114.8 6.29, d (15.9)  
+β'' 146.9 7.51, d (15.9) 147.1 7.53, d (15.9) 147.3/146.9 7.51/7.57, d's (15.9) 146.8 7.57, d (15.9)  
+1'' 127.6  127.7  127.7/127.7  127.6   
+2'' 115.1 7.04, d (1.6) 115.1 7.05, br s 115.2/115.1 2H, 7.04, m 115.1 7.05, d (1.9)  
+3'' 146.8  146.8  146.8/147.3  147.3   
+4'' 149.5  149.7  149.6/149.6  149.6   
+5'' 116.5 6.77, d (8.2) 116.5 6.77, d (8.2) 116.5/116.5 2H, 6.77, d (8.2) 116.5 6.77, d (8.2)  
+6'' 123.0 6.94, dd (8.2, 1.6) 123.1 6.94, br d (8.2) 123.0/123.1 2H, 6.94, m 123.1 6.95, dd (8.2, 1.9)  
+Hexitol          
+1''' 67.4 4.44, dd (11.5, 2.1) 
+4.21, dd (11.5, 5.9) 
+67.5 4.45, dd (11.6, 2.4) 
+4.21, dd (11.6, 5.9) 
+67.4 4.42, dd (11.5, 2.3) 
+4.20, dd (11.5, 5.8) 
+65.2 3.80, obsc 
+3.61, dd (11.1, 6.0) 
+65.1 
+2''' 70.5 3.91, obsc 70.5 3.91, obsc 70.7 3.87, obsc 72.9 3.69, m 72.8 
+3''' 70.8* 3.81, obsc 70.8* 3.81, obsc 70.7* 3.80, obsc 70.9* 3.80, obsc 71.0 
+4''' 70.9* 3.81, obsc 71.0* 3.81, obsc 71.6* 3.80, obsc 71.1* 3.82, obsc 71.6 
+5''' 72.8 3.69, obsc 72.9 3.70, obsc 71.6 3.75, obsc 71.6 3.80, obsc 71.6 
+6''' 65.1 3.82, obsc 65.2 3.82, obsc 73.6 4.14, dd (10.5, 1.3) 73.7 4.15, dd (10.5, 2.3) 73.7 
+ 20 
+3.65, obsc 3.64, obsc 3.76, m 3.72, dd (10.5, 6.1) 
+Centr. Glc      Glc  Glc  
+1''''     105.0 4.36, d (7.8) 105.0 4.36, d (7.8) 104.7 
+2''''     75.1 3.25, obsc 75.2 3.27, dd (8.9, 7.8) 75.1 
+3''''     77.7 3.41, t (9.2) 77.6 3.40, t (8.9) 77.5 
+4''''     71.6 3.38, obsc 71.6 3.36, t (8.9) 71.3 
+5''''     75.5 3.55, m 75.5 3.55, m 77.8 
+6''''     64.6 4.52, dd (11.9, 1.7) 
+4.28, dd (11.9, 5.8) 
+64.6 4.51, dd (11.9, 1.9) 
+4.29, dd (11.9, 5.7) 
+62.6 
+Obsc: signal obscured. * Interchangeable within column. 
+a Data from ref. 12. For direct comparison, C-6''' was aligned with C-6''' in 5. 
+ 
+ 
+ 
+ 
+ 21 
+ 
+Table 2. 1H (500 MHz) and 13C NMR (125 MHz) Data of Catalpol Esters (7e and 7f) in Methanol-d4. 
+ 
+ 6'-O-Caffeoylcatalpol (7e) 6,6'-Di O-caffeoylcatalpol (7f) 
+position δC δH (J in Hz) δC δH (J in Hz) 
+Agluc     
+1 96.3 4.86, d (9.9) 95.2 4.96, d (9.7) 
+3 141.8 6.31, dd (6.0, 1.5) 142.4 6.33, dd (5.9, 1.5) 
+4 104.1 5.02, dd (6.0, 4.5) 103.1 4.92, dd (5.9, 4.8) 
+5 39.1 2.22, m 36.8 2.53, m 
+6 79.7 3.78, br d (8.1) 81.3 4.89, br d (9.0) 
+7 62.4 3.40, br s 61.6 3.67, br s 
+8 66.1  66.7  
+9 43.3 2.53, dd (9.9, 7.8) 43.0 2.61, dd (9.7, 7.8) 
+10 61.9 4.15, d (13.0) 
+3.64, d (13.0) 
+60.2 4.19, d (13.1) 
+3.70, d (13.1) 
+Glc     
+1' 99.7 4.77, d (7.9) 99.8 4.79, d (7.9) 
+2' 74.7 3.29, obsc 74.8 3.30, obsc 
+3' 77.4 3.41, m 77.5 3.43, m 
+4' 71.5 3.41, m 71.7 3.39, m 
+5' 75.9 3.53, m 76.1 3.55, m 
+6' 63.9 4.49, dd (11.9, 2.0) 
+4.41, dd (11.9, 5.6) 
+63.9 4.50, dd (12.0, 2.7) 
+4.47, dd (12.0, 5.9) 
+Caffeoyl     
+CO'' 169.0  169.0/168.9  
+α'' 114.8 6.27, d (15.9) 114.8/114.8 6.30/6.28, d (15.9) 
+β'' 146.8 7.54, d (15.9) 146.8/146.8 2H, 7.58, d (15.9) 
+1'' 127.7  127.7/127.6  
+2'' 115.1 7.04, d (1.7) 115.2/115.3 2H, 7.06, br s 
+3'' 147.3  147.4/147.7  
+4'' 149.7  149.7/149.8  
+5'' 116.5 6.77, d (8.2) 116.5/116.5 6.78/6.73, d (8.2) 
+6'' 123.1 6.94, dd (8.2, 1.7) 123.2/123.3 6.97/6.95, dd (8, 2) 
+  Obsc: signal obscured. 
+ 
+ 22 
+ 
+Table 3. 1H (500 MHz) and 13C NMR (125 MHz) Data of Heliosides A-C (8b-8d) in Methanol-d4. 
+ 
+ Helioside A (8b)  Helioside B (8c) Helioside C (8d) 
+position δC δH (J in Hz) δC δH (J in Hz) δC δH (J in Hz) 
+Aglucone       
+1 131.9  132.0  131.9  
+2 117.5 6.74, d (1.8) 117.5 6.72, d (1.9) 117.5 6.74, d (1.9) 
+3 145.8  146.0  146.0  
+4 144.1  144.7  144.7  
+5 116.4 6.67, d (8.0) 116.3 6.67, d (8.1) 116.3 6.68, d (7.9) 
+6 121.6 6.57, dd (8.0, 1.8) 121.5 6.56, dd (8.0, 1.9) 121.5 6.57, dd (7.9, 1.9) 
+7 36.6 2H, 2.77, m 36.7 2H, 2.74, m 36.7 2H, 2.77, m 
+8 72.2 4.06/3.68, m's 72.2 4.01/3.62, m's 72.3 4.06/3.67, m's 
+Central Glc       
+1' 103.2 4.51, d (7.9) 103.3 4.40, d (7.7) 103.3 4.51, d (7.9) 
+2' 82.5 3.70, obsc 82.8 3.69, dd (9.5, 7.7) 82.8 3.69, obsc 
+3' 81.2 4.10, t (9.5) 81.6 3.94, t (9.5) 81.4 4.09, t (9.7) 
+4' 70.2 4.96, t (9.5) 70.0 4.98, t (9.5) 70.3 4.97, t (9.7) 
+5' 74.1 3.77, obsc 74.5 3.65, obsc 74.4 3.78, obsc 
+6' 69.1 3.87, dd (11.4, 1.5) 
+3.60, dd (11.5, 6.4) 
+69.1 3.81, dd (11.5, 1.5) 
+3.60, obsc 
+69.4 3.87, dd (11.5, 1.5) 
+3.61, dd (11.5, 6.1) 
+2'-Ara       
+1''' 104.7 4.52, d (7.4) 104.7 4.51, d (7.3) 104.3 4.52, d (7.6) 
+2''' 73.1 3.56, dd (9.1, 7.4) 73.2 3.57, obsc 73.2 3.56 , dd (9.0, 7.4) 
+3''' 73.9 3.46, obsc 74.0 3.46, obsc 74.0 3.46, obsc 
+4''' 69.8 3.73, obsc 69.8 3.74, obsc 69.8 3.73, obsc 
+5''' 67.3 3.76, obsc 
+3.16, br d (11.7) 
+67.4 3.74, obsc 
+3.09, obsc 
+67.4 3.78, obsc 
+3.16, obsc 
+3'-Glu       
+1'' 104.1 4.63, d (7.9) 104.5 4.67, d (7.9) 104.9 4.64, d (7.8) 
+2'' 75.2 3.08, dd (9.2, 7.9) 75.1* 3.14, obsc 74.8 3.08, dd (9.0, 7.8) 
+3'' 77.8* 3.28, obsc. 78.0* 3.34, obsc 78.0* 3.27, obsc 
+4'' 72.2 3.02, t (9.3) 71.7 3.20, t (9.3) 72.0 3.00, t (9.3) 
+5'' 77.8 3.21, obsc 75.1 3.45, obsc 78.1* 3.22, obsc 
+6'' 63.1 3.77, obsc 
+3.44, obsc 
+64.7 4.34, dd (1.9, 11.5) 
+4.27, dd (6.4, 11.5) 
+63.2 3.77, obsc 
+3.41, obsc 
+4'-Acyl  4'-caffeoyl  4'-caffeoyl  4'-feruloyl 
+CO'''' 168.6  168.7  168.6  
+α'''' 115.3 6.33, d (15.9) 115.0 6.29, d (15.9) 115.7 6.44, d (15.9) 
+β'''' 147.3 7.56, d (15.9) 147.5 7.52, d (15.9) 147.2 7.62, d (15.9) 
+1'''' 127.6  127.6  127.7  
+2'''' 115.3 7.07, d (1.9) 115.3 7.00, br s 111.6 7.24, d (1.6) 
+3'''' 146.6  146.7  149.3  
+4'''' 149.5  149.6  150.6  
+5'''' 116.6 6.77, d (8.2) 116.6 6.77, d (8.2) 116.5 6.81, br d (8.1) 
+6'''' 123.2 6.98, dd (8.2, 1.9) 123.1 6.90, br d (8.2) 124.3 7.10, dd (8.1, 1.6) 
+OMe     56.5 3.90, s 
+6'-Xyl       
+1''''' 105.1 4.24, d (7.4) 105.2 4.20, d (7.4) 105.3 4.24, d (7.4) 
+2''''' 74.7 3.19, obsc 75.3* 3.20, dd (9.0, 7.4) 75.3 3.19, dd (9.0, 7.4) 
+3''''' 77.3* 3.39, obsc 77.5* 3.30, obsc 77.5* 3.30, obsc 
+4''''' 70.9 3.45, obsc 71.0 3.46, obsc 71.1 3.45, obsc 
+5''''' 66.7 3.82, dd (11.5, 5.3) 
+3.14, obsc 
+66.8 3.81, obsc 
+3.13, obsc 
+66.9 3.82, dd (11.5, 5.4) 
+3.15, obsc 
+       
+6''-cafffeoyl       
+CO''''''   169.1    
+α''''''   115.0 6.18, d (15.9)   
+β''''''   147.1 7.50, d (15.9)   
+1''''''   127.6    
+ 23 
+2''''''   115.5* 7.00, br s   
+3''''''   146.6*    
+4''''''   149.5*    
+5''''''   116.5 6.69, d (8.2)   
+6''''''   123.1 6.90, br d (8.2)   
+Obsc: signal obscured. * Interchangable within column. 
+ 24 
+ 
+ 

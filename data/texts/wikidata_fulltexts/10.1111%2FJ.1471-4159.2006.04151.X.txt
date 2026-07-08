@@ -1,0 +1,1218 @@
+The natural compound n-butylidenephthalide derived from
+Angelica sinensis inhibits malignant brain tumor growth in vitro
+and in vivo
+3
+Nu-Man Tsai,*
+,1 Yi-Lin Chen,
+,1 Chau-Chin Lee,
+,1 Po-Chen Lin,§ Yeung-Leung Cheng,¶
+Wen-Liang Chang,** Shinn-Zong Lin§
+,
+,2 and Horng-Jyh Harn§
+,
+,
+,
+,2
+*Department of Applied Life Science, Asia University, Taichung, Taiwan
+Neuro-Medical Scientiﬁc Center, Department of Radiology, §Institute of Medical Sciences, Department of Pathology and
+Department of Emergency Medicine, Buddhist Tzu Chi General Hospital, Hualien, Taiwan
+¶Division of Thoracic Surgery, Tri-Service General Hospital, National Defense Medical Center, Taipei, Taiwan
+**School of Pharmacy, National Defense Medical Center,Taipei, Taiwan
+OnlineOpen:This article is available free online at www.blackwell-synergy.com             
+Abstract
+The naturally-occurring compound, n-butylidenephthalide
+(BP), which is isolated from the chloroform extract of Angelica
+sinensis (AS-C), has been investigated with respect to the
+treatment of angina. In this study, we have examined the anti-
+tumor effects of n-butylidenephthalide on glioblastoma multi-
+forme (GBM) brain tumors both in vitro and in vivo. In vitro,
+GBM cells were treated with BP, and the effects of prolifer-
+ation, cell cycle and apoptosis were determined. In vivo,
+DBTRG-05MG, the human GBM tumor, and RG2, the rat
+GBM tumor, were injected subcutaneously or intracerebrally
+with BP. The effects on tumor growth were determined by
+tumor volumes, magnetic resonance imaging and survival
+rate. Here, we report on the potency of BP in suppressing
+growth of malignant brain tumor cells without simultaneous
+ﬁbroblast cytotocixity. BP up-regulated the expression of
+Cyclin Kinase Inhibitor (CKI), including p21 and p27, to
+decrease phosphorylation of Rb proteins, and down-regulated
+the cell-cycle regulators, resulting in cell arrest at the G0/G1
+phase for DBTRG-05MG and RG2 cells, respectively. The
+apoptosis-associated proteins were dramatically increased
+and activated by BP in DBTRG-05MG cells and RG2 cells, but
+RG2 cells did not express p53 protein. In vitro results showed
+that BP triggered both p53-dependent and independent path-
+ways for apoptosis. In vivo, BP not only suppressed growth of
+subcutaneous rat and human brain tumors but also, reduced
+the volume of GBM tumors in situ, signiﬁcantly prolonging
+survival rate. These in vitro and in vivo anti-cancer effects
+indicate that BP could serve as a new anti-brain tumor drug.
+Keywords: Angelica sinensis, apoptosis, glioblastoma mult-
+iformis, n-butylidenephthalide.
+J. Neurochem. (2006) 99, 1251–1262.
+Glioblastoma multiforme (GBM), the extreme expression of
+anaplasia among the glial neoplasmas, accounts for 40% of
+all primary intracranial tumors (Mahaley et al. 1989; Graham
+and Lantos 2002). The diffusely invasive properties of GBM
+mean that total resection is almost impossible and therefore,
+surgery plus radiotherapy, and eventual chemotherapy, is the
+standard treatment (Santarius et al. 1997; Graham and
+Lantos 2002; Giese et al. 2003). Nonetheless, the clinical
+course rarely exceeds 18 months from the time of diagnosis,
+Received April 13, 2006; revised manuscript received July 18, 2006;
+accepted July 25, 2006.
+Address correspondence and reprint requests to Dr Horng-Jyh Harn,
+Neuro-Medical Scientiﬁc Center, Department of Pathology, Tzu-Chi
+General Hospital, 707, Section 3, Chung-Yang Road, 970 Hualien,
+Taiwan. E-mail: duke@tzuchi.com.tw
+1Nu-Man Tsai, Yi-Lin Chen and Chau-Chin Lee contributed equally to
+this work.
+2Shinn-Zong Lin and Horng-Jyh Harn are the corresponding authors.
+3Re-use of this article is permitted in accordance with the Creative
+Commons Deed, Attribution 2.5, which does not permit commercial
+exploitation.
+Abbreviations used: AS, Angelica sinensis; AS-C, A. sinensis chlo-
+roform extract; BCNU, carmustine; BP, n-butylidenephthalide; CKI,
+Cyclin Kinase Inhibitor; DMSO, dimethylsulfoxide; MRI, magnetic
+resonance imaging; PI, propidium iodide.
+Journal of Neurochemistry, 2006, 99, 1251–1262 doi:10.1111/j.1471-4159.2006.04151.x
+  2006 The Authors
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262 1251regardless of therapeutic intervention (Santarius et al. 1997;
+Graham and Lantos 2002).
+Chemotherapy is usually reserved for recurrent tumors that
+have already been treated with surgery and radiotherapy, or
+for tumors in which surgery was only partial or infeasible and
+the effect of radiotherapy was limited (Blacklock et al. 1986;
+Shapiro and Green 1987). Various chemotherapy schemes
+have been used, with most consisting of administering drugs
+at high doses (Shapiro and Green 1987). The present
+chemotherapy regimens are limited for several reasons,
+including development of toxicity and drug resistance,
+limited success in overcoming the blood–brain barrier
+(BBB) and limited therapeutics (Blacklock et al. 1986;
+Shapiro and Green 1987; Elliott et al. 1996; Bello et al.
+2001; Cheng et al. 2004).
+Angelica sinensis (Oliv.) Diels (AS; dong quai; also called
+danggui), a traditional Chinese medicine for menopausal
+symptoms (Ye et al., 2001a; Ye et al., 2001b; Yim et al.
+2002), has been clinically administrated for several gynec-
+ological symptoms in the US (Abebe 2002). In our previous
+study, the chloroform extract of A. sinensis (AS-C) also
+showed a dramatic anti-tumor effect, causing growth resting
+and apoptosis of malignant brain tumors in vitro and in vivo,
+and both p53-dependent and -independent pathways of
+apoptosis were involved in the cytotoxic mechanisms (Tsai
+et al. 2005). Thus far six major compounds have been
+isolated form A. sinensis: (E)-liguistilide, (Z)-ligustilide, (Z)-
+n-butylidenephthalide, palmitic acid, beta-sitosterol and
+ferulic acid (Wang et al. 1998). n-Butylidenephthalide (BP,
+BdPh or K1; molecular weight approximately 188.22)
+derived from AS-C was the major component (over 30%
+of AS-C crude) and was therefore chosen in this further study
+to verify its anti-tumor activity.
+Several medicinal properties of BP, such as the anti-
+platelet effect, are due mainly to an inhibitory effect on
+cyclo-oxygenase (Teng et al. 1987). It also provides relief
+from angina (Ko et al. 1998, 2002). In addition, it has been
+suggested that the anti-proliferation effect of synthetic BP-42
+(3-butylidene-4,5-dihydroxyphthalide), which was modiﬁed
+by adding the hydroxyl molecules in the phthalide group of
+BP, could be used as an anti-atherosclerotic treatment
+(Mimura et al. 1995). However, the anti-tumor activities of
+BP have not yet been determined. In this study, the anti-
+tumor effects of BP on malignant brain tumors in vitro and
+in vivo were investigated. The results revealed that the
+signiﬁcant therapeutic anti-tumor efﬁcacy of BP on GBM
+tumors involved the induction of cell-cycle rest and apoptosis.
+Materials and methods
+Chemicals
+n-Butylidenephthalide (BP; molecular weight: 188.23), purchased
+from Lancaster Synthesis Ltd (Newgate, Morecambe, UK) and
+carmustine (BCNU; Sigma Chemical Co., St Louis, MO, USA)
+were dissolved in dimethylsulfoxide (DMSO) and ethanol, incuba-
+ted with shaking at 25 C for 1 h, and stored at 4 C before each
+in vitro experiment.
+Cell lines and cell culture
+The DBTRG-05MG line of human GBM cells, RG2 line of rat
+GBM cells, SK-N-AS line of human neuroblastoma cells, SVEC
+line of mouse vascular endothelial cells and Balb/3T3 line of mouse
+ﬁbroblast cells were obtained from the American Type Culture
+Collection (Rockville, MD, USA). G5T/VGH human GBM cells,
+GBM 8401 human GBM cells, GBM 8901 human GBM cells, A549
+human lung adenocarcinoma cells, PA-1 human teratoma cells, B16/
+F10 mouse melanoma cells, HL-60 human leukemia cells and N18
+mouse neuroblastoma cells were obtained from the Bioresources
+Collection and Research Center (BCRC, Hsin Chu, Taiwan). The J5
+line of human hepatocellular carcinoma cells and BCM-1 line of
+human breast cancer cells were kindly provided by Drs M. J. Chou
+and C. S. Yang (Sherr and Robert 1995) and Dr D. S. Yu (Reed
+et al. 1994; Dobashi et al. 2003), respectively. The DBTRG-05MG,
+GBM8401, GBM8901, BCM-1, HL-60, A549, PA-1 and J5 cells
+were maintained in RPMI-1640 (Sigma) medium with 10% fetal
+bovine serum, at 37 C in a humidiﬁed atmosphere containing 5%
+CO2. The G5T/VGH, RG2, SK-N-AS, N18, B16/F10, SVEC and
+Balb/3T3 cells were cultured in Dulbecco’s modiﬁed Eagle’s
+medium with 10% fetal bovine serum at 37 C in a humidiﬁed
+atmosphere containing 5% CO2.
+Cytotoxicity analysis
+Viable cells were evaluated by a modiﬁed 3-(4,5-dimethylthiazol-
+2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay. Brieﬂy,
+5 · 10
+3 cells were plated in each well of a 96-well plate,
+incubated overnight with 100 lL growth medium in 96-well
+plates, then treated with 100 lL BP dissolved in the medium
+(0–250 lg/mL). The concentration of DMSO was £ 0.02% in
+each preparation. After 24, 48 or 72 h of BP treatment, the
+medium was replaced with 50 lL fresh medium containing MTT
+(400 lg/mL) for 6–8 h. The MTT medium was then removed and
+100 lL DMSO added to each well. The solutions were detected
+using an MRX Microtiter Plate Luminometer (Dynax Technolo-
+gies, Chantilly, VA, USA) at 550 nm. Absorbance of untreated
+cells was considered as 100%. The 50% inhibitory concentration
+(IC50) was the concentration that caused a 50% decrease in the
+optical density of drug-treated cells with respect to untreated
+cells.
+Analysis of cell-cycle distribution
+The GBM tumor cell lines DBTRG-05MG and RG2 were cultured
+with drug diluent for 48 h; DMSO content was controlled
+at £ 0.02% and BP at 75 lg/mL. Cell-cycle analysis was
+performed by DNA staining with propidium iodide (PI) and ﬂow
+cytometry. Brieﬂy, cells were harvested, resuspended in 0.8 mL
+1 · phosphate-buffered saline (PBS) and added to 200 lLP I
+solution (50 lg/mL PI + 0.05 mg/mL RNase A; Sigma Chemical
+Co.). After overnight incubation at 4 C, cells were kept at 25 C
+for 2 h. The cells were then passed through FACScan (Becton
+Dickinson Immunocytometry Systems, San Jose, CA, USA) to
+measure the DNA content.
+1252 N.-M. Tsai et al.
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262
+  2006 The AuthorsDetermination of apoptosis
+Apoptosis was assayed using an in Situ Cell Death Detection Kit,
+POD (Roche, Mannheim, Germany), according to the manufac-
+turer’s instructions. Brieﬂy, DBTRG-05MG and RG2 cells were
+cultured in culture dishes and analyzed at the indicated time points
+(24, 48, 72 h) after BP (75 lg/mL) treatment. In the BP-treated
+cell group, suspended cells were collected; in the control group,
+adherent cells were collected. Cells were ﬁxed at 25 C for 15 min
+with 3.7% formaldehyde, smeared on silane-coated glass slides
+(Muto Pure Chemicals, Tokyo, Japan), washed once in 1 · PBS
+and incubated in cold permeabilization solution (0.1% Triton
+X-100 + 0.1% sodium citrate) after reducing endogenous peroxi-
+dase enzyme activity with 3% H2O2. Then, cells were incubated
+with terminal deoxynucleotidyl transferase (TdT)-mediated dUTP
+nick end labeling (TUNEL) reaction mixture for 60 min at 37 C,
+and counterstained with PI for determination of the cell count. To
+quantify cell apoptosis, the slides were viewed under ﬂuorescence
+microscopy (Nikon, Kawasaki, Japan).
+Western blot analysis
+DBTRG-05MG and RG2 cells were seeded in a six-well plate and
+later treated with BP (75 lg/mL) for different times (0, 1.5, 3, 6, 12,
+24 or 48 h; 0 h as a vehicle control). Cell pellets were resuspended
+in lysis buffer [10 nM Tris-HCl (pH 7.5), 1 mM EGTA, 0.5%
+3-[3-(cholamidopropyl)dimethylammonio]-1-propanesulfonate,10%
+(v/v) glycerol, 5 mM b-2-mercaptoethanol and 0.1 mM phenyl-
+methylsulfonyl ﬂuoride] and incubated on ice for 30 min. After
+centrifugation at 13 000 r.p.m. for 20 min at 4 C, total cell lysates
+were collected. The protein concentration of the cell lysates was
+measured with a bicinchoninic acid (BCA) protein assay kit (Pierce,
+Rockford, IL, USA) following the manufacturer’s instructions.
+Aliquots (20 lg) of the cell lysates were separated by 10–12%
+sodium dodecyl sulfate–polyacrylamide gel electrophoresis (SDS–
+PAGE; Bio-Rad, Hercules, CA, USA) and transferred to polyvinyl-
+idenediﬂuoride (PVDF) membranes (Amersham Lifesciences,
+Piscataway, NJ, USA). The membranes were blocked with 5%
+skim milk for 1 h at 25 C, then incubated with the respective
+antibodies. The antibodies included anti-Fas, anti-Fas-L, anti-
+caspase 3, anti-caspase 8, anti-caspase 9, anti-Bax, anti-AIF, anti-
+p16, anti-p21, anti-p27, anti-p53, anti-cdk2, anti-cdk4, anti-cdk6,
+anti-cyclin D1, anti-cyclin E, anti-actin (1/200 dilution; Santa Cruz
+Biotechnology Inc., Santa Cruz, CA, USA); anti-phospho-p53
+(Ser15; 1/2000 dilution), and anti-phospho-RB (Ser795; 1/2000
+dilution; Cell Signaling Technology, Beverly, MA, USA).The
+immobilized primary antigen-antibody complex was detected with
+the respective horseradish peroxidase-conjugated anti-mouse, anti-
+rabbit or anti-goat IgG secondary antibodies (1/1000 dilution; Santa
+Cruz Biotechnology Inc.) for 1 h at 25 C, then visualized with an
+enhanced chemiluminescence (ECL) Plus chemiluminescence sys-
+tem (Amersham, Arlington Heights, IL, USA). The degree of protein
+expression was calculated as the expression index. The expression
+indexes were calculated as [(sample intensity/sample b-actin inten-
+sity)/(vehicle control intensity/vehicle control b-actin intensity)].
+Animal studies
+To examine the anti-tumor effects of BP in vivo, RG2 rat GBM cells
+were used in male F344 rat (230–260 g) experiments, and DBTRG-
+05MG human GBM cells were used in male Foxn1 nu/nu mouse
+(10–12 weeks) experiments. The rats and mice were purchased from
+the National Laboratory Animal Center (Taipei, Taiwan). All
+procedures were performed in compliance with the standard
+operating procedures of the Laboratory Animal Center of Tzu Chi
+University (Hualien, Taiwan).
+In vitro cultured RG2 cells (1 · 10
+6) were injected s.c. into the
+back of syngeneic F344 rats. Six animals in each vehicle or BP
+group were treated on days 3, 6 and 9 after tumor cell implantation
+by s.c. injection of BP (500 mg/kg/day) or vehicle (10 mg/mL
+Tween-80 and 50 mg/mL propylene glycol in distilled water;
+Standard Chem. & Pharm., Tainan, Taiwan), far from the inoculated
+tumor cell sites (> 1.5 cm). In addition, DBTRG-05MG cells
+(2.5 · 10
+6) were injected s.c. into the backs of nude mice (ﬁve to
+six/group), and treated with vehicle, BP)70, )150, )300, )500
+and )800 mg/kg/day (s.c.) respectively. The injection site was far
+from the inoculated tumor sites (>1.5 cm away from treated site),
+on days 4 , 5, 6, 7 and 8 after tumor cell implantation. Tumor size
+was measured with calipers and the volume was calculated as
+L · H · W · 0.5236 (Bardon et al. 2002). Animals were killed
+when the tumor volume exceeded 25 cm
+3 in rats and 1500 mm
+3 in
+mice; the day on which an animal was killed was designated as the
+ﬁnal survival day for the rats and mice.
+The anti-tumor effects of BP on in situ tumors were determined
+with RG2 cells. The RG2 cells were injected i.c. into the striatum of
+syngenic rats (six/group) and treated with BP (300 mg/kg/day) or
+vehicle s.c. on days 4, 5, 6, 7 and 8 after tumor cell implantation.
+Tumor volume was measured using 3-T unit magnetic resonance
+imaging (MRI; General Electric, Milwaukee, Wisconsin, USA) with
+echo-planar imaging capability (Fukuoka et al. 2000) (Signa LX 3.8;
+General Electric) in Buddhist Tzu Chi General Hospital (Hualien,
+Taiwan). Brieﬂy, rats were anesthetized with chloral hydrate
+(400 mg/mL, 1 mL/100 g). Functional MRI scanning was conduc-
+ted with a fast spin echo and an echo-planar acquisition sequence in
+which the repetition time was 6000 ms, the echo time 102 ms, the
+matrix image 256 · 256 pixels, the ﬁeld of view 5 · 5 cm and the
+in-plane resolution, 80 lm. Twenty slices, each 1.5 mm thick, were
+obtained every 19.5 s for a total time of 6.5 min/rat.
+Immunohistochemical staining
+All tumor tissues (s.c. or i.c. GBM tumors with or without BP
+treatments) were harvested and ﬁxed. Parafﬁn-embedded sections
+(7 lm/section) were obtained from the tumors and processed for
+immunohistochemical staining. A goat polyclonal anti-Ki-67 anti-
+body (M-19; 1/100 dilution; Santa Cruz Biotechnology Inc.) and a
+rabbit polyclonal anti-cleaved caspase 3 (Asp175) antibody (1/1000
+dilution; Cell Signaling Technology.) were used in immunohisto-
+chemical studies with 4 C overnight incubation. The immune
+complexes were visualized using the horseradish peroxidase-conju-
+gatedanti-goatIgGsecondaryantibodies(1/1000dilution;SantaCruz
+Biotechnology Inc.) and LSAB2 system (DAKO, Corp., Carpinteria,
+CA, USA), respectively, and then incubated for 10 min with 0.5 mg/
+mLdiaminobenzidineand0.03%(v/v)H2O2inPBS.Finally,sections
+were counterstained with hematoxylin, mounted, observed under a
+light microscope at magniﬁcations of 400·, and photographed.
+Statistics
+Data are presented as mean ± SD or SE (standard deviation and
+standard error, respectively). Statistical signiﬁcance was analyzed by
+n-Butylidenephthalide chemotherapy on malignant brain tumor 1253
+  2006 The Authors
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262Student’s t-test. The survival analysis was performed using the
+Kaplan–Meier method. A p-value of <0.05 was considered to be
+statistically signiﬁcant.
+Results
+Cytotoxic effects of BP on tumor and other cell lines
+The anti-proliferative effects of BP on cells from GBM,
+neuroblastoma, lung cancer, melanoma, teratoma, leukemia,
+breast cancer and hepatocellular carcinoma, as well as from
+normal ﬁbroblast and vascular endothelial cells, were
+determined. The IC50 values of BP after a 48 h incubation
+with tumor cell lines (IC50: 15–67 lg/mL) were signiﬁcantly
+lower than the values for normal ﬁbroblast cells (IC50:
+>100 lg/mL, p < 0.0001) or carmustine (BCNU)-treated
+tumor cells (IC50:4 0  100 lg/mL, p < 0.001; Table 1). In
+the two normal cell types, vascular endothelial cells (IC50 ¼
+25.0 ± 2.0 lg/mL) were more sensitive to BP than ﬁbroblast
+cells (IC50 > 100 lg/mL) (p<0.0001). Brieﬂy, these
+experiments showed that BP could induce high cytotoxicity
+against brain and other tumor cells but only low, or no
+cytotoxicity against normal ﬁbroblast cells.
+The morphology of GBM tumor cells gradually changed
+with detachment from the bottom of the culture plates, after
+BP treatment (data not shown). The TUNEL assay was used
+to verify the viability of detached cells and the results
+showed that the cells were in the process of apoptosis at 48 h
+(Figs 1a and b). Therefore, BP has a cytotoxic ability against
+tumor cells.
+The effects of BP on cell cycle of GBM cells
+Cell-cycle analysis with GBM cells demonstrated that 75 lg/
+mL BP treatment resulted in cell-cycle arrest at the G0/G1
+phase (> 90% and > 70%; Figs 1c and d). BP induced a
+signiﬁcant proportion of cells to arrest at the G0/G1 phase,
+accompanied by a concurrent decrease of S phase from 12 to
+24 h (p<0.05). In addition, BP also led to a decrease in the
+proportion of the DBTRG-05MG cells that entered the G2/M
+phase, though more cells accumulated at G2/M phase in RG2
+cells. The results at 48 and 72 h were similar to those at 24 h
+(data not shown).
+Apoptotic pathways in GBM cells induced by BP
+To investigate apoptotic pathways induced by BP treatment,
+phosphorylation of p53 and Rb proteins were ﬁrst evaluated
+by immunoblotting. The DBTRG-05MG and DBTRG 8401
+line of human GBM cells, and RG2 line of rat GBM cells,
+were used for comparison. BP caused levels of phosphoryl-
+ated p53 protein to increase (9.4-fold) 3 h after treatment
+(Fig. 2a). Furthermore, total p53 protein increased (twofold)
+at 12 h in DBTRG-05MG and DBTRG 8401 (twofold)
+increased at 3 h. In RG2 cells, the genes of p53 and p16 are
+impaired and exhibit homologous deletion, and these were
+undetectable in immunoblotting analysis. However, levels of
+phosphorylated Rb proteins were decreased after BP treat-
+ment in DBTRG-05MG and DBTRG 8401 cells; in RG2
+cells, the levels were decreased (0.8-fold) at 1.5 h, with
+phosphorylated proteins undetectable as early as 3 h after BP
+treatment (Fig. 2a). These results indicate that BP can trigger
+Table 1 The IC50s of BP in different tumors
+Cell line Tumor type BP Carmustine
+Brain tumors
+DBTRG-05MG Human GBM cell 39.1 ± 1.7* >100
+GBM8401 Human GBM cell 21.1 ±1.5* 55.6 ± 9.6
+GBM8901 Human GBM cell 28.9 ± 1.0* 56.5 ± 1.7
+G5T/VGH Human GBM cell 23.9 ± 0.9* >100
+RG2 Rat GBM cell 46.0 ± 2.7* >100
+SK-N-AS Human neuroblastoma cell 67.4 ± 3.1* >100
+N18 Mouse neuroblastoma cell 15.5 ± 2.5* >100
+Other tumors
+A549 Human lung cancer cell 32.1 ± 0.9* >100
+B16/F10 Mouse melanoma cell 24.3 ± 1.3* 69.9 ± 1.0
+J5 Human hepatoma cell 19.5 ± 0.4* 49.2 ± 0.8
+PA-1 Human teratoma cell 18.7 ±1.9* 54.7 ± 9.4
+BCM-1 Human breast cancer cell 50.4 ± 0.7* >100
+HL-60 Human leukemia cell 26.6 ± 8.6* 40.2 ± 9.6
+Normal cells
+SVEC Mouse vascular endothelia cell 25.0 ± 2.0 34.5 ± 4.3
+Balb/3T3 Mouse ﬁbroblast cell >100 >100
+Note: Values are mean ± SD IC50 (lg/mL) in day 2.
+*Signiﬁcant difference from the BP versus Carmustine treatment in tumor cells (p < 0.001).
+Signiﬁcant difference from SVEC versus Balb/3T3 treatment with BP (p < 0.0001).
+1254 N.-M. Tsai et al.
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262
+  2006 The Authors0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+6hrs 12hrs 24hrs
+C
+e
+l
+l
+ 
+c
+y
+c
+l
+e
+ 
+i
+n
+ 
+d
+i
+f
+f
+e
+r
+e
+n
+t
+ 
+p
+h
+a
+s
+e
+ 
+(
+%
+) DBTRG-No drug
+DBTRG-BP
+*
+*
+* *
+*
+* *
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+6hrs 12hrs 24hrs
+C
+e
+l
+l
+ 
+c
+y
+c
+l
+e
+ 
+i
+n
+ 
+d
+i
+f
+f
+e
+r
+e
+n
+t
+ 
+p
+h
+a
+s
+e
+ 
+(
+%
+)
+RG2 No drug
+RG2 BP *
+*
+*
+*
+*
+*
+*
+(c)
+(d)
+(a)
+DBTRG-No drug
+DBTRG-BP
+TUNEL (green, 400X) PI (red, 400X)
+DBTRG-BP
+DBTRG-No drug
+(i) (ii)
+(iv) (iii)
+TUNEL (green, 400X) PI (red, 400X)
+RG2-No drug RG2-No drug
+RG2-BP RG2-BP
+(b)
+(i) (ii)
+(iv) (iii)
+Fig. 1 BP-induced cell-cycle arrest and apoptosis in GBM cells.
+DBTRG-05MG and RG2 cells underwent apoptotic cell death after a
+48 h treatment with 75 lg/mL BP (a and b), as determined by TUNEL
+assay for DNA fragmentation (iii and vii) and PI counterstaining for
+genomic DNA (iv and viii). Control cells were trypsinized and stained in
+parallel with BP-treated cells (i, ii, v and vi). (c and d) DBTRG-05MG
+and RG2 cells were arrested in the G0/G1 phase with 75 lg/mL BP.
+Flow cytometric analysis of DNA contents in the BP-treated (open
+bars) and control cells (black bars) revealed the proportions of cells at
+different cell-cycle stages after BP treatment for 6, 12 and 24 h. Each
+column represents the mean ± SD (*p < 0.05).
+n-Butylidenephthalide chemotherapy on malignant brain tumor 1255
+  2006 The Authors
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262DBTRG-05MG
+(hrs)
+RG2 DBTRG 8401
+(a)
+(b)
+(c)
+(d)
+Relation to control Caspase-3
+Fas
+Fas-L
+Procaspase-8
+Procaspase-3
+Caspase-8
+Bax
+Procaspase-9
+Caspase-9
+AIF
+p27
+cdk4
+cdk6
+Cyclin D1
+Cyclin E
+cdk2
+p21
+p16
+Phospho-Rb795
+Total-p53
+Phospho-p53
+Fig. 2 The expression and activation of apoptosis-associated mole-
+cules in GBM cells treated with BP. Whole cell lysates (20 lg/lane)
+were analyzed with western blotting using speciﬁc antibodies to: (a)
+p53, phospho-p53 and phospho-RB; (b) p16, p21, p27, cdk2, cdk4,
+cdk6, cyclin D1 and cyclin E; (c) Bax, AIF and caspase 9; (d) Fas, Fas-
+L, caspase 8 and caspase 3. Lower panel: Relation to control in (a) to
+(d) is relative to untreated control cells. Positive control of RG2 cells is
+DBTRG-05 MG cells with BP treatment for 3 h. UD, protein unde-
+tectable in this western blot system: ND, not detected.
+1256 N.-M. Tsai et al.
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262
+  2006 The Authorscell-cycle checkpoint machinery. Levels of p16, p21, Bax
+and AIF protein in BP-treated GBM cells were therefore
+measured, and protein expression levels of all four proteins
+increased in DBTRG-05MG and DBTRG 8401 cells; similar
+results for p27, Bax and AIF were detected in RG2 cells after
+treatment with BP (Figs 2b and c). The protein expression of
+cdk2, cdk4, cdk6, cyclin D1 and cyclin E in BP-treated GBM
+cells was also measured, and all ﬁve proteins were decreased
+in DBTRG-05MG and DBTRG 8401 cells; similar results for
+cdk2, cdk4, cdk6, cyclin D1, cyclin E and p21 were detected
+in RG2 cells after treatment with BP (Fig. 2b).
+Expression of the proteins Fas and Fas-L in treated
+DBTRG-05MG, DBTRG 8401 and RG2 cells was studied.
+Results showed that BP signiﬁcantly induced Fas expression
+(from one to 41.3-fold vs. one to 7.7-fold in DBTRG-05MG
+and RG2 cells, respectively) but not Fas-L expression. In
+addition, activation of death receptor-induced apoptosis-
+related caspase 8 protein was monitored. Levels of caspase 8
+in DBTRG-05MG and DBTRG 8401 were increased in a
+dose-dependent manner from 6 to 48 h after BP treatment,
+whereas the maximum expression of caspase 8 in RG2 cells
+at 24 h (Fig. 2d).
+Finally, activation of pro-caspase 9 and procaspase 3 was
+also determined (Figs 2c and d). Both procaspase 9 and
+procaspase 3 were highly activated in DBTRG-05MG,
+DBTRG 8401 and RG2 cells after BP treatment.
+Anti-tumor effects of BP on survival of animals bearing
+subcutaneous GBM tumor
+To investigate BP anti-tumor activity, in vivo animal
+experiments were carried out. There was a signiﬁcantly
+higher inhibitory effect on RG2 tumor growth in the
+BP-treated group than in the control (vehicle only) group
+(Fig. 3a; p < 0.005). The average tumor size at day 26 was
+20.7 ± 1.5 cm
+3 for the control group, in contrast to a size
+of only 9.6 ± 0.4 cm
+3 for the BP-treated group. Survival of
+rats in the BP treatment group was signiﬁcantly prolonged
+compared with survival in the control group (30 ± 2.1 days
+vs. 41.5 ± 4.2 days; Fig. 3b; p < 0.0001). There were no
+signiﬁcant differences between the control and BP-treated
+groups with respect to the body weight of the rats after BP
+treatment (Fig. 3c). There were remarkable decreases in
+Ki-67 (a cell proliferation marker) protein expression in
+this study, which indicated that BP had anti-proliferation
+activity in vivo. Cleaved caspase 3 is an apoptotic marker,
+and the results showed that BP treatment increased the
+cleavage of caspase 3 protein to induce apoptosis of tumor
+cells in vivo (Fig. 3d). Both the inhibition of tumor cell
+growth and the induction of tumor cell apoptosis pathways
+were mediated by BP treatment in vitro and in vivo. With
+s.c. injection of BP at a dose of 500 mg/kg, no drug-
+related toxicity was observed based on the histological
+analysis of organs in animals treated with BP (data not
+shown).
+Anti-tumor effects of BP on in situ GBM tumor of rats
+To verify the BP anti-tumor effects on the in situ GBM
+tumors in rats, F344 rats were implanted i.c. (striatum) with
+5 · 10
+4 RG2 cells and treated with s.c. BP (300 mg/kg/day)
+on days 4, 5, 6, 7 and 8. MRI data revealed that the in situ
+tumor volumes in the BP-treated group were smaller than
+those in the control group (Fig. 4a). There were signiﬁcant
+declines in tumor volume for the treated group relative to the
+untreated group (Fig. 4b; p < 0.05). The mean tumor
+volumes at days 14 and 16 were 70.0 ± 4.8 mm
+3 and
+126.4 ± 11.1 mm
+3 for the control group vs. 46.6 ± 1.8 mm
+3
+and 91.7 ± 8.3 mm
+3 for the BP-treated group. The immu-
+nohistochemistry results on day 16 after BP treatment
+showed a decrease in Ki-67 protein expression, an increase
+in cleaved caspase 3 protein expression and an increase in
+apoptosis in tumor cells relative to the control group in vivo
+(Fig. 4c); these results are similar to those shown in the
+subcutaneous RG2 tumor model. Survival was signiﬁcantly
+prolonged for the BP-treated rats compared with rats of the
+control group. At day 19 after BP treatment, BP caused
+higher survival rates (50%, 3/6) than the untreated group
+(16.7%, 1/6) (p ¼ 0.0016; data not shown).
+Anti-tumor effects of BP on xenograft tumor growth
+To determine whether BP can suppress human GBM tumor
+growth, nude mice were inoculated with human DBTRG-
+05MG cells and treated with BP (70, 150, 300, 500 and
+800 mg/kg in the BP-70, BP-50, BP-300, BP-500 and BP-
+800 groups, respectively.) on days 4, 5, 6, 7 and 8. Signiﬁcant
+suppression of tumor growth with respect to the untreated
+group was observed in the BP-70-, BP-150-, BP-300-, BP-
+500- and BP-800-treated groups. At day 200, the tumor
+growth rates were 100% (6/6), 80% (4/5), 80% (4/5), 50% (3/
+6), 33.3% (2/6) and 16.7% (1/6) in the untreated, BP-70, BP-
+150-, BP-300-, BP-500- and BP-800-treated groups, respect-
+ively (p<0.05). The mean tumor sizes at day 89 were
+>1000 mm
+3 in the control group, 605.8 ± 98.8 mm
+3 in the
+BP-70-treated group, 504.4 ± 38.9 mm
+3 in the BP-150-
+treated group, 415 ± 130 mm
+3 in the BP-300-treated group,
+365.8 ± 116.7 mm
+3 in the BP-500-treated group and
+171.6 mm
+3 in the BP-800-treated group (Fig. 5a; p < 0.05).
+Survival was signiﬁcantly prolonged for nude mice in the BP-
+treated with respect to the control group (Fig. 5b; p < 0.001).
+At day 200, survival rates were 0% (0/6), 20% (1/5), 40% (2/
+5), 50% (3/6), 66.7% (4/6) and 83.3% (5/6) in the untreated,
+BP-70-, BP-150-, BP-300-, BP-500- and BP-800-treated
+groups, respectively. After tumor inoculation, tumor masses
+(average volume ¼ 41.84 ± 4.45 mm
+3) were developed on
+the backs of every mouse, but the tumors of mice with BP
+treatment shrank or completely regressed to be undetectable
+on day 150. There were no signiﬁcant differences between the
+control and BP-treated groups with respect to the body weight
+of the animals (Fig. 5c). Evenwith a high BP dose of 800 mg/
+kg for 5 days of serial treatment, very low or no drug-related
+n-Butylidenephthalide chemotherapy on malignant brain tumor 1257
+  2006 The Authors
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–12620
+0 6 10 12 14
+Days Days
+18
+01 0 1 21 4
+Days
+18
+22 26 0 10 20 30 40 50 60
+5
+10
+15
+20
+25
+T
+u
+m
+o
+r
+ 
+s
+i
+z
+e
+ 
+(
+c
+m
+3
+)
+0
+0 6 10 12 14
+0.5
+1
+1.5
+2
+2.5
+Control
+BP
+* *
+*
+*
+*
+*
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+S
+u
+r
+v
+i
+v
+i
+n
+g
+ 
+(
+%
+)
+Control
+BP
+RG2-sc-Control                            RG2-sc-BP
+Ki-67
+Cleaved
+caspase-3
+TUNEL
+(i) (ii)
+(iii) (iv)
+(v) (vi)
+0
+50
+100
+150
+200
+250
+300
+(a) (b)
+(c)
+(d)
+B
+o
+d
+y
+ 
+w
+e
+i
+g
+h
+t
+ 
+(
+g
+)
+Control
+BP-SC500
+Fig. 3 BP inhibition of tumor growth with improved survival rate in a
+syngenic rat GBM model. RG2 cells (1 · 10
+6) were implanted s.c. into
+the hind ﬂank region of F344 rats. (a) Tumor size was measured using
+calipers(*p < 0.05).(b)Survivalwasmonitoreddaily(p < 0.0001).Rats
+were killed when tumor size exceeded 25 cm
+3. Tumor sizes are repre-
+sented as means ± SEM. There was no statistically signiﬁcant differ-
+ence between the control and BP-treated groups with respect to the
+bodyweightofrats.(c)Bodyweightsarerepresentedasmeans ± SEM.
+(d) Immunohistochemical staining and TUNEL assay were analyzed in
+GBM tumor tissues (at day 18 after treatment). Representative photo-
+graphsofsectionsofthe controlgroup(i,iiiandv)andBP-treated group
+(ii, iv and vi) GBM tumors, immunohistochemically stained for cell pro-
+liferation marker with Ki-67 (i and ii), cell apoptosis marker with cleaved
+caspase 3 (iii and iv) and DNA fragmentation of apoptosis cells with
+TUNELstaining(vandvi).TheKi-67-andcaspase3-positivecellswere
+stainedbrownand the TUNEL-positive cellswere stainedgreen (·400).
+1258 N.-M. Tsai et al.
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262
+  2006 The Authorstoxicities were observed in the animals, as evaluated by
+histological analyses of various organs (data not shown). The
+human GBM tumor tissues with BP treatment in vivo also
+displayed decreases in Ki-67 expression, and increases in
+cleaved caspase 3 protein expression and tumor cell apopto-
+sis, relative to the control group in vivo, at day 10 after
+treatment (Fig. 5d).
+Discussion
+n-Butylidenephthalide (BP) contributes to a range of biolo-
+gical activities, including diminution of angina, platelet
+aggregation, proliferation, non-speciﬁc spasmosis (Ko 1980;
+Teng et al. 1987; Mimura et al. 1995; Ko et al. 1998; 2002).
+In this study, we demonstrated that BP also acts strongly
+0
+20
+40
+60
+80
+100
+120
+140
+160
+D14 D16
+Days
+T
+u
+m
+o
+r
+ 
+s
+i
+z
+e
+ 
+(
+m
+m
+3
+)
+Control
+(a)
+(b) (c)
+BP
+**
+*
+C1 C2 C3
+C4 C5 C6
+BP1 BP2 BP3
+Bp4 BP5 BP6
+RG2-ic-Control RG2-ic-BP
+Ki-67
+Cleaved
+caspase-3
+TUNEL
+(i) (ii)
+(iii) (iv)
+(v) (vi)
+Fig. 4 BP reduction in tumor volume in a syngenic rat GBM tumor in
+situ model. RG2 cells (5 · 10
+4) were implanted i.c. (striatum) in F344
+rats. (a) Tumor volume shown by MRI imaging of serial sections
+(1.5 lm thick): C1–C6 were from the vehicle control rat; BP1–BP6
+from a BP-treated rat (tumor mass shown by white arrow). (b) Tumor
+volume was calculated using echo-planar imaging capability. Each
+column represents mean ± SEM (*p < 0.05, **p < 0.001). (c) Immu-
+nohistochemical staining and TUNEL assay were performed in rat
+brain tumor tissues (on day 16 after BP treatment). Representative
+photographs of sections of the control group (i, iii and v) and BP-
+treated group (ii, iv and vi) GBM tumors immunohistochemically
+stained for cell proliferation marker with Ki-67 (i and ii), cell apoptosis
+marker with caspase 3 (active form; iii and iv) and DNA fragmentation
+of apoptosis cell with TUNEL staining (v and vi). The Ki-67- and ca-
+spase 3-positive cells were stained brown and the TUNEL-positive
+cells were stained green (·400).
+n-Butylidenephthalide chemotherapy on malignant brain tumor 1259
+  2006 The Authors
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262against GBM tumors in vitro and in vivo. This anti-tumor
+effect is encouraging, as very few drugs currently show
+efﬁcacy against malignant brain tumors.
+To explore what mechanism might account for the effects
+of BP on GBM tumor cells, the cell cycles were monitored.
+Our results are entirely consistent with an inhibition of tumor
+growth by BP due to cell-cycle arrest at the G0/G1 phase and
+the induction of apoptosis (Fig. 1). The pattern of increased
+and decreased protein expression during cell-cycle arrest is
+best explained by the BP-mediated regulation of gene
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Day
+S
+u
+r
+v
+i
+v
+i
+n
+g
+ 
+(
+%
+)
+Control
+BP-800
+BP-500
+BP-300
+BP-150
+BP-70
+0 1 02 03 04 05 06 07 08 09 0 0 25 50 75 100 125 150 175 200
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+Day
+T
+u
+m
+o
+r
+ 
+s
+i
+z
+e
+ 
+(
+m
+m
+3
+)
+Control
+BP-800
+BP-500
+BP-300
+BP-150
+BP-70
+0
+0469 1 2 2 7
+5
+10
+15
+20
+25
+(a) (b)
+(c) (d)
+(i) (ii)
+(iii) (iv)
+(v) (vi)
+Day
+B
+o
+d
+y
+ 
+w
+e
+i
+g
+h
+t
+ 
+(
+g
+)
+Control
+BP-800
+BP-500
+BP-300
+DBTRG-sc-Control                 DBTRG-sc-BP
+Ki-67
+Cleaved
+caspase-3
+TUNEL
+Fig. 5 BP suppression of xenograft tumor growth of human GBM in
+nude mice. (a) DBTRG-05MG cells (2.5 · 10
+6) were implanted s.c.
+into the hind ﬂank region of Foxn1 nu/nu mice. These mice were
+treated with vehicle as a control (n ¼ 6), BP-70 (70 mg/kg, n ¼ 5), BP-
+150 (150 mg/kg, n ¼ 5), BP-300 (300 mg/kg, n ¼ 6), BP-500
+(500 mg/kg, n ¼ 6) and BP-800 (800 mg/kg, n ¼ 6) s.c. on days 4, 5,
+6, 7 and 8. The tumor sizes were measured using calipers. There was
+a signiﬁcant difference between the BP-treated group and the control
+group with respect to the tumor size (p<0.05). Tumor sizes are
+presented as mean ± SEM. (b) The survival of mice was monitored
+daily (p<0.001). Mice were killed when the tumor size exceeded
+1000 mm
+3. (c) The body weights of mice in the control group, and in
+the BP-300-, BP-500- and BP-800-treated groups, were not signiﬁ-
+cantly different after BP treatment; body weights are presented as
+means ± SEM. (d) Immunohistochemical staining and TUNEL assay
+were performed in human GBM tumor tissues (on day 10 after treat-
+ment). Representative photographs of sections of the control group
+(i, iii and v) and BP-treated group (ii, iv and vi) GBM tumors were
+immunohistochemically stained for the cell proliferation marker, Ki-67
+(i and ii), cell apoptosis marker, caspase 3 (active form; iii and iv), and
+DNA fragmentation of apoptosis cell with TUNEL staining (v and vi).
+The Ki-67- and caspase 3-positive cells were stained brown and
+TUNEL-positive cells were stained green (·400).
+1260 N.-M. Tsai et al.
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262
+  2006 The Authorsexpression involving the cyclin/CDK/CKI cell cycle regula-
+tory system (Figs 2a and b). The p53 molecule is a negative
+regulator of cell division. In response to DNA damage,
+oncogenic activation of other proteins and other stresses, p53
+levels rise and prevent cells from entering the S phase of the
+cell cycle (Reed et al. 1994; Sherr and Robert 1995). The p16
+and p21 proteins are cdk inhibitors that negatively regulate
+cdk or cyclin/cdk complexes (Sherr et al. 1995). The p16
+protein, a member of the INK4 family, binds to cdk4 or cdk6
+to block the kinase activities at the mid-G1 phase (Reed et al.
+1994). The p21 protein binds to the cyclin/cdk complex,
+resulting in the inhibition of the G1 to S phase transition
+(Dobashi et al. 2003) via the abrogation of Rb phosphory-
+lation by the cyclin/cdk complex. Therefore, the decrease in
+phosphorylated Rb should be due to a BP-triggered expres-
+sion of the cdk inhibitors, which decreases the activities of the
+cyclin/cdk complex. A precedent for this mechanism exists
+with monoterpene, an essential oil of plants (like BP) that is a
+natural anti-cancer compound, which causes G1 arrest and
+leads to an increase in p21 expression (Bardon et al. 2002).
+Another example is aragusterol A. This compound, isolated
+from marine sponges, is a potent anti-cancer marine steroid
+that causes G1 arrest by down-regulation of Rb phosphory-
+lation (Fukuoka et al. 2000).
+The immunoblotting results inferred the possible mecha-
+nisms of apoptosis induced by BP in GBM tumor cells. First,
+the p53-dependent apoptosis pathway was supposed because
+BP treatment could promote the phosphorylation of p53 in
+the DBTRG tumor cells and increase p53 expression, which
+peaked at 12 h (Fig. 2a). Phosphorylation at the N-terminal
+region of p53 abolishes Mdm2 inhibition, which causes an
+increase in Bax transcription (Fig. 2c shows that Bax
+proteins were increased) and an inhibition of Bcl-2 tran-
+scription. Because of Bax/Bcl-2 imbalance, Bax can form an
+active homodimer to trigger cleavage of procaspase 9
+(Fig. 2c shows that caspase 9 was increased) and sequen-
+tially results in procaspase 3 activation (Fig. 2d also shows
+that caspase 3 was increased) to proceed apoptosis processes.
+Second, the Fas–FasL-induced apoptosis pathway may also
+be involved in BP-induced apoptosis. After BP treatment,
+increasing expression of Fas was observed (Fig. 2d). Fas is
+the death receptor responsible for signaling from the cell
+membrane, which triggers the activation of procaspase 8
+(Fig. 2d shows that caspase 8 was increased) and subse-
+quently, promotes procaspase 3 activation resulting in
+apoptosis. In order to examine these parameter cause related,
+different pharmcological blockers had been approach.
+Brieﬂy, we pre-treated DBTRG cells with the Fas/FasL
+antagonist, 341291 (Calbiochem), or the Bax-inhibiting
+peptide, 196810 (Calbiochem), then treated the cells with
+BP to determine the effects of these inhibitors. We found that
+neither Fas/Fas L nor Bax-inhibiting peptide could reverse
+BP-induced growth inhibition. However, BP-induced growth
+inhibition effect might be attenuated by the MGMT (O
+6-
+methylguanine-DNA methyltransferase) tranfection assay
+(data not shown). MGMT is a recognized DNA repair gene
+(Tano et al. 1997). These results suggest that BP might be an
+alkylating agent. It could directly injure tumor DNA and
+cause tumor cell arrest at the G0/G1 phase in order to repair
+the damage. Our study using blocking agents indicated that
+Fas/Fas L and Bax were not cause tumor apoptosis
+molecules. The upper regulation of Fas and Bax protein
+was an association phenomenon.
+RG2 cells have impaired p53 expression and homozygous
+deletions at the p16/Cdkn2a/Ink4a gene locus. Therefore,
+BP-induced apoptosis should be caused via a p53-indepedent
+pathway (Fas-induced apoptosis pathway) but not a
+p53-depedent pathway. However, although RG2 cells were
+impaired for p53 and p16, p27 and procaspase 9 expression
+induced by BP were increased in these cells. Thus, certain
+mechanisms of p53-independent activation of procaspase
+9 and p27 induction may be involved in BP-induced cell
+apoptosis and cell growth inhibition. The molecular proﬁle
+shown in Fig. (2) between DBTRG8401 and DBTRG-05 is
+much similar to RG2. The RG2 cells had no p53 protein
+expression. It might be the possibility of different proﬁle of
+caspase-9 and p27 activation between DBTRG and RG2
+cells.
+Transdermally-applied BP quickly permeates the periph-
+eral circulation system without accumulating in the skin; it is
+then distributed into the lung, liver, bile, brain and kidney.
+Total radioactivity, however, is decreased due to its excretion
+into the urine. In the case of intravenous administration, 80%
+of the administered BP is excreted into the urine within 24 h,
+while only 5% is excreted into the feces. The metabolite in
+urine is a cysteine conjugate (Sekiya et al. 2000). In our
+experiment, DBTRG-05MG cells (2.5 · 10
+6) were injected
+s.c. into the backs of nude mice (ﬁve to six/group) and
+treated with BP on days 4, 5, 6, 7 and 8 after tumor cell
+implantation. Survival of nude mice was signiﬁcantly
+prolonged in the BP-treated groups, relative to the control
+group (Fig. 5b; p < 0.001). On day 200, the survival rate in
+the BP-800 mg/kg-treated group was 83.3% (5/6). Because
+BP is excreted into the urine within 24 h, it is interesting to
+note that ﬁve continuous doses showed signiﬁcant tumor
+inhibition.
+In conclusion, BP has potent anti-cancer effects on cell-
+cycle arrest and apoptosis. The present results provide new
+hope for chemotherapy of malignant brain cancer. This may
+lead to new therapeutic options in the treatment of malignant
+brain cancer, and an improved understanding of the interac-
+tions between phytochemicals with the genes that are critical
+to the regulation of brain cancer cells.
+Acknowledgements
+This work was supported by grant NSC94-2320-B303-001 from
+National Science Council, Taiwan, Republic of China.
+n-Butylidenephthalide chemotherapy on malignant brain tumor 1261
+  2006 The Authors
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262References
+Abebe W. (2002) Herbal medication: potential for adverse interactions
+with analgesic drugs. J. Clin. Pharm. Ther. 27, 391–401.
+Bardon S., Foussard V., Fournel S. and Loubat A. (2002) Monoter-
+penes inhibit proliferation of human colon cancer cells by
+modulating cell cycle-related protein expression. Cancer Lett.
+181, 187–194.
+Bello L., Carrabba G. and Giussani C. (2001) Low-dose chemotherapy
+combined with an antiangiogenic drug reduces human glioma
+growth in vivo. Cancer Res. 61, 7501–7506.
+Blacklock J. B., Wright D. C. and Dedrick R. L. (1986) Drug streaming
+during intra-arterial chemotherapy. J. Neurosurg. 64, 248–291.
+Cheng Y. L., Chang W. L. and Lee S. C. (2004) Acetone extract of
+Angelica sinensis inhibits proliferation of human cancer cells
+via inducing cell cycle arrest and apoptosis. Life Sci. 75, 1579–
+1594.
+Dobashi Y., Takehana T. and Ooi A. (2003) Perspectives on cancer
+therapy: cell cycle blockers and perturbators. Curr. Med. Chem. 10,
+2549–2258.
+Elliott P. J., Hayward N. J., Huff M. R., Nagle T. L., Black K. L. and
+Bartus R. T. (1996) Unlocking the blood–brain barrier: a role for
+RMP-7 in brain tumor therapy. Exp. Neurol. 141, 214–224.
+Fukuoka K., Yamagishi T. and Ichihara T. (2000) Mechanism of action of
+aragusterola(YTA0040),apotentantitumormarinesteroidtargeting
+the G(1) phase of the cell cycle. Int. J. Cancer 88, 810–819.
+Giese A., Bjerkvig R., Berens M. E. and Westphal M. (2003) Cost of
+migration: invasion of malignant gliomas and implications for
+treatment. J. Clin. Oncol. 21, 1624–1636.
+Graham D. I. and Lantos P. L. (2002) Greenﬁeld’s Neuropathology, 7th
+edn. Hodder Arnold Press, London.
+Ko W. C. (1980) A newly isolated antispasmodic-n-butylidenephthalide.
+Jpn J. Pharmacol. 30, 85–91.
+Ko W. C., Sheu J. R., Tzeng S. H. and Chen C. M. (1998) The selective
+antianginal effect without changing blood pressure of n-butylide-
+nephthalide in conscious rats. Planta Med. 64, 229–232.
+Ko W. C., Liao C. C., Shih C. H., Lei C. B. and Chen C. M. (2002)
+Relaxant effects of n-butylidenephthalide in isolated dog blood
+vessels. Planta Med. 68, 1004–1009.
+Mahaley S. J., Mettlin C., Natarajan N., Laws R. J. and Peace B. B.
+(1989) National survey of patterns of care for brain-tumor patients.
+J. Neurosurg. 71, 826–836.
+Mimura Y., Kobayashi S., Naitoh T., Kimura I. and Kimura M. (1995)
+The structure-activity relationship between synthetic n-butylide-
+nephthalide derivatives regarding the competence and progression
+of inhibition in primary cultures proliferation of mouse aorta
+smooth muscle cells. Biol. Pharm. Bull. 18, 1203–1206.
+Reed S. I., Bailly E., Dulic V., Hangst L., Resnitzky D. and Slingerland
+J. (1994) G1 control in mammalian cells. J. Cell Sci. 18, 69–73.
+Santarius T., Kirsch M., Rossi M. L. and Black P. M. (1997) Molecular
+aspects of neuro-oncology. Clin. Neurol. Neurosurg. 99, 184–195.
+Sekiya K., Tezuka Y. and Tanaka K. (2000) Distribution, metabolism and
+excretion of n-butylidenephthalide of Ligustici chuanxiong rhiz-
+oma in hairless mouse after dermal application. J. Ethnopharma-
+col. 71, 401–409.
+Shapiro W. R. and Green S. B. (1987) Reevaluating the efﬁcacy of intra-
+arterial BCNU. J. Neurosurg. 66, 313–315.
+Sherr C. J. and Robert J. M. (1995) Inhibitors of mmmmalian G1 cyclin-
+dependent kinases. Genes Dev. 9, 1149–1163.
+Tano K., Dunn W. C., Darroudi F., Shiota S., Preston R. J., Natarajan A.
+T. and Mitra S. (1997) Ampliﬁcation of the DNA repair gene
+O
+6-methyguanine DNA methyltranferase associated with resist-
+ance to alkylating drugs in a mammalian cell line. J. Biol. Chem.
+272, 13 250–13 254.
+Teng C. M., Chen W. Y., Ko W. C. and Ouyang C. H. (1987) Antiplatelet
+effect of n-butylidenephthalide. Biochim. Biophys. Acta 924, 375–
+382.
+Tsai N. M., Lin S. Z., Lee C. C., Chen S. P., Su H. C., Chang W. L. and
+Harn H. J. (2005) The antitumor effects of Angelica sinensis on
+malignant brain tumors in vitro and in vivo. Clin. Cancer Res. 11,
+3475–3484.
+Wang H., Chen R. and Xu H. (1998) Chemical constituents of radix
+Angelicae sinensis. Zhongguo Zhong Yao Za Zhi 23, 167–168.
+Ye Y. N., Koo M. W., Li Y., Matsui H. and Cho C. H. (2001a) Angelica
+sinensis modulates migration and proliferation of gastric epithelial
+cells. Life Sci. 68, 961–968.
+Ye Y. N., Liu E. S. and Li Y. (2001b) Protective effect of polysaccha-
+rides-enriched fraction from Angelica sinensis on hepatic injury.
+Life Sci. 69, 637–646.
+Yim T. K., Wu W. K., Pak W. F., Mak D. H., Liang S. M. and Ko K. M.
+(2002) Myocardial protection against ischaemia-reperfusion injury
+by a Polygonum multiﬂorum extract supplemented ‘Dang-Gui
+decoction for enriching blood’, a compound formulation, ex vivo.
+Phytother. Res. 14, 195–199.
+1262 N.-M. Tsai et al.
+Journal Compilation   2006 International Society for Neurochemistry, J. Neurochem. (2006) 99, 1251–1262
+  2006 The Authors

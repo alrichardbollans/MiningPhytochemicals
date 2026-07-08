@@ -1,0 +1,659 @@
+Article 
+J. Braz. Chem. Soc., Vol. 21, No. 5, 851-858, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: pedro@quimica.ufg.br
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity of 
+the Essential Oils of Eugenia uniflora Leaves
+Deomar P. Costa,a Elenilson G. Alves Filho,a Lorena M. A. Silva,a Suzana C. Santos,a 
+Xisto S. Passos,b,d Maria do Rosário R. Silva,b José C. Seraphinc and Pedro H. Ferri*,a
+aInstituto de Química, bInstituto de Patologia Tropical e Saúde Pública and cInstituto de Matemática 
+e Estatística, Universidade Federal de Goiás, CP 131, 74001-970 Goiânia-GO, Brazil
+dInstituto de Ciências da Saúde, Universidade Paulista, 74845-090 Goiânia-GO, Brazil 
+A análise multivariada da composição química dos óleos essenciais das folhas de Eugenia 
+uniflora com diferentes cores de fruto indicou a presença de três grupos de óleos em relação ao 
+biótipo do fruto das amostras. O primeiro grupo incluiu amostras de frutos amarelos, vermelhos 
+escuros e roxos contendo altas percentagens de germacreno B (11,1-30,7%), germacrona (9,8-54%) 
+e atractilona (0-19,9%). No grupo II, com amostras de frutos vermelhos claro, os constituintes 
+majoritários foram o curzereno (42,0-43,2%), germacreno D (8,7-9,0%) e germacreno A (5,9-8,9%), 
+enquanto que o grupo III incluiu amostras com frutos vermelho-alaranjado, caracterizadas por um 
+alto conteúdo de selina-1,3,7(11)-trien-8-ona (40,3-55,4%) e epóxido de selina-1,3,7(11)-trien-
+8-ona (12,7-24,4%). Os óleos essenciais foram investigados frente ao fungo Paracoccidioides 
+brasiliensis pela técnica de macrodiluição em caldo. O resultado mais significativo foi obtido com 
+o óleo do grupo II, com a forma leveduriforme de P. brasiliensis sendo inibida completamente na 
+concentração de 62,5 mg mL-1. 
+The multivariate chemical analysis of essential oils of Eugenia uniflora leaves with different 
+fruit colours indicated the presence of three oil clusters regarding sample biotypes. The first 
+cluster included yellowish, dark red and purple fruits with high percentages of germacrene B 
+(11.1-30.7%), germacrone (9.8-54%) and atractylone (0-19.9%). In cluster II, with bright red 
+fruit samples, the major constituents were curzerene (42.0-43.2%), germacrene D (8.7-9.0%) and 
+germacrene A (5.9-8.9%), whereas cluster III included red-orange fruit samples containing high 
+contents of selina-1,3,7(11)-trien-8-one (40.3-55.4%) and selina-1,3,7(11)-trien-8-one epoxide 
+(12.7-24.4%). The clustered oils were investigated against the systemic fungus Paracoccidioides 
+brasiliensis via the broth macrodilution method. The oil from cluster II revealed the most 
+significant result. The yeast form of P. brasiliensis was completely inhibited at a concentration 
+of 62.5 mg mL-1.
+Keywords: Eugenia uniflora, essential oil, chemical variability, antifungal activity, 
+Paracoccidioides brasiliensis
+Introduction
+Fungal infections are common in tropical countries and 
+may have a major impact on public health. Whereas the 
+dermatophyte fungi group is of common occurrence,1 the 
+incidence of systemic infections due to Paracoccidioides 
+brasiliensis (Splendore) Almeida has increased in the 
+last two decades.2 P. brasiliensis is an etiological agent 
+of paracoccidioidomycosis, the most prevalent human 
+systemic mycosis in Latin America, where up to 10 
+million individuals are estimated to be infected.3 This 
+thermally dimorphic fungus grows as a filamentous saprobe 
+(mycelium) in the soil at 25 °C and as a multicelular parasitic 
+form (yeast) in the host. The shift from the mycelial to the 
+yeast form (36 °C) is crucial for the infection of the human 
+host. The heat shock response of P. brasiliensis to an abrupt 
+increase in environmental temperature during infection 
+results in the expression of the heat shock protein family 
+of 60 (HSP60) and 70 kDa (HSP70).4 HSPs are regarded 
+as suitable targets for antimicrobial drug development.5
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity J. Braz. Chem. Soc.852
+A previous phytochemical study of Eugenia uniflora L. 
+(Myrtaceae) leaves has identified that macrocyclic ellagitannin 
+dimmer oenothein B is responsible for the inhibition of 
+HSP60 and (1,3)-b-glucan synthase (Pbfks1) transcript of 
+P. brasiliensis.6 In addition, the yeast phase was inhibited by 
+non-polar fractions of the leaf ethanolic extract constituted 
+by terpenoids, mainly oxygenated sesquiterpenes.7 Curzerene 
+(isofuranegermacrene), germacrene B and atractylone 
+were the major constituents, all previously identified in the 
+essential oils of E. uniflora and probably responsible for the 
+antifungal activity.8-12 E. uniflora leaves have been used in 
+folk medicine for the treatment of diarrhoea,13 hyperglycemia, 
+hyperlipidemia and hypertension.14 Furthermore, they have 
+been used as an antimalarial and spasmolytic agent as well 
+as enzyme inhibitors.15-17 Antimicrobial activities have also 
+been reported for leaf essential oils against bacterial and 
+dermatophyte isolates.18
+The aim of this study was to investigate the chemical 
+constituents of the essential oils from E. uniflora leaves 
+with different fruit colour biotypes, in order to provide 
+evidence for the existence of varieties of this species and 
+to investigate whether these biotypes/chemotypes express a 
+similar antifungal activity against P. brasiliensis. Essential 
+oils from mature leaves of representative populations 
+with yellowish, red (bright red, red-orange and dark red) 
+and purple fruit colours were analyzed by GC-MS. To 
+study chemical variability, chemical constituents were 
+submitted to multivariate analysis to detect the pattern 
+distribution of samples and to identify which constituents 
+are able to distinguish between these groups of individuals. 
+Representative clustered oils were submitted to an antifungal 
+susceptibility assay with the yeast form of P. brasiliensis 
+via the standard broth macrodilution method, according to 
+the National Committee for Clinical Laboratory Standard.
+Results and Discussion
+Fruit colour variations are well known in E. uniflora, 
+although varieties according to fruit colour biotypes are not 
+easily definable.19 Previous studies have mainly focused on 
+the essential oils of leaves and only a few have investigated 
+oils extracted from fruits.8-12,20-22 The description of the colour 
+of sampled fruits is frequently excluded from these studies.11 
+According to a recent study, the essential oil of two fruit 
+colour biotypes from both leaves and fruits of E. brasiliensis 
+Lam. may indicate the presence of the two chemotypes of 
+this species.23 
+In this study, E. uniflora leaf essential oils were obtained 
+from species with three main fruit colour biotypes: yellowish, 
+red (bright red, red-orange and dark red) and purple.24 
+A total of 36 compounds were identified, accounting for 
+91.3-94.6% of volatile constituents (Table 1). The essential 
+oils predominantly contained a sesquiterpene hydrocarbon 
+composition, even though the oxygenated sesquiterpene 
+content for some samples was over 75.5%. Essential oils from 
+E. uniflora have showed that, although the main constituent 
+may vary, sesquiterpenes are usually the dominant class.8-12,22 
+Nevertheless, leaf oils from plants growing in Argentina 
+whose main constituents were the monoterpenes pulegone, 
+carvone and limonene and the sesquiterpene nerolidol have 
+been described.20
+Results obtained from PCA (18 samples × 12 variables = 
+216 data) and nearest neighbour complete linkage cluster 
+analysis using Ward’s technique revealed high chemical 
+variability between leaf essential oil biotypes. Figure 1 
+shows the relative position of the individuals to an axial 
+system originated in the PCA. The first PC accounts for 
+53.1% of total variance and discriminates well above the 
+99% confidence level the oxygenated sesquiterpenes of red-
+orange fruit colour samples from other biotypes. The second 
+PC discriminates (p < 0.0001) bright red fruit samples by 
+their high sesquiterpene hydrocarbon content. 
+Therefore, three types of leaf essential oils were found: 
+cluster I (samples with yellowish, dark red and purple fruit 
+colours) was characterised (p < 0.015) by a high percentage 
+of germacrene B (21.6 ± 7.2%), atractylone (11.7 ± 5.3%), 
+germacrone (17.3 ± 13.2%) and b-caryophyllene (8.7 ± 
+3.7%); cluster II (samples with bright red fruit colour) 
+had curzerene (42.6 ± 0.9%), germacrene D (8.8 ± 0.1%), 
+Figure 1. PCA biplot of E. uniflora leaf oil samples of yellowish (square 
+symbols), red (circle symbols) and purple (triangle symbols) fruit colour 
+biotypes to whose cluster it belongs: I (black shaded symbols) with 
+yellowish, dark red and purple fruits; II (unshaded symbols) with bright 
+red fruits; and III (grey shaded symbols) with red-orange fruit samples. 
+aAxes refer to scores from the samples. bAxes refer to loadings from oil 
+constituents (Table 1), and selected variables are represented as vectors 
+from the origin. Crosses represent cluster centroids and values between 
+parentheses refer to the explained variance on each Principal Component.
+Costa et al. 853Vol. 21, No. 5, 2010
+germacrene A (7.4 ± 1.5%) and b-elemene (4.4 ± 0.1%) as 
+principal constituents (p < 0.003); and cluster III (samples 
+with red-orange fruit biotypes) contained high amounts 
+(p < 0.029) of selina-1,3,7(11)-trien-8-one (48.2 ± 5.7%), 
+selina-1,3,7(11)-trien-8-one epoxide (19.3 ± 4.3%), 
+spathulenol (4.1 ± 5.0%) and d-selinene (3.3 ± 2.9%). 
+Single Ion Monitoring (SIM) GC-MS analysis indicated that 
+samples from clusters I and II did not show selina-1,3,7(11)-
+trien-8-one or their epoxide derivative, whereas samples from 
+cluster III detected curzerene, germacrene B and atractylone. 
+The latter was also verified in cluster II samples by the 
+CG-MS-SIM technique. All similarities between sampled 
+oil constituents are shown in the dendrogram of Figure 2. 
+In order to assimilate the overall trend in volatile 
+leaf oils and to reduce the uncontrolled factors affecting 
+quantitative variations, the constituent data were also 
+coded as independent single characters (either present or 
+absent), as recommended by Sneath and Sokal.25 Multiple 
+Correspondence Analyses revealed a similar chemical 
+Table 1. Percentagesa, yields and retention indexes in volatiles of clustered leaf oils from E. uniflora with different fruit colour biotypes collected in the 
+Central Brazilian Cerrado
+Constituent Rl Cluster I Cluster II Cluster III
+Myrcene 990 0.1 - -
+a-Phellandrene 1002 t - -
+a-Terpinene 1017 0.1 - -
+(Z)-b-Ocimene 1037 0.1 - -
+(E)-b-Ocimene 1050 0.3 - -
+g-Terpinene 1059 t - -
+r-Mentha-2,4(8)-diene 1088 t - -
+Linalool 1096 0.1a - 0.3a
+Presilphiperfol-7-ene 1336 t - -
+d-Elemene 1338 0.5a 1.1b 0.1c
+b-Elemeneb 1390 2.5a 4.4b 1.7a
+b-Caryophylleneb 1419 8.7a 7.0 2.2b
+g-Elemene 1436 0.4a 0.3ab 0.1b
+a-Humulene 1454 0.4a - 0.1b
+allo-Aromadendrene 1460 0.3a 0.6a -
+Germacrene Db 1485 4.4a 8.8 1.6b
+b-Selinene 1490 0.3a 0.4 0.1b
+d-Selineneb 1492 0.1a 0.6 3.3a
+Curzereneb 1499 20.5 42.6 -*
+Germacrene Ab 1509 3.4a 7.4b 1.2c
+d-Amorphene 1512 0.3a 1.1 0.1a
+Germacrene Bb 1561 21.6a 3.4 5.9b
+Spathulenolb 1578 1.0a - 4.1a
+aBased on original data. bConstituents selected for PCA (see Experimental section). c25 °C, 590 nm. Rl = Retention Index; t = trace (< 0.1%); *detected 
+by GC-MS-SIM. Means followed by the same letter in the rows did not share significant differences at 5% probability by Tukey’s test. – = not detected
+Constituent Rl Cluster I Cluster II Cluster III
+Caryophyllene oxide 1583 0.5a - 1.3a
+Thujopsan-2a-ol 1587 0.1a - 0.3a
+Selina-1,3,7(11)-trien-8-oneb 1634 - - 48.2
+Selina-3,11-dien-6a-ol 1644 - - 0.3
+Pogostol (guai-11-en-10-ol) 1653 - - 0.1
+Atractyloneb 1658 -* -* 11.7
+14-hydroxy-9-epi-b-
+Caryophyllene
+1669 - - 0.4
+Occidenol 1677 - - 0.3
+Germacra-4(15),5,10(14)-
+trien-1a-ol
+1686 - - 0.1
+Germacroneb 1693 17.3a 13.5 0.8b
+Nootkatol 1715 - - 0.2
+Selina-1,3,7(11)-trien-8-one 
+epoxideb
+1748 - - 19.3
+2a-hydroxy-Amorpha-
+4,7(11)-diene
+1776 - - 0.1
+Monoterpene hydrocarbons 0.5 - -
+Oxygenated monoterpenes 0.1a - 0.3a
+Sesquiterpene hydrocarbons 63.5a 77.8b 16.5c
+Oxygenated sesquiterpenes 30.6a 13.5b 75.5c
+Total identified 94.6a 91.3a 92.3a
+Oil yield (%) 0.26a 0.25a 0.22a
+Refractive indexc 1.5156a 1.5257a 1.5203a
+Figure 2. Dendrogram representing chemical composition similarity 
+relationships among E. uniflora leaf oil samples of yellowish (square 
+symbols), red (circle symbols) and purple (triangle symbols) fruit colour 
+biotypes to whose cluster it belongs: I (black shaded symbols) with 
+yellowish, dark red and purple fruits; II (unshaded symbols) with bright 
+red fruits; and III (grey shaded symbols) with red-orange fruits.
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity J. Braz. Chem. Soc.854
+distinction between the biotypes sampled.26 Clusters I and 
+II were clustered and cluster III was split based on up and 
+down samples in relation to the second PC origin, as shown 
+in Figure 1 (data not shown).
+The canonical discriminant analysis (CDA) confirmed 
+the clustering as a priori groupings. Furthermore, an axial 
+system that originated in the CDA discriminated well 
+above the 99% confidence level the three types of essential 
+oils based only on the contents of curzerene and selina-
+1,3,7(11)-trien-8-one as predictor variables (Table 2). The 
+first discriminant function (F1) accounts for ca. 97% of 
+total variability and separates cluster III from clusters I/II 
+(F-test value = 104.07; degrees of freedom, DF = 4 and 28; 
+p < 0.0001), due to the high content of selina-1,3,7(11)-
+trien-8-one. On the other hand, the second discriminant 
+function (F2) distinguishes cluster II from I as a result of the 
+high content of curzerene (F = 37.07; DF = 1 and 15; p < 
+0.0001). In addition, the two discriminant functions allow an 
+accurate prediction of total well-classification in the original 
+clusters via cross-validation or Jackknife approaches. These 
+approaches consider a slightly reduced number of samples 
+from the parent data set, estimate parameters for each of 
+these modified data sets, and then calculate the accuracy of 
+the predictions for the samples previously removed by the 
+resulting models.27
+Similarly to a previous study which analyzed essential 
+leaf oils of purple and yellow fruits of E. brasiliensis,23 our 
+results may confirm the presence of varieties/chemotypes 
+for E. uniflora due to the remarkable difference in chemical 
+composition according to fruit colour biotypes. In fact, the 
+literature combined with our findings led us to deduce that 
+the chemotype growing in the Brazilian Northeast and in 
+Nigeria, which exhibited selina-1,3,7(11)-trien-8-one and 
+selina-1,3,7(11)-trien-8-one epoxide (cluster III), is probably 
+the most common orange-red fruit biotype in this region.9,11 In 
+recent study,28 the chemical polymorphism in leaf oils of this 
+chemotype revealed to be environmentally determined by a 
+clear seasonal influence. Two other essential oil chemotypes 
+of the plant have been reported: the chemotype growing in 
+the south of Brazil, which contained a- and b-selinene and 
+nerolidol,21 and the chemotype growing in Argentina, whose 
+main constituents were monoterpenes and the sesquiterpene 
+nerolidol.20 These chemical data could be confirmed by genetic 
+studies based on nuclear and chloroplastic DNA markers. 
+These studies indicate that a more restricted gene flow may 
+exist between E. uniflora populations from the Brazilian South, 
+Northeast and Southeast.29
+The chemical oil composition from the Brazilian Northern 
+sampling site is similar to that of cluster II,10 although 
+the content of germacrene B was higher than that of our 
+samples. In addition, the abundance of curzerene (20.5%), 
+germacrene B (21.6%), atractylone (11.7%) and germacrone 
+(17.3%) in our samples (cluster I) showed a marked deviation 
+from previous leaf oil investigations, despite the fact that this 
+study has described higher contents of curzerene (50.2%);12 
+curzerene (19.7%), atractylone (16.9%) and selina-1,3,7(11)-
+trien-8-one (17.8%);11 curzerene (30%), germacrene B 
+(15.6%) and germacrone (32.8%);10 curzerene (24%), selina-
+1,3,7(11)-trien-8-one (17%), selina-1,3,7(11)-trien-8-one 
+epoxide (14%),8 and selina-1,3,7(11)-trien-8-one (48.5%).30 
+Furthermore, oil constituents such as pulegone, carvone, 
+a-selinene and nerolidol, typical in other studies, were not 
+detected in our oil samples.20 This variation pattern in the leaf 
+essential oil suggests that the observed chemical variations 
+may be a result of the existence of new chemotypes for E. 
+uniflora associated to yellowish, dark red and purple fruit 
+colour biotypes. 
+Representative clustered oils were investigated against 
+a P. brasiliensis reference strain (ATCC 90659) and three 
+clinical isolates (Pb65, Pb1578 and Pb8334) via the standard 
+broth macrodilution method, following NCCL M27-A2 
+guidelines with modifications.31 Based on MIC and MFC 
+Table 2. Canonical discriminant analysis summary of E. uniflora leaf oils
+Canonical 
+functions
+Eigenvalue Relative
+percentage
+Canonical
+correlation
+Wilks’
+lambda
+F DF P-value
+F1 71.530 96.7 0.993 0.004 104.07 4; 28 0.0001
+F2 2.471 3.3 0.844 0.288 37.07 1; 15 0.0001
+Standardized coefficients Curzerene                         Selina-1,3,7(11)-trien-8-one
+F1 0.32 -0.95
+F2 0.95 0.32
+Canonical scores of cluster means Cluster I Cluster II Cluster III
+F1 4.53 6.12 -12.43
+F2 -0.77 3.90 0.15
+Number of samples = 18; discriminant variables: curzerene and selina-1,3,7(11)-trien-8-one.
+Costa et al. 855Vol. 21, No. 5, 2010
+values (Table 3), the most significant finding was obtained 
+with the oil from cluster II. The yeast form of P. brasiliensis 
+was completely inhibited at a concentration of 62.5 mg mL-1, 
+whereas oils from clusters III and I exhibited MIC values of 
+250 and 500 mg mL-1, respectively. MIC values were similar 
+against various isolates and in relation to those non-polar 
+fractions of the previously reported leaf ethanolic extract.7 
+All three oils readily killed P. brasiliensis isolates, although 
+the oil from cluster II had the lowest MFC. These results may 
+be associated to curzerene and germacrone in cluster II. On 
+the other hand, the inhibitions and fungicidal activities of 
+oils from clusters III and I may be related to selinatrienone 
+derivatives and curzerene, respectively. Curzerene is 
+structurally related to atractylone, which has shown an 
+antiproliferative effect on tumour cell lines.32 Its derivative, 
+atractylenolide III, inhibited the synthesis of mammal heat 
+shock proteins HSP60 and HSP27 kDa family and enhances 
+the effect of chemotherapy.33 Germacrone and curzerene have 
+been described as active phytoconstituents in rizhome oils 
+from Curcuma zedoaria (Berg.) Rosc. (Zingiberaceae).34
+Conclusions
+The essential oil from E. uniflora leaves grown in the 
+Central Brazilian Cerrado revealed a high polymorphism 
+which might be influenced by fruit colour biotypes. 
+Therefore, caution is required in all chemical and biological 
+investigations of Eugenia oils because of such influence. In 
+addition, E. uniflora essential oils showed very promising 
+results in the antifungal assay against the systemic fungus 
+P. brasiliensis and warrant further study.
+Experimental
+Plant material
+E. uniflora leaves in the vegetative phenophase were 
+collected in June 2002 and 2003 and from June to August 
+2007 in the vicinities of Goiânia (S 16° 35’ 14”; W 49° 17’ 
+40”; 736 m; four red fruit specimens), Santo Antônio de 
+Goiás (S 16° 30’; W 49° 19’; 773 m; two yellowish and two 
+purple specimens), Nova Veneza (S 16° 21’ 44”; W 49° 18’ 
+39”; 773 m; eight red fruit specimens) and Anápolis (S 16° 
+20’ 13”; W 48° 56’ 19”; 1034 m; two red fruit specimens), 
+Goiás State, Brazil. Leaves from red fruit specimens were 
+also separated in bright red (two samples), red-orange (five 
+samples) and dark red (seven samples) biotypes. Fruit colour 
+biotypes were based when the fruits were completely ripe. 
+Specimens were identified by Professor Heleno Dias Ferreira 
+of the Department of Biology of Universidade Federal de 
+Goiás (UFG), Goiás State, Brazil. A voucher specimen is 
+deposited at UFG’s herbarium (code number 25477). 
+To assess the chemical oil composition, the leaves were 
+dried at room temperature for 7 days at 30 °C until constant 
+weight. After having been powdered, the dried phytomass 
+(10-50 g) of each sample was submitted to hydrodistillation 
+(2 h) using a modified Clevenger-type apparatus. At the end 
+of each distillation the oils were collected and dried with 
+anhydrous Na2SO4, transferred to glass flasks and kept at 
+a temperature of -18 °C. Oil yields (%) were based on the 
+dried weight of plant samples. 
+Chemical analysis
+Oil sample analyses were performed on a GC-MS 
+Shimadzu QP5050A instrument under the following 
+conditions: a CBP-5 (Shimadzu) fused silica capillary 
+column (30 m × 0.25 mm i.d., 0.25 mm film thickness) 
+connected to a quadrupole detector operating in the EI mode 
+at 70 eV with a scan mass range of 40-400 m/z at a sampling 
+rate of 1.0 scan s-1; carrier gas: He (1 mL min-1); injector and 
+interface temperatures of 220 °C and 240 °C, respectively, 
+with a split ratio of 1:20. The injection volume was 0.4 mL 
+(20% in hexane) and the oven temperature was raised 
+from 60 to 246 °C, with an increase of 3 °C min-1, then of 
+10 °C min-1 to 270 °C, holding the final temperature for 
+5 min. Selected Ion Monitoring (SIM) was performed in the 
+same conditions of the scan analyses. Individual components 
+were identified by comparing their linear retention indexes 
+(Rl),35 by co-injection with a C8-C32 n-alkanes series,36 mass 
+spectra with those of the literature,35 and computerised 
+MS-database using NIST libraries.35 
+Chemical variability
+Principal component analysis (PCA) was applied to 
+examine the interrelationships between populations and their 
+essential oil constituents, via Système Portable d’Analyse 
+des Données-SPAD software package, version 5.5, Centre 
+International de Statistique et d’Informatique Appliquées, 
+Table 3. MIC (mg mL-1) and MFC (mg mL-1) values of representative 
+clustered oils from E. uniflora leaves against P. brasiliensis strains via 
+standard broth macrodilution method
+Strain
+Cluster I Cluster II Cluster III
+MIC MFC MIC MFC MIC MFC
+Pb65 500 500 62.5 125 250 250
+Pb1578 500 500 62.5 125 250 250
+Pb8334 250 500 62.5 125 250 250
+ATCC 90659 > 500 - 62.5 - 250 -
+- : unavailable.
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity J. Braz. Chem. Soc.856
+France (2002). Cluster analysis was also applied to the study 
+of sample similarity on the basis of essential oil constituent 
+distribution. Nearest neighbour complete linkage technique 
+by Benzécri algorithm was used as an index of similarity and 
+hierarchical clustering was performed according to Ward’s 
+variance minimizing method.37,38 For the variable selection, 
+the threshold of residual eigenvalues (≤ 0.70) in the original 
+data matrix (18 samples × 36 variables = 648 data) was used 
+to establish the maximum number of variables which could 
+be removed. Effectively eliminated variables expressed the 
+highest loadings in the lowest residual eigenvalues and also 
+contributed ≤ 0.7% to the chemical profiles (average values).
+Canonical Discriminant analysis via SAS CANDISC 
+procedure (Statistical Analysis System, SAS Institute Inc., 
+Cary, NC, 1996) was used to differentiate samples and 
+clusters on the basis of oil composition. The predictive ability 
+of canonical discriminant functions was evaluated by cross-
+validation and Jackknife approaches as implemented in SAS 
+statistical package. Prior to the multivariate analysis, the 
+data was preprocessed by auto-scaling and mean centering.
+Average multiple comparisons were established by 
+univariate variance analysis (ANOVA) using SAS GLM 
+analyses. All data were checked for homoscedasticity with 
+Hartley’s test. This test revealed significant deviation from 
+the basic assumption for the oil components caryophyllene 
+oxide (Table 1), allo-aromadendrene, d-selinene, germacrene 
+A, spathulenol, germacrone and sesquiterpene hydrocarbons, 
+which were arcsine and rank-transformed, respectively. 
+Whenever a difference was established, a post-hoc Tukey 
+test was performed. Results are shown as mean values 
+and are joined by the standard deviation of independent 
+measurements in some cases. P-values below 0.05 were 
+regarded as significant.
+Microorganisms
+Yeast cells of a reference strain (ATCC 90659) and 
+of three clinical isolates of P. brasiliensis recovered from 
+patients with paracoccidioidomycosis were subcultured 
+every seven days on agar Sabouraud medium (1% 
+peptone, 0.5% yeast extract, 0.1% brain heart infusion; 
+4% glucose and 0.8% agar, pH 7.2) at 36 ± 1 °C prior to 
+the susceptibility testing. 
+Antifungal susceptibility test
+Susceptibility testing was performed following the 
+standard broth dilution method according to NCCLS-
+CLSI M27-A2 guidelines with modifications.31 Briefly, 
+for the inhibition assays, yeast cells in their exponential 
+growth phase were kept on solid RPMI 1640 with 
+glutamine and phenol red, supplemented with 0.2% 
+glucose and buffered to a pH 7.0 with 0.165 mol L-1 
+3-morpholinepropanesulfonic acid (MOPS; Sigma, 
+St. Louis) for seven days at 36 ± 1 °C. Sterile stock 
+solutions of representative clustered oils from E. uniflora 
+leaves were freshly prepared in DMSO. Serial twofold 
+dilutions from stock solutions were prepared with sterile 
+RPMI 1640 medium as the diluent to yield final essential 
+oil concentrations ranging from 62.5 to 500 mg mL-1. 
+Essential oils-free controls tubes were included. Inocula 
+concentrations were determined spectrophotometrically 
+via a yeast suspension in sterile 0.85% NaCl adjusted to 
+85% transmittance at 520 nm. The mixture was vortexed 
+to disperse aggregated cells density. Aliquots of 0.1 mL 
+of this suspension were added to 2.4 mL of broth RPMI 
+1640 containing the essential oil dilutions. This mixture 
+was incubated at 36 °C in shaker at 120 rpm for 14 days 
+and the transmittance was measured at 520 nm every 
+48 h. The minimal inhibition concentration (MIC) was 
+spectrophotometrically determined after the wells had 
+been thoroughly mixed to produce a homogeneous 
+suspension. MIC was defined as the lowest concentration 
+at which the optical density (OD) was reduced to ≤ 50% 
+of the OD of the growth control well after 8-10 days 
+of incubation.39 Subsequently, the minimal fungicide 
+concentration (MFC) was determined by the reinoculum 
+of cultures in RPMI 1640 agar medium. MFC was 
+defined as the lowest oil concentration which completely 
+inhibited yeast growth after 10 days of incubation at 
+36 °C. Duplicates were maintained for each concentration. 
+Supplementary Information
+GC-MS chromatograms of representative clustered 
+oils from E. uniflora leaves with different fruit colour 
+biotypes are available free of charge at http://jbcs.sbq.org.br 
+as PDF file.
+Acknowledgments
+We are indebted to CNPq, PADCT III and FUNAPE/
+UFG for financial support; and to CAPES for the fellowship 
+granted to D.P.C. We also thank Prof. Dr. Heleno D. 
+Ferreira of the School of Biology-UFG for the botanical 
+identification and Profa. Dra. Maria Gizelda O. Tavares of 
+the Institute of Chemistry-UFG for the leaf sample from 
+bright red fruit biotype.
+Costa et al. 857Vol. 21, No. 5, 2010
+References
+ 1.  Lupi, O.; Tyring, S. K.; McGinnis, M. R.; J. Am. Acad. 
+Dermatol. 2005, 53, 931.
+ 2.  Marques, S. A.; Robles, A. M.; Tortorano, A. M.; Tuculet, M. 
+A.; Negroni, R.; Mendes, R. P.; Med. Mycol. 2000, 38, 269; 
+Santo A. H.; Rev. Panam. Salud Publica 2008, 23, 313.
+ 3.  Restrepo, A. In Principles and Practice of Infectious Diseases; 
+Mandel, G. I.; Bennet, J. F.; Dolin, R., eds.; Philadelphia: 
+Churchill Livingstone, 2000.
+ 4.  Nicola, A. M.; Andrade, R. V.; Silva-Pereira, I.; Genet. Mol. 
+Res. 2005, 4, 346.
+ 5.  Neckers, L.; Tatu, U.; Cell Host Microbe 2008, 4, 519.
+ 6.  Lima, M. M.; MSc Dissertation, Universidade Federal de 
+Goiás, Brazil, 2001; Santos, G. D.; Ferri, P. H.; Santos, S. C.; 
+Bao, S. B.; Soares, C. M. A.; Pereira, M.; Med. Mycol. 2007, 
+45, 609. 
+ 7.  Santos, S. C.; Ferri, P. H.; Ribeiro, J. P; Guimarães, D. O.; Silva, 
+M. O.; Garcia, A. C. F.; Pires, J. S.; Castro, A. C. M.; Silva, M. 
+R. R.; Paula, J. R.; Rev. Bras. Pl. Med. 2004, 7, 30. 
+ 8.  Weyerstahl, P.; Marschall-Weyerstahl, H.; Christiansen, C.; 
+Oguntimien, B. O.; Adeoye, A. O.; Planta Med. 1988, 54, 
+546. 
+ 9.  Morais, S. M.; Craveiro, A. A.; Machado, M. I. L.; Alencar, J. 
+W.; Mattos, F. J. A.; J. Essent. Oil Res. 1996, 8, 449.
+ 10.  Maia, J. G. S.; Andrade, M. H. L.; Silva, M. H. L.; Zoghbi, M. 
+G. B.; J. Essent. Oil Res. 1999, 11, 727.
+ 11.  Ogunwande, I. A.; Olawore, N. O.; Ekundayo, O.; Walker, T. 
+M.; Schmidt, J. M.; Setzer, W. N.; Int. J. Aromath. 2005, 15, 
+147.
+ 12.  Melo, R. M.; Corrêa, V. F. S.; Amorim, A. C. L.; Miranda, A. 
+L. P.; Rezende, C. M.; J. Braz. Chem. Soc. 2007, 18, 179.
+ 13.  Schapoval, E. E. S.; Silveira, S. M.; Miranda, M. L.; Alice, C. 
+B.; Henriques, A. T.; J. Ethnopharmacol. 1994, 44, 137.
+ 14.  Almeida, C. E.; Karnikowski, M. G. O.; Foleto, R.; 
+Baldisserotto, B.; Rev. Saude Publica 1995, 29, 428; Ferro, E.; 
+Schinini, A.; Maldonado, M.; Rosner, J.; Hirschmann, G. S.; 
+J. Ethnopharmacol. 1988, 24, 321.
+ 15.  Arai, J.; Amagaya, S.; Komatsu, Y.; Okuda, M.; Mayashi, T.; 
+Kasai, M.; Arisawa, M.; Momose, Y.; J. Ethnopharmacol. 
+1999, 68, 307; Matsumura, T.; Kasai, M.; Hayashi, T.; Arisawa, 
+M.; Momose, Y.; Arai, I.; Amagaya, S.; Omatsu, Y.; Pharm. 
+Biol. 2000, 38, 302; Morioka, K.; Nojima, H.; Kurosaki, F.; 
+Arisawa, M.; Kuraishi, Y.; Momose, Y.; Phytomedicine 2000, 
+7, 99.
+ 16.  Agbedahunsi, J. M.; Aladesanmi, A. J.; Fitoterapia 1993, 
+64, 174; Consolini, A. E.; Baldini, O. A. N.; Amat, A. G.; 
+J. Ethnopharmacol. 1999, 66, 33.
+ 17.  Wazlawik, E.; Silva, M. A.; Peters, R. R.; Correia, J. F. G.; 
+Farias, M. R.; Calixto, J. B.; Ribeiro do Valle, R. M.; J. Pharm. 
+Pharmacol. 1997, 49, 433.
+ 18.  Adebajo A. C.; Oloke K. J.; Aladesanmi A. J.; Fitoterapia 1989, 
+60, 451; Fadeyi, M. O.; Akpan, U. E.; Phytother. Res. 1989, 3, 
+154; Lima, E. O.; Gompertz, O. F.; Giesbrecht, A. M.; Paulo, 
+M. Q.; Mycoses 1993, 36, 333; Lee, M.-H.; Nishimoto, S.; 
+Yang, L.-L.; Yen, K.-Y.; Hatano, T.; Yoshida, T.; Okuda, T.; 
+Phytochemistry 1997, 44, 1343; Souza, L. K. H.; Oliveira, C. M. 
+A.; Ferri, P. H.; Santos, S. C.; Oliveira Júnior, G. G.; Miranda, 
+A. T. B.; Lião, L. M.; Silva, M. R. R.; Braz. J. Microbiol. 2002, 
+33, 247.
+ 19.  Lima, V. L. A. G.; Mélo, E. A.; Lima, D. E. S.; Sci. Agric. 2002, 
+59, 447; Sanchotene, M. C. C.; Frutíferas Nativas Úteis à Fauna 
+na Arborização Urbana, 2ª ed., Sagra: Porto Alegre, 1989; 
+Lederman, I. E.; Bezerra, J. E. F.; Calado, G.; A Pitangueira em 
+Pernambuco, Secretaria de Agricultura, Empresa Pernambucana 
+de Pesquisa Agropecuária: Recife, 1992; Franzon, R. C.; MSc 
+Dissertation, Universidade Federal de Pelotas, 2004.
+ 20.  Viana, M. E. L.; Retamar, J. A.; An. Soc. Cient. Argent. 1971, 
+192, 111; Ubiergo, G.; Taher, H. A.; Talenti, E. C.; An. Asoc. 
+Quim. Argent. 1987, 75, 377.
+ 21.  Henriques, A. T.; Sobral, M. E.; Cauduro, A. D.; Schapoval, E. 
+E. S.; Bassini, V. L.; Lamaty, G.; Menut, C.; Bessière, J. M.; 
+J. Essent. Oil Res. 1993, 5, 501.
+ 22.  Rücker, G.; Brasil e Silva, G. A.; Bauer, L.; Schikarski, M.; 
+Plant Med. 1977, 31, 322; Pino, J. A.; Bello, A.; Urquiola, A.; 
+Aguero, J.; Marbot, R.; J. Essent. Oil Res. 2003, 15, 70; Oliveira, 
+A. L.; Lopes, R. B.; Cabral, F. A.; Eberlin, M. N.; Food Chem. 
+2006, 99, 1.
+ 23.  Moreno, P. R. H.; Lima, M. E. L.; Sobral, M.; Young, M. C. 
+M.; Cordeiro, I.; Apel, M. A.; Limberger, R. P.; Henriques, A. 
+T.; Sci. Agric. 2007, 64, 428.
+ 24.  Bezerra, J. E. F.; Silva Júnior, J. F.; Lenderman, I. E.; 
+Pitanga (Eugenia uniflora L.), Série Frutas Nativas 1, Funep: 
+Jaboticabal, 2000; Núcleo de Estudo em Fruticultura no 
+Cerrado, http://www.fruticultura.iciag.ufu.br/pitangueira.
+html, acessed in March, 2009; Raseira, M. C. B.; Raseira, A. 
+In Documentos 171; Antunes, L. E. C.; Raseira, M. C. B., eds., 
+Embrapa Clima Temperado: Pelotas, 2006.
+ 25.  Sneath, P. H.; Sokal, R. R.; Principles of Numerical 
+Taxonomy. A series of Books in Biology, W.H. Freeman: 
+San Francisco, 1963. 
+ 26.  Lebart, L.; Morineau, A.; Warwick, K. M.; Multivariate 
+Descriptive Statistical Analysis. Correspondence Analysis and 
+Related Techiniques for Large Matrices, John Wiley & Sons: 
+New York, NY, 1984, ch. 4.
+ 27.  Wold, A.; Eriksson, L. In Chemometric Methods in Molecular 
+Design, vol. 2; Waterbeemd, H., ed.; VCH: Weinheim, 1995, 
+ch. 5.
+ 28.  Costa, D. P.; Santos, S. C.; Seraphin, J. C.; Ferri, P. H.; J. Braz. 
+Chem. Soc. 2009, 20, 1287.
+ 29.  Salgueiro, F.; Felix, D.; Caldas, J. F.; Margis-Pinheiro, M.; 
+Margis, R.; Diversity Distrib. 2004, 10, 201.
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity J. Braz. Chem. Soc.858
+ 30.  El-Shabrawy A. O.; Bull. Fac. Pharm. Cairo Univ. 1995, 33, 
+17.
+ 31.  National Committee for Clinical Laboratory Standards; 
+Reference Method for Broth Dilution Antifungal Susceptibility 
+Testing of Yeasts. Approved Standard, 2nd ed., M27-A2.
+ 32.  Wang, C. C.; Chen, L. G.; Yang, L. L.; Planta Med. 2002, 68, 
+204.
+ 33.  Yoichi, S.; Tomoko, T.; Toshimi, S.; Masayoshi, M.; Chikao, 
+Y.; Kureha Chem., JP 10045585-A, 1998.
+ 34.  Lobo, R.; Prabhua, K. S.; Shirwaikar, A.; Shirwaikar, A.; 
+J. Pharm. Pharmacol. 2009, 61, 13.
+ 35.  Adams, R. P.; Identification of Essential Oil Components by 
+Gas Chromatography/Mass Spectrometry, 4th ed., Allured: 
+Illinois, 2007; National Institute of Standards and Technology; 
+PC version of the NIST/EPA/NIH Mass Spectral Database, U.S. 
+Department of Commerce: Gaithersburg, 1998.
+ 36.  Van Den Dool, H.; Kratz, P. D. J. A.; J. Chromatogr. 1963, 11, 
+463. 
+ 37.  Benzécri, J. -P.; L´Analyse des Données: la Taxinomie, Tome 
+1, Dunod: Paris, 1980.
+ 38.  Ward, J. H.; J. Am. Stat. Assoc. 1963, 58, 238. 
+ 39.  Stevens, A. A.; Aristizabal, B. H.; Diagn. Microbiol. Infect. Dis. 
+1997, 29, 103.
+Received: April 17, 2009
+Web Release Date: February 11, 2010
+Supplem
+entary Inform
+ation
+J. Braz. Chem. Soc., Vol. 21, No. 5, S1-S4, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: pedro@quimica.ufg.br
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity of 
+the Essential Oils of Eugenia uniflora Leaves
+Deomar P. Costa,a Elenilson G. Alves Filho,a Lorena M. A. Silva,a Suzana C. Santos,a 
+Xisto S. Passos,b,d Maria do Rosário R. Silva,b José C. Seraphinc and Pedro H. Ferri*,a
+aInstituto de Química, bInstituto de Patologia Tropical e Saúde Pública and cInstituto de Matemática 
+e Estatística, Universidade Federal de Goiás, CP 131, 74001-970 Goiânia-GO, Brazil
+dInstituto de Ciências da Saúde, Universidade Paulista, 74845-090 Goiânia-GO, Brazil 
+Figure S1. Total ion chromatogram (TIC) of the essential oil from E. uniflora leaves (cluster I).
+Figure S2. Total ion chromatogram (TIC) of the essential oil from E. uniflora leaves (cluster II).
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity J. Braz. Chem. Soc.S2
+Figure S3. Total ion chromatogram (TIC) of the essential oil from E. uniflora leaves (cluster III).
+Figure S4. Mass spectrum of b-caryophyllene.
+Figure S5. Mass spectrum of germacrene D.
+Figure S6. Mass spectrum of curzerene.
+Costa et al. S3Vol. 21, No. 5, 2010
+Figure S7. Mass spectrum of germacrene A.
+Figure S8. Mass spectrum of germacrene B.
+Figure S9. Mass spectrum of selina-1,3,7(11)-trien-8-one.
+Figure S10. Mass spectrum of atractylone.
+Influence of Fruit Biotypes on the Chemical Composition and Antifungal Activity J. Braz. Chem. Soc.S4
+Figure S11. Mass spectrum of germacrone.
+Figure S12. Mass spectrum of selina-1,3,7(11)-trien-8-one epoxide.

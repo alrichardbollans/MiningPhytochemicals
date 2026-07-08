@@ -1,0 +1,439 @@
+Variability in Content of the Anti-AIDS Drug Candidate Prostratin in Samoan Populations of
+Homalanthus nutans
+Holly E. Johnson,
+† Sandra A. Banack,
+†,‡ and Paul Alan Cox*
+,†
+Institute for EthnoMedicine, Box 3464, Jackson, Wyoming 83001, and Department of Biological Science, California State UniVersity Fullerton,
+800 N. State College, Fullerton, California 92834
+ReceiVed May 14, 2008
+Homalanthus nutans, used by Samoan healers to treat hepatitis, produces the antiviral compound 12-deoxyphorbol
+13-acetate, prostratin (1). Prostratin is being developed as an adjuvant therapy to clear latent viral reservoirs, the major
+obstacle to eradication of HIV-AIDS within the human body. A validated reversed-phase HPLC method was developed
+to assay concentrations of 1 in H. nutans. A survey of four distinct populations on two different Samoan islands revealed
+signiﬁcant variability in content. The stem tissue (range 0.2-52.6 µg/g 1), used by healers in indigenous therapies,
+gave a higher median concentration of prostratin (3.5 µg/g) than root or leaf tissues (2.9 and 2.5 µg/g, respectively).
+The high variability and skewness of these data indicate that cultivar selection for drug production will be important for
+this species. The reversed-phase HPLC assay will allow plants to be selected for agricultural development and genetic
+analysis by identifying those individuals above and below a 95% conﬁdence interval for the median concentration.
+Prostratin (1) is a nontumor-promoting 12-deoxyphorbol ester
+that has been shown to inhibit HIV-induced cell death and viral
+replication in vitro. The antiviral activity of 1 was discovered as a
+result of ethnobotanical studies on the island of Savai’i, Samoa,
+where traditional healers use the bark of Homalanthus nutans (G.
+Forst.) Guill. (Euphorbiaceae), a small rain-forest tree called
+“mamala”, to treat hepatitis.
+1-3 Permission was granted by healers,
+village chiefs, and the Samoan government to bring samples of
+stemwood and healer potions to the Natural Products Branch at
+the U.S. National Cancer Institute (NCI) for testing. Potent
+cytoprotective activity against HIV-1 infection was detected in an
+in vitro tetrazolium-based assay.
+4
+Bioassay-guided fractionation resulted in the isolation of pros-
+tratin (1), a tigliane diterpene, from both healer infusions and
+organic extracts of stem tissue.
+4 The compound was not novel,
+having been previously isolated from Pimelea prostrata (J. R. Forst.
+& G. Forst.) Willd. (Thymelaeaceae).
+5 The NCI team found that
+low concentrations of 1, from 0.1 to >25 µM, protected T-
+lymphoblastoid CEM-SS and C-8166 cells from the lethal effects
+of HIV-1 and inhibited viral replication in these cell lines.
+Compound 1 also demonstrated cytoprotective activity in the human
+monocytic cell line U937 and in freshly isolated human monocyte/
+macrophage cultures.
+4,6 Prostratin was found to bind to and activate
+protein kinase C in vitro in CEM-SS cells.
+4 Unlike other known
+phorbol esters, however, 1 has proved not to be a tumor promoter
+and has actually been shown to be a potent antitumor promoter.
+15,16
+Mechanisms involved in the mediation of protein kinase C
+activity
+7-11 as well as other biological activities
+12-14 of 1 continue
+to be studied. Recent studies conﬁrm that 1 is highly potent against
+HIV infectivity and that this compound has a high in vitro
+therapeutic index.
+17
+Interest in using prostratin (1) to help expose latent viral
+reservoirs within the body was increased when this compound was
+found to be a potent activator of HIV replication and expression in
+cells latently infected with HIV-1.
+18-22 Latently infected cell
+reservoirs are currently the major obstacle to viral eradication,
+23
+even in patients whose plasma viral load is so low as to be
+undetectable. In an in vitro model, 1 plus interferon has been shown
+to eliminate 70-80% of latently infected cells.
+20 Given the
+ethnobotanical provenance, its use for centuries among the Samoan
+people, and its potency in activating latent viral reservoirs, 1 is
+now a candidate for immediate further research and development
+for treatment of HIV/AIDS as adjuvant therapy. Hopefully, this
+can be combined with a protease inhibitor and/or reverse-tran-
+scriptase inhibitor, in an effort to expose and eliminate all viral
+reservoirs in the body.
+24
+The AIDS Research Alliance in West Hollywood, California
+(ARA) has been granted by the NCI the worldwide license for the
+use of prostratin (1) for HIV infection, after ﬁrst negotiating an
+equitable return of beneﬁts to the Samoan people as required by
+NCI.
+2 In conjunction with various collaborators, ARA has con-
+ducted preliminary pharmacological, pharmacokinetic, and toxico-
+logical studies of 1. The organization is in the process of ﬁling an
+initial new drug (IND) application to facilitate initiation of phase
+I human clinical trials with 1 for treatment of HIV/AIDS. The
+preclinical work has been performed with semisynthetic reagent
+grade 1, which is extremely expensive if purchased from a
+commercial supplier that is not a Good Manufacturing Practice
+(GMP) facility. ARA is seeking a supply of GMP prostratin for
+use in further studies and to demonstrate to potential late-stage
+pharmaceutical development companies that a long-term large-scale
+supply of active pharmaceutical ingredient (API) can be produced
+for sales and distribution. In addition, as part of the beneﬁt-sharing
+agreement with Samoa, ARA has promised to make every possible
+effort to use Homalanthus trees from Samoa as a commercial
+source. The Samoan government therefore wishes to develop a
+Homalanthus industry in Samoa, based at the village level.
+The identiﬁcation of H. nutans plants with extraordinarily high
+levels of prostratin (1) will be vital to the efforts of the Samoan
+government in selecting genotypes suitable for subsequent cultiva-
+* Corresponding author. Tel: (307) 734-1680. Fax: (307) 734-1810.
+E-mail: paul@ethnomedicine.org.
+† Institute for EthnoMedicine.
+‡ California State University, Fullerton.
+J. Nat. Prod. 2008, 71, 2041–2044 2041
+10.1021/np800295m CCC: $40.75  2008 American Chemical Society and American Society of Pharmacognosy
+Published on Web 11/14/2008tion and establishment of an agricultural industry. Similarly, the
+identiﬁcation of H. nutans plants with extremely low levels of 1
+will be important for genetic engineering purposes, which may lead
+to the discovery of variants or inactive forms of the prostratin gene
+sequence and the eventual production of low-cost drug through
+prokaryotic culturing.
+25,26 We have developed and validated an
+assay to rapidly assess 1 content and have evaluated four natural
+Samoan populations of H. nutans. Studies of variability in bioactive
+molecule concentration potentially could play an increasingly
+important role in the commercial creation de novo of sustainable
+pharmaceutical industries based on other pharmacologically active
+compounds from wild plants.
+Signiﬁcant variability in prostratin (1) concentrations was found
+between H. nutans individuals and between populations collected
+in Samoa. The median concentration of 1 for H. nutans stem
+samples was 3.49 µg/g with a lower 95% conﬁdence limit of 2.28
+µg/g and an upper 95% conﬁdence limit of 10.78 µg/g; any plants
+below or above these limits were regarded as exceptional (Table
+1). A Kruskal-Wallis H test allowed rejection of the null
+hypothesis: Ho ) the median prostratin (1) concentrations of all
+populations are equal (H ) 8.31, df ) 3, p < 0.05). Chi-square
+analysis revealed that occurrence of exceptionally high concentration
+plants was signiﬁcantly different between populations ( 2 ) 7.96,
+df ) 3, p < 0.05) and allowed rejection of the null hypothesis: Ho
+) the Falealupo population does not have a higher than expected
+number of exceptionally high-yielding prostratin plants ( 2 ) 3.87,
+df ) 1, p < 0.05). Thus, the Falealupo peninsula of Savai’i, Samoa,
+with the highest median prostratin concentration (11.02 µg/g) and
+the greatest number of exceptionally high 1-containing plants, is
+likely the best population to search for more high-yielding cultivars
+of H. nutans. However, we were unable to reject the null hypothesis
+for Tafua ( 2 ) 1.14, df ) 1, p ) 0.275) or Tutuila ( 2 ) 0.894,
+df ) 1, p ) 0.330) populations, having a greater than expected
+number of exceptionally low 1-containing plants.
+Prostratin (1) concentration and diameter of the tree at breast
+height (DBH) were not signiﬁcantly correlated (Spearman’s rank
+correlation coefﬁcient, rs )- 0.236). A Kruksal-Wallis H test did
+not allow rejection of the null hypothesis: Ho ) the median
+prostratin concentrations of all plant parts are equal (H ) 2.69, df
+) 2). The Spearman rank correlation showed a strong positive
+correlation between 1 concentrations in the stem and leafy branches
+(rs ) 0.783, p < 0.05) as well as in stem and root tissues (rs )
+0.825, p < 0.05) of the same plant. The general pattern shows higher
+concentrations of 1 in the stem than in the leafy shoots or in the
+roots (Table 2), which is consistent with the use of the inner bark
+by indigenous Samoan healers. The Spearman’s rank correlation
+conﬁrms that plants with exceptionally high stem concentration
+(such as number 1865) also have relatively higher concentrations
+in the leafy branches and roots. This suggests that if collection
+number 1865 were to be developed as a commercial cultivar, both
+the above-ground and below-ground portions of the plant could be
+harvested for commercial production of prostratin (1).
+With prostratin (1) poised for phase I clinical trials, procuring a
+consistent long-term supply of GMP prepared compound is es-
+sential. The recent elegant synthesis of prostratin by Wender et
+al.
+27 will likely help alleviate this problem, but ARA’s license
+agreement requires that every effort be made to source 1 from
+Samoa. The prostratin content in various plant parts from four
+populations of H. nutans ranged from 0.20 to 52.69 µg/g, or over
+a 100-fold difference, which suggests that cultivars should be
+selected carefully. Knowing the range of variability in the content
+of 1 will allow the Samoan government, which intends to initiate
+an agricultural enterprise based on H. nutans, to target populations
+with the best probability of yielding genotypes with exceptionally
+high prostratin concentration and to ascertain a speciﬁc plant’s
+viability as an agricultural cultivar. Development and validation
+of a robust replicable method of determining concentrations of 1
+will be important in creating an initial GMP supply of the molecule
+for upcoming human clinical trials, as well as in the establishment
+of a possible resultant Homalanthus industry for Samoa.
+Variability in prostratin (1) content in wild populations is also
+important for genetic engineering applications. A team led by
+Keasling at the University of California-Berkeley has developed
+techniques to transfer genes from different organisms into a
+prokaryote model to economically produce pharmaceutical mol-
+ecules of interest.
+28 Advances in this ﬁeld could revolutionize
+commercial development of bioactive molecules from plants and
+facilitate efﬁcient inclusion of compounds from indigenous medicine
+in the modern allopathic drug arsenal. Such approaches are
+important even though natural product development is at a nadir
+due to industry decisions to reallocate resources in the search for
+lead compounds toward combinatorial libraries, an area of clarity
+in regard to intellectual property. However, it is increasingly clear
+that combinatorial chemistry has not met its promise. An NCI team
+found that 61% of the 877 new small molecules introduced as drugs
+worldwide during 1981-2002 can be traced to natural products;
+the same team could not identify a single de novo combinatorial
+compound approved as a drug during the same time frame.
+29 Now,
+with the drug discovery pipeline largely empty, molecules with a
+long history of human use seem alluring and perhaps the wisdom
+of natural products drug discovery will be revisited.
+30
+The provenance of natural product drugs can often be traced to
+ethnobotanical research, as was the discovery of the antiviral
+Table 1. Rank and Content of Prostratin (1) in Stem Samples
+of Samoan H. nutans
+rank prostratin (1)( µg/g) population
+1 52.69 Saipipi
+2 33.65 Falealupo
+3 32.45 Saipipi
+4 20.55 Falealupo
+5 15.09 Tafua
+6 14.48 Tafua
+7 11.26 Falealupo
+8 10.78 Falealupo
+9 8.24 Falealupo
+10 7.80 Tutuila
+11 4.22 Saipipi
+12 4.13 Tutuila
+13 3.57 Saipipi
+14 3.49 Falealupo
+15 3.39 Tutuila
+16 3.33 Tafua
+17 3.18 Saipipi
+18 3.14 Tutuila
+19 2.98 Tutuila
+20 2.28 Tafua
+21 2.17 Tafua
+22 2.14 Tutuila
+23 2.13 Tutuila
+24 2.09 Tutuila
+25 1.41 Tafua
+26 0.58 Saipipi
+27 0.20 Tutuila
+Table 2. Prostratin (1) Content (µg/g) in Various Parts of H.
+nutans Collected in Samoa
+sample root leafy branches stem population
+1852 2.77 2.54 4.22 Saipipi
+1853 2.87 0.47 3.18 Saipipi
+1855 12.82 2.65 52.69 Saipipi
+1859 ND 2.32 3.33 Tafua
+1860 ND 2.45 2.17 Tafua
+1861 ND 0.94 1.41 Tafua
+1865 25.03 5.02 33.65 Falealupo
+1866 6.65 2.03 3.49 Falealupo
+1869 5.95 7.69 11.26 Falealupo
+median 2.87 2.45 3.49
+2042 Journal of Natural Products, 2008, Vol. 71, No. 12 Notesproperties of prostratin (1). However, issues of intellectual property
+do not present an insurmountable obstacle to commercial develop-
+ment. As shown in the case of 1, the need to meet the requirements
+of paragraph 8(j) of the Convention on Biodiversity for equitable
+sharing of beneﬁts can be resolved ethically.
+2,31 A new paradigm
+for drug research may emerge that incorporates willingness to
+negotiate fair agreements for natural products collected in foreign
+countries while meeting practical concerns, such as establishing
+stable supplies, using technological and methodological innova-
+tions.
+32 Studies of variability in concentrations of bioactive
+molecules in plants may play an important role in efﬁcient
+commercial creation of future phytopharmaceutical industries.
+Experimental Section
+Plant Material. Samples of stem, root, and leafy branches preserved
+in 70% ethanol were collected from a population near Saipipi, Savai’i,
+Samoa. A healer preparation from Falealupo was also collected during
+the same expedition to Samoa in April 2004. Prostratin (1) was detected
+in each sample, and these materials were used for method development
+and validation. Another collecting expedition was made to the island
+of Savai’i, Samoa, in January 2005. Thirty-six samples, consisting of
+vouchers and ethanol-preserved pharmaceutical grade collections, were
+taken from three natural populations near the villages of Saipipi, Tafua,
+and Falealupo. Six trees were sampled from each population, and GPS
+coordinates, elevation, DBH, height, petiole color, and surrounding
+vegetation were recorded for each tree sampled. From three plants at
+each site three different morphological samples were collected: roots
+(bark + wood), stem (bark + wood), and leafy branches, with fruit
+and/or ﬂowers if present. Only stem samples were collected from the
+other three trees at each site for a total of 12 samples per site. Nine
+stem samples were collected on additional expeditions to the island of
+Tutuila in American Samoa in May and November of 2005 for a total
+of 45 samples including 27 stemwood samples. Samples were shipped
+in vacuum-sealed aluminum vessels in 70% ethanol (except for the
+Tutuila island collections, which were shipped in 70% 2-propanol).
+The alcohol fractions were separated and the plant material air-dried
+in a fume hood. Vouchers were deposited at the herbarium of the
+California State University Fullerton’s Department of Biological
+Science.
+HPLC Analysis. Plant material was ﬁnely chopped then pulverized
+with a coffee grinder, and approximately1go fd r ysample tissue was
+suspended in 25 mL of acetone in a 55 °C bath for 10 min. Acetone
+extracts were ﬁltered using a Whatman no. 4 disk, dried in a Savant
+AES1000 Speedvac, suspended in 500 µL of 80% ethanol in HPLC
+grade water, and then ﬁltered with a 0.22 µm Millipore Ultrafree MC
+centrifugal ﬁlter device. Nontarget organics were removed from the
+alcohol fraction with a Waters Sep-Pak C18 cartridge using reversed-
+phase elution (conditioning: sequential washes of 5 mL of 52%
+acetonitrile, 5 mL of 26% acetonitrile, and 2.5 mL of 100% HPLC
+water; loading: 100 µL of sample; separation: 1 mL of HPLC water,
+2.5 mL of 26% acetonitrile, and 2.5 mL of 40% acetonitrile); the last
+fraction was ﬁltered with a 0.22 µm Ultrafree MC centrifugal ﬁlter,
+dried, and suspended in 40 µL of 80% ethanol for injection. The ethanol
+or 2-propanol fractions and the acetone extract for each of 45 samples
+were analyzed by HPLC in triplicate to measure prostratin (1)
+concentration in µg per g. Prostratin was separated by reversed-phase
+elution using a Waters Nova-Pak C18 column, 4 µm bead, 300 × 3.9
+mm, on a gradient HPLC system (Waters 717 automated injector,
+Waters 1525 binary solvent delivery system, and Empower data analysis
+system) at 30 °C. Identiﬁcation was using a Waters 2487 dual-
+wavelength UV absorbance detector using an authenticated standard
+(ICN MP Biomedicals) at 254 nm. Aliquots of 10 µL of each sample
+were injected, eluted over 15 min with a linear gradient mixing from
+32% to 40% acetonitrile using ﬁltered and degassed HPLC grade water
+(Fisher) and HPLC grade acetonitrile (Sigma Chromasolv), with a ﬂow
+of 1.0 mL/min.
+Method validation was completed in compliance with the speciﬁca-
+tions in the United States Pharmacopoeia (USP), General Chapter
+1225,
+33 and Meyer.
+34 Ruggedness was evaluated by calculating the
+precision of biweekly triplicate injections at one concentration during
+the entire range of the study (RSD 5.21%). Linearity was evaluated by
+plotting peak area as a function of analyte concentration, and regression
+analysis was performed: slope ) 207.78; intercept )- 1468.70;
+correlationcoefﬁcient)0.9997;residualsumofsquares)716 109 646.17.
+The limit of detection (LOD) and limit of quantiﬁcation (LOQ) were
+determined as 2.5 and 25 pmol, respectively, with a range to 30 nmol.
+Accuracy (recovery ) 96%) was calculated by spiking blank matrix
+with known amounts of 1 in triplicate at ﬁve concentrations. Precision
+was evaluated using repeatability and intermediate precision. Repeat-
+ability was assessed with triplicate injections at ﬁve concentrations on
+two consecutive days (RSD 1.81%). Intermediate precision was
+calculated biweekly over the range of the study with triplicate injections
+at three concentrations (RSD 5.87%).
+Since these data were not normally distributed, nonparametric
+statistics were employed. The observed concentrations of 1 were ranked,
+and 95% conﬁdence limits for the distribution of these concentrations
+around the median were constructed using eq 8.2.2 in Snedecor and
+Cochran.
+35
+To determine if the median prostratin (1) concentrations of all
+populations were equal, statistical hypotheses were tested using a
+Kruksal-Wallis H test, the nonparametric analogue of ANOVA. The
+resultant H statistic was tested for statistical signiﬁcance at the p <
+0.05 level using standard  2 tables. A chi-square test for independence
+was employed to ascertain if the occurrence of exceptionally high
+concentration plants was equal between populations and also to
+determine if the Falealupo population had a greater than expected
+number of exceptionally high-yielding prostratin plants. We used a
+similar chi-square procedure to test the Tafua and Tutuila populations
+to see if they had a higher than expected number of exceptionally low-
+yielding 1 plants. Spearman’s rank correlation coefﬁcient was calculated
+to assess the correlation between prostratin concentration and diameter
+at breast height (DBH). A Kruskal-Wallis H test was employed to
+establish if 1 was equally distributed throughout plant parts (leafy
+branches, stem, and root); to determine if plants with high stem
+concentrations also have high concentrations in the leaf or roots, we
+calculated a Spearman’s rank correlation coefﬁcient and tested for
+signiﬁcant correlation at the p < 0.05 level.
+Acknowledgment. The authors thank S. Murch, T. Buretta, F.
+Bhakshi, D. Cheng, M. Suazo, J. Schober, and M. Asay for technical
+support, N. Tavana, G. Tavana, A. Lilo, S. King, and D. Gurr for
+collection and preparation assistance, the Acacia Foundation for
+equipment support, K. Farkas for expedition support, and NIH grant
+R21 TW006608-02 (to P.A.C.) for ﬁnancial support.
+References and Notes
+(1) Cox, P. A. J. Ethnopharmacol. 1993, 38, 181–188.
+(2) Cox, P. A. Pharm. Biol. 2001, 39, 33–40.
+(3) Cox, P. A.; Heinrich, M. Pharm. News 2001, 8 (3), 55-59.
+(4) Gustafson, K. R.; Cardellina, J. H., II; McMahon, J. B.; Gulakowski,
+R. J.; Ishitoya, J.; Szallasi, Z.; Lewin, N. E.; Blumberg, P. M.;
+Weislow, O. S.; Beutler, J. A. J. Med. Chem. 1992, 35, 1978–86.
+(5) Zayed, S.; Hafez, A.; Adolf, W.; Hecker, E. Experientia 1977, 33,
+1554–1555.
+(6) Tobin, G. J.; Ennis, W. H.; Clanton, D. J.; Gonda, M. A. AntiViral
+Res. 1996, 33, 21–31.
+(7) Blumberg, P. M.; Acs, G.; Areces, L. B.; Kazanietz, M. G.; Lewin,
+N. E.; Szallasi, Z. Prog. Clin. Biol. Res. 1994, 387, 3–19.
+(8) Bogi, K.; Lorenzo, P. S.; Szallasi, Z.; Acs, P.; Wagner, G. S.;
+Blumberg, P. M. Cancer Res. 1998, 58, 1423–1428.
+(9) Nacro, K.; Bienfait, B.; Lee, J.; Han, K. C.; Kang, J. H.; Benzaria, S.;
+Lewin, N. E.; Bhattacharyya, D. K.; Blumberg, P. M.; Marquez, V. E.
+J. Med. Chem. 2000, 43, 921–944.
+(10) Hezareh, M.; Moukil, M. A.; Szanto, I.; Pondarzewski, M.; Mouche,
+S.; Cherix, N.; Brown, S. J.; Carpentier, J. L.; Foti, M. AntiViral Chem.
+Chemother. 2004, 15, 207–222.
+(11) Trushin, S. A.; Bren, G. D.; Asin, S.; Pennington, K. N.; Paya, C. V.;
+Badley, A. D. J. Virol. 2005, 79, 9821–9830.
+(12) Kotsonis, P.; Majewski, H. Br. J. Pharmacol. 1996, 119, 115–125.
+(13) Murphy, T. V.; Prountzos, C.; Kotsonis, P.; Iannazzo, L.; Majewski,
+H. Eur. J. Pharmacol. 1999, 381, 77–84.
+(14) Rullas, J.; Bermejo, M.; Garcia-Perez, J.; Beltan, M.; Gonzalez, N.;
+Hezareh, M.; Brown, S. J.; Alcami, J. AntiViral Ther. 2004, 9, 545–
+554.
+(15) Szallasi, Z.; Krsmanovic, L.; Blumberg, P. M. Cancer Res. 1993, 53,
+2507–2512.
+(16) Gulakowski, R. J.; McMahon, J. B.; Buckheit, R. W., Jr.; Gustafson,
+K. R.; Boyd, M. R. AntiViral Res. 1997, 33, 87–97.
+(17) Witvrouw, M.; Pannecouque, C.; Fikkert, V.; Hantson, A.; Van
+Remoortel, B.; Hezareh, M.; De Clercq, E.; Brown, S. J. AntiViral
+Chem. Chemother. 2003, 14, 321–328.
+Notes Journal of Natural Products, 2008, Vol. 71, No. 12 2043(18) Kulkosky, J.; Culnan, D. M.; Roman, J.; Dornadula, G.; Schnell, M.;
+Boyd, M. R.; Pomerantz, R. J. Blood 2001, 98, 3006–3015.
+(19) Korin, Y. D.; Brooks, D. G.; Brown, S.; Korotzer, A.; Zack, J. A.
+J. Virol. 2002, 76, 8118–8123.
+(20) Brooks, D. G.; Hamer, D. H.; Arlen, P. A.; Gao, L.; Bristol, G.;
+Kitchen, C. M.; Berger, E. A.; Zack, J. A. Immunity 2003, 19, 413–
+423.
+(21) Biancotto, A.; Grivel, J. C.; Gondois-Rey, F.; Bettendroffer, L.; Vigne,
+R.; Brown, S.; Margolis, L. B.; Hirsch, I. J. Virol. 2004, 78, 10507–
+10515.
+(22) Williams, S. A.; Chen, L. F.; Kwon, H.; Fenard, D.; Bisgrove, D.;
+Verdin, E.; Greene, W. C. J. Biol. Chem. 2004, 279, 42008–42017.
+(23) Brown, H. J.; McBride, W. H.; Zack, J. A.; Sun, R. AntiViral Ther.
+2005, 10, 745–751.
+(24) Hezareh, M. Drug News Perspect. 2005, 18, 496–500.
+(25) Chang, M. C.; Keasling, J. D. Nat. Chem. Biol 2006, 2, 674–681.
+(26) Chang, M. C.; Eachus, R. A.; Trieu, W.; Ro, D. K.; Keasling, J. D.
+Nat. Chem. Biol. 2007, 3, 274–277.
+(27) Wender, P. A.; Kee, J.; Warrington, J. M. Science 2008, 320, 649–
+652.
+(28) Voigt, C. A.; Keasling, J. D. Nat. Chem. Biol. 2005, 1, 304–317.
+(29) Newman, D. J.; Cragg, G. M.; Snader, K. M. J. Nat. Prod. 2003, 66,
+1022–1037.
+(30) Kingston, D. G.; Newman, D. J. Drugs 2005, 8, 990–992.
+(31) Cox, P. A., Ciba Found Symp. 1994, 185,2 5 -36;discussion 36-41.
+(32) Soejarto, D. D.; Gyllenhaal, C.; Fong, H. H.; Xuan, L. T.; Hiep, N. T.;
+Hung, N. V.; Bich, T. Q.; Southavong, B.; Sydara, K.; Pezzuto, J. M.
+J. Nat. Prod. 2004, 67 (2), 294–299.
+(33) United States Pharmacopeia. United States Pharmacopeia, 27th ed.;
+United States Pharmacopeial Convention, Inc.: Rockville, MD, 2004.
+(34) Meyer V. R. Practical High-Performance Liquid Chromatography,
+4th ed.; John Wiley & Sons, Chichester, UK, 2004.
+(35) Snedecor, G. W.; Cochran W. G. Statistical Methods, 8th ed.; Iowa
+State University Press: Ames, IA, 1989.
+NP800295M
+2044 Journal of Natural Products, 2008, Vol. 71, No. 12 Notes

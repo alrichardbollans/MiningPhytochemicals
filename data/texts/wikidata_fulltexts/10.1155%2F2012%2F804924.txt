@@ -1,0 +1,1230 @@
+Hindawi Publishing Corporation
+Evidence-Based Complementary and Alternative Medicine
+Volume 2012, Article ID 804924, 8 pages
+doi:10.1155/2012/804924
+Research Article
+Hepatoprotective and Antioxidative Activities of
+Cornusofficinalis against Acetaminophen-Induced
+Hepatotoxicity inMice
+Nam-Hun Lee,1 Chang-SeobSeo,1 Ho-youngLee,1 Da-YoungJung,1 Jun-Kyung Lee,1
+Jin-Ah Lee,1 Kye Yong Song,2 Hyeun-kyooShin,1 Mee-Young Lee,1 Young Bae Seo,3
+Hokyoung Kim,4 andHyekyungHa1
+1Herbal Medicine EBM Research Center, Korea Institute of Oriental Medicine, 483, Exporo, Yuseong-gu,
+Daejeon 305–811, Republic of Korea
+2College of Medicine, Chung-Ang University, Seoul 156–756, Republic of Korea
+3College of Oriental Medicine, Daejeon University, Daejeon 300–716, Republic of Korea
+4Herbal Resources Research Center, Korea Institute of Oriental Medicine, Daejeon 305–811, Republic of Korea
+Correspondence should be addressed to Hyekyung Ha, hkha@kiom.re.kr
+Received 16 March 2011; Revised 13 May 2011; Accepted 20 May 2011
+Academic Editor: Pradeep Visen
+Copyright © 2012 Nam-Hun Lee et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The fruit of Cornus oﬃcinalis Sieb. et Zucc. is commonly prescribed in Asian countries as a tonic formula. In this study,
+the hepatoprotective eﬀect of ethanolic extracts of the fruit of C. oﬃcinalis (ECO) was investigated in a mouse model of
+acetaminophen- (APAP-) induced liver injury. Pretreatment of mice with ECO (100, 250, and 500mg/kg for 7 days) signiﬁcantly
+prevented the APAP (200mg/kg) induced hepatic damage as indicated by the serum marker enzymes (AST, ALT, and LDH).
+Parallel to these changes, ECO treatment also prevented APAP-induced oxidative stress in the mice liver by inhibiting lipid
+peroxidation (MDA) and restoring the levels of antioxidant enzymes (SOD, CAT, and HO-1) and glutathione. Liver injury and
+collagen accumulation were assessed using histological studies by hematoxylin and eosin staining. Our results indicate that ECO
+can prevent hepatic injuries associated with APAP-induced hepatotoxicity by preventing or alleviating oxidative stress.
+1.Introduction
+The fruit of Cornus oﬃcinalis Sieb. et Zucc. (Corni Fructus)
+is commonly prescribed in traditional medicine as a tonic
+f o r m u l aa sw e l la sat r e a t m e n tf o raw i d er a n g eo fm e d i c a l
+conditions [1]. The components of this plant include iridoid
+total glycosides (such as morroniside and loganin) and a
+numberofpolyphenols,includingcornusiinA,B,andC,and
+monomeric and trimeric hydrolysable tannins [2, 3]. Mor-
+roniside and loganin extracted from C. oﬃcinalis has been
+proposed to prevent oxidative stress [4]. C. oﬃcinalis, or its
+constituents, is thought to enhance liver and kidney function
+and has been reported to exhibit antihypertriglyceridemic
+activity [5], and antioxidation eﬀects [4, 6].
+Acetaminophen (APAP) is widely prescribed as an anal-
+gesic and antipyretic drug in the clinic and is sold in numer-
+ous over-the-counter preparations as a single compound or
+in combination with other medications [7, 8]. At normal
+doses, APAP is metabolized by cytochrome P450 (CYP) to
+form the highly reactive species, N-acetyl-p-benzoquinone
+imine (NAPQI), which under normal conditions is readily
+detoxiﬁed by conjugation with glutathione (GSH). However,
+in humans and mice, high doses of APAP saturate detoxiﬁca-
+tion pathways, leading to hepatic glutathione depletion and
+excessiveproductionofNAPQI,whichfreelybindstocellular
+molecules [9].
+Reactive oxygen species (ROS) are causally related to
+oxidative stress. Many studies have demonstrated that over-
+production of ROS can further aggravate oxidative stress and
+have implicated ROS in a number disease processes, includ-
+ingheartdisease,diabetes,liverinjury,cancer,andaging[10–
+14]. Maintaining the balance between ROS and antioxidant
+enzymes, such as superoxide dismutase (SOD), catalase
+(CAT), and glutathione peroxidase (GPx), is, therefore,2 Evidence-Based Complementary and Alternative Medicine
+crucialandcouldbeanimportantmechanismforpreventing
+damage by oxidative stress. This balance has been suggested
+to have an important role in preventing APAP toxicity [15].
+In recent years, an increasing attention has been focused
+on an “emerging molecule”: heme oxygenase-1 (HO-1),
+the rate limiting enzyme in the breakdown of heme into
+carbon monoxide, iron and bilirubin [16]. Ho-1 has been
+shown to be induced during oxidative injury, and its
+induction acts as an important cellular defense mechanism
+against such injuries [17]. It is noteworthy that induction
+of HO-1 expression contributes to protection against liver
+damage induced by several chemical compounds such as
+acetaminophen, carbon tetrachloride and heavy metals,
+suggesting HO-1 induction as a prominent cellular endeavor
+for hepatoprotection [18]. However, the physiological eﬀects
+of C. oﬃcinalis in the context of chemically induced liver
+injury and possible involvement of HO-1 have not been
+determined.
+Therefore, we aimed to evaluate the protective eﬀects of
+C. oﬃcinalis on APAP-induced hepatotoxicity in mice with
+emphasis on HO-1 induction, which may help to determine
+an optimal condition for further research.
+2.MaterialsandMethods
+2.1. Plant Material. The fruit of C. oﬃcinalis was purchased
+from Icheon, Korea, authenticated by Prof. Young Bae Seo
+(Daejeon Univ) and stored as a voucher specimen in the
+Herbarium of herbal medicine EBM research center, South
+Korea, with the issue no., KIOM2008CF002.
+2.2. Chemicals and Reagents. Morroniside and loganin were
+purchased from NPC BioTechnology (Yeongi, Korea) and
+Wako (Osaka, Japan), respectively. The purity of each
+compound was determined to be above 98% by HPLC
+analysis. HPLC-grade reagents, methanol, acetonitrile, and
+water were obtained from J.T. Baker (Phillipsburg, NJ, USA).
+Other chemicals were of analytical grade.
+2.3. Sample Preparation. C. oﬃcinalis was cut into small
+pieces and extracted twice with 70% ethanol at room
+temperature. The solution was ﬁltered through ﬁlter paper
+and evaporated in vacuo t oy i e l dap o w e r e de x t r a c t( y i e l d=
+44.0%). The lyophilized powders of ethanolic extracts of C.
+oﬃcinalis (ECO) were dissolved in distilled water before oral
+administration to experimental animals.
+For HPLC analysis, the plant material was powdered and
+sieved through a 600µm sieve (no. 30) prior to analysis.
+The sample powder was weighed (1.0g) into a 100mL ﬂask
+and 100% methanol was added to the volumetric mark.
+The mixture was sonicated for 60min at room temperature.
+After extraction, the mixture was ﬁltered through a 0.2µm
+membrane ﬁlter. The resulting solution was used HPLC
+analysis.
+2.4. Chromatographic System. Analysis was performed using
+a Shimadzu LC-20A HPLC system (Shimadzu Co., Kyoto,
+Japan), consisting of a solvent delivery unit, an online
+degasser, a column oven, an autosampler, and a PDA detec-
+tor. The data processor employed LCsolution software (Ver-
+sion 1.24). The analytical column used was a Gemini C18
+(250 × 4.6mm; particle size 5µm, Phenomenex, Torrance,
+Calif, USA). The mobile phases consisted of solvent A (H2O)
+and solvent B (Acetonitrile) with the isocratic elution. The
+column temperature was maintained at 40◦C. The analysis
+was carried out at a ﬂowrate of 1.0mL/min with PDA
+detectionfrom190–400nm.Theinjectionvolumewas10µL.
+2.5. Standard Solution and Calibration Curves. Standard
+stock solutions of morroniside and loganin (all 1,000µg/mL)
+were prepared in methanol and held stored 4◦C. Work-
+ing standard solutions were prepared by serial dilution
+of stock solutions with methanol. All calibration curves
+were obtained from assessment of peak areas of standard
+solutions in the concentration ranges: morroniside, 2.34–
+300.00µg/mL; loganin, 2.34–300.00µg/mL.
+2.6. Animal Experimental Design. Five-week-old pathogen-
+free male BALB/c mice, routinely screened serologically for
+relevant pathogens, were purchased from the Orient Bio
+Co. (Seongnam, Korea). Mice were maintained in an animal
+facility under standard laboratory conditions for 1 week
+prior to experiments and were provided with water and stan-
+dard chow ad libitum. Prior to treatment with APAP, mice
+were fasted, as indicated below. All experimental procedures
+were carried out in accordance with NIH Guidelines for
+the Care and Use of Laboratory Animals, and all animal
+handling conformed to the requirements of the National
+Animal Welfare Law of Korea.
+Mice were divided into the following treatment groups
+(n = 8 or 9mice/group): (1) control group, (2) APAP group,
+(3)silymarin+AP APgr oup ,(4)ECO100+AP APgr oup ,(5)
+ECO250+APAPgroup,and(6)ECO500+APAPgroup,(7)
+ECO 500 group.
+T h em i c ei nc o n t r o la n dA P A Pg r o u p sw e r ep r e t r e a t e d
+only with distilled water; the other ﬁve groups were pre-
+treated daily with ECO (100, 250, or 500mg/kg) or silymarin
+(200mg/kg)orallyfor7consecutivedays.Silymarinhasbeen
+usedinclinicalpracticeforthetreatmentoftoxicliverdisease
+[19]; thus, in this study, it was used as a positive control. Six
+hoursaftertheﬁnaltreatment,acuteliverinjurywasinduced
+in all groups, except the ECO500 group, by intraperitoneal
+(i.p) injection of 200mg/kg APAP (Sigma-Aldrich Co., Mo,
+USA) in warm phosphate-buﬀered saline (PBS, pH 7.4). The
+mice were starved for 18 hr after APAP treatment and then
+were sacriﬁced. Blood was collected from abdominal veins,
+and plasma was separated and stored at −80◦C for later
+analysis of biochemical parameters. The liver was quickly
+excised and divided into portions. Liver pieces were stored
+at −80◦C for analysis of enzymes or ﬁxed in 10% neutralized
+formalin for histological examination.
+2.7. Preparation of Liver Tissue Homogenate and Determi-
+nation of Protein Content. Liver tissue (100mg) was added
+to 500µLo f5 0m MT r i sb u ﬀer (pH 7.4) containing 1mM
+EDTA and 10µg/mL leupeptin and was homogenized usingEvidence-Based Complementary and Alternative Medicine 3
+an ultrasonic homogenizer (Sonoplus, Bandelin, Berlin,
+Germany).Thehomogenatewascentrifugedat10,000xgfor
+15minat4◦C,andtheupperlayerwascollectedandstoredat
+−80◦C for SOD, CAT, HO-1, and GSH assays. The total pro-
+tein concentration in collected supernatant was determined
+colorimetrically using a Bio-Rad DC protein assay kit (Bio-
+RadLaboratories,Calif,USA)toallowantioxidantenzymatic
+activity to be expressed on a per-gram-protein basis.
+2.8. Biochemical Analysis of Plasma Marker Enzymes. Eigh-
+teen hours after APAP treatment, plasma was collected and
+separated for measurement of aspartate transaminase (AST),
+alanine transaminase (ALT), and lactate dehydrogenase
+(LDH) enzymatic activities. Plasma was collected following
+centrifugation of blood for 10min at 10,000rpm. The levels
+of AST, ALT, and LDH were determined using an auto-
+analyzer (Beckman, Calif, USA, or ADVIA, Tokyo, Japan).
+2.9. Lipid Peroxidation in Liver. Lipid peroxidation was
+analyzed by the formation of malondialdehyde (MDA) using
+a commercial kit (Cayman Chemical Company, Mich, USA)
+according to the manufacturer’s protocol. Brieﬂy, liver tissue
+was homogenized in RIPA buﬀer (50mM Tris-Cl, pH 8.0,
+150mM NaCl, 1% NP-40, 5mM EDTA, 1mM PMSF) and
+centrifuged at 1,600 × gf o r1 0 m i na t4 ◦C. Supernatant
+(0.1mL) was mixed with a sodium dodecyl sulfate solution
+(0.1mL) and color reagent (4mL). The mixture was heated
+to 100◦C for 1hr and then rapidly cooled. Absorbance was
+measured at 532nm using a microtiter plate reader (Bio-Rad
+Laboratories, UK).
+2.10. Determination of SOD, CAT, and GSH in Liver.
+Liver tissue supernatants obtained from the liver tissue
+homogenization were used to determine the SOD, CAT, and
+HO-1 activities. The SOD activity in the liver tissues was
+determined using a SOD assay kit (Cayman Chemical Co.,
+Mich, USA) according to the manufacturer’s protocol. CAT
+activity in liver tissue was determined with a Catalase assay
+kit (Cayman Chemical Co., Mich, USA) according to the
+manufacturer’s instruction. GSH level of liver tissues was
+measured using liver tissue supernatant with a commercial
+kit (Cayman Chemical Co., Mich, USA) according to the
+manufacturer’s instructions. The absorbance was measured
+at 405nm using a microtiter plate reader.
+2.11. Measurement of HO-1 Activity. HO-1 activity in the
+liver tissues was measured using a Mouse Heme Oxygenase-
+1 EIA Kit (Takara Bio, Shiga, Japan) according to manufac-
+turer’s protocol.
+2.12. Liver Index and Histopathological Analysis. The liver
+index was calculated as liver weight divided by body weight.
+Liver tissues ﬁxed in formalin were embedded in paraﬃn,
+cut into 4-µm thick sections, mounted on glass slides, and
+stainedwithhematoxylinandeosinsolution(H&E)(Sigma-
+Aldrich Co., Mo, USA). Stained sections were coverslipped
+using Dako-mounting medium (Dakocytomation, Calif,
+USA).
+2.13. Statistical Analysis. All results are presented as mean ±
+SEM. Statistical analyses of the data were carried out using
+ANOVA and Bonferroni multiple comparison analysis, and
+values of P < 0.05 were considered statistically signiﬁcant.
+3. Results
+3.1. Optimization of the Chromatographic Conditions. We
+obtained satisfactory separation using mobile phases con-
+sisting of solvent A (H2O) and solvent B (Acetonitrile). The
+HPLC chromatogram of reference compounds and C. oﬃc-
+inalis extract was shown in Figure 1. Using optimized chro-
+matography conditions, two compounds were eluted before
+20min and showed good resolution in sample analysis.
+3.2. HPLC Determination of Morroniside and Loganin from
+C. oﬃcinalis. The standard curves for morroniside and
+loganin are Y = 19978.75x + 22514.05 (R2 = 1.0000) and
+Y = 17047.30x + 21728.07 (R2 = 0.9999), respectively.
+Retention time of morroniside and loganin were 5.908min
+and 10.739min, respectively. Chemical structures of major
+constituents in C. oﬃcinalis are shown in Figure 2. Figure 1
+shows chromatograms of reference compounds and C.
+oﬃcinalis extract, with detection of eluent at 240nm. The
+contents (n = 3) of morroniside and loganin were 9.63mg/g
+and 5.82mg/g, respectively, and summarized in Table 1.
+3.3. Biochemical Analysis of Plasma Marker Enzymes. Plasma
+levels of AST, ALT, and LDH were determined as measures
+of liver function. A single administration of APAP induced
+severe hepatic injury, as shown by marked increases in AST,
+ALT, and LDH levels (P < 0.01). Pretreatment with ECO
+signiﬁcantly reduced plasma levels of AST, ALT, and LDH in
+a dose-dependent manner (P < 0.05 or 0.01). The recovery
+from APAP-induced toxicity produced by treatment with
+ECO was similar to that seen with silymarin treatment
+(Figure 3).
+3.4. Lipid Peroxidation in Liver. The lipid peroxidation was
+examined by determining malondialdehyde (MDA) content
+in liver tissue homogenate. The MDA content in APAP
+group was signiﬁcantly higher than that in the control group
+(approximately 206% of control). In the ECO 100, ECO 250,
+ECO 500, and silymarin groups, MDA decreased by 37.5,
+36.5, 41.4, and 37.3%, respectively, compared to APAP group
+(Figure 4(a)).
+3.5. Determination of SOD, CAT, and GSH in Liver. We
+determined the level of SOD, CAT, and GSH in liver tissues.
+ECO treatment signiﬁcantly prevented inhibition of SOD
+activity caused by APAP toxicity compared to the APAP
+group (P < 0.01) (Figure 4(b)) .W ef o u n ds u s t a i n e dl e v e lo f
+GSH components in the ECO-treated groups compared to
+the APAP group (P < 0.01) (Figure 4(d)).
+3.6. Measurement of HO-1 Activity. HO-1 is an important
+component of the defense against oxidative stress. We there-
+fore examined the eﬀect of ECO on HO-1 activity. HO-14 Evidence-Based Complementary and Alternative Medicine
+0
+50
+100
+150
+200
+250
+300
+350
+400
+02
+2
+.5 5 7.5 1
+1
+0 12.5 15 17.5 (min)
+m
+A
+U
+AD1: 240nm
+( inutes) m
+(a)
+0
+25
+50
+75
+100
+125
+150
+175
+200
+02
+2
+.5 5 7.5 10 1
+1
+2.5 15 17.5 (min)
+AD1: 240nm
+( inutes) m
+(b)
+Figure 1: HPLC chromatogram of standard mixture (a) and C. oﬃcinalis (b) at 240nm. Morroniside (1), loganin (2). C. oﬃcinalis and two
+standards were subjected to HPLC analysis. A Gemini C18 (250 × 4.6mm) column was eluted with solvents A (H2O) and B (Acetonitrile)
+at ﬂow rate of 1.0mL/min.
+O
+COOCH3
+H
+H
+H3C
+HO
+HO HO
+HO
+O
+O
+OH
+OH OH
+OH
+OH OH
+Loganin
+O
+COOCH3
+H
+O
+O
+O
+H
+CH3
+Morroniside
+Figure 2:ChemicalstructuresofmajorconstituentsinC.oﬃcinalis.
+Table 1: Contents of identiﬁed compounds of C. oﬃcinalis by
+HPLC (n = 3).
+Compound RT (min) Content (mg/g) SD RSD (%)
+Morroniside 5.902 9.63 0.09 0.95
+Loganin 10.728 5.82 0.04 0.68
+activitiesincreasedmarkedlyin theliversof micein ECO500
+only group.
+WenextinvestigatedtheeﬀectofECOonHO-1activities
+in APAP-treated animals. Interestingly, the hepatic HO-1
+activities in APAP group were higher than those of control
+group. Even though it was not signiﬁcant, ECO 100, ECO
+250, and ECO 500 group also resulted in further elevation
+of the APAP-induced HO-1 activities (Figure 5(a)). These
+results demonstrate that ECO treatment further augments
+HO-1 activities induced by APAP treatment and suggest that
+this augmented HO-1 activities may be important for the
+ECO-based hepatoprotection.
+3.7. Liver Index and Histopathological Analysis. The liver
+index increased signiﬁcantly in the APAP group (P < 0.01),
+but this eﬀect was signiﬁcantly ameliorated by pretreatment
+with of ECO at 500mg/kg (P < 0.01) (Figure 5(b)). Liver
+sections stained with H & E showed features typical of
+inﬂammatory hepatic tissues, including centrilobular necro-
+sis, conﬁrming the hepatic damage indicated by biochemical
+and enzymatic assays (Figure 6). In the three ECO treatment
+groups, hepatocyte degeneration, necrosis, and inﬁltration
+of inﬂammatory cells were all reduced in a dose-dependent
+manner, similar to results in tissues from silymarin-treated
+mice.
+4. Discussion
+C. oﬃcinalis or its constituents have been reported to possess
+potent antioxidant properties, including hydroxyl radical
+scavenging activity [4, 6]. However, potential hepatoprotec-
+tive eﬀects and the possible involvement of HO-1 have not
+beeninvestigated.Thepresentstudyshowedfortheﬁrsttime
+that ECO has hepatoprotective properties, as evidenced by
+the signiﬁcant inhibition of APAP-induced changes in liver
+biochemical parameters, antioxidant enzymatic activities,
+and lipid peroxidation product. We further show that HO-
+1 induction may be at least partly responsible for the action
+of ECO. We analyzed two compounds of C. oﬃcinalis such
+as morroniside and loganin using HPLC. Our result showed
+good separation in C. oﬃcinalis. On the other hand, we must
+perform activity tests for these major compounds.
+APAP is a well-known antipyretic and analgesic agent,
+which is safe in therapeutic doses but can produce fatal
+hepatic necrosis in experimental animals and humans [20,
+21] and is employed as an experimental hepatotoxic agent.
+Oxidative stress caused by APAP results in the release
+of LDH, a marker of cell damage, and the release of
+several soluble products, including ALT, and AST [20]. The
+estimation of enzymes in the serum is a useful quantitative
+marker of the extent and type of hepatocellular damage. The
+mice treated with an overdose of APAP developed signiﬁcant
+hepaticdamage,whichwasobservedbyasubstantialincrease
+in the concentration of serum enzymes (AST, ALT, and
+LDH).AdministrationofECOafterAPAPtreatmentresultedEvidence-Based Complementary and Alternative Medicine 5
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+(
+U
+/
+L
+)
+AST
+∗∗
+∗∗
+∗∗
+††
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(a)
+0
+5000
+10000
+15000
+20000
+25000
+(
+U
+/
+L
+)
+ALT
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+∗∗
+∗∗
+∗∗
+††
+∗
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(b)
+∗∗
+∗∗
+∗∗
+∗∗
+††
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+(
+U
+/
+L
+)
+LDH
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(c)
+Figure 3: Protective eﬀect of ECO on APAP-induced hepatotoxicity: plasma enzymes. Control, D.W treated/PBS injected; APAP, D.W
+treated/APAP200mg/kginjected;Silymarin,silymarin200mg/kgtreated/APAP200mg/kginjected;ECO100,ECO100mg/kgtreated/APAP
+200mg/kg injected, ECO 250, ECO 250mg/kg treated/APAP 200mg/kg injected, ECO 500, ECO 500mg/kg treated/APAP 200mg/kg
+injected, ECO only, ECO 500mg treated/PBS injected. AST, aspartate aminotransferase; ALT, alanine aminotransferase; LDH, lactate
+dehydrogenase. Values are expressed as means ± SEM (n = 8 or 9mice/group). ∗Signiﬁcant diﬀerence from Control, P < 0.05; †signiﬁcant
+diﬀerence from APAP, P < 0.05.
+in a signiﬁcant reduction (P < 0.05 or P < 0.01) of APAP-
+induced elevation of AST, ALT and LDH and appears to be
+protective in reducing the injurious eﬀect of APAP.
+The MDA is a good indicator of the degree of lipid
+peroxidation [22], which is closely related to APAP-induced
+tissue damage. In the present study, we also observed
+signiﬁcant increase (P < 0.05) in the levels of MDA in liver,
+which was decreased by the administration of ECO. This
+might due to hydroxyl radicals scavenging activities of ECO.
+GSH is the major nonenzymatic antioxidant and regula-
+tor of intracellular redox homeostasis, ubiquitously present
+i na l lc e l lt y p e s[ 23]. The depletion of cellular GSH in the
+livercellsisknowntoplayanimportantroleinAPAPtoxicity
+[24]. APAP administration leads to a signiﬁcant decrease in
+the glutathione level which can be an important factor in the
+APAP toxicity. The mechanism of hepatoprotection by ECO
+againstAPAPtoxicitymightbeduetorestorationoftheGSH
+level.
+SOD catalyses the dismutation of superoxide anion to
+H2O2 andO2.BecauseH2O2 isstillharmfultocells,CATand
+GPx further catalyse the decomposition of H2O2 to water
+[25]. Thus, the coordinate actions of various cellular antiox-
+idants in mammalian cells are critical for eﬀectively detox-
+ifying free radicals. APAP administration to mice declined6 Evidence-Based Complementary and Alternative Medicine
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+(
+u
+g
+/
+m
+g
+p
+r
+o
+t
+e
+i
+n
+)
+MDA
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+∗∗ ∗∗
+∗∗ ∗∗
+††
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(a)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+SOD
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+∗∗
+∗∗
+∗∗
+` †
+††
+(
+U
+/
+m
+g
+p
+r
+o
+t
+e
+i
+n
+)
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(b)
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+CAT
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+††
+(
+n
+m
+o
+/
+m
+i
+n
+/
+m
+g
+p
+r
+o
+t
+e
+i
+n
+)
+L
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(c)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+(
+u
+M
+/
+m
+g
+p
+r
+o
+t
+e
+i
+n
+)
+GSH
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+∗∗
+∗∗
+††
+∗
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(d)
+Figure 4: Protective eﬀect of ECO on APAP-induced hepatotoxicity: lipid peroxidation and antioxidative exzyme activities. Control,
+D.W treated/PBS injected; APAP, D.W treated/APAP 200mg/kg injected; Silymarin, silymarin 200mg/kg treated/APAP 200mg/kg injected;
+ECO 100, ECO 100mg/kg treated/APAP 200mg/kg injected, ECO 250, ECO 250mg/kg treated/APAP 200mg/kg injected, ECO 500, ECO
+500mg/kg treated/APAP 200mg/kg injected, ECO only, ECO 500 mg treated/PBS injected. Values are expressed as means ± SEM (n = 8o r
+9 mice/group). ∗Signiﬁcant diﬀerence from Control, P < 0.05; †signiﬁcant diﬀerence from APAP, P < 0.05.
+antioxidant capacity of the mice liver as evinced in decreased
+activity of the antioxidant enzymes. ECO pretreatment
+prevented the reduction in the antioxidant enzyme activities
+and consequent oxidative damage to the liver.
+HO-1 has been shown to be protective in several
+disparate models of hepatic injuries. Some HO-1 inducers
+have potential for use as eﬀective preconditioning agents in
+solid organ transplantation. Curcumin, a candidate pharma-
+cological preconditioning agent, was recently demonstrated
+to protect hepatocytes against oxidative injury and this
+protection was mediated through HO-1 induction [26].
+It has been reported that expression of HO-1 is rapidly
+upregulated in the liver following administration of toxic
+doses of acetaminophen [27, 28]. Chiu et al. demonstrated
+a time dependent induction of HO-1 in the liver following
+treatment of rats with a toxic dose of acetaminophen,
+and pretreatment with hemin prevented acetaminophen
+hepatotoxicity [29]. In this study, pretreatment of ECO
+resulted in further elevation of the APAP-induced HO-1
+activities but it was not signiﬁcant.
+In addition, pretreatment with ECO prevented hepatic
+necrosis, an important histopathological feature of APAP-
+induced hepatotoxicity [30].
+The present study has demonstrated that the ECO exerts
+ah e p a t o p r o t e c t i v ee ﬀect against APAP-induced hepatotoxi-
+city in mice. Increased levels of antioxidant enzymes and aEvidence-Based Complementary and Alternative Medicine 7
+0
+00 .5
+0.1
+0.15
+0.2
+0.25
+0.3
+0.35
+0.4
+0.45
+0.5
+(
+n
+g
+/
+m
+g
+p
+r
+o
+t
+e
+i
+n
+)
+HO-1
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(a)
+0
+1
+2
+3
+4
+5
+6
+7
+(
+%
+)
+Liver index
+C
+o
+n
+t
+r
+o
+l
+A
+P
+A
+P
+S
+i
+l
+y
+m
+a
+r
+i
+n
+E
+C
+O
+o
+n
+l
+y
+††
+∗∗
+E
+C
+O
+1
+0
+0
+E
+C
+O
+2
+5
+0
+E
+C
+O
+5
+0
+0
+(b)
+Figure 5: Protective eﬀect of ECO on APAP-induced hepatotoxicity: HO-1 and liver index. Control, D.W treated/PBS injected; APAP, D.W
+treated/APAP200mg/kginjected;Silymarin,silymarin200mg/kgtreated/APAP200mg/kginjected;ECO100,ECO100mg/kgtreated/APAP
+200mg/kg injected, ECO 250, ECO 250mg/kg treated/APAP 200mg/kg injected, ECO 500, ECO 500mg/kg treated/APAP 200mg/kg
+injected,ECOonly,ECO500mgtreated/PBSinjected.Valuesareexpressedasmeans ±SEM(n = 8or9mice/group). ∗Signiﬁcantdiﬀerence
+from Control, P < 0.05; †signiﬁcant diﬀerence from APAP, P < 0.05.
+Control
+(a)
+APAP
+(b)
+Silymarin
+(c)
+ECO 100
+(d)
+ECO 250
+(e)
+ECO 500
+(f)
+Figure 6: Protective eﬀect of ECO on APAP-induced hepatotoxicity: H & E staining, magniﬁcation, ×200. Control, D.W treated/PBS
+injected; APAP, D.W treated/APAP 200mg/kg injected; Silymarin, silymarin 200mg/kg treated/APAP 200mg/kg injected; ECO 100, ECO
+100mg/kg treated/APAP 200mg/kg injected, ECO 250, ECO 250mg/kg treated/APAP 200mg/kg injected, ECO 500, ECO 500mg/kg
+treated/APAP 200mg/kg injected, ECO only, ECO 500mg treated/PBS injected.
+reduction in the amount of lipid peroxides are likely to be
+the major mechanisms by which ECO prevents development
+of the liver damage induced by APAP.
+Acknowledgment
+This work was supported by grants from the Ministry of
+Health, Welfare, and Family Aﬀairs (no. E060003), Republic
+of Korea.
+References
+[1] B. Jayaprakasam, S. K. Vareed, L. K. Olson, and M. G.
+Nair, “Insulin secretion by bioactive anthocyanins and antho-
+cyanidins present in fruits,” Journal of Agricultural and Food
+Chemistry, vol. 53, no. 1, pp. 28–31, 2005.
+[2] T. Hatano, N. Ogawa, R. Kira, T. Yasuhara, and T. Okuda,
+“Tannins of cornaceous plants. I. Cornusiins A, B and C,
+dimeric monomeric and trimeric hydrolyzable tannins from8 Evidence-Based Complementary and Alternative Medicine
+Cornus oﬃcinalis, and orientation of valoneoyl group in
+related tannins,” Chemical & Pharmaceutical Bulletin, vol. 37,
+pp. 2083–2090, 1989.
+[ 3 ]S .F .W a n g ,X .G .C h e n ,Z .D .H u ,a n dY .J u ,“ A n a l y s i so ft h r e e
+eﬀective components in fructus corni and its preparations by
+micellar electrokinetic capillary chromatography,” Biomedical
+Chromatography, vol. 17, pp. 306–311, 2003.
+[4] H. Xu, J. Shen, H. Liu, Y. Shi, H. Li, and M. Wei, “Morroniside
+a n dl o g a n i ne x t r a c t e df r o mCornus oﬃcinalis have protective
+eﬀects on rat mesangial cell proliferation exposed to advanced
+glycation end products by preventing oxidative stress,” Cana-
+dian Journal of Physiology and Pharmacology, vol. 84, no. 12,
+pp. 1267–1273, 2006.
+[5] T. Yokozawa, C. H. Park, J. S. Noh, T. Tanaka, and E. J. Cho,
+“Novel action of 7-O-galloyl-D-sedoheptulose isolated from
+corni fructus as a hypertriglyceridaemic agent,” Journal of
+PharmacyandPharmacology,vol.61,no.5,pp.653–661,2009.
+[ 6 ] S .O .L e e ,S .Y .K i m ,S .M .H a n ,H .M .K i m ,S .S .H a m ,a n dI .J .
+Kang,“Cornifructusscavengeshydroxyradicalsanddecreases
+oxidative stress in endothelial cells,” Journal of Medicinal Food,
+vol. 9, no. 4, pp. 594–598, 2006.
+[7] N. Kaplowitz, “Acetaminophen hepatoxicity: what do we
+know, what don’t we know, and what do we do next?”
+Hepatology, vol. 40, no. 1, pp. 23–26, 2004.
+[8] D. C. Whitcomb, “Acetaminophen poisoning and liver func-
+tion,” The New England Journal of Medicine, vol. 331, no. 19,
+pp. 1310–1312, 1994.
+[9] J. A. Hinson, A. B. Reid, S. S. McCullough, and L. P. James,
+“Acetaminophen-induced hepatotoxicity: role of metabolic
+activation, reactive oxygen/nitrogen species, and mitochon-
+drial permeability transition,” Drug Metabolism Reviews, vol.
+36, no. 3-4, pp. 805–822, 2004.
+[10] F. J. Giordano, “Oxygen, oxidative stress, hypoxia, and heart
+failure,” Journal of Clinical Investigation, vol. 115, no. 3, pp.
+500–508, 2005.
+[11] A. P. Rolo and C. M. Palmeira, “Diabetes and mitochondrial
+function: role of hyperglycemia and oxidative stress,” Toxicol-
+ogy and Applied Pharmacology, vol. 212, no. 2, pp. 167–178,
+2006.
+[12] H. Jaeschke, “Reactive oxygen and mechanisms of inﬂamma-
+tory liver injury,” Journal of Gastroenterology and Hepatology,
+vol. 15, no. 7, pp. 718–724, 2000.
+[13] J. E. Klaunig and L. M. Kamendulis, “The role of oxidative
+stress in carcinogenesis,” Annual Review of Pharmacology and
+Toxicology, vol. 44, pp. 239–267, 2004.
+[14] A. Bokov, A. Chaudhuri, and A. Richardson, “The role of
+oxidative damage and stress in aging,” Mechanisms of Ageing
+and Development, vol. 125, no. 10-11, pp. 811–826, 2004.
+[15] H. Jaeschke, T. R. Knight, and M. L. Bajt, “The role of
+oxidant stress and reactive nitrogen species in acetaminophen
+hepatotoxicity,”Toxicology Letters,vol.144,no.3,pp.279–288,
+2003.
+[16] D. Morse and A. M. Choi, “Heme oxygenase-1: the “emerging
+molecule” has arrived,” American Journal of Respiratory Cell
+and Molecular Biology, vol. 27, no. 1, pp. 8–16, 2002.
+[ 1 7 ]T .W e n ,Z .M .W u ,Y .L i u ,Y .F .T a n ,F .R e n ,a n dH .W u ,
+“Upregulation of heme oxygenase-1 with hemin prevents d-
+galactosamine and lipopolysaccharide-induced acute hepatic
+injuryinrats,”Toxicology,vol.237,no.1–3,pp.184–193,2007.
+[18] E.O.FarombiandY.J.Surh,“Hemeoxygenase-1asapotential
+therapeutic target for hepatoprotection,” Journal of Biochem-
+istry and Molecular Biology, vol. 39, no. 5, pp. 479–491, 2006.
+[19] M. Messner and P. Brissot, “Traditional management of liver
+disorders,” Drugs, vol. 40, supplement 3, pp. 45–57, 1990.
+[20] K.F.Shireen,R.D.Pace,M.Mahboob,andA.T.Khan,“Eﬀects
+of dietary vitamin E, C and soybean oil supplementation on
+antioxidant enzyme activities in liver and muscles of rats,”
+Food and Chemical Toxicology, vol. 46, no. 10, pp. 3290–3294,
+2008.
+[21] P. J. Amar and E. R. Schiﬀ, “Acetaminophen safety and
+hepatotoxicity—where do we go from here?” Expert Opinion
+on Drug Safety, vol. 6, no. 4, pp. 341–355, 2007.
+[22] A. M. Gamal El-din, A. M. Mostafa, O. A. Al-Shabanah, A.
+M. Al-Bekairi, and M. N. Nagi, “Protective eﬀect of arabic
+gum against acetaminophen-induced hepatotoxicity in mice,”
+Pharmacological Research, vol. 48, no. 6, pp. 631–635, 2003.
+[23] A. Meister and M. E. Anderson, “Glutathione,” Annual Review
+of Biochemistry, vol. 52, pp. 711–760, 1983.
+[ 2 4 ]J .R .M i t c h e l l ,D .J .J o l l o w ,a n dW .Z .P o t t e r ,“ A c e t a m i n o p h e n
+induced hepatic necrosis. IV. Protective role of glutathione,”
+Journal of Pharmacology and Experimental Therapeutics, vol.
+187, no. 1, pp. 211–217, 1973.
+[25] J. D. Hayes, J. U. Flanagan, and I. R. Jowsey, “Glutathione
+transferases,” Annual Review of Pharmacology and Toxicology,
+vol. 45, pp. 51–88, 2005.
+[26] S. J. McNally, E. M. Harrison, J. A. Ross, O. J. Garden, and
+S. J. Wigmore, “Curcumin induces heme oxygenase-1 in
+hepatocytes and is protective in simulated cold preservation
+and warm reperfusion injury,” Transplantation, vol. 81, no. 4,
+pp. 623–626, 2006.
+[27] I. Bauer, B. Vollmar, H. Jaeschke et al., “Transcriptional
+activation of heme oxygenase-1 and its functional signiﬁcance
+in acetaminophen-induced hepatitis and hepatocellular injury
+in the rat,” Journal of Hepatology, vol. 33, no. 3, pp. 395–406,
+2000.
+[28] G. O. Noriega, J. O. Ossola, M. L. Tomaro, and A. M. Batlle,
+“Eﬀect of acetaminophen on heme metabolism in rat liver,”
+The International Journal of Biochemistry and Cell Biology, vol.
+32, no. 9, pp. 983–991, 2000.
+[29] H. Chiu, J. A. Brittingham, and D. L. Laskin, “Diﬀerential
+induction of heme oxygenase-1 in macrophages and
+hepatocytes during acetaminophen-induced hepatotoxicity
+in the rat: eﬀects of hemin and biliverdin,” Toxicology and
+Applied Pharmacology, vol. 181, no. 2, pp. 106–115, 2002.
+[30] B. McJunkin, K. W. Barwick, W. C. Little, and J. B. Winﬁeld,
+“Fatal massive hepatic necrosis following acetaminophen
+overdose,” Journal of the American Medical Association, vol.
+236, no. 16, pp. 1874–1875, 1976.

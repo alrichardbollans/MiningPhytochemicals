@@ -1,0 +1,237 @@
+Gram-Scale Purification of Flavonolignan Diastereoisomers from Silybum marianum (Milk Thistle) 
+Extract in Support of Preclinical in vivo Studies for Prostate Cancer Chemoprevention 
+ 
+By: Tyler N. Graf, Mansukh C. Wani, Rajesh Agarwal, David J. Kroll, Nicholas H. Oberlies 
+ 
+Graf, T. N.; Wani, M. C.; Agarwal, R.; Kroll, D. J. and Oberlies, N. H. (2007) Gram-scale purification of  
+flavonolignan diastereoisomers from Silybum marianum (Milk Thistle) extract in support of preclinical 
+in vivo studies for prostate cancer chemoprevention. Planta Medica. 73, 1495-1501. 
+ 
+Made available courtesy of George Thieme Verlag: https://www.thieme-
+connect.com/ejournals/toc/plantamedica 
+ 
+***Note: Figures may be missing from this format of the document 
+ 
+ 
+Abstract: 
+Extracts of milk thistle (Silybum marianum, Asteraceae), termed "silymarin," are used worldwide, primarily for 
+hepatoprotective applications and recently for prostate cancer chemoprevention. Silymarin is a mixture of at 
+least eight compounds, and four major constituents are a group of structurally related flavonolignans: silybin A, 
+silybin B, isosilybin A, and isosilybin B. The initiation of in vivo studies to compare the respective preclinical 
+activities of each compound required that gram quantities of these diastereoisomers be prepared. Procedures 
+were developed and optimized to produce multigram-scale quantities of each of these in >97% purity. A hybrid 
+chromatographic precipitative technique was developed, whereby mixtures were chromatographed at high 
+concentrations so as to induce formation of a precipitate in the column fractions, yielding samples that were 
+more enriched in the desired compounds than would be obtained solely by the chromatographic steps alone. 
+ 
+Article: 
+Introduction 
+Milk thistle [Silybum marianum (L.) Gaertn. (Asteraceae)] has been used since antiquity, especially for 
+hepatoprotection against alcohol, Amanita mycotoxins, and other xenobiotics [1]. Since 1997, members of our 
+team have explored its cancer chemopreventive properties, especially against models of prostate and other 
+epithelial cancers [2]. Milk thistle extracts influence numerous cellular effectors to inhibit tumor cell 
+proliferation, angiogenesis, invasion, and metastasis [3]. Largely, these studies have examined milk thistle as 
+either a complex mixture of at least eight compounds [4], termed 'silymarin', which is a series of seven 
+structurally-related flavonolignans and the flavonoid, taxifolin [5] (Fig.1), or as an approximately equal mixture 
+of the two most prominent flavonolignans [6], termed silibinin, which consists of the diastereoisomers silybin A 
+and silybin B [5]. Although the chemistry of the constituents in milk thistle has been explored since the late 
+1950 s (reviewed in [7]), members of our team were the first to isolate and characterize all seven of the 
+flavonolignans [silybin A (1), silybin B (2), isosilybin A (3), isosilybin B (4), silychristin (5), isosilychristin (6), 
+and silydianin (7)] [8]; a similar isolation study focusing on compounds 1-4 was described subsequently [9]. 
+ 
+As is well known to this audience, an ongoing question in the examination of herbal drugs is whether the 
+mixture or isolated compounds are responsible for the biological activity of an herb [10]. This can now be tested 
+in milk thistle, since all of the individual components have been isolated on the milligram scale yielding enough 
+material for cell culture studies [8], In an in vitro study, we found that 4 was generally the most potent anti-
+proliferative compound across three prostate carcinoma cell 
+ 
+ 
+lines, but that three other flavonolignans (1-3) each had equal or lesser potency as well [I1]. Currently, we are 
+expanding upon those results in a series of mechanistic in vitro and in vivo models of prostate cancer [12]. A 
+phase I dose-escalation clinical trial with a silibinin-phosphatidylcholine mixture revealed that plasma 
+concentrations of flavonolignans can be achieved in the range where in vitro antiproliferative activity has been 
+observed (25 -100 µM); however, to do so, doses of 5 to 13 g/day were required [13]. To further examine the 
+effects of the flavonolignans in preclinical and clinical settings, both as defined mixtures and as isolated 
+constituents, new methods were necessary to isolate gram-scale quantities of each diastereoisomer. While 
+developing these, several unanticipated empirical observations led to optimized procedures to prepare 
+multigram-scale quantities of compounds 1-4, all in greater than 97% purity. 
+ 
+Materials and Methods 
+Chemicals and instrumentation 
+HPLC-grade solvents were purchased from Burdick & Jackson (Muskegon, MI, USA). Large-scale separations 
+were accomplished with a CombiFlash Companion flash chromatography system (Teledyne-Isco; Lincoln, NE, 
+USA) using an Isco reverse- phase C-18 column (130 g). HPLC was carried out concurrently on three Varian 
+Prostar HPLC systems (Walnut Creek, CA, USA) equipped with Prostar 210 pumps. Two of these utilized 330 
+photodiode array detectors (PDA), with data collected and analyzed using Star Chromatography Workstation 
+software (version 5.52). The other system utilized a 335 PDA, with data collected and analyzed using Galaxie 
+Chromatography Workstation software (version 1.9.3.2). For preparative HPLC, YMC ODS-A (5 Fun; 250x25 
+mm) columns were used with a 7 mL/min flow rate, while for analytical HPLC, YMC ODS-A (5 µ 5µm; 150x 
+4,6 mm) columns were used with a 1 L/min flow rate (both from Waters; Milford, MA, USA). For analytical 
+HPLC, MetaTherm HPLC column temperature controllers (Varian) maintained these columns at 27 °C. 
+ 
+Plant material 
+Powdered extract (1 kg; Product No. 345066, Lot No. 37501) of the seeds (achenes) of Silybum marianum (L.) 
+Gaertn. was obtained from Euromed, S.A. (Barcelona, Spain), which is a part of the Madaus Group (Cologne, 
+Germany). 
+ 
+Analytical HPLC 
+The purity of isolates was determined via analytical HPLC using a gradient that started at 30:70 MeOH-H20 and 
+increased to 70:30 over 20 min. Chromatograms were observed at 280 nm, and the samples were dissolved in 
+MeOH. The generation and 
+ 
+ 
+ 
+characterization of reference standards from milk thistle, including the determination of chromatographic 
+retention times, has been described previously [5], [8], [11]. 
+ 
+Results 
+Milk thistle literature is somewhat confusing, especially in pharmacology studies, clue largely to inconsistencies 
+in the nomenclature of extract versus mixtures versus pure compounds. We have reviewed this recently [5] and 
+others have voiced similar concerns [14]. Briefly, in all discussions herein, silymarin refers to the crude mixture 
+of eight compounds shown in Fig.1, silibinin refers to a roughly equal mixture of 1 and 2, and isosilibinin refers 
+to a roughly equal mixture of 3 and 4. 
+ 
+The top of Fig. 2 displays an analytical scale HPLC chromatogram of the silymarin extract that was used as 
+starting material in the following purifications. As we reported previously, this extract consists of silybin A (1; 
+16.0%), silybin B (2; 23.8%), isosilybin A (3; 6.4%), isosilybin B (4; 4.4%), silychristin (5; 11.6%), isosily-
+christin (6; 2.2%), silydianin (7; 16.7%), and taxifolin (8; 1.6%) [11]. To prepare silibinin and isosilibinin, 
+fractionation of powdered silymarin (6.0 g dissolved in 9 mL of DMSO/chromatography for 42 
+chromatographies) was initiated using the CombiFlash system via a MeOH-H20 gradient from 30:70 to 65:35 
+over 11.5 column volumes (Fig. 2). Precipitates were evident in many fractions upon elution, and fractions from 
+all 42 separations were pooled by their relative ratios of silibinin to isosilibinin to yield ten pooled fractions (A 
+series). These stood for several clays (typically 3— 5) at room temperature to ensure complete precipitation. 
+Three groups of fractions were filtered separately to obtain precipitates A-IP (40.5 g), A-2P (36.4 g), and A-3P 
+(4.2 g) and supernatants A-1S (7.4 g), A-2S (19.1 g), and A-3S (14.8 g). Precipitates A-1P and A-2P were 
+washed extensively with 100% MeOH to produce MeOH-insoluble fractions [A-1PP (30.4 g) and A-2PP (24.7 
+g)], which consisted primarily of silibinin. The corresponding MeOH-soluble fractions [A-1PS (10.1 g) and A-
+2PS (1I.7 g)] were dried, and upon resuspension in MeOH, a significant quantity of silibinin failed to go into 
+solution, was removed by filtration [creating fractions A-1 PSP (3.7 g) and A-2PSP (4.3 g)], thereby yielding 
+fractions enriched in isosilibinin, termed A1PSS (2.3g) and A-2PSS (6.5 g) [15]. A series of fractions were 
+combined to form the starting material for the purification of compounds 3 and 4 (fraction B-1), and this was 
+first filtered to remove more MeOH-insoluble silibinin [fraction B-1P (4.4 g)], yielding isosilibinin-enriched 
+fraction B-1 S (50.2 g). in summary, two major fractions were created, fraction A-1PP (silibinin), which was 
+carried forward to generate compounds 1 and 2, and fraction B-15 (isosilibinin), which was carried forward to 
+generate compounds 3 and 4. 
+ 
+To prepare silybin A (1) and silybin B (2), approximately 12g of fraction A-I PP were purified via RP-HPLC 
+using an isocratic MeOH-H20 system (52:48; Fig.2). Each separation utilized 75 mg of A-1PP dissolved in 
+DMSO (98 µL) to give an injection volume of 150µL, and this was repeated 154 times to afford silybin A (1; 
+4.1 g) and silybin B (2; 4.9 g), each >98% pure. 
+ 
+To prepare isosilybin A (3) and isosilybin B (4), fraction B-1S (50.2 g) was purified over C-I8 using MeOH-
+H20 via the CombiFlash system, initiating with an isocratic system (47:53) over 8 column volumes, followed by 
+a gradient to 50:50 over 3 column volumes, and concluding with a wash of 100% MeOH for 2 column volumes. 
+Each separation utilized 4.2 g of B-15 dissolved in 9 mL DMSO, repeating a dozen times to yield ten pooled 
+fractions (C series; Fig. 3). As with the initial separations described above, a key component was the formation 
+of a precipitate, which in this case was enriched with isosilibinin. Fraction C-3P was purified further by RP-
+HPLC using an isocratic MeOH-H20 system (50 : 50). Each separation utilized 485 mg of C-3P dissolved in 
+DMSO (634 µL) to give an injection volume of 970 µL, and this was repeated ten times to yield eight pooled 
+fractions of both supernatants and precipitates (D series). Precipitate D-1P (602 mg) afforded isosilybin A (3) in 
+> 99% purity. Fraction D-51
+3
+(413 mg) and fractions from other C-series fractions further enriched with a 
+similar ratio of isosilybin A:isosilybin B (2652 mg) were purified by RP-HPLC using an isocratic solvent 
+system of MeOH-H20 (50:50). Each separation utilized 153 mg dissolved in DMSO (200 L) to give an injection 
+volume of 306 AL, and this was repeated 20 times to yield the E series of fractions, all of which had various 
+ratios of compounds 3:4, In particular, fraction E-11
+3
+ resulted in another aliquot of 3 (285 mg), and fractions E-
+4P and E-5P were combined to yield isosilybin B (4; 1239 mg; >97% pure). Residual fractions from the C, D. 
+and E series were recycled and purified iteratively in a similar manner to generate in total 4.4g of 3 and 3.7 g of 
+4, both at >97% purity. 
+ 
+Discussion 
+Using these optimized purification procedures, it is possible to generate gram quantities of each diastereoisomer 
+within a few months. This is in contrast to our earlier chemical research on milk thistle, where it took nearly a 
+year to isolate these diastereoisomers on the milligram to hundreds-of-milligram scale [8], [11]. Although a few 
+papers have emerged recently on the chromatography of milk thistle on the analytical scale, especially for 
+quantification purposes [16], [17], [18], [19], to the best of our knowledge, this is the first description of the 
+isolation of these diastereoisomers on the multigram-scale, thereby affording much needed study materials for 
+detailed in vitro and in vivo pharmacological evaluation. 
+ 
+Of all the diastereoisomers, the rate-limiting step was the gram- scale isolation of isosilybin B (4), and two 
+empirical observations were critical for its eventual purification. First, chromatographic resolution, even during 
+preparative scale flash chromatography, was greatly enhanced by dissolving the injected study sample in a 
+minimum amount of DMSO. As a rough guide, we multiplied the weight of the study material (in mg) by 1.3 to 
+determine the optimum volume of DMSO (in µL). Secondly, using these supersaturated materials, two types of 
+precipitates would form almost immediately upon column elution. In the initial steps (Fig. 2), the precipitate 
+consisted largely of silibinin. Fig. 4 compares the supernatant (A-1S) versus the precipitate (A-1P), and from 
+this, it should be evident why compounds 1 and 2 were isolated readily. We could have isolated many more 
+granas of each of these, but instead, focused on the much more challenging purification of compound 4. In fact, 
+earlier researchers have alluded to recrystallizing silymarin to generate silibinin [20]. Perhaps more importantly, 
+removing as much silibinin as possible via precipitation was critical to the eventual purification of compounds 3 
+and 4. When the supernatant with low silibinin content was further purified (Fig. 3), new types of supernatant 
+(C-3S) vs precipitate (C-3P) were realized. As shown in Fig. 5, this precipitate was largely isosilibinin, which 
+served readily as starting material for the isolation of pure 3 and 4. In short, supersaturation of starting materials 
+afforded precipitation in column fractions, and in doing so, permitted the rapid isolation of gram-scale 
+quantities of all compounds, especially compound 4. 
+ 
+In conclusion, our collective research goal is to determine the biological effects of milk thistle compounds, both 
+as single entities and defined mixtures, as prostate cancer chemopreventives. To do so, it was critical to develop 
+methods to prepare gram-scale quantities of each diastereoisomer. With these materials in hand, several in vitro 
+and in vivo studies are progressing. For example, isosilybin A (3) and isosilybin B (4) exert profound growth 
+inhibitory effects in androgen-dependent human prostate carcinoma cells by suppressing regulatory proteins 
+required for entry into the G1 -S phase of the cell cycle [12]. These pure compounds also trigger apoptosis by 
+causing activation of caspase-9 and caspase-3 and suppression of the inhibitor of apoptosis, survivin. While 
+isosilybin B (4) was a slightly more potent growth suppressor, isosilybin A (3) was a more effective apoptosis 
+inducer, and both had minimal effects on non-neoplastic human prostate epithelial cells. These interesting 
+results are being explored using human prostate carcinoma xenografts in vivo and are ongoing at the time of 
+publication. Therefore, the availability of the pure compounds is beginning to permit dissection of the che-
+mopreventive and anticancer actions reported previously for the crude mixture silymarin and the partially 
+purified silibinin [3]. 
+ 
+Acknowledgements 
+This research was supported by the National Institutes of Health/ National Cancer Institute via grant R01 
+CA104286. 
+ 
+References 
+1 Wellington K, Jarvis B. Silymarin: A review of its clinical properties in the management of hepatic disorders. 
+Biodrugs 2001; 15: 465 -89. 
+2 Deep G, Agarwal R. Chemopreventive efficacy of silymarin in skin and prostate cancer. Integr Cancer Ther 
+2007; 6: 130-45. 
+3 Agarwal R, Agarwal C, Ichikawa H, Singh RP, Aggarwal BB. Anticancer potential of silymarin: From bench 
+to bed side, Anticancer Res 2006; 26: 4457 - 98. 
+4 Zi XL, Mukhtar H, Agarwal R. Novel cancer chemopreventive effects of a flavonoid antioxidant silymarin: 
+Inhibition of mRNA expression of an endogenous tumor promoter TNF alpha. Biochem Biophys Res Com mu 
+n 1997; 239: 334- 9. 
+5 G Kroll DJ, Shaw HS, Oberlies NH. Milk thistle nomenclature: why it matters in cancer research and 
+pharmacokinetic studies. Integr Cancer Ther 2007; 6: 110-9. 
+6 Singh RP, Dhanalakshmi S, Tyagi AK, Chan DC, Agarwal R, Agarwal C. Dietary feeding of silibinin inhibits 
+advance human prostate carcinoma growth in athymic nude mice and increases plasma insulin-like growth 
+factor-binding protein-3 levels. Cancer Res 2002; 62: 3063-9.  
+7 Morazzoni P, Bombardelli E. Silybum marianum (Carduus marianus). Fitoterapia 1995; 66: 3 -42. 
+8 Kim N-C, Graf TN, Sparacino CM, Wani MC, Wall ME, Complete isolation and characterization of silybins 
+and isosilybins from milk thistle (Silybum marianum). Org Biomol Chem 2003; 1: 1684-9. 9 
+9 Lee DYW, Liu YZ, Molecular structure and stereochemistry of silybin A, silybin B, isosilybin A, and 
+isosilybin B, isolated from Silybum marianum (milk thistle). J Nat Prod 2003; 66: 1171-4. 
+10 Kroll DJ, Oberlies NH. The impact of newly proposed dietary supplement manufacturing guidelines on 
+patient safety and clinical trials outcomes. Focus Altern Complement Ther 2003; 8: 302-6. 
+11 Davis-Searles PR, Nakanishi Y, Kim NC, Graf TN, Oberlies NH, Wani MC et al. Milk thistle and prostate 
+cancer: differential effects of pure flavonolignans from Silybum marianum on antiproliferative end points in 
+human prostate carcinoma cells. Cancer Res 2005; 65: 4448-57. 
+12 Deep G, Oberlies NH, Kroll DJ, Agarwal R. Isosilybin B and isosilybin A inhibit growth, induce G1 arrest 
+and cause apoptosis in human prostate cancer LNCaP and 22Rv1 cells. Carcinogenesis 2007; 28: 153342. 
+13 Flaig TW, Gustafson DL, Su LJ, Zirrolli JA, Crighton F, Harrison GF et al. 
+A phase I and pharmacokinetic study of silybin-phytosome in prostate cancer patients. Invest New Drugs 2007; 
+25: 139-4.6 
+14 Simanek V, Kren V, Ulrichova J, Vicar J, Cvak L. Silymarin: What is in the name...? An appeal for a change 
+of editorial policy. Hepatology 2000; 32: 442 -4. 
+15 During the review process, one referee noted that there was an inconsistency in the mass balance for the 
+fractions from 1PS (IPSP and 1 PSS). Indeed, we double checked our notebook, and the values given in the text 
+are consistent. However, we believe that there could be a mathematical or empirical error resulting in this 
+inconsistency, and we suspect that the actual weight of 1PSS may have been closer to 6 g.  
+16 Hoh CSL, Boocock DJ, MarczyloTH, Brown VA, Cai H, Steward WP et al. Quantitation of silibinin, a 
+putative cancer chemopreventive agent derived from milk thistle (Silybum marianum), in human plasma by 
+high-performance liquid chromatography and identification of possible metabolites. J Agric Food Chem 2007; 
+55: 2532-5. 
+17 Lee JI, Narayan M, Barrett JS. Analysis and comparison of active constituents in commercial standardized 
+silymarin extracts by liquid chromatography-electrospray ionization mass spectrometry. J Chromatogr 
+B 2007; 845: 95- 103. 
+18 Wen ZM, Dumas TE, Hawke RL, Smith PC, Fried MW. Characterization of free, sulfated, and 
+glucuronidatecl silymarin flavonoligans in human plasma after oral administration of milk thistle extract. Drug 
+Metab Rev 2006; 38: 166-7. 
+19 Smith WA, Lauren DR, Burgess EJ, Perry NB, Martin RJ. A silychristin isomer and variation of 
+flavonolignan levels in milk thistle (Silybum marianum) fruits. Planta Med 2005; 71: 877-80. 
+20 Guz NR, Stermitz FR, Johnson JB, Beeson TD, Willen S, Hsiang J et al. Flavonolignan and flavone 
+inhibitors of a Staphylococcus aureus multidrug resistance pump: structure-activity relationships. J Med Chem 
+2001; 44: 261-8. 

@@ -1,0 +1,214 @@
+The Rubiaceae family is well known for containing an-
+thraquinones. Our previous research on a Rubiaceaous plant,
+Putoria calabrica (L. fil) DC resulted in the isolation of iri-
+doid, flavonoid and lignan glycosides.1,2) Further investiga-
+tion of the methanolic extract of the plant furnished four an-
+thraquinone glycosides of lucidin type, 1—4. In this paper,
+we present the isolation and structure elucidation of the new
+compounds, 1 and 2.
+Putorinoside A (1) was obtained as an amorphous red
+powder. The positive and negative ion electrospray ionization
+(ESI) mass spectra of 1 displayed the pseudomolecular ions,
+[M1Na]1 and [M2H]2 at m/z 501 and 477, respectively.
+The molecular formula of C22H22O12 was derived from high
+resolution (HR)-FAB-MS ([M1H]1, m/z 479.1183,
+D50.7 mmu). An unsaturation number of 12, deduced from
+the MS and 13C-NMR data (Table 1), suggested the presence
+of four rings. The UV spectrum of 1 showed absorption
+bands at lmax 268, 304 (sh), 345 and 432 nm, indicative of an
+anthraquinone structure. 1 further displayed IR bands at nmax
+3400 (broad), 1668 and 1641 cm21 for hydroxyl group(s) and
+unchelated and chelated carbonyl functions, respectively. The
+13C-NMR spectrum (DMSO-d6, Table 1) contained signals
+for all 22 carbons. Sixteen signals were accounted for by the
+anthraquinone aglycone, among them four signals belonging
+to aromatic carbons bearing an oxygen atom (d 150.0, 151.5,
+160.4, 160.6), two signals belonging to a p-quinone moiety
+(d 179.0, 187.9), and two belonging to oxygenated aliphatic
+carbons (d 51.9, 62.6). The distortionless enhancement by
+polarization transfer (DEPT)-135 experiment indicated that
+the latter signals were due to an oxymethylene (d 51.9 t) and
+a methoxyl (d 62.6 q) group. Also present were signals be-
+longing to the six carbons of a hexose unit within 1. All these
+data revealed that 1 was an anthraquinone glycoside with two
+hydroxy, one methoxy and one oxymethylene substituents.
+The 1H-NMR spectrum (Table 1, DMSO-d6) contained, for
+the aglycone moiety, two doublets at d 7.20 and 7.58 (each
+representing 1H, J58.0 Hz), an aromatic proton singlet at d
+7.75 (1H), a complex multiplet of 2H at d 4.60, a methoxy
+function (d 3.82) and two D2O-exchangeable protons (broad,
+OH) at d 10.6 and d 12.4. The sugar moiety demonstrated an
+anomeric proton signal at d 5.10 as a doublet (J57.8 Hz),
+four overlapping protons between d 3.24—3.40 and an
+oxymethylene group at d 3.53 (dd, J54.5, 11.0 Hz) and 3.70
+(dd, J52.0, 11.0 Hz). From this data, associated with the 13C-
+NMR data, it was obvious that the sugar unit was b-glucopy-
+ranose. The site of glycosylation and the substitution pattern
+of the anthraquinone aglycone could be deduced by two-
+dimensional (2D)-NMR experiments, particularly by gradi-
+ent heteronuclear multiple bond connectivity (gHMBC). The
+methoxy protons exhibited a long range coupling with C-1 (d
+160.6 s) of ring C, confirming its location on this carbon
+atom. Likewise, the long distance correlations from H2-15 (d
+4.60 m) to C-2 (d 121.1 s) and C-3 (d 160.4 s) served to po-
+sition the hydroxymethyl function at C-2. Upon observation
+of a prominent HMBC cross peak between the anomeric pro-
+ton (d 5.10, H-19) and C-3, the site of glycosylation was pre-
+dicted to be at C-3. This interpretation was confirmed by fur-
+ther HMBC correlations between H2-15/C-3 and H-4/C-3.
+Thus, the isolated aromatic proton signal at d 7.75 (s) was
+ascribed to C-4. The 2JCH and 
+3JCH correlations obtained from
+H-4 to C-2, C-10, C-13 and C-14 unambigiously proved this
+assignment. The C-10 carbonyl carbon (d 187.9) was
+deshielded by ca. 9 ppm compared to that of C-9 (d 179.0),
+suggesting strong hydrogen bonding with a phenolic hy-
+droxyl group.3,4) Thus, C-5 (d 150.0) was recognized to bear
+a peri-hydroxyl function to C-10 carbonyl. The chemical
+shift of one of the exchangeable protons (d 12.4, br s) further
+corroborated this suggestion.3,4) Since two aromatic signals at
+d 7.20 (H-7) and d 7.58 (H-8) coupled with the coupling
+constant of JAB58.0 Hz, they had to be ortho positioned, and
+thus, the second phenolic hydroxyl group (d 10.6, br s, ex-
+changeable) had to reside at C-6 (d 151.5). This substitution
+was confirmed by 1H–1H correlation spectroscopy (COSY)
+couplings, and 1H–13C long range correlations (3JCH) between
+H-7/C-5, H-7/C-12 and H-8/C-6, H-8/C-9. Based upon these
+evidences, 1 was determined to be a new anthraquinone gly-
+coside, 2-hydroxymethyl-1-methoxy-3,5,6-trihydroxyanthra-
+quinone 3-O-b-glucopyranoside.
+Putorinoside B (2) was obtained as an amorphous orange
+powder. The positive and negative ion ESI mass spectra of 2
+exhibited the pseudomolecular ions, [M1Na]1 and [M2H]2
+at m/z 485 and 461, respectively. The molecular formula,
+C22H22O11 (m/z 463.1219, 16 amu less than that of 1), was es-
+tablished by positive HR-FAB-MS and 13C-NMR spectra
+(Table 1). Many of the carbon and proton resonances of 2
+were almost identical to those of 1, implying a close similar-
+ity in their structures. Significant differences between 1 and 2
+in the 1H- and 13C-NMR spectra (Table 2) were restricted to
+May 2002 Notes Chem. Pharm. Bull. 50(5) 701—702 (2002) 701
+* To whom correspondence should be addressed. e-mail: icalis@hacettepe.edu.tr © 2002 Pharmaceutical Society of Japan
+Lucidin Type Anthraquinone Glycosides from Putoria calabrica
+I˙hsan ÇALIS¸,*,a Deniz TASDEMIR,a Chris M. IRELAND,b and Otto STICHERc
+a Department of Pharmacognosy, Faculty of Pharmacy, Hacettepe University; TR-06100 Ankara, Turkey: b Department of
+Medicinal Chemistry, University of Utah; Salt Lake City, Utah 84112, U.S.A.: and c Department of Applied BioSciences,
+Institute of Pharmaceutical Sciences, Swiss Federal Institute of Technology (ETH) Zurich; CH-8057 Zürich, Switzerland.
+Received January 11, 2002; accepted February 26, 2002
+Two new lucidin type anthraquinone glycosides, putorinoside A (1) and putorinoside B (2) were isolated
+from Putoria calabrica, in addition to two known anthraquinone glycosides, lucidin 3-O-b-glucopyranoside (3)
+and lucidin 3-O-primeveroside (4). Based on spectroscopic data, putorinosides A and B were identified as 2-hy-
+droxymethyl-1-methoxy-3,5,6-trihydroxyanthraquinone 3-O-b-glucopyranoside and 2-hydroxymethyl-1-methoxy-
+3,6-dihydroxyanthraquinone 3-O-b-glucopyranoside, respectively.
+Key words anthraquinone glycoside; lucidin-type anthraquinone; putorinosides A and B; Putoria calabrica; Rubiaceae
+the ring A, where one of the phenolic hydroxy groups was re-
+placed by an aromatic proton signal (dH 7.41 br s, dC 115.1
+d). The upfield shift of the C-10 carbonyl function (d 182.3)
+in conjunction with the IR data (1668 cm21, unchelated car-
+bonyl function) suggested that the peri-hydroxy group (C-5)
+in 1 was absent in 2. Three bond HMBC couplings between
+the pairs H-5/C-7, H-5/C-10; H-7/C-5, H-7/C-12; and H-8/C-
+6, H-8/C-9 further supported the presence of only one OH
+function in ring A, namely at C-6 (d 162.6). Detailed inspec-
+tion of the gHSQC, DQF-COSY, and gHMBC data (Fig. 1)
+substantiated the structure of 2 as shown. Compound 2 is 2-
+hydroxymethyl-1-methoxy-3,6-dihydroxyanthraquinone 3-O-
+b-glucopyranoside.
+The spectroscopic data for the known glycosides, lucidin
+3-O-b-glucopyranoside (3) and lucidin 3-O-primeveroside
+(4), showed good accordance to those of previously reported.5)
+Experimental
+General Experimental Procedures and Plant Material As reported in
+previous study.2)
+Extraction and Isolation The air-dried and powdered plant material
+(90 g) was extracted with MeOH (500 ml32) for 6 h at 45 °C and filtered.
+The filtrate was concentrated to dryness in vacuo. The resulting residue was
+dissolved in H2O and partitioned with CHCl3. The H2O phase was
+lyophilized (15 g, yield 15%) and preadsorbed onto SiO2 (25 g). This mix-
+ture was applied to a Si gel column (250 g) using the mixture of CH2Cl2–
+MeOH–H2O (80 : 20 : 1, 80 : 20 : 2, 70 : 30 : 3) to give 150 fractions which
+were combined into nine fractions, A—J. The isolation studies on the frac-
+tions D, E, F, G, I, and J afforded iridoid, lignan and flavonoid glycosides.2)
+The subfractions E1, G2—G3 and J2, remained after the isolation of these
+compounds, were subjected to repeated chromatography on Sephadex LH-
+20 (MeOH) and C18-MPLC (0 to 70% MeOH in H2O) to afford lucidin 3-O-
+b-glucopyranoside (3, 7 mg), putorinoside B (2, 11 mg), lucidin 3-O-
+primeveroside (4, 33 mg), and putorinoside A (1, 130 mg), respectively.
+Putorinoside A (1): 1H-NMR (500 MHz, DMSO-d6, Table 1), 
+1H-NMR
+(500 MHz, CD3OD): d 3.40—3.59 (4H, H-29-H-59), 3.73 (1H, dd, J54.0,
+11.0 Hz, H-69a), 3.90 (1H, br d, J511.0 Hz, H-69b), 3.86 (3H, s, OMe), 4.70
+(d, J511.0 Hz, H-15a), 4.73 (d, J511.0 Hz, H-15b), 5.14 (d, J57.8 Hz, H-
+19), 7.20 (d, J58.0 Hz, H-7), 7.60 (d, J58.0 Hz, H-8), 7.80 (s, H-4). 13C-
+NMR (125 MHz, DMSO-d6, Table 1), 
+13C-NMR (125 MHz, CD3OD): d 53.8
+(t, C-15), 62.3 (t, C-69), 63.6 (q, OMe), 71.1 (d, C-49), 74.9 (d, C-29), 77.8
+(d, C-39), 78.5 (d, C-59), 102.4 (d, C-19), 110.7 (d, C-4), 116.9 (s, C-11),
+122.2 (d, C-8), 122.3 (d, C-7), 122.6 (s, C-2), 126.6 (s, C-12), 132.9 (s, C-
+14), 137.6 (s, C-13), 151.6 (s, C-5), 153.8 (s, C-6), 162.1 (s, C-1), 162.4 (s,
+C-3), 181.4 (s, C-9), 188.4 (s, C-10). UV (MeOH) lmax 268, 304 (sh), 345,
+and 432 nm. IR (KBr) nmax 3400 (OH), 1668 (unchelated C5O), 1641
+(chelated C5O), and 1585 cm21 (aromatic ring). Negative ion ESI-MS m/z
+477 [M2H]2, 315 [M2163]2 and 299 [M2163214]2. Positive ion ESI-MS
+m/z 501 [M1Na]1, 479 [M1H]1, 317 [M21621H]1. Positive FAB-MS
+m/z 479 [M1H]1, HR-FAB-MS m/z Obsd 479.1183 for [M1H]1, Calcd for
+C22H23O12 479.1190. [a]D20 296° (c50.05, MeOH).
+Putorinoside B (2): 1H-NMR (500 MHz, DMSO-d6, Table 1), 
+1H-NMR
+(500 MHz, CD3OD): d 3.45—3.65 (4H, H-29-H-59), 3.79 (1H, dd, J55.0,
+12.0 Hz, H-69a), 3.92 (3H, s, OMe), 3.94 (1H, dd, J52.5, 12.0 Hz, H-69b),
+4.73 (d, J511.4 Hz, H-15a), 4.82 (d, J511.4 Hz, H-15b), 5.18 (d, J57.8 Hz,
+H-19), 7.11 (dd, J52.0, 8.4 Hz, H-7), 7.40 (br s, H-5), 7.80 (s, H-4), 8.04 (d,
+J58.4 Hz, H-8); 13C-NMR (125 MHz, DMSO-d6, Table 1). UV (MeOH)
+lmax 216, 274, 338 and 416 nm. IR (KBr) nmax 3400 (OH), 1668 (unchelated
+C5O) and 1580 cm21 (aromatic ring); Negative ion ESI-MS m/z 461
+[M2H]2, 299 [M2163]2. Positive ion ESI-MS m/z 485 [M1Na]1. Positive
+FAB-MS m/z 463 [M1H]1, HR-FAB-MS m/z Obsd 463.1219 for [M1H]1,
+Calcd for C22H23O11 463.1240. [a]D20 256° (c50.05, MeOH).
+Acknowledgments The authors thank Prof. Dr. Zeki Aytac, Gazi Uni-
+versity, for the authentification of the plant specimen. We are grateful to Dr.
+Elliot Rachlin and Dr. Vajira Nanayakkara, University of Utah, for perform-
+ing mass spectra.
+References
+1) Linden A., Çalıs¸ I˙., Neuburger M., Sticher O., Acta Cryst., C56, 616—
+618 (2000).
+2) Çalıs¸ I˙., Heilmann J., Tasdemir D., Linden A., Ireland C. M., Sticher
+O., J. Nat. Prod., 64, 961—964 (2001).
+3) Banthorpe D. V., White J. J., Phytochemistry, 38, 107—111 (1995).
+4) Schripsema J., Dagnino D., Phytochemistry, 42, 177—184 (1996).
+5) El-Emary N. A., Backheet E. Y., Phytochemistry, 49, 277—279
+(1998).
+702 Vol. 50, No. 5
+Table 1. 1H- (500 MHz) and 13C-NMR (125 MHz) Data of 1 and 2
+(DMSO-d6; d in ppm, J in Hz).
+1 2
+C/H atom
+dH dC dH dC
+1 160.6 s 160.4 s
+2 121.1 s 120.4 s
+3 160.4 s 160.5 s
+4 7.75 s 108.9 d 7.69 s 109.1 d
+5 150.0 s 7.41 br s 111.5 d
+6 151.5 s 162.6 s
+7 7.20 d (8.0) 120.8 d 7.21 br d (8.0) 121.9 d
+8 7.58 d (8.0) 120.6 d 8.02 d (8.0) 129.7 d
+9 179.0 s 179.6 s
+10 187.9 s 182.3 s
+11 115.7 s 134.0 s
+12 125.2 s 125.3 s
+13 135.5 s 135.8 s
+14 132.2 s 131.7 s
+15 4.60 m 51.9 t 4.64 d (11.0) 52.0 t
+4.56 d (11.0)
+19 5.10 d (7.8) 101.1 d 5.06 d (7.8) 101.1 d
+29 3.37a) 73.3 d 3.36a) 73.3 d
+39 3.34a) 76.0 d 3.34a) 76.0 d
+49 3.24a) 69.4 d 3.25a) 69.4 d
+59 3.40a) 77.4 d 3.41a) 77.3 d
+69 3.53 dd (11.0, 4.5) 60.5 t 3.54 dd (5.0, 11.0) 60.5 t
+3.70 dd (11.0, 2.0) 3.71 br d (11.0)
+OCH3 3.82 s 62.6 q 3.83 s 62.7 q
+5-OH 12.4 br s
+6-OH 10.6 br s
+a) Multiplicity is unclear due to overlapping.
+Fig. 1. Observed HMBC Correlations for Putorinoside B (2)

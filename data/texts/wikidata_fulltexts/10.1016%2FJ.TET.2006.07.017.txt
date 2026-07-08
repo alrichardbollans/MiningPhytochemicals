@@ -1,0 +1,801 @@
+Tetrahedron 62 (2006) 8952–8958Unusual sesquiterpene glucosides from Amaranthus retroflexus
+Antonio Fiorentino,a,* Marina DellaGreca,b Brigida D’Abrosca,a Annunziata Golino,a
+Severina Pacifico,a Angelina Izzoa and Pietro Monacoa
+aDipartimento di Scienze della Vita, Seconda Universita di Napoli, via Vivaldi 43, I-81100 Caserta, Italy
+bDipartimento di Chimica Organica e Biochimica, Universita Federico II, via Cintia 4, I-80126 Napoli, Italy
+Received 10 April 2006; revised 15 June 2006; accepted 6 July 2006
+Available online 28 July 2006
+Abstract—Implementing the phytochemical study of the weed Amaranthus retroflexus, four new sesquiterpene glucosides were isolated
+from the methanolic extract of the plant. The structures of these metabolites are determined on the basis of the mass spectrometry, and 1D
+and 2D NMR spectroscopies (DQ-COSY, TOCSY, HSQC, HSQC–TOCSY, HMBC, and NOESY). Two compounds are characterized by
+a new aglycone and differed from the site of glucosylation. The other two compounds are dimeric diastereoisomers.
+All the glucoside sesquiterpenes were tested on the wild species Taraxacum officinale to evaluate the role of this weed in the habitat and on the
+seed of A. retroflexus to verify the potential autotoxic effect of the plant.
+ 2006 Elsevier Ltd. All rights reserved.1. Introduction
+One of the most useful aspects of allelopathy in manipulated
+ecosystems is the role in agriculture.1 Many plants have been
+studied and a number of new phytotoxic secondary metabo-
+lites have been isolated and characterized.2,3 Recent investi-
+gations are focused on the effects of weeds on crops,4 crops
+on weeds,5 and crops on crops.6 The goal of these studies is
+the use of allelochemicals as growth regulators and natural
+pesticides to promote sustainable agriculture.7,8
+In the search for new allelochemicals from plants of the Medi-
+terranean area, we recently studied the weed Amaranthus
+retroflexus, known as redroot pigweed, a summer annual
+invasive plant, widely distributed in Italy and commonly
+found in cultivated lands. From the methanolic extract of the
+plant, we isolated and characterized new free and glucosyl-
+ated nerolidol sesquiterpenes, named amarantholidols and
+amarantholidosides, respectively.9 These compounds, when
+tested on the cultivated species Lactuca sativa, showed
+a moderate phytotoxic activity down to 109 M.
+In this work we completed the study of the organic extract
+and described the isolation and characterization of four new
+nerolidol glucosides, named amarantholidosides IV–VII.
+Two of them, in fact, showed an unusual dimeric structure.
+Keywords: Amaranthus retroflexus; Amaranthaceae; Nerolidol glucosides;
+Amarantholidosides; NMR analysis; Phytotoxic effect; Autotoxic effect;
+Taraxacum officinale.
+* Corresponding author. Tel.: +39 0823 274576; fax: +39 0823 274571;
+e-mail: antonio.fiorentino@unina2.it0040–4020/$ - see front matter  2006 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.tet.2006.07.017The amarantholidosides I–VI have been tested on the wild
+species Taraxacum officinale to verify their impact on other
+weeds and on the seed of A. retroflexus to test their potential
+autotoxic effects.
+2. Results and discussion
+The EtOAc fraction of the MeOH fresh leaf extract of A. ret-
+roflexusL. was chromatographed on a silica gel column (flash
+chromatography) using CHCl3–EtOAc and CHCl3–MeOH
+mixtures as eluents in increasing polarity. The most polar
+fractions yielded seven compounds: four amarantholidols
+A–D and three amarantholidosides I–III (1–3).9 Continuing
+the phytochemical study of the fraction we isolated four
+new glucosides 4–7, of which two of them are dimeric
+(Figs. 1 and 2).
+Compound 4, named amarantholidoside IV, has been iden-
+tified as (3S,6E,10R)-10-b-D-glucopyranosyloxy-3,11-di-
+hydroxy-3,7,11-trimethyldodeca-1,6-diene.
+Its molecular formula C21H38O8 was deduced on the basis of
+its ESIMS spectrum, which showed the pseudomolecular
+peak at m/z 441 [M+Na]+, and the elemental analysis.
+The mass spectrum showed fragment ion at m/z 279 and 203,
+both diagnostic for the presence of a hexose moiety in the
+molecule. The 1H NMR spectrum (Table 1) showed, in the
+downfield region, an ABX system as three double doublets
+centered at d 5.91, 5.19, and 5.02, a partially overlapped sig-
+nal at d 5.21, and a double doublet at d 3.40. The doublet at
+d 4.44 (J¼7.5 Hz) and two double doublets at d 3.72 and
+8953A. Fiorentino et al. / Tetrahedron 62 (2006) 8952–89583.85 were in accordance with an anomer and a hydroxy-
+methylene H-6 of a sugar moiety, respectively, while the
+chemical shift of six carbon signals in the 13C NMR was
+in good agreement with a glucose unit. Accordingly, the
+HSQC–TOCSYexperiment (Table 1) showed heterocorrela-
+tion between these glycidic carbons and the H-10 and H-60
+protons ranging from 3.40 to 3.24 ppm. In the upfield region
+of the spectrum four singlet methyls at d 1.60, 1.28, 1.17, and
+1.13 and eight protons as multiplets were present.
+A DQ-COSY experiment showed homocorrelations among
+the olefinic protons of the ABX system, the proton at
+d 5.21 and a multiplet centered at d 2.03, which correlated
+with a double doublet at d 1.51. Among the protons bonded
+to oxygen atoms, correlations between the doublet at d 4.44
+and a signal at d 3.27 as well as interactions among the dou-
+ble doublet at d 3.40 and an overlapped signal centered at
+d 1.45 were evident.
+The 13C NMR spectrum (Table 1) showed 21 signals confirm-
+ing the presence of a glycosilated sesquiterpene. All of the
+carbons were identified, on the basis of a DEPT experiment,
+as four methyls, six methylenes, eight methines, and three
+tetrasubstituted carbons. Their chemical shifts indicated the
+presence of a terminal and an internal double bonds, a glucose
+moiety, and three carbinol groups (one of them secondary).
+All of the carbons were correlated to the respective protons
+using an HSQC experiment as reported in Table 1. In the
+same table, the results of an HMBC and HSQC–TOCSY
+have also been reported. These experiments were crucial
+for the structure elucidation. On the basis of these correla-
+tions, the carbinol carbon at d 90.3, bonded to the proton at
+d 3.40, was attributed to the C-10 carbon. Its downshift value
+could be explained by hypothesizing a linkage with the
+glucose. The heterocorrelations, in the HMBC experiment,
+between the carbon and the anomeric proton at d 4.44 and,
+vice versa, between the anomeric carbon at d 106.4 and the
+proton at d 3.40 confirmed the hypothesis. The glucose
+moiety was confirmed by GC analysis and the coupling con-
+stant value of the anomeric proton in the 1H NMR indicated
+the presence of a b-glucose.
+The absolute configuration to the tertiary C-3 and second-
+ary C-10 carbinol carbons has been assigned using two
+different methods. The R configuration at the C-10 carbon
+has been determined using a modified Mosher’s method
+HO OGlc OH
+OH
+OGlc OH
+OGlc OH
+amarantholidoside I1
+amarantholidoside II2
+amarantholidoside III3
+Figure 1. Structures of amarantholidosides I–III (1–3).on the aglycone of amarantholidol IV obtained from treat-
+ment with b-glucosidase.10,11 The positive and the nega-
+tive DdRS values for the H-9, H-12, and H-15 protons
+were found, respectively, on the right and the left sides
+of the MTPA plane indicating a R configuration for
+C-10 carbon.
+The S absolute configuration at the C-3 of compound 4 has
+been deduced using a bidentate NMR chiral solvent, as
+described by Kishi and co-workers.12,13 The absolute con-
+figuration of acyclic alcohols was established from analysis
+of the chemical shifts’ behaviors of the adjacent carbons
+in (R,R)- and (S,S)-bis-a-methylbenzylpropandiammine
+(BMBA-p). The positive (+0.121) and negative (0.098)
+DdRS values of the amarantholidoside IV were found
+on the left and right of the tertiary carbinol carbon, respec-
+tively, according to an a-orientation for the hydroxyl and a
+b-orientation for the methyl.
+Compound 5, named amarantholidoside V, showed a molecu-
+lar formula C21H38O8 in accordance with its ESI mass spec-
+trum, which showed the pseudomolecular peak at m/z 441
+[M+Na]+, and the elemental analysis. This data suggested
+that it was an isomer of compound 4.
+The 1H NMR spectrum showed the vinyl protons at d 5.91,
+5.18, and 5.02, the H-6 olefin proton at d 5.21, the methine
+H-10 at d 3.43, two multiplets at d 2.25 and 2.03, a double
+doublet at d 1.50, three singlet methyls at d 1.24, 1.22, and
+HO OH
+O
+OH
+OH
+HO
+OHO
+1
+35
+10
+12
+13 14 15
+4   amarantholidoside IV
+OH
+OH
+5   amarantholidoside V
+1
+35
+10
+13 14 15
+OO
+OH
+HO
+OH
+12
+OH
+O
+OH
+HO O
+OH
+OH
+OH
+O
+HO
+O
+HO
+HO
+OH
+O
+OH
+6   amarantholidoside VI  (10R,10'R) or (10S,10'S)
+7   amarantholidoside VII (10S,10'S) or (10R,10'R)
+10
+10'
+Figure 2. Structures of amarantholidosides IV–VII (4–7).
+8954 A. Fiorentino et al. / Tetrahedron 62 (2006) 8952–8958Table 1. NMR data of amarantholidoside IV (4) in CD3OD
+1H (d) J (Hz) DQ-COSY 13C (d) DEPT HMBC (H/C) HSQC–TOCSY (H/C)
+1t 5.19 dd 17.4, 1.5 1c, 2 112.0 CH2 2 1, 2
+1c 5.02 dd 10.8, 1.5 1t, 2 2, 3 1, 2
+2 5.91 dd 17.4, 10.8 1c, 1t 146.3 CH 1, 3, 4, 15 1, 2
+3 — — — 74.8 C — —
+4 1.51 dd 9.3, 7.5 5 43.5 CH2 2, 3, 5, 6, 15 4, 5, 6, 14
+5 2.03 m — 4, 6 23.7 CH2 3, 4, 6, 7 4, 5, 6, 14
+6 5.21 ov — 5 126.1 CH 4, 5, 8, 14 4, 5, 6
+7 — — — 136.0 C — —
+8 2.30 m — 9 37.0 CH2 6, 7, 9, 10, 14 8, 9, 10
+2.25 m 9 6, 7, 9, 10, 14 8, 9, 10
+9 1.45 m — 8, 10 30.7 CH2 7, 8 8, 9, 10
+10 3.40 dd 10.5, 1.5 9 90.3 CH glu1, 8, 9, 11, 12, 13 8, 9, 10
+11 — — — 73.8 C — —
+12 1.17 s — — 23.7 CH3 10, 11, 13 —
+13 1.13 s — — 26.4 CH3 10, 11, 12 —
+14 1.60 s — 6 16.1 CH3 6, 7, 8 —
+15 1.28 s — — 27.6 CH3 1, 2, 3, 4, 5 —
+glu1 4.44 d 7.5 glu2 106.4 CH 10, glu2, glu3 glu1, glu2, glu3, glu4, glu6
+glu2 3.27 ov — glu1, glu3 76.0 CH glu1, glu3, glu4 glu1, glu2, glu3, glu4, glu6
+glu3 3.27 ov — glu2, glu4 77.9 CH glu1, glu2, glu4 glu1, glu2, glu3, glu4, glu6
+glu4 3.37 ov — glu3, glu5 71.4 CH glu5, glu6 glu2, glu3, glu4, glu6
+glu5 3.37 ov — glu4, glu6 78.4 CH glu6 glu2, glu3, glu4, glu6
+glu6 3.72 dd 11.7, 2.1 glu5, glu6 62.6 CH2 glu4, glu5 glu3, glu4, glu6
+3.85 dd 11.7, 5.7 glu5, glu6 glu4, glu5 glu3, glu4, glu6
+d¼doublet; dd¼double doublet; m¼multiplet; ov¼overlapped; s¼singlet.1.21, and a doublet methyl at d 1.60. In the same spectrum,
+the sugar signals were present as a doublet at d 4.49 (glu1),
+two double doublets at d 3.81 and 3.64 (glu6), and a double
+doublet at d 3.15 (glu2) besides other signals obscured by
+the solvent signal.
+The main differences observed in the 13C NMR spectrum,
+when compared to amarantholidoside IV, are for C-10 and
+C-11 carbons (Table 2). The sugar moiety was in good accor-
+dance with the presence of a glucose and the J value of theH-glu1 proton suggested the presence of a b-anomer. The
+2D NMR experiments confirmed the same aglycone of com-
+pound 4. In the HMBC experiment, the signal at d 81.8,
+assigned to the C-11 carbon, showed correlations with the
+anomeric proton at d 4.49, the H-12 and H-13 methyls and
+with the H-10 double doublet, which itself correlates, in
+the HSQC experiment, to the carbon at d 78.1. This latter
+carbon correlated with the H-9 protons at d 1.35 and 2.20
+and with the H-12 and H-13 methyls. This data led to the hy-
+pothesize of the presence of a linkage between the C-glu1 ofTable 2. NMR data of amarantholidoside V (5) in CD3OD
+1H (d) J (Hz) DQ-COSY 13C (d) DEPT HMBC (H/C) HSQC–TOCSY (H/C)
+1t 5.18 dd 17.4, 1.5 1c, 2 112.0 CH2 2, 3 1, 2
+1c 5.02 dd 10.5, 1.5 1t, 2 2, 3 1, 2
+2 5.91 dd 17.4, 10.5 1c, 1t 146.3 CH 1, 3, 4, 15 1, 2
+3 — — — 73.8 C — —
+4 1.50 dd 9.3, 7.5 5 43.5 CH2 2, 3, 5, 6, 15 4, 5, 6, 14
+5 2.03 m 4, 6 23.7 CH2 4, 6, 7 4, 5, 6, 14
+6 5.21 ov 5 126.0 CH 3, 5, 7, 8, 14 4, 5, 6
+7 — — — 135.9 C — —
+8 2.30 m — 9 37.8 CH2 6, 7, 9, 10, 14 8, 9, 10
+2.25 m 9 6, 7, 9, 10, 14 8, 9, 10
+9 2.20 m — 8, 10 30.7 CH2 7, 8 8, 9, 10
+1.35 m 8, 9, 10
+10 3.43 dd 10.5, 1.5 9 78.1 CH 8, 9, 11, 12, 13 8, 9, 10
+11 — — — 81.8 C glu1, 10, 12, 13 —
+12 1.21 s — 21.3 CH3 10, 11, 13
+13 1.22 s — 23.8 CH3 10, 11, 12
+14 1.60 d 0.9 6 16.0 CH3 6, 7, 8
+15 1.24 s — 27.6 CH3 1, 2, 3, 4, 5
+glu1 4.49 d 8.1 glu2 98.6 CH 11, glu2, glu3 glu1, glu2, glu3, glu4, glu6
+glu2 3.15 dd 9.0, 7.5 glu1, glu3 75.1 CH glu1, glu3, glu4 glu1, glu2, glu3, glu4, glu6
+glu3 3.36 ov glu2, glu4 77.7 CH glu1, glu2, glu4 glu1, glu2, glu3, glu4, glu6
+glu4 3.37 ov glu3, glu5 71.6 CH glu5, glu6 glu2, glu3, glu4, glu6
+glu5 3.26 dt 9.0, 8.4 glu4, glu6 77.7 CH glu6 glu2, glu3, glu4, glu6
+glu6 3.64 dd 11.7, 5.1 glu5, glu6 62.6 CH2 glu4, glu5 glu3, glu4, glu6
+3.81 dd 11.7, 2.1 glu5, glu6 glu4, glu5 glu3, glu4, glu6
+d¼doublet; dd¼double doublet; m¼multiplet; ov¼overlapped; s¼singlet.
+8955A. Fiorentino et al. / Tetrahedron 62 (2006) 8952–8958the glucose and the C-11 of the aglycone. The NOEs ob-
+served, in an NOESY experiment, among the H-glu1 and
+H-12 protons confirmed this hypothesis. The enzymatic hy-
+drolysis with b-glucosidase afforded the same aglycone 4a
+of the previous glucoside.
+Compounds 6 and 7 have been identified as two diastereo-
+mers and named amarantholidosides VI and VII, respec-
+tively.
+Compounds 6 and 7 had a molecular formula C42H70O15, as
+resulted by the elemental analysis and the ESI mass spec-
+trum, which showed the pseudomolecular peak at m/z 837
+[M+Na]+.
+In the 1H NMR spectrum of amarantholidoside VI (Table 3),
+the ABX system of H-1 cis, H-1 trans, and H-2 protons and
+the H-6 and H-12 olefinic protons was evident. In the region
+of the protons geminal to oxygen, the signals of the anomeric
+and of the hydroxymethyl glu6 of a sugar moiety were pres-
+ent, and the H-10 triplet at d 4.22 and further four protons
+ranging from 3.10 to 3.40 ppm were also present. In the
+upfield region of the spectrum three methyls at d 1.72,
+1.67, and 1.28, a methylene as triplet at d 2.06, and a double
+doublet centered at d 1.96 were identifiable. This data
+together with the information from the 13C NMR spectrum
+led to the hypothesize of the presence of a D1,6,11 nerolidolsesquiterpene bonded to a glucose unit at C-5. The presence
+of 21 carbon signals in the 13C NMR and ESI mass spectrum
+indicated a high degree of symmetry in the molecule. The
+mass spectrum also showed fragments at m/z 438
+[MC21H35O7+Na]+ and 404 [MC21H35O8H2O+Na]+
+due to the cleavage of the ether bridge, and at m/z 488
+[M2C6H11O5]+ and 472 [MC6H11O5C6H11O6]+ due
+to the loss of both the sugar unities. In accordance with the
+hypothesis of a dimeric structure, the C-10 value (d 89.8)
+was downshifted with respect to the known amarantholidol
+II.9 This value suggested ethereal bridge among the C-10
+carbons.
+Amarantholidoside VII NMR data overlapped with those of
+the previously described compound, except slight differ-
+ences for C-6–C-14 carbon values (Table 3). Unfortunately,
+these differences could be due to a different configuration for
+the C-10 and C-100 carbons. The isolated quantities of these
+compounds did not allow further spectroscopic investiga-
+tions and we were not able to define the configurations at
+C-10 and C-100 carbons.
+The amarantholidosides I–VI have been tested on the wild
+species T. officinale to define their phytotoxic role in the hab-
+itat and on the seed of A. retroflexus to evaluate the potential
+autotoxic activity; the results are reported in Figures 3 and 4,
+respectively.Table 3. NMR data of amarantholidosides VI (6) and VII (7) in CD3OD
+1H (d) J (Hz) DQ-COSY 13C (d) DEPT HMBC (H/C) HSQC–TOCSY
+(H/C)
+6 7 6 7 6 7
+1t/10t 5.23 dd 5.23 dd 17.1, 1.5 17.4, 1.2 1c/10c, 2/20,
+1t/10t, 2/20
+112.0 112.0 CH2 2/2
+0, 3/30 1/10, 2/20
+1c/10c 5.01 dd 5.01 dd 9.0, 1.5 10.8, 1.2 2/20, 3/30 1/10, 2/20
+2/20 5.96 dd 5.96 dd 11.1, 1.2 17.4, 10.8 1c, 1t 146.4 146.4 CH 1/10, 3/30 1/10, 2/20
+3/30 — — — — — 74.0 74.0 C — —
+4/40 1.96 dd 1.96 dd 14.1, 7.8 14.7, 8.1 5/50 48.1 48.1 CH2 2/20, 3/30, 5/50,
+6/60, 15/150
+4/40, 5/50, 6/60
+1.65 ov 1.65 ov 2/20, 3/30, 5/50,
+6/60, 15/150
+5/50 4.90 ov 4.90 ov — — 4/40, 6/60 71.3 71.3 CH glu1/10, 3/30, 4/40, 6/60 4/40, 5/50, 6/60
+6/60 5.11 dd 5.13 dd 9.6, 1.2 9.0, 0.9 5/50 126.6 126.8 CH 4/40, 5/50, 7/70,
+8/80, 14/140
+4/40, 5/50, 6/60
+7/70 — — — — — 141.1 141.8 C — —
+8/80 2.06 t 2.06 t 7.5 7.5 9/90 36.7 36.5 CH2 6/60, 7/70, 9/90,
+10/100, 14/140
+8/80, 9/90, 10/100
+9/90 1.57 dd 1.61 dd 6.6, 1.8 6.6, 1.7 8/80, 10/100 30.1 30.1 CH2 7/70, 8/80, 10/100, 11/110 8/80, 9/90, 10/100
+1.52 dd 1.58 dd 6.6, 1.2 6.6, 1.2 8/80, 10/100 7/70, 8/80, 10/100, 11/110
+10/100 4.22 t 4.22 t 6.6 6.3 9/90 89.8 89.6 CH 8/80, 9/90, 11/110,
+12/120, 13/130
+8/80, 9/90, 10/100
+11/110 — — — — — 145.5 145.9 C — —
+12/120 4.94 s 4.94 s — — — 114.2 114.1 CH2 10/100, 11/110, 13/130 —
+13/130 1.72 s 1.73 s — — — 17.1 17.1 CH3 10/100, 11/110, 12/120 —
+14/140 1.67 s 1.68 s — — 6/60 16.7 16.7 CH3 6/60, 7/70, 8/80 —
+15/150 1.28 s 1.28 s — — — 28.6 28.6 CH3 2/20, 3/30, 4/40 —
+glu1/10 4.23 d 4.24 d 7.8 7.5 glu2/20 100.0 100.1 CH 5/50, 10/100, glu2/20 glu1, glu2, glu3,
+glu4, glu6
+glu2/20 3.15 dd 3.15 dd 8.9, 7.8 8.9, 7.8 glu1/10, glu3/30 78.1 78.1 CH 5/50, glu1/10, glu3/30,
+glu4/40
+glu1, glu2, glu3,
+glu4, glu6
+glu3/30 3.30 m 3.30 m — — glu2/20, glu4/40 75.1 75.1 CH glu1/10, glu2/20,
+glu4/40
+glu1, glu2, glu3,
+glu4, glu6
+glu4/40 3.29 ov 3.29 ov — — glu3/30, glu5/50 71.9 71.9 CH glu5/50, glu6/60 glu2, glu3,
+glu4, glu6
+glu5/50 3.26 m 3.26 m — — glu4/40, glu6/60 78.1 78.1 CH glu6/60 glu2, glu3,
+glu4, glu6
+glu6/60 3.85 dd 3.86 dd 11.7, 2.1 12.3, 2.1 glu5/50, glu6/60 62.9 62.9 CH2 glu4/40, glu5/50 glu3, glu4, glu6
+3.66 dd 3.66 dd 11.7, 5.7 12.3, 6.3 glu5/50, glu6/60 glu4/40, glu5/50 glu3, glu4, glu6
+d¼doublet; dd¼double doublet; m¼multiplet; ov¼overlapped; s¼singlet; t¼triplet.
+8956 A. Fiorentino et al. / Tetrahedron 62 (2006) 8952–8958On T. officinale, the greatest effects were registered on the
+root elongation. Compound 1 was more active: the chemical
+inhibited the root development of about 50% at the highest
+concentration tested. The effects on the germination were
+modest and with exception of compound 1 it seemed
+independent from the concentration. Furthermore, the auto-
+toxicity, evident in both germination and root elongation
+(Fig. 4), was moderate. The results showed slow stimulating
+and/or inhibiting effects on shoot elongation of the test
+species.
+To the best of our knowledge, this is the first report that
+describes the isolation of dimeric nerolidol derivatives
+from natural sources. The presence of secondary and tertiary
+chiral alcohols on aglicone moiety led us to use two different
+methods to assign the absolute configuration.
+-50
+-25
+0
+1 2 3 4 5 6
+a
+aa
+a
+b
+a b
+a
+a
+a a
+1 2 3 4 5 6
+root elongation
+ a
+ 
+b
+ 
+b
+ a
+ b
+ a
+ 
+b
+ a
+ 
+a
+ 
+a
+ 
+a
+ b
+ 
+b
+1 2 3 4 5 6
+10-4 10-5 10-6 10-7 10-8 10-9
+ b
+ b b b  b
+ b
+ b
+ b
+ b a
+ a  a
+b
+germination
+%
+ fr
+om
+ c
+on
+tro
+l
+-50
+-25
+0
+%
+ fr
+om
+ c
+on
+tro
+l
+-50
+-25
+0
+%
+ fr
+om
+ c
+on
+tro
+l
+shoot elongation
+Figure 3. Bioactivity of compounds 1–6 on the germination, root elonga-
+tion, and shoot elongation of Taraxacum officinale. Values are presented
+as percentage differences from control and they are significantly different
+with P>0.05 for Student’s t-test: (a) P<0.01; (b) 0.01<P<0.05. A
+positive percentage represents stimulation while negative values represent
+inhibitions.3. Experimental
+3.1. General procedures
+NMR spectra were recorded at 300 MHz for 1H and 75 MHz
+for 13C on a Varian 300 spectrometer Fourier transform
+NMR in CD3OD at 25
+C. Proton-detected heteronuclear
+correlations were measured using a gradient heteronuclear
+single-quantum coherence (HSQC), optimized for 1JHC¼
+140 Hz, a gradient heteronuclear multiple bond coherence
+(HMBC), optimized for nJHC¼8 Hz, and a gradient heteronu-
+clear single-quantum coherence–total correlation spectros-
+copy (HSQC–TOCSY), optimized for nJHC¼8 Hz and for a
+mixing time¼0.09. Optical rotations were measured on a
+Perkin–Elmer 141 in MeOH solution. Electrospray mass
+spectra were recorded using a Waters Z-Q mass spectrometer
+equipped with an electrospray ionization (ESI) probe
+-50
+-25
+0
+1 2 3 4 5 6
+a
+b
+a
+a
+b
+germination
+b b
+a
+a
+a
+b
+b
+b
+b b
+a
+b
+b
+aa
+a
+a
+a
+a
+aa
+1 2 3 4 5 6
+root elongation
+b
+aaa
+a a
+b
+bb
+b
+b
+ b
+ b bb
+  
+b
+1 2 3 4 5 6
+shoot elongation
+ b
+ b b b  b
+ b
+ b
+ b
+ b
+b
+ b
+ b
+ b
+ b
+ 
+b
+a
+bb
+aa b
+%
+ fr
+om
+ c
+on
+tro
+l
+-50
+-25
+0
+%
+ fr
+om
+ c
+on
+tro
+l
+-50
+-25
+0
+%
+ fr
+om
+ c
+on
+tro
+l
+10-4 10-5 10-6 10-7 10-8 10-9
+Figure 4. Bioactivity of compounds 1–6 on the germination, root elongation,
+and shoot elongation of Amaranthus retroflexus. Values are presented as per-
+centage differences from control and they are significantly different with
+P>0.05 for Student’s t-test: (a) P<0.01; (b) 0.01<P<0.05. A positive per-
+centage represents stimulation while negative values represent inhibitions.
+8957A. Fiorentino et al. / Tetrahedron 62 (2006) 8952–8958operating in positive or negative ion mode. The scan range
+was 80–2000 m/z.
+The HPLC apparatus consisted of a pump (Shimadzu LC-
+10AD), a refractive index detector (Shimadzu RID-10A),
+and a Shimadzu Chromatopac C-R6A recorder. Preparative
+HPLC was performed using NH2 (Luna 10 mm, 25010 mm
+i.d., Phenomenex) column. Analytical HPLC was performed
+using RP-8 (Luna 5 mm, 2504.6 mm i.d., Phenomenex) or
+Polar-RP-80A (Synergi 4 mm, 2504.6 mm i.d., Pheno-
+menex) columns. Analytical TLC was performed on Merck
+Kieselgel 60 F254, RP-18 F254, or RP-8 F254 plates with
+0.2 mm layer thickness. Spots were visualized by UV light
+or by spraying with H2SO4–AcOH–H2O (1:20:4). The plates
+were then heated for 5 min at 110 C. Preparative TLC was
+performed on Merck Kieselgel 60 F254 plates, with 0.5 or
+1 mm film thickness. Flash column chromatography (FCC)
+was performed on Merck Kieselgel 60 (230–400 mesh) at
+medium pressure. Column chromatography (CC) was per-
+formed on Merck Kieselgel 60 (70–240 mesh). Filtrations
+on solid phase extraction (SPE) cartridge were performed
+on Waters NH2 or C8 Sep-Pak Cartridge.
+3.2. Plant material, extraction, and isolation of the
+metabolites
+Plants of A. retroflexus L. were collected in May 2003, in the
+vegetative state, in Recale, near Caserta (Italy), and identi-
+fied by Dr. Assunta Esposito of the Second University of
+Naples. A voucher specimen (CE118) has been deposited
+at the Herbarium of the Dipartimento di Scienze della Vita
+of Second University of Naples.
+Fresh leaves of A. retroflexus (42 kg) were extracted with
+MeOH–H2O (1:9) for 48 h at 20
+C and then in MeOH for
+5 days. The methanolic extract was dissolved in water and
+then extracted with EtOAc. The organic fraction was dried
+with Na2SO4 and concentrated under vacuum, yielding
+18.4 g of crude residue.
+The EtOAc fraction was chromatographed on silica gel, with
+CHCl3–EtOAc and CHCl3–MeOH solutions, to give four
+fractions A–D.
+Fractions A and B, eluted with EtOAC–CHCl3 (1:9), give the
+free nerolidols previously described. Fraction C eluted with
+MeOH–CHCl3 (1:9) was chromatographed on Sephadex
+LH-20 eluting with hexane–CHCl3–MeOH (2:1:1) to obtain
+three fractions: the first, rechromatographed on RP-18 col-
+umn, eluting with MeOH–MeCN–H2O (2:1:2), furnished
+pure 3 (9.0 mg); the second fraction was chromatographed
+by NH2 HPLC eluting with MeCN–H2O (9:1), which was
+purified by RP-8 HPLC, eluting with H2O–MeOH–MeCN
+(13:3:4) to give pure 1 (3.0 mg) and 2 (2.0 mg); the third frac-
+tion was chromatographed on RP-18 column eluting with
+H2O–MeOH–MeCN (2:1:2) to have a fraction that was first
+filtered on NH2 Sep-Pak with H2O–MeCN (2:23) and then
+purified by analytical RP-8 HPLC, eluting with H2O–
+MeOH–MeCN (13:3:4) to give pure glucosides 6 (6.0 mg)
+and 7 (2.0 mg). Fraction D eluted with MeOH–CHCl3
+(1:1) was chromatographed on Sephadex LH-20 eluting
+with hexane–CHCl3–MeOH (1:1:1), collecting fractions of
+25 ml volumes. The second fraction was chromatographedon RP-18 column eluting with H2O–MeOH–MeCN (5:3:2)
+to have pure glucoside 4 (30.1 mg) and a mixture, which
+was chromatographed by FCC on SiO2, eluting with
+CHCl3–MeOH–0.1% TFA–H2O (100:20:3:1). The eluate
+collected from 50 to 90 ml was purified on RP HPLC, using
+the Polar-RP-80A column and eluting with H2O–MeOH–
+MeCN (15:1:4) to have pure 5 (3.0 mg).
+3.3. Characterization of the metabolites 4–7
+Amarantholidoside IV [(3S,6E,10R)-10-b-D-glucopyrano-
+syloxy-3,11-dihydroxy-3,7,11-trimethyldodeca-1,6-diene] 4.
+Colorless oil; IR (CHCl3) nmax cm
+1: 3400, 2932, 1577; 1H
+NMR (300 MHz, CD3OD): Table 1;
+13C NMR (75 MHz,
+CD3OD): Table 1; ESIMS m/z 441 [M+Na]
++, 279 [Mglc+
+Na]+, 203 [glc+Na]+; [a]D
+25 12.2 (c 0.16, MeOH). Anal.
+Calcd for C21H38O8: C, 60.27; H, 9.15. Found: C, 60.31; H, 9.17.
+Amarantholidoside V [(3S,6E,10R)-11-b-D-glucopyrano-
+syloxy-3,10-dihydroxy-3,7,11-trimethyldodeca-1,6-diene] 5.
+Colorless oil; IR (CHCl3) nmax cm
+1: 3389, 2921; 1H
+NMR (300 MHz, CD3OD): Table 2;
+13C NMR (75 MHz,
+CD3OD): Table 2; ESIMS m/z 441 [M+Na]
++, 279
+[Mglc+Na]+; [a]D25 14.6 (c 0.12, MeOH). Anal. Calcd
+for C21H38O8: C, 60.27; H, 9.15. Found: C, 60.30; H, 9.18.
+Amarantholidoside VI [(3S,30S,5S,50S,6E,60E,10x,100x)-
+10,100-oxybis(5-b-D-glucopyranosyloxy-3-hydroxy-3,7,11-
+trimethyldodeca-1,6,11-triene] 6. Colorless oil; IR (CHCl3)
+nmax cm
+1: 3397, 2932; 1H NMR (300 MHz, CD3OD): Table
+3; 13C NMR (75 MHz, CD3OD): Table 3; ESIMS m/z 837
+[M+Na]+, 488 [M2C6H11O5]+, 472 [MC6H11O5
+C6H11O6]
++, 438 [MC21H35O7+Na]+, 404 [MC21H35O8
+H2O+Na]
++, 354 [C16H27O7+Na]
++; [a]D
+25 26.4 (c 0.26,
+MeOH). Anal. Calcd for C42H70O15: C, 60.30; H, 8.66.
+Found: C, 60.32; H, 8.69.
+Amarantholidoside VII [(3S,30S,5S,50S,6E,60E,10x,100x)-
+10,100-oxybis(5-b-D-glucopyranosyloxy-3-hydroxy-3,7,11-
+trimethyldodeca-1,6,11-triene] 7. Colorless oil; IR (CHCl3)
+nmax cm
+1: 3394, 2931; 1H NMR (300 MHz, CD3OD):
+Table 3; 13C NMR (75 MHz, CD3OD): Table 3; ESIMS
+m/z 837 [M+Na]+, 488 [M2C6H11O5]+, 472
+[MC6H11O5C6H11O6]+, 438 [MC21H35O7+Na]+, 404
+[MC21H35O8H2O+Na]+, 354 [C16H27O7+Na]+; [a]D25
+43.3 (c 0.14, MeOH). Anal. Calcd for C42H70O15:
+C, 60.30; H, 8.66. Found: C, 60.28; H, 8.29.
+3.3.1. Enzymatic hydrolysis of amarantholidol IV.To a so-
+lution of pure amarantholidoside IV (10 mg) in acetate buffer
+(0.5 M, pH 5.0, 5 ml), 40 mg of b-glucosidase (Sigma) was
+added. After 24 h at 37 C in stirring, the mixture was ex-
+tracted with EtOAc (5 ml2), dried over Na2SO4, and evapo-
+rated in vacuo. The crude extract was chromatographed on
+SiO2 [hexane–CHCl3–MeOH (3:6:1)] to have pure aglycone
+(3S,6E,10R)-3,10,11-trihydroxy-3,7,11-trimethyldodeca-1,6-
+diene (4a): 1H NMR spectral data (300 MHz, CD3OD):
+d 5.91 (1H, dd, J¼17.1, 10.5 Hz, H-2), 5.18 (1H, dd, J¼
+17.1, 1.5 Hz, H-1 cis), 5.19 (1H, dd, J¼9.3, 1.2 Hz, H-6),
+5.02 (1H, dd, J¼10.5, 1.5 Hz, H-1 trans), 3.22 (1H, dd, J¼
+10.8, 1.8 Hz, H-10), 1.61 (3H, s, H-14), 1.24 (3H, s, H-15),
+1.15 (3H, s, H-12), 1.12 (3H, s, H-13); 13C NMR (75 MHz,
+CD3OD) d 145.0 (CH, C-2), 136.0 (C, C-7), 125.8 (CH, C-6),
+8958 A. Fiorentino et al. / Tetrahedron 62 (2006) 8952–8958112.0 (CH2, C-1), 78.9 (CH, C-10), 73.8 (C, C-11), 74.8 (C,
+C-3), 43.4 (CH2, C-4), 37.8 (CH2, C-8), 30.7 (CH2, C-9), 27.5
+(CH3, C-15), 26.2 (CH3, C-13), 23.9 (CH2, C-5), 23.7 (CH2,
+C-12), 16.5 (CH3, C-14); EIMS m/z 256 [M]
++, 238
+[MH2O]+, 223 [MCH3H2O]+; [a]D25 14.6 (c 0.12,
+MeOH); [a]D
+25 +7.8 (c 0.10, MeOH). Anal. Calcd for
+C15H28O3: C, 70.27; H, 11.01. Found: C, 70.61; H, 10.96.
+3.3.2. Preparation of (S)- and (R)-MTPA esters of 4a. (R)-
+()-MTPA chloride (5 ml, 26 mmol) was added to a solution
+of pure compound (1.5 mg) in dry pyridine (50 ml). After 6 h
+under magnetic stirring at room temperature, EtOAc (5 ml)
+and H2O (5 ml) were added to the reaction mixture. The
+organic layer, separated by centrifugation at 4000 rpm for
+10 min, gave a crude extract, which was purified by prepar-
+ative TLC eluting with hexane–CHCl3–MeOH (5:4:1).
+The (S)-MTPA ester of 4a had the 1H NMR spectral data
+(300 MHz, CD3OD): d 5.90 (1H, dd, J¼17.3, 10.5 Hz,
+H-2), 5.12 (1H, dd, J¼17.3, 1.8 Hz, H-1 trans), 4.99 (H-10,
+detected by DQ-COSY spectrum), 4.92 (H-1 cis, detected
+by DQ-COSY spectrum), 1.59 (3H, s, H-14), 1.51 (H-9,
+detected by DQ-COSY spectrum), 1.24 (3H, s, H-15), 1.19
+(3H, s, H-12), 1.15 (3H, s, H-13). The (R)-MTPA ester of 4a
+had the 1H NMR spectral data (300 MHz, CD3OD): d 5.89
+(1H, dd, J¼17.1, 10.5 Hz, H-2), 5.18 (1H, dd, J¼17.1,
+1.2 Hz, H-1 trans), 5.05 (H-1 cis, detected by DQ-COSY spec-
+trum), 5.00 (H-10, detected by DQ-COSY spectrum), 1.76
+(3H, s, H-14), 1.58 (H-9, detected by DQ-COSY spectrum),
+1.24 (3H, s, H-15), 1.11 (3H, s, H-12), 1.07 (3H, s, H-13).
+3.3.3. 13CNMR of amarantholidol IV in the chiral solvent
+R,R- and S,S-BMBA-p. Chiral NMR solvent (R,R)-BMBA-
+p [or (S,S)-BMBA-p] was prepared with small modifications
+of method reported by Kobayashi et al.13 1,3-Diiodopropane
+(10.3 mmol, 1 equiv) was added dropwise over 7 min to
+(R)-a-phenetylamine [or (S)-a-phenetylamine] (41.3 mmol,
+4 equiv) at 130 C. After stirring for 30 min, the mixture
+was cooled to 80 C and then poured into aqueous 50%
+NaOH solution (300 ml). The resulting free amines were
+extracted with EtOAc (300 ml) and the organic layer was
+washed with brine, dried over anhydrous K2CO3, filtered,
+and evaporated to give the crude oil. The pure BMBA-p
+was obtained by distillation as reported by Hulst et al.14
+(R,R)-BMBA-p (colorless oil) had 1H NMR spectral data
+(300 MHz, CDCl3): d 7.40–7.20 (5H, overlapped), 3.71
+(2H, q, J¼6.6 Hz), 2.54 (2H, dt, J¼6.6, 5.1 Hz), 2.47 (2H,
+dt, J¼6.6, 5.1 Hz), 1.62 (2H, m), 1.34 (6H d, J¼6.6); 13C
+NMR (75 MHz, CDCl3) d 145.3 (C), 128.3 (CH), 126.6 (CH),
+126.4 (CH), 58.3 (CH), 46.3 (CH2), 29.9 (CH2), 24.1 (CH3);
+[a]20D +66.2 (c 0.25, CHCl3). (S,S)-BMBA-p (colorless oil)
+had 1H NMR spectral data (300 MHz, CDCl3): d 7.40–7.20
+(5H, overlapped), 3.71 (2H, q, J¼6.6 Hz), 2.54 (2H, dt,
+J¼6.6, 5.1 Hz), 2.47 (2H, dt, J¼6.6, 5.1 Hz), 1.62 (2H, m),
+1.34 (6H, d, J¼6.6); 13C NMR (75 MHz, CDCl3) d 145.3
+(C), 128.3 (CH), 126.6 (CH), 126.4 (CH), 58.3 (CH), 46.3
+(CH2), 29.9 (CH2), 24.1 (CH3); [a]
+20
+D 66.2 (c 0.25, CHCl3).
+A Varian Mercury 300 spectrometer (75 MHz) was used to
+collect the 13C NMR data of amarantholidoside IV (4,
+10 mg) in the chiral solvent BMBA-p (350 ml)–CD3OD
+(300 ml), with readout of NMR spectra being adjusted to
+0.001 ppm/point (sw¼23980.8, fn¼524288).3.4. Phytotoxicity test
+Seeds of T. officinale and A. retroflexus, collected during
+2005, were obtained from Herbiseed (Twyford, UK).
+All undersized or damaged seeds were discarded and the
+assay seeds were selected for uniformity.
+The test solution (104 M) was prepared using 2-[N-mor-
+pholino]ethanesulfonic acid (MES; 10 mM, pH 6) and the
+rest (105–109 M) was obtained by dilution. Parallel con-
+trols were performed. After adding 10 seeds and 1.0 ml of
+test solutions, Petri dishes were sealed with Parafilm to en-
+sure closed-system models. Seeds were placed in a growth
+chamber KBW Binder 240 at 27 C in the dark. Germination
+percentage was determined daily for 7 days (no more germi-
+nation occurred after this time).
+After growth, the plants were frozen at 20 C to avoid
+subsequent growth until the measurement process. Data
+are reported as percentage differences from control. Thus,
+zero represents the control, positive values represent the
+stimulation of the parameter studied, and negative values
+represent inhibition.
+Statistical treatment. The statistical significance of differ-
+ences between groups was determined by a Student’s
+t-test, calculating mean values for every parameter (germi-
+nation average, shoot, and root elongation) and their popula-
+tion variance within a Petri dish. The level of significance
+was set at P<0.05.
+References and notes
+1. Duke, S. O.; Romagni, J. G.; Dayan, F. E. Crop Prot. 2000, 19,
+583–589.
+2. D’Abrosca, B.; Della Greca, M.; Fiorentino, A.; Monaco, P.;
+Natale, A.; Oriano, P.; Zarrelli, A. Phytochemistry 2000, 66,
+2681–2688.
+3. Macias, F. A.; Velasco, R. F.; Castellano, D.; Galindo, J. C. G.
+J. Agric. Food Chem. 2005, 53, 3530–3539.
+4. Jefferson, L. V.; Pennacchio, M. J. Arid Environ. 2003, 55,
+275–285.
+5. Turk, M. A.; Tawaha, A. M. Crop Prot. 2003, 22, 673–677.
+6. Kato, T.; Saito, N.; Kashimura, K.; Shinohara, M.;
+Kurahashi, T.; Taniguchi, K. J. Agric. Food Chem. 2003, 50,
+6307–6312.
+7. Walter, M. W. Nat. Prod. Rep. 2002, 19, 278–291.
+8. Vyvyan, J. R. Tetrahedron 2002, 58, 1631–1646.
+9. D’Abrosca, B.; De Maria, P.; Della Greca, M.; Fiorentino,
+A.; Golino, A.; Izzo, A.; Monaco, P. Tetrahedron 2006, 62,
+640–646.
+10. Yokosuka, A.; Mimaki, Y.; Sakagami, H.; Sashida, Y. J. Nat.
+Prod. 2002, 65, 283–289.
+11. Ohtani, I.; Kusumi, T.; Kashman, Y.; Kakisawa, H. J. Am.
+Chem. Soc. 1991, 113, 4092–4096.
+12. Kobayashi, Y.; Hayashi, N.; Kishi, Y. Org. Lett. 2002, 4,
+411–414.
+13. Kobayashi, Y.; Hayashi, N.; Kishi, Y. Tetrahedron Lett. 2003,
+44, 7489–7491.
+14. Hulst, R.; de Vries, N. K.; Feringa, B. L. Tetrahedron:
+Asymmetry 1994, 5, 699–708.

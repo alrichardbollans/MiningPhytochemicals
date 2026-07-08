@@ -1,0 +1,534 @@
+Identification of Autotoxic Compounds in Fibrous Roots
+of Rehmannia (Rehmannia glutinosa Libosch.)
+Zhen-Fang Li, Yan-Qiu Yang, Dong-Feng Xie, Lan-Fang Zhu, Zi-Guan Zhang, Wen-Xiong Lin*
+Agroecological Institute, Fujian Agriculture and Forestry University, Fuzhou, China
+Abstract
+Rehmannia is a medicinal plant in China. Autotoxicity has been reported to be one of the major problems hindering the
+consecutive monoculture of Rehmannia. However, potential autotoxins produced by the fibrous roots are less known. In
+this study, the autotoxicity of these fibrous roots was investigated. Four groups of autotoxic compounds from the aqueous
+extracts of the fibrous roots were isolated and characterized. The ethyl acetate extracts of these water-soluble compounds
+were further analyzed and separated into five fractions. Among them, the most autotoxic fraction (Fr 3) was subjected to
+GC/MS analysis, resulting in 32 identified compounds. Based on literature, nine compounds were selected for testing their
+autotoxic effects on radicle growth. Seven out of the nine compounds were phenolic, which significantly reduced radicle
+growth in a concentration-dependent manner. The other two were aliphatic compounds that showed a moderate inhibition
+effect at three concentrations. Concentration of these compounds in soil samples was determined by HPLC. Furthermore,
+the autotoxic compounds were also found in the top soil of the commercially cultivated Rehmannia fields. It appears that a
+close link exists between the autotoxic effects on the seedlings and the compounds extracted from fibrous roots of
+Rehmannia.
+Citation: Li Z-F, Yang Y-Q, Xie D-F, Zhu L-F, Zhang Z-G, et al. (2012) Identification of Autotoxic Compounds in Fibrous Roots of Rehmannia (Rehmannia glutinosa
+Libosch.). PLoS ONE 7(1): e28806. doi:10.1371/journal.pone.0028806
+Editor: Alejandra Bravo, Universidad Nacional Autonoma de Mexico,Instituto de Biotecnologia, Mexico
+Received July 24, 2011; Accepted November 15, 2011; Published January 3, 2012
+Copyright:  2012 Li et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted
+use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by The National Natural Science Foundation of China (No. 30772729), Provincial Natural Science Foundation of Fujian, China
+(No. 2008J0051), and the key discipline program of Fujian Province, China (grant No. 20020F012). The funders had no role in study design, data collection and
+analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have declared that no competing interests exist.
+* E-mail: wenxiong181@163.com
+Introduction
+Rehmannia (Rehmannia glutinosa Libosch) is in the Scrophular-
+iaceae family and is one of the most common and important
+medicinal herbal plants in China. It is perennial and its fresh or
+dried tuberous roots are used as a high demand traditional
+Chinese medicinal ingredient for hematologic conditions, sedation,
+insomnia and diabetes [1,2]. Its commercial cultivation has been
+practiced for almost 1500 years in China. However, the
+consecutively monocultured plants are prone to severe diseases
+resulting in reduced biomass, especially the tuberous products. To
+maintain the cultivation, the farmers commonly limited the
+cultivation on a same plot once every eight years. Therefore, less
+desirable areas outside Jiaozuo had to be used for the planting with
+decreased tuber yields and lower product quality [3].
+The autotoxicity issue has attracted much attention [4,5].
+Autotoxicity is the phenomenon whereby mature plants inhibit the
+growth of their own seedlings through the release of autotoxic
+chemicals. It has been found to exist in various crops [6,7], such as
+greenhouse crops [8,9], fruits [10,11], forage [12,13], horticultural
+and medicinal plants [4,5,14,15,16]. Several groups of chemicals
+have been implicated in autotoxicity, including terpenoids,
+phenolics, steroids, alkaloids, and cyanogenic glycosides. Recently,
+autotoxicity in Rehmannia has been reported [15,16,17] especially
+in relation to the compounds derived from the root exudates.
+However, to date, the degradation of fibrous roots and its products
+had not been studied, and the mechanism of autotoxicity in
+Rehmannia remains unknown.
+This study aims to identify substances that contribute directly to
+Rehmannia autotoxicity. A number of potentially autotoxic
+compounds from the fibrous roots were isolated and characterized.
+The inhibitory effect of these compounds on seedling growth was
+observed. Furthermore, the concentration of these bioactive
+compounds in the top soil collected from one-year cultivated
+and two-year consecutively moncultured Rehmannia fields was
+determined.
+Materials and Methods
+Sample collection and autotoxic compound extraction
+Water extraction. The fields were located in Jiao-zuo
+County (113u219E, 35u249N), He-nan province of China, which
+is the optimal production areas of Rehmannia. The samples were
+collected in October 2008 (Figure S1).
+Fibrous roots of one-year cultivated Rehmannia plants at the
+mature stage were collected. The air-dried roots (500 g), passed
+2 mm sieve, were soaked in 1000 mL distilled water at 25–30uC
+for 48 h. The extract was filtered, and the extraction was repeated
+three times. The aqueous extracts from the three extractions were
+combined and concentrated to 20 mL under vacuum at 50uC,
+then freeze-dried under liquid N2 at 2180uC Approximately
+530 mg of the dried material were obtained from the 500 g of air-
+dried fibrous roots.
+Top soil samples (20 cm depth) were collected from both one-
+year cultivated and two-year consecutively moncultured Rehman-
+nia fields in Jiaozuo county at harvest time. A soil sample from an
+PLoS ONE | www.plosone.org 1 January 2012 | Volume 7 | Issue 1 | e28806adjacent uncultivated field was collected as a control. Potential
+autotoxic compounds were extracted from the soil samples using
+the same method for the fibrous roots. Approximately 400 mg of
+dried material were obtained from the 500 g air-dried soil samples.
+Ethanol extraction and partitioning. Air-dried fibrous
+roots (2 kg) were extracted with 95% ethanol (5 L) at room
+temperature for 5 d. This process was repeated once. The extract
+was concentrated by evaporation to 200 mL at 50uC under
+vacuum followed by freeze-drying under liquid N2 (2180uC), and
+then dissolved in 200 mL distilled water.
+The aqueous solution was consecutively partitioned with
+petroleum ether, chloroform, ethyl acetate, and n-butanol, as
+shown in Figure 1. The solvent extractions were performed by
+shaking in separation funnels for 10 min, followed by evaporation
+under vacuum.
+Bioassays and statistical analysis
+To examine the functional effect of the potential autotoxic
+compounds on Rehmannia growth, measurements of Rehmannia
+radicles in petri dishes was performed. The extracts of petroleum
+ether, chloroform, ethyl acetate, n-butanol and the ethyl acetate-
+extracted fractions (1–5), of fibrous roots, monocultured soils for 1
+year and 2 years, and uncultivated soil, were diluted with distilled
+water into 2, 5, 10, 20 and 50 mg L
+21. 5 mL of each of the diluted
+solutions were transferred into the 10-cm diameter petri dishes
+containing double-layered filter paper (Whatman No. 42). In
+addition, individualcompounds, including7aliphatic and 2phenolics
+as identified in Fr3, were dissolved in a small volume of methanol and
+transferred onto the double-layered filter paper in the petri dishes.
+The solvents were evaporated in a draft chamber for 1 h. The filter
+paper containing these compounds was moistenedwith5 mL distilled
+water. The final concentrations of the compounds in water were 2,
+10, and 50 mg L
+21, while distilled water was used as control. Twenty
+Rehmannia seeds were placed on the filter paper in the petri dishes.
+All dishes were maintained in a tissue culture room at 26uCw i t h
+fluorescent lights for 11 h (8:00–20:00) as described previously [7].
+The fluorescent light intensity was 4.1760.186103 lux. Germinated
+seeds with .1 mm radius were recorded and the radicle lengths were
+measured after incubation for 5 d.
+The radicle lengths of the treated ones in comparison with the
+controls were used as an index of the inhibition rates (IRs). IR was
+calculated as: IR = (control - treatment)/control6100%. When
+IR is greater than 0, it indicates an inhibition; conversely when IR
+is less than 0, it indicates promoting growth [18]. All data were
+subject to an analysis of variance using the Statistical Analysis
+System Program (SPSS). Each value was expressed as the mean of
+three replicates6standard error (SE).
+Identification of autotoxic chemicals
+The ethyl acetate extract was further analyzed. About 8 g of the
+extract was subjected to column chromatography (CC), packed
+with silica gel (200–300 mesh) and eluted with chloroform
+(CHCl3)-methanol (MeOH), followed by a gradient solvent system
+(0–100 MeOH) to yield five fractions (Fr1-5). The fractions were
+Figure 1. Flow chart of extraction procedures.
+doi:10.1371/journal.pone.0028806.g001
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 2 January 2012 | Volume 7 | Issue 1 | e28806analyzed by thin-layer chromatography (TLC) on the same Rf
+value. Preliminary bioassay study indicated that fraction 3 (Fr3)
+exhibited the greatest inhibitory activity on radicle growth of
+Rehmannia. Thus, Fr3 was further purified using the reversed
+phase multi-purpose GC column chromatography (Varian,
+California, U.S.A., VF-5 ms, 30 m60.25 mm60.25 mm).
+The GC/MS fingerprints of Fr3 were obtained with a GC/MS
+(Autospec-240 MS Ion Trap mass spectroscopy, Varian, Califor-
+nia, U.S.A.). Fraction 3 was subsequently dissolved into 2 mL
+redistilled MeOH. One mL aliquot of this solution was evaporated
+under a stream of helium to remove residual water. A mixture of
+10 mL redistilled MeOH and 10 mL N, O-Bis (trimethylsilyl)
+trifluoro acetamide (BSTFA) + 1% trimethylchlorosilane (TMCS)
+was added to the residue to produce trimethylsilyl derivatives by
+heating at 100uC for 1 h. The solution was filtered through a
+0.45 mm filter before injected into the GC-MS system.
+The injection volume was 1 mL. Helium was used as the carrier
+gas, and the flow rate was adjusted to 10 mL min
+21.T h eo v e n
+temperature was initially programmed at 50uCa n dr a m p e dt o2 7 0 uC
+at a rate of 5uC?min
+21, where it remained for 10 min. MS data were
+acquired in the negative ionization mode. The full scan mass covered
+a range from m/z 50 to 1500. The m/z values for standard
+autotoxins and the compounds as available in the literature wereused
+to match with those obtained in the spectra for the study.
+HPLC analysis
+To determine whether the autotoxic compounds identified in
+Rehmannia root extracts also existed in ground soil, we tested the
+soil samples.
+The concentration of autotoxic compounds in soil samples was
+determined using a Waters HPLC system (Alliance HPLC system
+Massachusetts, U.S.A.).The chromatographic system consisting of
+a Waters 2695 HPLC system with a reversed-phase column
+Zorbax Eclipse XDB –C18 (250 mm64.6 mm, 5 mm column) was
+used at a flow rate of 1.0 mL min
+21. The solvent system was a
+linear gradient of solvent A (methanol) and solvent B (0.5 mol L
+21
+acetic acid in water): from 1% to 25% A in 0–10.0 min, and hold
+at 25% A for 5 min;from 25% to 80% A in 15.0–25.0 min, and
+hold at 80% A for 5 min;from 80% to 25% A in 30.0–40.0 min,
+and hold at 25% A for 10 min. The injected volume was 10 mL of
+a water solution of the extracts (10 mg mL
+21). The column
+temperature was maintained at 35uC. The UV detector was
+performed at 280 nm. The chromatographic data were recorded
+and processed with a Waters empower workstation.
+HPLC grade acetonitrile, acetic acid (Merck, Darmstadt, Ger-
+many), and filtered bi-distilled water, were used for HPLC analysis.
+The methanol used for extraction was from ‘‘Honeywell Internation-
+al’’ (New Jersey, U.S.A.). Standards of phenolic acids, including (gallic
+acid, 4-hydroxybenzoic acid, vanillic acid, protocatechuic acid, ferulic
+acid, benzoic acid, and salicylic acid,) were purchased from Sigma
+Chemicals Co., U.S.A.. Solvents and standards of phenolic acids were
+chromatographic grade. The specific recovery rates (%) for the
+standards were: gallic acid, 96.2464.42;4-Hydroxybenzoic acid,
+92.2665.35; vanillic acid, 92.1563.22; protocatechuic acid,
+92.4465.06; ferulic acid, 93.2565.31; benzoic acid, 90.0164.38;
+and salicylic acid, 90.0663.21.
+The dry materials from the water extract were dissolved into
+100 mL methanol and passed through a 0.22 mmg l a s sf i b e rs i e v e .7
+Phenolic acids compounds found in the samples extracts were dentified
+by matching the retention time and their spectral characteristics against
+those of standards. The separation procedures were repeated six times
+for each standard compound, and data were presented as mean6SE.
+Results
+Bioassay of fibrous root extracts
+When compared with the root exudates and the extracts of
+three different soils (i.e. control soil, one-year monocultured and
+Table 2. Inhibitory effect on the growth of Rehmannia radicles when exposed to fibrous root extracts.
+Radicle length of Rehmannia (mm)
+Fraction 2 mg?L
+21 5m g ?L
+21 10 mg?L
+21 20 mg?L
+21 50 mg?L
+21
+Distilled water (control) 9.8960.16b 9.8960.16b 9.8960.16a 9.8960.16a 9.8960.16a
+Petroleum ether extract 10.0660.14a 10.1460.21a 9.1960.18b 9.0660.24c 9.0360.12b
+Chloroform extract 10.1360.12a 10.1460.16a 10.1260.13a 9.6860.12b 9.3260.16b
+Ethyl acetate extract 8.6760.09d 7.8560.24d 4.7960.23d 4.3260.16e 3.5460.14d
+n-Butanol extract 9.3560.25c 9.1160.15c 8.1760.16c 8.3160.23d 7.3460.17c
+doi:10.1371/journal.pone.0028806.t002
+Table 1. Inhibition effect of aqueous extracts from soil and fibrous roots on Rehmannia radicles growth.
+Uncultivated (control soil) Monocultured soil (1-year) Monocultured soil (2-year) Fibrous roots
+Concentration Radicle length (mm) IR (%) Radicle length (mm) IR (%) Radicle length (mm) IR (%) Radicle length (mm) IR (%)
+2m g ?L
+21 9.6760.23a - 9.4460.09b 23.09 9.2260.18c 25.15 8.6860.14d 210.31
+5m g ?L
+21 10.1260.07a - 8.3760.21b 216.83 8.0460.16c 220.79 7.4660.25d 225.74
+10 mg?L
+21 9.3360.27a - 6.6760.08b 227.96 5.1460.16c 245.16 4.9260.28c 247.31
+20 mg?L
+21 9.0760.23a - 5.4560.24b 239.56 4.3160.13c 252.75 3.2360.15c 264.84
+50 mg?L
+21 9.9260.30a - 2.8660.14b 270.71 2.5360.21b 274.75 2.3560.24b 275.76
+Note: Values on the same row followed by the same lowercase letters are not statistically different at P=0.05 by Duncan’s test, the same below.
+doi:10.1371/journal.pone.0028806.t001
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 3 January 2012 | Volume 7 | Issue 1 | e28806two-year monocultured soils), the autotoxic compounds extracted
+from the fibrous roots showed greater inhibitive effects on the
+radicle growth of Rehmannia (Table 1). The inhibition rate
+increased with higher concentrations of the extracts. The IR
+peaked at 50 mg?L
+21 with 75.76% reduction in seedling radicles
+(P,0.01; Table 1). A similar trend was found in the soil extracts,
+but their inhibitory effects were always lower than those of the
+fibrous roots’. The result indicated that the chemical compounds
+extracted from the fibrous roots had a major auto-inhibitory effect
+on the growth of Rehmannia radicle.
+Bioassay of partitioned compounds of fibrous root
+extracts
+The bioassay with petroleum ether, chloroform, ethyl acetate,
+and n-butanol partitions showed that the four extracts exhibited
+dose-dependent inhibition effects on the radicle growth and that
+the ethyl acetate extract had the greatest inhibitory effect (Table 2).
+At the concentration of 50 mg L
+21, the inhibition rates of
+petroleum ether, chloroform, ethyl acetate, and n-butanol extracts
+were 8.7%, 5.8%, 64.2%, and 25.8%, respectively.
+Bioassay of column chromatography fractions of ethyl
+acetate extract
+Bioassays with each of the five fractions from ethyl acetate
+extract showed a significant reduction in the length of the radicle
+in the presence of Fr3 (P,0.01; Table 3). When the concentration
+was greater than 20 mg L
+21, the reduction reached 100%. This
+indicates that the chemical compounds in Fr3 had a major auto-
+inhibitory effect on the seedling growth, and so Fr3 was considered
+a candidate for further identification and characterization.
+Autotoxic effect of compounds identified in fraction 3
+By comparing with a GC/MS user-library spectrum of pure
+reference compounds, GC/MS analysis for Fr3 identified a total of
+Figure 2. Total ion chromatogram of bioactive Fraction 3 of ethyl acetate extract from Rehmannia fibrous roots.
+doi:10.1371/journal.pone.0028806.g002
+Table 3. Effect of Fractions 1–5 from Rehmannia fibrous root’s ethyl acetate extract on radicle growth of Rehmannia.
+Radicle Length of Rehmannia (mm)
+Fraction 2 mg?L
+21 5m g ?L
+21 10 mg?L
+21 20 mg?L
+21 50 mg?L
+21
+Fr 1 9.3760.12a 10.1160.25a 9.3460.09a 9.2260.13a 9.1360.17b
+Fr 2 7.0660.09c 6.1060.14d 6.5360.12c 6.0660.15c 6.0360.15d
+Fr 3 4.3760.23e 3.1560.27e 2.7960.18d 0 d 0 f
+Fr 4 6.1560.16d 6.6260.18c 6.1360.14c 5.6560.18c 5.3360.14e
+Fr 5 8.3960.13b 8.3160.15b 8.1760.21b 8.0860.20b 7.9660.22c
+Sterilized water (control) 9.6760.23a 9.6760.23a 9.6760.23a 9.6760.23a 9.6760.23a
+doi:10.1371/journal.pone.0028806.t003
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 4 January 2012 | Volume 7 | Issue 1 | e2880632 compounds in Fr3. They were classified into 5 groups:
+phenolics, aliphatic compounds, terpenoids, steroids, and others
+(Figure 2, Table 4).
+Previous studies suggested that several chemicals detected in the
+bioactive Fr3 were possibly allelopathic compounds, which were
+reported as allelochemicals in other crops [4,8,19]. Based on
+previous reports and the availability of the chemicals in Fr3, nine
+individual compounds were selected to test their potential autotoxic
+effects on Rehmannia radicle growth (Table 5). Among the 9
+chemicals examined, seven phenolic compounds showed dose-
+respondent inhibitory effects on the seedling growth. Specifically,
+the radicle of the seedlings reduced significantly by 45–76% when
+they were treated with the phenolic compounds (except salicylic
+acid) at a concentration of 50 mg?L
+21 (P,0.01). Ferulic acid and
+vanillin acid were the most potent compounds in the test, and
+therefore, they were considered as the potential allelochemicals. All
+of the compounds inhibited the seedling growth even at a low
+concentration (e.g.,2m g ?L
+21,P ,0.01), and IRs increased with
+increasing concentrations. Similarly, the compounds in the aliphatic
+acid family (e.g., tetradecanoic acid and oleic acid) exhibited dose-
+respondent inhibitory effects on the seedling growth. The extent of
+inhibition was around 25% for each compound (Table 5). The
+results demonstrate clearly that the compounds extracted from the
+roots of Rehmannia are potent inhibitors on seedling growth. In
+addition, both the phenolic acid and aliphatic acid compounds
+might contribute to the autotoxicity of Rehmannia.
+Table 4. Compounds in bioactive Fraction 3 of ethyl acetate extract from Rehmannia fibrous roots as identified by GC/MS analysis.
+Rt CAS Scientific name Formula
+Aliphatic compounds
+22.746 5870-93-9 Butanoic acid, heptyl ester C11H22O2
+20.595 544-63-8 Tetradecanoic acid C14H28O2
+18.381 7132-64-1 Pentadecanoic acid, methyl ester C16H32O2
+16.319 109-52-4 Pentanoic acid C5H10O2
+31.601 143-07-7 Dodecanoic acid C12H24O2
+33.410 55000-42-5 11-Hexadecenoic acid, methyl ester C17H32O2
+40.089 112-95-8 Eicosane C20H42
+35.848 544-35-4 Linoleic acid ethyl ester C20H36O2
+41.575 112-80-1 Oleic Acid C18H34O2
+Phenolic compounds
+30.709 496-16-2 Benzofuran, 2,3-dihydro- C8H8O
+30.957 1135-24-6 Ferulic acid C10H10O4
+19.709 6781-42-6 1,19-(1,3-Phenylene)diethanone C10H10O2
+25.928 876-02-8 4-Hydroxy-3-methylacetophenone C9H10O2
+25.673 121-33-5 Vanillin C8H8O3
+24.434 69-72-7 Salicylic acid C7H6O3
+27.751 149-91-7 Gallic acid C7H6O5
+34.284 99-50-3 Protocatechuic acid C7H6O4
+35.132 99-96-7 4-Hydroxybenzoic acid C7H6O3
+21.673 65-85-0 Benzoic acid C7H6O2
+Terpene
+11.023 933-40-4 Cyclohexane, 1,1-dimethoxy- C8H16O2
+11.675 109119-91-7 Aromadendrene C15H24
+13.679 135760-25-7 Ascaridole epoxide C10H16O3
+15.567 77-53-2 Cedrol C15H26O
+Steroids
+14.098 546-97-4 Columbin C20H22O6
+24.312 61834-65-9 Allopregnane-3,7,11,20-tetra-one C21H28O4
+26.113 17673-25-5 Phorbol C20H28O6
+27.067 52-21-1 Prednisolone Acetate C23H30O6
+Others
+9.045 60485-45-2 Santolina epoxide C10H16O
+12.554 110-15-6 Butanedioic acid C4H6O4
+16.880 97-67-6 L-Hydroxybutanedioic acid C4H6O5
+18.607 86-73-7 Fluorene C13H10
+22.547 84-66-2 Phthalic acid C12H14O4
+doi:10.1371/journal.pone.0028806.t006
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 5 January 2012 | Volume 7 | Issue 1 | e28806Identification of autotoxic compounds in soil samples
+In the fields where Rehmannia were monocultivated for 1 year
+and 2 years, seven phenolic compounds identified as the
+potential autotoxins were found at different concentrations
+(Table 6, Figure 3), 4-hydroxybenzoic acid being the most
+abundant. In the control and 1-year monocultured soil samples,
+only 6 phenolic compounds were detected. Thus, the findings
+presented here indicate that the compounds identified in
+Rehmannia roots can be found in relative abundance in soils
+previously cultivated with Rehmannia, whereas they are absent
+or present at much lower concentrations in non-cultivated soils.
+Furthermore, the higher inhibitory chemical concentration in
+the consecutively monocultured soil than in the newly planted
+soil was due to the accumulation of autotoxic compounds in the
+rhizosphere soil.
+Discussion
+Our results demonstrate that the compounds isolated from
+ethyl acetate-soluble extracts of Rehmannia fibrous roots had
+the most auto-inhibitory effects on the seedling growth.
+Specifically, 32 chemicals were identified by GC/MS that
+included 9 aliphatic, 10 phenolic, 4 terpene, 4 steroids and 5
+other compounds. Among them, the 7 phenolic compounds and
+2 aliphatic acids selected for testing the inhibition effects
+showed a significant suppressive function on the seedling
+growth. The inhibitory effects were somewhat related to the
+concentration of the autotoxins. More importantly, all 7
+bioactive phenolic compounds were detected in the top soil of
+the Rehmannia fields. It appeared that our study provided the
+first direct evidence that the autotoxic chemicals detected in the
+soils of different-year consecutively monocultured Rehmannia
+fields could be traced back to the roots of Rehmannia. During
+soil sample collection, we noticedt h a tal a r g ea m o u n to ff i b r o u s
+root waste was left in the soil after harvest. It is likely that the
+autotoxic compounds found in soils were derived partly from
+the root exudates or the degraded plant tissues. Once released
+into the soil and allowed to accumulate, these compounds
+might play a major role in the autotoxic effects on the seedling
+growth.
+In this study, we found that the inhibitory effect of each single
+compound was not as potent as the bioactive Fr3 (which contained
+all compounds). It might result from the additive or synergistic
+effect of the mixture compounds extracted from Rehmannia
+fibrous roots and its rhizosphere soil. The similar results were
+reported in the case of other plants [20,21].
+The consecutive monoculture problems in the case study were
+also defined as ‘‘replanting disease’’ or ‘‘sick soil syndrome’’, and it
+is a very common phenomenon in many fruit trees, such as apples,
+pears, and plums. A wide variety of tree pathogens, including
+bacteria, fungi, nematodes, and viruses, have been linked to the
+‘‘replanting disease’’ in fruit trees. These pathogens may not be
+Table 5. Effect of autotoxic chemicals on radicle growth of Rehmannia.
+Treated with 2 mg?L
+21 Treated with 2 mg?L
+21 Treated with 2 mg?L
+21
+Autotoxic chemicals Radicle Length (mm) IR (%) Radicle Length (mm) IR (%) Radicle Length (mm) IR (%)
+Ferulic acid 5.1560.12e 246.74 3.7960.16e 260.89 2.3760.17e 275.50
+Vanillic acid 5.3260.14e 244.98 4.3360.23e 255.31 2.6260.09e 272.91
+4-Hydroxybenzoic acid 5.2560.12e 245.71 3.8460.09e 260.37 2.6760.16e 272.39
+Protocatechuic acid 6.5660.17d 232.16 4.9260.23e 249.22 3.8760.13d 259.98
+Benzoic acid 6.3460.21d 234.44 5.2660.11d 245.72 4.1360.17d 257.29
+Gallic acid 7.5660.11c 221.82 7.1160.16c 226.63 5.3260.20c 244.98
+Salicylic acid 8.3860.15b 13.34 8.1360.13b 216.10 7.3360.14b 224.36
+Oleic acid 7.6560.14c 220.89 7.4360.12c 223.32 6.8960.18b 228.75
+Tetradecanoic acid 8.5360.22b 211.79 7.4260.09c 223.43 7.0160.20b 227.51
+Sterilized water (control) 9.6960.22a - 9.6960.22a - 9.6960.22a -
+doi:10.1371/journal.pone.0028806.t004
+Table 6. Concentration of autotoxic compounds soil samples.
+Control Soil one-year cultivated soil two-year moncultured soil
+Autotoxic chemicals Rt (min) Conc. (mg?kg
+21) Rt (min) Conc. (mg?kg
+21) Rt (min) Conc. (mg?kg
+21)
+Gallic acid - - - - 9.316 2.586
+Protocatechuic acid 12.132 0.171 12.325 0.804 12.239 4.825
+4-Hydroxybenzoic acid 18.412 3.653 18.447 11.757 18.236 12.209
+Vanillic acid 22.211 0.622 20.534 1.019 20.426 5.279
+Salicylic acid 24.011 0.628 24.194 7.036 23.897 8.829
+Ferulic acid 28.226 2.946 28.412 3.624 28.131 8.641
+Benzoic acid 42.865 1.880 42.813 3.026 44.001 3.315
+doi:10.1371/journal.pone.0028806.t005
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 6 January 2012 | Volume 7 | Issue 1 | e28806harmful to the mature trees, yet they retard the growth of young
+trees in the same field [22]. It has been reported that the presence
+of fungal pathogens in soils contributes to the ‘‘replanting disease’’
+of Rehmannia [23,24]. However, this study provides evidence that
+the autotoxicity is another major cause of the disease [4].
+Identification of the autotoxic compounds in this study might be
+helpful to further understand the problems associated with
+consecutive monoculture of Rehmannia, and it was also conducive
+to make the solution to effectively control the ‘‘replanting disease’’
+for Rehmannia in consecutively cropping sequence.
+Supporting Information
+Figure S1 The field study picture.
+(DOC)
+Author Contributions
+Conceived and designed the experiments: Z-FL W-XL. Performed the
+experiments: Z-FL Y-QY D-FX L-FZ Z-GZ. Analyzed the data: Z-FL Y-
+QY D-FX L-FZ Z-GZ W-XL. Contributed reagents/materials/analysis
+tools: W-XL. Wrote the paper: Z-FL.
+References
+1. Cui YY, Hahn EJ, Kozai T, Paek KY (2000) Number of air exchanges, sucrose
+concentration, photosynthetic photon flux, and differences in photoperiod and
+dark period temperatures affect growth of Rehmannia glutinosa plantlets in
+vitro. Plant Cell Tiss Org 62: 219–226.
+2. Zhao HJ, Tan JF, Qi CM (2007) Photosynthesis of Rehmannia glutinosa subjected
+to drought stress is enhanced by choline chloride through alleviating lipid
+peroxidation and increasing proline accumulation. Plant Growth Regul 51:
+255–262.
+3. Zhang Z, Lei CY, Zhang LF, Yang XX, Chen R, et al. (2008) The complete
+nucleotide sequence of a novel Tobamovirus, Rehmannia mosaic virus. Arch Virol
+153: 595–599.
+4. Zhao YJ, Wang YP, Shao D, Yang JS, Liu DS (2005) Autotoxicity of Panax
+quinquefolium L. Allelopathy J 15: 67–74.
+5. Hao ZP, Wang Q, Christie P, Li XL (2007) Allelopathic potential of watermelon
+tissues and root exudates. Sci Hortic-Amsterdam 112: 315–320.
+6. Chou CH, Lin HJ (1976) Autointoxication mechanisms of Oryza sativa. J Chem
+Ecol 2: 353–367.
+7. Wu HW, Pratley J, Lemerle D, An M, Liu DL (2007) Autotoxicity of wheat
+(Triticum aestivum L.) as determined by laboratory bioassays. Plant Soil l296:
+85–93.
+8. Yu JQ, Shou SY, Qian YR, Zhu ZJ, Hu WH (2000) Autotoxic potential of
+cucurbit crops. Plant Soil 223: 147–151.
+9. Chon SU, Boo HO (2005) Difference in allelopathic potential as influenced by
+root periderm colour of sweet potato (Ipomoea batatas). J Agron Crop Sci 191:
+75–80.
+10. Manici LM, Ciavatta C, Kelderer M, Erschbaumer G (2003) Replant problems
+in South Tyrol: role of fungal pathogens and microbial population in
+conventional and organic apple orchards. Plant Soil 256: 315–324.
+11. Wilson S, Andrews P, Nair TS (2004) Non-fumigant management of apple
+replant disease. Sci Hortic-amsterdam 102: 221–231.
+Figure 3. HPLC chromatograms of two-year consecutively monocultured soil (a), one-year cultivated soil (b). Compounds detected
+from samples in order of appearance in eluant: gallic acid (1), protocatechuic acid (2), 4-hydroxybenzoic acid (3), vanillic acid (4), salicylic acid (5),
+ferulic acid (6), and benzoic acid (7).
+doi:10.1371/journal.pone.0028806.g003
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 7 January 2012 | Volume 7 | Issue 1 | e2880612. Chon SU, Nelson CJ, Coutts JH (2004) Osmotic and Autotoxic Effects of Leaf
+Extracts on Germination and Seedling Growth of Alfalfa. Agron J 96:
+1673–1679.
+13. Canals RM, Emeterio LS, Peralta J (2005) Autotoxicity in Lolium rigidum:
+analyzing the role of chemically mediated interactions in annual plant
+populations. J Theor Biol 235: 402–407.
+14. Bogatek R, Gniazdowska A, Zakrzewska W, Oracz K, Gawronski SW (2006)
+Allelopathic effects of sunflower extracts on mustard seed germination and
+seedling growth. Biol Plantarum 50: 156–158.
+15. Gao WW, Zhao YJ, Wang YP, Chen SL (2006) A review of research on
+sustainable use of medicinal plants cropland in China (in Chinese). China
+Journal of Chinese Materia Medica 31: 1665–1668.
+16. Du JF, Yin WJ, Zhang ZY, Hou J, Huang J, et al. (2009) Autotoxicity and
+Phenolic Acids Content in Soils with Different Planting Interval Years of
+Rehmannia glutinosa (in Chinese). Chinese Journal of Ecology 48: 445–450.
+17. Liu HY, Wang F, Wang YP, Lu CT (2006) The Causes and Control of
+Continuous Cropping Barrier in Dihuang (in Chinese). Journal of North China
+Agriculture 21: 131–132.
+18. Lin WX, Kim KU, Shin DH (2000) Allelopathic potential in rice (Oryza sativa L.)
+and its modes of action on Barnyardgrass (Echinochloa crusgalli L.). Allelopathy J
+7: 215–224.
+19. Kalinova J, Vrchotova N, Triska J (2007) Exudation of allelopathic substances in
+buckwheat (Fagopyrum esculentum Moench). J Agr Food Chem 55: 6453–6459.
+20. Einhellig FA (1996) Interactions involving allelopathy in cropping systems.
+Agron J 88: 886–893.
+21. Kong C, Hu F, Xu T, Lu Y (1999) Allelopathic potential and chemical
+constituents of volatile oil from ageratum conyzoides. J Chem Ecol 25:
+2347–2356.
+22. Weller DM, Raaijmakers JM, Gardener BM, Thomashow LS (2002) Microbial
+populations responsible for specific soil suppressiveness to plant pathogens. Annu
+Rev Phytopathol 40: 309–348.
+23. Xie HE, Wang JJ, Xie XH, Li JH, Chen L, et al. (2007) Identification and
+Morbidityu Test of Pathogenic Fungi in the Soil Samples Planted Rehmnnia
+gintinosa. Journal of Shanxi Agriculture Science 35: 59–63.
+24. Li J, Wang M, Lin ZP, Yuan QJ, Yu RM, et al. (2010) Isolation and
+identification of endophytic fungi from different swollenroot of Rehmannia
+glutinosa. China Journal of Chinese Materia Medica 35: 1679–1683.
+Identification of Autotoxic Compounds of Rehmannia
+PLoS ONE | www.plosone.org 8 January 2012 | Volume 7 | Issue 1 | e28806

@@ -1,0 +1,659 @@
+Research Article
+Alkaloids in Processed Rhizoma Corydalis and Crude Rhizoma
+Corydalis Analyzed by GC/MS
+Zhifeng Guo, Ru Cai, Huidan Su, and Yunlong Li
+Key Laboratory of Medical Chemistry and Molecular Diagnosis, College of Chemistry and Environmental Science, Hebei University,
+Baoding 071002, China
+Correspondence should be addressed to Zhifeng Guo; gzfvg@hbu.edu.cn
+Received 3 June 2014; Accepted 2 August 2014; Published 25 August 2014
+Academic Editor: Sibel A. Ozkan
+Copyright © 2014 Zhifeng Guo et al. This is an open access article distributed under the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.
+The alkaloids in the processed Rhizoma Corydalis and the crude Rhizoma Corydalis were qualitatively and semiquantitatively
+analyzed using gas chromatography-mass spectrometry (GC/MS) method. The processing herb drug procedure was carried out
+according to the standard method of Chinese Pharmacopoeia. The samples were extracted using Soxhlet extractor with different
+solvents: methanol and acetone. The extraction effect on different solvents was investigated. The results showed that 11 kinds of
+alkaloids were identified from the crude Rhizoma Corydalis and only two were from the processed Rhizoma Corydalis. A total
+of 13 kinds of alkaloids were all based on two backbones. The alkaloids in the processed sample were less than those in the crude
+Rhizoma Corydalis significantly, while almost the corydaline has been changed in conformation after the sample had undergone
+processing, which provided support for the conclusion of reducing toxicity when the herbal medicine having been undergone a
+traditional drugs treatment process.
+1. Introduction
+Rhizoma Corydalis (RC), belonging to Corydalis species and
+the family of Papaveraceae, is a perennial herbaceous plant
+and grows mostly in Northeastern China. The tubers of RC
+have been employed as analgesic, sedative, and hypnagogue
+for long times [1, 2], which is a well-known traditional
+Chinese herbal medicine,Corydalis yanhusuoW.T.Wang and
+acts againstmyocardial ischemia, gastric ulcer, and tumour in
+themedical field.The bioactive constituents, corydaline, have
+analgesic efficacy but little toxicity [3–6].
+The crude RC were used as samples in all phytochemical
+analysis, but the RC as traditional Chinese medicine often
+underwent processing. There is an old saying in China: “As
+a medicine, it is somewhat toxic,” so the folk pharmacists
+always make the natural herbal medicine a processing hand-
+craft to enhance efficiency and reduce toxicity. It has been
+reported that more than 20 kinds of alkaloids are identified
+in RC [7–9], which have the similar biosynthetic route and
+backbone to berberine [10, 11]. These alkaloids are formed
+from two molecules of tyrosine. The tyrosines bioassemble
+the benzylisoquinolines, while the more immediate, pose the
+berberine basic structure [12]. The characteristics of these
+alkaloids are higher boiling points and lower vapor pres-
+sures. Thin-layer chromatography (TLC), high performance
+liquid chromatography (HPLC) [13–15], high performance
+capillary electrophoresis (HPLE) [16], and supercritical fluid
+chromatography [17] were often employed in the analysis
+of these alkaloids. Liquid chromatography-mass spectrom-
+etry (LC/MS) and multistage spectrometry (MS𝑛) were also
+reported in some literatures [18–20]. However, identified
+alkaloids are uneasy using LC/MS due to no available mass
+spectral database on electrospray ionization (ESI). GC/MS is
+one of the highest sensitivity analysis techniques, whose limit
+of detection can easily reach picogram (10−12) and provide
+available standard mass spectral data library [21–23].
+In this paper, the processed RC was employed as sample
+to investigate whether the alkaloids content and composition
+were changed. The crude RC was processed according to
+the standard method of Chinese Pharmacopoeia compiled
+by Pharmacopoeia Commission of Ministry of the Health
+of China as processed RC sample [24]. The processed RC
+Hindawi Publishing Corporation
+Journal of Analytical Methods in Chemistry
+Volume 2014, Article ID 281342, 6 pages
+http://dx.doi.org/10.1155/2014/281342
+2 Journal of Analytical Methods in Chemistry
+20 25 30 35 40
+40000
+60000
+80000
+100000
+120000
+140000
+S1
+In
+te
+ns
+ity
+Time
+3
+5
+(a)
+20 25 30 35 40
+50000
+100000
+150000
+200000
+250000
+300000
+350000 S2
+In
+te
+ns
+ity
+Time
+24
+6
+7
+10
+11
+12
+13
+(b)
+20 25 30 35 40
+50000
+100000
+150000
+200000
+250000
+In
+te
+ns
+ity
+Time
+S3
+6
+8
+9
+10
+11
+12
+13
+(c)
+Figure 1: Total ion current chromatograms of RC. S1: processed RC sample extracted with methanol, S2: crude RC sample extracted with
+methanol, and S3: crude RC sample extracted with acetone. (a) The total chromatogram and (b) the enlarged chromatogram after 19min.
+The peak number is consistent with Table 1. 4# and 5# (+)-corydaline. Column: HP-5-MS column, injector temperature: 260∘C, GC oven
+temperature program: 40∘C (does not hold), at 40∘C/min to 110∘C (does not hold), at 8∘C/min to 260∘C (holds for 10min).
+samples were extracted in Soxhlet extractor with methanol,
+and the crude RC sample, as control, was extracted with two
+different solvents, methanol and acetone. A comparison of
+the differences and similarities between the processed RC
+and the crude RC on the alkaloids was performed for both
+qualitative and semiquantitative analyses.
+2. Experiment
+2.1. Reagents. The plant materials were provided from Tra-
+ditional Chinese Medicine Institute of Heibei University
+and authenticated by pharmacist Xianmao Liang. A voucher
+specimen has been deposited in our laboratory. The chem-
+icals purchased from a local chemical company (Hua Xin,
+Baoding, China) were of analytical reagent grade and
+includedmethanol (MeOH), acetone (Ac), dichloromethane,
+and sodium hydroxide. Acetic acid and hydrochloric acid
+(12mol/L) were also purchased from the local chemical
+company. The water used in the experiments was doubly
+distilled and prepared in our laboratory.
+2.2. Processing RC and Extraction. The processed RC was
+carried out according to the method described in Chinese
+Pharmacopoeia. Briefly, 10 g of RC was immersed in a
+beaker (50mL) with acetic acid solution (30mL, 36%). The
+solutionwas heated until dryness.Then the processed RCwas
+extracted in Soxhlet extractor with 150mL of MeOH/H
+2
+O
+(4/1; V/V) until the extracting solution was colorless. After
+getting rid of the methanol by water bathing, the residual
+extracting solution (30mL) was added to isopycnic HCl
+Journal of Analytical Methods in Chemistry 3
+R1O
+R2O
+R5
+N
+OR3
+OR4
+(a)
+OR3
+OR4
+N OR1
+OR2
+(b)
+Figure 2: Two foundation formations of alkaloids in Rhizoma Corydalis. (a) Corydaline: R1=R2=R3=R4=CH3. Thalictricavine: R1 + R2 =–
+CH
+2
+–; R3=R4=CH3.
+Table 1: Alkaloids identified from processed RC and RC by mass spectrum.
+Peaks Retention time Compounds Match degree Sample source
+1 20.288 4b,5,10,10a,11,-12-Hexahydro-3-hydroxy-2,8,9-tri(methoxy)Isoquino [2.1-b] isoquinoline 90 B
+2 25.771 N-Methyllaurotetanine 81 B
+3 26.158 Glaucine 78
+4 26.420 (+)-Corydaline 178 355 369 — B,C
+5 26.485 (+)-Corydaline 178 369 — A
+6 26.668
+(13S.13aR)-2,3-Dioxhydryl-9,13-methyl-10-ethyl-6,8.13,13a-
+tetrahydro-5H-isoquinolino[2,1-b]isoquinoline
+R
+1
+=R
+2
+=H, R
+3
+=CH3, R4=C2H5, R5=CH3 192, 355
+— B
+7 26.936
+(13S.13aR)-2,3-(Methylenedioxy)-9,10-dimethoxy-13-methyl-
+6,8.13,13a-tetrahydro-5H-isoquinolino[2,1-b]isoquinoline
+R
+1
++ R
+2
+=–CH2–, R3=R4=R5=CH3 178 355
+— B
+8 27.076 (+)-Canadine C20H21O4N 76 C
+9 27.425 Protopine 90 C
+10 27.468
+6H-Dibenzo[a,g]quinolizine,
+5,8,13,13a-tetrahydro-2,3,10,11-tetramethoxy
+R
+1
+=R
+2
+=R
+3
+=R
+4
+=CH3, R5=H 164, 192 355
+84 B,C
+11 27.741
+6H-Dibenzo[a,g]quinolizine, 5,8,13,13a-tetrahydro-2,3,9,10-
+tetramethoxy
+R
+1
+=R
+2
+=R
+3
+=R
+4
+=CH3, R5=H 164, 192 355
+83 B,C
+12 28.257 Isoquino [2.1-b] isoquinoline, 4b,5,10,10a,11,12-hexahydro-2-hydroxy-3,8,9-trismethoxy-C20H23O4N 341
+92 B,C
+13 29.041 Isocorydine C20H23O4N 341 64 B
+“—”: identified by artificial analysis.
+Sample source:A the processed Rhizoma Corydalis sample extracted with methanol, B the crude Rhizoma Corydalis sample extracted with methanol, and
+C the crude Rhizoma Corydalis sample extracted with acetone.
+solution (12mol/L). The mixture (60mL) was refluxed for
+1 h and extracted with dichloromethane (20mL × 3) in a
+separatory funnel to be degreased after cooling to room
+temperature. The degreased solution (60mL) was filtered
+after adjusting the pH to 8 with NaOH. The filtrate (60mL)
+was extractedwith dichloromethane (20mL× 3).The organic
+phase was collected in a conical flask. 10mL of the organic
+phase was transferred to a tube (10mL) and evaporated to
+dryness under a N
+2
+stream. The residue was dissolved with
+1.0mL of acetone, marked S1, and then stored in −20∘C for
+further GC/MS analysis.
+The extractions of the crude RC with methanol and
+acetonewere the same as described above except that the drug
+had not undergone processing. The methanol and acetone
+extracts of RCweremarked S2 and S3, respectively, and stored
+in −20∘C for further GC/MS analysis.
+4 Journal of Analytical Methods in Chemistry
+Table 2: The relative contents of alkaloids in the crude RC samples
+S2 and S3.
+Alkaloids and
+retention time
+Relative contents
+(S2, %)
+Relative contents
+(S3, %)
+1# (20.288) 1.36 0.61
+2# (25.771) 6.21 4.31
+4# (26.420) 7.61 13.15
+6# (26.668) 12.64 16.05
+7# (26.936) 5.63 5.03
+8# (27.076) — 3.82
+10# (27.468) 30.16 26.18
+11# (27.741) 7.83 10.38
+12# (28.257) 22.12 16.36
+13# (29.041) 6.43 4.10
+The numbers of alkaloids (𝑋#) were consistent with those in Table 1.
+2.3. GC/MS Analysis. GC/MS was performed on an Agilent
+7890A GC Plus equipped with an 5975C mass/selective
+detector (Agilent Technologies). A fuse silica capillary col-
+umn, HP-5-MS, with 5%-phenyl methylpolysiloxane as no-
+polar stationary phase (30m × 0.25mm i.d. × 0.25mm film
+thickness, Agilent Technologies) was utilized for analysis of
+alkaloids obtained from the processed RC and the crude
+RC. The injection port temperature was 260∘C. The column
+temperature programme started at 40∘C upon injection. The
+temperature was increased at a rate of 40∘C/min to 110∘C and
+then at a rate of 8∘C/min to 260∘C and held there for 10min.
+Purified helium gas at a flow rate of 1mL/min was used as the
+GC carrier gas in constant flow fashion. Each sample (1𝜇L)
+was injected into the column using a 60 : 1 split injection
+and solvent delay time was 3min. The mass spectrometer
+was operated in the electron impact (EI) mode with an
+electron energy of 70 eV; ion source temperature, 230∘C;
+quadrupole temperature, 150∘C; mass range, m/z 38–550;
+scan rate, 0.25 s/scan; EM voltage, 1423V; and the GC/MS
+transfer line was set to 280∘C.
+3. Results and Discussion
+3.1. Chromatographic Separation. The processed RC sample
+was claybank via extraction in Soxhlet extractor and the
+crude RC samples were faint yellow. An important feature
+is the cleanup of samples prior to GC/MS analysis because
+the presence of matrix interference leads to ion suppression
+or enhancement in many cases [25, 26]. After degreasing,
+alkaloids were enriched and most micromolecules were
+wiped off.
+Figure 1 was the chromatograms of three samples after
+19min. The chromatographic distillate components before
+19min (not shown in Figure 1) are the constituents with low
+boiling point like alkane, ester, alcohol, ketone, and fatty
+acid, which are the residual in the degreased process. The
+alkaloids, however, with higher boiling points and lower
+vapor pressures were eluted after 19min. As Figure 1 showed,
+the components of S1 eluted after 19min are less than those of
+S2 and S3 obviously.
+More than ten peaks were eluted after 19min from the
+crude samples S2 and S3. The retention times of the peaks
+were the same but the heights of peaks were not equal due
+to the different concentration between S2 and S3, whereas
+there were only a few peaks eluted from S1. The processed
+sample S1 had obvious differences to the crude samples S2 and
+S3, which indicated that the constituents with high boiling
+point eluted after 19min were related more to the processing
+of the sample rather than to the extraction solvent, which led
+to content changes and chemical rearrangements of alkaloid
+components.
+3.2. Identification of Alkaloids. The identifications of the
+alkaloid components were based on computer matching of
+their mass spectral fragmentation patterns with those stored
+in the spectrometer database using the National Institute of
+Standards and Technology Mass Spectral Database (NIST-
+MS, 2008) and artificial interpreting of their fragmentation
+patterns. Table 1 showed that a total of 13 kinds of alkaloids
+including corydaline, glaucine, canadine, and protopine were
+identified from the crude and processed RC samples. They
+have two backbone structures to constitute two series of
+alkaloids (Figure 2). Among them, there were two chro-
+matographic peaks (retention times 20.288 and 28.257) with
+extremely similar mass spectral fragmentation, hence with
+the same searching result.The latter peak (28.257)with higher
+match degree was identified as the search result Isoquino
+[2.1-b] isoquinoline, 4b,5,10,10a,11,12-hexahydro-2-hydroxy-
+3,8,9-trismethoxy-, and the former peak was identified as
+isomer of the latter.
+There was no matching with corydaline in Mass Spec-
+tral Database (NIST-MS, 2008). The mass spectral data of
+corydaline were mostly carried out using ESI model due to
+the poor volatilization of corydaline. With rare fragment ion,
+the ESI mass spectrum was not equipped with mass spectral
+database. Hence, ESI mass spectral data was not identified
+through mass spectral library search. Fortunately, Rueffer
+et al. [12] had performed the study to probe into a biosynthesis
+path of these alkaloids using C13 markers, in which themass
+spectrum ofthalictricavine, very similar to corydaline, was
+provided using EI model (Figure 3(a)). It indicated that the
+based fragment ion was m/z 178 (base peak) which was
+cleaved from piperidine (Figure 3(b)). Figure 4 was the mass
+spectrum (EI) of chromatographic peak P
+4
+(26.426) and P
+5
+(26.485). As Figure 4 showed that the base peak of mass
+spectrum for both P
+4
+and P
+5
+is m/z 178 and the second base
+peaks are different, P
+4
+is m/z 355, not the molecule ion, and
+P
+5
+is m/z 369, the molecule ion. The compound of P4 was
+identified as corydaline according to the research by Rueffer
+et al. [12]. And the P
+5
+was identified as conformational isomer
+of corydaline. This outcome was backed not only by mass
+spectral data but also by the retention time. The difference of
+retention time between two peaks was about 3.6 s. It indicated
+that conformational change happened with corydaline when
+theRCwas processed.A simple acid bath ofRCwas capable of
+the conformation conversion of corydaline, which illustrated
+that the threshold battery of conformation conversion for
+Journal of Analytical Methods in Chemistry 5
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+200 250 300 350 400
+178
+353
+OCH3
+OCH3
+CH3
+(a)
+N
+H3CO
+H3CO
+H3C
+OCH3
+OCH3
+OCH3
+OCH3
+m/z 178
+(b)
+Figure 3: The mass spectrum (EI) of thalictricavine and fragmentation pathway of (+)-corydaline. (a) The mass spectrum of thalictricavine
+was performed by Rueffer et al.
+0
+5000
+10000
+15000
+20000
+50 100 150 200 250 300 350 400 450
+355.2
+178.1
+m/z
+(a)
+50 100 150 200 250 300 350 400 450
+0
+2000
+4000
+6000
+8000
+10000
+12000
+369.2
+355.1
+178.1
+m/z
+(b)
+Figure 4: Mass spectrum (EI) of peak of P
+4
+(a) and P
+5
+(b).
+corydaline was low; and the traditional processing herbal
+medicine procedure was efficient in reducing their toxicity.
+3.3. Effect of Different Solvents on Extraction of Alkaloid.
+Although GC/MS total ion chromatograms (after 19min) of
+crude CR samples S2 and S3 were similar to each other, the
+relative content of component was different. Table 2 was the
+relative contents of alkaloids in the crude RC samples S2
+and S3. The contents of eluted alkaloids in S2 were higher
+than those in S3 except 4, 6, and 11# peaks. It suggested
+that extraction solvent was dependent on the target alkaloids.
+The most relative content component in S2 and S3 was
+10# peak, which was not fully separated and contained two
+components. It indicated that the chromatographic behavior
+of these components was very similar. The different oven
+programs were performed to improve their separation, but
+the outcome was not as expected.
+4. Conclusion
+The crude RC and processed RC were qualitatively and
+semiquantitatively analyzed using gas chromatography-mass
+spectrometry (GC/MS) method. The totals of 13 kinds of
+alkaloids were identified, in which 11 kinds of alkaloids
+were from the crude RC sample and two were from the
+processed RC sample. The 13 kinds of alkaloids are all from
+two backbone structures forming two series of alkaloids. The
+extraction of alkaloids was related a little to the solvent used.
+Most of the alkaloids in crude RC were not detected and
+the corydaline had been changed in conformation after the
+RC had undergone processing, which provided support for
+6 Journal of Analytical Methods in Chemistry
+the conclusion of reducing toxicity in the traditional drugs
+treatment process.
+Conflict of Interests
+The authors declare that there is no conflict of interests
+regarding the publication of this paper.
+References
+[1] Sate Administration of Traditional Chinese Medicine of the
+People’s Republic of China, Dictionary of Traditional Chinese
+Medicine, Shanghai Science and Technology Press, Shanghai,
+China, 2002.
+[2] L. R. Song, Dictionary of Modern Medicine, People’s Medical
+Publishing House, 2001.
+[3] Q. Min, Y. T. Bai, and S. J. Shu, “Protective effect of dl-
+tetrahydropalmatine on liver injury induced by carbon tetra-
+chloride inmice,”China Journal of ChineseMateriaMedica, vol.
+31, no. 6, pp. 483–484, 2006.
+[4] M.-T. Lin, F.-Y. Chueh, and M.-T. Hsich, “The hypothermic
+effects of dl-tetrahydropalmatine in rats,” Neuroscience Letters,
+vol. 315, no. 1-2, pp. 53–56, 2001.
+[5] C.-L. Hsieh, E.-T. Liao, S.-Y. Chiang, C.-J. Lao, N.-Y. Tang, and
+J.-T. Lin, “Effect of Rhizoma Corydalis on focal cerebral infarct
+in ischemia-reperfusion injured rats,” Acta Pharmacologica
+Sinica, vol. 22, no. 12, pp. 1143–1148, 2001.
+[6] L. He and G. Q. Liu, “Interaction of multidrug resistance
+reversal agents with P-glycoprotein ATPase activity on blood-
+brain barrier,” Acta Pharmacologica Sinica, vol. 23, no. 5, pp.
+423–429, 2002.
+[7] J. F. Wang, L. S. Liang, Q. Y. Zhang, X. G. Li, and Z. J. Fu,
+“Preclinical pharmacokinetics, tissue distribution and excretion
+studies of a potential analgesics—corydaline using an ultra
+performance liquid chromatography—tandemmass spectrom-
+etry,” Journal of Chromatography B, vol. 942-943, pp. 70–76,
+2013.
+[8] S. Naruto and H. Kaneko, “Alkaloids from Corydalis ambigua,”
+Phytochemistry, vol. 12, no. 12, pp. 3008–3009, 1973.
+[9] B. Ding, T. T. Zhou, G. R. Fan, and Z. Y. Hong, “Qualitative
+and quantitative determination of ten alkaloids in traditional
+Chinese medicine Corydalis yanhusuo W.T. Wang by LC–
+MS/MS and LC–DAD,” Journal of Pharmaceutical and Biomed-
+ical Analysis, vol. 45, no. 2, pp. 219–221, 2007.
+[10] S. Sturm, C. Seger, M. Godejohann, M. Spraul, and H. Stup-
+pner, “Conventional sample enrichment strategies combined
+with high-performance liquid chromatography-solid phase
+extraction-nuclear magnetic resonance analysis allows analyte
+identification from a single minuscule Corydalis solida plant
+tuber,” Journal of Chromatography A, vol. 1163, no. 1-2, pp. 138–
+144, 2007.
+[11] L. Grycova´a, J. Dosta´lc, and R. Marek, “Quaternary protober-
+berine alkaloids,” Phytochemistry, vol. 68, no. 2, pp. 150–175,
+2007.
+[12] M. Rueffer, W. Bauer, and M. H. Zenk, “The formation of
+corydaline and related alkaloids in Corydalis cava in vivo and in
+vitro,” Canadian Journal of Chemistry, vol. 72, no. 1, pp. 170–175,
+1994.
+[13] G. J. van Berkel, B. A. Tomkins, and V. Kertesz, “Thin-
+layer chromatography/desorption electrospray ionization mass
+spectrometry: investigation of goldenseal alkaloids,” Analytical
+Chemistry, vol. 79, no. 7, pp. 2778–2789, 2007.
+[14] Y. F. Yuan, X. L. Li, Z. L. Liu, L. F. Shi, L. Li, andY.H. Li, “Analysis
+of dl-tetrahydropalmatine in corydalis yanhusuoW. T.Wang by
+supercritical fluid extraction and HPLC,” Acta Pharmaceutica
+Sinica, vol. 31, no. 4, p. 282, 1996.
+[15] Y. Tao, H. Y. Xu, S. S. Wang et al., “Identification of the
+absorbed constituents after oral administration of Yuanhu
+Zhitong prescription extract and its pharmacokinetic study by
+rapid resolution liquid chromatography/quadrupole time-of-
+flight,” Journal of Chromatography B, vol. 935, pp. 1–9, 2013.
+[16] S. Sturm, C. Seger, and H. Stupper, “Analysis of Cen-
+tral European Corydalis species by nonaqueous capillary
+electrophoresis–electrospray ion trap mass spectrometry,” Jour-
+nal of Chromatography A, vol. 1159, no. 1, pp. 42–44, 2007.
+[17] L. T. Taylor, “Supercritical fluid chromatography,” Analytical
+Chemistry, vol. 80, no. 12, pp. 4285–4294, 2008.
+[18] C. Guo, Y. Jiang, L. Li et al., “Application of a liquid
+chromatography-tandem mass spectrometry method to the
+pharmacokinetics, tissue distribution and excretion studies of
+Dactylicapnos scandens in rats,” Journal of Pharmaceutical and
+Biomedical Analysis, vol. 74, pp. 92–100, 2013.
+[19] Y. C. Zhang, H. Y. Xu, X. M. Chen et al., “Simultaneous
+quantification of 17 constituents from Yuanhu Zhitong tablet
+using rapid resolution liquid chromatography coupled with
+a triple quadrupole electrospray tandem mass spectrometry,”
+Journal of Pharmaceutical and Biomedical Analysis, vol. 56, no.
+3, pp. 497–504, 2011.
+[20] J. Zhang, Y. Jin, J. Dong et al., “Systematic screening and
+characterization of tertiary and quaternary alkaloids from
+corydalis yanhusuo W.T. Wang using ultra-performance liquid
+chromatography-quadrupole-time-of-flight mass spectrome-
+try,” Talanta, vol. 78, no. 2, pp. 513–522, 2009.
+[21] J. G. Lisko, S. B. Stanfill, B. W. Duncan, and C. H. Watson,
+“Application of GC-MS/MS for the analysis of tobacco alkaloids
+in cigarette filler and various tobacco species,”Analytical Chem-
+istry, vol. 85, no. 6, pp. 3380–3384, 2013.
+[22] S. Tian, X. Mao, S. Miao, Z. Jia, K. Wang, and S. Ji, “Determi-
+nation of seven toxaphene congeners in ginseng and milkvetch
+root by gas chromatography-tandem mass spectrometry,” Chi-
+nese Journal of Chromatography, vol. 30, no. 1, pp. 14–20, 2012.
+[23] G. Boschin, P. Annicchiarico, D. Resta, A. D'Agostina, and A.
+Arnoldi, “Quinolizidine alkaloids in seeds of lupin genotypes
+of different origins,” Journal of Agricultural and Food Chemistry,
+vol. 56, no. 10, pp. 3657–3663, 2008.
+[24] Pharmacopoeia Commission of Ministry of health of the Peo-
+ple’s Republic of China, Chinese Pharmacopoeia, Appendix15,
+People’s Medical Publishing House, 1995.
+[25] B. K. Matuszewski, M. L. Constanzer, and C. M. Chavez-Eng,
+“Strategies for the assessment of matrix effect in quantitative
+bioanalytical methods based on HPLC-MS/MS,” Analytical
+Chemistry, vol. 75, no. 13, pp. 3019–3030, 2003.
+[26] F. Gosetti, E. Mazzucco, D. Zampieri, and M. C. Gennaro,
+“Signal suppression/enhancement in high-performance liquid
+chromatography tandem mass spectrometry,” Journal of Chro-
+matography A, vol. 1217, no. 25, pp. 3929–3937, 2010.
+Submit your manuscripts at
+http://www.hindawi.com
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Inorganic Chemistry
+International Journal of
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+ International Journal ofPhotoenergy
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Carbohydrate 
+Chemistry
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Journal of
+Chemistry
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Advances in
+Physical Chemistry
+Hindawi Publishing Corporation
+http://www.hindawi.com
+ Analytical Methods 
+in Chemistry
+Journal of
+Volume 2014
+Bioinorganic Chemistry 
+and Applications
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Spectroscopy
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+The Scientific 
+World Journal
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+Medicinal Chemistry
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+ Chromatography  
+Research International
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Applied Chemistry
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Theoretical Chemistry
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Journal of
+Spectroscopy
+Analytical Chemistry
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Quantum Chemistry
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+ Organic Chemistry 
+International
+Electrochemistry
+International Journal of
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Catalysts
+Journal of

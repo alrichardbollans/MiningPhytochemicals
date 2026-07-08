@@ -1,0 +1,1153 @@
+Capsicum ethanol extracts and capsaicin
+enhance interleukin-2 and interferon-gamma
+production in cultured murine Peyer's patch
+cells ex vivo
+著者 Takano Fumihide, Yamaguchi Masaya, Takada
+Satoko, Shoda Satoko, Yahagi Nobuo, Takahashi
+Tomoya, Ohta Tomihisa
+journal or
+publication title
+Life Sciences
+volume 80
+number 17
+page range 1553-1563
+year 2007-04-03
+URL http://hdl.handle.net/2297/3890
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+1 
+ 
+Capsicum ethanol extracts and capsaicin enhance interleukin-2 and 
+interferon-gamma production in cultured murine Peyer’s patch cells ex vivo 
+ 
+Fumihide Takano, Masaya Yamaguchi, Satoko Takada, Satoko Shoda, Nobuo Yahagi, Tomoya 
+Takahashi, Tomihisa Ohta 
+ 
+Department of Pharmacognosy and Chemistry of Natural Products, Faculty of Pharmaceutical 
+Sciences, Kanazawa University, Kakuma -machi, Kanazawa 920-1192, Japan 
+ 
+ 
+ 
+ 
+ 
+ 
+Corresponding author: Fumihide TAKANO, Ph.D., Research Associate 
+Tel: +81-76-234-4470; fax: +81-76-264-6241 
+E-mail: takano@p.kanazawa-u.ac.jp  
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+2 
+Abstract 
+We investigated the effects of red pepper (Capsicum annuum Lin.) extracts (capsicum extract) 
+and its main pungent capsaicin on T helper 1 (Th1) and 2 (Th2) cytokine production in cultured 
+murine Peyer’s patch (PP) cells in vitro and ex vivo. Direct administration of capsicum extract (1 and 
+10 mg/ml) and capsaicin (3 and 30 mM) resulted in suppression of interleukin (IL)-2, interferon 
+(IFN)-g, IL-4 and IL-5 production. In an ex vivo experiment using PP cells removed from the mice 
+after oral administration of capsicum extract (10 mg/kg/day for 4 consecutive days), IL-2, IFN-g and 
+IL-5 increased in response to concanavalin A (Con A). Oral administration of 3 mg/kg/day capsaicin, 
+one active constituent of the extract, also enhanced IL-2, INF-g and IL-4 production in response to 
+Con A stimulation but did not influence the production of IL-5. Orally administered capsazepine (3 
+mg/kg/day) , a selective transient receptor potential vanilloid 1 (TRPV1) antagonist, slightly enhanced 
+IL-2 production also irrespective of Con A stimulation. The capsaicin-induced enhancement of both 
+IL-2 and IFN-g production was not reduced by oral administration of capsazepine (3 mg/kg/day), 
+suggesting a TRPV1 receptor-independent mechanism. Flow cytometric analysis revealed that the 
+population of CD3+ cells in the PP cells was significantly reduced while CD19+ cells increased after 
+oral administration of capsicum extract (1 and 10 mg/kg/day) and capsaicin (0.3 and 3 mg/kg/day). 
+Capsazepine (3 mg/kg/day) weakly but significantly reversed these effects. Orally administered 
+capsicum extract and capsaicin did not change the T cell subset (CD4+ and CD8+), Th1 (IFN-g+) and 
+T2 (IL-4+) ratio. These findings indicate that capsicum extract and capsaicin modulate T cell-immune 
+responses, and their immunomodulatory effects on murine PP cells are partly due to both 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+3 
+TRPV1-dependent and -independent pathway. 
+ 
+Keywords: Capsicum; capsaicin; Peyer’s patch; Th1/Th2; cytokines; TRPV1 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+4 
+Introduction 
+The inner surface of the intestinal tract possesses a large area of mucosal membranes, which are 
+continuously exposed to various substances in the intestinal lumen (Mowat et al., 2003). 
+Gut-associated lymphoid tissues exist on the intestinal mucosal site and play an important role in the  
+immune system. Peyer’s patches (PP) are considered to be lymphoid tissues where mucosal immune 
+responses such as local IgA production and systemic immunological responses are induced (Mowat et 
+al., 2003). Antigen presentation in PP is important in determining systemic immune responses 
+including T and B cell-dependent immunity (Mowat et al., 2003; Yoshida et al., 2002). Orally 
+administrated hot water extract of cultured mycelia of Cordyceps sinensis (Berk.) Sacc was 
+previously shown to increase interleukin (IL)-6 and granulocyte-colony stimulating factor (GM-CSF) 
+production by PP cells in mice (Koh et al., 2002). Juzen-taiho-to, a Kampo prescription, was also 
+shown to enhance production of these cytokines in PP cells from C3H/HeJ mice (Hong et al., 1998). 
+Moreover, we recently reported that culture filtrate of the medicinal entomogenous fungi 
+Paecilomyces tenuipes (Peck) Samson (= Isaria japonica  Yasuda or Isaria tenuipes) selectively 
+enhanced T helper 1 cytokine production in cultured murine PP cells from C57BL/6J mice (Takano et 
+al., 2005), and suggested that oral administration of the culture filtrate might increase immune 
+responses (Takano et al., 1996), in part due to enhancement of these cytokines. Therefore, to elucidate 
+the mechanisms of oral immune responses, examination of the cytokine modulating activities in 
+cultured PP cells will be beneficial. 
+Capsicum annuum (Solanaceae) is used worldwide not only as a food, due to its pungency, but 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+5 
+also in traditional medicine against gastric ulcers, rheumatism, alopecia and toothache (Szallasi and 
+Blumberg, 1999). Capsaicin is the most well-known and pungent active ingredient of Capsicum. 
+Large numbers of studies have established that capsaicin shows various pharmacological effects and 
+is endowed with a pleiotropic pattern of biological activities, some of which are mediated by the 
+activation of cellular targets different from vanilloid receptor 1 (Szallasi and Blumberg, 1999). 
+Capsaicin has also been shown to have immunomodulatory effects, as indicated by its ability to 
+modulate lymphocyte proliferation and immunoglobulin A, E and G production (Nilsson et al., 1991, 
+Eglezos et al., 1990), regulate the expression of substance P and its receptor in monocytes (Ho et al., 
+1997), and inhibit cytosolic Ca2+ mobilization induced by platelet activating factor in the monocyte 
+cell lines HL-60 (Choi et al., 2000). However, the systemic T-cell-dependent immune response after 
+oral administration of capsaicin remains to be clarified.  
+In this study, we therefore examine the effects of ethanolic extracts of C. annum, capsaicin and a 
+vanilloid receptor-specific antagonist, capsazepine, on the production of T-helper cytokines in 
+cultured PP cells in vitro and ex vivo. 
+ 
+Materials and Methods  
+Animals 
+Male C57BL/6J mice, 6 to 10 weeks of age, were purchased from Japan SLC (Shizuoka, 
+Japan). Mice were housed in groups of five in plastic cages with a 12 h light: 12 h dark cycle and free 
+access to water and food ad libitum. Adaptation to these conditions for at least 1 week was allowed 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+6 
+before commencing the experiment. The experimental procedures complied with the guidelines of the 
+Council for Experimental Animals, the Faculty of Pharmaceutical Sciences, Kanazawa University, 
+Japan. Mice were sacrificed by anesthetization with an overdose of ether. 
+ 
+Materials 
+RPMI-1640 medium, phosphate -buffered saline (PBS), fetal bovine serum (FBS), penicillin and 
+streptomycin were obtained from Invitrogen Corp. (Carlsbad, CA USA). Concanavalin A (Con A) 
+(type IV), type I collagenase, capsaicin and capsazepine were obtained from Sigma Chem. Co. (St. 
+Louis, MO). All other reagents were purchased from Wako Pure Chemical Co. (Tokyo, Japan). For 
+analysis of the T, B and T cell subset (CD4+ and CD8+) in PP cells, the following monoclonal 
+antibodies (mAb, Beckman Coulter Inc., Hialeah, FL) were used: anti-CD45RA-fluorescein 
+isothiocyanate (FITC) antibodies (RA3-6B2, IgG2a), anti-CD3-FITC antibodies (KT3, IgG2a), 
+anti-CD4-FITC antibodies (YTS191.1, IgG2b), anti-CD8-phycoerythin (PE) antibodies (KT15, 
+IgG2a), anti-IFN-g-FITC antibodies (XMG1.2, IgG1) and anti-IL-4-FITC antibodies (BVD-24G2, 
+IgG1). The isotype-matched controls used in this experiment were IgG1 conjugated to FITC, IgG2a 
+conjugated to PE, IgG2a conjugated to FITC and IgG2b conjugated to FITC. 
+ 
+Extraction and isolation 
+Capsicum annum L. for medicinal use was purchased from Uchida Wakanyaku Co. Ltd. (Tokyo, 
+Japan). A voucher specimen of this plant (C05205) was deposited in our laboratory at the Faculty of 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+7 
+Pharmaceutical Sciences, Kanazawa University, Japan. 
+The dried fruits (1.0 kg) of C. annum were macerated in 95% ethanol (EtOH) (1 L, 3 times) at 
+room temperature for 24 h. After filtration, the ethanol solution was evaporated under reduced 
+pressure to give ethanol extract (capsicum extract) (26 g). Capsicum extract (10 g) was then subjected 
+to column chromatography on silica gel (500 g). Elution with a mixture of hexane-ethylacetate 
+(AcOEt) and methanol (MeOH) gave 14 fractions: Fr-1 (5% AcOEt, 1200 ml, 698 mg), Fr-2, (25% 
+AcOEt, 300 ml, 675 mg), Fr-3 (25% AcOEt, 300 ml, 120 mg), Fr-4 (25% AcOEt, 300 ml, 46 mg), 
+Fr-5 (25% AcOEt, 300 ml, 54 mg), Fr-6 (35% AcOEt, 1200 ml, 458 mg), Fr-7 (50% AcOEt, 600 ml, 
+78 mg), Fr-8 (50% AcOEt, 600 ml, 210 mg), Fr-9 (65% AcOEt, 1200 ml, 1104 mg), Fr-10 (75% 
+AcOEt, 600 ml, 119 mg), Fr-11 (75% AcOEt, 600 ml, 80 mg), Fr-12 (90% AcOEt, 600 ml, 141 mg), 
+Fr-13 (100% AcOEt, 1200 ml, 2844 mg), and Fr-14 (100% MeOH, 1200 ml, 4319 mg). Fr-2 (10 mg) 
+eluted with 25% AcOEt was determined as being composed mainly of carotenoids and was further 
+subjected to high performance liquid chromatography (HPLC; ODS, acetone-H2O, 90:10) to give the 
+main constituent, b-carotene (3.7 mg, Fig. 1). Fr-9 (10 mg) eluted with 65% AcOEt was determined 
+as being composed mainly of capsaicinoids and was also subjected to HPLC (silica gel, 
+hexane-acetone, 65:35) to give capsaicin (4.1 mg, Fig. 1). The structures of the carotenoids and 
+capsaicinoids were determined by comparing their spectral data with those reported in the literature 
+(Maillard et al., 1997; Mercadante et al., 1999). For ex vivo experiments, capsaicin was purchased 
+from Sigma Chem. Co. (St. Louis, MO). The purity of the capsaicin was checked and further purified 
+by HPLC (acetone-H2O, 90:10) before use. 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+8 
+ 
+Peyer’s patch (PP) cell preparation 
+C57BL/6J mice were sacrificed with an overdose of ether and their small intestines were placed 
+into a petri dish filled with PBS containing penicillin (100 U/ml) and streptomycin (100 mg/ml) on ice 
+(Manhart, 2001). Visible PPs were carefully dissected out from the wall of the small intestines using 
+micro scissors under a microscope (10 Peyer’s patches were obtained from each mouse), and were 
+placed in ice-cold complete RPMI-1640 medium containing 5% FBS, 50 µM 2-mercaptoethanol, 100 
+U/ml penicillin and 100 µg/ml streptomycin. To obtain a single PP cell suspension, the PPs were 
+digested with type 1 collagenase (70 U/ml) dissolved in the same medium and incubated for 60 min at 
+37 oC. After filtration through a 200 mm nylon mesh (Becton Dickinson, Oxnard, CA, USA), the PP 
+cells were washed three times with complete medium. Cell viability was assessed by trypan blue 
+exclusion. Morphological analysis by characteristic non-specific esterase and Giemsa staining 
+revealed that more than 97% of the cells were lymphoids and less than 1% were monocytes. PP cells 
+(3 ´ 106 cells/ml) suspended in complete medium were seeded in a 24-well tissue culture plate 
+(Becton Dickinson) and cultured with or without 5 mg/ml Concanavalin A (Con A).(Takano et al., 
+2004)  
+ 
+Test sample treatment 
+Capsicum extracts, fractions, capsaicin and capsazepine were suspended in medium containing 
+0.3% EtOH solution. For in vitro assay, various concentrations of these test samples  (20 ml/well)  were 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+9 
+added with or without Con A. For ex vivo assay, capsicum extract (1, 3 and 10 mg/kg/day) or 
+fractions (3 mg/kg/day) suspended in 10% EtOH and 50 ml/20g body weight solution was orally 
+injected into mice once a day for four consecutive days. Capsaicin (0.3 and 3 mg/kg/day) or 
+capsazepine (3 mg/kg/day) (Costa et al., 2004) also suspended in 10% EtOH and 50 ml/20g body 
+weight solution was orally injected into mice once a day for four consecutive days. In other case, mice 
+were injected orally with 3 mg/kg/day capsaicin simultaneously with 3 mg/kg/day capsazepine in the 
+same regimen. Control groups received a vehicle (10% EtOH) instead of test samples. In this 
+experiment, capsaicin dosage was estimated by capsaicinoids concentration in the effective doses of 
+both capsicum extract (1 to 2% (w/w) of the extract) (10 mg/kg) and Fr-9 (3 mg/kg) (49 to 51% of the 
+Fr-9) ex vivo. 
+ 
+Cytokine evaluation 
+To measure cytokine production in cultured PP cells, culture supernatants were collected at 72 h 
+and stored at -80 oC until use. The levels of IL-2, IL-4, IL-5 and INF-g in the supernatants were 
+measured by enzyme linked immunosorbent assay (ELISA) using commercial kits (CytoscreenTM, 
+BIOSOURCE, Camarillo, CA, USA) according to the manufacturer’s instructions.  
+ 
+PP cell viability 
+To assess the correlation between PP cell cytotoxicity and suppression of cytokine production by 
+the test samples, PP cells were seeded on a 24-well tissue culture plate (1.5 ´ 106 cells/0.5 ml/well) 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+10 
+and cultured with or without 5 mg/ml Con A for 72 h. The supernatants were then removed and 
+remaining PP cells were added to fresh medium containing MTT solution (50 ml of 5 mg/ml in PBS). 
+The mixture was incubated for 5 h at 37 oC then the reduced formazan was solubilized with 0.5 ml of 
+detergent (10% SDS in 0.05N HCl) for 18 h. Absorbance of the MTT-formazan solution at 590 nm 
+was read using an immunoreader. Cell viability data were recorded as the absorbance ratio 
+(percentage) of the test sample-treated PP cells to non-treated PP cells (Mosmann, 1983). In the ex 
+vivo assay, PP cell viability of treated mice was measured by trypane blue staining (0.4% in PBS). 
+ 
+Flow cytometry 
+PPs (10 /mouse) were collected after 6-days oral injection of extracts, fractions, capsaicin or 
+capsazepine, and dissociated into a single-cell suspension by filtrating through a 200 mm nylon mesh. 
+Erythrocytes in the PP cell suspensions were lysed in 0.75% ammonium chloride buffer (pH 7.6). The 
+resultant cells were counted and resuspended in PBS. Cells (1 ´ 106) were stained with fluorochrome 
+directly conjugated with mAb (Macey, 1999): anti-CD3-FITC, anti-CD45RA-FITC, 
+anti-CD4-FITC/anti-CD8-PE, anti-IFN-g-FITC and anti-IL-4-FITC or isotype-matched controls. 
+After 60 min incubation at 4 °C, the cells were washed and resuspended in PBS containing 1 mg/ml of 
+propidium iodide. The lymphocyte population in the PP cells was analyzed using a flow cytometer 
+(FACScanTM, Becton Dickinson, San Jose, CA, USA) as described below. Gates were set by forward 
+and side scatter to delineate leukocytes and exclude dead cells; death was confirmed by propidium 
+iodide staining (Takano et al., 2004). 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+11 
+ 
+Data analysis for flow cytometry 
+Data were acquired using Cell Quest TM software (Becton Dickinson). Between 10,000 and 
+20,000 events were acquired per sample. All data were representative plots derived from a minimum 
+of three independent experiments in which at least three experimental and three or four control mice 
+were analyzed. Mean FITC- and FTIC-/PE-fluorescence intensities were calculated from 
+fluorescence histograms for the gated population. 
+ 
+Statistical analysis 
+The mean cytokine production and ratio of lymphocyte or T lymphocyte subpopulations were 
+considered as a single data point for analysis of results from at least three or four independent 
+experiments. All data are expressed as the mean ± SE. Statistical significance was determined by 
+Dunnett’s multiple test after one-way analysis of variance (ANOVA) with comparison to a control 
+group, and the differences were considered significant if p<0.05. 
+ 
+Results 
+The murine intestine is a highly regulated immune system producing large amounts of 
+regulatory cytokines, with immune responses dominated by Th2 type cytokines rather than Th1 
+cytokines (Xu-Amano, 1993). IL-2 and IFN-g are the major Th1 cytokines involved in cellular 
+immune activation by professional antigen presenting cells such as dendritic cells and monocytes 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+12 
+(Romagnani, 2004; Sood, 2005).  
+We previously reported IL-2, IL-4, IL-5 and IFN-g production in PP cells upon non-specific 
+T-cell stimulation with Con A (Takano et al., 2004); these cytokines were produced 12 h after Con A 
+(5 mg/ml) challenge, increased over 72 h and slightly decreased at 96 h. No increment of these 
+cytokines was observed when the PP cells were cultured without Con A. Based on these data, the 
+present study examined the effects of capsicum extract and capsaicin on PP cell cytokine production 
+72 h after Con A challenge both in vitro and ex vivo. 
+PP cells isolated from C57BL/6J mice produced a large amount of IL-2, IL-4, IL-5 and IFN-g 72 
+h after Con A stimulation (Figs. 2A, B, C and D). As shown in Fig. 2, capsicum extract and capsaicin 
+strongly inhibited Con A-induced cytokine productions in a concentration-dependent manner. 
+Capsicum extract significantly suppressed four different kinds of T helper cytokines by >90% at a 
+concentration of 10 mg/ml (Fig. 2). Capsaicin, one of the main bitter constituents, completely reduced 
+these cytokines at a concentration of 3 mM (Fig. 2). To examine the PP cell viability, cells were treated 
+with test samples at the same concentrations. A significant cytotoxic effect against the PP cells 
+irrespective of Con A stimulation was observed even at concentrations of 10 mg/ml (for extract) and 3 
+mM (for capsaicin) (Table 1), which significantly suppressed T helper cytokine production (Fig. 2). 
+Since capsicum extract and capsaicin suppressed production of T helper cytokines in the 
+cultured PP cells in vitro, we next examined the ex vivo effect of these samples on cytokine 
+production. Capsicum extract was injected into mice once a day for 4 consecutive days then 2 days 
+after the final injection the PP cells were isolated and cultivated for measurement of the T helper 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+13 
+cytokines. In this experiment, oral injection of capsicum extract and capsaicin showed no toxicity to 
+mice, demonstrated by the fact that the body and liver weights (data not shown) and level of plasma 
+hepatic marker enzyme, alanine aminotransferase (ALT, EC 2.6.1.2), did not change (10 mg/kg/day 
+capsicum extract: 22.1 + 1.0 U/ml, n=7, not significant; 3 mg/kg/day capsaicin: 26 + 2.9 U/ml, n=6, 
+not significant; vehicle only: 18.3 + 1.1 U/ml, n=3). In contrast to the in vitro study (Fig. 2), the 
+production of IL-2 and IFN-g in PP cells from mice injected with capsicum extract was much more 
+than in those of control mice, especially in response to Con A stimulation (Fig. 3). Oral injection of 
+the extract enhanced Th1 cytokines in response to Con A at doses of 1 to 10 mg/kg in a 
+dose-dependent manner (Figs. 3B and D). Next we examined the influence of the extract on IL-4 and 
+IL-5 production in the PP cells ex vivo. IL-4 and IL-5 are signature cytokines produced by Th2 and 
+are able to direct developing Th0 cells to differentiate into Th2 cells ( Xu-Amano, 1993; Romagnani, 
+2004). EtOH extract did not affect IL-4 production in the PP cells in both the presence and absence of 
+Con A stimulation, whereas it moderately but significantly enhanced IL-5 production by 180.9% 
+(p<0.05) irrespective of Con A (Fig. 4). 
+In order to isolate the active constituent(s) responsible for Th1 activation (Fig. 2), the capsicum 
+extract was separated into 14 fractions by column chromatography on silica gel. Fig. 5 shows that the 
+stimulatory effect on IL-2 and IFN-g production in cultured PP cells transferred mainly to Fr-2 and 
+Fr-9, which increased the IL-2 and IFN-g production co-stimulated with Con A by 187 ± 16% (IL-2 
+level, Fr-2, p<0.05), 213 ± 20% (IL-2 level, Fr-9, p<0.05), 124 ± 27% (IFN-g level, Fr-2, not 
+significant) and 134 ± 25% (IFN-g level, Fr-9, p<0.05). Both fractions were further purified by silica 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+14 
+gel chromatography and HPLC. Fr-2 was shown to consist mainly of carotenoids (b-carotene; Fig. 1). 
+Fr-9 was mainly composed of capsaicinoids and capsanthin (Fig. 1). Fr-2 showed a toxic action 
+against PP cells at concentrations over 3 mg/ml, whereas Fr-9 was not toxic at the same concentrations 
+(Table 1). On the other hand, oral injection of Fr-2 at dose of 3 mg/kg/day for 4 consecutive days did 
+not show any significant toxicity to PP cells (Table 2). 
+Capsaicin has also been shown to have modulatory effects to B cell immune responses (Nilsson 
+et al., 1991;  Eglezos  et al., 1990). In the present experiment, we therefore noted the richness of Fr-9 in 
+capsaicinoids, which potentiated IL-2 and IFN-g production similar to Fr-2, and evaluated the effect 
+of capsaicin, a major pungent component of Capsicum, on cytokine production in PP cells ex vivo. 
+PP cells from mice treated with capsaicin at doses of 0.3 and 3 mg/kg/day produced IL-2 and 
+IFN-g unlike those from control mice (Figs. 6A-D), whereas orally injected capsaicin at the same 
+doses did not affect IL-5 production (Figs. 7A-D). The levels of IL-4 co-stimulated with Con A in the 
+PP cells from capsaicin-treated mice rose approximately 1.4 times more than those from the control 
+(Fig. 7B). 
+It is well known that capsaicin and other pungent vanilloids activate a cell surface receptor 
+called transient receptor potential vanilloid 1 (TRPV1), which is expressed mainly in nociceptive 
+neurons. TRPV1 is a cation channel activated by pungent vanilloid compounds, extracellular protons 
+or noxious heat and plays a central role in neurogenic inflammation (Szallasi, 2001; Szallasi and 
+Blumberg, 1999). To clarify the relationship between the capsaicin-induced enhancement of cytokine 
+production in PP cells and TRPV1, the effect of oral administration of the specific TRPV1 receptor 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+15 
+antagonist capsazepine (Fig. 1) was examined in capsaicin-treated mice. As shown in Figs. 6 and 7, 
+IL-2 and IFN-g production in PP cells co-stimulated with Con A were significantly potentiated by oral 
+administration of capsazepine alone at a dose of 3 mg/kg/day (Figs. 6B and D). Oral administration of 
+capsazepine alone also accelerated Con A-stimulated IL-4 production, but did not accelerate IL-5 
+production at the same dose (Figs. 7B and D). Administration of capsazepine (3 mg/kg/day) 
+simultaneously with capsaicin (3 mg/kg/day)  resulted in enhanced IL-2 production in response to Con 
+A (Fig. 6B), while  the secretion of IFN-g, IL-4 and IL-5 in PP cells was not affected (Figs. 6 and 7). 
+We determined the number of PP cells from mice orally treated with tested samples. T he number 
+of PP cells from normal mice was 26.1 ± 1.0 (´  106) cells/mouse. Orally administered capsicum 
+extract significantly increased PP cell number, whereas capsaicin (3 mg/kg/day) decreased the 
+number of PP cells (Table 1). Administration of capsazepine alone or capsazepine + capsaicin had no 
+effect on the number of PP cells (Table 1). Oral administration of capsicum extract, capsaicin and 
+capsazepine, respectively, caused no cytotoxicities toward PP cells in contrast to the in vitro 
+experiment (Table 2).  
+To clarify what kinds of T lymphocytes when treated with capsicum extract, capsaicin, 
+capsazepine and capsaicin + capsazepine increase or decrease the PP cells, PP cells were stained with 
+FITC- or PE-conjugated specific T, B and T helper-subset lineage markers and subjected to flow 
+cytometric analysis. PP cells are mainly composed of T and B cells, and it is well understood that T 
+cells are a source of immunomodulatory cytokine production (Bhide et al., 2001). Flow cytometric 
+analysis revealed that the percentages of T (CD3+) and B (CD19+) lymphocytes in normal mice were 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+16 
+27.1% and 69.4%, and that of the T cell subpopulation, CD4+ and CD8+, were 25.2% and 5.9%, 
+respectively (Table 3). After administration of higher doses (3 mg/kg/day) of both capsicum extract or 
+capsaicin, the percentage of CD3+ cells decreased from 7 to 10% of the total T cell population, 
+whereas they increased CD19+ B lymphocytes by 78.1% (capsicum extract, p<0.05) and 77.0% 
+(capsaicin, p<0.05) at 10 and 3 mg/kg/day. On the other hand, capsazepine did not change the 
+percentages of T and B cells, the T cell subset and T helper subset in PP cells (Table 3). The 
+populations of IFN-g and IL-4 positive cells in the T lymphocytes significantly decreased with 
+capsaicin treatment (3 mg/kg/day) but the ratio of the T helper subset was unchanged (control group, 
+IFN-g+:IL-4+ = 1:1.76; capsaicin IFN-g+:IL-4 = 1:1.88). Administration of the TRPV1 antagonist 
+capsazepine inhibited the capsaicin-induced decrease in CD3+ cells and increase in CD19+ cells 
+(Table 3). 
+ 
+Discussion 
+The present study demonstrated that ethanol extract of red pepper (C. annum) and its main 
+piquant component capsaicin directly inhibit T helper cytokine production in cultured PP cells in vitro, 
+whereas oral injection enhances the levels of IL-2 and IFN-g in response to Con A. The capsicum 
+extracts and capsaicin had an opposite effect on immune responses in vitro and ex vivo, suggesting an 
+indirect effect in vivo. Capsicum has shown a wide range of pharmacological properties including 
+pain relief, antigenotoxic, antimutagenic, and anticarcinogenic effects (Surh and Lee, 1995). To our 
+knowledge, the present results provide the first evidence that oral administration of capsicum extract 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+17 
+and capsaicin regulate the production of T helper 1 cytokines such as IL-2 and IFN-g in PP cells. 
+Capsaicin reportedly causes cell death of neuronal cells (Szallasi and Blumberg, 1999) as well 
+as non-neuronal cells and cell lines such as Vero monkey kidney cells (Creppy et al., 2000), SHSY-5Y 
+human neuroblastoma cells (Richeux et al., 1999), ECV340 human endothelial cells (Richeux et al., 
+2000), A172 human glioblastoma cells (Lee et al., 2000), BEAS-2B human bronchiolar epithelial 
+cells and A549 human lung adenocarcinoma cells (Reilly et al., 2003), and a variety of other cell lines. 
+Further, functional vanilloid receptors have been found on rat CD3high as well as CD3negative 
+thymocytes and are associated with the selective ability of capsaicin to trigger DNA fragmentation in 
+thymocytes (Amantini et al., 2004). In the present study, direct treatment of PP cells with capsaicin 
+reduced cell viability at concentrations of 3 and 30 mM (Table 1). Furthermore, oral administration of 
+capsaicin at a dose of 3 mg/kg (for 4 consecutive  days) selectively reduced the CD3+ T cell population 
+without changing the ratio of Th1/Th2 cells in the PP, and capsazepine, a prototype of the TRPV1 
+antagonist, ameliorated the capsaicin-induced reduction of CD3+ T cells (Table 3). Thus, it is 
+reasonable to assume that TRPV1 is also expressed on T lymphocytes in PP and that the 
+capsaicin-induced T cell reduction was mediated by its interaction with TRPV1 since it was partly 
+inhibited by capsazepine.  
+Previous research has demonstrated that capsaicin inhibits IL-2 production (Gertsch et al., 
+2002) by capacitative calcium entry in Jurkat cells (Fischer et al., 2002). Capsaicin has also been 
+reported to suppress cell surface expression of CD69, CD25 and ICAM-1 on Jurkat cells in vitro 
+(Sancho et al., 2002). In our experiment, treatment of PP cells with capsicum extract or capsaicin 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+18 
+showed concentration-dependent suppression of IL-2, IFN-g, IL-4 and IL-5 (Fig. 2) secretions in 
+cultured PP cells, dramatically reducing their viability (Table 2). Our in vitro data were in agreement 
+with previous reports in which capsaicin reduced T cell function and cytokine production (Gertsch et 
+al., 2002; Bruce et al., 2002; Sancho et al., 2002). 
+Unexpectedly, PP cells from mice injected orally with capsicum extract or capsaicin 
+significantly secreted Th1 cytokines, IL-2 and IFN-g, in response to Con A (Fig. 3). Further, the 
+increment of IL-2 and IFN-g production with capsaicin treatment could not be abolished when the 
+TRPV1 antagonist capsazepine was simultaneously administered (Figs. 6 and 7). Interestingly, the 
+same dosage (3 mg/kg/day) and regimen (4 consecutive days) of capsazepine significantly increased 
+Con A-induced IL-2 and IFN-g production in cultured PP cells. These results indicated that TRPV1 
+agonist capsaicin and its antagonist capsazepine showed stimulatory effects on Th1 cytokine 
+production ex vivo through a TRPV1-independent pathway.  
+Capsaicin-sensitive primary afferents are well known to be involved in nociception and 
+neurogenic inflammation. In contrast to its acute excitatory activity, capsaicin also exhibited 
+analgesic properties, when used to treat pain associated with diabetic neuropathies or rheumatoid 
+arthritis (Szallasi and Blumberg, 1999; Tominaga and Tominaga, 2005). This paradoxical effect 
+correlated to the ability of capsaicin to desensitize nociceptive terminals following long-term 
+exposure (Tominaga and Tominaga, 2005). In our experiment, a short-term administration (once a 
+day for 4 consecutive days) of capsaicin showed stimulatory effect on Th1 cytokine production in PP 
+cells. Therefore, further studies (including long-term administration of capsaicin) were necessary to 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+19 
+clarify relationship between capsaicin-induced T helper 1 cytokines production in PP cells and 
+function of TRPV1 ex vivo. We are now planning to investigate the effects of short-term and 
+long-term administration of capsaicinoids on the production of T helper cytokines in PP cells by using 
+TRPV1 knockout mice in the next step.  
+Recently, it was reported that an intraplantar injection of capsaicin into the dorsal aspect of the 
+rat hind paw produced early upregulation of proinflammatory cytokines such as IL -1b, TNF-a, IL-6, 
+and nerve growth factor  (Saade et al., 2002). Basu and Srivastava (2005) more recently showed that 
+bone marrow -derived mouse dendritic cells express TRPV1, and that ligand capsaicin transmits the 
+immunological inflammatory signals. Thus, it is assumed that in vivo administration of capsaicin 
+might up-regulate T cell immune responses and that the mechanisms of the immunopotent effect of 
+capsaicin might be TRPV1 independent. More specifically, capsaicin is known to mediate 
+neuroactive ligands such as Substance P, bradykinins and enkephalins (Wang, 2005). It is also 
+noteworthy that Substance P and bradykinins have been shown to mediate NF-kB, a transcriptional 
+factor central to innate immune responses (Pan et al., 1996; Lieb et al., 1997). Endogenously 
+produced Substance P has been shown to contribute to lymphocyte proliferation by activation of 
+dendritic cells and T cell antigen receptor ligation (Lambrecht et al., 1999). Indeed, PP cells from 
+mice intravenously injected with Substance P at dose of 27 ng/kg strongly secreted IL-2 and IFN-g 
+irrespective of Con A (unpublished data). Moreover, we also found that an intravenous injection (0.1 
+mg/kg) of neurokinin-1 receptor antagonist, sendide (Sakurada et al., 1989), completely abolished the 
+capsaicin-induced Th1 cytokine secretion co-stimulated with Co A (unpublished data). It might 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+20 
+therefore be discussed that the mechanisms by which capsaicin potentiated Th1 cytokine production 
+ex vivo was in part due to endogenous neuropeptide Substance P. Further investigation in line with 
+this idea is underway.  
+Most pharmacological studies performed so far have focused on capsaicinoids; however, the 
+medicinal properties attributed to capsicum might be related to different compounds. In this 
+experiment, the active fractions in capsicum extract, which enhanced T helper cytokine production, 
+were shown to be not only a fraction rich in capsaicinoids (Fr-9) but also one rich in carotenoids 
+(Fr-2) (Fig. 5). HPLC analysis of Fr-2 revealed that it contained mainly b-carotene (Fig. 1), 
+b-cryptoxanthin, and lycopene. Satoh et al., (2004) recently reported that splenocytes from mice fed 
+b-carotene (Fig. 1) produced more IL-2 and IFN-g than those from control mice. Thus, it is possible to 
+suggest that the immunopotent activity of capsicum extract might also be due to carotenoids in the 
+extract. Further purification and chemical characterization of Fr-2 as well as evaluation of their 
+inductive effects on T helper cytokines in PP cells are necessary.  
+In summary, the present study demonstrated that orally administered capsicum extract and its 
+main pungent capsaicin selectively modulate the production of T helper 1 cytokines such as IL-2 as 
+well as IFN-g, but have no significant effect on the levels of IL-4 and IL-5, via a TRPV1-independent 
+pathway. These findings suggest that capsicum extract and capsaicin do not cause non-specific 
+immune responses like those induced by Con A. Further, the balance between Th1 and Th2 is of 
+central importance for immune responses of mucosal T cells (Neurath et al., 2002). It is also indicated 
+that overexpression of Th2 and/or Th1-depolarization predispose for allergic diseases such as allergic 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+21 
+asthma (Neurath et al., 2002). Taken together, a moderate intake of capsicum or capsaicin has 
+potentialities as therapeutic or preventive agents for treatment of immune diseases such as allergies 
+and parasitic diseases. 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+22 
+Acknowledgements  
+ 
+  The authors would like to thank Dr. Ahmed Atef El-Beih of the Faculty of Pharmaceutical 
+Sciences, Kanazawa University, for his generous advice.  
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+23 
+References 
+Amantini, C., Mosca, M., Lucciarini, R., Perfumi, M., Morrone, S., Piccoli, M., Santoni, G., 2004. 
+Distinct thymocyte subsets express the vanilloid receptor VR1 that mediates capsaicin-induced 
+apoptotic cell death. Cell Death and Differentiation 11, 1342-1356. 
+Basu, S., Srivastava, P., 2005. Immunological role of neuronal receptor vanilloid receptor 1 
+expressed on dendritic cells. Proceeding of the National Academy of Sciences of the USA 102, 
+5120-5125. 
+Bhide, S.A., Wadekar, K. V., Koushik , S.A. 2001. Peyer's patches are precocious to the appendix in 
+human development. Developmental Immunology 8, 159-166. 
+Choi, S.Y., Ha, H., Kim, K.T., 2000. Capsaicin inhibits plateletactivating factor-induced cytosolic 
+Ca2+ rise and superoxide production. Journal of Immunology 165, 3992–3998. 
+Costa, B., Giagnoni, G., Franke, C., Trovato, A.E., Colleoni, M., 2004. Vanilloid TRPV1 receptor 
+mediates the antihyperalgesic effect of the nonpsychoactive cannabinoid, cannabidiol, in a rat model 
+of acute inflammation. British journal of pharmacology 143, 247-250. 
+Creppy, E.E., Richeux, F., Carratu, M.R., Cuomo, V., Cochereau, C., Ennamany, R., Saboureau, D., 
+2000. Cytotoxicity of capsaicin in monkey kidney cells: lack of antagonistic effects of capsazepine 
+and Ruthenium red. Archives of toxicology 74, 40-47. 
+Eglezos, A., Andrews, P. V., Boyd, R. L. and Helme, R. D., 1990. Effects of capsaicin treatment on 
+immunoglobulin secretion in the rat: further evidence for involvement of tachykinin-containing 
+afferent nerves. Journal of Neuroimmunology 26, 131–138. 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+24 
+Fischer, B.S., Qin, D., Kim, K., McDonald, T.V., 2001. Capsaicin inhibits Jurkat T-cell activation 
+by blocking calcium entry current I(CRAC). The Journal of Pharmacology and Experimental 
+Therapeutics 299, 238-246. 
+Gertsch, J., Guttinger, M., Sticher, O., Heilmann, J., 2002. Relative quantification of mRNA levels 
+in Jurkat T cells with RT-real time-PCR (RT-rt-PCR): new possibilities for the screening of 
+anti-inflammatory and cytotoxic compounds. Pharmaceutical Research 19, 1236-1243. 
+Ho, W.Z., Lai, J.P., Zhu, X.H., Uvaydova, M., Douglas, S.D., 1997. Human monocytes and 
+macrophages express substance P and neurokinin-1 receptor.  Journal of Immunology 159, 
+5654–5660. 
+Hong T, Matsumoto T, Kiyohara H, Yamada H., 1998. Enhanced production of hematopoietic 
+growth factors through T cell activation in Peyer’s patches by oral administration of Kampo 
+(Japanese herbal) medicine, Juzen-Taiho-To. Phytomedicine 5, 353-560. 
+Koh, J.H., Yu, K.W., Suh, H.J., Choi, Y.M., Ahn, T.S., 2002. Activation of macrophages and the 
+intestinal immune system by an orally administered decoction from cultured mycelia of Cordyceps 
+sinensis. Bioscience, Biotechnology, and Biochemistry 66, 407-411. 
+Lambrecht B .N., Germonpre, P.R., Everaert, E.G., Carro-Muino, I., De Veerman, M., de Felipe, C., 
+Hunt, S.P., Thielemans, K., Joos, G.F., Pauwels, R.A., 1999. Endogenously produced substance P 
+contributes to lymphocyte proliferation induced by dendritic cells and direct TCR ligation. European 
+Journal of Immunology 29, 3815-3825. 
+Lieb, K., Fiebich, B.L., Berger, M., Bauer, J., Schulze-Osthoff, K., 1997. The neuropeptide 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+25 
+substance P activates transcription factor NF-kappa B and kappa B-dependent gene expression in 
+human astrocytoma cells. Journal of Immunology 159, 4952-4958. 
+Lee, Y.S., Nam, D.H., Kim, J.A., 2000. Induction of apoptosis by capsaicin in A172 human 
+glioblastoma cells. Cancer Letters 161, 121-130. 
+Macey, M.G., McCarthy, DA, Milne, T., Cavenagh, J.D., Newland, A.C., 1999. Comparative study 
+of five commercial reagents for preparing normal and leukaemic lymphocytes for immunophenotypic 
+analysis by flow cytometry. Cytometry 38,153-160. 
+Maillard, M.–N., Giampaoli, P., Richard, H.M.J., 1997. Analysis of eleven capsaicinoids by 
+reversed-phase high performance liquid chromatography. Flavour & Fragrance Journal 12, 409-413. 
+Manhart, N., Vierlinger, K., Spittler, A., Bergmeister, H., Sautner, T., Roth, E., 2001. Oral feeding 
+with glutamine prevents lymphocyte and glutathione depletion of Peyer's patches in endotoxemic 
+mice. Annual Surgery 234, 92-97. 
+Mercadante, A.Z., Steck, A., Pfander, H., 1999. Carotenoids from guava (Psidium guajava l.): 
+isolation and structure elucidation. Journal of Agricultural and Food Chemistry 47, 145-151. 
+Neurath, M.F., Finotto, S., Glimcher, L.H., 2002. The role of Th1/Th2 polarization in mucosal 
+immunity. Nature medicine 8, 567-573. 
+Mosmann, T., 1983. Rapid colorimetric assay for cellular growth and survival: application to 
+proliferation and cytotoxicity assays. Journal of Immunological Methods 65, 55-63. 
+Mowat A.M., 2003. Anatomical basis of tolerance and immunity to intestinal antigens. Nature 
+Reviews Immunology 3, 331-341. 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+26 
+Nilsson, G., Alving, K. and Ahlstedt, S., 1991. Effects on immune responses in rats after 
+neuromanipulation with capsaicin. International journal of Immunopharmacology 13, 21–26. 
+Pan, Z.K., Zuraw, B.L., Lung, C.C., Prossnitz, E.R., Browning, D.D., Ye, R.D., 1996. Bradykinin 
+stimulates NF-kappaB activation and interleukin 1beta gene expression in cultured human fibroblasts. 
+The Journal of Clinical Investigation 98, 2042-2049. 
+Reilly, C.A., Taylor, J.L., Lanza, D.L., Carr, B.A., Crouch, D.J., Yost, G.S., 2003. Capsaicinoids 
+cause inflammation and epithelial cell death through activation of vanilloid receptors. Toxicological 
+Sciences 73, 170-181. 
+Richeux, F., Cascante, M., Ennamany, R., Saboureau, D., Creppy, E.E., 1999. Cytotoxicity and 
+genotoxicity of capsaicin in human neuroblastoma cells SHSY-5Y. Archives of Toxicology 73, 
+403-409. 
+Richeux, F., Cascante, M., Ennamany, R., Sanchez, D., Sanni, A., Saboureau, D., Creppy, E.E., 
+2000. Implications of oxidative stress and inflammatory process in the cytotoxicity of capsaicin in 
+human endothelial cells: lack of DNA strand breakage. Toxicology 147, 41-49. 
+Romagnani, S., 2004. Immunologic influences on allergy and the TH1/TH2 balance. Allergy & 
+Clinical Immunology 113, 395-400. 
+Saade, N.E., Massaad, C.A., Ochoa-Chaar, C.I., Jabbur, S.J., Safieh-Garabedian, B., Atweh, S.F., 
+2002. Upregulation of proinflammatory cytokines and nerve growth factor by intraplantar injection of 
+capsaicin in rats. The Journal of Physiology 545(Pt 1), 241-253. 
+Sakurada, T., Yamada, T., Sakurada, S., Kisara, K., Ohba, M., 1989. Substance P analogues 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+27 
+containing D-histidine antagonize the behavioural effects of intrathecally co-administered substance 
+P in mice. European journal of pharmacology 174, 153-160. 
+Sancho, R., Lucena, C., Macho, A., Calzado, M.A., Blanco-Molina, M., Minassi, A., Appendino, 
+G., Munoz, E., 2002. Immunosuppressive activity of capsaicinoids: capsiate derived from sweet 
+peppers inhibits NF-kappa B activation and is a potent antiinflammatory compound in vivo. 
+European Journal of Immunology 32, 1753-1763. 
+Sato, Y., Akiyama, H., Suganuma, H., Watanabe, T., Nagaoka, M. H, Inakuma, T., Goda, Y., 
+Maitani, T., 2004. The feeding of beta-carotene down-regulates serum IgE levels and inhibits the type 
+I allergic response in mice. Biological & Pharmaceutical Bulletin 27, 978-984. 
+Sood, S., Rishi, P., Vohra, H., Sharma, S., Ganguly, N . K., 2005. Cellular immune response induced 
+by Salmonella enterica serotype Typhi iron-regulated outer-membrane proteins at peripheral and 
+mucosal levels. Journal of Medical Microbiology 54, 815-821. 
+Surh, Y.J., Lee, S.S., 1995. Capsaicin, a double edged sword: toxicity, metabolism, and 
+chemopreventative potential (Review). Life Sciences 56, 1845–1855. 
+Szallasi, A., 2001. Vanilloid receptors ligands: hopes and realities for the future. Drugs Aging 18, 
+561–573. 
+Szallasi, A., Blumberg, P.M.,1999. Vanilloid (capsaicin) receptors and mechanisms. 
+Pharmacological Reviews 51, 159–212. 
+Takano, F., Kikuchi, Y., Fushiya , S., Hojo, H., Nozoe , S., Yahagi, N., Yahagi, R., Kondo, Y., 1996. 
+The culture fluid of Isaira japonica Yasuda augments anti-sheep red blood cell antibody response in 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+28 
+mice. Biological & Pharmaceutical Bulletin 19, 641-643. 
+Takano, F., Yahagi, N., Yahagi, R., Takada, S., Yamaguchi, M., Shoda, S., Murase, T., Fushiya, S., 
+Ohta , T., 2005. The liquid culture filtrates of Paecilomyces tenuipes (Peck) Samson (= Isaria japonica 
+Yasuda) and Paecilomyces cicadae (Miquel) Samson (=Isaria sinclairii (Berk.) Llond) regulate Th1 
+and Th2 cytokine response in murine Peyer’s patch cells in vitro and ex vivo. International 
+Immunopharmacology 5, 903-916. 
+Tominaga, M., Tominaga, T., 2005. Structure and function of TRPV1. Pflügers Archiv European 
+Journal of Physiology 451: 143-150. 
+Wang D.H., 2005. The vanilloid receptor and hypertension. Acta Pharmacologica Sinica 26, 
+286-294. 
+Xu-Amano, J., Kiyono, H., Jackson, R.J., Staats, H.F., Fujihashi, K., Burrows, P.D., Elson, C.O., 
+Pillai, S., McGhee, J.R., 1993. Helper T cell subsets for immunoglobulin A responses: oral 
+immunization with tetanus toxoid and cholera toxin as adjuvant selectively induces Th2 cells in 
+mucosa associated tissues. Journal of Experimental Medicines.178, 1309-1320. 
+Yoshida, T., Hachimura, S., Ishimori, M., Kinugasa, F., Ise, W., Totsuka, M., Ametani, A., 
+Kaminogawa, S., 2002. Antigen presentation by Peyer's patch cells can induce both Th1- and 
+Th2-type responses depending on antigen dosage, but a different cytokine response pattern from that 
+of spleen cells. Bioscience, Biotechnology, and Biochemistry 66, 963-969. 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+29 
+Figure legends  
+ 
+Fig. 1. Chemical structures of b-carotene, capsaicin and capsazepine. 
+ 
+Fig. 2. Suppressive effects of capsicum extract and capsaicin on IL-2, IFN-g, IL-4 and IL-5 
+production in cultured PP cells in vitro. PP cells were directly treated with capsicum extract or 
+capsaicin + 5 mg/ml Con A. The culture supernatants were collected at 72 h after Con A stimulation 
+and cytokine production was measured using ELISA. Panel A: IL-2 production, panel B: 
+IFN-g production, panel C: IL-4 production and panel D: IL-5 production. All data are expressed as 
+the mean ± SD of quadruplicate cultures, a p<0.05 and b p<0.01 compared with control cultures. 
+Results of one experiment repeated twice with similar results. CE: capsicum extract. 
+ 
+Fig. 3. Effects of capsicum extract on IL-2 and IFN-g production in cultured PP cells ex vivo. Mice 
+were treated orally with capsicum extract or vehicle once a day for 4 consecutive days, and the PP 
+cells were collected 6 days after the first day of treatment and cultured in the absence or presence of 5 
+mg/ml Con A for 72 h. IL-2 and IFN-g production in the cultured supernatants were measured using an 
+ELISA kit. Panel A: IL -2 production in PP cells without Con A stimulation, panel B: IL-2 production 
+in PP cells with Con A stimulation, panel C: IFN-g production in PP cells without Con A stimulation 
+and panel D: IFN-g production in PP cells with Con A stimulation. All data are expressed as the mean 
+± SD of quadruplicate cultures, a p<0.05 compared with control cultures. Results of one experiment 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+30 
+repeated twice with similar results. CE: capsicum extract. 
+ 
+Fig. 4. Effects of capsicum extract on IL-4 and IL-5 production in cultured PP cells ex vivo. Mice 
+were treated orally with capsicum extract or vehicle once a day for 4 consecutive days, and the PP 
+cells were collected 6 days after the first day of treatment and cultured in the absence or presence of 5 
+mg/ml Con A for 72 h. IL-4 and IL-5 production in the cultured supernatants were measured using an 
+ELISA kit. Panel A: IL -4 production in PP cells without Con A stimulation, panel B: IL-4 production 
+in PP cells with Con A stimulation, panel C: IL-5 production in PP cells without Con A stimulation 
+and panel D: IL-5 production in PP cells with Con A stimulation. All data are expressed as the mean ±  
+SD of quadruplicate cultures, a p<0.05 compared with control cultures. Results of one experiment 
+repeated twice with similar results. CE: capsicum extract. 
+ 
+Fig. 5. Effects of fractions separated from the capsicum extract on IL-2 and IFN-g production in 
+cultured PP cells ex vivo. Mice were treated orally with a fraction or vehicle once a day for 4 
+consecutive days, and the PP cells were collected 6 days after the first day of treatment and cultured in 
+the absence or presence of 5 mg/ml Con A for 72 h. IL-2 and IFN-g production in the cultured 
+supernatants were measured using an ELISA kit. Panel A: IL-2 production in PP cells without Con A 
+stimulation, panel B: IL-2 production in PP cells with Con A stimulation, panel C: IFN-g production 
+in PP cells without Con A stimulation and panel D: IFN-g production in PP cells with Con A 
+stimulation. All data are expressed as the mean ± SD of quadruplicate cultures, a p<0.05 compared 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+31 
+with control cultures. Results of one experiment repeated twice with similar results. CE: capsicum 
+extract. 
+ 
+Fig. 6. Effects of capsaicin and capsazepine on IL-2 and IFN-g production in cultured PP cells ex 
+vivo. Mice were treated orally with capsaicin (Cap), capsazepine (CZ), capsaicin + capsazepine 
+(Cap/CZ) or vehicle  once a day for 4 consecutive days, and the PP cells were collected 6 days after the 
+first day of treatment and cultured in the absence or presence of 5 mg/ml Con A for 72 h. IL-2 and 
+IFN-g production in the cultured supernatants were measured using an ELISA kit. Panel A: IL-2 
+production in PP cells without Con A stimulation, panel B: IL-2 production in PP cells with Con A 
+stimulation, panel C: IFN-g production in PP cells without Con A stimulation and panel D: IFN-g 
+production in PP cells with Con A stimulation. All data are expressed as the mean ± SD of 
+quadruplicate cultures, a p<0.05 compared with control cultures. Results of one experiment repeated 
+twice with similar results. 
+ 
+Fig. 7. Effects of capsaicin and capsazepine on IL-4 and IL-5 production in cultured PP cells ex vivo. 
+Mice were treated orally with capsaicin (Cap), capsazepine (CZ), capsaicin + capsazepine (Cap/CZ) 
+or vehicle  once a day for 4 consecutive days, and the PP cells were collected 6 days after the first day 
+of treatment and cultured in the absence or presence of 5 mg/ml Con A for 72 h. IL-4 and IL-5 
+production in the cultured supernatants were measured using an ELISA kit. Panel A: IL-4 production 
+in PP cells without Con A stimulation, panel B: IL-4 production in PP cells with Con A stimulation, 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+32 
+panel C: IL-5 production in PP cells without Con A stimulation and panel D: IL-5 production in PP 
+cells with Con A stimulation. All data are expressed as the mean ± SD of quadruplicate cultures, a 
+p<0.05 compared with control cultures. Results of one experiment repeated twice with similar results. 
+ 
+ 
+ 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+33 
+Takano et al., Table 1 
+ 
+ 
+ 
+Table 1 
+Effects of capsicum extract and capsaicin on the cell viability of cultured PP cells* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*PP cells were cultured with capsicum extract or capsaicin at the indicated concentrations together 
+with 5 mg/ml Con A for 72 h. Cytokine production (Fig. 2) and cell viability were then measured by 
+MTT methods (see the materials and methods). Cell viability data represent the absorbance ratio 
+(percentage) of sample-treated PP cells to non-treated PP cells. a p<0.05 and b p<0.01 compared with 
+Con A-treated control cultures. 
+ 
+ 
+Treatment Concentration Cell viability (%) 
+Con A(-) 
+Cell viability (%) 
+Con A (+) 
+n 
+- - 96.8 + 2.2 90.2 + 1.9 4 
+Capsicum extract 1 mg/ml 83.1 + 1.7 a 76.1 + 1.1 a 3 
+ 10 mg/ml 67.2 + 1.0 b 64.4 + 2.2 b 4 
+Fr-2 3 87.1 + 1.4 a 74.4 + 2.6 b 4 
+ 10 70.4 + 1.0 b 63.0 + 1.0 b 4 
+Fr-9 3 93.3 + 1.1 92.1 + 1.3 3 
+ 10 94.6 + 0.4 87.0 + 1.8 4 
+Capsaicin 3 mM 73.3 + 2.9 b 73.9 + 1.9 a 3 
+ 30 mM 60.2 + 2.8 b 66.0 + 3.8 b 4 
+ 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+36 
+Takano et al., Table 3 
+Table 3 
+Effects of capsicum extract, capsaicin and capsazepine on the PP lymphocyte population in mice* 
+ 
+ 
+ 
+ 
+ 
+ 
+*Capsicum extract, capsaicin, capsazepine or capsaicin + capsazepine were injected orally once a day for 4 consecutive days. PP cells (1 ´  106 cells) were 
+collected 2 days after the final injection and stained w ith lineage specific FITC- or PE-conjugated mAb. Data are expressed as the mean ± S.E. of 5-6 mice. 
+a p<0.05 compared with the control mice.  
+Treatment Dose CD3+ CD19+ CD4+ CD8+ IFN-g+ IL-4+ n 
+ (mg/kg/day) (%) (%) (%) (%) (%) (%)  
+Control - 27.1 + 1.6 69.4 + 3.5 25.2 + 2.1 5.9 + 0.7 9.2 + 0.3 16.2 + 0.1 7 
+Capsicum extract 1 25.8 + 1.9 69.6+ 1.9 19.0 + 0.9 5.3 + 1.1 8.1 + 1.7 14.9 + 0.2 6 
+ 10 20.4 + 1.0 a 78.1 + 1.6 a 17.4 + 1.0 a 5.1 + 1.2 8.5 + 1.2 15.0 + 1.8 6 
+Capsaicin 0.3 22.1 +1.4 74.1 + 1.3 21.3 + 1.5 5.2 + 0.4 8.7 + 0.9 14.8 + 0.3 6 
+ 3 17.6 + 0.3 a 77.0 + 2.1 a 13.3 + 1.2 a 4.8 + 1.0 5.0 + 0.3 a 9.4 + 2.2 a 6 
+Capsazepine 3 29.9 + 2.1 68.4 + 0.7 20.6 + 0.8 7.2 + 0.3 8.3 + 0.4 14.0 + 1.0 5 
+Capsaicin/capsazepine 3 + 3 28.7 + 0.4 66.3 + 0.2 24.2 + 0.3 4.2 + 0.1 8.8 + 0.4 13.5 + 0.6 5 
+ 
+ 
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT
+AC
+CE
+PT
+ED
+ M
+AN
+US
+CR
+IP
+T
+ACCEPTED MANUSCRIPT

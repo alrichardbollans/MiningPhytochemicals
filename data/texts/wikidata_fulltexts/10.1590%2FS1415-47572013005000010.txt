@@ -1,0 +1,518 @@
+Cytotoxicity and genotoxicity of coronaridine from Tabernaemontana
+catharinensis A.DC in a human laryngeal epithelial carcinoma cell line
+(Hep-2)
+Walace Fraga Rizo1, Luis Eduardo Ferreira
+1
+, Vanessa Colnaghi
+1, Juliana Simões Martins1,
+Leonardo Pereira Franchi2, Catarina Satie Takahashi2, Rene Oliveira Beleboni1, Mozart Marins1,
+Paulo Sérgio Pereira1 and Ana Lúcia Fachin1
+1Unidade de Biotecnologia Vegetal, Universidade de Ribeirão Preto, Ribeirão Preto, SP, Brazil.
+2Departamento de Genética, Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo,
+Ribeirão Preto, SP, Brazil.
+Abstract
+Cancer has become a major public health problem worldwide and the number of deaths due to this disease is in-
+creasing almost exponentially. In the constant search for new treatments, natural products of plant origin have pro-
+vided a variety of new compounds to be explored as antitumor agents. Tabernaemontana catharinensis is a
+medicinal plant that produces alkaloids with expressive antitumor activity, such as heyneanine, coronaridine and
+voacangine. The aim of present study was firstly to screen the cytotoxic activity of the indole alkaloids heyneanine,
+coronaridine and voacangine against HeLa (human cervix tumor), 3T3 (normal mouse embryo fibroblasts), Hep-2
+(human laryngeal epithelial carcinoma) and B-16 (murine skin) cell lines by MTT (3-(4,5-dimethylthiazol-
+2-yl)-2,5-diphenyltetrazolium bromide); and secondly to analyze the apoptotic activity, cell membrane damage and
+genotoxicity of the compound that showed the best cytotoxic activity against the tumor cell lines tested. Coronaridine
+was the one that exhibited greater cytotoxic activity in the laryngeal carcinoma cell line Hep-2 (IC50 = 54.47 g/mL)
+than the other alkaloids tested (voacangine IC50 = 159.33 g/mL, and heyneanine IC50 = 689.45 g/mL). Coronaridine
+induced apoptosis in cell lines 3T3 and Hep-2, even at high concentrations. The evaluation of genotoxicity by comet
+assay showed further that coronaridine caused minimal DNA damage in the Hep-2 tumor cell line, and the LDH test
+showed that it did not affect the plasma membrane. These results suggest that further investigation of coronaridine
+as an antitumor agent has merit.
+Keywords: 3T3, apoptosis, comet assay, indole alkaloid, LDH.
+Received: May 9, 2012; Accepted: October 31, 2012.
+Introduction
+Although the advances in oncology have led to more
+effective treatments and cure, cancer continues to be one of
+the leading causes of human death (Jemal et al., 2011). La-
+ryngeal cancer accounts for about 2.7% of all cancers and
+for 2.1% of all deaths due to cancer. According to the Bra-
+zilian National Institute of Cancer, in the State of São Paulo
+the number of cases of laryngeal cancer per 100,000 inhab-
+itants estimated for 2012 will be 6.9-10.68 for men and
+3.91-7.54 for women. Laryngeal cancer is one of the fre-
+quent head and neck cancers, accounting for approximately
+25% of all malignant head and neck tumors. A major diffi-
+culty in preventing cancer progression is the increased re-
+sistance, low specificity and high toxicity of drugs that are
+commercially available (Riedl et al., 2011). The toxicity of
+chemotherapeutic agents is a decisive treatment factor, par-
+ticularly in immunocompromised patients (Geard, 1992).
+The development of new cytotoxic compounds is therefore
+important, and evaluation of the genotoxic activity of the
+compounds in non-tumor cells is also necessary, to assure
+that the treatment is safe and has no serious side effects.
+Fucic et al. (1998) reported that few chemotherapeutic
+agents induce secondary tumors in patients with cancer.
+Apoptosis, or programmed cell death, is an essential pro-
+cess for the maintenance of the development of a living or-
+ganism, by eliminating superfluous or defective cells. In
+addition to playing an important role in the control of vari-
+ous vital processes, apoptosis forms the basis of various
+cancer treatment strategies, in which apoptosis is induced
+in tumor cells in response to treatment with cytotoxic
+agents (Grivicich et al., 2007; Sayers, 2011). Necrosis is a
+Genetics and Molecular Biology, 36, 1, 105-110 (2013)
+Copyright © 2013, Sociedade Brasileira de Genética. Printed in Brazil
+www.sbg.org.br
+Send correspondence to Ana Lúcia Fachin. Unidade de Biotec-
+nologia Vegetal, Universidade de Ribeirão Preto, Av. Costábile
+Romano 2201, 14096-900 Ribeirão Preto, SP, Brazil. E-mail:
+afachin@unaerp.br.
+Research Article
+type of cell death in which cells suffer damage that results
+in an increase of cell volume, chromatin aggregation, cyto-
+plasm disorganization, loss of plasma membrane integrity
+and consequent cell rupture. The cell content is released,
+causing damage to neighboring cells and an inflammatory
+reaction at the site of injury (Kelekar, 2005).
+Natural products are a rich source of new drugs, and a
+large number of substances with cytotoxic activity have
+been isolated from plants (Araujo and Leon, 2001; Lachen-
+meier et al., 2006; Castaneda et al., 2011; Li et al., 2011).
+For instance, Vincristine (Oncovin®), an alkaloid found in
+species of the family Apocynaceae, is used as an antitumor
+agent in oncology. Like other secondary metabolites found
+in nature that are the active ingredients of anticancer drugs,
+such as paclitaxel, apoptolodin and bryostatin, vincristine
+blocks mitotic progression, causing metaphase arrest (Tsu-
+kamoto et al., 2011).
+Tabernaemontana catharinensis A.DC, a plant of the
+family Apocynaceae, popularly known as ”leiteiro de vaca”
+(cow’s dogbane), found in Argentina, Paraguay, Brazil and
+Bolivia, is used by the population as anticancer remedy.
+The genus Tabernaemontana is rich in monoterpene indole
+alkaloids such as coronaridine, voacangine, hydroxycoro-
+naridine, isovoacangine, 11-hydroxycoronaridine, voacris-
+tine, 19-epi-voacristine, isovoacristine, ibogamine,
+10-metoxyibogamine, 11-metoxyibogamine, and 19-epi-
+heyneanine (Kam and Sim, 2002; Prakash Chaturvedula et
+al., 2003). These indole alkaloids have numerous biologi-
+cal activities, including central nervous system-stimulating
+activity, antihypertensive, anticholinesterase, antimicrobial
+and antimalarial properties, and especially antitumor activ-
+ity (van Beek et al., 1984; Perera et al., 1985; Delorenzi et
+al., 2001; Prakash Chaturvedula et al., 2003; de Almeida et
+al., 2004; Kam et al., 2004; Andrade et al., 2005; Vieira et
+al., 2008; Medeiros et al., 2011).
+The present study investigated the cytotoxic activity
+of the indole alkaloids heyneanine, coronaridine and voa-
+cangine in different cell lines, using the MTT (3-(4,5-
+dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide)
+colorimetric assay. In view of the better cytotoxic activity
+presented by coronaridine, we evaluated apoptosis induc-
+tion, cell membrane damage and genotoxicity of this com-
+pound in human laryngeal carcinoma (Hep-2) cells and in
+normal mouse embryo fibroblasts (3T3).
+Materials and Methods
+Chemical agents
+Fetal bovine serum was purchased from Cultilab
+(Campinas, São Paulo, Brazil). Penicillin, streptomycin,
+doxorubicin, Dulbecco’s modified Eagle’s and HAM-F10
+culture media, DMSO, isopropanol, MTT, actinomycin D,
+acridine orange, ethidium bromide and trypsin were pur-
+chased from Sigma Chemicals (St. Louis, MO, USA).
+Plant material
+Root barks of T. catharinensis were collected in As-
+sis, São Paulo, Brazil, and a voucher specimen was depos-
+ited at the herbarium (SPFR) of FFCLRP, University of São
+Paulo, Ribeirão Preto, Brazil (Registration No. 02940).
+Purification of alkaloids
+The indole alkaloids coronaridine (COR), voacan-
+gine (VOA) and heyneanine (HEY) (Figure 1) were puri-
+fied from an ethanolic extract of T. catharinensis root bark,
+as described by Pereira et al. (2008).
+Cytotoxicity testing
+Cells were cultured at 37 °C in a humidified atmo-
+sphere containing 5% CO2 supplemented with 10% fetal
+bovine serum, using Dulbecco’s modified Eagle’s medium
+(Sigma) for culture of the HeLa (human cervix tumor), 3T3
+(normal mouse embryo fibroblasts) and Hep-2 (human la-
+ryngeal epithelial carcinoma) cell lines. HAM-F10 medium
+was used for culturing B-16 cells (murine skin). Penicillin
+(100 U/mL) and streptomycin (100 g/mL) were added to
+the medium to prevent bacterial growth. A stock solution
+(10 mg/mL) of each alkaloid was prepared in 10% DMSO.
+Each alkaloid (COR, VOA and HEY) was directly diluted
+in the medium, to obtain concentrations ranging from 15.62
+to 1000 g/mL. The final concentration of DMSO was less
+than 1% and had no negative effects on the cell lines.
+Doxorubicin and actinomycin D (8 g/mL) were used as
+positive controls. Cells were trypsinized (0.15% trypsin
+and 0.02% EDTA), counted in a hemocytometer (105
+cells/well), and incubated in a 96-well plate for 24 h. After
+addition of the alkaloid or vehicle dissolved in fresh me-
+dium, the cells were cultured at 37 °C in a 5% CO2 atmo-
+sphere for 48 h, and cytotoxicity was analyzed by the MTT
+assay (Mosmann, 1983). For this purpose, 20 L MTT/well
+(5 mg/mL in Hanks solution) were added to the 96-well
+plate, and the assay was incubated for 4 h under the same
+conditions. All cell treatments were carried out in triplicate.
+The formazan dye formed was extracted with 200 L iso-
+propanol and quantified spectrophotometrically at 550 nm
+in a thermo plate reader (Biotek ELx 800, Singapura). The
+absorbance of untreated cells was used as a reference. The
+106 Rizo et al.
+Figure 1 - Chemical structure of the indole alkaloids studied: corona-
+ridine, heyneanine and voacangine.
+alkaloid found to be the most effective against the three tu-
+mor cell lines in the MTT assay was used in the next experi-
+ments (apoptosis, comet assay and lactate dehydrogenase
+activity measurement).
+Detection of apoptosis
+Apoptosis was analyzed as described by Ribble et al.
+(2005). Briefly, 2.0 x 105 cells were treated with COR for
+48 h, harvested by trypsinization, and centrifuged at
+2500 rpm (129 g) for 5 min. The cells were resuspended in
+150 L acridine orange and ethidium bromide (100 g/mL
+each), and 20 L of the cell suspension was analyzed under
+a fluorescence microscope. The number of viable, apop-
+totic and necrotic cells was counted in 300 cells per treat-
+ment.
+Comet assay
+Hep-2 and 3T3 (2 x 104 cells/mL) cells were incu-
+bated with 15.62, 31.25, 62.5 and 125 g/mL COR for 6 h
+at 37 °C in a 5% CO2 atmosphere. The alkaline comet assay
+was performed as described by McKelvey-Martin et al.
+(1993). Tice et al. (2000), and Liao et al. (2009), with mi-
+nor modifications (Hartmann and Speit, 1997). Randomly
+selected cells (300 cells from each of three replicate slides,
+total = 900 cells) were analyzed per COR concentration.
+Cells were visually scored regarding damage, divided into
+five classes, and the DNA damage index was calculated as
+described by Collins et al. (1995) and da Silva et al. (2000).
+Doxorubicin (0.2 g/mL) was used as positive control and
+1% DMSO as solvent control.
+Measurement of lactate dehydrogenase
+3T3 and Hep2 cells were incubated in 96-well plates
+(2.5 x 105 cells/well) containing the adequate culture me-
+dium for each cell line in the presence of 15.62, 31.25, 62.5,
+and 125 g/mL of COR, respectively, at 37 °C in a 5% CO2
+atmosphere, in triplicate. Then, 20 L cell-free culture
+supernatant were collected from each well and incubated
+with the appropriate reagent mixture, according to manu-
+facturer instructions (Extracellular Lactate Dehydrogenase
+LDHe test from Xenometrix, Allschwil, Switzerland) at
+room temperature for 60 min. The plates were read at
+340 nm in a microplate reader (Biotek ELx 800, Singapore)
+at 0, 10, 20, 30, 40, 50, 60, 70, and 80 min, respectively. The
+percentage of LDH released from treated cells into the cul-
+ture was calculated by comparison with the maximal
+amount released by cells lysed with 1% Triton X-100 (posi-
+tive control), according to the method described by
+Kornberg (1955).
+Data analysis
+The cytotoxicity results were analyzed by ANOVA
+(two paired samples for average) adopting a significance
+level of p < 0.05. IC50 values were calculated by nonlinear re-
+gression analysis. The comet assay, apoptosis and LDH test
+results are shown as mean  standard deviation, and were an-
+alyzed by one-way ANOVA, followed by Tukey’s test.
+Results
+Cytotoxic activity of indole alkaloids
+The MTT colorimetric assay was used to evaluate the
+cytotoxicity of the three alkaloids isolated from T.
+catharinensis in different tumor cell lines (Table 1). The
+highest cytotoxic activity (IC50 = 54.47 g/mL) was pre-
+sented by coronaridine in the Hep-2 laryngeal carcinoma
+cell line as compared to the other alkaloids tested (voa-
+cangine: 159.33 g/mL, and heyneanine: 694.45 g/mL).
+The IC50 values of the positive controls were 1.57 and
+0.81 g/mL for doxorubicin and actinomycin D, respec-
+tively. The pure alkaloids (coronaridine, voacangine and
+heyneanine) also exhibited cytotoxic activity against nor-
+mal 3T3 cells, with IC50 values of 89.28, 104.16 and
+289.15 g/mL, respectively, indicating that these alkaloids
+are not specific for tumor cells.
+Detection of apoptosis
+Coronaridine induced apoptosis in 3T3 (Figure 2A)
+and Hep-2 (Figure 2B) cells at all concentrations tested,
+even at the highest concentration of 125 g/mL. In contrast,
+doxorubicin more frequently induced cell necrosis rather
+than apoptosis.
+Comet assay
+The results of the comet assay showed that incubation
+of cells with coronaridine for 6 h induced DNA damage
+Cytotoxicity of coronaridine 107
+Table 1 - IC50 values (g/mL) for the alkaloids coronaridine, heyneanine and voacangine.
+Cell line COR VOA HEY Doxorubicin Actinomycin D
+HeLa 146.32 271.97 637.76 2.41 1.70
+B-16 < 125 439.16 749.39 2.61 ND1
+Hep-2 54.47 159.33 694.45 1.57 0.81
+3T3 89.28 104.16 289.15 ND1 2.90
+COR: coronaridine; VOA: voacangine; HEY: heyneanine; ND: not determined.
+1The IC50 value was not determined because the substance exhibited < 50% growth inhibition at the highest concentration tested (1000 g/mL).
+only in the Hep-2 tumor cell line, at all concentrations
+tested (including the highest concentration) when com-
+pared to the negative control. Doxorubicin produced a
+higher DNA damage index in normal 3T3 cells than the
+highest concentration of coronaridine (125 g/mL). At the
+concentrations of 62.5 and 125 g/mL, coronaridine in-
+duced greater DNA damage in the Hep-2 cell line than in
+the normal 3T3 cells. Compared to the commercially avail-
+able chemotherapeutic agent doxorubicin, which presented
+a DNA damage index of 500 at the concentration of
+0.2 g/mL, the genotoxocity of coronaridine was low (Fig-
+ure 3).
+Lactate dehydrogenase activity
+The LDH measurements showed that, at the concen-
+trations tested, coronaridine did not increase LDH activity
+in either the Hep-2 tumor cells or the normal 3T3 cells
+(data not shown). These results suggest that this alkaloid
+does not cause damage to the cell membrane the cell lines
+tested.
+Discussion
+Of the indole alkaloids tested (coronaridine, voa-
+cangine and heyneanine), coronaridine showed the best
+cytotoxic activity against the human laryngeal carcinoma
+cell line Hep-2. We evaluated the cytotoxic activity of pure
+coronaridine, voacangine and heyneanine because of their
+structural similarity, since they all contain an indole group
+that characterizes their function. Coronaridine is character-
+ized by the presence of a functional ether group in the aro-
+matic ring, whereas voacangine and heyneanine present no
+substitution in the aromatic ring. The presence of this ether
+group in the aromatic ring may explain the greater cyto-
+toxic activity of coronaridine against Hep-2 cells (Figuei-
+redo et al., 2010). Coronaridine was also cytotoxic to the
+normal 3T3 cell line, demonstrating that this activity is not
+specific for tumor cells. This feature is often reported for
+current chemotherapeutic agents. The most commonly
+used anticancer drugs simply kill tumor cells, but also dam-
+age or kill neighboring healthy cells (Mancebo et al., 2002).
+Indole alkaloids purified from other
+Tabernaemontana species presented cytotoxic activity
+against both vincristine-sensitive (KB/S) and -resistant
+(KB/VJ300) epidermoid carcinoma cell lines (van Beek et
+al., 1984; Kam et al., 2004). These authors obtained IC50
+values of 11.5 and 2.6 g/mL for coronaridine, > 25 and
+8.56 g/mL for heyneanine, > 25 and > 25 g/mL for
+voacangine, and > 25 and > 25 g/mL for ibogamine in the
+KB/S and KB/VJ300 lines, respectively. These results de-
+monstrate that coronaridine and heyneanine reversed the
+process of multiple drug resistance in the vincristine-resis-
+tant cell line. Bradacs et al. (2010) evaluated the cytotoxic
+activity of a methanol extract of Tabernaemontana
+pandacaqui. This extract exhibited potent activity against
+renal cancer cells (786-0), with an IC50 value of
+4.62 g/mL. The ethyl acetate extract of this species re-
+duced the viability of lung cancer cells (IC50 of
+13.46 g/mL). The present study showed that purified
+coronaridine from T. catharinensis has a moderate cyto-
+toxic activity against the larynx carcinoma cell line tested,
+with an IC50 value higher than that obtained for T.
+pandacaqui tested in renal cancer cells. This finding might
+be due to differences between the types of cell lines used in
+the cytotoxicity assay. Although coronaridine exhibited a
+108 Rizo et al.
+Figure 2 - Number of viable, apoptotic and necrotic cells of the 3T3 (A)
+and Hep-2 (B) cell lines, cultured for 48 h in the presence of different con-
+centrations of coronaridine. p < 0.05 compared with control, by ANOVA
+followed by Tukey’s test.
+Figure 3 - DNA damage index of cells lines Hep-2 and 3T3 treated with
+different concentrations of coronaridine for 6 h, analyzed by the comet as-
+say. *p < 0.05 compared with control, by ANOVA followed by Tukey’s
+test.
+moderate cytotoxic activity, analysis of its mechanism of
+action showed that it induced apoptosis, did not cause dam-
+age to the cell membrane (as demonstrated by the LDH
+test), and caused minimal DNA damage (as determined by
+the comet assay). The commercial chemotherapeutic agent
+doxorubicin induced necrosis in the Hep-2 tumor cell line
+and even more so in normal 3T3 fibroblasts. Furthermore,
+doxorubicin caused greater DNA damage in normal than in
+tumor cells when compared to coronaridine. Carvalho et al.
+(2010) compared the effect of the anthracycline cosmo-
+mycin D and doxorubicin in DNA repair-deficient cell lines
+(XP-A and XP-C). Treatment of XP-A and XP-C cells with
+cosmomycin D induced apoptosis in a time-dependent
+manner. The highest degree of apoptosis was observed after
+96 h of treatment and the effects of this drug were similar to
+those of doxorubicin. Cosmomycin D was also found to
+cause DNA damage in the comet assay, however a mark-
+edly lower one than that caused by doxorubicin.
+Figueiredo et al. (2010) tested the alkaloids coro-
+naridine, (19S)-heyneanine, isovoacangine, isovoacristine
+and voacangine isolated from Tabernaemontana
+salzmannii and observed satisfactory cytotoxic activity
+against human leukemia cells (THP-1). Cell death due to
+apoptosis was detected in 100% of cells. Voacangine in-
+duced apoptosis in 80% of cells treated with 100 mol of
+the compound within a period of 24 h, whereas isovoa-
+cangine induced apoptosis in 80% of cells within a period
+of 6 h when tested at a concentration of 100 mol. No
+acridine-orange-stained cells were observed at any of the
+time points studied, suggesting that the alkaloids tested did
+not induce cell death by necrosis. Induction of apoptosis is
+the mechanism of action of various antineoplastic drugs,
+such as Taxol and cisplatin. The ability to induce apoptosis
+is therefore used as a screening tool for substances with
+antitumor activity (Kam and Sim, 2002). In this respect,
+monoterpene indole alkaloids isolated from the methanol
+extract of Tabernaemontana elegans leaves has been
+shown to induce apoptosis in human hepatoma cells
+(HuH-7) (Mansoor et al., 2009).
+In conclusion, of the indole alkaloids tested (hey-
+neanine, coronaridine and voacangine), coronaridine ex-
+hibited the greatest cytotoxic activity in the larynx carci-
+noma cell line used. When screening natural products for
+cytotoxicity, their genotoxic activity must be be taken into
+consideration, to prevent secondary tumors after treatment.
+Although coronaridine has a moderate cytotoxic activity, it
+presents advantages due to its mechanism of action. This al-
+kaloid induced apoptosis in Hep cells even at high concen-
+trations, caused minimal DNA damage only in the tumor
+cell line, and did not affect the cell plasma membrane.
+Acknowledgments
+The authors thank Fundação de Amparo à Pesquisa
+do Estado de São Paulo (FAPESP) for financial support
+(grant 2010/06245-7) and Pele Nova-Biotecnologia for the
+fellowship granted to W.F.R. We thank the staff of the Bio-
+technology Unit at UNAERP, for general support.
+References
+Andrade MT, Lima JA, Pinto AC, Rezende CM, Carvalho MP and
+Epifanio RA (2005) Indole alkaloids from
+Tabernaemontana australis (Muell. Arg) Miers that inhibit
+acetylcholinesterase enzyme. Bioorg Med Chem
+13:4092-4095.
+Araujo CC and Leon LL (2001) Biological activities of Curcuma
+longa L. Mem Inst Oswaldo Cruz 96:723-728.
+Bradacs G, Maes L and Heilmann J (2010) In vitro cytotoxic,
+antiprotozoal and antimicrobial activities of medicinal
+plants from Vanuatu. Phytother Res 24:800-809.
+Carvalho H, Garrido LM, Furlan RL, Padilla G, Agnoletto M,
+Guecheva T, Henriques JA, Saffi J and Menck CF (2010)
+DNA damage induced by the anthracycline cosmomycin D
+in DNA repair-deficient cells. Cancer Chemother Phar-
+macol 65:989-994.
+Castaneda SA, Tellez MG, Ocotero VM, Carballo-Ontiveros MA,
+García AM, Valdés RJ, Gutiérrez ER and Rodríguez-Arnaiz
+R (2011) Chronic toxicity, genotoxic assay, and phyto-
+chemical analysis of four traditional medicinal plants. J Med
+Food 14:1018-1022.
+Collins AR, Ma AG and Duthie SJ (1995) The kinetics of repair of
+oxidative DNA damage (strand breaks and oxidised pyrimi-
+dines) in human cells. Mutat Res 336:69-77.
+da Silva J, de Freitas TR, Heuser V, Marinho JR and Erdtmann B
+(2000) Genotoxicity biomonitoring in coal regions using
+wild rodent Ctenomys torquatus by Comet assay and micro-
+nucleus test. Environ Mol Mutagen 35:270-278.
+de Almeida L, Cintra AC, Veronese EL, Nomizo A, Franco JJ,
+Arantes EC, Giglio JR and Sampaio SV (2004) Anticrotalic
+and antitumoral activities of gel filtration fractions of aque-
+ous extract from Tabernaemontana catharinensis
+(Apocynaceae). Comp Biochem Physiol C Toxicol
+Pharmacol 137:19-27.
+Delorenzi JC, Attias M, Gattass CR, Andrade M, Rezende C, da
+Cunha Pinto A, Henriques AT, Bou-Habib DC and Saraiva
+EM (2001) Antileishmanial activity of an indole alkaloid
+from Peschiera australis. Antimicrob Agents Chemother
+45:1349-1354.
+Figueiredo ER, Vieira IJC, Souza JJD, Braz-Filho R, Mathias L,
+Kanashiro MM and Côrtes FH (2010) Isolamento, iden-
+tificação e avaliação da atividade antileucêmica de alca-
+loides indólicos monoterpênicos de Tabernaemontana
+salzmannii (A. DC.), Apocynaceae. Rev Bras Farmacogn
+20:675-681 (Abstract in English).
+Fucic A, Jazbec A, Mijic A, Seso-Simic D and Tomek R (1998)
+Cytogenetic consequences after occupational exposure to
+antineoplastic drugs. Mutat Res 416:59-66.
+Geard CR (1992) Cytogenetic assays for genotoxic agents. Lens
+Eye Toxic Res 9:413-428.
+Grivicich I, Regner A and Rocha AB (2007) Morte celular por
+apoptose. Rev Bras Cancerol 53:335-343.
+Hartmann A and Speit G (1997) The contribution of cytotoxicity
+to DNA-effects in the single cell gel test (comet assay).
+Toxicol Lett 90:183-188.
+Cytotoxicity of coronaridine 109
+Jemal A, Bray F, Center MM, Ferlay J, Ward E and Forman D
+(2011) Global cancer statistics. Cancer J Clin 61:69-90.
+Kam TS and Sim KM (2002) Five new iboga alkaloids from
+Tabernaemontana corymbosa. J Nat Prod 65:669-672.
+Kam TS, Sim KM, Pang HS, Koyano T, Hayashi M and Komi-
+yama K (2004) Cytotoxic effects and reversal of multidrug
+resistance by ibogan and related indole alkaloids. Bioorg
+Med Chem Lett 14:4487-4489.
+Kelekar A (2005) Autophagy. Ann N Y Acad Sci 1066:259-271.
+Lachenmeier DW, Walch SG, Padosch SA and Kroner LU (2006)
+Absinthe - A review. Crit Rev Food Sci Nutr 46:365-377.
+Li N, Xia Q, Ruan J, Fu PP and Lin G (2011) Hepatotoxicity and
+tumorigenicity induced by metabolic activation of pyrroli-
+zidine alkaloids in herbs. Curr Drug Metab 12:823-834.
+Liao W, McNutt MA and Zhu WG (2009) The comet assay: A
+sensitive method for detecting DNA damage in individual
+cells. Methods 48:46-53.
+Mancebo F, Hilje L, Mora GA and Salazar R (2002) Biological
+activity of two neem (Azadirachta indica A. Juss.,
+Meliaceae) products on Hypsipyla grandella (Lepidoptera,
+Pyralidae) larvae. Crop Protect 21:107-112.
+Mansoor TA, Ramalho RM, Mulhovo S, Rodrigues CM and
+Ferreira MJ (2009) Induction of apoptosis in HuH-7 cancer
+cells by monoterpene and beta-carboline indole alkaloids
+isolated from the leaves of Tabernaemontana elegans.
+Bioorg Med Chem Lett 19:4255-4258.
+McKelvey-Martin VJ, Green MH, Schmezer P, Pool-Zobel BL,
+De Méo MP and Collins A (1993) The single cell gel electro-
+phoresis assay (comet assay): A European review. Mutat
+Res 288:47-63.
+Medeiros MR, Prado LA, Fernandes VC, Figueiredo SS, Coppede
+J, Martins J, Fiori GM, Martinez-Rossi NM, Beleboni RO,
+Contini SH, et al. (2011) Antimicrobial activities of indole
+alkaloids from Tabernaemontana catharinensis. Nat Prod
+Commun 6:193-196.
+Mosmann T (1983) Rapid colorimetric assay for cellular growth
+and survival: Application to proliferation and cytotoxicity
+assays. J Immunol Methods 65:55-63.
+Pereira PS, França SC, Oliveira PVAO, Breves CMS, Pereira
+SIV, Sampaio SV, Nomizo A and Dias DA (2008) Chemical
+constituents from Tabernaemontana catharinensis root
+bark: A brief NMR review of indole alkaloids and in vitro
+cytotoxicity. Quim Nova 31:20-24.
+Perera P, Kanjanapothy D, Sandberg F and Verpoorte R (1985)
+Muscle relaxant activity and hypotensive activity of some
+Tabernaemontana alkaloids. J Ethnopharmacol 13:165-173.
+Prakash Chaturvedula VS, Sprague S, Schilling JK and Kingston
+DG (2003) New cytotoxic indole alkaloids from
+Tabernaemontana calcarea from the Madagascar rain-
+forest. J Nat Prod 66:528-531.
+Ribble D, Goldstein NB, Norris DA and Shellman YG (2005) A
+simple technique for quantifying apoptosis in 96-well plates.
+BMC Biotechnology 5:e12.
+Riedl S, Zweytick D and Lohner K (2011) Membrane-active host
+defense peptides - Challenges and perspectives for the de-
+velopment of novel anticancer drugs. Chem Phys Lipids
+164:766-781.
+Sayers TJ (2011) Targeting the extrinsic apoptosis signaling path-
+way for cancer therapy. Cancer Immunol Immunother
+60:1173-1180.
+Tice RR, Agurell E, Anderson D, Burlinson B, Hartmann A,
+Kobayashi H, Miyamae Y, Rojas E, Ryu JC and Sasaki YF
+(2000) Single cell gel/comet assay: Guidelines for in vitro
+and in vivo genetic toxicology testing. Environ Mol
+Mutagen 35:206-221.
+Tsukamoto A, Ohno K, Tsukagoshi T, Maeda S, Nakashima K,
+Fukushima K, Fujino Y, Takeuchi A and Tsujimoto H
+(2011) Ultrasonographic evaluation of vincristine-induced
+gastric hypomotility and the prokinetic effect of mosapride
+in dogs. J Vet Intern Med 25:1461-1464.
+van Beek TA, Deelder AM, Verpoorte R and Svendsen AB (1984)
+Antimicrobial, antiamoebic and antiviral screening of some
+Tabernaemontana species. Planta Med 50:180-185.
+Vieira IJ, Medeiros WL, Monnerat CS, Souza JJ, Mathias L,
+Braz-Filho R, Pinto AC, Sousa PM, Rezende CM and Epi-
+fanio RA (2008) Two fast screening methods (GC-MS and
+TLC-ChEI assay) for rapid evaluation of potential anti-
+cholinesterasic indole alkaloids in complex mixtures. An
+Acad Bras Cienc 80:419-426.
+Associate Editor: Daisy Maria Fávero Salvadori
+License information: This is an open-access article distributed under the terms of the
+Creative Commons Attribution License, which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly cited.
+110 Rizo et al.

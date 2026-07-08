@@ -1,0 +1,2584 @@
+Research Article
+A Method for the Simultaneous Determination of Chlorogenic
+Acid and Sesquiterpene Lactone Content in Industrial Chicory
+Root Foodstuffs
+Honorine Willeman,1 Philippe Hance,1 Anne Fertin,2 Najia Voedts,1 Nathalie Duhal,3
+Jean-François Goossens,3 and Jean-Louis Hilbert1
+1UMR 1281, Stress Abiotiques et Diffe´renciation des Ve´ge´taux Cultive´s, GIS GENOCHIC, INRA, IFR147,
+Universite´ Lille 1 Sciences et Technologies, Cite´ Scientifique, 59655 Villeneuve d’Ascq, France
+2IUT A, De´partement Ge´nie Biologique, Universite´ Lille 1 Sciences et Technologies, 59655 Villeneuve d’Ascq, France
+3Faculte´ des Sciences Pharmaceutiques et Biologiques, Centre Universitaire de Mesures et d’Analyses (CUMA), Universite´ Lille 2,
+BP 83, 3 rue du Pr. Laguesse, 59006 Lille Cedex, France
+Correspondence should be addressed to Jean-Louis Hilbert; jean-louis.hilbert@univ-lille1.fr
+Received 16 July 2014; Accepted 3 October 2014; Published 4 December 2014
+Academic Editor: Thomas Efferth
+Copyright © 2014 Honorine Willeman et al. This is an open access article distributed under the Creative Commons Attribution
+License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly
+cited.
+A method for the simultaneous determination of free chlorogenic acids (CGA) and sesquiterpene lactones (STL) in chicory root
+and its dried (flour) and roasted (grain) forms is described. The method uses one extraction and one analysis for all chicory root
+products. Various solvents with low to high polarity, such as methanol, chloroform, or n-hexane, were tested alone, in combination
+in different proportions or with acidified or neutral aqueous solvent. The water/chloroform/methanol (30/30/40, v/v/v) mixture
+generated the best extraction yield, 21%higher than alcoholmixtures.Theprofiling ofCGAand STL contentwas performed through
+a conventional HPLC-DADmethod using a PFP core shell column in a fast single run. Good retention time and area repeatability
+(RDD mean % 0.46 and 5.6, resp.) and linearity (𝑅2 ≥ 0.96) were obtained. The STL and chlorogenic acids levels determined
+were 254.7 and 100.2 𝜇g/g of dry matter in the root, 792.5 and 1,547 𝜇g/g in flour, and 160.4 and 822.5 𝜇g/g in the roasted grains,
+respectively. With an average recovery of 106% and precision of 90%, this method is rapid, reproducible, and straightforward way
+to quantify the chlorogenic acids and STL in chicory raw material and end products.
+1. Introduction
+Sesquiterpene lactones (STL) and chlorogenic acids (CGA)
+are soluble secondary main metabolites that accumulate in
+Asteraceae, especially in chicory [1]. The diversity of the
+chemical structure of these compounds allows these mol-
+ecules to be involved in various physiological processes used
+by plants, such as the attraction of pollinators [2], the re-
+pulsion of herbivores [3], and protection against pathogens
+[4].
+Many cultivated types of chicory (Cichorium intybus L.)
+exist, such as those used in salads, forage, and, in particular,
+industrial chicory utilized for the production of roots as raw
+material. Industrial chicory (Cichorium intybus var. sativum)
+has economic importance in many agricultural regions in
+the world as a source of inulin or food [5]. In northern
+France, chicory root is grown especially for use as dried or
+roasted products and beverage. Once harvested, the root is
+sliced and dried to produce an intermediate raw material
+called green slices.The slices are either ground to obtain flour
+or roasted and then crushed into grains. The grains can be
+marketed directly or extracted with hot water to obtain a
+concentrated liquid or, after spray-drying, soluble powders.
+Chicory flour can be used as bread-improving ingredient, and
+when roasted, chicory is used to enhance the aroma, color,
+or flavor of food. Thus, chicory root is consumed in different
+forms of derivative products in the human diet.
+Hindawi Publishing Corporation
+e Scientiﬁc World Journal
+Volume 2014, Article ID 583180, 11 pages
+http://dx.doi.org/10.1155/2014/583180
+2 The Scientific World Journal
+In addition to their known roles in plants, secondary
+metabolites present in chicory root may add value to food
+products via their biological properties. STL and CGA are
+known for their anti-inflammatory [6], analgesic [7], and
+neuroprotective actions [8]. 3,5-Di-O-caffeoylquinic acid, a
+chlorogenic acid, is responsible for nearly 70% of the antiox-
+idant activity of chicory [9]. In addition to their potential
+beneficial effects on human health, these secondary metabo-
+lites play a role in the organoleptic properties of chicory.
+Indeed, chicory root is known for its bitter taste, which is
+essentially due to STL, mainly lactucin (Lc) and lactucopicrin
+(Lp) [10, 11].
+Taken together, these nutritional and organoleptic prop-
+erties are important factors for the appreciation and con-
+sumption of chicory products.The contents of STL and CGA
+represent a quality parameter of the raw material. Charac-
+terizing these compounds is part of a broader framework
+of varietal improvement and process optimization programs
+designed to improve the end product quality. However,
+these approaches are constrained by the requirement for the
+often tedious extraction of several thousand samples, routine
+analysis, and multiple assays to ensure the detection of these
+molecular families in various matrices.
+The composition and distribution of STL and CGA
+have been extensively studied in leaf products of chicory
+crops such as salads, chicon, and forage [12–14]. However,
+despite studies of these compounds in fresh or roasted roots
+[11, 15, 16], the contents of both free STL and CGA in
+industrial chicory root and its derivative foods have not been
+determined.
+Extraction modalities differ from one group of molecules
+to another and depend on the plant material from which
+the molecules are extracted. From the leaf of Cichorium
+intybus L. var. sylvestre, Mulinacci et al. [17] extracted CGA
+using water and fractionation by many solvents (ethanol, n-
+hexane, chloroform, and ethyl acetate). Price et al. [10] used
+methanol and chloroform to extract STL from the leaf of
+Cichorium intybus L. var. foliosum and var. sylvestre. Van Beek
+et al. [11] used ethyl acetate, methanol, chloroform, ethanol,
+and acetone sequentially to extract STL from the root of
+Cichorium intybus. More recently, the extraction of STL and
+CGA from “Catalogna and Head Radicchio” chicory leaves
+using a unique mixture of solvents was proposed [18] with
+separate analyses for the STL and CGA by high-performance
+liquid chromatography coupled to a diode array detector
+(HPLC-DAD).
+Until now, no method for determining the major sec-
+ondary metabolites involved in the qualities of the chicory
+root and processed products from this plant has been
+described.Thepurpose of this studywas the development and
+validation of a method for the simultaneous determination
+of free STL and CGA from the root of Cichorium intybus
+var. sativum and its food products, including extraction and
+analysis. In our work, we tested different solvents and combi-
+nations of solvents to extract these major secondary metabo-
+lites from several matrices. We also developed a quantitative
+analytic method on conventional HPLC-DAD and a polar
+reverse-phase column Kinetex PFP for the rapid and self-
+limiting separation of target compounds. Compounds were
+authenticated by ultraperformance liquid chromatography
+coupled with high resolution mass spectrometer (UPLC-
+HRMS).
+2. Methods
+2.1. Biological Materials. Three major transformation prod-
+ucts of industrial chicory were analyzed. The root was ob-
+tained from an agronomic trial, located in Coutiches, France,
+conducted in 2011 by the company Florimond-Desprez
+Veuve et Fils SAS (Capelle-en-Pe´ve`le, France). Flour and
+roasted grains were obtained from the company Leroux SAS
+(Orchies, France).
+The samples were immediately frozen in liquid nitrogen
+and stored at −80∘C. For the experiments, the samples were
+freeze-dried (48 h) and ground (ball mill, Retsch, Eragny sur
+Oise, France) using 50mL wells and 25mm balls to obtain a
+fine powder. These samples were stored at −80∘C.
+2.2. Analytical Reagents and Chemicals. The solvents (meth-
+anol (MeOH), ethanol (EtOH), chloroform (CHCl
+3
+), dichlo-
+romethane (CH
+2
+Cl
+2
+), acetonitrile (ACN), acetone (Ac), ethyl
+acetate (EtOAc), and n-hexane (n-hex)), acetic acid (AAC),
+formic acid (FA), and ortho-phosphoric acid used for the
+extraction and chemical analysis were all HPLC grade and
+were obtained from the Dislab company (Lens, France). All
+of these solvents and acids were stored at 4∘C. The standards
+used for the HPLC analysis were 5-mono-O-caffeoylquinic
+acid (5-CQA) and 3,5-di-O-caffeoylquinic acid (3,5-diCQA)
+and were provided by Biopurify (Chengdu, China). 11(S),13-
+Dihydrolactucin (DHLc), lactucin (Lc), 11(S),13-dihydrolac-
+tucopicrin (DHLp), and lactucopicrin (Lp) were provided
+by Extrasynthe`se (Genay, France); 11(S),13-dihydro-8-deoxy-
+lactucin (DHdLc) and 8-deoxylactucin (dLc) were extracted,
+purified in the laboratory from industrial chicory root, and
+authenticated by 1H nuclear magnetic resonance (NMR) and
+13C NMR [19] (Figure 1).
+2.3. Extraction of CGA and STL. Several extraction methods
+have been tested using different solvents and combinations
+to extract CGA and STL simultaneously, including methanol
+100% (MeOH); ethanol 100% (EtOH); acetone 100% (Ac);
+ethyl acetate 100% (EtOAc); n-hexane 100% (n-hex); chloro-
+form 100% (CHCl
+3
+); dichloromethane 100% (CH
+2
+Cl
+2
+); 25/75,
+50/50, and 75/25 mixtures (v/v) of water/methanol (H
+2
+O/
+MeOH), water/chloroform (H
+2
+O/CHCl
+3
+), and water/ethanol
+(H
+2
+O/EtOH); 75/24/1, 75/23/2, 75/22/3, and 75/21/4 mixtures
+(v/v/v) of methanol/water/acetic acid (MeOH/H
+2
+O/AAC)
+and methanol/water/formic acid (MeOH/H
+2
+O/FA); and 40/
+40/20, 30/30/40, 25/25/50, and 20/20/60 mixtures (v/v/v) of
+water/chloroform/methanol (H
+2
+O/CHCl
+3
+/MeOH). These
+extractions were carried out by maceration; 100mg pow-
+der was extracted with 1.5mL of solvent (1/15 ratio, w/v).
+For the extraction modalities with water/chloroform and
+water/chloroform/methanol, the solvents were added one at a
+time.The tubeswere agitated for 17 h (o/n) in the dark at room
+temperature. The tubes were then centrifuged (12,000 r.p.m.
+at 4∘C for 8min), and the supernatantswere filtered in 96-well
+The Scientific World Journal 3
+O
+O
+O
+OH
+CH3
+R1
+R2
+(1) R1 = OH
+(2) R1 = H
+(3) R1 = O2CCH2PhOH
+(4) R1 = OH
+(5) R1 = H
+(6) R1 = O2CCH2PhOH
+R2 = CH2
+R2 = CH2
+R2 = CH2
+R2 = CH3
+R2 = CH3
+R2 = CH3
+SP = 83
+SP = 63.6
+SP = 110
+SP = 83
+SP = 63.6
+SP = 110
+SP = 200
+OH
+OH
+OH
+OH
+OH
+OH
+OH
+OH
+OH
+OH
+HO
+HO
+HO
+O
+OO
+O
+O
+O
+O
+O
+SP = 164.7
+logP = −0.7
+logP = 0.208
+logP = 1.1
+logP = −0.54
+logP = 0.37
+logP = 1.27
+(7) logP = 1.5
+(8) logP = −0.45
+Figure 1: Structure, log𝑃 values, and surface polarity (SP) of the six sesquiterpene lactones: lactucin (1), 8-deoxylactucin (2), lactucopicrin
+(3), 11(S),13-dihydrolactucin (4), 11(S),13-dihydro-8-deoxylactucin (5), 11(S), 13-dihydrolactucopicrin (6), and two chlorogenic acids: 3,5-di-
+O-caffeoylquinic acid (7) and 5-mono-O-caffeoylquinic acid (8) identified in chicory roots products.
+microplates (Pall GHP 0.45𝜇m, VWR, Fontenay-sous-Bois,
+France) and then analyzed by HPLC-DAD. Each extraction
+method was repeated three times. The H
+2
+O/CHCl
+3
+and
+H
+2
+O/CHCl
+3
+/MeOH systems were immiscible, but adding
+500𝜇L of MeOH allowed for the phases mixing.
+2.4. HPLC-DAD Quantification. A Prominence HPLC sys-
+tem (Shimadzu, Marne la Valle´e, France) consisting of a
+quaternary pump (LC-20AD) and a UV-visible diode array
+detector (SPD-20A) was used to detect CGA and STL at
+320 and 254 nm, respectively. A Kinetex PFP column (100 ×
+4.6mm, 2.6 𝜇m) (Phenomenex, Le Pecq, France) was used
+for compound separation. The separation method lasted 16.5
+min.The elutionwas performed in gradientmode using three
+different solvents—water (solvent A), MeOH (solvent B), and
+ACN (solvent C)—all acidified with 0.1% ortho-phosphoric
+acid. Solvent B gradient rose from an initial 7.5–17.5% at
+1min, 32.5% at 5min, and 80% at 8min, returning to 7.5%
+at 9min until the end of the run; solvent C was kept at 12%
+throughout.Theoven temperaturewas 45∘C, and the flow rate
+was 1.1mL/min. The amount of sample injected was 5 𝜇L.
+The quantification was performed by external calibration
+using standards (5-CQA, 3,5-diCQA, DHLc, Lc, DHdLc,
+dLc DHLp, Lp.), each repeated five times. The respective
+calibration curves were constructed by linear regression
+plotting signal area versus compound concentration. The
+analytic precision was measured within and between days.
+Each extractwas analyzed three times consecutively and three
+times on three different days.
+2.5.UPLC-HighResolutionMSAnalysis/Authentication. Chro-
+matographic separation was performed on an Accela UPLC
+system (Thermo Scientific) equipped with a Kinetex PFP col-
+umn (100 × 4.6mm, particle size 2.6𝜇m; Phenomenex). The
+elution was performed with the same HPLC-DAD gradient
+mode as described previously using water (solvent A),MeOH
+(solvent B), and ACN (solvent C), all acidified with 0.1%
+formic acid. The LC flow rate was 1mL/min; the injection
+volumewas 5𝜇L.The columnoven temperaturewas 45∘Cand
+the sample tray temperature 4∘C.
+Eluted compounds were detected in negative mode in
+full mass scan (m/z 120 to 900) using a Thermo Scientific
+Orbitrap Mass Spectrometer Q Exactive equipped with a
+heated electrospray ionization source (HESI-II). Instrument
+parameters were as follows: sheath gas 60, auxiliary gas 20
+(both arbitrary units), spray voltage 4 kV, capillary tempera-
+ture 275∘C, capillary voltage −60V, tube lens voltage −135V,
+skimmer voltage −20V, and source temperature 300∘C.
+4 The Scientific World Journal
+Mass spectra were recorded at a resolution of 50,000 with
+an automatic gain control (AGC) target of 500,000 and a
+maximum injection time of 500ms.
+2.6. Validation Method
+2.6.1. Linearity, Limit of Detection (LOD), and Limit of Quan-
+tification (LOQ). Linearity was studied for each molecule.
+Using a series of seven dilutions, the standard concentrations
+ranged from 3.3 to 70,000 ng/mL, and each was repeated five
+times.
+The LOD and LOQ were determined for each molecule.
+All dilutions were analyzed by HPLC-DAD to determine the
+average concentration (𝜇) corresponding to the loss of signal
+detection and quantification (blank sample) for each of the
+three products. The LOD was defined by 𝜇 + 3𝜎 and LOQ
+by 𝜇 + 10𝜎, where 𝜎 represents the standard deviation of the
+blank.
+2.6.2. Precision and Specificity. Repeatability was evaluated
+for each product by six successive repetitions of the extraction
+method. Reproducibility was calculated for each product
+by three successive repetitions performed on different days.
+The coefficient of variation (% respective standard deviations
+(RSD)) served as a measure of precision.
+The specificity of the extraction method was evaluated by
+varying the proportions of solvents H
+2
+O/CHCl
+3
+/MeOH plus
+and minus 4% compared to the optimal method.
+2.6.3. Extractability and Recovery Rate Matrix Effect. The
+root, flour, and roasted grains were extracted using the
+optimum conditions according to the extractionmethod (see
+Section 2.3). Once all the supernatant was recovered, the
+pellet was reextracted under the conditions described above.
+Three repetitions were performed on each product. The
+extraction efficiency was the rate of extractable compounds
+(without reextraction) under the optimal modality and was
+measured as the ratio between the contents obtained during
+the first extraction (𝐸1) and all contents (first extraction
+(𝐸1) + reextraction 17 h (𝐸2)). The extraction rate (ER) is
+expressed as
+ER = ( 𝐸1
+(𝐸1 + 𝐸2)
+) × 100. (1)
+The recovery rate was calculated by adding 0.075, 0.15, or
+0.3mM of 5-CQA; 0.0075, 0.03, or 0.075mM of 3,5-diCQA;
+or 0.007, 0.014, or 0.045mMofDHLc to the flour.Three repli-
+cates are performed by employing the optimum extraction
+modality. The recovery rate (RR) is the ratio between the
+measured content (MC) and the theoretical content (TC):
+RR = (MC
+TC
+) × 100. (2)
+The effect of the extraction mixture on possible conversions
+of the chemical structures of the target compounds was
+evaluated by observing the variation in their content by
+HPLC-DAD analysis.Three representative target compounds
+(5-CQA, 3,5-diCQA, and DHLc) were directly added indi-
+vidually in three different concentrations to the solvent
+mixture, in a chicory or “no-chicory matrix” (flour wheat).
+The extraction procedure was completed as described. The
+overlapping of chromatographic signals corresponding to the
+addition of themolecules was evaluated. Nomatrix effect was
+obtained when no interfering peak was present and when the
+linearity of the response was observed.
+2.7. Statistics and Calculation. All extractions and analyses
+were performed in triplicate, except for linearity, which was
+repeated five times. Data are expressed as the means of
+individual repeats with the RSD of each extraction condition.
+Statistical analysis was performed using R 2.15.1 forWindows
+[20] and used to examine between-extract variation. When
+the Bartlett test was significant for homogeneity of variance,
+the extraction effect on metabolite levels was estimated by
+a one-way ANOVA, and mean separations were evaluated
+by pairwise comparison using Student’s 𝑡-test. Log𝑃 values
+(predicted lipophilicity) were calculated from online chem-
+informatics services provided by theMolinspiration Property
+Calculation Service (2013) [21].
+3. Results and Discussion
+3.1. Method Development. Several methods for extracting
+STL or CGA from the leaves of Cichorium intybus L. var.
+Catalogna and var. Rosso di Chioggia [18], var. sylvestre [17],
+and Cichorium endivia var. crispa [22] have been described.
+However, no method for the determination of STL and
+CGA exists for industrial chicory root and its derivatives.
+In our work, these compounds were determined in different
+products of chicory from a single extraction and analysis.The
+relative contents obtained from the extraction were evaluated
+by HPLC-DAD.
+The first screen was performed using pure solvents that
+cover a wide range of polarity, including MeOH, EtOH,
+Ac, EtOAc, n-hex, CHCl
+3
+, or CH
+2
+Cl
+2
+. Only the contents
+obtained from a selection of solvents (maximum extraction
+without excluding any metabolites) are shown in Table 1.
+Thus, the extraction efficiency of MeOH compared to EtOH
+orCHCl
+3
+was, on average, 4.5 times higher for all products. In
+general, in terms of the quantity of STL and CGA extracted,
+methanol is more effective (𝑃 value < 0.05) than the less
+polar solvents such as chloroform [23] and ethanol [24].
+The other tested solvents, including acetone, ethyl acetate, n-
+hexane, and dichloromethane, delivered extraction yields up
+to 7 times lower than MeOH. These data are confirmed by
+the work of Ferioli and D’Antuono [18], which demonstrated
+that the extraction of chicory salad with MeOH yields at
+least twice the STL of extraction with EtOH, acetone, or
+ethyl acetate. Although molecules are mainly extracted with
+chloroform, ethanol, and methanol, the content increases
+with solvent polarity. The solubility of STL and CGA, such
+as Lc or 5-CQA, in the alcoholic solvents may be due to the
+high surface polarity notably induced by hydroxyl, carbonyl,
+and 𝛾-lactone moieties. However, the presence of methyl,
+methylene, and phenyl groups provides a lipophilic character
+The Scientific World Journal 5
+Ta
+bl
+e
+1:
+C
+on
+te
+nt
+so
+fC
+G
+A
+(5
+-C
+Q
+A
+,3
+,5
+-d
+iC
+Q
+A
+)a
+nd
+ST
+L
+(D
+H
+Lc
+,L
+c,
+D
+H
+dL
+c,
+dL
+c,
+D
+H
+Lp
+,L
+p)
+in
+th
+er
+oo
+t,
+flo
+ur
+,a
+nd
+ro
+as
+te
+d
+gr
+ai
+ns
+ex
+tr
+ac
+te
+d
+by
+di
+ffe
+re
+nt
+so
+lv
+en
+ts
+an
+d
+so
+lv
+en
+tm
+ix
+tu
+re
+s.
+So
+lv
+en
+ts/
+so
+lv
+en
+tm
+ix
+tu
+re
+sa
+M
+et
+ab
+ol
+ite
+sb
+-𝜇
+g/
+g
+of
+dr
+y
+m
+at
+te
+r±
+SD
+𝑃
+va
+lu
+e
+5-
+CQ
+A
+3,
+5-
+di
+CQ
+A
+D
+H
+Lc
+Lc
+D
+H
+dL
+c
+dL
+c
+D
+H
+Lp
+Lp
+TO
+TA
+L
+Ro
+ot
+M
+eO
+H
+52
+.5
+±
+15
+.8
+bc
+41
+.3
+±
+12
+.9
+ab
+26
+.7
+±
+8.
+5b
+52
+.8
+±
+15
+.7
+bc
+37
+.9
+±
+3.
+7a
+b
+3.
+6
+±
+0.
+2c
+3.
+8
+±
+1cd
+36
+.4
+±
+2.
+7c
+25
+5
+±
+56
+.1
+2
+.3
+0
+𝐸
+−
+0
+2
+Et
+O
+H
+4.
+3
+±
+0.
+7d
+9.7
+±
+2.
+2c
+3.
+8
+±
+0.
+5c
+8.
+9
+±
+1d
+8.
+4
+±
+1.3
+d
+0.
+9
+±
+0.
+05
+d
+2.
+2
+±
+0.
+1c
+13
+.1
+±
+1.1
+d
+51
+.3
+±
+6.
+8
+—
+CH
+Cl
+3
+3.
+6
+±
+0.
+3d
+1.9
+±
+0.
+4d
+4.
+8
+±
+0.
+4c
+8.
+6
+±
+0.
+5d
+4.
+7
+±
+0.
+2e
+1±
+0.
+07
+e
+1.4
+±
+0.
+2d
+9.8
+±
+0.
+4e
+35
+.8
+±
+0.
+8
+5
+.8
+3
+𝐸
+−
+0
+2
+H
+2O
+/M
+eO
+H
+66
+.2
+±
+0.
+9c
+37
+.4
+±
+0.
+7b
+48
+.7
+±
+2.
+4a
+88
+.6
+±
+3.
+2a
+b
+39
+.4
+±
+0.
+3b
+5.
+6
+±
+0.
+06
+a
+20
+.9
+±
+0.
+6a
+38
+.3
+±
+0.
+07
+c
+34
+5.
+1±
+6.
+5
+7
+.1
+4
+𝐸
+−
+0
+7
+M
+eO
+H
+/H
+2O
+/A
+AC
+73
+.5
+±
+1b
+50
+.4
+±
+0.
+8a
+42
+.5
+±
+1.5
+b
+77
+.7
+±
+2.
+8c
+42
+.4
+±
+1.2
+a
+4.
+5
+±
+0.
+4b
+6.
+1±
+0.
+4b
+44
+.7
+±
+1.5
+b
+34
+1.8
+±
+7.8
+1
+.2
+9
+𝐸
+−
+0
+6
+H
+2O
+/C
+H
+Cl
+3/
+M
+eO
+H
+91
+.9
+±
+5.
+7a
+8.
+3
+±
+0.
+7c
+53
+.3
+±
+3.
+3a
+97
+.4
+±
+5.
+5a
+24
+.3
+±
+0.
+3c
+6.
+8
+±
+1.3
+ab
+18
+.9
+±
+1.2
+a
+54
+±
+3.
+3a
+35
+4.
+9
+±
+15
+.3
+1
+.3
+0
+𝐸
+−
+0
+4
+Fl
+ou
+r
+M
+eO
+H
+23
+9.7
+±
+29
+.3
+c
+13
+1.9
+±
+19
+.2
+c
+56
+.1
+±
+5.
+3d
+58
+.7
+±
+10
+.9
+d
+11
+5.
+8
+±
+17.
+4c
+5
+±
+0.
+7c
+10
+.8
+±
+0.
+9b
+48
+±
+8.
+5c
+d
+66
+6
+±
+91
+.2
+1
+.1
+3
+𝐸
+−
+0
+2
+Et
+O
+H
+35
+.8
+±
+3.
+2e
+46
+.8
+±
+3.
+9d
+15
+±
+2.
+1f
+46
+.3
+±
+6.
+4d
+59
+.4
+±
+6.
+9d
+3.
+6
+±
+1c
+7.8
+±
+1.4
+c
+58
+.5
+±
+5.
+8c
+27
+3.
+2
+±
+30
+.7
+—
+CH
+Cl
+3
+10
+7.7
+±
+11
+.6
+d
+58
+±
+2.
+5d
+30
+.3
+±
+1.5
+e
+39
+.5
+±
+1.5
+d
+64
+.4
+±
+2.
+9d
+3.
+7
+±
+0.
+1c
+7.5
+±
+0.
+08
+c
+38
+.8
+±
+0.
+5d
+34
+9.9
+±
+18
+.1
+2
+.6
+3
+𝐸
+−
+0
+2
+H
+2O
+/M
+eO
+H
+59
+0.
+9
+±
+21
+.3
+b
+28
+1.4
+±
+16
+.3
+b
+117
+.7
+±
+3.
+5b
+12
+5.
+1±
+4b
+24
+0.
+5
+±
+8.
+6b
+19
+.4
+±
+1.4
+b
+22
+.8
+±
+2.
+2a
+87
+.4
+±
+7.2
+ab
+1,4
+85
+.2
+±
+64
+.5
+7
+.4
+4
+𝐸
+−
+0
+5
+M
+eO
+H
+/H
+2O
+/A
+AC
+55
+7.6
+±
+17.
+9b
+30
+0.
+2
+±
+11
+.9
+b
+10
+4.
+3
+±
+1.1
+c
+10
+3.8
+±
+5.
+3c
+23
+5.
+8
+±
+11
+.6
+b
+29
+.3
+±
+1.5
+a
+19
+±
+1.1
+a
+83
+.6
+±
+4b
+1,4
+33
+.6
+±
+54
+.4
+2
+.8
+6
+𝐸
+−
+0
+5
+H
+2O
+/C
+H
+Cl
+3/
+M
+eO
+H
+81
+0.
+7
+±
+24
+.8
+a
+41
+0.
+6
+±
+38
+.3
+a
+14
+7.8
+±
+7.3
+a
+15
+0
+±
+1a
+31
+8.
+8
+±
+29
+.7
+a
+38
+.3
+±
+6.
+5a
+27
+.2
+±
+3.
+8a
+110
+.4
+±
+11
+.8
+a
+2,
+01
+3.
+8
+±
+12
+3.
+2
+7
+.5
+7
+𝐸
+−
+0
+4
+Ro
+as
+te
+d
+gr
+ai
+n
+M
+eO
+H
+34
+5.
+4
+±
+38
+.7
+c
+79
+.4
+±
+8.
+4c
+3.
+1±
+1.1
+a
+32
+.3
+±
+3.
+4a
+43
+.9
+±
+4.
+3c
+5.
+2
+±
+3.
+3b
+4.
+4
+±
+0.
+9a
+22
+±
+1.4
+b
+53
+5.
+7
+±
+61
+.5
+3
+.5
+1
+𝐸
+−
+0
+3
+Et
+O
+H
+56
+.5
+±
+4.
+5d
+20
+.2
+±
+3.
+4d
+0.
+3
+±
+0.
+1b
+14
+.4
+±
+1.7
+d
+16
+.1
+±
+3.
+3d
+nd
+0.
+5
+±
+0.
+7c
+d
+12
+.5
+±
+0.
+9c
+12
+0.
+5
+±
+14
+.6
+—
+CH
+Cl
+3
+37
+.5
+±
+14
+.7
+d
+16
+.9
+±
+1.3
+d
+0.
+3
+±
+0.
+3b
+13
+.1
+±
+1.8
+d
+12
+.9
+±
+0.
+8d
+nd
+2.
+3
+±
+0.
+2b
+11
+.6
+±
+1.3
+c
+94
+.6
+±
+20
+.4
+9
+.7
+3
+𝐸
+−
+0
+2
+H
+2O
+/M
+eO
+H
+56
+4
+±
+28
+.3
+a
+14
+3.
+4
+±
+9.1
+a
+nd
+22
+.1
+±
+3.
+6b
+c
+64
+.2
+±
+3.
+5a
+b
+nd
+nd
+26
+.7
+±
+4.
+2a
+b
+82
+0.
+4
+±
+48
+.7
+2
+.4
+4
+𝐸
+−
+0
+4
+M
+eO
+H
+/H
+2O
+/A
+AC
+37
+5.
+4
+±
+8.
+1c
+92
+.6
+±
+9.1
+c
+nd
+16
+.5
+±
+1.6
+cd
+61
+.7
+±
+8.
+4b
+nd
+1±
+0.
+07
+d
+18
+.2
+±
+0.
+8a
+56
+5.
+4
+±
+28
+.1
+1
+.8
+7
+𝐸
+−
+0
+5
+H
+2O
+/C
+H
+Cl
+3/
+M
+eO
+H
+49
+9.6
+±
+22
+.8
+b
+119
+.2
+±
+10
+.4
+b
+1.3
+±
+2.
+3a
+b
+22
+.9
+±
+0.
+1b
+92
+.8
+±
+7.9
+a
+16
+.4
+±
+5.
+4a
+1.3
+±
+0.
+09
+c
+25
+.7
+±
+3.
+3a
+b
+77
+9.2
+±
+51
+.9
+6
+.9
+6
+𝐸
+−
+0
+6
+D
+iff
+er
+en
+tl
+et
+te
+rs
+in
+th
+es
+am
+ec
+ol
+um
+n
+w
+ith
+in
+th
+es
+am
+ep
+ro
+du
+ct
+in
+di
+ca
+te
+sig
+ni
+fic
+an
+td
+iff
+er
+en
+ce
+s(
+𝑃
+<
+0
+.0
+5
+).
+𝑃
+va
+lu
+e:
+ca
+lc
+ul
+at
+ed
+by
+co
+m
+pa
+ris
+on
+to
+th
+er
+es
+ul
+ts
+ob
+ta
+in
+ed
+w
+ith
+et
+ha
+no
+le
+xt
+ra
+ct
+io
+n.
+a M
+eO
+H
+:
+m
+et
+ha
+no
+l
+10
+0%
+;
+Et
+O
+H
+:
+et
+ha
+no
+l
+10
+0%
+;
+CH
+Cl
+3:
+ch
+lo
+ro
+fo
+rm
+10
+0%
+;
+H
+2O
+/M
+eO
+H
+:
+w
+at
+er
+/m
+et
+ha
+no
+l
+25
+/7
+5
+(v
+/v
+);
+M
+eO
+H
+/H
+2O
+/A
+AC
+:
+m
+et
+ha
+no
+l/w
+at
+er
+/a
+ce
+tic
+ac
+id
+75
+/2
+4/
+1
+(v
+/v
+/v
+);
+H
+2O
+/C
+H
+Cl
+3/
+M
+eO
+H
+:
+w
+at
+er
+/c
+hl
+or
+of
+or
+m
+/m
+et
+ha
+no
+l3
+0/
+30
+/4
+0
+(v
+/v
+/v
+).
+b 5
+-C
+Q
+A
+:5
+-m
+on
+o-
+O
+-c
+aff
+eo
+yl
+qu
+in
+ic
+ac
+id
+;3
+,5
+-d
+iC
+Q
+A
+:3
+,5
+-d
+i-O
+-c
+aff
+eo
+yl
+qu
+in
+ic
+ac
+id
+;D
+H
+Lc
+:1
+1(
+S)
+,13
+-d
+ih
+yd
+ro
+la
+ct
+uc
+in
+;L
+c:
+la
+ct
+uc
+in
+;D
+H
+dL
+c:
+11
+(S
+),1
+3-
+di
+hy
+dr
+o-
+8-
+de
+ox
+yl
+ac
+tu
+ci
+n;
+dL
+c:
+8-
+de
+ox
+yl
+ac
+tu
+ci
+n;
+D
+H
+Lp
+:1
+1(S
+),1
+3-
+di
+hy
+dr
+ol
+ac
+tu
+co
+pi
+cr
+in
+;L
+p:
+la
+ct
+uc
+op
+ic
+rin
+.
+SD
+:s
+ta
+nd
+ar
+d
+de
+vi
+at
+io
+ns
+ob
+ta
+in
+ed
+by
+th
+re
+er
+ep
+et
+iti
+on
+s.
+nd
+:n
+ot
+de
+te
+ct
+ed
+.
+6 The Scientific World Journal
+to the compounds that can explain their extractability in less
+polar solvents, such as chloroform. As observed with DHLp
+and Lp, their greater solubility in chloroform and in nonaque-
+ous solvents, such as hexane or dichloromethane (data not
+shown), might be related to their higher lipophilicity shown
+by the calculated log𝑃 values of 1.27 and 1.1, respectively
+(Figure 1).
+Extractability was increased by expanding the polarity
+range with the addition of water (25, 50, or 75%) to three
+selected solvents. The aqueous alcohol system H
+2
+O/MeOH
+(25/75, v/v) was more effective in extracting compounds
+with a low affinity for alcohol. Indeed, the addition of
+water increased the extraction efficiency of MeOH by 1.4,
+1.5, and 2.2 times for the root, roasted grains, and flour,
+respectively (Table 1). The water simultaneously reduced the
+dehydrating effect of MeOH and promoted its diffusion
+in the matrix, allowing a better penetration of the solvent
+mixture and an increased extraction of STL. These actions
+help to solubilize all target compounds more extensively.
+However, the effect was limited and resulted in a loss of
+performance when the percentages of water reached 50 and
+75%. Indeed, according to Elliott et al. [25], the swelling
+of the membranes favors the penetration of alcohol and is
+optimal when the proportion of water in the aqueous alcohol
+mixture is 25%. These results are confirmed by Song et al.
+[24], who found that a porous membrane is favored by a
+high concentration of alcohol. Under the same conditions,
+the water was tested in combination with CHCl
+3
+or EtOH. As
+in the case of MeOH, the best extraction rates were achieved
+with 25% water. Whereas a mixture of water and ethanol
+did not improve the extraction efficiency of the H
+2
+O/MeOH
+system (25/75, v/v), adding water to CHCl
+3
+increased the
+extraction rate of the roasted product and root by 2- and 3-
+fold, respectively. Chloroform, which is less polar than water,
+carries more amphiphilic-like and fewer polar compounds.
+According to Burianek andYousef [26], the interface between
+these two solvents, which results from their immiscibility,
+forms a suitable environment to concentrate these molecules.
+Moreover, during maceration, agitation optimizes not only
+the transfer of matrix molecules to water but also water to
+this interface. Therefore, the molecules’ affinity for less polar
+phases promotes their extraction in chloroform. To increase
+the extraction polarity, optimization was conducted using an
+H
+2
+O/MeOH combination (25/75, v/v), which we denote as
+H
+2
+O/MeOH.
+Organic acids are known to penetrate and destabilize
+agentmembranes [27]. As such, acetic acid (AAC) and formic
+acid (FA) were tested in addition to the methanol mixture to
+maximize extraction.TheMeOH/H
+2
+O/AAC system (75/24/1,
+v/v/v) conferred the same extraction yields for the root and
+flour but up to 1.5 times lower than the H
+2
+O/MeOH system
+for the roasted grains (Table 1). The final proportion of acid
+in the mixture (2, 3, or 4%) or the use of formic acid
+instead of acetic acid did not cause a significant difference
+in the extraction yields of flour (𝑃 value = 0.06) and roasted
+grains (𝑃 value = 0.14). Furthermore, the superposition
+and similarity of the absorption spectra of target signals
+indicated no difference between an acidified extraction and
+a nonacidified extraction (data not shown).
+The extraction method was optimized by combining
+waterwith chloroformandmethanol in different proportions.
+The presence of chloroform in the mixture increased the
+extraction yield of the flour by 35% compared to H
+2
+O/MeOH
+(Table 1). Chloroform, a solvent of intermediate polarity,
+leads to the generation of twice as many amphiphilic-like
+molecules as H
+2
+O/MeOH, similarly to dLc and 3,5-diCQA.
+The presence of methanol in the water and the interface
+between chloroform and the aqueous phase would extend
+the polarity of the mixture, facilitating the extraction of
+polar and less polar compounds.These compoundswere then
+recovered together by removing the interface through the
+addition of methanol, allowing their simultaneous analysis.
+3.2. Authentication. Main secondary metabolites of the chic-
+ory are authenticated in chicory products by UPLC-HRMS.
+Table 2 shows authentication characteristics of STL and CGA
+in flour. Theoretical exact mass (M) was calculated from
+the formula at which one proton is subtracted (M-H+) for
+negative mode analysis. Each molecular ion (M-H+) was
+extracted from the MS-TIC (Total Ionic Courant).
+Exact mass (Mc), elementary formula, ring double bond
+(RDB), and precision (ppm) are calculated for each analyte.
+All elementary formula propositions with precision more
+than 7 ppm are rejected. For flour, the lowest ppm is 4.156 ±
+0.260 for 3,5-diCQA and the highest is 6.658 ± 0.160 for
+DHLp, with an average of 5.866. When exact mass with
+exactly elementary formula and low ppm have the same RDB
+theoretical, we can authenticate the molecule. Each exact
+mass (Mc) is associatedwith a retention time (RT) and elution
+order is the same as for the HPLC-DAD analysis.
+All metabolites are authenticated in flour (Table 2) but
+also in root and roasting grains (data not shown).
+3.3. Validation
+3.3.1. LOD, LOQ, and Linearity. In this study, the following
+STL and CGA commonly found in chicory were studied:
+DHLc, Lc, DHdLc, dLc, DHLp, Lp, 5-CQA, and 3,5-diCQA.
+The quantification of target compounds was undertaken
+by an HPLC-DAD analysis of standards. For the efficient
+separation of all metabolites of interest while providing a
+meaningful flow analysis, we used chromatographic columns
+based on core-shell particles of 2.6 𝜇m [28]. A Kinetex PFP
+column (Phenomenex) was chosen because of its ability
+to separate positional isomers [29]. The samples analyzed
+showed separation with a very good resolution of the target
+compounds in 16.5min. This method allows for the analysis
+of approximately 90 samples per day operating in a conven-
+tional chromatographic system.
+Table 3 shows the RT, the LOD and LOQ, the linearity
+range, the coefficient of determination (𝑅2), and the equation
+of the slope of the standard range for each metabolite tested.
+The STL absorbed in UV range between 190 and 260 nm
+(max. 254 nm) and the CGA between 210 and 320 nm (max.
+320 nm). The RTs of each molecule for all wavelengths
+were different, indicating the lack of coelution of molecules,
+as evidenced by the resolution factor Rs value above 8.5
+The Scientific World Journal 7
+Table 2: Authentication of CGA and STL in chicory flour by negative-ion UPLC-HRMS analysis.
+Metabolitesa Formula M −H+ RDB RT M −H+ Precision (ppm)
+theoretical min average ± SD average ± SD
+5-CQA C
+16
+H
+18
+O
+9
+353.08726 8.5 1.85 353.08856 ± 8.83𝐸 − 05 5.244 ± 0.250
+DHLc C15H18O5 277.10760 7.5 2.07 277.10884 ± 3.74𝐸 − 05 6.460 ± 0.135
+Lc C15H16O5 275.09970 8.5 2.30 275.09316 ± 5.10𝐸 − 05 6.397 ± 0.186
+3,5-diCQA C25H24O12 515.11895 14.5 3.65 515.12061 ± 1.02𝐸 − 04 4.156 ± 0.260
+DHdLc C15H18O4 261.11260 7.5 4.04 261.11376 ± 4.19𝐸 − 05 6.209 ± 0.160
+dLc C15H16O4 259.09700 8.5 4.04 259.09803 ± 5.44𝐸 − 05 6.000 ± 0.197
+DHLp C23H24O7 411.14430 12.5 6.82 411.14657 ± 6.60𝐸 − 05 6.658 ± 0.160
+Lp C23H22O7 409.12870 13.5 6.91 409.13055 ± 2.46𝐸 − 04 5.802 ± 0.601
+a5-CQA: 5-mono-O-caffeoylquinic acid; DHLc: 11(S),13-dihydrolactucin; Lc: lactucin; 3,5-diCQA: 3,5-di-O-caffeoylquinic acid; DHdLc: 11(S),13-dihydro-8-
+deoxylactucin; dLc: 8-deoxylactucin; DHLp: 11(S),13-dihydrolactucopicrin; Lp: lactucopicrin.
+M −H+: molecular weight without one hydrogen.
+RDB: ring double bond.
+RT: retention times.
+SD: standard deviations obtained by three repetitions.
+Table 3: Retention time (RT), limit of detection (LOD) and of quantitation (LOQ), linearity range, determination coefficient (𝑅2), and
+regression equation of metabolites tested.
+Metabolitesa RT LOD LOQ Linearity range 𝑅2 Regression equation
+avg ± SD ng/mL ng/mL ng/mL
+5-CQA 1.62 ± 0.010 8.1 8.5 8.5–42,000 0.9993 𝑦 = 1𝐸 + 07𝑥
+DHLc 2.01 ± 0.009 2 5.7 5.7–35,000 0.9930 𝑦 = 4𝐸 + 07𝑥
+Lc 2.29 ± 0.007 6.4 13.7 13.7–70,000 0.9954 𝑦 = 3𝐸 + 07𝑥
+3,5-diCQA 5.11 ± 0.033 9.3 66.5 66.5–62,000 0.9986 𝑦 = 2𝐸 + 07𝑥
+DHdLc 5.41 ± 0.023 9.5 18.1 18.1–50,000 0.9954 𝑦 = 3𝐸 + 07𝑥
+dLc 5.59 ± 0.023 4.1 11.4 11.4–10,000 0.9903 𝑦 = 6𝐸 + 07𝑥
+DHLp 8.74 ± 0.037 2.5 3.3 3.3–2,000 0.9645 𝑦 = 4𝐸 + 07𝑥
+Lp 8.88 ± 0.041 5.9 20.5 20.5–12,000 0.9910 𝑦 = 3𝐸 + 07𝑥
+a5-CQA: 5-mono-O-caffeoylquinic acid; DHLc: 11(S),13-dihydrolactucin; Lc: lactucin; 3,5-diCQA: 3,5-di-O-caffeoylquinic acid; DHdLc: 11(S),13-dihydro-8-
+deoxylactucin; dLc: 8-deoxylactucin; DHLp: 11(S),13-dihydrolactucopicrin; Lp: lactucopicrin.
+(i.e., DHLp and Lp), promoting better quantization. This
+separation is even more effective using the Kinetex column,
+whose chemistry (based on PFP groups, aromatic interaction
+𝜋-𝜋, and H-F) allows for the resolution of positional isomers,
+which include the targeted CGA and STL. The analytic
+precision (repeatability and reproducibility) was measured
+by the intra- and interday (three different days) repetition
+method and is expressed in terms of the variation (RSD %)
+of RT and areas obtained (Table 4). A small variation of RT
+(here, a maximum of 0.9%) is very important to avoid the
+misidentification of peaks in samples.The area variation was,
+in general, small but higher for the reproducibility tests, with
+means of 6.8% for CGA and 6.4% for STL, as summarized in
+Table 4.
+The LODs defined for all compounds were between
+2 and 9.5 ng/mL (Table 3). The LOQs ranged from 3.3 to
+89.5 ng/mL. Linearity ranges varied from 1 to 6,140 times the
+LOQ (Table 3). Thus, the concentration range, for all com-
+pounds, extended from 3.3 to 70,000 ng/mL. Linearity was
+perfectly preserved for each range, as illustrated by 𝑅2 above
+0.96. For each molecule, the H
+2
+O/CHCl
+3
+/MeOH system
+(30/30/40, v/v/v) enables the extraction of a content greater
+than the limit of quantification without surpassing the limit
+of linearity. Under these extraction conditions, no additional
+preparation, such as dilution or enrichment, is necessary for
+these samples.
+3.3.2. Precision and Specificity. The precision of the H
+2
+O/
+CHCl
+3
+/MeOH (30/30/40, v/v/v) extractionmethodwas eval-
+uated by six successive intraday repetitions and three succes-
+sive interday repetitions. This variable is expressed in terms
+of variation (RSD %) by the repeatability and reproducibility
+of the obtained contents of each targetmetabolite (Table 4). A
+maximum of 10 and 12% variation was observed for repeata-
+bility and reproducibility, respectively. These results indicate
+good accuracy of the extraction for all target metabolites.
+A variation of±4% in the ratio of theH
+2
+O/CHCl
+3
+/MeOH
+solvents relative to the optimal modality (30/30/40, v/v/
+v) introduces a variability of ±20% from the average (data
+not shown). These results demonstrate the selectivity of
+8 The Scientific World Journal
+Table 4: Extractability rate of the extraction H2O/CHCl3/MeOH 30/30/40 (v/v/v), repeatability, and reproducibility expressed in terms of
+the variation (RSD %) of contents. The repeatability and reproducibility of the HPLC-DAD method are expressed in terms of the variation
+(RSD %) of retention times (RT) and areas.
+Metabolitesa
+5-CQA 3,5-diCQA DHLc Lc DHdLc dLc DHLp Lp
+Extraction
+Extractability rate %
+Root 94 76 79 82 85 86 84 85
+Flour 82 82 85 84 85 84 85 85
+Roasted grains 86 85 88 89 89 87 89 89
+Repeatability RSD %
+Root ±4 ±6 ±2 ±2 ±7 ±9 ±6 ±8
+Flour ±6 ±5 ±9 ±7 ±6 ±7 ±5 ±7
+Roasted grains ±4 ±4 ±2 ±10 ±7 ±5 ±10 ±4
+Reproducibility RSD %
+Root ±6 ±6 ±5 ±4 ±9 ±11 ±8 ±8
+Flour ±5 ±6 ±7 ±10 ±7 ±9 ±7 ±11
+Roasted grains ±6 ±6 ±9 ±8 ±11 ±5 ±12 ±6
+HPLC-DAD analysis
+Repeatability
+RT RSD %
+Root ±0 ±0.6 ±0 ±0 ±0.3 ±0.9 ±0.6 ±0.6
+Flour ±0.4 ±0.6 ±0.4 ±0.4 ±0.5 ±0.9 ±0.4 ±0.3
+Roasted grains ±0.3 ±0.6 ±0.3 ±0.3 ±0.6 ±0.8 ±0.6 ±0.7
+Areas RSD %
+Root ±5.1 ±7.2 ±5.7 ±3.5 ±9.7 ±14.3 ±11.3 ±4.1
+Flour ±1.3 ±1.6 ±3.2 ±2.9 ±6.6 ±12 ±13.2 ±6.6
+Roasted grains ±2.5 ±4.1 ±7.7 ±1.1 ±6.1 ±3.3 ±1.3 ±1.1
+Reproducibility
+RT RSD %
+Root ±0.6 ±1.5 ±1.0 ±1.0 ±1.0 ±0.6 ±1.5 ±1.0
+Flour ±0.6 ±0.6 ±0 ±0.6 ±0.6 ±1 ±1.2 ±0.6
+Roasted grains ±0.6 ±1.0 ±0 ±1.0 ±1.2 ±0.6 ±1.2 ±1.5
+Areas RSD %
+Root ±11.5 ±7.7 ±2.7 ±11.9 ±8.3 ±6.4 ±10.5 ±10.2
+Flour ±5.4 ±3.6 ±5.5 ±3.6 ±3.8 ±9.5 ±6.2 ±4.9
+Roasted grains ±4.4 ±5.8 ±8.8 ±3.3 ±6.7 ±8.4 ±5.1 ±1.8
+a5-CQA: 5-mono-O-caffeoylquinic acid; 3,5-diCQA: 3,5-di-O-caffeoylquinic acid; DHLc: 11(S),13-dihydrolactucin; Lc: lactucin; DHdLc: 11(S),13-dihydro-8-
+deoxylactucin; dLc: 8-deoxylactucin; DHLp: 11(S),13-dihydrolactucopicrin; Lp: lactucopicrin.
+RSD: respective standard deviations.
+the method and the importance of respecting the parameters
+set forth above.
+3.3.3. Extractability, Recovery Rate, and Matrix Effect. The
+extraction efficiency of the ternary mixture H
+2
+O/CHCl
+3
+/
+MeOH (30/30/40, v/v/v) was evaluated for each metabolite
+in the three products (Table 4). Residual contents measured
+from the reextraction of the pellet were used to define
+the extractability rate of the first method. The minimum
+extractability was observed for 3,5-diCQA in root (76%), and
+the maximum extractability was observed for the 5-CQA
+in the root (94%). For all metabolites, only one extraction
+of 17 h yielded 84% total efficiency for the roots and flour
+and 88% for the roasted grains. Extractability is favorable
+for STL present in roasted matrix, as shown by a yield close
+to 89%. However, the measured levels indicate a low initial
+concentration of STL in the roasted grains.
+5-CQA, 3,5-diCQA, and DHLc were added to the flour
+at different concentrations to determine the recovery rate of
+theH
+2
+O/CHCl
+3
+/MeOH(30/30/40, v/v/v) extractionmethod.
+The flour was used because of its richness in STL and CGA.
+The concentrations tested were 0.075, 0.15, and 0.3mM 5-
+CQA; 0.0075, 0.03, and 0.075mM 3,5-diCQA; and 0.007,
+0.014, and 0.045mM DHLc. Recovery rates were between 94
+and 122% (Table 5), with an average rate of 106%, indicating
+the effectiveness of the method.
+The Scientific World Journal 9
+0.0 2.5 5.0 7.5 10.0 12.5 15.0
+(min)
+0
+50
+100
+150
+200
+(2)
+(3)
+(5)
+(6) (7)
+(8)
+(m
+AU
+)
+(a)
+0.0 2.5 5.0 7.5 10.0 12.5 15.0
+(min)
+(1)
+(4)
+0
+50
+100
+150
+200
+(m
+AU
+)
+(b)
+Figure 2: HPLC-DAD chromatograms of sesquiterpene lactones and chlorogenic acids in chicory root product (flour) obtained with
+H
+2
+O/CHCl
+3
+/MeOH 30/30/30 (v/v/v) extraction: (a) STL at 254 nm and (b) CGA at 320 nm. (1) 5-Mono-O-caffeoylquinic acid, (2) 11(S),13-
+dihydrolactucin, (3) lactucin, (4) 3,5-di-O-caffeoylquinic acid, (5) 11(S),13-dihydro-8-deoxylactucin, (6) 8-deoxylactucin, (7) 11(S), 13-
+dihydrolactucopicrin, and (8) lactucopicrin.
+Table 5: Recovery (%) of the extraction of H2O/CHCl3/MeOH
+30/30/40 (v/v/v) with different additions (5-CQA, 3,5-diCQA, and
+DHLc) to flour.
+Metabolitesa
+5-CQA 3,5-diCQA DHLc
+Add 5-CQA
+0.075mM 96% — —
+0.15mM 97% — —
+0.3mM 94% — —
+Add 3,5-diCQA
+0.0075mM — 106% —
+0.03mM — 111% —
+0.075mM — 116% —
+Add DHLc
+0.007mM — — 106%
+0.014mM — — 103%
+0.045mM — — 122%
+a5-CQA: 5-mono-O-caffeoylquinic acid; 3,5-diCQA: 3,5-di-O-caffeoylquinic
+acid; DHLc: 11(S),13-dihydrolactucin.
+The addition of different concentrations of 5-CQA, 3,5-
+diCQA, and DHLc in a chicory (flour) and “no-chicory”
+(wheat flour) matrix was used to evaluate the effect of
+the H
+2
+O/CHCl
+3
+/MeOH (30/30/40, v/v/v) extractionmixture
+on the conversion of the chemical structure of the target
+compounds. The choice of “no-chicory” material focused on
+wheat flour because the targeted metabolites are absent. In
+the chicory matrix, the variation in the levels of metabolites,
+with or without addition, was between 2 and 9% and was
+included within the repeatability values. In the “no-chicory”
+matrix, no conversion was observed for the other molecules
+(contents), and the solvent alone did not change the structure
+of the compounds (data not shown).
+3.4. STL and CGA in Products Derived from Chicory. The
+flour and the roasted product were derived from the same
+batch of roots and were analyzed with the evaluated deter-
+mination method (Figure 2). For the first time, the CGA
+and STL composition was demonstrated in chicory flour and
+the presence of STL in the roasted grains was identified.
+The sesquiterpene lactones and chlorogenic acids levels
+were 254.7 and 100.2 𝜇g/g of dry matter in the root, 792.5
+and 1,547 𝜇g/g in flour, and 160.4 and 822.5𝜇g/g in the
+roasted grains, respectively (Table 1). The ratio of secondary
+metabolites between the root and the flour was 5.7 (𝑃 value
+= 0.0014), between the root and the roasted grains 2.2 (𝑃
+value = 0.0002), and between the flour and the roasted grains
+2.6 (𝑃 value = 0.0021). The drying of roots increases the
+levels of metabolites, most likely due to the release of the
+bound forms, while roasting tends to degrade all molecules.
+Supplementary work is being conducted on the presence of
+the conjugated and free forms of the metabolites of interest.
+The study of the process effects on the content of secondary
+metabolites related to the organoleptic characteristics of the
+various products is also in progress.
+4. Conclusion
+Our work has shown that the ternary mixture H
+2
+O/CHCl
+3
+/
+MeOH (30/30/40, v/v/v) can be used to extract the content
+of chlorogenic acids and sesquiterpene lactones of chicory
+root and its main food derivatives, flour, and roasted grains,
+simultaneously, with a higher efficiency than aqueous alcohol
+systems and a strong representation of the molecules. Direct
+extraction of the material, without an intermediate fraction-
+ation step (liquid-liquid extraction, SPE), evaporation, or
+resolubilization, followed by a short and simple chromato-
+graphic analysis, is a flexible, fast, and effective method. The
+chromatographic method profiled eight molecules belonging
+to families of major soluble secondary metabolites of chicory
+plant and is conducted with one extraction and one analy-
+sis. This method of simultaneous determination allows for
+comparative studies (physiological, genetic, or influencing
+the process) among the many products derived from chicory.
+This targeted approach is currently being evaluated with
+a more comprehensive approach in which different mix-
+tures tested to achieve this optimal system, including water/
+chloroform/methanol solutions at 20/20/60 or 30/30/40 (v/
+v/v), are combined with methodologies developed for the
+analysis of plant metabolomics [30]. These studies suggest
+10 The Scientific World Journal
+the possibility of extending the metabolomics approach we
+have developed for chicory.
+Conflict of Interests
+The authors declare that there is no conflict of interests
+regarding the publication of this paper.
+Authors’ Contribution
+Honorine Willeman designed and performed experiments,
+analyzed data, andwrote the paper. PhilippeHance conceived
+and conducted the study, designed experiments, and wrote
+the paper. Anne Fertin gave technical support and conceptual
+advice. Najia Voedts performed experiments. Nathalie Duhal
+performed experiments, analyzed data, and wrote the paper.
+Jean-Franc¸ois Goossens and Jean-Louis Hilbert revised crit-
+ically the paper. Honorine Willeman and Philippe Hance
+contributed equally to this work.
+Acknowledgments
+The present work was financed by a public-private part-
+nership, “Groupement d’inte´reˆt Scientifique” GENOCHIC,
+involving UMR 1281 SADV, Universite´ Lille 1, Florimond-
+Desprez Veuve et Fils SAS, and Leroux SAS. Funding was also
+provided by BPI France and the Re´gion Nord Pas-de-Calais
+to QUALICHIC and GLYCACHIC projects. This work is
+supported by a doctoral fellowship from Leroux-Finaler SAS
+and the Doctoral School 104 SMRE to Honorine Willeman.
+The authors would like to thank Myriam Janssens, Gre´goire
+Volpoet (Leroux-Finaler), and Nicolas Henry (Florimond-
+Desprez) for providing chicory root materials. The authors
+also acknowledge the team of the pole “Nutrition, Sante´ et
+Longe´vite´” and especially GuillaumeOrgeval for their helpful
+support in the realization of this project and the IRENI
+Institute for funds dedicated to the UPLC-High Resolution
+MS apparatus.
+References
+[1] S. B. Rees and J. B.Harborne, “The role of sesquiterpene lactones
+and phenolics in the chemical defence of the chicory plant,”
+Phytochemistry, vol. 24, no. 10, pp. 2225–2231, 1985.
+[2] J. R. Hagler and S. L. Buchmann, “Honey Bee (Hymenoptera:
+Apidae) foraging responses to phenolic-rich nectars,” Journal of
+the Kansas Entomological Society, vol. 66, no. 2, pp. 223–230,
+1993.
+[3] G.-I. Arimura, S. Garms, M. Maffei et al., “Herbivore-induced
+terpenoid emission inMedicago truncatula: concerted action of
+jasmonate, ethylene and calcium signaling,” Planta, vol. 227, no.
+2, pp. 453–464, 2008.
+[4] R. Niggeweg, A. J. Michael, and C. Martin, “Engineering plants
+with increased levels of the antioxidant chlorogenic acid,”
+Nature Biotechnology, vol. 22, no. 6, pp. 746–754, 2004.
+[5] Q. Wang and J. Cui, “Perspectives and utilization technologies
+of chicory (Cichorium intybus L.): a review,” African Journal of
+Biotechnology, vol. 10, no. 11, pp. 1966–1977, 2011.
+[6] C. Cavin, M. Delannoy, A. Malnoe et al., “Inhibition of the
+expression and activity of cyclooxygenase-2 by chicory extract,”
+Biochemical and Biophysical Research Communications, vol. 327,
+no. 3, pp. 742–749, 2005.
+[7] A. Wesołowska, A. Nikiforuk, K. Michalska, W. Kisiel, and
+E. Chojnacka-Wo´jcik, “Analgesic and sedative activities of
+lactucin and some lactucin-like guaianolides in mice,” Journal
+of Ethnopharmacology, vol. 107, no. 2, pp. 254–258, 2006.
+[8] M.-Y. Kim, K. Iwai, and H. Matsue, “Phenolic compositions
+of Viburnum dilatatum Thunb. fruits and their antiradical
+properties,” Journal of Food Composition and Analysis, vol. 18,
+no. 8, pp. 789–802, 2005.
+[9] D. Fraisse, C. Felgines, O. Texier, and J. L. Lamaison, “Caffeoyl
+derivatives: major antioxidant compounds of some wild herbs
+of theAsteraceae family,” Food and Nutrition Sciences, vol. 2, pp.
+181–192, 2011.
+[10] K. R. Price, M. S. DuPont, R. Shepherd, H. W.-S. Chan, and G.
+R. Fenwick, “Relationship between the chemical and sensory
+properties of exotic salad crops—Coloured lettuce (Lactuca
+sativa) and chicory (Cichorium intybus),” Journal of the Science
+of Food and Agriculture, vol. 53, pp. 185–192, 1990.
+[11] T. A. van Beek, P.Maas, B.M.King, E. Leclercq, A.G. J. Voragen,
+and A. de Groot, “Bitter sesquiterpene lactones from chicory
+roots,” Journal of Agricultural and Food Chemistry, vol. 38, no.
+4, pp. 1035–1038, 1990.
+[12] C. Carazzone, D. Mascherpa, G. Gazzani, and A. Papetti,
+“Identification of phenolic constituents in red chicory salads
+(Cichorium intybus) by high-performance liquid chromatog-
+raphy with diode array detection and electrospray ionisation
+tandem mass spectrometry,” Food Chemistry, vol. 138, no. 2-3,
+pp. 1062–1071, 2013.
+[13] J. G. Foster, K. A. Cassida, andM. A. Sanderson, “Seasonal vari-
+ation in sesquiterpene lactone concentration and composition
+of forage chicory (Cichorium intybus L.) cultivars,” Grass and
+Forage Science, vol. 66, no. 3, pp. 424–433, 2011.
+[14] A. M. Peters and A. van Amerongen, “Sesquiterpene lactones
+in chicory (Cichorium intybus L.): distribution in chicons and
+effect of storage,” Food Research International, vol. 29, no. 5-6,
+pp. 439–444, 1996.
+[15] M. N. Clifford, S. Shutler, G. A. Thomas, and O. Ohiokpehai,
+“The chlorogenic acids content of coffee substitutes,” Food
+Chemistry, vol. 24, no. 2, pp. 99–107, 1987.
+[16] H. Haffke and U. H. Engelhardt, “Chlorogensa¨nren in Kaffee-
+Ersatzstoffen,” Zeitschrift fu¨r Lebensmittel-Untersuchung und
+Forschung, vol. 183, no. 1, pp. 45–46, 1986.
+[17] N. Mulinacci, M. Innocenti, S. Gallori, A. Romani, G. La
+Marca, and F. F. Vincieri, “Optimization of the chromatographic
+determination of polyphenols in the aerial parts of Cichorium
+intybus L.,”Chromatographia, vol. 54, no. 7-8, pp. 455–461, 2001.
+[18] F. Ferioli and L. F. D’Antuono, “An update procedure for an
+effective and simultaneous extraction of sesquiterpene lactones
+and phenolics from chicory,” Food Chemistry, vol. 135, no. 1, pp.
+243–250, 2012.
+[19] P. Hance, Y. Martin, J. Vasseur, J.-L. Hilbert, and F. Trotin,
+“Quantification of chicory root bitterness by an ELISA for
+11𝛽,13-dihydrolactucin,” FoodChemistry, vol. 105, no. 2, pp. 742–
+748, 2007.
+[20] R. Ihaka and R. Gentleman, “R: a language for data analysis and
+graphics,” Journal of Computational andGraphical Statistics, vol.
+5, no. 3, pp. 299–314, 1996.
+The Scientific World Journal 11
+[21] Molinspiration, Calculation of molecular properties and bio-
+activity score, 2013, http://www.molinspiration.com/cgi-bin/
+properties.
+[22] R. Llorach, A. Mart´ınez-Sa´nchez, F. A. Toma´s-Barbera´n, M.
+I. Gil, and F. Ferreres, “Characterisation of polyphenols and
+antioxidant properties of five lettuce varieties and escarole,”
+Food Chemistry, vol. 108, no. 3, pp. 1028–1038, 2008.
+[23] Burdick and Jackson Laboratories, Solvent Guide, Burdick and
+Jackson Laboratories,Muskegon,Mich, USA, 2nd edition, 1980.
+[24] S. Song, W. Zhou, Z. Liang et al., “The effect of methanol and
+ethanol cross-over on the performance of PtRu/C-based anode
+DAFCs,” Applied Catalysis B: Environmental, vol. 55, no. 1, pp.
+65–72, 2005.
+[25] J. A. Elliott, S. Hanna, A. M. S. Elliott, and G. E. Cooley, “The
+swelling behaviour of perfluorinated ionomer membranes in
+ethanol/water mixtures,” Polymer, vol. 42, no. 5, pp. 2251–2253,
+2001.
+[26] L. L. Burianek and A. E. Yousef, “Solvent extraction of bacteri-
+ocins from liquid cultures,” Letters in Applied Microbiology, vol.
+31, no. 3, pp. 193–197, 2000.
+[27] M. Bahri, P. Hance, S. Grec et al., “A “novel” protocol for
+the analysis of hydroxycinnamic acids in leaf tissue of chicory
+(Cichorium intybus, L., Asteraceae),” The Scientific World Jour-
+nal, vol. 2012, Article ID 142983, 8 pages, 2012.
+[28] G. Guiochon and F. Gritti, “Shell particles, trials, tribulations
+and triumphs,” Journal of Chromatography A, vol. 1218, no. 15,
+pp. 1915–1938, 2011.
+[29] S. Fekete, K. Ganzler, and J. Fekete, “Efficiency of the new sub-
+2𝜇m core-shell (Kinetex) column in practice, applied for small
+and large molecule separation,” Journal of Pharmaceutical and
+Biomedical Analysis, vol. 54, no. 3, pp. 482–490, 2011.
+[30] M. Gromova and C. Roby, “Toward Arabidopsis thaliana
+hydrophilic metabolome: assessment of extraction methods
+and quantitative 1H NMR,” Physiologia Plantarum, vol. 140, no.
+2, pp. 111–127, 2010.
+Submit your manuscripts at
+http://www.hindawi.com
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+ Anatomy 
+Research International
+Peptides
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation 
+http://www.hindawi.com
+ International Journal of
+Volume 2014
+Zoology
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Molecular Biology 
+International 
+Genomics
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+The Scientific 
+World Journal
+Hindawi Publishing Corporation 
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Bioinformatics
+Advances in
+Marine Biology
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Signal Transduction
+Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+BioMed 
+Research International
+Evolutionary Biology
+International Journal of
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Biochemistry 
+Research International
+Archaea
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Genetics 
+Research International
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Advances in
+Virolog y
+Hindawi Publishing Corporation
+http://www.hindawi.com
+Nucleic Acids
+Journal of
+Volume 2014
+Stem Cells
+International
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+Enzyme 
+Research
+Hindawi Publishing Corporation
+http://www.hindawi.com Volume 2014
+International Journal of
+Microbiology

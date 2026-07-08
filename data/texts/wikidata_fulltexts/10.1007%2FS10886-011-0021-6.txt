@@ -1,0 +1,877 @@
+The Relationship between Structurally Different
+Pyrrolizidine Alkaloids and Western Flower Thrips
+Resistance in F2 Hybrids of Jacobaea vulgaris
+and Jacobaea aquatica
+Dandan Cheng & Heather Kirk & Klaas Vrieling &
+Patrick P. J. Mulder & Peter G. L. Klinkhamer
+Received: 1 August 2011 /Accepted: 16 September 2011 /Published online: 4 October 2011
+# The Author(s) 2011. This article is published with open access at Springerlink.com
+Abstract Segregating plant hybrids often have more
+ecological and molecular variability compared to parental
+species, and are therefore useful for studying relationships
+between different traits, and the adaptive significance of
+trait variation. Hybrid systems have been used to study the
+relationship between the expression of plant defense
+compounds and herbivore susceptibility. We conducted a
+western flower thrips (WFT) bioassay using a hybrid family
+and investigated the relationship between WFT resistance
+and pyrrolizidine alkaloid (PA) variation. The hybrid family
+consisted of two parental (Jacobaea vulgaris and Jacobaea
+aquatica) genotypes, two F1 genotypes, and 94 F2 hybrid
+lines. The J. aquatica genotype was more susceptible to
+thrips attack than the J. vulgaris genotype, the two F1
+hybrids were as susceptible as J. aquatica, and susceptibil-
+ity to WFT differed among F2 hybrid lines: 69 F2 lines were
+equally susceptible compared to J. aquatica, 10 F2 lines
+were more susceptible than J. aquatica and 15 F2 lines
+were as resistant as J. vulgaris or were intermediate to the
+two parental genotypes. Among 37 individual PAs that
+were derived from four structural groups (senecionine-,
+jacobine-, erucifoline- and otosenine-like PAs), the N-
+oxides of jacobine, jaconine, and jacoline were negatively
+correlated with feeding damage caused by WFT, and the
+tertiary amines of jacobine, jaconine, jacoline, and other
+PAs did not relate to feeding damage. Total PA concentra-
+tion was negatively correlated with feeding damage.
+Among the four PA groups, only the total concentration
+of the jacobine-like PAs was negatively correlated with
+feeding damage. Multiple regression tests suggested that
+jacobine-like PAs play a greater role in WFT resistance than
+PAs from other structural groups. We found no evidence for
+synergistic effects of different PAs on WFT resistance. The
+relationship between PA variation and WFT feeding
+damage in the Jacobaea hybrids suggests a role for PAs
+in resistance to generalist insects.
+Key Words Hybridization . Jacobaea vulgaris . Jacobaea
+aquatica . Secondary metabolite diversity . Chemical
+defense . Frankliniella occidentalis
+Electronic supplementary material The online version of this article
+(doi:10.1007/s10886-011-0021-6) contains supplementary material,
+which is available to authorized users.
+D. Cheng (*) :H. Kirk :K. Vrieling : P. G. L. Klinkhamer
+Plant Ecology & Phytochemistry, Institute of Biology,
+Leiden University,
+Sylviusweg 72,
+PO Box 9505, 2300 RA Leiden, the Netherlands
+e-mail: d.d.cheng@biology.leidenuniv.nl
+D. Cheng
+Institute of Ecology & Environmental Science, School
+of Environmental Studies, China University of Geosciences,
+Lumo Road 388,
+430074( Wuhan, China
+H. Kirk
+Biology Department, Trent University,
+1600 West Bank Drive,
+K9J 7B8( Peterborough, Canada
+P. P. J. Mulder
+RIKILT-Institute of Food Safety,
+Wageningen University and Research Center,
+P.O. Box 230,
+6700 AE Wageningen, the Netherlands
+J Chem Ecol (2011) 37:1071–1080
+DOI 10.1007/s10886-011-0021-6
+Introduction
+In plants, research into the role of hybridization in the
+evolution of novel traits and new species is gaining
+momentum (Barton, 2001; Seehausen, 2004; Abbott et al.,
+2008). Hybrids have been used increasingly in experimental
+studies in ecology and evolution in part because interspe-
+cific hybrids (specifically segregating generations) often
+show greater variation in traits compared to parental
+species. Furthermore, segregating hybrids frequently show
+greater independence between different traits than the
+parental species (Hochwender et al., 2000; Lexer et al.,
+2003; Orians et al., 2010). Interspecific hybrids can have
+novel patterns of secondary chemical expression or accu-
+mulation compared to parental species, and sometimes can
+be more resistant or susceptible to herbivores than parental
+species (Rieseberg and Ellstrand, 1993; Fritz, 1999; Orians,
+2000). This makes hybrids useful for studying the relation-
+ship between secondary metabolite variation and herbivores
+(Hallgren et al., 2003; Leiss et al., 2009).
+Hybridization occurs frequently in the Jacobaea (syn.
+Senecio, Asteraceae) genus (Vincent, 1996). Members of
+this genus have been used extensively to study plant-
+herbivore interactions, which are largely mediated by a
+diverse group of pyrrolizidine alkaloids (PAs; see reviews
+by Hartmann, 1999; Macel, 2011). Twenty-six PAs have
+been reported from 24 Jacobaea species (Pelser et al.,
+2005). Pyrrolizidine alkaloids are ester alkaloids composed
+of a necine base (amino alcohol moiety) and an alkyl, or
+rarely aralkyl, necic acid (Hartmann, 1999). PAs can occur
+in two forms in vivo, the tertiary amine (free base) or the N-
+oxide form (Hartmann et al., 1989; Rizk, 1991; Wiedenfeld
+et al., 2008; Joosten et al., 2011). In Jacobaea species, all
+PAs except for senecivernine are derived from senecionine
+N-oxide, which is synthesized in the roots, transported to the
+shoots, and diversified into other PA structures (Hartmann
+and Toppel, 1987). Variation in PA structure and form can
+lead to variation in the performance of generalist insects and
+other plant enemies such as nematodes (van Dam et al.,
+1995; Macel et al., 2005; Dominguez et al., 2008; Thoden et
+al., 2009).
+Jacobaea vulgaris (tansy ragwort or common ragwort,
+syn. Senecio jacobaea) is native to Europe and west Asia
+but invasive in North America, Australia and New Zealand.
+Jacobaea aquatica (marsh ragwort, syn. Senecio aquaticus)
+is closely related to, but not a sister species of, J. vulgaris
+(Pelser et al., 2003). Natural hybrids between these species
+occur in at least one location in The Netherlands (Kirk et
+al., 2004). The two parental species are attacked by
+different suites of specialist and generalist herbivores
+(personal observation). A previous study showed that
+artificial hybridization between these two species can be
+used to produce F2 lines that are in some cases extremely
+susceptible, and in other cases extremely resistant, to
+generalist herbivores (Leiss et al., 2009).
+Western flower thrips, Frankliniella occidentalis (here-
+after WFT), is a key insect pest on a wide range of
+agricultural and horticultural crops globally (Kirk and
+Terry, 2003). Since this species is highly polyphagous and
+infests about 200 wild and cultivated host species (Yudin et
+al., 1986), F. occidentalis often is used as a representative
+generalist herbivore in studies of plant-insect interactions
+(e.g., Macel et al., 2005; Leiss et al., 2009). Previous
+studies have investigated the effects of PAs on WFT with
+experiments that used artificial diets (Macel et al., 2005), or
+demonstrated the relationship between PAs and WFT
+resistance in host plants (Macel, 2003; Leiss et al., 2009).
+These studies showed that PAs are toxic to WFT and play a
+role in the plant resistance against this insect. However,
+these authors incorporated only a limited number of PAs in
+their studies. Some PAs were not easily acquired for
+experiments. Only the major PAs were quantified in host
+plants, and PAs were measured without discrimination
+between the two forms due to technical limitations in
+analytical methods. The effects of PA variation in host plant
+on WFT resistance have not yet been tested.
+The current study aimed to overcome the challenges
+associated with isolating many PA variants for diet studies
+by measuring WTF resistance in a segregating hybrid
+family, which is expected to demonstrate great variation in
+composition and concentration of secondary metabolites
+such as PAs. Additionally, technological advances now
+permit the detection of PAs that are present in extremely
+low concentrations or that demonstrate only slight structural
+variations compared to other PAs, thus allowing us to test
+the relationship between WFT resistance and PA composi-
+tion using a comprehensive set of PAs in vivo.
+We carried out WFT bioassays with an artificial hybrid
+family including one J. vulgaris genotype, one J. aquatica
+genotype, two F1 offspring, and 94 different F2 hybrid
+lines. We measured WFT feeding damage in the shoots of
+these genotypes, and investigated the relationship between
+PA variation and susceptibility to attack by WFT in the
+segregating F2 generation. We addressed the following
+questions: 1) Is there variation in WFT resistance among
+segregating Jacobaea hybrids? 2) Is WFT resistance
+explained by PA concentration and composition? and if
+so, 3) Do different structural PA variants affect WFT
+resistance differently? 4) Are there any interactions between
+the effects of different PAs on WFT resistance?
+Methods and Material
+Study System and Plant Growth Jacobaea vulgaris seeds
+(collected at Meijendel Nature Reserve, 52° 7' 54" N, 4° 19'
+1072 J Chem Ecol (2011) 37:1071–1080
+46" E, The Netherlands) and J. aquatica seeds (collected at
+the Zwanenwater Reserve, 52° 48' 38" N, 4° 41' 7" E, The
+Netherlands) were germinated in glass vials. Clones were
+produced from tissue cultured seedlings, and several clones
+were subsequently grown in pots in climate rooms under
+standard conditions of 20°C, 70% relative humidity, light:
+dark 16 h: 8 h (Cheng et al., 2011). Potted plants were
+vernalized at 4°C with the standard light and humidity
+conditions for approximately 10 weeks to facilitate flower-
+ing. Both species are self-incompatible and crosses were
+performed by rubbing flower heads together (Kirk et al.,
+2005). Two rayed F1 offspring were selected from this
+initial cross, and were reciprocally crossed with each other
+to produce two sets of F2 offspring. One F2 set consisted of
+56 individuals and the other consisted of 46 individuals.
+The parental, F1 and F2 individuals were maintained in
+tissue culture and were cloned to perform experiments
+using replicate genotypes.
+We grew about 6 cloned replicates per F2 genotype and
+about 12 cloned replicates per parental and F1 genotype for
+the WFT bioassay. In addition we grew the same number
+of replicates of the genotypes for PA analysis. The PA
+data for these genotypes were used both to study WFT
+resistance as described in this paper and for an analysis
+of patterns of PA profiles in Jacobaea hybrid plants that
+was published elsewhere (Cheng et al., 2011). The clones
+were individually potted in 1.3 l pots filled with 95%
+sandy soil (collected from Meijendel), 5% potting soil
+(Slingerland Potgrond company, Zoeterwoude, The
+Netherlands) and 1.5 g/l Osmocote slow release fertilizer
+(N:P:K=15:9:11, Scott®, Scotts Miracle-Gro, Marysville,
+OH, USA). Plants were kept in a climate room under
+standard conditions described above for 6 wk before the
+bioassay was initiated.
+WFT Bioassay We used 12 replicates of each parental and
+F1 genotype, and 3–6 replicates of each of 94 F2 hybrid
+genotypes (6 replicates were used for most genotypes,
+though less than 6 were used in cases where plants died or
+were too small compared to other plants of the same
+genotype). A total of 587 plants were placed randomly in a
+climate room and grown under standard conditions. About
+5870 adult WFT, previously reared on chrysanthemum
+(Dendranthema grandiflora), were released at evenly
+spaced points in the climate room. During the 3 wk feeding
+period, plants were watered every 2 d without wetting or
+disturbing the leaves. After 3 wk, silver damage caused by
+feeding from WFT on both upper and lower leaf surfaces
+was visually scored in mm2 for each leaf, according to the
+methods developed by Leiss et al. (2009). Above ground
+plant parts (shoots) were harvested just above the root
+crown and dried for 3 d in an oven at 50°C before
+establishing the dry masses of the shoots.
+PA Data Acquisition A Waters Acquity ultra performance
+liquid chromatographic system coupled to a Waters Quattro
+Premier XE tandem mass spectrometer (LC-MS/MS)
+(Waters, Milford, MA, USA) was used for PA analysis.
+Analysis was performed using a different set of the same
+tissue culture-derived clonal plants consisting of the same
+genotypes and number of clones as those used in the WFT
+bioassay, and grown under identical conditions. The plant
+shoots were harvested, stored at −80°C, and freeze-dried for
+1 wk under vacuum with a collector temperature of −55°C.
+Dried plant material was ground to a fine powder and about
+10 mg were extracted with 2% formic acid in a mass to
+volume ratio of 1:100. Heliotrine (Latoxan, Valence,
+France) was added as an internal standard to the extraction
+solvent at a concentration of 1 μg/ml. The extract was
+filtered through a 0.2 μm nylon membrane filter (Acrodisc,
+Pall Life Sciences, Ann Arbor, MI, USA). An aliquot
+(25 μl) of the filtered PA extract was diluted with water
+(975 μl) and injected into the LC-MS/MS system.
+Seventeen individual PA standards were available for
+this study, representing the major PAs present in the plant
+extracts (Table 1). Senecionine, seneciphylline, retrorsine,
+and their corresponding N-oxides were obtained from
+Phytolab, Vestenbergsgreuth, Germany; senkirkine was
+obtained from Phytoplan, Heidelberg, Germany. Riddel-
+liine and its N-oxide were obtained as authentic standards
+from Dr M. Chou (NCTR, Jefferson, AR, USA), and
+integerrimine was a gift of Dr. J. Trigo (UNICAMP,
+Campinas, Brasil). Jacobine and erucifoline were isolated
+from J. vulgaris plant material (PRISNA, Leiden, The
+Netherlands). The identity of the isolated standards was
+confirmed by 1H-NMR and LC-MS analysis and by
+comparison with literature data (Logie et al., 1994).
+Acetylseneciphylline was obtained by acetylation of
+seneciphylline with acetic anhydride and pyridine, accord-
+ing to the procedure described by He et al. (2010).
+Integerrimine N-oxide, jacobine N-oxide, erucifoline N-
+oxide, and acetylseneciphylline N-oxide were prepared by
+N-oxidation of the corresponding tertiary amine PAs
+according to the procedure described by Christie et al.
+(1949) and adapted by Chou et al. (2003). The purity of the
+obtained standards was checked by LC-MS analysis and was
+at least 90%.
+The other PAs listed in Table 1 were tentatively identified
+on the basis of their retention time, molecular mass and
+fragmentation pattern, and on comparison with PA standards
+and literature data. The presence of PA N-oxides was
+confirmed by selective reduction to the corresponding
+tertiary amines according to the method of Joosten et al.
+(2010). All PAs included in this study have been reported
+before as constituents of J vulgaris and/or J aquatica
+(Hartmann and Witte, 1995; Joosten et al., 2011; Langel et
+al., 2011) and no new PAs were identified.
+J Chem Ecol (2011) 37:1071–1080 1073
+Data were recorded in multiple monitoring mode
+(MRM) using two selected precursor ions to product ion
+transitions per compound. The MS settings are shown in
+Table 1. For quantification, the sum of the two peak areas
+obtained for each compound was normalized against the
+peak area of the internal standard. Quantification was
+performed against a standard solution (100 μg/l) of the
+PAs in an extraction of tansy (Tanacetum vulgare), a plant
+known to be free of PAs. The use of a PA standard solution
+in blank plant extract was considered to be a more reliable
+approach than quantification against a PA solution in
+solvent only. This PA standard extraction was injected into
+every 30 samples and the averaged response was used for
+quantification. For those PAs without standards available, a
+semi quantitative (indicative) value was obtained by
+comparison with the most closely related analogue (e.g.,
+an isomer) as indicated in Table 1. Data processing was
+conducted with Masslynx 4.1 software (Waters, Milford,
+MA, USA).
+PA expression is genetically controlled under standard
+growth conditions, and PA production is not induced in
+shoots by aboveground herbivory in Jacobaea plants
+(Vrieling and Bruin, 1987; van Dam et al., 1993; Vrieling
+et al., 1993). Therefore, we averaged the concentration of
+Table 1 Pyrrolizidine alkaloids (PAs) detected in Jacobaea aquatica, Jacobaea vulgaris and hybrids
+Group PA Retention time
+(min)
+Precursor mass
+(m/z)
+Fragment mass
+1; 2 (m/z)
+Collision energy
+1; 2 (eV)
+Standard PA used for
+quantification
+Senecionine-like PAs
+(simple senecionine-
+related derivatives)
+senecionine 9.93 336.2 94.0; 120.0 40; 30 senecionine
+senecionine N-oxide 6.97 352.2 94.0; 120.0 40; 30 senecionine N-oxide
+integerrimine 9.72 336.2 94.0; 120.0 40; 30 integerrimine
+integerrimine N-oxide 6.83 352.2 94.0; 120.0 40; 30 integerrimine N-oxide
+retrorsine 8.49 352.2 94.0; 120.0 40; 30 retrorsine
+retrorsine N-oxide 6.01 368.2 94.0; 120.0 40; 30 retrorsine N-oxide
+usaramine 8.29 352.2 94.0; 120.0 40; 30 retrorsine
+usaramine N-oxide 5.89 368.2 94.0; 120.0 40; 30 retrorsine N-oxide
+riddelliine 7.91 350.2 94.0; 138.0 40; 30 riddelliine
+riddelliine N-oxide 5.48 366.2 94.0; 118.0 40; 30 riddelliine N-oxide
+seneciphylline 9.16 334.2 94.0; 120.0 40; 30 seneciphylline
+seneciphylline N-oxide 6.36 350.2 94.0; 138.0 40; 30 seneciphylline N-oxide
+spartioidine 8.96 334.2 120.0; 138.0 30; 30 seneciphylline
+spartioidine N-oxide 6.36 350.2 94.0; 138.0 40; 30 seneciphylline N-oxide
+acetylseneciphylline 11.80 376.2 120.0; 138.0 30; 30 acetylseneciphylline
+acetylseneciphylline N-oxide 8.86 392.2 94.0; 118.0 40; 30 acetylseneciphylline N-oxide
+senecivernine 10.09 336.2 94.0; 120.0 40; 30 integerrimine
+Jacobine-like PAs
+(jacobine-related
+derivatives)
+jacobine 7.89 352.2 120.0; 155.0 30; 30 jacobine
+jacobine N-oxide 5.49 368.2 120.0; 296.0 30; 25 jacobine N-oxide
+jacoline 6.13 370.2 94.0; 138.0 40; 30 jacobine
+jacoline N-oxide 4.39 386.2 94.0; 120.0 40; 30 jacobine N-oxide
+jaconine 8.75 388.2 94.0; 120.0 40; 30 jacobine
+jaconine N-oxide 5.77 404.2 94.0; 138.0 40; 30 jacobine N-oxide
+jacozine 7.23 350.2 94.0; 138.0 40; 30 jacobine
+jacozine N-oxide 5.11 366.2 94.0; 118.0 40; 30 jacobine N-oxide
+dehydrojaconine 7.86 386.2 94.0; 120.0 40; 30 jacobine
+Erucifoline-like PAs
+(erucifoline-related
+derivatives)
+erucifoline 7.56 350.2 94.0; 120.0 40; 30 erucifoline
+erucifoline N-oxide 4.80 366.2 94.0; 118.0 40; 30 erucifoline N-oxide
+acetylerucifoline 10.18 392.2 94.0; 118.0 40; 30 erucifoline
+acetylerucifoline N-oxide 7.17 408.2 94.0; 120.0 40; 30 erucifoline N-oxide
+Otosenine-like PAs
+(otosenine-related
+derivatives)
+senkirkine 7.31 366.2 122.0; 168.0 30; 25 senkirkine
+otosenine 5.60 382.2 122.0; 168.0 30; 25 senkirkine
+onetine 4.35 400.2 122.0; 168.0 30; 30 senkirkine
+desacetyldoronine 6.26 418.2 122.0; 168.0 30; 30 senkirkine
+florosenine 8.35 424.2 122.0; 168.0 35; 30 senkirkine
+floridanine 6.79 442.2 122.0; 168.0 30; 30 senkirkine
+doronine 9.01 460.2 122.0; 168.0 30; 30 senkirkine
+1074 J Chem Ecol (2011) 37:1071–1080
+each PA across all clones of each genotype and used the
+genotypic mean concentrations in the analyses presented
+here. The 37 PAs identified from the Jacobaea hybrids
+could be classified into four types, according to their
+structural characteristics, biosynthetic pathways, and ex-
+pression pattern: senecionine-like PAs, jacobine-like PAs,
+erucifoline-like Pas, and otonecine-like PAs (Pelser et al.,
+2005; Cheng et al, 2011). We followed this classification in
+this study (Tables 1–2). The total PA concentration as well
+as the amount for each structural group was calculated by
+summing the concentrations of the individual PAs.
+Data Analysis We used general linear models to determine
+whether WFT resistance differed according to plant
+genotype. Feeding damage (dependent variable) was log-
+transformed to achieve normality, and plant genotype was
+defined as the independent variable with plant dry mass as
+covariate. Normal distributions and homogenous variances
+were confirmed by testing the residuals of the models using
+Shapiro tests and Bartlett tests respectively. Two models
+were set up: in the first, J. vulgaris was used as a reference,
+and in the second, J. aquatica was used. All other
+genotypes were compared to the reference in the model.
+Table 2 Pearson / Spearman
+correlation tests between west-
+ern flower thrips (WFT) feeding
+damage and the concentrations
+of individual pyrrolizidine alka-
+loids (PAs) in the 94 F2 hybrid
+genotypes from Jacobaea aqua-
+tica and Jacobaea vulgaris
+aPAs with concentrations that
+were not normally distributed,
+for which Spearman correlation
+tests were carried out, while
+Pearson correlation tests were
+carried out for all other PAs
+bP-values of the correlation tes-
+tes were adjusted by Bonferroni
+method
+Significance codes:
+nsnot significant, + P<0.1,
+*P<0.05, **P<0.01
+Group PA r/rs P Adjusted P
+b
+Senecionine-like PAs senecionine −0.247 * ns
+senecionine N-oxide −0.247 * ns
+integerrimine −0.292 ** ns
+integerrimine N-oxide −0.243 * ns
+retrorsine −0.201 + ns
+retrorsine N-oxide −0.104 ns ns
+usaramine −0.013 ns ns
+usaramine N-oxide a 0.11 ns ns
+riddelliine a 0.217 * ns
+riddelliine N-oxide −0.109 ns ns
+seneciphylline −0.282 ** ns
+seneciphylline N-oxide −0.214 * ns
+spartioidine −0.17 + ns
+spartioidine N-oxide −0.15 ns ns
+acetylseneciphylline 0.044 ns ns
+acetylseneciphylline N-oxide 0.062 ns ns
+senecivernine −0.323 ** +
+Jacobine-like PAs jacobine −0.281 ** ns
+jacobine N-oxide −0.322 ** +
+jacoline −0.296 ** ns
+jacoline N-oxide −0.331 ** *
+jaconine −0.278 ** ns
+jaconine N-oxide −0.325 ** *
+jacozine −0.141 ns ns
+jacozine N-oxide −0.057 ns ns
+dehydrojaconine −0.102 ns ns
+Erucifoline–like PAs erucifoline −0.113 ns ns
+erucifoline N-oxide −0.081 ns ns
+acetylerucifoline −0.209 * ns
+acetylerucifoline N-oxide −0.195 + ns
+Otosenine–like PAs senkirkine a 0.088 ns ns
+otosenine −0.056 ns ns
+onetine −0.086 ns ns
+desacetyldoronine −0.019 ns ns
+florosenine a 0.252 * ns
+floridanine a 0.234 * ns
+doronine a 0.218 * ns
+J Chem Ecol (2011) 37:1071–1080 1075
+Differences between the hybrid and parental genotypes
+were evaluated by using the regression coefficient matrices
+of the two models. In each matrix, the estimated coefficient
+of a hybrid indicated whether it had suffered more or less
+damage than the reference genotype, and the P value
+showed whether the difference was significant (Crawley,
+2005). This is similar to a post-hoc test of an ANOVA
+model, however, such a post-hoc test includes all pair-wise
+comparisons between groups, and we were interested only
+in testing for differences between hybrid and parental
+genotypes. The difference between the two parental geno-
+types was also tested by using the same regression coefficient
+matrices. WFT resistance of each hybrid genotype was
+categorized according to these definitions: ND—no differ-
+ence, leaf damage area of the hybrid was not different from
+that of both parents; A—additive, damage was intermediate
+between that of the parents; Ds—susceptible-dominant,
+damage was similar to that of the susceptible parent; Dr—
+resistant-dominant, damage was similar to that of the resistant
+parent, S—susceptible, damage was greater than that of the
+susceptible parent; R—resistant, damage was less than that of
+the resistant parent (Supplementary Table 1).
+For correlation tests and principal components analysis, we
+included only data from F2 genotypes, since we were
+interested in using the variation from this segregating
+generation to search for underlying relationships between
+WTF resistance and PA expression. We were not able to test
+for differences in these relationships between the different
+generations described in this study because only a limited
+number of genotypes were included from the parental and F1
+generations. However, the parental and F1 plants provided
+reference points for WFT resistance comparison. We used
+log-transformed genotypic mean values of feeding damage
+and PA concentrations to carry out correlation analyses.
+Either Spearman (for six minor PAs that did not have
+normally distributed concentrations) or Pearson correlation
+tests were carried out to test the relationship between feeding
+damage and the concentrations of individual PAs, pooled
+concentrations of each of the four PA groups and total PA
+(see details in Table 2 and Fig. 3).
+Pyrrolizidine alkaloids from within structural groups
+were closely correlated with each other, and it was not
+possible, therefore, to investigate the interactions between
+them. The PAs from different structural groups, however,
+were generally expressed independently. The sum concen-
+trations of the PAs from the four groups were not correlated
+with one another (Cheng et al., 2011). We used a multiple-
+regression model to test for interactions between the effects
+of different PA structural classes on feeding damage. In this
+model, feeding damage (represented by log-transformed
+genotypic mean values) was defined as the dependent
+variable, and the sum concentrations of each of the four
+PA structural groups (log-transformed and centered geno-
+typic mean concentrations) were defined as independent
+variables.
+The principal component analysis (PCA) was carried out
+by using log-transformed genotypic mean concentrations of
+all individual PAs except the six minor PAs that did not
+have normally distributed concentrations. Compared to the
+major PAs, these six PAs were present at very low
+concentrations (on average less than 1% of total PA
+concentration). Pearson correlation tests were carried out
+between the first six principle components (PCs) from the
+PCA and feeding damage. In order to evaluate the
+contribution of each PA to each PC (in other words the
+loading), Pearson correlation tests were carried out between
+individual PAs and the first 3 PCs, since PCs four to six
+Fig. 1 Variation in western flower thrips (WFT) feeding damage
+(mm2) on Jacobaea aquatica, Jacobaea vulgaris, 2 F1 and 94 F2
+hybrids. a Mean feeding damage for one J. aquatica genotype (JA),
+one J. vulgaris genotype (JV), and 2 F1 (F1-A and F1 -B) genotypes.
+Error bars are standard errors, N=12. J. vulgaris was significantly
+different from the other genotypes at * P<0.05. b Distribution
+frequency for genotypic mean WFT feeding damage of 94 F2
+hybrids. N=3–6 for each genotype. In total, 587 plants were used in
+WFT bioassay
+1076 J Chem Ecol (2011) 37:1071–1080
+accounted for a low proportion of the total variation and
+were not correlated with WFT feeding damage. The
+P-values were adjusted using the sequential Bonferroni
+method when multiple tests were carried out.
+All analyses were conducted in R version 2.10.0
+(R Development Core Team, 2009)
+Results
+Variation in Feeding Damage Feeding damage was
+genotype-dependent (d.f.=97,488; F=5.30; P<0.001).
+Plant mass also had effect on feeding damage (d.f.=1,488;
+F=18.44; P<0.001). Among the two parental genotypes, J.
+aquatica suffered more feeding damage than J. vulgaris
+(d.f.=1, 22; t=6.18; P<0.001). Both of the F1 lines were as
+susceptible as J. aquatica. Among the 94 F2 hybrids, 69
+were as susceptible as J. aquatica, 10 were more susceptible
+than J. aquatica, 15 showed intermediate resistance, 9 were
+as resistant as J. vulgaris, and none were more resistant than
+J. vulgaris (Fig. 1, see statistical details in Supplementary
+Table 1).
+Relationship Between Feeding Damage and PA Concen-
+tration Correlation tests between feeding damage and
+individual PAs showed that feeding damage was negatively
+correlated with the concentrations of the N-oxides of two
+jacobine-like PAs (jaconine and jacoline). Jacobine N-oxide
+concentration was marginally correlated with feeding
+damage, and the correlations between the free bases of
+jacobine-like PAs and feeding damage were not significant
+after correction for multiple testing. No other individual
+PAs were correlated with feeding damage (Table 2). Total
+PA concentration also was correlated with feeding damage
+(Fig. 2a). Of the four structural groups of PAs, only the sum
+concentration of jacobine-like PAs was significantly corre-
+lated with feeding damage by WFT (Fig. 2c). The sum
+concentrations of the other three groups were not correlated
+with feeding damage (see the statistical results for
+senecionine-and erucifoline-like PAs in Fig. 2b,d; for
+otosenine-like PAs: d.f.=92, r=0.35, P=0.77).
+The multiple regression models showed that among the
+four PA groups only jacobine-like PAs had significant
+negative effects on feeding. There were no two-way
+interactions between the groups. A three-way interaction
+between senecionine-like, jacobine-like and erucifoline-like
+PAs and an interaction between the four PA groups were
+present. However, these were only marginally significant
+(0.05<P<0.1, Table 3).
+Relationships Between Feeding Damage and PA Composi-
+tion We used principal component analysis (PCA) to
+reduce the PA data set to a smaller number of uncorrelated
+axes. PC1 explained 44%, PC2 explained 19% and PC3
+explained 12% of the variation in the data. More than 90%
+of the total variation was accounted for by the first 6 PCs.
+Among first 6 PCs, PC1 was negative correlated (d.f.=92,
+r=−0.32, P=0.002) and PC3 was positively correlated with
+feeding damage (d.f.=92, r=−0.23, P=0.04). No other PCs
+Fig. 2 Relationship between
+feeding damage by western
+flower thrips (WFT) (mm2)
+and the concentration of total
+pyrrolizidine alkaloid (PA),
+senecionine-like, jacobine-like,
+and erucifoline-like PAs (μg/g
+dw) of F2 hybrids of Jacobaea
+aquatica and Jacobaea vulgaris.
+The data for WFT feeding
+damage and concentrations are
+the log-transformed genotypic
+mean values. In each panel, the
+results of the Pearson correlation
+tests between feeding damage
+and the PA concentrations are
+provided; in all cases, d.f.=92
+J Chem Ecol (2011) 37:1071–1080 1077
+were correlated with feeding damage (data not shown).
+Correlation tests between each PC and individual PAs’
+concentrations allowed us to identify which PAs were
+associated with each PC. Jacobine-like PAs (except jaco-
+zine and its N-oxide) were strongly correlated with PC1,
+such that individuals with high PC1 scores had high
+concentrations of jacobine-like PAs. Variation in some
+senecionine-like, erucifoline-like PAs and otosenine-like
+PAs contributed strongly to PC3 (individuals with high PC3
+scores had low/high concentrations of these PAs; Supple-
+mentary Table 2). A plot of PC1 vs. PC2 shows that F2
+hybrids can be divided roughly into different groups.
+Feeding damage, indicated by the size of the dots, is not
+clearly clustered either on the plot of PC1 vs. PC2 or the
+plot of PC1 vs. PC3 (Fig. 3).
+Discussion
+Segregating hybrids are sometimes used to study correla-
+tions and trade-offs between different ecologically
+important traits in plants, because they exhibit greater
+variation than parental species, and greater indepen-
+dence between traits (e.g., Orians et al., 2010). We
+showed that there is high variation in the WFT suscepti-
+bility among F2 hybrids of J. vulgaris and J. aquatica.
+Although most F2 hybrids were as susceptible as or even
+more susceptible than J. aquatica (73% and 11% among
+all F2 hybrids respectively), there were still some hybrids
+with resistance similar to J. vulgaris (10%) or intermedi-
+ate to the two parents (6%). The expression of PAs among
+the F2 hybrid generation was highly variable (Cheng et
+al., 2011, but also see Fig. 2 and Fig. 3), and this variation
+provided an opportunity to investigate the in vivo effects
+of PA composition on plant resistance to a generalist
+herbivore.
+Fig. 3 Principal component analysis (PCA) of the pyrrolizidine
+alkaloid (PA) profiles of F2 hybrids of Jacobaea aquatica and
+Jacobaea vulgaris. PCA was performed on the log-transformed
+genotypic mean concentrations of all individual PAs excluding six
+minor PAs that did not have normally distributed concentrations (see
+Table 2). One dot represents one of 94 F2 hybrid genotypes. Size of
+each dot represents mean WFT feeding damage for that genotype. The
+genotypic mean concentrations are the average value of the three to
+six replicates from the same genotype
+Table 3 Results of multiple regression of western flower thrips
+(WFT) feeding damage (mm2) against the sum concentration of four
+structural groups of pyrrolizidine alkaloids (PAs, μg/g dw) in the 94
+F2 hybrid genotypes from Jacobaea aquatica and Jacobaea vulgaris
+(For the regression model: adjusted R2=0.1655; d.f.=15, 78; F=2.23;
+P=0.012)
+Predictors a Estimate t value
+PA groups snt −0.22 −1.50
+jbt −0.22 −2.83**
+ert −0.10 −0.72
+onet 0.06 0.78
+Two-way interactions snt:jbt −0.43 −1.45
+snt:ert −0.26 −0.49
+jbt:ert −0.27 −0.95
+snt:onet 0.05 0.21
+jbt:onet 0.15 0.93
+ert:onet −0.03 −0.10
+Three-way interactions snt:jbt:ert 1.79 1.89 +
+snt:jbt:onet 0.43 1.07
+snt:ert:onet −1.19 −1.29
+jbt:ert:onet 1.13 1.63
+Four-way interaction snt:jbt:ert:onet −3.02 −1.71+
+a snt, jbt, ert, onet: the sum concentration of senecionine-, jacobine-
+erucifoline- and otosenine- type PAs, separately
+Significance codes: + P<0.1, * P <0.05, * * P<0.01
+1078 J Chem Ecol (2011) 37:1071–1080
+We demonstrated that concentrations of total PA and
+jacobine-like PAs were negatively correlated with feeding
+damage by using correlation tests. Themultiple regression and
+PCA also indicated that concentrations of jacobine-like PAs
+were more closely related to WFT resistance than concen-
+trations of the other PAs. The important role of jacobine-like
+PAs in WFT resistance of Jacobaea plants also has been
+supported by previous studies. Macel (2003) found that WFT
+feeding damage was negatively correlated with total PA
+concentration and with jacobine (both N-oxide and free base)
+concentration in J. vulgaris plants. Leiss et al. (2009) found
+that resistant Jacobaea hybrids had higher concentrations of
+jacobine N-oxide and jaconine N-oxide than susceptible
+hybrids. To develop a better understanding of the deterrent
+effects of different PAs on WFT, bioassays should be
+conducted using pure samples of different PAs.
+Macel et al. (2005) tested WFT larval survival on
+artificial diets containing six individual PAs including
+senecionine, seneciphylline, retrorsine, senkirkine, helio-
+trine, and monocrotaline, or mixtures of senecionine,
+seneciphylline, and retrorsine. The experiment indicated
+that toxic effects of PAs on WFT larva differed among the
+individual PAs. Furthermore, higher PA concentrations had
+more potent toxic effects, and no synergistic effects resulted
+from PA mixtures. These findings support the results of our
+study, with the caveat that our analysis revealed a potential
+weak interaction between the different kinds of PAs. However,
+the interactions were slight (0.05<P<0.1, Table 3), and it is
+difficult to interpret interactions between more than two
+predictors.
+PA variation accounted for a relatively low proportion of
+the variation in feeding damage (R2=0.17, Table 3).
+Therefore, other factors likely play roles in plant suscepti-
+bility to WFT. These factors may include plant physical
+characteristics such as plant size, which was found to be a
+significant covariate in this study. Total PA concentration
+and plant size together explained a slightly higher propor-
+tion of the total variation (R2=0.20). Other secondary
+metabolites have been reported from these species and their
+hybrids, including flavonoids, kaempferol glucoside, and
+chlorogenic acid (Leiss et al., 2009; Kirk et al., 2011), and
+other phytochemicals such as sesquiterpene lactones may
+be present but remain unreported. These metabolites may
+also play a role in resistance to herbivores, individually or
+in interaction with PAs.
+Acknowledgements Dandan Cheng thanks the China Scholarship
+Council (CSC) of the Ministry of Education for financial support. We
+thank Cilke Hermans, Karin van der Veen-van Wijk and Henk Nell for
+technical assistance in plants growth and WFT bioassay; Lotte Joosten
+for help in PA extraction, measurements, and analysis; Kirsten Leiss,
+Mohammed Mirnezhad, Kelly Stolk and Anniek de Vreede for help in
+feeding damage scoring. We also thank two anonymous reviewers for
+suggestions on manuscript writing.
+Open Access This article is distributed under the terms of the
+Creative Commons Attribution Noncommercial License which per-
+mits any noncommercial use, distribution, and reproduction in any
+medium, provided the original author(s) and source are credited.
+References
+ABBOTT, R. J., RITCHIE, M. G., and HOLLINGSWORTH, P. M. 2008.
+Speciation in plants and animals: pattern and process—Introduc-
+tion. Phil. Trans. R. Soc. Lond. B. 363:2965–2969.
+BARTOn, N. H. 2001. The role of hybridization in evolution. Mol.
+Ecol. 10:551–568.
+CHENG, D., KIRK, H., MULDER, P. P. J., VRIELING, K., and
+KLINKHAMER, P. G. L. 2011. Pyrrolizidine alkaloid variation in
+shoots and roots of segregating hybrids between Jacobaea
+vulgaris and Jacobaea aquatica. New Phytol. doi: 10.1111/
+j.1469-8137.2011.03841.x.
+CHOU, M. W., WANG, Y. P.,YAN, J., YANG, Y. C., BEGER, R. D.,
+WILLIAMS, L. D., DOERGE, D. R., and FU, P. P. 2003. Riddelliine
+N-oxide is a phytochemical and mammalian metabolite with
+genotoxic activity that is comparable to the parent pyrrolizidine
+alkaloid riddelliine. Toxicology Letters. 145:239–247.
+CHRISTIE, S. M. H., KROPMAN, M., LEISEGANG, E. C., and WARREN,
+F. L. 1949. The senecio alkaloids. Part III. The structure of
+retrorsine and isatidine, and the isomerism of retronecic acid and
+isatinecic acid. J. Chem. Soc. 1700–1702.
+CRAWLEY, M. J. 2005. Statistics: An Introduction Using R. John
+Wiley & Sons, Ltd., Longdon.
+DOMINGUEZ, D. M., REINA, M., SANTOS-GUERRA, A., SANTANA,
+O., AGULLO, T., LOPEZ-BALBOA, C., and GONZALEZ-
+COLOMA, A. 2008. Pyrrolizidine alkaloids from Canarian
+endemic plants and their biological effects. Biochem. Syst.
+Ecol. 36:153–166.
+FRITZ, R. S. 1999. Resistance of hybrid plants to herbivores: genes,
+environment, or both? Ecology 80:382–391.
+HALLGREN, P., IKONEN, A., HJALTEN, J., and ROININEN, H. 2003.
+Inheritance patterns of phenolics in F1, F2, and back-cross
+hybrids of willows: implications for herbivore responses to
+hybrid plants. J. Chem. Ecol. 29:1143–1158.
+HARTMANN, T. 1999. Chemical ecology of pyrrolizidine alkaloids.
+Planta. 207:483–495.
+HARTMANN, T. and TOPPEL, G. 1987. Senecionine N-oxide, the
+primary product of pyrrolizidine alkaloid biosynthesis in root
+cultures of Senecio vulgaris. Phytochemistry 26:1639–1643.
+HARTMANN, T. and WITTE, L. 1995. Pyrrolizidine alkaloids: Chemical,
+biological and chemoecological aspects, pp. 155–233, in S. W.
+Pelletier (eds.), Alkaloids: Chemical and Biological Perspectives,
+vol. 9. Pergamon Press, Oxford, UK.
+HARTMANN, T., EHMKE, A., EILERT, U., VON BORSTEL, K., and
+THEURING, C. 1989. Sites of synthesis, translocation and
+accumulation of pyrrolizidine alkaloid N-oxides in Senecio
+vulgaris L. Planta 177:98–107.
+HE, Y.-Q., YANG, L., LIU, H.X., ZHANG, J.-W., LIU, Y., FONG, A.,
+XIONG, A.-Z., LU, Y.-L., YANG, L., WANG, C.-H., and WANG,
+Z.-T. 2010. Glucuronidation, a new metabolic pathway for
+pyrrolizidine alkaloids. Chem. Res. Toxicol. 23:591–599.
+HOCHWENDER, C. G., FRITZ, R. S., and ORIANS, C. M. 2000. Using
+hybrid systems to explore the evolution of tolerance to damage.
+Evol. Ecol. 14:509–521.
+JOOSTEN, L., MULDER, P. P. J., VRIELING, K., VAN VEEN, J. A. V., and
+KLINKHAMER, P. G. L. 2010. The analysis of pyrrolizidine
+alkaloids in Jacobaea vulgaris; a comparison of extraction and
+detection methods. Phytochem. Anal. 21:197–204.
+J Chem Ecol (2011) 37:1071–1080 1079
+JOOSTEN, L., CHENG, D., MULDER, P. P. J., VRIELING, K., VAN VEEN,
+J. A. V., and KLINKHAMER, P. G. L. 2011. The genotype
+dependent presence of pyrrolizidine alkaloids as tertiary amine
+in Jacobaea vulgaris. Phytochemistry 70:214–222.
+KIRK, W. D. J., and TERRY, L. I. 2003. The spread of the western
+flower thrips Frankliniella occidentalis (Pergande). Agric. For.
+Entomol. 5:301–310.
+KIRK, H., MACEL, M., KLINKHAMER, P. G. L., and VRIELING, K.
+2004. Natural hybridization between Senecio jacobaea and
+Senecio aquaticus: molecular and chemical evidence. Mol. Ecol.
+13:2267–2274.
+KIRK, H., VRIELING, K., and KLINKHAMER, P. G. L. 2005.
+Reproductive fitness of hybrids between Senecio jacobaea and
+S. aquaticus (Asteraceae). Am. J. Bot. 92:1467–1473.
+KIRK, H., CHENG, D., CHOI, Y. H., VRIELING, K., and KLINKHAMER,
+P. G. L. 2011. Transgressive segregation of primary and
+secondary metabolites in F2 hybrids between Jacobaea aquatica
+and J. vulgaris. Metabolomics doi: 10.1007/s11306-011-0301-8
+LANGEL, D. OBER, D. and PELSER, P. B. 2011. The evolution of
+pyrrolizidine alkaloid biosynthesis and diversity in the Senecio-
+neae. Phytochem. Rev. 10:3–74.
+LEISS, K. A., CHOI, Y. H., ABDEL-FARID, I. B., VERPOORTE, R., and
+KLINKHAMER, P. G. L. 2009. NMR metabolomics of thrips
+(Frankliniella occidentalis) resistance in Senecio hybrids. J.
+Chem. Ecol. 35:219–229.
+LEXER, C., RANDELL, R. A., and RIESEBERG, L. H. 2003. Experi-
+mental hybridization as a tool for studying selection in the wild.
+Ecology 84:1688–1699.
+LOGIE, C. G., GRUE, M. R., and LIDDELL, J. R. 1994. Proton NMR
+speectroscopy of pyrrolizidine alkaloids. Phytochemistry, 37:
+43–109.
+MACEL, M. 2003. On the evolution of the diversity of pyrrolizidine
+alkaloids: The role of insects as selective forces. PhD Dissertation.
+University of Leiden.
+MACEL, M. 2011. Attract and deter: a dual role for pyrrolizidine
+alkaloids in plant–insect interactions. Phytochem. Rev. 1–8.
+MACEL, M., BRUINSMA, M., DIJKSTRA, S. M., OOIJENDIJK, T.,
+NIEMEYER, H. M., and KLINKHAMER, P. G. L. 2005. Differences
+in effects of pyrrolizidine alkaloids on five generalist insect
+herbivore species. J. Chem. Ecol. 31:1493–1508.
+ORIANS, C. M. 2000. The effects of hybridization in plants on
+secondary chemistry: implications for the ecology and evolution
+of plant-herbivore interactions. Am. J. Bot. 87:1749–1756.
+ORIANS, C. M., HOCHWENDER, C. G., FRITZ, R. S., and SNALL, T.
+2010. Growth and chemical defense in willow seedlings: trade-
+offs are transient. Oecologia 163:283–290.
+PELSER, P. B., GRAVENDEEL, B., and VAN DER MEIJDEN, R. 2003.
+Phylogeny reconstruction in the gap between too little and too
+much divergence: the closest relatives of Senecio jacobaea
+(Asteraceae) according to DNA sequences and AFLPs. Mol.
+Phylogenet. Evol. 29:613–628.
+PELSER, P. B., DE VOS, H., THEURING, C., BEUERLE, T., VRIELING,
+K., and HARTMANN, T. 2005. Frequent gain and loss of
+pyrrolizidine alkaloids in the evolution of Senecio section
+Jacobaea (Asteraceae). Phytochemistry 66:1285–1295.
+R DEVELOPMENT CORE TEAM. 2009. R: A language and
+environment for statistical computing. R Foundation for
+Statistical Computing, Vienna, Austria. URL http://www.
+R-project.org
+RIESEBERG, L. H. and ELLSTRAND, N. C. 1993. What can molecular
+and morphological markers tell us about plant hybridization. Crit.
+Rev. Plant Sci. 12:213–241.
+RIZK, A. M. 1991. Naturally Occurring Pyrrolizidine Alkaloids. Boca
+Raton, Florida, USA: CRC Press. 240 p.
+SEEHAUSEN, O. 2004. Hybridization and adaptive radiation. Trends
+Ecol. Evol. 19:198–207.
+THODEN, T. C., BOPPRE, M., and HALLMANN, J. 2009. Effects of
+pyrrolizidine alkaloids on the performance of plant-parasitic and
+free-living nematodes. Pest Manage. Sci. 65:823–830.
+VAN DAM, N. M., VAN DER MEIJDEN, E., and VERPOORTE, R. 1993.
+Induced responses in 3 alkaloid-containing plant-species.
+Oecologia. 95:425–430.
+VAN DAM, N. M., VUISTER, L. W. M., BERGSHOEFF, C., DE VOS, H.,
+and VAN DER MEIJDEN, E. D. 1995. The 'raison d'etre' of
+pyrrolizidine alkaloids in Cynoglossum officinale deterrent
+effects against generalist herbivores. J. Chem. Ecol. 21:507–
+523.
+VINCENT, P. L. D. 1996. Progress on clarifying the generic concept of
+Senecio based on an extensive world-wide sample of taxa, pp.
+597–611 in: D. Hind, H. Beentje (eds.), Compositae: Systematics.
+Proceedings of the International Compositae Conference. Royal
+Botanic Gardens, Kew.
+VRIELING, K., and BRUIN, J. 1987. Induction of pyrrolizidine alkaloids
+after artificial damage of rosette-plants of Senecio jacobaea L.
+Rijksuniversiteit Faculteit Landbouwwetenschappen Gent. 52:
+1321–1326.
+VRIELING, K., DE VOS, H., and VAN WIJK, C. A. M. 1993. Genetic
+analysis of the concentrations of pyrrolizidine alkaloids in
+Senecio Jacobaea. Phytochemistry 32:1141–1144.
+WIEDENFELD, H., ROEDER, E., BOURAUEL, T., and EDGAR, J. 2008.
+Pyrrolizidine Alkaloids: Structure and Toxicity. V&R unipress
+GmbH, Bonn.
+YUDIN, L. S., CHO, J. J., and MITCHELL, W. C. 1986. Host range of
+western flower thrips, Frankliniella occidentalis (Thysanoptera,
+Thripidae), with special reference to Leucaena glauca. Environ.
+Entomol. 15:1292–1295.
+1080 J Chem Ecol (2011) 37:1071–1080

@@ -1,0 +1,1727 @@
+University of Kentucky
+UKnowledge
+Plant and Soil Sciences Faculty Publications Plant and Soil Sciences
+4-1-2014
+Induced Transcriptional Profiling of
+Phenylpropanoid Pathway Genes Increased
+Flavonoid and Lignin Content in Arabidopsis
+Leaves in Response to Microbial Products
+Mohammad Babar Ali
+University of Kentucky, mohammad.ali2@uky.edu
+David H. McNear
+University of Kentucky, dave.mcnear@uky.edu
+Right click to open a feedback form in a new tab to let us know how this document benefits you.
+Follow this and additional works at: https://uknowledge.uky.edu/pss_facpub
+Part of the Plant Sciences Commons
+This Article is brought to you for free and open access by the Plant and Soil Sciences at UKnowledge. It has been accepted for inclusion in Plant and
+Soil Sciences Faculty Publications by an authorized administrator of UKnowledge. For more information, please contact UKnowledge@lsv.uky.edu.
+Repository Citation
+Ali, Mohammad Babar and McNear, David H., "Induced Transcriptional Profiling of Phenylpropanoid Pathway Genes Increased
+Flavonoid and Lignin Content in Arabidopsis Leaves in Response to Microbial Products" (2014). Plant and Soil Sciences Faculty
+Publications. 42.
+https://uknowledge.uky.edu/pss_facpub/42
+Induced Transcriptional Profiling of Phenylpropanoid Pathway Genes Increased Flavonoid and Lignin Content
+in Arabidopsis Leaves in Response to Microbial Products
+Notes/Citation Information
+Published in BMC Plant Biology, v. 14, no. 84, p. 1-14.
+© 2014 Ali and McNear; licensee BioMed Central Ltd.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited.
+Digital Object Identifier (DOI)
+http://dx.doi.org/10.1186/1471-2229-14-84
+This article is available at UKnowledge: https://uknowledge.uky.edu/pss_facpub/42
+RESEARCH ARTICLE Open Access
+Induced transcriptional profiling of
+phenylpropanoid pathway genes increased
+flavonoid and lignin content in Arabidopsis leaves
+in response to microbial products
+Mohammad Babar Ali* and David H McNear Jr
+Abstract
+Background: The production and use of biologically derived soil additives is one of the fastest growing sectors of
+the fertilizer industry. These products have been shown to improve crop yields while at the same time reducing
+fertilizer inputs to and nutrient loss from cropland. The mechanisms driving the changes in primary productivity
+and soil processes are poorly understood and little is known about changes in secondary productivity associated
+with the use of microbial products. Here we investigate secondary metabolic responses to a biologically derived
+soil additive by monitoring changes in the phenlypropanoid (PP) pathway in Arabidopsis thaliana.
+Results: This study was designed to test the influence of one of these products (Soil Builder™-AF, SB) on secondary
+metabolism after being applied at different times. One time (TI) application of SB to Arabidopsis increased the
+accumulation of flavonoids compared to multiple (TII) applications of the same products. Fourteen phenolic
+compounds including flavonols and anothocyanins were identified by mass spectrometry. Kaempferol-3,7-O-bis-α-
+L-rhamnoside and quercetin 3,7-dirhamnoside, the major compounds, increased 3-fold and 4-fold, respectively
+compared to control in the TI treatment. The most abundant anthocyanin was cyanidin 3-rhamnoglucoside, which
+increased 3-fold and 2-fold in TI compared to the control and TII, respectively. Simultaneously, the expression of
+genes coding for key enzymes in the PP pathway (phenylalanine ammonia lyase, cinnamate 4-hydroxylase, chalcone
+synthase, flavonoid-3′-O-hydroxylase, flavonol synthase1 and dihydroflavonol-4-reductase) and regulatory genes
+(production of anthocyanin pigment2, MYB12, MYB113, MYB114, EGL3, and TT8) were up-regulated in both treatments
+(TI and TII). Furthermore, application of TI and TII induced expression of the lignin pathway genes (hydroxyl cinamyl
+transferase, caffeyl-CoA O-methyl transferase, cinnamyl alcohol dehydrogenase, cinnamyl-CoA reductase, secondary
+wall-associated NAC domain protein1, MYB58 and MYB63 resulting in higher accumulation of lignin content compared
+to the control.
+Conclusions: These results indicate that the additions of microbially based soil additives have a perceptible influence
+on phenylpropanoid pathway gene regulation and its production of secondary metabolites. These findings open an
+avenue of research to investigate the mode of action of microbially-based soil additives which may assist in the
+sustainable production of food, feed, fuel and fiber.
+Keywords: Arabidopsis, Metabolites, Microbes, Transcriptional profiling, Plant Growth Promoting Rhizobacteria,
+Soil Builder
+* Correspondence: mohammad.ali2@uky.edu
+Department of Plant and Soil Sciences, Rhizosphere Science Laboratory,
+University of Kentucky, Lexington, KY 40546, USA
+© 2014 Ali and McNear; licensee BioMed Central Ltd. This is an Open Access article distributed under the terms of the Creative
+Commons Attribution License (http://creativecommons.org/licenses/by/2.0), which permits unrestricted use, distribution, and
+reproduction in any medium, provided the original work is properly credited.
+Ali and McNear BMC Plant Biology 2014, 14:84
+http://www.biomedcentral.com/1471-2229/14/84
+Background
+One of major challenges in the 21st century is the sus-
+tainable production of food, fuel and fiber crops with en-
+hanced functional and nutritive value (e.g. flavonoids
+and anthocyanins) to meet the demands of an ever-
+increasing global population [1,2]. To meet this demand
+requires the development of alternative more sustainable
+methods for the production and enhancement of value
+added agricultural commodities in a way that will have
+minimal impact on the ecosystem. Current agricultural
+practices are largely based on the use of chemical fertil-
+izers and synthetic pesticides for improved crop growth
+and yield. However, our dependence and overuse of these
+fertilizers has resulted in contamination of soil, ground and
+surface waters. Increasing demand for healthier and more
+nutrient-dense foods by more health-conscious consumers
+and an improved environmental awareness has resulted in
+an increased interest in and a rapid change towards eco-
+friendly sustainable agricultural farming systems.
+One component of this new sustainable production
+system is the use of microbe-based fertilizers (i.e. biosti-
+mulants) containing potential beneficial strains of micro-
+organism and their metabolites many of which have an
+important role in conditioning the rhizosphere for im-
+proved plant growth and nutrient use efficiency [3,4].
+Since the 1970’s we have been cognizant of the potential
+benefits on plant growth of specialized plant growth pro-
+moting rhizobacteria (PGPR) [5]. There have been many
+reports on improvements in plant defense, health and
+growth, resistance to pathogens, enhanced salt tolerance,
+and improved nutrient uptake in response to PGPR [6,7]
+that could have led to the development of novel agricul-
+tural applications. In spite of all these advantages, the
+use of microbial-based products has not been effectively
+exploited at larger scales to improve plant yields and most
+certainly not as a means to selectively enhance gene ex-
+pression and production of beneficial secondary metabo-
+lite in crops.
+Phenylpropanoids are a large group of polyphenolic
+compounds that comprise an important class of second-
+ary metabolites such as flavonoids, anthocyanin and lig-
+nin in plants [8]. Phenylpropanoids have important
+functions in flower coloration, pollinator attraction, pro-
+tection from ultraviolet (UV) light, as signaling mole-
+cules between plants and microbes, and as antioxidants
+[9]. Additionally, when consumed by humans phenylpro-
+panoids offer a myriad of health benefits [10,11]. There
+have been many studies on the biosynthesis of flavonols
+and the PP pathway in general via metabolic engineering
+targeting important agronomic traits such as the produc-
+tion of novel colors and color patterns in ornamentals
+[8,12]. Many phenylpropanoids act as inducers of plant-
+microbe symbioses [13], whereas others exhibit broad-
+spectrum antimicrobial activity and are therefore believed
+to help plants fight microbial diseases [14]. In addition,
+several studies have examined how the PP and defense re-
+lated pathways are regulated by interactions between soil
+microorganisms and plant roots [15-18]. The genes in-
+volved in PP pathway such as chalcone synthase (CHS),
+chalcone isomerase (CHI), flavanone 3-hydroxylase (F3H),
+flavonoid 3’-hydroxylase (F3’H), and flavonol synthase1
+(FLS1) play important roles in the production of secon-
+dary metabolites, while dihydroflavonol 4-reductase (DFR),
+and leucoanthocyanidin dioxygenase (LDOX) are involved
+in the production of colored anthocyanidins (Additional
+file 1). After production, these products are further mo-
+dified by glycosylation, acylation, and methylation in a
+complex process that changes their stability, solubility, or
+localization, and thereby the biological properties of the
+conjugated molecules [19].
+The transcription factors regulating the expression of
+these structural genes have been well characterized in
+plant species including Arabidopsis [20]. MYB11, MYB12,
+and MYB111 encode three functionally redundant MYBs
+regulating the expression of several ‘early’ flavonoid bio-
+synthetic genes [21]. On the other hand, TFs such as PAP1,
+PAP2, GL3, TT8 and TTG1 which are components of the
+MYB/bHLH/WDR (MBW) transcriptional complexes medi-
+ate the ‘late’ anthocyanin biosynthesis genes [21,22]. The
+lignin biosynthesis pathway is well-characterized and plays
+an important role in plant growth, development, increase
+cell wall integrity, facilitating water transport and providing
+resistance against pathogen [23-25]. The genes which are
+involved in lignin biosynthesis are largely regulated at the
+transcription level and lignin-specific transcription factor
+MYB58, MYB63 and SND1 can induce the biosynthetic
+pathways for the synthesis of lignin [26,27].
+To date there is little research aimed at understanding
+the influence of microbial products on plant secondary
+metabolism making it difficult to assess a potential func-
+tional relationship(s). Understanding how phenylpropa-
+noid metabolism changes in response to microbes or
+microbial-based products will help to improve our funda-
+mental understanding of plant biology, and would be useful
+for the development of natural products aimed at improv-
+ing crop yield and quality. Preliminary analysis of the prod-
+uct composition shows that it is composed of PGPR related
+bacteria and use of the product can result in plant growth
+promotion [28,29]. We hypothesized that microbial-based
+products, known to improve plant growth and nutrient
+uptake, can induce the PP pathway and lignin pathway
+in Arabidopsis. Therefore, this study was designed to
+evaluate how application and the timing of application
+(single and multiple times) influence the PP pathway in
+Arabidopsis. Quantitative real-time PCR (qRT-PCR) was
+used in this study for transcriptional profiling of flavonoid
+and lignin pathway genes, and high performance liquid
+chromatography (HPLC) and liquid chromatography-
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 2 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+electrospray ionization-quadrupole-time of flight-mass
+spectrometry (LC/ESI-Q-TOFMS/MS) were used to
+determine flavonoid content. The results show that
+application of microbial products induced the PP path-
+way and there was a different response dependent on
+application timing. In both cases application of the
+microbial product induced flavonoid and lignin con-
+tent in Arabidopsis leaves compared to an untreated
+control.
+Results
+Metabolite composition
+Fourteen flavonoids were identified by HPLC-QTOF-
+MS/MS analysis in the leaves of Arabidopsis (Figures 1
+and 2), including nine flavonols: kaempferol-3,7-O-
+bis-alpha-L-rhamnoside (F1), kaempferol-3-O-alpha-
+L-rhamnopyranosyl (1-2)-beta-D-glucopyranoside-7-O-alpha-
+L-rhamnopyranoside (F2), kaempferol with rhamnoside
+(F3), kaempferol with rhamnoside (F4), kaempferol with
+rhamnoside (F5), kaempferol in hydrolyzed form (F6),
+quercetin 3,7-dirhamnoside (F7), apigenin7-(2”,3”-dia-
+cetylglucoside), (F8), and pentamethoxydihydroxy fla-
+vone (F9); as well as five representative anthocyanidins
+(cyanidin 3-rhamnoglucoside (A1), (cyanidin 3-(6-ma-
+lonylglucoside)-7,3”-di-(6-feruloylglucoside) (A2), cyanidin
+3-(6”-caffeyl-2”-sinapylsambubioside)-5-(6-malonylglucoside)
+(A3), and two isomers of cyanidin 3-(2G-glucosylrutinoside)
+(A4 and A5) (Table 1). The majority of Arabidopsis fla-
+vonoids were found to be anthocyanins, glycosylated
+kaempferol and rhamnosylated in this study which
+concurs with previously published findings [30-33].
+Significant changes in the biosynthesis of flavonoids
+occurred that depended on treatment and time of appli-
+cation, except for F8 (Figures 1 and 2). One time ap-
+plication of products (TI) induced the peak area of F1,
+F2, F3, F4, F5, F6, F7, F8, and F9, compared to control
+(Figure 1). Similarly, but to a lesser extent, peak area
+levels of F1, F2, F3, F4, F5, F7, F8 and F9 were increased
+in the TII treatments compared to control (Figure 1).
+When compared between TI and TII treatments, TI
+treatments increased the peak area of F1, F2, F3, F4, F5,
+F6, F7, F8, and F9 compared to TII. The compound
+kaempferol, F6, which was detected at Rt11.43 (F6; m/z,
+286.04) in the hydrolyzed leafy extracts, was induced sig-
+nificantly in the TI treatments compared to control and
+TII. The peak area of apigenin (a flavones containing
+compound, F8), did not change with the treatments, but
+F9 increased significantly in both TI and TII treated
+plants, while no significant difference was found in the
+peak area level of F9 between the treatments. The five
+anthocyanin derivatives (A1-A5) were increased in both
+TI and TII treated plants compared to control (Figure 2).
+TI induced the level of A2 and A4 significantly com-
+pared to TII and control (Figure 2). Comparing TI and
+Treatments TreatmentsTreatments
+Pe
+ak
+A
+re
+a
+X
+10
+6
+0
+4
+8
+12
+16
+CONT TI TII
+0
+2
+4
+6
+8
+CONT TI TII
+0
+0.7
+1.4
+2.1
+2.8
+CONT TI TII
+0.0
+0.5
+1.0
+1.5
+CONT TI TII
+0
+2
+4
+6
+CONT TI TII
+0
+4
+8
+12
+CONT TI TII
+0
+4
+8
+12
+16
+CONT TI TII
+0
+0.2
+0.4
+0.6
+0.8
+CONT TI TII
+0
+0.1
+0.2
+0.3
+0.4
+CONT TI TII
+F1
+F2
+F3
+F4
+F5
+F6
+F7
+F8
+F9
+a
+b
+b
+a a
+a a
+a a
+a
+a
+b
+b
+b
+b
+b
+b
+aa
+bb
+b
+a
+b
+a
+b
+b
+Figure 1 Profiles of flavonol glycoside detected in Arabidopsis thaliana treated once (TI) and multiple times (TII) with SoilBuilder™-AF
+(SB). Kaempferol-3,7-O-bis-alpha-L-rhamnoside (F1), kaempferol-3-O-alpha-L-rhamnopyranosyl (1-2)-beta-D-glucopyranoside-7-O-alpha-L-rhamnopyranoside
+(F2), Kaempferol with rhamnoside (F3), Kaempferol with rhamnoside (F4), Kaempferol with rhamnoside (F5), Kaempferol in hydrolyzed (F6),
+quercetin 3,7-dirhamnoside (F7), apigenin 7-(2”,3”-diacetylglucoside) (F8) and pentamethoxydihydroxyflavone (F9). Bars indicate standard error
+of three biological replicates at each sampling time-point. Different letters in different bar differ significantly from the control according to Fit
+Least Squares (FLS) test, P ≤ 0.05. CONT (black bar) indicates the untreated plants, TI (shaded) and TII (white) treated with microbial products
+only once and multiple times, respectively.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 3 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+Pe
+ak
+A
+re
+a
+X
+10
+6
+Treatments
+0
+1
+2
+3
+4
+5
+CONT TI TII
+A1
+0.00
+0.05
+0.10
+0.15
+0.20
+0.25
+CONT TI TII
+A2
+0.00
+0.01
+0.02
+0.03
+0.04
+CONT TI TII
+Treatments
+A3
+0
+0.07
+0.14
+0.21
+0.28
+0.35
+CONT TI TII
+A4
+0.00
+0.05
+0.10
+0.15
+0.20
+CONT TI TII
+A5
+a
+a
+a
+a
+bb
+a
+b
+b
+a
+a
+a
+a
+a
+a
+Figure 2 Profiles of anthocyanidins glycoside detected in Arabidopsis thaliana treated once (TI) and multiple times (TII) with SB.
+Cyanidin –Rhamnoglucoside (A1), cyanidin 3-(6-malonylglucoside)-7,3’-di-(6-feruloylglucoside) (A2), cyanidin 3-(6”-caffeyl-2”-sinapylsambubioside)-5-
+(6-malonylglucoside) (A3) and cyanidin 3-(2G-glucosylrutinoside) (A4) and cyanidin 3-(2G-glucosylrutinoside) (A5). Bars indicate standard error of three
+biological replicates at each sampling time-point. For significant level identification, see Figure 1.
+Table 1 Flavonoids identified in Arabidopsis thaliana leaf tissue by liquid chromatography-electrospray ionization
+Q- time of flight - mass spectrometry (LC/ESI- Q-TOF MS/MS) analysis
+Peak no. Rt (min) ESI-MS
+(m/z)
+Mol formula Compound name
+1 (A4) 7.1294 757.2185 C33H41O20 Anthocyanidin 3-(2G-glucosylrutinoside)
+2 (F2) 7.3303 740.2166 C33H40O19 Kaempferol-3-O-alpha-L-rhamnopyranosyl (1-2)-beta-D-glucopyranoside-7-O-alpha-L-
+rhamnopyranoside
+3 (F3) 7.3482 432.1062 C21H20O10 Kaempferol with rhamnosides
+4 (A1) 7.4932 595.1674 C27H31O15 Anthocyanidin 3-Rhamnoglucoside
+5 (A5) 7.5893 757.2188 Anthocyanidin 3-(2G-glucosylrutinoside)
+6 (F5) 7.7591 432.1062 C21H20O10 Kaempferol with rhamnosides
+7 (F7) 7.7687 594.1596 C27H30O15 Quercetin 3,7-dirhamnoside
+8 (A2) 7.7707 1211.305 C56H59O30 Anthocyanidin 3-(6-malonylglucoside)-7,3′-di-(6-feruloylglucoside)
+9 (A3) 7.9512 1197.293 C55H57O30 Anthocyanidin 3-(6”-caffeyl-2”-sinapylsambubioside)-5-(6-malonylglucoside)
+10 (F9) 8.1942 362.0622 C17H14O9 Pentamethoxydihroxyflavone
+11 (F8) 8.2139 516.1278 C25H24O12 Apigenin 7-(2”,3”-diacetylglucoside)
+12 (F1) 8.2625 578.1646 C27H30O14 Kaempferol-3,7-O-bis-alpha-L-rhamnoside
+13 (F4) 8.2657 432.1067 C21H20O10 Kaempferol with rhamnosides
+14 (F6) 11.434 286.048 C15H10O6 Kaempferol
+Rt, retention time; ESI-MS, electrospray ionization/mass spectrometry; m/z, mass/charge.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 4 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+TII treatments, the TI treatment increased the level of
+A1, A2, A4, and A5) compared to TII. Nevertheless, TII
+treatment increased the level of A3 compared to TI.
+Expression of flavonoid biosynthesis genes in
+Arabidopsis leaves
+To understand the influence of microbial product applica-
+tion timing (TI and TII) on the flavonoid pathway, the ex-
+pression of genes encoding key PP pathway enzymes PAL1,
+PAL2, PAL3, PAL4, C4H, CHS, CHI, F3H, F3’H, FLS1, DFR,
+LDOX, and UF3GT were analyzed in Arabidopsis leaves
+using qPCR (Figures 3 and 4). Both types of treatments (TI
+and TII) did not induce the expression PAL1, PAL2, PAL3
+and PAL4 significantly (P ≥ 0.05) compared to control
+(Figure 3). Expression of CHS, FLS1, LDOX, and UF3GT
+was induced double in both types of treatments com-
+pared to the control, while TI and TII treatments in-
+creased expression of F3’H 8 and 4 times more compared
+to control, respectively (Figure 4). Expression of CHI in-
+creased significantly (P≤ 0.05) in TI compared to control
+and TII treated plants, while CHI expression did not
+change significantly in TII treated plants compared to the
+control. Expression of F3H increased significantly (P≤
+0.05) in TII compared to control and TI treated plants,
+while F3H expression did not change significantly in TI
+treated plants compared to the control. TI treatment
+increased expression of DFR by one fold compared
+control and no change of DFR expression was found in
+TII treated plants compared to control. Acylation genes
+(At1g03495, At1g03940 and At3g29590), glycosylation
+genes (UGT75C1 and UGT78D3), GST and UDP-rhamnose
+synthase genes (RHM1, RHM2, and RHM3) increased in
+the TI and TII treated plants compared to control in the
+majority of the cases (see Additional files 2A, B and C).
+Expression pattern of flavonoid pathway regulatory
+genes in Arabidopsis leaves
+To examine whether the induced expression of flavonoid
+biosynthetic genes in leaves was accompanied by the ex-
+pression of regulatory genes, we analyzed the transcript
+levels of PAP1, PAP2, MYB11, MYB12, MYB111, MYB113,
+MYB114, GL3, EGL3, TT8 and TTG1 in the leaves of
+Arabidopsis treated with TI and TII (Figure 5). Expres-
+sion of most of the regulatory genes was induced in
+both TI and TII treated plants compared to control. Ex-
+pression levels of PAP1 and PAP2 were increased in both
+TI and TII treated plants compared to the control; and
+even more so for PAP2 in the TI treated plants, which ex-
+perienced a 3-fold increase. Expression of MYB11, MYB12,
+MYB113 and MYB114 were increased in both TI and TII
+treated plants compared to control. Expression of MYB12
+and MYB114 was induced to the greatest extent in the TI
+compared to TII treated plants. Expression of MYB11 and
+MYB113 was induced in both TI and TII treated plants
+compared to control. Conversely, MYB111 expression in
+the TII treatment was suppressed, and the TI treatment
+only slightly up-regulated. The effect of treatment on GL3
+and TTG1 expression levels was similar with no induction
+Treatments Treatments
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+CONT TI TII
+PAL1
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+CONT TI TII
+PAL2
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+CONT TI TII
+PAL3
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+CONT TI TII
+PAL4
+a a
+a a
+a
+a
+a a
+a
+a
+a a
+R
+el
+at
+iv
+e 
+ex
+p
+re
+ss
+io
+n
+ le
+ve
+l
+Figure 3 Relative transcript abundance of phenylalanine ammonia lyase (PAL) of flavonoid pathway (PAL1, PAL2, PAL3 and PAL4) genes
+known to be involved in flavonoid biosynthesis in Arabidopsis thaliana after being treated once (TI) and multiple times (TII) with SB.
+Primers used in these studies, products size for the amplified fragments, accession numbers are shown in Additional file 6. Transcript abundance
+of each gene was normalized by the level of an actin and EF-1α gene. Bars indicate standard error of three biological replicates at each sampling
+time-point. For significant level identification, see Figure 1.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 5 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+for the TI and control, whereas expression of both genes
+increased significantly (P≤ 0.05) compared to TI and con-
+trol. Expression of EGL3 did not change in both TI and TII
+treated plants compared to control. Strong increase in the
+expression levels of TT8 was noted in the TI treated plants
+compared to control.
+Lignin biosynthesis
+To further understand the application of microbial treat-
+ments (TI and TII), we analyzed the expression of all the
+genes (20) involved in the lignifications pathway (Figures 3,
+6, 7 and Additional file 3). The accumulation of transcripts
+for C4H, 4CL1, C3’H1, CCoAOMT1, CCR1, CCR2,
+COMT1, CAD1, CAD3, CAD4, CAD5, CAD7, CAD8 and
+SAT were induced significantly (P ≤ 0.05) in TI treated
+plants compared to control. Expression levels of HCT,
+F5H1, and SAT were increased significantly (P ≤ 0.05) in
+TII treated plants compared to control. No significant
+(P ≥ 0.05) difference of expression levels of C3’H1, CCR1,
+CCR2, and COMT1 were observed between control and
+TII treated plants. We found that expression levels of
+CCR2, CAD1, CAD5, CAD7, and CAD8 were increased
+significantly (P≤ 0.05) in TI compared to TII treated
+plants. Expression of LAC4, LAC17, and their regulatory
+genes (SND1, MYB58, and MYB63) increased significantly
+(P≤ 0.05) in both TI and TII treated plants compared to
+control (Additional file 4), and also with significant (P ≤
+0.05) expression levels for the TI compared to the TII
+treated plants. Significant (P≤ 0.05) accumulation of lig-
+nin was noted in the TI and TII treated plants compared
+to control.
+Discussion
+Expression of flavonoid pathway genes and
+metabolite composition
+Our study provides evidence that application of microbial
+products (TI and TII) to Arabidopsis plants increases the
+accumulation of flavonoids, and that TI resulted in greater
+accumulation of metabolites than TII treated plants. Such
+enhancement was accompanied by an increased expres-
+sion of most of the genes in the flavonoid biosynthetic
+pathway. This was particularly prominent in TI treated
+plants, but there were also elevated expression levels in
+TII treated plants. Synthesis of the derivatives of kaemp-
+ferol, quercetin, and anthocyanins depend greatly on dihy-
+drokaempferol. Meanwhile, F3’H and FLS1 are crucial
+to channeling the precursor’s dihydroquercetin/dihydro-
+kaempferol, forming quercetin or kaempferol branches.
+The up-regulation of F3’H and FLS1 in TI compared with
+TII treated plants are consistent with an increase in the
+amounts of most of flavonol glycosides in Arabidopsis
+leaves (Figure 1). However, in TII treated plants, there was
+a significant decrease in the amounts of most of flavonol
+glycosides compared to TI, which is also in accordance
+R
+el
+at
+iv
+e 
+ex
+p
+re
+ss
+io
+n
+ le
+ve
+l
+Treatments Treatments
+Treatments
+0.0
+0.5
+1.0
+1.5
+2.0
+CONT TI TII
+CHS
+0.0
+0.3
+0.6
+0.9
+1.2
+CONT TI TII
+CHI
+a
+b
+b
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+CONT TI TII
+F3H
+0
+0.4
+0.8
+1.2
+1.6
+CONT TI TII
+F3’H a
+ab
+ab
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+CONT TI TII
+FLS1 a
+ab
+b
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+CONT TI TII
+DFR a
+b
+ab
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+CONT TI TII
+LDOX
+a
+ab
+b
+0.0
+0.5
+1.0
+1.5
+2.0
+CONT TI TII
+UF3GT
+a
+a
+b
+b
+a
+a
+b
+a
+b
+Figure 4 Relative transcript abundance of flavonoids pathway structural genes (CHS, CHI, F3H, F3´H, FLS1, UF3GT, DFR and LDOX)
+known to be involved in flavonoid biosynthesis in Arabidopsis treated once (TI) and multiple times (TII) with SB. Primers used in these
+studies, products size for the amplified fragments, accession numbers are shown in Additional file 6. Transcript abundance of each gene was
+normalized by the level of an actin and EF-1α gene. Bars indicate standard error of three biological replicates at each sampling time-point.
+For significant level identification, see Figure 1.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 6 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+with the down-regulation of F3’H and FLS1 observed in TII
+treated plants. Such difference may be due to the variability
+of specific substrate, which can make the biosynthetic path-
+way different, thus producing different products. Therefore,
+the increase of kaempferol-containing flavonols is primarily
+associated with the accumulation of F1, which is 2-fold
+higher as compared to F2, F3, F4, F5, F7, and F9 in TI
+treated plants.
+LC-MSMS analyses detected a strongly increased level of
+a compound (F6) in acid hydrolyzed samples correspond-
+ing to molecular mass (m/z, 286.0) of aglycone kaempferol.
+Consistent with the induced expression of DFR, LDOX and
+UF3GT in both TI and TII treated plants, we observed sig-
+nificant increases in the amount of anthocyanins (A1, A2,
+A3, A4 and A5) in the leaves of Arabidopsis as compared
+to the control (Figure 2). The effect was most prominent
+for A1, A2, A4 and A5 in the TI treated plants wherewith
+higher accumulation was observed compared to those
+plants receiving the TII treatment. In contrast, plants
+treated with TII showed higher accumulation of A3
+compared to control. The presence of caffeyl, ferulyl, sina-
+pyl and malonyl groups in the accumulated anthocyanins
+is parallel with the induced expression of anthocyanin acyl-
+transferases, and SAT in the present study [34]. The accu-
+mulation of these compounds could provide some level of
+increased defense against biotic and abiotic stresses. For
+example, the presence of the acylated flavonol glycosides in
+the leaf hairs of Quercus ilex increased the plant’s pro-
+tection against the damage of UV-B radiation [35]. In
+another example, rutin showed significant antifungal
+activity against the fungi Cylindrocar pondestructans,
+Phytophthora megasperma, and Verticillium dahlia attac-
+king olive trees (Olea europaea). Rutin is, therefore, be-
+lieved to play a major role in plant defense [36]. The
+formation of a large number of glycoslated kaepmferol
+derivatives and only a small amount of glycosylated
+anthocyanidins in our study are corroborated by earlier
+reports [37,38].
+R
+el
+at
+iv
+e 
+ex
+p
+re
+ss
+io
+n
+ le
+ve
+l
+Treatments Treatments
+Treatments
+0
+1
+2
+3
+4
+CONT TI TII
+PAP1
+0
+1
+2
+3
+4
+CONT TI TII
+PAP2 a
+b
+ab
+0
+1
+2
+3
+4
+5
+CONT TI TII
+MYB12 a
+b
+b
+0
+1
+2
+3
+CONT TI TII
+MYB111
+a a
+b
+0
+1
+2
+3
+4
+5
+CONT TI TII
+GL3 a
+bb
+0
+1
+2
+3
+CONT TI TII
+EGL3
+a
+a a
+0
+1
+2
+3
+4
+CONT TI TII
+TT8 a
+b
+ab
+0
+1
+2
+3
+4
+5
+CONT TI TII
+TTG1
+b b
+a
+0
+1
+2
+3
+CONT TI TII
+MYB11
+b
+a
+a
+0
+1
+2
+3
+4
+CONT TI TII
+MYB113
+b
+a a
+0
+2
+4
+6
+CONT TI TII
+MYB114
+b
+a
+ab
+a
+a
+b
+Figure 5 Relative transcript abundance of transcription factors (PAP1, PAP2, MYB11, MYB12, MYB111, MYB113, MYB114, GL3, EGL3, TT8
+and TTG1) known to direct flavonoids biosynthesis-related gene expression in Arabidopsis treated once (TI) and multiple times (TII)
+with SB. Primers used in these studies, products size for the amplified fragments, accession numbers are shown in Additional file 6. Transcript
+abundance of each gene was normalized by the level of an actin and EF-1α gene. Bars indicate standard error of three biological replicates at
+each sampling time-point. For significant level identification, see Figure 1.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 7 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+Several GTs that are involved in the glycosylation pro-
+cesses and induced expression of UGT75C1 and UGT78D3
+[30,38] are consistent with the expression of FLS1, F3’H,
+and glycosylated flavonol compound biosynthesis in TI and
+TII treated plants. Rhamnosylation is a major glycosylation
+process of flavonols and the genes responsible for bio-
+synthesis of rhmanose sugar, and is vital in supplying
+UDP-rhamnose for flavonol biosynthesis. Enhanced ex-
+pression of RHM1, RHM2 and RHM3 in the TI and TII
+treated plants suggests their possible roles in the formation
+of Rha residue and rhamnosylation of flavonoids. Our LC-
+MSMS data also suggest that most flavonol accumulation
+in the microbial treated plants is in the rhamnosylated
+form. Induced expression of rhamnosylated genes was re-
+ported in Arabidopsis [31], confirming previous results that
+suggest its involvement in rhamnosylation of flavonols
+in TI and TII treated plants. The induced expression of
+RHM1, RHM2, and RHM3 in our study may be due to
+either competition of substrate availability, or to changes
+in the flow of flux in the different branches of the PP
+pathway, a phenomenon which has been reported in
+Arabidopsis [39,40]. These results showed significant
+variation in flavonoid accumulation, indicating that the
+accumulation of flavonoid may potentially be manipu-
+lated by altering the application timing of the microbial
+based products.
+Transcriptional regulation of flavonoid pathway genes
+Transcriptional regulation of flavonoid biosynthesis struc-
+tural genes are controlled by regulatory genes, which pro-
+vide an additional level of control. Several MYB/bHLH/
+WD-repeat (MBW) family genes have been implicated in
+the regulation of flavonoid biosynthesis in Arabidopsis.
+Among them, PAP1 is a master regulator of flavonoid/
+anthocyanin biosynthesis pathway [41]. Our results sug-
+gest that induced expression of PAP1 and its close homo-
+log, PAP2, are strongly induced in TI and TII treated
+plants, regulating the flavonoid biosynthesis. Interestingly,
+0
+0.4
+0.8
+1.2
+1.6
+CONT TI TII
+C4H
+b
+a
+a
+0
+2
+4
+6
+CONT TI TII
+4CL1
+b
+a
+a
+0
+1
+2
+3
+4
+CONT TI TII
+HCT
+b
+a
+a
+0
+1
+2
+3
+4
+5
+CONT TI TII
+C3’H1
+b
+a
+ab
+0
+4
+8
+12
+CONT TI TII
+CCoAOMT1
+a
+a
+b
+0
+2
+4
+6
+CONT TI TII
+CCR1
+b
+a
+ab
+0
+3
+6
+9
+CONT TI TII
+COMT1 a
+bb
+0
+1
+2
+3
+4
+CONT TI TII
+F5H1
+b
+ab
+a
+0
+1
+2
+3
+4
+CONT TI TII
+CCR2 a
+b
+b
+0
+1
+2
+3
+4
+CONT TI TII
+SAT a
+a
+b
+R
+el
+at
+iv
+e 
+ex
+p
+re
+ss
+io
+n
+ le
+ve
+l
+Treatments Treatments
+Treatments
+Figure 6 Relative transcript abundance of structural genes (C4H, 4CL1, HCT, C3’H1, CCoAOMT1, CCR1, CCR2, COMT1, F5H1, and SAT)
+known to involved in lignin biosynthesis in Arabidopsis treated once (TI) and multiple times (TII) with SB. Primers used in these studies,
+products size for the amplified fragments, accession numbers are shown in Additional file 6. Transcript abundance of each gene was normalized
+by the level of an actin and EF-1α gene. Bars indicate standard error of three biological replicates at each sampling time-point. For significant level
+identification, see Figure 1.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 8 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+PAP2 expression was increased in TI treated plants as
+compared to PAP1. Thus, it is reasonable to suggest that
+PAP2 expression was stable enough to control flavonoid
+biosynthesis.
+There are several other genes encoding MYB and bHLH
+transcription factors (TF) that are known to be involved in
+regulating flavonoid biosynthesis in Arabidopsis leaves.
+Therefore, the expression of MYB11, MYB12, MYB111,
+MYB113, MYB114, GL3, EGL3, TT8 and TTG1 was ana-
+lyzed. TT8 interacts with PAP1/PAP2 [42], and the up-
+regulation of PAP1/PAP2 and TT8 genes appears to be
+required for the activation of anthocyanin structural genes
+for anthocyanin production in TI treated plants. The closely
+related MYB11, MYB12, and MYB111 TFs are flavonol-
+specific regulators, and effect flavonol accumulation in dif-
+ferent parts of the Arabidopsis seedlings by regulating
+several genes of flavonoid biosynthesis, such as CHS, CHI,
+F3’H, and FLS1 [21]. Consistent with the up-regulation of
+PAP1 and PAP2, induced expression of MYB11, MYB12,
+MYB113 and MYB114 genes resulted in an increase in the
+content of individual flavonol biosynthesis in the TI com-
+pared TII treated plants. However, induced expression of
+PAP1, MYB11 and MYB113 gene coincided with reduced
+expression of PAP2, MYB12, MYB111 and MYB114 in the
+TII treated plants, suggesting a balance among MYB gene
+members in controlling the flavonoid biosynthesis in our
+study. Variable regulation of the TFs and regulatory genes
+in the TII treated plants likely led to the lower amounts of
+flavonols and anothcyanin and higher amounts of F8, F9
+and A3 observed in these plants.
+Interestingly, a significant increase in the amounts of A3
+was noted in the TII as compared to TI treated plants that
+may have been due to the induced expression of regulatory
+genes GL3 and TTG1, and anthocyanin biosynthetic genes
+LDOX and UF3GT. Previous studies have indicated that the
+mutant of ttg1 disrupted the expression of late anthocyanin
+biosynthetic genes such as DFR and LDOX, whereas the
+expression of ‘early’ anthocyanin biosynthetic genes (CHS,
+CHI, and F3H) is not effected in the same mutant
+[22,43,44]. Our results show that genes involved in the
+biosynthesis of flavonoids are expressed differently in TI
+and TII treated plants, which explains why some of the fla-
+vonoids are produced in much higher amounts as com-
+pared to the control. This clearly indicates some correlation
+between the biosynthesis of these closely related flavonoids
+in response to plants receiving the microbe-based soil ad-
+ditive. However, further work is required to understand
+whether these changes are due to the microbes or metabo-
+lites in the product, or the interaction of the two, and if
+they are acting directly on the plant or indirectly by mediat-
+ing the interaction of the plant with the surrounding soil.
+Expression of transcription factors during lignin
+accumulation
+A branch of the PP pathway is responsible for the synthesis
+of lignins by the coordinated transcription of lignin path-
+way genes (C4H, 4CL1, C3’H1, CCoAOMT1, CCR1, CCR2,
+COMT1, CAD1, CAD3, CAD5, CAD7, CAD8 and SAT)
+[45-49]. TI strongly induced the expression of C4H, 4CL1,
+HCT, C3’H1, CCoAOMT1, CCR1, CCR2, COMT1, CAD1,
+CAD3, CAD5, CAD7, CAD8 and SAT, whereas TII induc-
+tion of lignin biosynthesis genes is relatively low, with the
+exception of HCT and F5H1, whose expression levels were
+higher in the TII compared to TI treated plants (Figure 6
+and Additional file 3). C4H, 4CL1, and HCT have been
+shown to be involved in lignification [50-52]; furthermore,
+the increase in the expression levels of C4H, 4CL1, and
+HCT in the TI and TII treated plant could be linked to the
+lignification process. CCoAOMT1 and COMT1 expression
+was induced in TI and TII treated plants. CCoAOMT1 en-
+codes an enzyme involved in monolignol biosynthesis by
+catalyzing the methylation of caffeyl-CoA ester. Moreover,
+in TI treated plants, the up-regulation CCoAOMT1 and
+COMT1 were observed more than those of TII treated
+plants. Overexpression of PAP1 (a positive regulator of
+anthocyanin biosynthesis) in Arabidopsis showed increased
+amounts of guaiacyl and syringyl monomers that were
+associated with increased lignin accumulation [24]. In Vitis
+vinifera, VvMYB5a, which regulates anthocyanin and
+proanthocyanidin biosynthesis in grapevine, also affects lig-
+nin biosynthesis. Overexpression of VvMYB5a in tobacco
+down regulated CCoAOMT1 gene expression, leading to
+reduced lignification in anther walls and delayed dehiscence
+[53]. It was also observed that C4H and COMT1 genes are
+regulated by a lignin-specific MYB transcription factor
+MYB58 in Arabidopsis [54,55].
+0
+0.2
+0.4
+0.6
+0.8
+CONT TI TII
+L
+ig
+n
+in
+ c
+o
+n
+te
+n
+t 
+(6
+20
+ n
+m
+)
+Treatments
+a
+a
+b
+Figure 7 Influence of microbial products SB treated once (TI)
+and multiple times (TII) on lignin content in Arabidopsis
+thaliana. Bars indicate standard error of three biological replicates at
+each sampling time-point. For significant level identification,
+see Figure 1.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 9 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+Of the two CCR isogenes, CCR1 showed higher over-
+all expression levels than CCR2 in both TI and TII
+treated plants, but only plants form TI had greater
+CCR1 expression compared to control. Up-regulation
+of CCR expression has been associated with an increase
+in lignin formation in Arabidopsis [56]. Nine CAD
+genes have been reported in Arabidopsis [48]. The re-
+sults showed that six members of the CAD family genes
+(CAD1, CAD3, CAD4, CAD5, CAD7, and CAD8) accu-
+mulated at varying levels, with CAD1, CAD3, CAD7
+and CAD8 expression being higher in the TI treated
+plants compared to TII treated plants (Additional file 3).
+CAD4 and CAD5 have been shown to play a major role
+in lignifications [57]. We observed that CAD4 and
+CAD5 expression was induced to the same degree in
+both TI and TII treated plants compared to control. A
+role of CAD1 in lignification has been shown in young
+stems, flowers, and siliques of Arabidopsis [58]. CAD3
+expression was detected in secondary growth in hy-
+pocotyls of A. thaliana [59]. A several fold increase in
+the levels of expression of CAD7 and CAD8 was noted
+in the TI treated plants compared to TII treated plants;
+however, their expression was increased in the TII
+treated plants compared to control plants. The higher
+induced expression levels of CAD7 compared to CAD8
+was also observed in plantlets and flowers of Arabidopsis
+[58]. Thus, different members of the CCR and CAD
+family genes appear to be induced differently in lignin
+biosynthesis in plants treated with microbe-derived
+products. The induced expression of these genes in our
+study suggested that they might contribute to the bio-
+synthesis of lignin. At2g23000, encoding sinapoylglu-
+cose:anthocyanin sinapoyltransferase (SAT), plays a
+role in sinapoylmalate synthesis [60] an increase in the
+expression levels of SAT in the TI and TII treated plant
+was also noted.
+Both CCR and CAD are critical for lignin biosynthesis,
+transferred into the cell wall, and polymerized by laccases
+[61,62]. The up-regulation of laccases (LAC4 and LAC17)
+is accompanied by the up-regulation of several TFs in
+both TI and TII treated plants responsible for controlling
+lignin biosynthesis (Additional file 4). It was shown that
+LAC4 is expressed in vascular bundles and interfascicular
+fibers; and, that LAC17 contributes in the interfascicular
+fibers lignifications [63]. Secondary wall associated NAC
+domain protein1 (SND1), a key transcriptional activator
+regulating the developmental program of secondary wall
+biosynthesis [64], was induced in TI and TII treated plants
+compared to control (Additional file 4). MYB58 and
+MYB63 have been suggested to be specific activators for
+lignin biosynthesis [55]. The induced expression of these
+genes in both TI and TII treated plants (Additional file 4)
+suggested that they are actively involved in the lignifi-
+cations process.
+Conclusions
+This study shows that microbial products applied to the
+soil of growing plants support our hypothesis and results
+in induction of the PP pathway and increased metabolite
+biosynthesis. The one time application of microbial prod-
+ucts (TI) produced more metabolites than multiple appli-
+cations (TII). The higher metabolite biosynthesis in TI
+compared to TII could be explained by the fact that both
+TI and TII contained microbial products, while TII ap-
+plied few times more compared to TI may have indirectly
+inhibit the metabolite biosynthesis or diverted the metab-
+olites to other metabolic pathway. However, overall fla-
+vonoid accumulation was higher in the treated plants,
+regardless of timing, as compared to the control. Such dif-
+ferences in the flavonols and anthocyanin accumulations
+between TI and TII treated plants can be explained by the
+differential transcript accumulation of structural and regu-
+latory genes in leaves of Arabidopsis. This is one of the
+first studies to show that microbial products play an im-
+portant role in activating the PP pathway in leaves of Ara-
+bidopsis. These results suggest that the mechanism(s)
+responsible for the enhancement of metabolites could be
+related to the microorganisms or metabolites in the prod-
+uct, or an interaction of both. Innovative approaches are
+needed such as pyro-sequencing for the identification of
+specific microbial groups, and metabolomics analysis for
+the identification of possible bioactive metabolites within
+the product to evaluate those responsible for activation of
+the transcriptional cascade observed in this study.
+Methods
+Source of microbial preparation
+Soil Builder™-AF, SB (Advanced Microbial Solutions,
+Pilot point, TX, USA), a biochemical fertilizer catalyst
+developed specifically for the agriculture industry, con-
+tains bacteria products derived from a bioreactor system
+consisting of a large and diverse microbial community.
+The microbial community composition of SB has been
+assessed using 16S rRNA based gene analysis and is gen-
+erally composed of species of bacillus, actimomyces and
+proteobacteria. Previous works also reported that SB
+consists of bacillus species, actinomycetes, cyanobac-
+teria, algae, protozoa, and microbial by-products [65]
+including microbial metabolites produced during anae-
+robic fermentation of a microbial community [66]. Basic
+chemical composition of the product was determined by
+the University of Kentucky Soil Testing Laboratory follo-
+wing standard protocols (Additional file 5).
+Growth conditions and treatment procedure
+Seeds of Arabidopsis thaliana ecotype Columbia-0 were
+sterilized and sown on solid 0.7% agar plates containing
+1× Murashige and Skoog medium (pH 5.7). Plates were
+incubated in darkness at 4°C for 2-3 days and were
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 10 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+transferred to a growth chamber at 22°C with a 16-h
+light/8-h dark cycle at a photosynthetic photon flux
+density (PPFD) of 100 μmol m-2 s-1, and 65-70% relative
+humidity and grown for two weeks. After two weeks sev-
+enty of the seedlings were transferred to six inch pots
+containing fertilizer (PRO-MIX® BX, Quakertown, PA,
+USA), arranged in randomized complete block design in
+the growth chamber and allowed to acclimate for 7-
+10 days. Plants were treated following the manufacturers
+recommended application rate of 100 ml of 6× concen-
+trated 16 ml/L SB. For TI, individual plants were treated
+with the products only on 1st day, and in parallel with
+same solutions for 1st day and every 3rd day for TII.
+Control plants were treated with same water in every 3rd
+day. Each set of treatment have 18-20 plants including
+control. On day 14, from each set 5-6 plants were di-
+vided randomly to collect representative of biological
+replicates (R1, R2 and R3). Leaves were collected on day
+14 (control and treated), weighed, and were immediately
+frozen in liquid nitrogen and stored at -80°C until RNA
+extraction.
+RNA extraction, cDNA synthesis and Quantitative real-
+time PCR (qPCR)
+Total RNA was extracted from three biological replicates
+using TRI-ZOL method following the manufacturer in-
+structions. cDNA synthesis and qPCR analysis was
+done according to the method of [67]. Transcript levels in
+Arabidopsis were measured in triplicates of each biological
+replicate by qPCR, using SYBR Green (Applied Biosystem)
+in the Applied Biosystem StepOnePlus™ Real-Time PCR
+Systems following the manufacturer’s manual. The relative
+mRNA levels were determined by normalizing the PCR
+threshold cycle number of each gene with that of the EF-
+1α and ACTIN as reference genes, according to GeneEx
+software (http://www.multid.se/order/bioeps.php;) and
+the data were the average of three replicates. Se-
+quences of primers used in this study were retrieved
+from literature and used for amplifying gene-specific
+sequences (Additional file 6 [24,25,27,31,48,68-77].
+Identification and quantification of flavonoids and
+anthocyanins by LC-ESI-QTOF-MS/MS method
+Metabolite profiling was performed as described by Lea
+et al. (2007) with some modifications. Approximately
+100 mg frozen leaves from three biological were homog-
+enized under liquid nitrogen and transferred to a 2 mL
+Eppendorf tube, to which was added 1 mL of methanol.
+The phenolics were extracted for 18 h at room temperature
+in darkness, and centrifuged at 14,000 rpm for 15 min. The
+extract was filtered through a sterile Syr filter (25 mm,
+0.20 μm) through sterile syringe (MicroLiter Analytical
+Supplies, Inc). Acid hydrolysis was performed by adding
+30 -μl of 3 N HCL into the sample, and then heated for
+an hr at 70°C in water bath. The accuracy of machine
+was tested in the extract of samples before running ana-
+lyses, and we injected a mix of flavonoids to make sure
+flavonoids were working in LC-MSMS method that in-
+cluded the following: Apigenin-7-glucoside, liquiriti-
+genin, geninstein, quercetin, apigenin, and epicatechin.
+Profiling of metabolites (flavonoids and anthocyanins)
+in leaf extracts was performed using an LC system with
+pump model 1200 with 6530A (Agilent Technologies,
+CA, USA) quadrupole time of flight (Q-TOF) mass
+spectrometer equipped with an Agilent Jet Stream elec-
+trospray ionization (ESI) ion source. The ESI source
+used a separate nebulizer for the continuous introduc-
+tion of reference mass compounds: 121.050873,
+922.009798 (positive ion mode). Five microliters of sam-
+ple extract was separated using an Acquity BEH Shield
+RP-18 analytical column (1.7 μm 2.1×150 mm, Waters
+Corporation, Milford, CT) maintained at 40°C. The mo-
+bile phase of solvent A consists of water/formic acid
+(99.9:0.1, v/v) and (B) acetonitrile/formic acid (99.9:0.1,
+v/v) with a solvent ratio of A:B of 95:5. The following
+gradient for binary pump 1 was used with a total ana-
+lysis time of 21 min and a flow rate of 0.25 mL/min: 5%
+to 25% mobile phase B over 2 min then to 25% to 65%
+mobile phase B for 2.0 to 10.5 min, then to 99% mobile
+phase B for 10.5 to 12.5 min, then held at 99% mobile
+phase for 12.5 to 14 min followed by to 5% B from 14 to
+15.5 min and then held at 5% 15.5 to 17 min.
+The analytical conditions of mass spectrometry are as
+follows: range, start (100 amu), stop (1,700 amu), and
+scan time (4.0 s); heating gas temperature, 350°C; gas
+flow (l/min), 8.0; nebulizing gas, 35 psi; Sheath gas
+temp, 350; Sheath gas flow 11.0; VCap 3000; nozzle
+voltage (V) 1000. The fragmentor voltage was 120 V
+and skimmer1 65 VandoctopoleRFPeak 750 and collision
+energies (20 eV) were optimized for each compound. To
+confirm the identity of the flavonoids, MS/MS (m/z) frag-
+mentation patterns were compared with those of previously
+published reports [41] and confirmed by accurate mass
+Q-TOF analyses. In the absence of authentic standards,
+the flavonoids were quantified by peak area. MSMS
+spectra were compared with LC ESI-Q-TOF- MS/MS
+spectra of known compounds from the ReSpect data
+base containing all flavonoids MS/MS spectra (pub-
+lished by Prof Kazuki Saito, JP) and Metlin (the Agilent
+MS/MS spectral library). Results are reported as the mean
+of the three replicates.
+Lignin measurement
+Lignin was measured quantitatively according to [78].
+Leaves were homogenized in liquid N2. The powdered
+was transferred to a tube and suspended in 1.5 ml of
+methanol, and vigorously stirred for 1 h. The homogenate
+was centrifuged for 15 min at 14,000 rpm, the pellet was
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 11 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+washed with 1.5 ml of the following solvents by vortexing
+for 15 min: (i) methanol twice; (ii) 1 M NaCl; (iii) 1% SDS;
+(iv) water twice; (v) CHCl3/CH3OH (1:1); and (vi) tert-
+butyl methyl ether. The final pellet was freeze-dried over-
+night, and 10 mg was taken for the following assay. The
+powder was treated with 1 ml of 2 M HCl and 0.2 ml of
+thioglycolic acid for 4 h at 95°C. The mixture was cooled
+down and centrifuged for 10 min. The pellet was washed
+with water three times, and dissolved in 1 ml of 0.5 M
+NaOH and the suspension was shaken vigorously overnight
+at 4°C to extract the lignin thioglycolic acid derivatives
+(LTGAs), and centrifuged for 10 min. The supernatant was
+collected in a fresh tube, and the pellet was mixed with
+0.5 ml of 0.5 M NaOH for 1 h. Following centrifugation,
+the supernatant was combined with the previous one, and
+acidified with 0.3 M concentrated HCl to precipitate
+LTGAs at 4°C for 4 h. The mixture was centrifuged, and
+the pellet was kept overnight at 4°C. The LTGA pellet
+was dissolved in 1.5 ml of 0.M NaOH and the absorption
+was measured at 280 nm on a spectrophotometer. Results
+are reported as the mean of the three replicates.
+Statistical analysis
+Statistical analyses of quantitative qRT-PCR data were per-
+formed by the GenEx software (MultiD analysis) and JPM9
+(SAS Institute Inc, Cary, NC, USA). Bars indicate standard
+error of three biological replicates at each sampling time-
+point. Different letters in different bar differ significantly
+from the control according to Fit Least Squares (FLS) test,
+P ≤ 0.05. CONT (black bar) indicates the untreated plants,
+TI (shaded) and TII (white) treated with microbial products
+only once and multiple times, respectively.
+Additional files
+Additional file 1: The flavonoid biosynthesis pathway that leads to
+the production of anthocyanidins and flavonols in Arabidopsis;
+several transcription factors (MYB, bHLH and WD-40) are indicated
+along the branches that are likely involved in the transcriptional
+regulation of the structural genes. The transcription factors are
+indicated in black box, structural genes in red color and intermediate
+products in blue color.
+Additional file 2: Relative transcript abundance of
+acetyltranseferase genes (At1g03495, At1g03940, and At3g29590 )
+known to be involved in the acylation (A) UDP-glucosyltransferase
+(At4g14090 and At5g17030 ) and GSTs (At1g02920) genes known to
+be involved in the glycosylation (B), and rhamnose synthesis genes
+(RHM1, RHM2 and RHM3) involved in the rhamnosylation (C) of
+flavonoids treated once (TI) and multiple times (TII) with SB in
+Arabidopsis thaliana. Primers used in these studies, products size for the
+amplified fragments, accession numbers are shown in Additional file 6.
+Transcript abundance of each gene was normalized by the level of an actin
+and EF-1α gene. Bars indicate standard error of three biological replicates at
+each sampling time-point. For significant level identification, see Figure 1.
+Additional file 3: Relative transcript abundance of cinnamyl alcohol
+dehydrogenase family genes (CAD1, CAD3, CAD4, CAD5, CAD7 and
+CAD8) known to be involved in lignin biosynthesis treated once (TI)
+and multiple times (TII) with SB in Arabidopsis thaliana. Primers used
+in these studies, products size for the amplified fragments, accession
+numbers are shown in Additional file 6. Transcript abundance of each
+gene was normalized by the level of an actin and EF-1α gene. Bars
+indicate standard error of three biological replicates at each sampling
+time-point. For significant level identification, see Figure 1.
+Additional file 4: Relative transcript abundance of laccase (LAC4
+and LAC17) genes known to be involved in lignin biosynthesis (A)
+and transcription factors (SND1, MYB58 and MYB63) (B) are known
+to regulate lignin biosynthesis in Arabidopsis treated once (TI) and
+multiple times (TII) with SB in Arabidopsis thaliana. Primers used in
+these studies, products size for the amplified fragments, accession
+numbers are shown in Additional file 6. Transcript abundance of each
+gene was normalized by the level of an actin and EF-1α gene. Bars
+indicate standard error of three biological replicates at each sampling
+time-point. For significant level identification, see Figure 1.
+Additional file 5: Basic chemical properties of Soil Builder used in
+the present study.
+Additional file 6: Primers used for qRT-PCR analysis and expected
+size for the amplified fragments. The accession number from public
+database is given below.
+Abbreviations
+4CL1: 4-coumarate:CoA ligase1; C3′H1: p-coumarate 3-hydroxylase1;
+C4H: Cinnamate 4-hydroxylase; CAD: Cinnamyl alcohol dehydrogenase;
+CCoAOMT: Caffeoyl-CoA O-methyltransferase; COMT1: Caffeic acid O-
+methyltransferase1; HCT: HydroxycinnamoylCoA: shikimate/
+quinatehydroxycinnamyltransferase; CCoAOMT1: Caffeyl CoA 3-O-methyltrans-
+ferase 1; CCR1: Cinnamoyl CoA reductase1; CAD: Cinnamyl alcohol
+dehydrogenase; PAL: Phenylalanine ammonia-lyase; CHS: Chalcone synthase;
+CHI: Chalcone isomerase; 0UF3GT: UDP-glucose:flavonoid-3-O-
+glucosyltransferase; F3H: Flavanone 3-hydroxylase; F3′H: Flavonoid-3′-O-
+hydroxylase; DFR: Dihydroflavonol-4-reductase; LDOX: Leucoanthocyanidin
+dioxygenase; UDP-GST: UDP-glucoronosyl/UDP-glucosyltransferase;
+GST: Glutathione S-transferase; FLS1: Flavonol synthase1; PAP1 & 2: Production
+of anthocyanin pigment1 & 2; EGL3: Enhancer of glabra3; GL3: Glabrous 3;
+3GlcT: Flavonoid 3-O-glucosyltransferase; 3RhaT: Flavonol 3-O-rhamnosyltransfer-
+ase; 7GlcT: Flavonol 7-O-glucosyltransferase; 5GlcT: Anthocyanin 5-O-glucosyltrans-
+ferase; PGPR: Plant growth-promoting rhizobacteria; SB: Soil Builder™-AF.
+Competing interests
+The authors declare that they have no competing interests.
+Authors’ contributions
+M.B.A. conceived, designed the experiment, collected the sample, performed
+total RNA extraction, RNA quality, qRT-PCR, analyzed data, sequencing the
+qRT-PCR products, metabolite analyses, prepared figures and tables and
+wrote the initial manuscript and finalized the written manuscript. DJM conceived,
+designed the experiment and contributed to manuscript editing. Both authors
+read and approved the final manuscript.
+Acknowledgements
+This work was supported by the Advanced Microbial Solutions through
+Rhizosphere Science Laboratory, Department of Plant and Soil Sciences,
+University of Kentucky, Lexington, KY, USA. We would like to thank UC Davis
+Genome Center for LC-MSMS data collection and analysis.
+Received: 11 March 2013 Accepted: 27 March 2014
+Published: 1 April 2014
+References
+1. Green RE, Cornell SJ, Scharlemann JPW, Balmford A: Farming and the Fate
+of Wild Nature. Science 2005, 307(5709):550–555.
+2. DeFries R, Rosenzweig C: Toward a whole-landscape approach for sustainable
+land use in the tropics. Proc Natl Acad Sci 2010, 107(46):19627–19632.
+3. Barea JM, Pozo MJ, Azcon R, Azcon-Aguilar C: Microbial co-operation in
+the rhizosphere. J Exp Bot 2005, 56(417):1761–1778.
+4. Morgan JA, Bending GD, White PJ: Biological costs and benefits to plant-
+microbe interactions in the rhizosphere. J Exp Bot 2005, 56(417):1729–1739.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 12 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+5. Adesemoye AO, Torbert HA, Kloepper JW: Plant Growth-Promoting
+Rhizobacteria Allow Reduced Application Rates of Chemical Fertilizers.
+Microb Ecol 2009, 58(4):921–929.
+6. Morrissey JP, Dow JM, Mark GL, O’Gara F: Are microbes at the root of a
+solution to world food production? EMBO Rep 2004, 5(10):922–926.
+7. Dodd IC, Perez-Alfocea F: Microbial amelioration of crop salinity stress.
+J Exp Bot 2012, 63(9):3415–3428.
+8. Ververidis F, Trantas E, Douglas C, Vollmer G, Kretzschmar G, Panopoulos N:
+Biotechnology of flavonoids and other phenylpropanoid-derived natural
+products. Part I: Chemical diversity, impacts on plant biology and human
+health. Biotechnol J 2007, 2(10):1214–1234.
+9. Kutchan TM: A role for intra- and intercellular translocation in natural
+product biosynthesis. Curr Opin Plant Biol 2005, 8(3):292–300.
+10. García-Mediavilla V, Crespo I, Collado PS, Esteller A, Sánchez-Campos S,
+Tuñón MJ, González-Gallego J: The anti-inflammatory flavones quercetin
+and kaempferol cause inhibition of inducible nitric oxide synthase,
+cyclooxygenase-2 and reactive C-protein, and down-regulation of the
+nuclear factor kappaB pathway in Chang Liver cells. Eur J Pharmacol
+2007, 557(2–3):221–229.
+11. Sung PH, Huang FC, Do YY, Huang PL: Functional Expression of Geraniol
+10-Hydroxylase Reveals Its Dual Function in the Biosynthesis of Terpenoid
+and Phenylpropanoid. J Agr Food Chem 2011, 59(9):4637–4643.
+12. Ruiz-López N, Sayanova O, Napier JA, Haslam RP: Metabolic engineering of
+the omega-3 long chain polyunsaturated fatty acid biosynthetic pathway
+into transgenic plants. J Exp Bot 2012, 63(7):2397–2410.
+13. Mandal SM, Chakraborty D, Dey S: Phenolic acids act as signaling molecules
+in plant-microbe symbioses. Plant Signal Behav 2010, 5(4):359–368.
+14. Dixon RA: Natural products and plant disease resistance. Nature 2001,
+411(6839):843–847.
+15. Jetiyanon K: Defensive-related enzyme response in plants treated with a
+mixture of Bacillus strains (IN937a and IN937b) against different
+pathogens. Biol Control 2007, 42(2):178–185.
+16. Jain A, Singh S, Kumar Sarma B, Bahadur Singh H: Microbial
+consortium–mediated reprogramming of defence network in pea to
+enhance tolerance against Sclerotinia sclerotiorum. J Appl Microbiol
+2012, 112(3):537–550.
+17. Singh A, Sarma BK, Upadhyay RS, Singh HB: Compatible rhizosphere
+microbes mediated alleviation of biotic stress in chickpea through
+enhanced antioxidant and phenylpropanoid activities. Microbiol Res 2013,
+168(1):33–40.
+18. Jones JT, Furlanetto C, Phillips MS: The role of flavonoids produced in
+response to cyst nematode infection of Arabidopsis thaliana. Nematology
+2007, 9:671–677.
+19. Winkel-Shirley B: Flavonoid biosynthesis. A colorful model for genetics,
+biochemistry, cell biology, and biotechnology. Plant Physiol 2001, 126
+(2):485–493.
+20. Dubos C, Stracke R, Grotewold E, Weisshaar B, Martin C, Lepiniec L: MYB
+transcription factors in Arabidopsis. Trends Plant Sci 2010, 15(10):573–581.
+21. Stracke R, Ishihara H, Barsch GHA, Mehrtens F, Niehaus K, Weisshaar B:
+Differential regulation of closely related R2R3-MYB transcription factors
+controls flavonol accumulation in different parts of the Arabidopsis
+thaliana seedling. Plant J 2007, 50(4):660–677.
+22. Gonzalez A, Zhao M, Leavitt JM, Lloyd AM: Regulation of the anthocyanin
+biosynthetic pathway by the TTG1/bHLH/Myb transcriptional complex in
+Arabidopsis seedlings. Plant J 2008, 53(5):814–827.
+23. Bhuiyan NH, Selvaraj G, Wei Y, King J: Role of lignification in plant defense.
+Plant Signal Behav 2009, 4(2):158–159.
+24. Bhargava A, Mansfield SD, Hall HC, Douglas CJ, Ellis BE: MYB75 Functions in
+Regulation of Secondary Cell Wall Formation in the Arabidopsis
+Inflorescence Stem. Plant Physiol 2010, 154(3):1428–1438.
+25. Hossain Z, Amyot L, McGarvey B, Gruber M, Jung J, Hannoufa A: The
+Translation Elongation Factor eEF-1Bβ1 Is Involved in Cell Wall Biosynthesis
+and Plant Development in Arabidopsis thaliana. Plos One 2012, 7(1):e30425.
+26. Zhong R, Demura T, Ye Z-H: SND1, a NAC Domain Transcription Factor, Is
+a Key Regulator of Secondary Wall Synthesis in Fibers of Arabidopsis.
+The Plant Cell Online 2006, 18(11):3158–3170.
+27. Zhong R, Lee C, Zhou J, McCarthy RL, Ye Z-H: A Battery of Transcription
+Factors Involved in the Regulation of Secondary Cell Wall Biosynthesis in
+Arabidopsis. The Plant Cell Online 2008, 20(10):2763–2782.
+28. Adesemoye A, Kloepper J: Plant–microbes interactions in enhanced
+fertilizer-use efficiency. Appl Microbiol Biot 2009, 85(1):1–12.
+29. Calvo P, Watts DB, Ames RN, Kloepper JW, Torbert HA: Microbial-Based
+Inoculants Impact Nitrous Oxide Emissions from an Incubated Soil
+Medium Containing Urea Fertilizers. J Environ Qual 2013, 42(3):704–712.
+30. Bloor SJ, Abrahams S: The structure of the major anthocyanin in
+Arabidopsis thaliana. Phytochem 2002, 59:343–346.
+31. Yonekura-Sakakibara K, Tohge T, Matsuda F, Nakabayashi R, Takayama H,
+Niida R, Watanabe-Takahashi A, Inoue E, Saito K: Comprehensive Flavonol
+Profiling and Transcriptome Coexpression Analysis Leading to Decoding
+Gene–Metabolite Correlations in Arabidopsis. The Plant Cell Online 2008,
+20(8):2160–2176.
+32. Pourcel L, Irani NG, Lu Y, Riedl K, Schwartz S, Grotewold E: The formation of
+Anthocyanic Vacuolar Inclusions in Arabidopsis thaliana and implications for
+the sequestration of anthocyanin pigments. Molecular plant 2010, 3(1):78–90.
+33. Routaboul J-M, Dubos C, Beck G, Marquis C, Bidzinski P, Loudet O, Lepiniec
+L: Metabolite profiling and quantitative genetics of natural variation for
+flavonoids in Arabidopsis. J Exp Bot 2012, 63(10):3749–3764.
+34. D’Auria JC: Acyltransferases in plants: a good time to be BAHD. Curr Opin
+Plant Biol 2006, 9(3):331–340.
+35. Skaltsa H, Verykokidou E, Harvala C, Karabourniotis G, Manetasi Y: UV-B
+protective potential and flavonoid content of leaf hairs of Quercus ilex.
+Phytochemistry 1994, 37(4):987–990.
+36. Báidez AG, Gómez P, Del Río JA, Ortuño A: Dysfunctionality of the Xylem
+in Olea europaea L. Plants Associated with the Infection Process by
+Verticillium dahliae Kleb. Role of Phenolic Compounds in Plant Defense
+Mechanism. J Agr Food Chem 2007, 55(9):3373–3377.
+37. Yonekura-Sakakibara K, Tohge T, Niida R, Saito K: Identification of a
+Flavonol 7-O-Rhamnosyltransferase Gene Determining Flavonoid Pattern
+in Arabidopsis by Transcriptome Coexpression Analysis and Reverse
+Genetics. J Biol Chem 2007, 282(20):14932–14941.
+38. Matsuda F, Yonekura-Sakakibara K, Niida R, Kuromori T, Shinozaki K, Saito K:
+MS/MS spectral tag-based annotation of non-targeted profile of plant
+secondary metabolites. Plant J 2009, 57(3):555–577.
+39. Besseau S, Hoffmann L, Geoffroy P, Lapierre C, Pollet B, Legrand M:
+Flavonoid accumulation in Arabidopsis repressed in lignin synthesis
+affects auxin transport and plant growth. Plant Cell 2007, 19(1):148–162.
+40. Peng M, Hudson D, Schofield A, Tsao R, Yang R, Gu H, Bi Y-M, Rothstein SJ:
+Adaptation of Arabidopsis to nitrogen limitation involves induction of
+anthocyanin synthesis which is controlled by the NLA gene. J Exp Bot
+2008, 59(11):2933–2944.
+41. Tohge T, Nishiyama Y, Hirai MY, Yano M, Nakajima J, Awazuhara M, Inoue E,
+Takahashi H, Goodenowe DB, Kitayama M, Noji M, Saito K: Functional
+genomics by integrated analysis of metabolome and transcriptome of
+Arabidopsis plants over-expressing an MYB transcription factor. Plant J
+2005, 42(2):218–235.
+42. Zimmermann IM, Heim MA, Weisshaar B, Uhrig JF: Comprehensive
+identification of Arabidopsis thaliana MYB transcription factors
+interacting with R/B-like BHLH proteins. Plant J 2004, 40(1):22–34.
+43. Pelletier MK, Shirley BW: Analysis of Flavanone 3-Hydroxylase in Arabidop-
+sis Seedlings (Coordinate Regulation with Chalcone Synthase and Chal-
+cone Isomerase). Plant Physiol 1996, 111(1):339–345.
+44. Pelletier MK, Murrell JR, Shirley BW: Characterization of Flavonol Synthase
+and Leucoanthocyanidin Dioxygenase Genes in Arabidopsis (Further
+Evidence for Differential Regulation of “Early” and “Late” Genes). Plant
+Physiol 1997, 113(4):1437–1445.
+45. Vanholme R, Storme V, Vanholme B, Sundin L, Christensen JH, Goeminne G,
+Halpin C, Rohde A, Morreel K, Boerjan W: A Systems Biology View of
+Responses to Lignin Biosynthesis Perturbations in Arabidopsis. The Plant
+Cell Online 2012, 24(9):3506–3529.
+46. Sibout R, Eudes A, Pollet B, Goujon T, Mila I, Granier F, Seguin A, Lapierre C,
+Jouanin L: Expression pattern of two paralogs encoding cinnamyl alcohol
+dehydrogenases in Arabidopsis. Isolation and characterization of the
+corresponding mutants. Plant Physiol 2003, 132(2):848–860.
+47. Sibout R, Baucher M, Gatineau M, Van Doorsselaere J, Mila I, Pollet B, Maba B,
+Pilate G, Lapieffe C, Boerjan W, Jouanin L: Expression of a poplar cDNA
+encoding a ferulate-5-hydroxylase/coniferaldehyde 5-hydroxylase increases
+S lignin deposition in Arabidopsis thaliana. Plant Physiol Biochem 2002,
+40(12):1087–1096.
+48. Sibout R, Eudes A, Mouille G, Pollet B, Lapierre C, Jouanin L, Seguin A:
+CINNAMYL ALCOHOL DEHYDROGENASE-C and -D are the primary genes
+involved in lignin biosynthesis in the floral stem of Arabidopsis. Plant Cell
+2005, 17(7):2059–2076.
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 13 of 14
+http://www.biomedcentral.com/1471-2229/14/84
+49. Raes J, Rohde A, Christensen J, Peer Y, Boerjan W: Genome-wide
+characterization of the lignification toolbox in Arabidopsis. Plant Physiol
+2003, 133(3):1051–1071.
+50. Lu S, Zhou Y, Li L, Chiang VL: Distinct Roles of Cinnamate 4-hydroxylase
+Genes in Populus. Plant Cell Physiol 2006, 47(7):905–914.
+51. Lee D, Meyer K, Chapple C, Douglas CJ: Antisense Suppression of 4-
+Coumarate:Coenzyme A Ligase Activity in Arabidopsis Leads to Altered
+Lignin Subunit Composition. The Plant Cell Online 1997, 9(11):1985–1998.
+52. Hoffmann L, Besseau S, Geoffroy P, Ritzenthaler C, Meyer D, Lapierre C, Pollet B,
+Legrand M: Silencing of hydroxycinnamoy-coenzyme A shikimate/quinate
+hydroxycinnamoyltransferase affects phenylpropanoid biosynthesis.
+Plant Cell 2004, 16(6):1446–1465.
+53. Deluc L, Barrieu F, Marchive C, Lauvergeat V, Decendit A, Richard T, Carde J,
+Merillon J, Hamdi S: Characterization of a grapevine R2R3-MYB transcription
+factor that regulates the phenylpropanoid pathway. Plant Physiol 2006,
+140(2):499–511.
+54. Zhao Q, Dixon RA: Transcriptional networks for lignin biosynthesis: more
+complex than we thought? Trends Plant Sci 2011, 16(4):227–233.
+55. Zhou JL, Lee CH, Zhong RQ, Ye ZH: MYB58 and MYB63 Are Transcriptional
+Activators of the Lignin Biosynthetic Pathway during Secondary Cell
+Wall Formation in Arabidopsis. Plant Cell 2009, 21(1):248–266.
+56. Derikvand MM, Sierra JB, Ruel K, Pollet B, Do CT, Thevenin J, Buffard D,
+Jouanin L, Lapierre C: Redirection of the phenylpropanoid pathway to
+feruloyl malate in Arabidopsis mutants deficient for cinnamoyl-CoA re-
+ductase 1. Planta 2008, 227(5):943–956.
+57. Tronchet M, Balague C, Kroj T, Jouanin L, Roby D: Cinnamyl alcohol
+dehydrogenases-C and D, key enzymes in lignin biosynthesis, play an
+essential role in disease resistance in Arabidopsis. Mol Plant Pathol
+2010, 11(1):83–92.
+58. Eudes A, Pollet B, Sibout R, Do C-T, Séguin A, Lapierre C, Jouanin L: Evidence
+for a role of AtCAD 1 in lignification of elongating stems of Arabidopsis
+thaliana. Planta 2006, 225(1):23–39.
+59. Oh S, Park S, Han K-H: Transcriptional regulation of secondary growth in
+Arabidopsis thaliana. J Exp Bot 2003, 54(393):2709–2722.
+60. Yonekura-Sakakibara K, Fukushima A, Nakabayashi R, Hanada K, Matsuda F,
+Sugawara S, Inoue E, Kuromori T, Ito T, Shinozaki K, Wangwattana B,
+Yamazaki M, Saito K: Two glycosyltransferases involved in anthocyanin
+modification delineated by transcriptome independent component
+analysis in Arabidopsis thaliana. Plant J 2012, 69(1):154–167.
+61. Gavnholt B, Larsen K: Molecular biology of plant laccases in relation to
+lignin formation. Physiol Plantarum 2002, 116(3):273–280.
+62. Ranocha P, Chabannes M, Chamayou S, Danoun S, Jauneau A, Boudet A-M,
+Goffner D: Laccase Down-Regulation Causes Alterations in Phenolic
+Metabolism and Cell Wall Structure in Poplar. Plant Physiol 2002,
+129(1):145–155.
+63. Berthet S, Demont-Caulet N, Pollet B, Bidzinski P, Cezard L, Le Bris P, Borrega N,
+Herve J, Blondet E, Balzergue S, Lapierre C, Jouanin L: Disruption of LACCASE4
+and 17 Results in Tissue-Specific Alterations to Lignification of Arabidopsis
+thaliana Stems. Plant Cell 2011, 23(3):1124–1137.
+64. Zhong R, Lee C, Ye Z-H: Global Analysis of Direct Targets of Secondary
+Wall NAC Master Switches in Arabidopsis. Mol Plant 2010, 3(6):1087–1103.
+65. Yildirim E, Taylor AG, Spittler TD: Ameliorative effects of biological treatments
+on growth of squash plants under salt stress. Sci Hortic-Amsterdam 2006,
+111(1):1–6.
+66. Burkett-Cadena M, Kokalis-Burelle N, Lawrence KS, van Santen E, Kloepper
+JW: Suppressiveness of root-knot nematodes mediated by rhizobacteria.
+Biol Control 2008, 47(1):55–59.
+67. Ali M, Howard S, Chen S, Wang Y, Yu O, Kovacs L, Qiu W: Berry skin
+development in Norton grape: Distinct patterns of transcriptional
+regulation and flavonoid biosynthesis. Bmc Plant Biol 2010, 11(1):7.
+68. Kleindt CK, Stracke R, Mehrtens F, Weisshaar B: Expression analysis of
+flavonoid biosynthesis genes during Arabidopsis thaliana silique and
+seed development with a primary focus on the proanthocyanidin
+biosynthetic pathway. BMC research notes 2010, 3:255.
+69. Mehrtens F, Kranz H, Bednarek P, Weisshaar B: The Arabidopsis transcription
+factor MYB12 is a flavonol-specific regulator of phenylpropanoid biosynthesis.
+Plant Physiol 2005, 138(2):1083–1096.
+70. Solfanelli C, Poggi A, Loreti E, Alpi A, Perata P: Sucrose-specific induction of
+the anthocyanin biosynthetic pathway in Arabidopsis. Plant Physiol 2006,
+140(2):637–646.
+71. Luo J, Nishiyama Y, Fuell C, Taguchi G, Elliott K, Hill L, Tanaka Y, Kitayama M,
+Yamazaki M, Bailey P, Parr A, Michael AJ, Saito K, Martin C: Convergent
+evolution in the BAHD family of acyl transferases: identification and
+characterization of anthocyanin acyl transferases from Arabidopsis
+thaliana. Plant J 2007, 50(4):678–695.
+72. Velten J, Cakir C, Youn E, Chen J, Cazzonelli CI: Transgene Silencing and
+Transgene-Derived siRNA Production in Tobacco Plants Homozygous for an
+Introduced < italic > AtMYB90</italic > Construct. Plos One 2012, 7(2):e30141.
+73. Gou J-Y, Felippes FF, Liu C-J, Weigel D, Wang J-W: Negative Regulation
+of Anthocyanin Biosynthesis in Arabidopsis by a miR156-Targeted SPL
+Transcription Factor. The Plant Cell Online 2011, 23(4):1512–1522.
+74. Qi T, Song S, Ren Q, Wu D, Huang H, Chen Y, Fan M, Peng W, Ren C, Xie D:
+The Jasmonate-ZIM-Domain Proteins Interact with the WD-Repeat/
+bHLH/MYB Complexes to Regulate Jasmonate-Mediated Anthocyanin
+Accumulation and Trichome Initiation in Arabidopsis thaliana. The Plant
+Cell Online 2011, 23(5):1795–1814.
+75. Sawa S, Demura T, Horiguchi G, Kubo M, Fukuda H: The ATE Genes Are
+Responsible for Repression of Transdifferentiation into Xylem Cells in
+Arabidopsis. Plant Physiol 2005, 137(1):141–148.
+76. Minic Z, Jamet E, San-Clemente H, Pelletier S, Renou J-P, Rihouey C, Okinyo D,
+Proux C, Lerouge P, Jouanin L: Transcriptomic analysis of Arabidopsis
+developing stems: a close-up on cell wall genes. Bmc Plant Biol 2009, 9(1):6.
+77. Huang JL, Gu M, Lai ZB, Fan BF, Shi K, Zhou YH, Yu JQ, Chen ZX: Functional
+Analysis of the Arabidopsis PAL Gene Family in Plant Growth,
+Development, and Response to Environmental Stress. Plant Physiol 2010,
+153(4):1526–1538.
+78. Lange BM, Lapierre C, Sandermann H: Elicitor-Induced Spruce Stress
+Lignin - Structural Similarity to Early Developmental Lignins. Plant Physiol
+1995, 108(3):1277–1287.
+doi:10.1186/1471-2229-14-84
+Cite this article as: Ali and McNear: Induced transcriptional profiling of
+phenylpropanoid pathway genes increased flavonoid and lignin
+content in Arabidopsis leaves in response to microbial products. BMC
+Plant Biology 2014 14:84.
+Submit your next manuscript to BioMed Central
+and take full advantage of: 
+• Convenient online submission
+• Thorough peer review
+• No space constraints or color figure charges
+• Immediate publication on acceptance
+• Inclusion in PubMed, CAS, Scopus and Google Scholar
+• Research which is freely available for redistribution
+Submit your manuscript at 
+www.biomedcentral.com/submit
+Ali and McNear BMC Plant Biology 2014, 14:84 Page 14 of 14
+http://www.biomedcentral.com/1471-2229/14/84

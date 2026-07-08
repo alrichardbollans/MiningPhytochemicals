@@ -1,0 +1,1319 @@
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 
+DOI 10.1186/s40199-015-0136-3REVIEW ARTICLE Open AccessBlessings in disguise: a review of
+phytochemical composition and
+antimicrobial activity of plants belonging to
+the genus Eryngium
+Sinem Aslan Erdem1, Seyed Fazel Nabavi2, Ilkay Erdogan Orhan3, Maria Daglia4, Morteza Izadi5
+and Seyed Mohammad Nabavi2*Abstract
+Medicinal and edible plants play a crucial role in the prevention and/or mitigation of different human diseases from
+ancient times to today. In folk medicine, there are different plants used for infectious disease treatment. During the
+past two decades, much attention has been paid to plants as novel alternative therapeutic agents for the treatment
+of infectious diseases due to their bioactive natural compounds such as phenol, flavonoids, tannins, etc. The genus
+Eryngium (Apiaceae) contains more than 250 flowering plant species, which are commonly used as edible and
+medicinal plants in different countries. In fact, some genus Eryngium species are used as spices and are cultivated
+throughout the world and others species are used for the treatment of hypertension, gastrointestinal problems, asthma,
+burns, fevers, diarrhea, malaria, etc. Phytochemical analysis has shown that genus Eryngium species are a rich source of
+flavonoids, tannins, saponins, and triterpenoids. Moreover, eryngial, one the most important and major compounds of
+genus Eryngium plant essential oil, possesses a significant antibacterial effect. Thus, the objective of this review is to
+critically review the scientific literature on the phytochemical composition and antibacterial effects of the genus
+Eryngium plants. In addition, we provide some information about traditional uses, cultivation, as well as phytochemistry.
+Keywords: Antibacterial, Eryngial, Eryngium, Flavonoids, Saponins, InfectionBackground
+Infectious diseases are known as one of the most im-
+portant leading causes of long and short–term morbidity
+and mortality worldwide [1, 2]. According to the World
+Health Organization, in 2011, infectious diseases were
+responsible for approximately 18 million deaths world-
+wide. In addition to the high prevalence of infectious
+diseases, there are some microorganisms resistant to
+antibiotic therapy, which lead to the increase of death
+rate due their ability to acquire and transmit drug re-
+sistance [2]. Nowadays, antibiotic resistance is known
+as one the most important and challenging health prob-
+lems in the global health programs. Therefore, during
+the past two decades, much attention has been paid to* Correspondence: Nabavi208@gmail.com
+2Applied Biotechnology Research Center, Baqiyatallah University of Medical
+Sciences, P.O. Box 19395-5487, Tehran, Iran
+Full list of author information is available at the end of the article
+© 2015 Erdem et al. Open Access This article
+International License (http://creativecommons
+reproduction in any medium, provided you g
+the Creative Commons license, and indicate if
+(http://creativecommons.org/publicdomain/zethe discovery and development of natural multi-target
+antimicrobial agents with high efficacy and low adverse
+effects [3]. Natural products are known as one of the
+most important and effective drugs for human disease
+treatment [4–6]. In addition to their efficacy, natural
+products are mostly non-toxic and therefore, they can
+be used as safe therapeutic strategies [7–9]. A plethora
+of scientific evidence reported that edible and medicinal
+plants have significant potential to synthesize anti-
+microbial agents as their defense mechanisms against
+biotic stresses such as microorganisms [10]. It has been
+reported that plant-derived antimicrobial compounds
+can be categorized into the different groups such as
+phenols, flavonoids, terpenoids, lectins, polypeptides,
+polyacetylenes as well as alkaloids [11]. In addition, in
+traditional medicine, many edible and medicinal plants
+have been widely used for the treatment of different
+infectious diseases [11, 12].is distributed under the terms of the Creative Commons Attribution 4.0
+.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+ive appropriate credit to the original author(s) and the source, provide a link to
+changes were made. The Creative Commons Public Domain Dedication waiver
+ro/1.0/) applies to the data made available in this article, unless otherwise stated.
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 2 of 22The genus Eryngium contains more than 250 flowering
+species worldwide [13]. Genus Eryngium is the largest and
+most complex genus in Apiaceae family [13, 14]. Some
+species in the genus Eryngium are endangered such as E.
+alpinum L., E. aristulatum Jeps., E. constancei M.Y. Sheikh,
+E. cuneifolium Small, and E. viviparum J. Gay [13, 14]. Ac-
+cording to the morphological studies, the genus Eryngium
+has been classified into five subgenera, including Eryngium
+subgenus Eryngium, E. subgenus Monocotyloidea, E.
+subgenus Fruticosa, E. subgenus Semiaquatica, and E. sub-
+genus Foetida [15, 16]. E. subgenus Eryngium is the most
+common one throughout Europe, Africa and Asia, while
+the other subgenera are widely distributed in Australia
+[15, 16]. However, infrageneric analysis through se-
+quence data of chloroplast DNA trnQ-trnK 5’-exon and
+nuclear ribosomal DNA ITS regions showed that there
+are two different subgenera including Eryngium and
+Monocotyloidea [17–19].
+Like the other members of Apiaceae family, the genus
+Eryngium plants have various culinary and/or medicinal
+uses (Fig. 1) [20–23]. Several species have been widely
+used in traditional medicine such as E. foetidum L., E.
+caucasicum Trautv. (syn. Eryngium caeruleum M. Bieb.),
+E. maritimum L., E. planum L., E. dichotomum Desf., E.
+campestre L. and E. creticum Lam. [24–27], whereas E.
+foetidum and E. caucasicum have been widely cultivated
+in some Asian countries such as Iran, Turkey, etc. [27, 28].Fig. 1 Some of species from Eryngium genus, Eryngium campestre L. (a), Eryng
+Eryngium falcatum Delar. (d), Eryngium kotschyi Boiss. (e), Eryngium maritimumE. caucasicum is known as one the most common edible
+leafy vegetables in northern part of Iran and widely used
+in different foodstuff, pickles, etc. [28, 29]. Besides, the
+fruits of E. foetidum are known as common edible food
+components in Nigeria [30]. Actually, some Eryngium spe-
+cies are also used as ornamental plants [31]. A mountain
+of scientific evidence has shown that different species of
+the genus Eryngium possess antimicrobial effects under
+in vitro and in vivo conditions [32–36].
+Therefore, the present paper aims to review the scien-
+tific literature on the phytochemical composition and
+antimicrobial activities of essential oils and extracts ob-
+tained from genus Eryngium species. In addition, we
+discuss about traditional uses, cultivation and phyto-
+chemistry of Eryngium species to provide a complete
+picture of this genus.
+Materials and methods
+Data sources and search strategy
+Data were collected from Medline, Pubmed, Scopus, Web
+of Science (ISI Web of Knowledge), Science Direct,
+Embase, and BIOSIS Previews (from 1950 to July 20, 2015),
+via searching of these keywords: “Eryngium and phyto-
+chemistry or chemical compounds”, “Eryngium and anti-
+bacterial”, “Eryngium and antimicrobial”, and “Eryngium
+and biological effect”. We also scanned the reference
+list of each paper and searched Cochrane review library.ium davisii Kit Tan & Yildiz (b), Eryngium isauricum Contandr. & Quezel (c),
+L. (f), Eryngium trisectum Wörz & H. Duman. (g)
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 3 of 22Thereafter, the bibliographies of collected data were
+screened for further publications. Finally, collected data
+were analyzed and judged by second and third authors
+according to the scientific standard of conduct. However,
+some of the references may be published after the initial
+search date July 2015.
+Traditional uses
+In traditional medicine, some of Eryngium species have
+been used for treatment of several human diseases
+[24–27]. It has been reported that E. campestre L. is
+widely used as antitussive, stimulant, aphrodisiac, and
+diuretic agent in Turkish traditional medicine [37, 38].
+E. caucasicum is one of the most important edible
+plants in the northern part of Iran due to its multiple
+beneficial effects on human health [29, 31, 39, 40].
+Moreover, E. creticum has been used as hypoglycemic
+plant in the Jordanian traditional medicine [41], while
+E. elegans Cham. & Schltdl. has been reported to be
+utilized as diuretic agent in the Argentinian traditional
+medicine [42]. Most of Eryngium species are also
+known as medicinal plants worldwide for the treat-
+ment of several human diseases such as diarrhea,
+gastrointestinal problems, bladder and kidney dysfunc-
+tions, and venereal diseases [24–27, 43–45]. In Chinese
+traditional medicine, E. foetidum is widely used for
+treatment of inflammation [24] and E. yuccifolium
+Michx. roots have been traditionally used to treat
+snakebites, toothache [27, 46, 47], digestive problems,
+diarrhea, headache, etc. [24–27, 43–45]. A large scale
+of evidence has pointed out to multiple pharmaco-
+logical effects of the genus Eryngium species including
+antioxidant, anti-inflammatory, antihemolytic, antino-
+ciceptive effects, and protective agent against neurode-
+generative deseases [25, 28, 48–50]. For instance,
+Eryngium planum, which is a rare medicinal plant, was
+studied to determine the effect of subchronic adminis-
+tration of a 70 % ethanol root extract (200 mg/kg, p.o.)
+on behavioral and cognitive responses in experimental
+animals (Wistar rats) linked with the expression levels
+of mRNA coding for enzymes such as acetylcholin-
+esterase (AChE), butyrylcholinesterase (BuChE), and
+beta-secretase (BACE-1). At the end of the experiment,
+after the last dose of the Eryngium extract, scopolamine
+(SC) was administered intraperitoneally to a group of ani-
+mals (treated). In the animals treated with the Eryngium
+extract, an improvement in long-term memory produced
+by the EP extract in both scopolamine treated and control
+group was registered with decreased mRNA AChE,
+BuChE, and BACE-1 levels, especially in the frontal
+cortex, suggesting the potential efficacy of this extract
+in this kind of pathologies [25, 28, 48–50].
+This is only an example of the fact in the las decade
+some investigations have been carried out to demonstratethe potential pharmacological activity of Eryngium species
+extracts [51, 52].
+Cultivation
+Several genus Eryngium species have been widely used
+as edible plants in many countries and, consequently,
+mainly cultivated as an economic crop in tropical areas
+of the world [24, 28, 29]. In fact, numerous reports refer
+to the ideal and effective conditions for cultivating, har-
+vesting as well as post-harvesting conditions of Eryn-
+gium species [24, 31, 53]. In the northern parts of Iran,
+E. caucasicum is one of the most important garden vege-
+tables, which is mostly used in preparation of foodstuff,
+pickles, etc. [28, 29]. It has been reported that some
+Eryngium species are easily cultivated in dry, sandy,
+well-drained soils, and full sun [24, 31, 53]. Root cut-
+tings are a common protocol for propagation of Eryn-
+gium species [24, 31, 53–55], which can also be
+propagated using other plant cuttings [24, 31, 53–55].
+In addition, there is a close correlation between Eryn-
+gium species growth and fertilizer levels in the soil
+[24, 31, 53–55]. However, Eryngium species are signifi-
+cantly endangered by plant diseases as well as insect at-
+tacks [24, 31, 53–55].
+Phytochemistry
+Based on the review of the literature up to now, the aerial
+parts of Eryngium species have been reported to contain
+mainly saponins, flavonoids, and essential oil, while the
+underground parts contain triterpene saponins, monoter-
+pene glycosides, phenolic compounds such as flavonoids
+and phenolic acids, coumarin derivatives, terpene alde-
+hyde esters, acetylenes, essential oil, and oligosaccha-
+rides [56–60].
+Saponins
+The Eryngium species are the rich sources of triterpene
+saponins (Tables 1 and 2). Most of the saponins isolated
+from Eryngium species possess mainly hydroxylated
+oleanane-type aglycons such as A1-barrigenol (1), R1-
+barrigenol (2), or barringtogenol C (3) (Fig. 2). In
+addition to these core structures, cameliagenin A (4),
+erynginol A (5) and B, betulinic acid, oleanolic acid,
+and steganogenin (6) having glucose, glucuronic acid,
+rhamnose, xylose, galactose, and arabinose moieties
+have been also found in various Eryngium species (Fig. 2).
+The general saponin structures possess generally acetic,
+angelic, dimethylacrylic, and tiglic acid substituents, lo-
+cated predominantly at C21, C22 or C28 positions. On
+the other hand, isovaleric, n-butyric, and methyl butyric
+acids occur relatively rare substituents. Saponin glyco-
+sides found in Eryngium species are usually monodes-
+mosidic saponins, where the bidesmosidic ones contain
+sugar groups at C3 and C28 positions [59, 61–65].
+Table 1 Triterpene saponins from Eryngium species isolated between 1970–1978
+Source Sapogenol Type of sapogenol Plant part Ref.
+Eryngium planum L. Eryngiumgenin A A1-barrigenol Roots [69]
+Eryngiumgenin B A1-barrigenol
+Eryngiumgenin C R1- barrigenol
+Eryngiumgenin D R1- barrigenol
+Eryngium planum L. Erynginol A Barringtogenol C Aerial [70]
+Eryngium bromeliifolium Delar. Oleanic acid type of sapogenols Oleanic acid Leaves [66]
+Eryngium planum L. Eryngiumgenin F Barringtogenol C Roots [61]
+Eryngiumgenin G n/a
+Eryngiumgenin H n/a
+Eryngiumgenin J n/a
+Eryngiumgenin K R1- barrigenol
+Eryngiumgenin L n/a
+Eryngium bromeliifolium Delar. Betulinic acid Leaves [71]
+Eryngium giganteum L. Giganteumgenin A n/a Leaves [67]
+Giganteumgenin B n/a
+Giganteumgenin C Oleanic acid
+Giganteumgenin D n/a
+Giganteumgenin E n/a
+Giganteumgenin G n/a
+Giganteumgenin H n/a
+Giganteumgenin K n/a
+Giganteumgenin M Barringtogenol C
+Giganteumgenin N R1- barrigenol
+Eryngium planum L. Eryngiumgenin E Roots [72]
+Eryngium bromeliifolium Delar. Betulinic acid-3-O-β-glycoside Leaves [73]
+Eryngium maritimum L. Eryngiumgenin C and sapogenols with A1-barrigenol,
+R1-barrigenol and barringtogenol C structures
+Aerial parts [74]
+Eryngium amethystinum L. Main structure: Barringtogenol C [68]
+R1-barrigenol
+Erynginol A
+A1-barrigenol
+Eryngium bromeliifolium Delar. 3-O-D-Glucopyranosyloleanolic acid–28-O-D-xsylopyranoside
+(Saponin F)
+Leaves [62]
+Eryngium planum L. R1-barrigenol + an acid substituent and 2 glycopyranosyl moieties Roots [75]a
+aThis study was published in 1985 and it is the only study published between 1978-2002
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 4 of 22The first phytochemical studies performed on the
+genus Eryngium starting from early 1970s were focused
+on their saponin content. According to the survey of the
+literature data published between 1970–1978 and in
+1985, the identification of the isolated compounds was
+limited to the absolute definition of the aglycons with
+possible positions of sugars and acyl substituents be-
+cause of inadequate chemical facilities in structure elu-
+cidation techniques [61, 66–68]. In this period, E.
+planum, E. amethystinum L., E. giganteum M. Bieb.,and E. bromeliifolium F. Delaroche were studied in
+more detail. As summarized in Table 1, A1-barrigenol
+and R1-barrigenol-type of aglycons containing dimethy-
+lacrylic, angelic, and/or tyglic acids as the acid moieties
+were isolated from the roots of the E. planum, named
+as eryngiumgenine A-D [69] of which only aglycon
+types were identified and classified according to the Rf
+values. Later, compound (5) was isolated from the aerial
+parts of this species [70]. Further phytochemical studies
+on the same plant were continued on the leaves and
+Table 2 Triterpene saponins from Eryngium species isolated after 2002
+Source Saponins Plant part Ref.
+Eryngium foetidum (Linn) O-(3)-{β-D-Glucopyranosyl-(1→ 2 rham)-β-D-fucopyranosyl-(1→ 3 rham)-α-L-rhamnopyranosyl-(1→ 4 glu)-β-D-glucopyranosyl]-olean-12-en-23,28-diol Aerial parts [30]
+Eryngium campestre L. 3-O-β-D-Glucopyranosyl-(1→ 2)-[α-L-rhamnopyranosyl-(1→ 4)]-β-D-glucuronopyranosyl-22-O-Angeloyl-R1-barrigenol Roots [59]
+3-O-β-D-Glucopyranosyl -(1→ 2)-[α-L- rhamnopyranosyl -(1→ 4)]-β-D- glucuronopyranosyl-22-O-β,β-dimethylacryloyl-A1-barrigenol
+Eryngium campestre L. 3-O-α-L- Rhamnopyranosyl -(1→ 2)-β-D- glucuronopyranosyl -22-O-β,β- dimethylacryloyl -A1-barrigenol Roots [63]
+3-O-α-L- rhamnopyranosyl -(1→ 2)-β-D- glucuronopyranosyl -22-O- angeloyl -R1-barrigenol
+3-O-α-L- Rhamnopyranosyl -(1→ 2)-β-D- glucuronopyranosyl -21-O-acetyl-22-O- angeloyl -R1-barrigenol
+3-O-α-L- Rhamnopyranosyl -(1→ 2)-β-D- glucuronopyranosyl -21-O- acetyl -22-O-β,β- dimethylacryloyl -R1-barrigenol
+3-O-α-L- Rhamnopyranosyl -(1→ 2)-β-D- glucuronopyranosyl -22-O- angeloyl -28-O- acetyl -R1-barrigenol
+Eryngium yuccifolium
+Michx.
+3β-[β-D-Glucopyranosyl-(1→ 2)-β-D-glucopyranosyl-(1→ 2)]-β-D-glucopyranosyloxy-22α-β-D-glucopyranosyloxyolean-12-ene-16α, 28-diol
+(Eryngioside A)
+Whole plant [64]
+3β-[β-D-Galactopyranosyl-(1→ 2)-β-D-glucopyranosyl-(1→ 2)]-β-D-glucopyranosyloxy-22α-β-D-glucopyranosyloxyolean-12-ene-16α, 28-diol
+(Eryngioside B)
+3β-[β-D-Glucopyranosyl-(1→ 2)-β-D-glucopyranosyl-(1→ 2)]-β-D-glucopyranosyloxy-22α-β-D-glucopyranosyloxyolean-12-ene-16-oxo-28-ol
+(Eryngioside C)
+3β-[β-D-Glucopyranosyl-(1→ 2)-β-D-glucopyranosyl-(1→ 2)]-β-D-glucopyranosyloxy-28-β-D-glucopyranosyloxyolean-12-ene-16α,22α-diol
+(Eryngioside D)
+22α-Angeloyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene-15α, 16α, 21β,28-tetrol
+(Eryngioside E)
+22α-Angeloyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene- 16α, 21β,28-triol
+(Eryngioside F)
+21β-Angeloyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[α-L-arabinopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene-15α, 16α, 22α,28-tetrol
+(Eryngioside G)
+22α-Angeloyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene- 15α, 16α,28-triol
+(Eryngioside H)
+22α-Angeloyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[α-L-arabinopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene- 15α, 16α,28-triol
+(Eryngioside I)
+21β-Angeloyloxy-22α-acetyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-β-D-glucuronopyranosyloxyolean-12-ene-15α, 16α,28-triol
+(Eryngioside J)
+21β-Angeloyloxy-22α-acetyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene-16α,28-diol
+(Eryngioside K)
+21β-Angeloyloxy-22α-acetyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[α-L-arabinopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene-16α,28-diol
+(Eryngioside L)
+Saniculasaponin III
+Eryngium yuccifolium
+Michx.
+Eryngiosides A-L Roots [47]
+21 β-Acetyloxy-22 α -angeloyloxy-3 β-[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-β-D-glucuronopyranosyloxyolean-12-ene-15α,16α,28-triol
+(Eryngioside M)
+22α-Angeloyloxy-3β-[β-D-glucopyranosyl-(1→ 2)]-[α-L-arabinopyranosyl-(1→ 3)]-β-D- glucuronopyranosyloxyolean-12-ene-15α, 16α, 21β,28-tetrol
+(Eryngioside N)
+Erdem
+et
+al.D
+A
+RU
+Journalof
+Pharm
+aceuticalSciences
+ (2015) 23:53 
+Page
+5
+of
+22
+Table 2 Triterpene saponins from Eryngium species isolated after 2002 (Continued)
+Saniculasaponin II and III
+Eryngium planum L. 3-O-β-D-Glucopyranosyl-(1→ 2)-β-D-glucuronopyranosyl-21-O-acetyl-22-O-angeloyl-R1-barrigenol Roots [76]
+3-O-β-D-Glucopyranosyl-(1→ 2)-β-D-glucuronopyranosyl-22-O-angeloyl-A1-barrigenol
+3-O-β-D-glucopyranosyl-(1→ 2)-β-D-glucuronopyranosyl-22-O-angeloyl-R1-barrigenol
+Eryngium kotschyi Boiss. 3-O-α-L-Rhamnopyranosyl-(1→ 4)-β-D-glucuronopyranosyl-22-O-β,β-dimethylacryloylA1-barrigenol Roots [65]
+3-O-α-L-Rhamnopyranosyl-(1→ 4)-β-D-glucuronopyranosyl-22-O-angeloylA1-barrigenol
+3-O-β-D-glucopyranosyl-(1→ 2)-[β-D-glucopyranosyl-(1→ 6)]-β-D-Glucopyranosyl-21,22,28-O-triacetyl-(3β,21β,22α)-olean-12-en-16-one
+3-O-β-D-Glucopyranosyl-(1→ 2)- glucopyranosyl-22-O-β-D- glucopyranosylsteganogenin
+3-O-β-D-Galactopyranosyl-(1→ 2)-[α-L-arabinopyranosyl-(1→ 3)]-β-D-glucuronopyranosyl-22-O-angeloyl-A1-barrigenol
+3-O-α-L-Rhamnopyranosyl-(1→ 4)-β-D-glucuronopyranosyloleanolic acid
+Erdem
+et
+al.D
+A
+RU
+Journalof
+Pharm
+aceuticalSciences
+ (2015) 23:53 
+Page
+6
+of
+22
+Fig. 2 Saponin derivatives frequently found in Eryngium species
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 7 of 22roots. These studies led to the isolation of a number of
+aglycons with (4), (3), (2) types possessing acetic, tyglic,
+butyric, and isovalerianic acids located at C16, C21,
+C22 or C28 positions [71, 72]. Isolation of saponin agly-
+cones such as (2) and (3), and saponins bearing (2) and
+(3) skeletons, named as giganteumgenin A (7), B (8), C
+(9), D (10), E (11), G (12), H (13), K (14), M (15), and
+N (16) (Fig. 3), was achieved from the methanol extract
+of the leaves of E. giganteum [67]. Another phytochemical
+investigation on E. amethystinum led to isolation of the
+saponins with main structures in (1), (2), (3), and (5) [68].
+Other sapogenols isolated from various Eryngium speciesuntil 1978 are listed in Table 1 [58, 62, 72–74]. Many years
+later, another R1-barringtogenol derivative with an acid
+moiety and two glycopyranosyl moieties was reported
+from E. planum roots by Voigt et al. in 1985 [75].
+Most of the scientific articles concerning saponins of
+the genus Eryngium remained limited to the identifica-
+tion of the sapogenol type and determination of the acid
+or sugar substituents. After the late 70’s, publications
+concerning the saponins from the genus Eryngium have
+become much more detailed as giving the whole struc-
+ture elucidations as a result of the developments of
+the techniques used for structure elucidation. For
+Fig. 3 Structures of giganteumgenins A-N
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 8 of 22instance, Anam [30] reported the full configuration of
+a new oleanane-type triterpene saponin structure (17)
+from the aerial parts of E. foetidum (Fig. 4). Kartal et al.
+[59] characterized two new triterpene saponins (18,
+19) from the roots of E. campestre bearing A(1) and
+(2) types, and isolated five new triterpene saponins
+(20–24), one of which was (1) and the others with (2)
+main skeleton (Fig. 5) [63]. Another phytochemical
+study performed on the whole parts of E. yuccifolium
+was reported by Zhang et al. [64], who described the
+isolation and identification of 12 new polyhydroxylated
+triterpenoid saponins named as eryngiosides A-L (28–39)
+and two known triterpenoid saponins {21β-angeloyloxy-3β-
+[β-D-glucopyranosyl-(1→ 2)]-[β-D-xylopyranosyl-(1→ 3)]-
+β-D-glucuronopyranosyloxyolean-12-ene-15α, 16α, 22α,
+28-tetrol (44) and saniculasaponin III (43)} from the same
+species (Fig. 6). Furthermore, the root of E. yuccifoliumafforded two new polyhydroxyoleanene saponins
+[eryngioside M (40) and N (41)], together with 15
+known triterpenoid saponins (28–39; 42–44) eluci-
+dated [47].
+Further studies on the roots of E. planum led to the iso-
+lation of two R1- and one A1-barrigenol type of triterpene
+saponins [76], where 3-O-β-D- glucopyranosyl-(1→ 2)-β-
+D-glucuronopyranosyl-21-O-acetyl-22-O-angeloyl-R1-barr
+igenol (25), 3-O-β-D-glucopyranosyl-(1→ 2)-β-d-glucuro-
+nopyranosyl-22-O-angeloyl-A1-barrigenol (26) and 3-O-β-
+D-glucopyranosyl-(1→ 2)-β-D-glucuronopyranosyl-22-O-a
+ngeloyl-R1-barrigenol (27) (Fig. 5) were also found to be
+present in the roots of E. planum [76]. Detailed phyto-
+chemical investigation on the roots of E. kotschyi Boiss.,
+which is an endemic plant to Turkey, led to isolation of
+two known and four new triterpene saponins (45–48)
+(Fig. 7) [77].
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 9 of 22Flavonoids
+In an earlier study [78], isolation from E. planum of a new
+flavonol glycoside (identified as kaempferol-3-O-(6-O-β-
+D-glucopyranosyl)-β-D-galactopyranoside) was reported.
+A phytochemical study on the aerial parts of E. campestre
+led to the characterization of a new acylated flavonol
+named as kaempferol 3-O-β-D-(2’-Z-p-coumaroylgluco-
+side) (49) along with 10 known compounds including
+tiliroside (50), kaempferol 3-O-β-D-glucosyde-7-O-α-L-
+rhamnoside (51), rutin (52), kaempferol (53), quercetin
+(54), isorhamnetin (55), caffeic acid, chlorogenic acid, and
+mannitol [58] as well as luteolin 7-glucoside [79] of which
+some selected structures are given in Fig. 8. Using
+UHPLC-ESI-Q-TOF-MS technique, quantification of a
+number of flavonols (quercetin, kaempferol, isorhamnetin,
+and their derivatives) and naringenin rhamnoglucoside (a
+flavanone derivative) was performed in E. bourgatii GouanFig. 4 Structure of the (17) isolated from E. foetidumby Cádiz-Gurrea et al. [48]. Hawas et al. [80] isolated
+11 flavonoid glycosides (including isorhamnetin 3-O-α-
+rhamnoside, isorhamnetin 3-O-β-galactoside, isorham-
+netin 3-O-β-glucoside, isorhamnetin 3-O-β-rutinoside,
+myricetin 3-O-β-galactoside 4’-methylether, myricetin
+3-O-β-glucoside 3’-methylether, myricetin 3-O-β-gluco-
+side 4’-methylether, quercetin 3-O-β-glucoside, quer-
+cetin 3-O-β-glucuronide 4’-methylether, and rutoside)
+from the aerial parts of E. campestre. Then, most re-
+cently, Khalfallah et al. [36] characterized five flavon-
+oid derivatives from the aerial parts of E. triquetrum
+Vahl. described as kaempferol 3-O-β-D-glucoside,
+kaempferol 3-O-[6´´-O-E-p-coumaroyl]-β-D-glucopyra-
+noside, kaempferol 3-O-[2´´,6´´-di–O-E-p-coumaroyl]-
+β-D-glucoside, kaempferol 3-O-[α-L-rhamnosyl-(6→
+1)-O-β-D-glucoside, and quercetin 3-O-[α-L-rhamno-
+syl-(6→ 1)-O-β-D-glucoside].
+Fig. 5 Saponins isolated from E. campestre and E. planum
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 10 of 22Coumarin derivatives
+The first coumarin derivatives isolated from E. campestre
+by Sticher & Erdelmeier [56] were agasyllin (56), grandi-
+vittin (57), aegelinol benzoate (58), and aegelinol (59)
+which structures are given in Fig. 9 [56]. The isolation of
+marmesin tiglate [also known as nodakenetin (60), Fig. 10]
+together with metetoin, a nitrogenous compound, was
+achieved from E. ilicifolium Lam. [81].
+Phenolic acid derivatives
+Many Eryngium species have been reported to contain
+phenolic substances. Le Claire et al. [82] characterized
+chlorogenic (63), R-(+)-rosmarinic (61), and R-(+)-3’-O-β-
+D-glucopyranosyl rosmarinic acids (62) in the roots of E.
+alpinum through medium pressure liquid chromatography(MPLC) and preparative high pressure liquid chroma-
+tography (HPLC) (Fig. 11). Besides, the presence of R-
+(+)-rosmarinic acid and R-(+)-3’-O-β-D-glucopyranosyl
+rosmarinic acid was also shown in several Eryngium
+species which could be used as chemotaxanomic
+markers specific to this genus. Two new caffeic acid de-
+rivatives, i.e. 3,4-dihydroxyphenyl caffeate and (4-β-
+D-glucopyranosyloxy)-3-hydroxyphenyl caffeate, along
+with a new flavonoid (kaempferol-3-O-(2-O-trans-p-
+methoxycoumaroyl-6-O-trans-p-coumaroyl)-β-D-gluco-
+pyranoside) were isolated from the whole parts of E.
+yuccifolium in addition to following known compounds,
+i.e. caffeic acid and kaempferol-3-O-(2,6-di-O-trans-p-cou-
+maroyl)-β-D-glucopyranoside [64]. Cádiz-Gurrea et al. [48]
+also revealed presence of cinnamic acid derivatives
+Fig. 6 Saponins isolated from E. yuccifolium
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 11 of 22(chlorogenic, rosmarinic, ferulic, caffeic acids, and their de-
+rivatives), benzoic acid derivatives (p-hydroxybenzoic acid
+glucoside, arbutin, syringic acid, glucogallin, gentisic acid,
+and their derivatives) and various organic acids (gluconic,
+citric, quinic acids, and their derivatives) in E. bourgatii
+using hyphenated advance liquid chromatographic sep-
+aration techniques. On the other hand, catechin, epicat-
+echin, chlorogenic, gallic, and rosmarinic acids were
+determined quantitatively in the roots of E. palmatum
+Pančić & Vis. [83]. In a similar study [60], chlorogenic,
+hydroxybenzoic, and caftaric acids were detected in E.
+bornmuelleri Nábělek along with trace amounts of caf-
+feic, ferulic, and rosmarinic acids.Other types of compounds
+Drake and Lam [84] reported the isolation of falcarinone, a
+widespread acetylenic compound occurring in Apiaceae. 6-
+Pentyl-2-[2-oxo-butin(3)-yliden]-tetrahydropyrane from the
+aerial parts and roots of E. bourgatti and the acetylenic
+compounds identified as Z and E isomers of the same com-
+pound were also obtained from this species in addition
+to falcarinone, falcarinolone, falcarinol, and scopoletin
+[85]. Further phytochemical studies ensued in the
+characterization of two new monoterpene glycosides of
+the cyclohexenone type, elucidated as 3-(β-D-glucopyra-
+nosyloxymethyl)-2,4,4-trimethyl-2,5-cyclohexadien-1-one
+and 3-(β-D-glucopyranosyloxymethyl)-2,4,4-trimethyl-2-
+Fig. 7 Chemical structure of triterpene saponins
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 12 of 22cyclohexen-1-one [57]. An unusual sesquiterpene whose
+structure was established as 1-n-propyl-perhydronaphtha-
+line 1,2,4a,5,6,7,8,8a-octahydro-4-methyl-1-propyl-naph-
+thalene-7-carbaldehyde was reported from the aerial parts
+of E. creticum [86], while new ester derivatives, character-
+ized as cis-chrysanthenyl hexanoate and cis-chrysanthenyl
+octanoate, were isolated from E. planum [87].
+In order to find out the compounds possibly responsible
+for the anti-inflammatory activity of E. foetidum, compos-
+ition of the hexane extract from the leaves of this species
+was subjected to GC and GC-MS analyses [88]. Hereby,
+α-cholesterol, brassicasterol, campesterol, stigmasterol
+(as the main component, 95 %), clerosterol, β-sitosterol,
+Δ5-avenasterol, Δ524-stigmastadienol, and Δ7-avenasterolwere detected in the extract. Muckensturm et al. [89] re-
+ported a phytochemical study performed on the diethyl
+ether extracts from E. giganteum, E. variifolium Coss., E.
+planum, and E. maritimum. Chromatographic separation
+techniques applied to the seed extract of E. giganteum led
+to the elucidation of a new nor-sesquiterpene hydrocarbon,
+i.e. 15-nor-α-muurolene (gigantene), and germacrene-D,
+trans-β-farnesene, 15-oxy-α-muurolene, 15-hydroxy-α-
+muurolene, ledol, and spatulenol. Similar studies on the
+seeds of the E. planum gave way to isolation of cis-chry-
+santhenyl acetate, while isoferulyl senecioate and 2,3,4-tri-
+methylbenzaldehyde were obtained from the leaves of E.
+variifolium. Nevertheless, it should be noted that the latter
+compound was considered as artifact by these authors. In
+Fig. 8 Selected flavonoids (49–55) isolated from E. campestre
+Fig. 9 Some coumarin derivatives isolated from E. campestre
+Fig. 10 Nodakenetin (60) isolated from E. ilicifolium
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 13 of 22another study [90], E. foetidum was subjected to isolation
+procedures which finally afforded trans-2-dodecanal
+(eryngial) in pure form.
+Essential oil
+Essential oil compositions of numerous Eryngium species
+have been investigated by many researchers. As illustratedwith their corresponding references in Table 3, a great in-
+terspecies variation could be easily observed. However, the
+most common monoterpenes analyzed in different plant
+parts of Eryngium species have been as follows; germa-
+crene D, α-pinene, caryophyllene, muurolene, α- and β-
+selinene, limonene, α- and β-bisabolol, etc., whereas many
+hydrocarbons and some aromatics such as trimethylben-
+zaldehyde and dodecenal have been detected.Antimicrobial effects of the genus Eryngium plants
+Plants are known to produce antimicrobial substances [10],
+which act as plant defense mechanisms and protect them
+against abiotic and biotic stresses. These antimicrobial
+agents, which are often characterized by low adverse effects
+and wide spectrum activities, belong to many chemical
+classes such as phenolics and polyphenolics, terpenoids,
+alkaloids, lectins, polypeptides, and polyacetylenes [11].
+Among the plants belonging to the genus Eryngium,
+some species exhibit considerable antimicrobial activity
+against gram-positive and gram-negative bacteria, some
+species of fungi and yeasts and viruses. Within this
+genus, the most studied species has been E. foetidum,
+which is cultivated across South Asia and Europe,
+Tropical Africa, and Pacific islands. As regards the anti-
+bacterial activity of E. foetidum extracts, the literature
+data are conflicting. In fact, in 2003, Alzoreky and
+Nakahara reported that the acetone and buffered methanol
+extracts obtained from E. foetidum leaves did not show any
+antibacterial activity against Escherichia coli, Salmonella
+Fig. 11 Some phenolic acid derivatives found in E. alpinum
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 14 of 22infantis, Listeria monocytogenes Tottori, Staphylococcus
+aureus and Bacillus cereus [91].
+More recently, Ndip et al. showed that the methanolic
+extract form E. foetidum leaves showed moderate anti-
+bacterial activity against 6 clinical strains of Helicobacter
+pylori out of 15 tested strains, using the disk diffusion
+technique as antibacterial susceptibility test [92]. Besides
+antibacterial activity, E. foetidum was tested for its anti-
+plasmodial activity, using chloroquine as positive control
+to evaluate the sensitivity of susceptible Plasmodium
+falciparum strains. The leaf extracts were prepared using
+hexane, dichloromethane, and methanol to obtain three
+extracts. The dried extracts were then dissolved in
+DMSO to give a stock solution at 10 mg/mL, used for
+the biological tests. The results indicated that E. foeti-
+dum showed low in vitro antiplasmodial activity against
+P. falciparum, with an IC50 value of 25 μg/mL [93].
+Another species belonging to genus Eryngium, is E.
+maritimum, which is a wild perennial species growing on
+sand beaches in West Europe, the Mediterranean basin,
+and the Black Sea and has been used for its diuretic,
+stimulant, cystotonic, stone inhibitor, aphrodisiac, expector-
+ant, and anthelmintic properties (http://www.botanicals.com,
+http://www.crescentbloom.com). The essential oil, ob-
+tained from hydrodistillation of the aerial parts, was found
+to contain a known sesquiterpene (muurol-9-en-15-al)
+and three new oxygenated sesquiterpenes with a muuro-
+lane or cadinane skeleton (4βH-cadin-9-en-15-al,
+4βHmuurol-9-en-15-ol, and 4βH-cadin-9-en-15-ol), The
+sesquiterpenoid-rich fraction was tested in vitro using the
+agar diffusion method and the minimum inhibitory concen-
+tration (MIC) in the liquid phase against L. monocytogenes
+and E.coli. The finding revealed that the antibacterial
+activity of the new oxygenated sesquiterpenes against
+the tested bacteria, with an inhibition diameter higher
+than 15 mm and a MIC value lower than 90 μg/mL [94].
+Another investigation on E. maritimun showed that
+the leaf hydromethanolic extract fractionated into a
+polar (aqueous) and apolar (chloroformic) fraction and
+tested using the microdilution method against food-borne pathogens and clinical isolates, exhibited anti-
+microbial activity. The tested Gram-positive bacteria
+were S. aureus subsp. aureus, Micrococcus luteus, L.
+monocytogenes and B. cereus. The Gram-negative bac-
+teria were two strains of Salmonella (S. enterica subsp.
+arizonae and S. enterica subsp. montevideo), three
+strains of Pseudomonas (P. aeruginosa, P. fluorescens,
+and P. marginalis), E. coli, and Erwinia carotovora subsp.
+carotovora, and a yeast (Candida albicans). According
+to the data obtained, the fractions resulted to be active
+against all bacteria with the exception of L. monocytogenes,
+while the most sensitive bacteria were P. aeruginosa and
+P. fluorescens, with MIC values of 1 and 2 μg/mL for the
+polar and apolar fractions, respectively [95].
+The essential-oil composition and antimicrobial activity
+of three other species belonging to genus Eryngium (E.
+creticum, E. campestre, and E. thorifolium), whose infu-
+sions obtained from the aerial and root parts are com-
+monly used in Turkish folk medicine as antitussive,
+diuretic, stimulant, and aphrodisiac, were studied [96].
+The composition of E. thorifolium was found to be rich in
+α-pinene, a known antibacterial terpenic compound,
+which was present in fewer amounts in the other two spe-
+cies. Differently, E. creticum was found to be rich in hexa-
+nal, which was present in less amount in E. thorifolium
+and was not detected in E. campestre. Antibacterial activity
+of the essential oils was tested with the disc diffusion
+method against nine clinical strains of methicillin-resistant
+S. aureus (MRSA). The essential oil obtained from E. thori-
+folium, which caused an inhibition zone ranging from 13
+to 19 mm (similar to that exhibited by vancomycin and
+oregano essential oil tested at 10 μL/disc and 5 μL/disc, re-
+spectively), was demonstrated to be the most active species
+[37]. As aforementioned, many Eryngium species, e.g. E.
+maritimum exerted antifungal activity against C. albicans
+and other strains. Especially, the essential oil obtained by
+water distillation of the aerial parts of E. duriaei Gay ex
+Boiss subsp. juresianum (M.Laínz) M. Laínz was tested for
+its antifungal activity against 13 fungi, among which there
+were seven dermatophyte species (Microsporum canis FF1,
+Table 3 The major components in the essential oils of various Eryngium species
+Plant Name Plant part Major components Ref.
+Eryngium alpinum L. Aerial parts Caryophyllene oxide (21.6 %) [98]
+Bicyclogermacrene (11.8 %)
+Germacrene D (10.3 %)
+Eryngium amethystinum L. Aerial parts β-Caryophyllene (19.7 %) [98]
+α-Bisabolol (7.9 %)
+2,3,6-Trimethylbenzaldehyde (7.9 %)
+Leafy parts of the shoots α-Pinene (11.8 %) [99]
+2,3,6-Trimethylbenzaldehyde (24.7 %)
+Germacrene D (31.3 %)
+Inflorescence α-Pinene (25.6 %)
+2,3,6- Trimethylbenzaldehyde (22.0 %)
+Germacrene D (14.5 %)
+Fruit α-Pinene (17.0 %)
+2,3,6-Trimethylbenzaldehyde (16.9 %)
+Germacrene D (7.6 %)
+Eryngium billardieri F. Delaroche Aerial parts α-Muurolene (42.0 %) [39]
+β-Gurjunene (17.0 %)
+δ-Cadinene (6.2 %)
+Valencene (5.7 %)
+Eryngium bourgatii Gouan Inflorescence Phyllocladene (37.6 %) [13]
+Bicyclogermacrene (15.1 %)
+Stems & leaves Phyllocladene (20.4 %)
+γ-Muurolene (11.8 %)
+(E)-Caryophyllene (10.1 %)
+Roots γ-Muurolene (15.4 %)
+Phyllocladene (15.0 %)
+Eryngium bungei Boiss. Aerial parts Cumin alcohol (55.3 %) [100]
+Terpinolene (14.6 %)
+Carvacrol (8.9 %)
+Limonene (7.5 %)
+Aerial parts Borneol (44.4 %) [101]
+Isobornyl formate (14.7 %)
+Isoborneol (9.2 %)
+1,8-Cineol (9.1 %)
+Camphor (7.9 %)
+Eryngium caeruleum M.B. Aerial parts Limonene (60.5 %) [102]
+δ-3-Carene (13.0 %)
+Aerial parts Cyclobuta[1–4]dicycloocten Hexadecahydro (47.03 %) [35]
+n-Hexadecanoic acid (11.16 %)
+Limonene (4.23 %)
+Cis-α-bisabolene (2.14 %)
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 15 of 22
+Table 3 The major components in the essential oils of various Eryngium species (Continued)
+Eryngium campestre L. Inflorescence Germacrene D (30.3–40.3 %) [103]
+β-Curcumene (0.7–22.2 %)
+Myrcene (3.0–21.7 %)
+(E)-β-Farnesene (0.1–19.0 %)
+Stems & leaves Germacrene D (31.1–42.4 %)
+Myrcene (0.5–23.15 %)
+Eryngium caucasicum Trautv. Leaves (coastal samples) 4(5)-Acetyl-1H-imidazole (63.6 %) [104]
+Thymol (13.9 %)
+β-Sesquiphellandrene (10.0 %)
+Leaves (hill slope samples) β-Sesquiphellandrene (44.3 %)
+Limonene (20.1 %)
+Trans-β-Farnesene (14.1 %)
+Eryngium corniculatum Lam. Inflorescence 2,4,6-Trimethylbenzaldehyde (50.8 %) [105]
+α-Pinene (4.0 %)
+Crystanethylacetate (4.0 %)
+2,4,5-Trimethylbenzaldehyde (%3.3)
+Stems & leaves 2,4,6-Trimethylbenzaldehyde (50.0 %)
+2,4,5-Trimethylbenzaldehyde (3.8 %)
+Roots 2,4,6-Trimethylbenzaldehyde (29.8 %)
+Phyllocladene isomer (13.0 %)
+(E)-Nerolidol (9.4 %)
+Eryngium creticum Lam. Flowering aerial parts Hexanal (52.9 %) [37]
+Heptanal (13.9 %)
+Octane (8.95 %)
+Eryngium duriaei subsp. juresianum (M. Laínz) M. Laínz Aerial parts α-Neocallitropsene (26.0 %) [106]
+Isocaryophyllen-14-al (16.2 %)
+14-Hidroxy-β-caryophyllene (13.4 %)
+Caryophyllene oxide (7.6 %)
+E-β-Caryophyllene (6.3 %)
+Eryngium expansum F. Muell. Aerial parts 7-Epi-Selinene (38.3 %) [107]
+Cis-β-Guaiene (10.8 %)
+2,3,6-Trimethylbenzaldehyde (8.0 %)
+Eryngium foetidum L. Aerial parts 2,3,6-Trimethylbenzaldehyde (5.5–23.7 %) [108]
+(E)-2-Dodecenal (15.9–37.5 %)
+(E)-2-Tetradecenal (18.7–25.3 %)
+Aerial parts 2,4,5-Trimethylbenzaldehyde (27.7 %) [109]
+(E)-2-Dodecenal (27.5 %)
+Carotol (8.8 %)
+3-Dodecenal (5.2 %)
+Aerial parts (E)-2-Dodecenal (57.79–67.08 %) [110]
+Lauraldehyde (7.04–11.53 %)
+13-Tetradecenal (8.99–9.03 %)
+Leaves 2,4,5-Trimethylbenzaldehyde (20.53 %) [111]
+Hexadecanoic acid (12.05 %)
+Carotol (9.94 %)
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 16 of 22
+Table 3 The major components in the essential oils of various Eryngium species (Continued)
+Roots Duraldehyde (37.60–53.14 %) [110]
+13-Tetradecenal (7.22–13.16 %)
+(E)-2-Dodecenal (7.14–11.62 %)
+Falcarinol (3.44–8.06 %)
+Eryngium glaciale Boiss. Inflorescence Phyllocladene isomer (43.5 %) [112]
+(E)-Caryophyllene (15.2 %)
+Valencene (11.5 %)
+Stems & leaves Phyllocladene isomer (41.3 %)
+Roots Phyllocladene isomer (49.4 %)
+Linalool (19.1 %)
+Eryngium maritimum L. Aerial parts Spathulenol (18.99 %) [77]
+Caryophyllene oxide (8.18 %)
+Aerial parts Germacrene D (10.4 %) [113]
+2,4,5-Trimethylbenzaldehyde (8.3 %)
+Roots Germacrene D (15.9 %)
+2,4,5-Trimethylbenzaldehyde (6.7 %)
+Aerial parts Germacrene D (13.7–45.9 %) [114]
+4βH-Cadin-9-en-15-al (18.4–27.6 %)
+4βH-Cadin-9-en-15-ol (2.2–14.3 %)
+4βH-Muurol-9-en-15-al (4.3–9.3 %)
+Eryngium pandanifolium Cham. et Schlecht Leaves Bornyl acetate (20.8 %) [107]
+β-Selinene (13.8 %)
+α-Selinene (11.3 %)
+Fruit Octanal (11.5 %)
+β-Selinene (9.2 %)
+Eryngium palmatum Roots Octanal (31.7 %) [115]
+Curcumene (5.9 %)
+2,3,6-Trimethylbenzaldehyde (5.4 %)
+Eryngium paniculatum Cav. Inflorescence (E)-Anethole (52.6 %) [116]
+α-Pinene (19.1 %)
+Eryngium planum L. Inflorescence Cis-Chrysanthenyl acetate (43.2 %) [117]
+Stalk leaves Limonene (14.7 %)
+β-Pinene (9.8 %)
+Rosette leaves Bornyl acetate (18.1 %)
+Limonene (11.3 %)
+Terpinen-4-ol (10.9 %)
+Roots Falcarinol (64.4 %)
+Eryngium rostratum Cav. Stem Spathulenol (20.0 %) [107]
+β-Bisabolol (8.6 %)
+Caryophyllene oxide (8.0 %)
+Fruit γ-Terpinene (4.5 %)
+α-Muurolene (3.9 %)
+Eryngium rosulatum P. W. Michael ined. Aerial parts β-Elemene (16.0 %) [118]
+Bicyclogermacrene (12.5 %)
+δ-Elemene (7.0 %)
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 17 of 22
+Table 3 The major components in the essential oils of various Eryngium species (Continued)
+Eryngium thorifolium Boiss. Flowering aerial parts (1R)-α-Pinene (58.6 %) [37]
+Limonene (3.14 %)
+Eryngium tricuspidatum L. Aerial parts α-Bisabolol (32.6 %) [34]
+α-Curcumene (6.5 %)
+Eryngium vesiculaosum Labill. Winter leaves β-Caryophyllene (20.3 %) [119]
+Germacrene D (19.2 %)
+α-Humulene (8.8 %)
+Summer leaves Bicyclogermacrene (22.2 %)
+β-Caryophyllene (15.6 %)
+Germacrene D (15.8 %)
+α-Humulene (8.1 %)
+Eryngium yuccifolium Michaux. Leaves Germacrene D (18.3 %) [120]
+Terpinolene (17.8 %)
+Bicyclogermacrene (8.8 %)
+α-Pinene (7.6 %)
+β-Caryophyllene (6.2 %)
+Falcarinol (9.6 %)
+Stalks Germacrene D (38.4 %)
+γ-Amorphene (12.2 %)
+Bicyclogermacrene (10.1 %)
+Bicyclosesquiphellandrene (3.4 %)
+Falcarinol (3.2 %)
+Roots Terpinolene (25.8 %)
+Trans-β-Bergamotene (18.6 %)
+Benzaldehyde 2,3,6-trimethylbenzaldehyde (13.9 %)
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 18 of 22Trichophyton mentagrophytes FF7, Epidermophyton flocco-
+sum FF9, M. gypseum CECT 2905, T. rubrum CECT 2794,
+T. mentagrophytes var interdigitale CECT 2958 and T.
+verrucosum CECT 2992), five Candida species (two clinical
+isolates from recurrent cases of vulvovaginal or oral candi-
+dosis, C. krusei (H9) and C. guillermondii MAT23, along
+with three reference species of C. albicans ATCC 10231, C.
+tropicalis ATCC 13803, and C. parapsilosis ATCC 90018)
+and a strain of Cryptococcus neoformans CECT 1078.
+Using the macrodilution broth method the MIC and
+Minimal Lethal Concentrations (MLC) were deter-
+mined. The results disclosed that the essential oil did
+not possess antifungal activity against Candida strains,
+with the exception of C. guillermondii, which resulted
+to be sensitive to the antifungal activity of the oil with a
+MIC and MLC of 2.5 μL/mL. On the contrary, the es-
+sential oil had MIC values of 0.16–0.32 μL/mL against
+all the tested dermatophyte species. The essential oil
+was further studied to determine its chemical com-
+position by GC-MS and the authors suggested that
+caryophyllene derived compounds [isocaryophyllen-14-al (16.2 %), 14-hidroxy-β-caryophyllene (13.4 %), car-
+yophyllene oxide (7.6 %) and E-β-caryophyllene
+(6.3 %)] are probably the responsible for the antifun-
+gal activity [97].
+Finally, in 2013, the antiphytoviral activity of the es-
+sential oils obtained by water distillation of the aerial
+parts of E. alpinum and E. amethystinum cultivated in
+Croatia was described. The antiviral activity was shown
+in Chenopodium quinoa treated with the essential oils
+(250 ppm) prior to the inoculation of cucumber mosaic
+virus associated with a satellite RNA. The number of leaf
+local lesions, registered in the presence of the essential
+oils, was strongly reduced from an average value of
+14.9 ± 0.8 to 3.3 ± 0.2 and 2.9 ± 0.2, for E. alpinum
+and E. amethystinum essential oils, respectively. The
+authors ascribed the antiviral activity to the occur-
+rence of caryophyllene oxide and β-caryophyllene,
+which were identified as the major components of E.
+alpinum and E. amethystinum, respectively. Moreover,
+other components such as germacrene D, α-bisabolol,
+and γ-eudesmol, which were detected as minor oil
+Table 4 Antimicrobial activity of Eryngium species extracts
+Eryngium
+plant
+Type of extract Used method Microbes Positive
+control
+Ref.
+E. foetidum Methanolic extract
+of leaves
+disk diffusion technique 6 clinical strains of Helicobacter pylori nsa [92]
+E. foetidum hexane, dichloromethane,
+and methanol extracts
+disk diffusion technique Plasmodium falciparum chloroquine [93]
+E. maritimum hydrodistillation of the
+aerial parts
+agar diffusion method
+and minimum inhibitory
+concentration (MIC)
+L. monocytogenes E. coli. nsa [94]
+E. maritimum hydromethanolic extract
+of leaves
+microdilution method S. aureus subsp. aureus, Micrococcus luteus,
+B. cereus. S. enterica subsp. arizonae
+S. enterica subsp. Montevideo P. aeruginosa,
+P. fluorescens, P. marginalis E. coli Erwinia
+carotovora subsp. carotovora, Candida albicans
+nsa [95]
+E. creticum, E.
+campestre, E.
+thorifolium
+essential oils from aerial
+and root parts
+disk diffusion method 9 clinical strains of methicillin-resistant
+S. aureus (MRSA)
+nsa [37]
+E. duriaei essential oil obtained by
+water distillation of the
+aerial parts
+macrodilution broth method Microsporum canis FF1, Trichophyton mentagrophytes
+FF7, Epidermophyton floccosum FF9, M. gypseum
+CECT 2905, T. rubrum CECT 2794, T. mentagrophytes
+var interdigitale CECT 2958 T. verrucosum CECT 2992
+Candida. guillermondii MAT23, Cryptococcus neoformans
+CECT 1078.
+nsa [97]
+E. alpinum, E.
+amethystinum
+essential oils obtained by
+water distillation of the
+aerial parts
+count of leaf local lesions in
+Chenopodium quinoa treated
+with the essential oils prior to
+the inoculation of virus
+cucumber mosaic virus associated with a satellite RNA nsa [98]
+anot specified
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 19 of 22constituents, might be responsible for the inhibition of
+viral infection [98].
+The summary of the literature data was reported in
+Table 4.
+Conclusion
+The present paper shows that essential oils and extracts
+obtained from various Eryngium species have broad
+range antimicrobial activity against several strains of
+gram-positive and gram-negative bacteria, some species
+of fungi and yeasts, and viruses. The findings point out
+to the fact that these activities can be ascribed to the
+presence of different phytochemicals, especially apolar
+compounds. However, our search at https://clinicaltrials.-
+gov/ with keyword “Eryngium” accessed on February 9,
+2015 showed no clinical trial regarding the beneficial effects
+of the genus Eryngium plants against different types of in-
+fection available up to date. In addition, there are only a
+few papers on the toxicity of the active constituents be-
+longing to the genus Eryngium plants, which resulted
+to be cytotoxic especially at high doses. It can be sug-
+gested that more toxicity studies should be carried out
+prior to the clinical trials.
+According to this study, we conclude that the essential
+oils and extracts of those Eryngium species that have
+been submitted to in vitro investigation (Table 4) should
+be proceeded to toxicological studies and in vivoexperiments as multi-target antimicrobial agents for
+the treatment of human infectious diseases, especially
+antibiotic-resistant bacterial infections. Thus, it is not
+quite possible to make a clear statement or comment
+about their clinical uses. Hence, we recommend that
+future studies should be performed on:
+- toxicity of the Eryngium plant extracts and essential
+oil resulted to be active in in vitro experiments.
+- clinical studies of the safe extracts of Eryngium
+species with in vitro activity,
+- finding the exact mechanism underlying the
+antibacterial effects of the essential oils and extracts
+of members of the genus Eryngium and their
+antibacterial constituents,
+- separation, isolation, and structure identification of
+the most antibacterial constituents of the essential oils
+and extracts of different members of the genus
+Eryngium and their interactions with foods as well as
+common synthetic antibacterial compounds,
+- ascertaining the most effective and safe doses for
+clinical studies regarding the antibacterial effects of the
+essential oils and extracts of different genus Eryngium
+species against different infectious diseases.Competing interests
+The authors declare that they have no competing interests.
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 20 of 22Authors’ contributions
+SMN and IEO designed the paper, SAE, MI and MD collected and selected
+and analyzed the literature data, SAE, SFN, SMN, IEO and MD wrote the
+paper. All authors participated in the analysis and interpretation of literature
+data, corrected the paper and approved the final manuscript.
+Acknowledgement
+Declared none.
+Author details
+1Department of Pharmacognosy, Faculty of Pharmacy, Ankara University,
+06100 Ankara, Turkey. 2Applied Biotechnology Research Center, Baqiyatallah
+University of Medical Sciences, P.O. Box 19395-5487, Tehran, Iran.
+3Department of Pharmacognosy, Faculty of Pharmacy, Gazi University, 06330
+Ankara, Turkey. 4Department of Drug Sciences, Medicinal Chemistry and
+Pharmaceutical Technology Section, University of Pavia, Pavia, Italy. 5Health
+Research Center, Baqiyatallah University of Medical Sciences, Tehran, Iran.
+Received: 23 October 2015 Accepted: 3 December 2015
+References
+1. World Health Organization. World health statistics 2010. WHO Press. Geneva,
+Switzerland. 2010.
+2. Nabavi SM, Marchese A, Izadi M, Curti V, Daglia M, Nabavi SF. Plants
+belonging to the genus Thymus as antibacterial agents: From farm to
+pharmacy. Food Chem. 2015;173:339–47.
+3. Högberg LD, Heddini A, Cars O. The global need for effective antibiotics:
+challenges and recent advances. Trends Pharmacol Sci. 2010;31(11):509–15.
+4. Alinezhad H, Azimi R, Zare M, Ebrahimzadeh MA, Eslami S, Nabavi SF, et al.
+Antioxidant and antihemolytic activities of ethanolic extract of flowers,
+leaves, and stems of Hyssopus officinalis L. Var. angustifolius. Int J Food Prop.
+2013;16(5):1169–78.
+5. Nabavi SF, Nabavi SM, Habtemariam S, Moghaddam AH, Sureda A, Jafari M,
+et al. Hepatoprotective effect of gallic acid isolated from Peltiphyllum
+peltatum against sodium fluoride-induced oxidative stress. Ind Crops Prod.
+2013;44:50–5.
+6. Curti V, Capelli E, Boschi F, Nabavi SF, Bongiorno AI, Habtemariam S, et al.
+Modulation of human miR‐17–3p expression by methyl 3‐O‐methyl gallate
+as explanation of its in vivo protective activities. Mol Nutr Food Res. 2014;
+58(9):1776–84.
+7. Nabavi SF, Daglia M, Moghaddam AH, Habtemariam S, Nabavi SM.
+Curcumin and liver disease: from chemistry to medicine. Compr Rev Food
+Sci Food Saf. 2014;13(1):62–77.
+8. Nabavi SF, Russo GL, Daglia M, Nabavi SM. Role of quercetin as an
+alternative for obesity treatment: you are what you eat! Food Chem. 2015;
+179:305–10.
+9. Nabavi SF, Nabavi SM, Setzer NW, Nabavi SA, Nabavi SA, Ebrahimzadeh MA.
+Antioxidant and antihemolytic activity of lipid-soluble bioactive substances
+in avocado fruits. Fruits. 2013;68(03):185–93.
+10. Daglia M. Polyphenols as antimicrobial agents. Curr Opin Biotechnol. 2012;
+23(2):174–81.
+11. Simoes M, Bennett RN, Rosa EA. Understanding antimicrobial activities of
+phytochemicals against multidrug resistant bacteria and biofilms. Nat Prod
+Rep. 2009;26(6):746–57.
+12. Cowan MM. Plant products as antimicrobial agents. Clin Microbiol Rev.
+1999;12(4):564–82.
+13. Palá-Paúl J, Perez-Alonso MJ, Velasco-Negueruela A, Vadaré J, Villa AM, Sanz
+J, et al. Essential oil composition of the different parts of Eryngium bourgatii
+Gouan from Spain. J Chromatogr A. 2005;1074(1):235–9.
+14. Capetanos C, Saroglou V, Marin PD, Simić A, Skaltsa HD. Essential oil analysis
+of two endemic Eryngium species from Serbia. J Serb Chem Soc. 2007;
+72(10):961–5.
+15. Wörz A, Diekmann H. Classification and evolution of the genus Eryngium L.
+(Apiaceae-Saniculoideae): results of fruit anatomical and petal
+morphological studies. Plant Divers Evol. 2010;128(3-4):387–408.
+16. Wörz A. A new subgeneric classification of the genus Eryngium L.
+(Apiaceae, Saniculoideae). Bot Jahrbücher. 2005;126(2):253–9.
+17. Calvino CI, Martínez SG, Downie SR. The evolutionary history of Eryngium
+(Apiaceae, Saniculoideae): Rapid radiations, long distance dispersals, and
+hybridizations. Mol Phylogenet Evol. 2008;46(3):1129–50.18. Calviño CI, Downie SR. Circumscription and phylogeny of Apiaceae
+subfamily Saniculoideae based on chloroplast DNA sequences. Mol
+Phylogenet Evol. 2007;44(1):175–91.
+19. Magee AR, van Wyk B-E, Tilney PM, van der Bank M. A Taxonomic Revision
+Of the South African Endemic Genus Arctopus (Apiaceae, Saniculoideae) 1.
+Ann Missouri Bot Garden. 2008;95(3):471–86.
+20. Singh S, Singh D, Banu S, Salim K. Determination of bioactives and
+antioxidant activity in Eryngium foetidum L.: a traditional culinary and
+medicinal herb. Proc Natl Acad Sci, India Section B: Biological Sciences.
+2013;83(3):453–60.
+21. Ignacimuthu S, Arockiasamy S, Antonysamy M, Ravichandran P. Plant
+regeneration through somatic embryogenesis from mature leaf explants of
+Eryngium foetidum, a condiment. Plant Cell Tissue Organ Cult. 1999;56(2):131–7.
+22. Shavandi MA, Haddadian Z, Ismail MHS. Eryngium foetidum L. Coriandrum
+sativum and Persicaria odorata L.: A review. J Asian Sci Res.
+2012;2(8):410–26.
+23. Singh B, Ramakrishna Y, Ngachan S. Spiny coriander (Eryngium foetidum L.):
+a commonly used, neglected spicing-culinary herb of Mizoram, India. Genet
+Resour Crop Evol. 2014;61(6):1085–90.
+24. Paul J, Seaforth C, Tikasingh T. Eryngium foetidum L.: a review. Fitoterapia.
+2011;82(3):302–8.
+25. Kupeli E, Kartal M, Aslan S, Yesilada E. Comparative evaluation of the anti-
+inflammatory and antinociceptive activity of Turkish Eryngium species.
+J Ethnopharmacol. 2006;107(1):32–7.
+26. De Natale A, Pollio A. Plants species in the folk medicine of Montecorvino
+Rovella (inland Campania, Italy). J Ethnopharmacol. 2007;109(2):295–303.
+27. Wang P, Su Z, Yuan W, Deng G, Li S. Phytochemical constituents and
+pharmacological activities of Eryngium L. (Apiaceae). Pharm Crops.
+2012;3:99–120.
+28. Nabavi S, Nabavi S, Alinezhad H, Zare M, Azimi R. Biological activities of
+flavonoid-rich fraction of Eryngium caucasicum Trautv. Eur Rev Med
+Pharmacol Sci. 2012;16:81–7.
+29. Eslami S, Ebrahimzadeh M, Moghaddam HA, Nabavi S, Jafari N, Nabavi S.
+Renoprotective effect of Eryngium caucasicum in gentamicin-induced
+nephrotoxic mice. Arch Biol Sci. 2011;63(1):157–60.
+30. Anam EM. A novel triterpenoid saponin from Eryngium foetidum. Indian J
+Chem Section B. 2002;41(7):1500–3.
+31. Khoshbakht K, Hammer K, Pistrick K. Eryngium caucasicum Trautv. cultivated
+as a vegetable in the Elburz Mountains (Northern Iran). Genet Resour Crop
+Evol. 2007;54(2):445–8.
+32. Homer S, Baccus-Taylor GS, Akingbala JA, Hutchinson SD, editors.
+Antibacterial efficacy of Eryngium foetidum (culantro) against select food-
+borne pathogens: Proceedings of the West Indies Agricultural Economics
+Conference. 2009.
+33. Türker H, Yildirim AB, Karakaş FP, Köylüoglu H. Antibacterial activities of
+extracts from some Turkish endemic plants on common fish pathogens.
+Turk J Biol. 2009;33(1):73–8.
+34. Merghache D, Boucherit-Otmani Z, Merghache S, Chikhi I, Selles C, Boucherit K.
+Chemical composition, antibacterial, antifungal and antioxidant activities of
+Algerian Eryngium tricuspidatum L. essential oil. Nat Prod Res.
+2014;28(11):795–807.
+35. Dehghanzadeh N, Ketabchi S, Alizadeh A. Essential oil composition and
+antibacterial activity of Eryngium caeruleum grown wild in Iran. J Essential
+Oil Bearing Plants. 2014;17(3):486–92.
+36. Khalfallah A, Berrehal D, Kabouche A, Karioti A, Bilia A-R, Kabouche Z.
+Flavonoids, antioxidant and antibacterial activities of Eryngium triquetrum.
+Chem Nat Comp. 2014;50(1):130–2.
+37. Çelik A, Aydınlık N, Arslan I. Phytochemical constituents and inhibitory
+activity towards methicillin‐resistant Staphylococcus aureus strains of
+Eryngium species (Apiaceae). Chem Biodivers. 2011;8(3):454–9.
+38. Ozcelik B, Kusmenoglu S, Turkoz S, Abbasoglu U. Antimicrobial activities of
+plants from the Apicaceae. Pharm Biology. 2004;42(7):526–8.
+39. Sefidkon F, Dabiri M, Alamshahi A. Chemical composition of the essential oil
+of Eryngium billardieri F. Delaroche from Iran. J Essential Oil Res. 2004;16(1):
+42–3.
+40. Ebrahimzadeh M, Nabavi S, Nabavi S. Antioxidant activity of leaves and
+inflorescence of Eryngium caucasicum Trautv at flowering stage.
+Pharmacogn Res. 2009;1(6):435.
+41. Aburjai T, Hudaib M, Tayyem R, Yousef M, Qishawi M. Ethnopharmacological
+survey of medicinal herbs in Jordan, the Ajloun Heights region.
+J Ethnopharmacol. 2007;110(2):294–304.
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 21 of 2242. Goleniowski ME, Bongiovanni G, Palacio L, Nuñez C, Cantero J. Medicinal
+plants from the “Sierra de Comechingones”, Argentina. J Ethnopharmacol.
+2006;107(3):324–41.
+43. Redzic S. Wild medicinal plants and their usage in traditional human
+therapy (Southern Bosnia and Herzegovina, W. Balkan). J Med Plants Res.
+2010;4(11):1003–27.
+44. Morton JF. Some folk-medicine plants of Central American markets. Pharm
+Biol. 1977;15(4):165–92.
+45. Morton JF. Caribbean and Latin American folk medicine and its influence in
+the United States. Pharm Biol. 1980;18(2):57–75.
+46. Mathias ME. Magic, myth and medicine. Econ Bot. 1994;48(1):3–7.
+47. Wang P, Yuan W, Deng G, Su Z, Li S. Triterpenoid saponins from Eryngium
+yuccifolium ‘Kershaw Blue’. Phytochem Lett. 2013;6(2):306–9.
+48. de la Luz C-GM, Fernández-Arroyo S, Joven J, Segura-Carretero A.
+Comprehensive characterization by UHPLC-ESI-Q-TOF-MS from an Eryngium
+bourgatii extract and their antioxidant and anti-inflammatory activities. Food
+Res Int. 2013;50(1):197–204.
+49. Erdem SA, Arıhan O, Offer AM, Iskit A, Miyamoto T, Kartal M, et al. Antinociceptive
+activity of Eryngium kotschyi Boiss. root extracts. Planta Med. 2011;77(12):F66.
+50. Ozarowski M, Thiem B, Mikolajczak PL, Piasecka A, Kachlicki P, Szulc M, et al.
+Improvement in Long-Term Memory following Chronic Administration of
+Eryngium planum Root Extract in Scopolamine Model: Behavioral and
+Molecular Study. Evid Based Complement Alternat Med. 2015;2015:145140.
+51. Khalili M, Dehdar T, Hamedi F, Ebrahimzadeh M, Karami M. Antihypoxic activities
+of Eryngium caucasicum. Eur Rev Med Pharmacol Sci. 2015;19(17):3282–5.
+52. Dawilai S, Muangnoi C, Praengamthanachoti P, Tuntipopipat S. Anti-
+inflammatory activity of bioaccessible fraction from Eryngium foetidum
+leaves. BioMed Res Int. 2013;2013:958567.
+53. Mozumder S, Hossain M. Effect of seed treatment and soaking duration on
+germination of Eryngium foetidum L. seeds. Int J Hort. 2013;3:1046–51.
+54. Njenga J. Production of Eryngium. NC Flower Growers’ Bulletin. 1995;40:9–11.
+55. Martin K. In vitro propagation of the herbal spice Eryngium foetidum L. on
+sucrose-added and sucrose-free medium without growth regulators and
+CO2 enrichment. Sci Hort. 2004;102(2):277–82.
+56. Erdelmeier C, Sticher O. Coumarin derivatives from Eryngium campestre.
+Planta Med. 1985;51(5):407–9.
+57. Erdelmeier CA, Sticher O. A cyclohexenone and a cyclohexadienone
+glycoside from Eryngium campestre. Phytochemistry. 1986;25(3):741–3.
+58. Hohmann J, Pall Z, Günther G, Mathe I. Flavonolacyl glycosides of the aerial
+parts of Eryngium campestre. Planta Med. 1997;63(1):96.
+59. Kartal M, Mitaine-Offer A-C, Abu-Asaker M, Miyamoto T, Calis I, Wagner H, et al.
+Two new triterpene saponins from Eryngium campestre. Chem Pharm Bull.
+2005;53(10):1318–20.
+60. Dalar A, Türker M, Zabaras D, Konczak I. Phenolic composition, antioxidant
+and enzyme inhibitory activities of Eryngium bornmuelleri leaf. Plant Foods
+Hum Nutr. 2014;69(1):30–6.
+61. Hiller K, Keipert M, Pfeifer S, Kraft R. The leaf sapogenin spectrum in
+Eryngium planum L. 20. Contribution on the content of several
+Saniculoideae. Pharmazie. 1974;29(1):54.
+62. Hiller K, Nguyen K, Franke P. Isolation of 3-OD-glucopyranosyl oleanolic acid
+28-OD-xylo-pyranoside from Eryngium bromeliifolium Delar. 29. Constituents
+of some Saniculoideae. Pharmazie. 1978;33(1):78–80.
+63. Kartal M, Mitaine-Offer A-C, Paululat T, Abu-Asaker M, Wagner H, Mirjolet J-F, et al.
+Triterpene saponins from Eryngium campestre. J Nat Prod. 2006;69(7):1105–8.
+64. Zhang Z, Li S, Ownby S, Wang P, Yuan W, Zhang W, et al. Phenolic
+compounds and rare polyhydroxylated triterpenoid saponins from Eryngium
+yuccifolium. Phytochemistry. 2008;69(10):2070–80.
+65. Erdem SA, Mitaine-Offer AC, Miyamoto T, Kartal M, Lacaille-Dubois MA.
+Triterpene saponins from Eryngium kotschyi. Phytochemistry. 2015;110:160–5.
+66. Hiller K, Thi N, Franke P. On saponin of Eryngium bromeliifoloium Delar. 19.
+Information on the components of various Saniculoideae. Pharmazie. 1973;
+28(8):546.
+67. Hiller K, Thi N, Döhnert H, Franke P. Isolation of new ester sapogenins from
+Eryngium giganteum MB 22. Knowledge of various Saniculoideae
+components. Pharmazie. 1975;30(2):105.
+68. Hiller K, Nguyen K, Döhnert H, Franke P. The saponine-saponinogen
+spectrum in Eryngium amethystinum L. 27. Contribution to chemicals
+contained in various Saniculoidae. Pharmazie. 1977;32(3):184.
+69. Hiller K, Keipert M, Pfeifer S, Tökes L, Maddox M. Structure of Erygium
+sapogenins. 14. Information on components of some Saniculoideae.
+Pharmazie. 1970;25(12):769.70. Hiller K, Keipert M, Pfeifer S, Tokes L, Nelson J. Erynginol A- A new
+triterpenesapogenin. 18. Knowledge of component substances of some
+saniculoideae. Pharmazie 1973;28(6):409–10.
+71. Hiller K, Von Thi N, Lehmann G, Gründemann E. Betulinic acid—a sapogenin
+in Eryngium bromeliifolium Delar. 21. The contents of a Saniculoidea.
+Pharmazie. 1974;29(2):148.
+72. Hiller K, Keipert M, Missbach U, Lehmann G. Eryngiumgenin E-a new ester
+sapogenin. 23. The contents of some Saniculoideae. Pharmazie. 1975;30(5):336.
+73. Hiller K, Nguyen K, Franke P, Hintsche R. Isolation of betulic acid 3-O-beta-D
+glucoside, a saponin of Eryngium bromeliifolium Delar. 26. The contents of
+Saniculoidease. Pharmazie. 1976;31(12):891.
+74. Hiller K, Von Mach B, Franke P. Saponins of Eryngium maritimum L. 25.
+Contents of various Saniculoideae. Pharmazie. 1976;31(1):53.
+75. Voigt G, Thiel P, Hiller K, Franke P, Habisch D. Zur struktur des
+hauptsaponins der Wurzeln von Eryngium planum L.. XL: Zur Kenntnis der
+inhaltsstoffe einiger Saniculoideae. Pharmazie 1985;40(9):656–59.
+76. Kowalczyk M, Masullo M, Thiem B, Piacente S, Stochmal A, Oleszek W. Three
+new triterpene saponins from roots of Eryngium planum. Nat Prod Res.
+2014;28(9):653–60.
+77. Aslan S, Kartal M. GC-MS Analysis of Eryngium maritumum L. volatile oil.
+Planta Med 2006;72(11):P_340.
+78. Hiller K, Otto A, Grundemann E. Isolation of kaempferol-3-o-(6-O-beta-D-
+glucopyranosyl)-beta-D-galactopyranoside, a new flavonol glycoside from
+Eryngium planum l. 34. on the knowledge of the constituents of some
+saniculoideae. Pharmazie. 1980;35(2):113–4.
+79. Kartnig T, Wolf J. Flavonoids from the aboveground parts of Eryngium
+campestre. Planta Med. 1993;59(3):285.
+80. Hawas UW, El-Kassem T, Lamia A, Awad M, Hanem AA, Taie H. Anti-Alzheimer,
+antioxidant activities and flavonol glycosides of Eryngium campestre L. Curr
+Chem Biol. 2013;7(2):188–95.
+81. Pinar M, Galan MP. Coumarins from Eryngium ilicifolium. J Nat Prod. 1985;
+48(5):853–4.
+82. Le Claire E, Schwaiger S, Banaigs B, Stuppner H, Gafner F. Distribution of a
+new rosmarinic acid derivative in Eryngium alpinum L. and other Apiaceae.
+J. Agric Food Chem. 2005;53(11):4367–72.
+83. Marčetić MD, Petrović SD, Milenković MT, Niketić MS. Composition,
+antimicrobial and antioxidant activity of the extracts of Eryngium palmatum
+Pančić and Vis. (Apiaceae). Cent Eur J Biol. 2014;9(2):149–55.
+84. Drake D, Lam J. Seseli acetylene from Eryngium bourgatti. Phytochemistry.
+1972;11(8):2651–2.
+85. Lam J, Christensen LP, Thomasen T. Acetylenes from roots of Eryngium
+bourgatii. Phytochemistry. 1992;31(8):2881–2.
+86. Ayoub N, Kubeczka K-H, Nawwar M. An unique n-propyl sesquiterpene from
+Eryngium creticum L. (Apiaceae). Pharmazie. 2003;58(9):674–6.
+87. Korbel E, Bighelli A, Kurowska A, Kalemba D, Casanova J. New cis-chrysanthenyl
+esters from Eryngium planum L. Nat Prod Commun. 2008;3(2):113–6.
+88. Garcia M, Saenz M, Gomez M, Fernandez M. Topical anti-inflammatory
+activity of phytosterols isolated from Eryngium foetidum on chronic and
+acute inflammation models. Phytother Res. 1999;13(1):78–80.
+89. Muckensturm B, Boulanger A, Farahi M, Reduron J. Secondary metabolites
+from Eryngium species. Nat Prod Res. 2010;24(5):391–7.
+90. Forbes W, Gallimore W, Mansingh A, Reese P, Robinson R. Eryngial (trans-2-
+dodecenal), a bioactive compound from Eryngium foetidum: its
+identification, chemical isolation, characterization and comparison with
+ivermectin in vitro. Parasitology. 2014;141(02):269–78.
+91. Alzoreky N, Nakahara K. Antibacterial activity of extracts from some edible
+plants commonly consumed in Asia. Int J Food Microbiol. 2003;80(3):223–30.
+92. Ndip RN, Tarkang AEM, Mbullah SM, Luma HN, Malongue A, Ndip LM, et al.
+In vitro anti-Helicobacter pylori activity of extracts of selected medicinal
+plants from North West Cameroon. J Ethnopharmacol. 2007;114(3):452–7.
+93. Roumy V, Garcia-Pizango G, Gutierrez-Choquevilca A-L, Ruiz L, Jullian V,
+Winterton P, et al. Amazonian plants from Peru used by Quechua and
+Mestizo to treat malaria with evaluation of their activity. J Ethnopharmacol.
+2007;112(3):482–9.
+94. Darriet F, Bendahou M, Desjobert J-M, Costa J, Muselli A. Bicyclo [4.4.0]
+decane oxygenated sesquiterpenes from Eryngium maritimum essential oil.
+Planta Med. 2012;78(4):386.
+95. Meot-Duros L, Le Floch G, Magné C. Radical scavenging, antioxidant and
+antimicrobial activities of halophytic species. J Ethnopharmacol. 2008;116(2):
+258–62.
+96. Baytop T. Therapy with Medicinal Plants in Turkey (Past and Present). 1999;2:169.
+Erdem et al. DARU Journal of Pharmaceutical Sciences  (2015) 23:53 Page 22 of 2297. Abou-Jawdah Y, Sobh H, Salameh A. Antimycotic activities of selected plant
+flora, growing wild in Lebanon, against phytopathogenic fungi. J Agric
+Food Chem. 2002;50(11):3208–13.
+98. Dunkić V, Vuko E, Bezić N, Kremer D, Ruščić M. Composition and antiviral
+activity of the essential oils of Eryngium alpinum and E. amethystinum.
+Chem Biodivers. 2013;10(10):1894–902.
+99. Flamini G, Tebano M, Cioni PL. Composition of the essential oils from leafy
+parts of the shoots, flowers and fruits of Eryngium amethystinum from
+Amiata Mount (Tuscany, Italy). Food Chem. 2008;107(2):671–4.
+100. Morteza-Semnani K. Essential oil composition of Eryngium bungei Boiss.
+J Essential Oil Res. 2005;17(5):485–6.
+101. Mohammadhosseini M, Mahdavi B, Akhlaghi H. Characterization and
+chemical composition of the volatile oils from aerial parts of Eryngium
+bungei Bioss. (Apiaceae) by using traditional hydrodistillation, microwave
+assisted hydrodistillation and head space solid phase microextraction
+methods prior to GC and GC/MS analyses: A comparative approach.
+J Essential Oil Bearing Plants. 2013;16(5):613–23.
+102. Assadian F, Masoudi S, Nematollahi F, Rustaiyan A, Larijani K, Mazloomifar H.
+Volatile constituents of Xanthogalum purpurascens Ave-Lall., Eryngium
+caeruleum MB and Pimpinella aurea DC. Three Umbelliferae herbs growing
+in Iran. J Essential Oil Res. 2005;17(3):243–5.
+103. Pala-Paul J, Usano-Alemany J, Soria AC, Perez-Alonso MJ, Brophy JJ. Essential
+oil composition of Eryngium campestre L. growing in different soil types. A
+preliminary study. Nat Prod Commun. 2008;3(7):1121–6.
+104. Hashemabadi D, Kaviani B. Chemical constituents of essential oils extracted
+from the leaves and stems of Eryngium caucasicum Trautv. from Iran.
+J Essential Oil Bearing Plants. 2011;14(6):693–8.
+105. Palá-Paúl J, Brophy JJ, Pérez-Alonso MJ, Usano J, Soria SC. Essential oil
+composition of the different parts of Eryngium corniculatum Lam. (Apiaceae)
+from Spain. J Chromatogr A. 2007;1175(2):289–93.
+106. Cavaleiro C, Gonçalves MJ, Serra D, Santoro G, Tomi F, Bighelli A, et al.
+Composition of a volatile extract of Eryngium duriaei subsp. juresianum (M.
+Laínz) M. Laínz, signalised by the antifungal activity. J Pharm Biomed Anal. 2011;
+54(3):619–22.
+107. Brophy JJ, Goldsack RJ, Copeland LM, Palá-Paúl J. Essential oil of Eryngium L.
+species from New South Wales (Australia). J Essential Oil Res. 2003;15(6):
+392–7.
+108. Martins AP, Salgueiro LR, da Cunha AP, Vila R, Cañigueral S, Tomi F, et al.
+Essential oil composition of Eryngium foetidum from S. Tome e Principe.
+J Essential Oil Res. 2003;15(2):93–5.
+109. Cardozo E, Rubio M, Rojas L, Usubillaga A. Composition of the essential oil
+from the leaves of Eryngium foetidum L. from the Venezuelan Andes.
+J Essential Oil Res. 2004;16(1):33–4.
+110. Thi NDT, Anh TH, Thach LN. The essential oil composition of Eryngium foetidum L.
+in South Vietnam extracted by hydrodistillation under conventional heating and
+microwave irradiation. J Essential Oil Bearing Plants. 2008;11(2):154–61.
+111. Pino JA, Rosado A, Fuentes V. Composition of the leaf oil of Eryngium
+foetidum L. from Cuba. J Essential Oil Res. 1997;9(4):467–8.
+112. Palá-Paúl J, Pérez-Alonso MJ, Velasco-Negueruela A, Varadé J, Villa AM, Sanz J,
+et al. Analysis of the essential oil composition from the different parts of
+Eryngium glaciale Boiss. from Spain. J Chromatogr A. 2005;1094(1):179–82.
+113. Maggio A, Bruno M, Formisano C, Rigano D, Senatore F. Chemical
+composition of the essential oils of three species of Apiaceae growing wild
+in Sicily: Bonannia graeca, Eryngium maritimum and Opopanax chironium.
+Nat Prod Commun. 2013;8(6):841–4.
+114. Darriet F, Andreani S, De Cian MC, Costa J, Muselli A. Chemical variability
+and antioxidant activity of Eryngium maritimum L. essential oils from Corsica
+and Sardinia. Flav Fragr J. 2014;29(1):3–13.
+115. Marcetic M, Petrovic S, Milenkovic M, Vujisic L, Tesevic V, Niketic M. Composition
+and antimicrobial activity of root essential oil of Balkan endemic species Eryngium
+palmatum. Chem Nat Comp. 2014;49(6):1140–2.
+116. Cobos MI, Rodriguez JL, De Petre A, Spahn E, Casermeiro J, Lopez AG, et al.
+Composition of the essential oil of Eryngium paniculatum Cav. J Essential Oil
+Res. 2002;14(2):82–3.
+117. Thiem B, Kikowska M, Kurowska A, Kalemba D. Essential oil composition of
+the different parts and in vitro shoot culture of Eryngium planum L.
+Molecules. 2011;16(8):7115–24.
+118. Palá-Paúl J, Copeland LM, Brophy JJ, Goldsack RJ. Essential oil composition
+of Eryngium rosulatum PW Michael ined.: A new undescribed species from
+eastern Australia. Biochem System Ecol. 2006;34(11):796–801.119. Palá-Paúl J, Brophy JJ, Goldsack RJ, Copeland LM, Pérez-Alonso MJ, Velasco-
+Negueruela A. Essential oil composition of the seasonal heterophyllous
+leaves of Eryngium vesiculosum from Australia. Austr J Bot. 2003;51(5):497–501.
+120. Ayoub N, Al‐Azizi M, König W, Kubeczka KH. Essential oils and a novel
+polyacetylene from Eryngium yuccifolium Michaux. (Apiaceae). Flav Fragr J.
+2006;21(6):864–8.•  We accept pre-submission inquiries 
+•  Our selector tool helps you to find the most relevant journal
+•  We provide round the clock customer support 
+•  Convenient online submission
+•  Thorough peer review
+•  Inclusion in PubMed and all major indexing services 
+•  Maximum visibility for your research
+Submit your manuscript at
+www.biomedcentral.com/submit
+Submit your next manuscript to BioMed Central 
+and we will help you at every step:

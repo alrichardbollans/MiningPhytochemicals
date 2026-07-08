@@ -1,0 +1,950 @@
+Biosynthesis of Germacrene A Carboxylic Acid in Chicory
+Roots. Demonstration of a Cytochrome P450
+(1)-Germacrene A Hydroxylase and NADP1-Dependent
+Sesquiterpenoid Dehydrogenase(s) Involved in
+Sesquiterpene Lactone Biosynthesis
+Jan-Willem de Kraker, Maurice C. R. Franssen1*, Marcella C. F. Dalm, Aede de Groot, and
+Harro J. Bouwmeester1
+Department of Organic Chemistry, Wageningen University, Dreijenplein 8, 6703 HB Wageningen, The
+Netherlands (J.-W.d.K., M.C.R.F., M.C.F.D., A.d.G.); and Plant Research International,
+P.O. Box 16, 6700 AA Wageningen, The Netherlands (J.-W.d.K., M.C.F.D., H.J.B.)
+Sprouts of chicory (Cichorium intybus), a vegetable grown in the dark, have a slightly bitter taste associated with the presence
+of guaianolides, eudesmanolides, and germacranolides. The committed step in the biosynthesis of these compounds is
+catalyzed by a (1)-germacrene A synthase. Formation of the lactone ring is the postulated next step in biosynthesis of the
+germacrene-derived sesquiterpene lactones. The present study confirms this hypothesis by isolation of enzyme activities
+from chicory roots that introduce a carboxylic acid function in the germacrene A isopropenyl side chain, which is necessary
+for lactone ring formation. (1)-Germacrene A is hydroxylated to germacra-1(10),4,11(13)-trien-12-ol by a cytochrome P450
+enzyme, and is subsequently oxidized to germacra-1(10),4,11(13)-trien-12-oic acid by NADP1-dependent dehydrogenase(s).
+Both oxidized germacrenes were detected as their Cope-rearrangement products elema-1,3,11(13)-trien-12-ol and elema-
+1,3,11(13)-trien-12-oic acid, respectively. The cyclization products of germacra-1(10),4,11(13)-trien-12-ol, i.e. costol, were also
+observed. The (1)-germacrene A hydroxylase is inhibited by carbon monoxide (blue-light reversible), has an optimum pH
+at 8.0, and hydroxylates b-elemene with a modest degree of enantioselectivity.
+Wild chicory (Cichorium intybus) is a blue-flowered
+composite plant that has spread all over the world
+from the Mediterranean and east Asia. Since the sev-
+enteenth century it has been cultivated (var sativum)
+for its bitter roots that were roasted and used in hot
+coffee-like beverages. Although the use of its roots
+was displaced by genuine coffee from Coffea arabica,
+sprouts of chicory var foliosum that are grown in the
+dark became popular as a vegetable (Belgian endive)
+halfway through the nineteenth century. Nowadays
+it is a common crop in Belgium, northern France, and
+The Netherlands (Weeda et al., 1991; Vogel et al.,
+1996). The bitter taste of chicory is associated with the
+presence of sesquiterpene lactones, in particular the
+guaianolides lactucin (1) (Fig. 1), 8-deoxylactucin (2),
+and lactupicrin (3). Smaller amounts of eudesmano-
+lides and germacranolides are also present in the
+plant (Pyrek, 1985; Seto et al., 1988; Price et al., 1990;
+van Beek et al., 1990).
+Sesquiterpene lactones are a major class of plant
+secondary metabolites and over 4,000 different struc-
+tures have been elucidated. A wealth of information
+is available about the structural aspects and biologi-
+cal activities of these type of compounds (e.g. Pic-
+man, 1986), but little is known about their biosynthe-
+sis. By far the largest group of naturally occurring
+sesquiterpene lactones is the germacranolides, and
+the majority of sesquiterpene lactones are thought to
+evolve from this class. The simplest member of the
+germacranolides (1)-costunolide (12) (Fig. 2) is gen-
+erally accepted as the common intermediate of all
+germacranolide-derived lactones (Geissman, 1973;
+Herz, 1977; Fischer et al., 1979; Seaman, 1982; Song et
+al., 1995).
+(1)-Costunolide was first isolated from costus
+(Saussurea lappa Clarke) roots by Paul et al. (1960) and
+Somasekar Rao et al. (1960), and has since been found
+with other sesquiterpene lactones in various plants
+(Fischer et al., 1979). Among them is lettuce, a species
+that is closely related to chicory and also contains the
+bitter tasting compounds lactucin (1) and lactupicrin
+(3) (Takasugi et al., 1985; Price et al., 1990).
+We have recently demonstrated that the sesquiter-
+penoid backbone of the sesquiterpene lactones in
+chicory is formed by a (1)-germacrene A synthase,
+which cyclizes farnesyl diphosphate (FPP) to
+(1)-germacrene A (8) (Fig. 2; de Kraker et al., 1998).
+This (1)-germacrene A is not further transformed
+into a guaiane or an eudesmane, indicating that func-
+tionalization of the molecule precedes its cyclization.
+1 These authors contributed equally to this article.
+* Corresponding author; e-mail H.J.Bouwmeester@plant.
+wag-ur.nl; fax 31–317– 418094.
+1930 Plant Physiology, April 2001, Vol. 125, pp. 1930–1940, www.plantphysiol.org © 2001 American Society of Plant Physiologists www.plantphysiol.orgon January , 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+Studies on the biosynthesis of santonin (Barton et al.,
+1968) suggested that lactone formation precedes any
+other oxidation of the sesquiterpenoid ring system
+(Cordell, 1976), and various authors have proposed a
+biosynthetic route (Fig. 2) from (1)-germacrene A (8)
+toward (1)-costunolide (12) (Geissman, 1973; Herz,
+1977; Seaman, 1982; Fischer, 1990; Song et al., 1995).
+In this hypothetical route (1)-germacrene A (8) is
+hydroxylated to germacra-1(10),4,11(13)-trien-12-ol
+(9), which is further oxidized via germacra-1(10),4,
+11(13)-trien-12-al (10) to germacra-1(10),4,11(13)-trien-
+12-oic acid (11). The germacrene acid is thought to be
+hydroxylated at the C6-position and subsequent loss
+of water leads to the formation of a lactone ring such
+as present in (1)-costunolide (12).
+However, germacrenes are notoriously unstable
+compounds, susceptible to proton-induced cycliza-
+tions and heat-induced (e.g. steam distillation and
+gas chromatography [GC] analysis) Cope rearrange-
+ment (Takeda, 1974; Bohlman et al., 1983; Reichardt
+et al., 1988; Teisseire, 1994; de Kraker et al., 1998).
+None of the intermediates between (1)-germacrene
+A and (1)-costunolide has ever been isolated, apart
+from germacra-1(10),4,11(13)-trien-12-al (10), which
+was isolated with greatest difficulty from Vernonia
+glabra and could not be separated from its cyclization
+product costal (20) (Bohlman et al., 1983). Most likely
+as a result of this instability, the hypothetical biosyn-
+thetic route for (1)-costunolide has merely been
+based on the isolation from costus roots of the Cope-
+rearrangement products (-)-elema-1,3,11(13)-trien-
+12-ol (14) and (-)-elema-1,3,11(13)-trien-12-al (15),
+and the proton-induced cyclization products costol
+(19), costal (20), and costic acid (21) (Bawdekar and
+Kelkar, 1965; Bawdekar et al., 1967; Maurer and
+Grieder, 1977). Besides the reported (1)-germacrene
+A synthase from chicory roots (de Kraker et al., 1998),
+thus far no other enzyme has been isolated that might
+be involved in this proposed pathway from FPP to
+(1)-costunolide.
+The aim of the present research was to find en-
+zymes in chicory that are involved in oxidation of the
+germacrene A isopropenyl side chain, and thus to
+investigate the initial steps in the formation of the
+lactone ring, as present in (1)-costunolide and other
+germacrene-derived sesquiterpene lactones.
+RESULTS
+Demonstration of (1)-Germacrene A
+Hydroxylase Activity
+Radio-GC analysis of the pentane-ether extract
+from the incubation of a 20,000g chicory root super-
+natant with [3H]FPP revealed a peak of germacrene A
+as a result of the (1)-germacrene A synthase present
+in the supernatant (Fig. 3A). In the presence of
+NADPH, 60% of the (1)-germacrene A was con-
+verted into a more polar compound that eluted from
+the GC column at a higher temperature (Fig. 3B). In
+Figure 1. The major sesquiterpene lactones of chicory: the guaiano-
+lides lactucin (1), 8-deoxylactucin (2), and lactupicrin (3); the eudes-
+manolides sonchuside C (4) and cichoriolide A (5); and the germac-
+ranolides sonchuside A (6) and cichorioside C (7).
+Figure 2. Proposed biosynthetic route from (1)-germacrene A (8) to
+(1)-costunolide (12) via germacra-1(10),4,11(13)-trien-12-ol (9),
+germacra-1(10),4,11(13)-trien-12-al (10), and germacra-1(10),4,11(13)-
+trien-12-oic acid (11). At the right side of the dotted line, compounds are
+shown that can be formed from these unstable germacrenes: the heat-
+induced Cope-rearrangement products (-)-b-elemene (13), (-)-elema-
+1,3,11(13)-trien-12-ol (14), (-)-elema-1,3,11(13)-trien-12-al (15), elema-
+1,3,11(13)-trien-12-oic acid (16), and dehydrosaussurea lactone (17);
+and the acid-induced cyclization products selinene (18) (g-selinene is
+usually named selina-4, 11-diene), costol (19), costal (20), and costic
+acid (21). Compounds with underlined numbers have all been identified
+in costus roots; (1)-germacrene A (8) and germacra-1(10),4,11(13)-trien-
+12-al (10) were isolated from other plant species. Note that after hy-
+droxylation the numbering of carbon atoms 12 and 13 is inverted.
+Biosynthesis of Germacrene A Carboxylic Acid in Chicory Roots
+Plant Physiol. Vol. 125, 2001 1931
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+both incubations a small amount of farnesol was also
+formed due to non-specific phosphohydrolases, but it
+was efficiently reduced by the addition of 6 mm
+sodium orthovanadate to the assay buffer (Croteau
+and Karp, 1974). Farnesol formation decreased even
+further in the presence of the NADPH-regenerating
+system, likely because Glc-6-P (1 mm) acts as a com-
+petitive inhibitor on the phosphohydrolases.
+In a GC-mass spectrometry (MS) measurement at
+an injection port temperature of 250°C, germacrene A
+was detected as its Cope-rearrangement product
+b-elemene (13). The unknown product was displayed
+as a sharp peak with the same retention time and
+mass spectrum as (-)-elema-1,3,11(13)-trien-12-ol (14),
+the Cope-rearrangement product of germacra-
+1(10),4,11(13)-trien-12-ol (9). Lowering the injection
+port temperature to 150°C yielded the slightly front-
+ing peak of germacrene A (de Kraker et al., 1998), but
+the peak of elema-1,3,11(13)-trien-12-ol was replaced
+by a broad “hump” in the baseline that started at the
+position of elema-1,3,11(13)-trien-12-ol and stretched
+over a 2-min period. If the germacrene alcohol is not
+rearranged in the injection port, it apparently rear-
+ranges during migration through the GC column
+(HP5-MS) to the faster migrating elema-1,3,11(13)-
+trien-12-ol and is observed as a broad peak similar to
+the one described for 7-hydroxygermacrene (Stahl,
+1984). Germacra-1(10),4,11(13)-trien-12-ol is also ex-
+pected to rearrange on the column of the radio GC
+(cold on column injection), but was nevertheless de-
+tected as a somewhat broadened peak that co-elutes
+with a standard of elema-1,3,11(13)-trien-12-ol (Fig. 3,
+B and C). It seems that on the Carbowax column of
+the radio GC there is only little difference in retention
+time between the elemene and germacrene alcohol.
+Considerable amounts of costol (19) were detected
+when, during the extraction-filtration procedure, alu-
+minum oxide was replaced by silica gel and larger
+Figure 3. Radio-GC analyses of the products formed in incubations of a 20,000g supernatant from chicory roots with [3H]FPP
+in the absence (A) or presence (B) of an NADPH-regenerating system. In the presence of NADPH the produced [3H]germacrene
+A (8; germ A) converted into a more polar product. C shows the response of the flame ionization detector (FID) to a standard
+solution of trans,trans-farnesol (FOL) and (-)-elema-1,3,11(13)-trien-12-ol (14) (EOL), injected under the same GC conditions.
+de Kraker et al.
+1932 Plant Physiol. Vol. 125, 2001
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+amounts of MgSO4 were used (data not shown).
+Costol is the acid-induced cyclization product of
+germacra-1(10),4,11(13)-trien-12-ol, just as costal (20) is
+derived from germacra-1(10),4,11(13)-trien-12-al (10)
+(Bohlman et al., 1983). Its observation confirms the
+conclusion that (1)-germacrene A is enzymatically
+converted into the somewhat unstable germacra-
+1(10),4,11(13)-trien-12-ol. Further oxidation of the ger-
+macrene alcohol was not observed in any of the
+(1)-germacrene A hydroxylase assays.
+Sesquiterpenoid Dehydrogenase Activities
+Incubations of (-)-Elema-1,3,11(13)-trien-12-ol (14) and
+(-)-Elema-1,3,11(13)-trien-12-al (15)
+(-)-Elema-1,3,11(13)-trien-12-ol (14) (100 mm) was
+converted into elema-1,3,11(13)-trien-12-oic acid (16)
+by a 20,000g chicory root supernatant in the presence
+of NADP1 at pH 10 (Fig. 4, B and D). This reaction
+did not take place in the presence of NAD1 or with-
+out cofactor (Fig. 4A). After centrifugation at
+200,000g, dehydrogenase activity was retained in the
+supernatant, showing that it originates from soluble
+enzyme(s). Elema-1,3,11(13)-trien-12-al (15) was only
+detected in minute quantities, which might be ex-
+plained by the chemical reactivity of the isopropenal
+side chain. Elema-1,3,11(13)-trien-12-al added in 10
+mm concentration to a solution of 0.5 mg/mL bovine
+serum albumin (a protein concentration similar to the
+supernatant) or 2 mm dithiothreitol (DTT) was only
+extractable for 20% to 50% in comparison with equal
+amounts of elematrien-12-al that had been added to
+demineralized water. DTT could, however, not be
+omitted from the assay buffer, since no dehydroge-
+nase activity was detected in its absence consistent
+with the literature about dehydrogenases (Kjonaas et
+al., 1985; Ikeda et al., 1991).
+(-)-Elema-1,3,11(13)-trien-12-al (15) (200 mm) was
+oxidized to elema-1,3,11(13)-trien-12-oic acid most
+effectively in the presence of NAD1 (Fig. 4C),
+whereas a smaller aldehyde dehydrogenase activity
+(#15% of maximum activity) was detected in the
+presence of NADP1 or absence of any cofactor.
+Boiled controls showed no conversion at all. Enzyme
+activity without cofactor has also been observed for
+the abietadienal dehydrogenase of grand fir (Funk
+and Croteau, 1994).
+Incubation of [3H]Germacra-1(10),4,11(13)-trien-12-ol (9)
+Incubation of [3H]germacra-1(10),4,11(13)-trien-12-
+ol (9) with the 20,000g supernatant and NADP1
+showed a new broadened peak in the [3H]trace of the
+radio GC, whose front co-elutes with a standard of
+elema-1,3,11(13)-trien-12-oic acid (16) (Fig. 5). During
+GC-MS analysis a small peak was detected with the
+mass spectrum and retention time of elema-
+1,3,11(13)-trien-12-oic acid. This peak should result
+from Cope rearrangement of germacra-1(10),4,11(13)-
+trien-12-oic acid (11) in the GC-MS injection port.
+Formation of the germacrene/elemene aldehyde was
+not detected.
+Characterization of the (1)-Germacrene A Hydroxylase
+Hydroxylation of (1)-germacrene A was optimal at
+a pH of 8.0 with 60% of maximal enzyme activity at
+pH 7.5 and 9.0 (no difference in activity between
+Bis-Tris and Tris). The reaction required NADPH.
+NADH was less effective as a reductant (Table I). The
+combination of both cofactors showed an additive
+Figure 4. Identification by GC-MS of the products formed by a
+20,000g supernatant from chicory roots incubated with (-)-elema-
+1,3,11(13)-trien-12-ol (14) (EOL) in the absence (A) or presence of
+NADP1 (B); or with (-)-elema-1,3,11(13)-trien-12-al (15) (EAL) and
+NAD1 (C). The produced elema-1,3,11(13)-trien-12-oic acid (16)
+(EAc) has the same retention time as the synthesized standard (D).
+Biosynthesis of Germacrene A Carboxylic Acid in Chicory Roots
+Plant Physiol. Vol. 125, 2001 1933
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+effect, which is not uncommon for plant cytochrome
+P450 systems and is believed to result from the par-
+ticipation of NADH:cytochrome b reductase and
+NADPH:cytochrome P450 reductase in electron
+transfer to cytochrome P450 (West, 1980; Funk and
+Croteau, 1994). Flushing the reaction mixture for 1.5
+min with Argon prior to incubation caused a 69%
+decrease of enzyme activity because of O2 depletion.
+An assay buffer without flavins (flavin adenine dinu-
+cleotide [FAD] and flavin mononucleotide [FMN])
+gave 18% loss of hydroxylase activity; however,
+omitting these flavins from the extraction buffer re-
+sulted in a loss of more than 70% in enzyme activity
+(data not shown).
+The results described above and the observation
+that the enzyme activity resided in the 150,000g pellet
+support the involvement of a cytochrome P450 en-
+zyme in the hydroxylation of (1)-germacrene A. This
+was confirmed by the effect of cytochrome P450 in-
+hibitors on (1)-germacrene A hydroxylase activity:
+cytochrome C (100 mm) caused 97% inhibition; mi-
+conazole (100 mm) caused 30% inhibition; aminoben-
+zotriazole (100 mm) 26% inhibition; metyrapone (1
+mm) caused 23% inhibition; and clotrimazole (100
+mm) caused 16% inhibition. Somewhat unexpectedly,
+all of them except cytochrome C could inhibit
+(1)-germacrene A synthase activity as well.
+The strongest proof for the involvement of a cyto-
+chrome P450 enzyme is blue-light reversible inhibi-
+tion of enzyme activity by CO (West, 1980; Mihaliak
+et al., 1993). An atmosphere of 80% CO 1 20% O2
+inhibits (1)-germacrene A hydroxylase by 69% (Ta-
+ble II). The corresponding decrease of the elema-
+1,3,11(13)-trien-12-ol peak was accompanied by an
+increase in the GC-MS peak size of b-elemene, be-
+cause the production of (1)-germacrene A from FPP
+was not affected by CO. The inhibitory effect of CO
+on (1)-germacrene A hydroxylase activity could be
+convincingly reversed by blue light (450 nm).
+Enantioselectivity of the
+(1)-Germacrene A Hydroxylase
+A microsomal preparation from chicory roots was
+able to convert b-elemene (13) into elema-1,3,11(13)-
+trien-12-ol (14). Addition of 100 mm b-elemene to the
+Table I. Requirements for (1)-germacrene A hydroxylase activity
+Additiona
+Percentage Enzyme
+Activityb 6 SD
+None 3 6 0.5
+1 mM NADPH 100 6 9.8
+1 mM NADH 30 6 4.7
+1 mM NADPH 1 1 mM NADH 120 6 11
+1 mM NADPH 2 flavins 82 6 4.8
+1 mM NADPH 1 argon atmosphere 31 6 5.1
+a Flavins were present during incubation, unless otherwise men-
+tioned; NAD(P)H was regenerated during incubation. b 100%
+enzyme activity corresponds to an elematriene-12-ol peak size of
+0.96 3 internal standard (5 nmol cis-neridol in each assay).
+Figure 5. A, Radio-GC analyses of the products formed in an incubation of 20,000g supernatant with NADP1 and a
+pentane-ether extract from the (1)-germacrene A hydroxylase assay of Figure 3B, containing [3H]germacra-1(10),4,11(13)-
+trien-12-ol (9; GOL) and smaller amounts of [3H]germacrene A (8) (germ A) and [3H]farnesol (FOL). A more polar product
+is formed together with a minute amount of [3H]farnesal (FAL). Trace B shows the response of the FID to a standard solution
+of elema-1,3,11(13)-trien-12-oic acid (16) (EAc).
+de Kraker et al.
+1934 Plant Physiol. Vol. 125, 2001
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+(1)-germacrene A hydroxylase assay reduced the
+conversion of [3H]germacrene A into [3H]germa-
+cratrien-12-ol with 37%. This substrate competition
+shows that both hydroxylations are most likely cata-
+lyzed by the same enzyme, so b-elemene can be used
+to investigate the enantioselectivity of the (1)-germa-
+crene A hydroxylase. The amount of (1)-b-elemene
+hydroxylated was only two times less than that
+of (-)-b-elemene (Fig. 6), the structural analog of
+(1)-germacrene A. This indicates a modest enantiose-
+lectivity of the (1)-germacrene A hydroxylase.
+DISCUSSION
+The present results have established the pathway
+for biosynthesis in chicory roots of germacra-
+1(10),4,11(13)-trien-12-oic acid (11), a compound en
+route to the germacrene-derived sesquiterpene lac-
+tones. The reported oxidation of the (1)-germacrene
+A isopropenyl side chain supports the hypothesis
+that formation of the lactone ring precedes any
+cyclization or other oxidation of the germacrene
+framework (Cordell 1976; de Kraker et al., 1998).
+Formation of (1)-costunolide (12) itself has not yet
+been demonstrated, but the results presented are in
+line with the proposed pathway for this germacrano-
+lide, which is structurally most closely related to
+(1)-germacrene A (Geissman, 1973; Herz, 1977; Fi-
+scher et al., 1979; Seaman, 1982; Song et al., 1995).
+The biosynthesis of germacrene-derived sesquit-
+erpene lactones (Fig. 7) starts with the cyclization of
+FPP into (1)-germacrene A (8) by a sesquiterpene
+cyclase (reaction I; de Kraker et al., 1998). In the next
+step (reaction II), the isopropenyl side chain of this
+(1)-germacrene A (8) is subjected to a hydroxy-
+lation reaction, resulting in the formation of
+germacra-1(10),4,11(13)-trien-12-ol (9). This sesquit-
+erpene alcohol is visible as its Cope-rearrangement
+product (-)-elema-1,3,11(13)-trien-12-ol (14) in GC-MS
+measurements at high injection port temperatures,
+and it is detected as costol (19) when extracted under
+acidic conditions. The involvement of a cytochrome
+P450 enzyme in this membrane-bound hydroxylation
+reaction is clearly demonstrated by its NADPH and O2
+dependence, by the blue-light reversible inhibition by
+CO, and by the inhibitory effect of various established
+cytochrome P450 inhibitors (West, 1980; Mihaliak et
+al., 1993).
+The conversion of germacra-1(10),4,11(13)-trien-
+12-ol (9) into germacra-1(10),4,11(13)-trien-12-oic
+acid (11) (Fig. 7; reaction III) is catalyzed by water-
+soluble pyridine nucleotide dependent dehydroge-
+nase(s). This enzyme activity oxidizes germacrene
+Figure 6. Determination of the stereochemical preference of the
+(1)-germacrene A hydroxylase using GC-MS equipped with an en-
+antioselective column in selected ion monitoring-mode (m/z 119,
+121, 145, 147, and 189). A, Incubation of (6)-b-elemene in the
+absence of NADPH (blank). B, Incubation of (6)-b-elemene in the
+presence of NADPH, resulting in a mixture of elema-1,3,11(13)-
+trien-12-ol (14) enantiomers (EOL). C, Incubation of (-)-b-elemene
+giving (-)-elema-1,3,11(13)-trien-12-ol. D, Standard of (-)-elema-
+1,3,11(13)-trien-12-ol (EOL).
+Table II. Carbon monoxide inhibition and blue-light reversal of
+(1)-germacrene A hydroxylase activity
+Assay Conditionsa
+Percentage Enzyme
+Activityb 6 SD
+Air (’ 80% N2 1 20% O2)
+Dark 100 6 2.9
+450 nm light 92 6 6.7
+80% CO 1 20% O2
+Dark 31 6 1.5
+450 nm light 50 6 6.7
+a 1 mM NADPH-regenerating system was present in all incuba-
+tions, but no flavins were added. b 100% enzyme activity cor-
+responds to an elematriene-12-ol peak size of 1.03 3 internal stan-
+dard (5 nmol cis-neridol in each assay).
+Biosynthesis of Germacrene A Carboxylic Acid in Chicory Roots
+Plant Physiol. Vol. 125, 2001 1935
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+alcohol (9) as well as (-)-elema-1,3,11(13)-trien-12-ol
+(14) to their corresponding acids (11 and 16) solely in
+the presence of NADP1. Because two hydrides have
+to be abstracted to obtain the acid, we assume that
+the stoichiometry is two NADP1 molecules for each
+molecule of germacrene/elemene acid formed. Since
+we worked with a root crude extract it is uncertain
+whether formation of germacra-1(10),4,11(13)-trien-
+12-oic acid (11) from the germacrene alcohol is cata-
+lyzed by one or more dehydrogenase(s), and whether
+oxidation occurs via germacra-1(10),4,11(13)-trien-
+12-al (10) or within one enzymatic step. The aldehyde
+was not detected in incubations with the germacrene
+alcohol and only in trace amounts in incubations
+with the elemene alcohol. A study of the oxidation of
+perilla alcohol to perillic acid by bacterial extracts
+(Dhavalikar et al., 1966) could not demonstrate the
+presence of the expected aldehyde intermediate ei-
+ther. Isopropenal side chains are sensitive toward
+nucleophilic attack, and both proteins and DTT were
+demonstrated to “bind” elema-1,3,11(13)-trien-12-al
+(15). It could be a reason why these aldehydes are not
+or hardly detectable in enzyme assays. Despite all of
+that, enzymatic oxidation of elema-1,3,11(13)-trien-
+12-al (15) to the elemene acid (16) could be estab-
+lished with the chicory root supernatant, but strik-
+ingly, NAD1 was preferred over NADP1 and some
+conversion occurred also in the absence of any
+cofactor.
+Neither germacra-1(10),4,11(13)-trien-12-oic acid
+(11) nor elema-1,3,11(13)-trien-12-oic acid (16) has
+ever been isolated from a natural source (Bucking-
+ham, 1999), but we managed to detect a small
+amount of elema-1,3,11(13)-trien-12-oic acid in costus
+resinoid with the help of the chemically produced
+standard (J.-W. de Kraker, unpublished data). In gen-
+eral, cyclic mono- and sesquiterpenoid acids are
+rather uncommon in plants (Bauer et al., 1990) and
+little is known about their biosynthesis.
+The established pathway for germacrene A carbox-
+ylic acid resembles the biodegradation of limonene
+via perillic acid in bacteria (Dhavalikar et al., 1966)
+and the biosynthesis of monoterpenoid aldehydes/
+ketones in plants (e.g. McConkey et al., 2000), but
+with regard to the dehydrogenases it differs from the
+diterpenoid pathways of kaurenoic and abietic acid
+(Funk and Croteau, 1994). We assume that in the
+biosynthesis of the sesquiterpene endoperoxide arte-
+misinin by Artemisia annua oxidation of the isoprope-
+nyl side chain of amorphadiene is catalyzed in the
+same way as the oxidation of (1)-germacrene A to
+germacrene acid (Bouwmeester et al., 1999).
+Cytochrome P450 enzymes involved in plant
+terpenoid secondary metabolism are known to be
+rather substrate specific (West, 1980; Mihaliak et al.,
+1993). Nevertheless, b-elemene (13) is hydroxylated
+by the (1)-germacrene A hydroxylase of chicory
+and competitively inhibits the hydroxylation of
+(1)-germacrene A, probably because of the strong
+similarity in three-dimensional structure between
+(1)-germacrene A and b-elemene (Fig. 8). b-Elemene
+contains two isopropenyl side chains, but its hy-
+droxylation is regioselective and only elema-
+1,3,11(13)-trien-12-ol (14) is formed. When the C13-
+containing isopropenyl tails of the b-elemene
+Figure 7. Proposed biosynthetical route for the germacrene-derived
+sesquiterpene lactones present in chicory. I, Cyclization of FPP to
+(1)-germacrene A (8) by a sesquiterpene synthase. II, Hydroxylation
+of the isopropenyl side chain by (1)-germacrene A hydroxylase, a
+cytochrome P450 enzyme. III, Oxidation of germacratrien-12-ol (9)
+to germacratrien-12-oic acid (11) by NADP1-dependent dehydroge-
+nase(s) via the intermediate germacratrien-12-al (10). IV, The not-
+yet-demonstrated hydroxylation at the C6-position of germacratrien-
+12-oic acid and subsequent lactonization to (1)-costunolide (12). V,
+The postulated formation of guaiane, eudesmane, and germacrane
+lactones.
+Figure 8. Three-dimensional structures of (1)-germacrene A, (-)-b-
+elemene, and (1)-b-elemene demonstrating the resemblance of these
+compounds at the site of hydroxylation (C13-position).
+de Kraker et al.
+1936 Plant Physiol. Vol. 125, 2001
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+enantiomers are depicted in the same way (Fig. 8),
+there are no evident differences at the side of
+hydroxylation and the enzyme only shows a modest
+degree of enantioselectivity toward these enanti-
+omers. A similar degree of enantioselectivity is
+also observed for the hydroxylation of limonene in
+peppermint (C3), spearmint (C6), and perilla (C7;
+Karp et al., 1990), though the limonene C6-
+hydroxylase in caraway has a 10-fold preference for
+the (1)-enantiomer (Bouwmeester et al., 1998). The
+modest enantioselectivity of the (1)-germacrene A
+hydroxylase has no influence on the stereochemistry
+of the sesquiterpene lactones present in chicory, as in
+vivo only (1)-germacrene A is offered to the enzyme
+(de Kraker et al., 1998).
+In general, all guaianolides, eudesmanolides,
+and germacranolides are thought to origin from
+(1)-costunolide (12) (Fischer, 1990; Fig. 7; reaction V)
+and the same holds true for the bitter sesquiterpene
+lactones of chicory. Formation of (1)-costunolide
+from germacrene acid (11) involves a C6-hydroxy-
+lation, after which formation of the lactone ring can be
+completed (reaction IV). This probably cytochrome
+P450 catalyzed step is currently under investigation.
+MATERIALS AND METHODS
+Materials
+Fresh roots of cultivated chicory (Cichorium intybus L.
+cv Focus) harvested during late summer were obtained
+from a grower in Veenendaal, The Netherlands. The chic-
+ory roots were cut into small pieces, frozen in liquid nitro-
+gen, and were stored at 280°C. An FPP solution was
+obtained from Sigma (Zwijndrecht, The Netherlands) and
+was concentrated to 10 mm (de Kraker et al., 1998);
+[1-3H]FPP (16.0 Ci mmol21, 200 mCi mL21) was obtained
+from Amersham (Buckinghamshire, UK). trans,trans-
+Farnesol, cis-nerolidol, and trans-caryophyllene were pur-
+chased from Fluka (Buchs, Switzerland). (6)-b-Elemene
+and (-)-b-elemene (13) were a gift from Prof. Dr. W.A.
+Ko¨nig (Hamburg University, Germany). (-)-Elema-
+1,3,11(13)-trien-12-ol (14) was a gift from Dr. B. Maurer
+(Firmenich SA, Geneva). Spectra and retention times of
+costol (19) were recorded from costus root oil (Pierre Chau-
+vet SA, Seillans, France; Maurer and Grieder, 1977). Ether
+(diethyl ether) and pentane were redistilled before use.
+Preparation of Elema-1,3,11(13)-trien-12-oic Acid (16)
+(-)-Elema-1,3,11(13)-trien-12-al (15) necessary for the
+synthesis of elema-1,3,11(13)-trien-12-oic acid was isolated
+from 5 g of costus root oil that had been stirred twice for 6 h
+with 10 g of MnO2 (Merck, Darmstadt, Germany) in 100 mL
+of pentane. The aldehydes and ketones were extracted
+from the oil with 3 g of Girard P and were separated by
+column chromatography as described by Maurer and
+Grieder (1977). It yielded 13 mg of (-)-elema-1,3,11(13)-
+trien-12-al (15), 15 mg of b-costal (20), 22 mg of a a/g-costal
+mixture (20), and smaller amounts of trans-bergamota-2,12-
+dienal and ionone. To obtain elema-1,3,11(13)-trien-12-oic
+acid (16), 2 mg of the corresponding aldehyde was dis-
+solved in 1.2 mL of tert-butyl alcohol and 0.3 mL of
+2-methyl-2-butene to which 0.5 mL of a solution of sodium
+dihydrogen phosphate and sodium chlorite (0.1 g mL21
+each) was carefully added (Balkrishna et al., 1981). The
+mixture was vigorously shaken overnight at room temper-
+ature. Volatile components were afterward removed under
+vacuum and the residue was dissolved in 1.5 mL of demin-
+eralized water and 20 mL of 2-methyl-2-butene. On ice, the
+aqueous layer was acidified with 20 mL of 5 m HCl to pH
+3 and was quickly extracted with four portions of 1.5 mL of
+ether. The combined ether layers were washed with 1 mL
+of cold demineralized water and were dried with MgSO4.
+After removal of ether, elema-1,3,11(13)-trien-12-oic acid
+(16) was obtained as a white powder (1.5 mg). 1H-Nuclear
+magnetic resonance (NMR; 400 MHz, CDCl3): d 1.04 (s, 3H,
+Me14); d 1.2 to 1.7 (m, 6H); d 1.74 (br s, 3H, Me15); d 2.11 (dd,
+1H, H5, J5, 6 5 3.4 Hz, J5, 69 5 13 Hz); d 2.54 (dddd, 1H, H7,
+J6, 7 5 J7, 8 5 3 Hz, J69, 7 5 J7, 89 5 12 Hz); d 4.60 (br s, 1H, H3);
+d 4.80 (m, 1H, H3’); d 4.92 (dd, 1H, H2, J1, 2 5 10 Hz, J2, 29 5
+1.4 Hz); d 4.96 (dd, 1H, H29, J1, 29 5 18 Hz, J2, 29 5 1.4 Hz); d
+5.71 (s, 1H, H13); d 5.85 (dd, H1, J1, 2 5 10 Hz, J1, 29 5 18 Hz);
+d 6.33 (s, 1H, H139).
+13C-NMR (400 MHz, DEPT, CDCl3) d
+17.0 (q), d 25.3 (q), d 27.6 (t), d 30.1 (s), d 33.7 (t), d 39.8 (d),
+d 40.1 (t), d 52.9 (d), d 110.5 (t), d 112.7 (t), d 125.2 (t), d 145.0
+(s), d 147.8 (s), d 150.4 (d), d 171.5 (s). EIMS (70 eV) m/z: 234
+[M]1 (1), 219 (11), 201 (5), 189 (18), 81 (100), 205 (4), 193 (7),
+177 (20), 173 (13), 147 (18), 133 (22), 121 (31), 119 (29), 117
+(15), 107 (38), 105 (47), 93 (48), 91 (76), 79 (84), 77 (58), 68
+(59), 67 (94), 65 (35), 55 (45), 53 (83), 41 (97), 39 (67).
+Enzyme Isolation and Assay for (1)-Germacrene A
+Hydroxylase Activity
+We prepared a cell-free extract of chicory roots that
+contained the sesquiterpene synthase (germacrene A syn-
+thase) and the microsomal-bound cytochrome P450 en-
+zymes (e.g. sesquiterpene hydroxylases), similar to the ap-
+proach of Threlfall and Whitehead (1988) that had
+demonstrated hydroxylation of 5-epi-aristolochene in to-
+bacco (Whitehead et al., 1989). Twenty-five grams of frozen
+root material was homogenized in a Sorvall Omni-mixer
+(Newtown, CT) with 2.5 g of insoluble polyvinylpolypyr-
+rolidone and 40 mL of buffer containing 50 mm Tris (pH
+7.5), 50 mm sodium meta-bisulfite, 50 mm ascorbic acid, 10
+mm MgCl2, 5 mm DTT, 2.5 mm EDTA (disodium), 5 mm
+FAD, 5 mm FMN, and 20% (v/v) glycerol (buffer A). The
+slurry was filtered through pre-moistened cheesecloth with
+an additional 10 mL of buffer and was centrifuged for 20
+min at 20,000g at 4°C. The supernatant was filtered through
+rough glass wool and was desalted with an Econo-Pac
+10Dg column (Bio-Rad, Hercules, CA) to buffer B. This
+buffer contained 25 mm Tris (pH 7.5), 10 mm MgCl2, 2 mm
+DTT, 1 mm ascorbic acid, 5 mm FAD, 5 mm FMN, 10% (v/v)
+glycerol, and 6 mm sodium orthovanadate to suppress
+phosphohydrolase activity (Croteau and Karp, 1979). A
+1-mL aliquot of the desalted supernatant was incubated
+with 20 mm [3H]FPP (50 Ci mol21) for 1 h at 30°C in the
+Biosynthesis of Germacrene A Carboxylic Acid in Chicory Roots
+Plant Physiol. Vol. 125, 2001 1937
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+absence or presence of an NADPH-regenerating system.
+The NADPH-regenerating system consisted of 1 mm
+NADPH, 5 mm Glc-6-P, and 1.2 IU Glc-6-P dehydrogenase
+(all from Sigma).
+After incubation the assay was extracted twice with 1
+mL of 20% (v/v) ether in pentane and the organic phase
+was filtered through a glasswool-plugged (dimethyl
+chlorosilane-treated glasswool; Chrompack, Bergen op
+Zoom, The Netherlands) Pasteur pipette that contained
+0.90 g of aluminum oxide (grade III) and a little anhy-
+drous MgSO4. The column was washed with 1.5 mL of
+ether and the extract was carefully concentrated to ap-
+proximately 50 mL under a stream of nitrogen. Samples of
+1 mL were analyzed by radio GC and GC-MS. Radio-GC
+analyses was achieved by cold on column injection ac-
+cording to Bouwmeester et al. (1999), using a final oven
+temperature of 240°C. Signals of the FID and radioactivity
+detector were synchronized with [3H]farnesol (a gift of dr.
+E. Wallaart, University of Groningen). GC-MS analysis
+was essentially carried out as before (de Kraker et al.,
+1998) at an injection port temperature of 250°C and an
+oven programmed for 4 min at 55°C followed by a ramp
+of 5°C to 280°C.
+Assay for Sesquiterpenoid Dehydrogenase Activities
+The involvement of dehydrogenases in the oxidation of
+germacra-1(10),4,11(13)-trien-12-ol (9) was initially investi-
+gated with (-)-elema-1,3,11(13)-trien-12-ol (14). A 20,000g
+supernatant was prepared as described above, but MgCl2,
+EDTA, and flavins were omitted from buffer A. The super-
+natant was desalted to buffer C containing 25 mm Gly (pH
+10.0), 10% (v/v) glycerol and 2 mm DTT (Bouwmeester et
+al., 1998). Aliquots of 1 mL were incubated at 30°C with 100
+mm of substrate and 1 mm NAD1, 1 mm NADP1, or no
+cofactor. Boiled controls were included. After 90 min, 20
+mm cis-nerolidol was added as internal standard and each
+incubation was acidified with 20 mL of 5 m HCl. The
+incubation mixture was extracted three times with 1 mL of
+ether and the combined ether layers were filtered through
+a Pasteur pipette that contained 0.45 g of silica and a little
+anhydrous MgSO4. The pipette was rinsed with 1 mL of
+ether and the extract was concentrated to approximately
+150 mL and analyzed by GC-MS. Experiments were re-
+peated with 200 mm of (-)-elema-1,3,11(13)-trien-12-al (15).
+[3H]Germacra-1(10),4,11(13)-trien-12-ol (9) was pro-
+duced in (1)-germacrene A hydroxylase assays that con-
+sisted of 1.5 mL of supernatant and 50 mm [3H]FPP (40 Ci
+mol21). The pentane-ether extracts of two of such assays
+were combined, concentrated to approximately 10 mL, and
+added to one dehydrogenase assay. After incubation, the
+reaction mixture was carefully acidified with 0.5 m HCl to
+pH 3 and extracted with ether. The extract was concen-
+trated to approximately 50 mL and was analyzed by radio
+GC and GC-MS.
+Characterization of the (1)-Germacrene A Hydroxylase
+(1)-Germacrene A (8) necessary for characterization of
+the (1)-germacrene A hydroxylase was produced in
+1.5-mL enzyme assays consisting of 150,000g supernatant,
+50 mm FPP (de Kraker et al., 1998), and an additional 6 mm
+sodium orthovanadate. The pentane-ether extracts of sev-
+eral of these incubations were combined and the volume
+was carefully reduced under a flow of nitrogen. The con-
+centration of (1)-germacrene A was estimated by compar-
+ison with a 10 mm trans-caryophyllene solution using
+GC-MS; in general, one incubation of 50 mm FPP with
+150,000g supernatant would give sufficient substrate for
+one hydroxylase experiment (approximately 10 mm germa-
+crene A).
+The optimum pH of the (1)-germacrene A hydroxylase
+was determined by desalting the 20,000g supernatant to
+buffer B without MgCl2, in which 25 mm Tris was replaced
+by 50 mm Bis-Tris of pH 6.5 to 9.0 in 0.5-unit increments.
+After 30 min of incubation 5 mm of cis-nerolidol was added
+as internal standard and the incubation mixtures were
+extracted and analyzed by GC-MS. Areas of the product
+peak were compared with those of cis-nerolidol.
+Inhibition of the (1)-germacrene A hydroxylase by es-
+tablished cytochrome P450 inhibitors was demonstrated
+with microsomal pellets. They were prepared by centrifu-
+gation of 8 mL of 20,000g supernatant (without MgCl2) at
+150,000g and stored at 280°C under argon. Before use the
+pellets were resuspended in 2 mL of buffer B without
+MgCl2, combined, and divided into 1-mL aliquots. Inhibi-
+tors were dissolved in ethanol: clotrimazole (10 mm), mi-
+conazole (10 mm), aminobenzotriazole (10 mm), and me-
+tyrapone (100 mm); cytochrome C (10 mm) was dissolved in
+buffer. Ten microliters of one of these solutions was added
+to 1 mL of enzyme preparation 15 min prior to the addition
+of (1)-germacrene A and NADPH-regenerating system,
+after which the incubations were continued for 1 h. Inhib-
+itory effects were expressed relative to a control for the
+solvent, and each inhibitor was tested in duplicate.
+For demonstration of blue-light reversible CO inhibi-
+tion of (1)-germacrene A hydroxylase activity, a mixture
+of 80% CO and 20% O2 was prepared from pure CO and
+O2. In 4.5-mL septum-capped vials, 50 mm FPP and an
+NADPH-regenerating system were added to 1 mL of
+20,000g supernatant that had been desalted to buffer B
+devoid of flavins. Reaction mixtures were slowly bubbled
+with 50 mL of the gas mixture via a needle inserted
+through the (vented) septum. CO-treated vials and non-
+CO-treated control vials were incubated on a rotary
+shaker in a climate chamber at 30°C in blue light or
+protected from the light by aluminum foil. Blue light was
+obtained by passing a beam of a 100 W H44GS-100 mer-
+cury lamp (Sylvania, Winchester, KY; ballast no. 1A024,
+Grainger, Morton Grove, IL) through a thin-layer chroma-
+tography chamber (width of 7 cm) filled with a 10% (w/v)
+CuSO4 solution (Karp et al., 1987). After 1 h of incubation,
+5 mm cis-nerolidol was added as internal standard and the
+assays were extracted and analyzed by GC-MS. Each
+treatment was done in triplicate. In similar experiments
+the effects of an Argon atmosphere, NADH, and the ab-
+sence of flavins were tested on (1)-germacrene A hydrox-
+ylase activity.
+de Kraker et al.
+1938 Plant Physiol. Vol. 125, 2001
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+Enantioselectivity of the
+(1)-Germacrene A Hydroxylase
+The enantioselectivity of the (1)-germacrene A hydrox-
+ylase was investigated with (-)-b-elemene (13) and (6)-b-
+elemene, as we had no source of (-)-germacrene A at our
+disposal. Aliquots of 1 mL of resuspended microsomal
+pellet were incubated with 20 mm b-elemene in the pres-
+ence or absence of an NADPH-regenerating system. Ex-
+tracts of the enzyme assay were analyzed on an enantiose-
+lective column (de Kraker et al., 1998) programmed at
+45°for 4 min, a ramp of 2°C min21 to 170°C, and a final time
+of 10 min; spectra were recorded in Scan mode and Se-
+lected Ion Monitoring Mode (m/z 119, 121, 145, 147, and
+189). In a separate experiment, 100 mm of (-)-b-elemene was
+added to the standard germacrene A hydroxylase assay to
+demonstrate whether it competed as a substrate with
+[3H]germacrene A. Production of [3H]germacratrien-12-ol
+was measured by radio CG and compared with that of
+incubations where only 10 mL of ethanol (the solvent of
+b-elemene) had been added.
+ACKNOWLEDGMENTS
+The authors are most grateful to Dr. B. Maurer (Fir-
+menich SA, Switzerland) for the gift of (-)-elema-1,3,11(13)-
+trien-12-ol, and to Prof. W.A. Ko¨nig (Hamburg University,
+Germany) for the gift of the b-elemene enantiomers. We
+would also like to thank J. de Mik for the gift of the chicory
+roots, Dr. M.A. Posthumus for GC-MS analyses of the
+costus root oil, A. van Veldhuizen for collecting NMR data,
+W.P.A. Boschman for fixing the HGL-file converter, and
+F.W.A. Verstappen, Dr. L.H. Stevens, and Dr. C.O. Schmidt
+for their useful suggestions.
+Received September 22, 2000; returned for revision Novem-
+ber 6, 2000; accepted December 18, 2000.
+LITERATURE CITED
+Balkrishna BL, Childers WE, Pinnick JR, Pinnick HW
+(1981) Oxidation of a, b-unsaturated aldehydes. Tetrahe-
+dron 37: 2091–2096
+Barton DHR, Moss GP, Whittle JA (1968) Investigations
+on the biosynthesis of steroids and terpenoids part I: a
+preliminary study of the biosynthesis of santonin.
+J Chem Soc (C) XX: 1813–1818
+Bauer K, Garbe D, Surburg H (1990) Common Fragrance
+and Flavor Materials: Preparation, Properties and Uses,
+Ed 2. VCH Verlagsgesellschaft, Weinheim, Germany
+Bawdekar AS, Kelkar GR (1965) Terpenoids: LXVIII.
+Structure and absolute configuration of costic acid: a new
+sesquiterpene acid from costus root oil. Tetrahedron 21:
+1521–1528
+Bawdekar AS, Kelkar GR, Bhattacharyya SC (1967) Ter-
+penoids: CIV. Costol fraction of costus root oil. Tetrahe-
+dron 23: 1993–1996
+Bohlman F, Ates N, Jakupovic J (1983) Hirsutinolides from
+South African Vernonia species. Phytochemistry 22:
+1159–1162
+Bouwmeester HJ, Gershenzon J, Konings MCJM, Croteau
+R (1998) Biosynthesis of the monoterpene limonene and
+carvone in the fruit of caraway: I. Demonstration of
+enzyme activities and their changes with development.
+Plant Physiol 117: 901–912
+Bouwmeester HJ, Wallaart TE, Janssen MHA, van Loo B,
+Jansen BJM, Posthumus MA, Schmidt CO, de Kraker
+J-W, Ko¨nig WA, Franssen MCR (1999) Amorpha-4,11-
+diene synthase catalyzes the first probable step in arte-
+misinin biosynthesis. Phytochemistry 52: 843–854
+Buckingham J (1999) Dictionary of Natural Products on
+CD-ROM, version 8.1. Chapman & Hall, London
+Cordell GA (1976) Biosynthesis of sesquiterpenes. Chem
+Rev 76: 425–460
+Croteau R, Karp F (1979) Biosynthesis of monoterpenes:
+hydrolysis of bornyl pyrophosphate, an essential step in
+camphor biosynthesis, and hydrolysis of geranyl pyro-
+phosphate, the acyclic precursor of camphor by enzymes
+from sage (Salvia officinalis). Arch Biochem Biophys 198:
+523–532
+de Kraker J-W, Franssen MCR, de Groot A, Ko¨nig WA,
+Bouwmeester HJ (1998) (1)-Germacrene A biosynthesis:
+the committed step in the biosynthesis of sesquiterpene
+lactones in chicory. Plant Physiol 117: 1381–1392
+Dhavalikar RS, Rangachari PN, Bhattacharyya PK (1966)
+Microbiological transformations of terpenes: Part IX.
+Pathways of degradation of limonene in a soil pseudo-
+monad. Indian J Biochem 3: 158–164
+Fischer NH (1990) Sesquiterpene lactones: biogenesis and
+biomimetic transformations. In G Towers, H Towers,
+eds, Biochemistry of the Mevalonic Acid Pathway to
+Terpenoids. Plenum Press, New York, pp 161–201
+Fischer NH, Olivier EJ, Fischer HD (1979) The biogenesis
+and chemistry of sesquiterpene lactones. In W Herz,
+H Grisebach, GW Kirby, eds, Progress in the Chemistry
+of Organic Natural Products, Vol 38. Springer-Verlag,
+New York
+Funk C, Croteau R (1994) Diterpenoid resin acid biosyn-
+thesis in conifers: characterization of two cytochrome
+P450-dependent monooxygenases and an aldehyde de-
+hydrogenase involved in abietic acid biosynthesis. Arch
+Biochem Biophys 308: 258–266
+Geissman TA (1973) The biogenesis of sesquiterpene lac-
+tones of the compositae. In VC Runeckles, TJ Marby, eds,
+Recent Advances in Phytochemistry, Vol 6. Academic
+Press, New York, pp 65–95
+Herz W (1977) Sesquiterpene lactones in the compositae. In
+VH Heywood, JB Harborne, BL Turner, eds, The Biology
+and Chemistry of the Compositae. Academic Press, Lon-
+don, pp 337–357
+Ikeda H, Esaki N, Nakai S, Hashimoto K, Uesato S, Soda
+K, Fujita T (1991) Acyclic monoterpene primary alcohol:
+NADP1 oxidoreductase of Rauwolfia serpentina cells: the
+key enzyme in biosynthesis of monoterpene alcohols.
+J Biochem 109: 341–347
+Karp F, Harris JL, Croteau R (1987) Metabolism of mono-
+terpenes: demonstration of the hydroxylation of (1)-
+sabinene to (1)-cis-sabinol by an enzyme preparation
+from sage (Salvia officinalis) leaves. Arch Biochem Bio-
+phys 256: 179–193
+Biosynthesis of Germacrene A Carboxylic Acid in Chicory Roots
+Plant Physiol. Vol. 125, 2001 1939
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.
+Karp F, Mihaliak CA, Harris JL, Croteau R (1990) Mono-
+terpene biosynthesis: specificity of the hydroxylations of
+(-)-limonene by enzyme preparations from peppermint
+(Mentha piperita), spearmint (Mentha spicata) and perilla
+(Perilla frutescens) leaves. Arch Biochem Biophys 276:
+219–226
+Kjonaas RB, Venkatachalam KV, Croteau R (1985) Metab-
+olism of monoterpenes: oxidation of isopiperitenol to
+isopiperitenone and subsequent isomerization to piperi-
+tenone by soluble enzyme preparations from peppermint
+(Mentha piperita) leaves. Arch Biochem Biophys 238:
+49–60
+Maurer B, Grieder A (1977) Sesquiterpenoids from costus
+root oil (Saussurea lappa Clarke). Helv Chim Acta 60:
+2177–2190
+McConkey ME, Gershenzon J, Croteau RB (2000) Devel-
+opmental regulation of monoterpene biosynthesis in the
+glandular trichomes of peppermint. Plant Physiol 122:
+215–223
+Mihaliak CA, Karp F, Croteau (1993) Cytochrome P-450
+terpene hydroxylases In PJ Lea, ed, Methods in Plant
+Biochemistry: Enzymes of Secondary Metabolism, Vol 9.
+Academic Press, London, pp 261–279
+Paul A, Bawdekar AS, Joshi RS, Somesekar Roa A, Kelkar
+GR, Bhattacharyya SC (1960) Terpenoids XX: examina-
+tion of costus root oil. Perfume Essential Oil Rec 15:
+115–120
+Picman AK (1986) Review article number 7: biological
+activities of sesquiterpene lactones. Biochem Syst Ecol
+14: 255–281
+Price KR, DuPont MS, Shepherd R, Chan HW-S, Fenwick
+GR (1990) Relationship between the chemical and sen-
+sory properties of exotic salad crops: colored lettuce
+(Lactuca sativa) and chicory (Cichorium intybus). J Sci Food
+Agric 53: 185–192
+Pyrek JST (1985) Sesquiterpene lactones of Cichorium inty-
+bus and Leontodon autumnalis. Phytochemistry 24:
+186–188
+Reichardt PB, Anderson BJ, Clausen TP, Hoskins LC
+(1988) Thermal instability of germacrone: implications
+for gas chromatographic analysis of thermally unstable
+analytes. Can J Chem 67: 1174–1177
+Seaman FC (1982) Sesquiterpene lactones as taxonomic
+characters in the Asteraceae. Bot Rev 48: 124–145
+Seto M, Miyase T, Umehara K, Ueno A, Hirano Y, Otani
+N (1988) Sesquiterpene lactones from Cichorium endivia L.
+and C. intybus L. and cytotoxic activity. Chem Pharm
+Bull 36: 2423–2429
+Somasekar Roa A, Kelkar GR, Bhattacharyya SC (1960)
+Terpenoids: XXI. The structure of costunolide, a new
+sesquiterpene lactone from costus root oil. Tetrahedron
+9: 275–283
+Song Q, Gomez-Barrios ML, Hopper EL, Hjortso MA,
+Fischer NH (1995) Biosynthetic studies of lactucin deriv-
+atives in hairy root cultures of Lactuca floridana. Phyto-
+chemistry 40: 1659–1665
+Stahl E (1984) Das a¨therische O¨l aus Thymus praecox spp.
+articus isla¨ndischer Herkunft. Planta Med 50: 157–160
+Takasugi M, Okinaka S, Katsui N, Masamune T, Shirata
+A, Ohuchi M (1985) Isolation and structure of lettucinin
+A, a novel guaianolide phytoalexin from Lactuca sativa
+var. capitata (Compositae). J Chem Soc Chem Commun
+621–622
+Takeda K (1974) Stereospecific cope rearrangement of the
+germacrene-type sesquiterpenes. Tetrahedron 30:
+1525–1534
+Teisseire PJ (1994) Chemistry of Fragrant Substances. VCH
+Publishers, New York, pp 193–289
+Threlfall DR, Whitehead IM (1988) Coordinated inhibi-
+tion of squalene synthetase and induction of enzymes of
+sesquiterpenoid phytoalexin biosynthesis in cultures of
+Nicotiana tabacum. Phytochemistry 27: 2567–2580
+van Beek TA, Maas P, King BM, Leclercq E, Voragen AGJ,
+de Groot Ae (1990) Bitter sesquiterpene lactones from
+chicory roots. J Agric Food Chem 38: 1035–1038
+Vogel G, Hartmann HD, Krahnsto¨ver K (1990) Handbuch
+des speziellen Gemu¨sebaues. Ulmer, Stuttgart, Germany,
+pp 84–144
+Weeda EJ, Westra R, Westra CH, Westra C (1991) Neder-
+landse oecologische flora: wilde planten en hun relaties
+4. IVN, Amsterdam, pp 152–154
+West CA (1980) Hydroxylases, monooxygenases, and cy-
+tochrome P-450. In DD Davis, ed, The Biochemistry of
+Plants, Vol 2. Academic Press, London, pp 317–342
+Whitehead IM, Threlfall DR, Ewing DF (1989) 5-Epi-
+aristolochene is a common precursor of the sesquiterpe-
+noid phytoalexins capsidiol and debneyol. Phytochemis-
+try 28: 775–779
+de Kraker et al.
+1940 Plant Physiol. Vol. 125, 2001
+ www.plantphysiol.orgon January 19, 2020 - Published by Downloaded from 
+Copyright © 2001 American Society of Plant Biologists. All rights reserved.

@@ -1,0 +1,500 @@
+Sh
+or
+t 
+R
+ep
+or
+t
+J. Braz. Chem. Soc., Vol. 21, No. 9, 1760-1765, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: joao.lago@unifesp.br
+Chemical Composition and Anti-Inflammatory Evaluation of Essential  
+Oils from Leaves and Stem Barks from Drimys brasiliensis Miers (Winteraceae)
+João Henrique G. Lago,*,a Larissa A. C. Carvalho,b Flávia S. da Silva,b Daniela de O. Toyama,c 
+Oriana A. Fáveroc and Paulete Romoffb
+aDepartamento de Ciências Exatas e da Terra, Universidade Federal de São Paulo, 09972-270 Diadema-SP, Brazil
+bCentro de Ciências e Humanidades and cCentro de Ciências Biológicas e da Saúde, 
+Universidade Presbiteriana Mackenzie, 01302-907 São Paulo-SP, Brazil
+Os óleos essenciais das folhas e das cascas do tronco de Drimys brasiliensis Miers 
+(Winteraceae) foram obtidos individualmente por hidrodestilação e suas composições químicas 
+foram determinadas através de análise por CG/DIC e CG/EM. Os principais constituintes 
+identificados foram monoterpenos (folhas 4,31% e cascas do tronco 90,02%) e sesquiterpenos 
+(folhas 52,31% e cascas do tronco 6,35%). Adicionalmente, o sesquiterpeno poligodial foi isolado 
+do extrato em hexano das cascas do tronco de D. brasiliensis após fracionamento cromatográfico 
+e caracterizado por métodos espectroscópicos. Visando a avaliação do potencial anti-inflamatório, 
+os óleos essenciais brutos e o sesquiterpeno poligodial foram submetidos à bioensaios para 
+avaliação da toxicidade aguda destes compostos bem como das atividades anti-inflamatória e 
+antinociceptiva induzidas por carragenina e formalina em ratos. Nossos resultados mostraram que 
+o óleo essencial bruto obtido das cascas do tronco reduziu significativamente o edema induzido 
+por carragenina. O efeito anti-inflamatório induzido pelo óleo das cascas do tronco (a 200 mg kg-1) 
+foi similar ao observado para indometacina (a 10 mg kg-1) e superior ao poligodial (a 200 mg kg-1) 
+em 30 e em 60 min após administração. A resposta inflamatória induzida pela formalina foi 
+efetiva para o óleo das cascas do tronco (62,5%) em comparação ao poligodial (50,0%).
+The essential oils from leaves and stem barks from Drimys brasiliensis Miers (Winteraceae) 
+were individually obtained by hydrodistillation and their compounds characterized by use of  
+GC/FID and GC/MS. The main identified derivatives were monoterpenes (leaves 4.31% and 
+stem barks 90.02%) and sesquiterpenes (leaves 52.31% and stem barks 6.35%). Additionally, 
+the sesquiterpene polygodial was isolated from hexane extract from stem barks of D. brasiliensis 
+after chromatographic steps and characterized by spectroscopic means, mainly NMR. Aiming 
+the evaluation of anti-inflammatory potential, the crude essential oils and the sesquiterpene 
+polygodial were subjected to bioassays to evaluate the acute toxicity of these compounds as well 
+as the anti-inflammatory and antinociceptive activities induced by carrageenan and formalin in 
+mices. Ours results showed that essential oil obtained from the stem barks significantly reduced 
+the oedema induced by carrageenan. The anti-inflammatory effect induced by stem barks oil (at 
+200 mg kg-1) was similar to observed for indomethacin (at 10 mg kg-1) and superior for polygodial 
+(at 200 mg kg-1) in 30 and 60 min after the administration of essential oils. The inflammatory 
+response induced by formalin was effective to the stem barks oil (62.5%) in comparison to 
+polygodial (50.0%). 
+Keywords: Drimys brasiliensis Miers, essential oil composition, antinociceptive, anti-
+inflammatory, acute toxicity
+Introduction
+Drimys brasiliensis Miers belongs to Winteraceae 
+family, whose occurrence is restrict to South America. This 
+species is known in Brazil with a vernacular name “casca-
+d’anta” and has been used in folk medicine as analgesic 
+and anti-inflammatory.1 
+In the chemical point of view, several species of Drimys 
+have been shown to contain sesquiterpenes of drimane 
+skeleton, which possess a variety of biological potential 
+Lago et al. 1761Vol. 21, No. 9, 2010
+including antibacterial,2 anti-inflammatory,3 anti-allergic,3 
+antifungal,4-6 antinociceptive,7-9 anti-hyperalgesic,10 and 
+antibacterial.11 Nevertheless, there are only two works about 
+the chemical composition of D. brasiliensis, in which the 
+same type of drimane sesquiterpenes have been found, such 
+as confertifolin, drimanial, valdiviolide, polygodial, 1-b-(p-
+methoxycinnamoyl)polygodial and 1-b-(p-cumaroyloxy)
+polygodial.6,12 The chemical composition of the essential oils 
+from D. brasiliensis from Southern Brazil in different periods 
+of collection has recently been described in the literature,13 
+in which the predominance of monoterpenes was observed 
+in the leaves (fresh and dried) oils while the sesquiterpenes 
+were the main derivatives in the stem bark and unripe fruits 
+oils. Additionally, the both oils showed great amounts 
+of cyclocolorenone, an unusual ketone-aromadendrane 
+derivative, whose occurrence showed to be independent of 
+the season in which the samples were collected. Despite 
+of the use of infusions of bark from D. brasiliensis to the 
+treatment of pain and ulcer,8 only the larvicidal potential of 
+the volatiles against cattle tick Rhipicephalus (Boophilus) 
+microplus and the brown dog tick R. sanguineus have been 
+evaluated, which showed lethality in low concentrations.14
+Therefore, in the course of our studies with 
+pharmacologically active volatiles from Brazilian highland 
+regions,15 we report here the chemical composition of the 
+essential oils from leaves and stem barks from D. brasiliensis 
+Miers (Winteraceae) as well as the evaluation of their 
+anti-inflammatory potentials. Additionally, the biological 
+activities of the crude oils were compared to that evaluated to 
+sesquiterpene polygodial, which is the main constituent from 
+the stem bark of Drimys species and responsible from the 
+pharmacological effects for the extracts prepared from these 
+plants.3,7,16,17 However, the potential observed to the analyzed 
+oils could contribute to explain the popular use of bark infusion 
+of D. brasiliensis to the pain treatment, since the components 
+of the essential oils also showed anti-inflammatory effects. 
+Experimental
+Plant material
+Leaves and stem barks from Drimys brasiliensis Miers 
+were collected in Umuarama district, Campos do Jordão, 
+São Paulo, SP, in August 2006. Voucher specimen had been 
+deposited at Herbarium of Prefeitura Municipal de São 
+Paulo (PMSP) under number PMSP8984.
+Extraction of the essential oils
+Fresh leaves (115 g) and stem bark (902 g) 
+from D. brasiliensis were individually subjected to 
+hydrodistillation in a Clevenger type apparatus during 
+4 h. After extraction, the essential oils were dried over 
+anhydrous Na2SO4 and stored in sealed vials at low 
+temperature. These procedures afforded 63 mg (0.55%) 
+from leaves oil and 1.624 mg (0.18%) from stem barks oil. 
+Chemical and biological studies of the obtained crude oils 
+were performed immediately. 
+General procedures
+Silica gel 60 (63-200 mm, Merck) was used for 
+adsorption chromatography and Sephadex LH-20 
+(Pharmacia) was used in exclusion chromatography. GC 
+analysis were performed in a Hewlett-Packard 5890 series II 
+chromatograph (using helium as carrier gas) equipped with 
+a FID detector and a capillary column HP-5, cross linked 
+5% phenyl in 95% silicone (30 m × 0.32 mm, I.D., 0.25 mm 
+film thickness), automatic injector (HP 7673) and electronic 
+integrator (HP3396A). Temperature programming was 
+performed as follows: 100 °C isothermal for 2 min, 
+100-240 °C at 5 °C min-1, then isothermal at 240 °C for 
+10 min. The injector and detector (FID) temperatures 
+were established as 180 °C and 260 °C, respectively. 
+Component concentrations were calculated from GC peak 
+areas in the order of HP-5 column elution (RRt - retention 
+time in seconds, as showed in Table 1). GC/MS analysis 
+was carried out in a Shimadzu GC-17A chromatograph 
+interfaced with a MS-QP-5050A mass spectrometer. 
+Helium was used as the carried gas. The MS operating 
+conditions were: ionization voltage 70 eV, ion source 
+230 °C. The GC analysis was done with a DB-5 column 
+(30 m × 0.25 mm internal diameter, with 0.25 μm film 
+thickness) and the operating conditions were identical with 
+those of the GC analysis. 1H and 13C NMR spectra were 
+measured at 300 and 75 MHz, respectively, on a Bruker 
+model DPX-300 spectrometer with sample dissolved 
+in CDCl3 containing 1% of TMS (Aldrich). Formalin, 
+carrageenan and indomethacin were purchased from 
+Sigma Aldrich. Purity was assessed by HPLC and NMR 
+as > 99%. Unless stated otherwise, all other solvents were 
+from Synth and Sigma.
+Compounds identification
+The crude oils were analyzed by GC and GC/MS. 
+The identification of the components was based on 
+the comparison o their mass spectra with those in the 
+spectrometer data base (Willey 229 library) and confirmed 
+by determination of their Kovats indexes (KI), which were 
+determined relatively to the retention times of a series of 
+n-alkanes.18
+Chemical Composition and Anti-Inflammatory Evaluation of Essential Oils from Leaves J. Braz. Chem. Soc.1762
+Isolation of polygodial from stem bark from D. brasiliensis
+Dried and powdered stem bark of D. brasiliensis (687 g) 
+were exhaustively extracted with hexane (6 × 1000 mL, 
+24 h each) to afford 8.72 g of hexane extract. Part of the 
+crude extract (6.0 g) was subjected to silica gel column 
+chromatography (178 g, 40 × 2 cm) eluted with hexane 
+containing increasing amounts of EtOAc (up to 100%), 
+to give nine fractions (1-9). Fraction 4 (4.1 g), eluted with 
+hexane:EtOAc 8:2 (4.2 g) was purified using repeated 
+Sephadex LH-20 (30 g, 20 × 2 cm) chromatographic 
+procedures using CH2Cl2:Me2CO (3:2) as solvent to 
+afford 5 groups (I -V). Colorless oil was obtained from 
+group IV (3.0 g), which was analyzed by chromatographic 
+(GC > 99%) and spectroscopic methods (NMR and 
+LREIMS). After comparison to literature data,19 this 
+fraction showed to be composed by polygodial. 
+Animals
+Female Swiss mices (25-30 g) were used throughout 
+the experiments. The animals were supplied by the Centro 
+Multidisciplinar para Investigação Biológica (Universidade 
+Estadual de Campinas - UNICAMP). All the experiments 
+were carried out with strict adherence to ethical guidelines.20 
+Acute toxicity (LD50)
+The acute toxicity in mice (n = 5) was evaluated by 
+intraperitoneal (i.p.) injection of crude oils/polygodial in 
+different doses from 0.1 to 1.2 g kg-1, using DMSO 1% in 
+saline solution (NaCl) 0.9% (m/v) for negative control. In 
+this condition was observed that in concentration below of 
+0.5 g kg-1 no obits or effect were observed in the animal 
+groups. Therefore, the concentration of 200 mg kg-1 was 
+determined to evaluation of anti-inflammatory experiments. 
+The effect and dead of animal were observed after 48 h of 
+the drug administration.21
+Antinociceptive assay
+The formalin test was conducted as previosly 
+described,22 with some minor modifications. Mices (vehicle 
+and treated) were observed simultaneously for 0-30 min 
+after intraplantar (i. pl.) injection of 20 μL formalin solution 
+2.5% (0.92% formaldehyde, made up in saline solution 
+0.9%) under the plantar surface of the right paw of mice. 
+The time (in seconds) that the animals spent licking or 
+lifting the injected paw was timed with a chronometer. 
+The initial nociceptive response normally peaked about 
+0-10 min after formalin injection (first phase) and was 
+followed by a second peak that occurred 15-30 min after 
+formalin injection (second phase).22 Animals (n = 5) were 
+pre-treated with the essential oils from leaves, stem bark 
+and polygodial from D. brasiliensis (200 mg kg-1 i.p.) one 
+hour before formalin injection. Control animals received 
+only vehicle (DMSO 1% in saline solution 0.9%), which 
+was used to dilute the essential oils and polygodial. 
+Statistical analyses were made by ANOVA method.
+Table 1. Relative composition of the essential oils from the leaves and 
+stem bark from Drimys brasiliensis
+RRt / s RI DB-5 Volatile 
+components
+Relative amount / %
+leaves stem bark
+263 939 a-pinene 1.64 39.50
+302 980 b-pinene 1.05 7.24
+317 991 mircene - 4.83
+339 1011 D3-carene - 5.65
+355 1031 limonene - 4.94
+418 1088 terpinolene - 9.02
+435 1117 exo-fenchol - 1.07
+465 1143 camphor - 0.58
+470 1148 camphene hydrate - 0.65
+485 1165 borneol - 0.77
+491 1177 terpin-4-ol 1.62 1.32
+496 1189 a-terpineol - 14.45
+652 1356 eugenol 1.21 -
+755 1409 a-cedrene 6.87 -
+763 1480 germacrene D 4.74 -
+775 1494 bicyclogermacrene 5.31 -
+792 1538 d-cadinene 1.58 -
+813 1554 elemicine - 0.77
+823 1564 E-nerolidol - 2.86
+839 1576 spathulenol 3.34 1.48
+845 1583 globulol 3.33 -
+852 1590 viridiflorol 2.58 -
+885 1641 t-muurolol 7.75 -
+899 1653 a-cadinol 4.83 1.32
+901 1673 b-bisabolol 2.13 -
+920 1674 E-longipinocarveol - 0.69
+979 1759 drimenol 9.96 -
+1090 1894 rimuene 5.96 -
+Monoterpenes 4.31 90.02
+Sesquiterpenes 52.31 6.35
+Diterpene 5.96 -
+Phenylpropanoids 1.21 0.77
+TOTAL 63.79 97.14
+Lago et al. 1763Vol. 21, No. 9, 2010
+Anti-inflammatory assay
+Carrageenan induced oedema assay was carried out 
+according to Lima et al.23 Oedema was induced on the right 
+hind foot of mice by intraplantar injection (i.pl.) of 20 mL 
+of a solution of 1% carrageenan in 0.9% saline solution 
+(NaCl, m/v). Local oedema was quantified by measuring the 
+thickness of injected paws with a paquimeter at 30, 60, 90 
+and 180 min after injection. One hour before carrageenan 
+injection, the animals (n = 5) were pre-treated with the 
+essential oils from leaves and stem barks and polygodial 
+obtained from D. brasiliensis (200 mg kg-1 i.p.). Negative 
+control animals received 50 mL of vehicle (DMSO 1% in 
+saline solution), which was used to dilute the essential oils 
+and polygodial while the control positive group received 
+50 mL the indomethacin (10 mg kg-1 i.p.). Statistical 
+analyses were made by ANOVA method. 
+Results and Discussion
+The results for the chemical composition of the essential 
+oils from leaves and stem barks from D. brasiliensis are 
+shown in Table 1. A total of 28 volatile components were 
+identified, accounting for 63.79% and 97.14% of the 
+volatiles from leaves and stem bark oils, respectively. In 
+the oil from leaves, composed by sixteen identified volatile 
+derivatives, the sesquiterpenoids predominated (52.31%), 
+with a-cedrene (6.87%), bicyclogermacrene (5.31%), 
+t-muurolol (7.75%) and drimenol (9.96%) as the main 
+derivatives (Figure 1). It is important mentioned that the 
+occurrence of drimenol has been restrict to Winteraceae, 
+Solanaceae and Polygonaceae species.13 Otherwise, 
+seventeen constituents were identified from the stem barks 
+oil with a high percentage of monoterpenes (90.02%) 
+being a-pinene (39.50%), b-pinene (7.24%), D3-carene 
+(5.65%), terpinolene (9.02%) and a-terpineol (14.45%) the 
+most significant components in the monoterpene fraction 
+(Figure 1).
+Previous studies on volatile oils from D. brasiliensis, 
+from the South region of Brazil (São Francisco de Paula - 
+RS), showed that the main derivative was cyclocolorenone 
+(16.0% to 32.3% in the leaves and 46.7% to 49.7% in stem 
+barks).13 However, as showed in Table 1, in the volatile oils 
+analyzed in the present work (“Campos de Altitude” region), 
+this compound was not detected. To confirm the absence of 
+cyclocolorenone, the both oils were also submitted to 1H 
+and 13C NMR spectral analysis, in which the characteristic 
+signals from aromadendrane skeleton at approximately 
+dH 0.3-0.6 (H-6) / dC 20.0 (C-11) were not observed.24,25 
+Although qualitative differences have been detected in the 
+composition of the oils from D. brasiliensis, it is important 
+mentioned that the sesquiterpenes were the main derivatives 
+in the both oils from leaves. Otherwise, the comparison of 
+the stem bark oils showed a complete difference in their 
+composition, since in the present study were detected 
+monoterpenes as major derivatives. Therefore, the detected 
+chemical differences would be attributed to microclimatic 
+conditions related to the different environments and 
+geographic sites in which the plants grown.26 Additionally, 
+the crude hexane extract from stem bark (8.72 g) was 
+chromatographed over silica gel followed by filtration of 
+Sephadex LH-20. After 1H NMR analysis of all fractions 
+obtained from fractionation procedures, the signals relative 
+to aromadendrane skeleton were not observed, confirming 
+the absence of cyclocolorenone in the analyzed species. 
+Otherwise, was obtained a great amount (3.0 g , 34.4%) of 
+a pure compound whose 1H NMR spectrum showed signals 
+at d 9.50 (d, J 4.4 Hz, 1H) and 9.43 (s, 1H), characteristic 
+of aldehyde hydrogens. These data associated to the 
+singlets at d 0.90 (3H), 0.92 (3H) and 0.93 (3H), as well 
+as to ddd at d 7.12 (J 7.5, 2.2 and 2.1 Hz, 1H), showed to 
+be characteristic of sesquiterpene polygodial.19 Finally, 
+analysis of 13C NMR spectrum, which showed peaks at sp2 
+carbons at d 154.3 (C-7), 138.3 (C-8), carbonyl carbons at 
+d 202.1 (C-11), 193.2 (C-12), and methyl carbons at d 33.1 
+(C-13), 21.9 (C-14) and 15.2 (C-15) confirmed the proposal 
+structure (Figure 1).19 
+Due to the occurrence of polygodial in the crude hexane 
+extract from stem bark of D. brasiliensis associated to the 
+different proportions of monoterpenes and sesquiterpenes 
+in the essential oils from leaves and stem bark, the 
+Figure 1. Structures of main derivatives identified in the essential oils 
+from leaves and stem bark and polygodial isolated from hexane extract 
+from stem bark of D. brasiliensis.
+Chemical Composition and Anti-Inflammatory Evaluation of Essential Oils from Leaves J. Braz. Chem. Soc.1764
+antinociceptive activity of these products was evaluated by 
+induction for formalin in mice.22 As showed in Figure 2, the 
+both essential oils (leaves and stem barks) did not inhibited 
+neurogenic pain in the first phase of these experiments. 
+However, the previous administration (60 min) of the crude 
+essential oils and polygodial at 200 mg kg-1, reduced the 
+second phase of nociception (inflammatory origin pain) 
+in 25.0% (leaves oil), 62.5% (stem bark oil) and 50.0% 
+(polygodial), as showed in Figure 2. The animals treated 
+with vehicle (DMSO 1% in saline solution) lick or bite 
+their paws during 250 ± 10 seconds in the second phase of 
+this test (p < 0.05, n = 5). Injection of formalin produced 
+distinct biphasic responses being the first phase associated 
+to the irritant effect of formalin in the C type sensorial 
+fibers, which characterize the neurogenic pain. Otherwise, 
+the second phase is associated to the inflammatory pain. 
+Analgesics for central action, such as morphine, inhibit 
+the both phases in contrast to drugs of peripheral action 
+such as anti-inflammatories and corticoids, which inhibit 
+only the second phase.22,27 Although polygodial has 
+been described as antinociceptive and anti-inflammatory 
+agent from D. winteri,10,17 the oil from stem barks of D. 
+brasiliensis showed higher potential than this pure aldehyde 
+sesquiterpene. 
+Similarly, the inflammatory effect was induced by 
+injection of carrageenan 1%, which produced an oedema in 
+the paw after 30 min (C = 3.8 mm; n = 5).27,28 The previous 
+administration (60 min) of the crude oil from stem barks 
+from D. brasiliensis at 200 mg kg-1, showed an oedema 
+reduction similar to the positive control indomethacin at 
+10 mg kg-1 but superior to that observed to pure polygodial 
+at same concentration (200 mg kg-1) before 60 min of 
+carrageenan administration (Figure 3). This result indicated 
+that the volatile derivatives from stem bark showed 
+antiedematogenic/anti-inflammatory proprieties due to 
+reduction of acute oedema. The potent activity of the oil 
+from stem bark might be attributed, at least in part, to its 
+higher monoterpene content (90.0%) in comparison to the 
+leaves oil, mainly due the predominance of the monoterpene 
+a-pinene, which represent 39.5% of the oil content and 
+showed anti-inflammatory effect.29 The experimental 
+evidences showing that the crude oil from stem barks of 
+D. brasiliensis showed pronounced anti-inflammatory 
+proprieties when administered in mices. The obtained 
+results were similar to those observed to sesquiterpene 
+polygodial, an anti-inflammatory and antinociceptive agent 
+obtained from the extract from stem barks of D. winter10 
+and D. brasiliensis.6
+Conclusions
+The predominance of monoterpenes in the stem bark 
+oil and sesquiterpenes in the leaves oil from D. brasiliensis 
+collected in Campos do Jordão - SP indicated a different 
+profile of that previously detected to oils from this specie, 
+whose material was obtained from São Francisco de 
+Paula - RS. This variation could be partially explained by 
+different microclimatic factors in these regions as well as 
+altitude, which affect the production of metabolites.26 These 
+factors could explain also the absence of cyclocolorenone, 
+which was suggested previously as a chemomarker of 
+D. brasiliensis.13 Analysis of the crude hexane extract 
+afforded polygodial as major component and confirmed 
+the absence of this ketone aromadendrane derivative. In 
+Figure 2. Effects of the essential oils from leaves and stem barks of D. 
+brasiliensis on nociceptive responses to intraplantar injection of formalin 
+(2.5%). *P < 0.05 compared to control (ANOVA).
+Figure 3. Effect of the essential oils (leaves and stem barks) and 
+polygodial from D. brasiliensis on the development of oedema induced 
+by intraplantar injection of carrageenan 1% in mice. *P < 0.05 compared 
+to control (ANOVA).
+Lago et al. 1765Vol. 21, No. 9, 2010
+a biological point of view, this study confirms the anti-
+inflammatory proprieties of D. brasiliensis, which could 
+be attributed not exclusively to polygodial, but at least in 
+part, to the high proportion of monoterpenes in the volatile 
+oils, mainly a-pinene. It is important mentioned that this 
+compound was detected in low amount in the no active 
+essential oil obtained from the leaves from D. brasiliensis. 
+Supplementary Information
+Supplementary data are available free of charge at 
+http://jbcs.sbq.org.br, as PDF file.
+Acknowledgments
+Authors are thankful to FAPESP, MackPesquisa and 
+CNPq for financial support and Prof. Dr. Marcos H. Toyama 
+(UNESP-CLP) for donation of carrageenan. 
+References
+ 1.  Trinta E. F.; Santos E.; Winteráceas. Flora Ilustrada 
+Catarinense; Herbário Barbosa Rodrigues: Itajaí, SC, Brasil, 
+1997.
+ 2.  Kubo, I.; Fujita, K. I.; Lee, S. H.; Ha, T. J.; Phytother. Res. 2005, 
+19, 1013.
+ 3.  Cunha, F. M.; Fröde, T. S.; Mendes, G. L.; Malheiros, A.; 
+Cechinel Fo., V.; Yunes, R. A.; Calixto, J. B.; Life Sci. 2001, 
+70, 159. 
+ 4.  Kubo, I.; Tanigushi, M.; J. Nat. Prod. 1988, 51, 22.
+ 5.  Kubo, I.; Fujita, K. I.; Lee, S. H.; J. Agric. Food Chem. 2001, 
+49, 1607.
+ 6.  Malheiros, A.; Cechinel Filho, V.; Schmitt, C. B.; Yunes, R. 
+A.; Escalante, A.; Svetaz, L.; Zacchino, S.; Monache, F. D.; 
+J. Pharm. Pharmac. Sci. 2005, 8, 335. 
+ 7.  Malheiros, A.; Cechinel Fo., V.; Schimitt, C. B.; Santos, A. R. 
+S.; Scheidt, C.; Calixto, J. B.; Monache, F. D.; Yunes, R. A.; 
+Phytochemistry 2001, 57, 103. 
+ 8.  Cechinel Fo., V.; Schlemper, V.; Santos, A. R. S.; Pinheiro, T. 
+R.; Yunes, R. A.; Mendes, G. L.; Calixto, J. B.; Monache, F. 
+D.; J. Ethnopharmacol. 1998, 62, 223. 
+ 9.  Andre, E.; Ferreira, J.; Malheiros, A.; Yunes, R. A.; Calixto, J. 
+B.; Neuropharmacology 2004, 46, 590. 
+ 10.  Mendes, G. L.; Santos, A. R. S., Campos, M. M.; Tratsk, K. S.; 
+Yunes, R. A.; Cechinel Fo., V.; Calixto, J. B.; Life Sci. 1998, 
+63, 369. 
+ 11.  McCallion, R. F.; Cole, A. L. J.; Walker, J. R. L.; Blunt, J. W.; 
+Munro, M. H. G.; J. Med. Plants Res. 1982, 44, 134. 
+ 12.  Vichnewski, W.; Kulanthaivel, P.; Herz, W.; Phytochemistry 
+1986, 25, 1476.
+ 13.  Limberger, R. P.; Scopel, M.; Sobral, M.; Henriques, A. T.; 
+Biochem. Syst. Ecol. 2007, 35, 130.
+ 14.  Ribeiro, V. L. S.; Rolim, V.; Bordignon, S.; Henriques, A. T.; 
+Dorneles, G. G.; Limberger, R. P.; Poser, G. V.; Parasitol. Res. 
+2008, 102, 531.
+ 15.  Lago, J .H. G.; Romoff, P.; Fávero; Soares, M. G.; Baraldi, P. 
+T.; Côrrea, A. G.; Souza, F. O.; Quim. Nova 2008, 31, 727.
+ 16.  Moreno-Osório, L.; Cortés, M.; Armstrong, V.; Bailén, M.; 
+González-Coloma, A.; Z. Naturforsch. C 2008, 63c, 215. 
+ 17.  Mendes, G. L.; Santos, A. R. S.; Malheiros, A.; Cechinel Filho, 
+V.; Yunes, R. A.; Calixto, J. B.; J. Pharmacol. Exp. Ther. 2000, 
+292, 164.
+ 18.  Adams, R. P.; Identification of Essential Oil Components by 
+Gas Chromatography/Quadrupole Mass Spectrometry; Allured 
+Publishing Corporation: Illinois, 2001.
+ 19.  Rodriguez, B.; Zapata, N.; Medina, P.; Viñuela, E.; Magn. 
+Reson. Chem. 2005, 43, 82.
+ 20.  Sherwin, C. M.; Christiansen, I. J.; Duncan, H. W. E.; Lay, J. 
+D. C.; Mench, J. A.; O´Connor, C. E.; Petherick, J. C.; Appl. 
+Anim. Behav. Sci. 2003, 8, 291.
+ 21.  Lorke, D.; Arch. Toxicol. 1983, 54, 275.
+ 22.  Hunskaar, S.; Fasmer, O. B.; Hole, K.; J. Neurosci. Meth. 1985, 
+14, 69.
+ 23.  Lima, C.; Clissa, B. P.; Piran-Soares, A. A.; Tanjoni, I.; Silva, 
+A. M. M.; Ferreira, M. L.; Toxicon 2003, 42, 499.
+ 24.  Moreira, I. C.; Lago, J. H. G.; Young, M. C. M.; Roque N. F.; 
+J. Braz. Chem. Soc. 2003, 14, 828.
+ 25.  Goldsby, G.; Burke, A. B.; Phytochemistry 1987, 26, 1059.
+ 26.  Gobbo-Neto, L.; Lopes, N. P.; Quim. Nova 2007, 30, 374.
+ 27.  Tjolsen, A.; Berge, O. G.; Hunskaar, S.; Rosland, J. H.; Hole, 
+K.; Pain 1992, 51, 5.
+ 28.  Tubaro, A.; Dri, P.; Delbello, G.; Zilli, C.; Della Loggia, R.; 
+Agents Act. 1985, 17, 347.
+ 29.  Orhan, I.; Küpeli, E.; Aslan, M.; Kartal, M.; Yesilada, E.; 
+J. Ethnopharmacol. 2006, 105, 235.
+Submitted: October 17, 2008
+Published online: May 7, 2010
+FAPESP has sponsored the publication of this article.
+Supplem
+entary Inform
+ation
+J. Braz. Chem. Soc., Vol. 21, No. 9, S1-S3, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: joao.lago@unifesp.br
+Chemical Composition and Anti-Inflammatory Evaluation of Essential  
+Oils from Leaves and Stem Barks from Drimys brasiliensis Miers (Winteraceae)
+João Henrique G. Lago,*,a Larissa A. C. Carvalho,b Flávia S. da Silva,b Daniela de O. Toyama,c 
+Oriana A. Fáveroc and Paulete Romoffb
+aDepartamento de Ciências Exatas e da Terra, Universidade Federal de São Paulo, 09972-270 Diadema-SP, Brazil
+bCentro de Ciências e Humanidades and cCentro de Ciências Biológicas e da Saúde, 
+Universidade Presbiteriana Mackenzie, 01302-907 São Paulo-SP, Brazil
+Figure S1.  1H NMR spectrum of polygodial (300 MHz, CDCl3).
+Chemical Composition and Anti-Inflammatory Evaluation of Essential Oils from Leaves J. Braz. Chem. Soc.S2
+Figure S3.  1H NMR spectrum of polygodial (300 MHz, CDCl3) – regions d 0.0 – 3.0.
+Figure S2.  1H NMR spectrum of polygodial (300 MHz, CDCl3) – regions d 10.0 – 7.0.
+Lago et al. S3Vol. 21, No. 9, 2010
+Figure S4.  13C NMR spectrum of polygodial (75 MHz, CDCl3).

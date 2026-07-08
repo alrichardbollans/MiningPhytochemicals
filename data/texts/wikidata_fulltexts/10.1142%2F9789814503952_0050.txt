@@ -1,0 +1,394 @@
+ar
+X
+iv
+:h
+ep
+-p
+h/
+97
+05
+40
+4v
+1 
+ 2
+3 
+M
+ay
+ 1
+99
+7
+TTP97-21
+hep-ph/9705404
+May 1997
+CP VIOLATION IN Bs DECAYS
+a
+ROBERT FLEISCHER
+Institut fu¨r Theoretische Teilchenphysik, Universita¨t Karlsruhe,
+D–76128 Karlsruhe, Germany
+CP-violating effects in non-leptonic Bs-meson decays are reviewed. Special em-
+phasis is given to implications arising from the width difference ∆Γs between the
+Bs mass eigenstates. If ∆Γs is found to be sizable, certain untagged Bs-meson
+decays may allow interesting probes of CP violation, extractions of the CKM angle
+γ and the Wolfenstein parameter η, and may indicate physics beyond the Standard
+Model.
+1 Introduction
+A characteristic feature of the neutral Bq-meson systems (q ∈ {d, s}) is B0q−B0q
+mixing. The corresponding time-evolutions are governed by the Bq mass eigen-
+states BHeavyq and B
+Light
+q which are characterized by their mass eigenvalues
+M
+(q)
+H , M
+(q)
+L and decay widths Γ
+(q)
+H , Γ
+(q)
+L . Because of these mixing effects, oscil-
+latory ∆Mqt terms with ∆Mq ≡M (q)H −M (q)L show up in the time-dependent
+transition rates Γ(B0q (t)→ f) and Γ(B0q (t)→ f) describing decays of initially
+present B0q and B
+0
+q mesons into a final state f , respectively. Essentially all the
+information that is needed to evaluate these decay rates is contained in the
+convention-independent observable 1
+ξ
+(q)
+f = exp
+[
+−iΘ(q)M12
+] A(B0q → f)
+A(B0q → f)
+, (1)
+where Θ
+(q)
+M12
+is the weakB0q–B
+0
+q mixing phase that is related to 2 arg(V
+∗
+tqVtb) and
+the A’s denote the decay amplitudes corresponding to B0q → f and B0q → f .
+It is a well-known feature that ξ
+(q)
+f can be calculated in a clean way if
+Bq → f is dominated by a single CKM amplitude (see e.g. Ref. 1 for a recent
+discussion). The “gold-plated” mode in this respect isBd → J/ψKS measuring
+sin(2 β) with excellent accuracy through mixing-induced CP violation.2 The Bs
+system plays an important role to determine γ – another angle of the usual
+“non-squashed” unitarity triangle of the CKM matrix.
+A decay that was proposed frequently in the previous literature to ac-
+complish this task is Bs → ρ0KS. However, this mode is unfortunately not
+dominated by a single CKM amplitude. Here penguin contributions lead to
+aInvited plenary talk given at the 2nd International Conference on B Physics and CP
+Violation, Honolulu, Hawaii, March 24–27, 1997. To appear in the proceedings.
+serious problems so that
+ξ
+(s)
+ρ0KS
+≈ exp(−i 2 γ) (2)
+is a very bad approximation.1 Consequently Bs → ρ0KS should be the “wrong”
+way to extract γ. Needless to note, the branching ratio of that decay is expected
+to be of O(10−7) which makes its experimental investigation very difficult.
+Before focussing on other Bs modes that do allow meaningful determinations
+of γ, let us turn to an experimental problem of Bs decays that is related to
+time-dependent measurements.
+2 The Bs System in Light of ∆Γs
+The “strength” of the B0q−B0q oscillations is measured by the mixing parameter
+xq ≡ ∆Mq/Γq, where Γq ≡ (Γ(q)H + Γ(q)L )/2. While we have xd = 0.72 ± 0.03
+in the Bd system, a large Bs mixing parameter xs = O(20) is expected within
+the Standard Model implying very rapid B0s −B0s oscillations (see e.g. Ref. 3).
+In order to keep track of the corresponding ∆Mst terms in the time-dependent
+Bs decay rates, an excellent vertex resolution system is required which is a
+formidable experimental task.
+It may, however, not be necessary to trace these rapid ∆Mst oscillations
+in order to obtain insights into the mechanism of CP violation.4 This remark-
+able feature is due to the expected sizable width difference ∆Γs ≡ Γ(s)H − Γ(s)L
+originating mainly from CKM favored b¯ → c¯cs¯ transitions into final states
+that are common both to B0s and B
+0
+s . The width difference ∆Γs may be as
+large as O(20%) of the average decay width Γs as is indicated by box dia-
+gram calculations 5, a second complementary approach 6 where one sums over
+many exclusive b¯ → c¯cs¯ modes, and by an approach using the “Heavy Quark
+Expansion” leading to the most recent result 7 |∆Γs|/Γs = 0.16+0.11−0.09. This
+width difference can be determined experimentally e.g. from angular correla-
+tions in Bs → J/ψ φ decays.8 One expects 103−104 reconstructed Bs → J/ψ φ
+events both at Tevatron Run II and at HERA-B which may allow a precise
+measurement of ∆Γs.
+Because of this width difference already untagged Bs rates, which are
+defined by
+Γ[f(t)] ≡ Γ(B0s (t)→ f) + Γ(B0s (t)→ f) , (3)
+may provide valuable information about the phase structure of the observable
+ξ
+(s)
+f defined by Eq. (1). This can be seen nicely by writing Eq. (3) in a more
+2
+explicit way as follows:
+Γ[f(t)] ∝
+[(
+1 +
+∣∣∣ξ(s)f
+∣∣∣2
+)(
+e−Γ
+(s)
+L
+t + e−Γ
+(s)
+H
+t
+)
+− 2Re ξ(s)f
+(
+e−Γ
+(s)
+L
+t − e−Γ(s)H t
+)]
+.
+(4)
+In this expression the rapid oscillatory ∆Mst terms, which show up in the
+tagged rates, cancel. Therefore it depends only on the two exponents e−Γ
+(s)
+L
+t
+and e−Γ
+(s)
+H
+t. From an experimental point of view such untagged analyses are
+clearly much more promising than tagged ones in respect of efficiency, accep-
+tance and purity.
+In order to illustrate these untagged strategies in more detail, let me discuss
+an estimate of γ from Bs → K+K− and Bs → K0K0 decays.9 Using the
+SU(2) isospin symmetry of strong interactions to relate the QCD penguin
+contributions to these decays (electroweak penguins are color-suppressed in
+these modes and thus play a minor role 1) yields
+Γ[K+K−(t)] ∝ |P |2
+[(
+1−2 |r| cosρ cos γ+|r|2 cos2 γ)e−Γ(s)L t+|r|2 sin2 γ e−Γ(s)H t]
+(5)
+and
+Γ[K0K0(t)] ∝ |P |2 e−Γ(s)L t , (6)
+where
+r ≡ |r|eiρ = |T ||P |e
+i(δT−δP ) . (7)
+Here P denotes the b¯ → s¯ QCD penguin amplitude, T is the color-allowed
+b¯→ u¯us¯ tree amplitude, and δP and δT are the corresponding CP-conserving
+strong phases. In order to determine γ from the untagged rates Eqs. (5)
+and (6), an additional input is needed. Using the SU(3) flavor symmetry of
+strong interactions to this end and neglecting color-suppressed current-current
+contributions to B+ → π+π0 gives
+|T | ≈ λ fK
+fpi
+√
+2 |A(B+ → π+π0)| , (8)
+where λ = 0.22 is the Wolfenstein parameter 10, fK and fpi are the K and π
+meson decay constants, respectively, and A(B+ → π+π0) denotes the appro-
+priately normalized B+ → π+π0 decay amplitude. Since |P | is known from
+Bs → K0K0, the quantity |r| = |T |/|P | can be estimated with the help of
+Eq. (8) and allows an estimate of γ from the part of Eq. (5) evolving with
+exponent e−Γ
+(s)
+H
+t. If more reliable ways to fix |T | should become available in
+the future, this “estimate” of γ may well turn into a solid determination.
+3
+3 Bs Decays into Admixtures of CP Eigenstates
+One can even do better than in the previous section, i.e. without using SU(3)
+flavor symmetry, by considering decays corresponding to Bs → KK where two
+vector mesons or higher resonances are present in the final states.9
+3.1 An Extraction of γ using Bs → K∗+K∗− and Bs → K∗0K∗0
+The untagged angular distributions of these decays, which are given explic-
+itly in Ref. 9, provide many more observables than the untagged modes Bs →
+K+K− and Bs → K0K0 discussed in the previous section. In the case of
+Bs → K∗0K∗0 the formulae simplify considerably since it is a penguin-induced
+b¯ → s¯dd¯ mode and receives therefore no tree contributions. Using again the
+SU(2) isospin symmetry of strong interactions, the QCD penguin contributions
+to Bs → K∗+K∗− and Bs → K∗0K∗0 can be related to each other. If one takes
+into account these relations and goes very carefully through the observables of
+the untagged angular distributions, one finds that they allow the extraction of
+the CKM angle γ without any additional theoretical input.9 Needless to note,
+the angular distributions provide moreover information about the hadroniza-
+tion dynamics of these decays. Since the formalism 9 for Bs → K∗+K∗−
+applies also to Bs → ρ0φ, it may allow insights into the physics of electroweak
+penguins as the latter mode is dominated by these operators.1
+3.2 The “Gold-plated” Transitions to Extract η
+This subsection is devoted to the decays Bs → D∗+s D∗−s and Bs → J/ψ φ,
+which is the counterpart of the “gold-plated” mode Bd → J/ψKS to measure
+the CKM angle β. Since these decays are dominated by a single CKM ampli-
+tude, the hadronic uncertainties cancel in ξ
+(s)
+f which takes in that particular
+case the form 9
+ξ
+(s)
+f = exp(i φCKM) . (9)
+Consequently the observables of the angular distributions simplify consider-
+ably. A characteristic feature of these angular distributions is interference
+between CP-even and CP-odd final state configurations leading to observables
+that are proportional to (
+e−Γ
+(s)
+L
+t − e−Γ(s)H t
+)
+sinφCKM . (10)
+Here the CP-violating weak phase is given by φCKM = 2λ
+2η ≈ O(0.03), where
+λ and η are two of the Wolfenstein parameters.10 The observables of the an-
+gular distributions for both the color-allowed channel Bs → D∗+s D∗−s and the
+4
+color-suppressed transition Bs → J/ψ φ each provide sufficient information to
+determine the CP-violating weak phase φCKM from their untagged data sam-
+ples thereby fixing the Wolfenstein parameter η.9 Note that this extraction of
+φCKM is not as clean as that of β from Bd → J/ψKS. This feature is due to
+the smallness of φCKM with respect to β.
+Within the Standard Model one expects a very small value of φCKM and
+Γ
+(s)
+H < Γ
+(s)
+L . However, that need not to be the case in many scenarios for
+“New Physics”.11 An experimental study of the decays Bs → D∗+s D∗−s and
+Bs → J/ψ φ may shed light on this issue, and an extracted value of φCKM
+much larger than O(0.03) would indicate physics beyond the Standard Model.
+4 Bs Decays caused by b¯→ u¯cs¯ (b→ cu¯s)
+The Bs decays discussed in this section are pure tree decays, i.e. receive no
+penguin contributions, and probe the CKM angle γ in a clean way.12 There
+are by now well-known strategies on the market using the time evolutions of
+such modes, e.g.
+(—)
+Bs→
+(—)
+D0 φ12,13 and
+(—)
+Bs→ D±s K∓ 14, to extract γ. However, in
+these strategies tagging is essential and the rapid ∆Mst oscillations have to be
+resolved which is an experimental challenge. The question what can be learned
+from untagged data samples of these decays, where the ∆Mst terms cancel, was
+investigated by Dunietz.4 In the untagged case the determination of γ requires
+additional inputs: a measurement of the untagged Bs → D0CPφ rate in the case
+of the color-suppressedmodes
+(—)
+Bs→
+(—)
+D0 φ, and a theoretical input corresponding
+to the ratio of the unmixed rates Γ(B0s → D−s K+)/Γ(B0s → D−s π+) in the case
+of the color-allowed decays
+(—)
+Bs→ D±s K∓. This ratio can be estimated with the
+help of the “factorization” hypothesis which may work reasonably well for these
+color-allowed channels.15
+Interestingly the untagged data samples may exhibit CP-violating effects
+that are described by observables of the form
+Γ[f(t)]− Γ[f(t)] ∝
+(
+e−Γ
+(s)
+L
+t − e−Γ(s)H t
+)
+sin ̺f sin γ . (11)
+Here ̺f is a CP-conserving strong phase shift and γ is the usual angle of the
+unitarity triangle. Because of the sin ̺f factor, a non-trivial strong phase shift
+is essential in that case. Consequently the CP-violating observables Eq. (11)
+vanish within the factorization approximation predicting ̺f ∈ {0, π}. Since
+factorization may be a reasonable working assumption for the color-allowed
+modes
+(—)
+Bs→ D±s K∓, the CP-violating effects in their untagged data samples
+5
+are expected to be very small. On the other hand, the factorization hypothesis
+is very questionable for the color-suppressed decays
+(—)
+Bs→
+(—)
+D0 φ and sizable CP
+violation may show up in the corresponding untagged rates.4
+Concerning such CP-violating effects and the extraction of γ from untagged
+Bs decays, the modes
+(—)
+Bs→ D∗±s K∗∓ and
+(—)
+Bs→
+(—)
+D∗0 φ are expected to be more
+promising than the transitions discussed above. As was shown in Ref. 16, the
+time-dependences of their untagged angular distributions allow a clean extrac-
+tion of γ without any additional input. The final state configurations of these
+decays are not admixtures of CP eigenstates as in Section 3. They can instead
+be classified by their parity eigenvalues. A characteristic feature of the angular
+distributions is interference between parity-even and parity-odd configurations
+that may lead to potentially large CP-violating effects in the untagged data
+samples even when all strong phase shifts vanish. Therefore one expects even
+within the factorization approximation, which may apply to the color-allowed
+modes
+(—)
+Bs→ D∗±s K∗∓, potentially large CP-violating effects in the correspond-
+ing untagged data samples.16 Since the soft photons in the decays D∗s → Dsγ,
+D∗0 → D0γ are difficult to detect, higher resonances exhibiting significant all-
+charged final states, e.g. Ds1(2536)
++ → D∗+K0, D1(2420)0 → D∗+π− with
+D∗+ → D0π+, may be more promising for certain detector configurations. A
+similar comment applies also to the mode Bs → D∗+s D∗−s discussed in Subsec-
+tion 3.2.
+5 Conclusions
+Whereas Bs → ρ0KS is expected to be the “wrong” way to extract γ because
+of hadronic uncertainties related to penguin contributions, there are other Bs
+decays which should allow meaningful determinations of this CKM angle. Some
+of these strategies are even theoretically clean and suffer from no hadronic
+uncertainties.
+Within the Standard Model one expects very rapid B0s − B0s oscillations
+which may be too fast to be resolved with present vertex technology. How-
+ever, the corresponding ∆Mst terms cancel in untagged rates of Bs decays
+that depend therefore only on the two exponents e−Γ
+(s)
+L
+t and e−Γ
+(s)
+H
+t. If the
+width difference ∆Γs is sizable – as is expected from theoretical analyses – un-
+tagged Bs decays may allow the determination both of the CKM angle γ and
+of the Wolfenstein parameter η. Following these lines one may furthermore
+obtain valuable insights into the mechanism of CP violation thereby getting
+indications for physics beyond the Standard Model.
+6
+Obviously the feasibility of such untagged Bs strategies to search for CP
+violation and to extract CKM phases depends crucially on a sizable width dif-
+ference ∆Γs. Moreover a lot of statistics is required so that hadron machines
+seem to be the natural place for such experiments. It is not yet clear whether
+the Bs width difference will turn out to be large enough to make these mea-
+surements possible. However, even if it should be too small, once ∆Γs 6= 0 has
+been found experimentally, the formulae developed in Refs. 9,16 have also to
+be used to determine CKM phases correctly from tagged Bs decays. Certainly
+time will tell and hopefully an exciting future of CP violation in Bs decays is
+ahead of us.
+Acknowledgment
+I am grateful to Isi Dunietz for a collaboration on topics presented in this talk.
+References
+1. R. Fleischer, hep-ph/9612446, invited review article for publication in
+Int. J. Mod. Phys. A (1997).
+2. N.G. Deshpande, these proceedings.
+3. A.J. Buras and R. Fleischer, hep-ph/9704376, to appear in Heavy
+Flavours II, Eds. A.J. Buras and M. Lindner (World Scientific, Singa-
+pore, 1997).
+4. I. Dunietz, Phys. Rev. D52, 3048 (1995).
+5. A.J. Buras et al., Nucl. Phys. B245, 369 (1984); M.B. Voloshin et al.,
+Yad. Fiz. 46, 181 (1987) [Sov. J. Nucl. Phys. 46, 112 (1987)]; A. Datta
+et al., Phys. Lett. B196, 382 (1987) and Nucl. Phys. B311, 35 (1988);
+see also Ref. 6.
+6. R. Aleksan et al., Phys. Lett. B316, 567 (1993).
+7. M. Beneke, G. Buchalla and I. Dunietz, Phys. Rev. D54, 4419 (1996).
+8. A.S. Dighe et al., Phys. Lett. B369, 144 (1996).
+9. R. Fleischer and I. Dunietz, Phys. Rev. D55, 259 (1997).
+10. L. Wolfenstein, Phys. Rev. Lett. 51, 1945 (1983).
+11. L. Wolfenstein, these proceedings.
+12. R. Aleksan et al., hep-ph/9312338.
+13. M. Gronau and D. London, Phys. Lett. B253, 483 (1991).
+14. R. Aleksan, I. Dunietz and B. Kayser, Z. Phys. C54, 653 (1992).
+15. B. Stech, these proceedings.
+16. R. Fleischer and I. Dunietz, Phys. Lett. B387, 361 (1996).
+7

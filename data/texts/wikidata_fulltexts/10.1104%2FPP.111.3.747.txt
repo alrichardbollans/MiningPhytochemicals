@@ -1,0 +1,733 @@
+Plant Physiol. (1 996) 11 1 : 747-753 
+Biosynthesis of Caffeine in Leaves of Coffee 
+Hiroshi Ashihara’, Ana Maria Monteiro, Fiona M. Gillies2, and Alan Crozier* 
+Department of Biology, Faculty of Science, Ochanomizu University, Otsuka, Bunkyo-ku, Tokyo 11 2, Japan 
+(H.A.); and Bower Building, Division of Biochemistry and Molecular Biology, lnstitute of Biomedical and Life 
+Sciences, University of Glasgow, Glasgow G12 8QQ, United Kingdom (A.M.M., F.M.G., A.C.) 
+l h e  levels of endogenous caffeine and theobromine were much 
+higher in buds and young leaves of Coffea arabica L. cv Kent than in 
+fully developed leaves. Biosynthesis of caffeine from 14C-labeled 
+adenine, guanine, xanthosine, and theobromine was observed, 
+whereas other studies (H. Ashihara, A.M. Monteiro, 1. Moritz, F.M. 
+Cillies, A. Crozier [19961 Planta 198: 334-339) have indicated that 
+there is  no detectable incorporation of label into caffeine when 
+theophylline and xanthine are used as substrates for in vivo feeds 
+with leaves of C. arabica. l h e  capacity for caffeine biosynthesis, 
+especially from guanine and xanthosine, was reduced markedly in 
+both fully developed mature and aged leaves. Data obtained in 
+pulse-chase experiments with young leaves indicate the operation 
+of an AMP + IMP + xanthosine 5’-monophosphate (or CMP + 
+guanosine) + xanthosine + 7-methylxanthosine + 7-methylxan- 
+thine + theobromine + caffeine pathway. l h e  data obtained pro- 
+vide strong evidence against proposals by C.M. Nazario and C.J. 
+Lovatt ([I 9931 Plant Physiol 103: 1203-1 21 O) concerning the inde- 
+pendente of caffeine and theobromine biosynthesis pathways and 
+the role of xanthine as a key intermediate in caffeine biosynthesis. 
+Caffeine (1,3,7-trimethylxanthine) and theobromine (3,7- 
+dimethylxanthine) have been found in more than 60 sub- 
+tropical plant species (Suzuki et al., 1992). Many plants 
+used for nonalcoholic beverages, such as tea (Camellia si- 
+nensis L.), coffee (Coffea arabica L.), cocoa (Theobroma cacao), 
+and maté (Ilex paraguariensis), contain these purine alka- 
+loids (Suzuki and Waller, 1988). The biosynthesis pathway 
+of theobromine and caffeine has been the subject of much 
+study over the years. Although early investigations im- 
+plied the involvement of nucleic acids as precursors in 
+caffeine biosynthesis (Ogutuga and Northcote, 1970; Su- 
+zuki and Takahashi, 1976), more recent investigations with 
+tea and coffee suggest that caffeine is produced from the 
+purine nucleotides AMP, GMP, and/ or IMP and that theo- 
+bromine is the immediate precursor of caffeine (Fig. 1) 
+(Negishi et al., 1985, 1992; Fujimori et al., 1991; Suzuki et 
+al., 1992; Fujimori and Ashihara, 1994). In coffee, young 
+leaves that are not fully expanded have the highest capac- 
+ity for caffeine biosynthesis (Fujimori and Ashihara, 1994). 
+Supported by British Council Japan-United Kingdom trave1 
+grants and an Association Scientifique Internationale du Cáfe 
+Commemorative Research Grant. 
+Supported by a Biotechnology and Biological Sciences Re- 
+search Council grant. 
+* Corresponding author; e-mail gbta270udcf.gla.ac.uk; fax 44- 
+141-330 - 4447. 
+On the basis of metabolic studies in which the identifi- 
+cation of products and the leve1 of incorporation of I4C 
+label were based on co-crystallization, Nazario and Lovatt 
+(1993a, 1993b) concluded that theobromine is not the im- 
+mediate precursor of caffeine in coffee leaves and that two 
+separate de novo and salvage pools are involved in the 
+biosynthesis of theobromine. Despite an absence of confir- 
+matory analytical evidence, the Nazario and Lovatt papers 
+raise serious questions concerning the validity of the caf- 
+feine biosynthesis pathway illustrated in Figure 1. In these 
+circumstances, there is an urgent need for clarification. The 
+current report describes an investigation of caffeine biosyn- 
+thesis in coffee leaves in which metabolites originating 
+from radiolabeled [8-I4C]adenine, [8-I4C]guanine, [8-14C]- 
+xanthosine, and [2-14C]theobromine were analyzed by 
+HPLC-RC and TLC. The data obtained with these labeled 
+purine bases and nucleosides enabled the proposals of 
+Nazario and Lovatt (1993a, 1993b) to be examined in detail. 
+MATERIALS AND METHODS 
+Plant Material 
+Leaves were obtained in July and August 1994 from 
+4-year-old coffee plants (Coffea arabica L. cv Kent) growing 
+under a natural photoperiod in a greenhouse at the Uni- 
+versity of Glasgow. The developmental stages of the leaves 
+were categorized as (a) buds and young leaves, (b) mature 
+leaves, and (c) aged leaves. Young leaves were the most 
+recently emerged, and they weighed approximately 25 mg 
+(fresh weight) and were approximately 20 mm long and 7 
+mm wide. Mature leaves comprised the fully expanded, 
+second and third leaves below the apex (weight approxi- 
+mately 1.2 g), whereas aged leaves were dark green from 
+near the base of the shoot and weighed approxi- 
+mately 1.3 g. 
+Chemicals 
+The following radiochemicals were purchased from the 
+commercial sources indicated: [8-14C]adenine (specific ac- 
+tivity 1.96 MBq pmol-I), Amersham International; 
+[8-14C]guanine (2.1 MBq pmol-I) Amersham; [2-14C]theo- 
+bromine (2.07 MBq pmol-I), Moravek Biochemicals (Brea, 
+CA); and [8-14C]xanthosine (2.07 MBq pmol-I), Moravek. 
+Radiolabeled uric acid, allantoin, and allantoic acid, used 
+for co-chromatography, were prepared in vitro from 
+Abbreviation: HPLC-RC, HPLC-radiocounting. 
+747 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.
+748 Ashihara et al. Plant Physiol. Vol. 1 1  1, 1996 
+Nucleotide 
+de novo 
+Adenine Biosynthesis 
+Adenine 
+Nucleotide Pool 
+J J- 
+J J 
+Guanine 
+J. 
+Guanine 
+Nucleotide Pool 
+J 
+AMP - IMP - XMP -GMP 
+Allopurinol = v + 
+Xanthine + Xanthosine f- Guanosine 
+Allopurinol = + J. 
+Uric’Acid 7-Methylxanthosine 
+Allantoin 7-Methylxanthine 
+Allantoic Acid Theobromine 
+J t t Caffeine C02 + NH3 
+h r i n e  Catabolism Caffeine Biosynthesis 
+Figure 1. Metabolic pathways illustrating both the biosynthesis of 
+caffeine from purine nucleotides and the catabolism of purine nu-  
+cleotides to CO, and NH, in leaves of C. arabica. XMP, Xanthosine 
+5’-monophosphate. 
+[2-14C]xanthine (1.94 MBq pmol-’) using xanthine oxidase 
+(buttermilk), uricase (Camfida utilis), and allantoinase (pea- 
+nut). These enzymes and a11 other chemicals were pur- 
+chased from Sigma. 
+Extraction of Endogenous Xanthine Derivatives 
+Segments of coffee leaves were boiled in water for 15 min 
+and homogenized using a pestle and mortar. The resulting 
+homogenate was centrifuged at 12,0008 for 10 min, after 
+which the purine alkaloid content of an aliquot of the 
+supernatant was determined by reversed-phase HPLC. 
+Metabolism of Radiolabeled Purine Derivatives 
+Segments of C. arabica leaves (5 X 5 mm for mature and 
+aged leaves; 5-mm strips of buds and young leaves) were 
+incubated in 2 mL of medium, comprising 30 mM potas- 
+sium phosphate buffer, pH 5.6, 10 mM SUC, and a radiola- 
+beled substrate, contained in a 30-mL Erlenmeyer flask in a 
+shaking water bath at 27°C. The Erlenmeyer flask had a 
+well center containing a small glass tube into which was 
+inserted a piece of filter paper wetted with 0.1 mL of a 20% 
+potassium hydroxide solution. In pulse-chase experiments, 
+after an appropriate period, the incubation medium was 
+removed and replaced with fresh medium without the 
+radiolabeled substrate. 
+At the end of the incubation period the glass tube and 
+filter paper from the center well were transferred to a 
+50-mL flask containing 10 mL of distilled water, and after 
+thorough shaking, radioactivity in a 1-mL aliquot was de- 
+termined by liquid scintillation counting to estimate the 
+amount of 14C02 released during the metabolism period. 
+The C. arabica leaf segments were separated from the incu- 
+bation medium by filtering through a tea strainer, washed 
+with 50 mL of distilled water, then mixed with 2 mL of 
+extraction medium, comprising 80% methanol in 20 mM 
+sodium diethyldithiocarbamate, and ground in a chilled 
+pestle and mortar. The resultant tissue homogenate was 
+centrifuged at 12,0008 for 5 min, and the supernatant and 
+pellet were separated. The pellet was resuspended in 5 mL 
+of extraction medium and re-centrifuged. After three ex- 
+tractions, the supernatant fractions containing the metha- 
+nol-soluble metabolites were combined to yield a total 
+volume of approximately 12 mL, which was reduced to 
+dryness in vacuo, and aliquots were analyzed by liquid 
+scintillation counting, HPLC-RC, and / or TLC. The pellet 
+was treated with 4 mL of 6% perchloric acid at 100°C for 20 
+min to hydrolyze nucleic acids, after which the sample was 
+centrifuged at 12,0008 for 5 min, and the pellet was washed 
+with cold 6% perchloric acid prior to re-centrifugation and 
+a further extraction. The three supernatant fractions were 
+combined and a 20-pL aliquot was removed for estimation 
+of radioactivity by liquid scintillation counting. 
+HPLC Analysis of Endogenous Xanthine Derivatives and 
+Radiolabeled Metabolites 
+A Spectra Physics (San Jose, CA) 8700 liquid chromato- 
+graph was used to deliver a 25-min, O to 40% gradient of 
+methanol in 50 mM sodium acetate, pH 5.0, at a flow rate of 
+1 mL min-l, with samples being introduced off-column via 
+a 7125 valve (Rheodyne, Cotati, CA) with a 500-pL loop. 
+Reversed-phase HPLC utilized a 250- x 4.6-mm-i.d. uni- 
+versal ferruleless column (Capital HPLC Specialists, Brox- 
+burn, Lothian, UK), packed in-house with a 5-pm ODS 
+Hypersil support (Shandon, Runcorn, Cheshire, UK). Col- 
+umn eluate was directed first to a Spectra Physics 8450 A270 
+monitor, after which fractions were collected or the solvent 
+was mixed with liquid scintillant (10 g Lpl 2,5-diphenylox- 
+azole in Triton x-lOO/xylene/methanol [11:2:5, v/v]), 
+pumped at a flow rate of 3 mL min-’ via a Reeve Analyt- 
+ical (Glasgow, UK) 9702 reagent delivery unit, and directed 
+to a Reeve Analytical 9701 radioactivity monitor with a 
+500-pL spiral glass flow cell. Signals from both detectors 
+were processed by a dual-channel 27000 data-handling 
+system (Reeve Analytical). The limit of detection for 14C- 
+labeled compounds analyzed by reversed-phase HPLC-RC, 
+operating in the homogeneous mode, is approximately 3 to 
+4 Bq (Sandberg et al., 1987). 
+The reversed-phase HPLC system successfully separated 
+11 different purine derivatives and also was able to resolve 
+14C-labeled uric acid, allantoin, and allantoic acid pro- 
+duced enzymically from [8-14C]xanthine (Ashihara et al., 
+1996). 
+TLC Analysis of Radiolabeled Metabolites 
+Because nucleotides were retained on the reversed-phase 
+HPLC column, methanol-soluble radiolabeled metabolites 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.
+Biosynthesis of Caffeine in Coffee Leaves 749 
+were also subjected to TLC. Methanolic extracts were sub- 
+jected to TLC on 200- X 200-mm sheets of microcrystalline 
+cellulose (Spotfilm; Tokyo Kasei Kogyo, Tokyo, Japan) us- 
+ing a solvent of n-butanollacetic acid/water (4:1:2, v/v). 
+Radiolabeled spots, detected after 2 weeks of exposure 
+using Kodak X-OMAT AR film (Eastman Kodak), were 
+scraped off the TLC plates and eluted from the cellulose 
+support with water, and the radioactivity was measured by 
+liquid scintillation counting (Ashihara and Kubota, 1986). 
+The recoveries of a11 I4C-labeled standards after HPLC 
+and TLC were >90%; therefore, it was not necessary to 
+apply a correction factor to adjust the data obtained for 
+sample losses. 
+RESULTS 
+Levels of Endogenous Xanthine Derivatives 
+Only caffeine, theobromine, and xanthine were present 
+in detectable quantities when leaf and bud extracts were 
+analyzed by HPLC (Table I). Buds and young leaves con- 
+tained the highest concentration of caffeine with about 
+one-third as much being detected in mature and aged 
+leaves. Theobromine and xanthine were present in much 
+lower concentrations than caffeine, and the levels of theo- 
+bromine, in particular, were markedly reduced in mature 
+and aged leaves. Theophylline (1,3-dimethylxanthine) and 
+paraxanthine (1,7-dimethylxanthine) were not detected in 
+any of the leaf extracts. 
+Metabolism of [8-'4C]Adenine 
+Figure 2 illustrates the results of pulse-chase experiments 
+with [8-I4C]adenine and young leaves of C. arabica. Ade- 
+nine nucleotides, nucleic acids, and theobromine were the 
+most heavily labeled compounds after the 6-h pulse. The 
+radioactivity associated with these compounds, as well as 
+7-methylxanthosine and 7-methylxanthine, declined after 
+the leaves were transferred to a nonradioactive medium. In 
+contrast, 14C-labeled caffeine and C02 increased after the 
+pulse period. The accumulation of [I4C]caffeine in this 
+manner is in keeping with the fact that the alkaloid is 
+synthesized much more rapidly than it is catabolized in C. 
+arabica shoots (Ashihara et al., 1996). The data presented in 
+Table 11, which were obtained after an 18-h incubation with 
+[8-14C]adenine, indicate that the capacity of leaves to con- 
+vert adenine into theobromine and caffeine is highest in 
+young leaves and decreases as the leaves mature and age. 
+Table 1. Concentrations of endogenous caffeine, theobromine, and 
+xanthine in buds and young, aged, and mature leaves of 
+C. arabica 
+expressed as mg g-' fresh weight, means t SE (n  = 3). 
+Similar data were obtained in a duplicate experiment. Data are 
+Tissue Caffeine Theobromine Xanthine 
+Buds 5.7 i 0.2 1.9 i 0.6 0.07 t 0.03 
+Young leaves 7.1 f 2.6 1.8 t- 0.9 0.22 t- 0.07 
+Mature leaves 2.1 t- 0.34 0.13 t- 0.02 0.10 t- 0.03 
+Aaed leaves 2.4 f 0.9 0.06 t 0.02 0.09 t 0.05 
+"v I 
+40 
+30 
+20 
+10 
+O 
+O 20 40 60 
+Incubation period (h) 
+Figure 2. Distribution of radioactivity in metabolites from [8-l4C1- 
+adenine after a pulse-chase experiment with young leaves of C. 
+arabica. Leaves (50 mg fresh weight) were incubated with 9.5 p~ 
+[8-'4C]adenine for 6 h, after which the radioactivity was chased for 
+a further 66 h .  lncorporation of radioactivity is expressed as a per- 
+centage of total radioactivity taken u p  by the leaves (7.1 -C 0.3 kBq 
+50 mg-' fresh weight). O, Adenine nucleotides; O, theobromine; O, 
+caffeine; A, 7-methylxanthosine; A, 7-methylxanthine; + , C 0 2 ;  W, 
+RNA.  Similar data were obtained in a duplicate experiment. 
+The effects of the hypoxanthine analog, allopurinol, 
+which is an inhibitor of xanthine dehydrogenase/ oxidase 
+(Nguyen, 1986), on [8-14C]adenine metabolism in buds and 
+young leaves were investigated. The data obtained are 
+presented in Figure 3. Although the release of 14C0, from 
+[14C]adenine was reduced greatly by 5 mM allopurinol, 
+there was little or no significant effect on the incorporation 
+of radioactivity into theobromine and caffeine. This obser- 
+vation contrasts with the findings of Nazario and Lovatt 
+(1993b), who reported that 10 mM allopurinol treatment of 
+Table II. Overall metabolism of [8-'4C]adenine by young, mature, 
+and aged leaves of C. arabica 
+Leaf samples were incubated with 9.4 p~ [8-14C]adenine (1.96 
+MBq pmol-') for 18 h.  Total uptake of radioactivity is expressed as 
+k B q  100 mg-' of leaf (fresh weight), means * SE (n  = 3). Incorpo- 
+ration of radioactivity into metabolites is expressed as a percentage of 
+total uptake 2 SE (n  = 3). n.d., Not detected. 
+Leaf Type 
+Youne Mature Aeed 
+Metabolites 
+Xanthine 
+7-Methylxanthine 
+Theobromine 
+Caffeine 
+Theophylline 
+Other soluble com- 
+pounds 
+CO, 
+Nucleic acids 
+Total uptake of radio- 
+activitv 
+8.4 i 1.7 
+3.7 t 0.7 
+26.2 t- 3.2 
+20.5 t 3.5 
+n.d. 
+4.4 t- 0.5 
+3.2 t 0.2 
+35.0 t 0.7 
+12.3 t 3.0 
+5.4 t 0.8 3.4 t 0.3 
+3.4 t 0.7 0.8 t- 0.1 
+10.3 2 0.1 1.4 t 0.8 
+7.1 t 0.7 0.8 t- 0.2 
+n.d. n.d. 
+7.8 t- 0.8 13.5 t 0.6 
+10.9 t 0.2 
+48.9 t- 0.5 
+15.0 f 0.2 
+36.2 t- 3.6 
+49.6 t- 3.6 
+18.5 t- 2.3 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.
+750 Ashihara et al. 
+C. arabica leaves results in a marked reduction in the incor- 
+poration of [8-14C]adenine in caffeine. 
+Metabolism of [8-14ClCuanine 
+Figure 4 illustrates the analysis of methanol-soluble me- 
+tabolites of [8-14C]guanine by HPLC-RC. In addition to the 
+guanine substrate, the radiolabeled compounds detected 
+included caffeine, theobromine, 7-methylxanthine, allan- 
+toin, and allantoic acid. The incorporation of radioactivity 
+into theobromine and caffeine was higher in young than in 
+mature and aged leaves (Fig. 4; Table 111). This may be due 
+partly to a decrease in guanine salvage activity as the leaf 
+matures and ages. The decrease in the incorporation of 
+radioactivity from [8-14C]guanine into nucleic acids ob- 
+served in the older leaves supports this possibility. In 
+contrast, degradation of [8-14C]guanine, as indicated by the 
+release of 14C0,, increased during leaf development (Table 
+111), and this was accompanied by an increase in the leve1 of 
+radioactivity associated with the purine catabolites allan- 
+toin and allantoic acid (Fig. 4). Most of these degradation 
+products appear to be produced directly from guanine by 
+conventional purine catabolism pathways, independently 
+of the production of purine alkaloids (Fig. 1). 
+Metabolism of [8-14C]Xanthosine 
+Figure 5 illustrates the HPLC-RC profiles obtained with 
+the methanol-soluble fractions obtained from leaves of C. 
+arabica after a I-h incubation with [8-14C]xanthosine. Xan- 
+thosine is an intermediate of purine catabolism (Fig. 1; 
+Suzuki et al., 1992), and as a consequence, much of the 
+exogenously supplied substrate was probably degraded 
+via this route and incorporation of radioactivity into caf- 
+feine was detected only in young leaves. In keeping with its 
+Tb Cf CO? Tb Cf CO? 
+Figure 3. Effect of 5 mM allopurinol o n  the incorporation of radio- 
+activity from [8-l4C1adenine into theobromine (Tb), caffeine (Cf), and 
+CO, in buds (A) and young leaves (B)  of C. arabica. Leaf samples 
+(100 mg fresh weight) were incubated for 18 h with 9.5 FM [8-l4C1- 
+adenine. lncorporation of radioactivity is expressed as a percentage 
+t- SE of the total radioactivity taken u p  by the young leaves and buds 
+( n  = 3). Total uptake of radioactivity of 100 mg-’ fresh weight was 
+as follows: control buds, 20.4 t- 0.4 kBq; allopurinol-treated buds, 
+21.6 t- 0.4 k B q ;  control young leaves, 18.7 t 0.7 kBq; allopurinol- 
+treated young leaves, 14.2 ? 1.3 kBq. 
+Plant Physiol. Vol. 1 1  1,  1996 
+Tb 
+Ala /”” U 
+(  
+O 5 10 15 20 25 30 
+Retention time (min) 
+Figure 4. Keversed-phase HPLC-KC analysis of methanol-soluble 
+[8-’4C]guanine metabolites from young (A), mature (B), and aged (C) 
+leaves of C. arabica. Leaves (100 mg fresh weight) were incubated 
+with 8.9 FM [8-’4C]guanine for 18 h prior to extraction. Ala, 
+Allantoic acid; All, allantoin; U, uric acid; G, guanine; 7mX, 7- 
+methylxanthine; Tb, theobromine; and Cf, caffeine. 
+role in purine catabolism, with a11 three types of leaf, most 
+of the applied [8-14C]xanthosine was converted to allantoin 
+and allantoic acid. 
+To further examine the caffeine biosynthesis pathway 
+from [8-14C]xanthosine, pulse-chase experiments were car- 
+ried out with young leaves in the presence and absence of 
+5 mM allopurinol (Table IV). In control incubations 7-meth- 
+Table III. Overall metabolism of [8-’4C]guanine by young, mature, 
+and aged leaves of C. arabica 
+Leaf samples were incubated with 8.9 PM [8-14C]guanine (2.1 
+MBq pmol-’) for 18 h. Total uptake of radioactivity is expressed as 
+k B q  100 mg-’ of leaf (fresh weight), means t- SE (n  = 3). Incorpo- 
+ration of radioactivity into metabolites is expressed as a percentage of 
+total uptake t- SE (n  = 3 ) .  n.d., Not detected. Note that estimates of 
+incorporation of 14C into metabolites were obtained by HPLC-RC 
+using larger size sample aliquots than illustrated in  Figure 4 to obtain 
+accurate quantitative information concerning minor metabolites. 
+Leaf Type 
+Young Mature Aged 
+Metabolites 
+Residual guanine 4.0 t 0.2 2.9 ? 0.2 2.3 2 0.1 
+7-Methylxanth i ne 1 .O t- 0.3 1 .O t- 0.2 0.7 ? 0.1 
+Theobrom i ne 11.7 t- 1.8 1 .O ? 0.2 0.2 ? 0.0 
+Caffeine 9.1 t 0.5 0.6 t- 0.1 0.3 t- 0.1 
+Theophylline n.d. n.d. n.d. 
+Other soluble com- 3.4 i 1 .O 6.4 ? 1.9 3.2 ? 0.2 
+35.4 ? 5.2 62.6 t 4.0 74.6 i 1.7 
+Nucleic acids 35.6 2 0.7 25.6 ? 2.1 18.9 2 1.6 
+Total uptake of radio- 24.7 ? 1 .O 26.7 ? 3.6 29.9 t 1.6 
+pounds 
+CO, 
+activity 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.
+Biosynthesis of Caffeine in Coffee Leaves 75 1 
+o 5 10 I5 20 2s jo  
+Retention time (min) 
+Figure 5. Reversed-phase HPLC-RC analysis of methanol-soluble 
+18-’4C]xanthosine metabolites from young (A), mature (B), and aged 
+(C) leaves of C. arabica. Leaves (1 O0 mg fresh weight) were incubated 
+with 8.9 p~ [8-l4C1xanthosine for 18 h prior to extraction. Ala, 
+Allantoic acid; All, allantoin; and Cf, caffeine. 
+ylxanthine and theobromine were both labeled during the 
+6-h pulse, but no radioactivity was associated with these 
+compounds after an 18-h chase. Some of the substrate was 
+converted to caffeine, but the majority appeared to un- 
+dergo degradation via the purine catabolism pathway with 
+incorporation of label into allantoin, allantoic acid, and 
+CO, (Table IV). Inhibition of the purine catabolism with 
+allopurinol resulted in a marked reduction in I4CO, output 
+and an absence of detectable incorporation of label into 
+allantoin and allantoic acid, whereas there was an increase 
+in radioactivity associated with xanthine, 7-methylxan- 
+thine, and caffeine (Table IV). 
+Although Nazario and Lovatt (1993a, 1993b) reported 
+that coffee leaves convert [8-14C]xanthine to caffeine, Ashi- 
+hara et al. (1996) demonstrated that [2-I4C]xanthine is in- 
+corporated into allantoin, allantoic acid, and CO, but not 
+caffeine, by young, mature, and aged C. arabica leaves, even 
+in presence of allopurinol. The metabolism of [8-I4C]xan- 
+thosine to caffeine, demonstrated in Figure 5 and Table IV, 
+is therefore in keeping with the operation of a xanthosine 
+-+ 7-methylxanthosine -+ 7-methylxanthine + theobro- 
+mine -+ caffeine pathway (Fig. 1). Radioactivity was asso- 
+ciated with a11 of the intermediates in this pathway except 
+7-methylxanthosine, which presumably was subject to 
+rapid turnover, being metabolized to 7-methylxanthine at 
+a rate that precluded its accumulation in detectable 
+quantities. 
+Metabolism of [2-’4C]Theobromine 
+The metabolism profile of the methanol-soluble fraction 
+obtained after feeding [2-14C]theobromine revealed that 
+theobromine is converted exclusively to caffeine by young, 
+mature, and aged leaves after an 18-h incubation period 
+(Fig. 6). The total amount of [14C]caffeine to accumulate 
+was 1611 Bq (100%) in young leaves, 1064 Bq (66%) in 
+mature leaves, and 614 Bq (33%) in aged leaves. This im- 
+plies that the capacity of leaves to carry out this 1-N- 
+methylation step does not decline with age to the same 
+extent as other sections of the caffeine biosynthesis path- 
+way, as indicated by the leve1 of conversion of radiolabeled 
+adenine, guanine, and xanthosine to caffeine in young, 
+mature, and aged leaves (Tables I1 and 111; Fig. 5) .  
+DlSCUSSlON 
+There is strong evidence that the biosynthesis of caffeine 
+is initiated by the degradation of purine nucleotides (Ashi- 
+hara and Kubota, 1986, 1987; Fujimori et al., 1991; Negishi 
+et al., 1992). In higher plants, as well as almost a11 other 
+organisms, purine nucleotides are synthesized by both de 
+novo and salvage pathways (Ross, 1981; Hirose and Ashi- 
+hara, 1984; Wagner and Backer, 1992). The metabolic fate of 
+purine nucleotides is usually investigated using radiola- 
+beled purine bases and nucleosides (Yabuki and Ashihara, 
+1991). Since adenine is not readily degraded in higher 
+plants because they lack adenine deaminase (Le Floc’h et 
+al., 1982), it is relatively easy to follow the metabolic fate of 
+adenine nucleotides that have been prelabeled with 
+[8-I4C]adenine. Although guanine can be degraded by gua- 
+nine deaminase, the activity of this enzyme in plants is low 
+(Negishi et al., 1994); therefore, exogenous [8-14C]guanine 
+is usually converted to [8-I4C]GMP in significant amounts 
+by hypoxanthine-guanine phosphoribosyltransferase (Hi- 
+rose and Ashihara, 1984). 
+In the present study, adenine and guanine nucleotides 
+were prelabeled by feeding [8-I4C]adenine and [8-I4C]gua- 
+nine, and the biosynthesis of caffeine from these purine 
+nucleotides was investigated. Data obtained in pulse-chase 
+experiments with [8-I4C]adenine (Fig. 2; Table 11) suggest 
+strongly that caffeine is synthesized from adenine nucleo- 
+tides via 7-methylxanthosine, 7-methylxanthine, and theo- 
+bromine, as illustrated in Figure 1. The demonstrated 
+conversions of [8-14C]xanthosine to 7-methylxanthine, 
+theobromine, and caffeine (Fig. 5; Table IV) and that of 
+[2-I4C]theobromine to caffeine (Fig. 6) provide convincing 
+evidence for the operation of this pathway. These findings 
+clearly refute the proposal of Nazario and Lovatt (1993a, 
+1993b) that theobromine is not an immediate precursor of 
+caffeine in C. arabica leaves. Nazario and Lovatt (1993a, 
+1993b) presented data indicating that, although allopurinol 
+inhibited the conversion of [8-I4C]adenine to caffeine by 
+more than 50%, it had no effect on the incorporation of 
+label into theobromine. This implies that the biosynthesis 
+of caffeine from adenine involves reactions catalyzed by 
+xanthine dehydrogenase / oxidase, and it was concluded 
+that caffeine is synthesized from the degradation of purines 
+via hypoxanthine, xanthine, and paraxanthine, whereas 
+theobromine is produced from adenine nucleotides (Naz- 
+ario and Lovatt, 1993a, 1993b). The data presented in this 
+report do not confirm these proposals. In our experiments, 
+although 5 mM allopurinol strongly inhibited purine catab- 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.
+752 Ashihara et al. Plant Physiol. Vol. 1 1  1, 1996 
+Table IV. Distribution of radioactivity in metabolites from [8-'4Clxanthosine after a pulse-chase ex- 
+periment with young leaves of C. arabica 
+Leaves (60 mg fresh weight) were incubated with 8.9 p~ [8-'4C]xanthosine (2.07 MBq pmol-') for 
+6 h in the presence and absence of 5 mM allopurinol, after which the radioactivity was chased for a 
+further 18 h .  lncorporation of radioactivity at the end of the 6-h pulse and the 12-h chase is expressed 
+as a percentage of the total radioactivity incorporated into metabolites, means i SE (n  = 3). Total 
+radioactivity taken u p  by the leaves during the 6-h pulse was 574 i 7 Bq (control) and 366 i 14 B q  
+(allopurinol). n.d., Not detected. 
+Metabolites 
+7-Methylxanthine 
+Theobromine 
+Caffeine 
+Xanthine 
+Allantoin 
+Allantoic acid 
+co, 
+Control Allopurinol 
+6 h  24 h 
+3.7 i 0.4 n.d. 
+9.4 -c 1.4 n.d. 
+9.1 i 1.1 18.6 i 6.0 
+30.9 i 4.6 7.3 i 1.6 
+23.9 i 3.0 16.5 i 0.5 
+6.9 i 4.1 26.9 -C 0.8 
+7.1 -t- 0.6 25.4 i 3.6 
+~ 
+olism, it also brought about small increases in the incorpo- 
+ration of [8-14C]adenine into both theobromine and caffeine 
+(Fig. 3). This was probably due to an increase in the size of 
+the adenine nucleotide pool facilitated by the inhibitory 
+effects of allopurinol on purine catabolism (Fig. 1). 
+Biosynthesis of caffeine from [8-14C]guanine in C. arabica 
+leaves was also demonstrated in the current studies. The 
+relatively high leve1 of accumulation of [14C]caffeine in 
+young coffee leaves (Fig. 5A) implies that the applied gua- 
+nine is converted to GMP (Fig. 1). Since GMP reductase is 
+not functional in plant cells (Ashihara et al., 1992), 5'- 
+nucleotidase and guanosine deaminase (Negishi et al., 
+1994) are probably responsible for the metabolism of GMP 
+0 5 10 15 20 25 30 
+Retention time (min) 
+Figure 6. Reversed-phase HPLC-RC analysis of methanol-soluble 
+[2-'4C]theobromine metabolites from young (A), mature (B), and 
+aged (C) leaves of C. arabica. Leaves (100 mg fresh weight) were 
+incubated with 8.9 p~ [2-'4Cltheobromine for 18 h prior to extrac- 
+tion. Tb, Theobromine; Cf, caffeine. 
+6 h  24 h 
+20.3 i 3.0 
+13.2 i 0.7 n.d. 
+14.5 i 1.1 
+41.6 i 0.1 
+25.3 i 1.9 
+29.9 i 2.3 
+30.7 i 4.7 
+n.d. n.d. 
+n.d. n.d. 
+3.2 i 0.6 7.4 i 2.5 
+to guanosine and on to xanthosine, which is incorporated 
+into the caffeine biosynthesis pathway, as indicated in 
+studies with tea leaves (Suzuki et al., 1992). Although 
+[8-'4C]guanine was clearly converted to theobromine and 
+caffeine, no incorporation of label into either theophylline 
+or paraxanthine was observed (Fig. 5; Table 111). This find- 
+ing does not support the hypothesis of Nazario and Lovatt 
+(19934 that theophylline is synthesized from guanine 
+nucleotides. 
+The data obtained in the present study demonstrate that 
+there is a marked decline in the rate of biosynthesis of 
+caffeine from adenine, guanine, and xanthosine as C. ara- 
+bica leaves age, but because caffeine is catabolized very 
+slowly (Ashihara et al., 1996), there is not a concomitant 
+reduction in the concentration of endogenous caffeine (Ta- 
+ble I). The reduced rate of incorporation into caffeine is 
+probably an indirect consequence of enhanced purine ca- 
+tabolism in the mature and aged leaves, which restricts the 
+availability of xanthosine as a substrate for caffeine biosyn- 
+thesis (Fig. 1). In contrast to adenine, guanine, and adeno- 
+sine, the rate of conversion of theobromine to caffeine is not 
+influenced greatly by leaf age (Fig. 6). Whether other com- 
+mitted steps in the caffeine biosynthesis pathway behave in 
+a similar manner remains to be determined. 
+The proposed role of xanthine as a key intermediate in 
+the biosynthesis of caffeine by Nazario and Lovatt 
+(1993a, 199313) is especially controversial because previ- 
+ous in vivo and in vitro studies with both tea and coffee 
+have indicated that conversion of xanthine to caffeine is 
+at best negligible (Looser et al., 1974; Suzuki and Taka- 
+hashi, 1975b) and, more usually, undetectable (Suzuki 
+and Takahashi, 1975a; Roberts and Waller, 1979; Suzuki 
+and Waller, 1984; Negishi et al., 1985). Reviewing the 
+available evidence in 1992, Suzuki et al. concluded that 
+xanthine cannot serve effectively as the direct precursor 
+of the caffeine ring, and recent studies in which [2-'4C]- 
+xanthine was incubated with young, mature, and aged C. 
+arabica leaves did not detect incorporation of label into 
+caffeine (Ashihara et al., 1996). 
+The major discrepancies between our findings and the 
+data of Nazario and Lovatt (1993a, 1993b) may result from 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.
+Biosynthesis of Caffeine in Coffee Leaves 753 
+the  use of different plant material and  experimental meth- 
+ods. Our da ta  were  obtained mainly wi th  very young 
+leaves of C. arabica, which have  a high capacity for caffeine 
+biosynthesis, and  overall metabolism w a s  examined by 
+TLC and  high-resolution HPLC-RC after the  application of 
+radiolabeled precursors in  doses that were  usually less 
+than  10 p ~ .  In their studies, Nazario and  Lovatt (1993a) 
+used older, fully expanded leaves and applied radiolabeled 
+substrates i n  doses of 2-5 mM that are well i n  excess of 
+endogenous levels. They also utilized a number of “non- 
+committed” radiolabeled substrates such as bicarbonate, 
+formate, and Gly, whose low leve1 incorporation into pu- 
+rine alkaloids, especially i n  long-term experiments, may 
+well be  a consequence of the  introduction of label into the  
+pur ine  ring and / or  substituent methyl groups via indirect 
+secondary pa thways  (Anderson and  Gibbs, 1962). It should 
+also be noted that Nazario and  Lovatt (1993a, 1993b) used 
+co-crystallization to  identify and  quantify radiolabeled me- 
+tabolites i n  highly impure  plant extracts. A s  a consequence, 
+their analytical da ta  mus t  be viewed wi th  caution until 
+confirmatory evidence, obtained with more rigorous meth- 
+ods such as HPLC or  GC-MS, is forthcoming. 
+Received November 7, 1995; accepted April 19, 1996. 
+Copyright Clearance Center: 0032-0889/96/111/0747/07. 
+LITERATURE ClTED 
+Anderson L, Gibbs M (1962) The biosynthesis of caffeine in the 
+coffee plant. J Biol Chem 237 1941-1944 
+Ashihara H, Kubota H (1986) Patterns of adenine metabolism and 
+caffeine biosynthesis in different parts of tea seedlings. Physiol 
+Plant 68: 275-282 
+Ashihara H, Kubota H (1987) Biosynthesis of purine alkaloids in 
+CameJlia plants. Plant Cell Physiol 28: 535-539 
+Ashihara H, Mitsui K, Yabuki N, Nygaard P (1992) Adenosine 
+metabolism and growth of adenosine-requiring mutant cells of 
+Datura innoxia. J Int Purine Pyrim Res 2: 129-135 
+Ashihara H, Monteiro AM, Moritz T, Gillies FM, Crozier A 
+(1996) Catabolism of caffeine and related purine alkaloids in 
+leaves of Coffea arabica L. Planta 198: 334-339 
+Fujimori N, Ashihara H (1994) Biosynthesis of theobromine and 
+caffeine in developing leaves of Coffea arabica. Phytochemistry 
+Fujimori N, Suzuki T, Ashihara H (1991) Seasonal variations in 
+biosynthetic capacity for the synthesis of caffeine in tea leaves. 
+Phytochemistry 3 0  2245-2248 
+Hirose F, Ashihara H (1984) Changes in the activity of enzymes 
+involved in purine “salvage” and nucleic acid degradation dur- 
+ing the growth of Catharanthus m e u s  cells in suspension culture. 
+Physiol Plant 6 0  532-538 
+Le Floc’h F, Lafleuriel J, Guillot A (1982) Interconversion of 
+purine nucleotides in Jerusalem artichoke shoots. Plant Sci Lett 
+36: 1359-1361 
+27: 309-316 
+Looser R, Baumann TW, Wanner H (1974) The biosynthesis of 
+caffeine in the coffee plant. Phytochemistry 13: 2515-2518 
+Nazario GM, Lovatt CJ (1993a) Purine metabolism and alkaloid 
+biosynthesis in leaves of Coffea arabica L. In 15th Internationale 
+Scientific Colloquium on Coffee, Vol 1. Association Scientifique 
+Internationale du Cáfe, Paris, pp 155-162 
+Nazario GM, Lovatt CJ (1993b) Separate de novo and salvage 
+purine pools are involved in the biosynthesis of theobromine but 
+not caffeine in leaves of Coffea arabica L. Plant Physiol 103: 
+Negishi O, Ozawa T, Imagawa H (1985) The role of xanthosine in 
+the biosynthesis of caffeine in coffee plants. Agric Biol Chem 49: 
+2221-2222 
+Negishi O, Ozawa T, Imagawa H (1992) Biosynthesis of caffeine 
+from purine nucleotides in tea plants. Biosci Biotech Biochem 56: 
+Negishi O, Ozawa T, Imagawa H (1994) Guanosine deaminase 
+and guanine draminase from tea leaves. Biosci Biotech Biochem 
+Nguyen J (1986) Plant xanthine dehydrogenase: distribution, 
+properties and function. Physiol Veg 24: 263-281 
+Ogutuga DBA, Northcote DH (1970) Biosynthesis of caffeine in 
+tea callus tissue. Biochem J 117 715-720 
+Roberts M, Waller GR (1979) N-methyltransferases and 7-methyl- 
+N9-nucleoside hydrolase activity in Coffea arabica and the bio- 
+synthesis of caffeine. Phytochemistry 18: 451-455 
+Ross CW (1981) Biosynthesis of nucleotides. In PK Stump, EE 
+Conn, eds, The Biochemistry of Plants, Vol 6. Academic Press, 
+New York, pp 169-205 
+Sandberg G, Crozier A, Ernstsen A (1987) Indole-3-acetic acid and 
+related compounds. In L Rivier, A Crozier, eds, Principles and 
+Practice of Plant Hormone Analysis, Vol 2. Academic Press, 
+1203-1210 
+499-503 
+58: 1277-1281 
+London, pp 169-301 
+Suzuki T. Ashihara H, Waller GM (1992) Purine and purine 
+~I 
+alkaloid metabolism in Camellia and Coffea plants. Phytochemis- 
+try 31: 2575-2584 
+Suzuki T, Takahashi E (1975a) Biosynthesis of caffeine by tea leaf 
+extracts. Biochem J 146: 87-96 
+Suzuki T, Takahashi E (197513) Metabolism of xanthine and hy- 
+poxanthine in the tea plant (Thea sinensis L.). Biochem J 146: 
+Suzuki T, Takahashi E (1976) Further investigation of the biosyn- 
+thesis of caffeine in tea plants (Catnellia sinensis L.). Methylation 
+of transfer ribonucleic acid by tea leaf extracts. Biochem J 160: 
+Suzuki T, Waller GR (1984) Biosynthesis and biodegradation of 
+caffeine, theobromine and theophylline in Coffea avabica L. fruits. 
+J Agric Food Chem 32: 845-848 
+Suzuki T, Waller GR (1988) Metabolism and analysis of caffeine 
+and other methylxanthines in coffee, tea, cola, guarana and 
+cacao. In HF Linskens, JF Jackson, eds, Modern Methods in Plant 
+Analysis, New Series, Vol 8: Analysis of Nonalcoholic Bever- 
+ages. Springer-Verlag, Berlin, pp 184-220 
+Wagner KG, Backer AI (1992) Dynamics of nucleotides in plants: 
+studies on a cellular basis. Int Rev Cytol 134: 1-84 
+Yabuki N, Ashihara H (1991) Catabolism of adenine nucleotides 
+in suspension-cultured plant cells. Biochim Biophys Acta 1073: 
+474480 
+79-85 
+181-184 
+ www.plantphysiol.orgon May 11, 2019 - Published by Downloaded from 
+Copyright © 1996 American Society of Plant Biologists. All rights reserved.

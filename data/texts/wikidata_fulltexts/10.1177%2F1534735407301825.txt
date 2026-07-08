@@ -1,0 +1,472 @@
+Milk thistle nomenclature: why it matters in cancer research and pharmacokinetic studies 
+ 
+By: David J. Kroll, Heather S. Shaw, and Nicholas H. Oberlies 
+ 
+Kroll, D.J., Shaw, H.S. and Oberlies, N.H. (2007) Milk thistle nomenclature: Why it matters in cancer research  
+ and pharmacokinetic studies. Integrative Cancer Therapies 6, 110-119. 
+ 
+Made available courtesy of SAGE Publications: http://ict.sagepub.com/ 
+ 
+***Note: Figures may be missing from this format of the document 
+ 
+Abstract: 
+Extracts of milk thistle have been recognized for centuries as "liver tonics" and are well-known to prevent or 
+reverse hepatotoxicity of reactive drug metabolites or naturally occurring toxins. Milk thistle extracts are now 
+under intense study in the experimental therapeutics of cancer for chemoprevention, treatment, and amelioration 
+of chemotherapy side effects. Precision in nomenclature, however, has lagged behind this progress. The crude 
+commercial product of milk thistle is termed silymarin, a complex of at least 7 flavonolignans and 1 flavonoid 
+that comprises 65% to 80% of milk thistle extract. From silymarin is derived silibinin, a semipurified fraction 
+once thought to be a single compound but now recognized as a 1:1 mixture of 2 diastereoisomers, silybin A and 
+silybin B. The distinction between silymarin and silibinin is not only important to understanding the historical 
+literature, but thorough characterization and use of chemically defined mixtures in preclinical and clinical 
+studies are essential to the progress of these botanical compounds as human therapeutics. As a result, we urge 
+clinicians and preclinical investigators alike to exercise rigor in nomenclature and use pure compounds or 
+precisely defined chemical mixtures in subsequent studies. Herein, we provide a guide to the proper 
+nomenclature and composition of milk thistle extracts and discuss the known pharmacokinetic studies of these 
+botanical medicines. The drug-interaction potential of these extracts appears to be quite low, and in fact, 
+silibinin appears to synergize with the antitumor effects of some commonly used chemotherapeutics. However, 
+some precautions are advised as high-dose, phase II studies are conducted.  
+Keywords: milk thistle; silymarin; silibinin; flavonolignans; stereochemistry; cancer; epithelial  
+Article: 
+ 
+  "The beginning of wisdom is to call things by their proper names." 
+  Chinese proverb attributed often to Confucius 
+Milk thistle (Silybum marianum [L.] Gaertn. [Asteraceae]; synonym Carduus marianus L.) is a hardy and often 
+invasive plant indigenous to the Mediterranean region whose achenes, often referred to as seeds, have been 
+valued for their medicinal qualities. (1) Most research and application of the phytomedicinal extract of milk 
+thistle seeds had been directed toward disorders of the liver, particularly cirrhosis, hepatitis, and in protection 
+and treatment of xenobiotic-mediated liver injury. In the early 1990s, several reports began to appear suggestive 
+of milk thistle as a potential cancer chemopreventive agent. The 1994 report of Agarwal et al (2,3) 
+demonstrating silymarin inhibition of tumor promotion by phorbol ester in the SENCAR mouse is viewed 
+widely as the catalyst for studying milk thistle as a cancer preventive and potential treatment. The subsequent 
+progress of milk thistle in cancer research will be covered elsewhere in this volume by Deep and Agarwal. (4) 
+The purpose of this review is instead to discuss the chemistry and composition of milk thistle extracts, discuss 
+the pharmacokinetic studies with milk thistle extracts, and urge a renewed attention to detail in milk thistle 
+nomenclature to clarify the literature and maximize the potential clinical applications of this promising 
+botanical medicine.  
+Nomenclature of Milk Thistle Compounds  
+In the August 2000 issue of Hepatology, the prolific Czech consortium of milk thistle researchers led by Drs 
+Vilim Simanek and Vladimir Kren emphatically raised attention to proper milk thistle nomenclature in a letter 
+to the editor entitled, "Silymarin: What Is in the Name ...? An Appeal for a Change of Editorial Policy." (5) 
+Their essay, in response to a review of herbal products for liver diseases, raised several key issues that 
+converged on the inappropriate nomenclature and incomplete characterization of milk thistle products published 
+in preclinical and clinical studies. The authors closed their editorial as follows:  
+ 
+  We strongly recommend that investigators should either (1) give the 
+  exact composition of the "silymarin complex" or "the principle" used, 
+  or (2) use pure, chemically defined compounds. Implementation of these 
+  changes would greatly clarify the literature describing the biology of 
+  silymarin and its constituents. (5) 
+This issue is not a new one in the study of botanical medicines, as most plant extracts contain a number of 
+bioactive compounds yet are usually only standardized (if at all) for 1 compound or a number of compounds 
+with similar spectroscopic characteristics. As milk thistle extracts prove increasingly useful in preclinical 
+studies, progression to clinical studies will require complete and precise chemical characterization of study 
+materials. As members of our research group were the first to purify milligram quantities of all 7 milk thistle 
+flavonolignan compounds for biological studies, (6) we hope to answer the call of our colleagues in promoting 
+clarity in the nomenclature of biologically active compounds derived from milk thistle.  
+Table 1 contains a quick glossary of terms used to describe milk thistle components in the literature, often 
+interchangeably and, unfortunately, incorrectly. The term "silymarin," a clever condensation of the plant's Latin 
+binomial, was introduced originally in 1968 by the revered German phytochemist, Professor Hildebert Wagner, 
+and colleagues to describe the mixture of flavonolignans that had been characterized at the time (silybin, 
+isosilybin, silydianin, and silychristin). (7,8) Although many studies were conducted over the ensuing 3 
+decades, the Research Triangle Institute Natural Products Laboratory first reported on the resolution and 
+purification of all 7 flavonolignans from this mixture (Figure 1). (6) What was first termed silybin can be 
+resolved into 2 diastereoisomers, silybin A and silybin B. A similar diastereoisomeric mixture exists, yielding 
+isosilybin A and isosilybin B (which are regioisomers of silybin A and silybin B). The other 3 flavonolignans, 
+which are "constitutional" or "structural" isomers of the aforementioned compounds, are silychristin, 
+isosilychristin, and silydianin. The isolation and absolute stereochemistries of all these compounds were 
+subsequently confirmed by Lee and Liu. (9) The chemical structures of the 7 flavonolignans and taxifolin are 
+shown in Figure 1.  
+ 
+ 
+Figure 2 displays high-pressure liquid chromatography (HPLC) chromatograms of silymarin, silibinin, and 
+isosilibinin mixtures relative to all of the compounds isolated individually (silybin A, silybin B, isosilibin A, 
+and isosilybin B on the left panel and taxifolin, isosilychristin, silychristin, and silydianin on the right panel). 
+For those readers who are not well-versed in the intricacies of chromatography, one can consider these 
+chromatograms like fingerprints. It is our intention to demonstrate the remarkable differences between these 
+substances, which are all too often treated in the literature as being equivalent. From this, it should be apparent 
+that silymarin is a complex mixture, silibinin and isosilibinin are each a mixture of 2 compounds, and all of the 
+compounds can be isolated from each other (see Table 1 for a quick guide to these terms).  
+Why is silymarin such a complex mixture? Silymarin is simply the initial extract of milk thistle seeds made with 
+ethanol (or other solvents (10,11)) that contains 65% to 80% total flavonolignans and a small amount of a 
+flavonoid (taxifolin, barely discernable in the HPLC chromatogram of silymarin) (Figure 2), with the remainder 
+containing fatty acids and polyphenolic compounds. (1,6,12) The most commonly cited silymarin product used 
+in clinical trials is Legalon, or Thisilyn in the United States, a milk thistle extract sold by Madaus AG that is 
+standardized to 80% silymarin. Hence, a 175-mg capsule of Thisilyn contains 140 mg of a mixture of the 8 
+compounds in Figure 1.  
+The most abundant compounds in silymarin are the 2 diastereoisomers that comprise the semipurified mixture, 
+silibinin. One of the problems with silibinin reports in the literature is that it is considered a single compound 
+when, in fact, it is 2: roughly equal percentages of silybin A and silybin B. Even Sigma-Aldrich, the source of 
+silibinin for most preclinical studies, continues to sell its silibinin (#S0417) with a description that implies it is a 
+purified single compound from silymarin.  
+Why the Nomenclature Matters Outside of Chemistry  
+First, and most obviously, any preclinical or clinical study should be informed by the knowledge of whether one 
+is testing a mixture of 8 compounds or 2. Particularly in the case of silymarin, the abundance of each of the 
+compounds may vary depending on the source of botanical material, supplier, and extraction processes 
+employed.  
+Nature is variable, even within the same species of plant grown in the same exact place. This fact is well-
+accepted by those who enjoy wine, where a bottle created by the same vintners, grown on the same vines, but 
+produced in 2 different years can be quite distinct. The same can be true of herbal materials. Yet, all too often in 
+the scientific literature, many herbal extracts are treated, erroneously, as being completely equivalent. (13) In 
+clinical studies of pharmaceuticals, GMP-grade material is used such that the identity and reproducibility of the 
+study agent can be ensured. In clinical studies of botanicals, however, this is often not the case, making 
+comparisons between trials nearly impossible.  
+Biologically, the relative importance of each compound is emerging as pure compounds are isolated from 
+silymarin or silibinin in quantities sufficient for pharmacological evaluation. The importance of mixtures or 
+pure compounds will likely depend on the biological endpoint under study and the intended therapeutic 
+intervention. For example, the silymarin mixture has been shown to contain a modest ligand for the [beta] form 
+estrogen receptor (ER[beta]). (14) ER[beta] expression may serve to prevent breast cancer growth and serve as 
+an antagonist to the mitogenic effects of ER[alpha]. (15-18) Follow-up transcriptional activation studies have 
+revealed that silybin B and taxifolin are the only compounds in silymarin capable of stimulating an 
+estrogenresponsive reporter plasmid construct in T47D breast cancer cells. (19) Both are of similar potency 
+([EC.sub.25] of 4.4 and 11.0 [micro]M, respectively), but taxifolin achieved a higher level of maximal 
+stimulation. (19) We have shown that 3 silymarin products range from 21.6% to 23.8% silybin B, whereas 
+taxifolin is present only at 1.6% to 2.2%. (12) With regard to silymarin, silybin B may be most important for its 
+ER[beta] activity, but the data also suggest that pure taxifolin might be investigated individually as a breast 
+cancer chemopreventive.  
+ 
+ 
+In our work with prostate carcinoma cells in culture, (12) 4 compounds had the most consistent antiproliferative 
+effects across LNCaP, DU145, and PC3 cells: silybin A, silybin B, isosilybin A, and isosilybin B. Of these, 
+isosilybin B was uniformly the most potent compound, but isosilybin A was equally efficacious (DU145) in 
+some cases, whereas silybin B was as efficacious in others (PC3). In the androgen-dependent LNCaP prostate 
+carcinoma cell line, prostate-specific antigen (PSA) secretion was most effectively suppressed by isosilybin A 
+and isosilybin B. (12) Therefore, a combination of these 2 compounds, which we term "isosilibinin," may be 
+preferable for future studies in prostate carcinoma.  
+Conversely, the free radical scavenging activity of pure compounds is reported to vary considerably, with 
+silydianin and silychristin exhibiting 2- to 10-fold greater potency than the silibinin mixture. (20) Silydianin and 
+silychristin are present exclusively in silymarin; they are absent from silibinin. This factor likely accounts for 
+the observation that, on a mass basis, silymarin is 8-fold more potent than silibinin as a free radical scavenger. 
+(20)  
+Therefore, as biological studies progress, it remains important to make the distinction between silymarin and 
+silibinin, and their respective and distinct compositions. In fact, 1 herbal marketer has already cited our 2005 
+Cancer Research paper (12) and labels their silymarin product explicitly as containing isosilybin B, the most 
+broadly potent of the flavonolignans in arresting prostate cancer growth (Mega Silymarin with Isosilybin B, 
+Life Extension, Hollywood, Fla). This clever marketing, however, obscures the truth that all silymarin products 
+we have tested contain some isosilybin B, albeit at concentrations at 2.1% to 4.4% by weight. (12) Other 
+compounds are equally effective at higher concentrations, but this is not the case in all biological endpoints. 
+Hence, a careful analysis of the biological activities of each pure compound should be undertaken in any system 
+where either preparation exhibits promising activity.  
+The distinction between silymarin and silibinin is also important as clinical investigators might seek to pool 
+existing studies for meta-analyses. Even silymarin products vary in chemical composition among themselves 
+depending on the source of the milk thistle extract. So, there is some hesitation in even comparing results with 
+silymarin products obtained from different suppliers, for example, as shown in the pharmacokinetic results of 
+Schulz et al. (21) While silymarin does indeed contain a subset of the compounds in silibinin (silybin A and 
+silybin B), we would further hesitate to pool silymarin and silibinin data, as the nonsilibinin compounds in 
+silymarin may have distinct effects. Indeed, some of these effects may be overlapping and redundant, such as 
+suppression of human prostate carcinoma cell proliferation in vitro. (12) But depending on the outcome 
+monitored, it is entirely possible that silymarin and silibinin may behave differently. Therefore, in any 
+consideration of the clinical responses to milk thistle extract, careful distinction should be made between 
+silymarin and silibinin, at the very least.  
+A Few Words About Units of Concentration  
+There is 1 caveat as milk thistle studies are discussed: nearly all published pharmacokinetic studies use total 
+silibinin as the measurement but treat it as a single pure compound, expressing its concentration in terms of 
+molarity, usually micromolar ([micro]M). Semantically, molar values should be reserved for pure compounds. 
+Concentrations of mixtures, like silibinin and silymarin, are usually referred to in the natural products literature 
+in micrograms per milliliter ([micro]g/mL), particularly because mixtures often contain compounds with 
+different molecular weights. Expression in molarity helps one compare potency of compounds that differ in 
+their molecular (or formula) weight. In the case of silibinin, both compounds share the same molecular weight 
+of 482.1, and in silymarin, 7 of the 8 primary compounds also share this same molecular weight.  
+ 
+ 
+Hence, a "30-[micro]M" solution of silibinin is actually a mixture of 15 [micro]M silybin A and 15 [micro]M 
+silybin B because we know silibinin is roughly a 1:1 mixture of each compound. 12 However, in a 
+pharmacokinetic study, a reported concentration of 30 [micro]M silibinin in plasma does not tell one the 
+respective contributions of each compound, particularly because each compound can be handled differently by 
+the body. This is not purely a semantic issue of chemistry because 1 study has demonstrated that after in vitro 
+incubation with liver microsomes, silybin B is glucuronidated far more efficiently than is silybin A. (22) 
+Therefore, it is highly likely that these 2 compounds have distinct pharmacokinetic characteristics after being 
+administered orally as silibinin.  
+Now that analytical methods exist to separate the various milk thistle flavonolignans, (6,9,23) we encourage 
+those conducting future pharmacokinetic studies to use the molarity term only for pure compounds. In 
+discussions that follow, however, we will use the term "[micro]M silibinin equivalents" to refer to studies that 
+treat silibinin as a single compound.  
+Pharmacokinetics of Milk Thistle Compounds--Low-Dose Studies  
+Clinical studies of milk thistle extracts in cancer have lagged behind preclinical studies, but there have been 2 
+very recent, repeated dose-escalation phase I pharmacokinetic studies (24,25) that have followed from several 
+single- and repeated-low-dose studies published in the 1990s. These studies are essential in moving milk thistle 
+extracts forward as potentially useful antitumor adjuncts for the simple and similar reason that many 
+pharmaceutical candidates do not move forward to efficacy trials: they fail to achieve meaningful plasma or 
+tissue concentrations. Therefore, a primary purpose of pharmacokinetic studies is to provide assurance and 
+correlation that the dose administered gives rise to plasma and/or target tissue concentrations consistent with 
+those required to produce effects in vitro. One fault of many clinical studies of botanicals is that adequate 
+pharmacokinetic analyses are not completed prior to initiating efficacy trials. We have noted previously that 
+some botanicals may fail in efficacy trials not because the botanical is itself without activity, but because the 
+dosing was not sufficient to achieve pharmacologically meaningful concentrations. (26)  
+Pharmacokinetic studies of milk thistle extracts are particularly important in making in vitro-in vivo correlations 
+because the flavonolignans are notorious for their poor and erratic bioavailability. A 1995 study (21) revealed 
+that among 3 silymarin products standardized for similar silibinin content, total bioavailability of a single dose 
+varied by 2.2-fold, and peak plasma concentrations varied by nearly 3-fold. Another study reported on 1 
+participant from a group of 9 whose peak plasma silibinin concentrations were 20-fold greater than the mean of 
+the other 8. (27)  
+To maximize oral bioavailability, the formulation most commonly employed in pharmacokinetic trials has been 
+a mixture of silibinin and phosphatidylcholine sold by Indena SpA (Milan, Italy) as silipide, Siliphos[R], or IdB 
+1016. Barzaghi et al (27) reported on a trial in normal healthy volunteers given 120 mg silibinin equivalents bid 
+for 8 days. Mean peak plasma concentrations at day 1 and day 8 were 240 ng/mL and 183 ng/mL, 
+corresponding to 0.50 and 0.38 [micro]M, respectively. Terminal half-life ranged from 2.6 to 3.4 hours. This 
+early study noted that the flavonolignans were highly conjugated to glucuronic acid with under 3% of the total 
+dose recovered in the urine.  
+Weyhenmeyer et al (28) sought to identify the disposition of the 2 silibinin diastereoisomers but only referred to 
+them as isomer 1 and isomer 2 owing to the lack of reference standards at the time (we now surmise these to be 
+silybin A and silybin B, respectively) (Figure 2). In this study, 6 healthy male volunteers were given single 
+doses of a silymarin product (Legalon 140, Madaus AG, Koln, Germany) standardized to 51 mg silibinin 
+equivalents per capsule in a 4- way change-over design for dose escalation (102, 153, 203, and 254 mg 
+silibinin). The bioavailability and peak plasma concentrations of isomer 1 were 2- to 3-fold greater than that of 
+isomer 2, and mean peak plasma concentrations of combined isomers ranged from 0.24 [micro]M (at the 102-
+mg dose) to 0.66 [micro]M (at the 254-mg dose) silibinin equivalents.  
+Schandalik et al (29) examined biliary secretion of flavonolignans because the liver is the drug target for 
+traditional uses of the herb in mushroom poisoning. These investigators examined both silipide and silymarin 
+(source not defined), both dosed at 120 mg total silibinin. Remarkably, peak concentrations of silibinin 
+equivalents achieved a mean of 116 [micro]g/mL (240 [micro]M) in the bile after silipide and 29 [micro]g/mL 
+(60 [micro]M) after silymarin. Hence, biliary concentrations were 250 to 1000 times plasma concentrations 
+reported previously. This study was also notable for examining other flavonolignans in bile. The low-abundance 
+isosilybin diastereoisomer mixture appeared in bile at nearly the same concentrations as silibinin, despite the 
+former being present in silymarin at one tenth the concentrations of silibinin. Unfortunately, the plasma 
+determinations in this study were of low sensitivity such that even silibinin was only detectable in 2 of 9 
+patients. Nevertheless, this study is often cited as evidence for the 4.2-fold preferential bioavailability of 
+silibinin from silipide versus silymarin.  
+As this last study was completed about the time of the first milk thistle chemoprevention paper from the 
+Agarwal group, (2) one must consider the concentrations of silibinin required in vitro to observe the tumor cell 
+growth-arresting effects in the interpretation of past and current pharmacokinetic studies. In studies of various 
+epithelial cancer cell lines, double-digit micromolar concentrations of silibinin equivalents have usually been 
+required to observe changes in most endpoints. The secretion of IGFBP-3 by prostate carcinoma cells occurs 
+with concentrations as little as 2 [micro]M, (30) but the [IC.sub.50] of silibinin equivalents for growth 
+inhibition or apoptosis is usually greater than 20 [micro]M in most studies. (12,31) In 2002, Singh et al (32) 
+conducted the most complete pharmacokinetic and pharmacodynamic studies in athymic nude mice harboring 
+DU145 human prostate carcinoma xenografts. Two treatment groups were employed in this study with animals 
+given silibinin in the diet at 0.05 and 0.1% (w/w). Monitoring of feed intake revealed that the mean dose in each 
+group was 65 and 130 mg/kg per day, respectively. After 60 days, tumor volume was reduced by 35% and 58%, 
+with tumor wet weights reduced by 29% and 40%, respectively. IGFBP-3 in plasma increased 4- and 5.8-fold, 
+respectively, providing a pharmacodynamic confirmation of in vitro findings. Most important, however, were 
+the plasma and tissue concentrations associated with these responses. Plasma levels of silibinin equivalents 
+were 7 to 13 [micro]g/mL (15-27 [micro]M silibinin equivalents), and prostate concentrations were 3.7 to 4.6 
+[micro]g/g tissue wet weight (6-10 [micro]moles silibinin equivalents/g wet weight). (32) Therefore, these 
+preclinical studies guided the design of subsequent human pharmacokinetic studies in aiming to achieve plasma 
+or tissue concentrations greater than 10 to 15 [micro]M silibinin equivalents. It was clear that dosing far in 
+excess of conventional dietary supplement label indications would be required to obtain these levels.  
+In more recent human studies, Hoh et al (24) tested somewhat higher conventional doses (up to 1.44 g/d) of 
+silibinin-phosphatidylcholine (silipide; IdB 1016, Indena SpA) in 12 patients who were to undergo colorectal 
+resection and another 12 who were to undergo liver surgery for hepatic metastases of colorectal cancer. The 
+implicit but not stated rationale was that the high biliary concentrations observed in previous studies might be 
+equally significant in liver and intestinal mucosa. Three oral dose levels (360, 720, and 1440 mg silibinin daily) 
+were selected for 7 days prior to surgery, and blood levels of parent compound and metabolites were measured, 
+as well as the concentrations in colorectal and hepatic tissue. Although analytical methods showed 2 
+chromatographic peaks for silibinin, the authors unfortunately did not differentiate between silybin A and 
+silybin B in their quantitative measurements. Mean plasma concentrations of 3 to 4 [micro]M were achieved in 
+the highest dose group. In the liver group, hepatic tissue concentrations were quite variable and ranged from 1.0 
+to 2.5 [micro]M across the dosage groups. Hence, older studies show that considerable enrichment of silibinin 
+in the bile (29) is not associated with similar increases in hepatic parenchyma. Instead, the colorectal mucosal 
+levels were dramatically higher than blood concentrations (141 [+ or -] 169 [micro]M at the highest dose level) 
+but also quite variable. The investigators also examined pharmacodynamic endpoints including IGF-1, IGFBP-
+3, and the lipid peroxidationgenerated DNA adduct, [M.sub.1]dG, but none of these were altered significantly 
+during this 7-day trial.  
+Pharmacokinetics of Milk Thistle Compounds--High-Dose Studies  
+Flaig et al (25) recently provided the best evidence that silibinin can be administered to humans at doses 
+producing anticancer-relevant concentrations with minimal or no side effects. This study employed the largest 
+doses to date ranging from 2.5 to 20 g of silibinin-phosphatidylcholine (Indena's Siliphos brand 
+"silybinphytosome") daily given in 3 divided doses for 4 weeks to 13 men with a history of prostate carcinoma 
+(mean age of 70 years). To accommodate these large doses, Siliphos powder was mixed with apple sauce at a 
+ratio of 1/4 teaspoon powder to 1 tablespoon apple sauce. A dose of 5 to 10 g/d was required to achieve mean 
+peak plasma concentrations above 25 [micro]M silibinin equivalents. However, escalation to 15 to 20 g/d did 
+not increase concentrations above 50 [micro]M silibinin equivalents and was discontinued due to asymptomatic 
+hyperbilirubinemia, due most likely to inhibition of the glucuronyltransferase, UGT1A1. When the largest 
+cohort of 6 patients was given a daily dose of 13 g/d, mean peak plasma concentrations of 75 [micro]M silibinin 
+equivalents were obtained. Mild hyperbilirubinemia was still observed but improved with treatment cessation in 
+all patients.  
+The half-life of plasma silibinin ranged from 1.8 to 5 hours, consistent with previous studies, and there was 
+extensive glucuronidation. Urinary free silibinin and conjugates were subject to a high degree of interpatient 
+variability. Hence, a clear dose response was not discernible: mean silibinin in the urine was 6.4 [micro]M 
+silibinin equivalents (range, undetectable to 28.2 [micro]M), and mean silibinin-glucuronide was 253 [micro]M 
+silibinin equivalents (range, 1.5-982 [micro]M silibinin). Although the main objective of the trial was to 
+recommend a dose for phase II trials, PSA was followed in all patients, but none exhibited greater than a 50% 
+decrease in PSA levels. However, several patients exhibited prolonged stable disease.  
+These data are the first to suggest that a milk thistle extract administered to human volunteers can be achieved 
+in plasma at concentrations of silibinin equivalents consistent with inhibition of prostate carcinoma cell growth 
+in culture. (25) However, these studies also point to a very important consideration if silibinin is to be used in 
+the oncological setting. The authors report that the hyperbilirubinemia observed was due to inhibition of 
+UGT1A1, whose [IC.sub.50] has been reported at 1.4 [micro]M silibinin equivalents. (33) Glucuronidation of 
+the semisynthetic camptothecin derivative, irinotecan, is quite sensitive to UGT1A1 status, and patients with a 
+UGT1A1 polymorphism that impairs activity are very sensitive to irinotecan toxicity. (34,35) A previous study 
+indicated that milk thistle extracts do not influence irinotecan pharmacokinetics, but plasma silibinin 
+equivalents achieved then were no greater than 0.26 [micro]M silibinin, below the [IC.sub.50] for UGT1A1 
+inhibition. Therefore, high doses of silibinin (>13 g/d) should be used cautiously in patients with compromised 
+hepatic function and should be contraindicated for concomitant administration with irinotecan.  
+One Final Word About Hepatic Effects of Milk Thistle Extracts  
+The potential for herb-drug interactions between milk thistle extracts and conventional pharmaceuticals appears 
+to be quite low, (36) particularly at doses less than 1 to 5 g/d. However, it is recognized that several reports have 
+appeared suggesting that silibinin or silymarin can inhibit some isoforms of the cytochrome P450 family, 
+including CYP3A4 and CYP2C9. (33,37,38) In cancer therapeutics, these findings are important because 
+several conventional chemotherapeutic drugs are also metabolized by CYP3A4, raising some concerns 
+regarding other milk thistle-drug interactions in oncology or other settings. Inhibition of purified enzymes was 
+somewhat substrate selective, with [K.sub.i] values for silibinin equivalents of 32 to 166 [micro]M for CYP3A4 
+and 5 [micro]M for CYP2C9. (33) In cultured human hepatocytes, CYP3A4 activity was inhibited by 50% at 
+100 [micro]M and 100% at 250 [micro]M silymarin, concentrations that are quite high and difficult to relate to 
+silibinin equivalents. (38) It bears noting that Gurley et al (36) reported that silibinin administration to human 
+volunteers had no effect on model substrate metabolism by any of the 4 CYP isoforms his group measured, 
+including CYP3A4; however, the dose used likely would not have produced plasma concentrations greater than 
+1 [micro]M silibinin equivalents.  
+There are several reasons to note the potential for CYP inhibition by milk thistle extracts as clinical efficacy 
+trials might move forward. First is that plasma concentrations of silibinin equivalents at an oral dose of 13 g/d 
+(25) may begin to approach concentrations for CYP inhibition. Second is that Sridar et al (33) noted that in vitro 
+enzyme inhibition was "mechanism-based," meaning that inhibited P450 activities could not be restored by 
+dialysis of silibinin and that inhibition may have resulted from a reactive metabolic intermediate that bound 
+covalently to the heme moiety of the enzymes. This irreversible type of inhibition would pose a potentially 
+more serious drug interaction risk if it were to occur in human hepatocytes or, obviously, human volunteers. 
+However, there is no information at this point to suggest that P450 inhibition occurs in patients, and there has 
+yet to be a conclusive demonstration of a covalent silibinin-P450 heme adduct in any in vitro study. In fact, 
+there has yet to be a systematic dissection of cytochrome P450 inhibition by any of the single, pure 
+flavonolignans. Hence, even if clinically relevant P450 inhibition were observed, it may only be restricted to 
+individual flavonolignans. In this theoretical case, offending compounds could be separated from those that 
+retain anticancer activity.  
+In the meantime, clinicians should be aware that high doses of milk thistle extracts, perhaps greater than 5 g/d, 
+may have the potential to inhibit the metabolism of other drugs that are substrates for CYP3A4 or CYP2C9. 
+Investigators conducting future high-dose studies may also wish to consider investigating the disposition of 
+CYP model substrates to address this important question, particularly since there is a growing appreciation for 
+the potential metabolic interactions between drugs and dietary substances. (13)  
+Conclusions  
+The primary intent of this review article has been to make a strong case for accuracy in the description of milk 
+thistle study materials used in in vitro, in vivo, and clinical studies. The argument has been made that attention 
+to proper nomenclature is not germane only to chemistry but rather is essential to the further progress of milk 
+thistle studies in the preclinical and clinical experimental therapeutics of cancer. Without attention to this 
+important detail, comparisons between studies are fraught with errors. The authors recognize that FDA 
+regulations for approval of a botanical investigational new drug application will likely dictate that milk thistle 
+extracts, rather than pure compounds, will continue to move forward in clinical trials. Therefore, it is essential 
+that all involved in basic and translational cancer research recognize the chemical complexity of the botanical 
+extracts being tested and that greater attention be paid to the pharmacodynamic and pharmacokinetic 
+characteristics of the pure compounds that comprise these promising therapeutic mixtures.  
+Acknowledgments  
+The authors wish to recognize the support of research and training grants from the US National Institutes of 
+Health that have supported the activities associated with this review article: R01 CA100721 and R01 CA104286 
+(to DJK) and K08 AT001215 (to HSS). The authors also express gratitude to Tyler N. Graf, MS, for his 
+outstanding technical assistance in isolating the pure flavonolignans discussed in this review and to Yuka 
+Nakanishi, PhD, and Aglaia Pappa, PhD, for their pharmacological investigations.  
+References  
+1. Ladas E, Kroll DJ, Kelly KA. Milk thistle (Silybum marianum). In: Coates PM, Blackman MR, Cragg GM, 
+Levine M, Moss J, White JD, eds. Encyclopedia of Dietary Supplements. New York: Marcel Dekker; 2005:467-
+482.  
+2. Agarwal R, Katiyar SK, Lundgren DW, Mukhtar H. Inhibitory effect of silymarin, an anti-hepatotoxic 
+flavonoid, on 12-O-tetradecanoylphorbol- 13-acetate-induced epidermal ornithine decarboxylase activity and 
+mRNA in SENCAR mice. Carcinogenesis. 1994;15:1099-1103.  
+3. Lahiri-Chatterjee M, Katiyar SK, Mohan RR, Agarwal R. A flavonoid antioxidant, silymarin, affords 
+exceptionally high protection against tumor promotion in the SENCAR mouse skin tumorigenesis model. 
+Cancer Res. 1999;59:622-632.  
+4. Deep G, Agarwal R. Integr Cancer Ther. 2007;6:130-145.  
+5. Simanek V, Kren V, Ulrichova J, Vicar J, Cvak L. Silymarin: what is in the name ...? An appeal for a change 
+of editorial policy. Hepatology. 2000;32:442-444.  
+6. Kim NC, Graf TN, Sparacino CM, Wani MC, Wall ME. Complete isolation and characterization of silybins 
+and isosilybins from milk thistle (Silybum marianum). Org Biomol Chem. 2003;1:1684-1689.  
+7. Wagner H, Horhammer L, Munster R. On the chemistry of silymarin (silybin), the active principle of the 
+fruits from Silybum marianum (L.) Gaertn. (Carduus marianus L.) [in German]. Arzneimittelforschung. 
+1968;18:688-696.  
+8. Wagner H, Diesel P, Seitz M. The chemistry and analysis of silymarin from Silybum marianum Gaertn [in 
+German]. Arzneimittelforschung. 1974;24:466-471.  
+9. Lee DY, Liu Y. Molecular structure and stereochemistry of silybin A, silybin B, isosilybin A, and isosilybin 
+B, Isolated from Silybum marianum (milk thistle). J Nat Prod. 2003;66:1171-114.  
+10. Duan L, Carrier DJ, Clausen EC. Silymarin extraction from milk thistle using hot water. Appl Biochem 
+Biotechnol. 2004;113-116:559-568.  
+11. Wallace SN, Carrier DJ, Clausen EC. Batch solvent extraction of flavanolignans from milk thistle (Silybum 
+marianum L. Gaertner). Phytochem Anal. 2005;16:7-16.  
+12. Davis-Searles PR, Nakanishi Y, Kim NC, et al. Milk thistle and prostate cancer: differential effects of pure 
+flavonolignans from Silybum marianum on antiproliferative end points in human prostate carcinoma cells. 
+Cancer Res. 2005;65:4448-4457.  
+13. Paine MF, Oberlies NH. Clinical relevance of the small intestine as an organ of drug elimination: drug-fruit 
+juice interactions. Expert Opin Drug Metab Toxicol. 2007;3:67-80.  
+14. Seidlova-Wuttke D, Becker T, Christoffel V, Jarry H, Wuttke W. Silymarin is a selective estrogen receptor 
+beta (ERbeta) agonist and has estrogenic effects in the metaphysis of the femur but no or antiestrogenic effects 
+in the uterus of ovariectomized (ovx) rats. J Steroid Biochem Mol Biol. 2003;86:179-188.  
+15. An J, Tzagarakis-Foster C, Scharschmidt TC, Lomri N, Leitman DC. Estrogen receptor beta-selective 
+transcriptional activity and recruitment of coregulators by phytoestrogens. J Biol Chem. 2001;276:17808-
+17814.  
+16. Paruthiyil S, Parmar H, Kerekatte V, Cunha GR, Firestone GL, Leitman DC. Estrogen receptor beta inhibits 
+human breast cancer cell proliferation and tumor formation by causing a G2 cell cycle arrest. Cancer Res. 
+2004;64:423-428.  
+17. Strom A, Hartman J, Foster JS, Kietz S, Wimalasena J, Gustafsson JA. Estrogen receptor beta inhibits 
+17beta-estradiol-stimulated proliferation of the breast cancer cell line T47D. Proc Natl Acad Sci U S A. 
+2004;101:1566-1571.  
+18. Hartman J, Lindberg K, Morani A, Inzunza J, Strom A, Gustafsson JA. Estrogen receptor beta inhibits 
+angiogenesis and growth of T47D breast cancer xenografts. Cancer Res. 2006;66:11207-11213.  
+19. Pliskova M, Vondracek J, Kren V, et al. Effects of silymarin flavonolignans and synthetic silybin 
+derivatives on estrogen and aryl hydrocarbon receptor activation. Toxicology. 2005;215:80-89.  
+20. Dvorak Z, Kosina P, Walterova D, Simanek V, Bachleda P, Ulrichova J. Primary cultures of human 
+hepatocytes as a tool in cytotoxicity studies: cell protection against model toxins by flavonolignans obtained 
+from Silybum marianum. Toxicol Lett. 2003;137:201-212.  
+21. Schulz HU, Schurer M, Krumbiegel G, Wachter W, Weyhenmeyer R, Seidel G. The solubility and 
+bioequivalence of silymarin preparations [in German]. Arzneimittelforschung. 1995;45:61-64.  
+22. Han YH, Lou HX, Ren DM, Sun LR, Ma B, Ji M. Stereoselective metabolism of silybin diastereoisomers in 
+the glucuronidation process. J Pharm Biomed Anal. 2004;34:1071-1078.  
+23. Lee JI, Hsu BH, Wu D, Barrett JS. Separation and characterization of silybin, isosilybin, silydianin and 
+silychristin in milk thistle extract by liquid chromatography-electrospray tandem mass spectrometry. J 
+Chromatogr A. 2006;1116:57-68.  
+24. Hoh C, Boocock D, Marczylo T, et al. Pilot study of oral silibinin, a putative chemopreventive agent, in 
+colorectal cancer patients: silibinin levels in plasma, colorectum, and liver and their pharmacodynamic 
+consequences. Clin Cancer Res. 2006;12:2944-2950.  
+25. Flaig TW, Gustafson DL, Su LJ, et al. A phase I and pharmacokinetic study of silybin-phytosome in 
+prostate cancer patients. Invest New Drugs. 2007;25:139-146.  
+26. Kroll DJ, Oberlies NH. The impact of newly proposed dietary supplement manufacturing guidelines on 
+patient safety and clinical trials outcomes. Focus Altern Complement Ther. 2003;8:302-306.  
+27. Barzaghi N, Crema F, Gatti G, Pifferi G, Perucca E. Pharmacokinetic studies on IdB 1016, a silybin-
+phosphatidylcholine complex, in healthy human subjects. Eur J Drug Metab Pharmacokinet. 1990;15:333-338.  
+28. Weyhenmeyer R, Mascher H, Birkmayer J. Study on doselinearity of the pharmacokinetics of silibinin 
+diastereomers using a new stereospecific assay. Int J Clin Pharmacol Ther Toxicol. 1992;30:134-138.  
+29. Schandalik R, Gatti G, Perucca E. Pharmacokinetics of silybin in bile following administration of silipide 
+and silymarin in cholecystectomy patients. Arzneimittelforschung. 1992;42:964-968.  
+30. Zi X, Zhang J, Agarwal R, Pollak M. Silibinin up-regulates insulin-like growth factor-binding protein 3 
+expression and inhibits proliferation of androgen-independent prostate cancer cells. Cancer Res. 2000;60:5617-
+5620.  
+31. Tyagi AK, Singh RP, Agarwal C, Chan DC, Agarwal R. Silibinin strongly synergizes human prostate 
+carcinoma DU145 cells to doxorubicin-induced growth Inhibition, G2-M arrest, and apoptosis. Clin Cancer 
+Res. 2002;8:3512-3519.  
+32. Singh RP, Dhanalakshmi S, Tyagi AK, Chan DC, Agarwal C, Agarwal R. Dietary feeding of silibinin 
+inhibits advance human prostate carcinoma growth in athymic nude mice and increases plasma insulin-like 
+growth factor-binding protein-3 levels. Cancer Res. 2002;62:3063-3069.  
+33. Sridar C, Goosen TC, Kent UM, Williams JA, Hollenberg PF. Silybin inactivates cytochromes P450 3A4 
+and 2C9 and inhibits major hepatic glucuronosyltransferases. Drug Metab Dispos. 2004;32:587-594.  
+34. Ando Y, Saka H, Ando M, et al. Polymorphisms of UDP-glucuronosyltransferase gene and irinotecan 
+toxicity: a pharmacogenetic analysis. Cancer Res. 2000;60:6921-6926.  
+35. Ando Y, Saka H, Asai G, Sugiura S, Shimokata K, Kamataki T. UGT1A1 genotypes and glucuronidation of 
+SN-38, the active metabolite of irinotecan. Ann Oncol. 1998;9:845-847.  
+36. Gurley BJ, Gardner SF, Hubbard MA, et al. In vivo assessment of botanical supplementation on human 
+cytochrome P450 phenotypes: Citrus aurantium, Echinacea purpurea, milk thistle, and saw palmetto. Clin 
+Pharmacol Ther. 2004;76:428-440.  
+37. Beckmann-Knopp S, Rietbrock S, Weyhenmeyer R, et al. Inhibitory effects of silibinin on cytochrome P-
+450 enzymes in human liver microsomes. Pharmacol Toxicol. 2000;86:250-256.  
+38. Venkataramanan R, Ramachandran V, Komoroski BJ, Zhang S, Schiff PL, Strom SC. Milk thistle, a herbal 
+supplement, decreases the activity of CYP3A4 and uridine diphosphoglucuronosyl transferase in human 
+hepatocyte cultures. Drug Metab Dispos. 2000;28:1270-1273.  
+David J. Kroll, PhD, Heather S. Shaw, MD, and Nicholas H. Oberlies, PhD  
+DJK and NHO are at the Natural Products Laboratory, Research Triangle Institute (RTI), Research Triangle 
+Park, NC. HSS is at the Division of Medical Oncology and Program in Integrative Oncology, Duke University 
+Medical Center and Duke Comprehensive Cancer Center, Durham, NC.  
+Correspondence: David J. Kroll, PhD, Research Triangle Institute (RTI), 3040 Cornwallis Rd, PO Box 12194, 
+Research Triangle Park, NC 27709-2194. E-mail: kroll@rti.org.  
+ 
+Table 1. Quick Reference Glossary of Milk Thistle Nomenclature 
+  
+Milk thistle extract  The initial extract of crushed milk thistle seeds, 
+                        usually with ethanol, that contains 65% to 80% 
+                        silymarin and 20% to 35% fatty acids, such as 
+                        linoleic acid. 
+Silymarin             A complex of at least 7 flavonolignans and 1 
+                        flavonoid that comprises 65% to 80% of milk 
+                        thistle extract. 
+Silibinin             A semipurified, commercially available fraction of 
+                        silymarin. Silibinin was once thought to be a 
+                        single compound and is often treated so in the 
+                        literature. In fact, silibinin is a roughly 1:1 
+                        mixture of 2 diastereoisomeric compounds, 
+                        silybin A and silybin B. 
+Isosilibinin          Similar to silibinin, this semipurified fraction 
+                        of silymarin contains a roughly 1:1 mixture of 2 
+                        diastereoisomeric compounds, isosilybin A and 
+                        isosilybin B. Isosilibinin is currently under 
+                        evaluation as a more potent alternative to 
+                        silibinin that may be produced more economically 
+                        than either pure compound. 
+Flavonolignan         The most common class of compound present in milk 
+                        thistle extract. Milk thistle flavonolignans 
+                        result from a peroxidase reaction in the plant 
+                        that fuses the flavonoid, taxifolin (known also 
+                        as dihydroquercetin), with coniferyl alcohol, 
+                        resulting in at least 7 compounds that all share 
+                        the formula weight of 482.1. 
+ 

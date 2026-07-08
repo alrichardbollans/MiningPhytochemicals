@@ -1,0 +1,932 @@
+Antioxidant Biomarkers from Vanda coerulea Stems
+Reduce Irradiated HaCaT PGE-2 Production as a Result of
+COX-2 Inhibition
+Charlotte Simmler
+1,2*, Cyril Antheaume
+1,3, Annelise Lobstein
+1,2
+1Faculty of Pharmacy, University of Strasbourg, Illkirch, France, 2Laboratoire de Pharmacognosie (UMR-CNRS 7200), Illkirch, France, 3Service Commun d’Analyse (SCA)-
+RMN, Illkirch, France
+Abstract
+Background: In our investigations towards the isolation of potentially biologically active constituents from Orchidaceae, we
+carried out phytochemical and biological analyses of Vanda species. A preliminary biological screening revealed that Vanda
+coerulea (Griff. ex. Lindl) crude hydro-alcoholic stem extract displayed the best DPPH /
+NOH radical scavenging activity and in
+vitro inhibition of type 2 prostaglandin (PGE-2) release from UVB (60 mJ/cm
+2) irradiated HaCaT keratinocytes.
+Principal Findings: Bio-guided fractionation and phytochemical analysis led to the isolation of five stilbenoids: imbricatin (1)
+methoxycoelonin (2) gigantol (3) flavidin (4) and coelonin (5). Stilbenoids (1–3) were the most concentrated in crude hydro-
+alcoholic stem extract and were considered as Vanda coerulea stem biomarkers. Dihydro-phenanthropyran (1) and dihydro-
+phenanthrene (2) displayed the best DPPH/
+NOH radical scavenging activities as well as HaCaT intracellular antioxidant
+properties (using DCFH-DA probe: IC50 8.8 mM and 9.4 mM, respectively) compared to bibenzyle (3) (IC50 20.6 mM). In turn,
+the latter showed a constant inhibition of PGE-2 production, stronger than stilbenoids (1) and (2) (IC50 12.2 mM and 19.3 mM,
+respectively). Western blot analysis revealed that stilbenoids (1–3) inhibited COX-2 expression at 23 mM. Interestingly,
+stilbenoids (1) and (2) but not (3) were able to inhibit human recombinant COX-2 activity.
+Conclusions: Major antioxidant stilbenoids (1–3) from Vanda coerulea stems displayed an inhibition of UVB-induced COX-2
+expression. Imbricatin (1) and methoxycoelonin (2) were also able to inhibit COX-2 activity in a concentration-dependent
+manner thereby reducing PGE-2 production from irradiated HaCaT cells. Our studies suggest that stilbenoids (1–3) could be
+potentially used for skin protection against the damage caused by UVB exposure.
+Citation: Simmler C, Antheaume C, Lobstein A (2010) Antioxidant Biomarkers from Vanda coerulea Stems Reduce Irradiated HaCaT PGE-2 Production as a Result
+of COX-2 Inhibition. PLoS ONE 5(10): e13713. doi:10.1371/journal.pone.0013713
+Editor: Christophe Egles, Tufts University, United States of America
+Received May 20, 2010; Accepted September 25, 2010; Published October 28, 2010
+Copyright:  2010 Simmler et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by Louis Vuitton Moet Hennessy (LVMH) Recherche and Guerlain Societe Anonyme (SA), www.lvmh.fr/groupe. The funders
+did not have any role in study design, data collection and analysis. Funders have supplied facilities for all biological analyses and gave their approval for the
+manuscript to be published.
+Competing Interests: The manuscript contents are solely the responsibility of the authors and do not represent the views of the funding agency. Thus, this
+does not alter the authors’ adherence to all the PLoS ONE policies on sharing data and materials.
+* E-mail: charlotte.simmler@pharma.u-strasbg.fr
+Introduction
+Skin is continuously exposed to ultraviolet (UV) radiations from
+sunlight and to environmental pollution. UVB (290–320 nm)
+radiations trigger the production of reactive oxygen species (ROS),
+increasing oxidative stress in irradiated skin. ROS are an inherent
+part of the anabolism and catabolism of tissues, including skin.
+Cellular enzymes and controlled metabolic processes ordinarily
+keep oxidative damage to cells at a minimum. In times of
+increased ROS production (caused by sunlight, smoke and
+pollution) protective controls may not be adequate anymore
+resulting in an oxidant-antioxidant imbalance, defined as oxidative
+stress. It can cause many adverse effect (ageing) and pathological
+conditions (inflammation, cancer) via the modulation of biochem-
+ical, genetic and signal transduction pathways [1–3].
+UVB radiations induce cyclo-oxygenase 2 (COX-2) expression
+and subsequently increase the production of prostaglandin E2
+(PGE-2) in keratinocytes. COX-2 is a rate limiting enzyme for the
+generation of prostaglandin metabolites and its expression has
+been linked to the pathophysiology of inflammation and cancer
+[4]. PGE-2, the major prostaglandin synthesized by COX-2, is
+produced abundantly by keratinocytes under UVs exposure,
+especially in aged human skin [5]. This prostaglandin is known
+to play an important role in skin inflammation as it is responsible
+for erythema, edema and vascular permeability facilitating the
+infiltration of neutrophils to the dermis [6]. It also increases
+keratinocytes proliferation and differentiation and is consequently
+involved in epidermal homeostasis and repair [7]. Finally, UVB
+increase oxidative stress and the generated reactive oxygen
+intermediate are most likely involved in the up-regulation of
+COX-2 [7,8]. Consequently, both ROS and PGE-2 are critical
+mediators of skin inflammation process. Inhibition of COX-2
+enzyme is considered as an important mechanism for skin
+photoprotection [9].
+Plants have also to protect themselves from solar radiation.
+Thus, they synthetize natural chromophores like polyphenolic
+PLoS ONE | www.plosone.org 1 October 2010 | Volume 5 | Issue 10 | e13713compounds (flavonoids, stilbenoids and tannins) that are able to
+absorb UV radiations and display antioxidant properties [10].
+Therefore, there has been considerable interest in the use of
+natural occuring plant products for the prevention of UV-induced
+skin damages. Polyphenols possessing skin anti-inflammatory and
+antioxidant properties are among the most promising group of
+natural compounds that can be exploited as ideal photoprotective
+agents [11]. Recently, polyphenols such as silymarine from milk
+thistle, soy isoflavones including genistein, green tea catechins,
+proanthocyanidins and resveratrol from grape seeds, have been
+demonstrated to have potent photoprotective properties when
+used topically on skin. These antioxidant polyphenols were all able
+to reduce UVB-induced inflammatory responses, partly due to the
+suppression of COX-2 expression and/or its enzymatic activity
+[10–12].
+The Orchidaceae is subdived in five subfamilies. Genera form
+the Epidendroideae subfamily such as Dendrobium, Bletilla, Cymbid-
+ium, Gastrodia and Vanda occurred mostly in tropical areas [13–14].
+Flavones C-glycosides [15], hydroxybenzyle derivatives [16],
+fluorenones and stilbenoids [17–20] are the most commun
+polyphenolic compounds described for these orchids. Many
+cosmetic patents protected the use of different orchid extracts
+but without any information about the identity of their active
+compounds. Orchidaceae from the genus Vanda have not been well
+studied considering their biological activities on human cells and
+their chemical composition. Only two kinds of phenanthropyran
+have been described in the species V. parviflora [21] and V. tesselata
+[22], which has been demonstrated to display wound healing
+properties [23]. These observations led us to focus our interest to
+Vanda coerulea Griff. ex Lindl, also known as the ‘‘Blue Orchid’’. A
+preliminary biological screening on stem, root and leaf crude
+hydro-alcoholic extracts revealed that V. coerulea stem extract
+displayed best DPPH /OH radical scavenging activity and in vitro
+inhibition of PGE-2 production from irradiated HaCaT (geneti-
+cally modified keratinocytes). Bio-guided fractionation combined
+with phytochemical analysis allowed us to isolate and identify five
+stilbenoids (Figure 1): two 9,10 dihydro-phenanthropyrans
+imbricatin (1), and flavidin (4), two 9,10 dihydro-phenanthrenes
+methoxycoelonin (2) and coelonin (5) and one bibenzyle gigantol
+(3). Additional compounds identified were carbohydrates and
+terpenoids such as sesquiterpenes and phytosterols.
+In the present work, we examine whether stilbenoids from Vanda
+coerulea stems display radical scavenging activities, attenuate
+intracellular ROS formation and reduce both UVB-induced
+PGE-2 production on HaCaT cells and COX-2 activity.
+Comparison of their radical scavenging properties led us to a first
+structure-activity relation (SAR) study performed with orchid’s
+stilbenoids. Biological analyses on HaCaT cells were performed
+with the three most concentrated stilbenoids (1–3). We evaluated
+here for the first time the potential interest of stilbenoids from
+Orchidaceae as new skin photoprotecting agents.
+Materials and Methods
+Reagents
+Quercetin was obtained from Extrasynthese. Luminol was
+obtained from Fluka Biochemika. Indomethacin, tocopherol and
+all other chemicals like dimethylsulfoxyde (DMSO), 29,79-
+dichlorodihydrofluorescein diacetate (DCFH DA) probe, were
+from Sigma. Keratinocytes serum free medium (KSFM), foetal
+bovine serum (FBS) for HaCaT culture, penicillin/streptomycin,
+glutamine and phosphate buffer serum (PBS) were from Invitro-
+gen. Cell proliferation kit II reagent (XTT) was provided by Roche
+Diagnostic. Bicinchoninic acid (BCA) assay kit for protein dosage
+was obtained from Uptima Interchim. Enzyme immunoassay
+(EIA) kits for PGE-2 were obtained from R&D Systems and
+Cayman Chemical. Antibodies anti b-actin (sc-130300) and anti
+COX-2 (sc-19999) as well as CCD-1064SK cell lysate were
+provided by Santa Cruz Biotechnology Inc. Amersham Hybond
+ECL nitrocellulose membrane, horseradish peroxidase-conjugated
+secondary antibody (NIF-825) and enhanced chemiluminescence
+(ECL) kit were obtained from GE Healthcare Europe GmbH.
+Plant material
+Vanda coerulea Griff. ex Lindl. was identified by Dr. Josef Margraf
+in Thailand. A voucher specimen (No HITBC128192) was
+Figure 1. Structures of stilbenoids isolated from V. coerulea stems. Stilbenoids isolated from Vanda coerulea stems belong to the
+phenanthrene group including 9,10 dihydro-phenanthrenes, 9,10 dihydro-phenanthropyrans and bibenzyles. Carbone numbering relative to NMR
+data is represented here. Compounds 1 and 4 are 9,10 dihydro-phenanthropyrans, compounds 2 and 5 are 9,10 dihydro-phenanthrenes and
+compound 3 is a bibenzyle.
+doi:10.1371/journal.pone.0013713.g001
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 2 October 2010 | Volume 5 | Issue 10 | e13713deposited in the Herbarium of the Xishuangbanna Tropical
+Botanical Garden (XTBG). Stems from flowering specimens were
+collected in October 2006. Cut stems were dried by sunshine on
+hanging basket to avoid contamination by soil and prevent fungus
+development. After reception in France, dried cut stems were
+finally reduced to powder in the ultra-centrifuge crusher (Retsch
+ZM 200) just before extraction. Supply of stems was carried out in
+accordance with CITES (Convention on International Trade in
+Endangered Species of wild Fauna and Flora) regulations.
+Extraction and isolation
+Dried V. coerulea stems (100 g) were exhaustly extracted with
+EtOH-H2O (9:1) under reflux and filtered to provide a red brown
+crude hydro-alcoholic extract (8.9 g). Dried stems (100 g) were
+also successively extracted by cyclohexane (C6H12), dichlorometh-
+ane (CH2Cl2) and methanol (MeOH) using an automatisable
+Soxtec (Avanti 2055), to yield C6H12 (1.0 g), CH2Cl2 (1.0 g), and
+MeOH (5.8 g) extracts, respectively. An aliquot of CH2Cl2 extract
+(0.64 g), which concentrated stilbenoids, was suspended in
+MeOH-CH2Cl2 (8:2) and subjected to Sephadex LH20 column
+(H: 27 cm d: 2.5 cm) with MeOH-CH2Cl2 (8:2) elution and
+collection of 25 fractions of 10 mL. Fractions with similar TLC
+(Thin Layer Chromatography) profiles were gathered. Fractions 3
+to 6, rich in stilbenoids, were further purified by semi preparative
+reversed-phase HPLC to give compounds 1 (70 mg), 2 (35 mg) 3
+(19 mg), 4 (8 mg) and 5 (8 mg).
+Extract and fractions were analyzed by RP-HPLC using a
+Nucleodur C18ec column (5 mm, 250 mm64.6 mm i.d.) in a
+Varian chromatograph equipped with a Prostar 230 pump and a
+Prostar 330 diode-array detector. The column was eluted with
+MeOH-(H2O+0.1% HCO2H) using a linear gradient at a flow
+rate of 1 mL.min
+21, starting from 20% up to 47% MeOH in
+13.5 min, maintaining 47% MeOH during 10 min and finally
+from 47% to 100% MeOH in 10 min. The fractions were
+monitored between 200 and 400 nm. Semi-preparative HPLC
+purifications of stilbenoids were carried out on another chromato-
+graph equipped with a Gilson 322 pump and a UV-VIS 151
+Gilson wavelength detector, using a Nucleodur C18ec column
+(5 mm, 250 mm621 mm i.d.) eluted with MeOH-(H2O+0.1%
+HCO2H) under the following conditions: 47% MeOH during
+10 min and to 100% MeOH in 30 min at a flow rate of
+15 mL.min
+21. The fractions were monitored at 210 nm.
+Structures of these stilbenoids were elucidated by spectral
+analyses (
+1H-NMR,
+13C NMR, HMBC, HSQC, NOESY, and
+HR-ESI-MS) and confirmed by comparison with those reported in
+literature [24–29].
+Imbricatin (1): yellowgum, UV (inMeOH) lmax(log j) 217 (4.4),285
+(4), and 307 (4) nm characteristic of a dihydro-phenanthrene
+skeleton
+1H NMR (CDCl3, 400 MHz): d=6.29 (1H, d, J=2.5 Hz,
+H-1), 6.31 (d, 1H, J=2.5 Hz, H-3), 6.73 (s, 1H, H-8), 2.79-2.78
+(4H, d, J=3.9 Hz, H-9 and H-10) and 5.19 (2H, s, --O--CH2--Ar),
+3.77 (3H, s, H-OMe).
+13C NMR data (CDCl3, 100 MHz) d=108.7
+(C-1), 155.0 (C-2), 101.8 (C-3),120.1 (C-4a), 113.1 (C-4b), 153.0(C-
+4), 121.0 (C-5), 141.0 (C-6), 147.6 (C-7), 114.4 (C-8), 129.8 (C-8a),
+136.0 (C-10a), 28.0 (C-10), 27.5 (C-9) 63.8 (C- O--CH2--Ar), 62.2
+(C-OMe); HR-ESI-MS ion [M-H]
+- at m/z=269.0815 (Molecular
+formula calculated for C16H14O4:270.0892, difference 1.65 ppm).
+Methoxycoelonin (2): yellow brown gum, UV (in MeOH) lmax (log j)
+216 (4.3), 285 (3.9), and 307 (3.8) nm characteristic of dihydro-
+phenanthrene skeleton
+1H NMR (CDCl3, 400 MHz): d=6.30 (d,
+1H, J=2.5 Hz, H-1), 6.37 (1H, d, J=2.5 Hz, H-3), 7.81 (1H, s,
+H-5), 6.72 (1H, s, H-8), 2.69 (4H, m, H-9 and H-10) and 3.86 (3H,
+s, C5-OMe), 3.82 (3H, s, C6-OMe ). For
+13C NMR data (CDCl3,
+100 MHz): d= 107.8 (C-1), 154.1 (C-2), 97.8 (C-3), 124.3 (C-4a),
+116.3 (C-4b), 156.9 (C-4), 110.8 (C-5), 143.6 (C-6), 142.9 (C-7),
+112.7 (C-8), 130.9 (C-8a), 140.8 (C-10a), 28.6 (C-9), 30.4 (C-10),
+55.3 (C-OMe), 54.9 (C-OMe); HR-ESI-MS ion [M-H]
+- at m/
+z=271.0968 (molecular formula calculated for CI6H16O4:
+272.1049, difference 2.75 ppm).
+Gigantol (3): colorless gum, UV (in MeOH) lmax (log j) 206 (4.1),
+281 (3) nm
+1H-NMR (CDCl3, 400 MHz): d=6.22 (1H, d,
+J=2.5 Hz, H-1), 6.21 (1H, d, J=2.5 Hz, H-3), 6.66 (1H, dd,
+J=8.3, 1.6 Hz, H-4a), 6.28 (1H, d, J=1.6 Hz, H-4b), 6.81 (1H,
+d, J=7.8 Hz, H-5), 6.61 (1H, d, J=2 Hz, H-8), 2.79 (4H, m, H-9,
+H-10), 3.82 (3H, s, C5-OMe), 3.73 (3H, s, C7-OMe). For
+13C
+NMR data (CDCl3, 100 MHz) d= 107.6 (C-1), 156.1 (C-2), 98.0
+(C-3), 160.4 (C-4), 120.5 (C-4a), 106.4 (C-4b), 114.0 (C-5), 144.1
+(C-6), 145.8 (C-7), 110.7 (C-8), 133.8 (C-8a), 143.3 (C-10a), 37.2
+(C-9), 38.2 (C-10), 55.4 (C-OMe), 54.8 (C-OMe); HR-ESI-MS ion
+[M-H]
+- at m/z=273.1123 (molecular formula calculated for
+CI6H18O4: 274.1205, difference 3.56 ppm).
+Flavidin (4): colorless gum UV (in MeOH) lmax (log j) 214 (4.4) 286
+(4.1), 300 (4.0) nm.
+1H-NMR (CD3OD, 400 MHz): d=6.30 (1H, d,
+J=2.4 Hz, H-1), 6.19 (d, 1H, J=2.4 Hz, H-3) 6.42 (1H, d,
+J=2.2 Hz H-6), 6.55 (1H, d, J=2.2 Hz H-8), 5.01 (2H, s, --O--
+CH2--Ar), and 2.78 (4H,s,H-9 and H-10).
+13C NMR data (CD3OD,
+100 MHz) d=109.6 (C-1), 158.4 (C-2), 103.0 (C-3), 120.2 (C-4b),
+113.0(C-4a),154.6(C-4),130.7(C-5),110.0(C-6),157.6(C-7),115.0
+(C-8), 136.6 (C-8a), 135.3 (C-10a), 29.0 (C-9, 10), 69.4 (C- O--CH2--
+Ar). HR-ESI-MS ion [M+H]
++ at m/z=241.0861 (Molecular
+formula calculated for C15H12O3:240.0786, difference 0.82 ppm).
+Coelonin (5): colorless gum UV (in MeOH) lmax (log j) 322 (4.6),
+280 (4.3), 291 (4.2) nm
+1H-NMR (CD3OD, 400 MHz) d=6.31 (d,
+1H, J =2.5Hz, H-1), 6.41 (1H, d, J=2.5 Hz, H-3), 8 (1H, dd
+J=7.2:1.7 Hz, H-5), 6.62 (1H, dd J=8:2.1 Hz, H-6), 6.62 (1H,
+dd J=8:2.1 Hz, H-8), 2.63 (4H, s, H-9 and H-10), 3.80 (3H, s,
+C5-OMe). For
+13C NMR data (CD3OD, 100 MHz) d=107.9 (C-
+1), 157.7 (C-2), 99.3 (C-3), 126.0 (C-4b), 117.0 (C-4a), 159.0 (C-4),
+130.2 (C-5), 113.7 (C-6), 156.0 (C-7), 115.0 (C-8), 141.4 (C-10a),
+140.6 (C-8a), 31.3 (C-10), 31.9 (C-9), 56.0 (C-OMe). HR-ESI-MS
+ion [M+H]
++ at m/z=243.1022 (molecular formula calculated for
+CI5H14O4: 242.0943, difference 2.69 ppm).
+d=chemical shift in ppm
+Cell lines
+HaCaT Keratinocytes were provided by LVMH recherche.
+Cells were cultivated in keratinocytes serum free medium (KSFM)
+complemented with 0.25% human recombinant EGF (Epidermal
+Growth Factor), 2.5% pituitary bovine extract, and 5% fetal
+bovine serum (FBS). All biological analyses were realized at
+passages 15 to 20.
+In vitro antioxidant analyses
+All in vitro radical-scavenging experiments (DPPH,
+NOH/luminol
+chemiluminescence) and IC50 calculations were assayed as
+previously described by Parejo et al [30]. Results were expressed
+as percentage inhibition of DPPH discolouration and luminol
+chemiluminescence reduction, respectively. The concentration
+effect (logarithmic curve) obtained for each compound was used to
+calculate IC50. Serial dilutions of 1–5, and quercetin (used as
+standard reference) were prepared in MeOH.
+Analyses on HaCaT cells
+For measurement of reactive oxygen species neutralization and
+PGE-2 quantification with Vanda coerulea stem biomarkers, HaCaT
+cells were seeded in black 96-well microplates (Greiner Bio One
+655090) at a concentration of 10
+3 cells/well in complemented
+KSFM with 5% FBS. Microplates were incubated during 24 h
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 3 October 2010 | Volume 5 | Issue 10 | e13713(37uC, 5% CO2) before UVB irradiation at 60 mJ/cm
+2 and
+treatment. For western blot analysis HaCaT cells were seeded at a
+density of 10
+6 cells/ 100 mm dishes and incubated during 48 h
+before irradiation with UVB at 60 mJ/cm
+2 (UV Lamp, VL-6LM,
+Vilber Lourmat) and treatment. All experiments were performed
+at 90% cell confluency. Cell viability was previously evaluated
+thanks to XTT analysis according to Roehm NW et al [31]. Serial
+dilutions of 1–3, were prepared in DMSO (0.1% v/v final
+concentration). The first higher concentration tested was not
+cytotoxic (data not shown).
+Reactive oxygen species neutralization on HaCaT
+The DCFH-DA method was used to detect the levels of
+intracellular ROS [32] DCFH-DA diffuses into cells, where it is
+hydrolyzed by intracellular esterase to polar 29,79-dichlorodihy-
+drofluorescein. This non-fluorescent fluorescein analog is oxidized
+by intracellular oxidants to a highly fluorescent, 29,79-dichloro-
+fluorescein. Tocopherol [Sigma] (25 mM) was used as a positive
+reference. HaCaT cells were seeded as described and treated with
+serial dilutions of 1–3 and quercetin (standard reference) after
+24 h incubation. Treated microplates were further incubated
+during 24 h (37uC, 5% CO2). HaCaT cells were washed with
+phosphate buffer saline (PBS), and DCFH-DA (0.05 mM) was
+added to the cells. 45 min after incubation, cells were stimulated
+by a H2O2 solution (100 mM in PBS) to generate an oxidative
+stress. Immediately after F(T0) and 40 min after stimulation
+F(T40), DCFH fluorescence was detected at an excitation
+wavelength of 485 nm and an emission wavelength of 535 nm,
+using a SpectraFluor Plus spectrofluorometer (Tecan). Two kinds
+of assay controls were used: negative control was non-stimulated
+cells and positive control was H2O2 stressed cells (DMSO 0.1% v/
+v). Results were expressed in percentage of fluorescence inhibition
+(% of ROS neutralization) calculated by comparison with H2O2
+stimulated cells.
+(% of ROS neutralization) = [1- [F(T40)-F(T0)] sample/
+[F(T40)-F(T0)] positive control] 6100.
+Inhibition percentages were plotted according to compounds 1–
+3 and quercetin concentrations. Logarithmic regression analysis of
+the mean replicate values was used to calculate IC50 (Concentra-
+tion causing half-maximal neutralization of ROS on H2O2 stressed
+HaCaT)
+Measurement of irradiated HaCaT PGE-2 production
+Indomethacin (2.79 mM), a non-steroidal COX inhibitor, was
+used as a positive reference. Treated microplates were incubated
+at 37uC, 5% CO2. Untreated irradiated and non irradiated cells
+(DMSO 0.1% v/v final) were respectively used as positive and
+negative controls. After 24 h, supernatants were harvested for
+PGE-2 concentration measurement and BCA assay was realized to
+determine total cellular protein in each well. PGE-2 concentration
+was measured using the enzyme immunoassay Parameter
+TM PGE-
+2 kit (R&D Systems) according to the manufacturer’s instructions.
+Each PGE-2 quantification (QPGE-2) was reported to total protein
+concentration per well.
+Results were expressed as inhibition percentage of PGE-2 (I
+PGE-2) production compared with untreated irradiated cells
+(positive control).
+I PGE-2=100- ((QPGE2) sample/( Q PGE2) positive control) 6100.
+Inhibition percentages were plotted according to compounds
+1–3 concentrations. Logarithmic regression analysis of the mean
+replicate values was used to calculate IC50 (Concentration
+causing half-maximal Inhibition of irradiated HaCaT PGE-2
+production)
+Measurement of COX-2 enzyme expression by Western
+blot
+After UVB irradiation 100 mm dishes were treated with
+stilbenoids 1–3 at 23 mM and 2.87 mM in a serum free medium
+and incubated during 16 h (37uC, 5% CO2). Untreated irradiated
+(UVB+) and non irradiated (UVB-) cells were used as positive and
+negative controls respectively. Total cell lysates were obtained using
+lysis buffer containing 0.5% SDS, 1% NP-40, 0.5% sodium
+deoxycholate, 150 mM NaCl, 50 mM Tris-HCl (pH 8) and
+proteases inhibitors. The protein concentration of each sample
+was determined using a Bradford assay. 30 mg of total protein was
+separated on a 10% polyacrylamide gel. Positive control CCD-
+1064SK cell lysate containing both b-actin and COX-2 was also
+loaded. The separated proteins were transferred to a nitrocellulose
+membrane. After blocking with 3% bovine serum albumin (BSA) in
+Tris-buffered-saline (TBS), the membranes were incubated with
+primary antibodies anti-COX-2 and anti-b-actin at a concentration
+of 1:1000 in a 1% BSA TBS-T solution (containing 0.05% Tween
+20) overnight at 4uC. Blot were washed twice with TBS-T and then
+incubated with a 1:20000 dilution of horseradish peroxidase-
+conjugated secondary antibody for 1 h at room temperature. Blots
+were again washed three times with TBS and then developed using
+enhanced chemiluminescence (ECL) kit. The assay was repeated
+three times with similar results. Densitometry analyses were
+performed for each blot on the radiographic films using the ImageJ
+software. Results were expressed as fold decrease compared to the
+(UVB+) control. Each data was then reported to b-actin density.
+Measurement of COX-2 enzyme activity
+Serial dilutions of 1–3 were prepared in DMSO. Six
+concentrations were tested from 0.1 mM to 100 mM for imbricatin
+(1), from 0.03 to 100 mM for methoxycoelonin (2) and from
+0.3 mM to 100 mM for gigantol (3).
+Stilbenoids 1–3, indomethacin and water (negative control)
+were pre-incubated for 20 min at 22uC with the human
+recombinant COX-2 enzyme (0.2 mg) in buffer containing
+100 mM Tris-HCl (pH 8.0), 2 mM phenol and 1 mM hematine.
+Thereafter, the reaction was initiated by addition of 2 mM
+arachidonic acid and the mixture was incubated for 5 min at
+22uC. For basal control measurements, arachidonic acid was
+omitted from the medium. Indomethacin was used as positive
+inhibitory reference.
+Following incubation, the reaction was stopped by the addition
+of 1 M HCl then 1 M Tris/HCl (pH 8.0) followed by cooling to
+4uC. The amount of PGE-2 present in the reaction mixture was
+quantified using an EIA detection kit (Cayman Chemical).
+The results were expressed as inhibition percentage of the
+control enzyme activity:
+100–[(activity measured in the presence of the compound/
+control enzyme activity) 6100]
+The IC50 values (concentration causing a half-maximal
+inhibition of control enzyme activity) and Hill coefficients (nH)
+were determined by non-linear regression analysis of the inhibition
+curves generated with mean replicate values using Hill equation
+curve fitting.
+Statistical Analysis
+In vitro experiments were performed three times independently.
+All data were expressed as means 6 standard deviations (sd).
+Treatment groups were compared by using one way analysis of
+variance ANOVA post-hoc test. Each stilbenoid effect was
+compared to positive control using student t tests. Statistical
+significance (*) was set at p,0.05.
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 4 October 2010 | Volume 5 | Issue 10 | e13713Supporting information
+Confirmation of PGE-2 inhibitory effect on human normal
+epidermal keratinocytes is provided as Figure S1.
+Results and Discussion
+Bio-guided fractionation performed on Vanda coerulea stems
+revealed that a stilbenoid-enriched CH2Cl2 extract displayed a
+better in vitro DPPH/
+NOH radical scavenging activity and
+inhibition of PGE-2 release from (UVB 60 mJ/cm
+2) irradiated
+HaCaT than crude hydro-alcoholic extract. These observations
+led us to the isolation and identification of the five stilbenoids
+described in Figure 1. These stilbenoids are specific from the
+Orchidaceae family and were already described in other orchid
+genera [19,20]. Imbricatin (1) was first identified in the orchid
+Pholidota imbricata [24]. It was found together with flavidin (4)i n
+Bulbophyllum [19], Coelogyne and Pholidota species [24–26] and was
+also isolated with methoxycoelonin (2)i nAgrostophyllum callosum and
+in Coelogyne flaccida [26]. Coelonin (5) was isolated from two species
+of Coelogyne: C. ochracea and C. elata [27]. Finally, the presence of
+gigantol (3) was identified for the first time in Cymbidium giganteum
+[28], and was also found together with coelonin (5) and
+methoxycoelonin (2)i nCymbidium aloifolium [29].
+A comparison of phytochemical profiles of root, stem and leaf
+crude extracts showed that stilbenoids 1–5 were only present in
+Vanda coerulea stems. The most concentrated (1–3) were considered
+as V. coerulea stem biomarkers.
+Antioxidant activities
+Each stilbenoid isolated from Vanda coerulea stems was already
+described for its radical scavenging properties mostly concerning
+DPPH neutralization [33–35]. Zhang X et al had evaluated radical
+scavenging properties of gigantol (3) using the DPPH (IC50
+56.4 mM) and ORAC assays [33]. Wang J et al and Guo XY et al
+indicated that coelonin (5) and imbricatin (1) neutralized DPPH
+radical with IC50 of 16.7 and 8.8 mM, respectively [34,35]. Finally,
+the global antioxidant activities of flavidin (4) were evaluated using
+different antioxidant assays, including DPPH and hydrogen
+peroxide neutralization (without IC50 calculation) [36]. However,
+the radical scavenging capacities of stilbenoids 1 to 5 were not
+compared so far. Here, we aimed to propose a structure-activity
+relationship (SAR) relative to DPPH and
+NOH radical scavenging
+activities.
+Among all the ROS produced,
+NOH radicals are among the
+most aggressive forms implied in cellular oxidative stress [1–2].
+Our results revealed that dihydro-phenanthropyrans (1, 4) and
+dihydro-phenanthrenes (2, 5) displayed better
+NOH but also DPPH
+radicals scavenging properties than bibenzyle (3). Activities of
+imbricatin (1) and methoxycoelonin (2) were quite similar to the
+standard quercetin on
+NOH radical scavenging activities, while
+flavidin (4) and coelonin (5) were globally less active. (Figure 2,
+Table 1).
+SAR on
+NOH radical scavenging indicated that dihydro-
+phenanthropyran and dihydro-phenanthrene structures had quite
+the same potentiality, which was enhanced by an ortho-methoxy-
+hydroxyl substitution on aromatic ring. According to these results,
+a classification could be proposed as followed (from the lowest to
+the highest IC50): 1<2.4<5.3 for
+NOH radical scavenging
+activities.
+We also observed a tendency for dihydro-phenanthropyran
+structures to better neutralize DPPH radical. Scavenging activities
+were better on structures without ortho-methoxy-hydroxyl substi-
+tution. Thus, a classification could be proposed as followed:
+4 .1<5$2.3 for DPPH radical scavenging capacities.
+In comparison with already published data, the IC50 of
+imbricatin (1) calculated for DPPH scavenging activities was in
+accordance with those indicated in literature [35].On the other
+side, better IC50 values were obtained with gigantol (3) and
+coelonin (5) than those previously described by Zhang X et al and
+Wang J et al , respectively [33,34].
+The 9,10 dihydro-phenanthrenes (2, 5) or phenanthropyrans (1,
+4) are planar structures compared with the bibenzyle gigantol (3).
+Thus, electron delocalization and structure stabilization is better
+on phenanthrenes than on bibenzyle. As explained by Jayapraka-
+sha GK et al, the antioxidant capacities of 9,10 dihydro-
+phenanthrenes or phenanthropyrans may be attributed to
+hydrogen donating ability, the product phenoxyl radical being
+stabilized by resonance delocalization of the unpaired electron to
+the other position in the ring [36].
+The excessive production of intracellular ROS plays an
+important role in the signalling events leading to gene activation
+[1–3]. Oxidative stress generated is responsible for a variety of
+conditions including skin ageing [2,3], skin inflammation and
+cancer [1,4]. Based on these premises, we examined whether the
+major stilbenoids (1–3), considered as Vanda coerulea stem
+biomarkers, could neutralize intracellular ROS in H2O2 stressed
+HaCaT cells.
+The probe 29,79-dichlorofluorescin is used as an indicator of
+ROS formation in H2O2 (100 mM) stressed HaCaT. The
+intracellular fluorescence measurement using this probe mainly
+reflects the ability of stilbenoids to inhibit intracellular
+NOH radical
+[37]. In this assay, we have compared the ROS scavenging
+activities of stem biomarkers. According to our previous cell
+viability analyses, the first higher concentration tested on HaCaT
+cells was not cytotoxic. Imbricatin (1) (IC50 8.8 mM) and
+methoxycoelonin (2) (IC50 9.4 mM) showed better ROS neutral-
+ization than gigantol (3) (IC50 20.6 mM) and even than quercetin
+(IC50 13.8 mM). (Figure 3, Table 2) These results were in
+accordance with our results obtained previously on
+NOH radicals,
+with chemiluminescence. Consequently, we have demonstrated
+the intracellular ROS scavenging activities of these three
+stilbenoids on immortalized keratinocytes. Best intracellular
+antioxidant activities were obtained with the dihydro-phenan-
+thropyran (1) and the dihydro-phenanthrene (2).
+Intracellular ROS produced in excess contribute to inflamma-
+tory response triggered by UV radiations and have been suggested
+to be involved in UVB-induced COX-2 expression [1,8]. In this
+study, we observed that stilbenoids (1–3) reduce the generation of
+intracellular ROS partly due to direct radical scavenging activities.
+Inhibition of PGE-2 production
+PGE-2 is known to play an important role in UV-induced skin
+inflammation. Its production is mediated by UVs and ROS
+induction of COX-2 expression. Moreover, it has been reported
+that keratinocytes proliferation and apoptosis are also regulated by
+COX-2 after acute UV radiations [9].
+Anti-inflammatory properties for gigantol (3) and coelonin (5)
+only, were already described in the scientific literature and
+referred mostly to the neutralization of nitric oxide production
+(and PGE-2 production for gigantol) on murine macrophages
+RAW 264.7 [38–40]. However, the skin anti-inflammatory
+properties of orchid stilbenoids have not been evaluated so far on
+HaCaT, a recognized cellular model [41,42]. Therefore, we
+wanted to evaluate the potential of V. coerulea antioxidant stem
+biomarkers as skin anti-inflammatory agents. Their effects were
+evaluated on PGE-2 production and on inhibition of COX-2
+expression in UVB irradiated HaCaT cells. As shown in Table 3
+and Figure 4, the stilbenoids (1–3) inhibited PGE-2 release
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 5 October 2010 | Volume 5 | Issue 10 | e13713from UVB (60 mJ/cm
+2) irradiated HaCaT cells. To compare
+biomarker activities the same range of concentrations was
+tested for each stilbenoid. Concentration-dependent effect was
+observed for imbricatin (1)( I C 50 12.2 mM) and methoxycoelonin
+(2)( I C 50 19.3 mM), but not for gigantol (3). The results
+revealed that even at the lowest concentration tested, gigantol
+(3) strongly inhibited PGE-2 production. We deduced from these
+data that these three major stilbenoids were principally
+responsible for the antioxidant and the reduction of PGE-2
+production previously observed with V. coerulea crude stem
+extract. Bibenzyle gigantol (3) displayed better PGE-2 inhibition
+than dihydro-phenanthropyran (1) and dihydro-phenanthrene
+(2), but without any concentration-dependant effect at the tested
+concentrations.
+This global reduction of PGE-2 production could be attributed
+to an inhibition of COX-2 enzyme activity and/or an attenuation
+of UVB-induced COX-2 expression.
+Interestingly, (Figure 5, Table 3) imbricatin (1) and
+methoxycoelonin (2) but not gigantol (3) were able to inhibit
+human recombinant COX-2 enzyme (IC50 12.0 mM and 5.8 mM,
+respectively), suggesting that dihydro-phenanthropyran (1) and
+dihydro-phenanthrene (2) but not bibenzyle (3) could reduce PGE-
+2 production through COX-2 inhibition. Their effect on human
+recombinant COX-2 enzyme was comparable to the activity of
+indomethacin (IC50 1.6 mM), a classical non-steroidal COX
+inhibitor.
+Figure 2. Radical scavenging activities of stilbenoids 1–5 on DPPH and OH radicals. Results are expressed as IC50 (mean 6 sd) of
+stilbenoids determined on DPPH and
+NOH radicals scavenging. IC50: concentration causing half-maximal neutralization of radical DPPH or
+NOH.
+Quercetin was used as standard reference. IC50 values were compared to those obtained with the standard reference. Statistical significance (*) was
+set at p,0.05.
+doi:10.1371/journal.pone.0013713.g002
+Table 1. Radical scavenging activities of stilbenoids 1–5 on
+DDPH and
+NOH radicals.
+IC50 (mM)
+Compounds DPPH
+NOH
+Imbricatin (1) 8.3760.61 0.03460.011
+Methoxycoelonin (2) 9.0160.93 0.03560.008
+Gigantol (3) 14.0161.69 0.15760.039
+Flavidin (4) 6.6161.07 0.07660.014
+Coelonin (5) 8.4761.58 0.07960.018
+Quercetin 2.4260.65 0.04560.012
+Results are expressed as IC50 (mean 6 sd) of stilbenoids 1–5 determined on
+DPPH and
+NOH radical scavenging. IC50 concentration causing half-maximal
+neutralization of radical DPPH or
+NOH. Quercetin was used as a standard
+reference.
+doi:10.1371/journal.pone.0013713.t001
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 6 October 2010 | Volume 5 | Issue 10 | e13713The IC50 calculated for inhibition of PGE-2 production on
+HaCaT are different from those calculated for COX-2 inhibition.
+Indeed, for the first analysis we have measured stilbenoid activities
+on the whole cell, determining a global response leading to the
+release of PGE-2. For the second analysis, we have directly
+determined stilbenoids effects on human recombinant and isolated
+COX-2 enzyme. Because of these differences between cellular and
+enzymatic analysis the IC50 calculated in both experiments were
+not identical.
+Wong J.H. et al 2006 have demonstrated that gigantol (3) was
+able to inhibit PGE-2 production on murine macrophages RAW
+264.7 as a result of inhibition of COX-2 expression but also of NF-
+kB expression [38]. We hypothesized that the constant inhibition
+effect of (3) on HaCaT PGE-2 production could be explained by a
+strong reduction of UVB-induced COX-2 enzyme expression.
+Western blot analysis was performed with UVB (60 mJ/cm
+2)
+irradiated HaCaT cell lysates. Two concentrations of each
+stilbenoids were tested (23 and 2.87 mM) on HaCaT. As shown
+in Figure 6, the three biomarkers were able to attenuate UVB-
+induced COX-2 expression at 23 mM. Best results were obtained
+with methoxycoelonin (2) and gigantol (3). They did not inhibit
+COX-2 expression at the lowest concentration tested (2.87 mM).
+Gigantol demonstrated strong inhibition of PGE-2 production
+even at 2.87 mM but did not inhibit COX-2 expression and
+Figure 3. Reactive Oxygen Species (ROS) neutralization in
+H2O2 stressed HaCaT cells by stilbenoids 1–3. Results are
+expressed as percentages of total ROS neutralization in HaCaT cells
+calculated by comparison with the positive control (H2O2 stressed cell).
+Intracellular antioxidant properties of stilbenoids 1–3, considered as
+stem biomarkers, were evaluated on intracellular ROS neutralization.
+IC50 were calculated with more points than those represented on the
+graph. a-Tocopherol at 25 mM was used as a positive reference. (*) set at
+p,0.05, gigantol (3) effect was statistically different from those of
+imbricatin (1) and methoxycoelonin (2).
+doi:10.1371/journal.pone.0013713.g003
+Table 2. Reactive Oxygen Species (ROS) neutralization in
+H2O2 stressed HaCaT cells.
+Compounds IC50 (mM)
+Imbricatin (1)8 . 8 61.7
+Methoxycoelonin (2)9 . 4 62.1
+Gigantol (3) 20.660.5
+Quercetin 13.862.2
+Intracellular antioxidant property of stilbenoids 1–3 was evaluated on H2O2
+stressed HaCaT by measuring ROS neutralization with DCFH-DA probe. Results
+are expressed as IC50 (mean 6 sd) determined for global ROS neutralization on
+HaCaT. IC50 concentration causing half-maximal neutralization of intracellular
+ROS. Quercetin was used as a standard reference.
+doi:10.1371/journal.pone.0013713.t002
+Figure 4. Concentration-dependent effect of stilbenoids 1–3 on
+PGE-2 release from irradiated (UVB 60 mJ/cm2) HaCaT.
+Histogram represents the quantity of PGE-2 produced (PGE-2/ total
+HaCaT proteins pg/mg) according to different treatments. Untreated
+irradiated (UVB+) and non irradiated (UVB-) HaCaT were used as positive
+and negative controls, respectively. Indomethacin (Indomet.) at 2.79 mM
+represented the positive reference (54% inhibition of PGE-2 produc-
+tion). Inhibition percentages of PGE-2 release were calculated by
+comparison with the positive control: UVB+. Values represent mean 6
+sd of three independent experiments. Treatment groups were
+compared by using one way analysis of variance ANOVA post-hoc
+test. Student paired t test was used to compare each stilbenoid effect
+to the positive control. Statistical significance (*) was set at p,0.05.
+Significant differences were observed between each biomarker effect.
+IC50 were calculated with more points than those represented here on
+the graph.
+doi:10.1371/journal.pone.0013713.g004
+Table 3. Effects of stilbenoids 1–3 on inhibition of HaCaT
+PGE-2 production and COX-2 enzyme activity.
+IC50 (mM)
+Compounds PGE-2 COX-2
+Imbricatin (1) 12.262.9 12.061.2
+Methoxycoelonin (2) 19.363.8 5.861.2
+Gigantol (3) No concentration-dependant
+effect
+$100
+Indomethacin 2.760.7 1.660.4
+Results are expressed as IC50 (mean 6 sd) determined for inhibition of PGE-2
+release from UVB (60 mJ/cm
+2) irradiated HaCaT and inhibition of human
+recombinant COX-2 activity. IC50 concentration causing half-maximal inhibition
+of HaCaT PGE-2 production and concentration causing a half-maximal inhibition
+of COX-2 control specific activity. Gigantol demonstrated strong inhibition of
+PGE-2 production but did not display concentration dependent effect at the
+tested concentrations, thus IC50 could not be calculated. Indomethacin was
+used as a positive reference.
+doi:10.1371/journal.pone.0013713.t003
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 7 October 2010 | Volume 5 | Issue 10 | e13713activity at this concentration. Gigantol (3) may therefore act
+through other mechanisms to exert its inhibitory effect on PGE-2
+production and COX-2 enzyme may not be its only biological
+target.
+UVB exposure induces ROS accumulation in human skin and is
+involved in its ageing process as well as its inflammatory response
+[1–3]. This accumulation would explain a higher induction of
+COX-2 and consequently a higher PGE-2 release [5]. Irradiated
+HaCaT cells provide a good model to measure PGE-2 production
+and allowed the evaluation of the potential keratinocytes anti-
+inflammatory properties of the major stilbenoids isolated from V.
+coerulea stems. Our results revealed that the dihydro-phenanthrene
+methoxycoelonin (2) and the dihydro-phenanthropyran imbricatin
+(1) displayed the best intracellular antioxidant activities on HaCaT
+keratinocytes and interesting anti-inflammatory properties due to a
+concentration-dependant inhibition of COX-2 activity and
+expression. The bibenzyle gigantol (3) better inhibited HaCaT
+PGE-2 production compared to methoxycoelonin (2) and
+imbricatin (1) at each concentration tested. Its activity could be
+partly attributed to an attenuation of UVB-induced COX-2
+expression. No concentration-dependent inhibitory effect was
+observed to allow IC50 calculation for gigantol (3) effect on PGE-2
+production. Wong JH et al also demonstrated that this compound
+(3) was able to reduce NF-kB expression on murine macrophages
+RAW 264.7 [38]. Thus, this transcriptor factor could be another
+target, leading to a reduction of PGE-2 synthesis and to a global
+anti-inflammatory effect on irradiated HaCaT. Interestingly, our
+results revealed that gigantol (3) displayed a 16-fold stronger
+inhibition of PGE-2 production on human HaCaT than on
+murine macrophage RAW 264.7 [38].
+In summary, major stilbenoids (1–3), considered as Vanda
+coerulea stem biomarkers, provided chromophore structures
+absorbing UVB radiations. Applied locally these polyphenolic
+compounds may act as a sunscreen [11]. Our data hitherto obtained
+showed that imbricatin (1), methoxycoelonin (2) and gigantol (3)
+displayed antioxidant properties on HaCaT by means of
+intracellular ROS neutralization. The three stilbenoids were able
+to reduce UVB-induced COX-2 expression, thereby reducing
+PGE-2 production on HaCaT keratinocytes. These activities could
+be partly linked to the reduction of intracellular oxidative stress, to
+a reduction of COX-2 expression and, for imbricatin (1) and
+methoxycoelonin (2) to a direct inhibition of COX-2 enzyme
+activity. Globally, we observed complementary properties between
+the dihydro-phenanthropyran imbricatin (1) the dihydro-phenan-
+threne methoxycoelonin (2) and the bibenzyle gigantol (3). The
+first displayed better antioxidant activities whereas the latter
+showed strong inhibition of PGE-2 production. Anti-inflammatory
+property of orchid’s stilbenoids was here described for the first
+time on HaCaT keratinocytes. Vanda coerulea stem biomarkers
+could be considered as potential new natural skin photoprotecting
+agents.
+Supporting Information
+Figure S1 Concentration-dependent effect of stilbenoids (1-3) on
+PGE-2 release from irradiated (UVB 60 mJ/cm2) normal human
+epidermal keratinocytes (NHEK). Histogram represents the
+quantity of PGE-2 produced (PGE-2/ total NHEK proteins pg/
+mg) according to different treatments. Untreated irradiated
+Figure 5. Inhibition of human recombinant COX-2 enzyme by
+stilbenoids 1–3. The effect of stilbenoids 1–3 was evaluated on
+human recombinant COX-2 activity by measuring the formation of PGE-
+2 from arachidonic acid. Results were expressed as percentage of
+control enzyme activity functions of stilbenoids 1–3 concentrations (log
+[concentration] mol/L). Experiments were carried out in triplicate.
+Indomethacin was used as a standard inhibitory reference. Statistical
+significance (*) was set at p,0.05 compared to the standard reference.
+Imbricatin (1) and methoxycoelonin (2) inhibited significantly COX-2
+enzyme activity. Gigantol (3) did not display significant inhibition of
+COX-2 enzyme. Significant differences were only observed at 10 mM
+between imbricatin (1) and methoxycoelonin (2).
+doi:10.1371/journal.pone.0013713.g005
+Figure 6. Effect of stilbenoids 1–3 on COX-2 expression in
+irradiated HaCaT cells. The effect of stilbenoids 1–3 was evaluated
+on COX-2 expression on HaCaT cells after UVB (60 mJ/cm2) irradiations.
+Untreated irradiated (UVB+) and non irradiated (UVB-) HaCaT were
+respectively used as positive and negative controls. In bar graph, the
+relative intensity of COX-2 was expressed as a ratio of COX-2/b-Actin
+and compared to the positive control UVB+. Statistical significance (*)
+was set at p,0.05 compared to the positive control. The three
+stilbenoids inhibited UVB-induced COX-2 expression at 23 mM, but did
+not inhibit COX-2 expression at 2.87 mM. Experiment was performed in
+triplicate with similar results.
+doi:10.1371/journal.pone.0013713.g006
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 8 October 2010 | Volume 5 | Issue 10 | e13713(UVB+) and non irradiated (UVB-) NHEK were used as positive
+and negative controls, respectively. Indomethacin (Indomet.) at
+2.79 mM represented the positive reference (86% inhibition of
+PGE-2 production). Inhibition percentages of PGE-2 release were
+calculated by comparison with the positive control (UVB+). Values
+represen mean 6 sds calculated with three independent
+experiments. Treatment groups were compared by using one
+way analysis of variance ANOVA post-hoc test. Student paired t
+test was used to compare each stilbenoid effect to the positive
+control. Statistical significance (*) was set at p,0.05. Significant
+differences were observed between each biomarker effect. IC50
+were calculated with more points than those represented here on
+the graph.
+Found at: doi:10.1371/journal.pone.0013713.s001 (0.82 MB
+TIF)
+Acknowledgments
+Dr. Margraf Joseph from Tian Zi Biodiversity Research and Development
+Centre (China, Thailand) is gratefully acknowledged for identification,
+registration and supply of Vanda coerulea. Furthermore, the authors wish to
+thank Patrice Andre ´ and Dr Fre ´de ´ric Bonte ´, from LVMH recherche for
+stimulating discussion as well as Dr Re ´gis Saladin for helpful comments
+during the preparation of the manuscript.
+Author Contributions
+Conceived and designed the experiments: CS. Performed the experiments:
+CS. Analyzed the data: CS CA. Contributed reagents/materials/analysis
+tools: CS CA. Wrote the paper: CS. Substantial contribution to analysis
+and interpretation of spectral data for stilbenoids identification: CA. PhD
+advisor to Charlotte Simmler: AL. Revised the article for intellectual
+content: AL. Final approval of the version to be published: AL.
+References
+1. Bickers DR, Athar M (2006) Oxidative stress in the pathogenesis of skin disease.
+J Invest Dermatol 126: 2565–2575.
+2. Harman D (2001) Aging: overview. Ann. NY Acad Sci 928: 1–21.
+3. Fisher GJ, Kang S, Varani J, Bata-Csorgo Z, Wan Y, et al. (2002) Mechanisms
+of photoaging and chronological skin aging. Arch Dermatol 138: 1462–1470.
+4. Buckman SY, Gresham A, Hale P, Hruza G, Anast J, et al. (1998) COX-2
+expression is induced by UVB exposure in human skin: implications for the
+development of skin cancer. Carcinogenesis 19: 723–729.
+5. Seo JY, Kim EK, Lee SH, Park KC, Kim KH, et al. (2003) Enhanced
+expression of cylooxygenase-2 by UV in aged human skin in vivo. Mech. Ageing
+Dev 124: 903–910.
+6. Rhodes LE, Belgi G, Parslew R, McLoughlin L, Clough GF, et al. (2001)
+Ultraviolet-B-induced erythema is mediated by nitric oxide and prostaglandin
+E2 in combination. J Invest Dermatol 117: 880–885.
+7. Miller CC, Hale P, Pentland AP (1994) Ultraviolet B injury increases
+prostaglandin synthesis through a tyrosine kinase-dependent pathway. Evidence
+for UVB-induced epidermal growth factor receptor activation. J Biol Chem 269:
+3529–3533.
+8. Isoherranen K, Punnonen K, Jansen C, Uotila P (1999) Ultraviolet irradiation
+induces cyclooxygenase-2 expression in keratinocytes. Br. J Dermatol 140:
+1017–1022.
+9. Tripp CS, Blomme EA, Chinn KS, Hardy MM, LaCelle P, et al. (2003)
+Epidermal COX-2 induction following ultraviolet irradiation: suggested
+mechanism for the role of COX-2 inhibition in photoprotection. J Invest
+Dermatol 121: 853–861.
+10. Pinnell SR (2003) Cutaneous photodamage, oxidative stress, and topical
+antioxidant protection. J Am Acad Dermatol 48: 1–19.
+11. Nichols JA, Katiyar SK (2010) Skin photoprotection by natural polyphenols:
+anti-inflammatory, antioxidant and DNA repair mechanisms. Arch Dermatol
+Res 302: 71–83.
+12. Baliga MS, Katiyar SK (2006) Chemoprevention of photocarcinogenesis by
+selected dietary botanicals. Photochem Photobiol Sci 5: 243–53.
+13. Lecoufle M (2004) Le traite ´ des Orchide ´es. Losange: Edition Artemis. pp 42.
+14. Chase MW, Cameron MK, Barret RL, Freudenstein JV DNA data and
+orchidaceae systematic: a new phylogenetic classification available in http://
+www.orchids.co.in/dna-data-orchidaceae-shtm. Accessed 2010 Aug.9.
+15. Williams CA (1976) The leaf flavonoids of Orchidaceae. Phytochemistry 18:
+803–813.
+16. Zheng X, Zhang S, Zhang L, Zhang K, Zheng X (2006) A study of the
+neuroprotective effects of the phenolic glucoside gastrodin during cerebral
+ischemia in vivo and in vitro. Planta Med 72: 1359–1365.
+17. Pyo MK, Jin JL, Koo YK, Yun-Choi HS (2004) Phenolic and furan type
+compounds isolated from Gastrodia Elata and their anti-platelet effects. Arch
+Pharm Res 27: 381–385.
+18. Yang L, Wang Z, Xu L (2006) Simultaneous determination of phenols (bibenzyl,
+phenanthrene and fluorenone) in Dendrobium species by high-performance liquid
+chromatography with diode array detection. J Chromatogr A 1104: 230–237.
+19. Kova’cs A, Vasas A, Hohmann J (2008) Natural phenanthrenes and their
+biological activity. Phytochemistry 69: 1084–1110.
+20. Veerraju P, Prakasa Rao NS, Jaganmohan Raoa L, Jagannadha Raoa KV,
+Mohana Rao R (1989) Bibenzyls and phenanthrenoids of some species of
+Orchidaceae. Phytochemistry 28: 3031–3034.
+21. Anuradha V, Prakasa Rao NS (1998) Parviflorin a phenanthropyran from Vanda
+parviflora. Phytochemistry 48: 185–186.
+22. Anuradha V, Prakasa Rao NS (1998) Tesselatin a phenanthropyran from Vanda
+tesselata. Phytochemistry 48: 181–182.
+23. Nayak BS, Suresh R, Rao AV, Pillai GK, Davis EM, et al. (2005) Evaluation of
+wound healing activity of Vanda roxburghii R.Br (Orchidaceae): a preclinical study
+in a rat model. Int J Low Extrem Wounds 4: 200–4.
+24. Majumder PL, Sarkar AK (1982) Imbricatin, a new 9.10-dihydrophenanthrene
+derivative of the orchid Pholidota imbricata. Ind J Chem 21B: 829–831.
+25. Majumder PL, Datta N, Sarkar AK, Chakraborti J (1982) Flavidin, a novel 9,10
+dihydrophenanthrene derivative of the orchids Coelogyne flaccida, Pholidota articulata
+and Otochilus fusca. Phytochemistry 45: 730–732.
+26. Majumder PL, Banerjee S, Maiti DC, Sen S (1995) Stilbenoids from the orchids
+Agrostophyllum callosum and Coelogyne flaccida. Phytochemistry 39: 649–653.
+27. Majumder PL, Laha S, Datta N (1982) Coelonin, A 9,10-dihydrophenanthrene
+from the orchids Coelogyne ochracea and Coelogyne elata. Phytochemistry 21:
+478–480.
+28. Juneja RK, Sharma SC, Tandon JS (1985) A substituted 1,2-diarylethane from
+Cymbidium giganteum. Phytochemistry 24: 321–324.
+29. Juneja RK, Sharma SC, Tandon JS (1987) Two substituted bibenzyls and a
+dihydrophenanthrene from Cymbidium aloifolium. Phytochemistry 26:
+11213–1125.
+30. Parejo I, Viladomat F, Bastida J, Rosas-Romero A, Saavedra G, et al. (2003)
+Investigation of Bolivian plant extracts for their radical scavenging activity and
+antioxidant activity. Life Sci 73: 1667–1681.
+31. Roehm NW, Rodgers GH, Hatfield SM, Glasebrook AL (1991) An improved
+colorimetric assay for cell proliferation and viability utilizing the tetrazolium salt
+XTT. J Immunol Methods 142: 257–265.
+32. Rosenkranz AR, Schmaldienst S, Stuhlmeier KM, Chen W, Zlabinger GJ (1992)
+A microplate assay for the detection of oxidative products using 29,79
+dichlorofluorescin-diacetate. J Immunol Methods 156: 39–45.
+33. Zhang X, Xu JK, Wang J, Wang NL, Kurihara H, et al. (2007) Bioactive
+bibenzyl derivatives and fluorenones from Dendrobium nobile. J Nat Prod 70: 4–28.
+34. Wang J, Wang L, Kitanaka S (2007) Stilbene and dihydrophenanthrene
+derivatives from Pholidota chinensis and their nitric oxide inhibitory and radical
+scavenging activities. J Nat Med 61: 381–386.
+35. Guo XY, Wang J, Wang NL, Kitanaka S, Yao XS (2007) 9, 10-
+Dihydrophenanthrene derivatives from Pholidota yunnanensis and scavenging
+activity on DPPH free radical. J Asian Nat Prod Res 9: 165–175.
+36. Jayaprakasha GK, Jaganmohan Rao L, Sakariah KK (2004) Antioxidant
+activities of flavidin in different in vitro model systems. Bioorg Med Chem 12:
+5141–5146.
+37. Zhu H, Banneberg GL, Moldeus P, Shertzer HG (1994) Oxidation pathways for
+the intracellular probe 2979-dichlorofluorescin. Arch Toxicol 68: 582–587.
+38. Won JH, Kim JY, Yun KJ, Lee JH, Back NI, et al. (2006) Gigantol isolated from
+the whole plants of Cymbidium goeringii inhibits the LPS-induced iNOS and COX-
+2 expression via NF-kappaB inactivation in RAW 264.7 macrophages cells.
+Planta Med 72: 181–1187.
+39. Guo XY, Wang J, Wang NL, Kitanaka S, Yao XS (2006) Constituents from
+Pholidota yunnanensis and their inhibitory effects on nitric oxide production.
+Zhongcaoyao 37: 492–496.
+40. De ´ciga-Campos M, Palacios-Espinosa JF, Reyes-Ramı ´rez A, Mata R (2007)
+Antinociceptive and anti-inflammatory effects of compounds isolated from
+Scaphyglottis livida and Maxillaria densa. J Ethnopharmacol 114: 161–8.
+41. Ahn SM, Yoon HY, Lee BG, Park KC, Chung JH, et al. (2002) Fructose-1, 6-
+diphosphate attenuates prostaglandin E2 production and cyclo-oxygenase-2
+expression in UVB-irradiated HaCaT keratinocytes. Br. J Pharmacol 137:
+497–503.
+42. Bae JY, Choi JS, Kang SW, Lee YJ, Park J, et al. (2010) Dietary compound
+ellagic acid alleviates skin wrinkle and inflammation induced by UVB
+irradiation. Exp Dermatol 19: 182–90.
+Antioxidant Stilbenoids & COX2
+PLoS ONE | www.plosone.org 9 October 2010 | Volume 5 | Issue 10 | e13713

@@ -1,0 +1,625 @@
+Article 
+J. Braz. Chem. Soc., Vol. 21, No. 10, 1807-1813, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: majokato@iq.usp.br
+Antifungal Activity of Natural and Synthetic Amides from Piper species
+Joaquim V. Marques,a Alberto de Oliveira,a,b Ludmila Raggi,c Maria C. M. Youngc and 
+Massuo J. Kato*,a
+aInstituto de Química, Universidade de São Paulo, CP 26077, 05513-970 São Paulo-SP, Brazil 
+bInstituto de Química, Universidade Federal de Uberlândia, CP 593, 38400-902 Uberlândia-MG, Brazil
+cSeção de Fisiologia e Bioquímica de Plantas, Instituto de Botânica, CP 4005, 10051 São Paulo-SP, Brazil
+Extrato de folhas de Piper scutifolium apresentou atividade antifúngica significativa contra 
+Cladosporium cladosporioides e C. sphaerospermum e seus principais componentes ativos, 
+piperina, piperlonguminina e corcovadina foram isolados por meio de purificação biomonitorada, 
+apresentando limites de detecção de 1 µg. Foi realizado um estudo da relação estrutura-atividade 
+baseado na síntese de doze análogos com variações no número de insaturações, no padrão de 
+substituição no anel aromático e no grupo amídico. As amidas sem substituintes no anel aromático 
+e com apenas uma ligação dupla foram as mais ativas e os derivados N,N-dietil-substituídos 
+apresentam maior dose-dependência.
+The antifungal leaves extract from Piper scutifolium was submitted to bioactivity-guided 
+chromatographic separation against Cladosporium cladosporioides and C. sphaerospermum 
+yielding piperine, piperlonguminine and corcovadine as the active principles which displayed a 
+detection limit of 1 µg. Structure-activity relationships were investigated with the preparation of 
+twelve analogs having differences in the number of unsaturations, aromatic ring substituents and 
+in the amide moiety. Analogs having a single double-bond and no substituent in the aromatic ring 
+displayed higher activity, while N,N,-diethyl analogs displayed higher dose-dependent activity.
+Keywords: Piper, antifungal, analogs, amides
+Introduction
+Piper (Piperaceae) are commonly herbs, shrubs or 
+infrequently trees with over 1000 species described so far 
+mostly on tropical regions.1 In addition to the high economical 
+value of black pepper (P. nigrum) as a spice, there are 
+several medicinal uses described for different Piper species, 
+including anti-inflammatory, analgesic and treatment of 
+snake-bite.2,3 Several Piper species have been phytochemicaly 
+investigated4-6 and a plethora of secondary metabolites has been 
+found including kavalactones,7,8 lignoids,9-11 chromenes,12,13 
+terpenes,14,15 prenylated benzoic acids13,16,17 and also amides 
+as the most characteristic classes of compounds.18,19
+The most prominent example of a Piper amide is 
+piperine, the pungent principle of black pepper (P. nigrum). 
+It was the first natural product isolated from Piper species 
+back in 1819. Piperine and several other amides have 
+shown a variety of biological activity, e.g., antitumoral,20-22 
+efflux-pump inhibitor,23-25 insecticidal19,26-36 and antifungal 
+activity.37-39 The importance of insecticidal activity of 
+Piper amides is considerable and thus several studies 
+have been addressed to investigate possible structure-
+activity relationships. For instance, isobutylamides have 
+shown high activity against different insects including 
+Musca domestica,40 Aedes aegypti36 and A. togoi41 and 
+compounds bearing methylenedioxyphenyl substituents 
+can act in some cases as synergists for other compounds by 
+interfering with cytochrome P450-mediated detoxifications 
+of insecticides.34,42,43 In spite of the occurrence of several 
+antifungal amides in plants,37,38,44,45 the data concerning the 
+mechanism of action for such compounds is scarce and 
+thus a comprehensive structure-activity relationship studies 
+could not be performed so far. 
+In the course of bioprospecting studies for antifungal 
+compounds from Piperaceae species,12,37,46-48 leaf extracts 
+from P. scutifolium displayed significant activity against 
+the phytopathogenic fungi Cladosporium cladosporioides 
+and C. sphaerospermum. The dereplication of extracts by 
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.1808
+a combined chromatographic and bioautographic method 
+yielded the amides piperine (4), piperlonguminine (2e) 
+and corcovadine (5) (Figure 1) as the major bioactive 
+compounds. Since the detection limit of 1 µg was 
+comparable to that of positive controls miconazole and 
+nystatin, several analogs were synthesized in order to 
+evaluate preliminary structure-activity relationships.
+Experimental
+General experimental procedures 
+UV spectra were recorded in a UV/Visible Shimadzu 
+UV-1601PC spectrophotometer using CHCl3 as solvent. 
+IR spectra were obtained in a Perkin-Elmer model 1750 
+spectrometer. 1H NMR spectra were recorded at 200 and 
+300 MHz and 13C NMR at 50 and 75 MHz in Bruker 
+DPX-200 and DRX-300 spectrometers, respectively. 
+CDCl3 (Aldrich) was used as solvent and TMS (Aldrich) 
+as internal standard. Chemical shifts are reported in d units 
+(ppm) and coupling constants (J) in Hz. GCLREIMS were 
+measured in a Shimadzu GC-17A chromatograph interfaced 
+with a MS-QP-5050A mass spectrometer. Temperature 
+programming was performed from 150 to 300 °C at 
+15 °C min−1, then isothermal at 300 °C for 5 min. The injector 
+and detector temperatures were 150 and 320 °C, respectively, 
+and helium was used as a carrier gas. Analytical HPLC was 
+performed using a Dionex C18 (150 × 5 mm i.d. × 3 µm) 
+column with UVD-DAD 340U as a detector. Silica gel 
+(Merck, 230-400 mesh) and Sephadex LH-20 (Amersham 
+Biosciences) were used for column chromatographic 
+separation, while silica gel 60 PF254 (Merck) was used for 
+analytical (0.25 mm) and preparative TLC (1.0 mm). 
+Plant material
+P. scutifolium Jack. leaves were collected in Ubatuba, 
+SP, Brazil, in September 2002 and identified by 
+Dr. Elsie Franklin Guimarães (Instituto de Pesquisas Jardim 
+Botânico do Rio de Janeiro). Voucher specimen (Kato-281) 
+was deposited at the Herbarium of the Jardim Botânico do 
+Rio de Janeiro, RJ, Brazil. Dried fruits of P. nigrum were 
+purchased in the local market.
+Extraction and isolation 
+Dried and powdered leaves of P. scutifolium (10 g) 
+were exhaustively extracted with CH2Cl2. Crude extract 
+was fractionated through successive chromatography 
+as previously described to yield piperlonguminine 
+(4 mg, mp 157-160 °C) and corcovadine (10 mg, 
+mp 143-145 °C).47 To obtain piperine, dried fruits of 
+P. nigrum (1 kg) were crushed, extracted with ethanol 
+and yielded a crystaline solid after concentration under 
+vacuum. Successive recrystallization in EtOH yielded pure 
+piperine (200 mg, mp 129-131 °C) which was identified 
+based on comparison of 1H and 13C NMR data with those 
+reported.49
+Synthetic procedures
+Compounds 1c, 1d, 2c, 2d e 3c were synthesized using 
+Wadsworth-Emmons according to Strunz and Finlay’s 
+method.50 The starting aldehydes reacted with triethyl-
+phosphonocrotonate yielding ethyl 5-phenylpentadienoates. 
+The ester products were then hydrolysed without further 
+purification to the corresponding carboxylic acid, 
+(2E,4E)-5-phenylpenta-2,4-dienoic acid (6) and (2E,4E)-
+5-(3-methoxyphenyl)penta-2,4-dienoic acid (7). Their 
+corresponding chlorides obtained by reaction with oxalyl 
+chloride reacted with amines yielding the desired amides 
+with an overall yield of ca. 80%. Compounds 1d and 2d 
+were synthesized according to de Paula and co-workers,32 
+with piperic acid obtained from piperine hydrolysis which 
+was then converted into the desired amides similarly as 
+above described. Amides 1a, 2a and 3c were prepared 
+N
+H
+O
+O
+O
+N
+H
+O
+O
+O
+N
+O
+O
+O
+OO
+Piperine (4)
+Piperlonguminine (2e) Corcovadine (5)
+Figure 1. Natural amides.
+Marques et al. 1809Vol. 21, No. 10, 2010
+using commercial cinnamic acid. Amides 1b and 3b were 
+synthesized from commercial benzo[d][1,3]dioxole-
+5-carbaldehyde (8) which was converted into (E)-3-
+(benzo[d][1,3]dioxol-5-yl) acrylic acid (9), yielding the 
+amides as above described.51
+Spectroscopic data of 1a, 1e, 2a, 3e, 6 and 9 were in 
+accordance with those published.32,51-54 Compounds 1d and 
+3c were not previously described.
+(E)-3-(Benzo[d][1,3]dioxol-5-yl)-N,N-diethylacrylamide 
+(1b)55
+Yield 34%, colorless oil; IR ν
+max
+/cm−1 3457, 2932, 
+2901, 1646, 1598, 1503, 1491, 1038, 929, 811, 523 (KBr); 
+1H NMR (CDCl3, 200 MHz) d 1.18 (t, 3H, J 7.0 Hz, H2”a), 
+1.25 (t, 3H, J 7.0 Hz, H2”b), 3.40-3.50 (m, 4H, H1”a 
+and H1”b), 5.98 (s, 2H, OCH2O), 6.65 (d, 1H, J 15.4 Hz, 
+H2), 6.79 (d, 1H , J 8.0 Hz, H6’), 7.00 (d, 1H, J 8.0 Hz, 
+H5’), 7.03 (s, 1H, H2’), 7.62 (d, 1H, J 15.4 Hz, H3); 
+13C NMR (CDCl3, 50 MHz) d 13.1 (C2”a), 14.9 (C2”b), 
+40.9 (C1”a), 42.0 (C1”b), 101.3 (OCH2O), 106.2 (C2’), 
+108.3 (C5’), 115.6 (C2), 123.5 (C6’), 129.7 (C1’), 141.8 
+(C3), 148.0 (C4’), 148.7 (C3’), 165.6 (C=O); EIMS m/z 
+247 (M+, 24%), 176 (18), 175 (75), 145 (56), 117 (35), 
+89 (100), 87 (11), 72 (28), 65 (14), 63 (58), 62 (22), 44 
+(26), 42 (36), 39 (33).
+(2E,4E)-N,N-Diethyl-5-phenylpenta-2,4-dienamide (1c)56
+Yield 57%, colorless oil; IR ν
+max
+/cm−1 3349, 2976, 1711, 
+1634, 1450, 1268, 1216, 1127 (KBr); 1H NMR (CDCl3, 
+300 MHz) d 1.17 (t, 3H, J 6.9 Hz, H2”a), 1.23 (t, 3H, 
+J 6.9 Hz, H2”b), 3.42 (q, 2H, J 6.9 Hz, H1”a), 3.47 (q, 2H, 
+J 6.9 Hz, H1”b), 6.41 (d, 1H, J 14.5 Hz, H2), 6.80-7.00 (m, 
+2H, H4 and H4’), 7.24-7.56 (m, 6H, H2’, H8, H5’, H6’, H5 
+and H3); 13C NMR (CDCl3, 75 MHz) d 13.2(C2”a), 15.0 
+(C2”b), 41.0 (C1”a), 42.2 (C1”b), 121.3 (C2), 126.3 (C4), 
+127.0 (C2’ and C6’),128.6 (C4’), 128.7 (C3’ and C5’), 
+136.5 (C1’), 138.7 (C5), 142.4 (C3), 165.8 (C1); EIMS 
+m/z 157 (12%), 129 (16), 128 (43), 127 (22), 102 (17), 77 
+(45), 72 (32), 56 (24), 51 (36), 42 (100), 39 (23).
+(2E,4E)-N,N-Diethyl-5-(3-methoxyphenyl)penta-2,4-
+dienamide (1d)
+Yield 72%, colorless oil; IR ν
+max
+/cm−1 3405, 2974, 2937, 
+2916, 1632, 1605, 1484, 1462, 1264, 1044, 784, 687 (KBr); 
+1H NMR (CDCl3, 200 MHz) d 1.13 (t, 3H, J 7.4 Hz, H2”a), 
+1.23 (t, 3H, J 7.4 Hz, H2”b), 3.40 (t, 2H, J 7.4 Hz, H1”a), 
+3.52 (t, 2H, J 7.4 Hz, H1”b), 3.74 (s, 3H, OCH3), 6.41 (d, 
+1H, J 15.0 Hz, H2), 6.69-6.84 (m, 3H , H4’, H5 and H4), 
+6.89 (s, 1H, H2’), 6.97 (d, 1H, J 7.9 Hz, H6’), 7.18 (t, 1H, 
+J 7.9 Hz, H5’), 7.38 (dd, 1H, J 15.0 Hz and 9.1 Hz, H3); 
+13C NMR (CDCl3, 50 MHz) d 13.2 (C2”a), 14.9 (C2”b), 
+41.0 (C1”a), 42.2 (C1”b), 55.2 (OCH3), 111.9 (C2’), 114.4 
+(C4’), 119.6 (C6’), 121.0 (C2), 127.2 (C5), 129.7 (C5’), 
+137.8 (C1’), 138.7 (C4), 142.4 (C3), 159.8 (C3’), 165.8 
+(C1); EIMS m/z 135 (5%), 100 (10), 72 (55), 57 (30), 55 
+(18), 44 (66), 43 (100), 42 (64), 41 (72).
+(2E,4E)-N-Isobutyl-5-phenylpenta-2,4-dienamide (2c)57
+Yield 79%, white crystals, mp 154.2-154.9 °C; 
+IR ν
+max
+/cm−1 3292, 2961, 1646, 1612, 1546, 1446, 1346, 
+1160, 989, 508 (KBr); 1H NMR (CDCl3, 300 MHz) d 0.94 
+(d, 6H, J 6.8 Hz, H3”), 1.82 (hept, 1H, J 6.8 Hz, H2”), 
+3.19 (t, 2H, J 6.6 Hz, H1”), 5.71 (sl, 1H, NH), 5.98 (d, 1H, 
+J 14.9 Hz, H2), 6.83-6.88 (m, 2H, H4 and H4’), 7.24-7.50 
+(m, 6H, H2’, H3’, H5’, H6’, H5 and H3); 13C NMR (CDCl3, 
+75 MHz,) d 20.1 (C3”), 28.6 (C2”), 47.0 (C1”), 124.1 (C2), 
+126.3 (C4), 126.9 (C2’ and C6’), 128.6 (C4’), 128.7 (C3’ 
+and C5’), 136.3 (C4’), 139.0 (C5), 140.8 (C3), 166.1 (C1); 
+EIMS m/z 229 (M+, 34%), 172 (13), 158 (12), 157 (100), 
+129 (35), 128 (98), 96 (42), 41 (24).
+(2E,4E)-N-Isobutyl-5-(3-methoxyphenyl)penta-2,4-
+dienamide (2d)58
+Yield 82%, white crystals, mp 99.5-101.0 °C, 
+IR ν
+max
+/cm−1 3308, 2950, 1644, 1609, 1578, 1432, 1161, 
+1052, 990, 863, 572 (KBr); 1H NMR (CDCl3, 300 MHz) 
+d 0.94 (d, 6H, J 6.6, H3”), 1.83 (m, 1H, J 6.6 Hz, H2”), 
+3.19 (t, 2H, J 6.6 Hz, H1”), 3.81 (s, 3H, OCH3), 5.99 (d, 
+1H, J 14.5 Hz, H2), 6.75-6.90 (m, 3H , H4’, H5 and H4), 
+6.95 (t, 1H, J 2.0 Hz, H2’), 7.03 (d, 1H, J 7.9 Hz, H6’), 
+7.24 (t, 1H, J 7.9 Hz, H5’), 7.53 (m, 1H, H3); 13C NMR 
+(CDCl3, 75 MHz) d 20.1 (C3”), 28.6 (C2”), 47.0 (C1”), 
+55.2 (OCH3), 112.1 (C4’), 114.3 (C2’), 119.6 (C6’), 124.2 
+(C2), 126.6 (C4), 129.7 (C5’), 137.7 (C1’), 138.9 (C5), 
+140.7 (C3), 159.8 (C3’), 166.0 (C1); EIMS m/z 259 (M+, 
+4%), 187 (35), 160 (11), 158 (71), 145 (12), 144 (52), 115 
+(88), 77 (11), 64 (10), 43 (100), 41 (90), 39 (41).
+N-Pentylcinnamamide (3a)59
+Yield 95%, white crystals, mp 87.6-88.2 °C; 
+IR ν
+max
+/cm−1 3276, 2955, 2933, 1653, 1607, 1553, 1475, 
+764, 489 (KBr); 1H NMR (CDCl3, 200 MHz) d 0.86 (brm, 
+3H, H5”), 1.29 (brm, 4H, H3” and H4”), 1.59 (brm, 2H, 
+H2”), 3.38 (q, 2H, J 6.6 Hz, H1”), 6.68 (d, 1H, J 15.8 Hz, 
+H2), 7.20-7.35 (m, 4H , H3’, H4’, H5’ and NH), 7.41-7.46 
+(m, 2H, H2’ and H6’), 7.64 (d, 1H, J 15.8 Hz, H3); 
+13C NMR (CDCl3, 50 MHz) d 13.7 (C5”), 22.1 (C4”), 28.9 
+(C3”), 29.0 (C2”), 39.6 (C1”), 121.3 (C2), 127.4 (C2’ and 
+C4’), 128.4 (C3’ and C5’), 129.1 (C4’), 134.7 (C1’), 139.9 
+(C3), 166.3 (C=O); EIMS m/z 217 (M+, 4%), 160 (13), 146 
+(25), 131 (100), 103 (49), 102 (16), 84 (18), 77 (58), 51 
+(24), 41 (28), 39 (15).
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.1810
+(E)-3-(Benzo[d][1,3]dioxol-5-yl)-N-pentylacrylamide 
+(3b)55
+Yield 47%, orange crystals, mp 99.8-100.2 °C; 
+IR ν
+max
+/cm−1 3298, 2934, 1655, 1621, 1504, 1491, 97, 927 
+(KBr); 1H NMR (CDCl3, 200 MHz) d 0.79 (brm, 3H, H5”), 
+1.24 (brm, 4H, H3” and H4”), 1.48 (brm, 2H, H2”), 3.28 
+(q, 2H, J 6.7 Hz, H1”), 5.86 (s, 2H, OCH2O), 6.25 (d, 1H, 
+J 15.4 Hz, H2), 6.36 (sl, 1H, NH), 6.66 (d, 1H, J 8.0 Hz, 
+H6’), 6.85 (d, 1H, J 8.0 Hz, H5’), 6.88 (s, 1H, H2’), 7.43 
+(d, 1H, J 15.4 Hz, H3); 13C NMR (CDCl3, 50 MHz) d 13.8 
+(C5”), 22.3 (C4”), 29.0 (C3”), 29.2 (C2”), 39.7 (C1”), 
+101.2 (OCH2O), 106.2 (C2’), 108.3 (C5’), 119.1 (C2), 
+123.6 (C6’), 129.2 (C1’), 140.1 (C3), 148.0 (C4’), 148.8 
+(C3’), 166.2 (C=O); EIMS m/z 261 (M+, 19%), 190 (53), 
+176 (35), 175 (89), 145 (56), 135 (40), 117 (29), 89 (100), 
+41 (58), 39 (43).
+(2E,4E)-N-Pentyl-5-phenylpenta-2,4-dienamide (3c)
+Yield 80%, yellowish crystals, mp 103.9-104.3 °C; 
+IRν
+max
+/cm−1 3287, 2958, 1644, 1615, 1547, 1443, 1146, 
+998 (KBr); 1H NMR (200 MHz, CDCl3) d 0.90 (t, 3H, 
+J 6.6 Hz, H5”), 1.25-1.36 (m, 4H, H3” and H4”), 1.55 (t, 
+2H, J 6.6 Hz, H2”), 3.29 (q, 2H, J 6.6 Hz, H1”), 5.77 (sl, 
+1H, NH), 5.98 (d, 1H, J 14.9 Hz, H2), 6.80-6.89 (m, 2H, 
+H4 and H5), 7.24-7.50 (m, 6H, H3, H2’, H3’, H4’, H5’ and 
+H6’); 13C NMR (CDCl3, 50 MHz) d 13.9 (C5”), 22.3 (C4”), 
+29.0 (C3”), 29.2 (C2”), 39.6 (C1”), 124.3 (C4), 126.3 (C2), 
+126.9 (C2’ and C6’),128.5 (C4’), 128.6 (C3’ and C3’’), 
+136.2 (C1’), 138.8 (C5), 140.4 (C3), 166.1 (C1); EIMS 
+m/z 243 (M+, 28%), 186 (17), 157 (90), 130 (23), 129 (58), 
+128 (100), 127 (45), 115 (16), 96 (41), 91 (11), 77 (22), 64 
+(22), 51 (17), 43 (20), 41 (35), 39 (18).
+(2E,4E)-5-(3-Methoxyphenyl)penta-2,4-dienoic acid (7)60 
+Yield 88%, colorless needles, mp 135.9-136.6 °C; 
+IR ν
+max
+/cm−1 3025, 3007, 1687, 1612, 1579, 1426, 1158, 
+1044, 995, 873 (KBr); 1H NMR (CDCl3, 300 MHz) d 3.84 
+(s, 3H, OCH3), 5.99 (d, 1H, J 15.2 Hz, H2), 6.85-6.95 (m, 
+2H , H4’ and H4), 6.93 (d, 1H, J 15.7 Hz, H5), 6.99 (t, 1H, 
+J 2.5 Hz, H2’), 7.07 (d, 1H, J 7. 8 Hz, H6’), 7.28 (t, 1H, 
+J 7.8 Hz, H5’), 7.53 (ddd, J 15.2, 7.5 and 2.3 Hz, 1H, H3); 
+13C NMR (CDCl3, 75 MHz) d 55.3 (OCH3), 112.3 (C4’), 
+115.1 (C2’), 120.1 (C6’), 120.4 (C2), 126.2 (C4), 129.8 
+(C5’), 137.2 (C1’), 141.54 (C5), 146.9 (C3), 159.9 (C3’), 
+172.3 (C1); EIMS m/z 204 (M+, 65%), 159 (98), 144 (100), 
+127 (40), 115 (75), 89 (12), 77 (14), 63 (20), 51 (17), 39 (19).
+Antifungal assay
+The microorganisms used in the antifungal assay, 
+Cladosporium cladosporioides (Fresen) de Vries SPC 140 
+and C. sphaerospermum (Perzig) SPC 491, have been 
+maintained at the Instituto de Botânica, São Paulo, SP, 
+Brazil. The assay was carried out for all amides and their 
+activities determined as previously described (Table 3).47 
+Nystatin and miconazole were used as positive controls 
+whereas ampicillin and chloramphenicol were used as 
+negative controls.61
+Results and Discussion
+Natural amides were isolated through successive 
+chromatographic procedures as previously described.47 
+Analogs of (2E, 4E)-5-phenylpenta-2,4-dienamides and 
+(E)-cinnamamides were synthesized (Figure 2) aiming at 
+determination of overall effect of aromatic ring substitution 
+and nitrogen substituent in antifungal activity.62,63 The 
+importance of the amide moiety for the antifungal activity 
+was investigated by replacing the natural piperidyl, isobutyl 
+or its acetylated derivative by N,N-diethyl or N-pentyl 
+analogs.
+The replacement of isobutyl or piperidyl moieties by 
+diethyl groups in (2E, 4E)-5-phenylpenta-2,4-dienamides 
+resulted in a noticeable increase in the dose-response 
+activity, as observed for amides 1a, 1b, 1c, 1d and 1e 
+against C. cladosporioides and C. sphaerospermum. 
+Some selectivity was detected between the two strains in 
+which C. sphaerospermum was more sensible to 1e than 
+C. cladosporioides (Table 1). 
+Analysis of aromatic substitution pattern indicated 
+that amides having methylenedioxy or methoxyl groups 
+displayed lower antifungal potency when compared to 
+those having no substituents. The amides 2a, 2c, 3a and 
+3c displayed higher activities at 1 µg against both strains 
+while 1d, 3b and 3e were the least active among all amides 
+assayed against C. cladosporioides. At lower concentrations 
+N-isobutyl and N-pentyl derivatives (2a-2e, 3a-3c and 3e) 
+showed higher activity. In this case, there is an apparent 
+positive correlation with the lipophylicity and the amides 
+having a α,β-conjugated carbonyl were more active than 
+those having an extended α,β,γ,d-conjugated system.
+Conclusions
+Investigation of natural and synthetic amides as 
+antifungal compounds have shown preliminary structure-
+activity relationship in which N,N-diethyl showed higher 
+dose dependent activity while N-pentyl and N-isobutyl 
+derivatives showed lower detection limit. In general, 
+substituents in the aromatic ring such as methoxyl and 
+methylenedioxy decreased antifungal activity and the 
+shorter aliphatic chain, the higher activity was observed.
+Marques et al. 1811Vol. 21, No. 10, 2010
+NR3R4
+O
+R1
+R2
+n
+1a: n = 1; R1 = R2 = H; R3 = R4 = Et
+1b: n = 1; R1+R2 = O2CH2; R3 = R4 = Et
+1c: n = 2; R1 = R2 = H; R3 = R4 = Et
+1d: n = 2; R1 = OMe; R2 = H;R3 = R4 = Et
+1e: n = 2; R1 + R2 = O2CH2; R3 = R4 = Et
+2a: n = 1; R1 = R2 = H; R3 = i-Bu; R4 = H
+2c: n = 2; R1 = R2 = H; R3 = i-Bu; R4 = H
+2d: n = 2; R1 = OMe; R2 = H; R3 = i-Bu; R4 = H
+2e: n = 2; R1 + R2 = O2CH2; R3 = i-Bu; R4 = H
+3a: n = 1; R1 = R2 = H; R3 = pentyl; R4 = H
+3b: n = 1; R1 + R2 = O2CH2; R3 = pentyl; R4 = H
+3c: n = 2; R1 = R2 = H; R3 = pentyl; R4 = H
+3e: n = 2; R1 + R2 = O2CH2; R3 = pentyl; R4 = H
+4:   n = 2; R1 + R2 = OCH2O; R3 + R4 = piperidyl
+5:   n = 2; R1 + R2 = O2CH2; R3 = CH2C(OCOCH3)(CH3)2; R4 = H
+Figure 2. Synthetic and natural amides evaluated as antifungal.
+O
+N
+R3
+R2
+R1
+Single double bond slightly
+ increases activity
+Diethyl amide activity is dose
+dependent while isobutyl 
+shows higher activity at lower
+ concentrations
+Non substituted  
+aromatic rings 
+show higher activity
+Figure 3. Preliminary structure-activity relationship for antifungal amide.
+Table 1. Antifungal activity of natural and synthetic compounds 
+NR3R4
+O
+R1
+R2
+n
+n R1 R2 R3 R4 Cladosporium cladosporioides# Cladosporium sphaerospermum#
+100 50 25 10 5 1 100 50 25 10 5 1 
+1a 1 H H Et Et *** *** *** ** ** * *** *** *** ** ** -
+1b 1 O2CH2 Et Et *** *** *** ** ** * *** *** *** *** ** *
+1c 2 H H Et Et *** *** *** *** ** * *** *** *** ** * -
+1d 2 OMe H Et Et *** *** ** * * - *** *** ** * * -
+1e 2 O2CH2 Et Et ** ** ** * * - *** *** ** * * *
+2a 1 H H iBu H ** ** ** ** ** ** ** ** ** ** ** *
+2c 2 H H iBu H ** ** ** ** ** * ** ** ** ** ** **
+2d 2 OMe H iBu H ** ** ** ** * * ** ** ** ** * *
+2e 2 O2CH2 iBu H ** ** ** ** ** * ** ** ** ** ** *
+3a 1 H H pentyl H ** ** ** ** ** ** ** ** ** ** ** **
+3b 1 O2CH2 pentyl H * * * * * * ** ** ** * * *
+3c 2 H H pentyl H ** ** ** ** ** ** ** ** ** ** ** **
+3e 2 O2CH2 pentyl H * * * * * - * * * * * *
+4 2 O2CH2 piperidyl ** ** ** ** * * ** ** ** ** ** **
+5 2 O2CH2 CH2C(OCOCH3)(CH3)2 H **  **  **   ** ** * ** ** ** ** ** *
+Numbers in italic and underlined are natural amides;  # µg; *** : high activity; ** : medium; * : low; - : not active.
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.1812
+Further investigations including quantitative biological 
+activity assessment and determination of physicochemical 
+descriptors are required for a thorough understanding of 
+the observed antifungal activities and in the development 
+of effective antifungal agents.
+Supplementary Information
+The spectral data are available free of charge at 
+http://jbcs.sbq.org.br, as pdf file.
+ 
+Acknowledgments
+Authors thank FAPESP, CNPq and CAPES for financial 
+support. 
+References
+ 1. Jaramillo, M. A.; Manos, P. S.; Am. J. Bot. 2001, 88, 706.
+ 2. Di Stasi, L. C.; Oliveira, G. P.; Carvalhaes, M. A.; Queiroz Jr, 
+M.; Tien, O. S.; Kakinami, S. H.; Reis, M. S.; Fitoterapia 2002, 
+73, 69.
+ 3. Giorgetti, M.; Negri, G.; Rodrigues, E.; J. Ethnopharmacol. 
+2007, 109, 338.
+ 4. Kato, M. J.; Furlan, M.; Pure Appl. Chem. 2007, 79, 529.
+ 5. Parmar, V. S.; Jain, S. C.; Gupta, S.; Talwar, S.; Rajwanshi, V. K.; 
+Kumar, R.; Azim, A.; Malhotra, S.; Kumar, N.; Jain, R.; Sharma, 
+N. K.; Tyagi, O. D.; Lawrie, S. J.; Errington, W.; Howarth, O. 
+W.; Olsen, C. E.; Singh, S. K.; Wengel, J.; Phytochemistry 1998, 
+49, 1069.
+ 6. Parmar, V. S.; Jain, S. C.; Bisht, K. S.; Jain, R.; Taneja, P.; Jha, 
+A.; Tyagi, O. D.; Prasad, A. K.; Wengel, J.; Olsen, C. E.; Boll, 
+P. M.; Phytochemistry 1997, 46, 597.
+ 7. Xuan, T. D.; Fukuta, M.; Wei, A. C.; Elzaawely, A. A.; Khanh, 
+T. D.; Tawata, S.; J. Nat. Med. 2008, 62, 188.
+ 8. Whitton, P. A.; Lau, A.; Salisbury, A.; Whitehouse, J.; Evans, 
+C. S.; Phytochemistry 2003, 64, 673.
+ 9. Chen, Y.-C.; Liao, C.-H.; Chen, I.-S.; Phytochemistry 2007, 68, 
+2101.
+ 10. Bodiwala, H. S.; Singh, G.; Singh, R.; Dey, C. S.; Sharma, 
+S. S.; Bhutani, K. K.; Singh, I. P.; J. Nat. Med. 2007, 61, 
+418.
+ 11. Martins, R. C.; Latorre, L. R.; Sartorelli, P.; Kato, M. J.; 
+Phytochemistry 2000, 55, 843.
+ 12. Morandim, A. A.; Bergamo, D. C. B.; Kato, M. J.; Cavalheiro, 
+A. J.; Bolzani, V. S.; Furlan, M.; Phytochem. Anal. 2005, 16, 
+282.
+ 13. Baldoqui, D. C.; Kato, M. J.; Cavalheiro, A. J.; Bolzani, V. S.; 
+Young, M. C. M.; Furlan, M.; Phytochemistry 1999, 51, 899.
+ 14. Baldoqui, D. C.; Bolzani, V. S.; Furlan, M.; Kato, M. J.; 
+Marques, M. O. M.; Quim. Nova 2009, 32, 1107.
+ 15. Péres, V. F.; Moura, D. J.; Sperotto, A. R. M.; Damasceno, F. 
+C.; Caramão, E. B.; Zini, C. A.; Saffi, J.; Food Chem. Toxicol. 
+2009, 47, 2389.
+ 16. Lago, J. H. G.; Chen, A.; Young, M. C. M.; Guimarães, E. F.; 
+Oliveira, A.; Kato, M. J.; Phytochem. Lett. 2009, 2, 96.
+ 17. Ramos, C. S.; Kato, M. J.; J. Braz. Chem. Soc. 2009, 20, 560.
+ 18. Cotinguiba, F.; Regasini, L. O.; Bolzani, V. S.; Debonsi, H. M.; 
+Passerini, G. D.; Cicarelli, R. M. B.; Kato, M. J.; Furlan, M.; 
+Med. Chem. Res. 2009, 18, 703.
+ 19. Srinivasan, K.; Crit. Rev. Food Sci. Nutr. 2007, 47, 735.
+ 20. Bezerra, D. P.; Moura, D. J.; Rosa, R. M.; Vasconcellos, M. C.; 
+Silva, A. C. R.; Moraes, M. O.; Silveira, E. R.; Lima, M. A. S.; 
+Henriques, J. A. P.; Costa-Lotufo, L. V.; Saffi, J.; Mutat. Res./
+Genet. Toxicol. Environ. Mutagen. 2008, 652, 164. 
+ 21. Bezerra, D. P.; Pessoa, C.; Moraes, M. O.; Alencar, N. M. N.; 
+Mesquita, R. O.; Lima, M. W.; Alves, A. P. N.; Pessoa, O. D. 
+L.; Chaves, J. H.; Silveira, E. R.; Costa-Lotufo, L. V.; J. Appl. 
+Toxicol. 2008, 28, 599.
+ 22. Liu, D.; Meng, Y.; Zhao, J.; Chen, L.; Chem. Res. Chin. Univ. 
+2008, 24, 42.
+ 23. Michalet, S.; Cartier, G.; David, B.; Mariotte, A. M.; Dijoux 
+Franca, M. G.; Kaatz, G. W.; Stavri, M.; Gibbons, S.; Bioorg. 
+Med. Chem. Lett. 2007, 17, 1755.
+ 24. Sangwan, P. L.; Koul, J. L.; Koul, S.; Reddy, M. V.; Thota, N.; 
+Khan, I. A.; Kumar, A.; Kalia, N. P.; Qazi, G. N.; Bioorg. Med. 
+Chem. 2008, 16, 9847.
+ 25. Thota, N.; Koul, S.; Reddy, M. V.; Sangwan, P. L.; Khan, I. A.; 
+Kumar, A.; Raja, A. F.; Andotra, S. S.; Qazi, G. N.; Bioorg. 
+Med. Chem. 2008, 16, 6535.
+ 26. Bezerra, D. P.; Castro, F. O.; Alves, A. P. N.; Pessoa, C.; Moraes, 
+M. O.; Silveira, E. R.; Lima, M. A. S.; Elmiro, F. J. M.; Costa-
+Lotufo, L. V.; Braz. J. Med. Biol. Res. 2006, 39, 801.
+ 27. Bina, S. S.; Tahsin, G.; Sabira, B.; Farhana, A.; Fouzia, A. S.; 
+Nat. Prod. Res. 2005, 19, 143.
+ 28. Christodoulopoulou, L.; Tsoukatou, M.; Tziveleka, L. A.; 
+Vagias, C.; Petrakis, P. V.; Roussis, V.; J. Agric. Food Chem. 
+2005, 53, 1435.
+ 29. Khan, I. A.; Mirza, Z. M.; Kumar, A.; Verma, V.; Qazi, G. N.; 
+Antimicrob. Agents Chemother. 2006, 50, 810.
+ 30. Lee, S. A.; Hong, S. S.; Han, X. H.; Hwang, J. S.; Oh, G. J.; 
+Lee, K. S.; Lee, M. K.; Hwang, B. Y.; Ro, J. S.; Chem. Pharm. 
+Bull. 2005, 53, 832.
+ 31. Navickiene, H. M. D.; Bolzani, V. S.; Kato, M. J.; Pereira, A. 
+M. S.; Bertoni, B. W.; França, S. C.; Furlan, M.; Phytochem. 
+Anal. 2003, 14, 281.
+ 32. Paula, V. F.; Barbosa, L. C. A.; Demuner, A. J.; Piló-Veloso, 
+D.; Picanço, M. C.; Pest Manage. Sci. 2000, 56, 168.
+ 33. Ribeiro, T. S.; Lima, L. F.; Previato, J. O.; Previato, L. M.; Heise, 
+N.; Lima, M. E. F.; Bioorg. Med. Chem. Lett. 2004, 14, 3555.
+ 34. Scott, I. M.; Jensen, H. R.; Philogène, B. J. R.; Arnason, J. T. 
+A.; Phytochem. Rev. 2008, 7, 65.
+Marques et al. 1813Vol. 21, No. 10, 2010
+ 35. Brown, D.; Zhang, L.; Wen, Z.; Scott, J. G.; Arch. Insect 
+Biochem. Physiol. 2003, 54, 212.
+ 36. Simas, N. K.; Lima, E. C.; Kuster, R. M.; Lage, C. L. S.; Oliveira 
+Filho, A. M.; Rev. Soc. Bras. Med. Trop. 2007, 40, 405.
+ 37. Alecio, A. C.; Bolzani, V. S.; Young, M. C. M.; Kato, M. J.; 
+Furlan, M.; J. Nat. Prod. 1998, 61, 637.
+ 38. Cunico, M. M.; Miguel, O. G.; Miguel, M. D.; Carvalho, J. L. 
+S.; Peitz, C.; Auer, C. G.; Grigoletti Jr., A.; Visão Acadêmica 
+2003, 4, 77.
+ 39. Silva, R. V.; Navickiene, H. M. D.; Kato, M. J.; Bolzani, V. 
+S.; Meda, C. I.; Young, M. C. M.; Furlan, M.; Phytochemistry 
+2002, 59, 479.
+ 40. Elliott, M.; Farnham, A. W.; Janes, N. F.; Johnson, D. M.; 
+Pulman, D. A.; Sawicki, R. M.; Agric. Biol. Chem. 1986, 50, 
+1347.
+ 41. Park, I. K.; Lee, S. G.; Shin, S. C.; Park, J. D.; Ahn, Y. J.; 
+J. Agric. Food Chem. 2002, 50, 1866.
+ 42. Pring, B. G.; J. Chem. Soc., Perkin Trans.1 1982, 1493.
+ 43. Scott, I. M.; Puniani, E.; Durst, T.; Phelps, D.; Merali, S.; 
+Assabgui, R. A.; Sanchez-Vindas, P.; Poveda, L.; Philogène, 
+B. J. R.; Arnason, J. T.; Agric. Forest Entomol. 2002, 4, 137.
+ 44. Navickiene, H. M. D.; Alécio, A. C.; Kato, M. J.; Bolzani, V. S.; 
+Young, M. C. M.; Cavalheiro, A. J.; Furlan, M.; Phytochemistry 
+2000, 55, 621.
+ 45. Silva, R. V.; Navickiene, H. M. D.; Kato, M. J.; Bolzani, V. 
+S.; Meda, C. I.; Young, M. C. M.; Furlan, M.; Phytochemistry 
+2002, 59, 521.
+ 46. Lago, J. G. L.; Ramos, C. S.; Casanova, C. C. D.; Morandim, 
+A. A.; Bergamo, C. D.; Cavalheiro, A. J.; Bolzani, V. S.; Furlan, 
+M.; Guimarães, E. F.; Young, M. C. M.; Kato, M. J.; J. Nat. 
+Prod. 2004, 67, 1783.
+ 47. Marques, J. V.; Kitamura, R. O. S.; Lago, J. H. G.; Young, M. C. 
+M.; Guimarães, E. F.; Kato, M. J.; J. Nat. Prod. 2007, 70, 2036.
+ 48. Sartorelli, P.; Young, M. C. M.; Kato, M. J.; Phytochemistry 
+1998, 47, 1003.
+ 49. Chen, Z.; Wu, J. B.; Zhang, J.; Li, X. J.; Shen, M. H.; Sep. Sci. 
+Technol. 2009, 44, 1884. 
+ 50. Strunz, G. M.; Finlay, H.; Tetrahedron 1994, 50, 11113.
+ 51. Mitra, A. K.; De, A.; Karchaudhuri, N.; Synth. Commun. 1999, 
+29, 573.
+ 52. Concellón, J. M.; Pérez-Andrés, J. A.; Rodríguez-Solla, H.; 
+Chem.--Eur. J. 2001, 7, 3062.
+ 53. Huang, Z. Z.; Wen, L. W.; Huang, X.; Synth. Commun. 1990, 
+20, 2579 
+ 54. Schauer, D. J.; Helquist, P.; Synthesis 2006, 3654.
+ 55. Zhang, X. H.; Li, R. L.; Cai, M. S.; Beijing Med. College Trans. 
+1980, 12, 83. (CA 93:142676).
+ 56. Stepanova, O. S.; Mazurenko, G. A.; Tho, N. V.; Derkach, 
+N.; Fiziologicheski Aktivnye Veshchestva 1976, 8, 86. (CA 
+86:189422).
+ 57. Xiao, W. J.; Shi, L. L.; Chen, Z. Q.; Huang, Y. Z.; Lang, S. A.; 
+Heteroat. Chem. 1990, 1, 245.
+ 58. Vig, B.; Kanwar, R.; Singh, V.; Indian J. Chem., Sect. B: Org. 
+Chem. Incl. Med. Chem. 1977, 15B, 1048.
+ 59. Delaney, A. D.; Currie, D. J.; Holmes, H. L.; Can. J. Chem. 
+1969, 47, 3273.
+ 60. Khan, A. M.; Proctor, G. R.; Rees, L.; J. Chem. Soc., C 1966, 
+990.
+ 61. Homans, A. L.; Fuchs, A.; J. Chromatogr., A 1970, 51, 327.
+ 62. Harmatha, J.; Nawrot, J.; Entomol. Exp. Appl. 2002, 104, 51.
+ 63. Miyazawa, M.; Yoshio, K.; Ishikawa, Y.; Kameoka, H.; J. Agric. 
+Food Chem. 1998, 46, 1914.
+Submitted: February 26, 2009
+Published online: June 11, 2010
+FAPESP helped in meeting the publication costs of this article.
+Supplem
+entary Inform
+ation
+J. Braz. Chem. Soc., Vol. 21, No. 10, S1-S10, 2010.
+Printed in Brazil - ©2010  Sociedade Brasileira de Química
+0103 - 5053  $6.00+0.00
+*e-mail: majokato@iq.usp.br
+Antifungal Activity of Natural and Synthetic Amides from Piper species
+Joaquim V. Marques,a Alberto de Oliveira,a,b Ludmila Raggi,c Maria C. M. Youngc and 
+Massuo J. Katoa*
+aInstituto de Química, Universidade de São Paulo, CP 26077, 05513-970 São Paulo- SP, Brazil 
+bInstituto de Química, Universidade Federal de Uberlândia, CP 593, 38400-902 Uberlândia-MG, Brazil
+cSeção de Fisiologia e Bioquímica de Plantas, Instituto de Botânica, CP 4005, 10051 São Paulo-SP, Brazil
+Figure S1. 1H NMR (CDCl3, 200 MHz) of 1b.
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.S2
+Figure S2. 13C NMR (CDCl3, 50 MHz) of 1b.
+Figure S3. 1H NMR (CDCl3, 200 MHz) of 1c.
+Marques et al. S3Vol. 21, No. 10, 2010
+Figure S4. 13C NMR (CDCl3, 50 MHz) of 1c.
+Figure S5. 1H NMR (CDCl3, 200 MHz) of 1d.
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.S4
+Figure S6. 13C NMR (CDCl3, 50 MHz) of 1d.
+Figure S7. 1H NMR (CDCl3, 200 MHz) of 2c.
+Marques et al. S5Vol. 21, No. 10, 2010
+Figure S8. 13C NMR (CDCl3, 50 MHz) of 2c.
+Figure S9. 1H NMR (CDCl3, 200 MHz) of 2d.
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.S6
+Figure S10. 13C NMR (CDCl3, 50 MHz) of 2d.
+Figure S11. 1H NMR (CDCl3, 200 MHz) of 3a.
+Marques et al. S7Vol. 21, No. 10, 2010
+Figure S12. 13C NMR (CDCl3, 50 MHz) of 3a.
+Figure S13. 1H NMR (CDCl3, 200 MHz) of 3b.
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.S8
+Figure S14. 13C NMR (CDCl3, 50 MHz) of 3b.
+Figure S15. 1H NMR (CDCl3, 200 MHz) of 3c.
+Marques et al. S9Vol. 21, No. 10, 2010
+Figure S16. 13C NMR (CDCl3, 50 MHz) of 3c.
+Figure S17. 1H NMR (CDCl3, 300MHz) of 7.
+Antifungal Activity of Natural and Synthetic Amides from Piper species J. Braz. Chem. Soc.S10
+Figure S18. 13C NMR (CDCl3, 75 MHz) of 7.

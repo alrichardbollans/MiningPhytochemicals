@@ -1,0 +1,423 @@
+Three novel nortriterpenoids from
+Notochaete hamosa Benth. (Labiatae)
+Yinggang Luo,a,b Chun Feng,c Yajuan Tian,a Bogang Lia and Guolin Zhanga,*
+aChengdu Institute of Biology, The Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
+bChengdu Institute of Organic Chemistry, The Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
+cAnalyzing and Testing Center, Sichuan Normal University, Chengdu 610066, People’s Republic of China
+Received 5 March 2003; revised 16 July 2003; accepted 13 August 2003
+Abstract—Three nortriterpenoids, notohamosin A (1), B (2) and C (3) with novel skeleton, and eight known compounds were isolated from
+the ethanol extract of the whole plants of Notochaete hamosa Benth. (Labiatae). On the basis of spectral evidence including 1D, 2D NMR, IR
+and MS data, their structures were elucidated. The relative configurations of compounds 1, 2 and 3 were determined according to NOESY
+experiments.
+q 2003 Elsevier Ltd. All rights reserved.
+1. Introduction
+Notochaete hamosa Benth., one of the two plants of
+the genus Notochaete (Labiatae), is distributed in
+Southwest China, Nepal, India and Burma at an altitude of
+1200–2500 m, and usually found in the edge of sub-tropical
+green-forest.1,2 No chemical study on the plants of this
+genus was reported. This study led to the isolation of three
+new nortriterpenoids, notohamosin A (1), B (2) and C (3)
+possessing novel skeleton, and eight known compounds,
+b-sitosterol (4),3 shanzhiside (5),4 daucosterol (6),3
+3,5-dimethoxy-4-hydroxybenzoic acid (7),5 martynoside
+(8),6 pinoresinol (9),7 desrhamnosyl acteoside (l0),8 and
+acteoside (11).9 Their structures were elucidated by spectral
+evidence. The relative configurations of compounds 1, 2 and
+3 were determined by NOESY experiments.
+2. Results and discussion
+The ethanol extract of the whole plants of N. hamosa was
+divided into petroleum ether-, EtOAc- and n-BuOH-soluble
+fractions. Compounds 1–7 were isolated from the EtOAc-
+soluble extract, 8–11 from the n-BuOH-soluble fraction by
+column chromatography.
+Notohamosin A (1) was obtained as a white powder. The
+color of 1 in acetic anhydride changed from red to dark-blue
+after being reacted with Liebermann–Burchard reagent.
+The molecular formula C29H46O5 was calculated from the
+quasi-molecular ion peak at m/z 475.3395 [MþH]þ in
+the HRAPCIMS (positive). Twenty-eight signals recog-
+nized in the 13C NMR spectrum (DEPT, Table 1) represent
+29 C-atoms in view of one overlapped signal which was
+confirmed by the HMQC cross signals at d 1.50, 1.35 and
+1.90, 1.58/32.7 (t). The 1H NMR signals at d 1.13, 0.84, 0.92
+and 1.27 (each 3H, s) indicated four methyl groups at
+quaternary carbon atoms (H3-25, H3-26, H3-27 and H3-28)
+(Table 1). Three hydroxymethyl groups located on
+quaternary C-atoms were postulated from the HMQC
+cross signals at d 4.63 and 4.43 (each 1H, d, J¼10.8 Hz,
+H2-23)/68.8 (t, C-23), 4.21 and 4.09 (each 1H, d,
+J¼11.0 Hz, H2-24)/63.5 (t, C-24), and 3.66 and 3.60 (each
+1H, d, J¼10.2 Hz, H2-29)/70.8 (t, C-29). One Z-double
+bond (C-11 and C-12) was deduced from 1H NMR signals at
+d 5.73 and 6.00 (each 1H, d, J¼10.0 Hz). One tri-substituted
+double bond (C-13 and C-18) was provided by the 1H NMR
+signal at d 5.52 (1H, s) and 13C NMR signals (DEPT) at d
+136.1 (d) and 139.1 (s). The evidence mentioned above led
+to the conclusion that compound 1 is a nortriterpene.
+Four moieties a, b, c and d were established from 1H NMR
+and 13C NMR spectral data, and HMQC and HMBC
+experiments (Table 1 and Fig. 1). The quaternary carbon
+atom resonated at d 44.9 (s) could be assigned to C-17
+according to the 1H NMR signal at d 5.52 (1H, s) for H-18.
+Thus, skeleton 1A (Fig. 1) was determined.
+Another two hydroxyl groups, concluded from molecular
+formula, could be located at C-2 and C-3 according to the
+HMQC correlation d 4.50 (1H, brd, J¼11.2 Hz, H-2)/66.l
+0040–4020/$ - see front matter q 2003 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.tet.2003.08.029
+Tetrahedron 59 (2003) 8227–8232
+* Corresponding author. Tel./fax: þ86-28-85225401;
+e-mail: zhanggl@cib.ac.cn
+Keywords: Notochaete hamosa Benth; nortriterpeonids; notohamosin A;
+notohamosin B; notohamosin C.
+(d, C-2) and 4.91 (1H, s, H-3)/73.7 (d, C-3) and HMBC
+correlations between H-3 and C-1, C-2 and C-5. The relative
+configurations of C-2, C-3, C-5, C-8, C-9, C-10, C-14, C-17
+and C-20 were determined by NOESY experiments (Fig. 1
+and Table 1). The 2-OH group should be a-orientated
+considering the NOESY correlations between H-2 and
+H3-25, and between H-2 and H2-24. The negligible coupling
+constant between H-2 and H-3 revealed 3a-OH. The
+NOESY correlations between H-5 and H-9, between H-5
+and H2-23, and between H-9 and H3-27 indicated a-oriented
+H-5, H-9 and H3-27. The relative configuration of C-17 was
+determined upon the NOESY cross signals between H3-27
+and H2-22. The NOESY correlation between dH 5.52 (H-18)
+and dH 1.97 suggested that the proton resonated at dH 1.97
+should be a-oriented (H-19a). The key NOESY correlation
+between H-19a and H2-29 suggested 20a-CH2OH group
+(C-29). Thus, the structure of notohamosin A (1) was
+established as that illustrated in Figure 1.
+The visualization of notohamosin B (2) with Liebermann–
+Buchard reagent was the same as that of 1. The quasi-
+molecular ion peak at m/z 459.3454 in the HRAPCIMS
+(positive) of 2 provided the molecular formula C29H46O4.
+Twenty-nine signals observed in the 13C NMR spectrum,
+five methyl groups and two hydroxymethyl groups at
+quaternary C-atoms recognized from the 1H NMR spectrum
+suggested that 2 is also a nortriterpene (Fig. 1 and Table 2).
+Comparing the NMR data and MS data of 2 with those of 1,
+it is obvious that 2 bears one more methyl group and one
+less hydroxymethyl group than 1. C-24 of 2 was not
+substituted by a hydroxyl group, which was confirmed by
+HMQC correlation at d 0.90 (3H, s, H3-24)/17.1 (q, C-24),
+HMBC cross signals between H3-24 and C-4, C-3 and
+C-23 (Table 2), as well as NOESY correlations between
+H3-24, H-2 and H3-25 (Fig. 1 and Table 2). 2A (Fig. 1)
+was postulated on the basis of HMQC and HMBC
+experiments. The relative configurations of C-2, C-3, C-4,
+C-5, C-8, C-9, C-10, C-14, C-17 and C-20 were determined
+to be the same as those in compound 1 based on the NOESY
+experiments (Fig. 1 and Table 2). Thus, the structure of 2
+(notohamosin B) could be determined as that depicted in
+Figure 1.
+Notohamosin C (3) was isolated as a white powder. In the
+1H NMR spectrum four methyl groups at quaternary C-atom
+(H3-25, H3-26, H3-27 and H3-28) resonated at d 1.16, 1.00,
+1.02 and 1.04 (each 3H, s) (Table 3). The 1H NMR signals at
+d 4.59 and 4.40 (each d, J¼10.5 Hz), 4.22 and 4.07 (each d,
+J¼11.0 Hz), as well as 13C NMR signals at d 69.2 (t) and
+64.2 (t) (Table 3), could be assigned to two hydroxymethyl
+groups at quaternary C-atom. One methoxy group was
+deduced from HMQC signal at d 3.36 (3H, s)/54.7 (q). One
+tri-substituted double bond (C-12 and C-13) was suggested
+by the 1H NMR signal at d 6.07 (IH, t, J¼2.0 Hz) and 13C
+Table 1. NMR data of compound 1 in pyridine-d5
+dH
+a,b dC
+b,c HMBC (selected) NOESY (selected)
+CH2(1) 2.27 (1H, dd, 11.2, 3.6), 1.92 (1H, m) 42.7 (t)
+H–C(2) 4.50 (1H, brd, 11.2) 66.1 (d) H2-24, H3-25
+H–C(3) 4.91 (1H, s) 73.7 (d) C-1, C-2, C-5
+C(4) 47.5 (s)
+H–C(5) 2.23 (1H, brd, 12.4) 44.4 (d) C-4, C-6, C-24, C-25 H-9, H2-23
+CH2(6) 1.01 (m), 0.82 (m) 18.9 (t)
+CH2(7) 1.50 (m), 1.35 (m) 32.7 (t)
+C(8) 41.0 (s)
+H–C(9) 2.37 (1H, s) 54.7 (d) C-10, C-25, C-11, C-26 H-5, H3-27
+C(10) 38.0 (s)
+H–C(11) 5.73 (1H, d, 10.0) 125.9 (d) C-8, C-10, C-13 H-12
+H–C(12) 6.00 (1H, d, 10.0) 130.7 (d) C-9, C-14, C-18 H-11, H-18
+C(13) 139.1 (s)
+C(14) 40.4 (s)
+CH2(15) 1.66 (m), 1.03 (m) 26.3 (t)
+CH2(16) 1.90 (m), 1.58 (m) 32.7 (t)
+C(17) 44.9 (s)
+H–C(18) 5.52 (1H, s) 136.1 (d) C-12, C-16, C-19, C-22 H-12, Ha-19
+CH2(19) (a) 1.97 (1H, d, 13.2) 52.0 (t) H-18, H2-29
+(b) 1.37 (1H, d, 13.2)
+C(20) 44.6 (s)
+CH2(21) 1.97 (m), 1.50 (m) 35.6 (t)
+CH2(22) 1.68 (m), 1.60 (m) 39.6 (t) H3-27
+CH2(23) 4.63 (1H, d, 10.8) 68.8 (t) C-3, C-4, C-5, C-24 H-5
+4.43 (1H, d, 10.8)
+CH2(24) 4.21 (1H, d, 11.0) 63.5 (t) C-3, C-4, C-23 H-2, H3-25
+4.09 (1H, d, 11.0)
+Me(25) 1.13 (3H, s) 19.2 (q) C-1, C-10, C-9, C-5 H-2, H2-24, H3-26
+Me(26) 0.84 (3H, s) 16.7 (q) C-9, C-8, C-14, C-7 H3-25
+Me(27) 0.92 (3H, s) 20.0 (q) C-13, C-14, C-15 H-9, H2-22
+Me(28) 1.27 (3H, s) 26.9 (q) C-19, C-20, C-21, C-29
+CH2(29) 3.66 (1H, d, 10.2) 70.8 (t) C-19, C-21, C-28, C-20 Ha-19
+3.60 (1H, d, 10.2)
+a J in Hz.
+b Signals were assigned by HMQC, HMBC and COSY experiments, d in ppm.
+c Multiplicity were determined by DEPT.
+Y. Luo et al. / Tetrahedron 59 (2003) 8227–82328228
+NMR signals (DEPT) at d 119.2 (d) and 138.5 (s). The
+quasi-molecular ion peak [MþH]þ at m/z 505.3515 in
+HRAPCIMS gave the molecular formula C30H48O6. From
+1H NMR, 13C NMR, HMBC and HMQC (Table 3), structure
+3A (Fig. 1) was concluded.
+The 13C NMR signal at d 74.6 (d) could be assigned to
+oxygenated C-16 in view of the HMQC correlation at d
+4.24 (1H, brs, H-16)/74.9 (d, C-16) and HMBC cross
+signal at d 1.06 (1H, d, J¼11.0 Hz, Hb-19)/74.9 (d, C-16).
+The HMQC signal at d 4.33 (1H, s, H-29)/106.8 (d, C-29)
+suggested that C-29 should be an acetal carbon atom.
+From the HMBC correlation between H-29 and C-16
+and the molecular formula of compound 3, it could be
+Figure 1. Structures of 1, 2 and 3, and major HMBC (!) and key NOESY correlation ($).
+Y. Luo et al. / Tetrahedron 59 (2003) 8227–8232 8229
+concluded that C-16 and C-29 should be connected via
+an ether bond. The assignment of ring F was then
+achieved according to the key HMBC correlations
+derived from H-29 with C-16, C-19 and 29-OCH3,
+from H3-28 with C-19, C-20, C-21 and C-29, and from
+H-19 with C-16, C-17, C-20, C-21 and C-29.
+C-2 and C-3 were found to be substituted by hydroxyl
+groups by comparing its 13C NMR data with those of 1. The
+relative configurations of C-2, C-3, C-4, C-5, C-8, C-9, C-10
+and C-14 were determined to be the same as those in
+compound 1 based on the NOESY experiments (Fig. 1 and
+Table 3). H-16 and 29-OCH3 should be a-oriented in view
+of NOESY correlations between H-16 and H3-27, and
+between H-16 and 29-OMe (Fig. 1 and Table 3). The
+relative configuration of C-17 was assigned by NOESY
+correlation between H-16 and Ha-22. The relative configu-
+ration of C-29 could be determined by taking the rigidities
+of rings D, E and F into account, which was confirmed by
+the key NOESY correlation between H-29 and H3-28.
+Therefore, the structure of compound 3 was determined as
+shown in Figure 1.
+The known compounds, b-sitosterol (4),3 shanzhiside (5),4
+daucosterol (6),3 3,5-dimethoxy-4-hydroxybenzoic acid
+(7),5 martynoside (8),6 pinoresinol (9),7 desrhamnosyl
+acteoside (10),8 and acteoside (11)9 were identified by co-
+TLC with authentic samples and by comparison of their
+spectral data with those reported.
+3. Experimental
+3.1. General
+Melting points were determined on an XRC-1 micro-
+melting point apparatus and are uncorrected. Optical
+rotations were measured on a Perkin–Elmer 241 automatic
+polarimeter. IR spectra were recorded on a Nicolet Protege
+460 spectrometer using KBr disc and nmax are given in
+cm21. 1H NMR (500 MHz) and 13C NMR (125 MHz)
+spectra were recorded at room temperature with a Brucker
+Avance 500 spectrometer. The chemical shifts (d) are given
+in ppm and the coupling constants (J) are given in Hz.
+HRAPCIMS were obtained on a BRUCKER FTMS APEX3
+mass spectrometer. FABMS were obtained on a VG
+AutoSpec-3000 (glycerol as matrix) mass spectrometer.
+ESIMS were carried out on a Finnigan LCQDECA mass
+spectrometer. EIMS were obtained on a VG 7070E (70 eV)
+mass spectrometer. Column Chromatography (CC) was
+performed on self-packed open column with 200–300 mesh
+of silica gel purchasing from Qingdao Ocean Chemical
+Engineering Company (QOCEC). Thin Layer Chromato-
+graphy (TLC) analyses were made on plates precoated with
+Table 2. NMR data of compound 2 in pyridine-d5
+dH
+a,b dC
+b,c HMBC (selected) NOESY (selected)
+CH2(1) 2.22 (1H, dd, 12.0, 4.0) 42.3 (t)
+1.86 (1H, t, 12.0)
+H–C(2) 4.34 (1H, brd, 12.0) 66.0 (d) H2-24, H3-25
+H–C(3) 4.17 (1H, s) 78.8 (d) C-1, C-2, C-5
+C(4) 41.8 (s)
+H–C(5) 2.21 (1H, brd, 11.6) 43.3 (d) C-4, C-6, C-24, C-25 H-9, H2-23
+CH2(6) 1.02 (m), 0.82 (m) 18.2 (t)
+CH2(7) 1.48 (m), 1.34 (m) 32.1 (t)
+C(8) 41.0 (s)
+H–C(9) 2.33 (1H, s) 54.5 (d) C-10, C-25, C-11, C-26 H-5, H3-27
+C(10) 38.0 (s)
+H–C(11) 5.71 (1H, d, 10.0) 130.7 (d) C-8, C-10, C-13 H-12
+H–C(12) 6.00 (1H, d, 10.0) 125.9 (d) C-9, C-14, C-18 H-11, H-18
+C(13) 139.0 (s)
+C(14) 40.4 (s)
+CH2(15) 1.66 (m), 1.03 (m) 26.3 (t)
+CH2(16) 1.73 (m), 1.65 (m) 32.7 (t)
+C(17) 44.9 (s)
+H–C(18) 5.53 (1H, s) 136.1 (d) C-12, C-16, C-19, C-22 H-12, Ha-19
+CH2(19) (a) 1.93 (1H, d, 13.2) 52.0 (t) H-18, H2-29
+(b) 1.35 (1H, d, 13.2)
+C(20) 44.6 (s)
+CH2(21) 2.00 (m), 1.55 (m) 35.6 (t)
+CH2(22) 1.68 (m), 1.60 (m) 39.6 (t) H3-27
+CH2(23) 3.91 (1H, d, 10.8) 71.1 (t) C-3, C-4, C-5, C-24 H-5
+3.77 (1H, d, 10.8)
+Me(24) 0.90 (3H, s) 17.1 (q) C-3, C-4, C-5, C-23 H-2, H3-25
+Me(25) 1.13 (3H, s) 19.4 (q) C-1, C-10, C-9, C-5 H-2, H2-24, H3-26
+Me(26) 0.85 (3H, s) 16.8 (q) C-7, C-8, C-9, C-14 H3-25
+Me(27) 0.93 (3H, s) 20.0 (q) C-13, C-14, C-15 H-9, H2-22
+Me(28) 1.27 (3H, s) 26.8 (q) C-19, C-20, C-21, C-29
+CH2(29) 3.66 (1H, d, 10.0) 70.6 (t) C-19, C-20, C-21, C-28 Ha-19
+3.60 (1H, d, 10.0)
+a J in Hz.
+b Signals were assigned by HMQC, HMBC and COSY experiments, d in ppm.
+c Multiplicity were determined by DEPT.
+Y. Luo et al. / Tetrahedron 59 (2003) 8227–82328230
+10–40 mm of silica gel G purchasing from QOCEC.
+Visualization on TLC was carried out by spraying 8%
+phosphomolybdic acid–ethanol solution (w/v) followed by
+heating. Fractions from all columns were generally
+collected by hand and auto-collect apparatus according to
+TLC analyses.
+3.2. Plant material
+The whole plants of N. hamosa Benth. were collected from
+Wuliangshan, Jingdong County, Yunnan Province, China,
+in September 1999, and identified by Professor X. W. Li
+(Kunming Institute of Botany, the Chinese Academy of
+Sciences). A voucher specimen (GF-05) is deposited at the
+Herbarium of Chengdu Institute of Biology, the Chinese
+Academy of Sciences.
+3.3. Extraction and isolation
+A sample of cut and dried whole plants (7.2 kg) was soaked
+with 92% ethanol (50 L£3, seven days each time) at room
+temperature. After being concentrated in vacuum, ca. 990 g
+residue was obtained. The syrup was dissolved in warm
+water 2.0 L (about 508C), cooled to room temperature and
+successively extracted with petroleum ether (60–908C)
+(1.0 L£10), ethyl acetate (1.0 L£10) and n-BuOH
+(0.5 L£12).
+The EtOAc-partitionated extract (50 g) was divided into five
+fractions FrB1-5 by CC gradient eluted with CHCl3/MeOH
+(from 20:1, 10:1 to 5:1, elute was combined after TLC
+analyses). Compounds 1 (25 mg) and 2 (22 mg) were
+obtained from FrB2 by CC repeatedly eluted with petroleum
+ether (60–908C):acetone (4:1). 3 (18 mg) was isolated from
+FrB3 by CC eluted with CHCl3:MeOH (15:1). FrB1 was
+subjected to CC repeatedly eluted with petroleum ether
+(60–908C):acetone (4:1) to give compounds 4 (108 mg) and
+5 (12 mg). Compound 6 (1.08 g) was precipitated from
+FrB5. Compound 7 (36 mg) was isolated from FrB4 by CC
+eluted with CHCl3:MeOH (15:1). The n-BuOH extract
+(161 g) was dissolved in 1.2 L of warm water (about 508C)
+and absorbed on CC packed with macroporus resin (D101).
+The CC was eluted by water until no sugar in the elute was
+detected, then eluted by MeOH to yield 43 g residue, which
+was divided into four fractions FrC1-4 by CC eluted with
+CHCl3:MeOH:acetone (4:1:1). Compound 8 (23 mg) was
+obtained from FrC1 by CC eluted with CHCl3:MeOH (5:1).
+Compound 9 (18 mg) were isolated from FrC2 by CC eluted
+with CHCl3:MeOH:H2O (4:1:0.1). FrC3 was first separated
+by CC with CHCl3:MeOH:H2O (4:1:0.1), then separated by
+Table 3. NMR data of compound 3 in pyridine-d5
+dH
+a,b dC
+b,c HMBC (selected) NOESY (selected)
+CH2(1) 2.06 (1H, dd, 11.0, 2.0) 43.4 (t)
+1.86 (1H, m)
+H–C(2) 4.44 (1H, dt, 11.0, 2.0) 66.4 (d) H2-24, H3-25
+H–C(3) 4.85 (1H, d, 2.0) 73.8 (d) C-1, C-5, C-4, C-2, C-24
+C(4) 47.6 (s)
+H–C(5) 2.15 (1H, brd, 11.5) 44.9 (d) C-23, C-24, C-25, C-4, C-10, C-7, C-6 H-9, H2-23
+CH2(6) 1.87 (m), 1.65 (m) 19.0 (t)
+CH2(7) 1.65 (m), 1.42 (m) 34.5 (t)
+C(8) 39.8 (s)
+H–C(9) 1.83 (1H, s) 48.0 (d) C-10, C-25, C-26 H-5, H3-27
+C(10) 38.3 (s)
+CH2(11) 2.04 (2H, m) 23.4 (t)
+H–C(12) 6.07 (1H, t, 2.0) 119.2 (d)
+C(13) 138.5 (s)
+C(14) 44.2 (s)
+CH2(15) 1.56 (m), 0.98 (m) 27.6 (t)
+H–C(16) 4.24 (1H, brs) 74.9 (d) H3-27, Ha-22, H–OMe
+C(17) 46.4 (s)
+CH2(18) 1.82 (m), 1.01 (m) 28.8 (t)
+CH2(19) (a) 1.94 (1H, d, 11.0) 44.9 (t) C-16, C-17, C-18, C-20, C-21, C-22, C-28, C-29 H-16
+(b) 1.06 (1H, d, 11.0)
+C(20) 43.7 (s)
+CH2(21) (a) 1.72 (1H, dd, 12.5, 4.0) 36.0 (t)
+(b) 1.30 (1H, dd, 12.5, 4.0)
+CH2(22) (a) 1.63 (1H, d, 13.0) 31.2 (t) H-16
+(b) 1.20 (1H, d, 13.0)
+CH2(23) 4.59 (1H, d, 10.5) 69.2 (t) C-3, C-4, C-5, C-24 H-5
+4.40 (1H, d, 10.5)
+CH2(24) 4.22 (1H, d, 11.0) 64.2 (t) C-3, C-4, C-5, C-23 H-2, H3-25
+4.07 (1H, d, 11.0)
+Me(25) 1.16 (3H, s) 17.4 (q) C-1, C-10, C-9, C-5 H-2, H2-24, H3-26
+Me(26) 1.00 (3H, s) 17.7 (q) C-9, C-8, C-14, C-7 H3-25
+Me(27) 1.02 (3H, s) 22.9 (q) C-13, C-14, C-15 H-9, H-16
+Me(28) 1.04 (3H, s) 21.8 (q) C-19, C-20, C-21, C-29 H-29
+H–C(29) 4.33 (1H, s) 106.8 (d) C-16, C-19, C–OMe H3-28
+–OMe 3.36 (3H, s) 54.7 (q) C-29 H-16
+a J in Hz.
+b Signals were assigned by HMQC, HMBC and COSY experiments, d in ppm.
+c Multiplicity were determined by DEPT.
+Y. Luo et al. / Tetrahedron 59 (2003) 8227–8232 8231
+CC packed with C-18 bonded silica gel with the elution of
+acetonitrile and water (1:3) to yield compounds 10 (67 mg)
+and 11 (44 mg).
+3.3.1. Notohamosin A (1). White powder; mp 298–3008C
+(CHCl3:CH3OH (10:1)); [a]D
+20¼254 (c 0.001, MeOH:
+pyridine (10:1)); IR nmax (KBr): 3385, 2940, 2857, 1638,
+1448, 1378 and 1033 cm21; HRAPCIMS (positive) m/z:
+475.3395 ([MþH]þ, C29H47O5, calcd: 475.3418); FABMS
+(negative) m/z (rel. int): 565 (46, [Mþglycerol–H]2) and
+473 (100, [M2H]2); ESIMS (positive) m/z (rel. int): 971
+(76, [2MþNa]þ) and 497 (100, [MþNa]þ); ESIMS
+(negative) m/z (rel. int): 983 (30, [2MþCl]2), 509.6 (22,
+[MþCl]2) and 473 (100, [M2H]2); EIMS m/z (rel int): 474
+(16, [M]þ), 456 (21, [M2H2O]þ), 438 (14, [M22£H2O]þ),
+325 (100); NMR data, see Table 1.
+3.3.2. Notohamosin B (2). White powder; mp 284–2868C
+(CHCl3:CH3OH (10:1)); [a]D
+20¼225 (c 0.001, MeOH:
+pyridine (10:1)); IR nmax (KBr): 3424, 2927, 2857, 1638,
+1459 and 1041 cm21; HRAPCIMS (positive) m/z: 459.3454
+([MþH]þ, C29H47O4, calcd: 459.3469); FABMS (negative)
+m/z (rel. int): 549 (46, [Mþglycerol–H]2) and 457 (100,
+[M2H]2); ESIMS (positive) m/z (rel. int): 939 (100,
+[2MþNa]þ) and 481 (70, [MþNa]þ); ESI-MS (negative)
+m/z (rel. int): 951 (10, [2MþCl]2), 915 (20, [2M2H]2) and
+458 (100, [M]2); EIMS m/z (rel. int): 458 (27, [M]þ), 440
+(19, [M2H2O]
+þ), 325 (100); NMR data, see Table 2.
+3.3.3. Notohamosin C (3). White powder; mp 272–2748C
+(CHCl3:CH3OH (10:1)); [a]D
+20¼þ44.4 (c 0.064, MeOH:
+pyridine (10:1)); IR nmax (KBr): 3424, 2923, 2855, 1638,
+1457, 1377 and 1042 cm21; HRAPCIMS (positive) m/z:
+505.3515 ([MþH]þ, C30H49O6, calcd: 505.3524); FABMS
+(negative) m/z (rel. int): 595 (30, [Mþglycerol–H]2) and
+503 (100, [M2H]2); ESIMS (positive) m/z (rel. int): 1031
+(60, [2MþNa]þ) and 527 (100, [MþNa]þ); ESIMS
+(negative) m/z (rel. int): 1043 (10, [2MþCl]2),1007 (16,
+[2M2H]2), 539.9 (10, [MþCl]2) and 503 (100, [M2H]2);
+EIMS m/z (rel.int): 235 (100); NMR data, see Table 3.
+References
+1. Institute of Botany, the Chinese Academy of Sciences,
+Familiarum Generumque Cormophytorum Sinicorum; Science
+Publishing House: Beijing, 1979; p 365.
+2. Institute of Botany, the Chinese Academy of Sciences,
+Iconographia Cormophytorum Sinicorun, Tomus II; Sciences
+Publishing House: Beijing, 1974; p 644.
+3. Kojima, H.; Sato, N.; Hatano, A.; Ogura, H. Phytochemistry
+1990, 29, 2351–2355.
+4. Achenbach, H.; Waibel, R.; Raffelsberger, B.; Addae-Mensah,
+I. Phytochemistry 1981, 20, 1591–1595.
+5. Sadtler Research Laboratories, Division of Bio-Rad Labora-
+tories, Inc., SADTLER Carbon-13 Nuclear Magnetic Resonance
+Spectra, 1979; p 6458c.
+6. Calis, I.; Lahloub, M. F.; Rogenmoser, E.; Sticher, O.
+Phytochemistry 1984, 23, 2313–2315.
+7. Pelter, A.; Ward, R. S.; Watson, D. J.; Collins, P. J. Chem. Soc.,
+Perkin Trans. 1 1982, 175–181.
+8. Matsumoto, M.; Koga, S.; Shoyama, Y.; Nishioka, I. Phyto-
+chemistry 1987, 26, 3225–3227.
+9. Nishimura, H.; Sasaki, H.; Inagaki, N.; Chin, M.; Mitsuhashi,
+H. Phytochemistry 1991, 30, 965–969.
+Y. Luo et al. / Tetrahedron 59 (2003) 8227–82328232
