@@ -9,7 +9,8 @@ from data.get_wikidata import WCVP_VERSION, wikidata_plantae_compounds_csv
 
 categories = ["AnimalFood", "EnvironmentalUses", "Fuels", "GeneSources", "HumanFood", "InvertebrateFood", "Materials", "Medicines", "Poisons",
               "SocialUses"]
-
+categories_for_output = ["Animal Food", "Environmental Uses", "Fuels", "Gene Sources", "Human Food", "Invertebrate Food", "Materials", "Medicines", "Poisons",
+              "Social Uses"]
 
 def set_up_data():
     # Data from I. Ondo, IanOndo/UsefulPlants: UsefulPlants (v1.0.0), Zenodo, (2023); https://doi.org/10.5281/zenodo.8180352.
@@ -57,12 +58,17 @@ def set_up_data():
 def compare_to_phytochemical_data():
     final_use_data = pd.read_csv('outputs/final_accepted_plant_use_data.csv', index_col=0)
 
+    renaming = {'AnimalFood': 'Animal Food', 'EnvironmentalUses': 'Environmental Uses', 'GeneSources': 'Gene Sources',
+                'HumanFood': 'Human Food', 'InvertebrateFood': 'Invertebrate Food', 'SocialUses': 'Social Uses'}
+
+    final_use_data = final_use_data.rename(columns=renaming)
+
     from matplotlib import pyplot as plt
 
     labelled_traits = final_use_data[final_use_data['In Phytochemical Data'] == 1]
 
-    all_traits = final_use_data[categories + ['Any Use']]
-    labelled_traits = labelled_traits[categories + ['Any Use']]
+    all_traits = final_use_data[categories_for_output + ['Any Use']]
+    labelled_traits = labelled_traits[categories_for_output + ['Any Use']]
     labelled_traits.describe(include='all').to_csv('outputs/labelled_accepted_plant_use_data_summary.csv')
 
     # Calculate means (proportions)
@@ -91,7 +97,7 @@ def compare_to_phytochemical_data():
     plt.xlabel('Use')
     plt.ylabel('Proportion of Species with Use')
     plt.tight_layout()
-    plt.savefig('outputs/use_plot.jpg', dpi=400)
+    plt.savefig('outputs/biases_use_plot.jpg', dpi=400)
     plt.close()
     plt.cla()
     plt.clf()
