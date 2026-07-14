@@ -6,14 +6,14 @@ import seaborn as sns
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
-from phytochemMiner import TaxaData
+from phytochemMiner import TaxaData, resolve_name_to_inchi, resolve_name_to_smiles
+from phytochempy.compound_properties import simplify_inchi_key
 from sklearn.linear_model import LinearRegression
 from wcvpy.wcvp_download import get_all_taxa, wcvp_accepted_columns, get_distributions_for_accepted_taxa, \
     plot_native_number_accepted_taxa_in_regions
 from wcvpy.wcvp_name_matching import get_accepted_info_from_names_in_column
 
 from analysis.summaries_and_comparisons_of_datasets_and_extractions.get_agreements_and_disagreements import convert_taxadata_to_accepted_dataframe
-from analysis.evaluate_deepseek_performance.manual_matching_results.post_processing_method import get_standardised_correct_results
 from analysis.extraction_outputs.running_extraction import deepseek_jsons_path
 from data.get_colombian_data import get_sanitised_dois_for_colombian_papers
 from data.get_data_with_full_texts import validation_data_csv
@@ -165,6 +165,17 @@ def plot_dist_of_metric(df_with_region_data, metric, out_path: str = None, color
     plt.cla()
     plt.clf()
 
+def get_standardised_correct_results(result_csv_file):
+    manually_checked_results = pd.read_csv(
+        result_csv_file)
+    manually_checked_results = manually_checked_results[manually_checked_results['decision'] == 'Yes']
+    manually_checked_results = manually_checked_results.rename(columns={'taxon_name': 'organism_name'})
+    acc_deepseek_df = get_accepted_info_from_names_in_column(manually_checked_results, 'organism_name', wcvp_version=WCVP_VERSION)
+    acc_deepseek_df['InChIKey'] = acc_deepseek_df['compound_name'].apply(resolve_name_to_inchi)
+    acc_deepseek_df['InChIKey_simp'] = acc_deepseek_df['InChIKey'].apply(simplify_inchi_key)
+    acc_deepseek_df['SMILES'] = acc_deepseek_df['compound_name'].apply(resolve_name_to_smiles)
+    acc_deepseek_df['DOI'] = acc_deepseek_df['json_file'].apply(lambda x: x.replace('_', '/').strip('.json'))
+    return acc_deepseek_df
 
 def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict=None, family_shifting_dict=None):
     if family_shifting_dict is None:
@@ -272,40 +283,47 @@ def main():
     # summarise(knapsack, 'knapsack')
     # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
     # dois = doi_data_table['refDOI'].unique().tolist()
-    # summarise_underlying_text_data(dois, 'deepseek_validaton')
+    # summarise_underlying_text_data(dois, 'deepseek_after_accepted_filter_validaton')
     # sanitised_dois = [sanitise_doi(d) for d in dois]
     # deepseek_df = get_deepseek_accepted_output_as_df(sanitised_dois)
-    # summarise(deepseek_df, 'deepseek_validaton', output_data=True)
-    validation_manually_checked_results = get_standardised_correct_results(
-        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'validation cases', 'results.csv'))
-    summarise(validation_manually_checked_results, 'deepseek_validaton_manually_checked', output_data=True)
-    #
-    phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
-    summarise_underlying_text_data(result, 'deepseek_phytochem_papers')
-    summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_phytochem_papers', output_data=True)
+    # summarise(deepseek_df, 'deepseek_after_accepted_filter_validaton', output_data=True)
 
+    ## Validation data
+    # validation_manually_checked_results = get_standardised_correct_results(
+    #     os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results after accepted filter', 'validation cases', 'results.csv'))
+    # summarise(validation_manually_checked_results, 'deepseek_after_accepted_filter_validaton_manually_checked', output_data=True)
+
+
+    # Phytochem papers
+    # phytochem_txt_dir, result = get_sanitised_dois_for_papers('phytochemistry papers')
+    # summarise_underlying_text_data(result, 'deepseek_after_accepted_filter_phytochem_papers')
+    # summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_after_accepted_filter_phytochem_papers', output_data=True)
+
+    # Colombian papers
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
-    summarise_underlying_text_data(colombian_dois, 'deepseek_colombian_papers')
-    colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
+    # summarise_underlying_text_data(colombian_dois, 'deepseek_after_accepted_filter_colombian_papers')
+    # colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
     species_to_collect = \
         pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
             'accepted_species'].tolist()
-    colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
-    summarise(colombian_data, 'deepseek_colombian_papers', output_data=True)
+    # colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
+    # summarise(colombian_data, 'deepseek_after_accepted_filter_colombian_papers', output_data=True)
 
     colombian_manually_checked_results = get_standardised_correct_results(
-        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results', 'colombian papers', 'results.csv'))
+        os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results after accepted filter', 'colombian papers', 'results.csv'))
     colombian_manually_checked_results = colombian_manually_checked_results[
         colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
-    summarise(colombian_manually_checked_results, 'deepseek_and_manually_checked_colombian_papers', output_data=True)
+    summarise(colombian_manually_checked_results, 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers', output_data=True)
+
+    ## To upload to LOTUS
     for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
-    summarise(for_lotus, 'deepseek_and_manually_checked_colombian_papers_for_lotus', output_data=True)
+    summarise(for_lotus, 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers_for_lotus', output_data=True)
     for_lotus = for_lotus[['accepted_name', 'compound_name', 'SMILES', 'DOI']]
 
     # rename according to https://github.com/lotusnprod/lotus-o3?tab=readme-ov-file#usage
     for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES': 'chemical_entity_smiles',
                                           'accepted_name': 'taxon_name', 'DOI': 'reference_doi'})
-    for_lotus.to_csv(os.path.join('summaries', 'deepseek_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
+    for_lotus.to_csv(os.path.join('summaries', 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers_for_lotus', 'occurrences_for_lotus.csv'))
 
 
 if __name__ == '__main__':

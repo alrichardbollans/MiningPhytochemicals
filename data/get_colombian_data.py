@@ -22,12 +22,17 @@ def get_species_to_collect():
     dists = get_distributions_for_accepted_taxa(all_taxa.drop_duplicates(subset=['accepted_species'], keep='first'), 'accepted_species',
                                                 include_extinct=True,
                                                 wcvp_version=WCVP_VERSION)
-    print(dists.shape)
-    dists = dists[~dists['accepted_species'].isin(all_data['accepted_species'].values)]
-    print(dists.shape)
+
     dists = dists.dropna(subset=['native_tdwg3_codes'])
     dists = dists[dists['native_tdwg3_codes'].apply(lambda x: True if 'CLM' in x
     else False)]
+
+    dists.describe(include='all').to_csv(os.path.join('all colombian species', 'species_summary.csv'))
+
+    print(dists.shape)
+    dists = dists[~dists['accepted_species'].isin(all_data['accepted_species'].values)]
+    print(dists.shape)
+
 
     dists[['accepted_species', 'native_tdwg3_codes']].to_csv(os.path.join('colombian species not in datasets', 'species.csv'))
     dists.describe(include='all').to_csv(os.path.join('colombian species not in datasets', 'species_summary.csv'))
@@ -130,7 +135,6 @@ def get_sanitised_dois_for_colombian_papers():
 
 
 def main():
-    # get_species_to_collect()
     # Check
     wikidata = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
     knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
@@ -141,6 +145,8 @@ def main():
 
 
 if __name__ == '__main__':
+    # d = get_sanitised_dois_for_colombian_papers()
+    get_species_to_collect()
     species_to_collect = pd.read_csv(os.path.join('colombian species not in datasets', 'species.csv'), index_col=0)['accepted_species'].tolist()
     genera_to_search = list(set([get_genus_from_full_name(sp_) for sp_ in species_to_collect]))
     main()

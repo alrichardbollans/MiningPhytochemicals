@@ -29,26 +29,26 @@ def main():
     #
     # colombian_dois = get_sanitised_dois_for_colombian_papers()
     # pathlib.Path(os.path.join(extracted_jsons_folder, 'colombian papers')).mkdir(parents=True, exist_ok=True)
-    # pathlib.Path(os.path.join('manual results', 'colombian papers')).mkdir(parents=True, exist_ok=True)
+    # pathlib.Path(os.path.join('manual results after accepted filter', 'colombian papers')).mkdir(parents=True, exist_ok=True)
     # for sanitised_doi in colombian_dois:
     #     json_file = os.path.join(deepseek_jsons_path, sanitised_doi + '.json')
     #     shutil.copyfile(json_file, os.path.join(extracted_jsons_folder, 'colombian papers', sanitised_doi + '.json'))
 
     # text_dir, phytochemistry_dois = get_sanitised_dois_for_papers('phytochemistry papers')
     # pathlib.Path(os.path.join(extracted_jsons_folder, 'phytochemistry papers')).mkdir(parents=True, exist_ok=True)
-    # pathlib.Path(os.path.join('manual results', 'phytochemistry papers')).mkdir(parents=True, exist_ok=True)
+    # pathlib.Path(os.path.join('manual results after accepted filter', 'phytochemistry papers')).mkdir(parents=True, exist_ok=True)
     # for sanitised_doi in phytochemistry_dois:
     #     json_file = os.path.join(deepseek_jsons_path, sanitised_doi + '.json')
     #     shutil.copyfile(json_file, os.path.join(extracted_jsons_folder, 'phytochemistry papers', sanitised_doi + '.json'))
 
     pairs_to_check_df = pd.read_csv(os.path.join(
-        '../../summaries_and_comparisons_of_datasets_and_extractions/summaries/deepseek_phytochem_papers_not_in_other_sources/occurrences.csv'))
+        '../../summaries_and_comparisons_of_datasets_and_extractions/summaries/deepseek_after_accepted_filter_phytochem_papers_not_in_other_sources/occurrences.csv'))
     pairs_to_check_df['pairs'] = pairs_to_check_df['accepted_name'] + '_' + pairs_to_check_df['InChIKey_simp']
     pairs_to_check = pairs_to_check_df['pairs'].unique().tolist()
     text_dir, phytochemistry_dois = get_sanitised_dois_for_papers('phytochemistry papers')
     out_folder_name = 'phytochemistry papers not in wikidata or knapsack'
     pathlib.Path(os.path.join(extracted_jsons_folder, out_folder_name)).mkdir(parents=True, exist_ok=True)
-    pathlib.Path(os.path.join('manual results', out_folder_name)).mkdir(parents=True, exist_ok=True)
+    pathlib.Path(os.path.join('manual results after accepted filter', out_folder_name)).mkdir(parents=True, exist_ok=True)
     for sanitised_doi in phytochemistry_dois:
         in_json_file = os.path.join(deepseek_jsons_path, sanitised_doi + '.json')
         json_object = json.load(open(in_json_file, 'r'))

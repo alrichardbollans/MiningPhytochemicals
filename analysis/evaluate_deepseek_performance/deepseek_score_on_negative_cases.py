@@ -43,13 +43,13 @@ def get_errors_from_result(result):
 def random_cases():
     random_txt_dir, result = get_sanitised_dois_for_papers('random papers')
     out_df = get_errors_from_result(result)
-    out_df.to_csv(os.path.join('outputs', 'model_errors_on_random_data.csv'))
+    out_df.to_csv(os.path.join('outputs without filter', 'model_errors_on_random_data.csv'))
 
 
 def medplant_cases():
     random_txt_dir, result = get_sanitised_dois_for_papers('medplant papers')
     out_df = get_errors_from_result(result)
-    out_df.to_csv(os.path.join('outputs', 'model_errors_on_medplant_data.csv'))
+    out_df.to_csv(os.path.join('outputs without filter', 'model_errors_on_medplant_data.csv'))
 
     med_plant_given_data = pd.read_csv(os.path.join(data_path, 'medicinals_top_10000.csv')).dropna(subset=['DOI'])
     med_plant_given_data['sanitised_dois'] = med_plant_given_data['DOI'].apply(sanitise_doi)
@@ -62,7 +62,7 @@ def medplant_cases():
         ['DOI', 'title', 'sanitised_dois', 'plant_species_binomials_unique_total', 'plant_species_binomials_counts']]
     # print(relevant_data)
     assert len(relevant_data[relevant_data['plant_species_binomials_unique_total'] > 0]) == len(relevant_data)
-    relevant_data.to_csv(os.path.join('outputs', 'medplant_data_info.csv'))
+    relevant_data.to_csv(os.path.join('outputs without filter', 'medplant_data_info.csv'))
 
 
 def main():

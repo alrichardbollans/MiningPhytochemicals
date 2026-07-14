@@ -94,7 +94,7 @@ def main():
     deepseek_df['pairs'] = deepseek_df['accepted_name'] + '_' + deepseek_df['InChIKey_simp']
     only_in_deepseek = deepseek_df[
         deepseek_df['pairs'].isin(only_in_deepseek_merge_info['pairs'].values)]
-    summarise(only_in_deepseek, 'deepseek_phytochem_papers_not_in_other_sources', output_data=True)
+    summarise(only_in_deepseek, 'deepseek_after_accepted_filter_phytochem_papers_not_in_other_sources', output_data=True)
 
     ## Colombian data
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())

@@ -42,6 +42,10 @@ def summarise_data_with_full_texts():
     # [test_dois.remove(c) for c in already_checked_dois]
 
     ### Model split
+    ## Note 'validation' is actually used as test data for this analysis.
+    # This is because the validation data had initially been intended as validation data, based on being able to
+    # automate the testing of the model on the larger test set based on wikidata data. As this wasn't the case,
+    # validation data was simply used as test data, with manual verification of the results.
     validation_dois = df_with_full_texts['refDOI'].unique().tolist()
     from sklearn.model_selection import train_test_split
     validation_dois, test_dois = train_test_split(validation_dois, test_size=0.997)
