@@ -300,21 +300,17 @@ def main():
     # summarise(get_deepseek_accepted_output_as_df(result), 'deepseek_after_accepted_filter_phytochem_papers', output_data=True)
 
     # Colombian papers
-    colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
-    # summarise_underlying_text_data(colombian_dois, 'deepseek_after_accepted_filter_colombian_papers')
-    # colombian_data = get_deepseek_accepted_output_as_df(colombian_dois)
     species_to_collect = \
         pd.read_csv(os.path.join('..', '..', 'data', 'colombian species not in datasets', 'species.csv'), index_col=0)[
             'accepted_species'].tolist()
-    # colombian_data = colombian_data[colombian_data['accepted_species'].isin(species_to_collect)]
-    # summarise(colombian_data, 'deepseek_after_accepted_filter_colombian_papers', output_data=True)
+
 
     colombian_manually_checked_results = get_standardised_correct_results(
         os.path.join('..', 'evaluate_deepseek_performance', 'manual_matching_results', 'manual results after accepted filter', 'colombian papers', 'results.csv'))
     colombian_manually_checked_results = colombian_manually_checked_results[
         colombian_manually_checked_results['accepted_species'].isin(species_to_collect)]
     summarise(colombian_manually_checked_results, 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers', output_data=True)
-
+    summarise_underlying_text_data(list(get_sanitised_dois_for_colombian_papers().keys()), 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers')
     ## To upload to LOTUS
     for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
     summarise(for_lotus, 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers_for_lotus', output_data=True)

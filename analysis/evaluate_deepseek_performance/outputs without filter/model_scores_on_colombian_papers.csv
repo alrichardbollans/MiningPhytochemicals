@@ -1,2 +1,2 @@
-,model,precision,total extracted pairs,true_positives,false_positives,problem_compounds,Notes
-0,deepseek,0.7131782945736435,129,92,37,"['saponins', 'alkaloids', 'tannins', 'flavonoids', 'steroids', 'amirina', 'non-reducing sugars', 'hemolytic saponins', 'organic acids', 'catechins', 'depsides and depsidones', 'double olefins', 'reducing sugars', 'resins', 'sesquiterpenolactones', 'phenols', 'purines', 'terpenoids', 'polyphenols', 'coumarins', 'triterpenes']",
+,model,precision,total extracted pairs,true_positives,false_positives,problem_compounds,ref_count,Notes
+0,deepseek,0.6715328467153284,137,92,45,"['saponins', 'alkaloids', 'tannins', 'flavonoids', 'steroids', 'amirina', 'non-reducing sugars', 'hemolytic saponins', 'organic acids', 'catechins', 'depsides and depsidones', 'double olefins', 'reducing sugars', 'resins', 'sesquiterpenolactones', 'phenols', 'purines', 'terpenoids', 'polyphenols', 'coumarins', 'triterpenes']",10,

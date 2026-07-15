@@ -14,7 +14,6 @@ from phytochemMiner import get_phytochem_model, run_phytochem_model
 
 repo_path = os.path.join(os.environ.get('KEWSCRATCHPATH'), 'MiningPhytochemicals')
 deepseek_jsons_path = os.path.join(repo_path, 'analysis', 'extraction_outputs', 'deepseek_jsons')
-wcvp = get_all_taxa(version=WCVP_VERSION)
 
 
 def main():
@@ -75,4 +74,5 @@ def main():
 
 
 if __name__ == '__main__':
+    wcvp = get_all_taxa(version=WCVP_VERSION)
     main()
