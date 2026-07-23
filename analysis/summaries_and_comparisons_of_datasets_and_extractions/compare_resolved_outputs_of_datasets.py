@@ -94,7 +94,12 @@ def main():
     deepseek_df['pairs'] = deepseek_df['accepted_name'] + '_' + deepseek_df['InChIKey_simp']
     only_in_deepseek = deepseek_df[
         deepseek_df['pairs'].isin(only_in_deepseek_merge_info['pairs'].values)]
-    summarise(only_in_deepseek, 'deepseek_after_accepted_filter_phytochem_papers_not_in_other_sources', output_data=True)
+
+    # region_shifting_dict is upshift, righshift
+    summarise(only_in_deepseek, 'deepseek_after_accepted_filter_phytochem_papers_not_in_other_sources', output_data=True,
+              region_shifting_dict={'default': [0, -300], 'SUD': [-1, -300],'SRL': [-2, -300], 'IVO': [-3, 1500], 'CAF': [-3, -300], 'BEN': [0, -400], 'YUG': [0, 2000],
+                                    'PAK': [3, -300], 'ALB': [-5, 700],
+                                    'BAN': [0, 2000]})
 
     ## Colombian data
     colombian_dois = list(get_sanitised_dois_for_colombian_papers().keys())
