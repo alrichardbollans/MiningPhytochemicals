@@ -3,7 +3,7 @@ import os
 import pathlib
 
 import pandas as pd
-from phytochemMiner import TaxaData, Taxon
+from phytochemMiner import TaxaData, Taxon, get_classes
 from phytochempy.compound_properties import simplify_inchi_key
 
 from analysis.extraction_outputs.running_extraction import deepseek_jsons_path
@@ -41,6 +41,8 @@ def main():
     # for sanitised_doi in phytochemistry_dois:
     #     json_file = os.path.join(deepseek_jsons_path, sanitised_doi + '.json')
     #     shutil.copyfile(json_file, os.path.join(extracted_jsons_folder, 'phytochemistry papers', sanitised_doi + '.json'))
+    all_classes_lower = get_classes()
+
     pairs_to_check_df = pd.read_csv(pathlib.Path(
         '..','..','summaries_and_comparisons_of_datasets_and_extractions','summaries','ds_acptd_filter_pchem_papers_not_in_other_sources','occurrences.csv'))
     pairs_to_check_df['pairs'] = pairs_to_check_df['accepted_name'] + '_' + pairs_to_check_df['InChIKey_simp']
@@ -70,7 +72,7 @@ def main():
             compounds = []
             for compound in taxon.inchi_keys:
                 inchi_simp = simplify_inchi_key(taxon.inchi_keys[compound])
-                if taxon.accepted_name:
+                if taxon.accepted_name and compound.lower() not in all_classes_lower:
                     if (taxon.accepted_name + '_' + inchi_simp) in pairs_to_check:
                         inchi_keys[compound] = taxon.inchi_keys[compound]
                         inchi_key_simps[compound] = inchi_simp
@@ -82,6 +84,7 @@ def main():
                 new_taxa_list.append(new_taxon)
 
         new_taxa_data = TaxaData(taxa=new_taxa_list)
+        new_taxa_data.text = deepseek_output.text
         json_out = new_taxa_data.model_dump(mode="json")
         with open(pathlib.Path(extracted_jsons_folder, out_folder_name, sanitised_doi + '_not_in_WD_KN.json'), "w") as file_:
             json.dump(json_out, file_)
