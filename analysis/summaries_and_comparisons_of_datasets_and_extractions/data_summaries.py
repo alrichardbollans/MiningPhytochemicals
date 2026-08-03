@@ -57,8 +57,10 @@ def get_regression_outputs(data, x_var, y_var, outpath):
 
 
 def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_annotate: str, shifting_dict: dict,
-                                      extras_to_annotate: list = None):
+                                      extras_to_annotate: list = None, highlights=None):
     # Set up the plot
+    if highlights is None:
+        highlights = []
     import seaborn as sns
 
     data = get_regression_outputs(data, x_var, y_var, outpath)
@@ -76,7 +78,6 @@ def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_ann
 
     highlighted_data = data[(data[f'{y_var}_highlight_high'] == True) | (data[f'{y_var}_highlight_low'] == True)]
     to_annotate = highlighted_data[column_to_annotate].unique().tolist()
-    shifting = {'Melastomataceae': [-100, 10000]}
     if extras_to_annotate is not None:
         to_annotate += extras_to_annotate
     for _, row in data.iterrows():
@@ -87,8 +88,12 @@ def plot_2d_annotated_regression_data(data, x_var, y_var, outpath, column_to_ann
                 upshift, rightshift = shifting_dict[region_name]
             else:
                 upshift, rightshift = shifting_dict['default']
+            if region_name in highlights:
+                bbox = dict(boxstyle="round", fc="0.8", facecolor='white', alpha=0.5)
+            else:
+                bbox = None
             plt.annotate(region_name, (row[x_var] + rightshift, row[y_var] + upshift), ha='right',
-                         color='black')
+                         color='black', bbox=bbox)
 
     # Line plot for expected_diversity vs xvar
 
@@ -182,7 +187,7 @@ def get_standardised_correct_results(result_csv_file):
     return acc_deepseek_df
 
 
-def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict=None, family_shifting_dict=None):
+def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict=None, family_shifting_dict=None, highlights: list = None):
     if family_shifting_dict is None:
         family_shifting_dict = {'default': [1, -300]}
     if region_shifting_dict is None:
@@ -203,7 +208,7 @@ def summarise(df: pd.DataFrame, out_tag, output_data=False, region_shifting_dict
             df.to_csv(
                 os.path.join(outpath, 'occurrences.csv'))
 
-    output_geographic_plots(df, outpath, shifting_dict=region_shifting_dict)
+    output_geographic_plots(df, outpath, shifting_dict=region_shifting_dict, highlights=highlights)
 
     phytochemical_family_count = df.groupby('accepted_family')['accepted_species'].nunique()
     reg_data = pd.DataFrame(
@@ -230,7 +235,7 @@ def get_deepseek_accepted_output_as_df(sanitised_dois: list):
         df['refDOI'] = doi
         deepseek_df = pd.concat([deepseek_df, df])
 
-    deepseek_df = deepseek_df.fillna(value=np.nan) # Needed to fix None values.
+    deepseek_df = deepseek_df.fillna(value=np.nan)  # Needed to fix None values.
     deepseek_df = deepseek_df.rename(columns={'accepted_name': 'name'})
     acc_deepseek_df = get_accepted_info_from_names_in_column(deepseek_df, 'name', wcvp_version=WCVP_VERSION)
     pd.testing.assert_series_equal(acc_deepseek_df['accepted_name'], acc_deepseek_df['name'], check_index=False,
@@ -248,7 +253,7 @@ def get_underlying_sp_distributions():
                                                 colormap='inferno')
 
 
-def output_geographic_plots(df, outpath: str, shifting_dict):
+def output_geographic_plots(df, outpath: str, shifting_dict, highlights: list = None):
     df = df.dropna(subset=['accepted_species']).drop_duplicates(subset=['accepted_species'])
     df_with_dists = get_distributions_for_accepted_taxa(
         df, 'accepted_species', include_extinct=True,
@@ -268,7 +273,7 @@ def output_geographic_plots(df, outpath: str, shifting_dict):
 
     plot_2d_annotated_regression_data(analysis_df, 'Species in Underlying Population', 'Species in Data',
                                       outpath,
-                                      'Region', shifting_dict=shifting_dict)
+                                      'Region', shifting_dict=shifting_dict, highlights=highlights)
 
 
 def summarise_underlying_text_data(dois, out_tag):
@@ -284,10 +289,11 @@ def main():
     # get_underlying_sp_distributions()
     wikidata = pd.read_csv(wikidata_plantae_compounds_csv, index_col=0)
     knapsack = pd.read_csv(knapsack_plantae_compounds_csv, index_col=0)
-    # summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack',
-    #           region_shifting_dict={'default': [0, -300],'TCS': [-50, 1650], 'JAP': [-150, -200], 'CHN': [50, -300], 'BUL': [50, -300],
-    #                                 'SPA': [0, 1900], 'ITA': [0, 600], 'YUG': [100, 50], 'FRA': [-100, 1800]},
-    #           family_shifting_dict={'Melastomataceae': [-100, 10000], 'default': [1, -300]})
+    # region_shifting_dict is upshift, righshift
+    summarise(pd.concat([wikidata, knapsack]), 'wikidata_and_knapsack',
+              region_shifting_dict={'default': [0, -300], 'TCS': [-50, 1650], 'JAP': [-150, -200], 'CHN': [50, -300], 'BUL': [50, -300],
+                                    'SPA': [0, 1900], 'ITA': [0, 600], 'YUG': [100, 50], 'FRA': [-100, 1800]},
+              family_shifting_dict={'Melastomataceae': [-100, 10000], 'default': [1, -300]})
     # summarise(wikidata, 'wikidata')
     # summarise(knapsack, 'knapsack')
     # doi_data_table = pd.read_csv(validation_data_csv, index_col=0)
