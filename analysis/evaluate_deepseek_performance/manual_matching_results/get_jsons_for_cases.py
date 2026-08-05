@@ -77,6 +77,7 @@ def main():
                         inchi_keys[compound] = taxon.inchi_keys[compound]
                         inchi_key_simps[compound] = inchi_simp
                         compounds.append(compound)
+                        # pairs_to_check.remove(taxon.accepted_name + '_' + inchi_simp)
             new_taxon.inchi_keys = inchi_keys
             new_taxon.inchi_key_simps = inchi_key_simps
             new_taxon.compounds = compounds

@@ -1,0 +1,419 @@
+,taxon_name,chemical_entity_name,chemical_entity_smiles,reference_doi
+0,Rhynchosia beddomei,d-pinitol,COC1[C@@H]([C@H](C([C@@H]([C@@H]1O)O)O)O)O,10.1007/s00425-019-03311-2
+1,Rhynchosia beddomei,biochanin a,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O,10.1007/s00425-019-03311-2
+2,Rhynchosia heynei,lucenin-2,C1=CC(=C(C=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+3,Rhynchosia heynei,apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1007/s00425-019-03311-2
+4,Rhynchosia rothii,lucenin-2,C1=CC(=C(C=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+5,Rhynchosia rothii,apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1007/s00425-019-03311-2
+6,Rhynchosia suaveolens,vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O,10.1007/s00425-019-03311-2
+7,Rhynchosia suaveolens,"2-hydroxy-3,4-dimethoxybenzophenone",COC1=C(C(=C(C=C1)C(=O)C2=CC=CC=C2)O)OC,10.1007/s00425-019-03311-2
+8,Rhynchosia volubilis,diadzein,C1=CC(=CC=C1C2=COC3=C(C2=O)C=CC(=C3)O)O,10.1007/s00425-019-03311-2
+9,Rhynchosia volubilis,calycosin,COC1=C(C=C(C=C1)C2=COC3=C(C2=O)C=CC(=C3)O)O,10.1007/s00425-019-03311-2
+10,Rhynchosia volubilis,luteolin-7-o-β-d-glucopyranoside,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+11,Rhynchosia volubilis,tricin,COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,10.1007/s00425-019-03311-2
+12,Rhynchosia volubilis,quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,10.1007/s00425-019-03311-2
+13,Rhynchosia volubilis,cajanone,CC(=CCC1=CC(=C(C=C1O)O)C2COC3=C(C2=O)C(=C4C=CC(OC4=C3)(C)C)O)C,10.1007/s00425-019-03311-2
+14,Rhynchosia volubilis,kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,10.1007/s00425-019-03311-2
+15,Rhynchosia volubilis,apigenin-7-o-β-d-glucopyranoside,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+16,Rhynchosia volubilis,biochanin a,COC1=CC=C(C=C1)C2=COC3=CC(=CC(=C3C2=O)O)O,10.1007/s00425-019-03311-2
+18,Rhynchosia bracteata,isovitexin,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+19,Rhynchosia bracteata,isoorientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+20,Rhynchosia bracteata,lucenin-2,C1=CC(=C(C=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+21,Rhynchosia bracteata,orientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+22,Rhynchosia bracteata,vitexin,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,10.1007/s00425-019-03311-2
+23,Rhynchosia bracteata,vicenin-2,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+24,Rhynchosia sublobata,isovitexin,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+25,Rhynchosia sublobata,isoorientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+26,Rhynchosia sublobata,lucenin-2,C1=CC(=C(C=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+27,Rhynchosia sublobata,orientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+28,Rhynchosia sublobata,vitexin,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,10.1007/s00425-019-03311-2
+29,Rhynchosia sublobata,vicenin-2,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+30,Rhynchosia minima,hydroquinone diacetate,CC(=O)OC1=CC=C(C=C1)OC(=O)C,10.1007/s00425-019-03311-2
+31,Rhynchosia minima,gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,10.1007/s00425-019-03311-2
+32,Rhynchosia minima,protocatechuic acid,C1=CC(=C(C=C1C(=O)O)O)O,10.1007/s00425-019-03311-2
+33,Rhynchosia minima,β-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s00425-019-03311-2
+34,Rhynchosia minima,ethyl gallate,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,10.1007/s00425-019-03311-2
+35,Galactia glaucophylla,vicenin-3,C1[C@H]([C@@H]([C@H]([C@@H](O1)C2=C3C(=C(C(=C2O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)C(=O)C=C(O3)C5=CC=C(C=C5)O)O)O)O,10.1007/s00425-019-03311-2
+36,Galactia glaucophylla,orientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+37,Galactia glaucophylla,vicenin-2,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+38,Rhynchosia jacobii,vicenin-1,C1[C@H]([C@@H]([C@H]([C@@H](O1)C2=C(C(=C3C(=C2O)C(=O)C=C(O3)C4=CC=C(C=C4)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+39,Rhynchosia jacobii,isoorientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C(=C3O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,10.1007/s00425-019-03311-2
+40,Rhynchosia jacobii,orientin,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+41,Rhynchosia jacobii,vicenin-2,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C(=C3O2)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)O)O,10.1007/s00425-019-03311-2
+42,Rhynchosia hirta,vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O,10.1007/s00425-019-03311-2
+43,Rhynchosia viscosa,genistein,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,10.1007/s00425-019-03311-2
+44,Rhynchosia viscosa,sophoraisoflavone a,CC1(C=CC2=C(C=CC(=C2O1)C3=COC4=CC(=CC(=C4C3=O)O)O)O)C,10.1007/s00425-019-03311-2
+45,Rhynchosia viscosa,licoisoflavone a,CC(=CCC1=C(C=CC(=C1O)C2=COC3=CC(=CC(=C3C2=O)O)O)O)C,10.1007/s00425-019-03311-2
+46,Rhynchosia villosa,genistein,C1=CC(=CC=C1C2=COC3=CC(=CC(=C3C2=O)O)O)O,10.1007/s00425-019-03311-2
+47,Rhynchosia villosa,catechin,C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,10.1007/s00425-019-03311-2
+48,Rhynchosia villosa,cajanin,COC1=CC(=C2C(=C1)OC=C(C2=O)C3=C(C=C(C=C3)O)O)O,10.1007/s00425-019-03311-2
+49,Rhynchosia villosa,7-o-galloylcatechin,C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)OC(=O)C3=CC(=C(C(=C3)O)O)O)C4=CC(=C(C=C4)O)O)O,10.1007/s00425-019-03311-2
+50,Rhynchosia edulis,cajanone,CC(=CCC1=CC(=C(C=C1O)O)C2COC3=C(C2=O)C(=C4C=CC(OC4=C3)(C)C)O)C,10.1007/s00425-019-03311-2
+80,Eugenia dysenterica,b-caryophyllene oxide,C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2,10.1007/s11101-013-9315-3
+81,Myrcia tomentosa,juglanin,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H](O4)CO)O)O)O,10.1007/s11101-013-9315-3
+82,Myrcia tomentosa,avicularin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@@H](O4)CO)O)O)O)O,10.1007/s11101-013-9315-3
+83,Adenocalymma peregrinum,b-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-013-9315-3
+84,Adenocalymma peregrinum,allantoin,C1(C(=O)NC(=O)N1)NC(=O)N,10.1007/s11101-013-9315-3
+85,Adenocalymma peregrinum,4-hydroxy-n-methylproline,CN1C[C@@H](C[C@H]1C(=O)O)O,10.1007/s11101-013-9315-3
+86,Adenocalymma peregrinum,lupeol,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C,10.1007/s11101-013-9315-3
+87,Adenocalymma peregrinum,hyperin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s11101-013-9315-3
+88,Caryocar brasiliense,b-d-fructofuranose,C([C@@H]1[C@H]([C@@H]([C@](O1)(CO)O)O)O)O,10.1007/s11101-013-9315-3
+89,Caryocar brasiliense,b-d-glucose,C(C1C(C(C(C(O1)O)O)O)O)O,10.1007/s11101-013-9315-3
+90,Caryocar brasiliense,gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,10.1007/s11101-013-9315-3
+91,Caryocar brasiliense,stigmasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-013-9315-3
+92,Caryocar brasiliense,b-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-013-9315-3
+93,Caryocar brasiliense,oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,10.1007/s11101-013-9315-3
+94,Caryocar brasiliense,5-hydroxyfurfural,C1=C(OC(=C1)O)C=O,10.1007/s11101-013-9315-3
+95,Caryocar brasiliense,lupeol,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C,10.1007/s11101-013-9315-3
+96,Caryocar brasiliense,ethyl gallate,CCOC(=O)C1=CC(=C(C(=C1)O)O)O,10.1007/s11101-013-9315-3
+97,Caryocar brasiliense,a-d-glucose,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,10.1007/s11101-013-9315-3
+98,Byrsonima crassa,amentoflavone,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4=C(C=CC(=C4)C5=CC(=O)C6=C(C=C(C=C6O5)O)O)O)O,10.1007/s11101-013-9315-3
+99,Myrsine umbellata,lutein,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/C,10.1007/s11101-013-9315-3
+100,Myrsine umbellata,(-)-catechin,C1[C@H]([C@@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,10.1007/s11101-013-9315-3
+101,Didymopanax vinosus,betulin,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)CO,10.1007/s11101-013-9315-3
+102,Kielmeyera variabilis,"1,3,5,6-tetrahydroxy-2-prenylxanthone",CC(C)=CCc1c(O)cc2Oc3c(O)c(O)ccc3C(=O)c2c1O,10.1007/s11101-013-9315-3
+103,Miconia langsdorffii,oleanolic,C[C@]12CC[C@@H](C(C1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)C)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O,10.1007/s11101-013-9315-3
+104,Syzygium malaccense,gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,10.1007/s11101-013-9315-3
+105,Roupala montana,isorhamnetin,COC1=C(C=CC(=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,10.1007/s11101-013-9315-3
+106,Annona,xylopine,COC1=CC2=C(C=C1)C3=C4[C@@H](C2)NCCC4=CC5=C3OCO5,10.1007/s11101-013-9315-3
+107,Annona,romucosine,COC(=O)N1CCC2=CC3=C(C4=C2[C@H]1CC5=CC=CC=C54)OCO3,10.1007/s11101-013-9315-3
+108,Stryphnodendron rotundifolium var. rotundifolium,epigallocatechin,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,10.1007/s11101-013-9315-3
+109,Stryphnodendron rotundifolium var. rotundifolium,gallocatechin,C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C(=C3)O)O)O)O,10.1007/s11101-013-9315-3
+110,Xylophragma harleyi,isoverbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)OCCC3=CC(=C(C=C3)O)O)COC(=O)/C=C/C4=CC(=C(C=C4)O)O)O)O)O)O,10.1007/s11101-013-9315-3
+111,Xylophragma harleyi,verbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,10.1007/s11101-013-9315-3
+112,Plenckia populnea,pristimerin,CC1=C(C(=O)C=C2C1=CC=C3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4C[C@](CC5)(C)C(=O)OC)C)C)C)C)O,10.1007/s11101-013-9315-3
+113,Agastache foeniculum,sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-014-9349-1
+114,Agastache foeniculum,campestanol,C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C,10.1007/s11101-014-9349-1
+115,Agastache foeniculum,bornyl acetate,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C,10.1007/s11101-014-9349-1
+116,Agastache foeniculum,quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,10.1007/s11101-014-9349-1
+117,Agastache foeniculum,apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1007/s11101-014-9349-1
+118,Agastache foeniculum,β-amyrin,C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]1CC(CC2)(C)C)C,10.1007/s11101-014-9349-1
+119,Agastache foeniculum,campesterol,C[C@H](CC[C@@H](C)C(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C,10.1007/s11101-014-9349-1
+120,Agastache foeniculum,stigmasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-014-9349-1
+121,Agastache foeniculum,α-amyrin,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C,10.1007/s11101-014-9349-1
+122,Agastache foeniculum,stigmastanol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-014-9349-1
+123,Agastache foeniculum,antheraxanthin,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@]23[C@](O2)(C[C@H](CC3(C)C)O)C)/C)/C,10.1007/s11101-014-9349-1
+124,Agastache foeniculum,pulegone,C[C@@H]1CCC(=C(C)C)C(=O)C1,10.1007/s11101-014-9349-1
+125,Agastache mexicana,acacetin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,10.1007/s11101-014-9349-1
+126,Agastache mexicana,ursolic acid,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O,10.1007/s11101-014-9349-1
+127,Agastache mexicana,(+)-catechin,C1[C@@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,10.1007/s11101-014-9349-1
+128,Agastache mexicana,hesperetin,COC1=C(C=C(C=C1)[C@@H]2CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1007/s11101-014-9349-1
+129,Agastache mexicana,tilianin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O,10.1007/s11101-014-9349-1
+130,Agastache mexicana,salvigenin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)OC)OC)O,10.1007/s11101-014-9349-1
+131,Agastache mexicana,quercetin,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O,10.1007/s11101-014-9349-1
+132,Agastache mexicana,kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,10.1007/s11101-014-9349-1
+133,Agastache mexicana,apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1007/s11101-014-9349-1
+134,Agastache mexicana,estragole,COC1=CC=C(C=C1)CC=C,10.1007/s11101-014-9349-1
+135,Agastache mexicana,pulegone,C[C@@H]1CCC(=C(C)C)C(=O)C1,10.1007/s11101-014-9349-1
+136,Agastache mexicana,oleanolic acid,C[C@]12CC[C@@H](C([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)C)O,10.1007/s11101-014-9349-1
+137,Agastache rugosa,corosolic acid,C[C@@H]1CC[C@@]2(CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(C[C@H]([C@@H](C5(C)C)O)O)C)C)[C@@H]2[C@H]1C)C)C(=O)O,10.1007/s11101-014-9349-1
+138,Agastache rugosa,maslinic acid,C[C@@]12CC[C@@H]3[C@@]([C@H]1CC=C4[C@]2(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)(C[C@H]([C@@H](C3(C)C)O)O)C,10.1007/s11101-014-9349-1
+139,Agastache rugosa,linarin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)OC)O)O)O)O)O)O)O,10.1007/s11101-014-9349-1
+140,Agastache rugosa,daucosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C,10.1007/s11101-014-9349-1
+141,Agastache rugosa,viridiflorol,C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O,10.1007/s11101-014-9349-1
+142,Agastache rugosa,dehydroagastol,C[C@H]1CC[C@]2([C@H](C1=C)CC(=O)C3=C2C(=C(C(=C3O)C(=C)C)OC)O)C,10.1007/s11101-014-9349-1
+143,Agastache rugosa,β-muurolene,CC1=CC[C@H]2[C@@H](C1)[C@@H](CC=C2C)C(C)C,10.1007/s11101-014-9349-1
+144,Agastache rugosa,zeaxanthin,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(C[C@H](CC2(C)C)O)C)\C)\C)/C)/C,10.1007/s11101-014-9349-1
+145,Agastache rugosa,violaxanthin,C/C(=C\C=C\C=C(\C=C\C=C(\C=C\[C@@]12O[C@@]1(C[C@H](CC2(C)C)O)C)/C)/C)/C=C/C=C(/C=C/[C@@]34O[C@@]3(C[C@H](CC4(C)C)O)C)\C,10.1007/s11101-014-9349-1
+146,Agastache rugosa,lutein,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@H]2C(=C[C@@H](CC2(C)C)O)C)/C)/C,10.1007/s11101-014-9349-1
+147,Agastache rugosa,antheraxanthin,CC1=C(C(C[C@@H](C1)O)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/[C@]23[C@](O2)(C[C@H](CC3(C)C)O)C)/C)/C,10.1007/s11101-014-9349-1
+148,Agastache rugosa,β-carotene,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(CCCC2(C)C)C)\C)\C)/C)/C,10.1007/s11101-014-9349-1
+149,Agastache rugosa,elixene,CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C,10.1007/s11101-014-9349-1
+150,Agastache rugosa,β-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11101-014-9349-1
+151,Agastache rugosa,γ-muurolene,CC1=C[C@@H]2[C@H](CC1)C(=C)CC[C@H]2C(C)C,10.1007/s11101-014-9349-1
+153,Agastache scrophulariifolia,pulegone,C[C@@H]1CCC(=C(C)C)C(=O)C1,10.1007/s11101-014-9349-1
+154,Agastache nepetoides,δ-cadinol,CC1=C[C@H]2[C@@H](CC[C@@]([C@H]2CC1)(C)O)C(C)C,10.1007/s11101-014-9349-1
+155,Agastache nepetoides,spathulenol,C[C@@]1(CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C)O,10.1007/s11101-014-9349-1
+156,Agastache nepetoides,β-caryophyllene,C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,10.1007/s11101-014-9349-1
+157,Agastache pallida var. pallida,cirsimaritin,COC1=C(C(=C2C(=C1)OC(=CC2=O)C3=CC=C(C=C3)O)O)OC,10.1007/s11101-014-9349-1
+158,Agastache pallida var. pallida,acacetin,COC1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,10.1007/s11101-014-9349-1
+159,Codonopsis pilosula,angelicin,C1=CC2=C(C=CO2)C3=C1C=CC(=O)O3,10.1007/s11418-014-0861-9
+160,Codonopsis pilosula,psoralen,C1=CC(=O)OC2=CC3=C(C=CO3)C=C21,10.1007/s11418-014-0861-9
+161,Codonopsis pilosula,β-daucosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O)C)C)C(C)C,10.1007/s11418-014-0861-9
+162,Codonopsis pilosula,stigmast-7-en-3-one,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CCC4[C@@]3(CCC(=O)C4)C)C)C(C)C,10.1007/s11418-014-0861-9
+163,Codonopsis pilosula,emodin,CC1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=C(C=C3O)O,10.1007/s11418-014-0861-9
+164,Codonopsis pilosula,hesperidin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC(=C(C=C5)OC)O)O)O)O)O)O)O)O,10.1007/s11418-014-0861-9
+165,Codonopsis pilosula,uracil,C1=CNC(=O)NC1=O,10.1007/s11418-014-0861-9
+166,Codonopsis pilosula,geniposide,COC(=O)C1=CO[C@H]([C@H]2[C@@H]1CC=C2CO)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,10.1007/s11418-014-0861-9
+167,Codonopsis pilosula,stigmast-7-en-3-ol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CCC4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11418-014-0861-9
+168,Codonopsis pilosula,lobetyolinin,C/C=C/C#CC#CC(C(/C=C/CCCO)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)O,10.1007/s11418-014-0861-9
+169,Codonopsis pilosula,5-hydroxymethyl-2-furaldehyde,C1=C(OC(=C1)C=O)CO,10.1007/s11418-014-0861-9
+170,Codonopsis pilosula,1-friedelen-3-one,C[C@H]1C(=O)C=CC2[C@]1(C)CCC3[C@@]2(C)CCC4(C)C5CC(C)(C)CC[C@]5(C)CC[C@]34C,10.1007/s11418-014-0861-9
+171,Codonopsis pilosula,tryptophan,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,10.1007/s11418-014-0861-9
+172,Codonopsis pilosula,24-methylenecycloartan-3-ol,C[C@H](CCC(=C)C(C)C)[C@H]1CC[C@@]2([C@@]1(CC[C@]34[C@H]2CC[C@@H]5[C@]3(C4)CC[C@@H](C5(C)C)O)C)C,10.1007/s11418-014-0861-9
+173,Codonopsis pilosula,hexyl-β-d-glucopyranoside,CCCCCCO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O,10.1007/s11418-014-0861-9
+174,Codonopsis pilosula,"9,10,13-trihydroxy-(e)-octadec-11-enoic acid",CCCCCC(O)/C=C/C(O)C(O)CCCCCCCC(O)=O,10.1007/s11418-014-0861-9
+175,Codonopsis pilosula,radicamine a,COC1=C(C=C(C=C1)[C@@H]2[C@H]([C@@H]([C@H](N2)CO)O)O)O,10.1007/s11418-014-0861-9
+176,Codonopsis pilosula,succinic acid,C(CC(=O)O)C(=O)O,10.1007/s11418-014-0861-9
+177,Codonopsis pilosula subsp. pilosula,lobetyol,C/C=C/C#CC#CC(C(/C=C/CCCO)O)O,10.1007/s11418-014-0861-9
+178,Codonopsis pilosula subsp. pilosula,lobetyolin,C/C=C/C#CC#C[C@H]([C@@H](/C=C/CCCO)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O,10.1007/s11418-014-0861-9
+179,Codonopsis pilosula subsp. pilosula,lobetyolinin,C/C=C/C#CC#CC(C(/C=C/CCCO)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)O,10.1007/s11418-014-0861-9
+180,Codonopsis pilosula subsp. pilosula,tangshenoside i,C[C@](CC(=O)O)(CC(=O)OC/C=C/C1=CC(=C(C(=C1)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,10.1007/s11418-014-0861-9
+181,Codonopsis pilosula subsp. tangshen,lobetyol,C/C=C/C#CC#CC(C(/C=C/CCCO)O)O,10.1007/s11418-014-0861-9
+182,Codonopsis pilosula subsp. tangshen,tangshenoside iv,COc1cc(/C=C/Cc2c(\C=C\COC(=O)CC(C)(CC(O)=O)O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)cc(OC)c(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)c2OC)cc(OC)c1O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O,10.1007/s11418-014-0861-9
+183,Codonopsis pilosula subsp. tangshen,tangshenoside i,C[C@](CC(=O)O)(CC(=O)OC/C=C/C1=CC(=C(C(=C1)OC)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,10.1007/s11418-014-0861-9
+184,Codonopsis pilosula subsp. tangshen,tangshenoside ii,COC1=CC(=CC(=C1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)[C@@H](C=C)O,10.1007/s11418-014-0861-9
+185,Codonopsis pilosula subsp. tangshen,tangshenoside iii,COc1cc(\C=C\Cc2c(OC)c(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(OC)cc2/C=C/CO)cc(OC)c1O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O,10.1007/s11418-014-0861-9
+186,Codonopsis pilosula subsp. tangshen,lobetyolinin,C/C=C/C#CC#CC(C(/C=C/CCCO)OC1C(C(C(C(O1)COC2C(C(C(C(O2)CO)O)O)O)O)O)O)O,10.1007/s11418-014-0861-9
+187,Codonopsis pilosula subsp. tangshen,α-spinasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11418-014-0861-9
+188,Codonopsis pilosula subsp. tangshen,vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O,10.1007/s11418-014-0861-9
+189,Codonopsis pilosula subsp. tangshen,5-hydroxymethyl-2-furaldehyde,C1=C(OC(=C1)C=O)CO,10.1007/s11418-014-0861-9
+190,Codonopsis pilosula subsp. tangshen,taraxeryl acetate,CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@@H]5CC(CC[C@@]5(CC=C4[C@@]3(CC[C@H]2C1(C)C)C)C)(C)C)C)C,10.1007/s11418-014-0861-9
+191,Codonopsis lanceolata,eclalbasaponin xiii,COC(=O)[C@H]1O[C@@H](O[C@H]2CC[C@@]3(C)C(CC[C@]4(C)C3CC=C5[C@@H]6CC(C)(C)CC[C@@]6(C(O)CC45C)C(O)=O)C2(C)C)[C@H](O)[C@@H](O)[C@@H]1O,10.1007/s11418-014-0861-9
+192,Codonopsis lanceolata,friedelin,C[C@H]1C(=O)CC[C@@H]2[C@@]1(CC[C@H]3[C@]2(CC[C@@]4([C@@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C)C,10.1007/s11418-014-0861-9
+193,Codonopsis lanceolata,oleanolic acid,C[C@]12CC[C@@H](C([C@@H]1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)C)O,10.1007/s11418-014-0861-9
+194,Codonopsis lanceolata,tangshenoside iv,COc1cc(/C=C/Cc2c(\C=C\COC(=O)CC(C)(CC(O)=O)O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)cc(OC)c(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)c2OC)cc(OC)c1O[C@@H]5O[C@H](CO)[C@@H](O)[C@H](O)[C@H]5O,10.1007/s11418-014-0861-9
+195,Codonopsis lanceolata,"1,2,3,4-tetrahydro-β-carboline-3-carboxylic acid",C1C(NCC2=C1C3=CC=CC=C3N2)C(=O)O,10.1007/s11418-014-0861-9
+196,Codonopsis lanceolata,norharman,C1=CC=C2C(=C1)C3=C(N2)C=NC=C3,10.1007/s11418-014-0861-9
+197,Codonopsis lanceolata,tangshenoside iii,COc1cc(\C=C\Cc2c(OC)c(O[C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)c(OC)cc2/C=C/CO)cc(OC)c1O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O,10.1007/s11418-014-0861-9
+198,Codonopsis lanceolata,lobetyolin,C/C=C/C#CC#C[C@H]([C@@H](/C=C/CCCO)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O,10.1007/s11418-014-0861-9
+199,Codonopsis lanceolata,stigmasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11418-014-0861-9
+200,Codonopsis lanceolata,tryptophan,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,10.1007/s11418-014-0861-9
+201,Codonopsis lanceolata,shikimic acid,C1[C@H]([C@@H]([C@@H](C=C1C(=O)O)O)O)O,10.1007/s11418-014-0861-9
+202,Codonopsis cordifolioidea,isoconiferin,C/C=C/C1=CC(=C(C=C1)OC2C(C(C(C(O2)CO)O)O)O)OC,10.1007/s11418-014-0861-9
+203,Codonopsis foetens subsp. nervosa,luteolin-5-o-β-d-glucopyranoside,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C=C3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,10.1007/s11418-014-0861-9
+204,Codonopsis foetens subsp. nervosa,lupeol,CC(=C)[C@@H]1CC[C@]2([C@H]1[C@H]3CC[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)C,10.1007/s11418-014-0861-9
+205,Codonopsis foetens subsp. nervosa,kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,10.1007/s11418-014-0861-9
+206,Codonopsis foetens subsp. nervosa,3-o-caffeoylquinic acid,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1007/s11418-014-0861-9
+207,Codonopsis foetens subsp. nervosa,lobetyolin,C/C=C/C#CC#C[C@H]([C@@H](/C=C/CCCO)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O,10.1007/s11418-014-0861-9
+208,Codonopsis foetens subsp. nervosa,5-o-caffeoylquinic acid,C1[C@H]([C@@H]([C@@H](C[C@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1007/s11418-014-0861-9
+209,Codonopsis foetens subsp. nervosa,4-(β-d-glucopyranosyl)-benzoic acid,C1=CC(=CC=C1[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)C(=O)O,10.1007/s11418-014-0861-9
+210,Codonopsis foetens subsp. nervosa,syringin,COC1=CC(=CC(=C1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO,10.1007/s11418-014-0861-9
+211,Codonopsis foetens subsp. nervosa,zeorin,C[C@]12CC[C@@H]([C@@H]1CC[C@@]3([C@@H]2CC[C@H]4[C@]3(C[C@@H]([C@@H]5[C@@]4(CCCC5(C)C)C)O)C)C)C(C)(C)O,10.1007/s11418-014-0861-9
+212,Codonopsis foetens subsp. nervosa,β-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11418-014-0861-9
+213,Codonopsis foetens subsp. nervosa,apigenin-7-o-β-d-glucopyranoside,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1007/s11418-014-0861-9
+214,Codonopsis foetens subsp. nervosa,succinic acid,C(CC(=O)O)C(=O)O,10.1007/s11418-014-0861-9
+215,Codonopsis foetens subsp. nervosa,sweroside,C=C[C@@H]1[C@@H]2CCOC(=O)C2=CO[C@H]1O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O,10.1007/s11418-014-0861-9
+216,Codonopsis thalictrifolia,β-amyrin acetate,CC(=O)O[C@H]1CC[C@]2([C@H](C1(C)C)CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@H]4CC(CC5)(C)C)C)C)C)C,10.1007/s11418-014-0861-9
+217,Codonopsis thalictrifolia,luteolin-5-o-β-d-glucopyranoside,C1=CC(=C(C=C1C2=CC(=O)C3=C(O2)C=C(C=C3O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O,10.1007/s11418-014-0861-9
+218,Codonopsis thalictrifolia,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,10.1007/s11418-014-0861-9
+219,Codonopsis thalictrifolia,3-o-caffeoylquinic acid,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1007/s11418-014-0861-9
+220,Codonopsis thalictrifolia,lobetyolin,C/C=C/C#CC#C[C@H]([C@@H](/C=C/CCCO)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O)O,10.1007/s11418-014-0861-9
+221,Codonopsis thalictrifolia,caffeic acid,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,10.1007/s11418-014-0861-9
+222,Codonopsis thalictrifolia,syringin,COC1=CC(=CC(=C1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO,10.1007/s11418-014-0861-9
+223,Codonopsis thalictrifolia,α-spinasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1007/s11418-014-0861-9
+224,Codonopsis,chrysoeriol,COC1=C(C=CC(=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1007/s11418-014-0861-9
+225,Codonopsis,wogonin,COC1=C(C=C(C2=C1OC(=CC2=O)C3=CC=CC=C3)O)O,10.1007/s11418-014-0861-9
+226,Codonopsis,tricin,COC1=CC(=CC(=C1O)OC)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,10.1007/s11418-014-0861-9
+228,Salvia aurea,cis-β-guaiene,C[C@@H]1CCC(=C(C)C)CC2=C1CC[C@H]2C,10.1007/s13596-023-00726-x
+229,Salvia aurea,(z)-isoeugenol,C/C=C\C1=CC(=C(C=C1)O)OC,10.1007/s13596-023-00726-x
+230,Salvia aurea,p-cymen-8-ol,CC1=CC=C(C=C1)C(C)(C)O,10.1007/s13596-023-00726-x
+231,Salvia aurea,α-guaiene,C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(=C)C,10.1007/s13596-023-00726-x
+232,Salvia aurea,bornyl acetate,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C,10.1007/s13596-023-00726-x
+233,Salvia aurea,globulol,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]2(C)O,10.1007/s13596-023-00726-x
+234,Salvia aurea,β-amyrin,C[C@@]12CC[C@@]3(C(=CC[C@H]4[C@]3(CC[C@@H]5[C@@]4(CC[C@@H](C5(C)C)O)C)C)[C@@H]1CC(CC2)(C)C)C,10.1007/s13596-023-00726-x
+235,Salvia aurea,cis-sabinene hydrate,CC(C)[C@]12CC[C@@]([C@H]1C2)(C)O,10.1007/s13596-023-00726-x
+236,Salvia aurea,α-terpinene,CC1=CC=C(CC1)C(C)C,10.1007/s13596-023-00726-x
+237,Salvia aurea,"1,8-cineole",CC1(C2CCC(O1)(CC2)C)C,10.1007/s13596-023-00726-x
+238,Salvia aurea,germacrene d,C/C/1=C\CCC(=C)/C=C/[C@@H](CC1)C(C)C,10.1007/s13596-023-00726-x
+239,Salvia aurea,caryophyllene oxide,C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2,10.1007/s13596-023-00726-x
+240,Salvia aurea,cis-p-menth-2-en-1-ol,CC(C)[C@H]1CC[C@](C=C1)(C)O,10.1007/s13596-023-00726-x
+241,Salvia aurea,propanoic acid,CCC(=O)O,10.1007/s13596-023-00726-x
+242,Salvia aurea,α-cubebene,C[C@@H]1CC[C@H]([C@H]2[C@]13[C@@H]2C(=CC3)C)C(C)C,10.1007/s13596-023-00726-x
+243,Salvia aurea,1-epi-cubenol,CC1CCC(C2C1(CCC(=C2)C)O)C(C)C,10.1007/s13596-023-00726-x
+244,Salvia aurea,trans-carveol,CC1=CC[C@H](C[C@@H]1O)C(=C)C,10.1007/s13596-023-00726-x
+245,Salvia aurea,γ-gurjunene,C[C@@H]1CC[C@H](C=C2[C@@H]1CC[C@H]2C)C(=C)C,10.1007/s13596-023-00726-x
+246,Salvia aurea,aromadendrene,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,10.1007/s13596-023-00726-x
+247,Salvia aurea,pinocarvone,CC1(C2CC1C(=C)C(=O)C2)C,10.1007/s13596-023-00726-x
+248,Salvia aurea,trans-thujone,C[C@@H]1[C@@H]2C[C@@]2(CC1=O)C(C)C,10.1007/s13596-023-00726-x
+249,Salvia aurea,(z)-β-ocimene,CC(=CC/C=C(/C)\C=C)C,10.1007/s13596-023-00726-x
+250,Salvia aurea,salvianolic acid b,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C3[C@@H]([C@H](OC3=C(C=C2)O)C4=CC(=C(C=C4)O)O)C(=O)O[C@H](CC5=CC(=C(C=C5)O)O)C(=O)O)O)O,10.1007/s13596-023-00726-x
+251,Salvia aurea,sabinene,CC(C)C12CCC(=C)C1C2,10.1007/s13596-023-00726-x
+252,Salvia aurea,germacrene d-4-ol,C/C/1=C\CCC(/C=C/C(CC1)C(C)C)(C)O,10.1007/s13596-023-00726-x
+253,Salvia aurea,α-terpineol,CC1=CCC(CC1)C(C)(C)O,10.1007/s13596-023-00726-x
+254,Salvia aurea,yunnaneic acid d,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=C[C@@H]3[C@@H]([C@H]([C@H]2C(=O)[C@@H]3O)C(=O)O)C4=CC(=C(C=C4)O)O)O)O,10.1007/s13596-023-00726-x
+255,Salvia aurea,salvianolic acid k,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O[C@H]([C@@H](C3=CC(=C(C=C3)O)O)O)C(=O)O)O)O)O,10.1007/s13596-023-00726-x
+256,Salvia aurea,γ-cadinene,CC1=C[C@@H]2[C@@H](CC1)C(=C)CC[C@H]2C(C)C,10.1007/s13596-023-00726-x
+257,Salvia aurea,γ-terpinene,CC1=CCC(=CC1)C(C)C,10.1007/s13596-023-00726-x
+258,Salvia aurea,thymol,CC1=CC(=C(C=C1)C(C)C)O,10.1007/s13596-023-00726-x
+259,Salvia aurea,viridiflorol,C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@]2(C)O,10.1007/s13596-023-00726-x
+260,Salvia aurea,α-thujene,CC1=CCC2(C1C2)C(C)C,10.1007/s13596-023-00726-x
+261,Salvia aurea,danshensu,C1=CC(=C(C=C1C[C@H](C(=O)O)O)O)O,10.1007/s13596-023-00726-x
+262,Salvia aurea,α-muurolene,CC1=C[C@@H]2[C@H](CC1)C(=CC[C@H]2C(C)C)C,10.1007/s13596-023-00726-x
+263,Salvia aurea,germacrene b,C/C/1=C\CC/C(=C/CC(=C(C)C)CC1)/C,10.1007/s13596-023-00726-x
+265,Salvia aurea,methyl carnosate,CC(C)C1=C(C(=C2C(=C1)CC[C@@H]3[C@@]2(CCCC3(C)C)C(=O)OC)O)O,10.1007/s13596-023-00726-x
+266,Salvia aurea,luteolin-7-o-glucuronide,C1=CC(=C(C=C1C2=CC(=O)C3=C(C=C(C=C3O2)OC4C(C(C(C(O4)C(=O)O)O)O)O)O)O)O,10.1007/s13596-023-00726-x
+267,Salvia aurea,α-gurjunene,C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)C3=C(CC[C@H]13)C,10.1007/s13596-023-00726-x
+268,Salvia aurea,quinic acid,C1[C@H](C([C@@H](CC1(C(=O)O)O)O)O)O,10.1007/s13596-023-00726-x
+269,Salvia aurea,cis-thujone,C[C@H]1[C@@H]2C[C@]2(CC1=O)C(C)C,10.1007/s13596-023-00726-x
+270,Salvia aurea,tricyclene,CC1(C2CC3C1(C3C2)C)C,10.1007/s13596-023-00726-x
+271,Salvia aurea,verbenone,CC1=CC(=O)[C@@H]2C[C@H]1C2(C)C,10.1007/s13596-023-00726-x
+272,Salvia aurea,sagerinic acid,C1=CC(=C(C=C1CC(C(=O)O)OC(=O)C2C(C(C2C(=O)OC(CC3=CC(=C(C=C3)O)O)C(=O)O)C4=CC(=C(C=C4)O)O)C5=CC(=C(C=C5)O)O)O)O,10.1007/s13596-023-00726-x
+273,Salvia aurea,β-gurjunene,C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)[C@H]3[C@@H]1CCC3=C,10.1007/s13596-023-00726-x
+274,Salvia aurea,yunnaneic acid f,C1C(=O)O[C@@]2([C@]1([C@@H]3C=C([C@H]2[C@@H]([C@H]3C4=CC(=C(C=C4)O)O)C(=O)O)/C=C/C(=O)O[C@H](CC5=CC(=C(C=C5)O)O)C(=O)O)O)O,10.1007/s13596-023-00726-x
+275,Salvia aurea,"2,4-dimethyl benzenepropanoic acid",Cc1ccc(CCC(O)=O)c(C)c1,10.1007/s13596-023-00726-x
+276,Salvia aurea,oleanolic,C[C@]12CC[C@@H](C(C1CC[C@@]3([C@@H]2CC=C4[C@]3(CC[C@@]5([C@@H]4CC(CC5)(C)C)C(=O)O)C)C)(C)C)O[C@H]6[C@@H]([C@H]([C@H](CO6)O)O)O[C@@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O,10.1007/s13596-023-00726-x
+277,Salvia aurea,valencene,C[C@@H]1CCC=C2[C@]1(C[C@@H](CC2)C(=C)C)C,10.1007/s13596-023-00726-x
+278,Salvia aurea,"selina-3,7(11)-diene",CC1=CCC[C@]2([C@H]1CC(=C(C)C)CC2)C,10.1007/s13596-023-00726-x
+279,Salvia aurea,carvacrol,CC1=C(C=C(C=C1)C(C)C)O,10.1007/s13596-023-00726-x
+280,Salvia aurea,borneol,CC1(C2CCC1(C(C2)O)C)C,10.1007/s13596-023-00726-x
+281,Salvia aurea,β-himachalene,CC1=C[C@H]2C(=C(CCCC2(C)C)C)CC1,10.1007/s13596-023-00726-x
+282,Pimpinella anisum,naringin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=O)C[C@H](OC4=C3)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,10.1016/j.agrcom.2023.100003
+283,Pimpinella anisum,chlorogenic acid,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1016/j.agrcom.2023.100003
+284,Pimpinella anisum,linoleic acid,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,10.1016/j.agrcom.2023.100003
+285,Pimpinella anisum,rutin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,10.1016/j.agrcom.2023.100003
+286,Pimpinella anisum,γ-himachalene,CC1=CC2C(CC1)C(=CCCC2(C)C)C,10.1016/j.agrcom.2023.100003
+287,Pimpinella anisum,oleic acid,CCCCCCCC/C=C\CCCCCCCC(=O)O,10.1016/j.agrcom.2023.100003
+288,Pimpinella anisum,petroselinic acid,CCCCCCCCCCC/C=C\CCCCC(=O)O,10.1016/j.agrcom.2023.100003
+289,Pimpinella anisum,rosmarinic acid,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1016/j.agrcom.2023.100003
+290,Pimpinella anisum,coumarin,C1=CC=C2C(=C1)C=CC(=O)O2,10.1016/j.agrcom.2023.100003
+291,Pimpinella anisum,palmitic acid,CCCCCCCCCCCCCCCC(=O)O,10.1016/j.agrcom.2023.100003
+292,Nigella sativa,β-caryophyllene,C/C/1=C\CCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,10.1016/j.biopha.2021.112182
+293,Nigella sativa,cis-thujopsene,CC1=CC[C@@]2(CCCC([C@]23[C@H]1C3)(C)C)C,10.1016/j.biopha.2021.112182
+294,Nigella sativa,trans-cinnamic acid,C1=CC=C(C=C1)/C=C/C(=O)O,10.1016/j.biopha.2021.112182
+295,Nigella sativa,citronellyl acetate,CC(CCC=C(C)C)CCOC(=O)C,10.1016/j.biopha.2021.112182
+296,Nigella sativa,bornyl acetate,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C,10.1016/j.biopha.2021.112182
+297,Nigella sativa,γ-himachalene,CC1=CC2C(CC1)C(=CCCC2(C)C)C,10.1016/j.biopha.2021.112182
+298,Nigella sativa,α-curcumene,CC1=CC=C(C=C1)C(C)CCC=C(C)C,10.1016/j.biopha.2021.112182
+299,Nigella sativa,apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1016/j.biopha.2021.112182
+300,Nigella sativa,(e)-cinnamaldehyde,C1=CC=C(C=C1)/C=C/C=O,10.1016/j.biopha.2021.112182
+301,Nigella sativa,cis-sabinene hydrate,CC(C)[C@]12CC[C@@]([C@H]1C2)(C)O,10.1016/j.biopha.2021.112182
+302,Nigella sativa,iso-longifolene,CC1(CCC=C2[C@@]13CC[C@@H](C3)C2(C)C)C,10.1016/j.biopha.2021.112182
+303,Nigella sativa,p-cymene-8-ol,CC1=CC=C(C=C1)C(C)(C)O,10.1016/j.biopha.2021.112182
+304,Nigella sativa,epicatechin,C1[C@H]([C@H](OC2=CC(=CC(=C21)O)O)C3=CC(=C(C=C3)O)O)O,10.1016/j.biopha.2021.112182
+305,Nigella sativa,"1-ethyl-2,3-dimethyl benzene",CCc1cccc(C)c1C,10.1016/j.biopha.2021.112182
+306,Nigella sativa,neryl acetate,CC(=CCC/C(=C\COC(=O)C)/C)C,10.1016/j.biopha.2021.112182
+307,Nigella sativa,terpinolene,CC1=CCC(=C(C)C)CC1,10.1016/j.biopha.2021.112182
+308,Nigella sativa,α-terpinene,CC1=CC=C(CC1)C(C)C,10.1016/j.biopha.2021.112182
+309,Nigella sativa,"1,8-cineole",CC1(C2CCC(O1)(CC2)C)C,10.1016/j.biopha.2021.112182
+310,Nigella sativa,"(z,e)-farnesyl acetate",CC(=CCC/C(=C/CC/C(=C\COC(=O)C)/C)/C)C,10.1016/j.biopha.2021.112182
+311,Nigella sativa,geranyl acetone,CC(=CCC/C(=C/CCC(=O)C)/C)C,10.1016/j.biopha.2021.112182
+312,Nigella sativa,pentyl hexadec-12-enoate,CCCCCOC(=O)CCCCCCCCCCC=CCCC,10.1016/j.biopha.2021.112182
+313,Nigella sativa,geranial,CC(=CCC/C(=C/C=O)/C)C,10.1016/j.biopha.2021.112182
+314,Nigella sativa,rosmarinic acid,C1=CC(=C(C=C1C[C@H](C(=O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1016/j.biopha.2021.112182
+315,Nigella sativa,nerol,CC(=CCC/C(=C\CO)/C)C,10.1016/j.biopha.2021.112182
+316,Nigella sativa,chrysin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O,10.1016/j.biopha.2021.112182
+317,Nigella sativa,2-undecanone,CCCCCCCCCC(=O)C,10.1016/j.biopha.2021.112182
+318,Nigella sativa,δ-cadinene,CC1=C[C@H]2[C@@H](CCC(=C2CC1)C)C(C)C,10.1016/j.biopha.2021.112182
+319,Nigella sativa,benzaldehyde,C1=CC=C(C=C1)C=O,10.1016/j.biopha.2021.112182
+320,Nigella sativa,trans-carveol,CC1=CC[C@H](C[C@@H]1O)C(=C)C,10.1016/j.biopha.2021.112182
+321,Nigella sativa,trans-α-bergamotene,CC1=CC[C@H]2C[C@@H]1[C@]2(C)CCC=C(C)C,10.1016/j.biopha.2021.112182
+322,Nigella sativa,chlorogenic acid,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1016/j.biopha.2021.112182
+323,Nigella sativa,flavone,C1=CC=C(C=C1)C2=CC(=O)C3=CC=CC=C3O2,10.1016/j.biopha.2021.112182
+324,Nigella sativa,umbellulone,CC1=CC(=O)C2(C1C2)C(C)C,10.1016/j.biopha.2021.112182
+325,Nigella sativa,caffeic acid,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,10.1016/j.biopha.2021.112182
+326,Nigella sativa,aromadendrene,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CCC2=C,10.1016/j.biopha.2021.112182
+327,Nigella sativa,pinocarvone,CC1(C2CC1C(=C)C(=O)C2)C,10.1016/j.biopha.2021.112182
+328,Nigella sativa,myrtenol,CC1(C2CC=C(C1C2)CO)C,10.1016/j.biopha.2021.112182
+329,Nigella sativa,davanone,CC(C1CCC(O1)(C)C=C)C(=O)CC=C(C)C,10.1016/j.biopha.2021.112182
+330,Nigella sativa,"1,5,8-p-menthatriene",CC1=CCC(C=C1)C(=C)C,10.1016/j.biopha.2021.112182
+331,Nigella sativa,trans-β-terpineol,CC(=C)C1CCC(CC1)(C)O,10.1016/j.biopha.2021.112182
+332,Nigella sativa,δ-7-stigmasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3C2=CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1016/j.biopha.2021.112182
+333,Nigella sativa,cuminaldehyde,CC(C)C1=CC=C(C=C1)C=O,10.1016/j.biopha.2021.112182
+334,Nigella sativa,p-coumaric acid,C1=CC(=CC=C1/C=C/C(=O)O)O,10.1016/j.biopha.2021.112182
+335,Nigella sativa,β-pinene oxide,CC1(C2CCC3(C1C2)CO3)C,10.1016/j.biopha.2021.112182
+336,Nigella sativa,amentoflavone,C1=CC(=CC=C1C2=CC(=O)C3=C(O2)C(=C(C=C3O)O)C4=C(C=CC(=C4)C5=CC(=O)C6=C(C=C(C=C6O5)O)O)O)O,10.1016/j.biopha.2021.112182
+337,Nigella sativa,α-zingiberene,CC1=CC[C@H](C=C1)[C@H](C)CCC=C(C)C,10.1016/j.biopha.2021.112182
+338,Nigella sativa,protocatechuic acid,C1=CC(=C(C=C1C(=O)O)O)O,10.1016/j.biopha.2021.112182
+339,Nigella sativa,dl-arabinose,C(C(C(C(C=O)O)O)O)O,10.1016/j.biopha.2021.112182
+340,Nigella sativa,thymohydroquinone dimethylether,COC.CC(C)c1cc(O)c(C)cc1O,10.1016/j.biopha.2021.112182
+341,Nigella sativa,α-terpineol,CC1=CCC(CC1)C(C)(C)O,10.1016/j.biopha.2021.112182
+342,Nigella sativa,pentyl pentadec-11-enoate,CCCCCOC(=O)CCCCCCCCC/C=C\CCC,10.1016/j.biopha.2021.112182
+343,Nigella sativa,p-cymen-7-ol,CC(C)C1=CC=C(C=C1)CO,10.1016/j.biopha.2021.112182
+344,Nigella sativa,dodecanal,CCCCCCCCCCCC=O,10.1016/j.biopha.2021.112182
+345,Nigella sativa,p-cymenene,CC1=CC=C(C=C1)C(=C)C,10.1016/j.biopha.2021.112182
+346,Nigella sativa,butyric acid hexadecyl ester,CCCCCCCCCCCCCCCCOC(=O)CCC,10.1016/j.biopha.2021.112182
+347,Nigella sativa,5-hydroxybenzoic acid,OC(=O)c1cccc(O)c1,10.1016/j.biopha.2021.112182
+348,Nigella sativa,α-humulene,C/C/1=C\CC(/C=C/C/C(=C/CC1)/C)(C)C,10.1016/j.biopha.2021.112182
+349,Nigella sativa,β-elemene,CC(=C)[C@@H]1CC[C@@]([C@@H](C1)C(=C)C)(C)C=C,10.1016/j.biopha.2021.112182
+350,Nigella sativa,salicylic acid,C1=CC=C(C(=C1)C(=O)O)O,10.1016/j.biopha.2021.112182
+351,Nigella sativa,α-copaene,CC1=CC[C@H]2[C@H]3C1[C@]2(CC[C@H]3C(C)C)C,10.1016/j.biopha.2021.112182
+352,Nigella sativa,gallic acid,C1=C(C=C(C(=C1O)O)O)C(=O)O,10.1016/j.biopha.2021.112182
+353,Nigella sativa,eugenol,COC1=C(C=CC(=C1)CC=C)O,10.1016/j.biopha.2021.112182
+354,Nigella sativa,γ-elemene,CC(=C1CC[C@]([C@H](C1)C(=C)C)(C)C=C)C,10.1016/j.biopha.2021.112182
+355,Nigella sativa,myricetin,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,10.1016/j.biopha.2021.112182
+356,Nigella sativa,trans-piperitol,CC1=C[C@@H]([C@H](CC1)C(C)C)O,10.1016/j.biopha.2021.112182
+357,Nigella sativa,β-bisabolol,CC1=CC[C@@](CC1)([C@@H](C)CCC=C(C)C)O,10.1016/j.biopha.2021.112182
+358,Nigella sativa,n-tetradecane,CCCCCCCCCCCCCC,10.1016/j.biopha.2021.112182
+359,Nigella sativa,sinapinic acid,COC1=CC(=CC(=C1O)OC)/C=C\C(=O)O,10.1016/j.biopha.2021.112182
+360,Nigella sativa,cis-piperitol,CC1=C[C@@H]([C@@H](CC1)C(C)C)O,10.1016/j.biopha.2021.112182
+361,Nigella sativa,trans-dihydrocarvone,C[C@@H]1CC[C@H](CC1=O)C(=C)C,10.1016/j.biopha.2021.112182
+362,Nigella sativa,tetradecanal,CCCCCCCCCCCCCC=O,10.1016/j.biopha.2021.112182
+363,Nigella sativa,vanillic acid,COC1=C(C=CC(=C1)C(=O)O)O,10.1016/j.biopha.2021.112182
+364,Nigella sativa,3-hydroxybenzoic acid,C1=CC(=CC(=C1)O)C(=O)O,10.1016/j.biopha.2021.112182
+365,Nigella sativa,linalool,CC(=CCCC(C)(C=C)O)C,10.1016/j.biopha.2021.112182
+366,Nigella sativa,cis-carveol,CC1=CC[C@H](C[C@H]1O)C(=C)C,10.1016/j.biopha.2021.112182
+367,Nigella sativa,methyl linoleate,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,10.1016/j.biopha.2021.112182
+368,Nigella sativa,methyl eugenol,COC1=C(C=C(C=C1)CC=C)OC,10.1016/j.biopha.2021.112182
+369,Nigella sativa,(z)-caryophyllene,C/C/1=C\CCC(=C)[C@H]2CC([C@H]2CC1)(C)C,10.1016/j.biopha.2021.112182
+370,Nigella sativa,camphor,CC1(C2CCC1(C(=O)C2)C)C,10.1016/j.biopha.2021.112182
+371,Nigella sativa,naringenin,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=C(C=C3)O,10.1016/j.biopha.2021.112182
+372,Nigella sativa,p-dihydroxybenzoic acid,C1C=C(C=CC1(C(=O)O)O)O,10.1016/j.biopha.2021.112182
+373,Nigella sativa,trans-sabinene hydrate,CC(C)[C@@]12CC[C@@]([C@@H]1C2)(C)O,10.1016/j.biopha.2021.112182
+374,Nigella sativa,cis-carvyl acetate,CC1=CC[C@H](C[C@H]1OC(=O)C)C(=C)C,10.1016/j.biopha.2021.112182
+375,Nigella sativa,pinocembrin,C1[C@H](OC2=CC(=CC(=C2C1=O)O)O)C3=CC=CC=C3,10.1016/j.biopha.2021.112182
+376,Nigella sativa,coumarin,C1=CC=C2C(=C1)C=CC(=O)O2,10.1016/j.biopha.2021.112182
+378,Nigella sativa,methyl geranate,CC(=CCC/C(=C/C(=O)OC)/C)C,10.1016/j.biopha.2021.112182
+379,Nigella sativa,α-himachalene,CC1=CC2C(CC1)C(=C)CCCC2(C)C,10.1016/j.biopha.2021.112182
+380,Nigella sativa,β-farnesene,CC(=CCC/C(=C/CCC(=C)C=C)/C)C,10.1016/j.biopha.2021.112182
+381,Nigella sativa,trans-sabinene hydrate acetate,CC(C)[C@@]12CC[C@](C1C2)(C)OC(=O)C,10.1016/j.biopha.2021.112182
+382,Nigella sativa,(z)-isoeugenol acetate,COc1cc(\C=C/C)ccc1O.CC(O)=O,10.1016/j.biopha.2021.112182
+383,Nigella sativa,tricyclene,CC1(C2CC3C1(C3C2)C)C,10.1016/j.biopha.2021.112182
+384,Nigella sativa,pimaradiene,C[C@]1(CC[C@H]2C(=C1)CC[C@@H]3[C@@]2(CCCC3(C)C)C)C=C,10.1016/j.biopha.2021.112182
+385,Nigella sativa,syringic acid,COC1=CC(=CC(=C1O)OC)C(=O)O,10.1016/j.biopha.2021.112182
+386,Nigella sativa,citronellyl n-butyrate,CCCC(=O)OCCC(C)CCC=C(C)C,10.1016/j.biopha.2021.112182
+387,Nigella sativa,kaempferol,C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O,10.1016/j.biopha.2021.112182
+388,Nigella sativa,4-hydroxybenzoic acid,C1=CC(=CC=C1C(=O)O)O,10.1016/j.biopha.2021.112182
+389,Nigella sativa,"(e,e)-farnesyl acetate",CC(=CCC/C(=C/CC/C(=C/COC(=O)C)/C)/C)C,10.1016/j.biopha.2021.112182
+390,Nigella sativa,cyclosativene,CC(C)C1CCC2(C3C1C4C2(C4C3)C)C,10.1016/j.biopha.2021.112182
+391,Nigella sativa,eicosadienoic acid,CCCCC/C=C\C/C=C\CCCCCCCCCC(=O)O,10.1016/j.biopha.2021.112182
+392,Nigella sativa,galangin,C1=CC=C(C=C1)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,10.1016/j.biopha.2021.112182
+393,Nigella sativa,3-methyl nonane,CCCCCCC(C)CC,10.1016/j.biopha.2021.112182
+394,Nigella sativa,n-decane,CCCCCCCCCC,10.1016/j.biopha.2021.112182
+395,Nigella sativa,1-methyl-3-propyl benzene,CCCc1cccc(C)c1,10.1016/j.biopha.2021.112182
+396,Nigella sativa,β-bisabolene,CC1=CC[C@H](CC1)C(=C)CCC=C(C)C,10.1016/j.biopha.2021.112182
+397,Nigella sativa,trans-2-hydroxycinnamic acid,C1=CC=C(C(=C1)/C=C/C(=O)O)O,10.1016/j.biopha.2021.112182
+398,Nigella sativa,n-decanoic acid,CCCCCCCCCC(=O)O,10.1016/j.biopha.2021.112182
+399,Nigella sativa,α-ionone,CC1=CCCC(C1/C=C/C(=O)C)(C)C,10.1016/j.biopha.2021.112182
+400,Nigella sativa,"methylnonadeca-15,17-dienoate",COC(=O)CCCCCCCCCCCCCC=CC=CC,10.1016/j.biopha.2021.112182
+401,Nigella sativa,n-hexadecane,CCCCCCCCCCCCCCCC,10.1016/j.biopha.2021.112182
+402,Nigella sativa,thymohydroquinone methyl ether,COC.CC(C)c1cc(O)c(C)cc1O,10.1016/j.biopha.2021.112182
+403,Nigella sativa,borneol,CC1(C2CCC1(C(C2)O)C)C,10.1016/j.biopha.2021.112182
+404,Nigella sativa,camphene,CC1(C2CCC(C2)C1=C)C,10.1016/j.biopha.2021.112182
+405,Rehmannia solanifolia,catalpol,C1=CO[C@H]([C@H]2[C@@H]1[C@@H]([C@H]3[C@@]2(O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,10.1016/j.bse.2006.11.003
+406,Rehmannia solanifolia,verbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,10.1016/j.bse.2006.11.003
+407,Rehmannia solanifolia,ajugol,C[C@@]1(C[C@H]([C@H]2[C@@H]1[C@@H](OC=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O,10.1016/j.bse.2006.11.003
+408,Rehmannia piasezkii,catalpol,C1=CO[C@H]([C@H]2[C@@H]1[C@@H]([C@H]3[C@@]2(O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,10.1016/j.bse.2006.11.003
+409,Rehmannia piasezkii,verbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,10.1016/j.bse.2006.11.003
+410,Rehmannia piasezkii,catalpol,C1=CO[C@H]([C@H]2[C@@H]1[C@@H]([C@H]3[C@@]2(O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,10.1016/j.bse.2006.11.003
+411,Rehmannia piasezkii,verbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,10.1016/j.bse.2006.11.003
+412,Rehmannia piasezkii,ajugol,C[C@@]1(C[C@H]([C@H]2[C@@H]1[C@@H](OC=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)O)O,10.1016/j.bse.2006.11.003
+413,Rehmannia chingii,catalpol,C1=CO[C@H]([C@H]2[C@@H]1[C@@H]([C@H]3[C@@]2(O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,10.1016/j.bse.2006.11.003
+414,Rehmannia chingii,verbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,10.1016/j.bse.2006.11.003
+415,Rehmannia henryi,catalpol,C1=CO[C@H]([C@H]2[C@@H]1[C@@H]([C@H]3[C@@]2(O3)CO)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O,10.1016/j.bse.2006.11.003
+416,Rehmannia henryi,verbascoside,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H](O[C@@H]([C@H]2OC(=O)/C=C/C3=CC(=C(C=C3)O)O)CO)OCCC4=CC(=C(C=C4)O)O)O)O)O)O,10.1016/j.bse.2006.11.003
+417,Gymnanthemum amygdalinum,neocryptolepine,CN1C2=CC=CC=C2C=C3C1=NC4=CC=CC=C43,10.1016/j.ccmp.2021.100006
+418,Gymnanthemum amygdalinum,isocryptolepine,CN1C=C2C3=CC=CC=C3N=C2C4=CC=CC=C41,10.1016/j.ccmp.2021.100006
+419,Gymnanthemum amygdalinum,chlorogenic acid,C1[C@H]([C@H]([C@@H](C[C@@]1(C(=O)O)O)OC(=O)/C=C/C2=CC(=C(C=C2)O)O)O)O,10.1016/j.ccmp.2021.100006
+420,Gymnanthemum amygdalinum,diosmetin,COC1=C(C=C(C=C1)C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1016/j.ccmp.2021.100006
+421,Gymnanthemum amygdalinum,1-fluorononane,CCCCCCCCCF,10.1016/j.ccmp.2021.100006
+422,Gymnanthemum amygdalinum,hexadecanamide,CCCCCCCCCCCCCCCC(=O)N,10.1016/j.ccmp.2021.100006
+423,Gymnanthemum amygdalinum,2-methyl-3-hexanol,CCCC(C(C)C)O,10.1016/j.ccmp.2021.100006
+424,Gymnanthemum amygdalinum,glucuronolactone,C(=O)[C@@H]([C@@H]1[C@@H]([C@@H](C(=O)O1)O)O)O,10.1016/j.ccmp.2021.100006
+425,Gymnanthemum amygdalinum,baicalin,C1=CC=C(C=C1)C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O,10.1016/j.ccmp.2021.100006
+426,Gymnanthemum amygdalinum,4-methoxycinnamic acid,COC1=CC=C(C=C1)/C=C/C(=O)O,10.1016/j.ccmp.2021.100006
+427,Gymnanthemum amygdalinum,7-hydroxycoumarine,C1=CC(=CC2=C1C=CC(=O)O2)O,10.1016/j.ccmp.2021.100006
+428,Gymnanthemum amygdalinum,"1,3-cyclooctadiene",C1C/C=C\C=C/CC1,10.1016/j.ccmp.2021.100006
+429,Gymnanthemum amygdalinum,cryptolepine,CN1C2=CC=CC=C2C=C3C1=C4C=CC=CC4=N3,10.1016/j.ccmp.2021.100006
+430,Gymnanthemum amygdalinum,apigenin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O)O)O,10.1016/j.ccmp.2021.100006
+431,Gymnanthemum amygdalinum,4-methylumbelliferyl glucuronide,CC1=CC(=O)OC2=C1C=CC(=C2)O[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)C(=O)O)O)O)O,10.1016/j.ccmp.2021.100006
+432,Gymnanthemum amygdalinum,3-methyl-isoquinoline,CC1=CC2=CC=CC=C2C=N1,10.1016/j.ccmp.2021.100006
+433,Gymnanthemum amygdalinum,scutellarin,C1=CC(=CC=C1C2=CC(=O)C3=C(C(=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)C(=O)O)O)O)O)O)O)O,10.1016/j.ccmp.2021.100006
+434,Gymnanthemum amygdalinum,1-hexanamine,CCCCCCN,10.1016/j.ccmp.2021.100006
+435,Gymnanthemum amygdalinum,rhoifolin,C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=CC(=C4C(=C3)OC(=CC4=O)C5=CC=C(C=C5)O)O)CO)O)O)O)O)O,10.1016/j.ccmp.2021.100006
+436,Gymnanthemum amygdalinum,phytol,C[C@@H](CCC[C@@H](C)CCC/C(=C/CO)/C)CCCC(C)C,10.1016/j.ccmp.2021.100006
+437,Gymnanthemum amygdalinum,4-methylumbelliferone,CC1=CC(=O)OC2=C1C=CC(=C2)O,10.1016/j.ccmp.2021.100006
+438,Gymnanthemum amygdalinum,nicotinic acid,C1=CC(=CN=C1)C(=O)O,10.1016/j.ccmp.2021.100006
+439,Gymnanthemum amygdalinum,apigetrin,C1=CC(=CC=C1C2=CC(=O)C3=C(C=C(C=C3O2)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O,10.1016/j.ccmp.2021.100006
+440,Gymnanthemum amygdalinum,pentanoic acid,CCCCC(=O)O,10.1016/j.ccmp.2021.100006
+441,Gymnanthemum amygdalinum,cumidine,CC(C)C1=CC=C(C=C1)N,10.1016/j.ccmp.2021.100006
+442,Gymnanthemum amygdalinum,dimethylamine,CNC,10.1016/j.ccmp.2021.100006
+443,Gymnanthemum amygdalinum,2-pentanol,CCCC(C)O,10.1016/j.ccmp.2021.100006
+444,Gymnanthemum amygdalinum,vernomenin,C=C[C@]12C[C@H]3[C@H]([C@@H]([C@H]1C(=C)C(=O)OC2)O)C(=C)C(=O)O3,10.1016/j.ccmp.2021.100006
+445,Homalanthus acuminatus,"ent-16s,17-dihydroxykauran-3-one",C[C@@]12CCC(=O)C([C@H]1CC[C@]34[C@H]2CC[C@H](C3)[C@@](C4)(CO)O)(C)C,10.1016/j.fitote.2023.105466
+446,Homalanthus acuminatus,"ent-3s-hydroxy-atis-16(17)-en-1,4-dione",C[C@@]12CC(=O)[C@H](C([C@H]1CC[C@]34[C@H]2C[C@H](CC3=O)C(=C)C4)(C)C)O,10.1016/j.fitote.2023.105466
+447,Homalanthus nervosus,β-stigmasterol,CC[C@H](/C=C/[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1016/j.fitote.2023.105466
+448,Homalanthus nervosus,scoparone,COC1=C(C=C2C(=C1)C=CC(=O)O2)OC,10.1016/j.fitote.2023.105466
+449,Homalanthus nervosus,hyperoside,C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O[C@H]4[C@@H]([C@H]([C@H]([C@H](O4)CO)O)O)O)O)O,10.1016/j.fitote.2023.105466
+450,Homalanthus polyandrus,β-sitosterol,CC[C@H](CC[C@@H](C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)O)C)C)C(C)C,10.1016/j.fitote.2023.105466
+451,Securidaca,caffeic acid,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,10.1016/j.jep.2015.02.041

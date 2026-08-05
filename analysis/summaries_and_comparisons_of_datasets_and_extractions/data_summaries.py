@@ -338,8 +338,8 @@ def main():
     # for_lotus = for_lotus.rename(columns={'compound_name': 'chemical_entity_name', 'SMILES': 'chemical_entity_smiles',
     #                                       'accepted_name': 'taxon_name', 'DOI': 'reference_doi'})
     # for_lotus.to_csv(
-    #     os.path.join('summaries', 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers_for_lotus',
-    #                  'occurrences_for_lotus.csv'))
+    #     os.path.join('submissions_to_lotus',
+    #                  'manually_checked_colombian_papers_for_lotus.csv'))
 
 
 if __name__ == '__main__':

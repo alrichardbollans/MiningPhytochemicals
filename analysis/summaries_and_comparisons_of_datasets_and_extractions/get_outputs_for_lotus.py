@@ -43,7 +43,7 @@ def main():
     standardised_results = get_standardised_correct_results_for_lotus(
         os.path.join('..','evaluate_deepseek_performance','manual_matching_results','manual results after accepted filter', 'pchem hits not in WD or KN', 'tmpb_78d0y5.csv'), convert_json_filename_to_DOI)
     print(standardised_results)
-    standardised_results.to_csv('pchem_hits_for_lotus.csv')
+    standardised_results.to_csv('submissions_to_lotus/pchem_hits_for_lotus1.csv')
 
 
 if __name__ == '__main__':
