@@ -148,3 +148,306 @@ json_file,taxon_name,accepted_name,compound_name,inchikey,decision
 10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache rugosa (fisch. & c.a.mey.) kuntze,Agastache rugosa,lutein,KBPHJBAIARWVSC-RGZFRNHPSA-N,Yes
 10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache rugosa (fisch. & c.a.mey.) kuntze,Agastache rugosa,antheraxanthin,OFNSUWBAQRCHAV-OYQUVCAXSA-N,Yes
 10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache rugosa (fisch. & c.a.mey.) kuntze,Agastache rugosa,β-carotene,OENHQHLEOONYIE-JLTXGRSLSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache rugosa (fisch. & c.a.mey.) kuntze,Agastache rugosa,elixene,BQSLMQNYHVFRDT-UHFFFAOYSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache rugosa (fisch. & c.a.mey.) kuntze,Agastache rugosa,β-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache rugosa (fisch. & c.a.mey.) kuntze,Agastache rugosa,γ-muurolene,WRHGORWNJGOVQY-ZNMIVQPWSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache scrophulariifolia (willd.) kuntze,Agastache scrophulariifolia,estragole,ZFMSMUAANRJZFM-UHFFFAOYSA-N,No
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache scrophulariifolia (willd.) kuntze,Agastache scrophulariifolia,pulegone,NZGWDASTMWDZIW-MRVPVSSYSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache nepetoides (l.) kuntze,Agastache nepetoides,δ-cadinol,LHYHMMRYTDARSZ-ZQDZILKHSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache nepetoides (l.) kuntze,Agastache nepetoides,spathulenol,FRMCCTDTYSRUBE-BGPZULBFSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache nepetoides (l.) kuntze,Agastache nepetoides,β-caryophyllene,NPNUFJAVOOONJE-GFUGXAQUSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache pallida (lindl.) cory var. pallida,Agastache pallida var. pallida,cirsimaritin,ZIIAJIWLQUVGHB-UHFFFAOYSA-N,Yes
+10.1007%2Fs11101-014-9349-1_not_in_WD_KN.json,agastache pallida (lindl.) cory var. pallida,Agastache pallida var. pallida,acacetin,DANYIYRPLHHOCZ-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,angelicin,XDROKJSWHURZGO-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,psoralen,ZCCUUQDIBDJBTK-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,β-daucosterol,NPJICTMALKLTFW-OFUAXYCQSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,stigmast-7-en-3-one,JWANJDUXWSJWER-XOLJFFFDSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,emodin,RHMXXJGYXNZAPX-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,hesperidin,QUQPHWDTPGMPEX-QJBIFVCTSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,uracil,ISAKRJDGNUQOIC-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,geniposide,IBFYXTRXDNAPMM-BVTMAQQCSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,stigmast-7-en-3-ol,YSKVBPGQYRAUQO-NEWNUQLJSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,lobetyolinin,GDLSOFWVVAOUJI-FWTOVJONSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,5-hydroxymethyl-2-furaldehyde,NOEGNKMFWQHSLB-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,1-friedelen-3-one,MBWGRAHRCWMYAX-LKQHUAAUSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,24-methylenecycloartan-3-ol,BDHQMRXFDYJGII-UEBIAWITSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,hexyl-β-d-glucopyranoside,JVAZJLFFSJARQM-RMPHRYRLSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,"9,10,13-trihydroxy-(e)-octadec-11-enoic acid",NTVFQBIHLSPEGQ-BUHFOSPRSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,radicamine a,NEAQPVOYHYPSER-FAQVLOEFSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula (franch.) nannf,Codonopsis pilosula,succinic acid,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula nannf. var. modesta (nannf.) l. d. shen,Codonopsis pilosula subsp. pilosula,lobetyol,RKOQCMNXJZJWBU-FWTOVJONSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula nannf. var. modesta (nannf.) l. d. shen,Codonopsis pilosula subsp. pilosula,lobetyolin,MMMUDYVKKPDZHS-MXFZCOKBSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula nannf. var. modesta (nannf.) l. d. shen,Codonopsis pilosula subsp. pilosula,lobetyolinin,GDLSOFWVVAOUJI-FWTOVJONSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis pilosula nannf. var. modesta (nannf.) l. d. shen,Codonopsis pilosula subsp. pilosula,tangshenoside i,ABKPQICIFGNRAA-FPFGLZQYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,lobetyol,RKOQCMNXJZJWBU-FWTOVJONSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,tangshenoside iv,ULGBUJXRALOERZ-BDQUBQEQSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,tangshenoside i,ABKPQICIFGNRAA-FPFGLZQYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,tangshenoside ii,MATKEAOBTGAMFZ-VEHOAVMDSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,tangshenoside iii,ARZBVSLYYBTHNA-XQRJDITASA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,lobetyolinin,GDLSOFWVVAOUJI-FWTOVJONSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,α-spinasterol,JZVFJDZBLUFKCA-FXIAWGAOSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,vanillic acid,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,5-hydroxymethyl-2-furaldehyde,NOEGNKMFWQHSLB-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tangshen oliv,Codonopsis pilosula subsp. tangshen,taraxeryl acetate,YWJGYBXHXATAQY-BOTWUFHUSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,eclalbasaponin xiii,UKUKDKRGVVIVIE-SCEQNQSVSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,friedelin,OFMXGFHWLZPCFL-SVRPQWSVSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,oleanolic acid,MIJYXULNPSFWEK-GTOFXWBISA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,tangshenoside iv,ULGBUJXRALOERZ-BDQUBQEQSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,"1,2,3,4-tetrahydro-β-carboline-3-carboxylic acid",FSNCEEGOMTYXKY-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,norharman,AIFRHYZBTHREPW-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,tangshenoside iii,ARZBVSLYYBTHNA-XQRJDITASA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,lobetyolin,MMMUDYVKKPDZHS-MXFZCOKBSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,stigmasterol,HCXVJBMSMIARIN-PHZDYDNGSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,tryptophan,QIVBCDIJIAJPQS-VIFPVBQESA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis lanceolata (sieb. et zucc.) benth. & hook. f. ex trautv,Codonopsis lanceolata,shikimic acid,JXOHGGNKMLTUBP-HSUXUTPPSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis cordifolioidea,Codonopsis cordifolioidea,isoconiferin,KEOQVSSHVYLFJO-ONEGZZNKSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,luteolin-5-o-β-d-glucopyranoside,KBGKQZVCLWKUDQ-QNDFHXLGSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,lupeol,MQYXUWHLBZFQQO-QGTGJCAVSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,3-o-caffeoylquinic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,lobetyolin,MMMUDYVKKPDZHS-MXFZCOKBSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,5-o-caffeoylquinic acid,CWVRJTMFETXNAD-NXLLHMKUSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,4-(β-d-glucopyranosyl)-benzoic acid,SWYCIYFAARWVPM-ZIQFBCGOSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,syringin,QJVXKWHHAMZTBY-GCPOEHJPSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,zeorin,KYBLAIAGFNCVHL-PMVHANJISA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,β-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,apigenin-7-o-β-d-glucopyranoside,KMOUJOKENFFTPU-RSRIQPTJSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,succinic acid,KDYFGRWQOYBRFD-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis nervosa,Codonopsis foetens subsp. nervosa,sweroside,VSJGJMKGNMDJCI-ZASXJUAOSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,β-amyrin acetate,UMRPOGLIBDXFNK-ZYGITSNFSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,luteolin-5-o-β-d-glucopyranoside,KBGKQZVCLWKUDQ-QNDFHXLGSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,3-o-caffeoylquinic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,lobetyolin,MMMUDYVKKPDZHS-MXFZCOKBSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,caffeic acid,QAIPRVGONGVQAS-DUXPYHPUSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,syringin,QJVXKWHHAMZTBY-GCPOEHJPSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis thalictrifolia,Codonopsis thalictrifolia,α-spinasterol,JZVFJDZBLUFKCA-FXIAWGAOSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis xundianensis,Codonopsis,chrysoeriol,SCZVLDHREVKTSH-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis xundianensis,Codonopsis,wogonin,XLTFNNCXVBYBSX-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis xundianensis,Codonopsis,tricin,HRGUSFBJBOKSML-UHFFFAOYSA-N,Yes
+10.1007%2Fs11418-014-0861-9_not_in_WD_KN.json,codonopsis tubulosa,Codonopsis tubulosa,lobetyolin,MMMUDYVKKPDZHS-MXFZCOKBSA-N,No
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,cis-β-guaiene,GIBQERSGRNPMEH-VXGBXAGGSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,(z)-isoeugenol,BJIOGJUNALELMI-ARJAWSKDSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,p-cymen-8-ol,XLPDVYGDNRIQFV-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-guaiene,ADIDQIZBYUABQK-RWMBFGLXSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,bornyl acetate,KGEKLUUHTZCSIP-HOSYDEDBSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,globulol,AYXPYQRXGNDJFU-QTPLKFIXSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,β-amyrin,JFSHUTJDVKUMTJ-QHPUVITPSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,cis-sabinene hydrate,KXSDPILWMGFJMM-GUBZILKMSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-terpinene,YHQGMYUVUMAZJR-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,"1,8-cineole",WEEGYLXZBRQIMU-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,germacrene d,GAIBLDCXCZKKJE-RXJOXMPGSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,caryophyllene oxide,NVEQFIOZRFFVFW-RGCMKSIDSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,cis-p-menth-2-en-1-ol,IZXYHAXVIZHGJV-NXEZZACHSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,propanoic acid,XBDQKXXYIPTUBI-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-cubebene,XUEHVOLRMXNRKQ-KHMAMNHCSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,1-epi-cubenol,COGPRPSWSKLKTF-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,trans-carveol,BAVONGHXFVOKBV-ZJUUUORDSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,γ-gurjunene,DUYRYUZIBGFLDD-AAVRWANBSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,aromadendrene,ITYNGVSTWVVPIC-XVIXHAIJSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,pinocarvone,TZDMGBLPGZXHJI-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,trans-thujone,USMNOWBWPHYOEA-XKSSXDPKSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,(z)-β-ocimene,IHPKGUQCSIINRJ-NTMALXAHSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,salvianolic acid b,SNKFFCBZYFGCQN-VWUOOIFGSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,sabinene,NDVASEGYNIMXJL-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,germacrene d-4-ol,RHCTXHCNRLCYBN-BMCYRRRCSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-terpineol,WUOACPNHFRMFPN-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,yunnaneic acid d,WSNGPQNYHJVZGN-VEVJYFSBSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,salvianolic acid k,AZOCLKLJIKZOLF-ZPOOTWMUSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,γ-cadinene,WRHGORWNJGOVQY-KKUMJFAQSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,γ-terpinene,YKFLAYDHMOASIY-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,thymol,MGSRCZKZVOBKFT-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,viridiflorol,AYXPYQRXGNDJFU-IMNVLQEYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-thujene,KQAZVFVOEIRWHN-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,danshensu,PAFLSMZLRSPALU-MRVPVSSYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-muurolene,QMAYBMKBYCGXDH-ZNMIVQPWSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,germacrene b,GXEGJTGWYVZSNR-SJRHNVSNSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,hydrate,KNXAKZGJNLAYCJ-FDGPNNRMSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,methyl carnosate,IIJLVJMZYPZQLW-YCRPNKLZSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,luteolin-7-o-glucuronide,VSUOKLTVXQRUSG-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,α-gurjunene,SPCXZDDGSGTVAW-XIDUGBJDSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,quinic acid,AAWZDTNXLSGCEK-LNVDRNJUSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,cis-thujone,USMNOWBWPHYOEA-NRPADANISA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,tricyclene,RRBYUSWBLVXTQN-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,verbenone,DCSCXTJOXBUFGB-SFYZADRCSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,sagerinic acid,SUYLTDFWHNXGDX-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,β-gurjunene,IRCZVRWQUNZGSH-DKTYCGPESA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,yunnaneic acid f,WBHJCHGJGDMNFI-KLFGPECSSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,"2,4-dimethyl benzenepropanoic acid",KNPUGELUZIPXCW-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,oleanolic,GXWUEMSASMVWKO-GNLHUFSQSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,valencene,QEBNYNLSCGVZOH-NFAWXSAZSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,"selina-3,7(11)-diene",WNRBYZQFEBIUGD-LSDHHAIUSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,carvacrol,RECUKUPTGUEGMW-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,borneol,DTGKSKDOIYIVQL-UHFFFAOYSA-N,Yes
+10.1007%2Fs13596-023-00726-x_not_in_WD_KN.json,salvia africana-lutea l,Salvia aurea,β-himachalene,LCOSCMLXPAQCLQ-AWEZNQCLSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,naringin,DFPMSGMNTNDNHN-ZPHOTFPESA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,chlorogenic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,linoleic acid,OYHQOLUKZRVURQ-HZJYTTRNSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,rutin,IKGXIBQEEMLURG-NVPNHPEKSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,γ-himachalene,PUWNTRHCKNHSAT-UHFFFAOYSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,oleic acid,ZQPPMHVWECSIRJ-KTKRTIGZSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,petroselinic acid,CNVZJPUDSLNTQU-SEYXRHQNSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,rosmarinic acid,DOUMFZQKYFQNTF-WUTVXBCWSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.agrcom.2023.100003_not_in_WD_KN.json,pimpinella anisum l,Pimpinella anisum,palmitic acid,IPCSVZSSVZVIGE-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,β-caryophyllene,NPNUFJAVOOONJE-GFUGXAQUSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cis-thujopsene,WXQGPFZDVCRBME-QEJZJMRPSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-cinnamic acid,WBYWAXJHAXSJNI-VOTSOKGWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,citronellyl acetate,JOZKFWLRHCDGJA-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,bornyl acetate,KGEKLUUHTZCSIP-HOSYDEDBSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,γ-himachalene,PUWNTRHCKNHSAT-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-curcumene,VMYXUZSZMNBRCN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,(e)-cinnamaldehyde,KJPRLNWUNMBNBZ-QPJJXVBHSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cis-sabinene hydrate,KXSDPILWMGFJMM-GUBZILKMSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,iso-longifolene,CQUAYTJDLQBXCQ-NHYWBVRUSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,p-cymene-8-ol,XLPDVYGDNRIQFV-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,epicatechin,PFTAWBLQPZVEMU-UKRRQHHQSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"1-ethyl-2,3-dimethyl benzene",QUBBAXISAHIDNM-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,neryl acetate,HIGQPQRQIQDZMP-FLIBITNWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,terpinolene,MOYAFQVGZZPNRA-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-terpinene,YHQGMYUVUMAZJR-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"1,8-cineole",WEEGYLXZBRQIMU-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"(z,e)-farnesyl acetate",ZGIGZINMAOQWLX-HDVIWIBHSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,geranyl acetone,HNZUNIKWNYHEJJ-FMIVXFBMSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,pentyl hexadec-12-enoate,IGGCZPGKDZKTPZ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,geranial,WTEVQBCEXWBHNA-JXMROGBWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,rosmarinic acid,DOUMFZQKYFQNTF-WUTVXBCWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,nerol,GLZPCOQZEFWAFX-YFHOEESVSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,chrysin,RTIXKCRFFJGDFG-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,2-undecanone,KYWIYKKSMDLRDC-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,δ-cadinene,FUCYIEXQVQJBKY-ZFWWWQNUSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,benzaldehyde,HUMNYLRZRPPJDN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-carveol,BAVONGHXFVOKBV-ZJUUUORDSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-α-bergamotene,YMBFCQPIMVLNIU-SOUVJXGZSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,chlorogenic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,flavone,VHBFFQKBGNRLFZ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,umbellulone,LTTVJAQLCIHAFV-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,caffeic acid,QAIPRVGONGVQAS-DUXPYHPUSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,aromadendrene,ITYNGVSTWVVPIC-XVIXHAIJSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,pinocarvone,TZDMGBLPGZXHJI-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,myrtenol,RXBQNMWIQKOSCS-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,davanone,FJKKZNIYYVEYOL-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"1,5,8-p-menthatriene",NJLNIOKPXKKALD-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-β-terpineol,RUJPNZNXGCHGID-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,δ-7-stigmasterol,OQMZNAMGEHIHNN-CIFIHVIMSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cuminaldehyde,WTWBUQJHJGUZCY-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,p-coumaric acid,NGSWKAQJJWESNS-ZZXKWVIFSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,β-pinene oxide,OUXAABAEPHHZPC-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,amentoflavone,YUSWMAULDXZHPY-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-zingiberene,KKOXKGNSUHTUBV-CABCVRRESA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,protocatechuic acid,YQUVCSBJEUQKSH-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,dl-arabinose,PYMYPHUHKUWMLA-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,thymohydroquinone dimethylether,VBOKLYBFDDVUCS-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-terpineol,WUOACPNHFRMFPN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,pentyl pentadec-11-enoate,OCNJRUIKKDPVLN-FPLPWBNLSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,p-cymen-7-ol,OIGWAXDAPKFNCQ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,dodecanal,HFJRKMMYBMWEAD-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,p-cymenene,MMSLOZQEMPDGPI-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,butyric acid hexadecyl ester,NJVKAQGGBANCKG-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,5-hydroxybenzoic acid,IJFXRHURBJZNAO-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-humulene,FAMPSKZZVDUYOS-HRGUGZIWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,β-elemene,OPFTUNCRGUEPRZ-QLFBSQMISA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,salicylic acid,YGSDEFSMJLZEOE-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-copaene,VLXDPFLIRFYIME-XIQJJJERSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,gallic acid,LNTHITQWFMADLM-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,eugenol,RRAFCDWBNXTKKO-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,γ-elemene,BQSLMQNYHVFRDT-CABCVRRESA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,myricetin,IKMDFBPHZNJCSN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-piperitol,HPOHAUWWDDPHRS-ZJUUUORDSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,β-bisabolol,WTVHAMTYZJGJLJ-LSDHHAIUSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,n-tetradecane,BGHCVCJVXZWKCC-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,sinapinic acid,PCMORTLOPMLEFB-ARJAWSKDSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cis-piperitol,HPOHAUWWDDPHRS-UWVGGRQHSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-dihydrocarvone,GCRTVIUGJCJVDD-IUCAKERBSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,tetradecanal,UHUFTBALEZWWIH-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,vanillic acid,WKOLLVMJNQIZCI-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,3-hydroxybenzoic acid,IJFXRHURBJZNAO-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,linalool,CDOSHBSSFJOMGT-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cis-carveol,BAVONGHXFVOKBV-NXEZZACHSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,methyl linoleate,WTTJVINHCBCLGX-NQLNTKRDSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,methyl eugenol,ZYEMGPIYFIJGTP-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,(z)-caryophyllene,NPNUFJAVOOONJE-BLOBHPOZSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,camphor,DSSYKIVIOFKYAU-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,naringenin,FTVWIRXFELQLPI-ZDUSSCGKSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,p-dihydroxybenzoic acid,JUHCRMVGMSHJSY-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-sabinene hydrate,KXSDPILWMGFJMM-CBMCFHRWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cis-carvyl acetate,YTHRBOFHFYZBRJ-VXGBXAGGSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,pinocembrin,URFCJEUYXNAHFI-ZDUSSCGKSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,coumarin,ZYGHJZDHTFUPRJ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"4,5-epoxy-1-isopropyl-4-methyl-1-cyclohexene",JVQQTQFGLBPBSV-UHFFFAOYSA-N,Pass
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,methyl geranate,ACOBBFVLNKYODD-CSKARUKUSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-himachalene,ZJSIKVDEOWWVEH-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,β-farnesene,JSNRRGGBADWTMC-NTCAYCPXSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-sabinene hydrate acetate,MYCFGFMJUUNKBN-RAMGSTBQSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,(z)-isoeugenol acetate,BQEJGEKBRHVBKA-LNKPDPKZSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,tricyclene,RRBYUSWBLVXTQN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,pimaradiene,XDSYKASBVOZOAG-RAUXBKROSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,syringic acid,JMSVCTWVEWCHDZ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,citronellyl n-butyrate,XQPZQXTWYZAXAK-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,kaempferol,IYRMWMYZSQPJKC-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,4-hydroxybenzoic acid,FJKROLUGYXJWQN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"(e,e)-farnesyl acetate",ZGIGZINMAOQWLX-NCZFFCEISA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,cyclosativene,XBWACJDEQIZTPR-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,eicosadienoic acid,XSXIVVZCUAHUJO-HZJYTTRNSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,galangin,VCCRNZQBSJXYJD-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,3-methyl nonane,PLZDDPSCZHRBOY-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,n-decane,DIOQZVSQGTUSAI-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,1-methyl-3-propyl benzene,QUEBYVKXYIKVSO-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,β-bisabolene,XZRVRYFILCSYSP-OAHLLOKOSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,trans-2-hydroxycinnamic acid,PMOWTIHVNWZYFI-AATRIKPKSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,n-decanoic acid,GHVNFZFCNZKVNT-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,α-ionone,UZFLPKAIBPNNCA-BQYQJAHWSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,"methylnonadeca-15,17-dienoate",BDWYJHVGEIPXSA-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,n-hexadecane,DCAYPVUWAIABOU-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,thymohydroquinone methyl ether,VBOKLYBFDDVUCS-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,borneol,DTGKSKDOIYIVQL-UHFFFAOYSA-N,Yes
+10.1016%2Fj.biopha.2021.112182_not_in_WD_KN.json,nigella sativa l,Nigella sativa,camphene,CRPUJAZIXJMDBK-UHFFFAOYSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia solanifolia,Rehmannia solanifolia,catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia solanifolia,Rehmannia solanifolia,verbascoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia solanifolia,Rehmannia solanifolia,ajugol,VELYAQRXBJLJAK-XKKWFBPMSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia piasezkii,Rehmannia piasezkii,catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia piasezkii,Rehmannia piasezkii,verbascoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia elata,Rehmannia piasezkii,catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia elata,Rehmannia piasezkii,verbascoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia elata,Rehmannia piasezkii,ajugol,VELYAQRXBJLJAK-XKKWFBPMSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia chingii,Rehmannia chingii,catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia chingii,Rehmannia chingii,verbascoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia henryi,Rehmannia henryi,catalpol,LHDWRKICQLTVDL-PZYDOOQISA-N,Yes
+10.1016%2Fj.bse.2006.11.003_not_in_WD_KN.json,rehmannia henryi,Rehmannia henryi,verbascoside,FBSKJMQYURKNSU-ZLSOWSIRSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,neocryptolepine,PZIIKMBOSNKNFZ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,isocryptolepine,GLYLOCYYFNTVGX-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,chlorogenic acid,CWVRJTMFETXNAD-JUHZACGLSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,diosmetin,MBNGWHIJMBWFHU-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,1-fluorononane,ITPAUTYYXIENLO-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,hexadecanamide,HSEMFIZWXHQJAE-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,2-methyl-3-hexanol,RGRUUTLDBCWYBL-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,glucuronolactone,UYUXSRADSPPKRZ-SKNVOMKLSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,baicalin,IKIIZLYTISPENI-ZFORQUDYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,4-methoxycinnamic acid,AFDXODALSZRGIH-QPJJXVBHSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,7-hydroxycoumarine,ORHBXUUXSCNDEV-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,"1,3-cyclooctadiene",RRKODOZNUZCUBN-CCAGOZQPSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,cryptolepine,KURWKDDWCJELSV-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,apigenin,KZNIFHPLKGYRTM-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,4-methylumbelliferyl glucuronide,ARQXEQLMMNGFDU-JHZZJYKESA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,3-methyl-isoquinoline,FVVXWRGARUACNW-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,scutellarin,DJSISFGPUUYILV-ZFORQUDYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,1-hexanamine,BMVXCPBXGZKUPN-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,rhoifolin,RPMNUQRUHXIGHK-PYXJVEIZSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,phytol,BOTWFXYSPFMFNR-PYDDKJGSSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,4-methylumbelliferone,HSHNITRMYYLLCV-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,nicotinic acid,PVNIIMVLHYAWGP-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,apigetrin,KMOUJOKENFFTPU-QNDFHXLGSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,pentanoic acid,NQPDZGIKBAWPEJ-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,cumidine,LRTFPLFDLJYEKT-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,dimethylamine,ROSDSFDQCJNGOL-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,2-pentanol,JYVLIDXNZAXMDK-UHFFFAOYSA-N,Yes
+10.1016%2Fj.ccmp.2021.100006_not_in_WD_KN.json,vernonia amygdalina l,Gymnanthemum amygdalinum,vernomenin,OLUMHNYQQSDTDB-MVIRXUPPSA-N,Yes
+10.1016%2Fj.fitote.2023.105466_not_in_WD_KN.json,homalanthus acuminatus (müll. arg.) pax,Homalanthus acuminatus,"ent-16s,17-dihydroxykauran-3-one",MPDUJZZNNBJFAB-XYYNDNLRSA-N,Yes
+10.1016%2Fj.fitote.2023.105466_not_in_WD_KN.json,homalanthus acuminatus (müll. arg.) pax,Homalanthus acuminatus,"ent-3s-hydroxy-atis-16(17)-en-1,4-dione",DSGJNNDCMDMSTM-KKVGBOLFSA-N,Yes
+10.1016%2Fj.fitote.2023.105466_not_in_WD_KN.json,homalanthus nervosus j.j. sm,Homalanthus nervosus,β-stigmasterol,HCXVJBMSMIARIN-PHZDYDNGSA-N,Yes
+10.1016%2Fj.fitote.2023.105466_not_in_WD_KN.json,homalanthus nervosus j.j. sm,Homalanthus nervosus,scoparone,GUAFOGOEJLSQBT-UHFFFAOYSA-N,Yes
+10.1016%2Fj.fitote.2023.105466_not_in_WD_KN.json,homalanthus nervosus j.j. sm,Homalanthus nervosus,hyperoside,OVSQVDMCBVZWGM-DTGCRPNFSA-N,Yes
+10.1016%2Fj.fitote.2023.105466_not_in_WD_KN.json,homalanthus polyandrus (hook. f. ex müll. arg.) g. nicholson,Homalanthus polyandrus,β-sitosterol,KZJWDPNRJALLNS-VJSFXXLFSA-N,Yes
+10.1016%2Fj.jep.2015.02.041_not_in_WD_KN.json,securidaca longipedunculata fresen,Securidaca,caffeic acid,QAIPRVGONGVQAS-DUXPYHPUSA-N,Yes
