@@ -328,6 +328,7 @@ def main():
     # summarise_underlying_text_data(list(get_sanitised_dois_for_colombian_papers().keys()),
     #                                'deepseek_after_accepted_filter_and_manually_checked_colombian_papers')
     # ## To upload to LOTUS
+    ## I have now made a utility function for this (get_standardised_correct_results_for_lotus)
     # for_lotus = colombian_manually_checked_results.dropna(subset=['SMILES'])
     # summarise(for_lotus, 'deepseek_after_accepted_filter_and_manually_checked_colombian_papers_for_lotus',
     #           output_data=True)
