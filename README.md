@@ -4,6 +4,8 @@ A repo to analyse data linking compounds, the plants they occur in and the scien
 
 The LLM extraction methods are provided in https://github.com/alrichardbollans/phytochemMiner
 
+The analysis is described in [A Scalable Large Language Model‐Aided Approach for Mining Plant‐Compound Pairs From Scientific Literature](www.doi.org/10.1002/ppp3.70266).
+
 ### Graphical Overview
 
 ![DATA_COLLECTION.png](Figs/DATA_COLLECTION.png)
