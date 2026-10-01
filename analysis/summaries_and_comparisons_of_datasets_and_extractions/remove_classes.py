@@ -23,7 +23,7 @@ def main():
     all_classes_lower = get_classes()
 
     remove_classes('summaries/deepseek_after_accepted_filter_phytochem_papers', all_classes_lower)
-    remove_classes('summaries/deepseek_after_accepted_filter_phytochem_papers_not_in_other_sources', all_classes_lower)
+    remove_classes('summaries/ds_acptd_filter_pchem_papers_not_in_other_sources', all_classes_lower)
 
 
 if __name__ == '__main__':
