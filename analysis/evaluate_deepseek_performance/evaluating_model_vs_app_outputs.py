@@ -18,7 +18,7 @@ def get_precision_scores(case, with_filter: bool):
     #     results = results[results['colombian_species']]
 
     found_pairs = results[results['decision'] == 'Yes']
-    not_found_pairs = results[results['decision'] == 'No']
+    not_found_pairs = results[results['decision'] != 'Yes']
 
     problem_compounds = not_found_pairs['compound_name'].unique().tolist()
     assert len(set(found_pairs['json_file'].tolist() + not_found_pairs['json_file'].tolist())) >= 7
@@ -32,31 +32,33 @@ def get_precision_scores(case, with_filter: bool):
     print(f'Precision: {precision}')
 
     ref_count = len(results['json_file'].unique().tolist())
-    return precision, true_positives, false_positives, total, problem_compounds, ref_count
+
+    out_df = pd.DataFrame({'model': ['deepseek'], 'precision': [precision], 'total extracted pairs': [total]
+                              , 'true_positives': [true_positives],
+                           'false_positives': [false_positives], 'problem_compounds': [problem_compounds],
+                           'ref_count': [ref_count], 'Notes': ['']})
+
+    return out_df
 
 
 def analyse_cases(with_filter: bool):
-    deepseek_score, true_positives, false_positives, total, problem_compounds,  ref_count = get_precision_scores(
-        'validation cases', with_filter)
-    out_df = pd.DataFrame({'model': ['deepseek'], 'precision': [deepseek_score], 'total extracted pairs': [total],
-                           'true_positives': [true_positives],
-                           'false_positives': [false_positives],
-                           'problem_compounds': [problem_compounds], 'ref_count': [ref_count],
+    out_df = get_precision_scores(
+        'pchem hits not in WD or KN', with_filter=True)
 
-                           'Notes': ['']})
+    out_df.to_csv(os.path.join('outputs after accepted filter', 'model_scores_on_phytochem_papers_not_in_other_sources.csv'))
+
     if with_filter:
         out_dir = os.path.join('outputs after accepted filter')
     else:
         out_dir = os.path.join('outputs without filter')
 
+    out_df = get_precision_scores(
+        'validation cases', with_filter)
+
     out_df.to_csv(os.path.join(out_dir, 'model_scores_on_validation_data.csv'))
 
-    deepseek_score, true_positives, false_positives, total, problem_compounds,  ref_count = get_precision_scores(
+    out_df = get_precision_scores(
         'colombian papers', with_filter)
-    out_df = pd.DataFrame({'model': ['deepseek'], 'precision': [deepseek_score], 'total extracted pairs': [total]
-                              , 'true_positives': [true_positives],
-                           'false_positives': [false_positives], 'problem_compounds': [problem_compounds],
-                           'ref_count': [ref_count], 'Notes': ['']})
     out_df.to_csv(os.path.join(out_dir, 'model_scores_on_colombian_papers.csv'))
 
 
